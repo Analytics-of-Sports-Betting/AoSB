@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,BAL 24,3,2:18,6,Punt
+2,1,9:36,BAL 20,3,2:03,4,Punt
+3,1,6:42,CLE 10,1,0:04,10,Touchdown
+4,1,2:21,BAL 26,3,1:40,-3,Punt
+5,2,13:34,BAL 22,5,2:45,39,Fumble
+6,2,8:42,BAL 7,8,4:24,93,Touchdown
+7,2,2:45,BAL 26,10,2:34,74,Touchdown
+8,3,12:18,CLE 46,7,4:24,-2,Punt
+9,3,4:01,BAL 36,3,2:04,9,Punt
+10,4,13:23,BAL 37,3,1:35,0,Punt
+11,4,9:36,CLE 38,6,3:40,38,Touchdown
+12,4,4:34,BAL 35,3,2:19,-3,Punt

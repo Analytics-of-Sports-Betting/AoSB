@@ -1,0 +1,184 @@
+Quarter,Time,Down,ToGo,Location,DET,DAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Cowboys won the coin toss and deferred, Lions to receive the opening kickoff.",,
+1,15:00,,,DAL 35,0,0,"Brandon Aubrey kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,DET 25,0,0,David Montgomery up the middle for no gain (tackle by DeMarcus Lawrence),0.610,0.060
+1,14:28,2,10,DET 25,0,0,Jared Goff pass incomplete short right intended for Josh Reynolds,0.060,-0.620
+1,14:24,3,10,DET 25,0,0,Jared Goff pass complete short middle to Kalif Raymond for 11 yards (tackle by Donovan Wilson and Jourdan Lewis),-0.620,1.330
+1,13:51,1,10,DET 36,0,0,Jared Goff pass complete deep middle to Amon-Ra St. Brown for 23 yards (tackle by DaRon Bland),1.330,2.850
+1,13:04,1,10,DAL 41,0,0,David Montgomery right guard for 7 yards (tackle by Micah Parsons),2.850,3.250
+1,12:29,2,3,DAL 34,0,0,David Montgomery right guard for no gain (tackle by Micah Parsons),3.250,2.540
+1,11:53,,,,,,Timeout #1 by Dallas Cowboys,,
+1,11:53,3,3,DAL 34,0,0,David Montgomery up the middle for 11 yards (tackle by Jayron Kearse),2.540,4.040
+1,11:16,1,10,DAL 23,0,0,Jared Goff pass incomplete short left intended for Jahmyr Gibbs,4.040,3.500
+1,11:12,2,10,DAL 23,0,0,Jared Goff pass incomplete short right intended for Sam LaPorta (defended by Jayron Kearse),3.500,2.810
+1,11:09,3,10,DAL 23,0,0,"Jared Goff pass complete short left to Jahmyr Gibbs for no gain (tackle by Jourdan Lewis). Penalty on Jonah Jackson: Offensive Illegal Block Above the Waist, 15 yards (declined)",2.810,1.930
+1,10:50,4,10,DAL 23,3,0,Michael Badgley 41 yard field goal good,1.930,3.000
+1,10:46,,,DET 35,3,0,"Jack Fox kicks off 65 yards, touchback.",0.000,0.610
+1,10:46,1,10,DAL 25,3,0,Dak Prescott pass complete short middle to Jake Ferguson for 8 yards (tackle by Alex Anzalone),0.610,1.140
+1,10:15,2,2,DAL 33,3,0,Tony Pollard left end for -2 yards (tackle by Aidan Hutchinson and Alex Anzalone),1.140,0.170
+1,9:33,3,4,DAL 31,3,0,Dak Prescott pass complete short right to CeeDee Lamb for 31 yards (tackle by Cameron Sutton),0.170,3.050
+1,8:56,1,10,DET 38,3,0,Dak Prescott pass complete short left to Peyton Hendershot for 6 yards (tackle by Kerby Joseph),3.050,3.320
+1,8:16,2,4,DET 32,3,0,Dak Prescott pass incomplete deep right intended for Brandin Cooks,3.320,2.610
+1,8:10,3,4,DET 32,3,0,Dak Prescott pass short right intended for CeeDee Lamb is intercepted by Ifeatu Melifonwu at DET-19 and returned for 24 yards (tackle by CeeDee Lamb),2.610,-1.800
+1,7:59,1,10,DET 43,3,0,Jahmyr Gibbs up the middle for 2 yards (tackle by Osa Odighizuwa and Jourdan Lewis),1.800,1.520
+1,7:16,2,8,DET 45,3,0,Jared Goff pass complete short left to Amon-Ra St. Brown for 13 yards (tackle by Donovan Wilson and DeMarcus Lawrence),1.520,2.790
+1,6:40,1,10,DAL 42,3,0,Jameson Williams right end for 6 yards (tackle by Jourdan Lewis),2.790,3.050
+1,5:55,2,4,DAL 36,3,0,Jahmyr Gibbs left guard for -4 yards (tackle by Micah Parsons),3.050,1.820
+1,5:15,3,8,DAL 40,3,0,Jared Goff sacked by Dorance Armstrong for -7 yards,1.820,0.130
+1,4:36,4,15,DAL 47,3,0,"Jack Fox punts 36 yards, fair catch by KaVontae Turpin at DAL-11",0.130,0.370
+1,4:28,1,10,DAL 11,3,0,Tony Pollard right guard for -3 yards (tackle by Kindle Vildor),-0.370,-1.000
+1,3:46,2,13,DAL 8,3,0,Dak Prescott pass incomplete deep right intended for Jake Ferguson (defended by Kerby Joseph),-1.000,-1.770
+1,3:40,3,13,DAL 8,3,6,"Dak Prescott pass complete deep right to CeeDee Lamb for 92 yards, touchdown",-1.770,7.000
+1,3:26,,,DET 15,3,7,Brandon Aubrey kicks extra point good,0.000,0.000
+1,3:26,,,DAL 35,3,7,"Brandon Aubrey kicks off 65 yards, touchback.",0.000,0.610
+1,3:26,1,10,DET 25,3,7,David Montgomery up the middle for 5 yards (tackle by Donovan Wilson and Markquese Bell),0.610,0.740
+1,2:51,2,5,DET 30,3,7,"Penalty on Graham Glasgow: False Start, 5 yards (accepted) (no play)",0.740,0.060
+1,2:36,2,10,DET 25,3,7,Jared Goff pass complete short middle to Sam LaPorta for 8 yards (tackle by Damone Clark and Jourdan Lewis),0.060,0.430
+1,1:58,3,2,DET 33,3,7,David Montgomery up the middle for -3 yards (tackle by Dante Fowler),0.430,-1.370
+1,1:17,4,5,DET 30,3,7,"Jack Fox punts 70 yards, touchback.",-1.370,-0.280
+1,1:07,1,10,DAL 20,3,7,"Penalty on Jake Ferguson: False Start, 5 yards (accepted) (no play)",0.280,-0.310
+1,1:07,1,15,DAL 15,3,7,Dak Prescott pass complete short right to Tony Pollard for no gain (tackle by Alex Anzalone),-0.310,-1.070
+1,0:34,2,15,DAL 15,3,7,Dak Prescott pass incomplete deep middle intended for Jake Ferguson (defended by Brian Branch),-1.070,-1.860
+1,0:28,3,15,DAL 15,3,7,Tony Pollard left end for no gain (tackle by Derrick Barnes),-1.860,-2.440
+Quarter,Time,Down,ToGo,Location,DET,DAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,4,15,DAL 15,3,7,"Bryan Anger punts 50 yards, returned by Kalif Raymond for 7 yards (tackle by Juanyeh Thomas)",-2.440,-1.730
+2,14:49,1,10,DET 42,3,7,Jared Goff pass complete deep left to Amon-Ra St. Brown for 20 yards (tackle by DaRon Bland),1.730,3.050
+2,14:12,1,10,DAL 38,3,7,Jared Goff pass short left intended for David Montgomery is intercepted by Jourdan Lewis at DAL-46 and returned for no gain (tackle by David Montgomery),3.050,-1.990
+2,14:04,1,10,DAL 46,3,7,Dak Prescott pass complete deep left to Brandin Cooks for 21 yards (tackle by Kerby Joseph),1.990,3.380
+2,13:24,1,10,DET 33,3,7,Tony Pollard left guard for 5 yards (tackle by Jack Campbell and Benito Jones),3.380,3.510
+2,12:43,2,5,DET 28,3,7,Dak Prescott pass complete short right to Brandin Cooks for 8 yards (tackle by Cameron Sutton),3.510,4.240
+2,12:01,1,10,DET 20,3,7,Deuce Vaughn up the middle for 3 yards (tackle by Derrick Barnes and Brian Branch),4.240,4.120
+2,11:31,2,7,DET 17,3,7,"Dak Prescott pass incomplete short right intended for Brandin Cooks. Penalty on Benito Jones: Defensive Offside, 5 yards (accepted) (no play)",4.120,5.040
+2,11:24,2,2,DET 12,3,7,Tony Pollard up the middle for 7 yards (tackle by Tyson Alualu and Jack Campbell),5.040,6.060
+2,10:45,1,5,DET 5,3,7,"Dak Prescott pass complete short right to CeeDee Lamb for 4 yards. CeeDee Lamb fumbles, ball out of bounds in end zone (forced by Kindle Vildor). CeeDee Lamb fumbles out of bounds",6.060,-0.280
+2,10:38,1,10,DET 20,3,7,Jahmyr Gibbs right end for 8 yards (tackle by Damone Clark and Jayron Kearse),0.280,0.810
+2,10:13,2,2,DET 28,3,7,Jared Goff pass incomplete short left intended for Sam LaPorta,0.810,0.100
+2,10:06,3,2,DET 28,3,7,Jared Goff pass incomplete short middle intended for Jameson Williams,0.100,-1.500
+2,10:01,4,2,DET 28,3,7,Jalen Reeves-Maybin pass complete deep right to Khalil Dorsey for 31 yards (tackle by Jalen Tolbert),-1.500,2.850
+2,9:11,1,10,DAL 41,3,7,Amon-Ra St. Brown right end for 11 yards (tackle by Markquese Bell),2.850,3.580
+2,8:35,1,10,DAL 30,3,7,Jahmyr Gibbs right tackle for 11 yards (tackle by Jayron Kearse),3.580,4.310
+2,7:58,1,10,DAL 19,3,7,Jahmyr Gibbs right guard for 17 yards (tackle by Markquese Bell),4.310,6.740
+2,7:17,1,2,DAL 2,3,7,Jahmyr Gibbs up the middle for -3 yards (tackle by DeMarcus Lawrence),6.740,5.150
+2,6:44,2,5,DAL 5,3,7,Jared Goff pass incomplete short middle intended for Sam LaPorta,5.150,4.260
+2,6:40,3,5,DAL 5,3,7,Jahmyr Gibbs left end for 1 yard (tackle by Donovan Wilson),4.260,3.030
+2,5:45,4,4,DAL 4,3,7,Jared Goff pass incomplete short middle intended for Sam LaPorta,3.030,0.380
+2,5:39,1,10,DAL 5,3,7,Dak Prescott pass complete short left to Jake Ferguson for 8 yards (tackle by Derrick Barnes),-0.380,-0.190
+2,5:10,2,2,DAL 13,3,7,Tony Pollard right guard for 8 yards (tackle by Kerby Joseph),-0.190,0.340
+2,4:41,1,10,DAL 21,3,7,Dak Prescott pass complete short right to CeeDee Lamb for 6 yards (tackle by Alex Anzalone and Kindle Vildor),0.340,0.610
+2,4:02,2,4,DAL 27,3,7,Dak Prescott pass complete short left to CeeDee Lamb for 12 yards (tackle by Cameron Sutton),0.610,1.530
+2,3:31,1,10,DAL 39,3,7,Tony Pollard up the middle for 1 yard (tackle by Cameron Sutton),1.530,1.120
+2,2:48,2,9,DAL 40,3,7,Dak Prescott sacked by Aidan Hutchinson for -8 yards,1.120,-0.630
+2,2:02,3,17,DAL 32,3,7,"Penalty on DAL: Delay of Game, 5 yards (accepted) (no play)",-0.630,-1.290
+2,2:00,3,22,DAL 27,3,7,Dak Prescott pass complete short right to Jake Ferguson for 9 yards (tackle by Brian Branch),-1.290,-0.980
+2,1:53,,,,,,Timeout #1 by Detroit Lions,,
+2,1:53,4,13,DAL 36,3,7,"Bryan Anger punts 49 yards, returned by Kalif Raymond for 25 yards (tackle by Chauncey Golston)",-0.980,-1.600
+2,1:40,1,10,DET 40,3,7,Jared Goff pass complete short right to Jameson Williams for 6 yards (tackle by Stephon Gilmore and Neville Gallimore),1.600,1.860
+2,1:16,2,4,DET 46,3,7,Jahmyr Gibbs up the middle for 3 yards (tackle by Osa Odighizuwa and Micah Parsons),1.860,1.550
+2,0:50,3,1,DET 49,3,7,Jahmyr Gibbs up the middle for -4 yards (tackle by DeMarcus Lawrence),1.550,-0.390
+2,0:44,,,,,,Timeout #2 by Dallas Cowboys,,
+2,0:44,4,5,DET 45,3,7,"Jack Fox punts 46 yards, fair catch by KaVontae Turpin at DAL-9",-0.390,0.380
+2,0:37,1,10,DAL 9,3,7,Dak Prescott pass complete short middle to CeeDee Lamb for 6 yards (tackle by Brian Branch),-0.380,-0.280
+2,0:19,2,4,DAL 15,3,7,Dak Prescott sacked by Aidan Hutchinson for -6 yards,-0.280,-1.420
+Quarter,Time,Down,ToGo,Location,DET,DAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DET 35,3,7,"Jack Fox kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,DAL 25,3,7,Tony Pollard left guard for 3 yards (tackle by John Cominsky),0.610,0.470
+3,14:26,2,7,DAL 28,3,7,"Penalty on Tyron Smith: False Start, 5 yards (accepted) (no play)",0.470,-0.210
+3,14:13,2,12,DAL 23,3,7,Dak Prescott pass complete short left to CeeDee Lamb for 4 yards (tackle by Cameron Sutton),-0.210,-0.360
+3,13:30,3,8,DAL 27,3,7,Dak Prescott pass complete short middle to CeeDee Lamb for 9 yards (tackle by Ifeatu Melifonwu),-0.360,1.330
+3,12:58,1,10,DAL 36,3,7,Tony Pollard left end for -2 yards (tackle by Cameron Sutton),1.330,0.520
+3,12:20,2,12,DAL 34,3,7,Dak Prescott pass incomplete short middle intended for Tony Pollard,0.520,-0.160
+3,12:14,3,12,DAL 34,3,7,Dak Prescott pass incomplete short right intended for CeeDee Lamb (defended by Brian Branch),-0.160,-1.110
+3,12:10,4,12,DAL 34,3,7,"Bryan Anger punts 43 yards, returned by Kalif Raymond for 3 yards (tackle by Sam Williams)",-1.110,-0.670
+3,12:00,1,10,DET 26,3,7,David Montgomery up the middle for 3 yards (tackle by Donovan Wilson),0.670,0.540
+3,11:29,2,7,DET 29,3,7,David Montgomery right tackle for 22 yards (tackle by Jayron Kearse),0.540,2.320
+3,10:57,1,10,DAL 49,3,7,David Montgomery right tackle for 4 yards (tackle by Jayron Kearse and Donovan Wilson),2.320,2.320
+3,10:18,2,6,DAL 45,3,7,David Montgomery left tackle for 4 yards (tackle by Dorance Armstrong),2.320,2.150
+3,9:39,3,2,DAL 41,3,7,Jahmyr Gibbs left tackle for no gain (tackle by DaRon Bland and DeMarcus Lawrence),2.150,0.530
+3,9:01,4,2,DAL 41,3,7,Jared Goff pass complete short right to Sam LaPorta for 4 yards (tackle by Jayron Kearse),0.530,3.120
+3,8:25,1,10,DAL 37,3,7,Jared Goff pass complete short middle to Sam LaPorta for 7 yards (tackle by Markquese Bell),3.120,3.520
+3,7:42,2,3,DAL 30,3,7,Jahmyr Gibbs right tackle for 9 yards (tackle by Jayron Kearse),3.520,4.170
+3,7:03,1,10,DAL 21,3,7,Jahmyr Gibbs left end for -3 yards (tackle by Micah Parsons and Damone Clark),4.170,3.220
+3,6:28,2,13,DAL 24,3,7,Jared Goff pass complete short left to Josh Reynolds for 13 yards (tackle by Markquese Bell and Donovan Wilson),3.220,4.840
+3,5:52,1,10,DAL 11,3,7,David Montgomery right guard for 6 yards (tackle by Markquese Bell and Jayron Kearse),4.840,5.280
+3,5:15,2,4,DAL 5,3,7,David Montgomery up the middle for 2 yards (tackle by Damone Clark),5.280,4.890
+3,4:38,3,2,DAL 3,9,7,"David Montgomery left guard for 3 yards, touchdown",4.890,7.000
+3,4:34,,,DAL 15,10,7,Michael Badgley kicks extra point good,0.000,0.000
+3,4:34,,,DET 35,10,7,"Jack Fox kicks off 65 yards, touchback.",0.000,0.610
+3,4:34,1,10,DAL 25,10,7,Deuce Vaughn right tackle for -1 yards (tackle by Aidan Hutchinson),0.610,-0.070
+3,4:04,2,11,DAL 24,10,7,Dak Prescott pass complete short right to Deuce Vaughn for 10 yards (tackle by Jalen Reeves-Maybin),-0.070,0.560
+3,3:22,3,1,DAL 34,10,7,Tony Pollard left tackle for 18 yards (tackle by Ifeatu Melifonwu),0.560,2.390
+3,2:34,1,10,DET 48,10,7,Tony Pollard left guard for -1 yards (tackle by Derrick Barnes),2.390,1.710
+3,1:57,2,11,DET 49,10,7,Dak Prescott pass incomplete deep middle intended for Brandin Cooks,1.710,1.030
+3,1:52,3,11,DET 49,10,7,Dak Prescott pass complete short middle to CeeDee Lamb for 14 yards (tackle by Kerby Joseph and Alex Anzalone),1.030,3.250
+3,1:11,1,10,DET 35,10,7,Dak Prescott pass complete short right to Brandin Cooks for 2 yards (tackle by Kindle Vildor),3.250,2.970
+3,0:36,2,8,DET 33,10,7,Dak Prescott pass incomplete short middle intended for CeeDee Lamb,2.970,2.280
+3,0:31,3,8,DET 33,10,7,Dak Prescott pass incomplete short middle intended for CeeDee Lamb,2.280,1.150
+3,0:27,4,8,DET 33,10,10,Brandon Aubrey 51 yard field goal good,1.150,3.000
+3,0:23,,,DAL 35,10,10,"Brandon Aubrey kicks off 65 yards, touchback.",0.000,0.610
+3,0:23,1,10,DET 25,10,10,"Jahmyr Gibbs up the middle for 5 yards (tackle by Dorance Armstrong). Penalty on James Mitchell: Offensive Holding, 10 yards (accepted)",0.610,0.280
+Quarter,Time,Down,ToGo,Location,DET,DAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,15,DET 20,10,10,Jahmyr Gibbs right tackle for 3 yards (tackle by Stephon Gilmore and Jayron Kearse),0.280,-0.210
+4,14:21,2,12,DET 23,10,10,Jared Goff pass complete deep middle to Jameson Williams for 63 yards (tackle by DaRon Bland),-0.210,4.650
+4,13:32,1,10,DAL 14,10,10,Jahmyr Gibbs left end for -2 yards (tackle by Markquese Bell),4.650,3.720
+4,13:07,2,12,DAL 16,10,10,Jared Goff pass complete short right to Amon-Ra St. Brown for 9 yards (tackle by Markquese Bell),3.720,4.500
+4,12:25,3,3,DAL 7,10,10,Jared Goff pass incomplete short right intended for Jahmyr Gibbs,4.500,2.990
+4,12:21,4,3,DAL 7,10,10,"Penalty on DET: Delay of Game, 5 yards (accepted) (no play)",2.990,2.630
+4,12:21,4,8,DAL 12,13,10,Michael Badgley 30 yard field goal good,2.630,3.000
+4,12:18,,,DET 35,13,10,"Jack Fox kicks off 65 yards, touchback.",0.000,0.610
+4,12:18,1,10,DAL 25,13,10,Dak Prescott pass complete short left to CeeDee Lamb for 11 yards (tackle by Cameron Sutton),0.610,1.330
+4,11:41,1,10,DAL 36,13,10,Dak Prescott pass complete short left to CeeDee Lamb for 5 yards (tackle by Cameron Sutton),1.330,1.470
+4,11:06,2,5,DAL 41,13,10,Tony Pollard left tackle for no gain (tackle by Jack Campbell and Josh Paschal),1.470,0.760
+4,10:26,3,5,DAL 41,13,10,Dak Prescott pass complete deep right to Brandin Cooks for 21 yards (tackle by Brian Branch),0.760,3.050
+4,10:03,1,10,DET 38,13,10,Dak Prescott scrambles right end for 5 yards (tackle by Alex Anzalone),3.050,3.180
+4,9:23,2,5,DET 33,13,10,Dak Prescott pass complete short left to Jalen Tolbert for 9 yards (tackle by Cameron Sutton),3.180,3.970
+4,8:47,1,10,DET 24,13,10,Tony Pollard right guard for 10 yards (tackle by Jack Campbell),3.970,4.650
+4,8:06,1,10,DET 14,13,10,Tony Pollard up the middle for 6 yards (tackle by Ifeatu Melifonwu and Jack Campbell),4.650,5.090
+4,7:25,2,4,DET 8,13,16,"Dak Prescott pass complete short right to Brandin Cooks for 8 yards, touchdown",5.090,7.000
+4,7:20,,,DET 15,13,17,Brandon Aubrey kicks extra point good,0.000,0.000
+4,7:20,,,DAL 35,13,17,"Brandon Aubrey kicks off 65 yards, touchback.",0.000,0.610
+4,7:20,1,10,DET 25,13,17,Jared Goff pass complete short right to James Mitchell for 4 yards (tackle by Jourdan Lewis),0.610,0.600
+4,6:47,2,6,DET 29,13,17,David Montgomery right guard for 1 yard (tackle by Micah Parsons and Carl Davis),0.600,0.040
+4,6:04,3,5,DET 30,13,17,Jared Goff pass incomplete short right intended for Amon-Ra St. Brown (defended by DeMarcus Lawrence),0.040,-1.370
+4,5:59,4,5,DET 30,13,17,"Jack Fox punts 43 yards, fair catch by KaVontae Turpin at DAL-27",-1.370,-0.740
+4,5:52,1,10,DAL 27,13,17,Tony Pollard left guard for -1 yards (tackle by Alex Anzalone and Tyson Alualu),0.740,0.060
+4,5:13,2,11,DAL 26,13,17,"Dak Prescott pass incomplete intended for Michael Gallup. Penalty on Kindle Vildor: Illegal Contact, 5 yards (accepted) (no play)",0.060,1.000
+4,5:07,1,10,DAL 31,13,17,Tony Pollard right tackle for no gain (tackle by Kindle Vildor and Derrick Barnes),1.000,0.460
+4,4:25,2,10,DAL 31,13,17,Dak Prescott pass incomplete short middle intended for Tony Pollard,0.460,-0.230
+4,4:19,3,10,DAL 31,13,17,Dak Prescott pass complete short middle to CeeDee Lamb for 22 yards (tackle by Kerby Joseph),-0.230,2.460
+4,3:34,1,10,DET 47,13,17,CeeDee Lamb left end for 5 yards (tackle by Alex Anzalone),2.460,2.590
+4,2:48,2,5,DET 42,13,17,Dak Prescott pass incomplete short left,2.590,1.880
+4,2:45,3,5,DET 42,13,17,"Dak Prescott sacked by Aidan Hutchinson for -8 yards. Dak Prescott fumbles (forced by Aidan Hutchinson), recovered by Terence Steele at 50 (tackle by Aidan Hutchinson)",1.880,-0.060
+4,2:39,,,,,,Timeout #1 by Detroit Lions,,
+4,2:39,4,13,DET 50,13,17,"Bryan Anger punts 39 yards, fair catch by Kalif Raymond at DET-11",-0.060,0.370
+4,2:33,1,10,DET 11,13,17,Jared Goff pass complete short middle to Sam LaPorta for 15 yards (tackle by Donovan Wilson),-0.370,0.670
+4,2:13,1,10,DET 26,13,17,Jared Goff pass short left intended for Sam LaPorta is intercepted by Donovan Wilson at DET-29 and returned for no gain (tackle by Sam LaPorta),0.670,-3.640
+4,2:05,1,10,DET 29,13,17,"Tony Pollard for no gain. Penalty on Peyton Hendershot: Tripping / Offense, 15 yards (accepted) (no play)",3.640,2.650
+4,2:00,1,25,DET 44,13,17,Dak Prescott pass complete short left to CeeDee Lamb for 11 yards (tackle by Cameron Sutton),2.650,2.560
+4,1:55,,,,,,Timeout #2 by Detroit Lions,,
+4,1:55,2,14,DET 33,13,17,Dak Prescott pass incomplete deep right intended for Brandin Cooks,2.560,1.880
+4,1:49,3,14,DET 33,13,17,Dak Prescott pass complete short middle to Jake Ferguson for 8 yards (tackle by Kerby Joseph),1.880,1.830
+4,1:45,,,,,,Timeout #3 by Detroit Lions,,
+4,1:45,,,,,,Timeout #1 by Dallas Cowboys,,
+4,1:45,4,6,DET 25,13,20,Brandon Aubrey 43 yard field goal good,1.830,3.000
+4,1:41,,,DAL 35,13,20,"Brandon Aubrey kicks off 65 yards, touchback.",0.000,0.610
+4,1:41,1,10,DET 25,13,20,Jared Goff pass complete short right to Sam LaPorta for 10 yards (tackle by Jayron Kearse and Donovan Wilson),0.610,1.270
+4,1:19,1,10,DET 35,13,20,Jared Goff pass complete deep middle to Sam LaPorta for 25 yards (tackle by Markquese Bell),1.270,2.920
+4,1:03,1,10,DAL 40,13,20,Jared Goff spiked the ball,2.920,2.370
+4,1:02,2,10,DAL 40,13,20,Jared Goff pass complete short right to Amon-Ra St. Brown for 14 yards (tackle by Donovan Wilson),2.370,3.840
+4,0:49,1,10,DAL 26,13,20,Jared Goff spiked the ball,3.840,3.300
+4,0:48,2,10,DAL 26,13,20,Jared Goff pass incomplete short left intended for Amon-Ra St. Brown (defended by Jourdan Lewis),3.300,2.610
+4,0:43,3,10,DAL 26,13,20,Jared Goff pass complete short middle to Sam LaPorta for 15 yards (tackle by Donovan Wilson and Markquese Bell),2.610,4.840
+4,0:29,1,10,DAL 11,13,20,Jared Goff spiked the ball,4.840,4.140
+4,0:27,2,10,DAL 11,19,20,"Jared Goff pass complete short right to Amon-Ra St. Brown for 11 yards, touchdown",4.140,7.000
+4,0:23,,,,,,Timeout #2 by Dallas Cowboys,,
+4,0:23,,,DAL 2,19,20,"Two Point Attempt: Jared Goff pass complete to to Taylor Decker for no gain. Penalty on Taylor Decker: Illegal Touch Pass, 5 yards (accepted) (no play)",1.000,1.000
+4,0:23,,,DAL 7,19,20,"Two Point Attempt: Jared Goff pass incomplete. Interception by Markquese Bell. Penalty on Micah Parsons: Defensive Offside, 4 yards (accepted) (no play)",1.000,1.000
+4,0:23,,,DAL 3,19,20,Two Point Attempt: Jared Goff pass incomplete intended for intended for James Mitchell,1.000,-1.000
+4,0:23,,,,,,Timeout #3 by Dallas Cowboys,,
+4,0:23,,,DET 35,19,20,"Michael Badgley kicks onside 10 yards, recovered by CeeDee Lamb",0.000,2.720
+4,0:22,1,10,DET 43,19,20,Dak Prescott kneels for no gain,2.720,2.180
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,10:21,LVR 13,6,3:51,25,Punt
+2,1,2:38,LVR 25,5,2:45,28,Punt
+3,2,12:37,LVR 38,14,8:28,62,Touchdown
+4,2,4:00,GNB 7,4,1:28,-1,Field Goal
+5,2,0:55,LVR 24,8,0:48,41,Missed FG
+6,3,15:00,LVR 25,4,2:11,12,Interception
+7,3,8:27,LVR 28,3,1:12,4,Punt
+8,3,5:16,LVR 25,10,5:20,75,Touchdown
+9,4,9:11,LVR 42,3,2:08,-3,Punt
+10,4,5:35,LVR 33,8,3:39,33,Missed FG
+11,4,0:44,LVR 20,2,0:44,-2,End of Game

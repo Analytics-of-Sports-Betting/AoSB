@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,CLE 23,3,1:36,6,Interception
+2,1,11:52,CLE 24,3,1:42,-7,Punt
+3,1,6:07,CLE 25,3,2:16,1,Punt
+4,1,0:48,CLE 25,3,1:04,0,Punt
+5,2,9:19,CLE 25,4,2:31,20,Punt
+6,2,3:53,CLE 43,2,0:39,4,Interception
+7,2,1:55,CLE 25,7,1:55,47,End of Half
+8,3,13:20,CLE 46,3,1:36,6,Punt
+9,3,3:32,CLE 25,5,1:54,17,Punt
+10,3,0:18,CLE 38,5,2:26,16,Punt
+11,4,10:53,CLE 45,5,2:08,55,Touchdown
+12,4,6:32,CLE 25,9,3:58,75,Touchdown
+13,4,0:29,CLE 18,1,0:29,-1,End of Game

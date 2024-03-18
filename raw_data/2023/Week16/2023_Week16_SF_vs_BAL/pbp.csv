@@ -1,0 +1,186 @@
+Quarter,Time,Down,ToGo,Location,BAL,SFO,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"49ers won the coin toss and deferred, Ravens to receive the opening kickoff.",,
+1,15:00,,,SFO 35,0,0,"Jake Moody kicks off 60 yards, returned by Tylan Wallace for 26 yards (tackle by Logan Ryan)",0.000,1.000
+1,14:52,1,10,BAL 31,0,0,Justice Hill left guard for 2 yards (tackle by Fred Warner),1.000,0.730
+1,14:14,2,8,BAL 33,0,0,Lamar Jackson pass incomplete short left intended for Rashod Bateman (defended by Ambry Thomas),0.730,0.040
+1,14:11,3,8,BAL 33,0,0,Lamar Jackson pass incomplete short right intended for Nelson Agholor,0.040,-1.180
+1,14:06,4,8,BAL 33,0,0,"Jordan Stout punts 56 yards, fair catch by Ronnie Bell at SF-11",-1.180,0.370
+1,13:59,1,10,SFO 11,0,0,Brock Purdy pass complete short right to Christian McCaffrey for 3 yards (tackle by Kyle Hamilton),-0.370,-0.530
+1,13:21,2,7,SFO 14,0,0,Brock Purdy pass incomplete short middle intended for Kyle Juszczyk (defended by Brandon Stephens),-0.530,-1.070
+1,13:17,,,,,,Timeout #1 by San Francisco 49ers,,
+1,13:17,3,7,SFO 14,0,0,Brock Purdy pass complete short middle to George Kittle for 58 yards (tackle by Ronald Darby),-1.070,3.710
+1,12:27,1,10,BAL 28,0,0,Brock Purdy pass complete short middle to George Kittle for 13 yards (tackle by Marcus Williams),3.710,4.580
+1,11:47,1,10,BAL 15,0,0,Brock Purdy pass deep middle intended for Deebo Samuel is intercepted by Kyle Hamilton in end zone and returned for 10 yards (tackle by Kyle Juszczyk),4.580,0.380
+1,11:39,1,10,BAL 8,0,0,Gus Edwards right tackle for 5 yards (tackle by Charvarius Ward and Deommodore Lenoir),-0.380,-0.410
+1,11:02,2,5,BAL 13,0,0,Lamar Jackson pass incomplete deep middle intended for Zay Flowers,-0.410,-0.840
+1,10:55,3,5,BAL 13,0,0,Lamar Jackson pass complete short left to Zay Flowers for 7 yards (tackle by Ambry Thomas),-0.840,0.280
+1,10:31,1,10,BAL 20,0,2,"Lamar Jackson pass incomplete short left. Penalty on Lamar Jackson: Intentional Grounding, 20 yards (accepted)",0.280,-2.000
+1,10:24,,,BAL 20,0,2,"Jordan Stout kicks off 60 yards,",0.000,0.340
+1,10:23,1,10,SFO 21,0,2,Christian McCaffrey left tackle for 14 yards (tackle by Marcus Williams and Roquan Smith),0.340,1.270
+1,9:42,1,10,SFO 35,0,2,Christian McCaffrey left tackle for 5 yards (tackle by Roquan Smith),1.270,1.400
+1,9:00,2,5,SFO 40,0,2,Brock Purdy pass complete deep left to Brandon Aiyuk for 18 yards,1.400,2.790
+1,8:27,1,10,BAL 42,0,2,Brock Purdy pass incomplete deep left intended for George Kittle,2.790,2.240
+1,8:21,2,10,BAL 42,0,2,Christian McCaffrey left tackle for 4 yards (tackle by Justin Madubuike),2.240,2.080
+1,7:40,3,6,BAL 38,0,2,Christian McCaffrey right guard for 5 yards (tackle by Travis Jones),2.080,1.210
+1,6:57,4,1,BAL 33,0,2,"Brock Purdy sacked by Marlon Humphrey for no gain. Penalty on Ronald Darby: Defensive Holding, 5 yards (accepted) (no play)",1.210,3.710
+1,6:52,1,10,BAL 28,0,2,Deebo Samuel right end for 1 yard (tackle by Marlon Humphrey),3.710,3.300
+1,6:11,2,9,BAL 27,0,2,Brock Purdy pass incomplete short left intended for Deebo Samuel (defended by Jadeveon Clowney),3.300,2.610
+1,6:06,3,9,BAL 27,0,2,Brock Purdy pass incomplete short left intended for Christian McCaffrey,2.610,1.670
+1,6:03,4,9,BAL 27,0,5,Jake Moody 45 yard field goal good,1.670,3.000
+1,5:58,,,SFO 35,0,5,"Jake Moody kicks off 65 yards, touchback.",0.000,0.610
+1,5:58,1,10,BAL 25,0,5,Lamar Jackson pass complete short right to Zay Flowers for 13 yards (tackle by Dre Greenlaw),0.610,1.470
+1,5:16,1,10,BAL 38,0,5,Lamar Jackson pass complete short left to Zay Flowers for -2 yards (tackle by Fred Warner),1.470,0.650
+1,4:36,2,12,BAL 36,0,5,Lamar Jackson scrambles right end for 9 yards (tackle by Fred Warner and Ji'Ayir Brown),0.650,1.160
+1,3:51,3,3,BAL 45,0,5,"Lamar Jackson pass incomplete deep left intended for Isaiah Likely. Penalty on Tashaun Gipson: Defensive Pass Interference, 21 yards (accepted) (no play)",1.160,3.310
+1,3:44,1,10,SFO 34,0,5,Gus Edwards left tackle for 4 yards (tackle by Javon Hargrave),3.310,3.310
+1,3:07,2,6,SFO 30,0,5,"Lamar Jackson pass incomplete deep right intended for Odell Beckham. Penalty on Charvarius Ward: Defensive Holding, 5 yards (declined) . Penalty on Tashaun Gipson: Face Mask (15 Yards), 16 yards (accepted) (no play)",3.310,4.650
+1,3:00,1,10,SFO 14,0,5,Justice Hill left end for 5 yards (tackle by Ji'Ayir Brown),4.650,4.900
+1,2:26,2,5,SFO 9,0,5,Lamar Jackson left end for -3 yards (tackle by Nick Bosa and Dre Greenlaw),4.900,3.430
+1,1:44,3,8,SFO 12,0,5,Lamar Jackson pass complete short left to Nelson Agholor for 2 yards (tackle by Ambry Thomas),3.430,2.790
+1,1:01,4,6,SFO 10,3,5,Justin Tucker 28 yard field goal good,2.790,3.000
+1,0:57,,,BAL 35,3,5,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+1,0:57,1,10,SFO 25,3,5,Brock Purdy pass complete short right to George Kittle for 20 yards (tackle by Kyle Hamilton),0.610,1.930
+1,0:19,1,10,SFO 45,3,5,Christian McCaffrey left guard for 3 yards (tackle by Kyle Van Noy and Marcus Williams),1.930,1.790
+Quarter,Time,Down,ToGo,Location,BAL,SFO,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,7,SFO 48,3,5,Brock Purdy pass complete short left to Deebo Samuel for 15 yards,1.790,3.120
+2,14:22,1,10,BAL 37,3,5,Brock Purdy pass short left (defended by Brandon Stephens) intended for Deebo Samuel is intercepted by Marlon Humphrey at BAL-44 and returned for 3 yards (tackle by Brock Purdy),3.120,-2.060
+2,14:16,1,10,BAL 47,3,5,Justice Hill left end for 2 yards (tackle by Deommodore Lenoir and Dre Greenlaw),2.060,1.790
+2,13:39,2,8,BAL 49,3,5,Lamar Jackson pass complete short left to Rashod Bateman for 14 yards (tackle by Ambry Thomas),1.790,3.120
+2,13:01,1,10,SFO 37,3,5,Lamar Jackson pass complete short left to Zay Flowers for 6 yards (tackle by Tashaun Gipson and Demetrius Flannigan-Fowles),3.120,3.380
+2,12:23,2,4,SFO 31,3,5,Lamar Jackson pass complete short right to Zay Flowers for 10 yards (tackle by Tashaun Gipson),3.380,4.170
+2,11:44,1,10,SFO 21,3,5,Lamar Jackson pass incomplete short left intended for Rashod Bateman,4.170,3.630
+2,11:40,2,10,SFO 21,3,5,Lamar Jackson pass complete short right to Justice Hill for 6 yards (tackle by Fred Warner and Dre Greenlaw),3.630,3.810
+2,11:04,3,4,SFO 15,3,5,Lamar Jackson pass complete short middle to Odell Beckham for 5 yards (tackle by Dre Greenlaw),3.810,4.910
+2,10:31,1,10,SFO 10,3,5,Lamar Jackson pass incomplete short right intended for Patrick Ricard (defended by Fred Warner),4.910,4.190
+2,10:27,2,10,SFO 10,3,5,Lamar Jackson pass incomplete short middle intended for Odell Beckham,4.190,3.130
+2,10:21,,,,,,Timeout #1 by Baltimore Ravens,,
+2,10:21,3,10,SFO 10,3,5,Lamar Jackson pass complete short middle to Isaiah Likely for 9 yards (tackle by Deommodore Lenoir and Fred Warner),3.130,3.550
+2,9:38,4,1,SFO 1,9,5,"Gus Edwards up the middle for 1 yard, touchdown",3.550,7.000
+2,9:35,,,SFO 15,10,5,Justin Tucker kicks extra point good,0.000,0.000
+2,9:35,,,BAL 35,10,5,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+2,9:35,1,10,SFO 25,10,5,Christian McCaffrey left guard for 2 yards (tackle by Broderick Washington),0.610,0.330
+2,8:54,2,8,SFO 27,10,5,Brock Purdy pass complete short right to Deebo Samuel for 3 yards (tackle by Kyle Hamilton and Roquan Smith),0.330,0.040
+2,8:09,3,5,SFO 30,10,5,Brock Purdy pass short middle (defended by Marlon Humphrey) intended for George Kittle is intercepted by Kyle Hamilton at SF-32 and returned for -3 yards (tackle by Christian McCaffrey),0.040,-3.250
+2,7:54,1,10,SFO 35,10,5,"Penalty on Christian McCaffrey: Chop Block, 15 yards (accepted) (no play)",3.250,4.240
+2,7:54,1,10,SFO 20,10,5,Justice Hill left tackle for -3 yards (tackle by Nick Bosa),4.240,3.290
+2,7:14,2,13,SFO 23,10,5,Lamar Jackson pass incomplete short left intended for Zay Flowers,3.290,2.610
+2,7:10,3,13,SFO 23,10,5,Lamar Jackson pass incomplete short left intended for Zay Flowers,2.610,1.930
+2,7:07,4,13,SFO 23,13,5,Justin Tucker 41 yard field goal good,1.930,3.000
+2,7:03,,,BAL 35,13,5,"Justin Tucker kicks off 66 yards, returned by Deebo Samuel for 34 yards (tackle by Ronald Darby)",0.000,1.140
+2,6:57,1,10,SFO 33,13,5,Christian McCaffrey right end for 3 yards (tackle by Justin Madubuike),1.140,1.000
+2,6:18,2,7,SFO 36,13,5,Brock Purdy pass complete short left to Christian McCaffrey for 6 yards (tackle by Roquan Smith),1.000,1.090
+2,5:31,,,,,,Timeout #2 by San Francisco 49ers,,
+2,5:31,3,1,SFO 42,13,5,Brock Purdy up the middle for 2 yards (tackle by Michael Pierce),1.090,1.860
+2,4:53,1,10,SFO 44,13,5,Brock Purdy pass complete short middle to Christian McCaffrey for 8 yards (tackle by Roquan Smith and Patrick Queen),1.860,2.400
+2,4:11,2,2,BAL 48,13,5,Christian McCaffrey right tackle for 39 yards (tackle by Marlon Humphrey),2.400,5.140
+2,3:29,1,9,BAL 9,13,11,"Christian McCaffrey right tackle for 9 yards, touchdown",5.140,7.000
+2,3:23,,,BAL 15,13,12,Jake Moody kicks extra point good,0.000,0.000
+2,3:23,,,SFO 35,13,12,"Jake Moody kicks off 65 yards, touchback.",0.000,0.610
+2,3:13,1,10,BAL 25,13,12,"Lamar Jackson pass complete deep left to Rashod Bateman for 21 yards (tackle by Ambry Thomas). Penalty on John Simpson: Illegal Use of Hands / Offense, 10 yards (accepted) (no play)",0.610,-0.410
+2,3:01,1,20,BAL 15,13,12,Lamar Jackson pass complete short left to Isaiah Likely for 13 yards (tackle by Ambry Thomas),-0.410,0.470
+2,2:23,2,7,BAL 28,13,12,Lamar Jackson pass complete short right to Zay Flowers for 10 yards (tackle by Tashaun Gipson),0.470,1.470
+2,2:00,1,10,BAL 38,13,12,Lamar Jackson sacked by Javon Hargrave for -5 yards,1.470,0.250
+2,1:20,2,15,BAL 33,13,12,"Lamar Jackson pass incomplete short left intended for Zay Flowers (defended by Javon Hargrave). Penalty on Ambry Thomas: Defensive Holding, 5 yards (accepted) (no play)",0.250,1.470
+2,1:11,1,10,BAL 38,13,12,Lamar Jackson pass complete short right to Justice Hill for 2 yards (tackle by Charvarius Ward),1.470,1.190
+2,1:06,2,8,BAL 40,13,12,Lamar Jackson pass complete short right to Odell Beckham for 8 yards (tackle by Charvarius Ward),1.190,2.130
+2,1:02,1,10,BAL 48,13,12,Lamar Jackson pass complete deep right to Charlie Kolar for 17 yards (tackle by Tashaun Gipson),2.130,3.250
+2,0:37,1,10,SFO 35,13,12,"Lamar Jackson pass complete short left to Nelson Agholor for no gain (tackle by Ambry Thomas). Penalty on Ronnie Stanley: Offensive Facemask, 15 yards (accepted) (no play)",3.250,2.260
+2,0:34,1,25,SFO 50,13,12,Lamar Jackson pass complete short right to Zay Flowers for 9 yards (tackle by Charvarius Ward),2.260,1.890
+2,0:28,2,16,SFO 41,13,12,Lamar Jackson pass incomplete deep right intended for Isaiah Likely,1.890,1.220
+2,0:24,3,16,SFO 41,13,12,Lamar Jackson scrambles left end for 30 yards (tackle by Ji'Ayir Brown),1.220,4.840
+2,0:10,,,,,,Timeout #2 by Baltimore Ravens,,
+2,0:10,1,10,SFO 11,13,12,Lamar Jackson pass incomplete short right intended for Zay Flowers,4.840,4.140
+2,0:04,2,10,SFO 11,16,12,Justin Tucker 28 yard field goal good,4.140,3.000
+Quarter,Time,Down,ToGo,Location,BAL,SFO,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,BAL 35,16,12,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,SFO 25,16,12,Christian McCaffrey right tackle for 1 yard (tackle by Justin Madubuike),0.610,0.200
+3,14:18,2,9,SFO 26,16,12,Brock Purdy pass complete short right to George Kittle for 4 yards (tackle by Patrick Queen),0.200,0.040
+3,13:33,3,5,SFO 30,16,12,Brock Purdy pass incomplete short middle intended for Willie Snead,0.040,-1.370
+3,13:29,4,5,SFO 30,16,12,"Penalty on Jeremy McNichols: False Start, 5 yards (accepted) (no play)",-1.370,-1.700
+3,13:29,4,10,SFO 25,16,12,"Mitch Wishnowsky punts 57 yards, returned by Tylan Wallace for 23 yards (tackle by Jordan Mason). Penalty on Mitch Wishnowsky: Unnecessary Roughness / Defense, 15 yards (accepted)",-1.700,-2.650
+3,13:17,1,10,SFO 44,16,12,Lamar Jackson pass complete short right to Gus Edwards for 39 yards (tackle by Fred Warner),2.650,6.060
+3,12:51,1,5,SFO 5,16,12,Gus Edwards right tackle for -1 yards (tackle by Nick Bosa),6.060,4.950
+3,12:13,2,6,SFO 6,22,12,"Lamar Jackson pass complete short left to Nelson Agholor for 6 yards, touchdown",4.950,7.000
+3,12:07,,,SFO 15,23,12,Justin Tucker kicks extra point good,0.000,0.000
+3,12:07,,,BAL 35,23,12,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+3,12:07,1,10,SFO 25,23,12,Brock Purdy pass short left (defended by Travis Jones) intended for Christian McCaffrey is intercepted by Patrick Queen at SF-30 and returned for 21 yards (tackle by Jon Feliciano and Trent Williams),0.610,-5.140
+3,11:52,1,9,SFO 9,29,12,"Lamar Jackson pass complete short middle to Zay Flowers for 9 yards, touchdown",5.140,7.000
+3,11:49,,,SFO 15,30,12,Justin Tucker kicks extra point good,0.000,0.000
+3,11:49,,,BAL 35,30,12,"Justin Tucker kicks off 67 yards, returned by Deebo Samuel for 18 yards (tackle by Jeremiah Moon)",0.000,-0.140
+3,11:45,1,10,SFO 16,30,12,Brock Purdy pass incomplete short left intended for Deebo Samuel,-0.140,-0.660
+3,11:41,2,10,SFO 16,30,12,Brock Purdy pass complete deep right to Deebo Samuel for 20 yards (tackle by Brandon Stephens and Roquan Smith),-0.660,1.330
+3,10:59,1,10,SFO 36,30,12,Brock Purdy pass complete short left to Kyle Juszczyk for 5 yards (tackle by Brandon Stephens),1.330,1.470
+3,10:22,2,5,SFO 41,30,12,Christian McCaffrey right end for -1 yards (tackle by Roquan Smith and Justin Madubuike),1.470,0.630
+3,9:36,3,6,SFO 40,30,12,"Brock Purdy pass incomplete short middle intended for Deebo Samuel Penalty on SFO: Illegal Shift, 5 yards (declined)",0.630,-0.720
+3,9:32,4,6,SFO 40,30,12,Mitch Wishnowsky punts 55 yards downed by Jeremy McNichols,-0.720,0.380
+3,9:21,1,10,BAL 5,30,12,Justice Hill up the middle for 3 yards (tackle by Kevin Givens and Dre Greenlaw),-0.380,-0.560
+3,8:43,2,7,BAL 8,30,12,Justice Hill up the middle for 6 yards (tackle by Fred Warner and Dre Greenlaw),-0.560,-0.370
+3,8:21,3,1,BAL 14,30,12,"Lamar Jackson up the middle for 3 yards (tackle by Dre Greenlaw and Fred Warner). Penalty on Javon Kinlaw: Defensive Holding, 5 yards (accepted)",-0.370,0.410
+3,7:55,1,10,BAL 22,30,12,Lamar Jackson pass complete deep left to Isaiah Likely for 34 yards (tackle by Tashaun Gipson),0.410,2.650
+3,7:07,1,10,SFO 44,30,12,Lamar Jackson pass complete short middle to Justice Hill for 23 yards (tackle by Demetrius Flannigan-Fowles),2.650,4.170
+3,6:18,1,10,SFO 21,30,12,Gus Edwards up the middle for 1 yard (tackle by Randy Gregory),4.170,3.760
+3,5:35,2,9,SFO 20,30,12,Lamar Jackson pass complete short middle to Zay Flowers for 10 yards (tackle by Randy Gregory),3.760,4.910
+3,4:52,1,10,SFO 10,30,12,Lamar Jackson up the middle for 7 yards (tackle by Dre Greenlaw and Ji'Ayir Brown),4.910,5.530
+3,4:12,2,3,SFO 3,30,12,Gus Edwards up the middle for 2 yards (tackle by Dre Greenlaw and Kevin Givens),5.530,5.170
+3,3:31,3,1,SFO 1,30,12,Lamar Jackson for no gain (tackle by Kevin Givens and Javon Hargrave),5.170,3.550
+3,2:47,4,1,SFO 1,30,12,"Penalty on BAL: Delay of Game, 5 yards (accepted) (no play)",3.550,2.990
+3,2:43,4,6,SFO 6,33,12,Justin Tucker 24 yard field goal good,2.990,3.000
+3,2:39,,,BAL 35,33,12,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+3,2:39,1,10,SFO 25,33,12,Brock Purdy pass complete deep middle to George Kittle for 16 yards (tackle by Brandon Stephens),0.610,1.660
+3,2:03,1,10,SFO 41,33,12,Christian McCaffrey left end for 15 yards (tackle by Marcus Williams),1.660,2.650
+3,1:21,1,10,BAL 44,33,12,Deebo Samuel right end for 6 yards (tackle by Geno Stone and Kyle Hamilton),2.650,2.920
+3,0:38,2,4,BAL 38,33,12,"Christian McCaffrey left guard for 3 yards (tackle by Marcus Williams and Patrick Queen). Penalty on Brandon Aiyuk: Offensive Holding, 10 yards (accepted)",2.920,1.980
+3,0:18,2,11,BAL 45,33,12,Brock Purdy pass complete short right to Christian McCaffrey for no gain (tackle by Kyle Van Noy and Patrick Queen),1.980,1.290
+Quarter,Time,Down,ToGo,Location,BAL,SFO,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,11,BAL 45,33,12,Brock Purdy pass incomplete short left intended for Deebo Samuel,1.290,0.270
+4,14:57,4,11,BAL 45,33,12,Brock Purdy pass complete short right to Christian McCaffrey for -1 yards (tackle by Marcus Williams),0.270,-2.060
+4,14:47,1,10,BAL 47,33,12,Justice Hill left end for 6 yards (tackle by Fred Warner),2.060,2.330
+4,13:59,2,4,SFO 47,33,12,Justice Hill left tackle for 3 yards (tackle by Fred Warner and Clelin Ferrell),2.330,2.020
+4,13:19,3,1,SFO 44,33,12,"Penalty on Fred Warner: Encroachment, 5 yards (accepted) (no play)",2.020,2.980
+4,12:54,1,10,SFO 39,33,12,Lamar Jackson pass complete short right to Nelson Agholor for 2 yards (tackle by Tashaun Gipson),2.980,2.710
+4,12:14,2,8,SFO 37,33,12,Justice Hill right tackle for 3 yards (tackle by Dre Greenlaw and Javon Kinlaw),2.710,2.410
+4,11:30,3,5,SFO 34,33,12,Lamar Jackson sacked by and Randy Gregory for -6 yards and Chase Young for -6 yards,2.410,0.590
+4,10:30,4,11,SFO 40,33,12,"Penalty on BAL: Delay of Game, 5 yards (declined)",0.590,0.590
+4,10:30,4,11,SFO 40,33,12,"Jordan Stout punts 30 yards, fair catch by Ronnie Bell at SF-10",0.590,0.380
+4,10:24,1,10,SFO 10,33,12,Brock Purdy pass complete short middle to Christian McCaffrey for 12 yards (tackle by Roquan Smith and Patrick Queen),-0.380,0.410
+4,9:51,1,10,SFO 22,33,12,Brock Purdy pass incomplete short middle intended for Deebo Samuel (defended by Kyle Hamilton),0.410,-0.130
+4,9:51,2,10,SFO 22,33,12,Brock Purdy pass incomplete deep right,-0.130,-0.820
+4,9:43,3,10,SFO 22,33,12,Brock Purdy pass complete short right to Brandon Aiyuk for 22 yards (tackle by Kyle Hamilton),-0.820,1.860
+4,9:14,1,10,SFO 44,33,12,Brock Purdy sacked by Kyle Van Noy for -5 yards,1.860,0.640
+4,8:49,2,15,SFO 39,33,12,Brock Purdy pass complete short left to Brandon Aiyuk for 33 yards (tackle by Geno Stone),0.640,3.710
+4,8:19,1,10,BAL 28,33,12,Brock Purdy sacked by Jadeveon Clowney for -3 yards,3.710,2.760
+4,7:52,2,13,BAL 31,33,12,Sam Darnold pass complete short left to Brandon Aiyuk for 9 yards (tackle by Patrick Queen and Geno Stone),2.760,3.270
+4,7:15,3,4,BAL 22,33,12,Sam Darnold pass complete short right to George Kittle for 5 yards,3.270,4.440
+4,6:56,1,10,BAL 17,33,12,Sam Darnold pass complete short left to Willie Snead for 5 yards (tackle by Brandon Stephens),4.440,4.690
+4,6:27,2,5,BAL 12,33,12,Sam Darnold pass incomplete short middle intended for Christian McCaffrey,4.690,3.880
+4,6:23,3,5,BAL 12,33,18,"Sam Darnold pass complete short middle to Ronnie Bell for 12 yards, touchdown",3.880,7.000
+4,6:19,,,BAL 15,33,19,Jake Moody kicks extra point good,0.000,0.000
+4,6:19,,,SFO 35,33,19,"Jake Moody kicks off 54 yards, returned by Justice Hill for 18 yards (tackle by Robert Beal)",0.000,0.870
+4,6:15,1,10,BAL 29,33,19,Gus Edwards right guard for 3 yards (tackle by Dre Greenlaw and Chase Young),0.870,0.730
+4,5:28,2,7,BAL 32,33,19,Justice Hill right tackle for -1 yards (tackle by Tashaun Gipson and Deommodore Lenoir),0.730,-0.100
+4,4:48,3,8,BAL 31,33,19,Lamar Jackson pass incomplete short right intended for Rashod Bateman (defended by Fred Warner),-0.100,-1.310
+4,4:45,4,8,BAL 31,33,19,"Jordan Stout punts 44 yards, returned by Ronnie Bell for 11 yards (tackle by Trenton Simpson)",-1.310,-1.330
+4,4:35,1,10,SFO 36,33,19,Sam Darnold sacked by Brent Urban for -9 yards,1.330,-0.430
+4,4:01,2,19,SFO 27,33,19,Sam Darnold pass complete short right to George Kittle for 10 yards (tackle by Ronald Darby and Patrick Queen),-0.430,0.230
+4,3:54,3,9,SFO 37,33,19,Sam Darnold pass incomplete short right intended for Deebo Samuel,0.230,-0.910
+4,3:50,4,9,SFO 37,33,19,"Sam Darnold pass complete short left to Deebo Samuel for 9 yards (tackle by Marlon Humphrey and Michael Pierce) BAL challenged the first down ruling, and the play was upheld.",-0.910,1.990
+4,3:22,1,10,SFO 46,33,19,Sam Darnold scrambles left end for 9 yards (tackle by Marcus Williams),1.990,2.670
+4,3:15,2,1,BAL 45,33,19,Sam Darnold pass incomplete short left intended for Christian McCaffrey,2.670,1.950
+4,3:10,3,1,BAL 45,33,19,Sam Darnold pass complete short left to Brandon Aiyuk for 24 yards (tackle by Ronald Darby),1.950,4.170
+4,2:44,1,10,BAL 21,33,19,Sam Darnold pass complete short right to Brandon Aiyuk for 7 yards (tackle by Brandon Stephens),4.170,4.740
+4,2:24,2,3,BAL 14,33,19,Sam Darnold pass incomplete short left intended for Brandon Aiyuk,4.740,4.020
+4,2:20,3,3,BAL 14,33,19,"Sam Darnold pass incomplete short left intended for Brandon Aiyuk. Penalty on Brandon Stephens: Defensive Pass Interference, 12 yards (accepted) (no play)",4.020,6.740
+4,2:16,1,2,BAL 2,33,19,Sam Darnold pass incomplete short right,6.740,5.720
+4,2:09,2,2,BAL 2,33,19,Christian McCaffrey left guard for 1 yard (tackle by Travis Jones),5.720,5.170
+4,2:00,3,1,BAL 1,33,19,Sam Darnold sacked by Brent Urban for -11 yards,5.170,2.630
+4,1:23,4,12,BAL 12,33,19,"Penalty on Spencer Burford: False Start, 5 yards (accepted) (no play)",2.630,2.310
+4,1:10,4,17,BAL 17,33,19,Sam Darnold pass deep middle intended for George Kittle is intercepted by Marcus Williams in end zone and returned for 22 yards (tackle by Ben Bartch),2.310,-0.410
+4,1:00,1,10,BAL 22,33,19,Gus Edwards up the middle for 3 yards (tackle by Demetrius Flannigan-Fowles),0.410,0.270
+4,0:54,,,,,,Timeout #1 by San Francisco 49ers,,
+4,0:54,2,7,BAL 25,33,19,Gus Edwards left end for 13 yards (tackle by Ji'Ayir Brown),0.270,1.470
+4,0:12,1,10,BAL 38,33,19,Lamar Jackson kneels for -1 yards,1.470,0.790
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

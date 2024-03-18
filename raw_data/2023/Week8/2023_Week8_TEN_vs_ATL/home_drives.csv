@@ -1,0 +1,15 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,TEN 25,4,1:58,4,Fumble
+2,1,9:47,TEN 25,7,4:01,19,Punt
+3,1,4:20,TEN 39,4,1:52,61,Touchdown
+4,2,14:53,TEN 13,5,2:49,22,Punt
+5,2,11:13,TEN 32,3,0:57,7,Punt
+6,2,8:17,ATL 33,5,2:50,33,Touchdown
+7,2,3:17,TEN 22,5,1:44,11,Punt
+8,2,1:02,ATL 43,3,0:34,3,Punt
+9,3,12:06,TEN 25,8,4:58,24,Punt
+10,3,3:02,TEN 25,3,1:25,75,Touchdown
+11,4,14:17,TEN 25,3,2:02,3,Punt
+12,4,11:51,TEN 15,9,4:52,85,Touchdown
+13,4,3:46,TEN 27,5,1:27,9,Punt
+14,4,1:30,ATL 22,3,1:30,-3,End of Game

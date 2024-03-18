@@ -1,0 +1,180 @@
+Quarter,Time,Down,ToGo,Location,MIN,DET,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Lions won the coin toss, Lions to receive the opening kickoff.",,
+1,15:00,,,MIN 35,0,0,"Greg Joseph kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,DET 25,0,0,David Montgomery left tackle for 4 yards (tackle by Jordan Hicks and Josh Metellus),0.610,0.600
+1,14:27,2,6,DET 29,0,0,Jared Goff pass incomplete short left,0.600,-0.100
+1,14:20,3,6,DET 29,0,0,Jared Goff pass incomplete short left intended for Sam LaPorta (defended by Josh Metellus),-0.100,-1.440
+1,14:16,4,6,DET 29,0,0,Jack Fox punts 61 yards downed by Khalil Dorsey,-1.440,0.380
+1,14:05,1,10,MIN 10,0,0,Nick Mullens pass complete short right to Josh Oliver for 11 yards (tackle by Jack Campbell),-0.380,0.340
+1,13:29,1,10,MIN 21,0,0,Ty Chandler right tackle for 2 yards (tackle by Derrick Barnes and Jack Campbell),0.340,0.070
+1,12:47,2,8,MIN 23,0,0,Ty Chandler right tackle for 9 yards (tackle by Ifeatu Melifonwu),0.070,1.070
+1,11:57,1,10,MIN 32,0,0,"Penalty on Nick Mullens: Delay of Game, 5 yards (accepted) (no play)",1.070,0.740
+1,11:45,1,15,MIN 27,0,0,Ty Chandler right end for 5 yards (tackle by Alex Anzalone),0.740,0.530
+1,11:06,2,10,MIN 32,0,0,Nick Mullens pass complete short left to K.J. Osborn for 6 yards (tackle by Ifeatu Melifonwu),0.530,0.630
+1,10:29,3,4,MIN 38,0,0,Nick Mullens pass incomplete short left intended for K.J. Osborn (defended by Josh Paschal),0.630,-0.850
+1,10:26,4,4,MIN 38,0,0,"Ryan Wright punts 56 yards, returned by Kalif Raymond for 42 yards (tackle by Andrew DePaola)",-0.850,-2.130
+1,10:07,1,10,DET 48,0,0,Jared Goff pass complete deep left to Amon-Ra St. Brown for 34 yards (tackle by Harrison Smith),2.130,4.370
+1,9:24,1,10,MIN 18,0,0,Jared Goff pass complete short left to Amon-Ra St. Brown for 13 yards (tackle by Jordan Hicks and Patrick Jones),4.370,6.060
+1,8:43,1,5,MIN 5,0,0,David Montgomery up the middle for 3 yards (tackle by Jonathan Bullard),6.060,5.720
+1,8:10,2,2,MIN 2,0,6,"Jared Goff pass complete short left to Sam LaPorta for 2 yards, touchdown",5.720,7.000
+1,8:06,,,MIN 15,0,7,Michael Badgley kicks extra point good,0.000,0.000
+1,8:06,,,DET 35,0,7,"Jack Fox kicks off 65 yards, touchback.",0.000,0.610
+1,8:06,1,10,MIN 25,0,7,Nick Mullens sacked by Jack Campbell for -9 yards,0.610,-1.290
+1,7:22,2,19,MIN 16,0,7,"Alexander Mattison left tackle for 2 yards (tackle by Aidan Hutchinson). Penalty on Christian Darrisaw: Illegal Shift, 5 yards (declined)",-1.290,-1.720
+1,7:07,3,17,MIN 18,0,7,Nick Mullens pass complete short left to Alexander Mattison for 5 yards (tackle by Jalen Reeves-Maybin),-1.720,-1.830
+1,6:22,4,12,MIN 23,0,7,"Ryan Wright punts 57 yards, returned by Kalif Raymond for 16 yards (tackle by Nick Muse and Ivan Pace)",-1.830,-1.330
+1,6:05,1,10,DET 36,0,7,Jahmyr Gibbs left tackle for 2 yards (tackle by Jonathan Bullard and Ivan Pace),1.330,1.060
+1,5:30,2,8,DET 38,0,7,Jared Goff pass complete short right to Amon-Ra St. Brown for 8 yards (tackle by Camryn Bynum),1.060,1.990
+1,4:55,1,10,DET 46,0,7,Jared Goff pass complete short left to Sam LaPorta for 8 yards (tackle by Andrew Booth),1.990,2.530
+1,4:13,2,2,MIN 46,0,7,Jahmyr Gibbs left tackle for 1 yard (tackle by Camryn Bynum and Ivan Pace),2.530,1.950
+1,3:29,3,1,MIN 45,0,7,Jared Goff pass incomplete short right intended for Sam LaPorta (defended by Harrison Smith),1.950,0.270
+1,3:22,4,1,MIN 45,0,7,Jahmyr Gibbs up the middle for 1 yard (tackle by Ivan Pace),0.270,2.650
+1,2:56,1,10,MIN 44,0,7,Jared Goff pass complete deep left to Kalif Raymond for 41 yards,2.650,6.510
+1,2:17,1,3,MIN 3,0,13,"Jahmyr Gibbs right end for 3 yards, touchdown",6.510,7.000
+1,2:12,,,MIN 15,0,13,Michael Badgley kicks extra point no good,0.000,-1.000
+1,2:12,,,DET 35,0,13,"Jack Fox kicks off 68 yards, returned by Kene Nwangwu for 23 yards (tackle by Jason Cabinda)",0.000,0.280
+1,2:07,1,10,MIN 20,0,13,Ty Chandler right end for 14 yards (tackle by C.J. Gardner-Johnson),0.280,1.200
+1,1:33,1,10,MIN 34,0,13,"Ty Chandler right end for no gain (tackle by Kerby Joseph). Penalty on Garrett Bradbury: Offensive Holding, 10 yards (accepted) (no play)",1.200,0.540
+1,1:08,1,20,MIN 24,0,13,"Nick Mullens pass incomplete short middle. Penalty on Nick Mullens: Intentional Grounding, 10 yards (accepted)",0.540,-2.190
+1,1:03,2,30,MIN 14,0,13,Nick Mullens pass complete deep right to Johnny Mundt for 32 yards (tackle by C.J. Gardner-Johnson),-2.190,1.990
+1,0:27,1,10,MIN 46,0,13,Nick Mullens pass incomplete short left intended for Ty Chandler,1.990,1.450
+1,0:26,2,10,MIN 46,0,13,Ty Chandler up the middle for 2 yards (tackle by Cameron Sutton),1.450,1.030
+Quarter,Time,Down,ToGo,Location,MIN,DET,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,8,MIN 48,0,13,"Penalty on Blake Brandel: False Start, 5 yards (accepted) (no play)",1.030,0.370
+2,15:00,3,13,MIN 43,0,13,Nick Mullens pass complete short right to Justin Jefferson for 7 yards (tackle by Alex Anzalone),0.370,-0.060
+2,13:57,4,6,DET 50,0,13,"Nick Mullens scrambles for 6 yards (tackle by Alex Anzalone). Penalty on Kindle Vildor: Illegal Contact, 5 yards (accepted)",-0.060,2.980
+2,13:43,1,10,DET 39,0,13,Nick Mullens pass incomplete deep right intended for Jordan Addison,2.980,2.440
+2,13:37,2,10,DET 39,0,13,Alexander Mattison left tackle for 4 yards (tackle by Jack Campbell),2.440,2.280
+2,12:56,3,6,DET 35,0,13,"Nick Mullens sacked by Romeo Okwara for no gain. Penalty on Brian Branch: Defensive Holding, 5 yards (accepted) (no play)",2.280,3.580
+2,12:29,,,,,,Timeout #1 by Detroit Lions,,
+2,12:29,1,10,DET 30,0,13,Nick Mullens pass complete deep middle to Justin Jefferson for 22 yards (tackle by Kerby Joseph),3.580,5.370
+2,11:49,1,8,DET 8,0,13,Alexander Mattison left tackle for no gain (tackle by Derrick Barnes and Jack Campbell),5.370,4.570
+2,11:08,2,8,DET 8,0,13,Justin Jefferson right end for -12 yards (tackle by Aidan Hutchinson),4.570,2.340
+2,10:16,3,20,DET 20,0,13,"Penalty on Nick Mullens: Delay of Game, 5 yards (accepted) (no play)",2.340,1.680
+2,10:16,3,25,DET 25,0,13,Nick Mullens pass complete short left to Justin Jefferson for 4 yards (tackle by Brian Branch),1.680,2.060
+2,9:24,4,21,DET 21,3,13,Greg Joseph 39 yard field goal good,2.060,3.000
+2,9:20,,,MIN 35,3,13,"Greg Joseph kicks off 65 yards, returned by Craig Reynolds for 26 yards (tackle by C.J. Ham)",0.000,0.670
+2,9:14,1,10,DET 26,3,13,David Montgomery left tackle for 1 yard (tackle by Danielle Hunter and Harrison Phillips),0.670,0.270
+2,8:40,2,9,DET 27,3,13,Jared Goff pass complete short left to Sam LaPorta for 9 yards (tackle by Jordan Hicks),0.270,1.330
+2,8:03,1,10,DET 36,3,13,David Montgomery right tackle for 2 yards (tackle by Danielle Hunter),1.330,1.060
+2,7:31,2,8,DET 38,3,13,Jared Goff pass incomplete deep left intended for Amon-Ra St. Brown,1.060,0.370
+2,7:24,3,8,DET 38,3,13,Jared Goff pass complete short left to Sam LaPorta for 5 yards (tackle by Camryn Bynum),0.370,-0.520
+2,6:36,4,3,DET 43,3,13,Jack Fox punts 55 yards downed by Khalil Dorsey,-0.520,0.380
+2,6:31,1,10,MIN 2,3,13,Alexander Mattison up the middle for 3 yards (tackle by Benito Jones),-0.380,-0.560
+2,5:54,2,7,MIN 5,3,13,Nick Mullens pass complete short left to Josh Oliver for 20 yards (tackle by Kerby Joseph),-0.560,0.610
+2,5:21,1,10,MIN 25,3,13,Alexander Mattison right end for 6 yards (tackle by Jack Campbell),0.610,0.870
+2,5:04,2,4,MIN 31,3,13,Nick Mullens pass complete short left to Jordan Addison for 5 yards (tackle by Cameron Sutton),0.870,1.330
+2,4:24,1,10,MIN 36,3,13,Nick Mullens sacked by Aidan Hutchinson for -8 yards,1.330,-0.290
+2,3:44,2,18,MIN 28,3,13,Nick Mullens pass incomplete deep left intended for Justin Jefferson (defended by Cameron Sutton),-0.290,-0.960
+2,3:34,3,18,MIN 28,3,13,Nick Mullens pass complete short middle to Justin Jefferson for 9 yards (tackle by Jalen Reeves-Maybin),-0.960,-0.910
+2,2:48,4,9,MIN 37,3,13,"Ryan Wright punts 58 yards, returned by Kalif Raymond for 13 yards (tackle by Ivan Pace and Nick Vigil)",-0.910,-0.040
+2,2:35,1,10,DET 18,3,13,Jared Goff pass incomplete short right intended for Jahmyr Gibbs,0.040,-0.490
+2,2:31,2,10,DET 18,3,13,Jahmyr Gibbs up the middle for 6 yards (tackle by Harrison Phillips),-0.490,-0.400
+2,2:00,3,4,DET 24,3,13,"Jared Goff pass complete short left to Sam LaPorta for 5 yards (tackle by Josh Metellus). Penalty on Josh Metellus: Illegal Use of Hands / Defense, 5 yards (declined)",-0.400,0.870
+2,1:50,,,,,,Timeout #2 by Detroit Lions,,
+2,1:50,1,10,DET 29,3,13,Jahmyr Gibbs up the middle for 8 yards (tackle by Ivan Pace),0.870,1.410
+2,1:33,2,2,DET 37,3,13,Jared Goff pass complete short right to Amon-Ra St. Brown for 1 yard,1.410,0.830
+2,1:30,3,1,DET 38,3,13,Jahmyr Gibbs right end for -3 yards (tackle by Danielle Hunter and Jordan Hicks),0.830,-1.040
+2,1:12,,,,,,Timeout #1 by Minnesota Vikings,,
+2,1:12,4,4,DET 35,3,13,"Jack Fox punts 45 yards, returned by Brandon Powell for 13 yards (tackle by Malcolm Rodriguez). Penalty on Brian Asamoah: Unnecessary Roughness / Offense, 15 yards (accepted)",-1.040,-0.040
+2,1:12,1,10,MIN 18,3,13,Nick Mullens pass complete deep left to Justin Jefferson for 26 yards (tackle by Kerby Joseph),0.040,1.860
+2,1:06,1,10,MIN 44,3,13,Nick Mullens pass complete short middle to Justin Jefferson for 20 yards (tackle by Julian Okwara and Cameron Sutton),1.860,3.180
+2,0:46,1,10,DET 36,3,13,Nick Mullens pass complete short right to Ty Chandler for 14 yards (tackle by Jack Campbell),3.180,4.110
+2,0:36,1,10,DET 22,3,13,Nick Mullens sacked by Aidan Hutchinson for -9 yards,4.110,2.350
+2,0:32,,,,,,Timeout #2 by Minnesota Vikings,,
+2,0:32,2,19,DET 31,3,13,Nick Mullens pass incomplete deep left intended for Justin Jefferson (defended by Ifeatu Melifonwu),2.350,1.690
+2,0:27,3,19,DET 31,3,13,Nick Mullens pass complete short middle to Johnny Mundt for 6 yards (tackle by Kerby Joseph),1.690,1.800
+2,0:02,,,,,,Timeout #3 by Minnesota Vikings,,
+2,0:02,4,13,DET 25,6,13,Greg Joseph 43 yard field goal good,1.800,3.000
+Quarter,Time,Down,ToGo,Location,MIN,DET,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DET 35,6,13,"Jack Fox kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,MIN 25,6,13,Ty Chandler left end for 1 yard (tackle by Tyson Alualu),0.610,0.200
+3,14:27,2,9,MIN 26,6,13,Nick Mullens pass complete short left to Justin Jefferson for 12 yards (tackle by Cameron Sutton),0.200,1.470
+3,13:53,1,10,MIN 38,6,13,Nick Mullens pass complete short left to Jordan Addison for 5 yards (tackle by Cameron Sutton and Alex Anzalone),1.470,1.600
+3,13:17,2,5,MIN 43,6,13,Ty Chandler left end for 19 yards (tackle by Cameron Sutton and Jack Campbell),1.600,3.050
+3,12:24,1,10,DET 38,6,13,Nick Mullens pass incomplete short left intended for Josh Oliver (defended by Romeo Okwara),3.050,2.510
+3,12:17,2,10,DET 38,6,13,Ty Chandler left end for 7 yards (tackle by Alex Anzalone and Jack Campbell),2.510,2.740
+3,11:39,3,3,DET 31,6,13,Nick Mullens pass incomplete short right intended for Brandon Powell,2.740,1.380
+3,11:34,4,3,DET 31,6,13,Nick Mullens pass complete short right to Brandon Powell for 2 yards (tackle by Cameron Sutton),1.380,-0.870
+3,11:29,1,10,DET 29,6,13,Jared Goff pass complete short middle to Amon-Ra St. Brown for 14 yards (tackle by Harrison Smith),0.870,1.800
+3,10:51,1,10,DET 43,6,13,Jared Goff pass incomplete deep middle intended for Amon-Ra St. Brown,1.800,1.250
+3,10:46,2,10,DET 43,6,13,David Montgomery up the middle for 4 yards (tackle by Harrison Phillips),1.250,1.090
+3,10:11,3,6,DET 47,6,13,Jared Goff pass complete short middle to Donovan Peoples-Jones for 5 yards (tackle by Josh Metellus),1.090,0.070
+3,9:33,4,1,MIN 48,6,13,Jared Goff pass complete deep right to Donovan Peoples-Jones for 20 yards,0.070,3.710
+3,8:56,1,10,MIN 28,6,13,Jared Goff pass complete short right to Dan Skipper for 4 yards (tackle by Josh Metellus),3.710,3.710
+3,8:16,2,6,MIN 24,6,13,David Montgomery left tackle for 6 yards (tackle by Camryn Bynum and Harrison Phillips),3.710,4.370
+3,7:33,1,10,MIN 18,6,13,"Jared Goff pass incomplete intended for Josh Reynolds. Penalty on Joejuan Williams: Defensive Pass Interference, 17 yards (accepted) (no play)",4.370,6.970
+3,7:23,1,1,MIN 1,6,13,Jared Goff pass incomplete short middle intended for Josh Reynolds,6.970,5.910
+3,7:19,2,1,MIN 1,6,19,"David Montgomery left tackle for 1 yard, touchdown",5.910,7.000
+3,7:14,,,MIN 15,6,20,Michael Badgley kicks extra point good,0.000,0.000
+3,7:14,,,DET 35,6,20,"Jack Fox kicks off 67 yards, returned by Kene Nwangwu for 28 yards (tackle by Jason Cabinda and Derrick Barnes)",0.000,0.670
+3,7:09,1,10,MIN 26,6,20,Nick Mullens pass complete short right to K.J. Osborn for 3 yards (tackle by Ifeatu Melifonwu),0.670,0.540
+3,6:45,2,7,MIN 29,6,20,Ty Chandler up the middle for 4 yards (tackle by Derrick Barnes),0.540,0.370
+3,6:05,3,3,MIN 33,6,20,Nick Mullens sacked by Levi Onwuzurike for -11 yards,0.370,-1.900
+3,5:27,4,14,MIN 22,6,20,"Ryan Wright punts 53 yards, returned by Kalif Raymond for 18 yards (tackle by Ivan Pace)",-1.900,-1.800
+3,5:07,1,10,DET 43,6,20,Jared Goff pass complete short right to Amon-Ra St. Brown for 4 yards (tackle by Jonathan Bullard),1.800,1.790
+3,4:40,2,6,DET 47,6,20,Jahmyr Gibbs left tackle for 4 yards (tackle by Danielle Hunter and Harrison Phillips),1.790,1.620
+3,3:52,3,2,MIN 49,6,20,Jared Goff pass incomplete short right intended for Amon-Ra St. Brown (defended by Joejuan Williams),1.620,0.000
+3,3:47,4,2,MIN 49,6,20,"Jack Fox punts 49 yards, touchback.",0.000,-0.280
+3,3:37,1,10,MIN 20,6,20,Nick Mullens pass complete short middle to Nick Muse for 22 yards (tackle by Alex Anzalone),0.280,1.730
+3,3:02,1,10,MIN 42,6,20,Alexander Mattison right tackle for 11 yards (tackle by Alex Anzalone and Ifeatu Melifonwu),1.730,2.460
+3,2:25,1,10,DET 47,6,20,Alexander Mattison right tackle for -2 yards (tackle by Josh Paschal),2.460,1.640
+3,1:50,2,12,DET 49,6,20,Nick Mullens pass complete short left to Johnny Mundt for 2 yards (tackle by Alex Anzalone),1.640,1.220
+3,1:09,3,10,DET 47,6,20,Nick Mullens pass complete short left to Justin Jefferson for 9 yards (tackle by Cameron Sutton),1.220,0.720
+3,0:26,4,1,DET 38,12,20,"Nick Mullens pass complete deep right to Justin Jefferson for 38 yards, touchdown",0.720,7.000
+3,0:20,,,DET 15,13,20,Greg Joseph kicks extra point good,0.000,0.000
+3,0:20,,,MIN 35,13,20,"Greg Joseph kicks off 65 yards, touchback.",0.000,0.610
+3,0:20,1,10,DET 25,13,20,Jahmyr Gibbs left tackle for 5 yards (tackle by Danielle Hunter and Camryn Bynum),0.610,0.740
+Quarter,Time,Down,ToGo,Location,MIN,DET,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,5,DET 30,13,26,"Jared Goff pass complete deep left to Amon-Ra St. Brown for 70 yards, touchdown",0.740,7.000
+4,14:45,,,MIN 15,13,27,Michael Badgley kicks extra point good,0.000,0.000
+4,14:45,,,DET 35,13,27,"Jack Fox kicks off 65 yards, touchback.",0.000,0.610
+4,14:45,1,10,MIN 25,13,27,Ty Chandler right tackle for 4 yards (tackle by Jack Campbell),0.610,0.600
+4,14:11,2,6,MIN 29,13,27,Nick Mullens pass complete deep left to Justin Jefferson for 29 yards (tackle by Kerby Joseph),0.600,2.790
+4,13:28,1,10,DET 42,19,27,"Nick Mullens pass complete deep left to Jordan Addison for 42 yards, touchdown",2.790,7.000
+4,13:22,,,DET 15,20,27,Greg Joseph kicks extra point good,0.000,0.000
+4,13:22,,,MIN 35,20,27,"Greg Joseph kicks off 65 yards, touchback.",0.000,0.610
+4,13:22,1,10,DET 25,20,27,Jared Goff pass complete short right to Kalif Raymond for 9 yards (tackle by Khyiris Tonga),0.610,1.280
+4,13:08,2,1,DET 34,20,27,David Montgomery left tackle for 5 yards (tackle by Harrison Smith),1.280,1.530
+4,12:32,1,10,DET 39,20,27,David Montgomery right tackle for 6 yards (tackle by Jaylin Williams),1.530,1.800
+4,11:54,2,4,DET 45,20,27,Jared Goff pass complete short middle to Josh Reynolds for 18 yards (tackle by Jordan Hicks),1.800,3.120
+4,11:11,1,10,MIN 37,20,27,Jahmyr Gibbs left guard for 2 yards (tackle by Josh Metellus and Harrison Phillips),3.120,2.840
+4,10:31,2,8,MIN 35,20,27,"Penalty on Graham Glasgow: False Start, 5 yards (accepted) (no play)",2.840,2.170
+4,10:31,2,13,MIN 40,20,27,Jared Goff pass complete short left to James Mitchell for 24 yards (tackle by Akayleb Evans),2.170,4.510
+4,9:46,1,10,MIN 16,20,27,Jared Goff pass incomplete deep right intended for Josh Reynolds,4.510,3.900
+4,9:40,2,10,MIN 16,20,27,Jahmyr Gibbs right end for 4 yards (tackle by Josh Metellus),3.900,3.730
+4,9:05,3,6,MIN 12,20,27,Jared Goff sacked by Danielle Hunter for -9 yards,3.730,2.060
+4,8:18,4,15,MIN 21,20,30,Michael Badgley 39 yard field goal good,2.060,3.000
+4,8:14,,,DET 35,20,30,"Jack Fox kicks off 65 yards, touchback.",0.000,0.610
+4,8:14,1,10,MIN 25,20,30,Nick Mullens pass complete short left to Justin Jefferson for 2 yards (tackle by C.J. Gardner-Johnson),0.610,0.330
+4,7:35,2,8,MIN 27,20,30,"Nick Mullens pass incomplete intended for K.J. Osborn. Penalty on Cameron Sutton: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",0.330,1.070
+4,7:30,1,10,MIN 32,20,30,Nick Mullens pass complete short middle to Johnny Mundt for 8 yards (tackle by Alex Anzalone and Jack Campbell),1.070,1.610
+4,7:04,2,2,MIN 40,20,30,Ty Chandler up the middle for 1 yard (tackle by Josh Paschal and Ifeatu Melifonwu),1.610,1.030
+4,6:42,3,1,MIN 41,20,30,Nick Mullens up the middle for 2 yards (tackle by Tyson Alualu),1.030,1.800
+4,5:58,1,10,MIN 43,20,30,Nick Mullens pass incomplete short right intended for Johnny Mundt,1.800,1.250
+4,5:51,2,10,MIN 43,20,30,Ty Chandler right tackle for 1 yard (tackle by Alim McNeill),1.250,0.690
+4,5:06,3,9,MIN 44,20,30,"Nick Mullens pass complete short left to Johnny Mundt for 10 yards (tackle by Cameron Sutton) DET challenged the pass completion ruling, and the play was upheld.",0.690,2.520
+4,4:40,1,10,DET 46,20,30,Nick Mullens pass complete short left to Ty Chandler for 6 yards (tackle by Derrick Barnes),2.520,2.720
+4,4:10,2,5,DET 40,20,30,Nick Mullens pass complete short middle to Justin Jefferson for 14 yards (tackle by Jack Campbell),2.720,3.840
+4,3:32,1,10,DET 26,20,30,Nick Mullens pass incomplete short left intended for K.J. Osborn,3.840,3.300
+4,3:28,2,10,DET 26,20,30,Nick Mullens pass incomplete short right intended for Brandon Powell (defended by Brian Branch),3.300,2.610
+4,3:23,3,10,DET 26,20,30,Nick Mullens pass short middle (defended by Ifeatu Melifonwu) intended for Jordan Addison is intercepted by Cameron Sutton at DET-14 and returned for 23 yards (tackle by Nick Mullens),2.610,-1.400
+4,3:11,1,10,DET 37,20,30,Jahmyr Gibbs right tackle for -4 yards (tackle by Khyiris Tonga),1.400,0.320
+4,3:06,,,,,,Timeout #1 by Minnesota Vikings,,
+4,3:06,2,14,DET 33,20,30,Jahmyr Gibbs right end for 1 yard (tackle by Jordan Hicks),0.320,-0.230
+4,3:01,,,,,,Timeout #2 by Minnesota Vikings,,
+4,3:01,3,13,DET 34,20,30,David Montgomery up the middle for 8 yards (tackle by Akayleb Evans and Jordan Hicks),-0.230,-0.590
+4,2:55,,,,,,Timeout #3 by Minnesota Vikings,,
+4,2:55,4,5,DET 42,20,30,"Jack Fox punts 58 yards, touchback.. Penalty on Jay Ward: Offensive Holding, 10 yards (accepted)",-0.590,0.380
+4,2:47,1,10,MIN 10,20,30,Nick Mullens pass complete short left to Jordan Addison for 5 yards (tackle by C.J. Gardner-Johnson),-0.380,-0.350
+4,2:22,2,5,MIN 15,20,30,Nick Mullens pass incomplete deep left intended for Jordan Addison,-0.350,-0.840
+4,2:16,3,5,MIN 15,20,30,Nick Mullens pass deep middle intended for Jordan Addison is intercepted by C.J. Gardner-Johnson at MIN-39 and returned for no gain (tackle by Jordan Addison),-0.840,-2.980
+4,2:08,1,10,MIN 39,20,30,Jared Goff pass complete short right to Josh Reynolds for 9 yards (tackle by Ivan Pace),2.980,3.660
+4,2:00,2,1,MIN 30,20,30,Jared Goff pass complete short left to Josh Reynolds for 8 yards (tackle by Jay Ward),3.660,4.110
+4,1:24,1,10,MIN 22,20,30,Jared Goff pass complete short right to Josh Reynolds for 2 yards (tackle by Camryn Bynum and Ivan Pace),4.110,3.830
+4,0:33,2,8,MIN 20,20,30,Jared Goff pass complete short left to Josh Reynolds for 7 yards (tackle by Camryn Bynum),3.830,4.390
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

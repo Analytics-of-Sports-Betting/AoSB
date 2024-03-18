@@ -1,0 +1,189 @@
+Quarter,Time,Down,ToGo,Location,MIN,PHI,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Vikings won the coin toss and deferred, Eagles to receive the opening kickoff.",,
+1,15:00,,,MIN 35,0,0,"Greg Joseph kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,PHI 25,0,0,Jalen Hurts pass complete short right to DeVonta Smith for 6 yards (tackle by Byron Murphy and Camryn Bynum),0.610,0.870
+1,14:28,2,4,PHI 31,0,0,Jalen Hurts sacked by and Ivan Pace for -1 yards and Harrison Phillips for -1 yards,0.870,0.040
+1,13:47,3,5,PHI 30,0,0,Jalen Hurts scrambles right end for 7 yards (tackle by Harrison Phillips),0.040,1.400
+1,13:12,1,10,PHI 37,0,0,Jalen Hurts pass complete short left to Dallas Goedert for -1 yards (tackle by Camryn Bynum),1.400,0.720
+1,12:29,2,11,PHI 36,0,0,Jalen Hurts pass complete deep right to DeVonta Smith for 54 yards (tackle by Theo Jackson),0.720,4.910
+1,11:52,1,10,MIN 10,0,0,Jalen Hurts pass complete short left to A.J. Brown for 1 yard (tackle by Theo Jackson and Camryn Bynum),4.910,4.380
+1,11:13,2,9,MIN 9,0,0,D'Andre Swift right guard for 1 yard (tackle by Harrison Phillips and D.J. Wonnum),4.380,3.580
+1,10:35,3,8,MIN 8,0,0,Jalen Hurts right tackle for 2 yards (tackle by Jordan Hicks and Camryn Bynum),3.580,2.990
+1,9:51,4,6,MIN 6,0,3,Jake Elliott 24 yard field goal good,2.990,3.000
+1,9:48,,,PHI 35,0,3,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+1,9:48,1,10,MIN 25,0,3,Kirk Cousins pass complete deep right to Justin Jefferson for 15 yards (tackle by Darius Slay),0.610,1.600
+1,9:10,1,10,MIN 40,0,3,Kirk Cousins pass complete short right to Justin Jefferson for 1 yard (tackle by Darius Slay),1.600,1.190
+1,8:27,2,9,MIN 41,0,3,Kirk Cousins pass incomplete short right intended for Alexander Mattison,1.190,0.500
+1,8:24,3,9,MIN 41,0,3,Kirk Cousins pass incomplete short middle intended for K.J. Osborn,0.500,-0.650
+1,8:20,4,9,MIN 41,0,3,"Ryan Wright punts 51 yards, returned by Britain Covey for 2 yards. Britain Covey fumbles (forced by Troy Dye), recovered by Kelee Ringo at PHI-10 (tackle by Troy Dye)",-0.650,0.380
+1,8:08,1,10,PHI 10,0,3,Jalen Hurts pass incomplete deep right intended for Dallas Goedert,-0.380,-0.780
+1,8:02,2,10,PHI 10,0,3,Jalen Hurts pass complete short right to Dallas Goedert for 6 yards (tackle by Harrison Smith),-0.780,-0.720
+1,7:23,3,4,PHI 16,0,3,"Penalty on Lane Johnson: False Start, 5 yards (accepted) (no play)",-0.720,-1.300
+1,7:04,3,9,PHI 11,0,3,Jalen Hurts scrambles right tackle for 3 yards (tackle by D.J. Wonnum and Jordan Hicks),-1.300,-2.470
+1,6:12,4,6,PHI 14,0,3,"Arryn Siposs punts 40 yards, returned by Brandon Powell for 20 yards. Brandon Powell fumbles (forced by Justin Evans), recovered by Nicholas Morrow at PHI-27 (tackle by Justin Evans)",-2.470,0.740
+1,6:09,1,10,PHI 27,0,3,D'Andre Swift left guard for 7 yards (tackle by Harrison Smith),0.740,1.140
+1,5:54,2,3,PHI 34,0,3,D'Andre Swift right guard for 4 yards (tackle by Camryn Bynum and Ivan Pace),1.140,1.470
+1,5:16,1,10,PHI 38,0,3,D'Andre Swift right end for 12 yards (tackle by Jordan Hicks),1.470,2.260
+1,4:30,1,10,PHI 50,0,3,Jalen Hurts sacked by Danielle Hunter for -7 yards,2.260,0.770
+1,3:50,2,17,PHI 43,0,3,Jalen Hurts pass complete short left to Dallas Goedert for 1 yard (tackle by Theo Jackson and Akayleb Evans),0.770,0.230
+1,3:06,3,16,PHI 44,0,3,Jalen Hurts pass deep middle intended for DeVonta Smith is intercepted by Theo Jackson at MIN-35 and returned for no gain (tackle by DeVonta Smith),0.230,-1.270
+1,2:58,1,10,MIN 35,0,3,"Alexander Mattison left tackle for 2 yards. Alexander Mattison fumbles (forced by Avonte Maddox) (tackle by Josh Jobe), recovered by Justin Evans at MIN-39 (tackle by Alexander Mattison)",1.270,-2.980
+1,2:50,1,10,MIN 39,0,3,Jalen Hurts left end for no gain (tackle by Jordan Hicks),2.980,2.440
+1,2:15,2,10,MIN 39,0,3,Jalen Hurts pass complete short left to A.J. Brown for 5 yards (tackle by Jordan Hicks),2.440,2.410
+1,1:31,3,5,MIN 34,0,3,Jalen Hurts for -3 yards (tackle by Jordan Hicks and D.J. Wonnum),2.410,0.790
+1,0:48,4,8,MIN 37,0,3,Jake Elliott 55 yard field goal no good,0.790,-1.930
+1,0:42,1,10,MIN 45,0,3,Kirk Cousins sacked by Jordan Davis for -7 yards,1.930,0.440
+1,0:07,2,17,MIN 38,0,3,"Kirk Cousins pass incomplete deep left intended for Justin Jefferson. Penalty on Fletcher Cox: Defensive Offside, 5 yards (accepted) (no play)",0.440,1.110
+Quarter,Time,Down,ToGo,Location,MIN,PHI,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,12,MIN 43,0,3,Kirk Cousins pass complete short right to Jordan Addison for 9 yards (tackle by Josh Jobe),1.110,1.620
+2,14:27,3,3,PHI 48,0,3,Kirk Cousins pass complete short left to K.J. Osborn for 6 yards (tackle by Josh Jobe),1.620,2.790
+2,13:57,1,10,PHI 42,0,3,Alexander Mattison right guard for -2 yards (tackle by Jalen Carter),2.790,1.900
+2,13:20,2,13,PHI 44,0,3,Kirk Cousins pass complete short right to T.J. Hockenson for 3 yards (tackle by Zach Cunningham),1.900,1.680
+2,12:41,3,9,PHI 41,0,3,Kirk Cousins pass complete short middle to T.J. Hockenson for 24 yards (tackle by Justin Evans),1.680,4.440
+2,12:01,1,10,PHI 17,0,3,Alexander Mattison left end for 5 yards (tackle by Avonte Maddox),4.440,4.690
+2,11:24,2,5,PHI 12,0,3,Kirk Cousins pass complete short right to Justin Jefferson for 7 yards (tackle by Josh Jobe),4.690,6.060
+2,10:45,1,5,PHI 5,6,3,"Kirk Cousins pass complete short left to T.J. Hockenson for 5 yards, touchdown",6.060,7.000
+2,10:39,,,PHI 15,7,3,Greg Joseph kicks extra point good,0.000,0.000
+2,10:39,,,MIN 35,7,3,"Greg Joseph kicks off 65 yards, touchback.",0.000,0.610
+2,10:39,1,10,PHI 25,7,3,D'Andre Swift right guard for 7 yards (tackle by Ivan Pace),0.610,1.010
+2,10:09,2,3,PHI 32,7,3,D'Andre Swift right guard for 3 yards (tackle by Harrison Phillips),1.010,1.270
+2,9:30,1,10,PHI 35,7,3,Jalen Hurts pass complete short left to D'Andre Swift for 1 yard (tackle by Brian Asamoah),1.270,0.860
+2,8:54,2,9,PHI 36,7,3,D'Andre Swift up the middle for 6 yards (tackle by Harrison Smith),0.860,0.960
+2,8:33,3,3,PHI 42,7,3,D'Andre Swift up the middle for 4 yards (tackle by Harrison Phillips),0.960,1.990
+2,7:59,1,10,PHI 46,7,3,D'Andre Swift left guard for 3 yards (tackle by Harrison Phillips and Patrick Jones),1.990,1.790
+2,7:23,2,8,PHI 49,7,3,Boston Scott left guard for 6 yards (tackle by Danielle Hunter and Harrison Smith),1.790,1.950
+2,6:55,3,1,MIN 45,7,3,Boston Scott right guard for 4 yards (tackle by Camryn Bynum),1.950,2.850
+2,6:20,1,10,MIN 41,7,3,Jalen Hurts right end for 8 yards (tackle by Josh Metellus),2.850,3.390
+2,5:44,2,2,MIN 33,7,3,Boston Scott up the middle for 5 yards (tackle by Jordan Hicks and Camryn Bynum),3.390,3.710
+2,5:00,1,10,MIN 28,7,3,Jalen Hurts pass incomplete short right,3.710,3.170
+2,4:58,2,10,MIN 28,7,3,Jalen Hurts pass complete short right to A.J. Brown for 11 yards (tackle by Camryn Bynum and Josh Metellus),3.170,4.440
+2,4:16,1,10,MIN 17,7,3,D'Andre Swift up the middle for 7 yards (tackle by Ivan Pace),4.440,5.100
+2,3:47,2,3,MIN 10,7,3,D'Andre Swift right end for 5 yards (tackle by Jordan Hicks and Harrison Smith),5.100,6.060
+2,3:15,1,5,MIN 5,7,3,D'Andre Swift up the middle for 4 yards (tackle by Josh Metellus),6.060,5.910
+2,2:46,,,,,,Timeout #1 by Minnesota Vikings,,
+2,2:46,2,1,MIN 1,7,9,"Jalen Hurts for 1 yard, touchdown",5.910,7.000
+2,2:44,,,MIN 15,7,10,Jake Elliott kicks extra point good,0.000,0.000
+2,2:44,,,PHI 35,7,10,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+2,2:44,1,10,MIN 25,7,10,Kirk Cousins pass complete short right to Josh Oliver for 13 yards (tackle by Terrell Edmunds),0.610,1.470
+2,2:17,1,10,MIN 38,7,10,Alexander Mattison right guard for 4 yards (tackle by Jalen Carter),1.470,1.460
+2,2:00,2,6,MIN 42,7,10,Kirk Cousins pass complete short middle to T.J. Hockenson for 5 yards (tackle by Zach Cunningham and Terrell Edmunds),1.460,1.420
+2,1:20,3,1,MIN 47,7,10,Kirk Cousins pass complete short left to Justin Jefferson for 4 yards (tackle by Darius Slay),1.420,2.320
+2,0:58,1,10,PHI 49,7,10,Kirk Cousins pass incomplete short left intended for Alexander Mattison,2.320,1.780
+2,0:52,,,,,,Timeout #2 by Minnesota Vikings,,
+2,0:52,2,10,PHI 49,7,10,Kirk Cousins pass complete short right to K.J. Osborn for 18 yards (tackle by Mario Goodrich),1.780,3.510
+2,0:46,1,10,PHI 31,7,10,Kirk Cousins pass incomplete deep left intended for Jordan Addison,3.510,2.970
+2,0:41,2,10,PHI 31,7,10,"Kirk Cousins pass complete deep left to Justin Jefferson for no gain (tackle by Terrell Edmunds) Replay Assistant challenged the runner was in bounds ruling, and the original play was overturned. Kirk Cousins pass complete to Justin Jefferson for 30 yards. Justin Jefferson fumbles, ball out of bounds in end zone (forced by Terrell Edmunds)",2.970,-0.280
+2,0:34,1,10,PHI 20,7,10,Boston Scott left guard for 7 yards (tackle by Ivan Pace),0.280,0.680
+2,0:29,,,,,,Timeout #1 by Philadelphia Eagles,,
+2,0:29,2,3,PHI 27,7,10,Boston Scott right end for 18 yards (tackle by Josh Metellus and Mekhi Blackmon),0.680,1.930
+2,0:21,,,,,,Timeout #2 by Philadelphia Eagles,,
+2,0:21,1,10,PHI 45,7,10,Jalen Hurts scrambles left end for 4 yards (tackle by Patrick Jones),1.930,1.920
+2,0:12,2,6,PHI 49,7,10,Jalen Hurts pass complete short left to D'Andre Swift for no gain (tackle by Akayleb Evans),1.920,1.220
+2,0:07,3,6,PHI 49,7,10,Jalen Hurts left guard for 8 yards (tackle by Ivan Pace),1.220,2.720
+2,0:04,,,,,,Timeout #3 by Philadelphia Eagles,,
+2,0:04,,,,,,Timeout #3 by Minnesota Vikings,,
+2,0:04,1,10,MIN 43,7,13,Jake Elliott 61 yard field goal good,2.720,3.000
+Quarter,Time,Down,ToGo,Location,MIN,PHI,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PHI 35,7,13,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,MIN 25,7,13,Alexander Mattison right guard for 1 yard (tackle by Milton Williams and Zach Cunningham),0.610,0.200
+3,14:35,2,9,MIN 26,7,13,"Kirk Cousins sacked by Josh Sweat for -11 yards. Kirk Cousins fumbles (forced by Josh Sweat), recovered by Fletcher Cox at MIN-15 and returned for 8 yards (tackle by Ed Ingram)",0.200,-5.600
+3,14:26,1,7,MIN 7,7,13,D'Andre Swift left tackle for 6 yards (tackle by Akayleb Evans and Camryn Bynum),5.600,5.910
+3,13:55,2,1,MIN 1,7,19,"Jalen Hurts up the middle for 1 yard, touchdown",5.910,7.000
+3,13:53,,,MIN 15,7,20,Jake Elliott kicks extra point good,0.000,0.000
+3,13:53,,,PHI 35,7,20,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+3,13:53,1,10,MIN 25,7,20,Kirk Cousins pass complete short left to Alexander Mattison for -5 yards (tackle by Zach Cunningham),0.610,-0.610
+3,13:22,2,15,MIN 20,7,20,Kirk Cousins pass complete short right to Alexander Mattison for no gain (tackle by Mario Goodrich),-0.610,-1.290
+3,12:43,3,15,MIN 20,7,20,Kirk Cousins pass incomplete deep right intended for Jordan Addison,-1.290,-2.030
+3,12:35,4,15,MIN 20,7,20,"Ryan Wright punts 49 yards, fair catch by Britain Covey at PHI-31",-2.030,-1.000
+3,12:29,1,10,PHI 31,7,20,Jalen Hurts scrambles left end for 1 yard (tackle by Jordan Hicks),1.000,0.600
+3,11:48,2,9,PHI 32,7,20,D'Andre Swift left guard for 5 yards (tackle by Danielle Hunter and Jordan Hicks),0.600,0.560
+3,11:02,3,4,PHI 37,7,26,"Jalen Hurts pass complete deep left to DeVonta Smith for 63 yards, touchdown",0.560,7.000
+3,10:54,,,MIN 15,7,27,Jake Elliott kicks extra point good,0.000,0.000
+3,10:54,,,PHI 35,7,27,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+3,10:54,1,10,MIN 25,7,27,Ty Chandler left guard for no gain (tackle by Jordan Davis and Zach Cunningham),0.610,0.060
+3,10:28,2,10,MIN 25,7,27,Kirk Cousins pass complete short left to Justin Jefferson for 13 yards (tackle by Darius Slay),0.060,1.470
+3,10:01,1,10,MIN 38,7,27,Kirk Cousins pass complete short right to Josh Oliver for no gain (tackle by Terrell Edmunds),1.470,0.920
+3,9:25,2,10,MIN 38,7,27,Kirk Cousins pass incomplete short left intended for Justin Jefferson (defended by Darius Slay),0.920,0.230
+3,9:18,3,10,MIN 38,13,27,"Kirk Cousins pass complete deep middle to Jordan Addison for 62 yards, touchdown",0.230,7.000
+3,9:09,,,PHI 15,14,27,Greg Joseph kicks extra point good,0.000,0.000
+3,9:09,,,MIN 35,14,27,"Greg Joseph kicks off 65 yards, touchback.",0.000,0.610
+3,9:09,1,10,PHI 25,14,27,Jalen Hurts pass complete short right to Dallas Goedert for 9 yards (tackle by Camryn Bynum),0.610,1.280
+3,8:36,2,1,PHI 34,14,27,"D'Andre Swift left end for no gain (tackle by Camryn Bynum). Penalty on Landon Dickerson: Offensive Holding, 10 yards (accepted) (no play)",1.280,-0.070
+3,8:10,2,11,PHI 24,14,27,Jalen Hurts pass complete short right to D'Andre Swift for 5 yards (tackle by Byron Murphy),-0.070,-0.100
+3,7:32,3,6,PHI 29,14,27,"Penalty on D'Andre Swift: False Start, 5 yards (accepted) (no play)",-0.100,-0.760
+3,7:10,3,11,PHI 24,14,27,Jalen Hurts pass complete short left to Dallas Goedert for 2 yards (tackle by Akayleb Evans and Brian Asamoah),-0.760,-1.630
+3,6:33,4,9,PHI 26,14,27,Arryn Siposs punts 44 yards downed by Sydney Brown,-1.630,-0.940
+3,6:19,1,10,MIN 30,14,27,Alexander Mattison left guard for 5 yards (tackle by Mario Goodrich and Fletcher Cox),0.940,1.070
+3,5:58,2,5,MIN 35,14,27,Kirk Cousins pass complete short left to Jordan Addison for 1 yard (tackle by Josh Jobe),1.070,0.500
+3,5:34,3,4,MIN 36,14,27,Kirk Cousins pass incomplete short right intended for Justin Jefferson,0.500,-0.980
+3,5:33,4,4,MIN 36,14,27,Ryan Wright punts 57 yards downed by NaJee Thompson,-0.980,0.380
+3,5:19,1,10,PHI 7,14,27,D'Andre Swift up the middle for 4 yards (tackle by Danielle Hunter and Harrison Phillips),-0.380,-0.490
+3,4:41,2,6,PHI 11,14,27,D'Andre Swift left end for 9 yards (tackle by Camryn Bynum),-0.490,0.280
+3,4:03,1,10,PHI 20,14,27,Jalen Hurts pass complete short left to Dallas Goedert for 5 yards (tackle by Harrison Smith),0.280,0.410
+3,3:26,2,5,PHI 25,14,27,D'Andre Swift left guard for 11 yards (tackle by Josh Metellus and Camryn Bynum),0.410,1.330
+3,2:45,1,10,PHI 36,14,27,D'Andre Swift left guard for 9 yards (tackle by Akayleb Evans and Camryn Bynum),1.330,2.010
+3,2:04,2,1,PHI 45,14,27,Rashaad Penny up the middle for 6 yards (tackle by Ivan Pace),2.010,2.320
+3,1:20,1,10,MIN 49,14,27,Jalen Hurts pass complete short right to Rashaad Penny for 5 yards (tackle by Camryn Bynum),2.320,2.460
+3,0:40,2,5,MIN 44,14,27,Rashaad Penny up the middle for 2 yards (tackle by Harrison Phillips),2.460,2.020
+3,0:09,3,3,MIN 42,14,27,"Penalty on Harrison Phillips: Neutral Zone Infraction, 5 yards (accepted) (no play)",2.020,3.120
+Quarter,Time,Down,ToGo,Location,MIN,PHI,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,MIN 37,14,27,Jalen Hurts pass incomplete short right intended for A.J. Brown (defended by Byron Murphy),3.120,2.570
+4,14:56,2,10,MIN 37,14,27,Rashaad Penny left guard for 1 yard (tackle by Josh Metellus),2.570,2.010
+4,14:15,3,9,MIN 36,14,27,Jalen Hurts pass complete short right to DeVonta Smith for 8 yards (tackle by Theo Jackson),2.010,1.720
+4,13:46,4,1,MIN 28,14,27,Jalen Hurts left guard for 3 yards (tackle by Danielle Hunter),1.720,3.910
+4,13:04,1,10,MIN 25,14,27,"Jalen Hurts pass complete deep right to A.J. Brown for no gain, touchdown. Penalty on Rashaad Penny: Offensive Holding, 10 yards (accepted) (no play)",3.910,3.250
+4,12:57,1,20,MIN 35,14,27,Jalen Hurts pass incomplete deep left intended for A.J. Brown (defended by Akayleb Evans),3.250,2.010
+4,12:51,2,20,MIN 35,14,27,Jalen Hurts sacked by Danielle Hunter for -2 yards,2.010,1.090
+4,12:06,3,22,MIN 37,14,27,Jalen Hurts sacked by Danielle Hunter for -12 yards,1.090,0.000
+4,11:26,4,34,MIN 49,14,27,"Arryn Siposs punts 35 yards, fair catch by Brandon Powell at MIN-14",0.000,0.280
+4,11:19,1,10,MIN 14,14,27,Alexander Mattison left end for 7 yards (tackle by Nicholas Morrow),-0.280,0.280
+4,10:43,2,3,MIN 21,14,27,Kirk Cousins pass incomplete deep middle intended for K.J. Osborn,0.280,-0.560
+4,10:36,3,3,MIN 21,14,27,Kirk Cousins pass complete short right to Justin Jefferson for 23 yards (tackle by Terrell Edmunds),-0.560,1.860
+4,10:17,1,10,MIN 44,14,27,Alexander Mattison left end for 6 yards (tackle by Zach Cunningham),1.860,2.130
+4,9:55,2,4,MIN 50,14,27,Kirk Cousins pass complete short middle to Justin Jefferson for 22 yards (tackle by Justin Evans),2.130,3.710
+4,9:10,1,10,PHI 28,14,27,Kirk Cousins pass incomplete short left intended for Josh Oliver,3.710,3.170
+4,9:07,2,10,PHI 28,14,27,Kirk Cousins pass complete short right to Ty Chandler for 4 yards (tackle by Zach Cunningham),3.170,3.010
+4,8:24,3,6,PHI 24,14,27,Kirk Cousins pass complete short left to Justin Jefferson for 14 yards (tackle by Mario Goodrich),3.010,4.910
+4,7:47,1,10,PHI 10,20,27,"Kirk Cousins pass complete short left to K.J. Osborn for 10 yards, touchdown",4.910,7.000
+4,7:41,,,PHI 15,21,27,Greg Joseph kicks extra point good,0.000,0.000
+4,7:41,,,MIN 35,21,27,"Greg Joseph kicks off 65 yards, touchback.",0.000,0.610
+4,7:41,1,10,PHI 25,21,27,D'Andre Swift left tackle for 7 yards (tackle by Josh Metellus and Akayleb Evans),0.610,1.010
+4,7:06,2,3,PHI 32,21,27,D'Andre Swift right guard for 4 yards (tackle by Harrison Phillips and Jordan Hicks),1.010,1.330
+4,6:31,1,10,PHI 36,21,27,D'Andre Swift right tackle for 3 yards (tackle by Josh Metellus),1.330,1.200
+4,5:55,2,7,PHI 39,21,27,D'Andre Swift left guard for 2 yards (tackle by Ivan Pace and Camryn Bynum),1.200,0.760
+4,5:17,3,5,PHI 41,21,27,Jalen Hurts pass complete short left to A.J. Brown for 12 yards (tackle by Akayleb Evans and D.J. Wonnum),0.760,2.460
+4,4:38,1,10,MIN 47,21,27,D'Andre Swift up the middle for 43 yards (tackle by Josh Metellus),2.460,6.280
+4,4:25,1,4,MIN 4,21,27,D'Andre Swift up the middle for 2 yards (tackle by Harrison Phillips and Danielle Hunter),6.280,5.720
+4,4:18,,,,,,Timeout #1 by Minnesota Vikings,,
+4,4:18,2,2,MIN 2,21,33,"D'Andre Swift left tackle for 2 yards, touchdown",5.720,7.000
+4,4:13,,,MIN 15,21,34,Jake Elliott kicks extra point good,0.000,0.000
+4,4:13,,,PHI 35,21,34,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+4,4:13,1,10,MIN 25,21,34,Kirk Cousins pass incomplete short left intended for K.J. Osborn,0.610,0.060
+4,4:08,2,10,MIN 25,21,34,Kirk Cousins pass complete short right to Justin Jefferson for 10 yards (tackle by Darius Slay),0.060,1.270
+4,3:46,1,10,MIN 35,21,34,"Kirk Cousins pass complete short right to Alexander Mattison for no gain. Penalty on Brian O'Neill: Offensive Holding, 10 yards (accepted) (no play)",1.270,0.610
+4,3:31,1,20,MIN 25,21,34,Kirk Cousins pass complete short left to Ty Chandler for 5 yards (tackle by Zach Cunningham),0.610,0.050
+4,3:00,2,15,MIN 30,21,34,Kirk Cousins pass incomplete short left intended for Alexander Mattison,0.050,-0.630
+4,2:55,3,15,MIN 30,21,34,Kirk Cousins pass complete short right to T.J. Hockenson for 12 yards (tackle by Nicholas Morrow and Darius Slay),-0.630,-0.590
+4,2:26,4,3,MIN 42,21,34,Kirk Cousins pass complete short middle to T.J. Hockenson for 12 yards (tackle by Nicholas Morrow),-0.590,2.520
+4,2:03,1,10,PHI 46,21,34,Kirk Cousins pass complete short middle to Alexander Mattison for 16 yards (tackle by Josh Jobe),2.520,3.580
+4,1:55,1,10,PHI 30,21,34,"Kirk Cousins pass complete short middle to Alexander Mattison for no gain. Alexander Mattison fumbles, recovered by Justin Evans at PHI-19. Penalty on Kentavius Street: Defensive Offside, 5 yards (accepted) (no play)",3.580,4.310
+4,1:46,1,5,PHI 25,21,34,Kirk Cousins pass incomplete deep middle intended for T.J. Hockenson (defended by Justin Evans),4.310,3.710
+4,1:41,2,5,PHI 25,21,34,Kirk Cousins pass complete deep right to Justin Jefferson for 20 yards (tackle by Terrell Edmunds),3.710,6.060
+4,1:14,1,5,PHI 5,27,34,"Kirk Cousins pass complete short right to T.J. Hockenson for 5 yards, touchdown",6.060,7.000
+4,1:10,,,PHI 15,28,34,Greg Joseph kicks extra point good,0.000,0.000
+4,1:10,,,,,,Timeout #1 by Philadelphia Eagles,,
+4,1:10,,,MIN 35,28,34,"Greg Joseph kicks onside 14 yards, returned by DeVonta Smith for no gain",0.000,2.320
+4,1:09,1,10,MIN 49,28,34,D'Andre Swift up the middle for 2 yards (tackle by Harrison Phillips and Dean Lowry),2.320,2.050
+4,1:05,,,,,,Timeout #2 by Minnesota Vikings,,
+4,1:05,2,8,MIN 47,28,34,D'Andre Swift up the middle for 2 yards (tackle by Harrison Phillips),2.050,1.620
+4,1:01,,,,,,Timeout #3 by Minnesota Vikings,,
+4,1:01,3,6,MIN 45,28,34,D'Andre Swift up the middle for 1 yard (tackle by Jonathan Bullard and Harrison Phillips),1.620,0.330
+4,0:15,4,5,MIN 44,28,34,"Penalty on Dallas Goedert: False Start, 5 yards (accepted) (no play)",0.330,0.000
+4,0:15,4,10,MIN 49,28,34,"Arryn Siposs punts 31 yards, returned by Brandon Powell for -1 yards (tackle by Kelee Ringo)",0.000,0.060
+4,0:07,,,,,,Timeout #2 by Philadelphia Eagles,,
+4,0:07,1,10,MIN 17,28,34,Kirk Cousins pass incomplete deep right,-0.060,-0.580
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

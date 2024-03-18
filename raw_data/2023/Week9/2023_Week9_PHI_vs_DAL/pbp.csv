@@ -1,0 +1,187 @@
+Quarter,Time,Down,ToGo,Location,DAL,PHI,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Eagles won the coin toss and deferred, Cowboys to receive the opening kickoff.",,
+1,15:00,,,PHI 35,0,0,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,DAL 25,0,0,Tony Pollard right guard for 2 yards (tackle by Josh Sweat and Jordan Davis),0.610,0.330
+1,14:29,2,8,DAL 27,0,0,Tony Pollard up the middle for 2 yards (tackle by Haason Reddick),0.330,-0.100
+1,13:53,3,6,DAL 29,0,0,Dak Prescott pass incomplete deep left intended for CeeDee Lamb,-0.100,-1.440
+1,13:47,4,6,DAL 29,0,0,"Bryan Anger punts 52 yards, returned by Britain Covey for 4 yards (tackle by Hunter Luepke and Israel Mukuamu)",-1.440,-0.480
+1,13:37,1,10,PHI 23,0,0,Jalen Hurts pass complete short right to A.J. Brown for 6 yards (tackle by Donovan Wilson),0.480,0.740
+1,13:03,2,4,PHI 29,0,0,D'Andre Swift up the middle for -1 yards (tackle by Damone Clark),0.740,-0.100
+1,12:18,3,5,PHI 28,0,0,Jalen Hurts scrambles right end for 4 yards (tackle by Dorance Armstrong),-0.100,-1.240
+1,11:38,4,1,PHI 32,0,0,Jalen Hurts up the middle for 2 yards (tackle by Damone Clark),-1.240,1.200
+1,10:51,1,10,PHI 34,0,0,Jalen Hurts pass incomplete short left intended for Dallas Goedert,1.200,0.660
+1,10:41,2,10,PHI 34,0,0,D'Andre Swift left guard for 4 yards (tackle by Markquese Bell),0.660,0.500
+1,9:59,3,6,PHI 38,0,0,Jalen Hurts pass complete short right to Olamide Zaccheaus for 8 yards (tackle by Stephon Gilmore),0.500,1.990
+1,9:26,1,10,PHI 46,0,0,Jalen Hurts pass complete short right to A.J. Brown for 20 yards (tackle by Damone Clark and Markquese Bell),1.990,3.310
+1,8:41,1,10,DAL 34,0,0,"Penalty on Jalen Hurts: Delay of Game, 5 yards (accepted) (no play)",3.310,2.980
+1,8:27,1,15,DAL 39,0,0,"Jalen Hurts sacked by Sam Williams for -8 yards. Jalen Hurts fumbles (forced by Sam Williams), recovered by Jalen Hurts at DAL-47",2.980,1.020
+1,7:42,2,23,DAL 47,0,0,Jalen Hurts pass complete short right to A.J. Brown for 8 yards (tackle by Markquese Bell),1.020,1.420
+1,7:05,3,15,DAL 39,0,0,Jalen Hurts pass complete short right to A.J. Brown for 12 yards (tackle by Stephon Gilmore),1.420,1.770
+1,6:24,4,3,DAL 27,0,0,Jalen Hurts pass complete short right to Dallas Goedert for 15 yards,1.770,4.780
+1,5:52,1,10,DAL 12,0,6,"Kenneth Gainwell right end for 12 yards, touchdown",4.780,7.000
+1,5:46,,,DAL 15,0,6,"Penalty on PHI: Delay of Game, 5 yards (accepted) (no play)",0.000,0.000
+1,5:46,,,DAL 20,0,6,"Penalty on Tyler Steen: False Start, 5 yards (accepted) (no play)",0.000,0.000
+1,5:46,,,DAL 25,0,7,Jake Elliott kicks extra point good,0.000,0.000
+1,5:46,,,PHI 35,0,7,"Jake Elliott kicks off 66 yards, returned by KaVontae Turpin for 48 yards (tackle by Kelee Ringo)",0.000,2.060
+1,5:39,1,10,DAL 47,0,7,Dak Prescott scrambles right end for 6 yards (tackle by Zach Cunningham and Darius Slay),2.060,2.330
+1,5:06,2,4,PHI 47,0,7,Dak Prescott scrambles right end for 1 yard (tackle by Zach Cunningham),2.330,1.750
+1,4:24,3,3,PHI 46,0,7,Dak Prescott scrambles right end for 4 yards (tackle by Jordan Davis),1.750,2.790
+1,3:45,1,10,PHI 42,0,7,Tony Pollard left guard for 2 yards (tackle by Nicholas Morrow),2.790,2.510
+1,3:14,2,8,PHI 40,0,7,Dak Prescott pass complete short right to Jake Ferguson for 7 yards (tackle by Darius Slay and Eli Ricks),2.510,2.740
+1,2:33,3,1,PHI 33,0,7,Dak Prescott pass incomplete short right intended for Hunter Luepke (defended by Haason Reddick),2.740,1.210
+1,2:28,4,1,PHI 33,0,7,Dak Prescott pass complete deep left to CeeDee Lamb for 29 yards (tackle by Reed Blankenship),1.210,6.280
+1,1:41,1,4,PHI 4,6,7,"Dak Prescott pass complete short left to Jake Ferguson for 4 yards, touchdown",6.280,7.000
+1,1:37,,,PHI 15,7,7,Brandon Aubrey kicks extra point good,0.000,0.000
+1,1:37,,,DAL 35,7,7,"Brandon Aubrey kicks off 65 yards, touchback.",0.000,0.610
+1,1:37,1,10,PHI 25,7,7,D'Andre Swift left guard for 7 yards (tackle by Malik Hooker),0.610,1.010
+1,1:12,2,3,PHI 32,7,7,Jalen Hurts sacked by and Micah Parsons for -6 yards and Dorance Armstrong for -6 yards,1.010,-0.490
+1,0:27,3,9,PHI 26,7,7,Jalen Hurts pass incomplete short right,-0.490,-1.630
+1,0:17,4,9,PHI 26,7,7,"Braden Mann punts 57 yards, returned by KaVontae Turpin for 11 yards (tackle by Patrick Johnson). Penalty on Sean McKeon: Offensive Illegal Block Above the Waist, 10 yards (accepted)",-1.630,-0.040
+1,0:05,1,10,DAL 18,7,7,Dak Prescott pass incomplete short left intended for CeeDee Lamb (defended by Reed Blankenship),0.040,-0.490
+Quarter,Time,Down,ToGo,Location,DAL,PHI,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,10,DAL 18,7,7,Dak Prescott pass complete short right to Tony Pollard for 8 yards (tackle by Zach Cunningham),-0.490,-0.140
+2,14:36,3,2,DAL 26,7,7,"Dak Prescott pass complete deep right to Jake Ferguson for 40 yards (tackle by Kevin Byard and Reed Blankenship). Penalty on Kevin Byard: Defensive Holding, 5 yards (declined)",-0.140,3.310
+2,14:01,1,10,PHI 34,7,7,Dak Prescott sacked by Haason Reddick for -11 yards,3.310,1.290
+2,13:08,,,,,,Timeout #1 by Dallas Cowboys,,
+2,13:08,2,21,PHI 45,7,7,"Dak Prescott aborted snap, recovered by Dak Prescott at PHI-45 Tony Pollard for 7 yards (tackle by Jalen Carter)",1.290,1.550
+2,12:28,3,14,PHI 38,7,7,Dak Prescott pass complete deep right to CeeDee Lamb for 20 yards (tackle by Eli Ricks),1.550,4.370
+2,12:07,1,10,PHI 18,7,7,"Dak Prescott pass incomplete short left intended for Jake Ferguson. Penalty on Nakobe Dean: Defensive Pass Interference, 10 yards (accepted) (no play)",4.370,5.370
+2,12:02,1,8,PHI 8,7,7,Rico Dowdle right guard for 3 yards (tackle by Kevin Byard),5.370,5.150
+2,11:28,2,5,PHI 5,7,7,Dak Prescott pass incomplete short left intended for CeeDee Lamb,5.150,4.260
+2,11:21,3,5,PHI 5,13,7,"Dak Prescott pass complete short left to KaVontae Turpin for 5 yards, touchdown Replay Assistant challenged the pass completion ruling, and the play was upheld.",4.260,7.000
+2,11:16,,,PHI 15,14,7,Brandon Aubrey kicks extra point good,0.000,0.000
+2,11:16,,,DAL 35,14,7,"Brandon Aubrey kicks off 64 yards, out of bounds",0.000,1.600
+2,11:16,1,10,PHI 40,14,7,Jalen Hurts pass incomplete short right,1.600,1.050
+2,11:09,2,10,PHI 40,14,7,D'Andre Swift left guard for 1 yard (tackle by Sam Williams),1.050,0.500
+2,10:33,3,9,PHI 41,14,7,Jalen Hurts pass complete deep right to DeVonta Smith for 19 yards (tackle by Malik Hooker and Stephon Gilmore),0.500,2.920
+2,9:55,1,10,DAL 40,14,7,Jalen Hurts pass complete short middle to D'Andre Swift for 20 yards (tackle by Malik Hooker and Stephon Gilmore),2.920,4.240
+2,9:14,1,10,DAL 20,14,7,D'Andre Swift left end for 5 yards (tackle by Sam Williams and Malik Hooker),4.240,4.450
+2,8:38,2,5,DAL 15,14,7,D'Andre Swift right end for 2 yards (tackle by Jayron Kearse),4.450,4.100
+2,7:53,3,3,DAL 13,14,7,Kenneth Gainwell up the middle for 3 yards (tackle by Johnathan Hankins and Osa Odighizuwa),4.100,4.910
+2,6:55,1,10,DAL 10,14,7,"D'Andre Swift for no gain. D'Andre Swift fumbles (forced by Malik Hooker), recovered by Markquese Bell at DAL-10 (tackle by Jalen Hurts) Replay Assistant challenged the loose ball recovery ruling, and the original play was overturned. D'Andre Swift right tackle for no gain. D'Andre Swift fumbles (forced by Malik Hooker), recovered by D'Andre Swift at DAL-10",4.910,4.190
+2,6:46,2,10,DAL 10,14,7,"Jalen Hurts pass complete to A.J. Brown for no gain (tackle by Markquese Bell and Stephon Gilmore). Penalty on Jayron Kearse: Defensive Holding, 6 yards (accepted) (no play)",4.190,6.280
+2,6:33,1,4,DAL 4,14,7,D'Andre Swift up the middle for 1 yard (tackle by Osa Odighizuwa and Jayron Kearse),6.280,5.530
+2,5:52,2,3,DAL 3,14,7,D'Andre Swift left end for 2 yards (tackle by Micah Parsons),5.530,5.170
+2,5:13,3,1,DAL 1,14,13,"Jalen Hurts up the middle for 1 yard, touchdown",5.170,7.000
+2,5:09,,,DAL 15,14,14,Jake Elliott kicks extra point good,0.000,0.000
+2,5:09,,,PHI 35,14,14,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+2,5:09,1,10,DAL 25,14,14,Dak Prescott pass complete short left to CeeDee Lamb for 15 yards (tackle by Kevin Byard),0.610,1.600
+2,4:37,1,10,DAL 40,14,14,Tony Pollard left end for 3 yards (tackle by Zach Cunningham),1.600,1.460
+2,4:00,2,7,DAL 43,14,14,Dak Prescott sacked by and Fletcher Cox for -8 yards and Nakobe Dean for -8 yards,1.460,-0.300
+2,3:15,3,15,DAL 35,14,14,Dak Prescott pass complete short left to CeeDee Lamb for 14 yards (tackle by Darius Slay and Kevin Byard),-0.300,-0.130
+2,2:34,4,1,DAL 49,14,14,Dak Prescott pass complete short middle to Jake Ferguson for 11 yards (tackle by Nakobe Dean and Kevin Byard),-0.130,2.920
+2,2:00,1,10,PHI 40,14,14,Dak Prescott pass incomplete short right intended for Tony Pollard,2.920,2.370
+2,1:56,2,10,PHI 40,14,14,Tony Pollard up the middle for 7 yards (tackle by Nakobe Dean),2.370,2.610
+2,1:25,3,3,PHI 33,14,14,Dak Prescott pass incomplete short left intended for Michael Gallup,2.610,1.190
+2,1:20,4,3,PHI 33,17,14,Brandon Aubrey 51 yard field goal good,1.190,3.000
+2,1:15,,,DAL 35,17,14,"Brandon Aubrey kicks off 65 yards, touchback.",0.000,0.610
+2,1:15,1,10,PHI 25,17,14,Jalen Hurts scrambles left end for 6 yards (tackle by Damone Clark),0.610,0.870
+2,1:08,2,4,PHI 31,17,14,Jalen Hurts pass complete short left to Kenneth Gainwell for 1 yard (tackle by Jayron Kearse),0.870,0.300
+2,0:45,3,3,PHI 32,17,14,"Penalty on Jason Kelce: False Start, 5 yards (accepted) (no play)",0.300,-0.360
+2,0:45,3,8,PHI 27,17,14,Jalen Hurts pass complete short left to A.J. Brown for 11 yards,-0.360,1.470
+2,0:39,1,10,PHI 38,17,14,Jalen Hurts scrambles right guard for 6 yards (tackle by Markquese Bell and Jourdan Lewis),1.470,1.730
+2,0:31,,,,,,Timeout #1 by Philadelphia Eagles,,
+2,0:31,2,4,PHI 44,17,14,Jalen Hurts sacked by Micah Parsons for -10 yards,1.730,-0.290
+2,0:22,,,,,,Timeout #2 by Philadelphia Eagles,,
+2,0:22,3,14,PHI 34,17,14,Kenneth Gainwell up the middle for 7 yards (tackle by Chauncey Golston and Damone Clark),-0.290,-0.650
+2,0:15,,,,,,Timeout #2 by Dallas Cowboys,,
+2,0:15,4,7,PHI 41,17,14,Braden Mann punts 47 yards downed by Jack Stoll,-0.650,0.350
+2,0:04,1,10,DAL 12,17,14,Dak Prescott kneels for -1 yards,-0.350,-0.850
+Quarter,Time,Down,ToGo,Location,DAL,PHI,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DAL 35,17,14,"Brandon Aubrey kicks off 65 yards, touchback.. Penalty on Rashaan Evans: Face Mask (15 Yards), 15 yards (accepted)",0.000,1.600
+3,15:00,1,10,PHI 40,17,14,Rashaad Penny right guard for 6 yards (tackle by DeMarcus Lawrence),1.600,1.860
+3,14:26,2,4,PHI 46,17,14,Rashaad Penny right tackle for 2 yards (tackle by Micah Parsons and Jayron Kearse),1.860,1.420
+3,13:21,3,2,PHI 48,17,14,Jalen Hurts scrambles right end for 4 yards (tackle by Micah Parsons),1.420,2.390
+3,13:00,1,10,DAL 48,17,14,D'Andre Swift right tackle for 8 yards (tackle by Markquese Bell),2.390,2.930
+3,12:16,2,2,DAL 40,17,14,Jalen Hurts pass complete short right to D'Andre Swift for 11 yards (tackle by Markquese Bell),2.930,3.640
+3,11:30,1,10,DAL 29,17,20,"Jalen Hurts pass complete deep left to DeVonta Smith for 29 yards, touchdown",3.640,7.000
+3,11:23,,,DAL 15,17,21,Jake Elliott kicks extra point good,0.000,0.000
+3,11:23,,,PHI 35,17,21,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+3,11:23,1,10,DAL 25,17,21,Dak Prescott pass incomplete deep right intended for CeeDee Lamb,0.610,0.060
+3,11:19,2,10,DAL 25,17,21,Tony Pollard right tackle for 15 yards (tackle by Reed Blankenship),0.060,1.600
+3,10:44,1,10,DAL 40,17,21,Tony Pollard left end for 5 yards (tackle by Josh Sweat),1.600,1.730
+3,10:06,2,5,DAL 45,17,21,Dak Prescott pass complete short right to Jalen Tolbert for 10 yards (tackle by James Bradberry),1.730,2.590
+3,9:31,1,10,PHI 45,17,21,"Rico Dowdle right guard for 5 yards (tackle by James Bradberry and Reed Blankenship). Penalty on Luke Schoonmaker: Offensive Holding, 10 yards (accepted)",2.590,2.260
+3,9:13,1,15,PHI 50,17,21,Dak Prescott pass incomplete short middle intended for Jake Ferguson (defended by Reed Blankenship),2.260,1.370
+3,9:04,2,15,PHI 50,17,21,KaVontae Turpin left end for no gain (tackle by Zach Cunningham),1.370,0.700
+3,8:27,3,15,PHI 50,17,21,Dak Prescott pass complete short left to Jake Ferguson for 7 yards (tackle by Reed Blankenship and Nicholas Morrow),0.700,0.400
+3,7:37,4,8,PHI 43,17,21,"Bryan Anger punts 30 yards, fair catch by Britain Covey at PHI-13",0.400,0.320
+3,7:31,1,10,PHI 13,17,21,D'Andre Swift up the middle for 2 yards (tackle by Johnathan Hankins and DeMarcus Lawrence),-0.320,-0.570
+3,6:52,2,8,PHI 15,17,21,Jalen Hurts pass complete short right to Dallas Goedert for 7 yards (tackle by Damone Clark),-0.570,-0.350
+3,6:20,3,1,PHI 22,17,21,Jalen Hurts up the middle for 2 yards (tackle by Chauncey Golston and Damone Clark),-0.350,0.540
+3,5:22,1,10,PHI 24,17,21,"Jalen Hurts pass incomplete intended for DeVonta Smith. Penalty on Johnathan Hankins: Defensive Offside, 5 yards (accepted) (no play)",0.540,1.270
+3,5:22,1,5,PHI 29,17,21,D'Andre Swift left end for 2 yards (tackle by Micah Parsons),1.270,0.940
+3,4:38,2,3,PHI 31,17,21,D'Andre Swift left end for 6 yards (tackle by Micah Parsons and Damone Clark),0.940,1.400
+3,3:53,1,10,PHI 37,17,21,Jalen Hurts pass complete short right to A.J. Brown for 5 yards (tackle by Jayron Kearse),1.400,1.530
+3,3:26,2,5,PHI 42,17,21,"Jalen Hurts pass incomplete intended for A.J. Brown. Penalty on Stephon Gilmore: Defensive Pass Interference, 17 yards (accepted) (no play)",1.530,2.850
+3,3:18,1,10,DAL 41,17,21,Jalen Hurts pass incomplete deep right intended for A.J. Brown (defended by DaRon Bland),2.850,2.310
+3,3:08,2,10,DAL 41,17,21,Jalen Hurts pass complete short left to Dallas Goedert for 28 yards (tackle by Markquese Bell),2.310,4.710
+3,2:26,1,10,DAL 13,17,21,"Jalen Hurts scrambles right end for 4 yards (tackle by Damone Clark). Penalty on Donovan Wilson: Defensive Holding, 5 yards (accepted)",4.710,6.280
+3,2:04,1,4,DAL 4,17,21,D'Andre Swift left guard for no gain (tackle by Malik Hooker),6.280,5.340
+3,1:18,2,4,DAL 4,17,27,"Jalen Hurts pass complete short left to A.J. Brown for 4 yards, touchdown",5.340,7.000
+3,1:13,,,DAL 15,17,28,Jake Elliott kicks extra point good,0.000,0.000
+3,1:13,,,PHI 35,17,28,"Jake Elliott kicks off 68 yards, returned by Rico Dowdle for 31 yards (tackle by Nolan Smith)",0.000,0.810
+3,1:08,1,10,DAL 28,17,28,Dak Prescott pass complete short middle to CeeDee Lamb for 20 yards (tackle by Kevin Byard),0.810,2.130
+3,0:24,1,10,DAL 48,17,28,Dak Prescott pass complete short right to Michael Gallup for 11 yards (tackle by James Bradberry),2.130,2.850
+Quarter,Time,Down,ToGo,Location,DAL,PHI,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,PHI 41,17,28,Dak Prescott pass complete short right to Tony Pollard for 7 yards (tackle by Zach Cunningham),2.850,3.250
+4,14:23,2,3,PHI 34,17,28,Tony Pollard right tackle for 2 yards (tackle by Darius Slay and Kevin Byard),3.250,2.810
+4,14:00,3,1,PHI 32,17,28,Dak Prescott pass complete short right to Michael Gallup for 8 yards (tackle by James Bradberry),2.810,3.970
+4,13:28,1,10,PHI 24,17,28,Dak Prescott pass incomplete short middle intended for Jake Ferguson (defended by Darius Slay),3.970,3.430
+4,13:20,2,10,PHI 24,17,28,Dak Prescott pass complete short right to CeeDee Lamb for 9 yards (tackle by Eli Ricks),3.430,4.170
+4,12:40,3,1,PHI 15,17,28,Tony Pollard right guard for no gain (tackle by James Bradberry),4.170,2.590
+4,11:42,4,1,PHI 15,17,28,"Dak Prescott up the middle for 1 yard (tackle by Kevin Byard). Penalty on Kevin Byard: Unnecessary Roughness / Defense, 7 yards (accepted) PHI challenged the first down ruling, and the play was upheld.",2.590,5.600
+4,11:38,1,7,PHI 7,17,28,Dak Prescott pass incomplete short right intended for Jake Ferguson (defended by Zach Cunningham),5.600,4.760
+4,11:34,2,7,PHI 7,17,28,Tony Pollard left guard for 3 yards (tackle by Zach Cunningham),4.760,4.490
+4,10:52,3,4,PHI 4,17,28,Dak Prescott scrambles left end for 3 yards (tackle by Darius Slay and Zach Cunningham),4.490,3.550
+4,10:10,4,1,PHI 1,17,28,"Dak Prescott pass complete to Luke Schoonmaker for no gain, touchdown Replay Assistant challenged the runner broke the plane ruling, and the original play was overturned. Dak Prescott pass complete short left to Luke Schoonmaker for no gain (tackle by Reed Blankenship)",3.550,0.380
+4,10:07,1,10,PHI 1,17,28,Jalen Hurts up the middle for 2 yards (tackle by Micah Parsons),-0.380,-0.630
+4,9:25,2,8,PHI 3,17,28,Jalen Hurts pass incomplete short left intended for Olamide Zaccheaus,-0.630,-1.190
+4,9:21,3,8,PHI 3,17,28,Jalen Hurts pass complete short left to DeVonta Smith for 3 yards (tackle by DaRon Bland),-1.190,-2.490
+4,8:54,4,5,PHI 6,17,28,Braden Mann punts 46 yards downed by Christian Elliss,-2.490,-2.130
+4,8:36,1,10,DAL 48,17,28,Dak Prescott pass complete short right to Tony Pollard for -3 yards (tackle by Zach Cunningham and Kevin Byard),2.130,1.180
+4,8:09,2,13,DAL 45,17,28,"Dak Prescott pass complete to Tony Pollard for no gain. Penalty on Eli Ricks: Illegal Contact, 5 yards (accepted) (no play)",1.180,2.260
+4,7:56,1,10,DAL 50,17,28,Dak Prescott pass complete short left to CeeDee Lamb for 16 yards (tackle by Reed Blankenship),2.260,3.310
+4,7:14,1,10,PHI 34,17,28,Dak Prescott pass incomplete deep left intended for Brandin Cooks,3.310,2.770
+4,7:04,2,10,PHI 34,17,28,"Dak Prescott pass complete deep left to Jalen Tolbert for 32 yards (tackle by James Bradberry). Penalty on Eli Ricks: Defensive Holding, 5 yards (declined)",2.770,6.740
+4,6:34,1,2,PHI 2,17,28,"Penalty on Chuma Edoga: Illegal Shift, 5 yards (accepted) (no play)",6.740,5.600
+4,6:30,1,7,PHI 7,23,28,"Dak Prescott pass complete short right to Jalen Tolbert for 7 yards, touchdown",5.600,7.000
+4,6:23,,,PHI 2,23,28,"Two Point Attempt: Dak Prescott rushes, conversion fails.",1.000,-1.000
+4,6:23,,,DAL 35,23,28,"Brandon Aubrey kicks off 63 yards,",0.000,0.610
+4,6:23,1,10,PHI 25,23,28,D'Andre Swift left guard for 2 yards (tackle by Osa Odighizuwa and Micah Parsons),0.610,0.330
+4,5:43,2,8,PHI 27,23,28,Jalen Hurts scrambles up the middle for 5 yards (tackle by Damone Clark),0.330,0.300
+4,5:00,3,3,PHI 32,23,28,Jalen Hurts pass incomplete deep left intended for A.J. Brown,0.300,-1.240
+4,4:52,4,3,PHI 32,23,28,"Braden Mann punts 54 yards, returned by KaVontae Turpin for 12 yards (tackle by Josh Jobe)",-1.240,-0.670
+4,4:43,1,10,DAL 26,23,28,Dak Prescott pass complete deep middle to CeeDee Lamb for 21 yards (tackle by Sydney Brown),0.670,2.060
+4,4:12,1,10,DAL 47,23,28,Tony Pollard left guard for 3 yards (tackle by Josh Sweat and Fletcher Cox),2.060,1.920
+4,3:40,2,7,PHI 50,23,28,"Dak Prescott pass complete short right to Brandin Cooks for 7 yards (tackle by Eli Ricks). Penalty on James Bradberry: Illegal Contact, 5 yards (declined)",1.920,2.720
+4,3:29,1,10,PHI 43,23,28,Dak Prescott pass incomplete deep left intended for CeeDee Lamb,2.720,2.180
+4,3:23,2,10,PHI 43,23,28,Dak Prescott pass incomplete short right intended for Tony Pollard,2.180,1.490
+4,3:20,3,10,PHI 43,23,28,Dak Prescott pass complete short middle to Jake Ferguson for 12 yards (tackle by Zach Cunningham),1.490,3.510
+4,2:47,1,10,PHI 31,23,28,Dak Prescott sacked by Brandon Graham for -7 yards,3.510,2.020
+4,2:10,2,17,PHI 38,23,28,Dak Prescott sacked by and Jalen Carter for -4 yards and Brandon Graham for -4 yards,2.020,0.830
+4,2:00,3,21,PHI 42,23,28,Dak Prescott pass complete short right to CeeDee Lamb for 13 yards (tackle by Darius Slay),0.830,1.500
+4,1:22,,,,,,Timeout #2 by Philadelphia Eagles,,
+4,1:22,4,8,PHI 29,23,28,Dak Prescott pass incomplete short right intended for Jalen Tolbert (defended by James Bradberry),1.500,-0.870
+4,1:17,,,,,,Timeout #3 by Philadelphia Eagles,,
+4,1:17,1,10,PHI 29,23,28,D'Andre Swift left tackle for 2 yards (tackle by Damone Clark),0.870,0.600
+4,1:13,,,,,,Timeout #1 by Dallas Cowboys,,
+4,1:13,2,8,PHI 31,23,28,D'Andre Swift right end for 1 yard (tackle by Markquese Bell),0.600,0.040
+4,1:07,,,,,,Timeout #2 by Dallas Cowboys,,
+4,1:07,3,7,PHI 32,23,28,"D'Andre Swift up the middle for -1 yards. D'Andre Swift fumbles, recovered by Tyler Steen at PHI-31",0.040,-1.310
+4,0:59,,,,,,Timeout #3 by Dallas Cowboys,,
+4,0:59,4,8,PHI 31,23,28,Braden Mann punts 55 yards downed by Christian Elliss,-1.310,0.280
+4,0:46,1,10,DAL 14,23,28,"Dak Prescott pass incomplete intended for Michael Gallup. Penalty on James Bradberry: Defensive Pass Interference, 36 yards (accepted) (no play)",-0.280,2.260
+4,0:40,1,10,DAL 50,23,28,"Dak Prescott pass complete short right to Jake Ferguson for 10 yards (tackle by Darius Slay). Penalty on Haason Reddick: Roughing the Passer, 15 yards (accepted)",2.260,3.910
+4,0:32,1,10,PHI 25,23,28,Dak Prescott pass complete short left to CeeDee Lamb for 14 yards (tackle by Sydney Brown),3.910,4.840
+4,0:27,1,10,PHI 11,23,28,"Penalty on Jalen Carter: Encroachment, 5 yards (accepted) (no play)",4.840,5.990
+4,0:27,1,5,PHI 6,23,28,"Penalty on Tyler Smith: False Start, 5 yards (accepted) (no play)",5.990,4.840
+4,0:23,1,10,PHI 11,23,28,Dak Prescott sacked by Josh Sweat for -11 yards,4.840,2.800
+4,0:08,2,21,PHI 22,23,28,Dak Prescott pass incomplete deep left intended for Jalen Tolbert,2.800,2.150
+4,0:05,3,21,PHI 22,23,28,"Penalty on Dak Prescott: Delay of Game, 5 yards (accepted) (no play)",2.150,1.490
+4,0:05,3,26,PHI 27,23,28,"Dak Prescott pass complete deep right to CeeDee Lamb for 20 yards. CeeDee Lamb fumbles (forced by Sydney Brown) (tackle by Darius Slay), recovered by Reed Blankenship at PHI-7",1.490,0.000
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

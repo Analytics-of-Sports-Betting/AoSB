@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,LAC 25,5,3:01,12,Punt
+2,1,6:49,LAC 25,10,5:01,38,Field Goal
+3,2,14:11,LAC 25,6,3:29,75,Touchdown
+4,2,8:37,LAC 25,5,1:31,75,Touchdown
+5,2,5:44,LAC 21,6,2:56,28,Punt
+6,2,0:15,LAC 25,1,0:15,-1,End of Half
+7,3,10:24,LAC 19,11,5:28,73,Interception
+8,3,0:16,LAC 24,3,1:42,8,Punt
+9,4,12:41,LAC 44,3,0:50,3,Punt
+10,4,8:00,LAC 22,3,1:44,5,Punt
+11,4,3:30,LAC 25,9,2:23,26,Interception

@@ -1,0 +1,176 @@
+Quarter,Time,Down,ToGo,Location,NWE,PIT,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Steelers won the coin toss and deferred, Patriots to receive the opening kickoff.",,
+1,15:00,,,PIT 35,0,0,"Chris Boswell kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,NWE 25,0,0,Ezekiel Elliott right guard for no gain (tackle by Minkah Fitzpatrick),0.610,0.060
+1,14:42,2,10,NWE 25,0,0,Bailey Zappe pass complete short right to Ezekiel Elliott for 12 yards (tackle by Mark Robinson),0.060,1.400
+1,14:03,1,10,NWE 37,0,0,Bailey Zappe pass complete deep left to JuJu Smith-Schuster for 37 yards (tackle by Damontae Kazee),1.400,3.840
+1,13:27,1,10,PIT 26,0,0,Ezekiel Elliott up the middle for 1 yard (tackle by Alex Highsmith),3.840,3.430
+1,12:48,2,9,PIT 25,0,0,Bailey Zappe pass incomplete short left,3.430,2.740
+1,12:37,3,9,PIT 25,0,0,Bailey Zappe scrambles left end for 11 yards (tackle by Damontae Kazee),2.740,4.650
+1,11:58,1,10,PIT 14,0,0,Ezekiel Elliott right guard for 3 yards (tackle by Cameron Heyward),4.650,4.520
+1,11:18,2,7,PIT 11,6,0,"Bailey Zappe pass complete short right to Ezekiel Elliott for 11 yards, touchdown",4.520,7.000
+1,11:12,,,PIT 15,7,0,Chad Ryland kicks extra point good,0.000,0.000
+1,11:12,,,NWE 35,7,0,"Chad Ryland kicks off 61 yards, returned by Godwin Igwebuike for 27 yards (tackle by Jonathan Jones)",0.000,1.000
+1,11:06,1,10,PIT 31,7,0,Mitchell Trubisky scrambles right tackle for 15 yards (tackle by Jabrill Peppers),1.000,1.990
+1,10:29,1,10,PIT 46,7,0,Najee Harris left guard for 1 yard (tackle by Davon Godchaux and Lawrence Guy),1.990,1.590
+1,9:45,2,9,PIT 47,7,0,Najee Harris up the middle for 3 yards (tackle by Anfernee Jennings and Deatrich Wise),1.590,1.290
+1,9:04,3,6,PIT 50,7,0,"Mitchell Trubisky pass short left is intercepted by J.C. Jackson at NE-38 and returned for no gain (tackle by Diontae Johnson). Penalty on J.C. Jackson: Defensive Pass Interference, 11 yards (accepted) (no play)",1.290,2.980
+1,8:53,1,10,NWE 39,7,0,Mitchell Trubisky pass complete short right to George Pickens for 4 yards (tackle by Jonathan Jones),2.980,2.980
+1,8:09,2,6,NWE 35,7,0,Jaylen Warren right end for -2 yards (tackle by Anfernee Jennings),2.980,2.020
+1,7:26,3,8,NWE 37,7,0,Mitchell Trubisky sacked by Mack Wilson for -1 yards,2.020,0.720
+1,6:44,4,9,NWE 38,7,3,Chris Boswell 56 yard field goal good,0.720,3.000
+1,6:39,,,PIT 35,7,3,"Chris Boswell kicks off 65 yards, touchback.",0.000,0.610
+1,6:39,1,10,NWE 25,7,3,Bailey Zappe pass incomplete deep left intended for Tyquan Thornton,0.610,0.060
+1,6:34,2,10,NWE 25,7,3,Ezekiel Elliott up the middle for 3 yards (tackle by Elandon Roberts and Montravius Adams),0.060,-0.230
+1,5:58,3,7,NWE 28,7,3,"Bailey Zappe pass complete short middle to Hunter Henry for no gain (tackle by Trenton Thompson). Penalty on Hunter Henry: Offensive Pass Interference, 10 yards (accepted) (no play)",-0.230,-1.720
+1,5:40,3,17,NWE 18,7,3,Bailey Zappe pass complete short left to Ezekiel Elliott for 9 yards (tackle by Minkah Fitzpatrick and Mykal Walker),-1.720,-1.570
+1,5:01,4,8,NWE 27,7,3,"Bryce Baringer punts 57 yards, returned by Calvin Austin for 5 yards (tackle by Cody Davis)",-1.570,-0.340
+1,4:49,1,10,PIT 21,7,3,Mitchell Trubisky pass incomplete short middle intended for Pat Freiermuth (defended by Kyle Dugger),0.340,-0.200
+1,4:46,2,10,PIT 21,7,3,Najee Harris right guard for 4 yards (tackle by Christian Barmore and Davon Godchaux),-0.200,-0.360
+1,4:04,3,6,PIT 25,7,3,Mitchell Trubisky pass incomplete deep left intended for Allen Robinson,-0.360,-1.700
+1,3:57,4,6,PIT 25,7,3,"Pressley Harvin punts 48 yards, fair catch by Myles Bryant at NE-27",-1.700,-0.740
+1,3:49,1,10,NWE 27,7,3,Bailey Zappe pass complete short right to Tyquan Thornton for 11 yards (tackle by Joey Porter),0.740,1.470
+1,3:13,1,10,NWE 38,7,3,Bailey Zappe pass complete deep middle to JuJu Smith-Schuster for 17 yards (tackle by Joey Porter),1.470,2.590
+1,2:30,1,10,PIT 45,7,3,Bailey Zappe pass incomplete short right,2.590,2.040
+1,2:23,2,10,PIT 45,7,3,Bailey Zappe pass incomplete short left intended for Jalen Reagor,2.040,1.360
+1,2:20,3,10,PIT 45,7,3,Bailey Zappe pass incomplete deep right intended for JuJu Smith-Schuster (defended by Joey Porter),1.360,0.270
+1,2:14,4,10,PIT 45,7,3,"Bryce Baringer punts 35 yards, returned by Calvin Austin for 5 yards (tackle by Matthew Slater and Chris Board)",0.270,0.220
+1,2:05,1,10,PIT 15,7,3,Najee Harris right end for 4 yards (tackle by Kyle Dugger),-0.220,-0.110
+1,1:24,2,6,PIT 19,7,3,Mitchell Trubisky pass complete short left to Jaylen Warren for 8 yards (tackle by Jahlani Tavai),-0.110,0.740
+1,0:47,1,10,PIT 27,7,3,Najee Harris right guard for -1 yards (tackle by Jalen Mills and Lawrence Guy),0.740,0.060
+1,0:08,2,11,PIT 26,7,3,Mitchell Trubisky scrambles left tackle for 1 yard (tackle by Jahlani Tavai),0.060,-0.360
+Quarter,Time,Down,ToGo,Location,NWE,PIT,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,9,PIT 28,7,3,Mitchell Trubisky pass deep middle intended for Pat Freiermuth is intercepted by Jabrill Peppers at PIT-44 and returned for 33 yards (tackle by James Daniels and Broderick Jones),-0.360,-4.840
+2,14:47,1,10,PIT 11,7,3,Ezekiel Elliott right tackle for 3 yards (tackle by Alex Highsmith and Keeanu Benton),4.840,4.700
+2,14:19,2,7,PIT 8,13,3,"Bailey Zappe pass complete short middle to Hunter Henry for 8 yards, touchdown",4.700,7.000
+2,14:14,,,PIT 15,14,3,Chad Ryland kicks extra point good,0.000,0.000
+2,14:14,,,NWE 35,14,3,"Chad Ryland kicks off 65 yards, touchback.",0.000,0.610
+2,14:14,1,10,PIT 25,14,3,Najee Harris left tackle for -5 yards (tackle by Anfernee Jennings),0.610,-0.610
+2,13:38,2,15,PIT 20,14,3,Mitchell Trubisky pass complete short middle to Pat Freiermuth for 7 yards (tackle by Mack Wilson),-0.610,-0.360
+2,12:59,3,8,PIT 27,14,3,Mitchell Trubisky pass incomplete short left intended for Diontae Johnson,-0.360,-1.570
+2,12:53,4,8,PIT 27,14,3,"Pressley Harvin punts 45 yards, fair catch by Myles Bryant at NE-28",-1.570,-0.810
+2,12:45,1,10,NWE 28,14,3,Ezekiel Elliott right tackle for -1 yards (tackle by Nick Herbig),0.810,0.130
+2,12:05,2,11,NWE 27,14,3,Bailey Zappe pass incomplete short middle intended for Ezekiel Elliott,0.130,-0.560
+2,12:00,3,11,NWE 27,14,3,Bailey Zappe pass complete short left to Ezekiel Elliott for 7 yards (tackle by Patrick Peterson),-0.560,-1.110
+2,11:21,4,4,NWE 34,14,3,"Bryce Baringer punts 66 yards, touchback.",-1.110,-0.280
+2,11:13,1,10,PIT 20,14,3,Mitchell Trubisky scrambles right end for 3 yards (tackle by Kyle Dugger),0.280,0.140
+2,10:28,2,7,PIT 23,14,3,"Jaylen Warren right end for 2 yards (tackle by Jahlani Tavai and Davon Godchaux). Penalty on Chukwuma Okorafor: Illegal Formation, 5 yards (declined)",0.140,-0.300
+2,9:56,3,5,PIT 25,14,3,Mitchell Trubisky pass incomplete deep right intended for Diontae Johnson,-0.300,-1.700
+2,9:56,4,5,PIT 25,14,3,Pressley Harvin punts 34 yards,-1.700,-1.660
+2,9:48,1,10,NWE 41,14,3,Ezekiel Elliott up the middle for 3 yards (tackle by T.J. Watt and Armon Watts),1.660,1.530
+2,9:11,2,7,NWE 44,14,3,Bailey Zappe pass complete short right to Pharaoh Brown for 4 yards (tackle by Nick Herbig),1.530,1.360
+2,8:29,3,3,NWE 48,14,3,Bailey Zappe pass complete short middle to JuJu Smith-Schuster for 28 yards (tackle by Damontae Kazee),1.360,3.970
+2,7:43,1,10,PIT 24,20,3,"Bailey Zappe pass complete deep left to Hunter Henry for 24 yards, touchdown",3.970,7.000
+2,7:38,,,PIT 15,21,3,Chad Ryland kicks extra point good,0.000,0.000
+2,7:38,,,NWE 35,21,3,"Chad Ryland kicks off 65 yards, touchback.",0.000,0.610
+2,7:38,1,10,PIT 25,21,3,Mitchell Trubisky pass complete short right to Jaylen Warren for 12 yards (tackle by Jalen Mills and Kyle Dugger),0.610,1.400
+2,6:58,1,10,PIT 37,21,3,Calvin Austin left tackle for 12 yards (tackle by Myles Bryant and Ja'Whaun Bentley),1.400,2.190
+2,6:14,1,10,PIT 49,21,3,Mitchell Trubisky pass complete short right to Connor Heyward for 5 yards (tackle by Jalen Mills and Ja'Whaun Bentley),2.190,2.320
+2,5:33,2,5,NWE 46,21,3,Najee Harris left guard for 4 yards (tackle by Jahlani Tavai and Christian Barmore),2.320,2.150
+2,5:13,3,1,NWE 42,21,3,Mitchell Trubisky up the middle for 2 yards (tackle by Keion White and Jahlani Tavai),2.150,2.920
+2,4:29,1,10,NWE 40,21,3,Jaylen Warren right tackle for 5 yards (tackle by Jahlani Tavai),2.920,3.050
+2,3:48,2,5,NWE 35,21,3,"Mitchell Trubisky pass incomplete intended for Pat Freiermuth. Penalty on Kyle Dugger: Defensive Pass Interference, 5 yards (accepted) (no play)",3.050,3.580
+2,3:40,1,10,NWE 30,21,3,Jaylen Warren left end for 5 yards (tackle by Jabrill Peppers and Jalen Mills),3.580,3.710
+2,2:55,2,5,NWE 25,21,9,"Mitchell Trubisky pass complete deep left to Diontae Johnson for 25 yards, touchdown",3.710,7.000
+2,2:50,,,NWE 15,21,10,Chris Boswell kicks extra point good,0.000,0.000
+2,2:50,,,PIT 35,21,10,"Chris Boswell kicks off 67 yards, returned by Ty Montgomery for 24 yards (tackle by Nick Herbig). Penalty on Brenden Schooler: Unnecessary Roughness / Offense, 11 yards (accepted)",0.000,-0.370
+2,2:46,1,10,NWE 11,21,10,Ezekiel Elliott left guard for 4 yards (tackle by Elandon Roberts and Nick Herbig),-0.370,-0.430
+2,2:41,,,,,,Timeout #1 by Pittsburgh Steelers,,
+2,2:41,2,6,NWE 15,21,10,Bailey Zappe pass complete short left to Ty Montgomery for 17 yards (tackle by Mykal Walker),-0.430,1.070
+2,2:09,1,10,NWE 32,21,10,Bailey Zappe pass complete short right to Tyquan Thornton for 3 yards (tackle by Joey Porter),1.070,0.930
+2,2:00,2,7,NWE 35,21,10,Bailey Zappe pass incomplete short right intended for Ty Montgomery,0.930,0.230
+2,1:56,3,7,NWE 35,21,10,Bailey Zappe pass complete short right to Hunter Henry for 8 yards (tackle by Trenton Thompson),0.230,1.800
+2,1:23,1,10,NWE 43,21,10,Bailey Zappe sacked by Elandon Roberts for -10 yards,1.800,-0.100
+2,1:18,,,,,,Timeout #2 by Pittsburgh Steelers,,
+2,1:18,2,20,NWE 33,21,10,Ezekiel Elliott left guard for -1 yards (tackle by Minkah Fitzpatrick),-0.100,-0.890
+2,1:15,,,,,,Timeout #3 by Pittsburgh Steelers,,
+2,1:15,3,21,NWE 32,21,10,Ezekiel Elliott up the middle for 7 yards (tackle by Cameron Heyward),-0.890,-0.780
+2,0:29,,,,,,Timeout #1 by New England Patriots,,
+2,0:29,4,14,NWE 39,21,10,"Bryce Baringer punts 52 yards, recovered by Calvin Austin at PIT-9 (tackle by Brenden Schooler)",-0.780,0.380
+2,0:19,1,10,PIT 9,21,10,Mitchell Trubisky kneels for -1 yards,-0.380,-0.850
+Quarter,Time,Down,ToGo,Location,NWE,PIT,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,NWE 35,21,10,"Chad Ryland kicks off 63 yards, returned by Godwin Igwebuike for 15 yards (tackle by Chris Board and Jahlani Tavai)",0.000,-0.060
+3,14:54,1,10,PIT 17,21,10,Mitchell Trubisky pass complete short right to Najee Harris for no gain (tackle by Jahlani Tavai),-0.060,-0.580
+3,14:15,2,10,PIT 17,21,10,Najee Harris up the middle for 6 yards (tackle by Ja'Whaun Bentley and Christian Barmore),-0.580,-0.490
+3,13:34,3,4,PIT 23,21,10,Mitchell Trubisky pass complete short middle to Pat Freiermuth for 7 yards (tackle by Jalen Mills and Kyle Dugger),-0.490,0.940
+3,12:55,1,10,PIT 30,21,10,Jaylen Warren right end for -7 yards (tackle by Myles Bryant),0.940,-0.550
+3,12:08,2,17,PIT 23,21,10,Jaylen Warren left guard for 7 yards (tackle by Jabrill Peppers and Jahlani Tavai),-0.550,-0.300
+3,11:26,3,10,PIT 30,21,10,Mitchell Trubisky pass complete short right to Connor Heyward for 10 yards (tackle by Kyle Dugger),-0.300,1.600
+3,10:45,1,10,PIT 40,21,10,Najee Harris right end for 7 yards (tackle by Kyle Dugger and Myles Bryant),1.600,2.000
+3,10:05,2,3,PIT 47,21,10,Mitchell Trubisky pass complete short left to Jaylen Warren for 8 yards (tackle by Myles Bryant and Jahlani Tavai),2.000,2.590
+3,9:22,1,10,NWE 45,21,10,Jaylen Warren left tackle for 1 yard (tackle by Lawrence Guy),2.590,2.180
+3,8:40,2,9,NWE 44,21,10,Mitchell Trubisky pass incomplete short right intended for Allen Robinson (defended by Myles Bryant),2.180,1.490
+3,8:33,3,9,NWE 44,21,10,Mitchell Trubisky sacked by and Christian Barmore for -7 yards and Kyle Dugger for -7 yards,1.490,-0.130
+3,7:59,4,16,PIT 49,21,10,"Pressley Harvin punts 51 yards, touchback.",-0.130,-0.280
+3,7:51,1,10,NWE 20,21,10,Bailey Zappe pass complete short middle to Ezekiel Elliott for 16 yards (tackle by Nick Herbig and Blake Martinez),0.280,1.330
+3,7:19,1,10,NWE 36,21,10,"Bailey Zappe pass incomplete short middle. Penalty on Conor McDermott: Offensive Holding, 10 yards (accepted) (no play)",1.330,0.670
+3,7:13,1,20,NWE 26,21,10,Bailey Zappe pass complete short left to Ezekiel Elliott for 8 yards (tackle by Levi Wallace),0.670,0.520
+3,6:34,2,12,NWE 34,21,10,Ezekiel Elliott up the middle for 5 yards (tackle by T.J. Watt and Mykal Walker),0.520,0.500
+3,5:53,3,7,NWE 39,21,10,Bailey Zappe sacked by Cameron Heyward for -8 yards,0.500,-1.310
+3,5:13,4,15,NWE 31,21,10,Bryce Baringer punts 43 yards out of bounds,-1.310,-0.670
+3,5:12,1,10,PIT 26,21,10,Mitchell Trubisky pass complete short right to George Pickens for 5 yards (tackle by Jonathan Jones),0.670,0.810
+3,4:33,2,5,PIT 31,21,10,Najee Harris right guard for -1 yards (tackle by Anfernee Jennings),0.810,-0.030
+3,3:53,3,6,PIT 30,21,10,Mitchell Trubisky pass complete short left to George Pickens for 3 yards (tackle by Jonathan Jones),-0.030,-1.180
+3,3:14,4,3,PIT 33,21,10,"Pressley Harvin punts 36 yards, fair catch by Myles Bryant at NE-31",-1.180,-1.000
+3,3:07,1,10,NWE 31,21,10,Ezekiel Elliott up the middle for 8 yards (tackle by Blake Martinez and Elandon Roberts),1.000,1.540
+3,2:30,2,2,NWE 39,21,10,Ezekiel Elliott left guard for no gain (tackle by Nick Herbig and Minkah Fitzpatrick),1.540,0.830
+3,1:47,3,2,NWE 39,21,10,Ezekiel Elliott left guard for 4 yards (tackle by Cameron Heyward and Elandon Roberts),0.830,1.800
+3,1:10,1,10,NWE 43,21,10,Bailey Zappe pass short middle (defended by Elandon Roberts) intended for JuJu Smith-Schuster is intercepted by Mykal Walker at NE-46 and returned for 30 yards (tackle by Ezekiel Elliott),1.800,-4.510
+3,0:58,1,10,NWE 16,21,10,Najee Harris right guard for 1 yard (tackle by Davon Godchaux),4.510,4.050
+3,0:21,2,9,NWE 15,21,10,Mitchell Trubisky pass incomplete short right,4.050,3.220
+3,0:14,3,9,NWE 15,21,10,Mitchell Trubisky scrambles up the middle for 7 yards (tackle by Ja'Whaun Bentley),3.220,2.990
+Quarter,Time,Down,ToGo,Location,NWE,PIT,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,4,2,NWE 8,21,10,Mitchell Trubisky pass complete short right to Jaylen Warren for 1 yard (tackle by Mack Wilson and Ja'Whaun Bentley),2.990,0.380
+4,14:54,1,10,NWE 7,21,10,Bailey Zappe pass complete short left to Tyquan Thornton for 3 yards (tackle by Patrick Peterson),-0.380,-0.560
+4,14:23,2,7,NWE 10,21,10,Ezekiel Elliott right guard for 5 yards (tackle by T.J. Watt and Minkah Fitzpatrick),-0.560,-0.480
+4,13:42,3,2,NWE 15,21,10,Bailey Zappe pass incomplete short right intended for Tyquan Thornton,-0.480,-2.440
+4,13:31,4,2,NWE 15,21,10,Bryce Baringer punts 11 yards downed by Marte Mapu,-2.440,-3.840
+4,13:23,1,10,NWE 26,21,10,Najee Harris left guard for 6 yards (tackle by Lawrence Guy and Jahlani Tavai),3.840,4.110
+4,12:40,2,4,NWE 20,21,10,Mitchell Trubisky pass complete short right to Darnell Washington for 12 yards (tackle by Jahlani Tavai),4.110,5.370
+4,11:55,,,,,,Timeout #1 by Pittsburgh Steelers,,
+4,11:55,1,8,NWE 8,21,10,"Mitchell Trubisky pass incomplete short middle intended for Pat Freiermuth. Penalty on J.C. Jackson: Defensive Pass Interference, 7 yards (accepted) (no play)",5.370,6.970
+4,11:51,1,1,NWE 1,21,10,Connor Heyward pass incomplete short right intended for Darnell Washington (defended by Mack Wilson),6.970,5.910
+4,11:47,2,1,NWE 1,21,16,"Mitchell Trubisky for 1 yard, touchdown",5.910,7.000
+4,11:44,,,NWE 2,21,18,Two Point Attempt: Mitchell Trubisky pass complete to to Pat Freiermuth for no gain,1.000,1.000
+4,11:44,,,PIT 35,21,18,"Chris Boswell kicks off 65 yards, touchback.",0.000,0.610
+4,11:44,1,10,NWE 25,21,18,Bailey Zappe pass complete short left to Ezekiel Elliott for 9 yards (tackle by Nick Herbig),0.610,1.280
+4,11:12,2,1,NWE 34,21,18,Ezekiel Elliott up the middle for 2 yards (tackle by T.J. Watt),1.280,1.330
+4,10:32,1,10,NWE 36,21,18,Ezekiel Elliott up the middle for -1 yards (tackle by T.J. Watt),1.330,0.660
+4,9:58,2,11,NWE 35,21,18,Bailey Zappe scrambles up the middle for 2 yards (tackle by Elandon Roberts),0.660,0.230
+4,9:18,3,9,NWE 37,21,18,Bailey Zappe pass complete short left to JuJu Smith-Schuster for 8 yards (tackle by Patrick Peterson),0.230,-0.390
+4,8:36,4,1,NWE 45,21,18,"Bryce Baringer punts 55 yards, touchback.",-0.390,-0.280
+4,8:24,1,10,PIT 20,21,18,Mitchell Trubisky pass complete short right to Najee Harris for 5 yards (tackle by Jahlani Tavai),0.280,0.410
+4,7:48,2,5,PIT 25,21,18,Mitchell Trubisky pass incomplete short middle intended for Jaylen Warren,0.410,-0.300
+4,7:41,3,5,PIT 25,21,18,Mitchell Trubisky pass complete short middle to Pat Freiermuth for 4 yards (tackle by Jalen Mills),-0.300,-1.440
+4,7:13,,,,,,Timeout #2 by Pittsburgh Steelers,,
+4,7:13,4,1,PIT 29,21,18,Mitchell Trubisky up the middle for 2 yards (tackle by Ja'Whaun Bentley and Jahlani Tavai),-1.440,1.000
+4,6:37,1,10,PIT 31,21,18,Mitchell Trubisky pass complete short right to George Pickens for 7 yards (tackle by Jonathan Jones),1.000,1.410
+4,5:56,2,3,PIT 38,21,18,Mitchell Trubisky pass complete short left to George Pickens for no gain (tackle by Jonathan Jones),1.410,0.700
+4,5:16,3,3,PIT 38,21,18,Mitchell Trubisky pass incomplete short right intended for Pat Freiermuth,0.700,-0.850
+4,5:06,4,3,PIT 38,21,18,"Penalty on Christian Kuntz: False Start, 5 yards (accepted) (no play)",-0.850,-1.180
+4,5:06,4,8,PIT 33,21,18,"Pressley Harvin punts 53 yards, fair catch by Myles Bryant at NE-14",-1.180,0.280
+4,4:58,1,10,NWE 14,21,18,Ezekiel Elliott left guard for 4 yards (tackle by Cameron Heyward and Larry Ogunjobi),-0.280,-0.210
+4,4:18,2,6,NWE 18,21,18,Ezekiel Elliott right guard for 4 yards (tackle by Larry Ogunjobi and Blake Martinez),-0.210,-0.440
+4,3:34,3,2,NWE 22,21,18,Ezekiel Elliott up the middle for 1 yard (tackle by Cameron Heyward),-0.440,-1.830
+4,2:54,4,1,NWE 23,21,18,"Bryce Baringer punts 50 yards, fair catch by Calvin Austin at PIT-27",-1.830,-0.740
+4,2:44,1,10,PIT 27,21,18,Mitchell Trubisky pass incomplete short middle intended for Pat Freiermuth,0.740,0.200
+4,2:39,2,10,PIT 27,21,18,Mitchell Trubisky pass complete short middle to Najee Harris for 14 yards (tackle by Ja'Whaun Bentley and Jahlani Tavai),0.200,1.660
+4,2:14,1,10,PIT 41,21,18,Mitchell Trubisky pass incomplete short right intended for Diontae Johnson,1.660,1.120
+4,2:09,2,10,PIT 41,21,18,Mitchell Trubisky pass complete short right to Diontae Johnson for 8 yards (tackle by J.C. Jackson),1.120,1.490
+4,2:05,3,2,PIT 49,21,18,Mitchell Trubisky pass incomplete deep right intended for George Pickens,1.490,-0.130
+4,2:01,4,2,PIT 49,21,18,Mitchell Trubisky pass incomplete deep left intended for Diontae Johnson,-0.130,-2.390
+4,1:55,1,10,PIT 48,21,18,"Penalty on Hunter Henry: False Start, 5 yards (accepted) (no play)",2.390,2.060
+4,1:55,1,15,NWE 47,21,18,Ezekiel Elliott up the middle for 2 yards (tackle by Montravius Adams),2.060,1.440
+4,1:51,,,,,,Timeout #3 by Pittsburgh Steelers,,
+4,1:51,2,13,NWE 49,21,18,"Ezekiel Elliott right guard for 13 yards (tackle by Joey Porter) Replay Assistant challenged the first down ruling, and the original play was overturned. Ezekiel Elliott for 12 yards (tackle by Joey Porter)",1.440,2.340
+4,1:07,,,,,,Timeout #1 by New England Patriots,,
+4,1:07,3,1,PIT 39,21,18,Bailey Zappe up the middle for no gain (tackle by Blake Martinez),2.340,0.660
+4,0:22,,,,,,Timeout #2 by New England Patriots,,
+4,0:22,4,1,PIT 39,21,18,Bryce Baringer punts 26 yards out of bounds,0.660,0.320
+4,0:15,1,10,PIT 13,21,18,Mitchell Trubisky pass complete deep right to Diontae Johnson for 24 yards (tackle by Jalen Mills),-0.320,1.400
+4,0:07,1,10,PIT 37,21,18,Mitchell Trubisky pass complete deep middle to Allen Robinson for 21 yards (tackle by Myles Bryant),1.400,2.790
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,203 @@
+Quarter,Time,Down,ToGo,Location,NYJ,NYG,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Giants won the coin toss and deferred, Jets to receive the opening kickoff.",,
+1,15:00,,,NYG 35,0,0,"Graham Gano kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,NYJ 25,0,0,Zach Wilson pass complete short right to Breece Hall for 12 yards (tackle by Xavier McKinney),0.610,1.400
+1,14:31,1,10,NYJ 37,0,0,Breece Hall left end for 5 yards (tackle by Adoree' Jackson),1.400,1.530
+1,13:50,2,5,NYJ 42,0,0,Zach Wilson pass incomplete short right intended for Breece Hall (defended by Leonard Williams),1.530,0.830
+1,13:43,3,5,NYJ 42,0,0,"Zach Wilson sacked by Kayvon Thibodeaux for -16 yards. Zach Wilson fumbles (forced by Kayvon Thibodeaux), recovered by Jihad Ward at NYJ-26 and returned for 7 yards (tackle by Connor McGovern and Wes Schweitzer). Penalty on Connor McGovern: Offensive Holding, 10 yards (declined)",0.830,-4.310
+1,13:33,1,10,NYJ 19,0,0,Wan'Dale Robinson right end for 7 yards (tackle by C.J. Mosley),4.310,4.920
+1,13:03,2,3,NYJ 12,0,0,Saquon Barkley right guard for -1 yards (tackle by Quincy Williams and Ashtyn Davis),4.920,3.960
+1,12:18,3,4,NYJ 13,0,0,Tyrod Taylor pass incomplete short right intended for Darius Slayton,3.960,2.640
+1,12:11,4,4,NYJ 13,0,3,Graham Gano 31 yard field goal good,2.640,3.000
+1,12:07,,,NYG 35,0,3,"Graham Gano kicks off 66 yards, returned by Xavier Gipson for 22 yards (tackle by Jashaun Corbin and Cam Brown)",0.000,0.340
+1,12:01,1,10,NYJ 21,0,3,Breece Hall right tackle for -1 yards (tackle by A'Shawn Robinson and Kayvon Thibodeaux),0.340,-0.340
+1,11:20,2,11,NYJ 20,0,3,Zach Wilson pass complete short left to Allen Lazard for 6 yards (tackle by Adoree' Jackson),-0.340,-0.230
+1,10:34,3,5,NYJ 26,0,3,Zach Wilson pass incomplete short right intended for Xavier Gipson,-0.230,-1.630
+1,10:29,4,5,NYJ 26,0,3,"Thomas Morstead punts 46 yards, returned by Gunner Olszewski for 9 yards (tackle by Chazz Surratt and Thomas Hennessy)",-1.630,-1.400
+1,10:18,1,10,NYG 37,0,3,Tyrod Taylor scrambles right end for 7 yards (tackle by D.J. Reed),1.400,1.800
+1,9:50,2,3,NYG 44,0,3,Saquon Barkley left guard for no gain (tackle by Quinton Jefferson),1.800,1.090
+1,9:15,3,3,NYG 44,0,3,Tyrod Taylor sacked by Bryce Huff for -4 yards,1.090,-0.720
+1,8:34,4,7,NYG 40,0,3,"Jamie Gillan punts 40 yards, returned by Xavier Gipson for 4 yards (tackle by Nick McCloud)",-0.720,-0.540
+1,8:29,1,10,NYJ 24,0,3,Breece Hall left tackle for 3 yards (tackle by Micah McFadden),0.540,0.400
+1,7:50,2,7,NYJ 27,0,3,Zach Wilson pass complete short middle to Breece Hall for 6 yards (tackle by Bobby Okereke),0.400,0.500
+1,7:10,3,1,NYJ 33,0,3,Breece Hall right guard for no gain (tackle by A'Shawn Robinson and Jason Pinnock),0.500,-1.180
+1,6:18,4,1,NYJ 33,0,3,"Thomas Morstead punts 51 yards, fair catch by Gunner Olszewski at NYG-16",-1.180,0.140
+1,6:13,1,10,NYG 16,0,3,Tyrod Taylor pass incomplete short left intended for Darren Waller (defended by Ashtyn Davis),-0.140,-0.660
+1,6:06,2,10,NYG 16,0,3,Saquon Barkley right end for 3 yards (tackle by Bryce Huff),-0.660,-0.950
+1,5:29,3,7,NYG 19,0,3,Tyrod Taylor scrambles up the middle for 1 yard (tackle by C.J. Mosley and Bryce Huff),-0.950,-2.030
+1,4:51,4,6,NYG 20,0,3,"Jamie Gillan punts 41 yards, fair catch by Xavier Gipson at NYJ-39",-2.030,-1.530
+1,4:49,1,10,NYJ 39,0,3,"Penalty on Laken Tomlinson: False Start, 5 yards (accepted) (no play)",1.530,1.200
+1,4:49,1,15,NYJ 34,0,3,Zach Wilson pass complete short left to Garrett Wilson for 14 yards (tackle by Deonte Banks),1.200,2.200
+1,4:03,2,1,NYJ 48,0,3,Dalvin Cook right end for 1 yard (tackle by Micah McFadden),2.200,2.190
+1,3:26,1,10,NYJ 49,0,3,Zach Wilson pass incomplete short left intended for Garrett Wilson,2.190,1.650
+1,3:22,2,10,NYJ 49,0,3,Zach Wilson pass incomplete short right intended for Garrett Wilson (defended by Deonte Banks),1.650,0.960
+1,3:18,3,10,NYJ 49,0,3,Zach Wilson pass incomplete short middle intended for Michael Carter (defended by Isaiah Simmons),0.960,-0.130
+1,3:12,4,10,NYJ 49,0,3,Thomas Morstead punts 49 yards downed by Jamien Sherwood,-0.130,0.380
+1,3:01,1,10,NYG 2,0,3,Saquon Barkley up the middle for 2 yards (tackle by Will McDonald),-0.380,-0.630
+1,2:33,2,8,NYG 4,0,3,Saquon Barkley right guard for 4 yards (tackle by C.J. Mosley),-0.630,-0.720
+1,2:01,3,4,NYG 8,0,3,Tyrod Taylor pass complete short left to Saquon Barkley for 1 yard (tackle by Quincy Williams),-0.720,-2.490
+1,1:24,4,3,NYG 9,0,3,"Jamie Gillan punts 51 yards, returned by Xavier Gipson for 10 yards (tackle by Darnay Holmes)",-2.490,-2.260
+1,1:18,1,10,NYJ 50,6,3,"Zach Wilson pass complete short middle to Breece Hall for 50 yards, touchdown. Penalty on Cordale Flott: Illegal Contact, 5 yards (declined)",2.260,7.000
+1,1:06,,,NYG 15,7,3,Greg Zuerlein kicks extra point good,0.000,0.000
+1,1:06,,,NYJ 35,7,3,"Greg Zuerlein kicks off 64 yards, returned by Parris Campbell for 24 yards (tackle by Chazz Surratt and Jamien Sherwood)",0.000,0.610
+1,0:59,1,10,NYG 25,7,3,Tyrod Taylor pass complete short left to Darius Slayton for -1 yards (tackle by Ashtyn Davis),0.610,-0.070
+1,0:34,2,11,NYG 24,7,3,"Saquon Barkley up the middle for 6 yards (tackle by Micheal Clemons and C.J. Mosley). Penalty on Quincy Williams: Unnecessary Roughness / Defense, 15 yards (accepted)",-0.070,1.930
+Quarter,Time,Down,ToGo,Location,NYJ,NYG,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,NYG 45,7,3,Tyrod Taylor scrambles up the middle for 17 yards (tackle by Michael Carter and Quincy Williams),1.930,3.050
+2,14:34,1,10,NYJ 38,7,3,Saquon Barkley up the middle for 1 yard (tackle by Solomon Thomas and Jermaine Johnson),3.050,2.640
+2,14:04,2,9,NYJ 37,7,3,Tyrod Taylor scrambles up the middle for 4 yards (tackle by Michael Carter),2.640,2.480
+2,13:31,3,5,NYJ 33,7,3,Tyrod Taylor pass complete short left to Darren Waller for 4 yards (tackle by Sauce Gardner),2.480,1.620
+2,12:48,4,1,NYJ 29,7,3,Graham Gano 47 yard field goal no good,1.620,-1.400
+2,12:43,1,10,NYJ 37,7,3,Breece Hall up the middle for no gain (tackle by Micah McFadden),1.400,0.860
+2,12:05,2,10,NYJ 37,7,3,Zach Wilson pass complete short right to Garrett Wilson for 8 yards,0.860,1.220
+2,11:48,3,2,NYJ 45,7,3,Zach Wilson pass incomplete short right intended for Tyler Conklin (defended by Jason Pinnock),1.220,-0.390
+2,11:46,4,2,NYJ 45,7,3,Thomas Morstead punts 52 yards downed by Brandin Echols,-0.390,0.380
+2,11:35,1,10,NYG 3,7,3,"Saquon Barkley up the middle for no gain (tackle by Adrian Amos and John Franklin-Myers). Penalty on John Franklin-Myers: Defensive Offside, 5 yards (accepted) (no play)",-0.380,-0.190
+2,11:20,1,5,NYG 8,7,3,Saquon Barkley left guard for 1 yard (tackle by Solomon Thomas) (no play),-0.190,0.480
+2,11:05,1,10,NYG 23,7,3,Saquon Barkley right guard for 3 yards (tackle by Tony Adams),0.480,0.340
+2,10:44,2,7,NYG 26,7,3,Tyrod Taylor pass incomplete short right,0.340,-0.360
+2,10:39,3,7,NYG 26,7,3,"Penalty on Tyre Phillips: False Start, 5 yards (accepted) (no play)",-0.360,-1.020
+2,10:39,3,12,NYG 21,7,3,Tyrod Taylor pass complete short left to Matt Breida for 4 yards (tackle by C.J. Mosley and Bryce Huff),-1.020,-1.700
+2,10:01,4,8,NYG 25,7,3,Jamie Gillan punts 58 yards out of bounds,-1.700,0.060
+2,10:01,1,10,NYJ 17,7,3,Zach Wilson pass incomplete short left,-0.060,-0.580
+2,9:54,2,10,NYJ 17,7,3,Zach Wilson pass complete short middle to Garrett Wilson for 14 yards (tackle by Xavier McKinney and Jason Pinnock),-0.580,1.000
+2,9:12,1,10,NYJ 31,7,3,Dalvin Cook left end for 4 yards (tackle by Bobby Okereke and D.J. Davidson),1.000,1.000
+2,8:29,2,6,NYJ 35,7,3,Zach Wilson pass incomplete short left intended for Allen Lazard,1.000,0.300
+2,8:22,,,,,,Timeout #1 by New York Jets,,
+2,8:22,3,6,NYJ 35,7,3,Zach Wilson pass incomplete short middle intended for Allen Lazard (defended by Cordale Flott),0.300,-1.040
+2,8:18,4,6,NYJ 35,7,3,"Thomas Morstead punts 52 yards, returned by Gunner Olszewski for 8 yards (tackle by Jeremy Ruckert)",-1.040,-0.340
+2,8:07,1,10,NYG 21,7,3,Tyrod Taylor scrambles up the middle for 4 yards (tackle by Quincy Williams and C.J. Mosley),0.340,0.340
+2,7:41,2,6,NYG 25,7,3,"Tyrod Taylor sacked by and Quinton Jefferson for -3 yards and C.J. Mosley for -3 yards. Tyrod Taylor fumbles, recovered by Tyrod Taylor at NYG-22",0.340,-0.760
+2,7:10,3,9,NYG 22,7,3,Saquon Barkley right tackle for 6 yards (tackle by Quincy Williams),-0.760,-1.500
+2,6:35,4,3,NYG 28,7,3,"Jamie Gillan punts 56 yards, fair catch by Xavier Gipson at NYJ-16",-1.500,0.140
+2,6:31,1,10,NYJ 16,7,3,Zach Wilson pass complete short right to C.J. Uzomah for 19 yards (tackle by Boogie Basham),-0.140,1.270
+2,5:46,1,10,NYJ 35,7,3,Breece Hall left guard for 3 yards (tackle by Micah McFadden and Boogie Basham),1.270,1.130
+2,5:06,2,7,NYJ 38,7,3,Xavier Gipson right end for 3 yards (tackle by Dexter Lawrence and Bobby Okereke),1.130,0.830
+2,4:20,3,4,NYJ 41,7,3,"Zach Wilson sacked by Dexter Lawrence for -6 yards. Penalty on Mekhi Becton: Unnecessary Roughness / Offense, 15 yards (accepted)",0.830,-2.030
+2,4:13,4,25,NYJ 20,7,3,"Thomas Morstead punts 40 yards, returned by Gunner Olszewski for 1 yard (tackle by Chazz Surratt). Penalty on Isaiah Simmons: Personal Foul / Offense, 15 yards (accepted)",-2.030,-0.670
+2,3:49,1,10,NYG 26,7,3,Tommy DeVito pass incomplete short right intended for Daniel Bellinger (defended by Jordan Whitehead),0.670,0.130
+2,3:45,2,10,NYG 26,7,3,Saquon Barkley up the middle for 4 yards (tackle by Quinnen Williams),0.130,-0.030
+2,3:08,3,6,NYG 30,7,3,Tommy DeVito scrambles left end for 5 yards (tackle by C.J. Mosley),-0.030,-1.040
+2,2:30,4,1,NYG 35,7,3,Jamie Gillan punts 23 yards out of bounds,-1.040,-1.730
+2,2:28,1,10,NYJ 42,7,3,"Zach Wilson aborted snap, recovered by Micah McFadden at NYJ-41",1.730,-2.850
+2,2:24,1,10,NYJ 41,7,3,Saquon Barkley up the middle for 6 yards (tackle by John Franklin-Myers and Jermaine Johnson),2.850,3.120
+2,2:00,2,4,NYJ 35,7,3,Tommy DeVito sacked by Jermaine Johnson for -4 yards,3.120,1.880
+2,1:20,3,8,NYJ 39,7,3,Tommy DeVito pass incomplete short left intended for Saquon Barkley (defended by C.J. Mosley),1.880,0.660
+2,1:17,4,8,NYJ 39,7,3,"Penalty on NYG: Delay of Game, 6 yards (accepted) (no play)",0.660,0.270
+2,1:15,4,14,NYJ 45,7,3,"Jamie Gillan punts 35 yards, fair catch by D.J. Reed at NYJ-10",0.270,0.380
+2,1:11,1,10,NYJ 10,7,3,Michael Carter up the middle for 1 yard (tackle by Leonard Williams and Kayvon Thibodeaux),-0.380,-0.710
+2,1:07,,,,,,Timeout #1 by New York Giants,,
+2,1:07,2,9,NYJ 11,7,3,Michael Carter left end for 1 yard (tackle by Bobby Okereke),-0.710,-1.190
+2,1:00,3,8,NYJ 12,7,3,Zach Wilson pass incomplete short left intended for Garrett Wilson (defended by Deonte Banks),-1.190,-2.490
+2,0:53,4,8,NYJ 12,7,3,"Thomas Morstead punts 55 yards, returned by Gunner Olszewski for 15 yards (tackle by Samuel Eguavoen and Thomas Hennessy)",-2.490,-2.130
+2,0:41,1,10,NYG 48,7,3,Tommy DeVito pass incomplete short right intended for Wan'Dale Robinson,2.130,1.580
+2,0:38,2,10,NYG 48,7,3,Tommy DeVito sacked by Jermaine Johnson for -5 yards,1.580,0.230
+2,0:12,3,15,NYG 43,7,3,Tommy DeVito scrambles right end for 3 yards (tackle by Sauce Gardner),0.230,-0.320
+2,0:08,4,12,NYG 46,7,3,Jamie Gillan punts 42 yards downed by Nick McCloud,-0.320,1.990
+Quarter,Time,Down,ToGo,Location,NYJ,NYG,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,NYJ 35,7,3,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,NYG 25,7,3,Saquon Barkley left end for 6 yards (tackle by Tony Adams and Jordan Whitehead),0.610,0.870
+3,14:19,2,4,NYG 31,7,3,Saquon Barkley up the middle for 34 yards (tackle by Jordan Whitehead),0.870,3.250
+3,13:44,1,10,NYJ 35,7,3,Matt Breida right tackle for no gain (tackle by Quincy Williams),3.250,2.700
+3,13:12,2,10,NYJ 35,7,3,"Tommy DeVito pass incomplete short left intended for Wan'Dale Robinson. Penalty on Quincy Williams: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",2.700,4.240
+3,13:10,1,10,NYJ 20,7,3,Saquon Barkley up the middle for -4 yards (tackle by Quinnen Williams),4.240,3.150
+3,12:32,2,14,NYJ 24,7,3,Saquon Barkley right tackle for 8 yards (tackle by Sauce Gardner),3.150,3.520
+3,11:53,3,6,NYJ 16,7,3,Saquon Barkley up the middle for 6 yards (tackle by Tony Adams and Jordan Whitehead),3.520,4.910
+3,11:17,1,10,NYJ 10,7,3,Saquon Barkley right tackle for -1 yards (tackle by John Franklin-Myers),4.910,4.020
+3,10:47,2,11,NYJ 11,7,3,Matt Breida up the middle for 1 yard (tackle by Quincy Williams and John Franklin-Myers),4.020,3.130
+3,10:09,3,10,NYJ 10,7,3,"Tommy DeVito up the middle for no gain (tackle by Quincy Williams). Penalty on Jermaine Johnson: Unnecessary Roughness / Defense, 5 yards (accepted) (no play)",3.130,6.060
+3,9:51,1,5,NYJ 5,7,3,Saquon Barkley up the middle for -1 yards (tackle by Micheal Clemons and Bryce Huff),6.060,4.950
+3,9:09,2,6,NYJ 6,7,3,Tommy DeVito pass incomplete short right,4.950,4.040
+3,9:03,3,6,NYJ 6,7,9,"Tommy DeVito for 6 yards, touchdown",4.040,7.000
+3,8:59,,,NYJ 15,7,10,Graham Gano kicks extra point good,0.000,0.000
+3,8:59,,,NYG 35,7,10,"Graham Gano kicks off 65 yards, touchback.",0.000,0.610
+3,8:59,1,10,NYJ 25,7,10,Breece Hall right guard for -1 yards (tackle by Bobby Okereke and Kayvon Thibodeaux),0.610,-0.070
+3,8:22,2,11,NYJ 24,7,10,"Penalty on Max Mitchell: False Start, 5 yards (accepted) (no play)",-0.070,-0.810
+3,7:59,2,16,NYJ 19,7,10,"Zach Wilson pass incomplete short middle intended for Garrett Wilson. Penalty on Deonte Banks: Defensive Pass Interference, 7 yards (accepted) (no play)",-0.810,0.670
+3,7:56,1,10,NYJ 26,7,10,Breece Hall right guard for 4 yards (tackle by Dexter Lawrence),0.670,0.670
+3,7:20,2,6,NYJ 30,7,10,Zach Wilson pass incomplete short right intended for Garrett Wilson,0.670,-0.030
+3,7:14,3,6,NYJ 30,7,10,Zach Wilson scrambles right tackle for 2 yards (tackle by Kayvon Thibodeaux),-0.030,-1.240
+3,6:40,4,4,NYJ 32,7,10,"Thomas Morstead punts 45 yards, returned by Gunner Olszewski for 11 yards (tackle by Jamien Sherwood and Jeremy Ruckert)",-1.240,-1.200
+3,6:23,1,10,NYG 34,7,10,Saquon Barkley right guard for 1 yard (tackle by Quincy Williams and Tony Adams),1.200,0.790
+3,5:51,2,9,NYG 35,7,10,Saquon Barkley up the middle for -1 yards (tackle by Jordan Whitehead and Quinton Jefferson),0.790,-0.030
+3,5:14,3,10,NYG 34,7,10,"Saquon Barkley right tackle for 3 yards (tackle by Tony Adams). Penalty on Mark Glowinski: Offensive Holding, 10 yards (declined)",-0.030,-0.910
+3,5:02,4,7,NYG 37,7,10,Jamie Gillan punts 40 yards out of bounds,-0.910,-0.480
+3,4:58,1,10,NYJ 23,7,10,Breece Hall left tackle for 2 yards (tackle by Xavier McKinney and Oshane Ximines),0.480,0.200
+3,4:26,2,8,NYJ 25,7,10,Zach Wilson pass complete short left to Garrett Wilson for 7 yards (tackle by Deonte Banks),0.200,0.430
+3,3:41,3,1,NYJ 32,7,10,Zach Wilson pass incomplete short left intended for Tyler Conklin,0.430,-1.240
+3,3:36,4,1,NYJ 32,7,10,"Thomas Morstead punts 53 yards, returned by Gunner Olszewski for 12 yards. Gunner Olszewski fumbles (forced by Ashtyn Davis). Gunner Olszewski fumbles out of bounds",-1.240,-0.740
+3,3:24,1,10,NYG 27,7,10,Wan'Dale Robinson left end for 10 yards (tackle by Tony Adams),0.740,1.400
+3,2:49,1,10,NYG 37,7,10,Saquon Barkley left tackle for 4 yards (tackle by Quinnen Williams),1.400,1.400
+3,2:10,2,6,NYG 41,7,10,Saquon Barkley right end for -5 yards (tackle by Quincy Williams),1.400,0.040
+3,1:27,3,11,NYG 36,7,10,Matt Breida left guard for 6 yards (tackle by Quinton Jefferson),0.040,-0.590
+3,0:41,4,5,NYG 42,7,10,"Jamie Gillan punts 42 yards, fair catch by Xavier Gipson at NYJ-16",-0.590,0.140
+3,0:36,1,10,NYJ 16,7,10,Zach Wilson pass complete short left to Breece Hall for -1 yards (tackle by Bobby Okereke),-0.140,-0.780
+Quarter,Time,Down,ToGo,Location,NYJ,NYG,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,11,NYJ 15,7,10,Zach Wilson pass complete short right to Breece Hall for 10 yards (tackle by Jihad Ward),-0.780,-0.200
+4,14:18,3,1,NYJ 25,7,10,Zach Wilson pass incomplete short right intended for Breece Hall,-0.200,-1.700
+4,14:15,4,1,NYJ 25,7,10,"Thomas Morstead punts 43 yards, fair catch by Gunner Olszewski at NYG-32",-1.700,-1.070
+4,14:08,1,10,NYG 32,7,10,Saquon Barkley left tackle for 3 yards (tackle by Tony Adams and Quinnen Williams),1.070,0.930
+4,13:29,2,7,NYG 35,7,10,Saquon Barkley left end for no gain (tackle by Quinnen Williams and Michael Carter),0.930,0.230
+4,12:51,3,7,NYG 35,7,10,Saquon Barkley up the middle for 1 yard (tackle by C.J. Mosley and Jermaine Johnson),0.230,-0.980
+4,12:05,4,6,NYG 36,7,10,"Jamie Gillan punts 42 yards, returned by Xavier Gipson for 6 yards (tackle by Jashaun Corbin and Micah McFadden)",-0.980,-0.810
+4,11:53,1,10,NYJ 28,7,10,Garrett Wilson right end for 6 yards (tackle by Cordale Flott),0.810,1.070
+4,11:13,2,4,NYJ 34,7,10,"Zach Wilson pass complete deep left to Garrett Wilson for 17 yards NYG challenged the pass completion ruling, and the play was upheld.",1.070,2.320
+4,11:06,1,10,NYG 49,7,10,Breece Hall left end for -3 yards (tackle by Kayvon Thibodeaux and Rakeem Nunez-Roches),2.320,1.380
+4,10:24,2,13,NYJ 48,7,10,Zach Wilson pass incomplete deep middle intended for Jeremy Ruckert,1.380,0.700
+4,10:20,3,13,NYJ 48,7,10,Zach Wilson scrambles right end for 6 yards (tackle by Bobby Okereke),0.700,0.200
+4,9:29,4,7,NYG 46,7,10,Thomas Morstead punts 43 yards out of bounds,0.200,0.380
+4,9:21,1,10,NYG 3,7,10,Saquon Barkley up the middle for 2 yards (tackle by Quincy Williams),-0.380,-0.630
+4,8:39,2,8,NYG 5,7,10,Saquon Barkley left tackle for 5 yards (tackle by Quinnen Williams),-0.630,-0.600
+4,7:59,3,3,NYG 10,7,10,Tommy DeVito right end for -2 yards (tackle by Jordan Whitehead),-0.600,-2.490
+4,7:19,4,5,NYG 8,7,10,"Penalty on Micheal Clemons: Neutral Zone Infraction, 5 yards (accepted) (no play)",-2.490,-0.320
+4,7:19,1,10,NYG 13,7,10,Saquon Barkley right tackle for 9 yards (tackle by C.J. Mosley and Quinton Jefferson),-0.320,0.490
+4,6:35,2,1,NYG 22,7,10,Saquon Barkley left guard for 6 yards (tackle by Tony Adams),0.490,0.810
+4,5:44,1,10,NYG 28,7,10,Saquon Barkley right guard for 9 yards (tackle by D.J. Reed),0.810,1.480
+4,5:03,2,1,NYG 37,7,10,Saquon Barkley left guard for 2 yards (tackle by Quinnen Williams and Jordan Whitehead),1.480,1.530
+4,4:20,1,10,NYG 39,7,10,Matt Breida right guard for 3 yards (tackle by Jermaine Johnson),1.530,1.390
+4,3:35,2,7,NYG 42,7,10,Matt Breida right tackle for 3 yards (tackle by C.J. Mosley),1.390,1.090
+4,2:54,3,4,NYG 45,7,10,Saquon Barkley right guard for -2 yards (tackle by Tony Adams and Quincy Williams),1.090,-0.520
+4,2:47,,,,,,Timeout #1 by New York Jets,,
+4,2:47,4,6,NYG 43,7,10,Jamie Gillan punts 32 yards downed by Carter Coughlin,-0.520,-0.610
+4,2:38,1,10,NYJ 25,7,10,Zach Wilson pass complete short left to Breece Hall for -1 yards (tackle by Bobby Okereke),0.610,-0.070
+4,2:34,2,11,NYJ 24,7,10,Zach Wilson pass incomplete deep left intended for Garrett Wilson (defended by Cordale Flott),-0.070,-0.760
+4,2:27,3,11,NYJ 24,7,10,Zach Wilson scrambles left end for 17 yards (tackle by Xavier McKinney),-0.760,1.660
+4,2:19,1,10,NYJ 41,7,10,Zach Wilson sacked by Kayvon Thibodeaux for -10 yards,1.660,-0.230
+4,2:00,2,20,NYJ 31,7,10,Zach Wilson pass complete short left to Allen Lazard for 10 yards (tackle by Adoree' Jackson),-0.230,0.430
+4,1:36,3,10,NYJ 41,7,10,"Zach Wilson pass incomplete short middle intended for Allen Lazard (defended by Adoree' Jackson) Replay Assistant challenged the pass completion ruling, and the play was upheld.",0.430,-0.650
+4,1:33,4,10,NYJ 41,7,10,Zach Wilson sacked by Kayvon Thibodeaux for -15 yards,-0.650,-3.840
+4,1:26,1,10,NYJ 26,7,10,Saquon Barkley left end for 6 yards (tackle by Jordan Whitehead),3.840,4.110
+4,1:19,,,,,,Timeout #2 by New York Jets,,
+4,1:19,2,4,NYJ 20,7,10,Saquon Barkley right tackle for 1 yard (tackle by Jordan Whitehead and Tony Adams),4.110,3.570
+4,1:14,,,,,,Timeout #3 by New York Jets,,
+4,1:14,3,3,NYJ 19,7,10,Saquon Barkley right tackle for 2 yards (tackle by John Franklin-Myers and Quinton Jefferson),3.570,2.460
+4,0:28,,,,,,Timeout #2 by New York Giants,,
+4,0:28,4,1,NYJ 17,7,10,Graham Gano 35 yard field goal no good,2.460,-0.610
+4,0:24,1,10,NYJ 25,7,10,"Zach Wilson pass complete deep middle to Garrett Wilson for 29 yards (tackle by Xavier McKinney). Penalty on Kayvon Thibodeaux: Defensive Offside, 5 yards (declined)",0.610,2.520
+4,0:17,1,10,NYG 46,7,10,Zach Wilson pass complete deep middle to Allen Lazard for 29 yards (tackle by Adoree' Jackson),2.520,4.440
+4,0:01,1,10,NYG 17,7,10,Zach Wilson spiked the ball,4.440,3.850
+4,0:01,,,,,,Timeout #3 by New York Giants,,
+4,0:01,2,10,NYG 17,10,10,Greg Zuerlein 35 yard field goal good,3.850,3.000
+Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime
+Quarter,Time,Down,ToGo,Location,NYJ,NYG,Detail,EPB,EPA
+,,,,,,,"Giants won the coin toss, Giants to receive the overtime kickoff.",,
+OT,10:00,,,NYJ 35,10,10,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+OT,10:00,1,10,NYG 25,10,10,"Tommy DeVito pass complete short right to Saquon Barkley for no gain. Penalty on Daniel Bellinger: Offensive Holding, 10 yards (accepted) (no play)",0.610,-0.410
+OT,9:42,1,20,NYG 15,10,10,Tommy DeVito pass complete short right to Saquon Barkley for no gain (tackle by C.J. Mosley),-0.410,-1.430
+OT,9:03,2,20,NYG 15,10,10,Tommy DeVito pass complete short right to Saquon Barkley for -1 yards (tackle by Sauce Gardner),-1.430,-2.550
+OT,8:23,3,21,NYG 14,10,10,Tommy DeVito pass incomplete short middle intended for Saquon Barkley (defended by Quincy Williams),-2.550,-2.470
+OT,8:21,4,21,NYG 14,10,10,Jamie Gillan punts 47 yards out of bounds,-2.470,-1.530
+OT,8:11,1,10,NYJ 39,10,10,Breece Hall left tackle for no gain (tackle by Kayvon Thibodeaux),1.530,0.990
+OT,7:33,2,10,NYJ 39,10,10,Zach Wilson pass incomplete short right intended for Breece Hall,0.990,0.300
+OT,7:26,3,10,NYJ 39,10,10,"Zach Wilson pass complete short left to Garrett Wilson for 11 yards (tackle by Deonte Banks). Penalty on Deonte Banks: Defensive Pass Interference, 15 yards (declined)",0.300,2.260
+OT,7:05,1,10,NYJ 50,10,10,Breece Hall right guard for 5 yards (tackle by Bobby Okereke and Jason Pinnock),2.260,2.390
+OT,6:22,2,5,NYG 45,10,10,Zach Wilson pass incomplete short left intended for Garrett Wilson,2.390,1.690
+OT,6:17,3,5,NYG 45,10,10,"Zach Wilson pass incomplete deep right intended for Malik Taylor. Penalty on Adoree' Jackson: Defensive Pass Interference, 30 yards (accepted) (no play)",1.690,4.580
+OT,6:12,,,,,,Timeout #1 by New York Jets,,
+OT,6:12,,,,,,Timeout #1 by New York Giants,,
+OT,6:12,1,10,NYG 15,13,10,Greg Zuerlein 33 yard field goal good,4.580,3.000
+End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime

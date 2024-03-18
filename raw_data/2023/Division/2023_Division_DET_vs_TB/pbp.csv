@@ -1,0 +1,181 @@
+Quarter,Time,Down,ToGo,Location,TAM,DET,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Lions won the coin toss, Lions to receive the opening kickoff.",,
+1,15:00,,,TAM 35,0,0,"Jake Camarda kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,DET 25,0,0,Jared Goff pass incomplete short left intended for David Montgomery,0.610,0.060
+1,14:55,2,10,DET 25,0,0,Jared Goff pass complete short left to David Montgomery for 7 yards (tackle by Lavonte David),0.060,0.300
+1,14:34,3,3,DET 32,0,0,Jared Goff pass incomplete short middle intended for Amon-Ra St. Brown (defended by Calijah Kancey),0.300,-1.240
+1,14:27,4,3,DET 32,0,0,"Jack Fox punts 48 yards, returned by Deven Thompkins for no gain (tackle by Will Harris and Jalen Reeves-Maybin)",-1.240,-0.280
+1,14:14,1,10,TAM 20,0,0,Baker Mayfield pass complete short middle to Rachaad White for 8 yards (tackle by John Cominsky and Jack Campbell),0.280,0.810
+1,13:35,2,2,TAM 28,0,0,Rachaad White left tackle for 16 yards (tackle by Kerby Joseph and John Cominsky),0.810,1.860
+1,12:49,1,10,TAM 44,0,0,Rachaad White left tackle for 1 yard (tackle by Alim McNeill and Brian Branch),1.860,1.450
+1,12:07,2,9,TAM 45,0,0,Baker Mayfield sacked by Ifeatu Melifonwu for -8 yards,1.450,-0.300
+1,11:23,3,17,TAM 37,0,0,Baker Mayfield pass deep middle intended for Mike Evans is intercepted by C.J. Gardner-Johnson at DET-47 and returned for 12 yards (tackle by Cody Mauch),-0.300,-2.850
+1,11:08,1,10,TAM 41,0,0,David Montgomery right tackle for 4 yards (tackle by Lavonte David),2.850,2.850
+1,10:37,2,6,TAM 37,0,0,"David Montgomery right end for 5 yards (tackle by K.J. Britt). Penalty on Calijah Kancey: Defensive Holding, 5 yards (accepted)",2.850,3.780
+1,10:19,1,10,TAM 27,0,0,Jared Goff pass incomplete deep left intended for Sam LaPorta,3.780,3.230
+1,10:12,2,10,TAM 27,0,0,"Jared Goff pass complete short middle to Jameson Williams for 11 yards (tackle by Jamel Dean). Penalty on Zyon McCollum: Face Mask (15 Yards), 8 yards (accepted)",3.230,5.370
+1,9:49,1,8,TAM 8,0,0,Jahmyr Gibbs left end for 5 yards (tackle by YaYa Diaby),5.370,5.530
+1,9:13,2,3,TAM 3,0,0,Jared Goff pass incomplete short right intended for Amon-Ra St. Brown (defended by Jamel Dean),5.530,4.720
+1,9:08,3,3,TAM 3,0,0,David Montgomery up the middle for -1 yards (tackle by K.J. Britt and YaYa Diaby),4.720,3.030
+1,8:28,4,4,TAM 4,0,3,Michael Badgley 23 yard field goal good,3.030,3.000
+1,8:25,,,DET 35,0,3,"Jack Fox kicks off 65 yards, touchback.",0.000,0.610
+1,8:25,1,10,TAM 25,0,3,Rachaad White up the middle for 8 yards (tackle by Brian Branch and Jack Campbell),0.610,1.140
+1,7:51,2,2,TAM 33,0,3,Baker Mayfield pass incomplete short middle intended for Mike Evans (defended by Cameron Sutton),1.140,0.430
+1,7:45,3,2,TAM 33,0,3,Baker Mayfield pass complete short right to Mike Evans for 18 yards (tackle by Ifeatu Melifonwu),0.430,2.320
+1,7:05,1,10,DET 49,0,3,Baker Mayfield pass complete short left to Trey Palmer for 23 yards (tackle by Ifeatu Melifonwu),2.320,3.840
+1,6:24,1,10,DET 26,0,3,Baker Mayfield sacked by Brian Branch for -9 yards,3.840,2.080
+1,5:42,2,19,DET 35,0,3,Baker Mayfield scrambles up the middle for 1 yard (tackle by Alex Anzalone),2.080,1.550
+1,5:03,3,18,DET 34,0,3,Chase Edmonds right tackle for 9 yards (tackle by Aidan Hutchinson),1.550,1.800
+1,4:23,4,9,DET 25,3,3,Chase McLaughlin 43 yard field goal good,1.800,3.000
+1,4:19,,,TAM 35,3,3,"Jake Camarda kicks off 65 yards, touchback.",0.000,0.610
+1,4:19,1,10,DET 25,3,3,Jared Goff pass complete short left to Jahmyr Gibbs for 3 yards (tackle by Jamel Dean),0.610,0.470
+1,3:40,2,7,DET 28,3,3,Jahmyr Gibbs left end for 6 yards (tackle by Lavonte David),0.470,0.560
+1,3:05,3,1,DET 34,3,3,Jared Goff up the middle for 3 yards (tackle by K.J. Britt),0.560,1.400
+1,2:28,1,10,DET 37,3,3,Jared Goff pass complete short middle to Amon-Ra St. Brown for 8 yards (tackle by Christian Izien),1.400,1.940
+1,2:02,2,2,DET 45,3,3,Jahmyr Gibbs left tackle for no gain (tackle by K.J. Britt and William Gholston),1.940,1.220
+1,1:28,3,2,DET 45,3,3,Jared Goff pass complete short left to Amon-Ra St. Brown for 5 yards (tackle by Carlton Davis),1.220,2.260
+1,0:59,1,10,DET 50,3,3,Jahmyr Gibbs left tackle for 6 yards (tackle by Joe Tryon-Shoyinka and K.J. Britt),2.260,2.520
+1,0:24,2,4,TAM 44,3,3,Jared Goff pass complete short right to Jason Cabinda for no gain (tackle by K.J. Britt),2.520,1.820
+Quarter,Time,Down,ToGo,Location,TAM,DET,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,4,TAM 44,3,3,Jared Goff pass complete short middle to Sam LaPorta for 13 yards (tackle by Carlton Davis),1.820,3.510
+2,14:33,1,10,TAM 31,3,3,Jared Goff pass complete short right to Sam LaPorta for 2 yards (tackle by Carlton Davis),3.510,3.240
+2,13:59,2,8,TAM 29,3,3,Jared Goff pass complete short middle to Sam LaPorta for 15 yards (tackle by Zyon McCollum),3.240,4.650
+2,13:22,1,10,TAM 14,3,3,Jared Goff pass incomplete short left intended for Amon-Ra St. Brown,4.650,4.000
+2,13:15,2,10,TAM 14,3,3,Jared Goff pass complete short left to Jahmyr Gibbs for 5 yards (tackle by K.J. Britt and Christian Izien),4.000,4.050
+2,12:38,3,5,TAM 9,3,9,"Jared Goff pass complete short middle to Josh Reynolds for 9 yards, touchdown",4.050,7.000
+2,12:33,,,TAM 15,3,10,Michael Badgley kicks extra point good,0.000,0.000
+2,12:33,,,DET 35,3,10,"Jack Fox kicks off 65 yards, touchback.",0.000,0.610
+2,12:33,1,10,TAM 25,3,10,Baker Mayfield pass complete short right to Chase Edmonds for 4 yards (tackle by Brian Branch),0.610,0.600
+2,11:58,2,6,TAM 29,3,10,Chase Edmonds left end for 1 yard (tackle by Benito Jones),0.600,0.040
+2,11:02,3,5,TAM 30,3,10,"Baker Mayfield pass complete short middle to Chase Edmonds for 4 yards (tackle by Jalen Reeves-Maybin). Penalty on Cade Otton: Offensive Pass Interference, 10 yards (accepted) (no play)",0.040,-1.290
+2,10:52,3,15,TAM 20,3,10,Baker Mayfield pass complete short left to Chase Edmonds for 14 yards (tackle by Alex Anzalone and Cameron Sutton),-1.290,-1.110
+2,9:49,4,1,TAM 34,3,10,"Jake Camarda punts 66 yards, touchback.",-1.110,-0.280
+2,9:41,1,10,DET 20,3,10,Jared Goff scrambles up the middle for 7 yards (tackle by K.J. Britt),0.280,0.680
+2,9:07,2,3,DET 27,3,10,Jared Goff pass complete short right to Sam LaPorta for 4 yards (tackle by Zyon McCollum),0.680,1.000
+2,8:31,1,10,DET 31,3,10,David Montgomery left tackle for 1 yard (tackle by K.J. Britt and Lavonte David),1.000,0.600
+2,7:52,2,9,DET 32,3,10,Jared Goff pass complete short middle to Sam LaPorta for 12 yards (tackle by Jamel Dean),0.600,1.860
+2,7:05,1,10,DET 44,3,10,Jared Goff pass incomplete deep right intended for Jameson Williams,1.860,1.320
+2,7:00,2,10,DET 44,3,10,Jared Goff pass incomplete short middle intended for Jameson Williams (defended by Jamel Dean),1.320,0.630
+2,6:56,3,10,DET 44,3,10,Jared Goff pass incomplete short middle intended for Amon-Ra St. Brown,0.630,-0.460
+2,6:51,4,10,DET 44,3,10,"Jack Fox punts 43 yards, fair catch by Deven Thompkins at TB-13",-0.460,0.320
+2,6:44,1,10,TAM 13,3,10,Baker Mayfield pass complete deep right to Mike Evans for 23 yards,-0.320,1.330
+2,6:12,1,10,TAM 36,3,10,Baker Mayfield pass complete short left to Chris Godwin for no gain (tackle by Aidan Hutchinson and Tyson Alualu),1.330,0.790
+2,5:30,2,10,TAM 36,3,10,Rachaad White up the middle for 3 yards (tackle by Brian Branch and Ifeatu Melifonwu),0.790,0.500
+2,4:47,3,7,TAM 39,3,10,Baker Mayfield pass complete short right to Rachaad White for 10 yards (tackle by Derrick Barnes),0.500,2.190
+2,4:06,1,10,TAM 49,3,10,Baker Mayfield pass complete short right to Cade Otton for 14 yards (tackle by C.J. Gardner-Johnson),2.190,3.180
+2,3:18,1,10,DET 36,3,10,Baker Mayfield pass incomplete short right,3.180,2.570
+2,3:13,2,10,DET 37,3,10,Chase Edmonds left end for 5 yards (tackle by Alex Anzalone),2.570,2.540
+2,2:34,3,5,DET 32,3,10,Baker Mayfield pass incomplete short left intended for Chris Godwin,2.540,1.260
+2,2:29,4,5,DET 32,3,10,Chase McLaughlin 50 yard field goal no good,1.260,-1.600
+2,2:24,1,10,DET 40,3,10,David Montgomery up the middle for 4 yards (tackle by Lavonte David and K.J. Britt),1.600,1.590
+2,2:00,2,6,DET 44,3,10,"Jared Goff pass complete short left to Amon-Ra St. Brown for 7 yards (tackle by Christian Izien) Replay Assistant challenged the runner was in bounds ruling, and the original play was overturned. Jared Goff pass complete short left to Amon-Ra St. Brown for 5 yards (tackle by Christian Izien)",1.590,1.550
+2,1:45,3,1,DET 49,3,10,Jared Goff sacked by Calijah Kancey for -4 yards,1.550,-0.390
+2,1:34,,,,,,Timeout #1 by Detroit Lions,,
+2,1:34,4,5,DET 45,3,10,"Jack Fox punts 47 yards, fair catch by Deven Thompkins at TB-8",-0.390,0.380
+2,1:28,1,10,TAM 8,3,10,Rachaad White left tackle for 11 yards (tackle by Ifeatu Melifonwu),-0.380,0.150
+2,1:10,1,10,TAM 19,3,10,Baker Mayfield pass incomplete short right intended for Mike Evans,0.150,-0.390
+2,1:05,2,10,TAM 19,3,10,Baker Mayfield pass complete short right to Trey Palmer for 9 yards (tackle by Kindle Vildor),-0.390,0.100
+2,0:41,3,1,TAM 28,3,10,Baker Mayfield left tackle for 14 yards (tackle by Ifeatu Melifonwu),0.100,1.730
+2,0:35,,,,,,Timeout #1 by Tampa Bay Buccaneers,,
+2,0:35,1,10,TAM 42,3,10,Baker Mayfield pass complete short left to Mike Evans for 27 yards (tackle by Brian Branch),1.730,3.510
+2,0:27,1,10,DET 31,3,10,Baker Mayfield pass complete deep left to Mike Evans for 29 yards (tackle by Cameron Sutton),3.510,6.740
+2,0:19,,,,,,Timeout #2 by Tampa Bay Buccaneers,,
+2,0:19,1,2,DET 2,9,10,"Baker Mayfield pass complete short left to Cade Otton for 2 yards, touchdown",6.740,7.000
+2,0:15,,,DET 15,10,10,Chase McLaughlin kicks extra point good,0.000,0.000
+2,0:15,,,TAM 35,10,10,"Jake Camarda kicks off 65 yards, touchback.",0.000,0.610
+2,0:15,1,10,DET 25,10,10,Jared Goff kneels for -1 yards,0.610,-0.070
+Quarter,Time,Down,ToGo,Location,TAM,DET,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DET 35,10,10,"Jack Fox kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,TAM 25,10,10,Baker Mayfield pass complete short middle to Chris Godwin for 12 yards (tackle by Alex Anzalone),0.610,1.400
+3,14:20,1,10,TAM 37,10,10,Rachaad White up the middle for 5 yards (tackle by Ifeatu Melifonwu and Josh Paschal),1.400,1.530
+3,13:41,2,5,TAM 42,10,10,Rachaad White left end for 14 yards (tackle by Alex Anzalone),1.530,2.650
+3,12:59,1,10,DET 44,10,10,Rachaad White left end for 1 yard (tackle by Derrick Barnes),2.650,2.250
+3,12:17,2,9,DET 43,10,10,Baker Mayfield pass complete short left to Mike Evans for 5 yards (tackle by Cameron Sutton and Jalen Reeves-Maybin),2.250,2.210
+3,11:33,3,4,DET 38,10,10,Baker Mayfield sacked by Aidan Hutchinson for -9 yards,2.210,0.130
+3,10:29,4,13,DET 47,10,10,"Jake Camarda punts 42 yards, returned by Donovan Peoples-Jones for 10 yards (tackle by Kaevon Merriweather)",0.130,0.220
+3,10:29,1,10,DET 15,10,10,Jared Goff pass incomplete deep right intended for Amon-Ra St. Brown,-0.220,-0.710
+3,10:25,2,10,DET 15,10,10,Jared Goff pass incomplete short left,-0.710,-1.370
+3,10:18,3,10,DET 15,10,10,"Jared Goff pass complete short middle to Josh Reynolds for no gain (tackle by Lavonte David). Penalty on David Montgomery: Chop Block, 7 yards (accepted) (no play)",-1.370,-2.240
+3,9:56,3,17,DET 8,10,10,Jared Goff pass complete short left to Sam LaPorta for 7 yards (tackle by Christian Izien),-2.240,-2.440
+3,9:22,4,10,DET 15,10,10,Jack Fox punts 45 yards downed by Jalen Reeves-Maybin,-2.440,-1.600
+3,9:13,1,10,TAM 40,10,10,Rachaad White left tackle for -4 yards (tackle by Brian Branch and Derrick Barnes),1.600,0.510
+3,8:32,2,14,TAM 36,10,10,Baker Mayfield pass incomplete short middle intended for Cade Otton (defended by Kerby Joseph),0.510,-0.160
+3,8:27,3,14,TAM 36,10,10,Baker Mayfield pass incomplete deep left intended for Mike Evans,-0.160,-0.980
+3,8:22,4,14,TAM 36,10,10,"Jake Camarda punts 41 yards, returned by Donovan Peoples-Jones for 8 yards (tackle by Payne Durham). Penalty on SirVocea Dennis: Illegal Formation, 5 yards (accepted)",-0.980,-1.330
+3,8:11,1,10,DET 36,10,10,Jared Goff pass complete short right to Amon-Ra St. Brown for 8 yards (tackle by Carlton Davis),1.330,1.870
+3,7:41,2,2,DET 44,10,10,David Montgomery left tackle for 1 yard (tackle by Joe Tryon-Shoyinka and Greg Gaines),1.870,1.290
+3,7:01,3,1,DET 45,10,10,Jared Goff pass complete short left to Brock Wright for 29 yards (tackle by Joe Tryon-Shoyinka),1.290,3.840
+3,6:13,1,10,TAM 26,10,10,Jahmyr Gibbs left end for 8 yards (tackle by Jamel Dean),3.840,4.450
+3,5:42,2,2,TAM 18,10,10,Jared Goff pass complete short right to Sam LaPorta for 2 yards (tackle by YaYa Diaby and Lavonte David),4.450,4.510
+3,5:28,1,10,TAM 16,10,10,Jared Goff pass complete short middle to Amon-Ra St. Brown for 11 yards (tackle by Lavonte David),4.510,6.060
+3,4:43,1,5,TAM 5,10,10,David Montgomery right tackle for 4 yards (tackle by Logan Hall and Antoine Winfield),6.060,5.910
+3,4:00,2,1,TAM 1,10,10,Jared Goff pass incomplete short middle intended for Josh Reynolds (defended by Jamel Dean),5.910,5.170
+3,3:55,3,1,TAM 1,10,10,Jared Goff pass incomplete short middle intended for Sam LaPorta,5.170,3.550
+3,3:51,4,1,TAM 1,10,16,"Craig Reynolds up the middle for 1 yard, touchdown",3.550,7.000
+3,3:48,,,TAM 15,10,17,Michael Badgley kicks extra point good,0.000,0.000
+3,3:48,,,DET 35,10,17,"Jack Fox kicks off 65 yards, touchback.",0.000,0.610
+3,3:48,1,10,TAM 25,10,17,"Baker Mayfield pass complete short left to Deven Thompkins for no gain (tackle by Cameron Sutton). Penalty on Brian Branch: Defensive Offside, 5 yards (accepted) (no play)",0.610,1.340
+3,3:29,1,5,TAM 30,10,17,"Baker Mayfield pass incomplete short middle intended for Cade Otton. Penalty on Ifeatu Melifonwu: Defensive Holding, 5 yards (accepted) (no play)",1.340,1.270
+3,3:24,1,10,TAM 35,10,17,Chase Edmonds right end for 4 yards (tackle by Brian Branch and Jack Campbell),1.270,1.260
+3,2:43,2,6,TAM 39,10,17,Baker Mayfield pass complete short right to Cade Otton for 9 yards (tackle by Brian Branch),1.260,2.130
+3,1:57,1,10,TAM 48,10,17,Baker Mayfield pass complete short right to Cade Otton for 13 yards (tackle by Derrick Barnes),2.130,2.980
+3,1:14,1,10,DET 39,10,17,Baker Mayfield pass complete deep right to Cade Otton for 27 yards (tackle by Kindle Vildor),2.980,4.780
+3,0:29,1,10,DET 12,10,17,Baker Mayfield pass incomplete short left intended for Deven Thompkins,4.780,4.100
+3,0:24,2,10,DET 12,10,17,Baker Mayfield pass incomplete short right,4.100,3.120
+3,0:16,3,10,DET 12,16,17,"Baker Mayfield pass complete short right to Rachaad White for 12 yards, touchdown",3.120,7.000
+3,0:10,,,DET 15,17,17,Chase McLaughlin kicks extra point good,0.000,0.000
+3,0:10,,,TAM 35,17,17,"Jake Camarda kicks off 65 yards, touchback.",0.000,0.610
+3,0:10,1,10,DET 25,17,17,Jahmyr Gibbs right end for 6 yards (tackle by Carlton Davis),0.610,0.870
+Quarter,Time,Down,ToGo,Location,TAM,DET,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,4,DET 31,17,17,Jared Goff pass complete short left to Jahmyr Gibbs for 12 yards (tackle by Lavonte David and Ryan Neal),0.870,1.800
+4,14:23,1,10,DET 43,17,17,Jared Goff pass complete short middle to Josh Reynolds for 18 yards (tackle by Antoine Winfield and K.J. Britt),1.800,2.980
+4,13:56,1,10,TAM 39,17,17,Jahmyr Gibbs right end for 8 yards (tackle by Carlton Davis),2.980,3.520
+4,13:21,2,2,TAM 31,17,23,"Jahmyr Gibbs left tackle for 31 yards, touchdown",3.520,7.000
+4,13:13,,,TAM 15,17,24,Michael Badgley kicks extra point good,0.000,0.000
+4,13:13,,,DET 35,17,24,"Jack Fox kicks off 65 yards, touchback.",0.000,0.610
+4,13:13,1,10,TAM 25,17,24,Baker Mayfield pass incomplete short right intended for Rachaad White,0.610,0.060
+4,13:09,2,10,TAM 25,17,24,Baker Mayfield pass incomplete short right intended for Cade Otton,0.060,-0.620
+4,13:04,3,10,TAM 25,17,24,Baker Mayfield pass complete short left to Rachaad White for 6 yards (tackle by Alex Anzalone),-0.620,-1.310
+4,12:26,4,4,TAM 31,17,24,Jake Camarda punts 58 yards downed by David Moore,-1.310,0.370
+4,12:12,1,10,DET 11,17,24,Jared Goff pass complete short left to Sam LaPorta for 3 yards (tackle by Jamel Dean and Zyon McCollum),-0.370,-0.530
+4,11:39,2,7,DET 14,17,24,Jared Goff pass complete short middle to David Montgomery for 11 yards (tackle by Lavonte David and Ryan Neal),-0.530,0.610
+4,11:02,1,10,DET 25,17,24,Jared Goff pass complete deep left to Jameson Williams for 24 yards (tackle by Zyon McCollum),0.610,2.190
+4,10:22,1,10,DET 49,17,24,David Montgomery left tackle for 1 yard (tackle by Lavonte David and Calijah Kancey),2.190,1.780
+4,9:45,2,9,DET 50,17,24,Jared Goff sacked by Lavonte David for -6 yards,1.780,0.300
+4,9:08,3,15,DET 44,17,24,Jared Goff pass complete short left to Amon-Ra St. Brown for 16 yards (tackle by Zyon McCollum),0.300,2.920
+4,8:21,1,10,TAM 40,17,24,Jared Goff pass complete short middle to Jahmyr Gibbs for 20 yards (tackle by Zyon McCollum),2.920,4.240
+4,7:40,1,10,TAM 20,17,24,Jared Goff pass complete short left to Sam LaPorta for 7 yards (tackle by K.J. Britt),4.240,4.830
+4,7:12,2,3,TAM 13,17,24,Jahmyr Gibbs left tackle for 4 yards (tackle by Lavonte David),4.830,5.140
+4,6:27,1,9,TAM 9,17,30,"Jared Goff pass complete short right to Amon-Ra St. Brown for 9 yards, touchdown",5.140,7.000
+4,6:22,,,TAM 15,17,31,Michael Badgley kicks extra point good,0.000,0.000
+4,6:22,,,DET 35,17,31,"Jack Fox kicks off 65 yards, touchback.",0.000,0.610
+4,6:22,1,10,TAM 25,17,31,Baker Mayfield pass complete short right to Chris Godwin for 11 yards (tackle by Aidan Hutchinson),0.610,1.330
+4,6:02,1,10,TAM 36,17,31,Baker Mayfield pass incomplete short middle intended for Chris Godwin (defended by John Cominsky),1.330,0.790
+4,5:57,2,10,TAM 36,17,31,Baker Mayfield sacked by and Jalen Reeves-Maybin for -4 yards and Ifeatu Melifonwu for -4 yards,0.790,-0.430
+4,5:41,,,,,,Timeout #1 by Tampa Bay Buccaneers,,
+4,5:41,3,14,TAM 32,17,31,Baker Mayfield pass incomplete deep left intended for Chris Godwin,-0.430,-1.240
+4,5:37,4,14,TAM 32,17,31,Baker Mayfield pass complete deep right to Mike Evans for 24 yards (tackle by Kerby Joseph),-1.240,2.650
+4,4:58,1,10,DET 44,17,31,Baker Mayfield pass complete short right to David Moore for 11 yards,2.650,3.380
+4,4:53,1,10,DET 33,17,31,Baker Mayfield pass complete short right to Chris Godwin for 17 yards (tackle by Ifeatu Melifonwu),3.380,4.510
+4,4:46,1,10,DET 16,17,31,Baker Mayfield pass incomplete short right intended for Chris Godwin,4.510,3.900
+4,4:41,2,10,DET 16,23,31,"Baker Mayfield pass complete deep left to Mike Evans for 16 yards, touchdown",3.900,7.000
+4,4:37,,,DET 2,23,31,Two Point Attempt: Baker Mayfield pass incomplete intended for intended for Mike Evans,1.000,-1.000
+4,4:37,,,TAM 35,23,31,"Jake Camarda kicks off 65 yards, touchback.",0.000,0.610
+4,4:37,1,10,DET 25,23,31,Jared Goff pass complete short right to Amon-Ra St. Brown for 15 yards (tackle by Carlton Davis),0.610,1.600
+4,3:58,1,10,DET 40,23,31,David Montgomery right tackle for 11 yards (tackle by Ryan Neal),1.600,2.320
+4,3:12,1,10,TAM 49,23,31,"Jared Goff sacked by Shaquil Barrett for no gain. Penalty on Carlton Davis: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",2.320,2.650
+4,3:02,1,10,TAM 44,23,31,David Montgomery right tackle for 3 yards (tackle by Vita Vea and Devin White),2.650,2.520
+4,2:52,,,,,,Timeout #2 by Tampa Bay Buccaneers,,
+4,2:52,2,7,TAM 41,23,31,Jared Goff pass complete short left to David Montgomery for -4 yards (tackle by Lavonte David),2.520,1.290
+4,2:14,3,11,TAM 45,23,31,Jared Goff pass incomplete short right intended for Amon-Ra St. Brown,1.290,0.270
+4,2:06,4,11,TAM 45,23,31,"Jack Fox punts 35 yards, fair catch by Deven Thompkins at TB-10",0.270,0.380
+4,1:59,1,10,TAM 10,23,31,Baker Mayfield pass complete short right to Mike Evans for 5 yards (tackle by Jalen Reeves-Maybin),-0.380,-0.350
+4,1:39,2,5,TAM 15,23,31,Baker Mayfield pass short middle intended for Cade Otton is intercepted by Derrick Barnes at TB-28 and returned for no gain (tackle by Cade Otton),-0.350,-3.710
+4,1:33,1,10,TAM 28,23,31,Jared Goff kneels for -1 yards,3.710,3.030
+4,1:01,2,11,TAM 29,23,31,Jared Goff kneels for -1 yards,3.030,2.210
+4,0:33,3,12,TAM 30,23,31,Jared Goff kneels for -1 yards,2.210,1.320
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

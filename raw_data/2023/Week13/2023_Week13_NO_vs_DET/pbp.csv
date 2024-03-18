@@ -1,0 +1,178 @@
+Quarter,Time,Down,ToGo,Location,DET,NOR,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Saints won the coin toss and deferred, Lions to receive the opening kickoff.",,
+1,15:00,,,NOR 35,0,0,"Blake Grupe kicks off 62 yards, returned by Khalil Dorsey for 17 yards (tackle by Zack Baun and Johnathan Abram)",0.000,0.280
+1,14:57,1,10,DET 20,0,0,"Penalty on Jonah Jackson: False Start, 5 yards (accepted) (no play)",0.280,-0.310
+1,14:57,1,15,DET 15,0,0,David Montgomery left tackle for 4 yards (tackle by Cameron Jordan and Khalen Saunders),-0.310,-0.460
+1,14:18,2,11,DET 19,0,0,David Montgomery right guard for 4 yards (tackle by Nathan Shepherd and Jordan Howden),-0.460,-0.560
+1,13:39,3,7,DET 23,0,0,David Montgomery left guard for 9 yards (tackle by Alontae Taylor and Paulson Adebo),-0.560,1.070
+1,13:03,1,10,DET 32,0,0,David Montgomery left tackle for 4 yards (tackle by Bryan Bresee),1.070,1.070
+1,12:32,2,6,DET 36,0,0,"Jared Goff pass complete short left to Jameson Williams for 11 yards (tackle by Paulson Adebo). Penalty on Carl Granderson: Roughing the Passer, 15 yards (accepted) . Penalty on Carl Granderson: Defensive Pass Interference, 15 yards (declined)",1.070,3.050
+1,12:03,1,10,NOR 38,0,0,Jahmyr Gibbs right tackle for 36 yards (tackle by Paulson Adebo),3.050,6.740
+1,11:19,1,2,NOR 2,6,0,"David Montgomery right end for 2 yards, touchdown",6.740,7.000
+1,11:15,,,NOR 15,7,0,Riley Patterson kicks extra point good,0.000,0.000
+1,11:15,,,DET 35,7,0,"Jack Fox kicks off 65 yards, touchback.",0.000,0.610
+1,11:15,1,10,NOR 25,7,0,Derek Carr pass short middle intended for Juwan Johnson is intercepted by Brian Branch at NO-30 and returned for 13 yards (tackle by James Hurst),0.610,-4.440
+1,11:04,1,10,NOR 17,7,0,Jahmyr Gibbs left end for 4 yards (tackle by Isaac Yiadom),4.440,4.500
+1,10:32,2,6,NOR 13,7,0,Jared Goff pass incomplete short right intended for Josh Reynolds,4.500,3.680
+1,10:28,3,6,NOR 13,13,0,"Jared Goff pass complete short middle to Sam LaPorta for 13 yards, touchdown",3.680,7.000
+1,10:24,,,NOR 15,14,0,Riley Patterson kicks extra point good,0.000,0.000
+1,10:24,,,DET 35,14,0,"Jack Fox kicks off 65 yards, touchback.",0.000,0.610
+1,10:24,1,10,NOR 25,14,0,Jamaal Williams left guard for -1 yards (tackle by Aidan Hutchinson and Jack Campbell),0.610,-0.070
+1,9:53,2,11,NOR 24,14,0,Derek Carr pass incomplete short right intended for Alvin Kamara (defended by Jalen Reeves-Maybin),-0.070,-0.760
+1,9:48,3,11,NOR 24,14,0,Derek Carr pass incomplete short right intended for A.T. Perry (defended by Cameron Sutton),-0.760,-1.770
+1,9:44,4,11,NOR 24,14,0,"Lou Hedley punts 41 yards, returned by Kalif Raymond for 11 yards (tackle by Adam Prentice and J.T. Gray)",-1.770,-1.990
+1,9:34,1,10,DET 46,14,0,Jahmyr Gibbs left tackle for no gain (tackle by Nathan Shepherd),1.990,1.450
+1,8:57,2,10,DET 46,14,0,Jared Goff pass complete short right to Sam LaPorta for 29 yards (tackle by Isaac Yiadom),1.450,3.910
+1,8:21,1,10,NOR 25,20,0,"Jared Goff pass complete short right to Amon-Ra St. Brown for 25 yards, touchdown",3.910,7.000
+1,8:15,,,NOR 15,21,0,Riley Patterson kicks extra point good,0.000,0.000
+1,8:15,,,DET 35,21,0,"Jack Fox kicks off 58 yards, returned by Lynn Bowden for 18 yards (tackle by Jalen Reeves-Maybin and Craig Reynolds)",0.000,0.610
+1,8:10,1,10,NOR 25,21,0,Taysom Hill left guard for 7 yards (tackle by Kerby Joseph),0.610,1.010
+1,7:37,2,3,NOR 32,21,0,Alvin Kamara right end for -2 yards (tackle by Jack Campbell),1.010,0.040
+1,7:00,3,5,NOR 30,21,0,Derek Carr sacked by Bruce Irvin for -10 yards,0.040,-2.030
+1,6:17,4,15,NOR 20,21,0,"Lou Hedley punts 49 yards, recovered by Kalif Raymond at DET-32 (tackle by Taysom Hill)",-2.030,-1.200
+1,6:08,1,10,DET 34,21,0,Jared Goff pass complete short right to David Montgomery for -1 yards (tackle by Cameron Jordan),1.200,0.520
+1,5:30,2,11,DET 33,21,0,Jared Goff pass incomplete short right intended for Amon-Ra St. Brown,0.520,-0.160
+1,5:25,3,11,DET 33,21,0,Jared Goff sacked by Zack Baun for -8 yards,-0.160,-1.700
+1,4:44,4,19,DET 25,21,0,"Jack Fox punts 49 yards, returned by Lynn Bowden for -2 yards (tackle by Jalen Reeves-Maybin)",-1.700,-0.540
+1,4:33,1,10,NOR 24,21,0,Derek Carr pass complete short right to Jamaal Williams for 6 yards (tackle by Tracy Walker and Malcolm Rodriguez),0.540,0.810
+1,3:56,2,4,NOR 30,21,0,Taysom Hill right guard for 21 yards (tackle by John Cominsky),0.810,2.320
+1,3:18,1,10,DET 49,21,0,Alvin Kamara right tackle for 1 yard (tackle by Josh Paschal),2.320,1.920
+1,2:37,2,9,DET 48,21,0,Taysom Hill pass incomplete short right intended for Juwan Johnson,1.920,1.220
+1,2:31,3,9,DET 48,21,0,Derek Carr pass incomplete deep right intended for A.T. Perry,1.220,0.070
+1,2:27,4,9,DET 48,21,0,"Lou Hedley punts 48 yards, touchback.",0.070,-0.280
+1,2:19,1,10,DET 20,21,0,David Montgomery right guard for 13 yards (tackle by Isaac Yiadom),0.280,1.140
+1,1:43,1,10,DET 33,21,0,Jared Goff pass incomplete short right intended for Amon-Ra St. Brown (defended by Carl Granderson),1.140,0.590
+1,1:40,2,10,DET 33,21,0,David Montgomery left guard for 3 yards (tackle by Nathan Shepherd and Nephi Sewell),0.590,0.300
+1,1:01,3,7,DET 36,21,0,Jared Goff pass incomplete short left intended for Josh Reynolds,0.300,-0.980
+1,0:56,4,7,DET 36,21,0,"Jack Fox punts 38 yards, returned by Lynn Bowden for no gain (tackle by Jalen Reeves-Maybin). Penalty on Isaac Yiadom: Offensive Holding, 10 yards (accepted)",-0.980,0.140
+1,0:47,1,10,NOR 16,21,0,Alvin Kamara left end for 7 yards (tackle by Derrick Barnes and Benito Jones),-0.140,0.420
+1,0:05,2,3,NOR 23,21,0,Alvin Kamara left guard for 4 yards (tackle by Quinton Bohanna),0.420,0.740
+Quarter,Time,Down,ToGo,Location,DET,NOR,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,NOR 27,21,0,Jamaal Williams left tackle for 4 yards (tackle by Malcolm Rodriguez),0.740,0.740
+2,14:27,2,6,NOR 31,21,0,Alvin Kamara left end for 2 yards (tackle by Tracy Walker),0.740,0.300
+2,13:45,3,4,NOR 33,21,0,Derek Carr pass complete short middle to Alvin Kamara for 9 yards (tackle by Jerry Jacobs and Brian Branch),0.300,1.730
+2,13:08,1,10,NOR 42,21,0,Taysom Hill right tackle for -1 yards (tackle by Jack Campbell),1.730,1.050
+2,12:35,2,11,NOR 41,21,0,"Derek Carr pass incomplete short right intended for Juwan Johnson. Penalty on Ryan Ramczyk: Offensive Holding, 10 yards (declined)",1.050,0.370
+2,12:31,3,11,NOR 41,21,0,"Penalty on Erik McCoy: False Start, 5 yards (accepted) (no play)",0.370,-0.290
+2,12:31,3,16,NOR 36,21,0,Derek Carr pass complete deep right to A.T. Perry for 30 yards (tackle by Cameron Sutton),-0.290,3.310
+2,11:46,1,10,DET 34,21,0,Taysom Hill right end for 1 yard (tackle by Jack Campbell and Cameron Sutton),3.310,2.910
+2,11:10,2,9,DET 33,21,0,"Penalty on Erik McCoy: False Start, 5 yards (accepted) (no play)",2.910,2.230
+2,10:56,2,14,DET 38,21,0,Derek Carr pass complete short middle to Alvin Kamara for 5 yards (tackle by Jack Campbell),2.230,2.210
+2,10:24,,,,,,Timeout #1 by Detroit Lions,,
+2,10:24,3,9,DET 33,21,0,Derek Carr pass complete short right to Chris Olave for 24 yards (tackle by Kerby Joseph),2.210,5.140
+2,9:47,1,9,DET 9,21,0,Alvin Kamara left guard for 3 yards (tackle by Alim McNeill),5.140,4.950
+2,9:11,2,6,DET 6,21,6,"Derek Carr pass complete short middle to Jimmy Graham for 6 yards, touchdown",4.950,7.000
+2,9:08,,,DET 15,21,7,Blake Grupe kicks extra point good,0.000,0.000
+2,9:08,,,NOR 35,21,7,"Blake Grupe kicks off 65 yards, touchback.",0.000,0.610
+2,9:08,1,10,DET 25,21,7,David Montgomery right guard for 3 yards (tackle by Malcolm Roach),0.610,0.470
+2,8:45,2,7,DET 28,21,7,Jahmyr Gibbs left guard for 5 yards (tackle by Isaiah Foskey),0.470,0.430
+2,8:08,3,2,DET 33,21,7,Jared Goff pass complete short left to Sam LaPorta for 1 yard (tackle by Carl Granderson),0.430,-1.110
+2,7:25,4,1,DET 34,21,7,"Jack Fox punts 59 yards, returned by Lynn Bowden for 3 yards (tackle by Jalen Reeves-Maybin and Jack Campbell)",-1.110,0.380
+2,7:13,1,10,NOR 10,21,7,Jamaal Williams left tackle for 3 yards (tackle by Benito Jones and John Cominsky),-0.380,-0.560
+2,6:39,2,7,NOR 13,21,7,Derek Carr pass complete short left to Chris Olave for 4 yards (tackle by Jerry Jacobs),-0.560,-0.600
+2,6:03,3,3,NOR 17,21,7,Alvin Kamara left end for 1 yard (tackle by Derrick Barnes),-0.600,-2.240
+2,5:30,4,2,NOR 18,21,7,"Lou Hedley punts 42 yards, fair catch by Kalif Raymond at DET-40. Penalty on Anthony Pittman: Offensive Holding, 10 yards (accepted)",-2.240,-0.940
+2,5:24,1,10,DET 30,21,7,David Montgomery right end for -1 yards (tackle by Nephi Sewell),0.940,0.260
+2,4:41,2,11,DET 29,21,7,"Penalty on Taylor Decker: False Start, 5 yards (accepted) (no play)",0.260,-0.420
+2,4:24,2,16,DET 24,21,7,Jared Goff pass complete short right to Sam LaPorta for 11 yards (tackle by Nephi Sewell and Paulson Adebo),-0.420,0.370
+2,3:48,3,5,DET 35,21,7,Jared Goff pass complete short middle to Sam LaPorta for 14 yards (tackle by Jordan Howden),0.370,2.190
+2,3:05,1,10,DET 49,21,7,Jahmyr Gibbs right tackle for 1 yard (tackle by Nephi Sewell and Khalen Saunders),2.190,1.780
+2,2:27,2,9,DET 50,21,7,David Montgomery right guard for 2 yards (tackle by Nephi Sewell and Khalen Saunders),1.780,1.360
+2,2:00,3,7,NOR 48,21,7,Jared Goff pass complete deep right to Amon-Ra St. Brown for 24 yards (tackle by Paulson Adebo),1.360,3.970
+2,1:23,1,10,NOR 24,21,7,Kalif Raymond right end for 9 yards (tackle by Paulson Adebo),3.970,4.850
+2,1:06,,,,,,Timeout #1 by New Orleans Saints,,
+2,1:06,2,1,NOR 15,21,7,David Montgomery right guard for 4 yards (tackle by Malcolm Roach and Tanoh Kpassagnon),4.850,4.840
+2,1:01,,,,,,Timeout #2 by New Orleans Saints,,
+2,1:01,1,10,NOR 11,21,7,Jahmyr Gibbs right guard for 3 yards (tackle by Demario Davis and Carl Granderson),4.840,4.700
+2,0:22,2,7,NOR 8,21,7,Jared Goff pass incomplete short left intended for Amon-Ra St. Brown,4.700,3.760
+2,0:15,3,7,NOR 8,21,7,Jared Goff pass incomplete short left intended for Donovan Peoples-Jones,3.760,2.960
+2,0:10,4,7,NOR 8,24,7,Riley Patterson 26 yard field goal good,2.960,3.000
+2,0:08,,,DET 35,24,7,"Jack Fox kicks off 65 yards, touchback.",0.000,0.610
+2,0:08,1,10,NOR 25,24,7,Derek Carr kneels for -1 yards,0.610,-0.070
+Quarter,Time,Down,ToGo,Location,DET,NOR,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DET 35,24,7,"Jack Fox kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,NOR 25,24,7,Derek Carr pass complete short left to Lynn Bowden for 5 yards (tackle by Derrick Barnes),0.610,0.740
+3,14:27,2,5,NOR 30,24,7,Alvin Kamara left end for 7 yards (tackle by Jerry Jacobs and Derrick Barnes),0.740,1.400
+3,13:47,1,10,NOR 37,24,7,Taysom Hill pass incomplete deep left intended for Chris Olave (defended by Kerby Joseph),1.400,0.860
+3,13:39,2,10,NOR 37,24,7,Derek Carr pass complete short middle to Alvin Kamara for 12 yards (tackle by Brian Branch and Tracy Walker),0.860,2.190
+3,13:17,1,10,NOR 49,24,7,Alvin Kamara left tackle for no gain (tackle by Josh Paschal),2.190,1.650
+3,12:50,2,10,NOR 49,24,7,Derek Carr pass complete short middle to Taysom Hill for 18 yards (tackle by Tracy Walker),1.650,3.380
+3,12:09,1,10,DET 33,24,7,Taysom Hill right tackle for 1 yard (tackle by Kerby Joseph and Romeo Okwara),3.380,2.970
+3,11:36,2,9,DET 32,24,7,Derek Carr pass complete short left to Taysom Hill for -3 yards (tackle by Derrick Barnes),2.970,1.880
+3,10:53,3,12,DET 35,24,7,Derek Carr pass complete deep left to Chris Olave for 33 yards (tackle by Jerry Jacobs),1.880,6.740
+3,10:08,1,2,DET 2,24,13,"Alvin Kamara left guard for 2 yards, touchdown",6.740,7.000
+3,10:04,,,DET 15,24,14,Blake Grupe kicks extra point good,0.000,0.000
+3,10:04,,,NOR 35,24,14,"Blake Grupe kicks off 60 yards, returned by Khalil Dorsey for 22 yards (tackle by Isaac Yiadom)",0.000,0.740
+3,10:01,1,10,DET 27,24,14,David Montgomery left end for no gain (tackle by Demario Davis),0.740,0.200
+3,9:21,2,10,DET 27,24,14,"Penalty on Sam LaPorta: False Start, 5 yards (accepted) (no play)",0.200,-0.480
+3,9:08,2,15,DET 22,24,14,Jared Goff pass incomplete short right intended for Jahmyr Gibbs,-0.480,-1.150
+3,9:04,3,15,DET 22,24,14,Jared Goff pass complete short right to Sam LaPorta for 8 yards (tackle by Tyrann Mathieu and Alontae Taylor),-1.150,-1.370
+3,8:21,4,7,DET 30,24,14,"Jack Fox punts 48 yards, returned by Lynn Bowden for 16 yards (tackle by Craig Reynolds)",-1.370,-1.470
+3,8:11,1,10,NOR 38,24,14,Derek Carr pass complete deep middle to Chris Olave for 28 yards (tackle by Brian Branch),1.470,3.310
+3,7:33,1,10,DET 34,24,14,Derek Carr pass complete short right to Foster Moreau for 19 yards (tackle by Tracy Walker),3.310,4.580
+3,6:56,1,10,DET 15,24,14,Alvin Kamara right tackle for 9 yards (tackle by Jerry Jacobs),4.580,5.600
+3,6:13,2,1,DET 6,24,14,Taysom Hill right end for no gain (tackle by Jack Campbell and Tracy Walker),5.600,4.900
+3,5:32,3,1,DET 6,24,14,Taysom Hill left tackle for 5 yards (tackle by Aidan Hutchinson and Derrick Barnes),4.900,6.970
+3,4:51,1,1,DET 1,24,14,"Alvin Kamara left tackle for no gain, touchdown Replay Assistant challenged the runner broke the plane ruling, and the original play was overturned. Alvin Kamara left tackle for no gain (tackle by Malcolm Rodriguez and Jalen Reeves-Maybin)",6.970,5.910
+3,4:42,2,1,DET 1,24,20,"Taysom Hill left guard for 1 yard, touchdown",5.910,7.000
+3,4:34,,,DET 15,24,21,Blake Grupe kicks extra point good,0.000,0.000
+3,4:34,,,NOR 35,24,21,"Blake Grupe kicks off 62 yards, returned by Khalil Dorsey for 19 yards (tackle by Ty Summers and Johnathan Abram)",0.000,0.410
+3,4:27,1,10,DET 22,24,21,"Jared Goff pass incomplete deep left intended for Sam LaPorta. Penalty on Alontae Taylor: Defensive Holding, 5 yards (accepted) (no play)",0.410,0.740
+3,4:19,1,10,DET 27,24,21,Jared Goff pass complete short left to Brock Wright for 8 yards (tackle by Jordan Howden),0.740,1.280
+3,3:37,2,2,DET 35,24,21,David Montgomery right tackle for 3 yards (tackle by Khalen Saunders),1.280,1.470
+3,3:00,1,10,DET 38,24,21,Jared Goff pass complete deep right to Sam LaPorta for 48 yards (tackle by Paulson Adebo),1.470,4.650
+3,2:17,1,10,NOR 14,24,21,David Montgomery right guard for 1 yard (tackle by Nephi Sewell and Malcolm Roach),4.650,4.160
+3,1:37,2,9,NOR 13,24,21,Jahmyr Gibbs right end for 4 yards (tackle by Paulson Adebo),4.160,4.050
+3,0:53,3,5,NOR 9,24,21,David Montgomery right guard for 1 yard (tackle by Bryan Bresee and Carl Granderson),4.050,2.980
+3,0:07,4,4,NOR 8,24,21,"Penalty on DET: Delay of Game, 5 yards (accepted) (no play)",2.980,2.570
+3,0:01,4,9,NOR 13,27,21,Riley Patterson 32 yard field goal good,2.570,3.000
+Quarter,Time,Down,ToGo,Location,DET,NOR,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,,,DET 35,27,21,"Jack Fox kicks off 65 yards, touchback.",0.000,0.610
+4,15:00,1,10,NOR 25,27,21,"Derek Carr aborted snap, recovered by Josh Paschal at NO-26",0.610,-3.840
+4,14:56,1,10,NOR 26,27,21,Jahmyr Gibbs right tackle for 7 yards (tackle by Demario Davis),3.840,4.270
+4,14:15,2,3,NOR 19,33,21,"Jameson Williams right end for 19 yards, touchdown",4.270,7.000
+4,14:07,,,NOR 2,33,21,Two Point Attempt: Jared Goff pass incomplete intended for intended for Amon-Ra St. Brown,1.000,-1.000
+4,14:07,,,DET 35,33,21,"Jack Fox kicks off 65 yards, touchback.",0.000,0.610
+4,14:07,1,10,NOR 25,33,21,Derek Carr pass complete short middle to Foster Moreau for 9 yards (tackle by Jack Campbell),0.610,1.280
+4,13:35,2,1,NOR 34,33,21,Lynn Bowden right end for 4 yards (tackle by Brian Branch and Jack Campbell),1.280,1.470
+4,13:03,1,10,NOR 38,33,21,Taysom Hill up the middle for 4 yards (tackle by Alim McNeill),1.470,1.460
+4,12:24,2,6,NOR 42,33,21,Derek Carr pass complete short right to Alvin Kamara for 13 yards (tackle by Tracy Walker),1.460,2.590
+4,11:48,1,10,DET 45,33,21,Jamaal Williams right guard for 1 yard (tackle by Brian Branch),2.590,2.180
+4,11:15,2,9,DET 44,33,21,Derek Carr sacked by Romeo Okwara for -8 yards,2.180,0.430
+4,10:23,,,,,,Timeout #1 by New Orleans Saints,,
+4,10:23,3,17,NOR 48,33,21,Derek Carr pass complete short middle to Alvin Kamara for 8 yards (tackle by Jalen Reeves-Maybin and Derrick Barnes),0.430,0.330
+4,10:23,4,9,DET 44,33,21,"Penalty on Bruce Irvin: Roughing the Passer, 15 yards (accepted) (no play)",0.330,3.640
+4,10:12,1,10,DET 29,33,21,Taysom Hill left end for 7 yards (tackle by Kerby Joseph),3.640,4.050
+4,9:39,2,3,DET 22,33,21,Lynn Bowden right end for -10 yards (tackle by Quinton Bohanna),4.050,2.020
+4,8:57,3,13,DET 32,33,21,Jameis Winston pass complete deep left to Chris Olave for 30 yards (tackle by Kerby Joseph),2.020,6.740
+4,8:15,1,2,DET 2,33,21,Taysom Hill left end for 1 yard (tackle by Alim McNeill and Malcolm Rodriguez),6.740,5.910
+4,7:35,2,1,DET 1,33,27,"Alvin Kamara right guard for 1 yard, touchdown",5.910,7.000
+4,7:30,,,DET 15,33,28,Blake Grupe kicks extra point good,0.000,0.000
+4,7:30,,,NOR 35,33,28,"Blake Grupe kicks off 65 yards, touchback.",0.000,0.610
+4,7:30,1,10,DET 25,33,28,Jared Goff pass complete short left to Jahmyr Gibbs for -6 yards (tackle by Nephi Sewell),0.610,-0.810
+4,6:50,2,16,DET 19,33,28,Jared Goff pass complete short left to Sam LaPorta for 6 yards (tackle by Nephi Sewell),-0.810,-0.620
+4,6:15,3,10,DET 25,33,28,Jared Goff pass incomplete short right intended for David Montgomery,-0.620,-1.700
+4,6:08,4,10,DET 25,33,28,"Jack Fox punts 60 yards, returned by Lynn Bowden for 13 yards (tackle by Jake McQuaide and Anthony Pittman). Penalty on Lonnie Johnson: Offensive Holding, 10 yards (accepted)",-1.700,-0.040
+4,5:54,1,10,NOR 18,33,28,Jameis Winston pass complete short middle to Alvin Kamara for 11 yards (tackle by Brian Branch and Derrick Barnes),0.040,0.870
+4,5:15,1,10,NOR 29,33,28,Alvin Kamara right guard for 16 yards (tackle by Josh Paschal),0.870,1.930
+4,4:32,1,10,NOR 45,33,28,Taysom Hill left end for 8 yards (tackle by Brian Branch),1.930,2.460
+4,3:54,2,2,DET 47,33,28,Jamaal Williams left end for 3 yards (tackle by Jerry Jacobs),2.460,2.650
+4,3:48,1,10,DET 44,33,28,Taysom Hill up the middle for 4 yards (tackle by Derrick Barnes and Quinton Bohanna),2.650,2.650
+4,3:13,2,6,DET 40,33,28,Jameis Winston pass incomplete short middle intended for Chris Olave,2.650,1.950
+4,3:07,3,6,DET 40,33,28,Jameis Winston pass incomplete short right intended for Alvin Kamara,1.950,0.590
+4,3:01,4,6,DET 40,33,28,Jameis Winston pass incomplete short right intended for Chris Olave,0.590,-1.600
+4,2:56,1,10,DET 40,33,28,David Montgomery right guard for 3 yards (tackle by Nathan Shepherd and Demario Davis),1.600,1.460
+4,2:53,,,,,,Timeout #2 by New Orleans Saints,,
+4,2:53,2,7,DET 43,33,28,Jared Goff pass incomplete short left intended for Amon-Ra St. Brown (defended by Paulson Adebo),1.460,0.760
+4,2:48,3,7,DET 43,33,28,Jared Goff pass complete short middle to Sam LaPorta for 10 yards (tackle by Jordan Howden),0.760,2.460
+4,2:03,1,10,NOR 47,33,28,David Montgomery left guard for 2 yards (tackle by Nathan Shepherd),2.460,2.180
+4,1:57,2,8,NOR 45,33,28,David Montgomery left tackle for -1 yards (tackle by Tanoh Kpassagnon),2.180,1.350
+4,1:54,,,,,,Timeout #3 by New Orleans Saints,,
+4,1:54,3,9,NOR 46,33,28,Jared Goff pass complete short left to Josh Reynolds for 12 yards (tackle by Alontae Taylor),1.350,3.310
+4,1:14,1,10,NOR 34,33,28,Jared Goff kneels for -1 yards,3.310,2.640
+4,0:39,2,11,NOR 35,33,28,Jared Goff kneels for -1 yards,2.640,1.820
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

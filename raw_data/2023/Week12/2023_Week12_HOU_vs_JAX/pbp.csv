@@ -1,0 +1,185 @@
+Quarter,Time,Down,ToGo,Location,JAX,HOU,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Jaguars won the coin toss and deferred, Texans to receive the opening kickoff.",,
+1,15:00,,,JAX 35,0,0,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,HOU 25,0,0,C.J. Stroud pass complete short left to Tank Dell for 16 yards (tackle by Montaric Brown),0.610,1.660
+1,14:33,1,10,HOU 41,0,0,C.J. Stroud pass complete short right to Andrew Beck for 1 yard (tackle by Rayshawn Jenkins),1.660,1.260
+1,13:59,2,9,HOU 42,0,0,Devin Singletary right end for no gain (tackle by Devin Lloyd),1.260,0.560
+1,13:16,3,9,HOU 42,0,0,C.J. Stroud scrambles left end for 5 yards (tackle by Travon Walker),0.560,-0.260
+1,12:09,4,4,HOU 47,0,0,"Penalty on HOU: Delay of Game, 6 yards (accepted) (no play)",-0.260,-0.650
+1,11:56,4,10,HOU 41,0,0,"Cameron Johnston punts 46 yards, fair catch by Parker Washington at JAC-13",-0.650,0.320
+1,11:48,1,10,JAX 13,0,0,Travis Etienne left end for 6 yards (tackle by Steven Nelson),-0.320,0.030
+1,11:10,2,4,JAX 19,0,0,Trevor Lawrence pass complete short middle to Evan Engram for 21 yards (tackle by Jalen Pitre and DeAndre Houston-Carson),0.030,1.600
+1,10:39,1,10,JAX 40,0,0,Travis Etienne up the middle for 3 yards (tackle by Jonathan Greenard and Henry To'oTo'o),1.600,1.460
+1,10:00,2,7,JAX 43,0,0,Travis Etienne left tackle for 1 yard (tackle by Sheldon Rankins),1.460,0.890
+1,9:23,3,6,JAX 44,0,0,Trevor Lawrence pass complete short right to Zay Jones for 10 yards (tackle by Derek Stingley),0.890,2.520
+1,8:44,1,10,HOU 46,0,0,Travis Etienne up the middle for -1 yards (tackle by Jalen Pitre and Khalil Davis),2.520,1.840
+1,8:05,2,11,HOU 47,0,0,Trevor Lawrence pass incomplete short left intended for Christian Kirk,1.840,1.160
+1,8:00,3,11,HOU 47,0,0,Trevor Lawrence pass complete short right to Christian Kirk for 18 yards (tackle by Tavierre Thomas and Derek Stingley),1.160,3.640
+1,7:24,1,10,HOU 29,0,0,Travis Etienne left end for -1 yards (tackle by Henry To'oTo'o),3.640,2.970
+1,6:41,2,11,HOU 30,0,0,Trevor Lawrence pass incomplete short left intended for Evan Engram,2.970,2.280
+1,6:35,3,11,HOU 30,0,0,Trevor Lawrence pass complete short right to Travis Etienne for 8 yards (tackle by DeAndre Houston-Carson and Christian Harris),2.280,2.090
+1,5:58,4,3,HOU 22,3,0,Brandon McManus 40 yard field goal good,2.090,3.000
+1,5:54,,,JAX 35,3,0,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+1,5:54,1,10,HOU 25,3,0,"Devin Singletary right tackle for no gain (tackle by Montaric Brown). Penalty on Shaq Mason: Offensive Holding, 10 yards (accepted) (no play)",0.610,-0.410
+1,5:32,1,20,HOU 15,3,0,C.J. Stroud pass complete short middle to Tank Dell for 9 yards (tackle by Devin Lloyd and Rayshawn Jenkins),-0.410,-0.070
+1,4:54,2,11,HOU 24,3,0,C.J. Stroud pass incomplete short middle intended for Tank Dell (defended by Devin Lloyd),-0.070,-0.760
+1,4:50,3,11,HOU 24,3,0,C.J. Stroud pass incomplete deep right intended for Tank Dell,-0.760,-1.770
+1,4:41,4,11,HOU 24,3,0,"Cameron Johnston punts 53 yards, returned by Parker Washington for 22 yards (tackle by Ka'dar Hollman)",-1.770,-1.930
+1,4:24,1,10,JAX 45,3,0,Trevor Lawrence pass incomplete short left intended for Travis Etienne,1.930,1.380
+1,4:19,2,10,JAX 45,3,0,Trevor Lawrence pass incomplete short right intended for Christian Kirk (defended by Tavierre Thomas),1.380,0.700
+1,4:15,3,10,JAX 45,3,0,Travis Etienne right end for 4 yards (tackle by Tavierre Thomas and Jalen Pitre),0.700,-0.130
+1,3:42,4,6,JAX 49,3,0,Logan Cooke punts 42 yards out of bounds,-0.130,0.380
+1,3:34,1,10,HOU 9,3,0,Dameon Pierce up the middle for 3 yards (tackle by Rayshawn Jenkins and Foyesade Oluokun),-0.380,-0.560
+1,2:56,2,7,HOU 12,3,0,C.J. Stroud scrambles left end for 6 yards (tackle by Devin Lloyd),-0.560,-0.370
+1,2:26,3,1,HOU 18,3,0,Dameon Pierce up the middle for 1 yard (tackle by Devin Lloyd and Tre Herndon),-0.370,0.150
+1,1:43,1,10,HOU 19,3,0,Dameon Pierce right end for 2 yards (tackle by Foyesade Oluokun),0.150,-0.060
+1,1:01,2,8,HOU 21,3,0,C.J. Stroud sacked by Roy Robertson-Harris for -7 yards,-0.060,-1.920
+1,0:20,3,15,HOU 14,3,0,"C.J. Stroud pass complete deep middle to Tank Dell for no gain (tackle by Darious Williams). Penalty on Tank Dell: Illegal Shift, 5 yards (accepted) (no play)",-1.920,-2.590
+Quarter,Time,Down,ToGo,Location,JAX,HOU,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,20,HOU 9,3,0,C.J. Stroud pass complete short right to Nico Collins for 14 yards (tackle by Darious Williams),-2.590,-1.830
+2,14:29,4,6,HOU 23,3,0,"Cameron Johnston punts 45 yards, fair catch by Parker Washington at JAC-32",-1.830,-1.070
+2,14:22,1,10,JAX 32,3,0,Travis Etienne left tackle for 3 yards (tackle by Khalil Davis and Christian Harris),1.070,0.930
+2,13:40,2,7,JAX 35,3,0,Trevor Lawrence pass complete short right to Travis Etienne for 6 yards (tackle by Christian Harris),0.930,1.030
+2,12:56,3,1,JAX 41,3,0,D'Ernest Johnson up the middle for 3 yards (tackle by Sheldon Rankins and Jonathan Greenard),1.030,1.860
+2,12:18,1,10,JAX 44,3,0,Tank Bigsby left guard for 6 yards (tackle by Steven Nelson and Tavierre Thomas),1.860,2.130
+2,11:41,2,4,JAX 50,3,0,Trevor Lawrence pass complete short right to D'Ernest Johnson for 42 yards (tackle by Christian Harris),2.130,5.370
+2,10:57,1,8,HOU 8,3,0,D'Ernest Johnson right guard for 3 yards (tackle by Will Anderson and Blake Cashman),5.370,5.150
+2,10:15,2,5,HOU 5,3,0,"Travis Etienne up the middle for no gain (tackle by Will Anderson). Penalty on Christian Kirk: Illegal Shift, 5 yards (declined)",5.150,4.260
+2,9:50,3,5,HOU 5,3,0,"Trevor Lawrence pass incomplete short left intended for Zay Jones (defended by DeAndre Houston-Carson). Penalty on DeAndre Houston-Carson: Defensive Pass Interference, 4 yards (accepted) (no play)",4.260,6.970
+2,9:44,1,1,HOU 1,9,0,"Trevor Lawrence up the middle for 1 yard, touchdown",6.970,7.000
+2,9:43,,,HOU 15,10,0,Brandon McManus kicks extra point good,0.000,0.000
+2,9:43,,,JAX 35,10,0,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+2,9:43,1,10,HOU 25,10,0,C.J. Stroud pass complete deep right to Robert Woods for 26 yards (tackle by Andre Cisco),0.610,2.320
+2,9:03,1,10,JAX 49,10,0,C.J. Stroud scrambles left end for 8 yards (tackle by Josh Allen),2.320,2.860
+2,8:18,2,2,JAX 41,10,0,C.J. Stroud pass complete short left to Devin Singletary for 33 yards (tackle by Foyesade Oluokun and Montaric Brown),2.860,5.370
+2,7:29,1,8,JAX 8,10,0,Devin Singletary up the middle for 1 yard (tackle by Adam Gotsis and Angelo Blackson),5.370,4.760
+2,6:49,2,7,JAX 7,10,6,"C.J. Stroud pass complete short middle to Tank Dell for 7 yards, touchdown",4.760,7.000
+2,6:37,,,JAX 15,10,7,Matt Ammendola kicks extra point good,0.000,0.000
+2,6:37,,,HOU 35,10,7,"Matt Ammendola kicks off 65 yards, touchback.",0.000,0.610
+2,6:37,1,10,JAX 25,10,7,"Penalty on Walker Little: False Start, 5 yards (accepted) (no play)",0.610,0.280
+2,6:37,1,15,JAX 20,10,7,Trevor Lawrence pass complete short right to Luke Farrell for 42 yards (tackle by Derek Stingley and DeAndre Houston-Carson),0.280,3.050
+2,5:52,1,10,HOU 38,10,7,D'Ernest Johnson right end for 4 yards (tackle by Derek Stingley),3.050,3.050
+2,5:13,2,6,HOU 34,10,7,D'Ernest Johnson up the middle for 1 yard (tackle by Christian Harris),3.050,2.480
+2,4:34,3,5,HOU 33,10,7,Trevor Lawrence pass complete short left to Christian Kirk for 8 yards (tackle by Blake Cashman),2.480,3.910
+2,4:01,1,10,HOU 25,10,7,Travis Etienne right end for -6 yards (tackle by Will Anderson),3.910,2.550
+2,3:17,2,16,HOU 31,10,7,Travis Etienne right guard for 1 yard (tackle by Jalen Pitre),2.550,2.010
+2,2:33,,,,,,Timeout #1 by Jacksonville Jaguars,,
+2,2:33,3,15,HOU 30,10,7,Trevor Lawrence pass incomplete deep left intended for Calvin Ridley,2.010,1.410
+2,2:28,4,15,HOU 30,13,7,Brandon McManus 48 yard field goal good,1.410,3.000
+2,2:24,,,JAX 35,13,7,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+2,2:24,1,10,HOU 25,13,7,Dameon Pierce left guard for 4 yards (tackle by Foyesade Oluokun and Travon Walker),0.610,0.600
+2,2:00,2,6,HOU 29,13,7,C.J. Stroud pass complete short middle to Devin Singletary for 10 yards (tackle by Foyesade Oluokun and Rayshawn Jenkins),0.600,1.530
+2,1:30,1,10,HOU 39,13,7,C.J. Stroud pass complete short right to Devin Singletary for -1 yards (tackle by Devin Lloyd),1.530,0.850
+2,1:24,2,11,HOU 38,13,7,C.J. Stroud pass complete deep right to Tank Dell for 17 yards (tackle by Montaric Brown),0.850,2.590
+2,1:00,1,10,JAX 45,13,7,C.J. Stroud pass complete short right to Dalton Schultz for 2 yards (tackle by Devin Lloyd),2.590,2.310
+2,0:49,2,8,JAX 43,13,7,C.J. Stroud scrambles right end for 11 yards (tackle by Foyesade Oluokun),2.310,3.450
+2,0:42,1,10,JAX 32,13,7,C.J. Stroud pass complete short middle to Tank Dell for 1 yard (tackle by Montaric Brown),3.450,3.040
+2,0:36,,,,,,Timeout #1 by Houston Texans,,
+2,0:36,2,9,JAX 31,13,7,C.J. Stroud pass incomplete short right intended for Nico Collins,3.040,2.340
+2,0:31,,,,,,Timeout #2 by Houston Texans,,
+2,0:31,3,9,JAX 31,13,7,"C.J. Stroud pass incomplete deep left intended for Tank Dell Replay Assistant challenged the pass completion ruling, and the play was upheld.",2.340,1.320
+2,0:25,4,9,JAX 31,13,7,Matt Ammendola 50 yard field goal no good,1.320,-1.600
+2,0:20,1,10,JAX 40,13,7,Trevor Lawrence pass complete short left to Luke Farrell for 7 yards (tackle by Tavierre Thomas),1.600,2.000
+2,0:14,,,,,,Timeout #2 by Jacksonville Jaguars,,
+2,0:14,2,3,JAX 47,13,7,Trevor Lawrence pass incomplete short left intended for Zay Jones (defended by Steven Nelson),2.000,1.290
+2,0:10,3,3,JAX 47,13,7,"Penalty on Anton Harrison: False Start, 5 yards (accepted) (no play)",1.290,0.630
+2,0:10,3,8,JAX 42,13,7,Trevor Lawrence pass complete deep left to Christian Kirk for 57 yards (tackle by Tavierre Thomas),0.630,6.970
+2,0:01,,,,,,Timeout #3 by Jacksonville Jaguars,,
+2,0:01,1,1,HOU 1,13,7,Travis Etienne right end for no gain (tackle by Desmond King and Blake Cashman),6.970,5.910
+Quarter,Time,Down,ToGo,Location,JAX,HOU,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,HOU 35,13,7,"Matt Ammendola kicks off 69 yards, returned by D'Ernest Johnson for 20 yards (tackle by Neville Hewitt)",0.000,-0.140
+3,14:55,1,10,JAX 16,13,7,Trevor Lawrence pass incomplete short left,-0.140,-0.660
+3,14:49,2,10,JAX 16,13,7,Trevor Lawrence pass incomplete short left intended for Travis Etienne,-0.660,-1.320
+3,14:45,3,10,JAX 16,13,7,Trevor Lawrence pass complete short right to Calvin Ridley for 11 yards (tackle by Derek Stingley),-1.320,0.740
+3,14:16,1,10,JAX 27,13,7,"Travis Etienne up the middle for no gain (tackle by Kerry Hyder and Christian Harris). Penalty on Walker Little: Illegal Formation, 5 yards (accepted) (no play)",0.740,0.410
+3,13:54,1,15,JAX 22,13,7,D'Ernest Johnson left guard for 7 yards (tackle by Jerry Hughes and Christian Harris),0.410,0.470
+3,13:13,2,8,JAX 29,13,7,Trevor Lawrence pass complete short left to Calvin Ridley for 14 yards (tackle by Steven Nelson),0.470,1.800
+3,12:41,1,10,JAX 43,13,7,Travis Etienne left end for 9 yards (tackle by Steven Nelson),1.800,2.470
+3,11:57,2,1,HOU 48,13,7,Trevor Lawrence pass short right intended for Evan Engram is intercepted by Derek Stingley at HOU-40 and returned for 14 yards (tackle by Luke Fortner),2.470,-2.520
+3,11:49,1,10,JAX 46,13,7,C.J. Stroud pass complete short left to Devin Singletary for 6 yards (tackle by Folorunso Fatukasi),2.520,2.790
+3,11:28,2,4,JAX 40,13,7,C.J. Stroud pass complete short middle to Nico Collins for 3 yards (tackle by Foyesade Oluokun),2.790,2.480
+3,10:47,3,1,JAX 37,13,7,C.J. Stroud pass complete short right to Nico Collins for 22 yards (tackle by Montaric Brown),2.480,4.580
+3,10:05,,,,,,Timeout #1 by Houston Texans,,
+3,10:05,1,10,JAX 15,13,7,Devin Singletary left tackle for 14 yards (tackle by Foyesade Oluokun),4.580,6.970
+3,9:27,1,1,JAX 1,13,7,Devin Singletary right tackle for -2 yards (tackle by Folorunso Fatukasi),6.970,5.530
+3,8:51,2,3,JAX 3,13,7,Devin Singletary right tackle for 2 yards (tackle by Andre Cisco and Adam Gotsis),5.530,5.170
+3,8:16,3,1,JAX 1,13,13,"C.J. Stroud right end for 1 yard, touchdown",5.170,7.000
+3,8:10,,,JAX 15,13,14,Matt Ammendola kicks extra point good,0.000,0.000
+3,8:10,,,HOU 35,13,14,"Matt Ammendola kicks off 65 yards, touchback.",0.000,0.610
+3,8:10,1,10,JAX 25,13,14,Trevor Lawrence pass complete deep right to Calvin Ridley for 45 yards (tackle by Steven Nelson),0.610,3.580
+3,7:33,1,10,HOU 30,13,14,Travis Etienne up the middle for no gain (tackle by Kurt Hinish and Jalen Pitre),3.580,3.030
+3,6:54,2,10,HOU 30,13,14,Trevor Lawrence pass complete short left to Evan Engram for 7 yards (tackle by Jalen Pitre),3.030,3.270
+3,6:14,3,3,HOU 23,13,14,"Trevor Lawrence pass incomplete deep right intended for Evan Engram. Penalty on Tavierre Thomas: Defensive Pass Interference, 15 yards (accepted) (no play)",3.270,5.370
+3,6:10,1,8,HOU 8,13,14,Travis Etienne left tackle for 3 yards (tackle by Henry To'oTo'o and Jalen Pitre),5.370,5.150
+3,5:29,2,5,HOU 5,13,14,Trevor Lawrence pass incomplete short middle intended for Evan Engram,5.150,4.260
+3,5:24,3,5,HOU 5,13,14,"Trevor Lawrence pass incomplete short right intended for Christian Kirk. Penalty on Tavierre Thomas: Defensive Pass Interference, 4 yards (accepted) (no play)",4.260,6.970
+3,5:19,1,1,HOU 1,13,14,Travis Etienne up the middle for no gain (tackle by Blake Cashman),6.970,5.910
+3,4:39,2,1,HOU 1,13,14,Trevor Lawrence pass incomplete short right intended for Luke Farrell (defended by DeAndre Houston-Carson),5.910,5.170
+3,4:34,3,1,HOU 1,19,14,"Trevor Lawrence pass complete short middle to Calvin Ridley for 1 yard, touchdown",5.170,7.000
+3,4:29,,,HOU 2,21,14,Two Point Attempt: Trevor Lawrence pass complete to to Calvin Ridley for no gain,1.000,1.000
+3,4:29,,,JAX 35,21,14,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+3,4:29,1,10,HOU 25,21,14,C.J. Stroud pass complete deep middle to Nico Collins for 24 yards (tackle by Andre Cisco and Rayshawn Jenkins),0.610,2.190
+3,3:52,1,10,HOU 49,21,14,Dameon Pierce left guard for 4 yards (tackle by Rayshawn Jenkins),2.190,2.190
+3,3:19,2,6,JAX 47,21,14,C.J. Stroud pass incomplete short right intended for John Metchie,2.190,1.490
+3,3:14,3,6,JAX 47,21,14,C.J. Stroud sacked by Josh Allen for -12 yards,1.490,-0.650
+3,2:41,4,18,HOU 41,21,14,"Cameron Johnston punts 48 yards, fair catch by Parker Washington at JAC-11",-0.650,0.370
+3,2:33,1,10,JAX 11,21,14,Travis Etienne left end for -1 yards (tackle by Christian Harris),-0.370,-0.850
+3,1:54,2,11,JAX 10,21,14,Trevor Lawrence pass complete short middle to Travis Etienne for 4 yards (tackle by Blake Cashman),-0.850,-1.070
+3,1:13,3,7,JAX 14,21,14,"Trevor Lawrence pass incomplete short left intended for Calvin Ridley. Penalty on Steven Nelson: Defensive Holding, 5 yards (accepted) (no play)",-1.070,0.150
+3,1:08,1,10,JAX 19,21,14,Trevor Lawrence pass complete short left to Travis Etienne for 12 yards (tackle by Kerry Hyder),0.150,1.000
+3,0:29,1,10,JAX 31,21,14,Trevor Lawrence pass complete deep right to Calvin Ridley for 18 yards (tackle by Jalen Pitre),1.000,2.190
+Quarter,Time,Down,ToGo,Location,JAX,HOU,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,JAX 49,21,14,Trevor Lawrence pass complete short right to Evan Engram for 8 yards (tackle by Blake Cashman),2.190,2.730
+4,14:27,2,2,HOU 43,21,14,D'Ernest Johnson right end for 4 yards (tackle by Christian Harris),2.730,2.980
+4,13:51,1,10,HOU 39,21,14,"D'Ernest Johnson left tackle for no gain (tackle by Tavierre Thomas and Blake Cashman). Penalty on Walker Little: Offensive Holding, 10 yards (accepted) (no play)",2.980,2.320
+4,13:27,1,20,HOU 49,21,14,Trevor Lawrence pass complete short left to Luke Farrell for 6 yards (tackle by Tavierre Thomas and Maliek Collins),2.320,1.900
+4,12:47,2,14,HOU 43,21,14,Trevor Lawrence pass complete short middle to Evan Engram for 7 yards (tackle by Tavierre Thomas and Christian Harris),1.900,2.150
+4,12:15,3,7,HOU 36,21,14,Trevor Lawrence pass complete short right to Evan Engram for 6 yards (tackle by Jalen Pitre and Christian Harris),2.150,1.520
+4,11:38,4,1,HOU 30,21,14,Trevor Lawrence up the middle for no gain (tackle by Cory Littleton) (no play),1.520,0.970
+4,11:25,4,6,HOU 35,24,14,Brandon McManus 53 yard field goal good,0.970,3.000
+4,11:20,,,JAX 35,24,14,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+4,11:20,1,10,HOU 25,24,14,Tank Dell right end for 12 yards (tackle by Rayshawn Jenkins),0.610,1.400
+4,10:44,1,10,HOU 37,24,14,C.J. Stroud pass complete short left to John Metchie for 6 yards (tackle by Josh Allen),1.400,1.670
+4,10:11,2,4,HOU 43,24,14,Devin Singletary left end for 3 yards (tackle by Foyesade Oluokun),1.670,1.360
+4,9:29,3,1,HOU 46,24,14,C.J. Stroud pass incomplete deep right intended for Nico Collins,1.360,-0.320
+4,9:22,4,1,HOU 46,24,14,C.J. Stroud pass incomplete deep left intended for Dalton Schultz,-0.320,-2.520
+4,9:15,1,10,HOU 46,24,14,Travis Etienne left end for 9 yards (tackle by Henry To'oTo'o),2.520,3.190
+4,8:39,2,1,HOU 37,24,14,Travis Etienne left guard for 3 yards (tackle by Will Anderson and Khalil Davis),3.190,3.310
+4,8:01,1,10,HOU 34,24,14,Trevor Lawrence pass incomplete deep right intended for Christian Kirk,3.310,2.770
+4,7:55,2,10,HOU 34,24,14,D'Ernest Johnson right guard for -3 yards (tackle by Kerry Hyder),2.770,1.690
+4,7:15,3,13,HOU 37,24,14,Trevor Lawrence pass incomplete short left intended for D'Ernest Johnson,1.690,0.790
+4,7:10,4,13,HOU 37,24,14,Brandon McManus 55 yard field goal no good,0.790,-1.930
+4,7:05,1,10,HOU 45,24,14,C.J. Stroud pass incomplete short right intended for Robert Woods (defended by Rayshawn Jenkins),1.930,1.380
+4,6:57,2,10,HOU 45,24,14,C.J. Stroud pass complete deep middle to Xavier Hutchinson for 34 yards (tackle by Rayshawn Jenkins),1.380,4.170
+4,6:31,1,10,JAX 21,24,14,C.J. Stroud pass complete short right to Dameon Pierce for 4 yards (tackle by Devin Lloyd),4.170,4.200
+4,5:48,2,6,JAX 17,24,14,C.J. Stroud pass complete short left to Devin Singletary for no gain (tackle by Tre Herndon),4.200,3.460
+4,5:22,3,6,JAX 17,24,20,"C.J. Stroud pass complete short middle to Nico Collins for 17 yards, touchdown",3.460,7.000
+4,5:15,,,JAX 15,24,21,Matt Ammendola kicks extra point good,0.000,0.000
+4,5:15,,,HOU 35,24,21,"Matt Ammendola kicks off 65 yards, touchback.",0.000,0.610
+4,5:15,1,10,JAX 25,24,21,Trevor Lawrence pass complete short right to Christian Kirk for 6 yards (tackle by Christian Harris),0.610,0.870
+4,4:44,2,4,JAX 31,24,21,Travis Etienne left guard for 20 yards (tackle by Steven Nelson),0.870,2.320
+4,3:59,1,10,HOU 49,24,21,Travis Etienne left end for 3 yards (tackle by Christian Harris),2.320,2.190
+4,3:17,2,7,HOU 46,24,21,Trevor Lawrence pass incomplete short right intended for Luke Farrell (defended by Steven Nelson),2.190,1.490
+4,3:13,,,,,,Timeout #1 by Jacksonville Jaguars,,
+4,3:13,3,7,HOU 46,24,21,Trevor Lawrence pass incomplete deep right intended for Zay Jones (defended by Derek Stingley),1.490,0.200
+4,3:07,,,,,,Timeout #2 by Houston Texans,,
+4,3:07,4,7,HOU 46,24,21,"Logan Cooke punts 35 yards, fair catch by Steven Sims at HOU-11",0.200,0.370
+4,3:01,1,10,HOU 11,24,21,"C.J. Stroud scrambles left end for 16 yards (tackle by Foyesade Oluokun). Penalty on Tre Herndon: Defensive Holding, 5 yards (accepted)",-0.370,1.070
+4,2:54,1,10,HOU 32,24,21,C.J. Stroud pass incomplete short right intended for Brevin Jordan (defended by Jeremiah Ledbetter),1.070,0.530
+4,2:50,2,10,HOU 32,24,21,C.J. Stroud pass complete short right to Devin Singletary for 6 yards (tackle by Devin Lloyd),0.530,0.630
+4,2:28,3,4,HOU 38,24,21,C.J. Stroud pass complete short right to Brevin Jordan for 9 yards (tackle by Rayshawn Jenkins),0.630,2.060
+4,2:24,1,10,HOU 47,24,21,C.J. Stroud sacked by Josh Allen for -15 yards,2.060,-0.510
+4,2:00,2,25,HOU 32,24,21,C.J. Stroud pass complete deep right to Nico Collins for 17 yards (tackle by Tre Herndon),-0.510,1.090
+4,1:40,3,8,HOU 49,24,21,C.J. Stroud pass complete short middle to Robert Woods for 14 yards (tackle by Tre Herndon),1.090,3.120
+4,1:18,1,10,JAX 37,24,21,C.J. Stroud sacked by and Josh Allen for -9 yards and Travon Walker for -9 yards,3.120,1.360
+4,1:10,,,,,,Timeout #3 by Houston Texans,,
+4,1:10,2,19,JAX 46,24,21,C.J. Stroud pass complete short middle to Nico Collins for 7 yards (tackle by Foyesade Oluokun),1.360,1.620
+4,0:47,3,12,JAX 39,24,21,C.J. Stroud pass incomplete short left intended for Devin Singletary,1.620,0.660
+4,0:34,,,,,,Timeout #2 by Jacksonville Jaguars,,
+4,0:34,4,12,JAX 39,24,21,Matt Ammendola 58 yard field goal no good,0.660,-2.130
+4,0:29,1,10,JAX 48,24,21,Trevor Lawrence kneels for -1 yards,2.130,1.450
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

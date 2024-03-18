@@ -1,0 +1,226 @@
+Quarter,Time,Down,ToGo,Location,BUF,PHI,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Eagles won the coin toss and deferred, Bills to receive the opening kickoff.",,
+1,15:00,,,PHI 35,0,0,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,BUF 25,0,0,James Cook right end for 1 yard (tackle by Zach Cunningham),0.610,0.200
+1,14:28,2,9,BUF 26,0,0,Josh Allen pass complete short left to James Cook for 7 yards (tackle by Darius Slay),0.200,0.430
+1,14:02,3,2,BUF 33,0,0,Latavius Murray right guard for no gain (tackle by Reed Blankenship and Nicholas Morrow),0.430,-1.180
+1,13:20,4,2,BUF 33,0,0,"Sam Martin punts 49 yards, fair catch by Britain Covey at PHI-18",-1.180,-0.040
+1,13:08,1,10,PHI 18,0,0,Jalen Hurts pass incomplete short right,0.040,-0.490
+1,13:01,2,10,PHI 18,0,0,Jalen Hurts pass incomplete short left,-0.490,-1.170
+1,12:55,3,10,PHI 18,0,0,Jalen Hurts pass incomplete short right,-1.170,-2.240
+1,12:45,4,10,PHI 18,0,0,"Braden Mann punts 59 yards, returned by Khalil Shakir for 9 yards (tackle by Sydney Brown)",-2.240,-1.070
+1,12:33,1,10,BUF 32,0,0,Latavius Murray right guard for 7 yards (tackle by Zach Cunningham and Reed Blankenship),1.070,1.400
+1,11:52,2,4,BUF 39,0,0,Ty Johnson for 5 yards (tackle by Zach Cunningham and Darius Slay),1.400,1.860
+1,11:11,1,10,BUF 44,0,0,Josh Allen pass incomplete short right intended for Khalil Shakir,1.860,1.320
+1,11:05,2,10,BUF 44,0,0,Josh Allen pass complete short left to Dalton Kincaid for 8 yards (tackle by Kevin Byard),1.320,1.690
+1,10:24,3,2,PHI 48,0,0,Latavius Murray right guard for 1 yard (tackle by Zach Cunningham),1.690,0.130
+1,9:52,4,1,PHI 47,0,0,Josh Allen up the middle for 1 yard (tackle by Nicholas Morrow),0.130,2.520
+1,9:19,1,10,PHI 46,0,0,James Cook right guard for 3 yards (tackle by Jalen Carter),2.520,2.380
+1,8:44,2,7,PHI 43,0,0,Josh Allen pass complete short right to James Cook for 6 yards (tackle by Haason Reddick),2.380,2.480
+1,8:09,3,1,PHI 37,0,0,Latavius Murray up the middle for 3 yards (tackle by Kevin Byard and Marlon Tuipulotu),2.480,3.310
+1,7:31,1,10,PHI 34,0,0,James Cook for 4 yards (tackle by Nicholas Morrow),3.310,3.310
+1,6:55,2,6,PHI 30,0,0,Josh Allen pass incomplete deep left intended for James Cook,3.310,2.610
+1,6:50,3,6,PHI 30,0,0,"Penalty on Spencer Brown: False Start, 5 yards (accepted) (no play)",2.610,1.950
+1,6:50,3,11,PHI 35,0,0,"Penalty on Mitch Morse: False Start, 5 yards (accepted) (no play)",1.950,1.290
+1,6:50,3,16,PHI 40,0,0,Josh Allen pass incomplete deep left intended for Gabriel Davis (defended by James Bradberry),1.290,0.590
+1,6:45,4,16,PHI 40,0,0,"Sam Martin punts 28 yards, fair catch by Britain Covey at PHI-12. Penalty on Siran Neal: Face Mask (15 Yards), 15 yards (accepted)",0.590,-0.740
+1,6:37,1,10,PHI 27,0,0,"Penalty on Landon Dickerson: False Start, 5 yards (accepted) (no play)",0.740,0.410
+1,6:37,1,15,PHI 22,0,0,D'Andre Swift right guard for 3 yards (tackle by Jordan Poyer),0.410,-0.070
+1,6:16,2,12,PHI 25,0,0,Jalen Hurts pass complete short left to DeVonta Smith for 14 yards (tackle by Micah Hyde),-0.070,1.530
+1,5:51,1,10,PHI 39,0,0,D'Andre Swift up the middle for 3 yards (tackle by Terrel Bernard and Ed Oliver),1.530,1.460
+1,5:09,2,6,PHI 42,0,0,Jalen Hurts sacked by Linval Joseph for -3 yards,1.460,0.370
+1,4:28,3,9,PHI 39,0,0,"Jalen Hurts pass incomplete deep right intended for A.J. Brown (defended by Taron Johnson). Penalty on Rasul Douglas: Defensive Holding, 5 yards (accepted) (no play)",0.370,1.860
+1,4:20,1,10,PHI 44,0,0,Jalen Hurts left end for 1 yard (tackle by Christian Benford),1.860,1.450
+1,3:38,2,9,PHI 45,0,0,Jalen Hurts pass complete short right to DeVonta Smith for 5 yards (tackle by Micah Hyde),1.450,1.420
+1,2:55,3,4,PHI 50,0,0,Kenneth Gainwell up the middle for 3 yards (tackle by Jordan Phillips and Ed Oliver),1.420,0.130
+1,2:07,4,1,BUF 47,0,0,"Penalty on Jordan Phillips: Encroachment, 5 yards (accepted) (no play)",0.130,2.790
+1,2:06,1,10,BUF 42,0,0,Jalen Hurts scrambles up the middle for 16 yards (tackle by Taron Johnson and Christian Benford),2.790,3.840
+1,1:11,1,10,BUF 26,0,0,"Kenneth Gainwell for 23 yards (tackle by Jordan Poyer). Penalty on Ed Oliver: Illegal Use of Hands / Defense, 2 yards (accepted)",3.840,6.970
+1,1:09,1,1,BUF 1,0,6,"Jalen Hurts up the middle for 1 yard, touchdown",6.970,7.000
+1,1:06,,,BUF 15,0,7,Jake Elliott kicks extra point good,0.000,0.000
+1,1:06,,,PHI 35,0,7,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+1,1:06,1,10,BUF 25,0,7,Josh Allen pass complete short middle to Latavius Murray for 6 yards (tackle by Bradley Roby),0.610,0.870
+1,0:33,2,4,BUF 31,0,7,Josh Allen pass complete short right to Stefon Diggs for 12 yards (tackle by Kevin Byard),0.870,1.800
+Quarter,Time,Down,ToGo,Location,BUF,PHI,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,BUF 43,0,7,Josh Allen pass complete short right to Stefon Diggs for 8 yards (tackle by Zach Cunningham),1.800,2.330
+2,14:29,2,2,PHI 49,0,7,Josh Allen pass complete short middle to Dalton Kincaid for 5 yards (tackle by Nicholas Morrow),2.330,2.650
+2,13:46,1,10,PHI 44,0,7,Josh Allen pass incomplete short left,2.650,2.110
+2,13:36,2,10,PHI 44,0,7,Josh Allen pass incomplete short left intended for Stefon Diggs (defended by James Bradberry),2.110,1.420
+2,13:32,3,10,PHI 44,0,7,"Josh Allen pass incomplete intended for Dalton Kincaid. Penalty on Dion Dawkins: Offensive Holding, 10 yards (offset) . Penalty on Kevin Byard: Defensive Holding, 5 yards (offset) (no play)",1.420,1.420
+2,13:27,3,10,PHI 44,0,7,Josh Allen scrambles right end for 11 yards (tackle by Zach Cunningham),1.420,3.380
+2,12:50,1,10,PHI 33,0,7,Latavius Murray right guard for no gain (tackle by Nicholas Morrow and Jordan Davis),3.380,2.840
+2,12:10,2,10,PHI 33,0,7,Josh Allen pass incomplete short left intended for Khalil Shakir,2.840,2.150
+2,12:06,3,10,PHI 33,0,7,Josh Allen pass complete short right to Dalton Kincaid for 3 yards (tackle by Kevin Byard),2.150,1.410
+2,11:27,4,7,PHI 30,3,7,Tyler Bass 48 yard field goal good,1.410,3.000
+2,11:23,,,BUF 35,3,7,"Tyler Bass kicks off 59 yards,",0.000,0.610
+2,11:23,1,10,PHI 25,3,7,Jalen Hurts pass incomplete short left intended for Julio Jones,0.610,0.060
+2,11:17,2,10,PHI 25,3,7,Jalen Hurts pass short right (defended by Leonard Floyd) intended for Jack Stoll is intercepted by Terrel Bernard at PHI-31 and returned for 2 yards (tackle by DeVonta Smith),0.060,-3.640
+2,11:10,1,10,PHI 29,3,7,"Ty Johnson for no gain. Penalty on Connor McGovern: Offensive Holding, 10 yards (accepted) (no play)",3.640,2.980
+2,10:55,1,20,PHI 39,3,7,Josh Allen pass complete short left to James Cook for 4 yards (tackle by Reed Blankenship),2.980,2.290
+2,10:06,2,16,PHI 35,3,7,Josh Allen pass complete short middle to James Cook for 7 yards (tackle by Bradley Roby),2.290,2.540
+2,9:26,3,9,PHI 28,3,7,Josh Allen pass complete deep right to Gabriel Davis for 19 yards (tackle by James Bradberry),2.540,5.140
+2,8:40,1,9,PHI 9,9,7,"Josh Allen up the middle for 9 yards, touchdown",5.140,7.000
+2,8:34,,,PHI 15,10,7,Tyler Bass kicks extra point good,0.000,0.000
+2,8:34,,,BUF 35,10,7,"Tyler Bass kicks off 65 yards, touchback.",0.000,0.610
+2,8:34,1,10,PHI 25,10,7,Boston Scott left guard for 10 yards (tackle by Tyrel Dodson),0.610,1.270
+2,7:50,1,10,PHI 35,10,7,Jalen Hurts pass incomplete short left intended for Boston Scott,1.270,0.720
+2,7:44,2,10,PHI 35,10,7,Boston Scott left end for 4 yards (tackle by Terrel Bernard),0.720,0.560
+2,7:06,3,6,PHI 39,10,7,Jalen Hurts pass incomplete short right intended for Kenneth Gainwell,0.560,-0.780
+2,6:45,4,6,PHI 39,10,7,"Braden Mann punts 51 yards, returned by Khalil Shakir for no gain (tackle by Sydney Brown). Penalty on Baylon Spector: Offensive Holding, 5 yards (accepted)",-0.780,0.380
+2,6:45,1,10,BUF 5,10,7,James Cook right guard for -3 yards (tackle by Nicholas Morrow and Jalen Carter),-0.380,-1.000
+2,6:21,2,13,BUF 2,10,7,Josh Allen pass complete short middle to Latavius Murray for 6 yards (tackle by Nicholas Morrow),-1.000,-1.070
+2,5:42,3,7,BUF 8,10,7,Josh Allen pass complete deep left to Khalil Shakir for 31 yards (tackle by Reed Blankenship),-1.070,1.530
+2,5:23,1,10,BUF 39,10,7,James Cook up the middle for 2 yards (tackle by Zach Cunningham and Kevin Byard),1.530,1.260
+2,4:41,2,8,BUF 41,10,7,Josh Allen pass incomplete deep left intended for Dalton Kincaid,1.260,0.560
+2,4:33,3,8,BUF 41,10,7,Josh Allen pass incomplete deep middle intended for Trent Sherfield (defended by Darius Slay),0.560,-0.650
+2,4:27,4,9,BUF 41,10,7,"Sam Martin punts 40 yards, fair catch by Britain Covey at PHI-19",-0.650,-0.150
+2,4:20,1,10,PHI 19,10,7,D'Andre Swift right tackle for 1 yard (tackle by Gregory Rousseau and Tyrel Dodson),0.150,-0.200
+2,3:41,2,9,PHI 20,10,7,Jalen Hurts right end for -1 yards (tackle by Gregory Rousseau),-0.200,-1.070
+2,2:59,3,10,PHI 19,10,7,Jalen Hurts pass complete short right to A.J. Brown for 5 yards (tackle by Jordan Poyer and Terrel Bernard),-1.070,-1.770
+2,2:22,4,5,PHI 24,10,7,"Braden Mann punts 53 yards, returned by Khalil Shakir for 10 yards (tackle by Christian Elliss)",-1.770,-1.140
+2,2:10,1,10,BUF 33,10,7,Josh Allen pass incomplete short middle intended for Gabriel Davis (defended by James Bradberry),1.140,0.590
+2,2:05,2,10,BUF 33,10,7,Josh Allen pass complete short left to Stefon Diggs for 5 yards (tackle by James Bradberry),0.590,0.560
+2,1:58,3,5,BUF 38,10,7,Josh Allen pass complete deep right to Stefon Diggs for 22 yards (tackle by Reed Blankenship),0.560,2.920
+2,1:51,1,10,PHI 40,10,7,Josh Allen pass complete short right to Dalton Kincaid for 8 yards (tackle by Kevin Byard),2.920,3.450
+2,1:47,2,2,PHI 32,10,7,Josh Allen pass complete deep right to Gabriel Davis for 25 yards (tackle by Kevin Byard),3.450,5.600
+2,1:39,,,,,,Timeout #1 by Buffalo Bills,,
+2,1:39,1,7,PHI 7,10,7,James Cook right end for 4 yards (tackle by Zach Cunningham),5.600,5.530
+2,1:33,,,,,,Timeout #1 by Philadelphia Eagles,,
+2,1:33,2,3,PHI 3,10,7,"Josh Allen pass incomplete short right. Penalty on Josh Allen: Intentional Grounding, 13 yards (accepted)",5.530,2.850
+2,1:30,3,16,PHI 16,10,7,Josh Allen pass incomplete deep left intended for Trent Sherfield,2.850,2.380
+2,1:27,4,16,PHI 16,10,7,Tyler Bass 34 yard field goal no good blocked by Jalen Carter,2.380,-0.540
+2,1:24,1,10,PHI 24,10,7,Jalen Hurts pass complete short left to A.J. Brown for 9 yards (tackle by Rasul Douglas),0.540,1.210
+2,1:16,2,1,PHI 33,10,7,Jalen Hurts scrambles right end for 6 yards (tackle by Taron Johnson),1.210,1.530
+2,1:08,1,10,PHI 39,10,7,"Jalen Hurts aborted snap, recovered by Gregory Rousseau at PHI-36",1.530,-3.180
+2,1:04,1,10,PHI 36,10,7,Josh Allen pass incomplete short middle intended for Latavius Murray,3.180,2.640
+2,1:01,2,10,PHI 36,10,7,Josh Allen scrambles up the middle for 19 yards (tackle by Brandon Graham),2.640,4.440
+2,0:47,,,,,,Timeout #2 by Buffalo Bills,,
+2,0:47,1,10,PHI 17,10,7,"Josh Allen pass complete to Latavius Murray for no gain. Penalty on Dion Dawkins: Offensive Holding, 10 yards (accepted) (no play)",4.440,3.780
+2,0:43,1,20,PHI 27,10,7,Josh Allen pass complete short middle to Dalton Kincaid for 14 yards (tackle by Zach Cunningham),3.780,4.500
+2,0:28,2,6,PHI 13,10,7,Josh Allen pass incomplete short right intended for Gabriel Davis,4.500,3.680
+2,0:21,3,6,PHI 13,16,7,"Josh Allen pass complete short left to Stefon Diggs for 13 yards, touchdown",3.680,7.000
+2,0:12,,,PHI 15,17,7,Tyler Bass kicks extra point good,0.000,0.000
+2,0:12,,,BUF 35,17,7,"Tyler Bass kicks off 65 yards, touchback.",0.000,0.610
+2,0:12,1,10,PHI 25,17,7,Jalen Hurts kneels for -1 yards,0.610,-0.070
+Quarter,Time,Down,ToGo,Location,BUF,PHI,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,BUF 35,17,7,"Tyler Bass kicks off 56 yards,",0.000,0.610
+3,15:00,1,10,PHI 25,17,7,Jalen Hurts sacked by Tim Settle for -4 yards,0.610,-0.480
+3,14:22,2,14,PHI 21,17,7,Jalen Hurts pass incomplete short left intended for A.J. Brown,-0.480,-1.150
+3,14:17,3,14,PHI 21,17,7,Jalen Hurts pass complete short right to Julio Jones for no gain (tackle by Taron Johnson),-1.150,-1.960
+3,13:38,4,14,PHI 21,17,7,"Braden Mann punts 58 yards, recovered by Khalil Shakir at BUF-22 (tackle by Josh Jobe)",-1.960,-1.000
+3,13:29,1,10,BUF 31,17,7,Josh Allen pass complete deep right to Gabriel Davis for 23 yards (tackle by Reed Blankenship),1.000,2.520
+3,12:47,1,10,PHI 46,17,7,James Cook for no gain (tackle by Nicholas Morrow and Zach Cunningham),2.520,1.980
+3,12:07,2,10,PHI 46,17,7,Josh Allen pass complete short left to Khalil Shakir for 6 yards (tackle by Bradley Roby),1.980,2.080
+3,11:19,3,4,PHI 40,17,7,Josh Allen pass complete short right to Khalil Shakir for 10 yards (tackle by James Bradberry),2.080,3.580
+3,10:50,1,10,PHI 30,17,7,Josh Allen pass incomplete short middle intended for Latavius Murray (defended by Nicholas Morrow),3.580,3.030
+3,10:45,2,10,PHI 30,17,7,Josh Allen pass incomplete short right intended for Gabriel Davis,3.030,2.340
+3,10:42,3,10,PHI 30,17,7,Josh Allen pass incomplete deep left intended for Gabriel Davis (defended by Eli Ricks),2.340,1.410
+3,10:36,4,10,PHI 30,17,7,Tyler Bass 48 yard field goal no good,1.410,-1.470
+3,10:32,1,10,PHI 38,17,7,D'Andre Swift left end for 36 yards (tackle by Micah Hyde),1.470,3.840
+3,10:02,1,10,BUF 26,17,7,D'Andre Swift left guard for 2 yards (tackle by Ed Oliver),3.840,3.570
+3,9:24,2,8,BUF 24,17,7,D'Andre Swift left end for 6 yards (tackle by Tyrel Dodson),3.570,3.750
+3,8:43,3,2,BUF 18,17,7,Jalen Hurts pass complete short right to Jack Stoll for 14 yards (tackle by Micah Hyde),3.750,6.280
+3,8:03,1,4,BUF 4,17,7,D'Andre Swift right end for 1 yard (tackle by Rasul Douglas),6.280,5.530
+3,7:17,2,3,BUF 3,17,13,"Jalen Hurts pass complete short right to A.J. Brown for 3 yards, touchdown",5.530,7.000
+3,7:13,,,BUF 15,17,14,Jake Elliott kicks extra point good,0.000,0.000
+3,7:13,,,PHI 35,17,14,"Jake Elliott kicks off 60 yards, returned by Andy Isabella for 25 yards (tackle by Reed Blankenship)",0.000,0.940
+3,7:08,1,10,BUF 30,17,14,James Cook right guard for 4 yards (tackle by Christian Elliss),0.940,0.930
+3,6:31,2,6,BUF 34,17,14,James Cook up the middle for 2 yards (tackle by Jalen Carter),0.930,0.500
+3,5:47,3,4,BUF 36,17,14,Josh Allen scrambles up the middle for 7 yards (tackle by Nicholas Morrow),0.500,1.800
+3,5:08,1,10,BUF 43,17,14,Josh Allen pass complete short left to James Cook for 29 yards (tackle by Darius Slay),1.800,3.710
+3,4:27,1,10,PHI 28,17,14,James Cook right guard for 4 yards (tackle by Marlon Tuipulotu and Reed Blankenship),3.710,3.710
+3,3:48,2,6,PHI 24,17,14,Ty Johnson right guard for 9 yards (tackle by Kevin Byard),3.710,4.580
+3,3:11,1,10,PHI 15,17,14,Ty Johnson up the middle for 4 yards (tackle by Josh Sweat),4.580,4.640
+3,2:27,2,6,PHI 11,17,14,Ty Johnson up the middle for -5 yards (tackle by Christian Elliss),4.640,3.040
+3,1:48,3,11,PHI 16,23,14,"Josh Allen scrambles right end for 16 yards, touchdown",3.040,7.000
+3,1:40,,,PHI 15,24,14,Tyler Bass kicks extra point good,0.000,0.000
+3,1:40,,,BUF 35,24,14,"Tyler Bass kicks off 63 yards,",0.000,0.610
+3,1:40,1,10,PHI 25,24,14,D'Andre Swift left end for 4 yards (tackle by Rasul Douglas),0.610,0.600
+3,1:06,2,6,PHI 29,24,14,Jalen Hurts pass complete deep middle to DeVonta Smith for 33 yards (tackle by Micah Hyde),0.600,3.050
+3,0:31,1,10,BUF 38,24,14,D'Andre Swift left end for 5 yards (tackle by Jordan Poyer),3.050,3.110
+3,0:05,2,6,BUF 33,24,14,D'Andre Swift left guard for 1 yard (tackle by Jordan Phillips),3.110,2.610
+Quarter,Time,Down,ToGo,Location,BUF,PHI,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,4,BUF 32,24,14,Jalen Hurts scrambles left end for 12 yards (tackle by Rasul Douglas),2.610,4.240
+4,14:24,1,10,BUF 20,24,14,D'Andre Swift left end for 5 yards (tackle by Ed Oliver),4.240,4.450
+4,13:42,2,5,BUF 15,24,20,"Jalen Hurts pass complete short right to DeVonta Smith for 15 yards, touchdown",4.450,7.000
+4,13:37,,,BUF 15,24,21,Jake Elliott kicks extra point good,0.000,0.000
+4,13:37,,,PHI 35,24,21,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+4,13:37,1,10,BUF 25,24,21,Ty Johnson left end for 2 yards (tackle by Nicholas Morrow),0.610,0.330
+4,12:55,2,8,BUF 27,24,21,Josh Allen pass short left intended for Stefon Diggs is intercepted by James Bradberry at BUF-29 and returned for 5 yards (tackle by Connor McGovern),0.330,-3.970
+4,12:46,1,10,BUF 24,24,21,D'Andre Swift right end for -4 yards (tackle by Gregory Rousseau),3.970,2.890
+4,12:03,2,14,BUF 28,24,21,Jalen Hurts up the middle for -1 yards (tackle by Gregory Rousseau),2.890,2.080
+4,11:18,3,15,BUF 29,24,27,"Jalen Hurts pass complete deep left to Olamide Zaccheaus for 29 yards, touchdown",2.080,7.000
+4,11:07,,,BUF 15,24,28,Jake Elliott kicks extra point good,0.000,0.000
+4,11:07,,,PHI 35,24,28,"Penalty on Jordan Poyer: Defensive Offside, 5 yards (accepted) (no play)",0.000,0.000
+4,11:07,,,PHI 40,24,28,"Jake Elliott kicks off 60 yards, touchback.",0.000,0.610
+4,11:07,1,10,BUF 25,24,28,Josh Allen pass complete short middle to Gabriel Davis for 18 yards (tackle by Kevin Byard and Nicholas Morrow),0.610,1.800
+4,10:30,1,10,BUF 43,24,28,James Cook right guard for -4 yards (tackle by Jalen Carter),1.800,0.710
+4,9:51,2,14,BUF 39,24,28,Josh Allen pass incomplete deep right intended for Stefon Diggs,0.710,0.040
+4,9:44,3,14,BUF 39,24,28,Josh Allen sacked by Brandon Graham for -7 yards,0.040,-1.240
+4,9:01,4,20,BUF 32,24,28,"Sam Martin punts 54 yards, returned by Britain Covey for 18 yards (tackle by Damar Hamlin)",-1.240,-1.070
+4,8:50,1,10,PHI 32,24,28,D'Andre Swift right guard for 1 yard (tackle by Jordan Poyer and Leonard Floyd),1.070,0.660
+4,8:08,2,9,PHI 33,24,28,Jalen Hurts scrambles right end for 2 yards (tackle by Taron Johnson),0.660,0.230
+4,7:20,3,7,PHI 35,24,28,Jalen Hurts pass incomplete deep right intended for DeVonta Smith,0.230,-1.040
+4,7:15,4,7,PHI 35,24,28,"Braden Mann punts 48 yards, returned by Khalil Shakir for 9 yards (tackle by Patrick Johnson)",-1.040,-0.670
+4,7:06,1,10,BUF 26,24,28,James Cook up the middle for 11 yards (tackle by Reed Blankenship),0.670,1.400
+4,6:29,1,10,BUF 37,24,28,James Cook left end for 11 yards (tackle by Christian Elliss),1.400,2.130
+4,5:48,1,10,BUF 48,24,28,Latavius Murray up the middle for 13 yards (tackle by Kevin Byard and Haason Reddick),2.130,2.980
+4,5:10,1,10,PHI 39,24,28,Latavius Murray right guard for 6 yards (tackle by Kevin Byard and Christian Elliss),2.980,3.250
+4,4:30,2,4,PHI 33,24,28,Latavius Murray right guard for no gain (tackle by Marlon Tuipulotu),3.250,2.540
+4,3:54,3,4,PHI 33,24,28,Josh Allen pass complete short left to Latavius Murray for 6 yards (tackle by Reed Blankenship),2.540,3.780
+4,3:14,1,10,PHI 27,24,28,Josh Allen pass complete short left to Stefon Diggs for 14 yards (tackle by Kevin Byard),3.780,4.710
+4,2:39,1,10,PHI 13,24,28,Ty Johnson for 4 yards (tackle by Christian Elliss),4.710,4.770
+4,2:00,2,6,PHI 9,24,28,James Cook for 2 yards (tackle by Josh Sweat),4.770,4.330
+4,1:55,,,,,,Timeout #1 by Philadelphia Eagles,,
+4,1:55,3,4,PHI 7,30,28,"Josh Allen pass complete short right to Gabriel Davis for 7 yards, touchdown",4.330,7.000
+4,1:52,,,PHI 15,31,28,Tyler Bass kicks extra point good,0.000,0.000
+4,1:52,,,BUF 35,31,28,"Tyler Bass kicks off 65 yards, touchback.",0.000,0.610
+4,1:52,1,10,PHI 25,31,28,Jalen Hurts pass complete short left to A.J. Brown for 9 yards (tackle by Rasul Douglas),0.610,1.280
+4,1:26,2,1,PHI 34,31,28,Jalen Hurts pass complete short left to Kenneth Gainwell for 4 yards (tackle by Terrel Bernard),1.280,1.470
+4,1:21,1,10,PHI 38,31,28,Jalen Hurts pass complete short left to A.J. Brown for 11 yards (tackle by Jordan Poyer),1.470,2.190
+4,1:02,1,10,PHI 49,31,28,Jalen Hurts pass complete short left to Kenneth Gainwell for 6 yards (tackle by Cameron Lewis),2.190,2.460
+4,0:58,2,4,BUF 45,31,28,Jalen Hurts pass complete short left to DeVonta Smith for 11 yards (tackle by A.J. Epenesa),2.460,3.310
+4,0:38,1,10,BUF 34,31,28,"Penalty on Jason Kelce: False Start, 5 yards (accepted) (no play)",3.310,2.980
+4,0:38,,,,,,Timeout #2 by Philadelphia Eagles,,
+4,0:38,1,15,BUF 39,31,28,Jalen Hurts pass incomplete short middle intended for Julio Jones (defended by A.J. Epenesa),2.980,2.090
+4,0:35,2,15,BUF 39,31,28,Jalen Hurts up the middle for 3 yards (tackle by Ed Oliver),2.090,1.820
+4,0:30,,,,,,Timeout #3 by Philadelphia Eagles,,
+4,0:30,3,12,BUF 36,31,28,"Penalty on Jason Kelce: False Start, 5 yards (accepted) (no play)",1.820,1.160
+4,0:30,,,,,,Timeout #1 by Buffalo Bills,,
+4,0:30,3,17,BUF 41,31,28,Jalen Hurts pass incomplete short left intended for A.J. Brown (defended by Jordan Poyer),1.160,0.530
+4,0:25,,,,,,Timeout #2 by Buffalo Bills,,
+4,0:25,4,17,BUF 41,31,31,Jake Elliott 59 yard field goal good,0.530,3.000
+4,0:20,,,PHI 35,31,31,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+4,0:20,1,10,BUF 25,31,31,Josh Allen kneels for -1 yards,0.610,0.000
+Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime
+Quarter,Time,Down,ToGo,Location,BUF,PHI,Detail,EPB,EPA
+,,,,,,,"Bills won the coin toss, Bills to receive the overtime kickoff.",,
+OT,10:00,,,PHI 35,31,31,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+OT,10:00,1,10,BUF 25,31,31,James Cook left guard for 1 yard (tackle by Jordan Davis and Christian Elliss),0.610,0.200
+OT,9:26,2,9,BUF 26,31,31,Josh Allen pass incomplete short left intended for Stefon Diggs (defended by Darius Slay),0.200,-0.490
+OT,9:21,3,9,BUF 26,31,31,Josh Allen pass complete short middle to Gabriel Davis for 13 yards (tackle by Reed Blankenship),-0.490,1.530
+OT,8:48,1,10,BUF 39,31,31,James Cook right guard for 1 yard (tackle by Jordan Davis),1.530,1.120
+OT,8:14,2,9,BUF 40,31,31,Josh Allen pass incomplete short right intended for Stefon Diggs (defended by James Bradberry),1.120,0.430
+OT,8:06,3,9,BUF 40,31,31,Josh Allen scrambles left end for 15 yards (tackle by Darius Slay),0.430,2.590
+OT,7:28,1,10,PHI 45,31,31,Josh Allen pass incomplete short left intended for Trent Sherfield,2.590,2.040
+OT,7:24,2,10,PHI 45,31,31,"Josh Allen pass complete short right to James Cook for 4 yards (tackle by Haason Reddick). Penalty on Nicholas Morrow: Roughing the Passer, 15 yards (accepted)",2.040,3.840
+OT,7:10,1,10,PHI 26,31,31,Latavius Murray up the middle for no gain (tackle by Kevin Byard and Jordan Davis),3.840,3.300
+OT,6:33,2,10,PHI 26,31,31,Josh Allen scrambles left end for 4 yards (tackle by Nicholas Morrow and Jordan Davis),3.300,3.140
+OT,6:01,3,6,PHI 22,31,31,Josh Allen pass incomplete deep left intended for Gabriel Davis,3.140,2.020
+OT,5:56,4,6,PHI 22,34,31,Tyler Bass 40 yard field goal good,2.020,3.000
+OT,5:52,,,BUF 35,34,31,"Tyler Bass kicks off 58 yards,",0.000,0.610
+OT,5:52,1,10,PHI 25,34,31,Jalen Hurts right guard for 8 yards (tackle by Terrel Bernard),0.610,1.140
+OT,5:19,2,2,PHI 33,34,31,Jalen Hurts pass complete short left to D'Andre Swift for 4 yards (tackle by Taron Johnson),1.140,1.400
+OT,4:32,1,10,PHI 37,34,31,Jalen Hurts pass incomplete short left intended for A.J. Brown,1.400,0.860
+OT,4:27,2,10,PHI 37,34,31,Jalen Hurts pass complete deep left to DeVonta Smith for 17 yards (tackle by Micah Hyde),0.860,2.520
+OT,3:43,1,10,BUF 46,34,31,Jalen Hurts scrambles right end for 7 yards (tackle by Taron Johnson),2.520,2.920
+OT,3:33,2,3,BUF 39,34,31,Jalen Hurts pass incomplete short right intended for A.J. Brown (defended by Tyrel Dodson),2.920,2.210
+OT,3:29,,,,,,Timeout #1 by Buffalo Bills,,
+OT,3:29,3,3,BUF 39,34,31,Jalen Hurts pass complete short right to DeVonta Smith for 11 yards (tackle by Tyrel Dodson),2.210,3.710
+OT,2:49,1,10,BUF 28,34,31,D'Andre Swift left end for 16 yards (tackle by Christian Benford),3.710,4.780
+OT,2:41,1,10,BUF 12,34,37,"Jalen Hurts left guard for 12 yards, touchdown",4.780,6.000
+End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime

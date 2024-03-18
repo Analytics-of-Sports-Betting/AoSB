@@ -1,0 +1,175 @@
+Quarter,Time,Down,ToGo,Location,PHI,TAM,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Eagles won the coin toss and deferred, Buccaneers to receive the opening kickoff.",,
+1,15:00,,,PHI 35,0,0,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,TAM 25,0,0,Baker Mayfield pass incomplete deep left intended for Mike Evans,0.610,0.060
+1,14:56,2,10,TAM 25,0,0,Baker Mayfield pass complete short middle to Cade Otton for 15 yards (tackle by Avonte Maddox),0.060,1.600
+1,14:18,1,10,TAM 40,0,0,Baker Mayfield pass complete deep middle to Mike Evans for 21 yards (tackle by Zach Cunningham),1.600,2.980
+1,13:40,1,10,PHI 39,0,0,Rachaad White up the middle for 8 yards (tackle by Nicholas Morrow and Fletcher Cox),2.980,3.520
+1,13:02,2,2,PHI 31,0,0,Rachaad White right tackle for 4 yards (tackle by Jalen Carter),3.520,3.780
+1,12:23,1,10,PHI 27,0,0,Rachaad White right guard for 7 yards (tackle by Jalen Carter and Avonte Maddox),3.780,4.180
+1,11:45,2,3,PHI 20,0,0,Baker Mayfield pass incomplete short right intended for Cade Otton,4.180,3.470
+1,11:41,3,3,PHI 20,0,0,Baker Mayfield pass complete short left to Rachaad White for 3 yards (tackle by Zach Cunningham and Nicholas Morrow),3.470,4.440
+1,10:55,1,10,PHI 17,0,0,Baker Mayfield scrambles right end for 7 yards (tackle by Kevin Byard),4.440,5.100
+1,10:13,2,3,PHI 10,0,0,Baker Mayfield pass incomplete short middle intended for Cade Otton,5.100,4.340
+1,10:10,3,3,PHI 10,0,0,Baker Mayfield pass incomplete short left intended for Trey Palmer,4.340,2.860
+1,10:05,4,3,PHI 10,0,3,Chase McLaughlin 28 yard field goal good,2.860,3.000
+1,10:02,,,TAM 35,0,3,"Jake Camarda kicks off 65 yards, touchback.",0.000,0.610
+1,10:02,1,10,PHI 25,0,3,D'Andre Swift left end for 9 yards (tackle by K.J. Britt and Jamel Dean),0.610,1.280
+1,9:22,2,1,PHI 34,0,3,D'Andre Swift left guard for 2 yards (tackle by Calijah Kancey),1.280,1.330
+1,8:44,1,10,PHI 36,0,3,Jalen Hurts pass complete short left to Julio Jones for 4 yards (tackle by Jamel Dean),1.330,1.330
+1,8:06,2,6,PHI 40,0,3,Jalen Hurts pass complete short right to Dallas Goedert for 4 yards (tackle by Carlton Davis),1.330,1.160
+1,7:21,3,2,PHI 44,0,3,Jalen Hurts pass incomplete deep right intended for Dallas Goedert (defended by Antoine Winfield) (defended by K.J. Britt),1.160,-0.460
+1,7:14,4,2,PHI 44,0,3,"Braden Mann punts 35 yards, fair catch by Deven Thompkins at TB-21",-0.460,-0.340
+1,7:07,1,10,TAM 21,0,3,"Penalty on Trey Palmer: False Start, 5 yards (accepted) (no play)",0.340,-0.220
+1,7:07,1,15,TAM 16,0,3,Baker Mayfield pass complete deep right to David Moore for 22 yards (tackle by Kevin Byard),-0.220,1.470
+1,6:59,1,10,TAM 38,0,3,"Penalty on Zach Cunningham: Face Mask (15 Yards), 15 yards (accepted) (no play)",1.470,2.460
+1,6:47,1,10,PHI 47,0,3,Baker Mayfield pass incomplete deep right intended for Mike Evans,2.460,1.910
+1,6:36,2,10,PHI 47,0,3,Rachaad White up the middle for 3 yards (tackle by Avonte Maddox),1.910,1.620
+1,5:59,3,7,PHI 44,0,9,"Baker Mayfield pass complete short left to David Moore for 44 yards, touchdown",1.620,7.000
+1,5:47,,,PHI 15,0,10,Chase McLaughlin kicks extra point good,0.000,0.000
+1,5:47,,,TAM 35,0,10,"Jake Camarda kicks off 65 yards, touchback.",0.000,0.610
+1,5:47,1,10,PHI 25,0,10,D'Andre Swift up the middle for 3 yards (tackle by Greg Gaines and K.J. Britt),0.610,0.470
+1,5:17,2,7,PHI 28,0,10,Jalen Hurts pass complete short left to Quez Watkins for 4 yards (tackle by Jamel Dean),0.470,0.300
+1,4:38,3,3,PHI 32,0,10,Jalen Hurts pass incomplete short left intended for Dallas Goedert,0.300,-1.240
+1,4:35,4,3,PHI 32,0,10,"Braden Mann punts 57 yards, returned by Deven Thompkins for 13 yards (tackle by Mekhi Garner)",-1.240,-0.540
+1,4:22,1,10,TAM 24,0,10,Chase Edmonds up the middle for 4 yards (tackle by Brandon Graham),0.540,0.540
+1,3:47,2,6,TAM 28,0,10,Baker Mayfield pass complete short right to Chase Edmonds for 8 yards (tackle by Zach Cunningham),0.540,1.330
+1,3:08,1,10,TAM 36,0,10,Trey Palmer left end for 9 yards (tackle by Kelee Ringo and Bradley Roby),1.330,2.010
+1,2:20,2,1,TAM 45,0,10,Chase Edmonds up the middle for 1 yard (tackle by Nolan Smith),2.010,1.990
+1,1:41,1,10,TAM 46,0,10,Rachaad White up the middle for -3 yards (tackle by Brandon Graham and Nolan Smith),1.990,1.050
+1,1:02,2,13,TAM 43,0,10,Baker Mayfield pass complete short middle to Cade Otton for 24 yards (tackle by Nicholas Morrow),1.050,3.380
+1,0:19,1,10,PHI 33,0,10,Rachaad White left guard for 1 yard (tackle by Nicholas Morrow and Josh Sweat),3.380,2.970
+Quarter,Time,Down,ToGo,Location,PHI,TAM,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,9,PHI 32,0,10,Baker Mayfield sacked by Josh Sweat for -4 yards,2.970,1.750
+2,14:14,3,13,PHI 36,0,10,Baker Mayfield pass incomplete short middle intended for David Moore (defended by Zach Cunningham),1.750,0.880
+2,14:08,4,13,PHI 36,0,13,Chase McLaughlin 54 yard field goal good,0.880,3.000
+2,14:03,,,TAM 35,0,13,"Jake Camarda kicks off 65 yards, touchback.",0.000,0.610
+2,14:03,1,10,PHI 25,0,13,Jalen Hurts pass incomplete short right intended for DeVonta Smith,0.610,0.060
+2,14:00,2,10,PHI 25,0,13,Jalen Hurts pass complete short middle to DeVonta Smith for 31 yards (tackle by Zyon McCollum),0.060,2.650
+2,13:29,1,10,TAM 44,0,13,Jalen Hurts pass complete short right to DeVonta Smith for 12 yards (tackle by Christian Izien),2.650,3.450
+2,12:56,1,10,TAM 32,0,13,Jalen Hurts pass complete short left to Quez Watkins for 2 yards (tackle by Jamel Dean),3.450,3.170
+2,12:22,2,8,TAM 30,0,13,Jalen Hurts sacked by Joe Tryon-Shoyinka for no gain,3.170,2.480
+2,11:40,3,8,TAM 30,0,13,Jalen Hurts pass incomplete short left intended for DeVonta Smith,2.480,1.410
+2,11:36,4,8,TAM 30,3,13,Jake Elliott 47 yard field goal good,1.410,3.000
+2,11:31,,,PHI 35,3,13,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+2,11:31,1,10,TAM 25,3,13,Baker Mayfield pass complete short left to Deven Thompkins for 4 yards (tackle by Bradley Roby),0.610,0.600
+2,10:50,2,6,TAM 29,3,13,Baker Mayfield pass incomplete deep left intended for Mike Evans,0.600,-0.100
+2,10:45,3,6,TAM 29,3,13,Baker Mayfield scrambles right end for 9 yards (tackle by Kevin Byard),-0.100,1.470
+2,9:59,1,10,TAM 38,3,13,Rachaad White up the middle for 1 yard (tackle by Jordan Davis),1.470,1.060
+2,9:18,2,9,TAM 39,3,13,Deven Thompkins left end for 10 yards (tackle by Kelee Ringo),1.060,2.190
+2,8:36,1,10,TAM 49,3,13,Baker Mayfield pass incomplete short middle intended for Cade Otton,2.190,1.650
+2,8:33,2,10,TAM 49,3,13,Baker Mayfield pass complete short right to Chris Godwin for 9 yards (tackle by Nicholas Morrow),1.650,2.150
+2,7:50,3,1,PHI 42,3,13,Rachaad White up the middle for no gain (tackle by Kevin Byard and Zach Cunningham),2.150,0.460
+2,7:06,4,1,PHI 42,3,13,Rachaad White left end for 7 yards (tackle by Brandon Graham),0.460,3.250
+2,6:27,1,10,PHI 35,3,13,Baker Mayfield pass incomplete short right intended for Chase Edmonds,3.250,2.700
+2,6:22,2,10,PHI 35,3,13,Baker Mayfield pass complete short right to Cade Otton for 5 yards (tackle by Nicholas Morrow),2.700,2.680
+2,5:43,3,5,PHI 30,3,13,Baker Mayfield pass incomplete short middle intended for Mike Evans (defended by Zach Cunningham),2.680,1.450
+2,5:40,4,5,PHI 30,3,16,Chase McLaughlin 48 yard field goal good,1.450,3.000
+2,5:35,,,TAM 35,3,16,"Jake Camarda kicks off 65 yards, touchback.",0.000,0.610
+2,5:35,1,10,PHI 25,3,16,"Jalen Hurts pass incomplete short right intended for Dallas Goedert. Penalty on Cam Jurgens: Ineligible Downfield Pass, 5 yards (accepted) (no play)",0.610,0.280
+2,5:32,1,15,PHI 20,3,16,Jalen Hurts pass complete short left to Julio Jones for 4 yards (tackle by Jamel Dean),0.280,-0.070
+2,4:59,2,11,PHI 24,3,16,"Jalen Hurts pass complete short left to Julio Jones for 14 yards. Julio Jones fumbles (forced by Lavonte David), recovered by Julio Jones at PHI-38 (tackle by Lavonte David)",-0.070,1.470
+2,4:35,1,10,PHI 38,3,16,D'Andre Swift up the middle for 2 yards (tackle by William Gholston),1.470,1.190
+2,3:56,2,8,PHI 40,3,16,Jalen Hurts pass complete deep middle to DeVonta Smith for 55 yards (tackle by Jamel Dean),1.190,6.060
+2,3:10,1,5,TAM 5,9,16,"Jalen Hurts pass complete short right to Dallas Goedert for 5 yards, touchdown",6.060,7.000
+2,3:06,,,TAM 15,9,16,"Jake Elliott kicks extra point good. Penalty on Zyon McCollum: Defensive Offside, 1 yard (accepted) (no play)",0.000,1.000
+2,3:06,1,1,TAM 2,9,16,"Two Point Attempt: Jalen Hurts rushes, conversion fails.",1.000,-1.000
+2,3:06,,,PHI 35,9,16,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+2,3:06,1,10,TAM 25,9,16,Rachaad White left end for 11 yards (tackle by Bradley Roby),0.610,1.330
+2,2:26,1,10,TAM 36,9,16,Baker Mayfield pass incomplete short right,1.330,0.790
+2,2:20,2,10,TAM 36,9,16,Baker Mayfield pass complete short left to Cade Otton for 19 yards (tackle by James Bradberry),0.790,2.590
+2,2:00,1,10,PHI 45,9,16,Baker Mayfield pass incomplete deep middle intended for Chris Godwin,2.590,2.040
+2,1:55,2,10,PHI 45,9,16,Baker Mayfield pass incomplete short left intended for Rachaad White,2.040,1.360
+2,1:52,,,,,,Timeout #1 by Philadelphia Eagles,,
+2,1:52,3,10,PHI 45,9,16,Baker Mayfield sacked by Brandon Graham for -7 yards,1.360,-0.190
+2,1:42,,,,,,Timeout #2 by Philadelphia Eagles,,
+2,1:42,4,17,TAM 48,9,16,"Jake Camarda punts 47 yards, recovered by Britain Covey at PHI-9",-0.190,0.380
+2,1:33,1,10,PHI 9,9,16,Jalen Hurts pass complete short right to Kenneth Gainwell for 9 yards (tackle by Devin White and Carlton Davis),-0.380,0.140
+2,1:10,2,1,PHI 18,9,16,Kenneth Gainwell up the middle for 1 yard (tackle by Vita Vea),0.140,0.150
+2,0:47,1,10,PHI 19,9,16,Jalen Hurts pass incomplete short right,0.150,-0.390
+2,0:40,2,10,PHI 19,9,16,Jalen Hurts pass complete short right to DeVonta Smith for 13 yards (tackle by Antoine Winfield),-0.390,1.070
+2,0:32,,,,,,Timeout #3 by Philadelphia Eagles,,
+2,0:32,1,10,PHI 32,9,16,Jalen Hurts pass incomplete deep right intended for DeVonta Smith (defended by Carlton Davis),1.070,0.530
+2,0:26,2,10,PHI 32,9,16,Jalen Hurts pass complete short right to Dallas Goedert for 2 yards (tackle by Lavonte David),0.530,0.100
+2,0:22,3,8,PHI 34,9,16,Jalen Hurts pass complete short left to Quez Watkins for 6 yards (tackle by Lavonte David),0.100,-0.720
+Quarter,Time,Down,ToGo,Location,PHI,TAM,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,TAM 35,9,16,"Jake Camarda kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,PHI 25,9,16,D'Andre Swift right end for -1 yards (tackle by Lavonte David),0.610,-0.070
+3,14:18,2,11,PHI 24,9,16,Jalen Hurts pass incomplete deep left intended for Quez Watkins (defended by Jamel Dean),-0.070,-0.760
+3,14:12,3,11,PHI 24,9,16,Jalen Hurts sacked by and Calijah Kancey for -9 yards and Vita Vea for -9 yards,-0.760,-2.440
+3,13:38,4,20,PHI 15,9,16,Braden Mann punts 44 yards downed by Kelee Ringo,-2.440,-1.660
+3,13:31,1,10,TAM 41,9,16,Baker Mayfield pass complete short left to Cade Otton for 11 yards (tackle by Zach Cunningham and Darius Slay),1.660,2.390
+3,12:51,1,10,PHI 48,9,16,Baker Mayfield pass complete short left to Cade Otton for 3 yards (tackle by Avonte Maddox),2.390,2.250
+3,12:13,2,7,PHI 45,9,16,Baker Mayfield pass incomplete short right intended for Rachaad White,2.250,1.550
+3,12:03,3,7,PHI 45,9,16,Baker Mayfield sacked by and Fletcher Cox for -10 yards and Nolan Smith for -10 yards,1.550,-0.390
+3,11:29,4,17,TAM 45,9,16,"Jake Camarda punts 42 yards, fair catch by Britain Covey at PHI-13",-0.390,0.320
+3,11:23,1,10,PHI 13,9,16,"Jalen Hurts scrambles up the middle for no gain (tackle by Lavonte David). Penalty on Cam Jurgens: Offensive Holding, 10 yards (offset) . Penalty on Lavonte David: Unnecessary Roughness / Defense, 15 yards (offset) (no play)",-0.320,-0.320
+3,10:49,1,10,PHI 13,9,16,Jalen Hurts pass complete short left to DeVonta Smith for -4 yards (tackle by Jamel Dean),-0.320,-1.070
+3,10:08,2,14,PHI 9,9,16,Jalen Hurts scrambles right end for 5 yards (tackle by Christian Izien),-1.070,-1.300
+3,9:24,3,9,PHI 14,9,16,"Jalen Hurts pass incomplete short middle intended for Dallas Goedert. Penalty on Joe Tryon-Shoyinka: Defensive Pass Interference, 4 yards (accepted) (no play)",-1.300,0.040
+3,9:18,1,10,PHI 18,9,16,D'Andre Swift right tackle for 2 yards (tackle by Pat O'Connor),0.040,-0.130
+3,8:43,2,8,PHI 20,9,16,D'Andre Swift left end for 2 yards (tackle by Logan Hall),-0.130,-0.660
+3,8:00,3,6,PHI 22,9,16,Jalen Hurts pass complete short left to Kenneth Gainwell for 1 yard (tackle by Jamel Dean and Devin White),-0.660,-1.830
+3,7:26,4,5,PHI 23,9,16,"Braden Mann punts 52 yards, returned by Deven Thompkins for 11 yards (tackle by Ben VanSumeren)",-1.830,-1.330
+3,7:13,1,10,TAM 36,9,16,Baker Mayfield pass complete short right to Cade Otton for 7 yards (tackle by James Bradberry and Zach Cunningham),1.330,1.740
+3,6:32,2,3,TAM 43,9,16,Rachaad White up the middle for 12 yards (tackle by Kevin Byard),1.740,2.590
+3,5:53,1,10,PHI 45,9,16,Baker Mayfield pass complete short left to Chris Godwin for 8 yards (tackle by James Bradberry),2.590,3.120
+3,5:14,2,2,PHI 37,9,16,Rachaad White left guard for 1 yard (tackle by Milton Williams),3.120,2.540
+3,4:35,3,1,PHI 36,9,16,Baker Mayfield sacked by Milton Williams for -9 yards,2.540,0.270
+3,3:47,4,10,PHI 45,9,16,"Jake Camarda punts 35 yards, fair catch by Britain Covey at PHI-10",0.270,0.380
+3,3:41,1,10,PHI 10,9,16,Kenneth Gainwell right end for -6 yards (tackle by Lavonte David),-0.380,-1.220
+3,2:55,2,16,PHI 4,9,16,Jalen Hurts pass complete short left to Dallas Goedert for 10 yards,-1.220,-0.950
+3,2:28,3,6,PHI 14,9,18,"Jalen Hurts pass incomplete short left. Penalty on Jalen Hurts: Intentional Grounding, 14 yards (accepted)",-0.950,-2.000
+3,2:18,,,PHI 20,9,18,"Braden Mann kicks off 69 yards, returned by Deven Thompkins for 27 yards (tackle by Eli Ricks)",0.000,1.470
+3,2:11,1,10,TAM 38,9,18,Rachaad White left end for 6 yards (tackle by Avonte Maddox),1.470,1.730
+3,1:30,2,4,TAM 44,9,24,"Baker Mayfield pass complete short right to Trey Palmer for 56 yards, touchdown",1.730,7.000
+3,1:19,,,PHI 15,9,25,Chase McLaughlin kicks extra point good,0.000,0.000
+3,1:19,,,TAM 35,9,25,"Jake Camarda kicks off 55 yards, returned by Boston Scott for 17 yards (tackle by SirVocea Dennis and Dee Delaney)",0.000,0.740
+3,1:15,1,10,PHI 27,9,25,D'Andre Swift up the middle for 17 yards (tackle by Jamel Dean and K.J. Britt),0.740,1.860
+3,0:48,1,10,PHI 44,9,25,D'Andre Swift for no gain (tackle by Calijah Kancey),1.860,1.320
+3,0:17,2,10,PHI 44,9,25,Jalen Hurts pass complete short middle to DeVonta Smith for 19 yards (tackle by Carlton Davis),1.320,3.120
+Quarter,Time,Down,ToGo,Location,PHI,TAM,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,TAM 37,9,25,Jalen Hurts pass incomplete deep left,3.120,2.570
+4,14:52,2,10,TAM 37,9,25,Jalen Hurts pass complete short right to DeVonta Smith for 15 yards (tackle by Carlton Davis),2.570,4.110
+4,14:28,1,10,TAM 22,9,25,D'Andre Swift up the middle for -2 yards (tackle by Calijah Kancey),4.110,3.290
+4,13:48,2,12,TAM 24,9,25,"Jalen Hurts pass complete short right to Dallas Goedert for no gain (tackle by K.J. Britt). Penalty on Cam Jurgens: Ineligible Downfield Pass, 5 yards (accepted) (no play)",3.290,2.620
+4,13:29,2,17,TAM 29,9,25,"Penalty on Jordan Mailata: False Start, 5 yards (accepted) (no play)",2.620,1.940
+4,13:29,2,22,TAM 34,9,25,Jalen Hurts pass complete short right to D'Andre Swift for 1 yard (tackle by Zyon McCollum),1.940,1.420
+4,12:46,3,21,TAM 33,9,25,Jalen Hurts pass complete short middle to D'Andre Swift for 11 yards (tackle by Antoine Winfield),1.420,1.990
+4,12:07,4,10,TAM 22,9,25,"Jake Elliott yard field goal good. Penalty on Zyon McCollum: Defensive Offside, 5 yards (accepted) (no play)",1.990,2.360
+4,12:02,4,5,TAM 17,9,25,Jalen Hurts pass incomplete deep right intended for DeVonta Smith (defended by Carlton Davis),2.360,0.060
+4,11:57,1,10,TAM 17,9,25,Baker Mayfield pass complete short middle to Payne Durham for 18 yards (tackle by Darius Slay),-0.060,1.270
+4,11:13,1,10,TAM 35,9,25,Baker Mayfield pass complete short right to Chris Godwin for 5 yards (tackle by Darius Slay),1.270,1.400
+4,10:40,2,5,TAM 40,9,25,Chase Edmonds up the middle for 1 yard (tackle by Josh Sweat),1.400,0.830
+4,9:59,3,4,TAM 41,9,25,Baker Mayfield pass complete short middle to Cade Otton for 5 yards (tackle by Nicholas Morrow),0.830,1.990
+4,9:15,1,10,TAM 46,9,25,"Chase Edmonds left end for no gain (tackle by Jalen Carter). Penalty on Ko Kieft: Offensive Holding, 10 yards (accepted) (no play)",1.990,1.330
+4,9:01,1,20,TAM 36,9,25,Baker Mayfield pass complete deep right to Mike Evans for 19 yards (tackle by Darius Slay),1.330,2.670
+4,8:20,2,1,PHI 45,9,25,Rachaad White left guard for 8 yards (tackle by Nicholas Morrow),2.670,3.120
+4,7:34,1,10,PHI 37,9,25,Rachaad White up the middle for 1 yard (tackle by Josh Sweat),3.120,2.710
+4,7:23,,,,,,Timeout #1 by Philadelphia Eagles,,
+4,7:23,2,9,PHI 36,9,25,Baker Mayfield pass complete short right to Mike Evans for 8 yards (tackle by Darius Slay),2.710,3.070
+4,7:16,,,,,,Timeout #2 by Philadelphia Eagles,,
+4,7:16,3,1,PHI 28,9,25,Rachaad White left tackle for 2 yards (tackle by Avonte Maddox and Zach Cunningham),3.070,3.840
+4,7:12,,,,,,Timeout #3 by Philadelphia Eagles,,
+4,7:12,1,10,PHI 26,9,25,Rachaad White up the middle for 4 yards (tackle by Nicholas Morrow and Haason Reddick),3.840,3.840
+4,6:28,2,6,PHI 22,9,25,Rachaad White for -1 yards (tackle by Brandon Graham and Darius Slay),3.840,3.010
+4,5:47,3,7,PHI 23,9,31,"Baker Mayfield pass complete deep middle to Chris Godwin for 23 yards, touchdown",3.010,7.000
+4,5:42,,,PHI 15,9,32,Chase McLaughlin kicks extra point good,0.000,0.000
+4,5:42,,,TAM 35,9,32,"Jake Camarda kicks off 65 yards, touchback.",0.000,0.610
+4,5:42,1,10,PHI 25,9,32,Jalen Hurts pass complete short right to D'Andre Swift for 11 yards (tackle by YaYa Diaby),0.610,1.330
+4,5:17,1,10,PHI 36,9,32,Jalen Hurts sacked by Greg Gaines for -7 yards,1.330,-0.160
+4,4:39,2,17,PHI 29,9,32,Jalen Hurts pass complete short left to D'Andre Swift for 9 yards (tackle by Antoine Winfield),-0.160,0.370
+4,3:56,3,8,PHI 38,9,32,"Jalen Hurts pass complete short middle to Dallas Goedert for 11 yards (tackle by Zyon McCollum). Penalty on Dallas Goedert: Offensive Pass Interference, 10 yards (accepted) (no play)",0.370,-0.960
+4,3:56,3,18,PHI 28,9,32,Jalen Hurts pass complete short right to Olamide Zaccheaus for 5 yards (tackle by Zyon McCollum),-0.960,-1.180
+4,3:18,4,13,PHI 33,9,32,Jalen Hurts pass complete short left to DeVonta Smith for 7 yards (tackle by Jamel Dean),-1.180,-2.920
+4,3:12,1,10,PHI 40,9,32,Chase Edmonds left guard for 3 yards (tackle by Jordan Davis and Zach Cunningham),2.920,2.780
+4,2:29,2,7,PHI 37,9,32,Chase Edmonds up the middle for 5 yards (tackle by Zach Cunningham),2.780,2.740
+4,2:00,3,2,PHI 32,9,32,Chase Edmonds left tackle for -4 yards (tackle by Nicholas Morrow),2.740,0.880
+4,1:15,4,6,PHI 36,9,32,Chase Edmonds up the middle for 2 yards (tackle by Nolan Smith and Avonte Maddox),0.880,-1.200
+4,1:09,1,10,PHI 34,9,32,Kenneth Gainwell up the middle for 4 yards (tackle by Anthony Nelson),1.200,1.200
+4,0:30,2,6,PHI 38,9,32,Kenneth Gainwell up the middle for 4 yards (tackle by Pat O'Connor),1.200,1.030
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

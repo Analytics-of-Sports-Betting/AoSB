@@ -1,0 +1,178 @@
+Quarter,Time,Down,ToGo,Location,SFO,ARI,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"49ers won the coin toss and deferred, Cardinals to receive the opening kickoff.",,
+1,15:00,,,SFO 35,0,0,"Jake Moody kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,ARI 25,0,0,"Kyler Murray pass incomplete deep middle intended for Michael Wilson. Penalty on Kevin Givens: Defensive Offside, 5 yards (accepted) (no play)",0.610,1.340
+1,14:54,1,5,ARI 30,0,0,James Conner up the middle for no gain (tackle by Clelin Ferrell),1.340,0.740
+1,14:19,2,5,ARI 30,0,0,Kyler Murray pass complete short left to Trey McBride for 11 yards (tackle by Deommodore Lenoir),0.740,1.660
+1,13:42,1,10,ARI 41,0,0,Kyler Murray pass complete deep right to Trey McBride for 38 yards (tackle by Fred Warner),1.660,4.170
+1,12:55,1,10,SFO 21,0,0,James Conner right tackle for 4 yards (tackle by Charvarius Ward),4.170,4.200
+1,12:05,2,6,SFO 17,0,0,Kyler Murray scrambles left end for 12 yards (tackle by Ji'Ayir Brown),4.200,6.060
+1,11:30,,,,,,Timeout #1 by Arizona Cardinals,,
+1,11:30,1,5,SFO 5,0,0,James Conner left tackle for 3 yards (tackle by Charvarius Ward and Deommodore Lenoir),6.060,5.720
+1,10:45,2,2,SFO 2,0,6,"James Conner up the middle for 2 yards, touchdown",5.720,7.000
+1,10:40,,,SFO 15,0,7,Matt Prater kicks extra point good,0.000,0.000
+1,10:40,,,ARI 35,0,7,"Matt Prater kicks off 65 yards, touchback.",0.000,0.610
+1,10:40,1,10,SFO 25,0,7,Brock Purdy pass complete short left to Brandon Aiyuk for 7 yards (tackle by Starling Thomas),0.610,1.010
+1,10:07,2,3,SFO 32,0,7,Christian McCaffrey right tackle for 2 yards (tackle by Zaven Collins and Josh Woods),1.010,0.560
+1,9:29,3,1,SFO 34,0,7,Christian McCaffrey right end for 13 yards (tackle by Starling Thomas),0.560,2.060
+1,8:46,1,10,SFO 47,0,7,Brock Purdy pass incomplete deep left intended for Brandon Aiyuk (defended by Antonio Hamilton),2.060,1.520
+1,8:37,2,10,SFO 47,0,7,Brock Purdy pass complete short left to Deebo Samuel for 11 yards (tackle by Starling Thomas),1.520,2.790
+1,8:08,1,10,ARI 42,0,7,Christian McCaffrey right tackle for 4 yards (tackle by Roy Lopez),2.790,2.780
+1,7:21,2,6,ARI 38,0,7,Christian McCaffrey left end for 26 yards (tackle by Jalen Thompson),2.780,4.780
+1,6:38,,,,,,Timeout #1 by San Francisco 49ers,,
+1,6:38,1,10,ARI 12,6,7,"Brock Purdy pass complete short left to Deebo Samuel for 12 yards, touchdown",4.780,7.000
+1,6:33,,,ARI 15,7,7,Jake Moody kicks extra point good,0.000,0.000
+1,6:33,,,SFO 35,7,7,"Jake Moody kicks off 65 yards, touchback.",0.000,0.610
+1,6:33,1,10,ARI 25,7,7,Kyler Murray pass incomplete short right,0.610,0.060
+1,6:27,2,10,ARI 25,7,7,"Kyler Murray pass complete deep left to Geoff Swaim for 26 yards (tackle by Ji'Ayir Brown). Penalty on Dre Greenlaw: Defensive Pass Interference, 15 yards (declined)",0.060,2.320
+1,6:03,1,10,SFO 49,7,7,James Conner up the middle for 4 yards (tackle by Kevin Givens and Tashaun Gipson),2.320,2.320
+1,5:24,2,6,SFO 45,7,7,Rondale Moore right end for 3 yards (tackle by Dre Greenlaw),2.320,2.020
+1,4:41,3,3,SFO 42,7,7,Kyler Murray pass incomplete short left intended for Emari Demercado,2.020,0.460
+1,4:33,4,3,SFO 42,13,7,"Kyler Murray pass short middle intended for Trey McBride is intercepted by Charvarius Ward at SF-34 and returned for 66 yards, touchdown",0.460,-7.000
+1,4:22,,,ARI 15,14,7,Jake Moody kicks extra point good,0.000,0.000
+1,4:22,,,SFO 35,14,7,"Jake Moody kicks off 65 yards, touchback.",0.000,0.610
+1,4:22,1,10,ARI 25,14,7,Michael Carter up the middle for 2 yards (tackle by Ji'Ayir Brown),0.610,0.330
+1,3:47,2,8,ARI 27,14,7,Michael Carter up the middle for 6 yards (tackle by Tashaun Gipson),0.330,0.430
+1,3:05,3,2,ARI 33,14,7,Emari Demercado up the middle for 8 yards (tackle by Deommodore Lenoir),0.430,1.660
+1,2:28,1,10,ARI 41,14,7,Michael Carter left end for 19 yards (tackle by Dre Greenlaw),1.660,2.920
+1,1:40,1,10,SFO 40,14,7,"Penalty on ARI: Delay of Game, 5 yards (accepted) (no play)",2.920,2.590
+1,1:34,1,15,SFO 45,14,7,Kyler Murray sacked by Javon Kinlaw for -7 yards,2.590,0.750
+1,0:45,2,22,ARI 48,14,7,James Conner up the middle for no gain (tackle by Fred Warner),0.750,0.100
+Quarter,Time,Down,ToGo,Location,SFO,ARI,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,22,ARI 48,14,7,Kyler Murray pass complete short middle to Trey McBride for 12 yards (tackle by Fred Warner),0.100,0.590
+2,14:16,4,10,SFO 40,14,10,Matt Prater 58 yard field goal good,0.590,3.000
+2,14:11,,,ARI 35,14,10,"Matt Prater kicks off 65 yards, touchback.",0.000,0.610
+2,14:11,1,10,SFO 25,14,10,Brock Purdy pass incomplete deep middle intended for Deebo Samuel (defended by Antonio Hamilton),0.610,0.060
+2,14:05,2,10,SFO 25,14,10,Christian McCaffrey left end for -2 yards (tackle by Garrett Williams),0.060,-0.890
+2,13:21,3,12,SFO 23,14,10,Brock Purdy pass complete short middle to Christian McCaffrey for 6 yards (tackle by Budda Baker),-0.890,-1.440
+2,12:40,4,6,SFO 29,14,10,"Mitch Wishnowsky punts 40 yards, returned by Greg Dortch for no gain (tackle by Isaiah Oliver)",-1.440,-1.000
+2,12:29,1,10,ARI 31,14,10,Kyler Murray right end for 15 yards (tackle by Ji'Ayir Brown),1.000,1.990
+2,11:48,1,10,ARI 46,14,10,Greg Dortch up the middle for 5 yards (tackle by Dre Greenlaw and Ambry Thomas),1.990,2.130
+2,11:25,2,5,SFO 49,14,10,"Kyler Murray pass complete short right to Rondale Moore for 4 yards. Rondale Moore fumbles, recovered by Rondale Moore at SF-45",2.130,1.950
+2,10:49,3,1,SFO 45,14,10,James Conner up the middle for no gain (tackle by Fred Warner),1.950,0.270
+2,10:12,4,1,SFO 45,14,10,James Conner up the middle for 2 yards (tackle by Randy Gregory),0.270,2.720
+2,9:38,1,10,SFO 43,14,10,James Conner up the middle for 9 yards (tackle by Charvarius Ward),2.720,3.390
+2,8:56,2,1,SFO 34,14,10,James Conner up the middle for 3 yards (tackle by Deommodore Lenoir),3.390,3.510
+2,8:16,1,10,SFO 31,14,10,Kyler Murray pass complete short left to Rondale Moore for 1 yard (tackle by Fred Warner),3.510,3.100
+2,7:33,2,9,SFO 30,14,10,"Kyler Murray sacked by Nick Bosa for -1 yards. Kyler Murray fumbles (forced by Nick Bosa), recovered by Paris Johnson at SF-31 (tackle by Nick Bosa)",3.100,2.280
+2,6:57,3,10,SFO 31,14,10,Kyler Murray pass complete short middle to Emari Demercado for 6 yards (tackle by Dre Greenlaw),2.280,1.880
+2,6:20,4,4,SFO 25,14,13,Matt Prater 43 yard field goal good,1.880,3.000
+2,6:14,,,ARI 35,14,13,"Matt Prater kicks off 65 yards, touchback.",0.000,0.610
+2,6:14,1,10,SFO 25,14,13,Christian McCaffrey up the middle for 5 yards (tackle by Dante Stills),0.610,0.740
+2,5:37,2,5,SFO 30,14,13,Christian McCaffrey left end for no gain (tackle by Antonio Hamilton),0.740,0.040
+2,4:55,3,5,SFO 30,14,13,Brock Purdy pass complete short right to Brandon Aiyuk for 8 yards,0.040,1.470
+2,4:15,1,10,SFO 38,14,13,"Brock Purdy pass complete short right to Kyle Juszczyk for 9 yards (tackle by Jalen Thompson). Penalty on Dennis Gardeck: Roughing the Passer, 15 yards (accepted)",1.470,3.050
+2,3:50,1,10,ARI 38,14,13,Sam Darnold pass incomplete deep right intended for George Kittle (defended by Victor Dimukeje),3.050,2.510
+2,3:40,2,10,ARI 38,14,13,"Sam Darnold pass incomplete short right intended for George Kittle. Penalty on Antonio Hamilton: Illegal Contact, 5 yards (accepted) (no play)",2.510,3.380
+2,3:37,1,10,ARI 33,14,13,Christian McCaffrey left tackle for 2 yards (tackle by Roy Lopez and Josh Woods),3.380,3.110
+2,2:52,2,8,ARI 31,14,13,Brock Purdy pass complete short left to Deebo Samuel for 6 yards (tackle by Josh Woods and Jonathan Ledbetter),3.110,3.200
+2,2:17,3,2,ARI 25,14,13,Brock Purdy pass complete short left to George Kittle for 19 yards (tackle by Jalen Thompson),3.200,5.830
+2,2:00,1,6,ARI 6,14,13,Christian McCaffrey up the middle for 1 yard (tackle by Zaven Collins and Josh Woods),5.830,5.150
+2,1:18,2,5,ARI 5,20,13,"Brock Purdy pass complete short middle to Christian McCaffrey for 5 yards, touchdown",5.150,7.000
+2,1:14,,,ARI 15,21,13,Jake Moody kicks extra point good,0.000,0.000
+2,1:14,,,SFO 35,21,13,"Jake Moody kicks off 65 yards, touchback.",0.000,0.610
+2,1:14,1,10,ARI 25,21,13,Kyler Murray pass incomplete short middle intended for Zach Pascal (defended by Deommodore Lenoir),0.610,0.060
+2,1:11,2,10,ARI 25,21,13,Kyler Murray pass incomplete short right intended for Emari Demercado,0.060,-0.620
+2,1:08,3,10,ARI 25,21,13,Emari Demercado up the middle for 5 yards (tackle by Fred Warner),-0.620,-1.370
+2,1:03,,,,,,Timeout #2 by San Francisco 49ers,,
+2,1:03,4,5,ARI 30,21,13,"Blake Gillikin punts, returned by Ronnie Bell for 4 yards. Ronnie Bell fumbles, recovered by Joey Blount at SF-12, touchdown Replay Assistant challenged the fumble ruling, and the original play was overturned. Blake Gillikin punts 62 yards, returned by Ronnie Bell for 4 yards (tackle by Greg Dortch)",-1.370,0.350
+2,0:53,1,10,SFO 12,21,13,Brock Purdy pass complete short left to Christian McCaffrey for 7 yards (tackle by Zaven Collins and Antonio Hamilton),-0.350,0.100
+2,0:35,2,3,SFO 19,21,13,Brock Purdy pass complete short left to Christian McCaffrey for 13 yards (tackle by Josh Woods),0.100,1.070
+2,0:26,,,,,,Timeout #3 by San Francisco 49ers,,
+2,0:26,1,10,SFO 32,21,13,Brock Purdy pass incomplete short middle intended for Deebo Samuel,1.070,0.530
+2,0:21,2,10,SFO 32,21,13,Brock Purdy pass complete short middle to Jauan Jennings for 22 yards (tackle by Garrett Williams and Budda Baker),0.530,2.520
+2,0:07,1,10,ARI 46,21,13,Brock Purdy spiked the ball,2.520,1.980
+2,0:05,,,,,,Timeout #2 by Arizona Cardinals,,
+2,0:05,2,10,ARI 46,21,13,Brock Purdy pass incomplete deep right (defended by Antonio Hamilton),1.980,1.290
+Quarter,Time,Down,ToGo,Location,SFO,ARI,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,ARI 35,21,13,"Matt Prater kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,SFO 25,21,13,Christian McCaffrey up the middle for -1 yards (tackle by Kevin Strong and Dennis Gardeck),0.610,-0.070
+3,14:21,2,11,SFO 24,21,13,Brock Purdy pass incomplete short left intended for Deebo Samuel,-0.070,-0.760
+3,14:14,3,11,SFO 24,21,13,Brock Purdy pass complete short middle to George Kittle for 35 yards (tackle by Budda Baker),-0.760,2.850
+3,13:28,1,10,ARI 41,27,13,"Brock Purdy pass complete deep left to Christian McCaffrey for 41 yards, touchdown",2.850,7.000
+3,13:18,,,ARI 15,28,13,Jake Moody kicks extra point good,0.000,0.000
+3,13:18,,,SFO 35,28,13,"Jake Moody kicks off 65 yards, touchback.",0.000,0.610
+3,13:18,1,10,ARI 25,28,13,Kyler Murray pass complete short left to Trey McBride for no gain. Trey McBride fumbles (forced by Fred Warner),0.610,0.060
+3,12:58,2,10,ARI 25,28,13,"Clayton Tune aborted snap, recovered by Greg Dortch at ARI-20 and returned for -3 yards Greg Dortch left end for no gain (tackle by Deommodore Lenoir)",0.060,-1.930
+3,12:26,3,18,ARI 17,28,13,Emari Demercado left tackle for 2 yards (tackle by Chase Young),-1.930,-2.140
+3,11:47,4,16,ARI 19,28,13,"Blake Gillikin punts 50 yards, fair catch by Ronnie Bell at SF-31",-2.140,-1.000
+3,11:39,1,10,SFO 31,28,13,Christian McCaffrey right end for 3 yards (tackle by Starling Thomas),1.000,0.870
+3,11:01,2,7,SFO 34,28,13,Brock Purdy pass incomplete deep left intended for Brandon Aiyuk,0.870,0.170
+3,10:54,3,7,SFO 34,28,13,Brock Purdy pass incomplete short left intended for Ronnie Bell,0.170,-1.110
+3,10:49,4,7,SFO 34,28,13,Mitch Wishnowsky punts 56 yards downed by Dee Winters,-1.110,0.380
+3,10:38,1,10,ARI 10,28,13,James Conner left tackle for 6 yards (tackle by Kevin Givens),-0.380,-0.230
+3,10:01,2,4,ARI 16,28,13,James Conner up the middle for 6 yards (tackle by Fred Warner and T.Y. McGill),-0.230,0.410
+3,9:23,1,10,ARI 22,28,13,Kyler Murray pass complete short right to Trey McBride for 2 yards (tackle by Deommodore Lenoir),0.410,0.140
+3,8:45,2,8,ARI 24,28,13,Kyler Murray pass complete short right to Trey McBride for 15 yards,0.140,1.530
+3,8:01,1,10,ARI 39,28,13,James Conner right tackle for 44 yards (tackle by Deommodore Lenoir),1.530,4.440
+3,7:12,1,10,SFO 17,28,13,Kyler Murray sacked by and Fred Warner for -1 yards and Chase Young for -1 yards,4.440,3.720
+3,6:32,2,11,SFO 18,28,13,Kyler Murray pass complete short left to Elijah Higgins for 4 yards (tackle by Deommodore Lenoir and Dre Greenlaw),3.720,3.500
+3,5:52,3,7,SFO 14,28,13,Kyler Murray pass complete short left to Trey McBride for 9 yards (tackle by Ambry Thomas),3.500,6.060
+3,5:17,1,5,SFO 5,28,13,Kyler Murray pass incomplete short left intended for Rondale Moore,6.060,5.150
+3,5:10,2,5,SFO 5,28,13,"Kyler Murray for -4 yards. Kyler Murray fumbles (forced by T.Y. McGill), recovered by Elijah Wilkinson at SF-9 (tackle by T.Y. McGill)",5.150,3.360
+3,4:30,3,9,SFO 9,28,13,Kyler Murray pass incomplete short middle intended for Michael Wilson,3.360,2.830
+3,4:23,4,9,SFO 9,28,16,Matt Prater 28 yard field goal good,2.830,3.000
+3,4:20,,,ARI 35,28,16,"Matt Prater kicks off 43 yards, returned by Kyle Juszczyk for 18 yards (tackle by Zeke Turner and Victor Dimukeje)",0.000,1.600
+3,4:15,1,10,SFO 40,28,16,Brock Purdy pass incomplete short left intended for George Kittle (defended by Starling Thomas),1.600,1.050
+3,4:10,2,10,SFO 40,28,16,Brock Purdy pass complete short left to Brandon Aiyuk for 22 yards (tackle by Garrett Williams),1.050,3.050
+3,3:26,1,10,ARI 38,28,16,Christian McCaffrey up the middle for 5 yards (tackle by Roy Lopez and Jonathan Ledbetter),3.050,3.180
+3,2:53,2,5,ARI 33,28,16,Christian McCaffrey up the middle for 18 yards (tackle by Garrett Williams),3.180,4.580
+3,2:15,1,10,ARI 15,28,16,Christian McCaffrey right tackle for 11 yards (tackle by Jalen Thompson),4.580,6.280
+3,1:42,1,4,ARI 4,28,16,"Christian McCaffrey left end for no gain (tackle by Dante Stills). Penalty on Naquan Jones: Defensive Holding, 3 yards (accepted) (no play)",6.280,6.970
+3,1:12,1,1,ARI 1,34,16,"Christian McCaffrey up the middle for 1 yard, touchdown",6.970,7.000
+3,1:08,,,ARI 15,35,16,Jake Moody kicks extra point good,0.000,0.000
+3,1:08,,,SFO 35,35,16,"Jake Moody kicks off 65 yards, touchback.",0.000,0.610
+3,1:08,1,10,ARI 25,35,16,James Conner left end for 3 yards (tackle by Javon Kinlaw and Ji'Ayir Brown),0.610,0.470
+3,0:27,2,7,ARI 28,35,16,Kyler Murray pass complete short left to Trey McBride for 5 yards (tackle by Ambry Thomas),0.470,0.430
+Quarter,Time,Down,ToGo,Location,SFO,ARI,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,2,ARI 33,35,16,Kyler Murray pass complete short left to James Conner for 6 yards (tackle by Dre Greenlaw),0.430,1.530
+4,14:24,1,10,ARI 39,35,16,Kyler Murray pass complete short middle to James Conner for 4 yards (tackle by Deommodore Lenoir),1.530,1.530
+4,13:49,2,6,ARI 43,35,16,Kyler Murray pass complete short right to James Conner for -7 yards (tackle by Kevin Givens),1.530,-0.100
+4,13:07,3,13,ARI 36,35,16,Kyler Murray pass complete short left to Greg Dortch for 10 yards (tackle by Kevin Givens),-0.100,-0.320
+4,12:21,4,3,ARI 46,35,16,Kyler Murray pass complete short right to Greg Dortch for 5 yards (tackle by Dre Greenlaw),-0.320,2.320
+4,11:43,1,10,SFO 49,35,22,"Emari Demercado up the middle for 49 yards, touchdown",2.320,7.000
+4,11:30,,,SFO 2,35,22,Two Point Attempt: Kyler Murray pass incomplete. Interception by Tashaun Gipson,1.000,-1.000
+4,11:30,,,ARI 35,35,22,"Matt Prater kicks off 65 yards, touchback.",0.000,0.610
+4,11:30,1,10,SFO 25,35,22,Christian McCaffrey up the middle for 13 yards (tackle by Starling Thomas),0.610,1.470
+4,10:53,1,10,SFO 38,35,22,Christian McCaffrey up the middle for 12 yards (tackle by Jalen Thompson and Jonathan Ledbetter),1.470,2.260
+4,10:11,1,10,SFO 50,35,22,Christian McCaffrey up the middle for 2 yards (tackle by Roy Lopez and Zaven Collins),2.260,1.980
+4,9:27,2,8,ARI 48,35,22,Deebo Samuel left end for 11 yards (tackle by Andre Chachere),1.980,3.120
+4,8:41,1,10,ARI 37,35,22,Jordan Mason up the middle for 17 yards (tackle by Jalen Thompson and Garrett Williams),3.120,4.240
+4,7:59,1,10,ARI 20,35,22,Jordan Mason up the middle for 1 yard (tackle by Dennis Gardeck and Naquan Jones),4.240,3.820
+4,7:17,2,9,ARI 19,41,22,"Brock Purdy pass complete deep left to Deebo Samuel for 19 yards, touchdown",3.820,7.000
+4,7:09,,,ARI 15,42,22,Jake Moody kicks extra point good,0.000,0.000
+4,7:09,,,SFO 35,42,22,"Jake Moody kicks off 65 yards, touchback.",0.000,0.610
+4,7:09,1,10,ARI 25,42,22,Kyler Murray scrambles right end for 4 yards (tackle by Dre Greenlaw),0.610,0.600
+4,6:44,2,6,ARI 29,42,22,Kyler Murray pass incomplete short right intended for Michael Wilson,0.600,-0.100
+4,6:38,3,6,ARI 29,42,22,Kyler Murray pass incomplete deep right intended for Michael Wilson,-0.100,-1.440
+4,6:34,4,6,ARI 29,42,22,"Kyler Murray pass complete short middle to Trey McBride for 7 yards (tackle by Tashaun Gipson). Penalty on Chase Young: Defensive Offside, 5 yards (declined)",-1.440,1.330
+4,6:23,1,10,ARI 36,42,22,Kyler Murray pass deep middle intended for Zach Pascal is intercepted by Charvarius Ward at SF-40 and returned for 13 yards (tackle by Rondale Moore),1.330,-2.460
+4,6:13,1,10,ARI 47,42,22,Jordan Mason left tackle for 2 yards (tackle by Dante Stills),2.460,2.180
+4,5:30,2,8,ARI 45,42,22,Sam Darnold pass complete short left to Kyle Juszczyk for 17 yards (tackle by Budda Baker and Krys Barnes),2.180,3.710
+4,4:48,1,10,ARI 28,42,22,Jordan Mason right end for -6 yards (tackle by Jesse Luketa),3.710,2.360
+4,4:06,2,16,ARI 34,42,22,Jordan Mason left end for 6 yards (tackle by Budda Baker and Victor Dimukeje),2.360,2.480
+4,3:21,3,10,ARI 28,42,22,Sam Darnold pass complete short right to Jauan Jennings for 3 yards (tackle by Dante Stills and Roy Lopez),2.480,1.800
+4,3:12,,,,,,Timeout #1 by Arizona Cardinals,,
+4,3:12,4,7,ARI 25,45,22,Jake Moody 43 yard field goal good,1.800,3.000
+4,3:09,,,SFO 35,45,22,"Jake Moody kicks off 65 yards, touchback.",0.000,0.610
+4,3:09,1,10,ARI 25,45,22,Kyler Murray pass incomplete deep right intended for Greg Dortch,0.610,0.060
+4,3:01,2,10,ARI 25,45,22,Kyler Murray scrambles right end for 7 yards (tackle by Isaiah Oliver),0.060,0.300
+4,2:53,3,3,ARI 32,45,22,Kyler Murray right end for 15 yards (tackle by Logan Ryan),0.300,2.060
+4,2:26,1,10,ARI 47,45,22,Kyler Murray pass complete short right to Trey McBride for 3 yards,2.060,1.920
+4,2:22,2,7,ARI 50,45,22,Kyler Murray pass incomplete deep right intended for Zach Pascal,1.920,1.220
+4,2:18,3,7,ARI 50,45,22,Kyler Murray pass complete short right to Elijah Higgins for 15 yards (tackle by Darrell Luter),1.220,3.250
+4,2:01,1,10,SFO 35,45,22,Kyler Murray pass complete short left to Michael Carter for 1 yard (tackle by Isaiah Oliver),3.250,2.840
+4,1:55,2,9,SFO 34,45,22,Kyler Murray pass complete short left to Michael Carter for 8 yards (tackle by Dee Winters),2.840,3.200
+4,1:29,3,1,SFO 26,45,22,Kyler Murray pass complete short left to Elijah Higgins for 17 yards (tackle by Ji'Ayir Brown),3.200,5.140
+4,1:27,1,9,SFO 9,45,22,Kyler Murray pass complete short left to Michael Carter for 1 yard (tackle by Samuel Womack),5.140,4.570
+4,1:02,2,8,SFO 8,45,22,Kyler Murray pass incomplete short right intended for Zach Pascal,4.570,3.580
+4,0:53,3,8,SFO 8,45,28,"Kyler Murray pass complete short left to Elijah Higgins for 8 yards, touchdown",3.580,7.000
+4,0:47,,,SFO 15,45,29,Matt Prater kicks extra point good,0.000,0.000
+4,0:47,,,ARI 35,45,29,"Matt Prater kicks onside 10 yards, returned by Brandon Aiyuk for no gain",0.000,2.590
+4,0:43,1,10,ARI 45,45,29,Sam Darnold kneels for -1 yards,2.590,1.910
+4,0:20,2,11,ARI 46,45,29,Sam Darnold kneels for -1 yards,1.910,1.090
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

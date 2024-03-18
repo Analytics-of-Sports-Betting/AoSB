@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,10:01,SFO 33,4,0:54,1,Field Goal
+2,1,5:01,SEA 7,3,1:59,-1,Punt
+3,2,13:11,SEA 25,2,0:36,10,Interception
+4,2,10:29,SEA 2,3,1:19,9,Punt
+5,2,5:11,SEA 28,3,2:02,-8,Punt
+6,2,0:39,SEA 24,5,0:39,41,Missed FG
+7,3,15:00,SEA 25,7,3:26,33,Punt
+8,3,9:41,SEA 10,14,6:28,78,Field Goal
+9,4,14:52,SEA 13,5,3:30,7,Punt
+10,4,7:51,SEA 37,11,3:37,41,Downs

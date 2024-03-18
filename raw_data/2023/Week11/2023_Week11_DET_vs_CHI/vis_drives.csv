@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,CHI 25,10,5:37,75,Touchdown
+2,1,6:14,CHI 37,9,5:05,19,Punt
+3,2,14:30,CHI 37,2,1:12,-3,Fumble
+4,2,9:23,CHI 25,15,7:36,62,Field Goal
+5,2,0:11,CHI 25,1,0:11,-1,End of Half
+6,3,13:02,CHI 15,10,6:21,50,Field Goal
+7,3,6:32,DET 40,3,1:51,40,Touchdown
+8,3,2:25,DET 43,7,3:13,20,Field Goal
+9,4,13:00,CHI 9,14,8:45,70,Field Goal
+10,4,2:59,CHI 25,3,0:26,1,Punt
+11,4,0:29,CHI 25,1,0:07,-25,"Fumble, Safety"

@@ -1,0 +1,15 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,IND 25,3,1:25,0,Punt
+2,1,12:42,IND 6,3,2:17,9,Punt
+3,1,5:18,IND 25,11,5:21,75,Touchdown
+4,2,13:08,JAX 25,4,1:13,9,Downs
+5,2,10:16,JAX 48,4,1:25,6,Downs
+6,2,4:56,IND 24,3,0:47,41,Fumble
+7,2,1:03,IND 8,3,1:03,6,End of Half
+8,3,14:00,IND 37,6,2:35,63,Touchdown
+9,3,8:31,IND 25,3,2:03,-4,Punt
+10,3,4:25,IND 49,4,1:15,7,Fumble
+11,3,1:03,IND 27,3,1:16,-3,Punt
+12,4,12:52,IND 48,3,2:06,2,Punt
+13,4,5:14,IND 25,2,0:14,0,Interception
+14,4,4:08,IND 25,17,3:23,74,Downs

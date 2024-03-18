@@ -1,0 +1,174 @@
+Quarter,Time,Down,ToGo,Location,KAN,NYJ,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Jets won the coin toss and deferred, Chiefs to receive the opening kickoff.",,
+1,15:00,,,NYJ 35,0,0,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,KAN 25,0,0,"Isiah Pacheco up the middle for 4 yards (tackle by C.J. Mosley and Quincy Williams). Penalty on Jermaine Johnson: Unnecessary Roughness / Defense, 15 yards (accepted)",0.610,1.860
+1,14:34,1,10,KAN 44,0,0,Isiah Pacheco left tackle for 2 yards (tackle by John Franklin-Myers),1.860,1.590
+1,14:04,2,8,KAN 46,0,0,Patrick Mahomes pass complete short left to Travis Kelce for 16 yards (tackle by D.J. Reed),1.590,3.050
+1,13:27,1,10,NYJ 38,0,0,Patrick Mahomes pass complete short middle to Travis Kelce for 13 yards (tackle by C.J. Mosley),3.050,3.910
+1,12:50,1,10,NYJ 25,0,0,Skyy Moore left end for 8 yards (tackle by D.J. Reed and Michael Carter),3.910,4.550
+1,12:13,2,2,NYJ 17,0,0,Isiah Pacheco up the middle for -1 yards (tackle by Solomon Thomas and D.J. Reed),4.550,3.660
+1,11:43,3,3,NYJ 18,0,0,Patrick Mahomes pass incomplete short right intended for Skyy Moore,3.660,2.350
+1,11:39,4,3,NYJ 18,3,0,Harrison Butker 37 yard field goal good,2.350,3.000
+1,11:35,,,KAN 35,3,0,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+1,11:35,1,10,NYJ 25,3,0,Zach Wilson pass incomplete short right intended for Garrett Wilson (defended by Willie Gay),0.610,0.060
+1,11:29,2,10,NYJ 25,3,0,Zach Wilson pass complete short right to Garrett Wilson for 5 yards (tackle by Chamarri Conner),0.060,0.040
+1,10:51,3,5,NYJ 30,3,0,Zach Wilson pass incomplete short right intended for Garrett Wilson,0.040,-1.370
+1,10:46,4,5,NYJ 30,3,0,"Thomas Morstead punts 49 yards, returned by Montrell Washington for 10 yards (tackle by Brandin Echols and Ashtyn Davis)",-1.370,-1.200
+1,10:35,1,10,KAN 34,3,0,Patrick Mahomes pass incomplete deep left intended for Noah Gray (defended by Quincy Williams),1.200,0.460
+1,10:00,2,10,KAN 31,3,0,Patrick Mahomes scrambles left end for 12 yards (tackle by D.J. Reed),0.460,1.800
+1,9:51,1,10,KAN 43,3,0,Clyde Edwards-Helaire left end for 4 yards (tackle by D.J. Reed and Quincy Williams),1.800,1.790
+1,9:19,2,6,KAN 47,3,0,Patrick Mahomes scrambles left end for 5 yards (tackle by Quincy Williams),1.790,1.750
+1,8:41,3,1,NYJ 48,9,0,"Isiah Pacheco left tackle for 48 yards, touchdown",1.750,7.000
+1,8:32,,,NYJ 15,10,0,Harrison Butker kicks extra point good,0.000,0.000
+1,8:32,,,KAN 35,10,0,"Harrison Butker kicks off 66 yards, returned by Xavier Gipson for 22 yards (tackle by Cam Jones and Leo Chenal)",0.000,0.340
+1,8:24,1,10,NYJ 21,10,0,Breece Hall right guard for 11 yards (tackle by Trent McDuffie),0.340,1.070
+1,7:46,1,10,NYJ 32,10,0,Zach Wilson pass complete short right to Breece Hall for 7 yards (tackle by Justin Reid),1.070,1.470
+1,7:09,2,3,NYJ 39,10,0,Dalvin Cook right guard for 2 yards (tackle by Derrick Nnadi and Michael Danna),1.470,1.030
+1,6:24,3,1,NYJ 41,10,0,Zach Wilson pass incomplete short middle intended for Tyler Conklin,1.030,-0.650
+1,6:18,4,1,NYJ 41,10,0,"Thomas Morstead punts 48 yards, fair catch by Montrell Washington at KC-11",-0.650,0.370
+1,6:12,1,10,KAN 11,10,0,Isiah Pacheco up the middle for 6 yards (tackle by C.J. Mosley),-0.370,-0.160
+1,5:42,2,4,KAN 17,10,0,Patrick Mahomes pass complete short left to Travis Kelce for 8 yards (tackle by Quinnen Williams),-0.160,0.610
+1,4:51,1,10,KAN 25,10,0,"Patrick Mahomes pass complete short right to Isiah Pacheco for 33 yards (tackle by Jordan Whitehead). Penalty on Quincy Williams: Defensive Holding, 5 yards (declined)",0.610,2.790
+1,4:43,1,10,NYJ 42,10,0,Clyde Edwards-Helaire right guard for 9 yards (tackle by Micheal Clemons),2.790,3.460
+1,4:11,2,1,NYJ 33,10,0,Clyde Edwards-Helaire left end for -1 yards (tackle by Quincy Williams),3.460,2.610
+1,3:32,3,2,NYJ 34,16,0,"Patrick Mahomes pass complete deep right to Noah Gray for 34 yards, touchdown",2.610,7.000
+1,3:24,,,NYJ 15,17,0,Harrison Butker kicks extra point good,0.000,0.000
+1,3:24,,,KAN 35,17,0,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+1,3:24,1,10,NYJ 25,17,0,Xavier Gipson right end for -1 yards (tackle by Leo Chenal),0.610,-0.070
+1,2:45,2,11,NYJ 24,17,0,Zach Wilson pass complete short middle to Breece Hall for 4 yards (tackle by Drue Tranquill),-0.070,-0.230
+1,2:02,3,7,NYJ 28,17,0,Zach Wilson pass complete short left to Garrett Wilson for 10 yards (tackle by L'Jarius Sneed and Felix Anudike-Uzomah),-0.230,1.470
+1,1:15,1,10,NYJ 38,17,0,Zach Wilson sacked by Mike Edwards for -10 yards,1.470,-0.430
+1,0:31,2,20,NYJ 28,17,0,Zach Wilson pass complete short left to Xavier Gipson for 4 yards (tackle by Chamarri Conner),-0.430,-0.560
+Quarter,Time,Down,ToGo,Location,KAN,NYJ,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,16,NYJ 32,17,0,Zach Wilson pass complete short right to Tyler Conklin for 11 yards (tackle by Justin Reid),-0.560,-0.520
+2,14:22,4,5,NYJ 43,17,0,"Thomas Morstead punts 49 yards downed by Ashtyn Davis. Penalty on Joshua Williams: Offensive Illegal Block Above the Waist, 4 yards (accepted)",-0.520,0.380
+2,14:11,1,10,KAN 4,17,0,Patrick Mahomes pass incomplete short middle intended for Travis Kelce,-0.380,-0.780
+2,14:06,2,10,KAN 4,17,0,Jerick McKinnon up the middle for 3 yards (tackle by Quincy Williams),-0.780,-1.070
+2,13:27,3,7,KAN 7,17,2,"Patrick Mahomes pass incomplete deep right (defended by Jordan Whitehead). Penalty on Jawaan Taylor: Offensive Facemask, 7 yards (accepted) (no play)",-1.070,-2.000
+2,13:20,,,KAN 20,17,2,"Harrison Butker kicks off 80 yards, touchback.",0.000,0.610
+2,13:20,1,10,NYJ 25,17,2,Breece Hall right end for 2 yards (tackle by Michael Danna),0.610,0.330
+2,12:43,2,8,NYJ 27,17,2,Zach Wilson pass complete short left to Garrett Wilson for 14 yards (tackle by Mike Edwards),0.330,1.660
+2,11:57,1,10,NYJ 41,17,2,Zach Wilson pass complete deep left to Allen Lazard for 39 yards (tackle by Trent McDuffie),1.660,4.240
+2,11:12,1,10,KAN 20,17,2,Zach Wilson pass complete short left to Jeremy Ruckert for 3 yards (tackle by Leo Chenal),4.240,4.120
+2,10:37,2,7,KAN 17,17,2,Zach Wilson pass complete short right to Garrett Wilson for 4 yards (tackle by Willie Gay),4.120,4.100
+2,10:01,,,,,,Timeout #1 by Kansas City Chiefs,,
+2,10:01,3,3,KAN 13,17,2,Zach Wilson pass incomplete short left intended for Tyler Conklin,4.100,2.670
+2,9:53,4,3,KAN 13,17,5,Greg Zuerlein 31 yard field goal good,2.670,3.000
+2,9:50,,,NYJ 35,17,5,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+2,9:50,1,10,KAN 25,17,5,Patrick Mahomes pass deep right intended for Noah Gray is intercepted by Ashtyn Davis at KC-42 and returned for 1 yard (tackle by Noah Gray),0.610,-2.850
+2,9:42,1,10,KAN 41,17,5,"Penalty on Mekhi Becton: False Start, 5 yards (accepted) (no play)",2.850,2.520
+2,9:42,1,15,KAN 46,17,5,"Zach Wilson pass complete short left to Breece Hall for 2 yards (tackle by Derrick Nnadi). Penalty on Derrick Nnadi: Horse Collar Tackle, 15 yards (accepted)",2.520,3.640
+2,9:18,1,10,KAN 29,17,5,Zach Wilson pass incomplete deep right intended for Garrett Wilson,3.640,3.100
+2,9:13,2,10,KAN 29,17,5,Dalvin Cook left tackle for 5 yards (tackle by Michael Danna and Bryan Cook),3.100,3.070
+2,8:30,3,5,KAN 24,17,5,Zach Wilson pass complete short right to Randall Cobb for 5 yards (tackle by Joshua Williams),3.070,4.310
+2,7:55,1,10,KAN 19,17,5,Xavier Gipson left end for 14 yards. Xavier Gipson fumbles (forced by Drue Tranquill),4.310,6.060
+2,7:10,1,5,KAN 5,17,5,Dalvin Cook up the middle for 4 yards (tackle by Chris Jones),6.060,5.910
+2,6:31,2,1,KAN 1,17,11,"Zach Wilson pass complete short right to C.J. Uzomah for 1 yard, touchdown",5.910,7.000
+2,6:26,,,KAN 15,17,12,Greg Zuerlein kicks extra point good,0.000,0.000
+2,6:26,,,NYJ 35,17,12,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+2,6:26,1,10,KAN 25,17,12,Patrick Mahomes pass complete short left to Isiah Pacheco for 9 yards (tackle by Jamien Sherwood and C.J. Mosley),0.610,1.280
+2,5:52,2,1,KAN 34,17,12,Isiah Pacheco right end for 10 yards (tackle by Quincy Williams and Sauce Gardner),1.280,1.860
+2,5:15,1,10,KAN 44,17,12,Isiah Pacheco right end for 11 yards (tackle by C.J. Mosley and D.J. Reed),1.860,2.590
+2,4:31,1,10,NYJ 45,17,12,Patrick Mahomes pass incomplete short middle intended for Travis Kelce,2.590,2.040
+2,4:27,2,10,NYJ 45,17,12,Isiah Pacheco up the middle for 4 yards (tackle by Quincy Williams),2.040,1.880
+2,3:48,3,6,NYJ 41,17,12,Patrick Mahomes pass complete short right to Kadarius Toney for 15 yards (tackle by Jordan Whitehead),1.880,3.840
+2,3:08,1,10,NYJ 26,17,12,Patrick Mahomes pass complete short middle to Kadarius Toney for 7 yards (tackle by Ashtyn Davis and John Franklin-Myers),3.840,4.270
+2,2:28,2,3,NYJ 19,17,12,Patrick Mahomes pass incomplete short left intended for Rashee Rice,4.270,3.570
+2,2:24,3,3,NYJ 19,17,12,Patrick Mahomes pass incomplete short right intended for Rashee Rice,3.570,2.280
+2,2:18,4,3,NYJ 19,20,12,Harrison Butker 37 yard field goal good,2.280,3.000
+2,2:15,,,KAN 35,20,12,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+2,2:15,1,10,NYJ 25,20,12,Zach Wilson pass complete short right to Garrett Wilson for 4 yards (tackle by Trent McDuffie),0.610,0.600
+2,2:00,2,6,NYJ 29,20,12,Zach Wilson pass incomplete short middle intended for Breece Hall (defended by Michael Danna),0.600,-0.100
+2,1:57,3,6,NYJ 29,20,12,Zach Wilson pass complete short middle to Michael Carter for 10 yards (tackle by Mike Edwards),-0.100,1.530
+2,1:36,1,10,NYJ 39,20,12,Zach Wilson pass complete short right to Tyler Conklin for 9 yards (tackle by L'Jarius Sneed),1.530,2.200
+2,1:30,2,1,NYJ 48,20,12,Michael Carter up the middle for 9 yards (tackle by Michael Danna),2.200,2.720
+2,1:08,1,10,KAN 43,20,12,Zach Wilson pass complete short left to Randall Cobb for 3 yards (tackle by Trent McDuffie),2.720,2.580
+2,0:43,2,7,KAN 40,20,12,Zach Wilson pass incomplete short right intended for Michael Carter,2.580,1.880
+2,0:35,3,7,KAN 40,20,12,Zach Wilson pass complete short right to Garrett Wilson for 6 yards,1.880,1.100
+2,0:30,,,,,,Timeout #1 by New York Jets,,
+2,0:30,4,1,KAN 34,20,12,Greg Zuerlein 52 yard field goal no good,1.100,-1.730
+2,0:26,1,10,KAN 42,20,12,Patrick Mahomes pass deep left intended for Travis Kelce is intercepted by C.J. Mosley at NYJ-35 and returned for no gain (tackle by Travis Kelce),1.730,-1.270
+2,0:18,1,10,NYJ 35,20,12,Zach Wilson scrambles right end for 14 yards (tackle by Willie Gay),1.270,2.190
+2,0:08,,,,,,Timeout #2 by New York Jets,,
+2,0:08,,,,,,Timeout #2 by Kansas City Chiefs,,
+2,0:08,1,10,NYJ 49,20,12,Zach Wilson pass incomplete deep middle intended for Garrett Wilson,2.190,1.650
+2,0:04,2,10,NYJ 49,20,12,Zach Wilson sacked by Chris Jones for -7 yards,1.650,0.040
+Quarter,Time,Down,ToGo,Location,KAN,NYJ,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,KAN 35,20,12,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,NYJ 25,20,12,Zach Wilson pass complete deep right to Tyler Conklin for 25 yards (tackle by Drue Tranquill),0.610,2.260
+3,14:24,1,10,NYJ 50,20,12,Zach Wilson pass complete short left to Allen Lazard for 12 yards (tackle by Willie Gay),2.260,3.050
+3,13:38,1,10,KAN 38,20,12,Breece Hall up the middle for 3 yards (tackle by Drue Tranquill),3.050,2.910
+3,12:55,2,7,KAN 35,20,12,Zach Wilson pass complete deep right to Jeremy Ruckert for 23 yards (tackle by Leo Chenal),2.910,4.780
+3,12:09,1,10,KAN 12,20,12,Breece Hall left end for -3 yards (tackle by Joshua Williams),4.780,3.660
+3,11:25,2,13,KAN 15,20,12,Zach Wilson pass complete short right to Garrett Wilson for 5 yards (tackle by Trent McDuffie and L'Jarius Sneed),3.660,3.480
+3,10:44,3,8,KAN 10,20,18,"Zach Wilson pass complete short left to Allen Lazard for 10 yards, touchdown",3.480,7.000
+3,10:40,,,KAN 2,20,20,"Two Point Attempt: Zach Wilson rushes, conversion succeeds.",1.000,1.000
+3,10:40,,,NYJ 35,20,20,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+3,10:40,1,10,KAN 25,20,20,Isiah Pacheco left tackle for no gain (tackle by Quinton Jefferson),0.610,0.060
+3,9:58,2,10,KAN 25,20,20,Patrick Mahomes sacked by and Quinnen Williams for -6 yards and Quinton Jefferson for -6 yards,0.060,-1.510
+3,9:11,3,16,KAN 19,20,20,Patrick Mahomes pass incomplete deep right intended for Marquez Valdes-Scantling,-1.510,-2.140
+3,9:04,4,16,KAN 19,20,20,"Tommy Townsend punts 45 yards, returned by Xavier Gipson for 11 yards (tackle by James Winchester and Leo Chenal)",-2.140,-2.060
+3,8:54,1,10,NYJ 47,20,20,Zach Wilson pass incomplete deep left intended for Garrett Wilson,2.060,1.520
+3,8:50,2,10,NYJ 47,20,20,Zach Wilson pass complete short left to Dalvin Cook for 2 yards (tackle by L'Jarius Sneed and Drue Tranquill),1.520,1.090
+3,8:12,3,8,NYJ 49,20,20,Zach Wilson pass complete short middle to Michael Carter for 2 yards (tackle by Mike Edwards and Willie Gay),1.090,0.000
+3,7:29,4,6,KAN 49,20,20,"Thomas Morstead punts 37 yards, fair catch by Montrell Washington at KC-12",0.000,0.350
+3,7:21,1,10,KAN 12,20,20,Isiah Pacheco right end for 17 yards (tackle by Quincy Williams),-0.350,0.870
+3,6:49,1,10,KAN 29,20,20,Isiah Pacheco up the middle for 2 yards (tackle by Quinnen Williams and C.J. Mosley),0.870,0.600
+3,6:16,2,8,KAN 31,20,20,Patrick Mahomes pass complete short right to Clyde Edwards-Helaire for 1 yard (tackle by C.J. Mosley),0.600,0.040
+3,5:36,3,7,KAN 32,20,20,"Patrick Mahomes pass incomplete short left intended for Jerick McKinnon. Penalty on Trey Smith: Offensive Holding, 10 yards (declined)",0.040,-1.240
+3,5:23,4,7,KAN 32,20,20,"Tommy Townsend punts 53 yards, fair catch by Xavier Gipson at NYJ-15",-1.240,0.220
+3,5:19,1,10,NYJ 15,20,20,Breece Hall right end for 43 yards (tackle by Bryan Cook),-0.220,2.790
+3,4:34,1,10,KAN 42,20,20,"Zach Wilson pass complete short right to C.J. Uzomah for no gain (tackle by Leo Chenal and Bryan Cook). Penalty on Connor McGovern: Ineligible Downfield Pass, 5 yards (accepted) (no play)",2.790,2.460
+3,4:06,1,15,KAN 47,20,20,Dalvin Cook up the middle for 4 yards (tackle by Trent McDuffie),2.460,2.110
+3,3:34,2,11,KAN 43,20,20,Zach Wilson pass incomplete short right intended for Randall Cobb,2.110,1.420
+3,3:27,3,11,KAN 43,20,20,Zach Wilson pass incomplete short right intended for Randall Cobb (defended by Mike Edwards),1.420,0.400
+3,3:21,4,11,KAN 43,20,20,"Thomas Morstead punts 31 yards, fair catch by Montrell Washington at KC-12",0.400,0.350
+3,3:14,1,10,KAN 12,20,20,Patrick Mahomes pass complete short right to Rashee Rice for 9 yards (tackle by Michael Carter),-0.350,0.420
+3,2:40,2,1,KAN 21,20,20,"Patrick Mahomes aborted snap, recovered by Patrick Mahomes at KC-20 Patrick Mahomes for 2 yards (tackle by Quincy Williams)",0.420,0.480
+3,2:06,1,10,KAN 23,20,20,Patrick Mahomes pass complete short right to Isiah Pacheco for 1 yard (tackle by Quincy Williams),0.480,0.070
+3,1:32,2,9,KAN 24,20,20,Patrick Mahomes pass complete short right to Travis Kelce for 5 yards (tackle by Sauce Gardner and C.J. Mosley),0.070,0.040
+3,0:53,3,4,KAN 29,20,20,Patrick Mahomes pass complete short left to Marquez Valdes-Scantling for 6 yards,0.040,1.270
+3,0:24,1,10,KAN 35,20,20,Patrick Mahomes pass complete short right to Justin Watson for 5 yards (tackle by Michael Carter),1.270,1.400
+Quarter,Time,Down,ToGo,Location,KAN,NYJ,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,5,KAN 40,20,20,Patrick Mahomes pass complete short right to Travis Kelce for 10 yards (tackle by C.J. Mosley),1.400,2.260
+4,14:23,1,10,KAN 50,20,20,"Penalty on Quinnen Williams: Encroachment, 5 yards (accepted) (no play)",2.260,2.990
+4,14:04,1,5,NYJ 45,20,20,Isiah Pacheco right end for 2 yards (tackle by Sauce Gardner),2.990,2.660
+4,13:33,2,3,NYJ 43,20,20,Patrick Mahomes pass complete short left to Rashee Rice for 18 yards (tackle by D.J. Reed),2.660,3.910
+4,12:56,1,10,NYJ 25,20,20,Skyy Moore right end for 11 yards (tackle by Quinton Jefferson),3.910,4.650
+4,12:20,1,10,NYJ 14,20,20,Isiah Pacheco right tackle for 1 yard (tackle by Quincy Williams and Jordan Whitehead),4.650,4.160
+4,11:41,2,9,NYJ 13,20,20,Patrick Mahomes pass incomplete short right,4.160,3.260
+4,11:36,3,9,NYJ 13,20,20,Patrick Mahomes pass complete short right to Rashee Rice for 5 yards,3.260,2.980
+4,10:54,4,4,NYJ 8,23,20,Harrison Butker 26 yard field goal good,2.980,3.000
+4,10:51,,,KAN 35,23,20,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+4,10:51,1,10,NYJ 25,23,20,Breece Hall right tackle for no gain (tackle by Leo Chenal and Chris Jones),0.610,0.060
+4,10:12,2,10,NYJ 25,23,20,Zach Wilson pass complete short left to Garrett Wilson for 4 yards (tackle by Drue Tranquill),0.060,-0.100
+4,9:35,3,6,NYJ 29,23,20,Zach Wilson pass complete short right to Garrett Wilson for 8 yards (tackle by George Karlaftis),-0.100,1.400
+4,8:55,1,10,NYJ 37,23,20,Zach Wilson pass complete short right to Tyler Conklin for 13 yards (tackle by Drue Tranquill),1.400,2.260
+4,8:15,1,10,NYJ 50,23,20,Dalvin Cook left tackle for 1 yard (tackle by Drue Tranquill),2.260,1.850
+4,7:31,2,9,KAN 49,23,20,"Zach Wilson aborted snap, recovered by Tershawn Wharton at NYJ-47",1.850,-2.460
+4,7:24,1,10,NYJ 47,23,20,Isiah Pacheco right end for -3 yards (tackle by Quincy Williams),2.460,1.510
+4,6:47,2,13,NYJ 50,23,20,Patrick Mahomes pass incomplete short right intended for Skyy Moore (defended by Quincy Williams),1.510,0.830
+4,6:42,3,13,NYJ 50,23,20,"Patrick Mahomes scrambles right end for no gain (tackle by Jordan Whitehead). Penalty on Jawaan Taylor: Offensive Holding, 10 yards (accepted) (no play)",0.830,-0.490
+4,6:25,3,23,KAN 40,23,20,"Patrick Mahomes scrambles up the middle for 25 yards (tackle by Adrian Amos). Penalty on C.J. Mosley: Illegal Contact, 5 yards (accepted)",-0.490,3.580
+4,5:57,1,10,NYJ 30,23,20,Isiah Pacheco up the middle for 4 yards (tackle by C.J. Mosley and Jordan Whitehead),3.580,3.570
+4,5:20,2,6,NYJ 26,23,20,Isiah Pacheco left end for -4 yards (tackle by Jermaine Johnson),3.570,2.340
+4,4:49,3,10,NYJ 30,23,20,"Patrick Mahomes pass complete deep right to Travis Kelce for no gain. Penalty on Trey Smith: Offensive Holding, 10 yards (accepted) (no play)",2.340,1.020
+4,4:29,3,20,NYJ 40,23,20,"Patrick Mahomes pass is intercepted by Michael Carter at NYJ-30 and returned for no gain. Penalty on Sauce Gardner: Defensive Holding, 5 yards (accepted) (no play)",1.020,3.250
+4,4:19,1,10,NYJ 35,23,20,Isiah Pacheco right end for 1 yard (tackle by Quincy Williams),3.250,2.840
+4,4:11,2,9,NYJ 34,23,20,Patrick Mahomes pass complete short left to Travis Kelce for 8 yards (tackle by D.J. Reed),2.840,3.200
+4,3:30,3,1,NYJ 26,23,20,Jerick McKinnon left tackle for 2 yards (tackle by Adrian Amos),3.200,3.970
+4,2:50,1,10,NYJ 24,23,20,Isiah Pacheco left end for 5 yards (tackle by Adrian Amos),3.970,4.120
+4,2:45,,,,,,Timeout #1 by New York Jets,,
+4,2:45,2,5,NYJ 19,23,20,Isiah Pacheco right tackle for 6 yards (tackle by Micheal Clemons),4.120,4.710
+4,2:39,,,,,,Timeout #2 by New York Jets,,
+4,2:39,1,10,NYJ 13,23,20,Isiah Pacheco left guard for no gain (tackle by Quinnen Williams),4.710,4.050
+4,2:09,,,,,,Timeout #3 by New York Jets,,
+4,2:09,2,10,NYJ 13,23,20,Jerick McKinnon right end for 2 yards (tackle by Michael Carter and C.J. Mosley),4.050,3.450
+4,2:00,3,8,NYJ 11,23,20,Patrick Mahomes scrambles left end for 9 yards,3.450,6.740
+4,1:12,1,2,NYJ 2,23,20,Patrick Mahomes kneels for -1 yards,6.740,5.530
+4,0:35,2,3,NYJ 3,23,20,Patrick Mahomes kneels for -1 yards,5.530,4.490
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

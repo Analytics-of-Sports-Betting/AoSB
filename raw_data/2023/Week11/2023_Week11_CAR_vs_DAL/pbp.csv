@@ -1,0 +1,178 @@
+Quarter,Time,Down,ToGo,Location,DAL,CAR,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Panthers won the coin toss and deferred, Cowboys to receive the opening kickoff.",,
+1,15:00,,,CAR 35,0,0,"Eddy Pineiro kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,DAL 25,0,0,Dak Prescott pass complete short left to Michael Gallup for 7 yards (tackle by Frankie Luvu),0.610,1.010
+1,14:29,2,3,DAL 32,0,0,Dak Prescott pass incomplete short middle,1.010,0.300
+1,14:24,3,3,DAL 32,0,0,Dak Prescott pass complete short right to KaVontae Turpin for no gain (tackle by Frankie Luvu),0.300,-1.240
+1,13:47,4,2,DAL 32,0,0,"Bryan Anger punts 55 yards, fair catch by Ihmir Smith-Marsette at CAR-13",-1.240,0.320
+1,13:37,1,10,CAR 13,0,0,Bryce Young scrambles right end for 4 yards (tackle by Micah Parsons and Damone Clark),-0.320,-0.300
+1,13:02,2,6,CAR 17,0,0,Chuba Hubbard right guard for 3 yards (tackle by Markquese Bell and Damone Clark),-0.300,-0.590
+1,12:19,3,3,CAR 20,0,0,Bryce Young pass complete short middle to Adam Thielen for 5 yards (tackle by DaRon Bland),-0.590,0.610
+1,11:49,1,10,CAR 25,0,0,Chuba Hubbard left guard for 13 yards (tackle by Malik Hooker),0.610,1.470
+1,11:20,1,10,CAR 38,0,0,Chuba Hubbard left end for 7 yards (tackle by Micah Parsons and Markquese Bell),1.470,1.870
+1,10:43,2,3,CAR 45,0,0,Bryce Young pass incomplete short left,1.870,1.160
+1,10:37,3,3,CAR 45,0,0,Bryce Young pass complete short left to Adam Thielen for 14 yards (tackle by Jourdan Lewis),1.160,2.850
+1,9:57,1,10,DAL 41,0,0,Bryce Young pass incomplete deep right intended for Jonathan Mingo,2.850,2.310
+1,9:50,2,10,DAL 41,0,0,Bryce Young pass complete short left to Laviska Shenault for 4 yards (tackle by DeMarcus Lawrence and Malik Hooker),2.310,2.150
+1,9:06,3,6,DAL 37,0,0,Bryce Young sacked by Micah Parsons for -9 yards,2.150,0.200
+1,8:26,4,15,DAL 46,0,0,"Johnny Hekker punts 29 yards, fair catch by KaVontae Turpin at DAL-17",0.200,0.060
+1,8:19,1,10,DAL 17,0,0,Dak Prescott pass complete short left to Tony Pollard for 12 yards (tackle by Brian Burns),-0.060,0.870
+1,7:44,1,10,DAL 29,0,0,KaVontae Turpin right end for 13 yards (tackle by Vonn Bell),0.870,1.730
+1,7:07,1,10,DAL 42,0,0,Dak Prescott pass incomplete deep left intended for CeeDee Lamb (defended by Troy Hill),1.730,1.190
+1,7:02,2,10,DAL 42,0,0,Tony Pollard up the middle for 9 yards (tackle by Troy Hill and Xavier Woods),1.190,1.690
+1,6:23,3,1,CAR 49,0,0,Tony Pollard left end for 3 yards (tackle by Kamu Grugier-Hill and Frankie Luvu),1.690,2.520
+1,5:52,1,10,CAR 46,0,0,Dak Prescott pass complete short right to Rico Dowdle for -1 yards (tackle by Troy Hill),2.520,1.840
+1,5:14,2,11,CAR 47,0,0,Dak Prescott pass complete short right to Jalen Tolbert for 7 yards (tackle by Donte Jackson),1.840,2.080
+1,4:38,3,4,CAR 40,0,0,Tony Pollard right end for 22 yards (tackle by Vonn Bell),2.080,4.370
+1,4:02,1,10,CAR 18,0,0,Rico Dowdle right guard for no gain (tackle by Eku Leota and Frankie Luvu),4.370,3.800
+1,3:25,2,10,CAR 18,6,0,"Dak Prescott pass complete deep right to Luke Schoonmaker for 18 yards, touchdown",3.800,7.000
+1,3:20,,,CAR 15,7,0,Brandon Aubrey kicks extra point good,0.000,0.000
+1,3:20,,,DAL 35,7,0,"Brandon Aubrey kicks off 65 yards, touchback.",0.000,0.610
+1,3:20,1,10,CAR 25,7,0,Miles Sanders right tackle for 5 yards (tackle by Markquese Bell and Jayron Kearse),0.610,0.740
+1,2:53,2,5,CAR 30,7,0,Miles Sanders up the middle for 15 yards (tackle by Malik Hooker),0.740,1.930
+1,2:25,1,10,CAR 45,7,0,Miles Sanders up the middle for 3 yards (tackle by Johnathan Hankins and Mazi Smith),1.930,1.790
+1,1:44,2,7,CAR 48,7,0,Bryce Young pass incomplete short right intended for Jonathan Mingo,1.790,1.090
+1,1:37,3,7,CAR 48,7,0,Bryce Young sacked by Micah Parsons for -9 yards,1.090,-0.780
+1,1:22,4,16,CAR 39,7,0,"Johnny Hekker punts 61 yards, touchback.",-0.780,-0.280
+1,1:10,1,10,DAL 20,7,0,Dak Prescott pass complete short left to CeeDee Lamb for 5 yards (tackle by Frankie Luvu),0.280,0.410
+1,0:39,2,5,DAL 25,7,0,Dak Prescott pass incomplete short right intended for Brandin Cooks (defended by Kamu Grugier-Hill),0.410,-0.300
+1,0:33,3,5,DAL 25,7,0,Dak Prescott pass complete short middle to Michael Gallup for 5 yards (tackle by Frankie Luvu),-0.300,0.940
+Quarter,Time,Down,ToGo,Location,DAL,CAR,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,DAL 30,7,0,Dak Prescott pass complete short left to Brandin Cooks for 22 yards (tackle by Donte Jackson),0.940,2.390
+2,14:36,1,10,CAR 48,7,0,Tony Pollard left tackle for 7 yards (tackle by Deion Jones),2.390,2.790
+2,13:58,2,3,CAR 41,7,0,"Dak Prescott scrambles for no gain. Penalty on Tyler Smith: Offensive Holding, 10 yards (accepted) (no play)",2.790,1.440
+2,13:36,2,13,DAL 49,7,0,"Dak Prescott pass incomplete intended for CeeDee Lamb. Penalty on Donte Jackson: Defensive Pass Interference, 28 yards (accepted) (no play)",1.440,4.040
+2,13:29,1,10,CAR 23,7,0,Tony Pollard right end for -10 yards (tackle by Troy Hill and Brian Burns),4.040,2.150
+2,12:56,2,20,CAR 33,7,0,Dak Prescott pass complete short left to Tony Pollard for 1 yard (tackle by Frankie Luvu),2.150,1.620
+2,12:18,3,19,CAR 32,7,0,Dak Prescott pass complete short right to Brandin Cooks for 8 yards (tackle by Xavier Woods),1.620,1.870
+2,12:01,4,11,CAR 24,7,0,"Penalty on Xavier Woods: Horse Collar Tackle, 12 yards (accepted) (no play)",1.870,4.780
+2,12:01,1,10,CAR 12,7,0,Tony Pollard left guard for 1 yard (tackle by Derrick Brown),4.780,4.270
+2,11:14,2,9,CAR 11,7,0,Dak Prescott pass incomplete short right intended for Jake Ferguson (defended by DJ Johnson),4.270,3.290
+2,11:09,3,9,CAR 11,7,0,Dak Prescott pass incomplete short right intended for Michael Gallup (defended by Frankie Luvu),3.290,2.700
+2,11:05,4,9,CAR 11,10,0,Brandon Aubrey 30 yard field goal good,2.700,3.000
+2,11:01,,,DAL 35,10,0,"Brandon Aubrey kicks off 65 yards, touchback.",0.000,0.610
+2,11:01,1,10,CAR 25,10,0,Chuba Hubbard right guard for -2 yards (tackle by Damone Clark and Markquese Bell),0.610,-0.210
+2,10:35,2,12,CAR 23,10,0,Bryce Young pass incomplete short left intended for Jonathan Mingo,-0.210,-0.890
+2,10:32,3,12,CAR 23,10,0,"Penalty on Austin Corbett: False Start, 5 yards (accepted) (no play)",-0.890,-1.720
+2,10:32,3,17,CAR 18,10,0,Bryce Young pass complete short middle to Laviska Shenault for 5 yards (tackle by Damone Clark),-1.720,-1.830
+2,9:54,4,12,CAR 23,10,0,"Johnny Hekker punts 50 yards, fair catch by KaVontae Turpin at DAL-27. Penalty on Juanyeh Thomas: Offensive Holding, 10 yards (accepted)",-1.830,0.060
+2,9:47,1,10,DAL 17,10,0,Tony Pollard right tackle for 5 yards (tackle by DJ Johnson),-0.060,0.210
+2,9:09,2,5,DAL 22,10,0,Dak Prescott pass complete short left to Jake Ferguson for 8 yards (tackle by Troy Hill),0.210,0.940
+2,8:34,1,10,DAL 30,10,0,Dak Prescott pass complete short right to Tony Pollard for no gain (tackle by Troy Hill),0.940,0.390
+2,7:51,2,10,DAL 30,10,0,Rico Dowdle right tackle for no gain (tackle by Derrick Brown and Nick Thurman),0.390,-0.300
+2,7:11,3,10,DAL 30,10,0,Dak Prescott pass incomplete short middle intended for Jalen Tolbert (defended by Troy Hill),-0.300,-1.370
+2,7:01,4,10,DAL 30,10,0,"Bryan Anger punts 58 yards, returned by Ihmir Smith-Marsette for 14 yards (tackle by Hunter Luepke)",-1.370,-0.670
+2,6:50,1,10,CAR 26,10,0,Chuba Hubbard left tackle for 9 yards (tackle by Jourdan Lewis and Jayron Kearse),0.670,1.350
+2,6:13,2,1,CAR 35,10,0,Chuba Hubbard left tackle for 14 yards (tackle by Jayron Kearse and DaRon Bland),1.350,2.190
+2,5:40,1,10,CAR 49,10,0,Chuba Hubbard left guard for 5 yards (tackle by Dorance Armstrong and Donovan Wilson),2.190,2.320
+2,4:54,2,5,DAL 46,10,0,Miles Sanders right guard for -1 yards (tackle by Jayron Kearse and Neville Gallimore),2.320,1.490
+2,4:16,3,6,DAL 47,10,0,Bryce Young pass complete deep left to Stephen Sullivan for 20 yards (tackle by Jayron Kearse),1.490,3.780
+2,3:43,1,10,DAL 27,10,0,Miles Sanders left guard for 14 yards (tackle by Jayron Kearse and Damone Clark),3.780,4.710
+2,3:05,1,10,DAL 13,10,0,Miles Sanders right end for -4 yards (tackle by Donovan Wilson),4.710,3.500
+2,2:21,2,14,DAL 17,10,0,Bryce Young pass incomplete short right,3.500,2.880
+2,2:18,3,14,DAL 17,10,0,Bryce Young sacked by DeMarcus Lawrence for -7 yards,2.880,1.870
+2,2:00,4,21,DAL 24,10,3,Eddy Pineiro 42 yard field goal good,1.870,3.000
+2,1:56,,,CAR 35,10,3,"Eddy Pineiro kicks off 61 yards, out of bounds",0.000,1.600
+2,1:56,1,10,DAL 40,10,3,Dak Prescott pass incomplete short left intended for Jake Ferguson (defended by Deion Jones),1.600,1.050
+2,1:52,2,10,DAL 40,10,3,Dak Prescott pass complete deep right to Michael Gallup for 19 yards (tackle by Vonn Bell),1.050,2.850
+2,1:27,1,10,CAR 41,10,3,Dak Prescott pass incomplete short right intended for Michael Gallup,2.850,2.310
+2,1:23,2,10,CAR 41,10,3,Dak Prescott pass incomplete short left intended for Jalen Tolbert (defended by Troy Hill),2.310,1.620
+2,1:19,3,10,CAR 41,10,3,Dak Prescott scrambles up the middle for 3 yards (tackle by Amare Barno),1.620,0.720
+2,1:10,4,7,CAR 38,10,3,"Penalty on Amare Barno: Unnecessary Roughness / Defense, 15 yards (accepted) (no play)",0.720,4.040
+2,1:10,1,10,CAR 23,10,3,Tony Pollard up the middle for -6 yards (tackle by Derrick Brown),4.040,2.690
+2,0:51,2,16,CAR 29,10,3,Dak Prescott pass incomplete short right intended for Jalen Tolbert,2.690,2.010
+2,0:47,3,16,CAR 29,10,3,Dak Prescott pass complete short middle to CeeDee Lamb for 10 yards (tackle by Donte Jackson),2.010,2.210
+2,0:38,4,6,CAR 19,10,3,"Penalty on DeShawn Williams: Unnecessary Roughness / Defense, 10 yards (accepted) (no play)",2.210,5.140
+2,0:38,,,,,,Timeout #1 by Carolina Panthers,,
+2,0:38,1,9,CAR 9,10,3,Tony Pollard up the middle for 4 yards (tackle by DJ Johnson and DeShawn Williams),5.140,5.150
+2,0:33,,,,,,Timeout #1 by Dallas Cowboys,,
+2,0:33,2,5,CAR 5,10,3,Dak Prescott pass incomplete short right intended for CeeDee Lamb (defended by Frankie Luvu),5.150,4.260
+2,0:29,,,,,,Timeout #2 by Dallas Cowboys,,
+2,0:29,3,5,CAR 5,16,3,"Dak Prescott pass complete short left to CeeDee Lamb for 5 yards, touchdown",4.260,7.000
+2,0:24,,,CAR 15,17,3,Brandon Aubrey kicks extra point good,0.000,0.000
+2,0:24,,,DAL 35,17,3,"Brandon Aubrey kicks off 65 yards, touchback.",0.000,0.610
+2,0:24,1,10,CAR 25,17,3,Bryce Young kneels for -1 yards,0.610,-0.070
+Quarter,Time,Down,ToGo,Location,DAL,CAR,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DAL 35,17,3,"Brandon Aubrey kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,CAR 25,17,3,"Chuba Hubbard left end for 1 yard (tackle by Markquese Bell). Penalty on Adam Thielen: Offensive Holding, 10 yards (accepted)",0.610,-0.280
+3,14:53,1,19,CAR 16,17,3,Bryce Young pass complete short right to Jonathan Mingo for 6 yards (tackle by Malik Hooker),-0.280,-0.340
+3,14:20,2,13,CAR 22,17,3,Bryce Young pass incomplete short left,-0.340,-1.020
+3,14:12,3,13,CAR 22,17,3,Bryce Young pass complete short right to Chuba Hubbard for 6 yards (tackle by Markquese Bell and Stephon Gilmore),-1.020,-1.500
+3,13:38,4,7,CAR 28,17,3,"Johnny Hekker punts 52 yards, fair catch by KaVontae Turpin at DAL-20",-1.500,-0.280
+3,13:30,1,10,DAL 20,17,3,Tony Pollard up the middle for 3 yards (tackle by DJ Johnson),0.280,0.140
+3,12:59,2,7,DAL 23,17,3,Dak Prescott pass complete short middle to Brandin Cooks for 12 yards (tackle by Dicaprio Bootle),0.140,1.270
+3,12:22,1,10,DAL 35,17,3,Dak Prescott pass complete short right to Jake Ferguson for no gain (tackle by Vonn Bell),1.270,0.720
+3,11:49,2,10,DAL 35,17,3,Dak Prescott pass complete short left to CeeDee Lamb for 2 yards (tackle by Dicaprio Bootle),0.720,0.300
+3,11:12,3,8,DAL 37,17,3,Dak Prescott pass incomplete deep left intended for CeeDee Lamb,0.300,-0.910
+3,10:57,4,8,DAL 37,17,3,"Bryan Anger punts 63 yards. Penalty on Nahshon Wright: Offensive Holding, 10 yards (accepted)",-0.910,-0.940
+3,10:57,1,10,CAR 30,17,3,Miles Sanders right end for 3 yards (tackle by Markquese Bell),0.940,0.800
+3,10:26,2,7,CAR 33,17,3,Miles Sanders up the middle for 8 yards (tackle by Markquese Bell),0.800,1.660
+3,9:46,1,10,CAR 41,17,3,Bryce Young pass incomplete short left intended for Adam Thielen,1.660,1.120
+3,9:26,2,10,CAR 41,17,3,"Bryce Young pass complete short right to Adam Thielen for 8 yards. Adam Thielen fumbles, ball out of bounds at CAR-49 (forced by Jourdan Lewis). Adam Thielen fumbles out of bounds",1.120,1.490
+3,9:00,3,2,CAR 49,17,3,"Penalty on Chandler Zavala: False Start, 5 yards (accepted) (no play)",1.490,0.830
+3,8:23,3,7,CAR 44,17,3,Bryce Young pass incomplete deep right intended for Jonathan Mingo,0.830,-0.460
+3,8:18,4,7,CAR 44,17,3,"Johnny Hekker punts downed by D'Shawn Jamison. Penalty on Sam Williams: Running Into the Kicker, 5 yards (accepted) (no play)",-0.460,-0.130
+3,8:03,4,2,CAR 49,17,3,Bryce Young pass complete short left to Adam Thielen for 16 yards (tackle by Jourdan Lewis),-0.130,3.250
+3,7:40,1,10,DAL 35,17,3,Chuba Hubbard left guard for 3 yards (tackle by DaRon Bland and DeMarcus Lawrence),3.250,3.110
+3,6:53,2,7,DAL 32,17,3,Chuba Hubbard left tackle for 4 yards (tackle by Damone Clark and Markquese Bell),3.110,2.940
+3,6:07,3,3,DAL 28,17,3,Bryce Young pass incomplete short left intended for Tommy Tremble,2.940,1.680
+3,6:01,4,3,DAL 28,17,3,Bryce Young pass complete short left to Adam Thielen for 3 yards (tackle by Juanyeh Thomas),1.680,3.910
+3,5:21,1,10,DAL 25,17,3,Miles Sanders up the middle for no gain (tackle by Donovan Wilson and Dorance Armstrong),3.910,3.360
+3,4:39,2,10,DAL 25,17,3,Bryce Young pass incomplete short left intended for Tommy Tremble,3.360,2.680
+3,4:34,3,10,DAL 25,17,3,Bryce Young pass complete short middle to Adam Thielen for 9 yards (tackle by Juanyeh Thomas),2.680,2.530
+3,4:08,4,1,DAL 16,17,3,Miles Sanders right guard for 3 yards (tackle by Juanyeh Thomas and Micah Parsons),2.530,4.710
+3,3:22,1,10,DAL 13,17,3,Bryce Young pass complete short right to Adam Thielen for 5 yards (tackle by Stephon Gilmore and DaRon Bland),4.710,4.960
+3,2:42,2,5,DAL 8,17,3,Miles Sanders left guard for 4 yards (tackle by Malik Hooker and Juanyeh Thomas),4.960,5.010
+3,2:04,3,1,DAL 4,17,9,"Bryce Young pass complete short left to Tommy Tremble for 4 yards, touchdown",5.010,7.000
+3,1:59,,,DAL 15,17,10,Eddy Pineiro kicks extra point good,0.000,0.000
+3,1:59,,,CAR 35,17,10,"Eddy Pineiro kicks off 65 yards, touchback.",0.000,0.610
+3,1:59,1,10,DAL 25,17,10,Tony Pollard up the middle for 2 yards (tackle by Troy Hill and Derrick Brown),0.610,0.330
+3,1:26,2,8,DAL 27,17,10,Dak Prescott pass complete short right to CeeDee Lamb for 8 yards (tackle by Troy Hill and Xavier Woods),0.330,1.270
+3,0:55,1,10,DAL 35,17,10,Dak Prescott pass incomplete short middle intended for Tony Pollard,1.270,0.720
+3,0:47,2,10,DAL 35,17,10,Dak Prescott pass complete short right to Jalen Tolbert for 5 yards (tackle by Donte Jackson),0.720,0.700
+3,0:11,3,5,DAL 40,17,10,Dak Prescott pass complete deep right to Jake Ferguson for 24 yards (tackle by Vonn Bell),0.700,3.180
+Quarter,Time,Down,ToGo,Location,DAL,CAR,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,CAR 36,17,10,Dak Prescott pass complete short right to CeeDee Lamb for 8 yards (tackle by Dicaprio Bootle),3.180,3.720
+4,14:17,2,2,CAR 28,17,10,CeeDee Lamb left end for 7 yards (tackle by Vonn Bell),3.720,4.170
+4,14:06,1,10,CAR 21,23,10,"Tony Pollard up the middle for 21 yards, touchdown",4.170,7.000
+4,13:58,,,CAR 15,24,10,Brandon Aubrey kicks extra point good,0.000,0.000
+4,13:58,,,DAL 35,24,10,"Brandon Aubrey kicks off 65 yards, touchback.",0.000,0.610
+4,13:58,1,10,CAR 25,30,10,"Bryce Young pass short right intended for Jonathan Mingo is intercepted by DaRon Bland at CAR-30 and returned for 30 yards, touchdown",0.610,-7.000
+4,13:48,,,CAR 15,30,10,Brandon Aubrey kicks extra point no good,0.000,-1.000
+4,13:48,,,DAL 35,30,10,"Brandon Aubrey kicks off 65 yards, touchback.",0.000,0.610
+4,13:48,1,10,CAR 25,30,10,Bryce Young pass complete short left to Miles Sanders for 2 yards (tackle by Markquese Bell),0.610,0.330
+4,13:18,2,8,CAR 27,30,10,Bryce Young pass incomplete short middle intended for Adam Thielen (defended by Damone Clark),0.330,-0.360
+4,13:14,3,8,CAR 27,30,10,Bryce Young pass complete short right to Adam Thielen for 14 yards (tackle by DaRon Bland),-0.360,1.660
+4,12:52,,,,,,Timeout #1 by Dallas Cowboys,,
+4,12:52,1,10,CAR 41,30,10,Bryce Young sacked by and Jayron Kearse for -8 yards and Micah Parsons for -8 yards,1.660,0.040
+4,12:13,2,18,CAR 33,30,10,Bryce Young sacked by and Dorance Armstrong for -6 yards and Chauncey Golston for -6 yards,0.040,-1.420
+4,11:30,3,24,CAR 27,30,10,"Bryce Young sacked by. Bryce Young fumbles, recovered by Donovan Wilson at CAR-27",-1.420,-3.780
+4,11:18,1,10,CAR 27,30,10,Rico Dowdle left tackle for 8 yards (tackle by Vonn Bell and Donte Jackson),3.780,4.350
+4,10:42,2,2,CAR 19,30,10,Rico Dowdle up the middle for 1 yard (tackle by Derrick Brown and Troy Hill),4.350,3.840
+4,10:01,3,1,CAR 18,30,10,Dak Prescott right guard for 3 yards (tackle by Derrick Brown),3.840,4.580
+4,9:28,1,10,CAR 15,30,10,Dak Prescott pass complete short right to Rico Dowdle for -2 yards (tackle by Brian Burns),4.580,3.680
+4,8:49,2,12,CAR 17,30,10,Rico Dowdle left end for 2 yards (tackle by Nick Thurman),3.680,3.100
+4,8:03,,,,,,Timeout #2 by Dallas Cowboys,,
+4,8:03,3,10,CAR 15,30,10,Dak Prescott pass complete short left to Tony Pollard for 6 yards (tackle by Frankie Luvu),3.100,2.900
+4,7:21,4,4,CAR 9,33,10,Brandon Aubrey 27 yard field goal good,2.900,3.000
+4,7:18,,,DAL 35,33,10,"Brandon Aubrey kicks off 66 yards, returned by Raheem Blackshear for 29 yards (tackle by Hunter Luepke)",0.000,0.810
+4,7:13,1,10,CAR 28,33,10,Bryce Young pass complete short left to Chuba Hubbard for 2 yards (tackle by Jourdan Lewis),0.810,0.530
+4,6:38,2,8,CAR 30,33,10,Bryce Young sacked by Sam Williams for -7 yards,0.530,-1.090
+4,5:58,3,15,CAR 23,33,10,Bryce Young pass incomplete short right intended for Adam Thielen,-1.090,-1.830
+4,5:54,4,15,CAR 23,33,10,"Johnny Hekker punts 50 yards, fair catch by KaVontae Turpin at DAL-27",-1.830,-0.740
+4,5:47,1,10,DAL 27,33,10,Rico Dowdle up the middle for 11 yards (tackle by Kamu Grugier-Hill and Xavier Woods),0.740,1.470
+4,4:59,1,10,DAL 38,33,10,"Rico Dowdle for no gain. Penalty on Sean McKeon: Offensive Holding, 10 yards (accepted) (no play)",1.470,0.810
+4,4:56,1,20,DAL 28,33,10,Cooper Rush pass complete short left to Luke Schoonmaker for 5 yards (tackle by Kamu Grugier-Hill),0.810,0.250
+4,4:13,2,15,DAL 33,33,10,Rico Dowdle right guard for no gain (tackle by Xavier Woods and Kamu Grugier-Hill),0.250,-0.430
+4,3:35,3,15,DAL 33,33,10,"Cooper Rush pass incomplete intended for Jalen Brooks. Penalty on Donte Jackson: Defensive Holding, 5 yards (accepted) (no play)",-0.430,1.470
+4,3:29,1,10,DAL 38,33,10,Rico Dowdle right guard for 1 yard (tackle by Nick Thurman),1.470,1.060
+4,2:51,2,9,DAL 39,33,10,Cooper Rush pass incomplete deep left intended for KaVontae Turpin,1.060,0.370
+4,2:43,3,9,DAL 39,33,10,Cooper Rush pass complete short right to KaVontae Turpin for 10 yards (tackle by Dicaprio Bootle),0.370,2.190
+4,2:00,1,10,DAL 49,33,10,Cooper Rush kneels for -1 yards,2.190,1.510
+4,1:26,2,11,DAL 48,33,10,Cooper Rush kneels for -1 yards,1.510,0.700
+4,0:48,3,12,DAL 47,33,10,Cooper Rush kneels for -1 yards,0.700,-0.320
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

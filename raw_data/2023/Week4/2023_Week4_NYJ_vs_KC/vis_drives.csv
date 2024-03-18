@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,KAN 25,8,3:25,57,Field Goal
+2,1,10:35,KAN 31,5,2:03,69,Touchdown
+3,1,6:12,KAN 11,6,2:48,89,Touchdown
+4,2,14:11,KAN 4,2,0:51,-4,Safety
+5,2,9:50,KAN 25,1,0:08,0,Interception
+6,2,6:26,KAN 25,10,4:11,56,Field Goal
+7,2,0:26,KAN 42,1,0:08,0,Interception
+8,3,10:40,KAN 25,3,1:46,-6,Punt
+9,3,7:21,KAN 12,4,2:02,20,Punt
+10,3,3:14,KAN 12,14,7:23,80,Field Goal
+11,4,7:24,NYJ 47,15,7:24,45,End of Game

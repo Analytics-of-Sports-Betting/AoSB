@@ -1,0 +1,175 @@
+Quarter,Time,Down,ToGo,Location,BAL,CLE,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Browns won the coin toss and deferred, Ravens to receive the opening kickoff.",,
+1,15:00,,,CLE 35,0,0,"Dustin Hopkins kicks off 57 yards, returned by Devin Duvernay for 16 yards (tackle by Pierre Strong)",0.000,0.540
+1,14:56,1,10,BAL 24,0,0,Gus Edwards right guard for 6 yards (tackle by Grant Delpit and Juan Thornhill),0.540,0.810
+1,14:17,2,4,BAL 30,0,0,"Penalty on Morgan Moses: False Start, 5 yards (accepted) (no play)",0.810,0.130
+1,14:03,2,9,BAL 25,0,0,Gus Edwards left end for 3 yards (tackle by Juan Thornhill),0.130,-0.160
+1,13:20,3,6,BAL 28,0,0,Lamar Jackson scrambles right end for 2 yards (tackle by Juan Thornhill),-0.160,-1.370
+1,12:48,4,4,BAL 30,0,0,Jordan Stout punts 45 yards out of bounds,-1.370,-0.610
+1,12:42,1,10,CLE 25,0,0,"Jerome Ford left tackle for 10 yards (tackle by Geno Stone and Patrick Queen). Penalty on Amari Cooper: Offensive Holding, 10 yards (accepted)",0.610,0.610
+1,12:16,1,10,CLE 25,0,0,Dorian Thompson-Robinson pass complete short left to Donovan Peoples-Jones for 7 yards (tackle by Brandon Stephens),0.610,1.010
+1,11:29,2,3,CLE 32,0,0,"Jerome Ford left guard for -2 yards (tackle by Patrick Queen) Penalty on CLE: Illegal Shift, 5 yards (declined)",1.010,0.040
+1,11:13,3,5,CLE 30,0,0,Dorian Thompson-Robinson pass complete short middle to David Njoku for 15 yards (tackle by Geno Stone),0.040,1.930
+1,10:34,1,10,CLE 45,0,0,Dorian Thompson-Robinson pass complete short right to Harrison Bryant for 2 yards (tackle by Kyle Hamilton and Roquan Smith),1.930,1.650
+1,9:58,2,8,CLE 47,0,0,Dorian Thompson-Robinson pass incomplete short middle intended for Donovan Peoples-Jones (defended by Roquan Smith),1.650,0.960
+1,9:51,3,8,CLE 47,0,0,Dorian Thompson-Robinson pass incomplete short right intended for Elijah Moore (defended by Daryl Worley),0.960,-0.260
+1,9:40,4,8,CLE 47,0,0,Corey Bojorquez punts 33 yards,-0.260,-0.280
+1,9:36,1,10,BAL 20,0,0,Lamar Jackson pass complete short right to Gus Edwards for 7 yards (tackle by Anthony Walker),0.280,0.680
+1,9:11,2,3,BAL 27,0,0,Lamar Jackson sacked by and Jordan Elliott for -5 yards and Dalvin Tomlinson for -5 yards,0.680,-0.690
+1,8:41,3,8,BAL 22,0,0,"Penalty on Tyler Linderbaum: False Start, 5 yards (accepted) (no play)",-0.690,-1.510
+1,8:02,3,13,BAL 17,0,0,Lamar Jackson pass complete short left to Mark Andrews for 7 yards (tackle by Greg Newsome and Anthony Walker),-1.510,-1.770
+1,7:47,4,6,BAL 24,0,0,"Jordan Stout punts 44 yards, returned by Donovan Peoples-Jones for 6 yards (tackle by Malik Harrison)",-1.770,-1.470
+1,7:33,1,10,CLE 38,0,0,Jerome Ford right tackle for 7 yards (tackle by Tavius Robinson and Roquan Smith),1.470,1.870
+1,7:06,2,3,CLE 45,0,0,Dorian Thompson-Robinson pass incomplete deep middle intended for Amari Cooper,1.870,1.160
+1,6:59,3,3,CLE 45,0,0,Dorian Thompson-Robinson pass deep left (defended by Arthur Maulet) intended for Amari Cooper is intercepted by Brandon Stephens at BAL-38 and returned for 52 yards (tackle by Dorian Thompson-Robinson),1.160,-4.910
+1,6:42,1,10,CLE 10,6,0,"Lamar Jackson left guard for 10 yards, touchdown",4.910,7.000
+1,6:38,,,CLE 15,7,0,Justin Tucker kicks extra point good,0.000,0.000
+1,6:38,,,BAL 35,7,0,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+1,6:38,1,10,CLE 25,7,0,Kareem Hunt left guard for 6 yards (tackle by Tavius Robinson),0.610,0.870
+1,6:11,2,4,CLE 31,7,0,Kareem Hunt left guard for 4 yards (tackle by Broderick Washington),0.870,1.270
+1,5:35,1,10,CLE 35,7,0,Kareem Hunt right tackle for 2 yards (tackle by Justin Madubuike and Malik Harrison),1.270,0.990
+1,4:59,2,8,CLE 37,7,0,Dorian Thompson-Robinson pass complete short right to Elijah Moore for 7 yards (tackle by Ronald Darby),0.990,1.220
+1,4:19,3,1,CLE 44,7,0,"Dorian Thompson-Robinson pass incomplete intended for Amari Cooper. Penalty on Brandon Stephens: Defensive Pass Interference, 37 yards (accepted) (no play)",1.220,4.310
+1,4:11,1,10,BAL 19,7,0,Elijah Moore for -20 yards (tackle by Tavius Robinson),4.310,1.060
+1,3:15,2,30,BAL 39,7,0,"Dorian Thompson-Robinson scrambles up the middle for 4 yards. Penalty on Dorian Thompson-Robinson: Illegal Forward Pass, 5 yards (accepted)",1.060,0.300
+1,3:10,3,31,BAL 40,7,0,Dorian Thompson-Robinson pass complete short middle to Jerome Ford for 5 yards (tackle by Roquan Smith),0.300,0.970
+1,2:26,4,26,BAL 35,7,3,Dustin Hopkins 53 yard field goal good,0.970,3.000
+1,2:21,,,CLE 35,7,3,"Dustin Hopkins kicks off 67 yards, returned by Devin Duvernay for 28 yards (tackle by Mike Ford and Jeremiah Owusu-Koramoah)",0.000,0.670
+1,2:17,1,10,BAL 26,7,3,Lamar Jackson pass incomplete short left intended for Zay Flowers (defended by Martin Emerson),0.670,0.130
+1,2:11,2,10,BAL 26,7,3,Gus Edwards left end for -1 yards (tackle by Rodney McLeod),0.130,-0.690
+1,1:28,3,11,BAL 25,7,3,Lamar Jackson pass complete short right to Devin Duvernay for -2 yards (tackle by Greg Newsome),-0.690,-1.830
+1,0:53,4,13,BAL 23,7,3,"Jordan Stout punts 59 yards, returned by Donovan Peoples-Jones for 10 yards (tackle by Kevon Seymour)",-1.830,-0.810
+1,0:41,1,10,CLE 28,7,3,Dorian Thompson-Robinson pass complete short right to Marquise Goodwin for no gain (tackle by Rock Ya-Sin),0.810,0.260
+Quarter,Time,Down,ToGo,Location,BAL,CLE,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,10,CLE 28,7,3,Jerome Ford left tackle for -2 yards (tackle by Jadeveon Clowney),0.260,-0.690
+2,14:19,3,12,CLE 26,7,3,Dorian Thompson-Robinson pass complete short right to David Njoku for 6 yards (tackle by Arthur Maulet),-0.690,-1.240
+2,13:41,4,6,CLE 32,7,3,"Corey Bojorquez punts 46 yards, fair catch by Devin Duvernay at BAL-22",-1.240,-0.410
+2,13:34,1,10,BAL 22,7,3,Justice Hill right end for 11 yards (tackle by Dalvin Tomlinson),0.410,1.140
+2,12:56,1,10,BAL 33,7,3,Lamar Jackson pass complete short right to Mark Andrews for 12 yards (tackle by Juan Thornhill and Jeremiah Owusu-Koramoah),1.140,1.930
+2,12:16,1,10,BAL 45,7,3,Gus Edwards right guard for 5 yards (tackle by Sione Takitaki),1.930,2.060
+2,11:39,2,5,CLE 50,7,3,"Lamar Jackson pass incomplete intended for Zay Flowers. Penalty on Martin Emerson: Illegal Use of Hands / Defense, 5 yards (declined) . Penalty on Denzel Ward: Defensive Pass Interference, 7 yards (accepted) (no play)",2.060,2.720
+2,11:34,1,10,CLE 43,7,3,Lamar Jackson pass complete short right to Zay Flowers for 7 yards (tackle by Maurice Hurst and Alex Wright),2.720,3.120
+2,10:53,2,3,CLE 36,7,3,"Lamar Jackson aborted snap, recovered by Maurice Hurst at CLE-39",3.120,-1.530
+2,10:49,1,10,CLE 39,7,3,Jerome Ford left tackle for 4 yards (tackle by Patrick Queen),1.530,1.530
+2,10:20,2,6,CLE 43,7,3,Dorian Thompson-Robinson pass incomplete short right intended for Jerome Ford,1.530,0.830
+2,10:17,3,6,CLE 43,7,3,Dorian Thompson-Robinson pass complete short right to David Njoku for 6 yards (tackle by Roquan Smith),0.830,2.190
+2,10:00,1,10,CLE 49,7,3,Jerome Ford right tackle for no gain (tackle by Kyle Hamilton),2.190,1.650
+2,9:35,2,10,CLE 49,7,3,Dorian Thompson-Robinson pass complete short right to Jerome Ford for 6 yards (tackle by Kyle Hamilton),1.650,1.750
+2,8:59,3,4,BAL 45,7,3,Dorian Thompson-Robinson pass incomplete short right intended for Elijah Moore (defended by Kyle Van Noy),1.750,0.270
+2,8:51,4,4,BAL 45,7,3,Corey Bojorquez punts 38 yards,0.270,0.380
+2,8:42,1,10,BAL 7,7,3,Gus Edwards right guard for 4 yards (tackle by Sione Takitaki),-0.380,-0.490
+2,8:09,2,6,BAL 11,7,3,Gus Edwards right guard for 6 yards (tackle by Anthony Walker and Greg Newsome),-0.490,-0.060
+2,7:26,1,10,BAL 17,7,3,Lamar Jackson pass complete short left to Mark Andrews for 36 yards (tackle by Greg Newsome),-0.060,2.460
+2,6:44,1,10,CLE 47,7,3,Justice Hill left guard for 15 yards (tackle by Grant Delpit),2.460,3.450
+2,5:59,1,10,CLE 32,7,3,Justice Hill left tackle for 7 yards (tackle by Sione Takitaki),3.450,3.850
+2,5:24,2,3,CLE 25,7,3,Melvin Gordon left guard for 22 yards (tackle by Juan Thornhill),3.850,6.510
+2,5:05,1,3,CLE 3,7,3,Lamar Jackson right tackle for 1 yard (tackle by Maurice Hurst and Juan Thornhill),6.510,5.720
+2,4:21,2,2,CLE 2,13,3,"Lamar Jackson right tackle for 2 yards, touchdown. Penalty on Myles Garrett: Defensive Offside, 5 yards (declined)",5.720,7.000
+2,4:18,,,CLE 15,14,3,Justin Tucker kicks extra point good,0.000,0.000
+2,4:18,,,BAL 35,14,3,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+2,4:18,1,10,CLE 25,14,3,Dorian Thompson-Robinson pass complete short right to Jordan Akins for 6 yards (tackle by Arthur Maulet),0.610,0.870
+2,3:43,2,4,CLE 31,14,3,Kareem Hunt left tackle for -2 yards (tackle by Travis Jones),0.870,-0.100
+2,3:03,3,6,CLE 29,14,3,Dorian Thompson-Robinson pass incomplete short left,-0.100,-1.440
+2,2:52,4,6,CLE 29,14,3,"Corey Bojorquez punts 45 yards, fair catch by Devin Duvernay at BAL-26",-1.440,-0.670
+2,2:45,1,10,BAL 26,14,3,"Lamar Jackson pass complete short left to Justice Hill for no gain (tackle by Juan Thornhill). Penalty on Patrick Mekari: Offensive Holding, 10 yards (accepted) (no play)",0.670,-0.300
+2,2:04,1,20,BAL 16,14,3,Gus Edwards right guard for 16 yards (tackle by Anthony Walker),-0.300,0.940
+2,2:00,2,4,BAL 32,14,3,"Lamar Jackson pass complete short right to Zay Flowers for 6 yards (tackle by Dalvin Tomlinson and Jordan Elliott). Penalty on Myles Garrett: Defensive Offside, 5 yards (declined)",0.940,1.470
+2,1:53,1,10,BAL 38,14,3,Lamar Jackson scrambles left tackle for 3 yards (tackle by Martin Emerson),1.470,1.330
+2,1:43,2,7,BAL 41,14,3,Gus Edwards left guard for 1 yard (tackle by Myles Garrett and Grant Delpit),1.330,0.760
+2,1:26,,,,,,Timeout #1 by Baltimore Ravens,,
+2,1:26,3,6,BAL 42,14,3,Lamar Jackson pass complete short left to Melvin Gordon for 23 yards (tackle by Juan Thornhill),0.760,3.250
+2,1:20,1,10,CLE 35,14,3,Lamar Jackson sacked by Myles Garrett for -9 yards,3.250,1.490
+2,0:44,2,19,CLE 44,14,3,"Lamar Jackson pass complete to Melvin Gordon for no gain. Penalty on John Simpson: Offensive Holding, 10 yards (accepted) (no play)",1.490,0.140
+2,0:36,2,29,BAL 46,14,3,Lamar Jackson pass complete deep right to Zay Flowers for 43 yards (tackle by Martin Emerson),0.140,4.840
+2,0:25,,,,,,Timeout #1 by Cleveland Browns,,
+2,0:25,1,10,CLE 11,14,3,Lamar Jackson right guard for 4 yards (tackle by Jeremiah Owusu-Koramoah),4.840,4.890
+2,0:21,,,,,,Timeout #2 by Baltimore Ravens,,
+2,0:21,2,6,CLE 7,14,3,Lamar Jackson pass incomplete short left intended for Nelson Agholor (defended by Greg Newsome),4.890,3.980
+2,0:17,,,,,,Timeout #2 by Cleveland Browns,,
+2,0:17,3,6,CLE 7,20,3,"Lamar Jackson pass complete short right to Mark Andrews for 7 yards, touchdown",3.980,7.000
+2,0:11,,,CLE 15,21,3,Justin Tucker kicks extra point good,0.000,0.000
+2,0:11,,,BAL 35,21,3,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+2,0:11,1,10,CLE 25,21,3,Dorian Thompson-Robinson kneels for -1 yards,0.610,-0.070
+Quarter,Time,Down,ToGo,Location,BAL,CLE,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,BAL 35,21,3,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,CLE 25,21,3,Dorian Thompson-Robinson pass complete short middle to Jerome Ford for 4 yards (tackle by Roquan Smith),0.610,0.600
+3,14:21,2,6,CLE 29,21,3,Dorian Thompson-Robinson scrambles right end for 9 yards (tackle by Roquan Smith),0.600,1.470
+3,13:41,1,10,CLE 38,21,3,Dorian Thompson-Robinson sacked by Patrick Queen for -11 yards,1.470,-0.560
+3,13:11,2,21,CLE 27,21,3,Dorian Thompson-Robinson pass incomplete short middle intended for Amari Cooper (defended by Roquan Smith),-0.560,-1.220
+3,13:10,3,21,CLE 27,21,3,"Dorian Thompson-Robinson sacked by. Dorian Thompson-Robinson fumbles, recovered by Jedrick Wills at CLE-9",-1.220,-2.490
+3,12:25,4,39,CLE 9,21,3,"Corey Bojorquez punts 48 yards, returned by Devin Duvernay for 11 yards (tackle by Anthony Walker)",-2.490,-2.520
+3,12:18,1,10,CLE 46,21,3,Gus Edwards right guard for 2 yards (tackle by Anthony Walker),2.520,2.250
+3,11:36,2,8,CLE 44,21,3,"Lamar Jackson for -7 yards. Lamar Jackson fumbles, recovered by Lamar Jackson at CLE-44 Lamar Jackson pass complete short right to Nelson Agholor for 4 yards (tackle by Jeremiah Owusu-Koramoah)",2.250,2.080
+3,10:48,,,,,,Timeout #1 by Baltimore Ravens,,
+3,10:48,3,4,CLE 40,21,3,Lamar Jackson left guard for 3 yards (tackle by Anthony Walker),2.080,0.790
+3,10:00,4,1,CLE 37,21,3,Lamar Jackson scrambles right end for 2 yards (tackle by Grant Delpit),0.790,3.250
+3,9:33,1,10,CLE 35,21,3,Lamar Jackson sacked by Ogbonnia Okoronkwo for -7 yards,3.250,1.760
+3,8:51,2,17,CLE 42,21,3,Lamar Jackson pass complete short right to Gus Edwards for -6 yards (tackle by Jeremiah Owusu-Koramoah),1.760,0.430
+3,8:08,3,22,CLE 47,21,3,Lamar Jackson pass incomplete short right intended for Gus Edwards (defended by Maurice Hurst),0.430,0.070
+3,8:01,4,23,CLE 48,21,3,"Jordan Stout punts 40 yards, fair catch by Donovan Peoples-Jones at CLE-8",0.070,0.380
+3,7:54,1,10,CLE 8,21,3,Dorian Thompson-Robinson pass complete deep left to Amari Cooper for 16 yards,-0.380,0.540
+3,7:32,1,10,CLE 24,21,3,"Penalty on Jedrick Wills: False Start, 5 yards (accepted) (no play)",0.540,0.130
+3,7:12,1,15,CLE 19,21,3,Dorian Thompson-Robinson pass incomplete deep right intended for Amari Cooper (defended by Ronald Darby),0.130,-0.740
+3,7:05,2,15,CLE 19,21,3,Dorian Thompson-Robinson pass complete short right to Elijah Moore for 13 yards (tackle by Ronald Darby),-0.740,0.370
+3,6:15,3,2,CLE 32,21,3,Jerome Ford left guard for 1 yard (tackle by Roquan Smith and Arthur Maulet),0.370,-1.180
+3,5:33,4,1,CLE 33,21,3,Harrison Bryant up the middle for 2 yards (tackle by Geno Stone),-1.180,1.270
+3,5:12,1,10,CLE 35,21,3,Kareem Hunt left tackle for 2 yards (tackle by Jadeveon Clowney),1.270,0.990
+3,4:35,2,8,CLE 37,21,3,Dorian Thompson-Robinson sacked by Justin Madubuike for -13 yards,0.990,-1.420
+3,4:15,3,21,CLE 24,21,3,Dorian Thompson-Robinson pass incomplete deep left intended for David Njoku (defended by Patrick Queen),-1.420,-1.770
+3,4:12,4,21,CLE 24,21,3,"Corey Bojorquez punts 48 yards, returned by Devin Duvernay for 8 yards (tackle by Harrison Bryant and Rodney McLeod)",-1.770,-1.330
+3,4:01,1,10,BAL 36,21,3,Melvin Gordon right guard for no gain (tackle by Shelby Harris),1.330,0.790
+3,3:23,2,10,BAL 36,21,3,Melvin Gordon left guard for -1 yards (tackle by Shelby Harris),0.790,-0.030
+3,2:44,3,11,BAL 35,21,3,Lamar Jackson pass complete short left to Devin Duvernay for 10 yards (tackle by Martin Emerson),-0.030,-0.390
+3,2:01,4,1,BAL 45,21,3,Jordan Stout punts 51 yards out of bounds,-0.390,0.380
+3,1:57,1,10,CLE 4,21,3,"Jerome Ford for no gain. Penalty on Jedrick Wills: Offensive Holding, 2 yards (accepted) (no play)",-0.380,-0.460
+3,1:33,1,12,CLE 2,21,3,Dorian Thompson-Robinson pass complete short right to David Njoku for 9 yards (tackle by Roquan Smith),-0.460,-0.270
+3,1:08,2,3,CLE 11,21,3,Jerome Ford left tackle for -2 yards (tackle by Arthur Maulet),-0.270,-0.840
+3,0:42,3,5,CLE 9,21,3,Dorian Thompson-Robinson pass complete short middle to Jerome Ford for 8 yards (tackle by Arthur Maulet and Roquan Smith),-0.840,-0.060
+3,0:11,1,10,CLE 17,21,3,"Dorian Thompson-Robinson scrambles for no gain. Penalty on Wyatt Teller: Offensive Holding, 8 yards (accepted) (no play)",-0.060,-0.680
+Quarter,Time,Down,ToGo,Location,BAL,CLE,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,18,CLE 9,21,3,Dorian Thompson-Robinson sacked by Broderick Washington for -6 yards,-0.680,-1.800
+4,14:21,2,24,CLE 3,21,3,Dorian Thompson-Robinson scrambles right end for 12 yards (tackle by Malik Harrison),-1.800,-1.570
+4,13:33,3,12,CLE 15,21,3,Dorian Thompson-Robinson pass incomplete deep right intended for Amari Cooper,-1.570,-2.440
+4,13:30,4,12,CLE 15,21,3,"Penalty on BAL: Defensive Too Many Men on Field, 5 yards (accepted) (no play)",-2.440,-2.030
+4,13:30,4,7,CLE 20,21,3,"Penalty on Dawand Jones: False Start, 5 yards (accepted) (no play)",-2.030,-2.440
+4,13:30,4,12,CLE 15,21,3,Corey Bojorquez punts 48 yards out of bounds,-2.440,-1.400
+4,13:23,1,10,BAL 37,21,3,Gus Edwards left tackle for -2 yards (tackle by Ogbonnia Okoronkwo),1.400,0.590
+4,12:47,2,12,BAL 35,21,3,Gus Edwards left tackle for 2 yards (tackle by Anthony Walker),0.590,0.170
+4,12:07,3,10,BAL 37,21,3,Lamar Jackson pass incomplete short right,0.170,-0.910
+4,11:59,4,10,BAL 37,21,3,"Jordan Stout punts 56 yards, returned by Donovan Peoples-Jones for 8 yards (tackle by Laquon Treadwell) Penalty on CLE: Illegal Formation, 5 yards (declined)",-0.910,0.220
+4,11:48,1,10,CLE 15,21,3,Jerome Ford right tackle for 10 yards (tackle by Brent Urban),-0.220,0.610
+4,11:25,1,10,CLE 25,21,3,Dorian Thompson-Robinson pass complete short left to Jerome Ford for -4 yards (tackle by Roquan Smith),0.610,-0.480
+4,10:58,2,14,CLE 21,21,3,"Dorian Thompson-Robinson pass complete short left to Jerome Ford for no gain (tackle by Patrick Queen). Penalty on Patrick Queen: Face Mask (15 Yards), 15 yards (accepted) (no play)",-0.480,1.330
+4,10:42,1,10,CLE 36,21,3,Dorian Thompson-Robinson pass complete short left to David Njoku for 9 yards (tackle by Tavius Robinson),1.330,2.010
+4,10:21,2,1,CLE 45,21,3,Dorian Thompson-Robinson pass complete short right to David Njoku for 1 yard (tackle by Kevon Seymour),2.010,1.990
+4,9:54,1,10,CLE 46,21,3,Dorian Thompson-Robinson pass incomplete short right intended for Donovan Peoples-Jones,1.990,1.450
+4,9:51,2,10,CLE 46,21,3,"Dorian Thompson-Robinson pass incomplete short right Penalty on CLE: Illegal Shift, 5 yards (declined)",1.450,0.760
+4,9:46,3,10,CLE 46,21,3,Dorian Thompson-Robinson pass deep right intended for Donovan Peoples-Jones is intercepted by Geno Stone at BAL-26 and returned for 36 yards (tackle by James Hudson),0.760,-3.050
+4,9:36,1,10,CLE 38,21,3,Gus Edwards right guard for 4 yards (tackle by Sione Takitaki and Maurice Hurst),3.050,3.050
+4,8:49,2,6,CLE 34,21,3,Gus Edwards right guard for -3 yards (tackle by Sione Takitaki),3.050,1.950
+4,8:14,3,9,CLE 37,21,3,Lamar Jackson pass complete short right to Patrick Ricard for 14 yards (tackle by Jeremiah Owusu-Koramoah),1.950,4.040
+4,7:26,1,10,CLE 23,21,3,Gus Edwards right guard for no gain (tackle by Za'Darius Smith and Anthony Walker),4.040,3.500
+4,6:44,2,10,CLE 23,21,3,Gus Edwards left guard for 5 yards (tackle by Martin Emerson and Grant Delpit),3.500,3.490
+4,6:02,3,5,CLE 18,27,3,"Lamar Jackson pass complete short left to Mark Andrews for 18 yards, touchdown",3.490,7.000
+4,5:56,,,CLE 15,28,3,Justin Tucker kicks extra point good,0.000,0.000
+4,5:56,,,BAL 35,28,3,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+4,5:56,1,10,CLE 25,28,3,Pierre Strong right guard for 3 yards (tackle by Kyle Hamilton),0.610,0.470
+4,5:30,2,7,CLE 28,28,3,Pierre Strong right guard for -2 yards (tackle by Patrick Queen),0.470,-0.490
+4,4:55,3,9,CLE 26,28,3,Dorian Thompson-Robinson pass incomplete short left intended for Jordan Akins (defended by Brent Urban),-0.490,-1.630
+4,4:47,4,9,CLE 26,28,3,"Corey Bojorquez punts 67 yards, returned by Devin Duvernay for 28 yards (tackle by Mohamoud Diabate)",-1.630,-1.270
+4,4:34,1,10,BAL 35,28,3,Zay Flowers left end for -6 yards (tackle by Jeremiah Owusu-Koramoah),1.270,-0.090
+4,3:51,2,16,BAL 29,28,3,Tyler Huntley up the middle for 2 yards (tackle by Maurice Hurst),-0.090,-0.490
+4,3:10,3,14,BAL 31,28,3,Tyler Huntley scrambles up the middle for 6 yards (tackle by Jeremiah Owusu-Koramoah),-0.490,-0.910
+4,2:22,4,8,BAL 37,28,3,"Penalty on Isaiah Likely: False Start, 5 yards (accepted) (no play)",-0.910,-1.240
+4,2:22,4,13,BAL 32,28,3,"Jordan Stout punts 39 yards, fair catch by Donovan Peoples-Jones at CLE-29",-1.240,-0.870
+4,2:15,1,10,CLE 29,28,3,Pierre Strong right guard for 3 yards (tackle by Travis Jones),0.870,0.730
+4,2:00,2,7,CLE 32,28,3,Pierre Strong right guard for 5 yards (tackle by Broderick Washington),0.730,0.700
+4,1:23,3,2,CLE 37,28,3,Dorian Thompson-Robinson pass complete short left to Cedric Tillman for 5 yards (tackle by Brandon Stephens),0.700,1.730
+4,0:47,1,10,CLE 42,28,3,Pierre Strong left guard for 40 yards (tackle by Kyle Hamilton),1.730,4.370
+4,0:15,1,10,BAL 18,28,3,Dorian Thompson-Robinson pass incomplete deep left intended for Cedric Tillman,4.370,3.800
+4,0:08,2,10,BAL 18,28,3,Dorian Thompson-Robinson pass deep middle intended for Cedric Tillman is intercepted by Kyle Hamilton in end zone and returned for no gain,3.800,0.000
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation
