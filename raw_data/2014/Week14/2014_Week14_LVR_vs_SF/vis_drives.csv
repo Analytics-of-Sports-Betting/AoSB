@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,SFO 20,1,0:09,0,Interception
+2,1,11:46,SFO 20,6,3:58,10,Punt
+3,1,5:55,SFO 40,7,4:01,60,Touchdown
+4,2,10:45,SFO 30,4,2:25,24,Punt
+5,2,4:51,SFO 5,3,1:33,0,Punt
+6,2,1:42,SFO 9,9,1:41,57,Field Goal
+7,3,12:55,OAK 46,9,4:21,44,Field Goal
+8,3,4:09,SFO 30,3,2:07,7,Punt
+9,4,10:39,SFO 20,13,5:36,51,Missed FG
+10,4,3:22,SFO 23,3,0:46,-5,Interception
+11,4,0:28,SFO 15,1,0:28,-14,End of Game

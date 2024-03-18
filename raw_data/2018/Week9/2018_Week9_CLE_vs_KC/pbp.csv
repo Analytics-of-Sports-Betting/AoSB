@@ -1,0 +1,182 @@
+Quarter,Time,Down,ToGo,Location,KAN,CLE,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Chiefs won the coin toss and deferred, Browns to receive the opening kickoff.",,
+1,15:00,,,KAN 35,0,0,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,CLE 25,0,0,Baker Mayfield pass incomplete deep right intended for Damion Ratley,0.610,0.060
+1,14:55,2,10,CLE 25,0,0,Baker Mayfield pass complete deep right to Jarvis Landry for 17 yards (tackle by Kendall Fuller),0.060,1.730
+1,14:25,1,10,CLE 42,0,0,Nick Chubb right guard for 4 yards (tackle by Breeland Speaks),1.730,1.730
+1,13:48,2,6,CLE 46,0,0,Nick Chubb left tackle for no gain (tackle by Allen Bailey),1.730,1.030
+1,13:10,3,6,CLE 46,0,0,Baker Mayfield pass complete short right to Jarvis Landry for 5 yards (tackle by Anthony Hitchens),1.030,0.000
+1,12:33,4,1,KAN 49,0,0,Nick Chubb right guard for 1 yard (tackle by Anthony Hitchens),0.000,2.390
+1,11:52,1,10,KAN 48,0,0,Baker Mayfield pass incomplete deep middle intended for Jarvis Landry,2.390,1.850
+1,11:47,2,10,KAN 48,0,0,Nick Chubb right guard for 4 yards (tackle by Allen Bailey and Ben Niemann),1.850,1.690
+1,11:08,3,6,KAN 44,0,0,Baker Mayfield pass incomplete short left intended for Damion Ratley,1.690,0.330
+1,11:05,4,6,KAN 44,0,0,Britton Colquitt punts 39 yards downed by Seth Devalve,0.330,0.380
+1,10:57,1,10,KAN 5,0,0,Patrick Mahomes pass incomplete short right intended for Travis Kelce,-0.380,-0.780
+1,10:52,2,10,KAN 5,0,0,"Patrick Mahomes pass incomplete short right intended for Sammy Watkins. Penalty on T.J. Carrie: Defensive Pass Interference, 6 yards (no play)",-0.780,-0.370
+1,10:48,1,10,KAN 11,0,0,Patrick Mahomes pass complete short right to Sammy Watkins for 5 yards (tackle by T.J. Carrie),-0.370,-0.300
+1,10:14,2,5,KAN 16,0,0,Patrick Mahomes pass complete short right to Tyreek Hill for 8 yards (tackle by Denzel Ward),-0.300,0.540
+1,9:37,1,10,KAN 24,0,0,"Patrick Mahomes left end for 15 yards (tackle by Christian Kirksey). Penalty on Sammy Watkins: Offensive Holding, 10 yards",0.540,1.270
+1,9:12,1,5,KAN 29,0,0,Patrick Mahomes pass complete deep left to Travis Kelce for 21 yards (tackle by E.J. Gaines),1.270,2.260
+1,8:29,1,10,KAN 50,0,0,Patrick Mahomes pass incomplete short right intended for Chris Conley,2.260,1.710
+1,8:25,2,10,KAN 50,6,0,"Patrick Mahomes pass complete short left to Kareem Hunt for 50 yards, touchdown",1.710,7.000
+1,8:14,,,CLE 15,7,0,Harrison Butker kicks extra point good,0.000,0.000
+1,8:14,,,KAN 35,7,0,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+1,8:14,1,10,CLE 25,7,0,Breshad Perriman left end for 7 yards (tackle by Reggie Ragland),0.610,1.010
+1,7:33,2,3,CLE 32,7,0,Breshad Perriman left end for 2 yards (tackle by Steven Nelson),1.010,0.560
+1,6:57,3,1,CLE 34,7,0,Baker Mayfield pass complete short right to Duke Johnson for 7 yards (tackle by Reggie Ragland),0.560,1.660
+1,6:26,1,10,CLE 41,7,0,Nick Chubb left tackle for 4 yards (tackle by Breeland Speaks),1.660,1.660
+1,5:46,2,6,CLE 45,7,0,Baker Mayfield pass complete short left to Antonio Callaway for 9 yards (tackle by Steven Nelson),1.660,2.520
+1,5:07,1,10,KAN 46,7,0,Baker Mayfield pass incomplete deep left intended for Breshad Perriman,2.520,1.980
+1,5:00,2,10,KAN 46,7,0,Baker Mayfield pass complete short middle to David Njoku for 19 yards (tackle by Eric Murray),1.980,3.780
+1,4:15,1,10,KAN 27,7,0,Baker Mayfield pass incomplete deep middle intended for Breshad Perriman,3.780,3.230
+1,4:10,2,10,KAN 27,7,0,Nick Chubb right guard for 3 yards (tackle by Reggie Ragland and Ben Niemann),3.230,2.940
+1,3:34,3,7,KAN 24,7,0,Baker Mayfield sacked by Jordan Lucas for -9 yards,2.940,1.150
+1,2:45,4,16,KAN 33,7,3,Greg Joseph 51 yard field goal good,1.150,3.000
+1,2:45,,,CLE 35,7,3,"Greg Joseph kicks off 59 yards, (tackle by Tavierre Thomas)",0.000,0.610
+1,2:40,1,10,KAN 25,7,3,"Penalty on CLE: Defensive Too Many Men on Field, 5 yards (no play)",0.610,1.340
+1,2:40,1,5,KAN 30,7,3,Kareem Hunt left tackle for 25 yards (tackle by Jamie Collins and Derrick Kindred),1.340,2.590
+1,1:56,1,10,CLE 45,7,3,"Patrick Mahomes pass complete short middle to Sammy Watkins for 27 yards (tackle by Briean Boddy-Calhoun). Penalty on Cameron Erving: Offensive Holding, 10 yards (no play)",2.590,1.930
+1,1:30,1,20,KAN 45,7,3,Patrick Mahomes left end for 3 yards (tackle by Christian Kirksey),1.930,1.100
+1,0:49,2,17,KAN 48,7,3,Patrick Mahomes sacked by Genard Avery for -2 yards,1.100,0.170
+1,0:05,3,19,KAN 46,7,3,Patrick Mahomes pass complete short left to Spencer Ware for 25 yards (tackle by Derrick Kindred),0.170,3.640
+Quarter,Time,Down,ToGo,Location,KAN,CLE,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,CLE 29,7,3,Tyreek Hill left end for 12 yards (tackle by Derrick Kindred),3.640,4.440
+2,14:21,1,10,CLE 17,7,3,"Patrick Mahomes pass incomplete short left intended for Travis Kelce. Penalty on Christian Kirksey: Defensive Pass Interference, 4 yards (no play)",4.440,4.710
+2,14:17,1,10,CLE 13,7,3,Sammy Watkins right end for 2 yards (tackle by T.J. Carrie),4.710,4.390
+2,13:33,2,8,CLE 11,13,3,"Patrick Mahomes pass complete short right to Travis Kelce for 11 yards, touchdown",4.390,7.000
+2,13:30,,,CLE 15,14,3,Harrison Butker kicks extra point good,0.000,0.000
+2,13:30,,,KAN 35,14,3,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+2,13:30,1,10,CLE 25,14,3,Nick Chubb left guard for 8 yards (tackle by Reggie Ragland),0.610,1.140
+2,12:54,2,2,CLE 33,14,3,Nick Chubb right guard for 6 yards (tackle by Derrick Nnadi),1.140,1.530
+2,12:17,1,10,CLE 39,14,3,Nick Chubb right guard for 2 yards (tackle by Anthony Hitchens and Xavier Williams),1.530,1.260
+2,11:45,2,8,CLE 41,14,3,Nick Chubb left end for 4 yards,1.260,1.090
+2,11:15,3,4,CLE 45,14,3,Baker Mayfield pass complete short right to Antonio Callaway for 4 yards (tackle by Orlando Scandrick),1.090,2.190
+2,10:17,1,10,CLE 49,14,3,Nick Chubb right tackle for 4 yards (tackle by Dee Ford),2.190,2.190
+2,9:36,2,6,KAN 47,14,3,Nick Chubb left tackle for 1 yard (tackle by Derrick Nnadi and Allen Bailey),2.190,1.620
+2,8:56,3,5,KAN 46,14,3,Baker Mayfield pass complete short left to Duke Johnson for 3 yards (tackle by Eric Murray),1.620,0.400
+2,8:08,4,2,KAN 43,14,3,Baker Mayfield pass complete short left to Duke Johnson for 23 yards (tackle by Eric Murray),0.400,4.240
+2,7:37,1,10,KAN 20,14,3,Baker Mayfield pass complete short left to Nick Chubb for 5 yards (tackle by Anthony Hitchens),4.240,4.450
+2,7:04,2,5,KAN 15,14,3,Nick Chubb right tackle for 12 yards (tackle by Ron Parker),4.450,6.510
+2,6:33,1,3,KAN 3,14,9,"Nick Chubb left guard for 3 yards, touchdown",6.510,7.000
+2,6:29,,,KAN 2,14,9,"Two Point Attempt: Baker Mayfield pass incomplete intended for Damion Ratley, conversion fails",0.000,-1.000
+2,6:29,,,CLE 35,14,9,"Greg Joseph kicks off 65 yards, touchback.",0.000,0.610
+2,6:29,1,10,KAN 25,14,9,Patrick Mahomes pass complete short right to Sammy Watkins for 19 yards (tackle by Christian Kirksey),0.610,1.860
+2,5:46,1,10,KAN 44,14,9,Patrick Mahomes pass complete deep right to Tyreek Hill for 40 yards (tackle by T.J. Carrie and Jabrill Peppers),1.860,4.510
+2,4:59,1,10,CLE 16,14,9,"Penalty on KAN: Delay of Game, 5 yards (no play)",4.510,4.170
+2,4:54,1,15,CLE 21,14,9,Patrick Mahomes pass complete short left to Tyreek Hill for 8 yards (tackle by Jamie Collins),4.170,4.390
+2,4:12,2,7,CLE 13,14,9,"Patrick Mahomes sacked by Derrick Kindred for no gain. Penalty on Mitchell Schwartz: Offensive Holding, 10 yards (no play)",4.390,3.010
+2,3:48,2,17,CLE 23,14,9,Patrick Mahomes pass complete short middle to Tyreek Hill for 13 yards (tackle by Jamie Collins),3.010,4.170
+2,3:04,,,,,,Timeout #1 by Kansas City Chiefs,,
+2,3:04,3,4,CLE 10,14,9,Kareem Hunt right end for 9 yards (tackle by Emmanuel Ogbah),4.170,6.970
+2,2:26,1,1,CLE 1,20,9,"Kareem Hunt right guard for 1 yard, touchdown",6.970,7.000
+2,2:24,,,CLE 15,21,9,Harrison Butker kicks extra point good,0.000,0.000
+2,2:24,,,KAN 35,21,9,"Harrison Butker kicks off 60 yards, returned by Dontrell Hilliard for 16 yards (tackle by Dorian O'Daniel)",0.000,0.340
+2,2:19,1,10,CLE 21,21,9,Baker Mayfield pass complete short right to Rashard Higgins for 7 yards (tackle by Orlando Scandrick),0.340,0.750
+2,2:01,2,3,CLE 28,21,9,Baker Mayfield pass complete short left to Rashard Higgins for 4 yards (tackle by Steven Nelson),0.750,1.070
+2,1:57,1,10,CLE 32,21,9,Baker Mayfield pass complete short left to Duke Johnson for 10 yards (tackle by Anthony Hitchens),1.070,1.730
+2,1:37,1,10,CLE 42,21,9,Baker Mayfield pass incomplete deep right intended for Rashard Higgins,1.730,1.190
+2,1:32,2,10,CLE 42,21,9,Baker Mayfield pass complete short right to Jarvis Landry for 3 yards (tackle by Steven Nelson),1.190,0.890
+2,1:09,3,7,CLE 45,21,9,"Baker Mayfield sacked by Dee Ford for no gain. Baker Mayfield fumbles (forced by Dee Ford), recovered by Dee Ford at CLE-38 (tackle by Chris Hubbard). Penalty on Dee Ford: Defensive Offside, 5 yards (no play)",0.890,1.550
+2,1:04,3,2,CLE 50,21,9,Baker Mayfield pass complete short left to Duke Johnson for 1 yard (tackle by Kendall Fuller),1.550,0.000
+2,0:50,,,,,,Timeout #2 by Kansas City Chiefs,,
+2,0:50,4,1,KAN 49,21,9,"Penalty on Derrick Nnadi: Encroachment, 5 yards (no play)",0.000,2.650
+2,0:50,1,10,KAN 44,21,9,Baker Mayfield pass complete deep right to Jarvis Landry for 17 yards (tackle by Eric Murray),2.650,3.780
+2,0:40,,,,,,Timeout #1 by Cleveland Browns,,
+2,0:40,1,10,KAN 27,21,9,Duke Johnson right end for 8 yards (tackle by Dorian O'Daniel),3.780,4.350
+2,0:32,2,2,KAN 19,21,15,"Baker Mayfield pass complete short right to Duke Johnson for 19 yards, touchdown",4.350,7.000
+2,0:26,,,KAN 2,21,15,"Two Point Attempt: Baker Mayfield pass complete to Jarvis Landry, conversion fails",0.000,-1.000
+2,0:26,,,CLE 35,21,15,"Greg Joseph kicks off 64 yards, (tackle by T.J. Carrie)",0.000,1.270
+2,0:20,1,10,KAN 35,21,15,Patrick Mahomes pass incomplete short left intended for Travis Kelce,1.270,0.720
+2,0:14,2,10,KAN 35,21,15,Patrick Mahomes pass complete short right to Chris Conley for 23 yards (tackle by Jabrill Peppers). Penalty on Myles Garrett: Defensive Offside (Declined),0.720,2.790
+2,0:09,1,10,CLE 42,21,15,"Patrick Mahomes spiked the ball. Penalty on Patrick Mahomes: Intentional Grounding, 10 yards",2.790,0.890
+2,0:08,,,,,,Timeout #3 by Kansas City Chiefs,,
+2,0:08,2,20,KAN 48,21,15,Patrick Mahomes pass complete short left to Spencer Ware for 9 yards (tackle by Jamie Collins),0.890,1.420
+2,0:03,3,11,CLE 43,21,15,Patrick Mahomes pass deep right intended for Tyreek Hill is intercepted by Denzel Rice at CLE-14 and returned for no gain,1.420,4.650
+Quarter,Time,Down,ToGo,Location,KAN,CLE,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,CLE 35,21,15,"Greg Joseph kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,KAN 25,21,15,"Tyreek Hill left guard for 4 yards (tackle by Trevon Coley). Penalty on Andrew Wylie: Offensive Holding, 10 yards",0.610,0.130
+3,14:44,1,16,KAN 19,21,15,Patrick Mahomes pass complete short right to Demarcus Robinson for 3 yards (tackle by Tanner Vallejo),0.130,-0.340
+3,14:02,2,13,KAN 22,21,15,Patrick Mahomes pass complete deep left to Sammy Watkins for 23 yards. Penalty on Myles Garrett: Defensive Offside (Declined),-0.340,1.930
+3,13:46,1,10,KAN 45,21,15,Kareem Hunt left tackle for -2 yards (tackle by Tanner Vallejo),1.930,1.110
+3,13:09,2,12,KAN 43,21,15,Patrick Mahomes pass complete short left to Sammy Watkins for 8 yards (tackle by Tanner Vallejo),1.110,1.490
+3,12:24,3,4,CLE 49,21,15,Patrick Mahomes pass complete short left to Spencer Ware for 21 yards (tackle by Jabrill Peppers),1.490,3.710
+3,11:46,1,10,CLE 28,21,15,Patrick Mahomes pass complete short left to Travis Kelce for 9 yards (tackle by Anthony Zettel and Jabrill Peppers),3.710,4.420
+3,11:10,2,1,CLE 19,21,15,"Kareem Hunt left tackle for 2 yards (tackle by Jabrill Peppers). Penalty on Mitchell Schwartz: Offensive Holding, 10 yards. Penalty on Demetrius Harris: Illegal Block Above the Waist (Declined) (no play)",4.420,3.030
+3,10:57,2,11,CLE 29,21,15,Patrick Mahomes pass incomplete short left intended for Demetrius Harris,3.030,2.340
+3,10:53,3,11,CLE 29,21,15,Patrick Mahomes pass complete short right to Travis Kelce for 16 yards (tackle by Briean Boddy-Calhoun),2.340,4.710
+3,10:08,1,10,CLE 13,27,15,"Patrick Mahomes pass complete short middle to Travis Kelce for 13 yards, touchdown",4.710,7.000
+3,10:03,,,CLE 15,28,15,Harrison Butker kicks extra point good,0.000,0.000
+3,10:03,,,KAN 35,28,15,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+3,10:03,1,10,CLE 25,28,15,Baker Mayfield pass incomplete short right intended for Antonio Callaway,0.610,0.060
+3,9:56,2,10,CLE 25,28,15,Nick Chubb right guard for 11 yards (tackle by Reggie Ragland),0.060,1.330
+3,9:24,1,10,CLE 36,28,15,Nick Chubb left guard for -1 yards (tackle by Chris Jones),1.330,0.660
+3,8:49,2,11,CLE 35,28,15,Baker Mayfield pass incomplete deep middle intended for Antonio Callaway,0.660,-0.030
+3,8:45,3,11,CLE 35,28,15,"Penalty on David Njoku: False Start, 5 yards (no play)",-0.030,-0.690
+3,8:45,3,16,CLE 30,28,15,Baker Mayfield pass complete short right to Jarvis Landry for 7 yards (tackle by Eric Murray),-0.690,-0.910
+3,8:10,4,9,CLE 37,28,15,Britton Colquitt punts blocked by Damien Williams,-0.910,-4.170
+3,8:03,1,10,CLE 21,28,15,Kareem Hunt right guard for 11 yards (tackle by Emmanuel Ogbah),4.170,4.910
+3,7:33,1,10,CLE 10,34,15,"Kareem Hunt right end for 10 yards, touchdown",4.910,7.000
+3,7:28,,,CLE 15,34,15,Harrison Butker kicks extra point no good hit right upright,0.000,-1.000
+3,7:28,,,KAN 35,34,15,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+3,7:28,1,10,CLE 25,34,15,Nick Chubb left tackle for -3 yards (tackle by Breeland Speaks),0.610,-0.340
+3,6:50,2,13,CLE 22,34,15,Baker Mayfield pass complete short left to Jarvis Landry for 1 yard (tackle by Steven Nelson),-0.340,-0.890
+3,6:11,3,12,CLE 23,34,15,Baker Mayfield pass complete short middle to Breshad Perriman for 18 yards (tackle by Chris Jones),-0.890,1.660
+3,5:35,1,10,CLE 41,34,15,Nick Chubb left guard for 4 yards (tackle by Reggie Ragland and Derrick Nnadi),1.660,1.660
+3,4:55,2,6,CLE 45,34,15,Baker Mayfield pass incomplete short right intended for Breshad Perriman (defended by Kendall Fuller),1.660,0.960
+3,4:52,3,6,CLE 45,34,15,Baker Mayfield pass complete short right to Damion Ratley for 7 yards (tackle by Ron Parker),0.960,2.390
+3,4:17,1,10,KAN 48,34,15,Baker Mayfield pass complete short left to David Njoku for 9 yards (tackle by Ron Parker),2.390,3.060
+3,3:41,2,1,KAN 39,34,15,Baker Mayfield pass complete deep left to Breshad Perriman for 18 yards (tackle by Steven Nelson),3.060,4.170
+3,3:00,1,10,KAN 21,34,15,Baker Mayfield pass complete short left to Duke Johnson for 11 yards (tackle by Eric Murray),4.170,4.910
+3,2:37,1,10,KAN 10,34,15,Nick Chubb left guard for no gain (tackle by Anthony Hitchens),4.910,4.190
+3,1:53,2,10,KAN 10,34,15,Baker Mayfield sacked by Chris Jones for -13 yards,4.190,1.950
+3,1:07,,,,,,Timeout #1 by Cleveland Browns,,
+3,1:07,3,23,KAN 23,34,15,"Tyrod Taylor pass complete short left to David Njoku for 11 yards (tackle by Anthony Hitchens). Penalty on Anthony Hitchens: Unsportsmanlike Conduct, 6 yards",1.950,5.830
+3,0:49,1,6,KAN 6,34,15,Nick Chubb right guard for 1 yard (tackle by Allen Bailey),5.830,5.150
+3,0:08,2,5,KAN 5,34,15,Nick Chubb right tackle for no gain (tackle by Anthony Hitchens),5.150,4.260
+Quarter,Time,Down,ToGo,Location,KAN,CLE,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,5,KAN 5,34,21,"Baker Mayfield pass complete short middle to Duke Johnson for 5 yards, touchdown",4.260,7.000
+4,14:57,,,KAN 2,34,21,Two Point Attempt: Baker Mayfield pass complete to,0.000,-1.000
+4,14:57,,,CLE 35,34,21,"Greg Joseph kicks off 65 yards, touchback.",0.000,0.610
+4,14:57,1,10,KAN 25,34,21,Kareem Hunt right tackle for 10 yards (tackle by Jabrill Peppers),0.610,1.270
+4,14:27,1,10,KAN 35,34,21,Patrick Mahomes pass complete short left to Travis Kelce for 11 yards (tackle by Myles Garrett),1.270,1.990
+4,13:46,1,10,KAN 46,34,21,Kareem Hunt left tackle for no gain (tackle by Derrick Kindred and Tanner Vallejo),1.990,1.450
+4,13:06,2,10,KAN 46,34,21,Patrick Mahomes pass complete short left to Sammy Watkins for 7 yards (tackle by Tavierre Thomas),1.450,1.690
+4,12:21,3,3,CLE 47,34,21,Patrick Mahomes pass complete short right to Spencer Ware for 14 yards (tackle by Jamie Collins),1.690,3.380
+4,11:37,1,10,CLE 33,34,21,Patrick Mahomes pass incomplete short right intended for Spencer Ware,3.380,2.840
+4,11:32,2,10,CLE 33,34,21,Spencer Ware right end for 11 yards (tackle by Genard Avery),2.840,4.110
+4,10:58,1,10,CLE 22,34,21,Kareem Hunt right guard for no gain (tackle by Tanner Vallejo),4.110,3.560
+4,10:18,2,10,CLE 22,34,21,Kareem Hunt right tackle for 1 yard (tackle by Trevon Coley),3.560,3.010
+4,9:35,3,9,CLE 21,34,21,Patrick Mahomes pass incomplete short right intended for Demarcus Robinson (defended by Emmanuel Ogbah),3.010,2.060
+4,9:30,4,9,CLE 21,37,21,Harrison Butker 39 yard field goal good,2.060,3.000
+4,9:27,,,KAN 35,37,21,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+4,9:27,1,10,CLE 25,37,21,Baker Mayfield pass incomplete deep left intended for David Njoku,0.610,0.060
+4,9:21,2,10,CLE 25,37,21,"Baker Mayfield pass incomplete short left intended for Duke Johnson. Penalty on Dorian O'Daniel: Defensive Holding, 5 yards (no play)",0.060,0.940
+4,9:16,1,10,CLE 30,37,21,Nick Chubb right guard for 17 yards (tackle by Ron Parker and Eric Murray),0.940,2.060
+4,8:46,1,10,CLE 47,37,21,Baker Mayfield pass incomplete deep left intended for Breshad Perriman,2.060,1.520
+4,8:41,2,10,CLE 47,37,21,Baker Mayfield pass incomplete short left intended for Dontrell Hilliard,1.520,0.830
+4,8:36,3,10,CLE 47,37,21,Baker Mayfield pass complete short right to Rashard Higgins for 8 yards (tackle by Steven Nelson),0.830,0.270
+4,7:55,,,,,,Timeout #2 by Cleveland Browns,,
+4,7:55,4,2,KAN 45,37,21,Baker Mayfield pass complete short left to Duke Johnson for -1 yards (tackle by Breeland Speaks),0.270,-1.990
+4,7:47,1,10,KAN 46,37,21,Patrick Mahomes pass complete short right to Travis Kelce for 18 yards (tackle by Derrick Kindred),1.990,3.180
+4,7:05,1,10,CLE 36,37,21,Kareem Hunt right end for 13 yards (tackle by Jamie Collins and Jabrill Peppers),3.180,4.040
+4,6:18,1,10,CLE 23,37,21,Kareem Hunt right guard for -1 yards (tackle by Larry Ogunjobi),4.040,3.360
+4,5:37,2,11,CLE 24,37,21,Patrick Mahomes pass incomplete short right intended for Kareem Hunt,3.360,2.680
+4,5:30,3,11,CLE 24,37,21,Patrick Mahomes sacked by Myles Garrett for -13 yards,2.680,0.790
+4,5:22,,,,,,Timeout #3 by Cleveland Browns,,
+4,5:22,4,24,CLE 37,37,21,"Dustin Colquitt punts 21 yards, returned by Jabrill Peppers for 1 yard (tackle by Charvarius Ward)",0.790,0.060
+4,5:14,1,10,CLE 17,37,21,Baker Mayfield pass complete short left to David Njoku for 14 yards (tackle by Ron Parker),-0.060,1.000
+4,4:46,1,10,CLE 31,37,21,Baker Mayfield pass complete deep left to Antonio Callaway for 38 yards (tackle by Steven Nelson),1.000,3.510
+4,4:39,1,10,KAN 31,37,21,Baker Mayfield pass short left intended for Seth Devalve is intercepted by Steven Nelson at KC-17 and returned for 18 yards,3.510,-1.270
+4,4:29,1,10,KAN 35,37,21,Kareem Hunt right guard for 3 yards (tackle by Tanner Vallejo),1.270,1.130
+4,3:43,2,7,KAN 38,37,21,Kareem Hunt right guard for 6 yards (tackle by Emmanuel Ogbah and Trevon Coley),1.130,1.220
+4,2:57,3,1,KAN 44,37,21,Kareem Hunt right guard for 2 yards (tackle by Genard Avery),1.220,1.990
+4,2:14,1,10,KAN 46,37,21,Kareem Hunt right guard for no gain (tackle by Tanner Vallejo and Jamie Collins),1.990,1.450
+4,2:00,2,10,KAN 46,37,21,Kareem Hunt right guard for 3 yards (tackle by Larry Ogunjobi),1.450,1.160
+4,1:15,3,7,KAN 49,37,21,Spencer Ware right guard for 1 yard (tackle by Emmanuel Ogbah),1.160,-0.060
+4,0:31,4,6,KAN 50,37,21,"Dustin Colquitt punts 42 yards, fair catch by Jabrill Peppers at CLE-8. Penalty on Damion Ratley: Defensive Offside (Declined)",-0.060,0.380
+4,0:24,1,10,CLE 8,37,21,Baker Mayfield pass complete short right to Damion Ratley for 9 yards (tackle by Dorian O'Daniel),-0.380,0.050
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

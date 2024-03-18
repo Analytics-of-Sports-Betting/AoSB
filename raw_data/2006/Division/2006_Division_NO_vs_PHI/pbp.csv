@@ -1,0 +1,177 @@
+Quarter,Time,Down,ToGo,Location,PHI,NOR,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Saints won the coin toss, Saints to receive the opening kickoff.",,
+1,15:00,,,PHI 30,0,0,"David Akers kicks off 71 yards, returned by Michael Lewis for 29 yards (tackle by Reno Mahe)",0.000,0.810
+1,14:54,1,10,NOR 28,0,0,Deuce McAllister right guard for 12 yards (tackle by Brian Dawkins and Mike Patterson),0.810,1.600
+1,14:19,1,10,NOR 40,0,0,Drew Brees pass incomplete short right intended for Reggie Bush (defended by Sheldon Brown),1.600,1.050
+1,14:11,2,10,NOR 40,0,0,Drew Brees pass complete short left to Deuce McAllister for no gain,1.050,0.370
+1,13:30,3,10,NOR 40,0,0,Drew Brees pass incomplete short middle intended for Marques Colston,0.370,-0.720
+1,13:26,4,10,NOR 40,0,0,"Steve Weatherford punts 47 yards, fair catch by Reno Mahe",-0.720,0.320
+1,13:16,1,10,PHI 13,0,0,Jeff Garcia pass complete short right to Matt Schobel for 5 yards (tackle by Mike McKenzie),-0.320,-0.140
+1,12:49,2,5,PHI 18,0,0,"Brian Westbrook right tackle for -2 yards (tackle by Charles Grant and Will Smith). Penalty on Jamaal Jackson: Offensive Holding, 9 yards (no play)",-0.140,-1.070
+1,12:18,2,14,PHI 9,0,0,Jeff Garcia pass complete short right to Brian Westbrook for 4 yards (tackle by Charles Grant),-1.070,-1.420
+1,11:47,3,10,PHI 13,0,0,Jeff Garcia pass incomplete deep left intended for Donte' Stallworth,-1.420,-2.490
+1,11:40,4,10,PHI 13,0,0,"Dirk Johnson punts 38 yards, returned by Reggie Bush for 1 yard (tackle by Dhani Jones)",-2.490,-2.260
+1,11:29,1,10,,0,0,Deuce McAllister right tackle for 28 yards (tackle by Brian Dawkins),2.260,4.110
+1,10:45,1,10,PHI 22,0,0,Reggie Bush right end for 3 yards (tackle by Juqua Parker),4.110,3.970
+1,10:10,2,7,PHI 19,0,0,Deuce McAllister left guard for 4 yards (tackle by Dhani Jones and Omar Gaither),3.970,3.930
+1,9:32,3,3,PHI 15,0,0,Drew Brees pass incomplete short right intended for Marques Colston,3.930,2.540
+1,9:28,4,3,PHI 15,0,3,John Carney 33 yard field goal good,2.540,3.000
+1,,,,NOR 30,0,3,"Billy Cundiff kicks off 70 yards, touchback",0.000,0.280
+1,9:24,1,10,PHI 20,0,3,Correll Buckhalter right guard for -1 yards (tackle by Will Smith and Hollis Thomas),0.280,-0.460
+1,8:45,2,11,PHI 19,0,3,Jeff Garcia pass incomplete deep middle intended for Donte' Stallworth (defended by Josh Bullocks),-0.460,-1.140
+1,8:37,3,11,PHI 19,0,3,Jeff Garcia pass complete deep right to Reggie Brown for 20 yards (tackle by Mike McKenzie),-1.140,1.530
+1,8:01,1,10,PHI 39,0,3,Brian Westbrook right guard for 1 yard (tackle by Jay Bellamy),1.530,1.120
+1,7:25,2,9,PHI 40,0,3,"Jeff Garcia for no gain. Jeff Garcia fumbles, recovered by Jeff Garcia at PHI-38",1.120,0.170
+1,6:49,3,11,PHI 38,0,3,"Jeff Garcia sacked by Scott Shanle for -8 yards. Penalty on Will Smith: Face Mask (15 Yards), 15 yards",0.170,1.930
+1,6:17,1,10,PHI 45,0,3,Jeff Garcia pass complete short right to Brian Westbrook for 2 yards (tackle by Mark Simoneau and Scott Fujita),1.930,1.650
+1,5:33,2,8,PHI 47,0,3,Brian Westbrook left guard for 5 yards (tackle by Brian Young),1.650,1.620
+1,4:51,3,3,NOR 48,0,3,"Jeff Garcia for no gain. Penalty on Jeff Garcia: Illegal Forward Pass, 5 yards",1.620,-0.260
+1,4:41,4,8,PHI 47,0,3,"Dirk Johnson punts 38 yards, fair catch by Michael Lewis. Penalty on Reggie Brown: Ineligible Downfield Kic, 5 yards",-0.260,-0.280
+1,4:32,1,10,NOR 20,0,3,Drew Brees pass complete short middle to Mark Campbell for 23 yards (tackle by Roderick Hood),0.280,1.800
+1,3:58,1,10,NOR 43,0,3,Drew Brees pass incomplete short right intended for Marques Colston,1.800,1.250
+1,3:52,2,10,NOR 43,0,3,Drew Brees pass complete short right to Terrance Copper for 3 yards (tackle by Sean Considine),1.250,0.960
+1,3:09,3,7,NOR 46,0,3,Drew Brees pass complete short middle to Marques Colston for 4 yards (tackle by Sheldon Brown),0.960,-0.060
+1,2:34,4,3,,0,3,"Steve Weatherford punts 36 yards, returned by Reno Mahe for 9 yards (tackle by Terrence Melton)",-0.060,-0.480
+1,2:23,1,10,PHI 23,0,3,Jeff Garcia pass incomplete short middle intended for L.J. Smith (defended by Josh Bullocks),0.480,-0.070
+1,2:18,2,10,PHI 23,0,3,Brian Westbrook right guard for 1 yard (tackle by Charles Grant),-0.070,-0.630
+1,1:37,3,9,PHI 24,0,3,Jeff Garcia pass incomplete deep middle intended for Hank Baskett (defended by Josh Bullocks),-0.630,-1.770
+1,1:31,4,9,PHI 24,0,3,"Dirk Johnson punts 49 yards, returned by Reggie Bush for 9 yards (tackle by Joselio Hanson)",-1.770,-1.330
+1,1:19,1,10,NOR 36,0,3,Reggie Bush left end for 25 yards (tackle by Roderick Hood and Sean Considine),1.330,2.980
+1,0:32,1,10,PHI 39,0,3,Drew Brees pass complete deep left to Devery Henderson for 35 yards (tackle by Brian Dawkins),2.980,6.280
+1,0:18,1,4,PHI 4,0,3,Deuce McAllister left guard for -1 yards (tackle by Trent Cole and Mike Patterson),6.280,5.150
+Quarter,Time,Down,ToGo,Location,PHI,NOR,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,5,PHI 5,0,3,Drew Brees pass incomplete short right intended for Marques Colston,5.150,4.260
+2,14:57,3,5,PHI 5,0,3,Drew Brees pass incomplete short left intended for Aaron Stecker,4.260,3.010
+2,14:49,4,5,PHI 5,0,6,John Carney 23 yard field goal good,3.010,3.000
+2,,,,NOR 30,0,6,"Billy Cundiff kicks off 72 yards, returned by Roderick Hood for 26 yards (tackle by Josh Bullocks)",0.000,0.540
+2,14:39,1,10,PHI 24,0,6,Correll Buckhalter right tackle for 1 yard (tackle by Hollis Thomas and Josh Bullocks),0.540,0.130
+2,13:56,2,9,PHI 25,0,6,Jeff Garcia pass incomplete short left intended for Hank Baskett,0.130,-0.560
+2,13:49,3,9,PHI 25,6,6,"Jeff Garcia pass complete deep left to Donte' Stallworth for 75 yards, touchdown",-0.560,7.000
+2,,,,NOR 2,7,6,David Akers kicks extra point good,0.000,0.000
+2,,,,PHI 30,7,6,"David Akers kicks off 65 yards, returned by Michael Lewis for 17 yards (tackle by Quintin Mikell)",0.000,0.410
+2,13:30,1,10,NOR 22,7,6,Drew Brees pass complete short left to Marques Colston for 14 yards (tackle by Jeremiah Trotter),0.410,1.330
+2,12:52,1,10,NOR 36,7,6,Deuce McAllister right tackle for 8 yards (tackle by Dhani Jones),1.330,1.870
+2,12:19,2,2,NOR 44,7,6,Deuce McAllister right tackle for 2 yards (tackle by Omar Gaither),1.870,1.990
+2,11:40,1,10,NOR 46,7,6,Deuce McAllister left guard for 5 yards (tackle by Trent Cole),1.990,2.130
+2,11:02,2,5,PHI 49,7,6,Reggie Bush right end for -6 yards (tackle by Jeremiah Trotter),2.130,0.630
+2,10:21,3,11,NOR 45,7,6,Drew Brees pass complete short left to Reggie Bush for 14 yards (tackle by Roderick Hood),0.630,2.850
+2,9:48,1,10,PHI 41,7,6,Drew Brees pass complete short right to Marques Colston for 5 yards (tackle by Omar Gaither),2.850,2.980
+2,9:05,2,5,PHI 36,7,6,Reggie Bush right tackle for -2 yards (tackle by Trent Cole),2.980,2.020
+2,8:24,3,7,PHI 38,7,6,Reggie Bush left guard for 7 yards (tackle by Quintin Mikell),2.020,3.510
+2,7:41,1,10,PHI 31,7,6,Drew Brees pass incomplete deep left intended for Marques Colston,3.510,2.970
+2,7:35,2,10,PHI 31,7,6,Reggie Bush middle for 3 yards (tackle by Trent Cole and Dhani Jones),2.970,2.680
+2,6:53,3,7,PHI 28,7,6,Drew Brees pass complete short right to Marques Colston for 19 yards (tackle by Sean Considine),2.680,5.140
+2,6:07,1,9,PHI 9,7,6,Deuce McAllister left guard for 5 yards (tackle by Sean Considine),5.140,5.340
+2,5:27,2,4,PHI 4,7,12,"Reggie Bush right end for 4 yards, touchdown",5.340,7.000
+2,,,,PHI 2,7,13,John Carney kicks extra point good,0.000,0.000
+2,,,,NOR 30,7,13,"Billy Cundiff kicks off 70 yards, touchback",0.000,0.280
+2,5:19,1,10,PHI 20,7,13,Brian Westbrook right guard for -1 yards (tackle by Will Smith),0.280,-0.460
+2,4:41,2,11,PHI 19,7,13,Jeff Garcia pass incomplete short right intended for Brian Westbrook,-0.460,-1.140
+2,4:35,3,11,PHI 19,7,13,Jeff Garcia pass complete deep left to Reggie Brown for 32 yards (tackle by Jay Bellamy),-1.140,2.320
+2,4:08,1,10,NOR 49,7,13,Jeff Garcia pass incomplete short right intended for Donte' Stallworth,2.320,1.780
+2,4:02,2,10,NOR 49,7,13,Brian Westbrook right end for 4 yards (tackle by Josh Cooper),1.780,1.620
+2,3:19,3,6,NOR 45,7,13,Jeff Garcia pass complete deep right to Hank Baskett for 25 yards (tackle by Jay Bellamy),1.620,4.240
+2,2:46,1,10,NOR 20,7,13,Jeff Garcia pass complete short middle to Correll Buckhalter for 8 yards (tackle by Charles Grant and Mark Simoneau),4.240,5.040
+2,2:00,2,2,NOR 12,7,13,Jeff Garcia middle for 3 yards (tackle by Will Smith and Jason Craft),5.040,5.140
+2,1:47,,,,7,13,Timeout #1 by New Orleans Saints,0.000,5.140
+2,1:47,1,9,NOR 9,7,13,Jeff Garcia pass incomplete short left intended for Brian Westbrook,5.140,4.380
+2,1:42,2,9,NOR 9,7,13,Jeff Garcia pass complete short left to L.J. Smith for 8 yards (tackle by Josh Bullocks),4.380,5.170
+2,0:54,,,,7,13,Timeout #1 by Philadelphia Eagles,0.000,5.170
+2,0:54,3,1,NOR 1,13,13,"Brian Westbrook right guard for 1 yard, touchdown",5.170,7.000
+2,,,,NOR 2,14,13,David Akers kicks extra point good,0.000,0.000
+2,,,,PHI 30,14,13,"David Akers kicks off 60 yards, returned by Michael Lewis for 25 yards (tackle by Jason Avant)",0.000,1.270
+2,0:45,1,10,NOR 35,14,13,Drew Brees pass complete short right to Billy Miller for 7 yards (tackle by Sheldon Brown),1.270,1.670
+2,0:37,2,3,NOR 42,14,13,Drew Brees sacked by Trent Cole and Juqua Parker for -7 yards,1.670,0.040
+2,0:32,,,,14,13,Timeout #2 by New Orleans Saints,0.000,0.040
+2,0:32,3,10,NOR 35,14,13,Drew Brees sacked by Darwin Walker for -3 yards,0.040,-1.240
+2,0:25,,,,14,13,Timeout #2 by Philadelphia Eagles,0.000,-1.240
+2,0:25,4,13,NOR 32,14,13,Steve Weatherford for 15 yards (tackle by Will Peterson),-1.240,2.060
+2,0:17,1,10,NOR 47,14,13,Drew Brees pass complete short left to Reggie Bush for 8 yards (tackle by Shawn Barber and Quintin Mikell),2.060,2.600
+2,0:08,,,,14,13,Timeout #3 by New Orleans Saints,0.000,2.600
+2,0:08,2,2,PHI 45,14,13,Drew Brees pass incomplete short right intended for Marques Colston,2.600,1.880
+2,0:02,3,2,PHI 45,14,13,Drew Brees pass incomplete deep right intended for Marques Colston (defended by Will Peterson),1.880,0.270
+Quarter,Time,Down,ToGo,Location,PHI,NOR,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,NOR 30,14,13,"Billy Cundiff kicks off 72 yards, returned by Roderick Hood for 22 yards (tackle by Danny Clark)",0.000,0.280
+3,14:55,1,10,PHI 20,14,13,Jeff Garcia pass complete short right to Donte' Stallworth for 12 yards (tackle by Mike McKenzie),0.280,1.070
+3,14:15,1,10,PHI 32,14,13,Jeff Garcia left tackle for 6 yards (tackle by Scott Fujita),1.070,1.340
+3,13:37,2,4,PHI 38,20,13,"Brian Westbrook right guard for 62 yards, touchdown",1.340,7.000
+3,,,,NOR 2,21,13,David Akers kicks extra point good,0.000,0.000
+3,,,,PHI 30,21,13,"David Akers kicks off 69 yards, returned by Michael Lewis for 36 yards (tackle by Hank Baskett)",0.000,1.400
+3,13:16,1,10,NOR 37,21,13,Deuce McAllister right guard for 7 yards (tackle by Trent Cole and Dhani Jones),1.400,1.800
+3,12:43,2,3,NOR 44,21,13,Reggie Bush left end for 5 yards (tackle by Trent Cole),1.800,2.190
+3,12:05,1,10,NOR 49,21,13,"Drew Brees pass complete short middle to Deuce McAllister for 5 yards (tackle by Jeremiah Trotter). Penalty on Jammal Brown: Offensive Holding, 10 yards (no play)",2.190,1.530
+3,11:43,1,20,NOR 39,21,13,Drew Brees pass complete short left to Billy Miller for 15 yards (tackle by Roderick Hood),1.530,2.320
+3,11:03,2,5,PHI 46,21,13,Deuce McAllister left tackle for 12 yards (tackle by Roderick Hood),2.320,3.310
+3,10:30,1,10,PHI 34,21,13,Drew Brees pass incomplete short left intended for Marques Colston,3.310,2.770
+3,10:27,2,10,PHI 34,21,13,Drew Brees pass complete deep middle to Billy Miller for 29 yards (tackle by Omar Gaither and Sean Considine),2.770,6.060
+3,9:44,1,5,PHI 5,21,19,"Deuce McAllister left guard for 5 yards, touchdown",6.060,7.000
+3,,,,PHI 2,21,20,John Carney kicks extra point good,0.000,0.000
+3,,,,NOR 30,21,20,"Billy Cundiff kicks off 63 yards, returned by Reno Mahe for 11 yards, lateral to Jason Avant for 28 yards (tackle by Michael Lewis)",0.000,1.990
+3,9:26,1,10,PHI 46,21,20,Jeff Garcia pass incomplete deep right intended for Greg Lewis,1.990,1.450
+3,9:20,2,10,PHI 46,21,20,Brian Westbrook left end for 18 yards (tackle by Scott Shanle and Jay Bellamy),1.450,3.180
+3,8:34,1,10,NOR 36,21,20,Correll Buckhalter left tackle for -2 yards (tackle by Charles Grant and Jay Bellamy),3.180,2.370
+3,7:47,2,12,NOR 38,21,20,Jeff Garcia pass incomplete short middle intended for Brian Westbrook,2.370,1.690
+3,7:42,3,12,NOR 38,21,20,Jeff Garcia pass incomplete short right intended for Hank Baskett,1.690,0.720
+3,7:37,4,12,NOR 38,21,20,Dirk Johnson punts 22 yards,0.720,0.140
+3,7:26,1,10,NOR 16,21,20,Drew Brees pass complete short right to Deuce McAllister for 10 yards (tackle by Darren Howard and Sean Considine),-0.140,0.670
+3,6:50,1,10,NOR 26,21,20,Reggie Bush right tackle for 1 yard (tackle by Darwin Walker),0.670,0.270
+3,6:05,2,9,NOR 27,21,20,Drew Brees pass complete short right to Billy Miller for 13 yards (tackle by Sheldon Brown),0.270,1.600
+3,5:28,1,10,NOR 40,21,20,Reggie Bush middle for -5 yards (tackle by Omar Gaither),1.600,0.380
+3,4:49,2,15,NOR 35,21,20,"Reggie Bush right end for 10 yards (tackle by Jeremiah Trotter). Reggie Bush fumbles (forced by Jeremiah Trotter), recovered by Terrance Copper at PHI-49",0.380,2.320
+3,4:00,1,10,PHI 49,21,20,Drew Brees pass complete short right to Deuce McAllister for -1 yards (tackle by Dhani Jones),2.320,1.650
+3,3:18,2,11,,21,20,Drew Brees pass complete deep middle to John Owens for 21 yards (tackle by Sean Considine). Penalty on Roderick Hood: Defensive Holding (Declined),1.650,3.640
+3,2:50,1,10,PHI 29,21,20,"Reggie Bush left tackle for 9 yards (tackle by Roderick Hood). Penalty on Jammal Brown: Offensive Holding, 10 yards (no play)",3.640,2.980
+3,2:21,1,20,PHI 39,21,20,"Drew Brees sacked by Trent Cole for -7 yards. Penalty on Dhani Jones: Illegal Contact, 5 yards (no play)",2.980,3.310
+3,1:57,1,10,PHI 34,21,20,Deuce McAllister left tackle for 23 yards (tackle by Sheldon Brown and Brian Dawkins),3.310,4.840
+3,1:11,1,10,PHI 11,21,26,"Drew Brees pass complete short left to Deuce McAllister for 11 yards, touchdown",4.840,7.000
+3,,,,PHI 2,21,27,John Carney kicks extra point good,0.000,0.000
+3,,,,NOR 30,21,27,"Billy Cundiff kicks off 65 yards, returned by Reno Mahe for 25 yards (tackle by Danny Clark)",0.000,0.940
+3,0:58,1,10,PHI 30,21,27,Jeff Garcia pass incomplete short left intended for Correll Buckhalter (defended by Mark Simoneau),0.940,0.390
+3,0:51,2,10,PHI 30,21,27,Jeff Garcia pass complete short right to L.J. Smith for 15 yards (tackle by Mike McKenzie),0.390,1.930
+3,0:06,1,10,PHI 45,21,27,Jeff Garcia pass complete short right to Donte' Stallworth for 13 yards (tackle by Jason Craft),1.930,2.790
+Quarter,Time,Down,ToGo,Location,PHI,NOR,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,NOR 42,21,27,"Jeff Garcia for 20 yards (tackle by Josh Bullocks). Penalty on Brodrick Bunkley: Offensive Holding, 10 yards (no play)",2.790,2.130
+4,14:27,1,20,PHI 48,21,27,Jeff Garcia pass complete short left to Reggie Brown for 24 yards,2.130,3.710
+4,14:01,1,10,NOR 28,21,27,Brian Westbrook left tackle for 15 yards (tackle by Jay Bellamy),3.710,4.710
+4,13:20,1,10,NOR 13,21,27,Brian Westbrook left end for 9 yards (tackle by Josh Bullocks and Fred Thomas),4.710,5.730
+4,12:38,2,1,NOR 4,21,27,Brian Westbrook right end for no gain (tackle by Will Smith),5.730,5.010
+4,11:57,3,1,NOR 4,21,27,Jeff Garcia pass complete short right to Thomas Tapeh for -2 yards (tackle by Scott Fujita),5.010,3.010
+4,11:12,4,3,NOR 6,24,27,David Akers 24 yard field goal good,3.010,3.000
+4,,,,PHI 30,24,27,"David Akers kicks off 65 yards, returned by Michael Lewis for 30 yards (tackle by Michael Lewis)",0.000,1.270
+4,11:01,1,10,NOR 35,24,27,Drew Brees sacked by Darwin Walker for -6 yards,1.270,-0.090
+4,10:27,2,16,NOR 29,24,27,Drew Brees pass complete short right to Reggie Bush for no gain,-0.090,-0.760
+4,9:42,3,16,NOR 29,24,27,Drew Brees pass incomplete short right intended for Reggie Bush,-0.760,-1.440
+4,9:36,4,16,NOR 29,24,27,"Steve Weatherford punts 38 yards, returned by Brian Westbrook for 4 yards (tackle by Danny Clark)",-1.440,-1.400
+4,9:24,1,10,PHI 37,24,27,Jeff Garcia pass incomplete short right intended for Reggie Brown,1.400,0.860
+4,9:18,2,10,PHI 37,24,27,Brian Westbrook right tackle for no gain (tackle by Will Smith and Charles Grant),0.860,0.170
+4,8:39,3,10,PHI 37,24,27,Jeff Garcia pass incomplete deep left intended for Greg Lewis,0.170,-0.910
+4,8:33,4,10,PHI 37,24,27,"Dirk Johnson punts 45 yards, returned by Reggie Bush for 11 yards (tackle by Thomas Tapeh)",-0.910,-0.870
+4,8:20,1,10,NOR 29,24,27,Deuce McAllister left tackle for 7 yards (tackle by Darwin Walker),0.870,1.270
+4,7:38,2,3,NOR 36,24,27,Deuce McAllister left tackle for 2 yards (tackle by Sam Rayburn),1.270,0.830
+4,7:00,3,1,NOR 38,24,27,Deuce McAllister left guard for 3 yards (tackle by Trent Cole and Brian Dawkins),0.830,1.660
+4,6:20,1,10,NOR 41,24,27,Deuce McAllister left guard for 1 yard (tackle by Sean Considine),1.660,1.260
+4,5:57,2,9,NOR 42,24,27,Drew Brees pass incomplete deep middle intended for Terrance Copper,1.260,0.560
+4,5:49,3,9,NOR 42,24,27,Drew Brees pass complete short right to Marques Colston for 13 yards (tackle by Will Peterson and Sean Considine),0.560,2.590
+4,5:04,1,10,PHI 45,24,27,Reggie Bush left end for 7 yards (tackle by Roderick Hood),2.590,2.990
+4,4:18,2,3,PHI 38,24,27,Deuce McAllister left tackle for 3 yards (tackle by Darren Howard and Dhani Jones),2.990,3.250
+4,3:30,1,10,PHI 35,24,27,Deuce McAllister right guard for 3 yards (tackle by Jeremiah Trotter and Trent Cole),3.250,3.110
+4,3:24,,,,24,27,Timeout #1 by Philadelphia Eagles,0.000,3.110
+4,3:24,2,7,PHI 32,24,27,"Drew Brees for no gain. Drew Brees fumbles, recovered by Darren Howard at PHI-44 (tackle by Drew Brees)",3.110,-1.860
+4,3:18,1,10,PHI 44,24,27,Jeff Garcia pass complete short left to Brian Westbrook for -1 yards (tackle by Fred Thomas),1.860,1.180
+4,2:37,2,11,PHI 43,24,27,Brian Westbrook right end for 1 yard (tackle by Scott Fujita),1.180,0.630
+4,2:02,3,10,PHI 44,24,27,Jeff Garcia pass incomplete short right intended for Brian Westbrook,0.630,-0.460
+4,1:56,4,10,PHI 44,24,27,"Penalty on Scott Young: False Start, 5 yards (no play)",-0.460,-0.780
+4,1:56,4,15,PHI 39,24,27,"Dirk Johnson punts 39 yards, fair catch by Reggie Bush",-0.780,-0.410
+4,1:48,1,10,NOR 22,24,27,Deuce McAllister left guard for 4 yards (tackle by Darwin Walker),0.410,0.410
+4,1:44,,,,24,27,Timeout #2 by Philadelphia Eagles,0.000,0.410
+4,1:44,2,6,NOR 26,24,27,Deuce McAllister left tackle for 5 yards (tackle by Michael Lewis),0.410,0.370
+4,1:37,,,,24,27,Timeout #3 by Philadelphia Eagles,0.000,0.000
+4,1:37,,,,24,27,Timeout #1 by New Orleans Saints,0.000,0.370
+4,1:37,3,1,NOR 31,24,27,Deuce McAllister right guard for 5 yards (tackle by Dhani Jones),0.370,1.330
+4,0:52,1,10,NOR 36,24,27,Drew Brees kneels for -1 yards,1.330,0.660
+4,0:20,2,11,NOR 35,24,27,Drew Brees kneels for -1 yards,0.660,-0.160
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

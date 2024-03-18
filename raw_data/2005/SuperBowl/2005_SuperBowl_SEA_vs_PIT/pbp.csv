@@ -1,0 +1,187 @@
+Quarter,Time,Down,ToGo,Location,SEA,PIT,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Seahawks won the coin toss, Seahawks to receive the opening kickoff.",,
+1,15:00,,,PIT 30,0,0,"Jeff Reed kicks off 67 yards, returned by Josh Scobey for 15 yards (tackle by Clint Kriewaldt)",0.000,0.040
+1,14:55,1,10,SEA 18,0,0,Matt Hasselbeck pass complete to Darrell Jackson for 7 yards (tackle by Ike Taylor),0.040,0.550
+1,14:29,2,3,SEA 25,0,0,Matt Hasselbeck pass complete to Darrell Jackson for 5 yards,0.550,0.940
+1,14:17,1,10,SEA 30,0,0,Shaun Alexander right end for 8 yards (tackle by Troy Polamalu),0.940,1.470
+1,13:47,2,2,SEA 38,0,0,Matt Hasselbeck pass complete to Darrell Jackson for 8 yards,1.470,1.990
+1,13:28,1,10,SEA 46,0,0,Shaun Alexander left end for 1 yard (tackle by Kimo von Oelhoffen),1.990,1.590
+1,12:44,2,9,SEA 47,0,0,Matt Hasselbeck pass incomplete intended for Darrell Jackson,1.590,0.890
+1,12:40,3,9,SEA 47,0,0,Matt Hasselbeck sacked by Clark Haggans for -4 yards. Penalty on Sean Locklear: Offensive Holding (Declined),0.890,-0.520
+1,12:19,4,13,SEA 43,0,0,"Tom Rouen punts 57 yards, touchback",-0.520,-0.280
+1,12:09,1,10,PIT 20,0,0,"Penalty on Heath Miller: False Start, 5 yards (no play)",0.280,-0.310
+1,12:09,1,15,PIT 15,0,0,Willie Parker up the middle for no gain (tackle by LeRoy Hill),-0.310,-1.070
+1,11:35,2,15,PIT 15,0,0,Ben Roethlisberger pass complete to Willie Parker for 1 yard (tackle by Rocky Bernard),-1.070,-1.690
+1,10:47,3,14,PIT 16,0,0,"Penalty on Max Starks: False Start, 5 yards (no play)",-1.690,-2.470
+1,10:32,3,19,PIT 11,0,0,Ben Roethlisberger left tackle for 10 yards (tackle by Lofa Tatupu),-2.470,-1.960
+1,9:49,4,9,PIT 21,0,0,"Chris Gardocki punts 41 yards, returned by Peter Warrick for -2 yards (tackle by James Harrison)",-1.960,-1.330
+1,9:39,1,10,SEA 36,0,0,Mack Strong left end for no gain (tackle by Kimo von Oelhoffen),1.330,0.790
+1,9:04,2,10,SEA 36,0,0,Matt Hasselbeck left end for 9 yards (tackle by James Farrior),0.790,1.290
+1,8:28,3,1,SEA 45,0,0,Matt Hasselbeck pass complete to Darrell Jackson for 10 yards (tackle by Ike Taylor),1.290,2.590
+1,7:46,1,10,PIT 45,0,0,Matt Hasselbeck pass complete to Shaun Alexander for -2 yards (tackle by Brett Keisel),2.590,1.770
+1,7:08,2,12,PIT 47,0,0,Matt Hasselbeck pass complete to Bobby Engram for 6 yards (tackle by Ike Taylor),1.770,1.880
+1,6:24,3,6,PIT 41,0,0,"Matt Hasselbeck pass complete to Darrell Jackson for 18 yards (tackle by Tyrone Carter). Penalty on Chris Gray: Offensive Holding, 10 yards (no play)",1.880,0.560
+1,5:53,3,16,SEA 49,0,0,Matt Hasselbeck pass incomplete intended for Darrell Jackson (defended by Ike Taylor),0.560,-0.130
+1,5:48,4,16,SEA 49,0,0,"Tom Rouen punts 51 yards, touchback",-0.130,-0.280
+1,5:39,1,10,PIT 20,0,0,Willie Parker left end for no gain (tackle by Marcus Trufant),0.280,-0.270
+1,5:02,2,10,PIT 20,0,0,Willie Parker left end for 6 yards (tackle by LeRoy Hill),-0.270,-0.160
+1,4:20,3,4,PIT 26,0,0,Ben Roethlisberger pass incomplete intended for Hines Ward,-0.160,-1.630
+1,4:14,4,4,PIT 26,0,0,"Chris Gardocki punts 37 yards, returned by Peter Warrick for 12 yards (tackle by James Harrison)",-1.630,-2.190
+1,4:01,1,10,SEA 49,0,0,Shaun Alexander right tackle for 4 yards (tackle by Larry Foote),2.190,2.190
+1,3:22,2,6,PIT 47,0,0,Matt Hasselbeck pass complete to Darrell Jackson for 20 yards (tackle by Chris Hope),2.190,3.780
+1,2:48,1,10,PIT 27,0,0,Matt Hasselbeck pass complete to Joe Jurevicius for 11 yards (tackle by Deshea Townsend),3.780,4.510
+1,2:08,1,10,PIT 16,0,0,"Matt Hasselbeck pass complete to Darrell Jackson for 16 yards. Penalty on Darrell Jackson: Offensive Pass Interfere, 10 yards (no play)",4.510,3.840
+1,2:00,1,20,PIT 26,0,0,Shaun Alexander right end for 1 yard (tackle by Clark Haggans),3.840,2.740
+1,1:18,2,19,PIT 25,0,0,Shaun Alexander left end for -4 yards (tackle by Larry Foote),2.740,1.550
+1,0:35,3,23,PIT 29,0,0,Matt Hasselbeck pass incomplete intended for D.J. Hackett (defended by Bryant McFadden),1.550,1.500
+1,0:27,4,23,PIT 29,3,0,Josh Brown 47 yard field goal good,1.500,3.000
+1,0:27,,,SEA 30,3,0,"Josh Brown kicks off 72 yards, returned by Ricardo Colclough for 22 yards (tackle by Niko Koutouvides)",0.000,0.280
+1,0:17,1,10,PIT 20,3,0,Ben Roethlisberger pass incomplete intended for Cedrick Wilson,0.280,-0.270
+1,0:09,2,10,PIT 20,3,0,Ben Roethlisberger pass incomplete intended for Hines Ward (defended by Jordan Babineaux),-0.270,-0.960
+1,0:06,3,10,PIT 20,3,0,Ben Roethlisberger pass incomplete intended for Nate Washington,-0.960,-2.030
+Quarter,Time,Down,ToGo,Location,SEA,PIT,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,4,10,PIT 20,3,0,"Chris Gardocki punts 60 yards, returned by Peter Warrick for 34 yards (tackle by Chidi Iwuoma). Penalty on Etric Pruitt: Offensive Holding, 10 yards",-2.030,-0.610
+2,14:44,1,10,SEA 25,3,0,Shaun Alexander right tackle for 5 yards (tackle by Clark Haggans),0.610,0.740
+2,14:15,2,5,SEA 30,3,0,Matt Hasselbeck pass incomplete intended for Bobby Engram,0.740,0.040
+2,14:11,3,5,SEA 30,3,0,Matt Hasselbeck pass complete to Joe Jurevicius for 15 yards (tackle by Bryant McFadden),0.040,1.930
+2,13:42,1,10,SEA 45,3,0,Shaun Alexander right tackle for 3 yards (tackle by Casey Hampton and Troy Polamalu),1.930,1.790
+2,13:09,2,7,SEA 48,3,0,Shaun Alexander right end for 5 yards (tackle by James Farrior),1.790,1.750
+2,12:29,3,2,PIT 47,3,0,Matt Hasselbeck pass incomplete intended for Jerramy Stevens (defended by Chris Hope),1.750,0.130
+2,12:22,4,2,PIT 47,3,0,"Tom Rouen punts 47 yards, touchback",0.130,-0.280
+2,12:13,1,10,PIT 20,3,0,Ben Roethlisberger pass incomplete intended for Hines Ward,0.280,-0.270
+2,12:07,2,10,PIT 20,3,0,Jerome Bettis left end for 2 yards (tackle by Marcus Tubbs),-0.270,-0.690
+2,11:25,3,8,PIT 22,3,0,Ben Roethlisberger pass complete to Antwaan Randle El for 8 yards (tackle by Lofa Tatupu),-0.690,0.940
+2,10:44,1,10,PIT 30,3,0,Hines Ward left end for 18 yards (tackle by Marquand Manuel),0.940,2.130
+2,10:19,1,10,PIT 48,3,0,Ben Roethlisberger pass incomplete intended for Antwaan Randle El is intercepted by Michael Boulware at SEA-17,2.130,0.060
+2,10:09,1,10,SEA 17,3,0,Matt Hasselbeck pass complete to Bobby Engram for 3 yards (tackle by Clark Haggans),-0.060,-0.060
+2,9:32,2,7,SEA 20,3,0,Shaun Alexander right tackle for 4 yards (tackle by Joey Porter),-0.060,-0.370
+2,8:47,3,3,SEA 24,3,0,Matt Hasselbeck pass complete to Mack Strong for 2 yards (tackle by Deshea Townsend),-0.370,-1.630
+2,8:27,4,1,SEA 26,3,0,"Tom Rouen punts 45 yards, returned by Antwaan Randle El for 12 yards (tackle by Niko Koutouvides)",-1.630,-1.660
+2,8:15,1,10,PIT 41,3,0,Willie Parker right end for 1 yard (tackle by Lofa Tatupu and LeRoy Hill),1.660,1.260
+2,7:37,2,9,PIT 42,3,0,Willie Parker left tackle for 3 yards (tackle by LeRoy Hill),1.260,0.960
+2,6:59,3,6,PIT 45,3,0,Ben Roethlisberger pass complete to Hines Ward for 12 yards (tackle by Marcus Trufant),0.960,2.720
+2,6:15,1,10,SEA 43,3,0,Willie Parker left tackle for 1 yard (tackle by Grant Wistrom),2.720,2.310
+2,5:36,2,9,SEA 42,3,0,Ben Roethlisberger pass complete to Cedrick Wilson for 20 yards (tackle by Marcus Trufant),2.310,4.110
+2,4:53,1,10,SEA 22,3,0,Ben Roethlisberger pass incomplete intended for Hines Ward,4.110,3.560
+2,4:47,2,10,SEA 22,3,0,"Ben Roethlisberger pass complete to Jerome Bettis for 5 yards (tackle by Andre Dyson). Penalty on Heath Miller: Offensive Pass Interfere, 10 yards (no play)",3.560,2.210
+2,4:21,2,20,SEA 32,3,0,Ben Roethlisberger sacked by Grant Wistrom for -8 yards,2.210,0.500
+2,3:58,3,28,SEA 40,3,0,Ben Roethlisberger pass complete to Hines Ward for 37 yards (tackle by Michael Boulware),0.500,6.510
+2,3:09,3,28,SEA 40,3,0,Timeout #1 by Seattle Seahawks,0.500,6.510
+2,3:09,1,3,SEA 3,3,0,Jerome Bettis right tackle for 2 yards (tackle by Rocky Bernard),6.510,5.910
+2,2:32,2,1,SEA 1,3,0,Jerome Bettis left tackle for no gain (tackle by LeRoy Hill),5.910,5.170
+2,2:00,3,1,SEA 1,3,6,"Ben Roethlisberger left end for 1 yard, touchdown",5.170,7.000
+,,,,,,,"Replay Assistant challenged the ruling, and the play was upheld.",,
+2,2:00,,,SEA 2,3,7,Jeff Reed kicks extra point good,0.000,0.000
+2,2:00,,,PIT 30,3,7,"Jeff Reed kicks off 49 yards, returned by Maurice Morris for 16 yards (tackle by Bryant McFadden). Penalty on Kevin Bentley: Offensive Holding, 10 yards",0.000,0.740
+2,1:46,1,10,SEA 27,3,7,Matt Hasselbeck pass complete to Joe Jurevicius for 19 yards (tackle by Deshea Townsend),0.740,1.990
+2,1:28,1,10,SEA 46,3,7,Matt Hasselbeck pass complete to Shaun Alexander for 4 yards (tackle by Tyrone Carter),1.990,1.990
+2,1:13,1,10,SEA 46,3,7,Timeout #2 by Seattle Seahawks,1.990,1.990
+2,1:13,2,6,,3,7,Matt Hasselbeck pass complete to Bobby Engram for 10 yards (tackle by Ike Taylor),1.990,2.920
+2,0:54,1,10,PIT 40,3,7,Matt Hasselbeck pass incomplete intended for Darrell Jackson,2.920,2.370
+2,0:48,1,10,PIT 40,3,7,Timeout #1 by Pittsburgh Steelers,2.920,2.370
+2,0:48,2,10,PIT 40,3,7,Shaun Alexander left tackle for 4 yards (tackle by Brett Keisel),2.370,2.210
+2,0:13,2,10,PIT 40,3,7,Timeout #2 by Pittsburgh Steelers,2.370,2.210
+2,0:13,3,6,PIT 36,3,7,Matt Hasselbeck pass incomplete intended for Darrell Jackson,2.210,0.880
+2,0:07,4,6,PIT 36,3,7,Josh Brown 54 yard field goal no good,0.880,-1.860
+2,0:02,1,10,PIT 44,3,7,Ben Roethlisberger kneels for -1 yards,1.860,1.180
+Quarter,Time,Down,ToGo,Location,SEA,PIT,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,SEA 30,3,7,"Josh Brown kicks off no gain, returned by Ricardo Colclough for 21 yards (tackle by Jordan Babineaux)",0.000,0.610
+3,14:54,1,10,PIT 25,3,7,Ben Roethlisberger pass incomplete intended for Hines Ward,0.610,0.060
+3,14:50,2,10,PIT 25,3,13,"Willie Parker right tackle for 75 yards, touchdown",0.060,7.000
+3,14:50,,,SEA 2,3,14,Jeff Reed kicks extra point good,0.000,0.000
+3,14:50,,,PIT 30,3,14,"Jeff Reed kicks off 66 yards, returned by Josh Scobey for 25 yards (tackle by Brett Keisel)",0.000,0.870
+3,14:31,1,10,SEA 29,3,14,Matt Hasselbeck pass incomplete intended for Shaun Alexander (defended by Clark Haggans),0.870,0.330
+3,14:27,2,10,SEA 29,3,14,Matt Hasselbeck pass complete to Maurice Morris for 6 yards (tackle by Ike Taylor),0.330,0.430
+3,13:45,3,4,SEA 35,3,14,Mack Strong left end for 7 yards (tackle by Clark Haggans),0.430,1.730
+3,13:09,1,10,SEA 42,3,14,Shaun Alexander left end for 21 yards (tackle by Aaron Smith),1.730,3.120
+3,12:44,1,10,PIT 37,3,14,Matt Hasselbeck pass incomplete intended for Jerramy Stevens (defended by James Farrior),3.120,2.570
+3,12:37,2,10,PIT 37,3,14,Shaun Alexander up the middle for 5 yards (tackle by James Farrior and Larry Foote),2.570,2.540
+3,11:50,3,5,PIT 32,3,14,Matt Hasselbeck pass incomplete intended for Darrell Jackson,2.540,1.260
+3,11:45,4,5,PIT 32,3,14,Josh Brown 50 yard field goal no good,1.260,-1.600
+3,11:40,1,10,PIT 40,3,14,Ben Roethlisberger pass complete to Hines Ward for 15 yards (tackle by Etric Pruitt),1.600,2.590
+3,11:12,1,10,SEA 45,3,14,Jerome Bettis left tackle for 6 yards (tackle by Lofa Tatupu),2.590,2.850
+3,10:33,2,4,SEA 39,3,14,Ben Roethlisberger pass incomplete intended for Antwaan Randle El,2.850,2.150
+3,10:27,3,4,SEA 39,3,14,Ben Roethlisberger pass complete to Hines Ward for 16 yards (tackle by Michael Boulware and Kelly Herndon),2.150,4.040
+3,9:46,1,10,SEA 23,3,14,Jerome Bettis left end for 12 yards (tackle by Etric Pruitt),4.040,4.840
+3,9:05,1,10,SEA 11,3,14,Jerome Bettis right tackle for 4 yards (tackle by Etric Pruitt),4.840,4.890
+3,8:26,2,6,SEA 7,3,14,Jerome Bettis right end for no gain (tackle by Michael Boulware),4.890,3.980
+3,7:52,2,6,SEA 7,3,14,Timeout #1 by Pittsburgh Steelers,4.890,3.980
+3,7:52,3,6,SEA 7,3,14,Ben Roethlisberger pass incomplete intended for Cedrick Wilson is intercepted by Kelly Herndon at SEA-4 and returned for 76 yards,3.980,-4.240
+3,7:38,1,10,PIT 20,3,14,Shaun Alexander up the middle for 4 yards (tackle by Deshea Townsend and Chris Hope),4.240,4.280
+3,6:55,2,6,PIT 16,3,14,Matt Hasselbeck pass incomplete intended for Bobby Engram,4.280,3.520
+3,6:51,3,6,PIT 16,9,14,"Matt Hasselbeck pass complete to Jerramy Stevens for 16 yards, touchdown",3.520,7.000
+3,6:51,,,PIT 2,10,14,Josh Brown kicks extra point good,0.000,0.000
+3,6:51,,,SEA 30,10,14,"Josh Brown kicks off 73 yards, touchback",0.000,0.280
+3,6:45,1,10,PIT 20,10,14,Willie Parker right end for 3 yards (tackle by Lofa Tatupu),0.280,0.140
+3,6:12,2,7,PIT 23,10,14,Willie Parker left tackle for 3 yards (tackle by Lofa Tatupu and D.D. Lewis),0.140,-0.160
+3,5:33,3,4,PIT 26,10,14,Verron Haynes right tackle for 2 yards (tackle by LeRoy Hill),-0.160,-1.500
+3,4:54,4,2,PIT 28,10,14,"Chris Gardocki punts 47 yards, returned by Peter Warrick for 2 yards (tackle by James Harrison)",-1.500,-0.740
+3,4:38,1,10,SEA 27,10,14,Matt Hasselbeck pass incomplete intended for Jerramy Stevens,0.740,0.200
+3,4:37,2,10,SEA 27,10,14,"Penalty on Shaun Alexander: False Start, 5 yards (no play)",0.200,-0.480
+3,4:37,2,15,SEA 22,10,14,Matt Hasselbeck pass incomplete intended for Joe Jurevicius,-0.480,-1.150
+3,4:30,3,15,SEA 22,10,14,Matt Hasselbeck pass complete to Mack Strong for 13 yards (tackle by James Farrior and Tyrone Carter),-1.150,-1.040
+3,3:52,4,2,SEA 35,10,14,"Tom Rouen punts 49 yards, returned by Antwaan Randle El for 20 yards (tackle by Isaiah Kacyvenski)",-1.040,-1.330
+3,3:39,1,10,PIT 36,10,14,Ben Roethlisberger pass incomplete intended for Jerame Tuman (defended by Lofa Tatupu),1.330,0.790
+3,3:33,2,10,PIT 36,10,14,Ben Roethlisberger left end for 8 yards (tackle by D.D. Lewis),0.790,1.160
+3,2:58,3,2,PIT 44,10,14,Ben Roethlisberger pass incomplete intended for Hines Ward,1.160,-0.460
+3,2:55,4,2,PIT 44,10,14,Chris Gardocki punts 54 yards,-0.460,0.380
+3,2:41,1,10,SEA 2,10,14,Shaun Alexander up the middle for 5 yards (tackle by James Farrior),-0.380,-0.420
+3,2:13,2,5,SEA 7,10,14,Matt Hasselbeck right end for 8 yards (tackle by Aaron Smith),-0.420,-0.220
+3,1:34,1,10,SEA 15,10,14,Matt Hasselbeck pass complete to Ryan Hannam for 3 yards (tackle by Joey Porter),-0.220,-0.280
+3,1:01,2,7,SEA 18,10,14,Matt Hasselbeck pass complete to Ryan Hannam for 9 yards (tackle by Larry Foote),-0.280,0.740
+3,0:29,1,10,SEA 27,10,14,Matt Hasselbeck pass complete to Bobby Engram for 21 yards (tackle by Ike Taylor and Chris Hope),0.740,2.130
+3,0:02,1,10,SEA 48,10,14,Matt Hasselbeck pass incomplete intended for Joe Jurevicius,2.130,1.580
+Quarter,Time,Down,ToGo,Location,SEA,PIT,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,10,SEA 48,10,14,Shaun Alexander left end for 5 yards (tackle by Casey Hampton),1.580,1.550
+4,14:17,3,5,PIT 47,10,14,Matt Hasselbeck pass complete to Bobby Engram for 17 yards (tackle by Ike Taylor),1.550,3.580
+4,13:32,1,10,PIT 30,10,14,Shaun Alexander right tackle for 6 yards (tackle by Troy Polamalu),3.580,3.840
+4,13:10,2,4,PIT 24,10,14,Shaun Alexander up the middle for 5 yards (tackle by Aaron Smith),3.840,4.310
+4,12:35,1,10,PIT 19,10,14,"Matt Hasselbeck pass complete to Jerramy Stevens for 18 yards (tackle by Chris Hope and Troy Polamalu). Penalty on Sean Locklear: Offensive Holding, 10 yards (no play)",4.310,3.640
+4,12:08,1,20,PIT 29,10,14,Matt Hasselbeck sacked by Casey Hampton for -5 yards,3.640,1.740
+4,11:34,2,25,PIT 34,10,14,Shaun Alexander left end for 7 yards (tackle by Joey Porter),1.740,2.020
+4,10:54,3,18,PIT 27,10,14,"Matt Hasselbeck pass incomplete intended for Darrell Jackson is intercepted by Ike Taylor at PIT-5 and returned for 24 yards. Penalty on Matt Hasselbeck: Low Block, 15 yards",2.020,-1.860
+4,10:46,1,10,PIT 44,10,14,Willie Parker up the middle for 1 yard (tackle by Marcus Tubbs),1.860,1.450
+4,10:10,2,9,PIT 45,10,14,Ben Roethlisberger pass complete to Antwaan Randle El for 7 yards (tackle by Etric Pruitt),1.450,1.690
+4,9:44,3,2,SEA 48,10,14,Ben Roethlisberger up the middle for 5 yards (tackle by Jordan Babineaux),1.690,2.720
+4,9:04,1,10,SEA 43,10,20,"Antwaan Randle El pass complete to Hines Ward for 43 yards, touchdown",2.720,7.000
+4,9:04,,,SEA 2,10,21,Jeff Reed kicks extra point good,0.000,0.000
+4,9:04,,,PIT 30,10,21,"Jeff Reed kicks off 69 yards, returned by Josh Scobey for 15 yards (tackle by Ricardo Colclough)",0.000,-0.140
+4,8:48,1,10,SEA 16,10,21,Matt Hasselbeck pass incomplete intended for Darrell Jackson,-0.140,-0.660
+4,8:40,2,10,SEA 16,10,21,Matt Hasselbeck right end for 18 yards (tackle by Larry Foote),-0.660,1.200
+,,,,,,,"SEA challenged the ruling, and the original play was overturned.",,
+4,8:11,1,10,SEA 34,10,21,Shaun Alexander left tackle for 4 yards (tackle by Casey Hampton),1.200,1.200
+4,7:33,2,6,SEA 38,10,21,Matt Hasselbeck pass complete to Joe Jurevicius for 13 yards (tackle by Deshea Townsend),1.200,2.320
+4,7:19,1,10,PIT 49,10,21,Matt Hasselbeck pass incomplete intended for Joe Jurevicius,2.320,1.780
+4,7:13,2,10,PIT 49,10,21,Shaun Alexander right end for 2 yards (tackle by Chris Hoke),1.780,1.360
+4,6:36,3,8,PIT 47,10,21,Matt Hasselbeck sacked by Deshea Townsend for -5 yards,1.360,-0.190
+4,6:28,4,13,SEA 48,10,21,"Tom Rouen punts 52 yards, touchback",-0.190,-0.280
+4,6:15,1,10,PIT 20,10,21,Jerome Bettis left tackle for -2 yards (tackle by Chartric Darby),0.280,-0.630
+4,5:33,2,12,PIT 18,10,21,Jerome Bettis right tackle for 6 yards (tackle by Michael Boulware and D.D. Lewis),-0.630,-0.430
+4,4:45,2,12,PIT 18,10,21,Timeout #2 by Pittsburgh Steelers,-0.630,-0.430
+4,4:45,3,6,PIT 24,10,21,Ben Roethlisberger pass complete to Antwaan Randle El for 7 yards (tackle by Jordan Babineaux),-0.430,1.000
+4,3:59,1,10,PIT 31,10,21,Jerome Bettis up the middle for 4 yards (tackle by Lofa Tatupu),1.000,1.000
+4,3:54,1,10,PIT 31,10,21,Timeout #1 by Seattle Seahawks,1.000,1.000
+4,3:54,2,6,PIT 35,10,21,Jerome Bettis left tackle for 3 yards (tackle by D.D. Lewis),1.000,0.700
+4,3:51,2,6,PIT 35,10,21,Timeout #2 by Seattle Seahawks,1.000,0.700
+4,3:51,3,3,PIT 38,10,21,Ben Roethlisberger left end for 3 yards (tackle by LeRoy Hill),0.700,1.660
+4,3:09,1,10,PIT 41,10,21,Jerome Bettis right tackle for 2 yards (tackle by Lofa Tatupu and Michael Boulware),1.660,1.390
+4,3:04,1,10,PIT 41,10,21,Timeout #3 by Seattle Seahawks,1.660,1.390
+4,3:04,2,8,PIT 43,10,21,Jerome Bettis right tackle for no gain (tackle by Lofa Tatupu),1.390,0.700
+4,2:18,3,8,PIT 43,10,21,Jerome Bettis up the middle for 4 yards (tackle by LeRoy Hill),0.700,-0.260
+4,2:00,4,4,PIT 47,10,21,"Chris Gardocki punts 53 yards, touchback",-0.260,-0.280
+4,1:51,1,10,SEA 20,10,21,Matt Hasselbeck pass complete to Jerramy Stevens for 6 yards (tackle by James Farrior and Aaron Smith),0.280,0.540
+4,1:28,2,4,SEA 26,10,21,Matt Hasselbeck pass complete to Joe Jurevicius for 35 yards (tackle by Troy Polamalu),0.540,2.980
+4,1:05,1,10,PIT 39,10,21,Matt Hasselbeck pass incomplete intended for Jerramy Stevens,2.980,2.440
+4,1:00,2,10,PIT 39,10,21,Matt Hasselbeck pass incomplete intended for Mack Strong,2.440,1.750
+4,0:52,3,10,PIT 39,10,21,Matt Hasselbeck pass incomplete intended for Bobby Engram,1.750,0.660
+4,0:47,4,10,PIT 39,10,21,Matt Hasselbeck pass complete to Bobby Engram for 13 yards (tackle by Troy Polamalu),0.660,3.840
+4,0:35,1,10,PIT 26,10,21,Matt Hasselbeck spiked the ball,3.840,3.300
+4,0:34,2,10,PIT 26,10,21,Matt Hasselbeck pass incomplete intended for Shaun Alexander (defended by Tyrone Carter),3.300,2.610
+4,0:27,3,10,PIT 26,10,21,Matt Hasselbeck pass complete to Jerramy Stevens for 3 yards (tackle by Tyrone Carter),2.610,1.930
+4,0:08,4,7,PIT 23,10,21,Matt Hasselbeck pass incomplete intended for Jerramy Stevens (defended by Bryant McFadden),1.930,-0.480
+4,0:03,1,10,PIT 23,10,21,Ben Roethlisberger kneels for -1 yards,0.480,-0.200
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

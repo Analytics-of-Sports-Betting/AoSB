@@ -1,0 +1,200 @@
+Quarter,Time,Down,ToGo,Location,LAR,MIA,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Dolphins won the coin toss and deferred, Rams to receive the opening kickoff.",,
+1,15:00,,,MIA 35,0,0,"Jason Sanders kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,LAR 25,0,0,"Penalty on Kyle Van Noy: Neutral Zone Infraction, 5 yards (no play)",0.610,1.340
+1,15:00,1,5,LAR 30,0,0,Darrell Henderson right guard for 4 yards (tackle by Kyle Van Noy and Jerome Baker),1.340,1.280
+1,14:19,2,1,LAR 34,0,0,Darrell Henderson right end for 4 yards (tackle by Raekwon Davis),1.280,1.470
+1,13:42,1,10,LAR 38,0,0,Jared Goff pass incomplete short middle,1.470,0.920
+1,13:39,2,10,LAR 38,0,0,Jared Goff pass incomplete short left intended for Josh Reynolds (defended by Emmanuel Ogbah),0.920,0.230
+1,13:35,3,10,LAR 38,0,0,Jared Goff pass incomplete deep right intended for Cooper Kupp,0.230,-0.850
+1,13:30,4,10,LAR 38,0,0,"Johnny Hekker punts 62 yards, touchback.",-0.850,-0.280
+1,13:21,1,10,MIA 20,0,0,Myles Gaskin up the middle for 3 yards (tackle by Sebastian Joseph),0.280,0.140
+1,12:45,2,7,MIA 23,0,0,"Tua Tagovailoa sacked by Aaron Donald for -3 yards. Tua Tagovailoa fumbles (forced by Aaron Donald), recovered by Leonard Floyd at MIA-15",0.140,-4.580
+1,12:38,1,10,MIA 15,0,0,Darrell Henderson left tackle for 4 yards (tackle by Raekwon Davis and Eric Rowe),4.580,4.640
+1,11:58,2,6,MIA 11,0,0,Darrell Henderson right guard for 7 yards (tackle by Elandon Roberts),4.640,6.280
+1,11:18,1,4,MIA 4,6,0,"Robert Woods left end for 4 yards, touchdown",6.280,7.000
+1,11:13,,,MIA 15,7,0,Kai Forbath kicks extra point good,0.000,0.000
+1,11:13,,,LAR 35,7,0,"Kai Forbath kicks off 63 yards, muffed catch by Jakeem Grant returned by Jakeem Grant for 45 yards (tackle by Kai Forbath)",0.000,2.190
+1,11:04,1,10,MIA 49,7,0,Myles Gaskin right guard for 4 yards (tackle by Sebastian Joseph),2.190,2.190
+1,10:28,2,6,LAR 47,7,0,Tua Tagovailoa pass complete short left to Preston Williams for 8 yards (tackle by Darious Williams),2.190,2.980
+1,9:47,1,10,LAR 39,7,0,Tua Tagovailoa pass incomplete deep left intended for Preston Williams,2.980,2.440
+1,9:42,2,10,LAR 39,7,0,Tua Tagovailoa pass complete short left to Myles Gaskin for no gain (tackle by Darious Williams),2.440,1.750
+1,8:56,3,10,LAR 39,7,0,Tua Tagovailoa pass incomplete short right intended for DeVante Parker,1.750,0.660
+1,8:54,4,10,LAR 39,7,0,Penalty on MIA: Delay of Game (Declined),0.660,0.660
+1,8:52,4,10,LAR 39,7,0,Matt Haack punts 32 yards downed by Clayton Fejedelem,0.660,0.380
+1,8:42,1,10,LAR 7,7,0,Darrell Henderson left end for 18 yards (tackle by Eric Rowe),-0.380,0.610
+1,8:11,1,10,LAR 25,7,0,Jared Goff pass incomplete short right intended for Darrell Henderson,0.610,0.060
+1,8:05,2,10,LAR 25,7,0,Jared Goff pass complete short right to Cooper Kupp for 1 yard (tackle by Xavien Howard),0.060,-0.490
+1,7:27,3,9,LAR 26,7,0,Jared Goff pass complete short left to Robert Woods for 17 yards (tackle by Xavien Howard),-0.490,1.800
+1,6:54,1,10,LAR 43,7,0,Malcolm Brown right end for 6 yards (tackle by Xavien Howard and Kyle Van Noy),1.800,2.060
+1,6:13,2,4,LAR 49,7,0,Jared Goff pass incomplete short left intended for Gerald Everett (defended by Andrew Van Ginkel),2.060,1.350
+1,6:06,3,4,LAR 49,7,0,Jared Goff pass incomplete short right intended for Cooper Kupp,1.350,-0.130
+1,6:03,4,4,LAR 49,7,0,Johnny Hekker punts 41 yards out of bounds,-0.130,0.380
+1,5:55,1,10,MIA 10,7,0,Myles Gaskin right guard for 3 yards (tackle by Greg Gaines),-0.380,-0.560
+1,5:14,2,7,MIA 13,7,0,Tua Tagovailoa left end for 2 yards (tackle by Troy Hill),-0.560,-0.840
+1,4:29,3,5,MIA 15,7,0,Tua Tagovailoa pass incomplete deep left intended for Mike Gesicki (defended by Darious Williams),-0.840,-2.440
+1,4:21,4,5,MIA 15,7,0,"Matt Haack punts 63 yards downed by Noah Igbinoghene. Penalty on David Long: Offensive Holding, 10 yards",-2.440,0.350
+1,4:11,1,10,LAR 12,7,0,Malcolm Brown right end for 5 yards (tackle by Jerome Baker and Christian Wilkins),-0.350,-0.230
+1,3:51,2,5,LAR 17,7,0,Jared Goff pass complete short left to Cooper Kupp for 14 yards (tackle by Eric Rowe),-0.230,1.000
+1,3:25,1,10,LAR 31,7,0,Jared Goff pass complete short left to Cooper Kupp for 8 yards (tackle by Jerome Baker and Nik Needham),1.000,1.540
+1,3:02,2,2,LAR 39,7,0,Jared Goff pass short middle intended for Cooper Kupp is intercepted by Christian Wilkins at LA-41 and returned for 8 yards,1.540,-3.380
+1,2:55,1,10,LAR 33,7,0,Tua Tagovailoa pass complete short left to Durham Smythe for 8 yards (tackle by Micah Kiser),3.380,3.920
+1,2:18,2,2,LAR 25,7,0,Myles Gaskin left tackle for 3 yards (tackle by Justin Hollins),3.920,4.110
+1,1:37,1,10,LAR 22,7,0,Tua Tagovailoa pass complete short right to Jakeem Grant for 15 yards (tackle by David Long),4.110,5.600
+1,0:49,1,7,LAR 7,7,0,Tua Tagovailoa pass incomplete short right intended for Myles Gaskin,5.600,4.760
+1,0:44,2,7,LAR 7,7,0,Myles Gaskin right end for 4 yards (tackle by David Long),4.760,4.720
+1,0:03,3,3,LAR 3,7,6,"Tua Tagovailoa pass complete short middle to DeVante Parker for 3 yards, touchdown. Penalty on David Long: Defensive Pass Interference (Declined)",4.720,7.000
+1,0:00,,,LAR 15,7,7,Jason Sanders kicks extra point good,0.000,0.000
+Quarter,Time,Down,ToGo,Location,LAR,MIA,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,,,MIA 35,7,7,"Jason Sanders kicks off 45 yards, returned by Xavier Jones for 4 yards (tackle by Andrew Van Ginkel and Samuel Eguavoen)",0.000,0.540
+2,14:55,1,10,LAR 24,7,7,Darrell Henderson right end for 12 yards (tackle by Xavien Howard),0.540,1.330
+2,14:08,1,10,LAR 36,7,7,Jared Goff pass complete short middle to Darrell Henderson for 11 yards (tackle by Kyle Van Noy),1.330,2.060
+2,13:20,1,10,LAR 47,7,7,"Penalty on Austin Corbett: False Start, 5 yards (no play)",2.060,1.730
+2,12:56,1,15,LAR 42,7,7,Jared Goff pass complete short left to Cooper Kupp for 22 yards (tackle by Nik Needham),1.730,3.180
+2,12:13,1,10,MIA 36,7,7,Darrell Henderson right tackle for no gain (tackle by Kyle Van Noy),3.180,2.640
+2,11:31,2,10,MIA 36,7,7,Jared Goff pass incomplete short left intended for Cooper Kupp,2.640,1.950
+2,11:28,3,10,MIA 36,7,7,Jared Goff pass incomplete deep left intended for Josh Reynolds (defended by Xavien Howard),1.950,0.880
+2,11:23,4,10,MIA 36,7,7,Johnny Hekker punts 33 yards downed by Nsimba Webster,0.880,0.380
+2,11:11,1,10,MIA 3,7,7,"Myles Gaskin up the middle for 4 yards (tackle by Taylor Rapp). Myles Gaskin fumbles (forced by Taylor Rapp), recovered by Troy Hill at MIA-7",-0.380,-5.600
+2,11:03,1,7,MIA 7,7,7,Darrell Henderson left tackle for -2 yards (tackle by Elandon Roberts),5.600,4.380
+2,10:17,2,9,MIA 9,7,13,"Jared Goff sacked by Emmanuel Ogbah for -13 yards. Jared Goff fumbles (forced by Emmanuel Ogbah), recovered by Andrew Van Ginkel at MIA-22 and returned for 78 yards, touchdown",4.380,-7.000
+2,10:01,,,LAR 15,7,14,Jason Sanders kicks extra point good,0.000,0.000
+2,10:01,,,MIA 35,7,14,"Jason Sanders kicks off 66 yards, returned by Nsimba Webster for 25 yards (tackle by Noah Igbinoghene and Mack Hollins)",0.000,0.540
+2,9:53,,,,,,Timeout #1 by Los Angeles Rams,,
+2,9:53,1,10,LAR 24,7,14,Malcolm Brown right tackle for 4 yards (tackle by Zach Sieler),0.540,0.540
+2,9:14,2,6,LAR 28,7,14,Jared Goff pass incomplete short left intended for Cooper Kupp,0.540,-0.160
+2,9:08,3,6,LAR 28,7,14,Jared Goff pass incomplete deep left intended for Josh Reynolds,-0.160,-1.500
+2,9:03,4,6,LAR 28,7,20,"Johnny Hekker punts 60 yards, returned by Jakeem Grant for 88 yards, touchdown",-1.500,-7.000
+2,8:44,,,LAR 15,7,21,Jason Sanders kicks extra point good,0.000,0.000
+2,8:44,,,MIA 35,7,21,"Jason Sanders kicks off 25 yards, out of bounds",0.000,1.600
+2,8:44,1,10,LAR 40,7,21,Cam Akers right end for 10 yards (tackle by Kamu Grugier-Hill),1.600,2.260
+2,8:03,1,10,LAR 50,7,21,Cam Akers left guard for 5 yards (tackle by Raekwon Davis and Shaq Lawson),2.260,2.390
+2,7:23,2,5,MIA 45,7,21,Robert Woods right end for 5 yards (tackle by Nik Needham and Zach Sieler),2.390,2.920
+2,6:37,1,10,MIA 40,7,21,Jared Goff pass complete short left to Robert Woods for 8 yards (tackle by Eric Rowe),2.920,3.450
+2,6:00,2,2,MIA 32,7,21,Cam Akers right guard for 4 yards (tackle by Jerome Baker and Andrew Van Ginkel),3.450,3.710
+2,5:35,1,10,MIA 28,7,21,Jared Goff pass complete short left to Tyler Higbee for 1 yard (tackle by Eric Rowe),3.710,3.300
+2,4:51,2,9,MIA 27,7,21,Jared Goff pass short left (defended by Jerome Baker) intended for Gerald Everett is intercepted by Eric Rowe at MIA-22 and returned for 4 yards,3.300,-0.670
+2,4:44,1,10,MIA 26,7,21,Tua Tagovailoa pass incomplete short right intended for Preston Williams,0.670,0.130
+2,4:40,2,10,MIA 26,7,21,Matt Breida right tackle for 6 yards (tackle by Kenny Young and Aaron Donald),0.130,0.230
+2,4:00,3,4,MIA 32,7,21,Tua Tagovailoa pass incomplete short middle intended for Preston Williams,0.230,-1.240
+2,3:56,4,4,MIA 32,7,21,"Matt Haack punts 42 yards, muffed catch by Nsimba Webster, recovered by Nsimba Webster at LA-29, returned by Nsimba Webster for no gain (tackle by Calvin Munson)",-1.240,-0.870
+2,3:49,1,10,LAR 29,7,21,Malcolm Brown right end for 2 yards (tackle by Zach Sieler),0.870,0.600
+2,3:06,2,8,LAR 31,7,21,Jared Goff pass incomplete deep left intended for Josh Reynolds,0.600,-0.100
+2,3:01,3,8,LAR 31,7,21,"Jared Goff sacked by Shaq Lawson for -2 yards. Jared Goff fumbles (forced by Shaq Lawson), recovered by Kyle Van Noy at LA-29 and returned for 28 yards (tackle by Malcolm Brown)",-0.100,-6.970
+2,2:51,1,1,LAR 1,7,27,"Myles Gaskin up the middle for 1 yard, touchdown",6.970,7.000
+2,2:47,,,LAR 15,7,28,Jason Sanders kicks extra point good,0.000,0.000
+2,2:47,,,MIA 35,7,28,"Jason Sanders kicks off 65 yards, touchback.",0.000,0.610
+2,2:47,1,10,LAR 25,7,28,Malcolm Brown right end for 11 yards (tackle by Christian Wilkins),0.610,1.330
+2,2:10,1,10,LAR 36,7,28,"Jared Goff pass incomplete short left intended for Cooper Kupp. Penalty on Eric Rowe: Roughing the Passer, 15 yards (no play)",1.330,2.320
+2,2:04,1,10,MIA 49,7,28,Jared Goff pass incomplete short right intended for Josh Reynolds (defended by Xavien Howard),2.320,1.780
+2,2:00,2,10,MIA 49,7,28,"Jared Goff pass complete short left to Cooper Kupp for 6 yards (tackle by Kyle Van Noy). Penalty on Malcolm Brown: Offensive Holding, 10 yards (no play)",1.780,0.430
+2,1:56,2,20,LAR 41,7,28,Jared Goff pass complete short left to Cooper Kupp for 9 yards (tackle by Kyle Van Noy and Nik Needham),0.430,0.960
+2,1:10,3,11,LAR 50,7,28,Jared Goff pass complete short right to Cooper Kupp for 13 yards (tackle by Nik Needham),0.960,3.120
+2,0:50,1,10,MIA 37,7,28,Jared Goff pass complete short left to Josh Reynolds for 9 yards (tackle by Nik Needham and Byron Jones),3.120,3.790
+2,0:45,,,,,,Timeout #2 by Los Angeles Rams,,
+2,0:45,2,1,MIA 28,7,28,Jared Goff pass complete short left to Gerald Everett for 5 yards (tackle by Eric Rowe),3.790,4.040
+2,0:41,1,10,MIA 23,7,28,Jared Goff pass incomplete deep left intended for Cooper Kupp,4.040,3.500
+2,0:36,2,10,MIA 23,7,28,Jared Goff pass complete short left to Van Jefferson for 8 yards,3.500,4.050
+2,0:33,,,,,,Timeout #1 by Miami Dolphins,,
+2,0:33,3,2,MIA 15,7,28,Jared Goff pass complete short left to Malcolm Brown for 3 yards (tackle by Bobby McCain),4.050,4.780
+2,0:29,,,,,,Timeout #1 by Miami Dolphins,,
+2,0:29,1,10,MIA 12,7,28,Jared Goff pass complete short left to Josh Reynolds for 7 yards (tackle by Byron Jones),4.780,5.410
+2,0:25,,,,,,Timeout #3 by Los Angeles Rams,,
+2,0:25,2,3,MIA 5,7,28,Jared Goff pass incomplete short right,5.410,4.610
+2,0:19,3,3,MIA 5,7,28,Jared Goff pass incomplete short left intended for Robert Woods,4.610,3.020
+2,0:15,4,3,MIA 5,10,28,Kai Forbath 23 yard field goal good,3.020,3.000
+2,0:11,,,LAR 35,10,28,"Kai Forbath kicks off 65 yards, touchback.",0.000,0.610
+2,0:11,1,10,MIA 25,10,28,Tua Tagovailoa kneels for -2 yards,0.610,-0.210
+Quarter,Time,Down,ToGo,Location,LAR,MIA,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,LAR 35,10,28,"Kai Forbath kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,MIA 25,10,28,Myles Gaskin left guard for no gain (tackle by Kenny Young),0.610,0.060
+3,14:24,2,10,MIA 25,10,28,Tua Tagovailoa pass complete short left to Myles Gaskin for 9 yards (tackle by Kenny Young),0.060,0.560
+3,13:42,3,1,MIA 34,10,28,Myles Gaskin up the middle for no gain (tackle by Michael Brockers and Sebastian Joseph),0.560,-1.110
+3,12:56,4,1,MIA 34,10,28,"Matt Haack punts 38 yards, fair catch by Nsimba Webster at LA-28",-1.110,-0.810
+3,12:48,1,10,LAR 28,10,28,Cam Akers left end for no gain (tackle by Elandon Roberts and Andrew Van Ginkel),0.810,0.260
+3,12:06,2,10,LAR 28,10,28,Malcolm Brown left guard for -3 yards (tackle by Elandon Roberts),0.260,-0.820
+3,11:20,3,13,LAR 25,10,28,Jared Goff pass incomplete short right intended for Gerald Everett,-0.820,-1.700
+3,11:13,4,13,LAR 25,10,28,"Johnny Hekker punts 44 yards, fair catch by Jakeem Grant at MIA-31",-1.700,-1.000
+3,11:05,1,10,MIA 31,10,28,Tua Tagovailoa pass complete short right to Myles Gaskin for 7 yards (tackle by Aaron Donald),1.000,1.410
+3,10:28,2,3,MIA 38,10,28,Tua Tagovailoa pass complete short left to Malcolm Perry for 10 yards (tackle by Troy Hill),1.410,2.130
+3,9:51,1,10,MIA 48,10,28,Matt Breida left end for 3 yards (tackle by Samson Ebukam),2.130,1.990
+3,9:10,2,7,LAR 49,10,28,Malcolm Perry up the middle for -5 yards (tackle by Aaron Donald),1.990,0.630
+3,8:29,3,12,MIA 46,10,28,Tua Tagovailoa pass incomplete short left intended for Myles Gaskin,0.630,-0.320
+3,8:25,4,12,MIA 46,10,28,Matt Haack punts 44 yards downed by Samuel Eguavoen,-0.320,0.380
+3,8:16,1,10,LAR 10,10,28,Malcolm Brown right tackle for 3 yards (tackle by Jerome Baker and Christian Wilkins),-0.380,-0.560
+3,7:38,2,7,LAR 13,10,28,Jared Goff pass complete short left to Josh Reynolds for 13 yards (tackle by Jerome Baker). Penalty on Noah Igbinoghene: Illegal Use of Hands (Declined),-0.560,0.670
+3,7:04,1,10,LAR 26,10,28,Malcolm Brown right guard for 4 yards (tackle by Jerome Baker and Kyle Van Noy),0.670,0.670
+3,6:25,2,6,LAR 30,10,28,Jared Goff pass incomplete short right intended for Tyler Higbee (defended by Eric Rowe) (defended by Kyle Van Noy),0.670,-0.030
+3,6:21,3,6,LAR 30,10,28,Jared Goff pass incomplete deep left intended for Cooper Kupp,-0.030,-1.370
+3,6:15,4,6,LAR 30,10,28,"Johnny Hekker punts 44 yards, fair catch by Jakeem Grant at MIA-26",-1.370,-0.670
+3,6:07,1,10,MIA 26,10,28,Matt Breida left guard for 4 yards (tackle by Micah Kiser and Greg Gaines),0.670,0.670
+3,5:23,2,6,MIA 30,10,28,Tua Tagovailoa pass incomplete short left intended for Adam Shaheen (defended by Kenny Young),0.670,-0.030
+3,5:19,3,6,MIA 30,10,28,Tua Tagovailoa pass incomplete short middle intended for Jakeem Grant,-0.030,-1.370
+3,5:13,4,6,MIA 30,10,28,"Matt Haack punts 40 yards, returned by Nsimba Webster for 5 yards (tackle by Clayton Fejedelem). Penalty on Darious Williams: Offensive Holding, 10 yards",-1.370,-0.610
+3,5:02,1,10,LAR 25,10,28,Jared Goff pass complete short left to Cooper Kupp for 6 yards (tackle by Nik Needham),0.610,0.870
+3,4:33,2,4,LAR 31,10,28,Cam Akers left guard for 2 yards (tackle by Eric Rowe and Shaq Lawson),0.870,0.430
+3,3:48,3,2,LAR 33,10,28,Jared Goff pass complete short middle to Robert Woods for 26 yards (tackle by Bobby McCain),0.430,2.850
+3,3:22,,,,,,Timeout #1 by Miami Dolphins,,
+3,3:22,1,10,MIA 41,10,28,"Jared Goff pass complete deep left to Cooper Kupp for 34 yards (tackle by Andrew Van Ginkel). Penalty on Robert Woods: Offensive Holding, 10 yards (no play)",2.850,2.190
+3,2:56,1,20,LAR 49,10,28,Cam Akers right tackle for 3 yards (tackle by Zach Sieler and Tae Hayes),2.190,1.360
+3,2:18,2,17,MIA 48,10,28,Jared Goff pass incomplete short right intended for Tyler Higbee (defended by Kyle Van Noy) (defended by Eric Rowe),1.360,0.700
+3,2:15,3,17,MIA 48,10,28,Jared Goff pass complete short left to Gerald Everett for 7 yards (tackle by Tae Hayes),0.700,0.530
+3,1:26,4,10,MIA 41,10,28,Jared Goff pass incomplete short right intended for Cooper Kupp (defended by Eric Rowe),0.530,-1.660
+3,1:22,1,10,MIA 41,10,28,Myles Gaskin left end for 5 yards (tackle by Taylor Rapp),1.660,1.800
+3,0:39,2,5,MIA 46,10,28,"Myles Gaskin left guard for 1 yard (tackle by John Johnson). Penalty on Solomon Kindley: Offensive Holding, 10 yards (no play)",1.800,0.450
+3,0:13,2,15,MIA 36,10,28,Myles Gaskin up the middle for 1 yard (tackle by Kenny Young),0.450,-0.100
+Quarter,Time,Down,ToGo,Location,LAR,MIA,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,14,MIA 37,10,28,Tua Tagovailoa pass complete short right to Preston Williams for 7 yards (tackle by Nick Scott),-0.100,-0.460
+4,14:15,4,7,MIA 44,10,28,"Matt Haack punts 47 yards, returned by Nsimba Webster for 2 yards",-0.460,0.370
+4,14:07,1,10,LAR 11,10,28,Cam Akers left guard for 4 yards (tackle by Christian Wilkins),-0.370,-0.430
+4,13:29,2,6,LAR 15,10,28,Cam Akers right guard for 5 yards (tackle by Elandon Roberts),-0.430,-0.370
+4,13:10,3,1,LAR 20,10,28,Cam Akers left tackle for 2 yards (tackle by Christian Wilkins),-0.370,0.410
+4,12:32,1,10,LAR 22,10,28,Jared Goff pass complete short left to Cooper Kupp for 6 yards,0.410,0.680
+4,12:13,2,4,LAR 28,10,28,Jared Goff pass complete short right to Robert Woods for 8 yards (tackle by Xavien Howard),0.680,1.330
+4,11:55,1,10,LAR 36,10,28,Jared Goff pass complete short left to Josh Reynolds for 15 yards (tackle by Tae Hayes). Penalty on Tae Hayes: Illegal Use of Hands (Declined),1.330,2.320
+4,11:24,1,10,MIA 49,10,28,Jared Goff pass complete short right to Van Jefferson for 15 yards (tackle by Xavien Howard),2.320,3.310
+4,11:00,1,10,MIA 34,10,28,Jared Goff pass complete short left to Cam Akers for 19 yards (tackle by Brandon Jones),3.310,4.580
+4,10:32,,,,,,Timeout #2 by Miami Dolphins,,
+4,10:32,1,10,MIA 15,10,28,Malcolm Brown right guard for 4 yards (tackle by Kyle Van Noy and Kamu Grugier-Hill),4.580,4.640
+4,10:03,2,6,MIA 11,16,28,"Jared Goff pass complete short left to Robert Woods for 11 yards, touchdown",4.640,7.000
+4,9:58,,,MIA 15,17,28,Kai Forbath kicks extra point good,0.000,0.000
+4,9:58,,,LAR 35,17,28,"Kai Forbath kicks off 65 yards, touchback.",0.000,0.610
+4,9:58,1,10,MIA 25,17,28,Tua Tagovailoa pass complete short right to Durham Smythe for 8 yards (tackle by John Johnson and Troy Hill),0.610,1.140
+4,9:20,2,2,MIA 33,17,28,Myles Gaskin left tackle for 1 yard (tackle by Samson Ebukam and Micah Kiser),1.140,0.560
+4,8:36,3,1,MIA 34,17,28,Tua Tagovailoa pass complete short left to Isaiah Ford for 10 yards (tackle by Troy Hill),0.560,1.860
+4,8:00,1,10,MIA 44,17,28,Matt Breida left tackle for no gain (tackle by Justin Hollins and Micah Kiser),1.860,1.320
+4,7:20,2,10,MIA 44,17,28,Tua Tagovailoa pass complete short left to Mike Gesicki for 8 yards (tackle by David Long),1.320,1.690
+4,6:42,3,2,LAR 48,17,28,Tua Tagovailoa pass incomplete short left intended for Myles Gaskin (defended by Taylor Rapp),1.690,0.070
+4,6:38,4,2,LAR 48,17,28,"Matt Haack punts 40 yards, fair catch by Nsimba Webster at LA-8",0.070,0.380
+4,6:30,1,10,LAR 8,17,28,Jared Goff pass complete short left to Cooper Kupp for 9 yards (tackle by Jerome Baker and Nik Needham),-0.380,0.050
+4,6:08,2,1,LAR 17,17,28,Jared Goff pass complete short right to Tyler Higbee for 13 yards (tackle by Kyle Van Noy),0.050,0.940
+4,5:50,1,10,LAR 30,17,28,Jared Goff pass complete short middle to Robert Woods for 9 yards (tackle by Jerome Baker),0.940,1.610
+4,5:30,2,1,LAR 39,17,28,Malcolm Brown left guard for 4 yards (tackle by Jerome Baker and Raekwon Davis),1.610,1.800
+4,5:00,1,10,LAR 43,17,28,Jared Goff pass incomplete short left,1.800,1.250
+4,4:56,2,10,LAR 43,17,28,Jared Goff pass complete short right to Cooper Kupp for 7 yards (tackle by Nik Needham),1.250,1.490
+4,4:50,3,3,LAR 50,17,28,Jared Goff pass complete short left to Cooper Kupp for 15 yards (tackle by Nik Needham),1.490,3.250
+4,4:20,1,10,MIA 35,17,28,Jared Goff pass incomplete short middle intended for Cooper Kupp (defended by Jerome Baker),3.250,2.700
+4,4:14,2,10,MIA 35,17,28,Jared Goff pass complete short right to Gerald Everett for 5 yards (tackle by Kyle Van Noy),2.700,2.680
+4,3:47,3,5,MIA 30,17,28,Jared Goff pass incomplete short right intended for Gerald Everett (defended by Eric Rowe),2.680,1.450
+4,3:42,4,5,MIA 30,17,28,Kai Forbath 48 yard field goal no good,1.450,-1.470
+4,3:38,1,10,MIA 38,17,28,Myles Gaskin left guard for 3 yards (tackle by Justin Hollins and Micah Kiser),1.470,1.330
+4,3:29,,,,,,Timeout #1 by Los Angeles Rams,,
+4,3:29,2,7,MIA 41,17,28,Myles Gaskin left tackle for 6 yards (tackle by Morgan Fox and Troy Hill),1.330,1.420
+4,2:45,3,1,MIA 47,17,28,Myles Gaskin left guard for 2 yards (tackle by Micah Kiser and John Johnson),1.420,2.190
+4,2:36,,,,,,Timeout #2 by Los Angeles Rams,,
+4,2:36,1,10,MIA 49,17,28,Myles Gaskin up the middle for 1 yard (tackle by Sebastian Joseph and Samson Ebukam),2.190,1.780
+4,2:32,,,,,,Timeout #3 by Los Angeles Rams,,
+4,2:32,2,9,MIA 50,17,28,Myles Gaskin left tackle for 6 yards (tackle by Sebastian Joseph),1.780,1.880
+4,2:00,3,3,LAR 44,17,28,Myles Gaskin up the middle for no gain (tackle by Taylor Rapp),1.880,0.330
+4,1:15,,,,,,Timeout #3 by Miami Dolphins,,
+4,1:15,4,3,LAR 44,17,28,"Matt Haack punts 39 yards, fair catch by Nsimba Webster at LA-5",0.330,0.380
+4,1:08,1,10,LAR 5,17,28,Jared Goff pass complete short right to Gerald Everett for 11 yards (tackle by Brandon Jones),-0.380,-0.140
+4,0:53,1,10,LAR 16,17,28,Jared Goff pass complete short middle to Malcolm Brown for 14 yards (tackle by Brandon Jones and Jerome Baker),-0.140,0.940
+4,0:34,1,10,LAR 30,17,28,Jared Goff spiked the ball,0.940,0.390
+4,0:33,2,10,LAR 30,17,28,Jared Goff pass complete short right to Gerald Everett for 4 yards (tackle by Jerome Baker),0.390,0.230
+4,0:15,3,6,LAR 34,17,28,Jared Goff pass complete short right to Robert Woods for 6 yards (tackle by Xavien Howard),0.230,1.600
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

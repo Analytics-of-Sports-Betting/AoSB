@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,TAM 18,5,2:11,11,Fumble
+2,1,9:28,TAM 38,3,1:34,8,Punt
+3,1,6:46,TAM 38,3,2:37,-5,Punt
+4,1,3:17,TAM 38,5,3:03,19,Punt
+5,2,10:02,TAM 10,6,3:11,90,Touchdown
+6,2,5:29,TAM 40,8,3:30,36,Missed FG
+7,2,1:27,TAM 21,3,1:27,9,End of Half
+8,3,12:56,,0,0:10,0,Fumble
+9,3,12:39,TAM 34,3,2:08,-14,Punt
+10,3,9:00,TAM 28,9,3:56,39,Field Goal
+11,3,1:57,TAM 14,3,1:46,9,Punt
+12,4,11:31,TAM 28,1,0:09,0,Interception
+13,4,9:47,TAM 16,17,6:58,84,Touchdown

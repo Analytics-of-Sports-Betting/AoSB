@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,GNB 25,3,1:38,7,Punt
+2,1,10:36,GNB 25,4,3:19,33,Punt
+3,1,5:02,GNB 4,3,1:40,7,Punt
+4,1,1:47,GNB 9,4,2:00,91,Touchdown
+5,2,12:32,GNB 27,3,2:26,5,Punt
+6,2,10:06,GNB 19,13,7:51,81,Touchdown
+7,2,1:28,JAX 26,6,1:26,5,Field Goal
+8,3,12:10,GNB 2,1,0:14,22,Fumble
+9,3,10:30,GNB 25,8,3:21,42,Downs
+10,3,2:43,GNB 20,4,1:27,33,Interception
+11,4,12:40,GNB 25,7,3:37,75,Touchdown
+12,4,4:06,GNB 14,3,1:41,9,Punt
+13,4,1:01,JAX 48,2,1:01,-1,End of Game

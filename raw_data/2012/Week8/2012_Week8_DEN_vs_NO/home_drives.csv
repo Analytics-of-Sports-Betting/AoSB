@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,14:08,DEN 32,3,0:49,6,Punt
+2,1,9:18,DEN 2,11,4:39,98,Touchdown
+3,1,3:02,NOR 48,3,1:16,3,Fumble
+4,2,14:53,DEN 20,4,2:24,25,Punt
+5,2,9:00,DEN 44,5,2:17,56,Touchdown
+6,2,4:24,DEN 13,11,4:24,72,Field Goal
+7,3,15:00,DEN 7,11,5:30,93,Touchdown
+8,3,5:54,DEN 8,5,2:32,24,Punt
+9,3,1:51,DEN 49,4,1:57,51,Touchdown
+10,4,13:52,DEN 4,6,4:10,48,Punt
+11,4,8:56,DEN 43,7,3:29,42,Field Goal
+12,4,2:03,NOR 48,3,1:47,-3,Punt

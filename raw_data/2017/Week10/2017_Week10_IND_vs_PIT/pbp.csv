@@ -1,0 +1,179 @@
+Quarter,Time,Down,ToGo,Location,PIT,IND,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Colts won the coin toss and deferred, Steelers to receive the opening kickoff.",,
+1,15:00,,,IND 35,0,0,"Rigoberto Sanchez kicks off 65 yards, touchback",0.000,-0.610
+1,15:00,1,10,PIT 25,0,0,Ben Roethlisberger pass complete short left to Antonio Brown for 5 yards (tackle by Jonathan Bostic),0.610,0.740
+1,14:19,2,5,PIT 30,0,0,Ben Roethlisberger pass incomplete deep right intended for Martavis Bryant is intercepted by Pierre Desir at IND-21,0.740,-0.340
+1,14:09,1,10,IND 21,0,0,Frank Gore middle for 5 yards (tackle by Sean Davis),0.340,0.480
+1,13:29,2,5,IND 26,0,0,Frank Gore right end for -1 yards (tackle by Bud Dupree),0.480,-0.360
+1,12:48,3,6,IND 25,0,0,Jacoby Brissett right end for 4 yards (tackle by Mike Hilton),-0.360,-1.440
+1,12:11,4,2,IND 29,0,0,"Rigoberto Sanchez punts 47 yards, fair catch by Antonio Brown",-1.440,-0.540
+1,12:02,1,10,PIT 24,0,0,Le'Veon Bell middle for no gain (tackle by Antonio Morrison and Johnathan Hankins),0.540,0.000
+1,11:23,2,10,PIT 24,0,0,Le'Veon Bell left tackle for 1 yard (tackle by Jabaal Sheard),0.000,-0.560
+1,10:36,3,9,PIT 25,0,0,Ben Roethlisberger right end for 5 yards (tackle by Jabaal Sheard and Margus Hunt),-0.560,-1.370
+1,10:00,4,4,PIT 30,0,0,"Jordan Berry punts 55 yards, returned by Chester Rogers for 17 yards",-1.370,-1.070
+1,9:48,1,10,IND 32,0,0,Frank Gore middle for 5 yards (tackle by Vince Williams and Mike Mitchell),1.070,1.200
+1,9:15,2,5,IND 37,0,0,Frank Gore left tackle for 4 yards (tackle by Sean Davis),1.200,1.030
+1,8:42,3,1,IND 41,0,0,Frank Gore left tackle for 4 yards (tackle by Artie Burns),1.030,1.930
+1,8:03,1,10,IND 45,0,0,Jacoby Brissett pass incomplete deep left intended for T.Y. Hilton,1.930,1.380
+1,7:56,2,10,IND 45,0,0,Marlon Mack middle for -5 yards (tackle by Sean Davis),1.380,0.040
+1,7:11,3,15,IND 40,0,0,Jacoby Brissett pass complete short right to Jack Doyle for 3 yards (tackle by Mike Hilton),0.040,-0.520
+1,6:35,4,12,IND 43,0,0,"Rigoberto Sanchez punts 37 yards, out of bounds. Penalty on Joe Haden: Offensive Holding, 10 yards",-0.520,0.380
+1,6:25,1,10,PIT 10,0,0,Le'Veon Bell right end for 8 yards (tackle by Antonio Morrison),-0.380,0.070
+1,5:42,2,2,PIT 18,0,0,Le'Veon Bell middle for 3 yards (tackle by Al Woods),0.070,0.340
+1,5:02,1,10,PIT 21,0,0,Ben Roethlisberger pass incomplete,0.340,-0.200
+1,4:57,2,10,PIT 21,0,0,Ben Roethlisberger pass complete short left to JuJu Smith-Schuster for 11 yards (tackle by Pierre Desir),-0.200,1.070
+1,4:21,1,10,PIT 32,0,0,Le'Veon Bell right tackle for 2 yards (tackle by Antonio Morrison),1.070,0.800
+1,3:36,2,8,PIT 34,0,0,Ben Roethlisberger pass complete short right to Le'Veon Bell for 9 yards (tackle by Nate Hairston),0.800,1.800
+1,2:54,1,10,PIT 43,0,0,Ben Roethlisberger sacked by Hassan Ridgeway for -8 yards,1.800,0.170
+1,2:08,2,18,PIT 35,0,0,Ben Roethlisberger pass incomplete deep right intended for Antonio Brown,0.170,-0.490
+1,2:01,3,18,PIT 35,0,0,Le'Veon Bell left tackle for 4 yards (tackle by Jabaal Sheard). Penalty on Maurkice Pouncey: Offensive Holding (Declined),-0.490,-0.780
+1,1:47,4,14,PIT 39,0,0,"Jordan Berry punts 51 yards, fair catch by Chester Rogers. Penalty on Kameron Canaday: Offensive Holding, 10 yards (no play)",-0.780,-1.440
+1,1:38,4,24,PIT 29,0,0,"Jordan Berry punts 56 yards, returned by Chester Rogers for 11 yards (tackle by Robert Golden). Penalty on Sean Davis: Offensive Holding, 10 yards (no play)",-1.440,-2.140
+1,1:38,4,34,PIT 19,0,0,"Jordan Berry punts 53 yards, returned by Chester Rogers for 4 yards (tackle by Arthur Moats)",-2.140,-1.070
+1,1:13,1,10,IND 32,0,0,Frank Gore middle for 3 yards (tackle by Ryan Shazier),1.070,0.930
+1,0:34,2,7,IND 35,0,0,"Jacoby Brissett pass complete short right to Chester Rogers for 11 yards (tackle by Sean Davis). Penalty on Jack Doyle: Offensive Holding, 10 yards",0.930,1.070
+1,0:21,2,6,IND 36,0,0,Frank Gore middle for 9 yards (tackle by Mike Mitchell),1.070,1.930
+Quarter,Time,Down,ToGo,Location,PIT,IND,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,IND 45,0,0,"Penalty on Kyle Kalis: False Start, 5 yards (no play)",1.930,1.600
+2,15:00,1,15,IND 40,0,6,"Jacoby Brissett pass complete deep left to Donte Moncrief for 60 yards, touchdown",1.600,7.000
+2,14:52,,,PIT 15,0,7,Adam Vinatieri kicks extra point good,0.000,0.000
+2,14:52,,,IND 35,0,7,"Rigoberto Sanchez kicks off 60 yards, returned by JuJu Smith-Schuster for 25 yards (tackle by Jeremiah George). Penalty on Josh Ferguson: Low Block, 13 yards",0.000,-1.800
+2,14:47,1,10,PIT 43,0,7,Le'Veon Bell right tackle for 15 yards (tackle by T.J. Green),1.800,2.790
+2,14:10,1,10,IND 42,0,7,Ben Roethlisberger pass incomplete deep right intended for Antonio Brown,2.790,2.240
+2,14:04,2,10,IND 42,0,7,Le'Veon Bell middle for 4 yards (tackle by Johnathan Hankins),2.240,2.080
+2,13:19,3,6,IND 38,0,7,Ben Roethlisberger pass incomplete short left intended for Jesse James,2.080,0.720
+2,13:12,4,6,IND 38,0,7,Jordan Berry punts 31 yards,0.720,0.380
+2,13:04,1,10,IND 7,0,7,Frank Gore left tackle for 8 yards (tackle by Cameron Heyward and Mike Mitchell),-0.380,-0.140
+2,12:33,2,2,IND 15,0,7,Frank Gore left end for 3 yards (tackle by T.J. Watt),-0.140,0.040
+2,11:55,1,10,IND 18,0,7,"Penalty on Brandon Williams: False Start, 5 yards (no play)",0.040,-0.450
+2,11:33,1,15,IND 13,0,7,Marlon Mack left tackle for 8 yards (tackle by Mike Mitchell),-0.450,0.010
+2,10:52,2,7,IND 21,0,7,Marlon Mack right guard for no gain (tackle by Sean Davis),0.010,-0.790
+2,10:09,3,7,IND 21,0,7,Jacoby Brissett pass complete short middle to Chester Rogers for 9 yards (tackle by Sean Davis),-0.790,0.940
+2,9:28,1,10,IND 30,0,7,Jacoby Brissett pass complete deep right to T.Y. Hilton for 16 yards,0.940,1.990
+2,8:55,1,10,IND 46,0,7,"Marlon Mack right guard for no gain (tackle by Vince Williams). Penalty on T.J. Watt: Illegal Use of Hands, 5 yards (no play)",1.990,2.320
+2,8:36,1,10,PIT 49,0,7,Marlon Mack left tackle for no gain (tackle by Bud Dupree),2.320,1.780
+2,8:01,2,10,PIT 49,0,7,Jacoby Brissett pass complete short right to Jack Doyle for 6 yards (tackle by Coty Sensabaugh),1.780,1.880
+2,7:17,3,4,PIT 43,0,7,Jacoby Brissett pass complete short right to Marlon Mack for 11 yards (tackle by Coty Sensabaugh),1.880,3.450
+2,6:35,1,10,PIT 32,0,7,Jacoby Brissett pass incomplete short right intended for Darrell Daniels,3.450,2.900
+2,6:29,2,10,PIT 32,0,7,"Penalty on Kyle Kalis: False Start, 5 yards (no play)",2.900,2.230
+2,6:29,2,15,PIT 37,0,7,Jacoby Brissett pass incomplete short middle intended for Marlon Mack,2.230,1.550
+2,6:26,3,15,PIT 37,0,7,Jacoby Brissett pass complete short left to T.Y. Hilton for 7 yards,1.550,1.410
+2,5:56,4,8,PIT 30,0,10,Adam Vinatieri 48 yard field goal good,1.410,3.000
+2,5:51,,,IND 35,0,10,"Rigoberto Sanchez kicks off 65 yards, touchback",0.000,-0.610
+2,5:51,1,10,PIT 25,0,10,Martavis Bryant left end for -9 yards (tackle by Jonathan Bostic),0.610,-1.290
+2,5:15,2,19,PIT 16,0,10,Le'Veon Bell right tackle for 3 yards (tackle by Barkevious Mingo),-1.290,-1.510
+2,4:31,3,16,PIT 19,0,10,Ben Roethlisberger pass incomplete deep left intended for Antonio Brown,-1.510,-2.140
+2,4:25,4,16,PIT 19,0,10,"Jordan Berry punts 56 yards, returned by Chester Rogers for -4 yards (tackle by Sean Davis)",-2.140,-0.340
+2,4:12,1,10,IND 21,0,10,Frank Gore left tackle for 5 yards (tackle by Ryan Shazier),0.340,0.480
+2,3:34,2,5,IND 26,0,10,Frank Gore left tackle for 1 yard (tackle by Mike Hilton),0.480,-0.100
+2,2:54,3,4,IND 27,0,10,Jacoby Brissett pass complete short left to Marlon Mack for 8 yards (tackle by William Gay),-0.100,1.270
+2,2:12,1,10,IND 35,0,10,Frank Gore right tackle for -2 yards (tackle by Stephon Tuitt),1.270,0.450
+2,2:00,2,12,IND 33,0,10,Jacoby Brissett pass incomplete,0.450,-0.230
+2,1:55,3,12,IND 33,0,10,Jacoby Brissett sacked by Bud Dupree for -13 yards,-0.230,0.000
+2,1:48,,,,,,Timeout #1 by Pittsburgh Steelers,0.000,2.030
+2,1:48,4,25,IND 20,0,10,Rigoberto Sanchez punts 42 yards,-2.030,-1.470
+2,1:39,1,10,PIT 38,0,10,Ben Roethlisberger pass complete short right to Vance McDonald for 9 yards (tackle by Matthias Farley),1.470,2.140
+2,1:34,2,1,PIT 47,0,10,Ben Roethlisberger pass complete short left to JuJu Smith-Schuster for 15 yards (tackle by Rashaan Melvin),2.140,3.050
+2,1:01,1,10,IND 38,0,10,Ben Roethlisberger pass incomplete short middle intended for Antonio Brown,3.050,2.510
+2,0:57,2,10,IND 38,0,10,Ben Roethlisberger pass complete short right to Martavis Bryant for 13 yards (tackle by T.J. Green),2.510,0.000
+2,0:50,,,,,,Timeout #2 by Pittsburgh Steelers,0.000,-3.910
+2,0:50,1,10,IND 25,0,10,"Ben Roethlisberger for no gain. Ben Roethlisberger fumbles, recovered by Ben Roethlisberger at IND-33",3.910,0.000
+2,0:44,,,,,,Timeout #3 by Pittsburgh Steelers,0.000,-2.280
+2,0:44,2,18,IND 33,0,10,Ben Roethlisberger pass incomplete short middle intended for Martavis Bryant (defended by Johnathan Hankins),2.280,0.000
+2,0:39,,,,,,Timeout #1 by Indianapolis Colts,0.000,-1.620
+2,0:39,3,18,IND 33,0,10,Ben Roethlisberger pass complete short left to Antonio Brown for 10 yards (tackle by Rashaan Melvin),1.620,1.930
+2,0:35,4,8,IND 23,3,10,Chris Boswell 41 yard field goal good,1.930,3.000
+2,0:30,,,PIT 35,3,10,"Chris Boswell kicks off 65 yards, touchback",0.000,-0.610
+2,0:30,1,10,IND 25,3,10,Jacoby Brissett kneels for -1 yards,0.610,-0.070
+Quarter,Time,Down,ToGo,Location,PIT,IND,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PIT 35,3,10,"Chris Boswell kicks off 65 yards, touchback",0.000,-0.610
+3,15:00,1,10,IND 25,3,10,Frank Gore right tackle for 9 yards (tackle by Vince Williams),0.610,1.280
+3,14:24,2,1,IND 34,3,10,Frank Gore right tackle for -5 yards (tackle by Stephon Tuitt),1.280,-0.100
+3,13:42,3,6,IND 29,3,10,Jacoby Brissett pass complete short left to Chester Rogers for 10 yards (tackle by Artie Burns),-0.100,1.530
+3,12:58,1,10,IND 39,3,16,"Jacoby Brissett pass complete deep right to Chester Rogers for 61 yards, touchdown. Penalty on Artie Burns: Neutral Zone Infraction, 5 yards",1.530,7.000
+3,12:46,,,PIT 15,3,17,"Penalty on Artie Burns: Neutral Zone Infraction, 5 yards",0.000,0.000
+3,12:46,,,PIT 15,3,17,Adam Vinatieri kicks extra point good,0.000,0.000
+3,12:46,,,IND 40,3,17,"Rigoberto Sanchez kicks off 56 yards, returned by Terrell Watson for 18 yards (tackle by Anthony Walker)",0.000,-0.410
+3,12:41,1,10,PIT 22,3,17,Le'Veon Bell middle for 9 yards (tackle by Matthias Farley and Jonathan Bostic),0.410,1.080
+3,12:06,2,1,PIT 31,3,17,Le'Veon Bell middle for 3 yards (tackle by Jonathan Bostic and Al Woods),1.080,1.200
+3,11:28,1,10,PIT 34,3,17,Ben Roethlisberger pass complete deep right to JuJu Smith-Schuster for 44 yards (tackle by Pierre Desir),1.200,4.110
+3,10:52,1,10,IND 22,3,17,Ben Roethlisberger pass complete short right to Le'Veon Bell for 8 yards (tackle by Jonathan Bostic),4.110,4.850
+3,10:08,2,2,IND 14,3,17,Le'Veon Bell right tackle for 1 yard (tackle by Antonio Morrison),4.850,4.390
+3,9:42,3,1,IND 13,3,17,Le'Veon Bell left tackle for 5 yards (tackle by Pierre Desir),4.390,5.370
+3,9:02,1,8,IND 8,3,17,Le'Veon Bell middle for no gain (tackle by Jabaal Sheard),5.370,4.570
+3,8:22,2,8,IND 8,3,17,"Ben Roethlisberger pass complete short middle to JuJu Smith-Schuster for 6 yards (tackle by Nate Hairston and Matthias Farley). Penalty on Eli Rogers: Offensive Pass Interference, 10 yards (no play)",4.570,3.150
+3,7:55,2,18,IND 18,3,17,"Ben Roethlisberger pass incomplete short right intended for Antonio Brown. Penalty on Rashaan Melvin: Defensive Pass Interference, 11 yards (no play)",3.150,5.600
+3,7:51,1,7,IND 7,9,17,"Ben Roethlisberger pass complete short middle to JuJu Smith-Schuster for 7 yards, touchdown",5.600,7.000
+3,7:47,,,IND 15,9,17,"Chris Boswell kicks extra point no good, blocked by Margus Hunt",0.000,-1.000
+3,7:47,,,PIT 35,9,17,"Chris Boswell kicks off 65 yards, touchback",0.000,-0.610
+3,7:47,1,10,IND 25,9,17,Jacoby Brissett right end for 1 yard (tackle by Ryan Shazier),0.610,0.200
+3,7:11,2,9,IND 26,9,17,Frank Gore right tackle for 1 yard (tackle by Vince Williams),0.200,-0.360
+3,6:28,3,8,IND 27,9,17,"Jacoby Brissett sacked by Stephon Tuitt for -11 yards. Penalty on William Gay: Defensive Holding, 5 yards (no play)",-0.360,1.070
+3,6:06,1,10,IND 32,9,17,Frank Gore middle for 1 yard (tackle by T.J. Watt),1.070,0.660
+3,5:30,2,9,IND 33,9,17,Jacoby Brissett pass complete short middle to Frank Gore for 7 yards (tackle by Vince Williams),0.660,0.890
+3,4:58,3,2,IND 40,9,17,Jacoby Brissett pass incomplete short left intended for Jack Doyle (defended by Javon Hargrave),0.890,-0.720
+3,4:53,4,2,IND 40,9,17,Rigoberto Sanchez punts 59 yards,-0.720,0.380
+3,4:44,1,10,PIT 1,9,17,"Le'Veon Bell middle for 5 yards (tackle by Jonathan Bostic and Pierre Desir). Penalty on T.J. Green: Unnecessary Roughness, 15 yards",-0.380,0.340
+3,4:18,1,10,PIT 21,9,17,Le'Veon Bell middle for 3 yards (tackle by Johnathan Hankins and Matthias Farley),0.340,0.210
+3,3:39,2,7,PIT 24,9,17,Ben Roethlisberger pass complete short left to Le'Veon Bell for 2 yards (tackle by Antonio Morrison),0.210,-0.230
+3,2:52,3,5,PIT 26,9,17,Ben Roethlisberger pass incomplete short middle intended for JuJu Smith-Schuster (defended by Matthias Farley),-0.230,-1.630
+3,2:47,4,5,PIT 26,9,17,"Jordan Berry punts 58 yards, returned by Chester Rogers for 12 yards (tackle by L.J. Fort). Penalty on T.J. Green: Offensive Holding, 8 yards",-1.630,0.380
+3,2:36,1,10,IND 8,9,17,Jacoby Brissett pass incomplete short right intended for Darrell Daniels,-0.380,-0.780
+3,2:36,2,10,IND 8,9,17,Marlon Mack middle for no gain (tackle by Cameron Heyward),-0.780,-1.420
+3,1:44,3,10,IND 8,9,17,Jacoby Brissett left tackle for 3 yards (tackle by Ryan Shazier),-1.420,-2.490
+3,1:16,4,7,IND 11,9,17,"Rigoberto Sanchez punts 49 yards, fair catch by Antonio Brown",-2.490,-1.600
+3,1:09,1,10,PIT 40,9,17,Le'Veon Bell right end for 5 yards (tackle by Joey Mbu and Matthias Farley),1.600,1.730
+3,0:35,2,5,PIT 45,9,17,"Ben Roethlisberger pass incomplete deep right intended for Antonio Brown. Penalty on Antonio Brown: Offensive Pass Interference, 10 yards (no play)",1.730,0.380
+3,0:29,2,15,PIT 35,9,17,Ben Roethlisberger pass complete short left to Martavis Bryant for 10 yards (tackle by Pierre Desir),0.380,1.030
+Quarter,Time,Down,ToGo,Location,PIT,IND,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,5,PIT 45,9,17,Ben Roethlisberger pass complete short middle to Le'Veon Bell for no gain,1.030,-0.390
+4,14:23,4,5,PIT 45,9,17,"Jordan Berry punts 44 yards, fair catch by Chester Rogers",-0.390,0.370
+4,14:14,1,10,IND 11,9,17,Chester Rogers for 3 yards,-0.370,-0.530
+4,13:44,2,7,IND 14,9,17,Marlon Mack left tackle for -1 yards (tackle by Bud Dupree),-0.530,-1.190
+4,12:59,3,8,IND 13,9,17,Jacoby Brissett pass incomplete short right intended for Jack Doyle is intercepted by Ryan Shazier at IND-10,-1.190,-4.910
+4,12:52,1,10,IND 10,9,17,Le'Veon Bell right end for 3 yards (tackle by Pierre Desir),4.910,4.760
+4,12:09,2,7,IND 7,9,17,Ben Roethlisberger pass incomplete short left intended for Jesse James (defended by Pierre Desir),4.760,3.810
+4,12:01,3,7,IND 7,15,17,"Ben Roethlisberger pass complete short right to Vance McDonald for 7 yards, touchdown",3.810,7.000
+4,11:52,,,,,,Timeout #1 by Pittsburgh Steelers,0.000,0.000
+4,11:52,,,IND 2,17,17,"Penalty on Ben Roethlisberger: Delay of Game, 5 yards (no play)",0.000,0.000
+4,11:52,,,IND 7,17,17,"Two Point Attempt: Ben Roethlisberger pass complete to Martavis Bryant, conversion succeeds",0.000,1.000
+4,11:52,,,PIT 35,17,17,"Chris Boswell kicks off 65 yards, touchback",0.000,-0.610
+4,11:52,1,10,IND 25,17,17,Jacoby Brissett pass incomplete short right intended for Jack Doyle,0.610,0.060
+4,11:48,2,10,IND 25,17,17,Jacoby Brissett sacked by Vince Williams for -4 yards,0.060,-1.150
+4,11:05,3,14,IND 21,17,17,Jacoby Brissett sacked by Stephon Tuitt for -9 yards,-1.150,-2.490
+4,10:24,4,23,IND 12,17,17,"Rigoberto Sanchez punts 48 yards, returned by Antonio Brown for 7 yards (tackle by Darrell Daniels)",-2.490,-2.060
+4,10:10,1,10,PIT 47,17,17,Le'Veon Bell left end for -2 yards (tackle by Jabaal Sheard and Grover Stewart),2.060,1.250
+4,9:25,2,12,PIT 45,17,17,Ben Roethlisberger pass incomplete short right intended for JuJu Smith-Schuster (defended by Barkevious Mingo),1.250,0.560
+4,9:20,3,12,PIT 45,17,17,Ben Roethlisberger pass complete short right to JuJu Smith-Schuster for 20 yards (tackle by Rashaan Melvin),0.560,3.250
+4,8:39,1,10,IND 35,17,17,James Conner left end for 12 yards (tackle by Pierre Desir and Antonio Morrison),3.250,4.040
+4,7:54,1,10,IND 23,17,17,Le'Veon Bell middle for 3 yards (tackle by Al Woods),4.040,3.900
+4,7:12,2,7,IND 20,17,17,Le'Veon Bell right tackle for 1 yard (tackle by Hassan Ridgeway and Jonathan Bostic),3.900,3.340
+4,6:28,3,6,IND 19,17,17,Ben Roethlisberger pass incomplete short right intended for Le'Veon Bell (defended by Barkevious Mingo),3.340,2.210
+4,6:21,4,6,IND 19,17,17,Chris Boswell 37 yard field goal no good,2.210,-0.740
+4,6:17,1,10,IND 27,17,17,Jacoby Brissett pass incomplete deep right intended for T.Y. Hilton (defended by Coty Sensabaugh),0.740,0.200
+4,6:12,2,10,IND 27,17,17,Frank Gore middle for 4 yards (tackle by T.J. Watt),0.200,0.040
+4,5:35,3,6,IND 31,17,17,Jacoby Brissett pass complete short right to Chester Rogers for 6 yards (tackle by Coty Sensabaugh),0.040,1.400
+4,4:57,1,10,IND 37,17,17,Marlon Mack middle for 5 yards (tackle by Sean Davis and Tyson Alualu),1.400,1.530
+4,4:21,2,5,IND 42,17,17,"Marlon Mack right tackle for 4 yards (tackle by Javon Hargrave). Penalty on Kyle Kalis: Offensive Holding, 10 yards (no play)",1.530,0.180
+4,4:14,2,15,IND 32,17,17,Jacoby Brissett pass incomplete short middle intended for Marlon Mack (defended by Ryan Shazier),0.180,-0.490
+4,4:08,3,15,IND 32,17,17,Jacoby Brissett pass complete short right to Chester Rogers for 7 yards (tackle by Ryan Shazier),-0.490,-0.780
+4,3:28,4,8,IND 39,17,17,Rigoberto Sanchez punts 46 yards,-0.780,0.220
+4,3:10,1,10,PIT 15,17,17,Le'Veon Bell left guard for 5 yards (tackle by Al Woods and Antonio Morrison),-0.220,0.080
+4,2:32,2,5,PIT 20,17,17,Le'Veon Bell right end for 3 yards (tackle by Jonathan Bostic),0.080,-0.390
+4,2:25,3,2,PIT 23,17,17,Ben Roethlisberger pass complete short middle to Eli Rogers for 2 yards (tackle by Nate Hairston),-0.390,0.610
+,,,,,,,"IND challenged the first down ruling, and the play was upheld.",,
+4,2:00,1,10,PIT 25,17,17,Le'Veon Bell right end for -7 yards (tackle by Matthias Farley),0.610,-0.980
+4,1:26,2,17,PIT 18,17,17,Ben Roethlisberger pass complete short middle to Le'Veon Bell for 13 yards (tackle by Pierre Desir),-0.980,0.170
+4,0:53,3,4,PIT 31,17,17,Ben Roethlisberger pass complete short middle to Martavis Bryant for 19 yards (tackle by Rashaan Melvin),0.170,2.260
+4,0:45,1,10,,17,17,Ben Roethlisberger pass complete short middle to Antonio Brown for 32 yards (tackle by Darius Butler),2.260,0.000
+4,0:35,,,,,,Timeout #2 by Indianapolis Colts,0.000,-4.370
+4,0:35,1,10,IND 18,17,17,Le'Veon Bell right end for 2 yards (tackle by Jonathan Bostic and Antonio Morrison),4.370,0.000
+4,0:27,,,,,,Timeout #3 by Indianapolis Colts,0.000,-4.090
+4,0:27,2,8,IND 16,17,17,Le'Veon Bell right tackle for 1 yard (tackle by Antonio Morrison),4.090,0.000
+4,0:04,,,,,,Timeout #2 by Pittsburgh Steelers,0.000,-3.460
+4,0:04,3,7,IND 15,20,17,Chris Boswell 33 yard field goal good,3.460,3.000
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

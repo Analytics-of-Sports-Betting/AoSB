@@ -1,0 +1,15 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:30,MIA 25,10,5:31,33,Punt
+2,1,6:20,MIA 18,8,5:57,40,Punt
+3,2,14:47,MIA 28,3,0:59,2,Punt
+4,2,11:38,MIA 38,9,5:33,36,Field Goal
+5,2,2:32,MIA 47,7,0:52,19,Missed FG
+6,2,0:28,MIA 11,2,0:10,14,Interception
+7,3,15:00,MIA 25,4,1:37,9,Downs
+8,3,11:35,MIA 10,3,2:11,-1,Punt
+9,3,7:44,MIA 12,3,0:24,0,Punt
+10,3,5:46,MIA 14,4,2:24,7,Punt
+11,4,14:13,MIA 25,7,4:09,75,Touchdown
+12,4,8:25,MIA 20,7,4:15,52,Fumble
+13,4,3:15,MIA 25,2,0:14,14,Interception
+14,4,2:37,MIA 17,6,1:13,83,Touchdown

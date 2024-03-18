@@ -1,0 +1,19 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:08,NWE 24,8,3:14,36,Fumble
+2,1,9:54,NWE 28,2,0:32,-5,Fumble
+3,1,8:54,NWE 24,3,1:28,20,Fumble
+4,1,2:57,NWE 29,4,1:39,19,Punt
+5,2,12:48,NWE 21,6,2:10,49,Downs
+6,2,6:10,NWE 20,5,2:36,23,Punt
+7,2,1:12,NWE 8,6,1:07,7,Punt
+8,2,0:05,DEN 42,1,0:05,0,End of Half
+9,3,15:00,NWE 20,8,3:39,80,Touchdown
+10,3,8:19,DEN 32,6,2:39,32,Touchdown
+11,3,2:01,NWE 35,5,1:42,65,Touchdown
+12,4,14:32,DEN 30,3,1:19,30,Touchdown
+13,4,12:22,DEN 47,12,4:45,34,Field Goal
+14,4,3:06,NWE 20,3,1:32,9,Punt
+15,4,0:28,NWE 11,2,0:28,9,End of Half
+16,5,12:21,NWE 18,5,2:17,19,Punt
+17,5,4:50,NWE 20,4,1:49,23,Punt
+18,5,3:01,DEN 13,3,1:05,0,Field Goal

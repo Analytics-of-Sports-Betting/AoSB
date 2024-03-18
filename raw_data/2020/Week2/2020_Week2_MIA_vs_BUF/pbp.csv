@@ -1,0 +1,184 @@
+Quarter,Time,Down,ToGo,Location,BUF,MIA,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Dolphins won the coin toss and deferred, Bills to receive the opening kickoff.",,
+1,15:00,,,MIA 35,0,0,"Jason Sanders kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,BUF 25,0,0,Devin Singletary up the middle for 14 yards (tackle by Bobby McCain),0.610,1.530
+1,14:26,1,10,BUF 39,0,0,Devin Singletary left guard for 3 yards (tackle by Davon Godchaux and Shaq Lawson),1.530,1.390
+1,13:57,2,7,BUF 42,0,0,Josh Allen pass complete short right to Stefon Diggs for 5 yards (tackle by Byron Jones and Nik Needham),1.390,1.360
+1,13:15,3,2,BUF 47,0,0,Josh Allen pass incomplete short right intended for Stefon Diggs,1.360,-0.260
+1,13:11,4,2,BUF 47,0,0,"Corey Bojorquez punts 39 yards, fair catch by Jakeem Grant at MIA-14",-0.260,0.280
+1,13:03,1,10,MIA 14,0,0,Jordan Howard left guard for 1 yard (tackle by A.J. Klein),-0.280,-0.640
+1,12:25,2,9,MIA 15,0,0,Ryan Fitzpatrick pass complete short middle to Mike Gesicki for 17 yards (tackle by Micah Hyde),-0.640,1.070
+1,11:50,1,10,MIA 32,0,0,Ryan Fitzpatrick pass complete short middle to Jakeem Grant for 2 yards (tackle by Trent Murphy),1.070,0.800
+1,11:10,2,8,MIA 34,0,0,Ryan Fitzpatrick pass incomplete short left intended for DeVante Parker,0.800,0.100
+1,11:06,3,8,MIA 34,0,0,Ryan Fitzpatrick sacked by Ed Oliver for no gain,0.100,-1.110
+1,10:26,4,8,MIA 34,0,0,Matt Haack punts 63 yards downed by Mack Hollins,-1.110,0.380
+1,10:14,1,10,BUF 3,0,0,Zack Moss left guard for 1 yard (tackle by Davon Godchaux),-0.380,-0.710
+1,9:33,2,9,BUF 4,0,0,Josh Allen pass complete deep right to Stefon Diggs for 25 yards (tackle by Noah Igbinoghene),-0.710,0.870
+1,8:53,1,10,BUF 29,0,0,Josh Allen pass incomplete short left intended for Dawson Knox,0.870,0.330
+1,8:47,2,10,BUF 29,0,0,Josh Allen pass incomplete short right intended for Stefon Diggs,0.330,-0.360
+1,8:43,3,10,BUF 29,0,0,Josh Allen pass complete short left to John Brown for 15 yards (tackle by Xavien Howard),-0.360,1.860
+1,8:00,1,10,BUF 44,0,0,Josh Allen up the middle for 16 yards (tackle by Bobby McCain),1.860,2.920
+1,7:22,1,10,MIA 40,0,0,Josh Allen pass complete deep left to Cole Beasley for 26 yards (tackle by Nik Needham),2.920,4.650
+1,6:41,1,10,MIA 14,0,0,Josh Allen pass complete short right to Stefon Diggs for 8 yards (tackle by Nik Needham and Kamu Grugier-Hill),4.650,5.470
+1,5:57,2,2,MIA 6,0,0,Gabriel Davis left guard for no gain (tackle by Jamal Perry and Andrew Van Ginkel),5.470,4.730
+1,5:13,3,2,MIA 6,0,0,Josh Allen pass complete short right to Cole Beasley for 5 yards (tackle by Nik Needham). Penalty on Nik Needham: Defensive Pass Interference (Declined),4.730,6.970
+1,5:00,1,1,MIA 1,6,0,"Josh Allen pass complete short right to Reggie Gilliam for 1 yard, touchdown",6.970,7.000
+1,4:55,,,MIA 15,7,0,Tyler Bass kicks extra point good,0.000,0.000
+1,4:55,,,BUF 35,7,0,"Tyler Bass kicks off 65 yards, touchback.",0.000,0.610
+1,4:55,1,10,MIA 25,7,0,Ryan Fitzpatrick pass complete short middle to Isaiah Ford for 13 yards (tackle by Tre'Davious White),0.610,1.470
+1,4:18,1,10,MIA 38,7,0,Myles Gaskin left guard for 3 yards (tackle by Tyrel Dodson),1.470,1.330
+1,3:39,2,7,MIA 41,7,0,Ryan Fitzpatrick pass complete short left to Myles Gaskin for 13 yards (tackle by Tre'Davious White and Micah Hyde),1.330,2.520
+1,3:03,1,10,BUF 46,7,0,Myles Gaskin right guard for 1 yard (tackle by Taron Johnson),2.520,2.110
+1,2:23,2,9,BUF 45,7,0,Myles Gaskin up the middle for 8 yards (tackle by Levi Wallace),2.110,2.480
+1,1:41,3,1,BUF 37,7,0,Matt Breida left end for 9 yards (tackle by Levi Wallace),2.480,3.710
+1,1:03,1,10,BUF 28,7,0,Ryan Fitzpatrick pass incomplete short right intended for Preston Williams (defended by Tyrel Dodson),3.710,3.170
+1,1:00,2,10,BUF 28,7,0,Ryan Fitzpatrick pass complete deep right to Preston Williams for 26 yards (tackle by Tre'Davious White),3.170,6.740
+1,0:45,1,2,BUF 2,7,0,Ryan Fitzpatrick pass incomplete short right intended for Adam Shaheen,6.740,5.720
+1,0:41,2,2,BUF 2,7,6,"Ryan Fitzpatrick pass complete short middle to DeVante Parker for 2 yards, touchdown",5.720,7.000
+1,0:38,,,BUF 15,7,7,Jason Sanders kicks extra point good,0.000,0.000
+1,0:38,,,MIA 35,7,7,"Jason Sanders kicks off 65 yards, touchback.",0.000,0.610
+1,0:38,1,10,BUF 25,7,7,"Josh Allen pass complete short left to Dawson Knox for 36 yards (tackle by Kyle Van Noy). Dawson Knox fumbles (forced by Kyle Van Noy), recovered by Noah Igbinoghene at MIA-37 (tackle by Isaiah McKenzie). Penalty on Isaiah McKenzie: Offensive Holding (Declined)",0.610,-1.400
+1,0:23,1,10,MIA 37,7,7,Ryan Fitzpatrick pass complete short right to Adam Shaheen for 4 yards (tackle by Jordan Poyer),1.400,1.400
+Quarter,Time,Down,ToGo,Location,BUF,MIA,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,6,MIA 41,7,7,Ryan Fitzpatrick pass incomplete deep right intended for DeVante Parker (defended by Levi Wallace),1.400,0.700
+2,14:54,3,6,MIA 41,7,7,Ryan Fitzpatrick pass incomplete short middle intended for Preston Williams. Penalty on Solomon Kindley: Offensive Holding (Declined),0.700,-0.650
+2,14:49,4,6,MIA 41,7,7,"Matt Haack punts 50 yards, returned by Andre Roberts for 7 yards (tackle by Kavon Frazier)",-0.650,0.140
+2,14:38,1,10,BUF 16,7,7,Josh Allen pass complete short right to Cole Beasley for 4 yards (tackle by Xavien Howard and Nik Needham),-0.140,0.010
+2,14:00,2,6,BUF 20,7,7,Devin Singletary up the middle for 1 yard (tackle by Kyle Van Noy),0.010,-0.700
+2,13:23,3,5,BUF 21,7,7,Josh Allen pass complete short left to Cole Beasley for 11 yards (tackle by Nik Needham),-0.700,1.070
+2,12:41,1,10,BUF 32,7,7,Josh Allen pass complete deep right to Isaiah McKenzie for 46 yards (tackle by Nik Needham and Bobby McCain),1.070,4.110
+2,11:46,1,10,MIA 22,13,7,"Josh Allen pass complete deep right to Stefon Diggs for 22 yards, touchdown, touchdown",4.110,7.000
+2,11:40,,,MIA 15,14,7,Tyler Bass kicks extra point good,0.000,0.000
+2,11:40,,,BUF 35,14,7,"Tyler Bass kicks off 65 yards, touchback.",0.000,0.610
+2,11:40,1,10,MIA 25,14,7,Ryan Fitzpatrick pass incomplete short middle intended for Matt Breida (defended by Jerry Hughes),0.610,0.060
+2,11:36,2,10,MIA 25,14,7,Matt Breida right tackle for 3 yards (tackle by Jerry Hughes),0.060,-0.230
+2,10:54,3,7,MIA 28,14,7,Ryan Fitzpatrick pass complete short left to Isaiah Ford for 14 yards (tackle by Mario Addison and Levi Wallace),-0.230,1.730
+2,10:14,1,10,MIA 42,14,7,Ryan Fitzpatrick pass complete short left to Matt Breida for 2 yards (tackle by Vernon Butler),1.730,1.460
+2,9:37,2,8,MIA 44,14,7,Ryan Fitzpatrick pass complete short right to Lynn Bowden for -1 yards (tackle by Tyrel Dodson),1.460,0.630
+2,8:58,3,9,MIA 43,14,7,Ryan Fitzpatrick pass incomplete short left intended for Isaiah Ford (defended by Tyrel Dodson),0.630,-0.520
+2,8:53,4,9,MIA 43,14,7,Matt Haack punts 51 yards downed by Mack Hollins,-0.520,0.380
+2,8:43,1,10,BUF 6,14,7,Zack Moss up the middle for 3 yards (tackle by Davon Godchaux),-0.380,-0.560
+2,8:05,2,7,BUF 9,14,7,Zack Moss left guard for 14 yards (tackle by Kyle Van Noy and Nik Needham),-0.560,0.480
+2,7:20,1,10,BUF 23,14,7,Zack Moss left guard for 6 yards (tackle by Raekwon Davis and Eric Rowe),0.480,0.740
+2,6:35,2,4,BUF 29,14,7,Zack Moss right guard for 4 yards (tackle by Raekwon Davis),0.740,1.140
+2,5:55,1,10,BUF 33,14,7,Josh Allen pass complete deep left to Stefon Diggs for 16 yards (tackle by Noah Igbinoghene),1.140,2.190
+2,5:12,1,10,BUF 49,14,7,Devin Singletary left end for 18 yards (tackle by Nik Needham),2.190,3.380
+2,4:26,1,10,MIA 33,14,7,Josh Allen pass incomplete short left intended for John Brown,3.380,2.840
+2,4:23,2,10,MIA 33,14,7,Josh Allen pass incomplete short left intended for Devin Singletary,2.840,2.150
+2,4:20,3,10,MIA 33,14,7,"Josh Allen pass incomplete short right. Penalty on Nik Needham: Defensive Holding, 5 yards (no play)",2.150,3.710
+2,4:13,1,10,MIA 28,14,7,Josh Allen pass incomplete short middle intended for Dawson Knox (defended by Eric Rowe),3.710,3.170
+2,4:08,2,10,MIA 28,14,7,"Zack Moss left end for 3 yards (tackle by Eric Rowe). Penalty on Isaiah McKenzie: Illegal Blindside Block, 15 yards",3.170,1.550
+2,3:48,2,22,MIA 40,14,7,Zack Moss left guard for 4 yards (tackle by Christian Wilkins and Jerome Baker),1.550,1.420
+2,3:12,3,18,MIA 36,14,7,Josh Allen pass complete short right to John Brown for 15 yards (tackle by Brandon Jones),1.420,2.160
+2,2:34,4,3,MIA 21,17,7,Tyler Bass 39 yard field goal good,2.160,3.000
+2,2:30,,,BUF 35,17,7,"Tyler Bass kicks off 65 yards, touchback.",0.000,0.610
+2,2:30,1,10,MIA 25,17,7,Ryan Fitzpatrick pass complete short right to DeVante Parker for 7 yards (tackle by Levi Wallace),0.610,1.010
+2,2:08,2,3,MIA 32,17,7,Ryan Fitzpatrick pass incomplete short left intended for Isaiah Ford,1.010,0.300
+2,2:05,3,3,MIA 32,17,7,Ryan Fitzpatrick sacked by Mario Addison for -8 yards,0.300,-1.770
+2,1:57,4,11,MIA 24,17,7,"Matt Haack punts 58 yards, returned by Andre Roberts for 11 yards (tackle by Andrew Van Ginkel). Penalty on Taiwan Jones: Illegal Block Above the Waist, 10 yards",-1.770,-0.150
+2,1:45,1,10,BUF 19,17,7,Josh Allen pass complete short right to Devin Singletary for 12 yards (tackle by Kyle Van Noy),0.150,1.000
+2,1:37,1,10,BUF 31,17,7,Devin Singletary right tackle for 2 yards (tackle by Shaq Lawson and Christian Wilkins),1.000,0.730
+2,1:09,2,8,BUF 33,17,7,Josh Allen pass incomplete short right intended for Stefon Diggs,0.730,0.040
+2,1:04,3,8,BUF 33,17,7,Josh Allen left end for 4 yards (tackle by Emmanuel Ogbah),0.040,-0.910
+2,0:42,,,,,,Timeout #2 by Miami Dolphins,,
+2,0:42,4,4,BUF 37,17,7,"Corey Bojorquez punts 39 yards, returned by Jakeem Grant for 1 yard (tackle by Siran Neal)",-0.910,-0.610
+2,0:33,1,10,MIA 25,17,7,Ryan Fitzpatrick pass incomplete short left intended for Myles Gaskin,0.610,0.060
+2,0:30,2,10,MIA 25,17,7,Myles Gaskin right guard for 14 yards (tackle by Taron Johnson),0.060,1.530
+2,0:23,,,,,,Timeout #3 by Miami Dolphins,,
+2,0:22,1,10,MIA 39,17,7,Ryan Fitzpatrick pass complete deep middle to Mike Gesicki for 27 yards (tackle by Micah Hyde),1.530,3.310
+2,0:08,1,10,BUF 34,17,7,Ryan Fitzpatrick spiked the ball,3.310,2.770
+2,0:07,2,10,BUF 34,17,10,Jason Sanders 52 yard field goal good,2.770,3.000
+2,0:02,,,MIA 35,17,10,"Jason Sanders kicks off 17 yards, returned by Jaquan Johnson for -1 yards (tackle by Kamu Grugier-Hill)",0.000,1.270
+Quarter,Time,Down,ToGo,Location,BUF,MIA,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,BUF 35,17,10,"Tyler Bass kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,MIA 25,17,10,Ryan Fitzpatrick pass incomplete short right intended for DeVante Parker,0.610,0.060
+3,14:57,2,10,MIA 25,17,10,Ryan Fitzpatrick pass complete short middle to DeVante Parker for 15 yards (tackle by Micah Hyde),0.060,1.600
+3,14:25,1,10,MIA 40,17,10,Ryan Fitzpatrick pass complete short middle to Mike Gesicki for 12 yards (tackle by Levi Wallace),1.600,2.390
+3,13:46,1,10,BUF 48,17,10,Ryan Fitzpatrick pass complete short middle to DeVante Parker for 20 yards (tackle by Levi Wallace and Jordan Poyer),2.390,3.710
+3,13:06,1,10,BUF 28,17,10,Myles Gaskin right guard for 9 yards (tackle by Quinton Jefferson and Taron Johnson),3.710,4.420
+3,12:29,2,1,BUF 19,17,10,"Myles Gaskin right end for 13 yards (tackle by Micah Hyde). Penalty on DeVante Parker: Illegal Block Above the Waist, 10 yards (no play)",4.420,3.030
+3,12:08,2,11,BUF 29,17,10,Matt Breida right guard for 2 yards (tackle by Harrison Phillips),3.030,2.610
+3,11:27,3,9,BUF 27,17,10,Ryan Fitzpatrick pass incomplete short right intended for Preston Williams (defended by Tre'Davious White),2.610,1.670
+3,11:23,4,9,BUF 27,17,13,Jason Sanders 45 yard field goal good,1.670,3.000
+3,11:18,,,MIA 35,17,13,"Jason Sanders kicks off 65 yards, touchback.",0.000,0.610
+3,11:18,1,10,BUF 25,17,13,Josh Allen pass complete short right to Stefon Diggs for 9 yards (tackle by Jerome Baker),0.610,1.280
+3,10:33,2,1,BUF 34,17,13,Devin Singletary left guard for 3 yards (tackle by Jerome Baker and Davon Godchaux),1.280,1.400
+3,10:00,1,10,BUF 37,17,13,Josh Allen pass complete short right to Devin Singletary for 8 yards (tackle by Nik Needham and Jerome Baker),1.400,1.940
+3,9:18,2,2,BUF 45,17,13,Devin Singletary left tackle for no gain (tackle by Christian Wilkins and Jerome Baker),1.940,1.220
+3,8:31,3,2,BUF 45,17,13,Josh Allen pass incomplete short left intended for Stefon Diggs,1.220,-0.390
+3,8:26,4,2,BUF 45,17,13,Corey Bojorquez punts 41 yards out of bounds,-0.390,0.280
+3,8:19,1,10,MIA 14,17,13,Ryan Fitzpatrick pass complete short middle to Isaiah Ford for 14 yards (tackle by Micah Hyde),-0.280,0.810
+3,7:40,1,10,MIA 28,17,13,"Ryan Fitzpatrick pass complete deep left to Mike Gesicki for 23 yards (tackle by Micah Hyde and Levi Wallace). Penalty on Micah Hyde: Unnecessary Roughness, 15 yards",0.810,3.310
+3,7:22,1,10,BUF 34,17,13,Ryan Fitzpatrick pass complete short left to DeVante Parker for 9 yards (tackle by Levi Wallace),3.310,3.990
+3,6:37,2,1,BUF 25,17,13,Ryan Fitzpatrick pass complete short left to Myles Gaskin for no gain (tackle by Tyrel Dodson and Jordan Poyer),3.990,3.270
+3,5:53,3,1,BUF 25,17,13,Jordan Howard left guard for 1 yard (tackle by Ed Oliver),3.270,3.970
+3,5:27,1,10,BUF 24,17,13,Jordan Howard right guard for no gain (tackle by Mario Addison),3.970,3.430
+3,4:47,,,,,,Timeout #1 by Buffalo Bills,,
+3,4:47,2,10,BUF 24,17,13,Ryan Fitzpatrick pass complete short middle to Mike Gesicki for 12 yards (tackle by Dean Marlowe),3.430,4.780
+3,4:08,1,10,BUF 12,17,13,Matt Breida left guard for 11 yards (tackle by Micah Hyde),4.780,6.970
+3,3:30,1,1,BUF 1,17,13,Jordan Howard left tackle for no gain (tackle by Ed Oliver),6.970,5.910
+3,2:51,2,1,BUF 1,17,13,Ryan Fitzpatrick left end for no gain (tackle by Quinton Jefferson and Jordan Poyer),5.910,5.170
+3,2:10,3,1,BUF 1,17,13,Ryan Fitzpatrick pass incomplete short left intended for Mike Gesicki (defended by Micah Hyde),5.170,3.550
+3,2:05,4,1,BUF 1,17,13,Ryan Fitzpatrick pass incomplete short left intended for Preston Williams,3.550,0.380
+3,2:02,1,10,BUF 1,17,13,Penalty on Daryl Williams: False Start (no play),-0.380,-0.380
+3,2:02,1,10,BUF 1,17,13,Josh Allen pass complete short left to John Brown for 6 yards (tackle by Calvin Munson),-0.380,-0.340
+3,1:24,2,4,BUF 7,17,13,Zack Moss up the middle for 2 yards (tackle by Zach Sieler),-0.340,-0.480
+3,0:43,3,2,BUF 9,17,13,Josh Allen pass incomplete short right intended for Stefon Diggs (defended by Kyle Van Noy),-0.480,-2.490
+3,0:39,4,2,BUF 9,17,13,"Corey Bojorquez punts 45 yards, returned by Jakeem Grant for 10 yards (tackle by Tyrel Dodson)",-2.490,-2.650
+3,0:24,1,10,BUF 44,17,13,Matt Breida right guard for 4 yards (tackle by A.J. Klein and Vernon Butler),2.650,2.650
+Quarter,Time,Down,ToGo,Location,BUF,MIA,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,6,BUF 40,17,13,Ryan Fitzpatrick pass complete short middle to Isaiah Ford for 11 yards (tackle by Jordan Poyer),2.650,3.640
+4,14:25,1,10,BUF 29,17,13,Matt Breida right tackle for 5 yards (tackle by Vernon Butler and Tyrel Dodson),3.640,3.780
+4,13:46,2,5,BUF 24,17,13,"Matt Breida right guard for 3 yards (tackle by Vernon Butler). Matt Breida fumbles (forced by Vernon Butler), recovered by Matt Breida at BUF-21",3.780,3.470
+4,13:05,3,2,BUF 21,17,13,Ryan Fitzpatrick pass complete short left to Isaiah Ford for 3 yards (tackle by Tre'Davious White),3.470,4.370
+4,12:23,1,10,BUF 18,17,13,Myles Gaskin up the middle for 9 yards (tackle by A.J. Klein),4.370,5.420
+4,11:46,2,1,BUF 9,17,13,Myles Gaskin up the middle for 2 yards (tackle by Ed Oliver and Micah Hyde),5.420,5.600
+4,11:03,1,7,BUF 7,17,13,Ryan Fitzpatrick pass incomplete short left intended for Mike Gesicki (defended by Ed Oliver),5.600,4.760
+4,10:58,2,7,BUF 7,17,13,Ryan Fitzpatrick right guard for 5 yards (tackle by Tyrel Dodson and Quinton Jefferson),4.760,4.950
+4,10:15,3,2,BUF 2,17,19,"Jordan Howard right tackle for 2 yards, touchdown",4.950,7.000
+4,10:11,,,BUF 15,17,20,Jason Sanders kicks extra point good,0.000,0.000
+4,10:11,,,MIA 35,17,20,"Jason Sanders kicks off 65 yards, touchback.",0.000,0.610
+4,10:11,1,10,BUF 25,17,20,Josh Allen pass complete deep right to Stefon Diggs for 47 yards (tackle by Noah Igbinoghene),0.610,3.710
+4,9:24,1,10,MIA 28,17,20,"Josh Allen pass complete short right to Zack Moss for 7 yards (tackle by Raekwon Davis and Shaq Lawson). Penalty on Mitch Morse: Illegal Block Above the Waist, 10 yards (no play)",3.710,3.050
+4,9:00,1,20,MIA 38,17,20,Josh Allen sacked by and Emmanuel Ogbah for -4 yards and Andrew Van Ginkel for -4 yards,3.050,1.280
+4,8:13,2,24,MIA 42,17,20,Josh Allen pass complete deep middle to Cole Beasley for 24 yards (tackle by Jerome Baker and Xavien Howard),1.280,4.370
+4,7:29,1,10,MIA 18,17,20,Devin Singletary up the middle for 10 yards (tackle by Christian Wilkins and Nik Needham),4.370,5.370
+4,6:48,1,8,MIA 8,17,20,Devin Singletary up the middle for 2 yards (tackle by Davon Godchaux and Andrew Van Ginkel),5.370,4.950
+4,6:07,2,6,MIA 6,17,20,Josh Allen pass incomplete short right intended for Cole Beasley,4.950,4.040
+4,6:03,3,6,MIA 6,23,20,"Josh Allen pass complete short right to Gabriel Davis for 6 yards, touchdown",4.040,7.000
+4,5:55,,,MIA 15,24,20,Tyler Bass kicks extra point good,0.000,0.000
+4,5:55,,,BUF 35,24,20,"Tyler Bass kicks off 65 yards, touchback.",0.000,0.610
+4,5:55,1,10,MIA 25,24,20,"Ryan Fitzpatrick pass incomplete short left intended for DeVante Parker. Penalty on Tre'Davious White: Illegal Contact, 5 yards (no play)",0.610,0.940
+4,5:51,1,10,MIA 30,24,20,Ryan Fitzpatrick sacked by Jordan Poyer for -9 yards,0.940,-0.820
+4,5:06,2,19,MIA 21,24,20,Ryan Fitzpatrick pass incomplete short left intended for Mike Gesicki (defended by Tre'Davious White),-0.820,-1.480
+4,5:01,3,19,MIA 21,24,20,Ryan Fitzpatrick pass complete short middle to Myles Gaskin for 10 yards (tackle by Levi Wallace and Jordan Poyer),-1.480,-1.310
+4,4:33,4,9,MIA 31,24,20,"Matt Haack punts 40 yards, fair catch by Andre Roberts at BUF-29",-1.310,-0.870
+4,4:26,1,10,BUF 29,24,20,Devin Singletary up the middle for 3 yards (tackle by Davon Godchaux and Christian Wilkins),0.870,0.730
+4,3:39,2,7,BUF 32,24,20,Josh Allen pass complete deep right to Stefon Diggs for 21 yards (tackle by Noah Igbinoghene),0.730,2.460
+4,3:32,1,10,MIA 47,24,20,Josh Allen pass complete short middle to Isaiah McKenzie for 1 yard (tackle by Nik Needham and Shaq Lawson),2.460,2.050
+4,3:23,,,,,,Timeout #2 by Miami Dolphins,,
+4,3:23,2,9,MIA 46,24,20,Josh Allen pass incomplete deep middle intended for John Brown,2.050,1.350
+4,3:17,3,9,MIA 46,30,20,"Josh Allen pass complete deep left to John Brown for 46 yards, touchdown",1.350,7.000
+4,3:09,,,MIA 15,31,20,Tyler Bass kicks extra point good,0.000,0.000
+4,3:09,,,BUF 35,31,20,"Tyler Bass kicks off 65 yards, touchback.",0.000,0.610
+4,3:09,1,10,MIA 25,31,20,Ryan Fitzpatrick pass complete short right to Myles Gaskin for 8 yards (tackle by A.J. Klein),0.610,1.140
+4,2:50,2,2,MIA 33,31,20,Ryan Fitzpatrick pass complete short middle to Isaiah Ford for 8 yards (tackle by Jordan Poyer),1.140,1.660
+4,2:33,1,10,MIA 41,31,20,Ryan Fitzpatrick pass complete deep right to Mike Gesicki for 19 yards (tackle by Micah Hyde),1.660,2.920
+4,2:13,1,10,BUF 40,31,20,Ryan Fitzpatrick pass complete short right to Myles Gaskin for 3 yards (tackle by A.J. Klein),2.920,2.780
+4,2:00,2,7,BUF 37,31,20,"Penalty on Jakeem Grant: False Start, 5 yards (no play)",2.780,2.100
+4,2:00,2,12,BUF 42,31,20,Ryan Fitzpatrick pass complete short middle to Isaiah Ford for 13 yards (tackle by Tyrel Dodson and Taron Johnson),2.100,3.640
+4,1:41,1,10,BUF 29,31,20,Ryan Fitzpatrick pass complete short left to Myles Gaskin for 2 yards (tackle by Levi Wallace),3.640,3.370
+4,1:36,2,8,BUF 27,31,20,Ryan Fitzpatrick pass complete short middle to Mike Gesicki for 12 yards (tackle by Tyrel Dodson),3.370,4.580
+4,1:17,1,10,BUF 15,31,20,Ryan Fitzpatrick right end for 7 yards (tackle by Taron Johnson),4.580,5.220
+4,0:54,,,,,,Timeout #2 by Buffalo Bills,,
+4,0:54,2,3,BUF 8,31,26,"Ryan Fitzpatrick pass complete short middle to Mike Gesicki for 8 yards, touchdown",5.220,7.000
+4,0:49,,,BUF 2,31,28,"Two Point Attempt: Ryan Fitzpatrick pass complete to Preston Williams, conversion succeeds",1.000,1.000
+4,0:49,,,,,,Timeout #3 by Buffalo Bills,,
+4,0:49,,,MIA 35,31,28,"Jason Sanders kicks onside 15 yards, returned by Micah Hyde for no gain",0.000,2.260
+4,0:48,1,10,BUF 50,31,28,Josh Allen kneels for no gain,2.260,1.710
+4,0:30,2,10,BUF 50,31,28,Josh Allen kneels for -1 yards,1.710,0.890
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,11:03,MIN 38,7,1:43,24,Missed FG
+2,1,6:44,MIN 19,5,2:38,16,Punt
+3,2,13:38,MIN 20,11,4:48,80,Touchdown
+4,2,4:58,DET 49,9,3:46,49,Touchdown
+5,2,0:31,MIN 8,4,0:31,48,End of Half
+6,3,15:00,MIN 26,3,1:02,2,Punt
+7,3,8:36,MIN 23,9,3:50,39,Missed FG
+8,3,2:08,MIN 36,3,1:20,18,Fumble
+9,4,14:50,MIN 26,3,1:57,7,Punt
+10,4,10:39,MIN 43,6,2:49,57,Touchdown
+11,4,3:30,MIN 30,5,0:58,17,Downs
+12,4,1:10,MIN 44,3,0:25,56,Touchdown
+13,4,0:09,MIN 5,1,0:09,-1,End of Game

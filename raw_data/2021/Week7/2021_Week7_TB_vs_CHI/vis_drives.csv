@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,CHI 25,3,2:11,0,Punt
+2,1,11:58,CHI 25,4,2:11,31,Punt
+3,1,8:10,CHI 35,3,0:57,5,Interception
+4,1,4:37,CHI 25,5,2:30,10,Fumble
+5,1,0:06,CHI 25,3,0:58,8,Punt
+6,2,12:24,CHI 29,4,2:06,11,Fumble
+7,2,10:01,CHI 33,10,3:53,57,Field Goal
+8,2,3:35,CHI 25,6,1:41,23,Downs
+9,2,0:09,CHI 25,1,0:09,8,End of Half
+10,3,12:00,CHI 20,8,4:33,55,Interception
+11,3,0:19,CHI 2,2,0:26,-1,Interception
+12,4,12:51,CHI 25,7,4:53,31,Punt
+13,4,2:27,CHI 14,10,2:27,61,End of Game

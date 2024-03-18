@@ -1,0 +1,166 @@
+Quarter,Time,Down,ToGo,Location,CIN,JAX,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Bengals won the coin toss and deferred, Jaguars to receive the opening kickoff.",,
+1,15:00,,,CIN 35,0,0,"Mike Nugent kicks off 64 yards, returned by Jalen Parmele for 21 yards (tackle by Dan Skuta)",0.000,0.410
+1,14:56,1,10,JAX 22,0,0,Blaine Gabbert sacked by Domata Peko for -7 yards,0.410,-1.210
+1,14:33,2,17,JAX 15,0,0,"Rashad Jennings up the middle for 6 yards (tackle by Manny Lawson). Penalty on Michael Johnson: Defensive Offside, 5 yards (no play)",-1.210,-0.400
+1,14:12,2,12,JAX 20,0,0,"Blaine Gabbert pass incomplete short right intended for Cecil Shorts. Penalty on Rey Maualuga: Defensive Offside, 5 yards (no play)",-0.400,0.270
+1,14:08,2,7,JAX 25,0,0,Maurice Jones-Drew left end for 2 yards (tackle by Geno Atkins),0.270,-0.160
+1,13:24,3,5,JAX 27,0,0,Blaine Gabbert pass incomplete short right intended for Cecil Shorts,-0.160,-1.570
+1,13:24,4,5,JAX 27,0,0,"Bryan Anger punts 44 yards, returned by Brandon Tate for 1 yard (tackle by Chris Prosinski). Penalty on Jeromy Miles: Illegal Block Above the Waist, 10 yards",-1.570,-0.280
+1,13:09,1,10,CIN 20,0,0,BenJarvus Green-Ellis right end for 3 yards (tackle by Russell Allen),0.280,0.140
+1,12:31,2,7,CIN 23,0,0,"Andy Dalton pass incomplete short right intended for Chris Pressley is intercepted by Kyle Bosworth at CIN-23 and returned for 10 yards. Kyle Bosworth fumbles, recovered by Andre Smith at CIN-9 (tackle by Kyle Bosworth)",0.140,-0.380
+1,12:21,1,10,CIN 9,0,0,BenJarvus Green-Ellis left end for 3 yards (tackle by Tyson Alualu),-0.380,-0.560
+1,11:39,2,7,CIN 12,0,0,Andy Dalton pass complete short left to Andrew Hawkins for 7 yards (tackle by Aaron Ross),-0.560,0.150
+1,10:59,1,10,CIN 19,0,0,Andy Dalton pass complete short right to Orson Charles for 10 yards (tackle by Russell Allen),0.150,0.870
+1,10:25,1,10,CIN 29,0,0,BenJarvus Green-Ellis up the middle for 3 yards (tackle by Paul Posluszny),0.870,0.730
+1,9:49,2,7,CIN 32,0,0,BenJarvus Green-Ellis up the middle for 13 yards (tackle by Dwight Lowery),0.730,1.930
+1,9:05,1,10,CIN 45,0,0,Andy Dalton pass complete short left to Marvin Jones for 5 yards (tackle by Derek Cox),1.930,2.060
+1,8:28,2,5,,0,0,Andy Dalton left end for 5 yards (tackle by Russell Allen),2.060,2.590
+1,7:44,1,10,JAX 45,0,0,Andy Dalton pass incomplete deep right intended for Marvin Jones,2.590,2.040
+1,7:40,2,10,JAX 45,0,0,"Penalty on Andrew Hawkins: False Start, 5 yards (no play)",2.040,1.370
+1,7:40,2,15,,0,0,Andy Dalton pass incomplete short right intended for A.J. Green (defended by Rashean Mathis),1.370,0.700
+1,7:35,3,15,,0,0,"Andy Dalton pass complete short middle to Brian Leonard for 13 yards (tackle by Daryl Smith and Chris Prosinski). Penalty on Antwon Blake: Roughing the Passer, 15 yards",0.700,4.110
+1,7:08,1,10,JAX 22,0,0,BenJarvus Green-Ellis up the middle for 4 yards (tackle by Russell Allen),4.110,4.130
+1,7:08,2,6,JAX 18,0,0,Andy Dalton pass incomplete short left intended for BenJarvus Green-Ellis,4.130,3.400
+1,6:26,3,6,JAX 18,0,0,Andy Dalton pass complete short right to Andrew Hawkins for 1 yard (tackle by Dwight Lowery),3.400,2.360
+1,6:14,4,5,JAX 17,3,0,Mike Nugent 35 yard field goal good,2.360,3.000
+1,6:10,,,CIN 35,3,0,"Mike Nugent kicks off 69 yards, returned by Rashad Jennings for 27 yards (tackle by Jeromy Miles)",0.000,0.480
+1,6:05,1,10,JAX 23,3,0,Blaine Gabbert up the middle for 9 yards (tackle by Wallace Gilberry),0.480,1.150
+1,5:20,2,1,JAX 32,3,0,Maurice Jones-Drew for 9 yards (tackle by Rey Maualuga),1.150,1.660
+1,4:53,1,10,JAX 41,3,0,Blaine Gabbert sacked by Manny Lawson for -12 yards,1.660,-0.500
+1,4:23,2,22,JAX 29,3,0,Blaine Gabbert pass complete short left to Marcedes Lewis for 23 yards (tackle by Manny Lawson),-0.500,2.390
+1,3:48,1,10,CIN 48,3,0,Rashad Jennings right end for 4 yards (tackle by Vontaze Burfict),2.390,2.390
+1,3:08,2,6,CIN 44,3,0,Rashad Jennings up the middle for 8 yards (tackle by Rey Maualuga),2.390,3.180
+1,2:30,1,10,CIN 36,3,0,Blaine Gabbert pass complete short left to Greg Jones for 6 yards (tackle by Dan Skuta),3.180,3.450
+1,1:48,2,4,CIN 30,3,0,Blaine Gabbert pass complete short middle to Maurice Jones-Drew for 6 yards (tackle by Vontaze Burfict),3.450,3.970
+1,1:07,1,10,CIN 24,3,0,Maurice Jones-Drew left end for -3 yards (tackle by Carlos Dunlap),3.970,3.030
+1,0:28,2,13,CIN 27,3,0,Blaine Gabbert pass complete short right to Justin Blackmon for 14 yards (tackle by Taylor Mays),3.030,4.710
+Quarter,Time,Down,ToGo,Location,CIN,JAX,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,CIN 13,3,0,Maurice Jones-Drew up the middle for 6 yards,4.710,5.150
+2,14:23,2,4,CIN 7,3,0,Maurice Jones-Drew up the middle for 5 yards (tackle by Vontaze Burfict),5.150,6.740
+2,13:40,1,2,CIN 2,3,6,"Blaine Gabbert pass complete short left to Marcedes Lewis for 2 yards, touchdown",6.740,7.000
+2,13:40,,,CIN 2,3,7,Josh Scobee kicks extra point good,0.000,0.000
+2,13:33,,,JAX 35,3,7,"Josh Scobee kicks off 65 yards, touchback",0.000,0.280
+2,13:33,1,10,CIN 20,3,7,BenJarvus Green-Ellis right end for no gain (tackle by Russell Allen),0.280,-0.270
+2,12:56,2,10,CIN 20,3,7,Andy Dalton pass complete short right to Jermaine Gresham for 9 yards (tackle by Russell Allen),-0.270,0.230
+2,12:12,3,1,CIN 29,3,7,Andy Dalton pass incomplete deep left intended for Armon Binns,0.230,-1.440
+2,12:07,4,1,CIN 29,3,7,"Kevin Huber punts 58 yards, out of bounds",-1.440,0.320
+2,11:58,1,10,JAX 13,3,7,Blaine Gabbert pass complete short left to Greg Jones for 10 yards (tackle by Vontaze Burfict),-0.320,0.480
+2,11:22,1,10,JAX 23,3,7,Maurice Jones-Drew left end for 4 yards (tackle by Rey Maualuga),0.480,0.470
+2,10:43,2,6,JAX 27,3,7,Maurice Jones-Drew right end for no gain (tackle by Terence Newman and Reggie Nelson),0.470,-0.230
+2,10:15,3,6,JAX 27,3,7,Blaine Gabbert pass incomplete short middle intended for Justin Blackmon,-0.230,-1.570
+2,10:11,4,6,JAX 27,3,7,"Bryan Anger punts 61 yards, returned by Brandon Tate for 13 yards (tackle by Jalen Parmele)",-1.570,-0.610
+2,9:59,1,10,CIN 25,3,7,Andy Dalton pass complete short left to BenJarvus Green-Ellis for -1 yards (tackle by Russell Allen),0.610,-0.070
+2,9:19,2,11,CIN 24,3,7,Andy Dalton pass incomplete short left intended for Armon Binns (defended by Derek Cox),-0.070,-0.760
+2,9:15,3,11,CIN 24,3,7,Andy Dalton pass complete short right to Jermaine Gresham for 10 yards (tackle by Aaron Ross and Dawan Landry),-0.760,-1.110
+2,8:36,4,1,CIN 34,3,7,Cedric Peerman right end for 48 yards (tackle by Montell Owens),-1.110,4.370
+2,7:45,1,10,JAX 18,3,7,BenJarvus Green-Ellis up the middle for 5 yards (tackle by Jeremy Mincey and Dawan Landry),4.370,4.610
+2,7:04,2,5,JAX 13,3,7,Andy Dalton pass incomplete short middle intended for Armon Binns (defended by Jeremy Mincey),4.610,3.820
+2,7:00,3,5,JAX 13,3,7,"Andy Dalton pass incomplete short right intended for Jermaine Gresham. Penalty on Dwight Lowery: Defensive Pass Interference, 12 yards (no play)",3.820,6.970
+2,6:53,1,1,JAX 1,3,7,BenJarvus Green-Ellis left end for no gain (tackle by Julian Stanford),6.970,5.910
+2,6:21,2,1,JAX 1,9,7,"Andy Dalton pass complete short left to Chris Pressley for 1 yard, touchdown",5.910,7.000
+2,6:21,,,JAX 2,10,7,Mike Nugent kicks extra point good,0.000,0.000
+2,6:16,,,CIN 35,10,7,"Mike Nugent kicks off 69 yards, returned by Jalen Parmele for 29 yards (tackle by Vincent Rey). Penalty on Julian Stanford: Illegal Block Above the Waist, 10 yards",0.000,-0.380
+2,6:10,1,10,JAX 8,10,7,Maurice Jones-Drew right end for no gain (tackle by Wallace Gilberry),-0.380,-0.780
+2,5:31,2,10,JAX 8,10,7,Blaine Gabbert pass complete short left to Greg Jones for 4 yards (tackle by Reggie Nelson),-0.780,-0.950
+2,4:57,3,6,JAX 12,10,7,"Blaine Gabbert sacked by Carlos Dunlap for -6 yards. Penalty on Carlos Dunlap: Face Mask (15 Yards), 15 yards",-0.950,0.340
+2,4:49,1,10,JAX 21,10,7,Blaine Gabbert pass incomplete deep right intended for Justin Blackmon,0.340,-0.200
+2,4:44,2,10,JAX 21,10,7,Blaine Gabbert pass complete short left to Rashad Jennings for -2 yards (tackle by Reggie Nelson),-0.200,-1.220
+2,4:00,3,12,JAX 19,10,7,Blaine Gabbert pass complete short middle to Justin Blackmon for -1 yards (tackle by Vontaze Burfict),-1.220,-2.240
+2,3:25,4,13,JAX 18,10,7,"Bryan Anger punts 42 yards, out of bounds",-2.240,-1.600
+2,3:17,1,10,CIN 40,10,7,BenJarvus Green-Ellis up the middle for 9 yards (tackle by Paul Posluszny),1.600,2.270
+2,2:51,2,1,CIN 49,10,7,BenJarvus Green-Ellis up the middle for 9 yards (tackle by Paul Posluszny),2.270,2.790
+2,2:28,1,10,JAX 42,10,7,BenJarvus Green-Ellis left end for -1 yards (tackle by Jeremy Mincey),2.790,2.110
+2,2:00,2,11,JAX 43,10,7,Andy Dalton pass complete deep right to A.J. Green for 42 yards (tackle by Rashean Mathis),2.110,6.970
+2,1:53,1,1,JAX 1,10,7,BenJarvus Green-Ellis left guard for no gain (tackle by Terrance Knighton),6.970,5.910
+2,1:15,2,1,JAX 1,16,7,"Andy Dalton up the middle for 1 yard, touchdown",5.910,7.000
+2,1:15,,,JAX 2,17,7,Mike Nugent kicks extra point good,0.000,0.000
+2,1:11,,,CIN 35,17,7,"Mike Nugent kicks off 74 yards, touchback",0.000,0.280
+2,1:11,1,10,JAX 20,17,7,Blaine Gabbert up the middle for 3 yards,0.280,0.140
+2,0:51,2,7,JAX 23,17,7,Blaine Gabbert pass complete short left to Justin Blackmon for 7 yards (tackle by Vontaze Burfict),0.140,0.000
+2,0:43,,,,17,7,Timeout #1 by Jacksonville Jaguars,0.000,0.940
+2,0:43,1,10,JAX 30,17,7,Blaine Gabbert pass incomplete short middle intended for Mike Thomas,0.940,0.390
+2,0:39,2,10,JAX 30,17,7,Blaine Gabbert pass complete short right to Mike Thomas for 9 yards (tackle by Chris Crocker),0.390,0.890
+2,0:31,3,1,JAX 39,17,7,Blaine Gabbert pass incomplete short right intended for Cecil Shorts (defended by Terence Newman),0.890,-0.780
+2,0:27,4,1,JAX 39,17,7,"Bryan Anger punts 61 yards, touchback",-0.780,-0.280
+2,0:04,1,10,CIN 20,17,7,Andy Dalton kneels for -1 yards,0.280,-0.460
+Quarter,Time,Down,ToGo,Location,CIN,JAX,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,JAX 35,17,7,"Josh Scobee kicks off 65 yards, touchback",0.000,0.280
+3,15:00,1,10,CIN 20,17,7,Andy Dalton pass complete short left to Jermaine Gresham for 16 yards (tackle by Derek Cox),0.280,1.330
+3,14:34,1,10,CIN 36,17,7,BenJarvus Green-Ellis up the middle for 4 yards (tackle by Paul Posluszny and Tyson Alualu),1.330,1.330
+3,13:51,2,6,CIN 40,17,7,Andy Dalton pass complete deep right to A.J. Green for 30 yards (tackle by Rashean Mathis),1.330,3.580
+3,13:26,1,10,JAX 30,17,7,BenJarvus Green-Ellis up the middle for 2 yards (tackle by Dawan Landry),3.580,3.300
+3,12:52,2,8,JAX 28,17,7,Andy Dalton pass complete short left to A.J. Green for 8 yards (tackle by Derek Cox),3.300,4.240
+3,12:20,1,10,JAX 20,17,7,Andy Dalton pass complete short middle to A.J. Green for 14 yards (tackle by Dwight Lowery),4.240,5.830
+3,11:43,1,6,JAX 6,17,7,Andy Dalton pass incomplete short right intended for A.J. Green,5.830,0.000
+3,11:40,,,,17,7,Timeout #1 by Cincinnati Bengals,0.000,4.950
+3,11:40,2,6,JAX 6,17,7,Andy Dalton pass complete short left to A.J. Green for 5 yards (tackle by Russell Allen and Paul Posluszny),4.950,5.170
+3,11:07,3,1,JAX 1,17,7,"BenJarvus Green-Ellis left end for no gain (tackle by Jeremy Mincey). BenJarvus Green-Ellis fumbles (forced by Jeremy Mincey), recovered by C.J. Mosley at JAX-0",5.170,-0.280
+3,10:59,1,10,JAX 20,17,7,Maurice Jones-Drew up the middle for 4 yards (tackle by Domata Peko),0.280,0.270
+3,10:17,2,6,JAX 24,17,7,Blaine Gabbert pass complete short right to Greg Jones for 5 yards (tackle by Taylor Mays),0.270,0.230
+3,9:43,3,1,JAX 29,17,7,Blaine Gabbert pass complete short left to Justin Blackmon for 5 yards,0.230,1.200
+3,9:17,1,10,JAX 34,17,7,Blaine Gabbert pass complete deep middle to Laurent Robinson for 19 yards (tackle by Pacman Jones),1.200,2.460
+3,8:47,1,10,CIN 47,17,7,Blaine Gabbert pass complete short right to Justin Blackmon for 14 yards (tackle by Terence Newman),2.460,3.380
+3,8:09,1,10,CIN 33,17,7,Maurice Jones-Drew up the middle for 2 yards (tackle by Robert Geathers),3.380,3.110
+3,7:26,2,8,CIN 31,17,7,Blaine Gabbert pass complete short right to Justin Blackmon for 9 yards (tackle by Terence Newman),3.110,4.110
+3,6:43,1,10,CIN 22,17,7,Blaine Gabbert up the middle for 7 yards (tackle by Vontaze Burfict),4.110,4.650
+3,5:58,2,3,CIN 15,17,7,Maurice Jones-Drew up the middle for 2 yards (tackle by Robert Geathers and Domata Peko),4.650,0.000
+3,5:12,,,,17,7,Timeout #1 by Jacksonville Jaguars,0.000,4.390
+3,5:12,3,1,CIN 13,17,7,Maurice Jones-Drew up the middle for 1 yard (tackle by Manny Lawson),4.390,4.780
+3,4:39,1,10,CIN 12,17,7,Blaine Gabbert pass incomplete short right intended for Cecil Shorts,4.780,4.100
+3,4:32,2,10,CIN 12,17,7,Blaine Gabbert pass complete short middle to Maurice Jones-Drew for 4 yards (tackle by Reggie Nelson),4.100,3.930
+3,3:50,3,6,CIN 8,17,7,Blaine Gabbert pass complete short left to Kevin Elliott for 5 yards (tackle by Pacman Jones),3.930,3.060
+3,3:08,4,1,CIN 3,17,10,Josh Scobee 21 yard field goal good,3.060,3.000
+3,3:04,,,JAX 35,17,10,"Josh Scobee kicks off 65 yards, touchback",0.000,0.280
+3,3:04,1,10,CIN 20,17,10,Andy Dalton pass complete short left to BenJarvus Green-Ellis for 13 yards (tackle by Derek Cox and Paul Posluszny),0.280,1.140
+3,2:24,1,10,CIN 33,17,10,BenJarvus Green-Ellis up the middle for 1 yard (tackle by Tyson Alualu and Russell Allen),1.140,0.730
+3,1:51,2,9,CIN 34,17,10,Andy Dalton up the middle for 2 yards (tackle by Andre Branch),0.730,0.300
+3,1:08,3,7,CIN 36,17,10,Andy Dalton pass complete short right to Andrew Hawkins for 31 yards (tackle by Paul Posluszny),0.300,3.380
+3,0:28,1,10,JAX 33,17,10,Andy Dalton pass complete short right to Jermaine Gresham for 5 yards (tackle by Paul Posluszny),3.380,3.510
+Quarter,Time,Down,ToGo,Location,CIN,JAX,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,5,JAX 28,17,10,Andy Dalton pass complete short right to Jermaine Gresham for 7 yards (tackle by Dwight Lowery),3.510,4.170
+4,14:36,1,10,JAX 21,17,10,BenJarvus Green-Ellis up the middle for 3 yards (tackle by Jeremy Mincey),4.170,4.040
+4,13:57,2,7,JAX 18,23,10,"Andy Dalton pass complete deep right to A.J. Green for 18 yards, touchdown",4.040,7.000
+4,13:57,,,JAX 2,23,10,"Mike Nugent kicks extra point good. Penalty on Orson Charles: Offensive Holding, 10 yards (no play)",0.000,-1.000
+4,13:57,,,JAX 2,24,10,Mike Nugent kicks extra point good,0.000,0.000
+4,13:51,,,CIN 35,24,10,"Mike Nugent kicks off 72 yards, touchback",0.000,0.280
+4,13:51,1,10,JAX 20,24,10,Blaine Gabbert pass incomplete deep middle intended for Justin Blackmon is intercepted by Chris Crocker at JAX-39 and returned for 23 yards (tackle by Marcedes Lewis),0.280,-4.510
+4,13:39,1,10,JAX 16,24,10,BenJarvus Green-Ellis up the middle for no gain (tackle by Kyle Bosworth and Russell Allen),4.510,3.900
+4,12:53,2,10,JAX 16,24,10,Andy Dalton pass incomplete deep right intended for Armon Binns,3.900,3.080
+4,12:47,3,10,JAX 16,24,10,Andy Dalton pass incomplete deep left intended for Armon Binns,3.080,2.380
+4,12:42,4,10,JAX 16,27,10,Mike Nugent 35 yard field goal good,2.380,3.000
+4,12:38,,,CIN 35,27,10,"Mike Nugent kicks off 65 yards, touchback",0.000,0.280
+4,12:38,1,10,JAX 20,27,10,Blaine Gabbert pass incomplete short right intended for Cecil Shorts,0.280,-0.270
+4,12:29,2,10,JAX 20,27,10,Blaine Gabbert sacked by Vontaze Burfict for -11 yards,-0.270,-2.710
+4,12:13,3,21,JAX 9,27,10,Blaine Gabbert pass complete short right to Maurice Jones-Drew for 13 yards (tackle by Reggie Nelson),-2.710,-1.900
+4,11:44,4,8,JAX 22,27,10,"Bryan Anger punts 43 yards, returned by Brandon Tate for 19 yards (tackle by Aaron Morgan)",-1.900,-2.520
+4,11:34,1,10,JAX 46,27,10,BenJarvus Green-Ellis right end for no gain (tackle by Austen Lane),2.520,1.980
+4,10:53,2,10,JAX 46,27,10,BenJarvus Green-Ellis up the middle for 6 yards (tackle by C.J. Mosley),1.980,2.080
+4,10:10,3,4,JAX 40,27,10,Andy Dalton pass incomplete deep left intended for A.J. Green,2.080,0.590
+4,10:03,4,4,JAX 40,27,10,Kevin Huber punts 36 yards,0.590,0.380
+4,9:55,1,10,JAX 4,27,10,Blaine Gabbert pass complete short middle to Marcedes Lewis for 7 yards (tackle by Manny Lawson),-0.380,-0.270
+4,9:16,2,3,JAX 11,27,10,Maurice Jones-Drew up the middle for 6 yards (tackle by Rey Maualuga),-0.270,-0.060
+4,8:45,1,10,JAX 17,27,10,Blaine Gabbert pass complete short middle to Maurice Jones-Drew for 10 yards (tackle by Rey Maualuga),-0.060,0.740
+4,8:18,1,10,JAX 27,27,10,Blaine Gabbert pass incomplete short left intended for Kevin Elliott,0.740,0.200
+4,8:15,2,10,JAX 27,27,10,Blaine Gabbert sacked by Geno Atkins for -3 yards,0.200,-0.890
+4,7:43,3,13,JAX 24,27,10,Blaine Gabbert pass complete short middle to Cecil Shorts for 8 yards (tackle by Vincent Rey),-0.890,-1.240
+4,7:08,4,5,JAX 32,27,10,"Bryan Anger punts 44 yards, fair catch by Brandon Tate",-1.240,-0.540
+4,7:02,1,10,CIN 24,27,10,"BenJarvus Green-Ellis up the middle for 1 yard (tackle by Jeremy Mincey). BenJarvus Green-Ellis fumbles (forced by Jeremy Mincey), recovered by BenJarvus Green-Ellis at CIN-25",0.540,0.130
+4,6:19,2,9,CIN 25,27,10,BenJarvus Green-Ellis up the middle for 2 yards (tackle by Paul Posluszny),0.130,-0.300
+4,5:36,3,7,CIN 27,27,10,Brian Leonard up the middle for 3 yards (tackle by Daryl Smith and Terrance Knighton),-0.300,-1.370
+4,5:01,4,4,CIN 30,27,10,Kevin Huber punts 49 yards,-1.370,-0.340
+4,4:47,1,10,JAX 21,27,10,Blaine Gabbert pass incomplete short left intended for Kevin Elliott (defended by Pacman Jones),0.340,-0.200
+4,4:43,2,10,JAX 21,27,10,Blaine Gabbert pass incomplete short left intended for Justin Blackmon (defended by Vontaze Burfict),-0.200,-0.890
+4,4:38,3,10,JAX 21,27,10,Blaine Gabbert sacked by Geno Atkins for -4 yards,-0.890,-2.320
+4,4:38,4,14,JAX 17,27,10,Blaine Gabbert pass complete short middle to Maurice Jones-Drew for 9 yards (tackle by Robert Geathers),-2.320,-3.840
+4,3:43,1,10,JAX 26,27,10,BenJarvus Green-Ellis up the middle for 7 yards (tackle by Paul Posluszny),3.840,4.270
+4,3:02,2,3,JAX 19,27,10,BenJarvus Green-Ellis right end for 2 yards (tackle by Dawan Landry),4.270,3.950
+4,2:21,3,1,JAX 17,27,10,BenJarvus Green-Ellis up the middle for 3 yards (tackle by Paul Posluszny),3.950,4.650
+4,2:00,1,10,JAX 14,27,10,BenJarvus Green-Ellis right end for 3 yards (tackle by Dawan Landry),4.650,4.520
+4,1:17,2,7,JAX 11,27,10,Andy Dalton kneels for -1 yards,4.520,3.430
+4,0:36,3,8,JAX 12,27,10,Andy Dalton kneels for -1 yards,3.430,2.570
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

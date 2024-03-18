@@ -1,0 +1,193 @@
+Quarter,Time,Down,ToGo,Location,GNB,CAR,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Panthers won the coin toss and deferred, Packers to receive the opening kickoff.",,
+1,15:00,,,CAR 35,0,0,"Graham Gano kicks off 65 yards, touchback",0.000,-0.610
+1,15:00,1,10,GNB 25,0,0,Aaron Rodgers pass complete short left to Davante Adams for 12 yards (tackle by Daryl Worley),0.610,1.400
+1,14:28,1,10,GNB 37,0,0,Jamaal Williams left tackle for 3 yards (tackle by Daryl Worley),1.400,1.260
+1,13:51,2,7,GNB 40,0,0,Aaron Rodgers pass incomplete short right intended for Jordy Nelson,1.260,0.560
+1,13:47,3,7,GNB 40,0,0,Aaron Rodgers pass incomplete short left intended for Randall Cobb (defended by Kurt Coleman),0.560,-0.720
+1,13:42,4,7,GNB 40,0,0,"Justin Vogel punts 50 yards, returned by Kaelin Clay for 5 yards (tackle by Vince Biegel)",-0.720,0.220
+1,13:32,1,10,CAR 15,0,0,Christian McCaffrey left guard for 3 yards (tackle by Joe Thomas and Kenny Clark),-0.220,-0.280
+1,13:08,2,7,CAR 18,0,0,Christian McCaffrey left guard for 10 yards (tackle by Blake Martinez),-0.280,0.810
+1,12:26,1,10,CAR 28,0,0,Cam Newton pass complete short middle to Greg Olsen for 9 yards (tackle by Blake Martinez),0.810,1.480
+1,12:01,2,1,CAR 37,0,0,Christian McCaffrey right guard for 2 yards (tackle by Clay Matthews and Josh Jones),1.480,1.530
+1,11:23,1,10,CAR 39,0,0,Cam Newton pass incomplete deep right intended for Greg Olsen,1.530,0.990
+1,11:17,2,10,CAR 39,0,0,Christian McCaffrey middle for 1 yard (tackle by Joe Thomas and Josh Jones),0.990,0.430
+1,10:41,3,9,CAR 40,0,0,Cam Newton middle for 9 yards (tackle by Jermaine Whitehead and Blake Martinez),0.430,2.190
+1,10:14,1,10,CAR 49,0,0,Jonathan Stewart middle for 2 yards (tackle by Ahmad Brooks),2.190,1.920
+1,9:42,2,8,GNB 49,0,0,Cam Newton middle for 3 yards (tackle by Morgan Burnett),1.920,1.620
+1,9:02,3,5,GNB 46,0,0,Cam Newton pass complete short right to Christian McCaffrey for 20 yards (tackle by Josh Jones),1.620,3.840
+1,8:40,1,10,GNB 26,0,0,Christian McCaffrey right guard for 4 yards (tackle by Clay Matthews and Kenny Clark),3.840,3.840
+1,8:07,2,6,GNB 22,0,0,Cam Newton pass complete short right to Christian McCaffrey for 4 yards (tackle by Joe Thomas),3.840,3.750
+1,7:21,3,2,GNB 18,0,0,Cam Newton pass complete short right to Christian McCaffrey for 9 yards (tackle by Josh Jones),3.750,0.000
+1,6:37,,,,,,Timeout #1 by Carolina Panthers,0.000,-5.140
+1,6:37,1,9,GNB 9,0,0,Jonathan Stewart right tackle for 2 yards (tackle by Ahmad Brooks),5.140,4.760
+1,6:02,2,7,GNB 7,0,6,"Cam Newton pass complete short right to Christian McCaffrey for 7 yards, touchdown",4.760,7.000
+1,5:57,,,GNB 15,0,7,Graham Gano kicks extra point good,0.000,0.000
+1,5:57,,,CAR 35,0,7,"Graham Gano kicks off 65 yards, touchback",0.000,-0.610
+1,5:57,1,10,GNB 25,0,7,Aaron Rodgers pass complete short left to Davante Adams for 10 yards (tackle by Kurt Coleman),0.610,1.270
+1,5:33,1,10,GNB 35,0,7,Jamaal Williams left guard for 2 yards (tackle by Daryl Worley),1.270,0.990
+1,5:04,2,8,GNB 37,0,7,Aaron Rodgers pass complete short right to Randall Cobb for 23 yards (tackle by Colin Jones),0.990,2.920
+1,4:25,1,10,CAR 40,0,7,Aaron Rodgers middle for 7 yards (tackle by Luke Kuechly),2.920,3.320
+1,3:50,2,3,CAR 33,0,7,Jamaal Williams left guard for 9 yards (tackle by Daryl Worley),3.320,3.970
+1,3:06,1,10,CAR 24,0,7,Jamaal Williams left guard for no gain (tackle by Bryan Cox),3.970,3.430
+1,2:29,2,10,CAR 24,0,7,Aaron Rodgers middle for 8 yards (tackle by Kurt Coleman),3.430,3.950
+1,1:41,3,2,CAR 16,0,7,Jamaal Williams middle for 2 yards (tackle by Bryan Cox and Jairus Byrd),3.950,4.650
+1,0:56,1,10,CAR 14,0,7,Aaron Rodgers right end for 1 yard (tackle by Jairus Byrd),4.650,4.160
+1,0:13,2,9,CAR 13,0,7,Aaron Rodgers pass incomplete short left intended for Davante Adams,4.160,0.000
+1,0:04,,,,,,Timeout #1 by Green Bay Packers,0.000,-3.260
+1,0:04,3,9,CAR 13,6,7,"Aaron Rodgers pass complete short middle to Davante Adams for 13 yards, touchdown",3.260,7.000
+1,0:00,,,CAR 15,7,7,Mason Crosby kicks extra point good,0.000,0.000
+Quarter,Time,Down,ToGo,Location,GNB,CAR,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,,,GNB 35,7,7,"Mason Crosby kicks off 61 yards, returned by Damiere Byrd for 20 yards (tackle by Joe Thomas)",0.000,-0.540
+2,14:55,1,10,CAR 24,7,7,Cam Newton pass complete short right to Jonathan Stewart for 9 yards (tackle by Ahmad Brooks),0.540,1.210
+2,14:16,2,1,CAR 33,7,7,Jonathan Stewart middle for 4 yards (tackle by Clay Matthews and Morgan Burnett),1.210,1.400
+2,13:38,1,10,CAR 37,7,7,Jonathan Stewart left end for 9 yards (tackle by Joe Thomas),1.400,2.070
+2,12:58,2,1,CAR 46,7,7,Jonathan Stewart middle for 2 yards (tackle by Mike Daniels and Kenny Clark),2.070,2.130
+2,12:25,1,10,CAR 48,7,7,"Penalty on Clay Matthews: Neutral Zone Infraction, 5 yards (no play)",2.130,2.860
+2,12:09,1,5,GNB 47,7,7,"Penalty on Kenny Clark: Neutral Zone Infraction, 5 yards (no play)",2.860,2.790
+2,11:44,1,10,GNB 42,7,7,Cam Newton pass complete short left to Greg Olsen for 14 yards (tackle by Ha Ha Clinton-Dix),2.790,3.710
+2,11:04,1,10,GNB 28,7,7,Cam Newton pass incomplete short left intended for Devin Funchess,3.710,3.170
+2,10:59,2,10,GNB 28,7,7,Christian McCaffrey middle for 5 yards (tackle by Kenny Clark),3.170,3.140
+2,10:23,3,5,GNB 23,7,7,Cam Newton pass complete short left to Christian McCaffrey for 12 yards (tackle by Morgan Burnett),3.140,0.000
+2,9:58,,,,,,Timeout #2 by Green Bay Packers,0.000,-4.840
+2,9:58,1,10,GNB 11,7,7,Cam Newton pass incomplete,4.840,4.140
+2,9:52,2,10,GNB 11,7,7,Jonathan Stewart middle for -4 yards (tackle by Ahmad Brooks),4.140,0.000
+2,9:10,,,,,,Timeout #2 by Carolina Panthers,0.000,-2.970
+2,9:10,3,14,GNB 15,7,7,Cam Newton pass incomplete short right intended for Devin Funchess,2.970,2.440
+2,9:06,4,14,GNB 15,7,10,Graham Gano 33 yard field goal good,2.440,3.000
+2,9:02,,,CAR 35,7,10,"Graham Gano kicks off 65 yards, touchback",0.000,-0.610
+2,9:02,1,10,GNB 25,7,10,Aaron Rodgers pass complete short right to Geronimo Allison for 5 yards (tackle by James Bradberry and Luke Kuechly),0.610,0.740
+2,8:30,2,5,GNB 30,7,10,Aaron Rodgers pass incomplete deep left intended for Davante Adams is intercepted by Daryl Worley at CAR-39,0.740,-1.530
+2,8:22,1,10,CAR 39,7,10,Cam Newton pass incomplete short left intended for Kaelin Clay,1.530,0.990
+2,8:17,2,10,CAR 39,7,10,Cam Newton pass complete short right to Greg Olsen for 4 yards (tackle by Josh Hawkins and Kenny Clark),0.990,0.830
+2,7:33,3,6,CAR 43,7,10,Cam Newton pass incomplete short right intended for Kaelin Clay. Penalty on Andrew Norwell: Illegal Use of Hands (Declined),0.830,-0.520
+2,7:28,4,6,CAR 43,7,10,Michael Palardy punts 48 yards,-0.520,0.380
+2,7:17,1,10,GNB 10,7,10,Aaron Rodgers pass complete short left to Davante Adams for 9 yards (tackle by Kevon Seymour),-0.380,0.240
+2,6:58,2,1,GNB 19,7,10,Aaron Jones middle for 23 yards (tackle by Mike Adams and Kurt Coleman),0.240,1.730
+2,6:12,1,10,GNB 42,7,10,Aaron Rodgers pass incomplete deep right intended for Randall Cobb (defended by Kevon Seymour),1.730,1.190
+2,6:06,2,10,GNB 42,7,10,Aaron Jones middle for 20 yards (tackle by Kurt Coleman and James Bradberry),1.190,3.050
+2,5:30,1,10,CAR 38,7,10,Aaron Rodgers pass complete short left to Randall Cobb for 1 yard (tackle by Kurt Coleman),3.050,2.640
+2,4:54,2,9,CAR 37,7,10,Aaron Rodgers pass incomplete,2.640,1.950
+2,4:45,3,9,CAR 37,7,10,Aaron Rodgers pass incomplete short right intended for Geronimo Allison,1.950,0.790
+2,4:42,4,9,CAR 37,7,10,Penalty on Justin Vogel: Delay of Game (Declined),0.790,0.790
+2,4:42,4,9,CAR 37,7,10,Justin Vogel punts 32 yards,0.790,0.380
+2,4:31,1,10,CAR 5,7,10,Jonathan Stewart middle for 3 yards (tackle by Morgan Burnett),-0.380,-0.560
+2,3:55,2,7,CAR 8,7,10,Jonathan Stewart right end for no gain (tackle by Blake Martinez). Penalty on Chris Manhertz: Illegal Block Above the Waist (Declined),-0.560,-1.070
+2,3:26,3,7,CAR 8,7,10,Cam Newton right end for 7 yards (tackle by Morgan Burnett),-1.070,-0.220
+2,2:51,1,10,CAR 15,7,10,Jonathan Stewart left guard for 1 yard (tackle by Morgan Burnett and Joe Thomas),-0.220,-0.580
+2,2:14,2,9,CAR 16,7,10,Cam Newton pass incomplete short left intended for Damiere Byrd,-0.580,-1.250
+2,2:10,3,9,CAR 16,7,10,Cam Newton pass incomplete short middle intended for Christian McCaffrey (defended by Blake Martinez),-1.250,-2.390
+2,2:06,4,9,CAR 16,7,10,"Michael Palardy punts 55 yards, returned by Trevor Davis for 13 yards (tackle by Andrew Gachkar)",-2.390,-1.730
+2,1:55,1,10,GNB 42,7,10,Aaron Rodgers pass complete short right to Davante Adams for 13 yards (tackle by Kurt Coleman),1.730,2.590
+2,1:29,1,10,CAR 45,7,10,Aaron Rodgers pass complete short right to Richard Rodgers for 9 yards (tackle by Kurt Coleman),2.590,3.260
+2,1:22,2,1,CAR 36,7,10,Jamaal Williams left guard for 3 yards (tackle by Mario Addison),3.260,3.380
+2,0:39,1,10,CAR 33,13,10,"Aaron Rodgers pass complete short right to Randall Cobb for 33 yards, touchdown",3.380,7.000
+2,0:26,,,CAR 15,14,10,Mason Crosby kicks extra point good,0.000,0.000
+2,0:26,,,GNB 35,14,10,"Mason Crosby kicks off 65 yards, touchback",0.000,-0.610
+2,0:26,1,10,CAR 25,14,10,Cam Newton pass incomplete short middle intended for Greg Olsen (defended by Dean Lowry),0.610,0.060
+2,0:21,2,10,CAR 25,14,10,Christian McCaffrey middle for 11 yards (tackle by Clay Matthews and Dean Lowry),0.060,0.000
+2,0:14,,,,,,Timeout #3 by Carolina Panthers,0.000,-1.330
+2,0:14,1,10,CAR 36,14,10,Cam Newton left end for 11 yards (tackle by Marwin Evans),1.330,2.060
+2,0:04,1,10,CAR 47,14,10,Cam Newton pass complete short middle to Christian McCaffrey for 21 yards (tackle by Lenzy Pipkins),2.060,3.450
+Quarter,Time,Down,ToGo,Location,GNB,CAR,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,GNB 35,14,10,"Mason Crosby kicks off 63 yards, returned by Damiere Byrd for 25 yards (tackle by Jermaine Whitehead)",0.000,-0.740
+3,14:54,1,10,CAR 27,14,10,Cam Newton pass complete deep middle to Devin Funchess for 19 yards (tackle by Damarious Randall),0.740,1.990
+3,14:21,1,10,CAR 46,14,10,Cam Newton pass incomplete deep right intended for Greg Olsen,1.990,1.450
+3,14:15,2,10,CAR 46,14,10,Cam Newton right guard for 6 yards (tackle by Mike Daniels and Blake Martinez),1.450,1.550
+3,13:43,3,4,GNB 48,14,10,"Penalty on Mike Daniels: Neutral Zone Infraction, 5 yards (no play)",1.550,2.720
+3,13:30,1,10,GNB 43,14,10,Christian McCaffrey left end for 5 yards (tackle by Joe Thomas and Josh Hawkins),2.720,2.850
+3,12:50,2,5,GNB 38,14,10,Cam Newton middle for 5 yards (tackle by Blake Martinez and Dean Lowry),2.850,3.380
+3,12:11,1,10,GNB 33,14,10,"Cam Newton left end for 13 yards (tackle by Damarious Randall). Penalty on Russell Shepard: Illegal Block Above the Waist, 10 yards",3.380,3.820
+3,11:39,1,7,GNB 30,14,16,"Cam Newton pass complete deep right to Greg Olsen for 30 yards, touchdown",3.820,7.000
+3,11:34,,,GNB 15,14,17,Graham Gano kicks extra point good,0.000,0.000
+3,11:34,,,CAR 35,14,17,"Graham Gano kicks off 65 yards, touchback",0.000,-0.610
+3,11:34,1,10,GNB 25,14,17,Jamaal Williams middle for 1 yard (tackle by Julius Peppers and Kurt Coleman),0.610,0.200
+3,10:58,2,9,GNB 26,14,17,"Aaron Rodgers pass incomplete deep middle intended for Randall Cobb is intercepted by Colin Jones at GNB-44 and returned for 10 yards. Penalty on Thomas Davis: Illegal Blindside Block, 15 yards",0.200,-2.320
+3,10:48,1,10,GNB 49,14,17,Cam Newton pass complete short right to Greg Olsen for 12 yards (tackle by Josh Hawkins),2.320,3.120
+3,10:15,1,10,GNB 37,14,17,Cam Newton right tackle for 8 yards (tackle by Blake Martinez),3.120,3.650
+3,9:40,2,2,GNB 29,14,17,Fozzy Whittaker left tackle for 3 yards (tackle by Damarious Randall),3.650,3.840
+3,8:57,1,10,GNB 26,14,17,Cam Newton pass complete short middle to Greg Olsen for 10 yards (tackle by Josh Jones),3.840,4.510
+3,8:15,1,10,GNB 16,14,17,Jonathan Stewart middle for 4 yards (tackle by Mike Daniels and Ahmad Brooks),4.510,4.570
+3,7:37,2,6,GNB 12,14,17,Cam Newton pass incomplete short right intended for Devin Funchess (defended by Damarious Randall),4.570,3.730
+3,7:31,3,6,GNB 12,14,17,"Cam Newton pass incomplete short left intended for Russell Shepard. Penalty on Jermaine Whitehead: Defensive Pass Interference, 3 yards (no play)",3.730,5.140
+3,7:28,1,9,GNB 9,14,23,"Cam Newton pass complete short right to Damiere Byrd for 9 yards, touchdown",5.140,7.000
+,,,,,,,"CAR challenged the incomplete pass ruling, and the original play was overturned.",,
+3,7:20,,,GNB 15,14,24,Graham Gano kicks extra point good,0.000,0.000
+3,7:20,,,CAR 35,14,24,"Graham Gano kicks off 65 yards, touchback",0.000,-0.610
+3,7:20,1,10,GNB 25,14,24,Aaron Rodgers pass incomplete short right intended for Jordy Nelson,0.610,0.060
+3,7:15,2,10,GNB 25,14,24,Aaron Rodgers pass incomplete short right intended for Randall Cobb,0.060,-0.620
+3,7:11,3,10,GNB 25,14,24,Aaron Rodgers pass incomplete deep right intended for Jordy Nelson is intercepted by James Bradberry at CAR-26,-0.620,-0.670
+3,7:01,1,10,CAR 26,14,24,Christian McCaffrey right tackle for 1 yard (tackle by Kenny Clark and Ha Ha Clinton-Dix),0.670,0.270
+3,6:37,2,9,CAR 27,14,24,Christian McCaffrey middle for 1 yard (tackle by Blake Martinez and Vince Biegel),0.270,-0.300
+3,5:58,3,8,CAR 28,14,24,Cam Newton sacked by Kenny Clark for -6 yards,-0.300,-1.900
+3,5:25,4,14,CAR 22,14,24,Michael Palardy punts 35 yards,-1.900,-1.800
+3,5:14,1,10,GNB 43,14,24,Jamaal Williams left guard for 8 yards (tackle by Colin Jones),1.800,2.330
+3,4:51,2,2,CAR 49,14,24,Aaron Rodgers pass incomplete short right intended for Randall Cobb (defended by Colin Jones),2.330,1.620
+3,4:44,3,2,CAR 49,14,24,Aaron Rodgers pass complete short left to Jordy Nelson for 5 yards (tackle by Daryl Worley). Penalty on Daryl Worley: Defensive Holding (Declined),1.620,2.650
+3,4:26,1,10,CAR 44,14,24,Aaron Rodgers pass incomplete short right intended for Geronimo Allison,2.650,2.110
+3,4:22,2,10,CAR 44,14,24,Aaron Rodgers pass complete short left to Geronimo Allison for 9 yards (tackle by Mike Adams),2.110,2.610
+3,3:48,3,1,CAR 35,14,24,Jamaal Williams right end for no gain (tackle by Thomas Davis),2.610,1.000
+3,2:57,4,1,CAR 35,14,24,Aaron Rodgers right tackle for 7 yards (tackle by Mike Adams),1.000,3.710
+3,2:17,1,10,CAR 28,14,24,Aaron Rodgers left end for 12 yards (tackle by Luke Kuechly),3.710,4.510
+3,2:08,1,10,CAR 16,14,24,Aaron Rodgers pass complete short right to Geronimo Allison for 6 yards (tackle by James Bradberry),4.510,4.970
+3,1:36,2,4,CAR 10,14,24,Aaron Rodgers pass incomplete short right intended for Lance Kendricks,4.970,0.000
+3,1:31,,,,,,Timeout #1 by Green Bay Packers,0.000,-4.170
+3,1:31,3,4,CAR 10,14,24,Aaron Rodgers pass incomplete short left intended for Geronimo Allison,4.170,2.840
+3,1:27,4,4,CAR 10,17,24,Mason Crosby 28 yard field goal good,2.840,3.000
+3,1:23,,,GNB 35,17,24,"Mason Crosby kicks off 65 yards, touchback",0.000,-0.610
+3,1:23,1,10,CAR 25,17,24,"Penalty on Vince Biegel: Neutral Zone Infraction, 5 yards (no play)",0.610,1.340
+3,1:23,1,5,CAR 30,17,24,Cam Newton pass complete short right to Greg Olsen for 20 yards (tackle by Josh Hawkins and Joe Thomas),1.340,2.260
+3,0:54,1,10,,17,24,Christian McCaffrey left end for 15 yards (tackle by Ha Ha Clinton-Dix),2.260,3.250
+3,0:26,1,10,GNB 35,17,24,Cam Newton pass complete short left to Damiere Byrd for 3 yards (tackle by Damarious Randall),3.250,3.110
+Quarter,Time,Down,ToGo,Location,GNB,CAR,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,7,GNB 32,17,24,Cam Newton pass complete short left to Greg Olsen for 7 yards (tackle by Ha Ha Clinton-Dix),3.110,3.910
+4,14:34,1,10,GNB 25,17,24,Christian McCaffrey right end for 5 yards (tackle by Ha Ha Clinton-Dix),3.910,4.040
+4,13:55,2,5,GNB 20,17,24,Cam Newton right end for -3 yards (tackle by Joe Thomas),4.040,2.940
+4,13:12,3,8,GNB 23,17,24,Cam Newton pass complete short right to Greg Olsen for 10 yards (tackle by Josh Hawkins),2.940,4.710
+4,12:29,1,10,GNB 13,17,30,"Cam Newton pass complete short right to Damiere Byrd for 13 yards, touchdown",4.710,7.000
+4,12:24,,,GNB 15,17,31,Graham Gano kicks extra point good,0.000,0.000
+4,12:24,,,CAR 35,17,31,"Graham Gano kicks off 65 yards, touchback",0.000,-0.610
+4,12:24,1,10,GNB 25,17,31,Aaron Rodgers pass complete short left to Randall Cobb for 4 yards (tackle by Daryl Worley and Thomas Davis),0.610,0.600
+4,12:00,2,6,GNB 29,17,31,Aaron Rodgers pass complete short left to Aaron Jones for 6 yards (tackle by Kurt Coleman),0.600,1.270
+4,11:43,1,10,GNB 35,17,31,Aaron Rodgers sacked by Wes Horton for -7 yards,1.270,-0.220
+4,11:04,2,17,GNB 28,17,31,Aaron Rodgers pass complete short right to Jordy Nelson for 17 yards (tackle by Kevon Seymour and James Bradberry),-0.220,1.930
+4,10:36,1,10,GNB 45,17,31,Aaron Jones left guard for 4 yards (tackle by Luke Kuechly and Kurt Coleman),1.930,1.920
+4,10:04,2,6,GNB 49,17,31,Aaron Rodgers for 8 yards (tackle by James Bradberry),1.920,2.720
+4,9:27,1,10,CAR 43,17,31,Aaron Rodgers pass incomplete short right intended for Aaron Jones,2.720,2.180
+4,9:21,2,10,CAR 43,17,31,Aaron Rodgers pass complete short left to Lance Kendricks for 5 yards (tackle by Mike Adams),2.180,2.150
+4,8:45,3,5,CAR 38,17,31,Aaron Rodgers pass incomplete deep right intended for Randall Cobb,2.150,0.000
+4,8:39,,,,,,Timeout #1 by Carolina Panthers,0.000,-0.720
+4,8:39,4,5,CAR 38,17,31,Aaron Rodgers pass complete short right to Randall Cobb for 12 yards (tackle by Mike Adams),0.720,3.840
+4,7:53,1,10,CAR 26,17,31,Aaron Rodgers pass complete short left to Geronimo Allison for 3 yards (tackle by Mario Addison),3.840,3.700
+4,7:18,2,7,CAR 23,17,31,Aaron Rodgers pass complete short right to Randall Cobb for 2 yards (tackle by Colin Jones),3.700,3.270
+4,6:34,3,5,CAR 21,17,31,Aaron Rodgers sacked by Star Lotulelei and Thomas Davis for -9 yards,3.270,0.000
+4,5:46,,,,,,Timeout #2 by Green Bay Packers,0.000,-1.410
+4,5:46,4,14,CAR 30,17,31,Aaron Rodgers sacked by Julius Peppers and Mario Addison for -10 yards,1.410,-1.600
+4,5:41,1,10,CAR 40,17,31,Jonathan Stewart middle for 4 yards (tackle by Dean Lowry),1.600,1.590
+4,4:57,2,6,CAR 44,17,31,Cam Newton right end for -6 yards (tackle by Mike Daniels),1.590,0.000
+4,4:12,,,,,,Timeout #2 by Carolina Panthers,0.000,-0.100
+4,4:12,3,12,CAR 38,17,31,Cam Newton right end for 9 yards (tackle by Morgan Burnett),0.100,0.000
+4,4:03,,,,,,Timeout #3 by Green Bay Packers,0.000,0.260
+4,4:03,4,3,CAR 47,17,31,"Michael Palardy punts 36 yards, returned by Trevor Davis for 2 yards (tackle by Fozzy Whittaker). Penalty on CAR: Illegal Formation, 5 yards",-0.260,-0.540
+4,3:54,1,10,GNB 24,17,31,"Aaron Rodgers pass incomplete short right intended for Jordy Nelson. Penalty on Luke Kuechly: Defensive Holding, 5 yards (no play)",0.540,0.870
+4,3:46,1,10,GNB 29,17,31,Aaron Rodgers pass complete deep right to Richard Rodgers for 36 yards (tackle by Jairus Byrd),0.870,3.250
+4,3:38,1,10,CAR 35,17,31,Aaron Rodgers pass complete short left to Randall Cobb for 9 yards (tackle by Daryl Worley),3.250,3.920
+4,3:09,2,1,CAR 26,17,31,Aaron Rodgers pass incomplete short right intended for Randall Cobb,3.920,3.200
+4,3:05,3,1,CAR 26,17,31,Jamaal Williams middle for 2 yards (tackle by Star Lotulelei and Thomas Davis),3.200,3.970
+4,2:48,1,10,CAR 24,17,31,Aaron Rodgers spiked the ball,3.970,3.430
+4,2:48,2,10,CAR 24,23,31,"Aaron Rodgers pass complete deep middle to Richard Rodgers for 24 yards, touchdown",3.430,7.000
+4,2:43,,,CAR 15,24,31,Mason Crosby kicks extra point good,0.000,0.000
+4,2:43,,,GNB 35,24,31,"Mason Crosby kicks onside 13 yards, recovered by Marwin Evans (onside kick successful)",0.000,2.130
+4,2:40,1,10,GNB 48,24,31,Aaron Rodgers pass complete short right to Richard Rodgers for 8 yards (tackle by Mike Adams),2.130,2.660
+4,2:04,2,2,CAR 44,24,31,Aaron Rodgers pass complete short right to Jordy Nelson for 6 yards (tackle by James Bradberry),2.660,3.050
+4,2:00,1,10,CAR 38,24,31,"Penalty on Richard Rodgers: False Start, 5 yards (no play)",3.050,2.720
+4,2:00,1,15,CAR 43,24,31,"Aaron Rodgers pass incomplete. Penalty on James Bradberry: Defensive Holding, 5 yards (no play)",2.720,3.050
+4,1:55,1,10,CAR 38,24,31,"Aaron Rodgers pass complete short right to Geronimo Allison for 10 yards (tackle by James Bradberry). Geronimo Allison fumbles (forced by James Bradberry), recovered by Mike Adams at CAR-28 (tackle by Richard Rodgers)",3.050,-0.810
+4,1:50,1,10,CAR 28,24,31,Cam Newton kneels for -1 yards,0.810,0.130
+4,1:19,2,11,CAR 27,24,31,Cam Newton kneels for -1 yards,0.130,-0.690
+4,0:39,3,12,CAR 26,24,31,Cam Newton kneels for -2 yards,-0.690,-1.770
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

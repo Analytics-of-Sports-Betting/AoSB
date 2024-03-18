@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:05,BAL 26,5,2:30,25,Punt
+2,1,8:37,BAL 10,6,3:09,90,Touchdown
+3,1,0:04,BAL 10,5,1:49,15,Punt
+4,2,12:11,BAL 20,3,2:40,6,Punt
+5,2,5:55,BAL 25,9,4:18,47,Field Goal
+6,2,0:04,,0,0:04,0,End of Half
+7,3,15:00,BAL 25,4,1:40,22,Punt
+8,3,7:31,BAL 25,5,3:07,18,Punt
+9,4,11:30,BAL 25,8,3:14,75,Touchdown
+10,4,1:50,BAL 25,7,1:50,34,End of Game

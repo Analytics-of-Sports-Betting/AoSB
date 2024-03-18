@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,14:08,JAX 38,7,3:13,38,Touchdown
+2,1,7:42,DET 25,7,3:38,75,Touchdown
+3,1,0:56,DET 15,9,3:17,59,Field Goal
+4,2,11:32,DET 30,8,4:34,41,Field Goal
+5,2,4:15,DET 33,11,3:44,47,Field Goal
+6,3,15:00,DET 39,10,4:25,61,Touchdown
+7,3,2:54,DET 25,12,5:33,49,Field Goal
+8,4,10:16,DET 32,12,7:33,68,Touchdown
+9,4,0:53,JAX 31,2,0:53,-1,End of Game

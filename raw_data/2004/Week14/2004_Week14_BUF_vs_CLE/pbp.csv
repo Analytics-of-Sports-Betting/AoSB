@@ -1,0 +1,175 @@
+Quarter,Time,Down,ToGo,Location,CLE,BUF,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Bills won the coin toss, Bills to receive the opening kickoff.",,
+1,15:00,,,CLE 30,0,0,"Phil Dawson kicks off 60 yards, returned by Terrence McGee for 17 yards (tackle by Chaun Thompson)",0.000,0.740
+1,14:54,1,10,BUF 27,0,0,Willis McGahee up the middle for 2 yards (tackle by Robert Griffith and Michael Myers),0.740,0.470
+1,14:18,2,8,BUF 29,0,0,Drew Bledsoe pass incomplete intended for Eric Moulds (defended by Earl Little),0.470,-0.230
+1,14:13,3,8,BUF 29,0,0,Drew Bledsoe pass incomplete intended for Josh Reed,-0.230,-1.440
+1,14:07,4,8,BUF 29,0,0,"Brian Moorman punts 53 yards, muffed catch by Dennis Northcutt, recovered by Dennis Northcutt and returned for 8 yards (tackle by Jon Dorenbos)",-1.440,-0.670
+1,13:57,1,10,CLE 26,0,0,Luke McCown sacked by Troy Vincent for -11 yards,0.670,-1.500
+1,13:28,2,21,CLE 15,0,0,Luke McCown pass incomplete intended for Antonio Bryant,-1.500,-2.450
+1,13:24,3,21,CLE 15,0,0,William Green up the middle for -2 yards (tackle by Takeo Spikes and Rashad Baker),-2.450,-2.490
+1,12:45,4,23,CLE 13,0,0,"Derrick Frost punts 36 yards, returned by Nate Clements for 2 yards (tackle by Mason Unck)",-2.490,-2.460
+1,12:34,1,10,CLE 47,0,0,"Drew Bledsoe pass complete to Eric Moulds for 24 yards (tackle by Anthony Henry). Penalty on Anthony Henry: Face Mask (5 Yards), 5 yards",2.460,4.370
+1,12:12,1,10,CLE 18,0,0,Drew Bledsoe pass incomplete intended for Eric Moulds,4.370,3.800
+1,12:07,2,10,CLE 18,0,0,Drew Bledsoe pass complete to Willis McGahee for 7 yards (tackle by Chaun Thompson),3.800,4.260
+1,11:36,3,3,CLE 11,0,0,Joe Burns right guard for 2 yards (tackle by Barry Gardner and Ebenezer Ekuban),4.260,2.980
+1,10:49,4,1,CLE 9,0,0,Willis McGahee up the middle for 4 yards (tackle by Earl Little and Barry Gardner),2.980,6.060
+1,10:10,1,5,CLE 5,0,0,Willis McGahee left guard for no gain (tackle by Kenard Lang),6.060,5.150
+1,9:25,2,5,CLE 5,0,0,Drew Bledsoe pass incomplete intended for Eric Moulds,5.150,4.260
+1,9:20,3,5,CLE 5,0,0,Drew Bledsoe pass incomplete intended for Eric Moulds (defended by Anthony Henry),4.260,3.010
+1,9:15,4,5,CLE 5,0,3,Rian Lindell 23 yard field goal good,3.010,3.000
+1,,,,BUF 30,0,3,"Rian Lindell kicks off 47 yards, returned by Aaron Shea for 13 yards (tackle by Josh Stamer)",0.000,1.330
+1,9:05,1,10,CLE 36,0,3,William Green left guard for 8 yards (tackle by London Fletcher and Troy Vincent),1.330,1.870
+1,8:30,2,2,CLE 44,0,3,William Green left tackle for 1 yard (tackle by London Fletcher),1.870,1.290
+1,8:00,3,1,CLE 45,0,3,"Luke McCown for 1 yard (tackle by Aaron Schobel and London Fletcher). Penalty on Jeff Posey: Defensive Offside, 6 yards (no play)",1.290,2.320
+1,7:35,1,10,BUF 49,0,3,Luke McCown pass complete to Steve Heiden for 9 yards (tackle by Lawyer Milloy),2.320,3.000
+1,6:57,2,1,BUF 40,0,3,William Green left guard for -1 yards (tackle by London Fletcher and Aaron Schobel),3.000,2.150
+1,6:18,3,2,BUF 41,0,3,Luke McCown pass incomplete intended for Aaron Shea is intercepted by Troy Vincent at BUF-15 and returned for 8 yards,2.150,-0.480
+1,6:09,1,10,BUF 23,0,3,Willis McGahee up the middle for 2 yards (tackle by Warrick Holdman and Orpheus Roye),0.480,0.200
+1,5:29,2,8,BUF 25,0,3,Willis McGahee right end for 10 yards (tackle by Chaun Thompson),0.200,1.270
+1,5:04,1,10,BUF 35,0,3,Drew Bledsoe pass incomplete intended for Eric Moulds is intercepted by Lewis Sanders at CLE-37 and returned for 24 yards (tackle by Jonas Jennings),1.270,-2.980
+1,4:47,1,10,BUF 39,0,3,William Green right end for no gain (tackle by London Fletcher and Takeo Spikes),2.980,2.440
+1,4:03,2,10,BUF 39,0,3,Luke McCown pass incomplete intended for Antonio Bryant (defended by Terrence McGee),2.440,1.750
+1,3:58,3,10,BUF 39,0,3,"Penalty on Enoch DeMar: False Start, 5 yards (no play)",1.750,1.090
+1,3:58,3,15,BUF 44,0,3,Luke McCown sacked by Jeff Posey for -6 yards,1.090,-0.060
+1,3:27,4,21,BUF 50,0,3,"Derrick Frost punts 39 yards, returned by Nate Clements for 6 yards (tackle by Michael Jameson). Nate Clements fumbles, recovered by Barry Gardner at BUF-18",-0.060,4.370
+1,3:15,1,10,BUF 18,0,3,Luke McCown for 11 yards (tackle by Nate Clements),4.370,5.600
+1,2:49,,,,0,3,Timeout #1 by Buffalo Bills,0.000,5.600
+1,2:49,1,7,BUF 7,0,3,Luke McCown pass incomplete intended for Aaron Shea,5.600,4.760
+1,2:42,2,7,BUF 7,0,3,William Green right guard for no gain (tackle by London Fletcher),4.760,3.810
+1,1:59,3,7,BUF 7,0,3,"Luke McCown pass incomplete intended for Antonio Bryant is intercepted by Terrence McGee at BUF--7. Penalty on Aaron Schobel: Defensive Offside, 4 yards (no play)",3.810,4.720
+1,1:51,3,3,BUF 3,6,3,"Luke McCown pass complete to Dennis Northcutt for 3 yards, touchdown",4.720,7.000
+1,,,,BUF 2,7,3,Phil Dawson kicks extra point good,0.000,0.000
+1,,,,CLE 30,7,3,"Phil Dawson kicks off 59 yards, returned by Terrence McGee for 19 yards (tackle by Mason Unck)",0.000,0.940
+1,1:39,1,10,BUF 30,7,3,Willis McGahee right guard for 4 yards (tackle by Chaun Thompson),0.940,0.930
+1,1:02,2,6,BUF 34,7,3,"Drew Bledsoe for no gain. Drew Bledsoe fumbles, recovered by Alvin McKinley at BUF-27",0.930,-3.780
+1,0:55,1,10,BUF 27,7,3,Luke McCown pass incomplete intended for Antonio Bryant,3.780,3.230
+1,0:49,2,10,BUF 27,7,3,William Green right tackle for no gain (tackle by Pat Williams and Jeff Posey),3.230,2.540
+1,0:08,3,10,BUF 27,7,3,Luke McCown pass incomplete intended for Adimchinobe Echemandu,2.540,1.670
+1,0:04,4,10,BUF 27,7,3,Phil Dawson 45 yard field goal no good,1.670,-1.270
+Quarter,Time,Down,ToGo,Location,CLE,BUF,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,BUF 35,7,3,Willis McGahee left end for 3 yards (tackle by Orpheus Roye),1.270,1.130
+2,14:21,2,7,BUF 38,7,3,Drew Bledsoe pass incomplete intended for Daimon Shelton,1.130,0.430
+2,14:18,3,7,BUF 38,7,3,Drew Bledsoe pass complete to Eric Moulds for 5 yards (tackle by Robert Griffith),0.430,-0.520
+2,13:38,4,2,BUF 43,7,3,"Brian Moorman punts 53 yards, out of bounds. Penalty on Kevin Thomas: Illegal Touch Kick (no play)",-0.520,0.070
+,,,,,,,"CLE challenged the ruling, and the original play was overturned.",,
+2,13:23,4,1,CLE 48,7,3,,0.070,-0.340
+2,13:16,1,10,CLE 21,7,3,Luke McCown pass complete to Steve Heiden for 10 yards (tackle by Terrence McGee),0.340,1.000
+2,12:31,1,10,CLE 31,7,3,"Penalty on Damion Cook: False Start, 5 yards (no play)",1.000,0.670
+2,12:05,1,15,CLE 26,7,3,Luke McCown pass complete to Dennis Northcutt for 3 yards (tackle by Takeo Spikes),0.670,0.190
+2,11:23,2,12,CLE 29,7,3,Luke McCown sacked by Sam Adams for -8 yards,0.190,-1.550
+2,10:58,3,20,CLE 21,7,3,"William Green left tackle for 2 yards (tackle by Takeo Spikes). William Green fumbles (forced by Takeo Spikes), recovered by Nate Clements at CLE-23 (tackle by Damion Cook)",-1.550,-4.040
+2,10:52,1,10,CLE 23,7,3,Willis McGahee left end for 11 yards (tackle by Robert Griffith),4.040,4.780
+2,10:14,1,10,CLE 12,7,3,Willis McGahee right end for 5 yards (tackle by Lewis Sanders),4.780,5.020
+2,9:52,2,5,CLE 7,7,3,Drew Bledsoe pass incomplete intended for Willis McGahee,5.020,4.160
+2,9:46,3,5,CLE 7,7,9,"Drew Bledsoe pass complete to Lee Evans for 7 yards, touchdown",4.160,7.000
+2,,,,CLE 2,7,10,Rian Lindell kicks extra point good,0.000,0.000
+2,,,,BUF 30,7,10,"Rian Lindell kicks off 64 yards, returned by Frisman Jackson for 22 yards (tackle by Mario Haggan)",0.000,0.810
+2,9:33,1,10,CLE 28,7,10,William Green right end for -3 yards (tackle by Terrence McGee),0.810,-0.140
+2,8:53,2,13,CLE 25,7,10,Luke McCown pass incomplete intended for Terrelle Smith,-0.140,-0.820
+2,8:49,3,13,CLE 25,7,10,Luke McCown sacked by Chris Kelsay for -15 yards,-0.820,-2.490
+2,8:20,4,28,CLE 10,7,10,"Derrick Frost punts 32 yards, returned by Jonathan Smith for -10 yards (tackle by Mason Unck)",-2.490,-2.130
+2,8:07,1,10,BUF 48,7,10,Drew Bledsoe pass incomplete intended for Eric Moulds,2.130,1.580
+2,8:00,2,10,BUF 48,7,10,Willis McGahee right tackle for 2 yards (tackle by Barry Gardner and Kenard Lang),1.580,1.160
+2,7:20,3,8,BUF 50,7,10,Jonathan Smith up the middle for 8 yards (tackle by Orpheus Roye),1.160,2.790
+2,6:41,1,10,CLE 42,7,10,Willis McGahee up the middle for 3 yards (tackle by Warrick Holdman and Robert Griffith),2.790,2.650
+2,6:06,2,7,CLE 39,7,10,Drew Bledsoe pass complete to Lee Evans for 9 yards (tackle by Lewis Sanders),2.650,3.580
+2,5:25,1,10,CLE 30,7,10,Drew Bledsoe pass complete to Willis McGahee for 5 yards (tackle by Lewis Sanders),3.580,3.710
+2,4:39,2,5,CLE 25,7,10,"Willis McGahee left end for no gain (tackle by Eric Westmoreland). Willis McGahee fumbles (forced by Eric Westmoreland), recovered by Trey Teague at CLE-25",3.710,3.010
+2,3:56,3,5,CLE 25,7,10,Drew Bledsoe pass complete to Lee Evans for 7 yards (tackle by Kevin Bentley),3.010,4.370
+2,3:13,1,10,CLE 18,7,10,"Drew Bledsoe pass incomplete intended for Lee Evans. Penalty on Tyrone Rogers: Defensive Offside, 5 yards (no play)",4.370,5.410
+2,3:07,,,,7,10,Timeout #2 by Buffalo Bills,0.000,5.410
+2,3:07,1,5,CLE 13,7,10,Drew Bledsoe pass incomplete intended for Eric Moulds,5.410,4.610
+2,3:01,2,5,CLE 13,7,16,"Willis McGahee up the middle for 13 yards, touchdown",4.610,7.000
+2,,,,CLE 2,7,17,Rian Lindell kicks extra point good,0.000,0.000
+2,,,,BUF 30,7,17,"Rian Lindell kicks off 65 yards, returned by Richard Alston for 24 yards (tackle by Joe Burns). Penalty on Mason Unck: Offensive Holding, 10 yards",0.000,0.040
+2,2:50,1,10,CLE 18,7,17,"Adimchinobe Echemandu left guard for 1 yard (tackle by Sam Adams). Adimchinobe Echemandu fumbles (forced by Sam Adams), recovered by Troy Vincent at CLE-21",0.040,-4.170
+2,2:43,1,10,CLE 21,7,17,Drew Bledsoe pass complete to Eric Moulds for 9 yards (tackle by Anthony Henry),4.170,5.160
+2,2:00,2,1,CLE 12,7,17,Willis McGahee left end for 8 yards (tackle by Anthony Henry and Chaun Thompson),5.160,6.280
+2,1:54,1,4,CLE 4,7,17,Willis McGahee right guard for -1 yards (tackle by Gerard Warren),6.280,5.150
+2,1:18,2,5,CLE 5,7,17,Willis McGahee left end for -6 yards (tackle by Robert Griffith and Kevin Bentley),5.150,3.120
+2,0:37,3,11,CLE 11,7,17,Drew Bledsoe sacked by Alvin McKinley and Ebenezer Ekuban for -4 yards,3.120,2.440
+2,0:02,,,,7,17,Timeout #3 by Buffalo Bills,0.000,2.440
+2,0:02,4,15,CLE 15,7,17,"Penalty on Lawrence Smith: False Start, 5 yards (no play)",2.440,2.120
+2,0:02,4,20,CLE 20,7,17,"Brian Moorman pass incomplete intended for Ryan Denney (defended by Earl Little). Brian Moorman fumbles, recovered by Brian Moorman at CLE-28",2.120,0.280
+Quarter,Time,Down,ToGo,Location,CLE,BUF,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,BUF 30,7,17,"Rian Lindell kicks off 61 yards, returned by Richard Alston for 35 yards (tackle by Joe Burns)",0.000,1.860
+3,14:52,1,10,CLE 44,7,17,William Green left tackle for -3 yards (tackle by Takeo Spikes and Aaron Schobel),1.860,0.910
+3,14:11,2,13,CLE 41,7,17,Luke McCown pass complete to Antonio Bryant for 18 yards (tackle by Terrence McGee),0.910,2.850
+3,13:31,1,10,BUF 41,7,17,--,2.850,1.090
+3,13:00,2,19,BUF 50,7,17,Luke McCown pass incomplete intended for Steve Heiden,1.090,0.430
+3,12:53,3,19,BUF 50,7,17,Luke McCown pass complete to Antonio Bryant for 9 yards (tackle by Terrence McGee),0.430,0.530
+3,12:07,4,10,BUF 41,7,17,"Derrick Frost punts 32 yards, returned by Jonathan Smith for 5 yards (tackle by Mason Unck)",0.530,0.280
+3,11:56,1,10,BUF 14,7,17,"Willis McGahee right tackle for no gain (tackle by Gerard Warren and Warrick Holdman). Penalty on Ross Tucker: Offensive Holding, 7 yards (no play)",-0.280,-0.650
+3,11:28,1,17,BUF 7,7,17,Drew Bledsoe pass complete to Lee Evans for 10 yards (tackle by Chaun Thompson),-0.650,-0.370
+3,10:48,2,7,BUF 17,7,17,Willis McGahee up the middle for 8 yards (tackle by Chaun Thompson),-0.370,0.610
+3,10:05,1,10,BUF 25,7,17,Willis McGahee left tackle for 5 yards (tackle by Anthony Henry and Robert Griffith),0.610,0.740
+3,9:21,2,5,BUF 30,7,17,Willis McGahee right end for no gain (tackle by Chaun Thompson and Orpheus Roye),0.740,0.040
+3,8:37,3,5,BUF 30,7,17,Drew Bledsoe pass complete to Josh Reed for 6 yards (tackle by Earl Little),0.040,1.330
+3,7:55,1,10,BUF 36,7,17,Lee Evans right tackle for 48 yards (tackle by Barry Gardner),1.330,4.510
+3,7:23,1,10,CLE 16,7,17,"Penalty on Jonas Jennings: False Start, 5 yards (no play)",4.510,4.170
+3,7:00,1,15,CLE 21,7,17,Drew Bledsoe pass complete to Shaud Williams for 10 yards (tackle by Robert Griffith),4.170,4.760
+3,6:30,2,5,CLE 11,7,17,Shaud Williams right tackle for 3 yards (tackle by Robert Griffith and Lewis Sanders),4.760,4.620
+3,5:49,3,2,CLE 8,7,17,Willis McGahee left tackle for 2 yards (tackle by Earl Little),4.620,5.830
+3,5:00,1,6,CLE 6,7,17,Drew Bledsoe pass incomplete intended for Eric Moulds (defended by Dyshod Carter),5.830,4.950
+3,4:56,2,6,CLE 6,7,17,Willis McGahee up the middle for 3 yards (tackle by Dyshod Carter and Gerard Warren),4.950,4.720
+3,4:15,3,3,CLE 3,7,17,Drew Bledsoe pass incomplete intended for Eric Moulds,4.720,3.040
+3,4:09,4,3,CLE 3,7,20,Rian Lindell 21 yard field goal good,3.040,3.000
+3,,,,BUF 30,7,20,"Rian Lindell kicks off 57 yards, returned by Richard Alston for 19 yards (tackle by Josh Stamer)",0.000,1.070
+3,3:59,1,10,CLE 32,7,20,Luke McCown sacked by Sam Adams for -8 yards,1.070,-0.550
+3,3:30,2,18,CLE 24,7,20,Luke McCown pass complete to Antonio Bryant for 3 yards (tackle by Terrence McGee),-0.550,-0.820
+3,2:49,3,15,CLE 27,7,20,Luke McCown pass incomplete intended for Antonio Bryant is intercepted by Nate Clements at CLE-45 and returned for 5 yards (tackle by Antonio Bryant),-0.820,-2.920
+3,2:41,1,10,CLE 40,7,20,Drew Bledsoe pass complete to Daimon Shelton for 1 yard (tackle by Earl Little),2.920,2.510
+3,2:01,2,9,CLE 39,7,20,Willis McGahee right guard for 2 yards (tackle by Ebenezer Ekuban),2.510,2.080
+3,1:10,3,7,CLE 37,7,20,Drew Bledsoe pass incomplete intended for Willis McGahee. Penalty on Justin Bannan: Illegal Formation (Declined),2.080,0.790
+,,,,,,,"BUF challenged the ruling, and the original play was overturned.",,
+3,1:07,4,7,CLE 37,7,20,Penalty on Brian Moorman: Delay of Game (Declined),0.790,0.790
+3,1:07,4,7,CLE 37,7,20,Brian Moorman punts 34 yards,0.790,0.380
+3,0:56,1,10,CLE 3,7,20,Jeff Garcia pass complete to Aaron Shea for 5 yards (tackle by Terrence McGee),-0.380,-0.420
+3,0:20,2,5,CLE 8,7,20,William Green left tackle for 3 yards (tackle by Aaron Schobel and Sam Adams),-0.420,-0.480
+Quarter,Time,Down,ToGo,Location,CLE,BUF,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,2,CLE 11,7,20,"Jeff Garcia sacked by Aaron Schobel for -5 yards. Jeff Garcia fumbles (forced by Aaron Schobel), recovered by Chris Kelsay at CLE-6",-0.480,-5.830
+,,,,,,,"CLE challenged the ruling, and the play was upheld.",,
+4,14:54,1,6,CLE 6,7,26,"Willis McGahee up the middle for 6 yards, touchdown",5.830,7.000
+4,,,,CLE 2,7,27,Rian Lindell kicks extra point good,0.000,0.000
+4,,,,BUF 30,7,27,"Rian Lindell kicks off 48 yards, returned by Richard Alston for 10 yards (tackle by Pierson Prioleau)",0.000,1.070
+4,14:41,1,10,CLE 32,7,27,Luke McCown pass incomplete intended for Aaron Shea,1.070,0.530
+4,14:35,2,10,CLE 32,7,27,Luke McCown pass incomplete intended for William Green,0.530,-0.160
+4,14:31,3,10,CLE 32,7,27,"Luke McCown pass complete to Adimchinobe Echemandu for 12 yards (tackle by Lawyer Milloy). Penalty on Kirk Chambers: Illegal Shift, 5 yards (no play)",-0.160,-0.820
+4,14:00,3,15,CLE 27,7,27,Luke McCown sacked by Lawyer Milloy for -17 yards,-0.820,-2.490
+4,13:34,4,32,CLE 10,7,27,"Derrick Frost punts 47 yards, returned by Nate Clements for 26 yards (tackle by Barry Gardner). Penalty on Aaron Shea: Ineligible Downfield Kick (Declined)",-2.490,-3.510
+4,13:18,1,10,CLE 31,7,27,Willis McGahee left guard for 7 yards (tackle by Anthony Henry and Mason Unck),3.510,3.910
+4,12:35,2,3,CLE 24,7,27,Willis McGahee right guard for 6 yards (tackle by Mason Unck),3.910,4.370
+4,11:52,1,10,CLE 18,7,27,Willis McGahee right tackle for -1 yards (tackle by Kenard Lang),4.370,3.670
+4,11:10,2,11,CLE 19,7,27,Drew Bledsoe pass incomplete intended for Eric Moulds,3.670,2.970
+4,11:04,3,11,CLE 19,7,27,Drew Bledsoe pass incomplete intended for Ryan Neufeld (defended by Lewis Sanders),2.970,2.180
+4,10:58,4,11,CLE 19,7,30,Rian Lindell 37 yard field goal good,2.180,3.000
+4,,,,BUF 30,7,30,"Rian Lindell kicks off 63 yards, returned by Richard Alston for 16 yards (tackle by Mario Haggan)",0.000,0.480
+4,10:48,1,10,CLE 23,7,30,Adimchinobe Echemandu right guard for -1 yards (tackle by Chris Kelsay),0.480,-0.200
+4,10:15,2,11,CLE 22,7,30,Adimchinobe Echemandu right tackle for 5 yards (tackle by Lawyer Milloy and Aaron Schobel),-0.200,-0.230
+4,9:39,3,6,CLE 27,7,30,Luke McCown pass incomplete intended for Antonio Bryant,-0.230,-1.570
+4,9:34,4,6,CLE 27,7,30,"Derrick Frost punts 39 yards, returned by Jonathan Smith for 5 yards (tackle by Dyshod Carter). Penalty on Rashad Baker: Illegal Block Above the Waist, 10 yards",-1.570,-0.870
+4,9:22,1,10,BUF 29,7,30,Willis McGahee right tackle for 7 yards (tackle by Tyrone Rogers),0.870,1.270
+4,8:34,,,,7,30,Timeout #1 by Buffalo Bills,0.000,1.270
+4,8:34,2,3,BUF 36,7,30,Shaud Williams up the middle for no gain (tackle by Chaun Thompson and Michael Myers),1.270,0.560
+4,7:48,3,3,BUF 36,7,30,J.P. Losman left end for 10 yards (tackle by Michael Jameson),0.560,1.990
+4,7:00,1,10,BUF 46,7,30,J.P. Losman pass incomplete intended for Jason Peters,1.990,1.450
+4,6:54,2,10,BUF 46,7,30,Shaud Williams right guard for 3 yards (tackle by Kevin Bentley),1.450,1.160
+4,6:10,3,7,BUF 49,7,30,Shaud Williams up the middle for 10 yards (tackle by Chaun Thompson and Robert Griffith),1.160,2.850
+4,5:26,1,10,CLE 41,7,30,Shaud Williams left guard for 3 yards (tackle by Amon Gordon),2.850,2.710
+4,4:38,2,7,CLE 38,7,30,J.P. Losman pass complete to Rod Trafford for 10 yards (tackle by Mason Unck),2.710,3.710
+4,4:30,1,10,CLE 28,7,30,Shaud Williams right tackle for 7 yards (tackle by Michael Jameson and Eric Westmoreland),3.710,4.110
+4,3:45,2,3,CLE 21,7,30,Shaud Williams left guard for 6 yards (tackle by Anthony Henry),4.110,4.580
+4,3:00,1,10,CLE 15,7,30,Shaud Williams left guard for 1 yard (tackle by Amon Gordon),4.580,4.110
+4,2:15,2,9,CLE 14,7,30,"Shaud Williams right guard for 5 yards (tackle by Mason Unck). Penalty on Michael Myers: Defensive Holding, 5 yards",4.110,6.280
+4,2:06,1,4,CLE 4,7,36,"Shaud Williams up the middle for 4 yards, touchdown",6.280,7.000
+4,,,,CLE 2,7,37,Rian Lindell kicks extra point good,0.000,0.000
+4,,,,BUF 30,7,37,"Rian Lindell kicks off 60 yards, returned by Richard Alston for 16 yards (tackle by Pierson Prioleau)",0.000,0.670
+4,1:54,1,10,CLE 26,7,37,Adimchinobe Echemandu right tackle for 2 yards (tackle by Terrence McGee),0.670,0.400
+4,1:15,2,8,CLE 28,7,37,Luke McCown pass complete to Antonio Bryant for 7 yards (tackle by Kevin Thomas),0.400,0.630
+4,0:40,3,1,CLE 35,7,37,Adimchinobe Echemandu left guard for 6 yards (tackle by Josh Stamer and Kevin Thomas),0.630,1.660
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

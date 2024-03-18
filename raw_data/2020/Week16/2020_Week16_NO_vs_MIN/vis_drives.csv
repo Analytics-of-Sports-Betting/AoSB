@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,12:11,MIN 25,8,3:25,75,Touchdown
+2,1,5:10,MIN 25,5,1:22,20,Punt
+3,2,14:12,MIN 25,8,3:58,75,Touchdown
+4,2,5:04,MIN 12,3,1:49,0,Punt
+5,2,0:38,MIN 25,3,0:38,21,End of Half
+6,3,15:00,MIN 25,5,2:41,20,Punt
+7,3,10:53,NOR 18,3,1:12,18,Touchdown
+8,3,4:38,MIN 25,9,4:16,75,Touchdown
+9,4,12:01,MIN 25,3,1:39,-6,Punt
+10,4,4:00,MIN 25,9,1:50,75,Touchdown
+11,4,1:50,MIN 25,4,0:23,8,Downs

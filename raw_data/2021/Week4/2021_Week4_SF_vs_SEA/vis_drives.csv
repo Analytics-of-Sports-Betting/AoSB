@@ -1,0 +1,15 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,SEA 25,3,1:12,6,Punt
+2,1,9:35,SEA 36,3,2:18,-4,Punt
+3,1,5:20,SFO 38,3,1:42,-5,Punt
+4,2,13:31,SEA 31,3,2:22,-10,Punt
+5,2,7:52,SEA 7,3,1:26,1,Punt
+6,2,4:49,SEA 20,6,2:55,80,Touchdown
+7,2,0:38,SEA 6,2,0:38,7,End of Half
+8,3,12:14,SEA 16,4,2:17,7,Punt
+9,3,8:53,SEA 34,7,3:31,66,Touchdown
+10,3,5:16,SFO 14,2,0:50,14,Touchdown
+11,3,2:10,SEA 19,10,5:03,81,Touchdown
+12,4,10:34,,3,1:03,0,Punt
+13,4,6:12,SFO 49,3,1:42,6,Punt
+14,4,1:20,SEA 46,2,1:20,-2,End of Game

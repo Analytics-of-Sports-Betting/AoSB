@@ -1,0 +1,168 @@
+Quarter,Time,Down,ToGo,Location,DET,ARI,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Lions won the coin toss, Lions to receive the opening kickoff.",,
+1,15:00,,,ARI 30,0,0,"Neil Rackers kicks off 70 yards, touchback",0.000,0.280
+1,15:00,1,10,DET 20,0,0,Jon Kitna pass incomplete short right intended for Kevin Jones,0.280,-0.270
+1,14:56,2,10,DET 20,0,0,Kevin Jones left end for 2 yards (tackle by Karlos Dansby),-0.270,-0.690
+1,14:23,3,8,DET 22,0,0,Jon Kitna pass complete short left to Mike Furrey for 14 yards,-0.690,1.330
+1,14:03,1,10,DET 36,0,0,Jon Kitna pass complete short right to Mike Furrey for 5 yards (tackle by Adrian Wilson and Gerald Hayes),1.330,1.470
+1,13:28,2,5,DET 41,0,0,Jon Kitna pass complete short right to Roy Williams for 1 yard (tackle by Antrel Rolle),1.470,0.890
+1,12:47,3,4,DET 42,0,0,Jon Kitna pass incomplete short left intended for Mike Furrey,0.890,-0.590
+1,12:42,4,4,DET 42,0,0,Nick Harris punts 55 yards,-0.590,0.380
+1,12:33,1,10,ARI 3,0,0,Edgerrin James middle for 6 yards (tackle by Ernie Sims),-0.380,-0.340
+1,12:00,2,4,ARI 9,0,0,Edgerrin James left end for 7 yards (tackle by Boss Bailey and Terrence Holt),-0.340,-0.140
+1,11:11,1,10,ARI 16,0,0,Matt Leinart pass incomplete short left intended for Larry Fitzgerald,-0.140,-0.660
+1,11:07,2,10,ARI 16,0,0,Matt Leinart pass complete short right to Bryant Johnson for 2 yards (tackle by Paris Lenon),-0.660,-1.070
+1,10:27,3,8,ARI 18,0,0,Matt Leinart pass complete short left to Anquan Boldin for 8 yards (tackle by Jon McGraw),-1.070,0.670
+1,9:43,1,10,ARI 26,0,0,Matt Leinart pass incomplete short right intended for Bryant Johnson,0.670,0.130
+1,9:36,2,10,ARI 26,0,0,Matt Leinart middle for 1 yard (tackle by Marcus Bell),0.130,-0.430
+1,8:55,3,9,ARI 27,0,0,Matt Leinart pass incomplete short middle intended for Marcel Shipp,-0.430,-1.570
+1,8:49,4,9,ARI 27,0,0,Scott Player punts no gain,-1.570,-4.580
+1,8:40,1,10,ARI 15,0,0,Kevin Jones right end for 2 yards (tackle by Chike Okeafor and Kendrick Clancy),4.580,4.280
+1,8:01,2,8,ARI 13,0,0,Jon Kitna pass complete short left to Marcus Pollard for 3 yards (tackle by Gerald Hayes),4.280,4.000
+1,7:14,3,5,ARI 10,0,0,Jon Kitna pass incomplete short left intended for Kevin Jones is intercepted by Aaron Francisco at ARI-3 and returned for 17 yards,4.000,-0.280
+1,7:05,1,10,ARI 20,0,0,"Edgerrin James left end for 5 yards (tackle by Alex Lewis). Penalty on Shaun Cody: Defensive Holding, 5 yards",0.280,0.940
+1,6:47,1,10,ARI 30,0,0,Edgerrin James left end for 3 yards (tackle by Paris Lenon),0.940,0.800
+1,6:06,2,7,ARI 33,0,0,Matt Leinart pass complete short left to Leonard Pope for 2 yards (tackle by Terrence Holt),0.800,0.370
+1,5:26,3,5,ARI 35,0,0,Matt Leinart pass incomplete short left intended for Larry Fitzgerald (defended by Paris Lenon). Penalty on Larry Fitzgerald: Offensive Pass Interfere (Declined),0.370,-1.040
+1,5:21,4,5,ARI 35,0,0,"Scott Player punts 53 yards, returned by Dre' Bly for 36 yards (tackle by Obafemi Ayanbadejo)",-1.040,-2.130
+1,5:02,1,10,DET 48,0,0,Kevin Jones right end for 1 yard (tackle by Antrel Rolle),2.130,1.720
+1,4:28,2,9,DET 49,0,0,Kevin Jones right end for 3 yards (tackle by Karlos Dansby),1.720,1.420
+1,3:39,3,6,ARI 48,0,0,Jon Kitna pass incomplete short right intended for Roy Williams (defended by Orlando Huff),1.420,0.070
+1,3:35,4,6,ARI 48,0,0,"Nick Harris punts 34 yards, fair catch by Troy Walters",0.070,0.280
+1,3:31,1,10,ARI 14,0,0,Edgerrin James middle for 3 yards (tackle by Jared DeVries),-0.280,-0.370
+1,2:50,2,7,ARI 17,0,0,Matt Leinart pass incomplete short right intended for Edgerrin James,-0.370,-1.040
+1,2:43,3,7,ARI 17,0,0,Matt Leinart pass complete short right to Troy Walters for 9 yards (tackle by Jamar Fletcher and Paris Lenon),-1.040,0.670
+1,2:03,1,10,ARI 26,0,0,Matt Leinart pass incomplete deep left intended for Anquan Boldin,0.670,0.130
+1,1:57,2,10,ARI 26,0,0,Matt Leinart sacked by Cory Redding for -5 yards,0.130,-1.220
+1,1:25,3,15,ARI 21,0,0,Matt Leinart pass complete short middle to Marcel Shipp for 10 yards (tackle by Jamar Fletcher and Kalimba Edwards),-1.220,-1.310
+1,0:47,4,5,ARI 31,0,0,"Scott Player punts 52 yards, returned by Eddie Drummond for 5 yards (tackle by Matt Ware)",-1.310,-0.410
+1,0:39,1,10,DET 22,0,0,Jon Kitna pass complete short right to Roy Williams for 12 yards (tackle by Antrel Rolle),0.410,1.200
+1,0:00,1,10,DET 34,0,0,Jon Kitna pass incomplete short right intended for Marcus Pollard (defended by Chike Okeafor),1.200,0.660
+Quarter,Time,Down,ToGo,Location,DET,ARI,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,10,DET 34,0,0,Jon Kitna pass complete short left to Marcus Pollard for 3 yards (tackle by Eric Green),0.660,0.370
+2,15:00,3,7,DET 37,0,0,"Penalty on Chike Okeafor: Encroachment, 5 yards (no play)",0.370,1.030
+2,14:03,3,2,DET 42,0,0,Jon Kitna pass complete short right to Mike Furrey for 7 yards (tackle by Antrel Rolle),1.030,2.190
+2,13:27,1,10,DET 49,0,0,Jon Kitna pass incomplete short right intended for Roy Williams,2.190,1.650
+2,13:25,2,10,DET 49,0,0,Jon Kitna pass incomplete deep middle intended for Roy Williams (defended by Robert Griffith),1.650,0.960
+2,13:20,3,10,DET 49,0,0,Jon Kitna pass incomplete short left intended for Arlen Harris,0.960,-0.130
+2,13:16,4,10,DET 49,0,0,"Nick Harris punts 39 yards, fair catch by Troy Walters",-0.130,0.350
+2,13:07,1,10,ARI 12,0,0,Edgerrin James middle for 18 yards (tackle by Kenoy Kennedy),-0.350,0.940
+2,12:32,1,10,ARI 30,0,0,Edgerrin James left end for 11 yards (tackle by Teddy Lehman),0.940,1.660
+2,11:49,1,10,ARI 41,0,0,Edgerrin James right tackle for no gain (tackle by Cory Redding),1.660,1.120
+2,11:11,2,10,ARI 41,0,0,Matt Leinart pass complete short right to Adam Bergen for 3 yards (tackle by Dre' Bly and Alex Lewis),1.120,0.830
+2,10:34,3,7,ARI 44,0,0,Matt Leinart pass complete short middle to Anquan Boldin for 11 yards (tackle by Teddy Lehman),0.830,2.590
+2,9:50,1,10,DET 45,0,0,Matt Leinart pass complete deep right to Larry Fitzgerald for 24 yards (tackle by Fernando Bryant),2.590,4.170
+2,9:42,1,10,DET 21,0,0,"Edgerrin James left end for no gain (tackle by Paris Lenon and Jared DeVries). Penalty on Nick Leckey: Offensive Holding (Offsetting), Penalty on Ernie Sims: Face Mask (15 Yards) (Offsetting) (no play)",4.170,4.170
+2,9:08,1,10,DET 21,0,0,Matt Leinart pass incomplete short left intended for Anquan Boldin,4.170,3.630
+2,9:05,2,10,DET 21,0,0,"Matt Leinart pass complete short left to Larry Fitzgerald for 8 yards (tackle by Dre' Bly). Penalty on Dre' Bly: Defensive Pass Interfere, 8 yards (no play)",3.630,4.710
+2,8:44,1,10,DET 13,0,0,Edgerrin James left tackle for 6 yards (tackle by Jon McGraw),4.710,5.150
+2,8:01,2,4,DET 7,0,0,Matt Leinart pass complete short right to Bryant Johnson for 5 yards (tackle by Fernando Bryant),5.150,6.740
+2,7:16,1,2,DET 2,0,0,Edgerrin James middle for no gain (tackle by Teddy Lehman),6.740,5.720
+2,6:32,2,2,DET 2,0,6,"Matt Leinart pass complete short left to Bryant Johnson for 2 yards, touchdown",5.720,7.000
+2,,,,DET 2,0,7,Neil Rackers kicks extra point good,0.000,0.000
+2,,,,ARI 30,0,7,"Neil Rackers kicks off 70 yards, touchback",0.000,0.280
+2,6:27,1,10,DET 20,0,7,Aveion Cason left end for 6 yards (tackle by Kendrick Clancy),0.280,0.540
+2,5:51,2,4,DET 26,0,7,Aveion Cason middle for -4 yards (tackle by Adrian Wilson),0.540,-0.690
+2,5:12,3,8,DET 22,0,7,Jon Kitna pass incomplete short middle intended for Devale Ellis (defended by Hanik Milligan),-0.690,-1.900
+2,5:06,4,8,DET 22,0,7,"Nick Harris punts 54 yards, returned by Troy Walters for 5 yards (tackle by Casey Fitzsimmons). Penalty on Matt Ware: Offensive Holding, 10 yards",-1.900,0.280
+2,4:54,1,10,ARI 14,0,7,Edgerrin James right end for -1 yards (tackle by Marcus Bell and Paris Lenon),-0.280,-0.850
+2,4:11,2,11,ARI 13,0,7,Matt Leinart pass complete deep right to Anquan Boldin for 22 yards (tackle by Fernando Bryant),-0.850,1.270
+2,3:29,1,10,ARI 35,0,7,Matt Leinart pass complete deep left to Bryant Johnson for 38 yards (tackle by Jon McGraw),1.270,3.780
+2,2:53,1,10,DET 27,0,7,Matt Leinart pass complete short right to Larry Fitzgerald for 6 yards (tackle by Fernando Bryant),3.780,4.040
+2,2:35,2,4,DET 21,0,7,Matt Leinart pass complete short right to Anquan Boldin for 2 yards (tackle by Fernando Bryant),4.040,3.640
+2,2:04,3,2,DET 19,0,7,Matt Leinart left end for 1 yard (tackle by Daniel Bullocks),3.640,2.400
+2,1:57,4,1,DET 18,0,10,Neil Rackers 36 yard field goal good,2.400,3.000
+2,,,,ARI 30,0,10,"Neil Rackers kicks off 72 yards, returned by Eddie Drummond for 18 yards (tackle by Aaron Francisco)",0.000,-0.140
+2,1:46,1,10,DET 16,0,10,Jon Kitna pass incomplete deep right intended for Devale Ellis,-0.140,-0.660
+2,1:41,2,10,DET 16,0,10,Jon Kitna pass complete deep left to Corey Bradford for 20 yards (tackle by Aaron Francisco),-0.660,1.330
+2,1:21,1,10,DET 36,0,10,Jon Kitna sacked by Bertrand Berry for -14 yards,1.330,-1.100
+2,1:04,,,,0,10,Timeout #1 by Detroit Lions,0.000,-1.100
+2,1:03,2,24,DET 22,0,10,Jon Kitna pass complete short right to Devale Ellis for 10 yards (tackle by Gerald Hayes and Antrel Rolle),-1.100,-0.430
+2,0:52,,,,0,10,Timeout #1 by Arizona Cardinals,0.000,-0.430
+2,0:52,3,14,DET 32,0,10,Jon Kitna pass complete short left to Mike Furrey for 13 yards (tackle by David Macklin),-0.430,-0.390
+2,0:04,,,,0,10,Timeout #2 by Detroit Lions,0.000,-0.390
+2,0:04,4,1,DET 45,0,10,Nick Harris punts 38 yards,-0.390,1.930
+Quarter,Time,Down,ToGo,Location,DET,ARI,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DET 30,0,10,"Jason Hanson kicks off 73 yards, returned by J.J. Arrington for 17 yards (tackle by Corey Smith)",0.000,-0.280
+3,14:55,1,10,ARI 14,0,10,Edgerrin James middle for 2 yards (tackle by Kalimba Edwards),-0.280,-0.510
+3,14:19,2,8,ARI 16,0,10,Matt Leinart pass complete short middle to Adam Bergen for 7 yards (tackle by Paris Lenon and Boss Bailey),-0.510,-0.320
+3,13:36,3,1,ARI 23,0,10,Matt Leinart pass complete short left to Marcel Shipp for 22 yards (tackle by Dre' Bly),-0.320,1.930
+3,13:04,1,10,ARI 45,0,10,Matt Leinart pass complete deep left to Anquan Boldin for 44 yards (tackle by Dre' Bly). Penalty on Dre' Bly: Defensive Pass Interfere (Declined),1.930,4.840
+3,12:39,1,10,DET 11,0,10,Edgerrin James left end for 2 yards (tackle by Daniel Bullocks),4.840,4.510
+3,12:09,2,8,DET 9,0,16,"Matt Leinart left end for 9 yards, touchdown",4.510,7.000
+3,,,,DET 2,0,17,Neil Rackers kicks extra point good,0.000,0.000
+3,,,,ARI 30,0,17,"Neil Rackers kicks off 70 yards, touchback",0.000,0.280
+3,11:57,1,10,DET 20,0,17,Arlen Harris left end for 7 yards (tackle by Gerald Hayes),0.280,0.680
+3,11:31,2,3,DET 27,0,17,Arlen Harris for 20 yards (tackle by Robert Griffith),0.680,2.060
+3,11:07,1,10,DET 47,0,17,Jon Kitna pass complete short middle to Cory Schlesinger for 5 yards (tackle by Gerald Hayes),2.060,2.190
+3,10:28,2,5,ARI 48,0,17,Arlen Harris left end for -2 yards (tackle by Kendrick Clancy),2.190,1.220
+3,9:43,3,7,ARI 50,0,17,Jon Kitna pass complete short left to Devale Ellis for 9 yards (tackle by Robert Griffith),1.220,2.850
+3,9:14,1,10,ARI 41,0,17,"Penalty on Ross Verba: False Start, 5 yards (no play)",2.850,2.520
+3,8:59,1,15,ARI 46,0,17,Jon Kitna pass complete short left to Arlen Harris for 6 yards (tackle by Gabe Watson),2.520,2.440
+3,8:17,2,9,ARI 40,0,17,"Jon Kitna pass complete deep right to Mike Furrey for 18 yards (tackle by Robert Griffith). Penalty on Jeff Backus: Offensive Holding, 10 yards (no play)",2.440,1.090
+3,7:42,2,19,ARI 50,0,17,Jon Kitna pass complete deep left to Roy Williams for 20 yards (tackle by David Macklin),1.090,3.580
+3,6:58,1,10,ARI 30,0,17,Roy Williams right end for 2 yards (tackle by Antrel Rolle),3.580,3.300
+3,6:31,2,8,ARI 28,0,17,Aveion Cason left end for 14 yards (tackle by Aaron Francisco),3.300,4.650
+3,5:53,1,10,ARI 14,0,17,Aveion Cason middle for 4 yards (tackle by Orlando Huff),4.650,4.710
+3,5:18,2,6,ARI 10,0,17,Jon Kitna pass complete short left to Cory Schlesinger for 5 yards (tackle by Gerald Hayes),4.710,4.960
+3,4:33,3,1,ARI 5,0,17,"Jon Kitna pass incomplete short left intended for Marcus Pollard. Penalty on David Macklin: Defensive Pass Interfere, 4 yards (no play)",4.960,6.970
+3,4:26,1,1,ARI 1,0,17,Arlen Harris left end for -3 yards (tackle by Bertrand Berry),6.970,5.340
+3,3:44,,,,0,17,Timeout #1 by Detroit Lions,0.000,5.340
+3,3:44,2,4,ARI 4,0,17,Jon Kitna pass complete short left to Dan Campbell for -4 yards (tackle by David Macklin),5.340,3.580
+3,3:05,3,8,ARI 8,0,17,Jon Kitna sacked by Bertrand Berry for -6 yards,3.580,2.510
+3,2:53,4,14,ARI 14,3,17,Jason Hanson 32 yard field goal good,2.510,3.000
+3,,,,DET 30,3,17,"Jason Hanson kicks off 70 yards, touchback",0.000,0.280
+3,2:50,1,10,ARI 20,3,17,Edgerrin James left end for 2 yards (tackle by Jon McGraw),0.280,0.000
+3,2:10,2,8,ARI 22,3,17,Matt Leinart pass complete short right to Edgerrin James for 13 yards (tackle by Ernie Sims),0.000,1.270
+3,1:27,1,10,ARI 35,3,17,Edgerrin James middle for -2 yards (tackle by Jon McGraw and Kalimba Edwards),1.270,0.450
+3,0:41,2,12,ARI 33,3,17,Matt Leinart pass complete short left to Edgerrin James for 3 yards (tackle by Ernie Sims),0.450,0.170
+Quarter,Time,Down,ToGo,Location,DET,ARI,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,9,ARI 36,3,17,Matt Leinart pass incomplete short left intended for Obafemi Ayanbadejo,0.170,-0.980
+4,14:56,4,9,ARI 36,3,17,"Scott Player punts 41 yards, returned by Dre' Bly for 5 yards (tackle by Hanik Milligan)",-0.980,-0.810
+4,14:46,1,10,DET 28,3,17,Jon Kitna pass complete deep middle to Mike Furrey for 20 yards (tackle by Adrian Wilson),0.810,2.130
+4,14:07,1,10,DET 48,3,17,Jon Kitna pass complete deep left to Roy Williams for 17 yards (tackle by Orlando Huff),2.130,3.250
+4,13:28,1,10,ARI 35,3,17,Arlen Harris middle for 2 yards (tackle by Gabe Watson),3.250,2.970
+4,12:55,2,8,ARI 33,3,17,Jon Kitna pass complete short left to Mike Furrey for 8 yards (tackle by Karlos Dansby),2.970,3.910
+4,12:16,1,10,ARI 25,3,17,Jon Kitna pass incomplete short middle intended for Arlen Harris,3.910,3.360
+4,12:11,2,10,ARI 25,3,17,Jon Kitna sacked by Chike Okeafor for -9 yards. Penalty on Rex Tucker: Offensive Holding (Declined),3.360,1.490
+4,11:34,3,19,ARI 34,3,17,Jon Kitna pass incomplete deep left intended for Roy Williams (defended by Karlos Dansby),1.490,1.060
+4,11:26,,,,3,17,Timeout #2 by Detroit Lions,0.000,1.060
+4,11:26,4,19,ARI 34,3,17,Jason Hanson 52 yard field goal no good,1.060,-1.730
+4,11:21,1,10,ARI 42,3,17,Edgerrin James right end for 4 yards (tackle by Boss Bailey),1.730,1.730
+4,10:46,2,6,ARI 46,3,17,Edgerrin James right end for 6 yards (tackle by Ernie Sims and Marcus Bell),1.730,2.390
+4,10:15,1,10,DET 48,3,17,"Matt Leinart for no gain. Matt Leinart fumbles, ball out of bounds at ARI-46",2.390,1.040
+4,10:11,2,16,ARI 46,3,17,Matt Leinart pass incomplete short middle intended for Edgerrin James,1.040,0.370
+4,10:07,3,16,ARI 46,3,17,Matt Leinart pass incomplete short right intended for J.J. Arrington,0.370,-0.320
+4,9:59,4,16,ARI 46,3,17,Scott Player punts 51 yards,-0.320,0.380
+4,9:48,1,10,DET 3,3,17,Arlen Harris left end for 6 yards (tackle by Robert Griffith),-0.380,-0.340
+4,9:11,2,4,DET 9,3,17,Arlen Harris middle for 7 yards (tackle by Eric Green),-0.340,-0.140
+4,8:34,1,10,DET 16,3,17,Jon Kitna pass incomplete short middle intended for Cory Schlesinger,-0.140,-0.660
+4,8:30,2,10,DET 16,3,17,Jon Kitna pass complete short right to Roy Williams for 17 yards (tackle by Robert Griffith),-0.660,1.140
+4,8:03,1,10,DET 33,3,17,Jon Kitna pass incomplete short right intended for Roy Williams,1.140,0.590
+4,7:58,2,10,DET 33,3,17,Jon Kitna pass complete short left to Corey Bradford for 11 yards (tackle by Eric Green),0.590,1.860
+4,7:47,1,10,DET 44,3,17,Jon Kitna pass incomplete short left intended for Mike Furrey,1.860,1.320
+4,7:43,2,10,DET 44,3,17,Jon Kitna pass complete deep right to Corey Bradford for 23 yards (tackle by Robert Griffith),1.320,3.380
+4,7:12,1,10,ARI 33,3,17,Jon Kitna middle for -2 yards (tackle by Orlando Huff),3.380,2.570
+4,6:39,2,12,ARI 35,3,17,"Jon Kitna sacked by Chris Cooper for -6 yards. Penalty on Chris Cooper: Face Mask (15 Yards), 15 yards",2.570,3.840
+4,6:15,1,10,ARI 26,3,17,Jon Kitna pass complete deep right to Dan Campbell for 23 yards (tackle by Orlando Huff),3.840,6.510
+4,5:55,,,,3,17,Timeout #1 by Arizona Cardinals,0.000,6.510
+4,5:55,1,3,ARI 3,3,17,Arlen Harris middle for 1 yard (tackle by Kendrick Clancy),6.510,5.720
+4,5:18,2,2,ARI 2,3,17,Arlen Harris left end for 1 yard (tackle by Robert Griffith),5.720,5.170
+4,4:37,3,1,ARI 1,9,17,"Arlen Harris left end for 1 yard, touchdown",5.170,7.000
+4,,,,ARI 2,10,17,Jason Hanson kicks extra point good,0.000,0.000
+4,,,,DET 30,10,17,"Jason Hanson kicks off 70 yards, returned by J.J. Arrington for 26 yards (tackle by Donte Curry)",0.000,0.670
+4,4:27,1,10,ARI 26,10,17,Edgerrin James left tackle for 7 yards (tackle by Marcus Bell),0.670,1.070
+4,3:43,2,3,ARI 33,10,17,Edgerrin James right tackle for 8 yards (tackle by Terrence Holt and Kalimba Edwards),1.070,1.660
+4,3:01,1,10,ARI 41,10,17,Edgerrin James middle for 2 yards (tackle by Jared DeVries and Cory Redding),1.660,1.390
+4,2:53,,,,10,17,Timeout #3 by Detroit Lions,0.000,1.390
+4,2:53,2,8,ARI 43,10,17,Edgerrin James right end for 5 yards (tackle by Boss Bailey),1.390,1.360
+4,2:11,,,,10,17,Timeout #2 by Arizona Cardinals,0.000,1.360
+4,2:11,3,3,ARI 48,10,17,Marcel Shipp left end for 7 yards (tackle by Terrence Holt and Kalimba Edwards),1.360,2.590
+4,2:00,1,10,DET 45,10,17,Edgerrin James middle for 2 yards (tackle by Boss Bailey),2.590,2.310
+4,1:24,2,8,DET 43,10,17,Matt Leinart kneels for -3 yards,2.310,1.220
+4,0:36,3,11,DET 46,10,17,Matt Leinart kneels for -1 yards,1.220,0.130
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

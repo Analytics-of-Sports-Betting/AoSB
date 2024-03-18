@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:58,CHI 24,2,0:40,20,Fumble
+2,1,10:41,NOR 30,5,2:20,37,Missed FG
+3,1,3:55,NOR 15,7,4:03,85,Touchdown
+4,2,14:18,NOR 22,3,2:10,5,Punt
+5,2,10:19,CHI 41,4,3:35,6,Punt
+6,2,4:02,NOR 5,10,3:30,95,Touchdown
+7,3,15:00,NOR 20,12,6:25,80,Touchdown
+8,3,6:27,NOR 40,3,1:36,7,Punt
+9,3,3:21,NOR 44,8,3:05,49,Field Goal
+10,4,12:47,NOR 20,5,3:35,32,Punt
+11,4,5:26,NOR 12,3,1:02,8,Punt
+12,4,2:47,CHI 23,3,1:00,23,Touchdown
+13,4,0:30,CHI 45,1,0:30,-1,End of Game

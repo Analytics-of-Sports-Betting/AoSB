@@ -1,0 +1,175 @@
+Quarter,Time,Down,ToGo,Location,SFO,LAC,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Chargers won the coin toss, Chargers to receive the opening kickoff.",,
+1,15:00,,,SFO 35,0,0,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,LAC 25,0,0,Philip Rivers pass incomplete short right intended for Melvin Gordon,0.610,0.060
+1,14:55,2,10,LAC 25,0,0,Melvin Gordon up the middle for no gain (tackle by DeForest Buckner and Arik Armstead),0.060,-0.620
+1,14:12,3,10,LAC 25,6,0,"Philip Rivers pass short right intended for Keenan Allen is intercepted by Antone Exum at LAC-32 and returned for 32 yards, touchdown",-0.620,-7.000
+1,14:03,,,SFO 35,7,0,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+1,14:03,1,10,LAC 25,7,0,Melvin Gordon left end for 3 yards (tackle by Reuben Foster),0.610,0.470
+1,13:20,2,7,LAC 28,7,0,Philip Rivers pass incomplete short left intended for Mike Williams,0.470,-0.230
+1,13:15,3,7,LAC 28,7,0,Philip Rivers pass incomplete short right,-0.230,-1.500
+1,13:12,4,7,LAC 28,7,0,"Drew Kaser punts 55 yards, returned by Dante Pettis for -3 yards (tackle by Jatavis Brown)",-1.500,0.280
+1,12:56,1,10,SFO 14,7,0,Matt Breida right end for -1 yards (tackle by Brandon Mebane),-0.280,-0.850
+1,12:22,2,11,SFO 13,7,0,C.J. Beathard pass incomplete short middle intended for Pierre Garcon,-0.850,-1.530
+1,12:18,3,11,SFO 13,7,0,"Penalty on Trent Taylor: False Start, 5 yards (no play)",-1.530,-2.120
+1,12:18,3,16,SFO 8,7,0,C.J. Beathard pass complete short left to George Kittle for 9 yards (tackle by Trevor Williams and Adrian Phillips),-2.120,-2.320
+1,11:42,4,7,SFO 17,7,0,"Bradley Pinion punts 45 yards, returned by Desmond King for -1 yards (tackle by Mark Nzeocha)",-2.320,-1.400
+1,11:32,1,10,LAC 37,7,0,Philip Rivers pass complete short right to Travis Benjamin for 2 yards (tackle by K'Waun Williams),1.400,1.130
+1,11:01,2,8,LAC 39,7,0,Philip Rivers pass complete short right to Keenan Allen for 3 yards (tackle by Reuben Foster),1.130,0.830
+1,10:24,3,5,LAC 42,7,0,Philip Rivers pass complete short right to Keenan Allen for 4 yards (tackle by Fred Warner),0.830,-0.320
+1,9:37,,,,,,Timeout #1 by Los Angeles Chargers,,
+1,9:37,4,1,LAC 46,7,0,Philip Rivers up the middle for 1 yard (tackle by DeForest Buckner),-0.320,2.060
+1,9:08,1,10,LAC 47,7,0,Philip Rivers pass complete short right to Melvin Gordon for 13 yards (tackle by Malcolm Smith and Fred Warner),2.060,2.920
+1,8:28,1,10,SFO 40,7,0,Melvin Gordon left end for 3 yards (tackle by Jimmie Ward),2.920,2.780
+1,7:50,2,7,SFO 37,7,0,Melvin Gordon left tackle for 1 yard (tackle by Arik Armstead and Malcolm Smith),2.780,2.210
+1,7:11,3,6,SFO 36,7,0,Philip Rivers pass incomplete deep middle intended for Antonio Gates,2.210,0.880
+1,7:06,4,6,SFO 36,7,0,Caleb Sturgis 54 yard field goal no good,0.880,-1.860
+1,7:01,1,10,SFO 44,7,0,Matt Breida left end for 12 yards,1.860,2.650
+1,6:29,1,10,LAC 44,7,0,"C.J. Beathard pass complete deep middle to Marquise Goodwin for 20 yards (tackle by Trevor Williams). Penalty on Darius Philon: Roughing the Passer, 12 yards",2.650,4.780
+1,6:01,1,10,LAC 12,7,0,C.J. Beathard pass complete short left to Kyle Juszczyk for 5 yards (tackle by Trevor Williams and Jatavis Brown),4.780,5.020
+1,5:21,2,5,LAC 7,7,0,Matt Breida up the middle for 5 yards (tackle by Jahleel Addae and Trevor Williams),5.020,6.740
+1,4:39,,,,,,Timeout #1 by San Francisco 49ers,,
+1,4:39,1,2,LAC 2,7,0,Alfred Morris up the middle for no gain (tackle by Denzel Perryman and Rayshawn Jenkins),6.740,5.720
+1,3:57,2,2,LAC 2,13,0,"C.J. Beathard pass complete short middle to Kendrick Bourne for 2 yards, touchdown",5.720,7.000
+1,3:53,,,LAC 15,14,0,Robbie Gould kicks extra point good,0.000,0.000
+1,3:53,,,SFO 35,14,0,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+1,3:53,1,10,LAC 25,14,0,Philip Rivers pass complete deep right to Keenan Allen for 18 yards (tackle by Ahkello Witherspoon),0.610,1.800
+1,3:18,1,10,LAC 43,14,0,Philip Rivers pass complete short left to Antonio Gates for 22 yards (tackle by Solomon Thomas),1.800,3.250
+1,2:36,1,10,SFO 35,14,0,Philip Rivers pass complete short middle to Melvin Gordon for 5 yards (tackle by Reuben Foster),3.250,3.380
+1,1:55,2,5,SFO 30,14,0,"Philip Rivers pass complete short middle to Tyrell Williams for 22 yards (tackle by K'Waun Williams). Penalty on K'Waun Williams: Face Mask (15 Yards), 4 yards",3.380,6.280
+1,1:37,1,4,SFO 4,14,0,Philip Rivers pass complete short right to Virgil Green for -1 yards (tackle by Malcolm Smith),6.280,5.150
+1,0:52,2,5,SFO 5,14,0,Philip Rivers pass incomplete short middle intended for Keenan Allen (defended by Antone Exum),5.150,4.260
+1,0:48,3,5,SFO 5,14,6,"Philip Rivers pass complete short right to Antonio Gates for 5 yards, touchdown",4.260,7.000
+1,0:43,,,SFO 15,14,6,Caleb Sturgis kicks extra point no good wide right,0.000,-1.000
+1,0:43,,,LAC 35,14,6,"Caleb Sturgis kicks off 65 yards, touchback.",0.000,0.610
+1,0:43,1,10,SFO 25,14,6,C.J. Beathard pass complete short left to George Kittle for 8 yards (tackle by Jatavis Brown),0.610,1.140
+Quarter,Time,Down,ToGo,Location,SFO,LAC,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,2,SFO 33,14,6,"C.J. Beathard aborted snap, recovered by Matt Breida at SF-32 (tackle by Jatavis Brown)",1.140,0.300
+2,14:12,3,3,SFO 32,14,6,C.J. Beathard pass complete short left to Marquise Goodwin for 4 yards (tackle by Trevor Williams),0.300,1.330
+2,13:34,1,10,SFO 36,14,6,Marquise Goodwin left end for 4 yards (tackle by Kyle Emanuel),1.330,1.330
+2,12:56,2,6,SFO 40,14,6,C.J. Beathard pass incomplete short right intended for Kyle Juszczyk (defended by Jatavis Brown),1.330,0.630
+2,12:50,3,6,SFO 40,14,6,C.J. Beathard pass complete short middle to George Kittle for 6 yards (tackle by Derwin James),0.630,1.990
+2,11:57,1,10,SFO 46,14,6,Alfred Morris left end for 3 yards (tackle by Damion Square),1.990,1.860
+2,11:19,2,7,SFO 49,14,6,Alfred Morris left tackle for 8 yards (tackle by Jatavis Brown),1.860,2.720
+2,10:43,1,10,LAC 43,14,6,C.J. Beathard pass incomplete short left intended for Alfred Morris (defended by Derwin James),2.720,2.180
+2,10:40,2,10,LAC 43,14,6,C.J. Beathard pass incomplete short left intended for Kendrick Bourne (defended by Damion Square),2.180,1.490
+2,10:34,3,10,LAC 43,14,6,"C.J. Beathard pass incomplete deep left intended for Marquise Goodwin. Penalty on Trevor Williams: Illegal Contact, 5 yards (no play)",1.490,3.050
+2,10:27,1,10,LAC 38,14,6,C.J. Beathard pass complete short left to Trent Taylor for 5 yards (tackle by Trevor Williams and Desmond King),3.050,3.180
+2,9:50,2,5,LAC 33,14,6,Matt Breida left tackle for -2 yards (tackle by Damion Square),3.180,2.210
+2,9:08,3,7,LAC 35,14,6,C.J. Beathard pass complete short middle to George Kittle for 13 yards (tackle by Jahleel Addae),2.210,4.110
+2,8:47,1,10,LAC 22,14,6,"C.J. Beathard pass complete short left to Matt Breida for 4 yards (tackle by Darius Philon). Penalty on Garrett Celek: Offensive Holding, 10 yards",4.110,3.710
+2,8:14,1,16,LAC 28,14,6,C.J. Beathard left end for no gain (tackle by Derwin James),3.710,2.750
+2,7:48,2,16,LAC 28,14,6,C.J. Beathard pass complete short middle to Pierre Garcon for 13 yards (tackle by Trevor Williams),2.750,3.930
+2,7:03,3,3,LAC 15,14,6,C.J. Beathard pass complete short right to George Kittle for 7 yards (tackle by Derwin James),3.930,5.370
+2,6:24,1,8,LAC 8,14,6,Matt Breida up the middle for 1 yard (tackle by Justin Jones and Damion Square),5.370,4.760
+2,5:44,2,7,LAC 7,14,6,C.J. Beathard pass complete short left to Pierre Garcon for 4 yards (tackle by Jatavis Brown),4.760,4.720
+2,5:06,3,3,LAC 3,14,6,C.J. Beathard pass incomplete short left intended for George Kittle,4.720,3.040
+2,5:02,4,3,LAC 3,17,6,Robbie Gould 21 yard field goal good,3.040,3.000
+2,4:59,,,SFO 35,17,6,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+2,4:59,1,10,LAC 25,17,6,Philip Rivers pass complete short middle to Keenan Allen for 16 yards (tackle by K'Waun Williams),0.610,1.660
+2,4:28,1,10,LAC 41,17,6,Melvin Gordon up the middle for 4 yards (tackle by Antone Exum and Arik Armstead),1.660,1.660
+2,3:54,2,6,LAC 45,17,6,Philip Rivers pass complete short left to Melvin Gordon for 16 yards (tackle by Antone Exum),1.660,2.980
+2,3:18,1,10,SFO 39,17,6,Austin Ekeler right end for 7 yards (tackle by Ahkello Witherspoon),2.980,3.390
+2,2:43,2,3,SFO 32,17,6,Austin Ekeler left guard for 1 yard (tackle by Fred Warner and Ronald Blair),3.390,2.810
+2,2:03,3,2,SFO 31,17,6,Philip Rivers pass complete short right to Tyrell Williams for 2 yards (tackle by Ahkello Witherspoon),2.810,3.640
+2,1:58,1,10,SFO 29,17,6,Philip Rivers pass complete short middle to Keenan Allen for 3 yards (tackle by K'Waun Williams),3.640,3.510
+2,1:30,2,7,SFO 26,17,6,Melvin Gordon up the middle for 4 yards (tackle by D.J. Jones and Fred Warner),3.510,3.340
+2,0:53,3,3,SFO 22,17,12,"Philip Rivers pass complete deep right to Austin Ekeler for 22 yards, touchdown",3.340,7.000
+2,0:47,,,SFO 2,17,14,"Two Point Attempt: Philip Rivers pass complete to Melvin Gordon, conversion succeeds",0.000,1.000
+2,0:47,,,LAC 35,17,14,"Caleb Sturgis kicks off 65 yards, touchback.",0.000,0.610
+2,0:47,1,10,SFO 25,17,14,C.J. Beathard pass incomplete short middle intended for Trent Taylor,0.610,0.060
+2,0:42,2,10,SFO 25,17,14,C.J. Beathard pass complete short left to Matt Breida for 8 yards,0.060,0.430
+2,0:34,3,2,SFO 33,17,14,C.J. Beathard pass incomplete short right,0.430,-1.180
+2,0:30,,,,,,Timeout #2 by San Francisco 49ers,,
+2,0:30,4,2,SFO 33,17,14,"Bradley Pinion punts 55 yards, returned by Desmond King for 56 yards (tackle by Bradley Pinion)",-1.180,-3.450
+2,0:13,1,10,SFO 32,17,14,Melvin Gordon right end for 2 yards (tackle by Solomon Thomas),3.450,3.170
+2,0:08,2,8,SFO 30,17,14,Philip Rivers pass incomplete short left intended for Tyrell Williams,3.170,2.480
+2,0:04,3,8,SFO 30,17,17,Caleb Sturgis 48 yard field goal good,2.480,3.000
+Quarter,Time,Down,ToGo,Location,SFO,LAC,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,LAC 35,17,17,"Caleb Sturgis kicks off 65 yards, returned by D.J. Reed for no gain (tackle by Nick Dzubnar)",0.000,0.870
+3,14:54,1,10,SFO 29,17,17,Matt Breida up the middle for 3 yards (tackle by Derwin James and Damion Square),0.870,0.730
+3,14:21,2,7,SFO 32,17,17,C.J. Beathard pass incomplete short left intended for Marquise Goodwin,0.730,0.040
+3,14:18,3,7,SFO 32,17,17,C.J. Beathard sacked by Derwin James for -10 yards,0.040,-1.900
+3,13:37,4,17,SFO 22,17,17,"Bradley Pinion punts 50 yards, returned by Desmond King for 21 yards (tackle by Elijah Lee)",-1.900,-2.190
+3,13:23,1,10,LAC 49,17,17,Melvin Gordon left guard for 2 yards (tackle by Fred Warner),2.190,1.920
+3,12:38,2,8,SFO 49,17,17,Philip Rivers pass complete deep left to Tyrell Williams for 24 yards (tackle by D.J. Reed and Jimmie Ward),1.920,3.910
+3,11:55,1,10,SFO 25,17,17,Melvin Gordon up the middle for 13 yards (tackle by Arik Armstead and Jimmie Ward),3.910,4.780
+3,11:29,1,10,SFO 12,17,17,Philip Rivers pass incomplete short right intended for Melvin Gordon,4.780,4.100
+3,11:22,2,10,SFO 12,17,17,Melvin Gordon right tackle for 6 yards (tackle by Earl Mitchell),4.100,4.380
+3,10:40,3,4,SFO 6,17,23,"Philip Rivers pass complete short right to Melvin Gordon for 6 yards, touchdown",4.380,7.000
+3,10:35,,,SFO 15,17,23,Caleb Sturgis kicks extra point no good wide right,0.000,-1.000
+3,10:35,,,LAC 35,17,23,"Caleb Sturgis kicks off 67 yards, returned by D.J. Reed for no gain (tackle by Uchenna Nwosu). Penalty on Garrett Celek: Offensive Holding, 10 yards",0.000,-0.380
+3,10:28,1,10,SFO 10,17,23,C.J. Beathard pass complete short right to Pierre Garcon for 12 yards (tackle by Casey Hayward),-0.380,0.410
+3,10:07,1,10,SFO 22,17,23,C.J. Beathard pass complete deep left to Pierre Garcon for 23 yards (tackle by Jatavis Brown),0.410,1.930
+3,9:43,1,10,SFO 45,17,23,"C.J. Beathard pass complete short middle to Kendrick Bourne for 15 yards (tackle by Casey Hayward). Penalty on Kyle Emanuel: Roughing the Passer, 15 yards",1.930,3.910
+3,9:19,1,10,LAC 25,17,23,"C.J. Beathard pass complete short left to Kyle Juszczyk for 10 yards (tackle by Denzel Perryman). Penalty on Melvin Ingram: Roughing the Passer, 7 yards",3.910,5.370
+3,9:00,1,8,LAC 8,17,23,C.J. Beathard pass short left intended for Garrett Celek is intercepted by Trevor Williams at LAC-2 and returned for 86 yards,5.370,-4.780
+3,8:42,1,10,SFO 12,17,23,Melvin Gordon right guard for 2 yards (tackle by Greg Mabin),4.780,4.450
+3,8:00,2,8,SFO 10,17,23,"Philip Rivers pass complete short right to Melvin Gordon for 3 yards (tackle by Greg Mabin). Melvin Gordon fumbles, ball out of bounds at SF-7 (forced by Greg Mabin)",4.450,4.160
+3,7:52,3,5,SFO 7,17,23,Philip Rivers pass incomplete short right intended for Melvin Gordon,4.160,2.980
+3,7:48,4,5,SFO 7,17,26,Caleb Sturgis 25 yard field goal good,2.980,3.000
+3,7:44,,,LAC 35,17,26,"Caleb Sturgis kicks off 69 yards, returned by D.J. Reed for no gain (tackle by Uchenna Nwosu)",0.000,0.540
+3,7:40,1,10,SFO 24,17,26,C.J. Beathard pass incomplete short middle intended for Marquise Goodwin (defended by Denzel Perryman),0.540,0.000
+3,7:35,2,10,SFO 24,17,26,C.J. Beathard right end for 2 yards (tackle by Derwin James),0.000,-0.430
+3,6:51,3,8,SFO 26,17,26,C.J. Beathard pass complete short left to Trent Taylor for 7 yards (tackle by Trevor Williams),-0.430,-1.180
+3,6:04,4,1,SFO 33,17,26,"Bradley Pinion punts 48 yards, returned by Desmond King for 6 yards (tackle by Tyvis Powell)",-1.180,-0.610
+3,5:54,1,10,LAC 25,17,26,Philip Rivers pass complete short right to Mike Williams for 15 yards (tackle by Greg Mabin),0.610,1.600
+3,5:21,1,10,LAC 40,17,26,Austin Ekeler left guard for 5 yards (tackle by Fred Warner),1.600,1.730
+3,4:37,2,5,LAC 45,17,26,Philip Rivers sacked by Sheldon Day for -8 yards,1.730,-0.030
+3,3:50,3,13,LAC 37,17,26,Philip Rivers pass incomplete short right intended for Tyrell Williams,-0.030,-0.910
+3,3:45,4,13,LAC 37,17,26,"Drew Kaser punts 47 yards, fair catch by Trent Taylor at SF-16",-0.910,0.140
+3,3:37,1,10,SFO 16,17,26,Matt Breida left end for 2 yards (tackle by Melvin Ingram),-0.140,-0.350
+3,2:58,2,8,SFO 18,23,26,"C.J. Beathard pass complete deep right to George Kittle for 82 yards, touchdown, touchdown",-0.350,7.000
+3,2:50,,,LAC 15,24,26,Robbie Gould kicks extra point good,0.000,0.000
+3,2:50,,,SFO 35,24,26,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+3,2:50,1,10,LAC 25,24,26,Melvin Gordon right end for 2 yards (tackle by Arik Armstead),0.610,0.330
+3,2:15,2,8,LAC 27,24,26,Melvin Gordon left end for 13 yards (tackle by Cassius Marsh),0.330,1.600
+3,1:35,1,10,LAC 40,24,26,Philip Rivers pass incomplete short left intended for Austin Ekeler (defended by Antone Exum),1.600,1.050
+3,1:30,2,10,LAC 40,24,26,Philip Rivers pass incomplete deep right intended for Mike Williams,1.050,0.370
+3,1:23,3,10,LAC 40,24,26,Philip Rivers pass incomplete short right intended for Keenan Allen,0.370,-0.720
+3,1:17,4,10,LAC 40,24,26,"Drew Kaser punts 42 yards, returned by Trent Taylor for 8 yards (tackle by Austin Ekeler). Penalty on Nick Dzubnar: Offensive Holding, 10 yards",-0.720,-1.330
+3,1:07,1,10,SFO 36,24,26,C.J. Beathard pass incomplete short right intended for Pierre Garcon (defended by Casey Hayward),1.330,0.790
+3,0:58,2,10,SFO 36,24,26,C.J. Beathard left end for 9 yards (tackle by Derwin James and Jatavis Brown),0.790,1.290
+3,0:22,3,1,SFO 45,24,26,C.J. Beathard up the middle for 2 yards (tackle by Damion Square),1.290,2.060
+Quarter,Time,Down,ToGo,Location,SFO,LAC,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,SFO 47,24,26,Matt Breida up the middle for 12 yards (tackle by Casey Hayward),2.060,2.850
+4,14:30,1,10,LAC 41,24,26,C.J. Beathard pass complete deep middle to Kendrick Bourne for 17 yards (tackle by Jatavis Brown),2.850,3.970
+4,13:54,1,10,LAC 24,24,26,C.J. Beathard up the middle for 2 yards (tackle by Justin Jones),3.970,3.700
+4,13:39,2,8,LAC 22,24,26,Alfred Morris up the middle for 3 yards (tackle by Denzel Perryman),3.700,3.410
+4,13:01,3,5,LAC 19,24,26,C.J. Beathard right end for 4 yards (tackle by Casey Hayward),3.410,2.590
+4,12:43,4,1,LAC 15,27,26,Robbie Gould 33 yard field goal good,2.590,3.000
+4,12:39,,,SFO 35,27,26,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+4,12:39,1,10,LAC 25,27,26,Philip Rivers pass complete short middle to Keenan Allen for 8 yards (tackle by K'Waun Williams),0.610,1.140
+4,12:04,2,2,LAC 33,27,26,Philip Rivers pass complete short left to Keenan Allen for 11 yards (tackle by Ahkello Witherspoon),1.140,1.860
+4,11:24,1,10,LAC 44,27,26,Austin Ekeler left end for 11 yards (tackle by Reuben Foster and Greg Mabin),1.860,2.590
+4,10:38,1,10,SFO 45,27,26,Philip Rivers pass complete short middle to Melvin Gordon for 7 yards (tackle by Reuben Foster),2.590,2.990
+4,10:01,2,3,SFO 38,27,26,Melvin Gordon left end for 34 yards (tackle by K'Waun Williams),2.990,6.280
+4,9:13,1,4,SFO 4,27,26,Austin Ekeler left end for -4 yards (tackle by Reuben Foster and Ronald Blair),6.280,4.570
+4,8:31,2,8,SFO 8,27,26,Philip Rivers pass complete short right to Melvin Gordon for 5 yards (tackle by Fred Warner and Malcolm Smith),4.570,4.720
+4,7:47,3,3,SFO 3,27,26,Philip Rivers pass incomplete short left intended for Antonio Gates,4.720,3.040
+4,7:44,4,3,SFO 3,27,29,Caleb Sturgis 21 yard field goal good,3.040,3.000
+4,7:41,,,LAC 35,27,29,"Caleb Sturgis kicks off 60 yards, returned by D.J. Reed for no gain (tackle by Michael Davis). D.J. Reed fumbles, ball out of bounds at SF-17 (forced by Michael Davis)",0.000,-0.060
+4,7:35,1,10,SFO 17,27,29,Matt Breida up the middle for 7 yards (tackle by Kyle Emanuel),-0.060,0.480
+4,7:10,2,3,SFO 24,27,29,C.J. Beathard pass incomplete deep left intended for George Kittle (defended by Derwin James),0.480,-0.370
+4,7:03,3,3,SFO 24,27,29,C.J. Beathard pass incomplete short middle intended for Pierre Garcon (defended by Casey Hayward),-0.370,-1.770
+4,6:58,4,3,SFO 24,27,29,"Bradley Pinion punts 37 yards, fair catch by Desmond King at LAC-39",-1.770,-1.530
+4,6:50,1,10,LAC 39,27,29,Melvin Gordon right end for 15 yards (tackle by Fred Warner),1.530,2.520
+4,6:10,1,10,SFO 46,27,29,Austin Ekeler left tackle for -1 yards (tackle by Earl Mitchell),2.520,1.840
+4,5:27,2,11,SFO 47,27,29,Philip Rivers pass complete short right to Austin Ekeler for 9 yards (tackle by D.J. Reed),1.840,2.350
+4,4:45,3,2,SFO 38,27,29,Austin Ekeler up the middle for 1 yard (tackle by Antone Exum),2.350,0.790
+4,3:59,,,,,,Timeout #1 by Los Angeles Chargers,,
+4,3:57,4,1,SFO 37,27,29,Drew Kaser punts 30 yards downed by Austin Ekeler,0.790,0.380
+4,3:49,1,10,SFO 7,27,29,C.J. Beathard pass complete short left to Matt Breida for 20 yards (tackle by Darius Philon),-0.380,0.740
+4,3:20,1,10,SFO 27,27,29,C.J. Beathard pass complete short left to Alfred Morris for 4 yards (tackle by Denzel Perryman and Desmond King),0.740,0.740
+4,2:38,2,6,SFO 31,27,29,C.J. Beathard pass short left intended for Alfred Morris is intercepted by Isaac Rochell at SF-23 and returned for 4 yards,0.740,-4.310
+4,2:31,1,10,SFO 19,27,29,Austin Ekeler right end for 5 yards (tackle by Fred Warner and Reuben Foster),4.310,4.530
+4,2:25,,,,,,Timeout #3 by San Francisco 49ers,,
+4,2:25,2,5,SFO 14,27,29,Philip Rivers pass complete short right to Virgil Green for 10 yards (tackle by Fred Warner and Malcolm Smith),4.530,6.280
+4,2:00,1,4,SFO 4,27,29,Philip Rivers kneels for -2 yards,6.280,4.950
+4,1:18,2,6,SFO 6,27,29,Philip Rivers kneels for -1 yards,4.950,3.810
+4,0:38,3,7,SFO 7,27,29,Philip Rivers kneels for -1 yards,3.810,2.950
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

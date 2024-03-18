@@ -1,0 +1,215 @@
+Quarter,Time,Down,ToGo,Location,DAL,SEA,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Cowboys won the coin toss and deferred, Seahawks to receive the opening kickoff.",,
+1,15:00,,,DAL 35,0,0,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,SEA 25,0,0,Russell Wilson pass incomplete short left intended for D.K. Metcalf (defended by Aldon Smith),0.610,0.060
+1,14:58,2,10,SEA 25,0,0,Russell Wilson sacked by Aldon Smith for -6 yards,0.060,-1.510
+1,14:22,3,16,SEA 19,0,0,Travis Homer right guard for 12 yards (tackle by Jaylon Smith and Xavier Woods),-1.510,-1.310
+1,13:42,4,4,SEA 31,0,0,"Michael Dickson punts 56 yards, returned by CeeDee Lamb for 7 yards (tackle by Travis Homer)",-1.310,-0.280
+1,13:30,1,10,DAL 20,0,0,Dak Prescott pass complete short middle to Amari Cooper for 6 yards (tackle by Tre Flowers),0.280,0.540
+1,13:00,2,4,DAL 26,0,0,Dak Prescott pass incomplete short middle intended for Amari Cooper (defended by Benson Mayowa),0.540,-0.160
+1,12:56,3,4,DAL 26,0,0,Dak Prescott pass complete short right to CeeDee Lamb for 5 yards (tackle by Shaquill Griffin),-0.160,1.000
+1,12:14,1,10,DAL 31,0,0,Dak Prescott pass complete short left to Michael Gallup for 4 yards (tackle by K.J. Wright),1.000,1.000
+1,11:44,2,6,DAL 35,0,0,Dak Prescott pass incomplete short left intended for CeeDee Lamb (defended by Tre Flowers),1.000,0.300
+1,11:40,3,6,DAL 35,0,0,Dak Prescott pass complete short middle to Amari Cooper for 7 yards (tackle by Shaquill Griffin),0.300,1.730
+1,11:04,,,,,,Timeout #1 by Seattle Seahawks,,
+1,11:04,1,10,DAL 42,0,0,Ezekiel Elliott right tackle for 7 yards (tackle by Quandre Diggs and Anthony Rush),1.730,2.130
+1,10:30,2,3,DAL 49,0,0,Ezekiel Elliott left end for -3 yards (tackle by Alton Robinson),2.130,1.030
+1,9:51,3,6,DAL 46,0,0,Dak Prescott pass complete short middle to Dalton Schultz for 28 yards (tackle by Quandre Diggs),1.030,3.840
+1,9:04,1,10,SEA 26,0,0,Ezekiel Elliott right guard for 1 yard (tackle by Bobby Wagner and Jamal Adams),3.840,3.430
+1,8:22,2,9,SEA 25,0,0,Dak Prescott pass incomplete short left intended for CeeDee Lamb,3.430,2.740
+1,8:19,3,9,SEA 25,0,0,Dak Prescott pass incomplete deep middle intended for Dalton Schultz (defended by Ugo Amadi),2.740,1.800
+1,8:14,4,9,SEA 25,3,0,Greg Zuerlein 43 yard field goal good,1.800,3.000
+1,8:10,,,DAL 35,3,0,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+1,8:10,1,10,SEA 25,3,0,Chris Carson right guard for 2 yards (tackle by Everson Griffen and Tyrone Crawford),0.610,0.330
+1,7:42,2,8,SEA 27,3,0,Russell Wilson pass complete short right to Tyler Lockett for 7 yards (tackle by Joe Thomas),0.330,0.560
+1,7:04,3,1,SEA 34,3,0,Chris Carson left end for 23 yards (tackle by Xavier Woods),0.560,2.720
+1,6:46,1,10,DAL 43,3,6,"Russell Wilson pass complete deep middle to Tyler Lockett for 43 yards, touchdown",2.720,7.000
+1,6:39,,,DAL 15,3,7,Jason Myers kicks extra point good,0.000,0.000
+1,6:39,,,SEA 35,3,7,"Jason Myers kicks off 67 yards, muffed catch by Tony Pollard returned by Tony Pollard for no gain (tackle by Ryan Neal)",0.000,-0.380
+1,6:38,1,10,DAL 1,3,9,"Ezekiel Elliott left end for -1 yards (tackle by Bryan Mone), safety.",-0.380,-2.000
+1,6:36,,,DAL 20,3,9,"Chris Jones kicks off 59 yards, returned by David Moore for 9 yards (tackle by Noah Brown and Justin March-Lillard)",0.000,0.940
+1,6:31,1,10,SEA 30,3,9,Russell Wilson sacked by Aldon Smith for no gain,0.940,0.390
+1,5:50,2,10,SEA 30,3,9,Chris Carson right end for 2 yards (tackle by Dontari Poe),0.390,-0.030
+1,5:04,3,8,SEA 32,3,9,Russell Wilson pass incomplete short middle intended for Travis Homer,-0.030,-1.240
+1,5:00,4,8,SEA 32,3,9,"Michael Dickson punts 52 yards, returned by CeeDee Lamb for 19 yards (tackle by Travis Homer and Jacob Hollister)",-1.240,-1.270
+1,4:47,1,10,DAL 35,3,9,Dak Prescott pass complete short left to Amari Cooper for no gain (tackle by Bobby Wagner),1.270,0.720
+1,4:15,2,10,DAL 35,3,9,Ezekiel Elliott left tackle for 4 yards (tackle by Alton Robinson and Bobby Wagner),0.720,0.560
+1,3:40,3,6,DAL 39,3,9,Dak Prescott pass complete deep middle to CeeDee Lamb for 28 yards (tackle by Quandre Diggs). Penalty on Benson Mayowa: Defensive Offside (Declined),0.560,3.380
+1,3:27,1,10,SEA 33,3,9,Dak Prescott pass incomplete short left intended for Michael Gallup,3.380,2.840
+1,3:24,2,10,SEA 33,3,9,Dak Prescott pass complete deep middle to Amari Cooper for 28 yards (tackle by Quandre Diggs),2.840,6.060
+1,2:51,1,5,SEA 5,3,9,Ezekiel Elliott left guard for 4 yards (tackle by Bobby Wagner),6.060,5.910
+1,2:17,,,,,,Timeout #2 by Seattle Seahawks,,
+1,2:17,2,1,SEA 1,3,9,Ezekiel Elliott up the middle for no gain (tackle by Poona Ford),5.910,5.170
+1,1:44,3,1,SEA 1,9,9,"Ezekiel Elliott left tackle for 1 yard, touchdown",5.170,7.000
+1,1:40,,,SEA 15,9,9,Greg Zuerlein kicks extra point no good hit right upright,0.000,-1.000
+1,1:40,,,DAL 35,9,9,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+1,1:40,1,10,SEA 25,9,9,Russell Wilson pass complete short middle to Freddie Swain for 13 yards (tackle by Trevon Diggs and Joe Thomas),0.610,1.470
+1,1:02,1,10,SEA 38,9,9,Russell Wilson right end for -1 yards (tackle by Jourdan Lewis),1.470,0.790
+1,0:22,2,11,SEA 37,9,9,"Russell Wilson pass complete deep middle to D.K. Metcalf for 62 yards (tackle by Trevon Diggs). D.K. Metcalf fumbles, ball out of bounds at DAL-1 (forced by Trevon Diggs)",0.790,-0.280
+1,0:12,1,10,DAL 20,9,9,Dak Prescott pass incomplete short left intended for Ezekiel Elliott,0.280,-0.270
+1,0:07,2,10,DAL 20,9,9,Dak Prescott pass incomplete short left intended for Michael Gallup (defended by Jamal Adams),-0.270,-0.960
+1,0:04,3,10,DAL 20,9,9,Dak Prescott pass incomplete deep middle intended for Amari Cooper (defended by Ugo Amadi),-0.960,-2.030
+Quarter,Time,Down,ToGo,Location,DAL,SEA,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,4,10,DAL 20,9,9,"Chris Jones punts 49 yards, muffed catch by David Moore",-2.030,-1.000
+2,14:52,1,10,SEA 31,9,9,Carlos Hyde left guard for 1 yard (tackle by Darian Thompson and Antwaun Woods),1.000,0.600
+2,14:17,2,9,SEA 32,9,9,Carlos Hyde left end for 4 yards (tackle by Antwaun Woods),0.600,0.430
+2,13:34,3,5,SEA 36,9,9,Russell Wilson pass incomplete short right intended for Tyler Lockett,0.430,-0.980
+2,13:30,4,5,SEA 36,9,9,"Michael Dickson punts 64 yards, touchback.",-0.980,-0.280
+2,13:20,1,10,DAL 20,9,9,Ezekiel Elliott left guard for 1 yard (tackle by Ugo Amadi),0.280,-0.130
+2,12:52,2,9,DAL 21,9,9,Dak Prescott pass complete short middle to Tony Pollard for 2 yards,-0.130,-1.690
+2,12:15,3,14,DAL 16,9,9,Dak Prescott up the middle for 7 yards (tackle by K.J. Wright),-1.690,-1.830
+2,11:38,4,7,DAL 23,9,9,"Chris Jones punts 48 yards, fair catch by David Moore at SEA-29",-1.830,-0.870
+2,11:31,1,10,SEA 29,9,9,Russell Wilson pass complete short right to Tyler Lockett for 4 yards (tackle by Trevon Diggs),0.870,0.870
+2,10:58,2,6,SEA 33,9,9,Chris Carson right guard for 11 yards (tackle by Xavier Woods),0.870,1.860
+2,10:29,1,10,SEA 44,9,9,Russell Wilson pass incomplete short right intended for Tyler Lockett,1.860,1.320
+2,10:24,2,10,SEA 44,9,9,Russell Wilson pass complete short right to D.K. Metcalf for 10 yards (tackle by Trevon Diggs),1.320,2.520
+2,9:55,1,10,DAL 46,9,9,Russell Wilson pass incomplete short middle intended for Tyler Lockett,2.520,1.980
+2,9:48,2,10,DAL 46,9,9,Russell Wilson pass incomplete deep right intended for D.K. Metcalf,1.980,1.290
+2,9:42,3,10,DAL 46,9,9,"Russell Wilson sacked by Jourdan Lewis for no gain. Penalty on Daryl Worley: Illegal Contact, 5 yards (no play)",1.290,2.850
+2,9:15,1,10,DAL 41,9,9,Russell Wilson pass complete short middle to David Moore for 2 yards (tackle by Darian Thompson),2.850,2.580
+2,8:42,2,8,DAL 39,9,9,Russell Wilson pass complete short middle to Tyler Lockett for 15 yards (tackle by Joe Thomas),2.580,3.970
+2,8:17,1,10,DAL 24,9,9,Russell Wilson right end for 1 yard (tackle by Jaylon Smith),3.970,3.570
+2,7:37,2,9,DAL 23,9,9,"Russell Wilson pass deep middle is intercepted by Daryl Worley at DAL-1 and returned for no gain. Penalty on Jourdan Lewis: Defensive Pass Interference, 8 yards (no play)",3.570,4.580
+2,7:33,1,10,DAL 15,9,9,"Russell Wilson pass incomplete short middle intended for Greg Olsen (defended by Brandon Carr). Penalty on Brandon Carr: Defensive Pass Interference, 14 yards (no play)",4.580,6.970
+2,7:25,1,1,DAL 1,9,9,Chris Carson left end for no gain (tackle by Brandon Carr),6.970,5.910
+2,6:56,2,1,DAL 1,9,15,"Russell Wilson pass complete short right to Tyler Lockett for 1 yard, touchdown",5.910,7.000
+2,6:53,,,DAL 15,9,16,Jason Myers kicks extra point good,0.000,0.000
+2,6:53,,,SEA 35,9,16,"Jason Myers kicks off 65 yards, touchback.",0.000,0.610
+2,6:53,1,10,DAL 25,9,16,Dak Prescott pass complete short middle to Amari Cooper for 13 yards (tackle by Tre Flowers),0.610,1.470
+2,6:24,1,10,DAL 38,9,16,Dak Prescott pass complete short right to Amari Cooper for 22 yards (tackle by Shaquill Griffin). Penalty on Tre Flowers: Defensive Holding (Declined),1.470,2.920
+2,6:15,1,10,SEA 40,15,16,"Dak Prescott pass complete short middle to Cedrick Wilson for 40 yards, touchdown",2.920,7.000
+2,6:05,,,SEA 15,15,16,Greg Zuerlein kicks extra point blocked by Tre Flowers,0.000,-1.000
+2,6:05,,,DAL 35,15,16,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+2,6:05,1,10,SEA 25,15,16,Chris Carson left guard for 9 yards (tackle by Trevon Diggs),0.610,1.280
+2,5:44,2,1,SEA 34,15,16,Chris Carson up the middle for 1 yard (tackle by DeMarcus Lawrence and Joe Thomas),1.280,1.270
+2,5:04,1,10,SEA 35,15,16,Russell Wilson pass complete short right to Chris Carson for 2 yards (tackle by Trevon Diggs),1.270,0.990
+2,4:21,2,8,SEA 37,15,16,Russell Wilson pass complete short left to Greg Olsen for 5 yards (tackle by Daryl Worley),0.990,0.960
+2,3:37,3,3,SEA 42,15,16,"Russell Wilson sacked by Joe Thomas for no gain. Russell Wilson fumbles (forced by Joe Thomas). Penalty on Jourdan Lewis: Defensive Holding, 5 yards (no play)",0.960,2.060
+2,3:09,1,10,SEA 47,15,16,Chris Carson left end for 4 yards (tackle by Daryl Worley),2.060,2.060
+2,2:28,2,6,DAL 49,15,16,Chris Carson right tackle for -1 yards (tackle by Jaylon Smith and Dorance Armstrong),2.060,1.220
+2,2:00,3,7,SEA 50,15,16,"Penalty on Jamarco Jones: False Start, 5 yards (no play)",1.220,0.560
+2,2:00,3,12,SEA 45,15,16,Russell Wilson up the middle for 8 yards (tackle by Jaylon Smith and Xavier Woods),0.560,0.130
+2,1:10,4,4,DAL 47,15,16,"Penalty on SEA: Delay of Game, 5 yards (no play)",0.130,-0.190
+2,1:10,4,9,SEA 48,15,16,"Michael Dickson punts 52 yards, touchback.",-0.190,-0.280
+2,1:03,1,10,DAL 20,15,16,Dak Prescott pass complete short right to Amari Cooper for 5 yards (tackle by Shaquill Griffin),0.280,0.410
+2,0:45,2,5,DAL 25,15,16,Dak Prescott pass short right intended for Amari Cooper is intercepted by Shaquill Griffin at DAL-36 and returned for 2 yards,0.410,-3.310
+2,0:36,1,10,DAL 34,15,16,Russell Wilson pass complete short right to D.K. Metcalf for 9 yards (tackle by Trevon Diggs),3.310,3.990
+2,0:29,,,,,,Timeout #3 by Seattle Seahawks,,
+2,0:29,2,1,DAL 25,15,16,Russell Wilson pass complete short right to Greg Olsen for 8 yards,3.990,4.440
+2,0:23,1,10,DAL 17,15,16,Russell Wilson pass incomplete short right intended for Tyler Lockett,4.440,3.850
+2,0:18,2,10,DAL 17,15,16,Russell Wilson pass complete deep right to Greg Olsen for 16 yards. Penalty on Jaylon Smith: Illegal Contact (Declined),3.850,6.970
+2,0:12,,,,,,Timeout #1 by Dallas Cowboys,,
+2,0:11,1,1,DAL 1,15,22,"Russell Wilson pass complete short left to Tyler Lockett for 1 yard, touchdown",6.970,7.000
+2,0:07,,,DAL 15,15,23,Jason Myers kicks extra point good,0.000,0.000
+2,0:07,,,SEA 35,15,23,"Jason Myers kicks off 65 yards, touchback.",0.000,0.610
+2,0:07,1,10,DAL 25,15,23,Dak Prescott kneels for -1 yards,0.610,-0.070
+Quarter,Time,Down,ToGo,Location,DAL,SEA,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,SEA 35,15,23,"Jason Myers kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,DAL 25,15,23,"Dak Prescott sacked by Jarran Reed for -7 yards. Dak Prescott fumbles (forced by Jarran Reed), recovered by Benson Mayowa at DAL-18 and returned for 13 yards (tackle by Brandon Knight)",0.610,-6.060
+3,14:52,1,5,DAL 5,15,23,Chris Carson right end for 4 yards (tackle by Joe Thomas and Jaylon Smith),6.060,5.910
+3,14:17,2,1,DAL 1,15,29,"Russell Wilson pass complete short right to Jacob Hollister for 1 yard, touchdown",5.910,7.000
+3,14:14,,,DAL 15,15,30,Jason Myers kicks extra point good,0.000,0.000
+3,14:14,,,SEA 35,15,30,"Jason Myers kicks off 65 yards, touchback.",0.000,0.610
+3,14:14,1,10,DAL 25,15,30,Dak Prescott pass complete short middle to Dalton Schultz for 10 yards (tackle by Jamal Adams and Tre Flowers),0.610,1.270
+3,13:47,1,10,DAL 35,15,30,Ezekiel Elliott right guard for 3 yards (tackle by Jarran Reed and Bobby Wagner),1.270,1.130
+3,13:14,2,7,DAL 38,15,30,Dak Prescott pass complete short right to Ezekiel Elliott for -4 yards (tackle by K.J. Wright),1.130,-0.100
+3,12:39,3,11,DAL 34,15,30,Dak Prescott pass complete short right to Michael Gallup for 10 yards (tackle by Shaquill Griffin),-0.100,-0.460
+3,11:58,4,1,DAL 44,15,30,Ezekiel Elliott right guard for 1 yard (tackle by K.J. Wright and Bobby Wagner),-0.460,1.930
+3,11:45,1,10,DAL 45,15,30,Dak Prescott pass incomplete short right intended for Ezekiel Elliott,1.930,1.380
+3,11:41,2,10,DAL 45,15,30,Dak Prescott pass incomplete short right intended for Ezekiel Elliott,1.380,0.700
+3,11:37,3,10,DAL 45,15,30,Dak Prescott pass complete short left to Amari Cooper for 1 yard (tackle by Ugo Amadi),0.700,-0.320
+3,10:49,4,9,DAL 46,15,30,"Penalty on DAL: Delay of Game, 5 yards (no play)",-0.320,-0.650
+3,10:40,4,14,DAL 41,15,30,"Chris Jones punts 42 yards, fair catch by David Moore at SEA-17",-0.650,0.060
+3,10:34,1,10,SEA 17,15,30,Russell Wilson pass complete short right to Will Dissly for -1 yards (tackle by Jourdan Lewis),-0.060,-0.730
+3,9:48,2,11,SEA 16,15,30,Chris Carson left end for 5 yards (tackle by Joe Thomas and Daryl Worley),-0.730,-0.750
+3,9:04,3,6,SEA 21,15,30,Russell Wilson pass complete short left to Tyler Lockett for 8 yards,-0.750,0.870
+3,8:38,1,10,SEA 29,15,30,Chris Carson right end for no gain (tackle by DeMarcus Lawrence),0.870,0.330
+3,7:59,2,10,SEA 29,15,30,Russell Wilson up the middle for 2 yards (tackle by Jaylon Smith),0.330,-0.100
+3,7:12,3,8,SEA 31,15,30,Russell Wilson sacked by Aldon Smith for -4 yards,-0.100,-1.570
+3,6:38,4,12,SEA 27,15,30,"Michael Dickson punts 67 yards, returned by CeeDee Lamb for 6 yards (tackle by Nick Bellore). Penalty on Saivion Smith: Illegal Block Above the Waist, 6 yards",-1.570,0.380
+3,6:26,1,10,DAL 6,15,30,Dak Prescott pass complete deep right to Michael Gallup for 52 yards (tackle by Shaquill Griffin),-0.380,2.790
+3,6:00,1,10,SEA 42,15,30,Dak Prescott pass incomplete short left intended for Ezekiel Elliott,2.790,2.240
+3,5:55,2,10,SEA 42,21,30,"Dak Prescott pass complete deep middle to Cedrick Wilson for 42 yards, touchdown. Penalty on Tre Flowers: Illegal Contact (Declined)",2.240,7.000
+3,5:47,,,SEA 15,22,30,Greg Zuerlein kicks extra point good,0.000,0.000
+3,5:47,,,DAL 35,22,30,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+3,5:47,1,10,SEA 25,22,30,Russell Wilson pass complete short left to Carlos Hyde for 11 yards (tackle by Darian Thompson),0.610,1.330
+3,5:14,1,10,SEA 36,22,30,Russell Wilson pass incomplete short right,1.330,0.790
+3,5:04,2,10,SEA 36,22,30,Russell Wilson pass incomplete deep right intended for Jacob Hollister (defended by Jourdan Lewis),0.790,0.100
+3,4:57,3,10,SEA 36,22,30,Russell Wilson pass complete deep middle to Tyler Lockett for 16 yards (tackle by Darian Thompson),0.100,2.390
+3,4:14,1,10,DAL 48,22,30,"Carlos Hyde right tackle for 3 yards (tackle by Trevon Diggs). Penalty on Brandon Shell: Offensive Holding, 10 yards",2.390,1.930
+3,3:46,1,17,SEA 45,22,30,Russell Wilson pass complete short right to Will Dissly for 6 yards (tackle by Jourdan Lewis),1.930,1.710
+3,3:01,2,11,DAL 49,22,30,Carlos Hyde up the middle for 4 yards (tackle by Joe Thomas),1.710,1.550
+3,2:17,3,7,DAL 45,22,30,Russell Wilson sacked by Antwaun Woods for -10 yards,1.550,-0.390
+3,1:37,4,17,SEA 45,22,30,"Michael Dickson punts 45 yards, returned by Cedrick Wilson for 1 yard (tackle by Ryan Neal)",-0.390,0.370
+3,1:29,1,10,DAL 11,22,30,Dak Prescott pass complete deep right to CeeDee Lamb for 20 yards (tackle by Quandre Diggs),-0.370,1.000
+3,1:04,1,10,DAL 31,22,30,Ezekiel Elliott right guard for 2 yards (tackle by K.J. Wright),1.000,0.730
+3,0:23,2,8,DAL 33,22,30,Dak Prescott pass complete short left to CeeDee Lamb for 10 yards (tackle by Quandre Diggs),0.730,1.800
+Quarter,Time,Down,ToGo,Location,DAL,SEA,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,DAL 43,22,30,Dak Prescott pass incomplete short left intended for Ezekiel Elliott,1.800,1.250
+4,14:55,2,10,DAL 43,22,30,Dak Prescott pass complete short left to Noah Brown for 9 yards (tackle by Tre Flowers),1.250,1.750
+4,14:31,3,1,SEA 48,22,30,Dak Prescott pass incomplete short right intended for Blake Bell,1.750,0.070
+4,14:29,4,1,SEA 48,22,30,Dak Prescott left end for 2 yards (tackle by K.J. Wright),0.070,2.520
+4,13:56,1,10,SEA 46,22,30,Dak Prescott left end for 3 yards (tackle by Bobby Wagner),2.520,2.380
+4,13:13,2,7,SEA 43,28,30,"Dak Prescott pass complete deep left to Michael Gallup for 43 yards, touchdown",2.380,7.000
+4,13:07,,,SEA 2,28,30,"Two Point Attempt: Dak Prescott pass complete to Noah Brown, conversion fails",1.000,-1.000
+4,13:07,,,DAL 35,28,30,"Greg Zuerlein kicks off 60 yards, returned by Travis Homer for 17 yards (tackle by Donovan Wilson)",0.000,0.410
+4,13:01,1,10,SEA 22,28,30,Russell Wilson pass incomplete short left intended for Greg Olsen,0.410,-0.130
+4,12:57,2,10,SEA 22,28,30,Russell Wilson pass complete short left to Chris Carson for 6 yards (tackle by Joe Thomas),-0.130,-0.030
+4,12:24,3,4,SEA 28,28,30,Russell Wilson left end for 13 yards (tackle by Jaylon Smith),-0.030,1.660
+4,11:44,1,10,SEA 41,28,30,Chris Carson right guard for 2 yards (tackle by Jaylon Smith and Dontari Poe),1.660,1.390
+4,11:00,2,8,SEA 43,28,30,Russell Wilson pass complete short left to Chris Carson for 4 yards (tackle by Daryl Worley),1.390,1.220
+4,10:12,3,4,SEA 47,28,30,Russell Wilson pass incomplete deep right intended for D.K. Metcalf (defended by Trevon Diggs),1.220,-0.260
+4,10:05,4,4,SEA 47,28,30,Michael Dickson punts 47 yards downed by Tyler Ott,-0.260,0.380
+4,9:54,1,10,DAL 6,28,30,"CeeDee Lamb right end for 1 yard (tackle by Benson Mayowa). Penalty on Jarran Reed: Defensive Holding, 5 yards",-0.380,-0.350
+4,9:37,1,10,DAL 12,28,30,Dak Prescott pass incomplete short middle intended for CeeDee Lamb (defended by Bobby Wagner),-0.350,-0.780
+4,9:33,2,10,DAL 12,28,30,Dak Prescott pass complete short left to Michael Gallup for 19 yards (tackle by Ugo Amadi),-0.780,1.000
+4,9:03,1,10,DAL 31,28,30,Ezekiel Elliott right end for 9 yards (tackle by Ryan Neal),1.000,1.680
+4,8:36,2,1,DAL 40,28,30,Dak Prescott pass complete short left to Ezekiel Elliott for -2 yards (tackle by K.J. Wright),1.680,0.700
+4,7:54,3,3,DAL 38,28,30,"Penalty on Connor Williams: False Start, 5 yards (no play)",0.700,0.040
+4,7:54,3,8,DAL 33,28,30,Dak Prescott pass complete short left to Michael Gallup for 10 yards,0.040,1.800
+4,7:35,1,10,DAL 43,28,30,Dak Prescott pass complete short right to Cedrick Wilson for 8 yards (tackle by Shaquill Griffin),1.800,2.330
+4,7:04,2,2,SEA 49,28,30,Dak Prescott pass complete short left to Cedrick Wilson for 3 yards (tackle by Ugo Amadi),2.330,2.520
+4,6:24,1,10,SEA 46,28,30,Dak Prescott left end for 9 yards (tackle by Bobby Wagner),2.520,3.190
+4,5:44,2,1,SEA 37,28,30,Ezekiel Elliott right guard for 5 yards (tackle by Bryan Mone and Bobby Wagner),3.190,3.450
+4,5:04,1,10,SEA 32,28,30,Dak Prescott pass complete short left to Ezekiel Elliott for 6 yards (tackle by Ryan Neal),3.450,3.710
+4,4:23,2,4,SEA 26,28,30,Dak Prescott pass incomplete deep right intended for Cedrick Wilson,3.710,3.010
+4,4:19,3,4,SEA 26,28,30,"Penalty on Damontre Moore: Encroachment, 5 yards (no play)",3.010,4.170
+4,4:19,1,10,SEA 21,28,30,"Penalty on Cedrick Wilson: False Start, 5 yards (no play)",4.170,3.840
+4,4:19,1,15,SEA 26,28,30,Dak Prescott pass complete short right to CeeDee Lamb for 2 yards (tackle by Shaquill Griffin),3.840,3.220
+4,4:13,2,13,SEA 24,28,30,Dak Prescott pass incomplete deep right intended for Noah Brown,3.220,2.540
+4,4:08,3,13,SEA 24,28,30,Dak Prescott pass incomplete deep right intended for Michael Gallup,2.540,1.870
+4,4:03,4,13,SEA 24,31,30,Greg Zuerlein 42 yard field goal good,1.870,3.000
+4,3:59,,,DAL 35,31,30,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+4,3:59,1,10,SEA 25,31,30,Russell Wilson pass complete short right to Greg Olsen for 21 yards (tackle by Trevon Diggs),0.610,1.990
+4,3:15,1,10,SEA 46,31,30,Russell Wilson pass complete short right to Tyler Lockett for 5 yards,1.990,2.130
+4,3:14,2,5,DAL 49,31,30,Chris Carson left guard for 2 yards (tackle by Trysten Hill),2.130,1.690
+4,2:40,3,3,DAL 47,31,30,Russell Wilson pass incomplete short right intended for D.K. Metcalf,1.690,0.130
+4,2:37,4,3,DAL 47,31,30,Russell Wilson pass complete short middle to Greg Olsen for 11 yards (tackle by Xavier Woods),0.130,3.180
+4,2:18,1,10,DAL 36,31,30,Travis Homer right guard for 7 yards (tackle by Aldon Smith),3.180,3.580
+4,2:00,2,3,DAL 29,31,30,Russell Wilson pass incomplete short right,3.580,2.870
+4,1:55,3,3,DAL 29,31,36,"Russell Wilson pass complete deep right to D.K. Metcalf for 29 yards, touchdown",2.870,7.000
+4,1:47,,,,,,Timeout #1 by Seattle Seahawks,,
+4,1:47,,,DAL 2,31,36,"Two Point Attempt: Russell Wilson pass incomplete intended for Greg Olsen, conversion fails. Penalty on Trysten Hill: Roughing the Passer, 1 yard (no play)",1.000,1.000
+4,1:47,,,DAL 1,31,38,"Two Point Attempt: Russell Wilson pass complete to Jacob Hollister, conversion succeeds",1.000,1.000
+4,1:47,,,SEA 35,31,38,"Jason Myers kicks off 65 yards, touchback.",0.000,0.610
+4,1:47,1,10,DAL 25,31,38,Dak Prescott pass complete short middle to Ezekiel Elliott for 10 yards (tackle by Ugo Amadi and K.J. Wright),0.610,1.270
+4,1:28,1,10,DAL 35,31,38,Dak Prescott pass complete short right to Ezekiel Elliott for 6 yards (tackle by Shaquill Griffin),1.270,1.530
+4,1:22,2,4,DAL 41,31,38,Dak Prescott right end for 6 yards (tackle by Shaquill Griffin),1.530,2.060
+4,1:15,1,10,DAL 47,31,38,Dak Prescott pass complete short right to Dalton Schultz for 2 yards (tackle by Shaquill Griffin),2.060,1.790
+4,1:11,2,8,DAL 49,31,38,Dak Prescott pass complete short left to Amari Cooper for 4 yards (tackle by Ugo Amadi),1.790,1.620
+4,0:48,3,4,SEA 47,31,38,Dak Prescott pass complete short left to Dalton Schultz for 8 yards (tackle by K.J. Wright),1.620,2.980
+4,0:43,,,,,,Timeout #1 by Dallas Cowboys,,
+4,0:43,1,10,SEA 39,31,38,Dak Prescott pass complete short middle to Ezekiel Elliott for 8 yards (tackle by Ugo Amadi),2.980,3.520
+4,0:35,,,,,,Timeout #1 by Dallas Cowboys,,
+4,0:35,2,2,SEA 31,31,38,"Dak Prescott pass complete short right to Ezekiel Elliott for -2 yards (tackle by Shaquem Griffin). Penalty on Joe Looney: Ineligible Downfield Pass, 5 yards (no play)",3.520,2.850
+4,0:31,2,7,SEA 36,31,38,Dak Prescott pass complete short left to Cedrick Wilson for 14 yards (tackle by Tre Flowers). Penalty on Damontre Moore: Illegal Use of Hands (Declined),2.850,4.110
+4,0:26,1,10,SEA 22,31,38,Dak Prescott pass incomplete short left intended for Cedrick Wilson (defended by Shaquem Griffin),4.110,3.560
+4,0:22,2,10,SEA 22,31,38,Dak Prescott sacked by Alton Robinson for -4 yards,3.560,2.350
+4,0:16,,,,,,Timeout #3 by Dallas Cowboys,,
+4,0:16,3,14,SEA 26,31,38,Dak Prescott pass is intercepted by Ryan Neal at SEA-0 and returned for no gain,2.350,-0.280
+4,0:06,1,10,SEA 20,31,38,Russell Wilson kneels for -1 yards,0.280,-0.460
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

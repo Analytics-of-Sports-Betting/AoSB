@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,SFO 24,4,1:48,76,Touchdown
+2,1,12:05,SFO 29,7,3:25,66,Fumble
+3,1,4:08,SFO 33,10,5:32,67,Touchdown
+4,2,5:09,SFO 36,12,5:03,64,Touchdown
+5,3,13:51,SDG 47,4,1:19,6,Downs
+6,3,10:52,SFO 11,3,1:37,2,Punt
+7,3,5:49,SFO 22,4,2:23,-20,Fumble
+8,3,3:26,SFO 6,2,1:00,94,Touchdown
+9,3,0:53,SDG 47,3,1:05,3,Punt
+10,4,13:10,SFO 20,7,4:15,33,Punt
+11,4,5:15,SDG 45,3,1:45,4,Punt
+12,4,0:29,SFO 28,6,0:29,30,Missed FG
+13,5,15:00,SFO 30,2,0:54,25,Fumble

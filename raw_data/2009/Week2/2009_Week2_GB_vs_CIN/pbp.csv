@@ -1,0 +1,192 @@
+Quarter,Time,Down,ToGo,Location,CIN,GNB,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Packers won the coin toss, Packers to receive the opening kickoff.",,
+1,15:00,,,CIN 30,0,0,"Shayne Graham kicks off 65 yards, returned by Will Blackmon for 22 yards (tackle by Rashad Jeanty)",0.000,0.740
+1,14:55,1,10,GNB 27,0,0,Aaron Rodgers pass incomplete deep left intended for Jermichael Finley,0.740,0.200
+1,14:48,2,10,GNB 27,0,0,Ryan Grant left end for 3 yards (tackle by Keith Rivers and Dhani Jones),0.200,-0.100
+1,14:04,3,7,GNB 30,0,0,"Aaron Rodgers pass incomplete short middle intended for Donald Driver. Penalty on Chris Crocker: Defensive Pass Interfere, 11 yards (no play)",-0.100,1.660
+1,13:59,1,10,GNB 41,0,0,Ryan Grant right end for 1 yard (tackle by Keith Rivers),1.660,1.260
+1,13:16,2,9,GNB 42,0,0,Aaron Rodgers pass incomplete deep right intended for Jermichael Finley,1.260,0.560
+1,13:10,3,9,GNB 42,0,0,Aaron Rodgers pass incomplete short left intended for Greg Jennings,0.560,-0.590
+1,13:03,4,9,GNB 42,0,0,"Jeremy Kapinos punts 38 yards, returned by Quan Cosby for 12 yards (tackle by Jarrett Bush). Penalty on Spencer Havner: Ineligible Downfield Kic, 5 yards",-0.590,-1.400
+1,12:53,1,10,CIN 37,0,0,Carson Palmer pass complete short middle to John Paul Foschi for 12 yards (tackle by Nick Collins),1.400,2.190
+1,12:12,1,10,CIN 49,0,0,"Penalty on Daniel Coats: False Start, 5 yards (no play)",2.190,1.860
+1,11:53,1,15,CIN 44,0,0,Cedric Benson right tackle for 12 yards (tackle by Aaron Rouse and Nick Collins),1.860,2.590
+1,11:11,2,3,GNB 44,0,0,Cedric Benson left tackle for 12 yards (tackle by Al Harris),2.590,3.450
+1,10:33,1,10,GNB 32,0,0,Carson Palmer pass complete short left to Chad Johnson for 11 yards (tackle by Nick Collins),3.450,4.170
+1,9:56,1,10,GNB 21,0,0,Cedric Benson right end for 12 yards (tackle by Nick Collins),4.170,5.140
+1,9:15,1,9,GNB 9,0,0,Cedric Benson left end for 4 yards (tackle by Nick Collins and Brady Poppinga),5.140,5.150
+1,8:35,2,5,GNB 5,6,0,"Carson Palmer pass complete short middle to Laveranues Coles for 5 yards, touchdown. Penalty on Al Harris: Illegal Use of Hands, 15 yards",5.150,7.000
+1,,,,GNB 2,7,0,Shayne Graham kicks extra point good,0.000,0.000
+1,,,,CIN 45,7,0,"Shayne Graham kicks off 55 yards, touchback",0.000,0.280
+1,8:31,1,10,GNB 20,7,0,Aaron Rodgers pass complete short right to Donald Lee for 6 yards (tackle by Keith Rivers and Johnathan Joseph),0.280,0.540
+1,7:56,2,4,GNB 26,7,0,Ryan Grant left tackle for 8 yards (tackle by Roy Williams),0.540,1.200
+1,7:22,1,10,GNB 34,7,0,Ryan Grant right end for 8 yards (tackle by Roy Williams and Rey Maualuga),1.200,1.740
+1,6:43,2,2,GNB 42,7,0,Aaron Rodgers pass incomplete short right intended for Ryan Grant,1.740,1.030
+1,6:38,3,2,GNB 42,7,0,Aaron Rodgers pass complete short middle to Spencer Havner for 21 yards (tackle by Chris Crocker and Rey Maualuga),1.030,3.120
+1,5:55,1,10,CIN 37,7,0,Ryan Grant right tackle for 2 yards (tackle by Jonathan Fanene and Tank Johnson),3.120,2.840
+1,5:22,2,8,CIN 35,7,0,Aaron Rodgers pass complete short right to Donald Driver for 6 yards (tackle by Johnathan Joseph),2.840,2.940
+1,4:58,3,2,CIN 29,7,0,"Aaron Rodgers pass complete short right to James Jones for 16 yards (tackle by Roy Williams). Penalty on Brandon Johnson: Roughing the Passer, 7 yards",2.940,5.830
+1,4:33,1,6,CIN 6,7,0,Aaron Rodgers left end for 1 yard (tackle by Dhani Jones),5.830,5.150
+1,3:53,2,5,CIN 5,7,0,Ryan Grant left tackle for 2 yards (tackle by Brandon Johnson). Penalty on James Jones: Illegal Formation (Declined),5.150,4.720
+1,3:28,3,3,CIN 3,7,6,"Aaron Rodgers pass complete short right to Donald Driver for 3 yards, touchdown",4.720,7.000
+1,,,,CIN 2,7,7,Mason Crosby kicks extra point good,0.000,0.000
+1,,,,GNB 30,7,7,"Mason Crosby kicks off 72 yards, returned by Andre Caldwell for 19 yards (tackle by Spencer Havner)",0.000,-0.060
+1,3:16,1,10,CIN 17,7,7,Carson Palmer pass incomplete deep right intended for Chad Johnson is intercepted by Charles Woodson at CIN-33 and returned for 22 yards,-0.060,-4.840
+1,3:06,1,10,CIN 11,7,7,Aaron Rodgers pass complete short middle to Ryan Grant for 7 yards (tackle by Dhani Jones),4.840,5.470
+1,2:26,2,3,CIN 4,7,13,"Ryan Grant left guard for 4 yards, touchdown",5.470,7.000
+1,,,,CIN 2,7,14,Mason Crosby kicks extra point good,0.000,0.000
+1,,,,GNB 30,7,14,"Mason Crosby kicks off 70 yards, touchback",0.000,0.280
+1,2:22,1,10,CIN 20,7,14,Cedric Benson right tackle for 3 yards (tackle by Aaron Rouse and Aaron Kampman),0.280,0.140
+1,1:43,2,7,CIN 23,7,14,Cedric Benson left end for 13 yards (tackle by Charles Woodson and Brady Poppinga),0.140,1.330
+1,1:01,1,10,CIN 36,7,14,Carson Palmer pass complete short right to Jeremi Johnson for 9 yards (tackle by A.J. Hawk),1.330,2.010
+1,0:23,2,1,CIN 45,7,14,Cedric Benson right end for 3 yards (tackle by Johnny Jolly and Brandon Chillar),2.010,2.130
+Quarter,Time,Down,ToGo,Location,CIN,GNB,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,CIN 48,7,14,"Penalty on Chad Johnson: False Start, 5 yards (no play)",2.130,1.800
+2,15:00,1,15,CIN 43,7,14,"Cedric Benson right end for 4 yards (tackle by Brandon Chillar). Penalty on Andrew Whitworth: Offensive Holding, 10 yards (no play)",1.800,1.140
+2,14:33,1,25,CIN 33,7,14,Carson Palmer pass incomplete short right intended for Laveranues Coles (defended by Clay Matthews),1.140,-0.440
+2,14:28,2,25,CIN 33,7,14,Carson Palmer pass incomplete short right intended for Chris Henry (defended by Nick Collins),-0.440,-1.090
+2,14:23,3,25,CIN 33,7,14,Carson Palmer pass complete short right to Brian Leonard for 6 yards (tackle by Charles Woodson),-1.090,-0.780
+2,13:53,4,19,CIN 39,7,14,"Kevin Huber punts 61 yards, touchback. Penalty on Desmond Bishop: Offensive Holding, 10 yards",-0.780,0.380
+2,13:45,1,10,GNB 10,7,14,Ryan Grant right end for 8 yards (tackle by Dhani Jones and Johnathan Joseph),-0.380,0.070
+2,13:10,2,2,GNB 18,7,14,Ryan Grant left guard for no gain (tackle by Pat Sims),0.070,-0.480
+2,12:33,3,2,GNB 18,7,14,Ryan Grant right end for no gain (tackle by Domata Peko),-0.480,-2.240
+2,11:54,4,2,GNB 18,7,14,"Penalty on Jarrett Bush: False Start, 5 yards (no play)",-2.240,-2.490
+2,11:42,4,7,GNB 13,7,14,"Jeremy Kapinos punts 53 yards, returned by Quan Cosby for 60 yards (tackle by A.J. Hawk)",-2.490,-5.830
+2,11:25,1,6,GNB 6,7,14,"Cedric Benson right end for 5 yards (tackle by Johnny Jolly). Penalty on Evan Mathis: False Start, 5 yards (no play)",5.830,4.770
+2,11:25,1,11,GNB 11,7,14,Cedric Benson right guard for 8 yards (tackle by Aaron Rouse),4.770,5.530
+2,10:49,2,3,GNB 3,7,14,Cedric Benson right end for 2 yards (tackle by Nick Collins),5.530,5.170
+2,10:25,3,1,GNB 1,13,14,"Carson Palmer middle for 1 yard, touchdown",5.170,7.000
+,,,,,,,"GNB challenged the runner broke the plane ruling, and the play was upheld.",,
+2,,,,GNB 2,14,14,Shayne Graham kicks extra point good,0.000,0.000
+2,,,,CIN 30,14,14,"Shayne Graham kicks off 68 yards, returned by Will Blackmon for 28 yards (tackle by Bernard Scott)",0.000,0.940
+2,10:15,1,10,GNB 30,14,14,"Aaron Rodgers sacked by Rey Maualuga for -9 yards. Aaron Rodgers fumbles (forced by Rey Maualuga), recovered by Allen Barbre at GNB-22",0.940,-0.690
+2,9:30,2,18,GNB 22,14,14,Ryan Grant right guard for 3 yards (tackle by Jonathan Fanene),-0.690,-0.960
+2,8:48,,,,14,14,Timeout #1 by Cincinnati Bengals,0.000,-0.960
+2,8:48,3,15,GNB 25,14,14,"Penalty on Chad Clifton: False Start, 5 yards (no play)",-0.960,-1.620
+2,8:48,3,20,GNB 20,14,14,Aaron Rodgers pass incomplete short middle intended for Donald Lee,-1.620,-2.030
+2,8:42,4,20,GNB 20,14,14,"Penalty on Jarrett Bush: False Start, 5 yards (no play)",-2.030,-2.440
+2,8:42,4,25,GNB 15,14,14,"Jeremy Kapinos punts 50 yards, returned by Quan Cosby for 6 yards (tackle by Korey Hall)",-2.440,-1.660
+2,8:31,1,10,CIN 41,14,14,Carson Palmer sacked by Cullen Jenkins for -8 yards,1.660,0.040
+2,7:56,2,18,CIN 33,14,20,"Carson Palmer pass incomplete short right intended for Daniel Coats is intercepted by Charles Woodson at CIN-37 and returned for 37 yards, touchdown",0.040,-7.000
+2,,,,CIN 2,14,21,Mason Crosby kicks extra point good,0.000,0.000
+2,,,,GNB 30,14,21,"Mason Crosby kicks off 69 yards, returned by Andre Caldwell for 19 yards (tackle by Korey Hall)",0.000,0.280
+2,7:42,1,10,CIN 20,14,21,Cedric Benson right tackle for 3 yards (tackle by A.J. Hawk),0.280,0.140
+2,7:04,2,7,CIN 23,14,21,Cedric Benson left tackle for 4 yards (tackle by Aaron Rouse),0.140,-0.030
+2,6:26,,,,14,21,Timeout #2 by Cincinnati Bengals,0.000,-0.030
+2,6:26,3,3,CIN 27,14,21,Carson Palmer pass complete short middle to Laveranues Coles for 4 yards (tackle by Charles Woodson and Nick Collins),-0.030,1.000
+2,5:48,1,10,CIN 31,14,21,Cedric Benson middle for no gain (tackle by Charles Woodson),1.000,0.460
+2,5:05,2,10,CIN 31,14,21,"Cedric Benson left guard for 10 yards (tackle by Aaron Rouse and Aaron Kampman). Penalty on Andrew Whitworth: Offensive Holding, 10 yards (no play)",0.460,-0.890
+2,4:41,2,20,CIN 21,14,21,Carson Palmer sacked by Clay Matthews for -9 yards,-0.890,-3.640
+2,4:41,3,29,CIN 12,14,21,"Penalty on Carson Palmer: Delay of Game, 5 yards (no play)",-3.640,-4.230
+2,3:38,3,34,CIN 7,14,21,"Carson Palmer pass complete short left to Daniel Coats for 23 yards (tackle by Cullen Jenkins). Daniel Coats fumbles (forced by Cullen Jenkins), recovered by Laveranues Coles at CIN-45",-4.230,1.930
+2,3:08,1,10,CIN 45,14,21,"Carson Palmer pass complete deep left to Chad Johnson for 44 yards (tackle by Aaron Rouse). Penalty on Al Harris: Roughing the Passer, 6 yards",1.930,6.060
+2,2:41,1,5,GNB 5,14,21,"Cedric Benson right end for no gain (tackle by Al Harris). Penalty on Bobbie Williams: Offensive Holding, 10 yards (no play)",6.060,4.370
+2,2:17,1,15,GNB 15,14,21,Carson Palmer pass complete short left to Andre Caldwell for 8 yards (tackle by Charles Woodson),4.370,4.760
+2,2:00,2,7,GNB 7,14,21,Cedric Benson right tackle for 2 yards (tackle by Nick Barnett and Brady Poppinga),4.760,4.260
+2,1:28,,,,14,21,Timeout #3 by Cincinnati Bengals,0.000,4.260
+2,1:28,3,5,GNB 5,20,21,"Carson Palmer pass complete short middle to Chris Henry for 5 yards, touchdown",4.260,7.000
+2,,,,GNB 2,21,21,Shayne Graham kicks extra point good,0.000,0.000
+2,,,,CIN 30,21,21,"Shayne Graham kicks off 71 yards, returned by Will Blackmon for 25 yards (tackle by Rashad Jeanty)",0.000,0.540
+2,1:16,1,10,GNB 24,21,21,Aaron Rodgers pass incomplete short middle intended for Ryan Grant,0.540,0.000
+2,1:12,2,10,GNB 24,21,21,"Aaron Rodgers pass incomplete deep middle intended for Donald Driver. Penalty on Chris Crocker: Defensive Pass Interfere, 17 yards (no play)",0.000,1.660
+2,1:08,1,10,GNB 41,21,21,Aaron Rodgers pass complete short left to Donald Driver for 25 yards (tackle by Nedu Ndukwe),1.660,3.310
+2,1:01,1,10,CIN 34,21,21,Aaron Rodgers pass incomplete short right intended for James Jones,3.310,2.770
+2,0:58,2,10,CIN 34,21,21,Aaron Rodgers sacked by Antwan Odom for -11 yards,2.770,0.630
+2,0:50,,,,21,21,Timeout #2 by Green Bay Packers,0.000,0.630
+2,0:50,3,21,CIN 45,21,21,Aaron Rodgers pass complete short right to Donald Lee for 8 yards (tackle by Chris Crocker),0.630,0.790
+2,0:03,,,,21,21,Timeout #3 by Green Bay Packers,0.000,0.790
+2,0:03,4,13,CIN 37,21,21,Mason Crosby 55 yard field goal no good,0.790,1.860
+Quarter,Time,Down,ToGo,Location,CIN,GNB,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,GNB 30,21,21,"Mason Crosby kicks off 71 yards, returned by Andre Caldwell for 29 yards (tackle by Derrick Martin)",0.000,0.810
+3,14:55,1,10,CIN 28,21,21,Cedric Benson left end for 5 yards (tackle by Aaron Kampman),0.810,0.940
+3,14:14,2,5,CIN 33,21,21,Cedric Benson right end for 2 yards (tackle by Nick Barnett and Al Harris),0.940,0.500
+3,13:29,3,3,CIN 35,21,21,"Carson Palmer pass incomplete deep right intended for Chad Johnson. Penalty on Tramon Williams: Illegal Contact, 5 yards (no play)",0.500,1.600
+3,13:24,1,10,CIN 40,21,21,Cedric Benson right end for 4 yards (tackle by Charles Woodson),1.600,1.590
+3,12:40,2,6,CIN 44,21,21,Cedric Benson right end for 4 yards (tackle by Charles Woodson),1.590,1.420
+3,11:58,3,2,CIN 48,21,21,Carson Palmer pass incomplete short right intended for Chad Johnson (defended by Tramon Williams),1.420,-0.190
+3,11:54,4,2,CIN 48,21,21,Kevin Huber punts 48 yards,-0.190,0.380
+3,11:45,1,10,GNB 4,21,21,Ryan Grant left end for 1 yard (tackle by Robert Geathers),-0.380,-0.710
+3,11:20,2,9,GNB 5,21,21,Aaron Rodgers pass incomplete short left intended for Greg Jennings (defended by Antwan Odom),-0.710,-1.300
+3,11:17,3,9,GNB 5,21,21,Aaron Rodgers pass complete short left to Jordy Nelson for 11 yards (tackle by Leon Hall),-1.300,-0.140
+3,10:39,1,10,GNB 16,21,21,Aaron Rodgers pass complete short right to Donald Driver for 26 yards (tackle by Keith Rivers),-0.140,1.730
+3,10:15,1,10,GNB 42,21,21,Aaron Rodgers sacked by Antwan Odom for -5 yards,1.730,0.510
+3,9:44,2,15,GNB 37,21,21,Aaron Rodgers pass complete short right to James Jones for 8 yards (tackle by Johnathan Joseph),0.510,0.890
+3,9:00,3,7,GNB 45,21,21,Aaron Rodgers right end for 15 yards (tackle by Chris Crocker),0.890,2.920
+3,8:25,1,10,CIN 40,21,21,"Aaron Rodgers pass complete short middle to Ryan Grant for 2 yards (tackle by Rey Maualuga). Ryan Grant fumbles (forced by Rey Maualuga), recovered by Pat Sims at CIN-38 (tackle by Josh Sitton)",2.920,-1.470
+3,8:16,1,10,CIN 38,21,21,Carson Palmer pass complete short middle to Daniel Coats for 3 yards (tackle by Nick Barnett),1.470,1.330
+3,7:36,2,7,CIN 41,21,21,Cedric Benson right end for 6 yards (tackle by Aaron Kampman),1.330,1.420
+3,6:47,3,1,CIN 47,21,21,Cedric Benson left guard for 8 yards (tackle by Jarrett Bush),1.420,2.590
+3,6:03,1,10,GNB 45,21,21,Cedric Benson right end for 3 yards (tackle by Aaron Rouse),2.590,2.450
+3,5:24,2,7,GNB 42,21,21,Bernard Scott right end for 1 yard (tackle by Aaron Rouse),2.450,1.880
+3,4:43,3,6,GNB 41,21,21,Carson Palmer pass complete short middle to Andre Caldwell for 8 yards (tackle by Aaron Rouse and Aaron Kampman),1.880,3.380
+3,4:04,1,10,GNB 33,21,21,Cedric Benson right end for -2 yards (tackle by Nick Barnett),3.380,2.570
+3,3:28,2,12,GNB 35,21,21,Carson Palmer pass incomplete deep left intended for Chad Johnson,2.570,1.880
+3,3:22,3,12,GNB 35,21,21,Carson Palmer pass complete deep middle to Chad Johnson for 23 yards (tackle by Tramon Williams and Charles Woodson),1.880,4.780
+3,2:39,1,10,GNB 12,21,21,"Penalty on Ryan Pickett: Neutral Zone Infraction, 5 yards (no play)",4.780,5.930
+3,2:39,1,5,GNB 7,21,21,"Penalty on Evan Mathis: False Start, 5 yards (no play)",5.930,4.780
+3,1:57,1,10,GNB 12,21,21,Cedric Benson right end for -1 yards (tackle by Charles Woodson and Johnny Jolly),4.780,3.940
+3,1:18,2,11,GNB 13,21,21,Carson Palmer pass incomplete short left intended for Daniel Coats,3.940,3.100
+3,1:13,3,11,GNB 13,27,21,"Carson Palmer pass complete short middle to Chad Johnson for 13 yards, touchdown. Penalty on Aaron Kampman: Defensive Offside (Declined)",3.100,7.000
+3,,,,GNB 2,28,21,Shayne Graham kicks extra point good,0.000,0.000
+3,,,,CIN 30,28,21,"Shayne Graham kicks off 68 yards, returned by Will Blackmon for 25 yards (tackle by Roy Williams)",0.000,0.740
+3,1:02,1,10,GNB 27,28,21,Aaron Rodgers pass complete short left to Ryan Grant for 13 yards (tackle by Dhani Jones),0.740,1.600
+3,0:32,1,10,GNB 40,28,21,Aaron Rodgers pass complete short right to Jermichael Finley for 9 yards (tackle by Keith Rivers and Dhani Jones),1.600,2.270
+Quarter,Time,Down,ToGo,Location,CIN,GNB,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,1,GNB 49,28,21,Aaron Rodgers pass complete short left to Jermichael Finley for 8 yards (tackle by Keith Rivers),2.270,2.720
+4,14:20,1,10,CIN 43,28,21,Aaron Rodgers pass complete short middle to Donald Lee for 3 yards (tackle by Dhani Jones),2.720,2.580
+4,13:37,2,7,CIN 40,28,21,Ryan Grant left tackle for 4 yards (tackle by Chris Crocker),2.580,2.410
+4,12:54,3,3,CIN 36,28,21,"Aaron Rodgers pass complete short right to Jermichael Finley for 2 yards (tackle by Dhani Jones). Penalty on Chris Crocker: Defensive Holding, 5 yards (no play)",2.410,3.510
+4,12:38,1,10,CIN 31,28,21,Aaron Rodgers sacked by Antwan Odom for -6 yards,3.510,2.160
+4,12:08,2,16,CIN 37,28,21,Aaron Rodgers pass incomplete deep right intended for Donald Driver (defended by Chris Crocker),2.160,1.490
+4,12:02,3,16,CIN 37,28,21,Aaron Rodgers pass incomplete short middle intended for Donald Driver,1.490,0.790
+4,11:57,4,16,CIN 37,28,21,"Jeremy Kapinos punts 28 yards, fair catch by Quan Cosby",0.790,0.380
+4,11:51,1,10,CIN 9,28,21,Cedric Benson left end for 1 yard (tackle by Brady Poppinga),-0.380,-0.710
+4,11:14,2,9,CIN 10,28,21,Laveranues Coles left end for 2 yards (tackle by Al Harris),-0.710,-1.070
+4,10:42,3,7,CIN 12,28,21,"Penalty on Carson Palmer: Delay of Game, 5 yards (no play)",-1.070,-1.650
+4,10:21,3,12,CIN 7,28,21,Carson Palmer pass complete short left to Brian Leonard for 11 yards (tackle by Brandon Chillar),-1.650,-2.240
+4,9:41,4,1,CIN 18,28,21,"Kevin Huber punts 56 yards. Penalty on John Kuhn: Offensive Holding, 10 yards",-2.240,0.140
+4,9:30,1,10,GNB 16,28,21,Aaron Rodgers pass complete short left to Jermichael Finley for 17 yards (tackle by Roy Williams),-0.140,1.140
+4,8:51,1,10,GNB 33,28,21,Aaron Rodgers pass incomplete short left intended for Greg Jennings,1.140,0.590
+4,8:46,2,10,GNB 33,28,21,Aaron Rodgers sacked by Antwan Odom for -5 yards,0.590,-0.760
+4,8:14,3,15,GNB 28,28,21,Aaron Rodgers pass incomplete deep middle intended for Donald Driver (defended by Roy Williams),-0.760,-1.500
+4,8:08,4,15,GNB 28,28,21,"Jeremy Kapinos punts 42 yards, returned by Quan Cosby for 4 yards (tackle by Derrick Martin)",-1.500,-1.200
+4,7:58,1,10,CIN 34,28,21,Carson Palmer pass incomplete deep left intended for Chris Henry,1.200,0.660
+4,7:52,2,10,CIN 34,28,21,Cedric Benson left tackle for 8 yards (tackle by Al Harris),0.660,1.030
+4,7:08,,,,28,21,Timeout #1 by Cincinnati Bengals,0.000,1.030
+4,7:08,3,2,CIN 42,28,21,Cedric Benson left end for 14 yards (tackle by Jarrett Bush),1.030,2.650
+4,6:42,1,10,GNB 44,28,21,Bernard Scott left guard for 6 yards (tackle by Brady Poppinga and Aaron Rouse),2.650,2.920
+4,6:00,,,,28,21,Timeout #1 by Green Bay Packers,0.000,2.920
+4,6:00,2,4,GNB 38,28,21,Cedric Benson middle for 2 yards (tackle by Aaron Kampman),2.920,2.480
+4,5:20,3,2,GNB 36,28,21,Cedric Benson left end for 1 yard (tackle by Aaron Kampman and A.J. Hawk),2.480,1.000
+4,5:20,4,1,GNB 35,28,21,Penalty on Kevin Huber: Delay of Game (Declined),1.000,1.000
+4,4:09,4,1,GNB 35,28,21,"Kevin Huber punts 20 yards, fair catch by Will Blackmon",1.000,0.220
+4,4:02,1,10,GNB 15,28,21,Ryan Grant left tackle for 2 yards (tackle by Antwan Odom),-0.220,-0.440
+4,3:20,2,8,GNB 17,28,21,Aaron Rodgers pass incomplete deep middle intended for Greg Jennings (defended by Roy Williams),-0.440,-1.120
+4,3:12,3,8,GNB 17,28,21,Aaron Rodgers sacked by Antwan Odom for -4 yards,-1.120,-2.490
+4,2:52,4,12,GNB 13,28,21,"Jeremy Kapinos punts 48 yards, returned by Quan Cosby for 32 yards (tackle by Jeremy Kapinos)",-2.490,-3.640
+4,2:38,1,10,GNB 29,28,21,"Carson Palmer for no gain. Carson Palmer fumbles, recovered by Cedric Benson at GNB-31",3.640,2.830
+4,2:33,2,12,GNB 31,28,21,Cedric Benson left guard for 7 yards (tackle by Aaron Kampman),2.830,3.070
+4,2:26,,,,28,21,Timeout #3 by Green Bay Packers,0.000,3.070
+4,2:26,3,5,GNB 24,28,21,Cedric Benson right end for 1 yard (tackle by Charles Woodson),3.070,2.000
+4,2:00,4,4,GNB 23,31,21,Shayne Graham 40 yard field goal good,2.000,3.000
+4,,,,CIN 30,31,21,"Shayne Graham kicks off 62 yards, returned by Will Blackmon for 13 yards (tackle by Brian Leonard)",0.000,0.340
+4,1:51,1,10,GNB 21,31,21,Aaron Rodgers pass complete short middle to Donald Lee for 11 yards (tackle by Brandon Johnson),0.340,1.070
+4,1:31,1,10,GNB 32,31,21,Aaron Rodgers pass incomplete deep middle intended for Donald Lee,1.070,0.530
+4,1:24,,,,31,21,Timeout #4 by Green Bay Packers,0.000,0.530
+4,1:24,2,10,GNB 32,31,21,Aaron Rodgers for 16 yards (tackle by Morgan Trent),0.530,2.130
+4,1:17,1,10,GNB 48,31,21,Aaron Rodgers for 11 yards (tackle by Johnathan Joseph),2.130,2.850
+4,1:07,1,10,CIN 41,31,21,Aaron Rodgers pass complete short left to Donald Driver for 14 yards (tackle by Dhani Jones and Leon Hall),2.850,3.780
+4,0:51,1,10,CIN 27,31,21,Aaron Rodgers pass incomplete short right intended for Greg Jennings,3.780,3.230
+4,0:49,2,10,CIN 27,31,24,Mason Crosby 45 yard field goal good,3.230,3.000
+4,,,,GNB 30,31,24,--,0.000,1.800
+4,0:44,1,10,GNB 43,31,24,Aaron Rodgers pass incomplete short right intended for James Jones,1.800,1.250
+4,0:41,2,10,GNB 43,31,24,Aaron Rodgers pass incomplete deep right intended for Jermichael Finley,1.250,0.560
+4,0:36,3,10,GNB 43,31,24,Aaron Rodgers pass complete deep right to Jermichael Finley for 22 yards (tackle by Roy Williams),0.560,3.250
+4,0:17,1,10,CIN 35,31,24,Aaron Rodgers spiked the ball,3.250,2.700
+4,0:16,2,10,CIN 35,31,24,Aaron Rodgers pass complete deep middle to Donald Driver for 25 yards (tackle by Roy Williams),2.700,4.910
+4,0:01,1,10,CIN 10,31,24,"Penalty on Jason Spitz: False Start, 5 yards (no play)",4.910,4.190
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

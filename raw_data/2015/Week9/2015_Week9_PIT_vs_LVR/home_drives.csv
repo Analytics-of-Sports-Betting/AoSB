@@ -1,0 +1,16 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,PIT 21,7,2:07,45,Downs
+2,1,12:10,PIT 18,4,2:10,29,Punt
+3,1,8:55,PIT 41,9,4:15,43,Field Goal
+4,1,1:36,PIT 17,6,2:39,83,Touchdown
+5,2,10:46,PIT 2,3,0:54,2,Punt
+6,2,6:05,PIT 22,9,4:09,78,Touchdown
+7,2,0:59,PIT 41,5,0:30,39,Field Goal
+8,3,13:06,OAK 46,3,1:35,3,Punt
+9,3,7:02,PIT 12,3,1:23,2,Interception
+10,3,4:56,PIT 25,8,2:02,52,Missed FG
+11,3,1:13,PIT 9,9,4:00,91,Touchdown
+12,4,12:05,OAK 6,2,0:41,6,Touchdown
+13,4,9:32,PIT 20,5,2:20,26,Punt
+14,4,4:21,PIT 24,5,2:06,5,Punt
+15,4,1:15,PIT 20,7,1:13,79,Field Goal

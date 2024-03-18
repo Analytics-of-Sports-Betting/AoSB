@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,CHI 23,5,2:17,29,Punt
+2,1,8:29,CHI 40,9,6:21,60,Touchdown
+3,2,14:01,CHI 9,3,1:32,8,Punt
+4,2,7:27,CHI 21,8,5:10,39,Punt
+5,2,1:42,CHI 39,5,1:12,61,Touchdown
+6,3,9:26,CHI 30,6,3:01,20,Downs
+7,3,4:10,CHI 25,10,4:52,49,Fumble
+8,4,13:12,GNB 45,5,2:56,45,Touchdown
+9,4,9:12,GNB 15,4,2:29,9,Field Goal
+10,4,3:04,CHI 8,4,0:22,4,Punt
+11,4,0:11,GNB 39,1,0:11,-1,End of Game

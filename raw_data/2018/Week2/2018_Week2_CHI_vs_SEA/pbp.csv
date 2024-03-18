@@ -1,0 +1,179 @@
+Quarter,Time,Down,ToGo,Location,SEA,CHI,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Bears won the coin toss and deferred, Seahawks to receive the opening kickoff.",,
+1,15:00,,,CHI 35,0,0,"Cody Parkey kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,SEA 25,0,0,Chris Carson left guard for 9 yards (tackle by Danny Trevathan),0.610,1.280
+1,14:29,2,1,SEA 34,0,0,Chris Carson left guard for 2 yards (tackle by Roquan Smith),1.280,1.330
+1,13:57,1,10,SEA 36,0,0,Chris Carson left tackle for 2 yards (tackle by Leonard Floyd),1.330,1.060
+1,13:24,2,8,SEA 38,0,0,Russell Wilson pass incomplete short middle intended for Rashaad Penny,1.060,0.370
+1,13:20,3,8,SEA 38,0,0,Russell Wilson pass complete short right to Jaron Brown for 10 yards (tackle by Kyle Fuller),0.370,2.130
+1,12:51,1,10,SEA 48,0,0,Russell Wilson pass complete short left to Will Dissly for 6 yards (tackle by Adrian Amos),2.130,2.390
+1,12:07,2,4,CHI 46,0,0,Rashaad Penny left guard for 2 yards (tackle by Akiem Hicks and Roy Robertson-Harris),2.390,1.950
+1,11:24,3,2,CHI 44,0,0,Russell Wilson sacked by Aaron Lynch for no gain,1.950,0.330
+1,10:43,4,2,CHI 44,0,0,"Michael Dickson punts 40 yards, fair catch by Tarik Cohen at CHI-4",0.330,0.380
+1,10:35,1,10,CHI 4,0,0,"Jordan Howard left tackle for no gain (tackle by Quinton Jefferson). Penalty on Quinton Jefferson: Defensive Offside, 5 yards (no play)",-0.380,-0.190
+1,10:07,1,5,CHI 9,0,0,"Tarik Cohen right end for 3 yards (tackle by Bradley McDougald). Penalty on Shaquill Griffin: Face Mask (15 Yards), 15 yards",-0.190,0.740
+1,9:38,1,10,CHI 27,0,0,Mitchell Trubisky pass incomplete short right intended for Jordan Howard,0.740,0.200
+1,9:34,2,10,CHI 27,0,0,Mitchell Trubisky pass complete short middle to Allen Robinson for 6 yards (tackle by Austin Calitro),0.200,0.300
+1,8:55,3,4,CHI 33,0,0,Mitchell Trubisky pass complete short left to Allen Robinson for 13 yards (tackle by Earl Thomas),0.300,1.990
+1,8:18,1,10,CHI 46,0,0,Jordan Howard left guard for 3 yards (tackle by Austin Calitro),1.990,1.860
+1,7:39,2,7,CHI 49,0,0,Mitchell Trubisky pass complete short right to Anthony Miller for 1 yard (tackle by Bradley McDougald),1.860,1.290
+1,6:50,3,6,CHI 50,0,0,Mitchell Trubisky up the middle for 17 yards (tackle by Barkevious Mingo),1.290,3.380
+1,6:16,1,10,SEA 33,0,0,Mitchell Trubisky pass complete short right to Taylor Gabriel for 9 yards (tackle by Shaquill Griffin),3.380,4.050
+1,5:43,2,1,SEA 24,0,0,Mitchell Trubisky pass complete short right to Jordan Howard for 18 yards (tackle by Bradley McDougald),4.050,5.830
+1,5:05,1,6,SEA 6,0,0,"Mitchell Trubisky pass incomplete short left intended for Allen Robinson. Penalty on Akeem King: Defensive Holding, 3 yards (no play)",5.830,6.510
+1,4:59,1,3,SEA 3,0,6,"Mitchell Trubisky pass complete short middle to Trey Burton for 3 yards, touchdown",6.510,7.000
+1,4:55,,,SEA 15,0,6,"Cody Parkey kicks extra point good. Penalty on Cody Whitehair: False Start, 5 yards (no play)",0.000,0.000
+1,4:55,,,SEA 20,0,7,Cody Parkey kicks extra point good,0.000,0.000
+1,4:55,,,CHI 35,0,7,"Cody Parkey kicks off 65 yards, touchback.",0.000,0.610
+1,4:55,1,10,SEA 25,0,7,Russell Wilson pass complete short left to Brandon Marshall for 10 yards (tackle by Prince Amukamara),0.610,1.270
+1,4:18,1,10,SEA 35,0,7,Chris Carson right end for 4 yards (tackle by Leonard Floyd),1.270,1.260
+1,3:42,2,6,SEA 39,0,7,Russell Wilson pass incomplete short left intended for Brandon Marshall (defended by Prince Amukamara),1.260,0.560
+1,3:38,3,6,SEA 39,0,7,Russell Wilson pass incomplete deep right intended for Will Dissly,0.560,-0.780
+1,3:30,4,6,SEA 39,0,7,"Michael Dickson punts 54 yards, returned by Tarik Cohen for 32 yards (tackle by Justin Coleman)",-0.780,-1.530
+1,3:15,1,10,CHI 39,0,7,Mitchell Trubisky pass incomplete deep left intended for Taylor Gabriel,1.530,0.990
+1,3:11,2,10,CHI 39,0,7,Mitchell Trubisky pass complete short right to Allen Robinson for 9 yards (tackle by Austin Calitro),0.990,1.490
+1,2:30,3,1,CHI 48,0,7,Jordan Howard right end for no gain (tackle by Barkevious Mingo),1.490,-0.190
+1,1:52,4,1,CHI 48,0,7,Jordan Howard left tackle for 2 yards (tackle by Frank Clark),-0.190,2.260
+1,1:10,1,10,CHI 50,0,7,Tarik Cohen left end for 2 yards (tackle by Akeem King),2.260,1.980
+1,0:30,2,8,SEA 48,0,7,Taylor Gabriel left end for 5 yards (tackle by Rasheem Green),1.980,1.950
+Quarter,Time,Down,ToGo,Location,SEA,CHI,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,3,SEA 43,0,7,Mitchell Trubisky left end for -2 yards (tackle by Bradley McDougald),1.950,0.270
+2,14:22,4,5,SEA 45,0,7,"Pat O'Donnell punts 32 yards, fair catch by Tyler Lockett at SEA-13",0.270,0.320
+2,14:15,1,10,SEA 13,0,7,Chris Carson right guard for 4 yards (tackle by Akiem Hicks),-0.320,-0.300
+2,13:31,2,6,SEA 17,0,7,"Russell Wilson pass incomplete short right intended for Nick Vannett. Penalty on J.R. Sweezy: Offensive Holding, 9 yards (no play)",-0.300,-1.150
+2,13:25,2,15,SEA 8,0,7,Russell Wilson sacked by Eddie Goldman for -7 yards,-1.150,-2.820
+2,12:41,3,22,SEA 1,0,7,Russell Wilson pass complete short left to Brandon Marshall for 8 yards (tackle by Prince Amukamara),-2.820,-2.490
+2,12:07,4,14,SEA 9,0,7,Michael Dickson punts 53 yards out of bounds,-2.490,-1.470
+2,11:59,1,10,CHI 38,0,7,Mitchell Trubisky pass deep right intended for Allen Robinson is intercepted by Shaquill Griffin at SEA-24 and returned for no gain,1.470,-0.540
+2,11:51,1,10,SEA 24,0,7,Chris Carson right guard for 3 yards (tackle by Roquan Smith),0.540,0.400
+2,11:09,2,7,SEA 27,0,7,Russell Wilson pass incomplete short left intended for Nick Vannett (defended by Leonard Floyd),0.400,-0.300
+2,11:03,3,7,SEA 27,0,7,Russell Wilson pass incomplete short left intended for Brandon Marshall,-0.300,-1.570
+2,10:59,4,7,SEA 27,0,7,"Michael Dickson punts 55 yards, returned by Tarik Cohen for 15 yards (tackle by Darrell Daniels)",-1.570,-1.140
+2,10:45,1,10,CHI 33,0,7,"Jordan Howard right end for 4 yards (tackle by Mychal Kendricks). Penalty on Anthony Miller: Illegal Block Above the Waist, 10 yards",1.140,0.740
+2,10:23,1,16,CHI 27,0,7,Mitchell Trubisky pass complete short left to Taylor Gabriel for 9 yards (tackle by Akeem King),0.740,1.000
+2,9:53,2,7,CHI 36,0,7,Mitchell Trubisky pass incomplete short right intended for Allen Robinson (defended by Mychal Kendricks),1.000,0.300
+2,9:48,3,7,CHI 36,0,7,Mitchell Trubisky pass complete short middle to Allen Robinson for 8 yards (tackle by Shaquill Griffin),0.300,1.860
+2,9:05,1,10,CHI 44,0,7,Mitchell Trubisky pass short right (defended by Bradley McDougald) intended for Allen Robinson is intercepted by Shaquill Griffin at SEA-49 and returned for 8 yards,1.860,-2.720
+2,8:54,1,10,CHI 43,0,7,Russell Wilson sacked by Eddie Jackson for -2 yards,2.720,1.910
+2,8:11,2,12,CHI 45,0,7,Rashaad Penny right guard for no gain (tackle by Khalil Mack),1.910,1.220
+2,7:30,3,12,CHI 45,0,7,"Penalty on Germain Ifedi: False Start, 5 yards (no play)",1.220,0.560
+2,7:21,3,17,SEA 50,0,7,"Russell Wilson sacked by Khalil Mack for -9 yards. Russell Wilson fumbles (forced by Khalil Mack), recovered by J.R. Sweezy at SEA-41 (tackle by Khalil Mack)",0.560,-0.650
+2,6:39,4,26,SEA 41,0,7,Michael Dickson punts 10 yards out of bounds,-0.650,-2.190
+2,6:33,1,10,CHI 49,0,7,Tarik Cohen right end for 2 yards (tackle by Austin Calitro and Shamar Stephen),2.190,1.920
+2,5:51,2,8,SEA 49,0,7,Mitchell Trubisky pass complete short right to Tarik Cohen for 17 yards,1.920,3.450
+2,5:17,1,10,SEA 32,0,7,Jordan Howard right tackle for -3 yards (tackle by Austin Calitro),3.450,2.500
+2,4:36,2,13,SEA 35,0,7,Mitchell Trubisky pass complete short left to Allen Robinson for 8 yards (tackle by Akeem King),2.500,2.870
+2,4:14,,,,,,Timeout #1 by Chicago Bears,,
+2,4:14,3,5,SEA 27,0,7,Mitchell Trubisky pass complete short middle to Allen Robinson for 5 yards (tackle by Justin Coleman and Earl Thomas),2.870,4.110
+2,3:27,1,10,SEA 22,0,7,Jordan Howard right guard for 3 yards (tackle by Nazair Jones),4.110,3.970
+2,2:44,2,7,SEA 19,0,7,Mitchell Trubisky pass complete short middle to Taylor Gabriel for 6 yards (tackle by Akeem King),3.970,4.390
+2,2:00,3,1,SEA 13,0,7,Trey Burton right guard for 2 yards (tackle by Mychal Kendricks),4.390,4.840
+2,1:43,,,,,,Timeout #1 by Seattle Seahawks,,
+2,1:43,1,10,SEA 11,0,7,Jordan Howard right guard for 4 yards (tackle by Quinton Jefferson),4.840,4.890
+2,1:25,2,6,SEA 7,0,7,Mitchell Trubisky pass incomplete short right intended for Anthony Miller,4.890,3.980
+2,1:18,3,6,SEA 7,0,7,Mitchell Trubisky pass incomplete short left intended for Taylor Gabriel (defended by Justin Coleman),3.980,2.980
+2,1:11,4,6,SEA 7,0,10,Cody Parkey 25 yard field goal good,2.980,3.000
+2,1:07,,,CHI 35,0,10,"Cody Parkey kicks off 65 yards, touchback.",0.000,0.610
+2,1:07,1,10,SEA 25,0,10,Russell Wilson pass complete short left to Brandon Marshall for 18 yards (tackle by Prince Amukamara),0.610,1.800
+2,1:01,1,10,SEA 43,0,10,Russell Wilson sacked by Danny Trevathan for -6 yards,1.800,0.440
+2,0:53,,,,,,Timeout #2 by Seattle Seahawks,,
+2,0:53,2,16,SEA 37,0,10,Russell Wilson pass complete short right to Tyler Lockett for 8 yards (tackle by Danny Trevathan),0.440,0.830
+2,0:33,3,8,SEA 45,0,10,Russell Wilson right guard for 9 yards (tackle by Danny Trevathan and Adrian Amos),0.830,2.520
+2,0:24,,,,,,Timeout #3 by Seattle Seahawks,,
+2,0:24,1,10,CHI 46,0,10,Russell Wilson pass incomplete deep right intended for Tyler Lockett (defended by Eddie Jackson),2.520,1.980
+2,0:16,2,10,CHI 46,0,10,Russell Wilson pass complete short middle to Brandon Marshall for 8 yards (tackle by Nick Kwiatkoski),1.980,2.350
+2,0:02,3,2,CHI 38,0,10,Russell Wilson spiked the ball,2.350,0.720
+2,0:02,,,,,,Timeout #2 by Chicago Bears,,
+2,0:02,4,2,CHI 38,3,10,Sebastian Janikowski 56 yard field goal good,0.720,3.000
+Quarter,Time,Down,ToGo,Location,SEA,CHI,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,SEA 35,3,10,"Sebastian Janikowski kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,CHI 25,3,10,Mitchell Trubisky pass complete short right to Allen Robinson for 14 yards (tackle by Austin Calitro),0.610,1.530
+3,14:11,1,10,CHI 39,3,10,Jordan Howard left guard for 2 yards (tackle by Quinton Jefferson),1.530,1.260
+3,13:31,2,8,CHI 41,3,10,"Mitchell Trubisky pass complete deep middle to Anthony Miller for 14 yards (tackle by Earl Thomas) Penalty on CHI: Illegal Formation, 5 yards (no play)",1.260,0.580
+3,13:04,2,13,CHI 36,3,10,Mitchell Trubisky pass complete short right to Allen Robinson for 7 yards (tackle by Shaquill Griffin),0.580,0.830
+3,12:23,3,6,CHI 43,3,10,Mitchell Trubisky sacked by Mychal Kendricks for -12 yards,0.830,-1.310
+3,11:48,4,18,CHI 31,3,10,"Pat O'Donnell punts 52 yards, returned by Tyler Lockett for 14 yards (tackle by Josh Bellamy)",-1.310,-1.000
+3,11:36,1,10,SEA 31,3,10,Russell Wilson pass complete short left to Tyler Lockett for 2 yards (tackle by Bryce Callahan),1.000,0.730
+3,10:59,2,8,SEA 33,3,10,Russell Wilson pass incomplete short right intended for Will Dissly,0.730,0.040
+3,10:56,3,8,SEA 33,3,10,Russell Wilson pass incomplete short right intended for Nick Vannett,0.040,-1.180
+3,10:50,4,8,SEA 33,3,10,"Michael Dickson punts 51 yards, returned by Tarik Cohen for 7 yards (tackle by Shaquem Griffin)",-1.180,-0.480
+3,10:39,1,10,CHI 23,3,10,Mitchell Trubisky pass complete short left to Trey Burton for 3 yards (tackle by Earl Thomas),0.480,0.340
+3,10:04,2,7,CHI 26,3,10,Mitchell Trubisky pass complete short left to Allen Robinson for 7 yards (tackle by Akeem King),0.340,1.140
+3,9:27,1,10,CHI 33,3,10,Mitchell Trubisky pass complete short right to Allen Robinson for 6 yards (tackle by Shaquill Griffin),1.140,1.400
+3,8:51,2,4,CHI 39,3,10,Jordan Howard right guard for 4 yards (tackle by Shamar Stephen),1.400,1.800
+3,8:13,1,10,CHI 43,3,10,Mitchell Trubisky sacked by Frank Clark for -3 yards,1.800,0.850
+3,7:33,2,13,CHI 40,3,10,Mitchell Trubisky pass incomplete short right intended for Taylor Gabriel (defended by Shaquill Griffin),0.850,0.170
+3,7:24,3,13,CHI 40,3,10,Mitchell Trubisky pass complete short middle to Jordan Howard for 10 yards (tackle by Bradley McDougald),0.170,-0.060
+3,6:43,4,3,CHI 50,3,10,"Pat O'Donnell punts 42 yards, fair catch by Tyler Lockett at SEA-8",-0.060,0.380
+3,6:36,1,10,SEA 8,3,10,Russell Wilson pass incomplete short right intended for Chris Carson (defended by Roquan Smith),-0.380,-0.780
+3,6:29,2,10,SEA 8,3,10,Russell Wilson pass incomplete deep left intended for Tyler Lockett,-0.780,-1.420
+3,6:24,,,,,,Timeout #1 by Seattle Seahawks,,
+3,6:24,3,10,SEA 8,3,10,Russell Wilson pass complete short right to Mike Davis for -1 yards (tackle by Aaron Lynch),-1.420,-2.490
+3,5:46,4,11,SEA 7,3,10,"Michael Dickson punts 53 yards, returned by Tarik Cohen for 4 yards (tackle by Tre Madden). Penalty on Prince Amukamara: Illegal Block Above the Waist, 10 yards",-2.490,-1.200
+3,5:30,1,10,CHI 34,3,10,Mitchell Trubisky pass complete short left to Taylor Gabriel for 6 yards (tackle by Bradley McDougald),1.200,1.470
+3,4:56,2,4,CHI 40,3,10,Jordan Howard right end for 5 yards (tackle by Earl Thomas),1.470,1.930
+3,4:24,1,10,CHI 45,3,10,Tarik Cohen left tackle for 1 yard (tackle by Bradley McDougald),1.930,1.520
+3,3:46,2,9,CHI 46,3,10,Mitchell Trubisky pass complete short right to Trey Burton for 9 yards (tackle by Justin Coleman),1.520,2.590
+3,3:04,1,10,SEA 45,3,10,Jordan Howard left guard for 6 yards (tackle by Jarran Reed and Austin Calitro),2.590,2.850
+3,2:22,2,4,SEA 39,3,10,Taylor Gabriel left end for 4 yards (tackle by Akeem King and Austin Calitro),2.850,3.250
+3,1:40,1,10,SEA 35,3,10,Mitchell Trubisky right end for 4 yards,3.250,3.240
+3,0:57,2,6,SEA 31,3,10,Mitchell Trubisky pass complete short left to Josh Bellamy for 6 yards (tackle by Earl Thomas),3.240,3.910
+3,0:16,1,10,SEA 25,3,10,Taylor Gabriel left end for 8 yards (tackle by Barkevious Mingo and Earl Thomas),3.910,4.550
+Quarter,Time,Down,ToGo,Location,SEA,CHI,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,2,SEA 17,3,10,Jordan Howard right end for 7 yards (tackle by Bradley McDougald),4.550,4.910
+4,14:20,1,10,SEA 10,3,16,"Mitchell Trubisky pass complete short left to Anthony Miller for 10 yards, touchdown",4.910,7.000
+4,14:15,,,SEA 15,3,17,Cody Parkey kicks extra point good,0.000,0.000
+4,14:15,,,CHI 35,3,17,"Cody Parkey kicks off 65 yards, touchback.",0.000,0.610
+4,14:15,1,10,SEA 25,3,17,Rashaad Penny left guard for 10 yards (tackle by Eddie Jackson),0.610,1.270
+4,13:53,1,10,SEA 35,3,17,Rashaad Penny right guard for 1 yard (tackle by Danny Trevathan and Khalil Mack),1.270,0.860
+4,13:26,2,9,SEA 36,3,17,Russell Wilson pass complete short right to Nick Vannett for 4 yards (tackle by Adrian Amos),0.860,0.700
+4,12:50,3,5,SEA 40,3,17,"Russell Wilson pass complete short right to Tyler Lockett for 20 yards (tackle by Eddie Jackson). Tyler Lockett fumbles, ball out of bounds at CHI-40 (forced by Eddie Jackson)",0.700,2.920
+4,12:35,1,10,CHI 40,3,17,Rashaad Penny left tackle for -1 yards (tackle by Jonathan Bullard),2.920,2.240
+4,12:14,2,11,CHI 41,3,17,Russell Wilson pass complete short right to Nick Vannett for 11 yards (tackle by Roquan Smith),2.240,3.580
+4,11:48,1,10,CHI 30,3,17,Rashaad Penny right guard for 4 yards (tackle by Jonathan Bullard),3.580,3.570
+4,11:20,2,6,CHI 26,3,17,Mike Davis left guard for -1 yards (tackle by Akiem Hicks),3.570,2.740
+4,10:54,3,7,CHI 27,3,17,"Russell Wilson pass incomplete deep left intended for David Moore. Penalty on Prince Amukamara: Illegal Contact, 5 yards (no play)",2.740,4.110
+4,10:47,1,10,CHI 22,3,17,Rashaad Penny left end for 3 yards (tackle by Khalil Mack),4.110,3.970
+4,10:19,2,7,CHI 19,9,17,"Russell Wilson pass complete deep right to Tyler Lockett for 19 yards, touchdown",3.970,7.000
+4,10:13,,,CHI 15,10,17,"Sebastian Janikowski kicks extra point good. Penalty on Roy Robertson-Harris: Leverage, 15 yards",0.000,0.000
+4,10:13,,,SEA 50,10,17,"Michael Dickson kicks off 49 yards, returned by Anthony Miller for no gain (tackle by Tre Madden)",0.000,-0.220
+4,10:08,1,10,CHI 15,10,17,Mitchell Trubisky pass incomplete short left intended for Allen Robinson (defended by Austin Calitro),-0.220,-0.710
+4,10:04,2,10,CHI 15,10,17,"Penalty on Taylor Gabriel: False Start, 5 yards (no play)",-0.710,-1.150
+4,10:04,2,15,CHI 10,10,17,Mitchell Trubisky pass complete short middle to Trey Burton for 5 yards (tackle by Austin Calitro),-1.150,-1.370
+4,9:24,3,10,CHI 15,10,17,Mitchell Trubisky right guard for 7 yards (tackle by Barkevious Mingo),-1.370,-1.900
+4,8:43,4,3,CHI 22,10,17,"Pat O'Donnell punts 43 yards, fair catch by Tyler Lockett at SEA-35",-1.900,-1.270
+4,8:37,1,10,SEA 35,10,17,Rashaad Penny left end for 6 yards (tackle by Kyle Fuller),1.270,1.530
+4,7:55,2,4,SEA 41,10,17,Rashaad Penny right tackle for 4 yards (tackle by Leonard Floyd),1.530,1.930
+4,7:20,,,,,,Timeout #2 by Seattle Seahawks,,
+4,7:20,1,10,SEA 45,10,17,Rashaad Penny left end for 1 yard (tackle by Roy Robertson-Harris),1.930,1.520
+4,6:47,2,9,SEA 46,10,23,"Russell Wilson pass short left intended for Rashaad Penny is intercepted by Prince Amukamara at SEA-49 and returned for 49 yards, touchdown",1.520,-7.000
+4,6:37,,,CHI 35,10,24,"Cody Parkey kicks off 65 yards, touchback.",0.000,0.610
+4,6:37,1,10,SEA 25,10,24,Russell Wilson pass complete short middle to Nick Vannett for 8 yards (tackle by Roquan Smith),0.610,1.140
+4,6:06,2,2,SEA 33,10,24,Mike Davis left tackle for 1 yard (tackle by Roy Robertson-Harris),1.140,0.560
+4,5:32,3,1,SEA 34,10,24,Mike Davis left guard for 3 yards (tackle by Bilal Nichols),0.560,1.400
+4,5:10,1,10,SEA 37,10,24,Russell Wilson right end for 4 yards (tackle by Roquan Smith),1.400,1.400
+4,4:40,2,6,SEA 41,10,24,"Russell Wilson sacked by Danny Trevathan for no gain. Russell Wilson fumbles (forced by Danny Trevathan), recovered by Leonard Floyd at SEA-41 (tackle by Justin Britt)",1.400,-2.850
+4,4:29,1,10,SEA 41,10,24,Jordan Howard right guard for 3 yards (tackle by Jarran Reed),2.850,2.710
+4,3:44,2,7,SEA 38,10,24,Jordan Howard right end for -5 yards (tackle by Frank Clark),2.710,1.350
+4,3:01,3,12,SEA 43,10,24,Mitchell Trubisky pass complete short right to Jordan Howard for 5 yards (tackle by Rasheem Green),1.350,0.720
+4,2:55,,,,,,Timeout #3 by Seattle Seahawks,,
+4,2:55,4,7,SEA 38,10,24,Pat O'Donnell punts 37 yards downed by Sherrick McManis,0.720,0.380
+4,2:42,1,10,SEA 1,10,24,Russell Wilson pass complete short middle to C.J. Prosise for 8 yards (tackle by Adrian Amos),-0.380,-0.200
+4,2:23,2,2,SEA 9,10,24,Russell Wilson pass complete deep middle to Will Dissly for 34 yards (tackle by Danny Trevathan),-0.200,1.800
+4,2:03,1,10,SEA 43,10,24,Russell Wilson pass complete short middle to C.J. Prosise for 6 yards (tackle by Roquan Smith),1.800,2.060
+4,1:57,2,4,SEA 49,10,24,Russell Wilson pass complete short middle to Tyler Lockett for 11 yards (tackle by Danny Trevathan),2.060,2.920
+4,1:33,1,10,CHI 40,10,24,Russell Wilson pass complete short middle to C.J. Prosise for 8 yards (tackle by Roquan Smith),2.920,3.450
+4,1:12,2,2,CHI 32,10,24,Russell Wilson left guard for 4 yards,3.450,3.710
+4,0:57,1,10,CHI 28,10,24,Russell Wilson spiked the ball,3.710,3.170
+4,0:55,2,10,CHI 28,10,24,Russell Wilson pass complete deep middle to Jaron Brown for 19 yards (tackle by Prince Amukamara),3.170,5.140
+4,0:32,1,9,CHI 9,10,24,Russell Wilson pass complete short left to Jaron Brown for 7 yards (tackle by Sherrick McManis),5.140,5.720
+4,0:19,2,2,CHI 2,10,24,Russell Wilson spiked the ball,5.720,4.950
+4,0:18,3,2,CHI 2,16,24,"Russell Wilson pass complete short left to Will Dissly for 2 yards, touchdown",4.950,7.000
+4,0:14,,,CHI 15,17,24,Sebastian Janikowski kicks extra point good,0.000,0.000
+4,0:14,,,SEA 35,17,24,"Michael Dickson kicks onside 15 yards, returned by Anthony Miller for no gain",0.000,-2.320
+4,0:13,1,10,SEA 49,17,24,Mitchell Trubisky kneels for -2 yards,2.320,1.510
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

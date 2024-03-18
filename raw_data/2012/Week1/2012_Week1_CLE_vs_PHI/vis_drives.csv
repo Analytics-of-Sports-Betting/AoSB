@@ -1,0 +1,17 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,PHI 26,6,3:50,25,Fumble
+2,1,9:12,PHI 26,8,4:40,25,Interception
+3,1,2:05,PHI 22,7,2:07,55,Field Goal
+4,2,12:11,PHI 7,3,1:11,8,Punt
+5,2,9:27,PHI 19,4,2:05,10,Punt
+6,2,6:28,PHI 26,3,1:41,7,Punt
+7,2,2:37,PHI 20,6,1:11,26,Punt
+8,2,0:49,PHI 26,5,0:32,74,Touchdown
+9,3,11:59,PHI 11,3,1:07,-5,Punt
+10,3,10:46,PHI 19,7,3:27,20,Interception
+11,3,4:57,PHI 20,3,1:37,8,Punt
+12,3,2:57,PHI 36,4,1:04,28,Interception
+13,4,14:15,PHI 18,1,0:16,-5,Interception
+14,4,13:59,PHI 20,11,4:58,53,Missed FG
+15,4,6:25,PHI 9,16,5:07,91,Touchdown
+16,4,1:05,CLE 40,3,1:05,-4,End of Game

@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,PIT 17,5,2:11,39,Interception
+2,1,12:49,PIT 29,12,7:31,71,Touchdown
+3,1,2:27,PIT 21,11,4:49,59,Field Goal
+4,2,11:17,PIT 18,4,1:57,82,Touchdown
+5,2,7:31,PIT 31,6,2:40,8,Punt
+6,2,2:52,PIT 29,10,2:07,66,Field Goal
+7,3,10:50,PIT 22,3,1:25,9,Punt
+8,3,4:21,PIT 34,3,2:03,-9,Punt
+9,4,14:05,PIT 18,6,3:35,26,Punt
+10,4,6:33,PIT 20,11,4:40,80,Touchdown
+11,4,0:25,JAX 33,1,0:25,-1,End of Game

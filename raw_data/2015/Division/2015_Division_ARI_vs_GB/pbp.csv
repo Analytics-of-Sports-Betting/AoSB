@@ -1,0 +1,188 @@
+Quarter,Time,Down,ToGo,Location,GNB,ARI,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Packers won the coin toss and deferred, Cardinals to receive the opening kickoff.",,
+1,15:00,,,GNB 35,0,0,"Mason Crosby kicks off 70 yards, returned by Brittan Golden for 26 yards (tackle by Morgan Burnett)",0.000,-0.340
+1,14:54,1,10,ARI 21,0,0,David Johnson right tackle for 1 yard (tackle by Jake Ryan),0.340,-0.070
+1,14:13,2,9,ARI 22,0,0,Carson Palmer pass incomplete short right intended for Larry Fitzgerald,-0.070,-0.760
+1,14:08,3,9,ARI 22,0,0,Carson Palmer pass incomplete deep middle intended for Michael Floyd (defended by Sam Shields),-0.760,-1.900
+1,14:03,4,9,ARI 22,0,0,"Drew Butler punts 51 yards, returned by Micah Hyde for 20 yards (tackle by Stepfan Taylor). Penalty on Nate Palmer: Offensive Holding, 10 yards",-1.900,0.060
+1,13:47,1,10,GNB 17,0,0,"Penalty on Josh Sitton: False Start, 5 yards (no play)",-0.060,-0.510
+1,13:47,1,15,GNB 12,0,0,Eddie Lacy middle for 5 yards (tackle by Rashad Johnson),-0.510,-0.580
+1,13:27,2,10,GNB 17,0,0,Aaron Rodgers pass incomplete short right intended for Jared Abbrederis,-0.580,-1.250
+1,13:24,3,10,GNB 17,0,0,Aaron Rodgers pass incomplete deep middle intended for Jared Abbrederis,-1.250,-2.320
+1,13:19,4,10,GNB 17,0,0,"Tim Masthay punts 37 yards, returned by Patrick Peterson for 12 yards (tackle by Demetri Goodson)",-2.320,-2.790
+1,13:09,1,10,GNB 42,0,0,Carson Palmer pass complete short left to David Johnson for 12 yards (tackle by Sam Shields),2.790,3.580
+1,12:30,1,10,GNB 30,0,0,David Johnson middle for 3 yards (tackle by Morgan Burnett),3.580,3.440
+1,11:52,2,7,GNB 27,0,0,Carson Palmer pass complete short right to Larry Fitzgerald for 6 yards (tackle by Casey Hayward),3.440,3.440
+1,11:07,2,7,GNB 27,0,0,Timeout #1 by Green Bay Packers,3.440,3.530
+1,11:07,3,1,GNB 21,0,0,David Johnson left end for 2 yards (tackle by Jake Ryan),3.530,4.310
+1,10:22,1,10,GNB 19,0,0,Carson Palmer pass incomplete short right intended for John Brown,4.310,3.750
+1,10:17,2,10,GNB 19,0,0,Carson Palmer pass complete short left to David Johnson for 1 yard (tackle by Clay Matthews),3.750,3.140
+1,9:45,3,9,GNB 18,0,0,Carson Palmer pass complete short left to JJ Nelson for 8 yards (tackle by Sam Shields),3.140,2.910
+1,9:02,4,1,GNB 10,0,0,David Johnson middle for 2 yards (tackle by Clay Matthews),2.910,5.370
+1,8:19,1,8,GNB 8,0,0,"Carson Palmer sacked by Nick Perry for -5 yards. Carson Palmer fumbles (forced by Nick Perry), recovered by Carson Palmer at GNB-13",5.370,3.720
+1,7:39,2,13,GNB 13,0,0,Carson Palmer pass complete short right to David Johnson for 5 yards (tackle by Jake Ryan),3.720,3.580
+1,6:58,3,8,GNB 8,0,6,"Carson Palmer pass complete short right to Michael Floyd for 8 yards, touchdown",3.580,7.000
+1,6:58,,,GNB 8,0,7,Chandler Catanzaro kicks extra point good,0.000,0.000
+1,6:58,,,ARI 35,0,7,"Chandler Catanzaro kicks off 67 yards, returned by Jeff Janis for 27 yards (tackle by Rashad Johnson)",0.000,-0.610
+1,6:41,1,10,GNB 25,0,7,Eddie Lacy middle for 1 yard (tackle by Calais Campbell and Tony Jefferson),0.610,0.200
+1,6:10,2,9,GNB 26,0,7,Aaron Rodgers pass complete short middle to Richard Rodgers for 5 yards (tackle by Deone Bucannon and Rashad Johnson),0.200,0.170
+1,5:36,3,4,GNB 31,0,7,Aaron Rodgers pass incomplete short left intended for Richard Rodgers (defended by Tony Jefferson),0.170,-1.310
+1,5:33,4,4,GNB 31,0,7,"Tim Masthay punts 35 yards, fair catch by Patrick Peterson",-1.310,-1.200
+1,5:26,1,10,ARI 34,0,7,Andre Ellington right tackle for 5 yards (tackle by Damarious Randall),1.200,1.330
+1,4:49,2,5,ARI 39,0,7,Andre Ellington middle for 1 yard (tackle by Morgan Burnett),1.330,0.760
+1,4:09,3,4,ARI 40,0,7,Carson Palmer pass incomplete short middle intended for John Brown (defended by Casey Hayward),0.760,-0.720
+1,4:04,4,4,ARI 40,0,7,"Drew Butler punts 55 yards, out of bounds",-0.720,0.380
+1,3:53,1,10,GNB 5,0,7,Aaron Rodgers pass complete short middle to James Starks for 3 yards (tackle by Kevin Minter),-0.380,-0.560
+1,3:18,2,7,GNB 8,0,7,James Starks right tackle for 8 yards (tackle by Deone Bucannon),-0.560,-0.140
+1,2:49,1,10,GNB 16,0,7,James Starks left tackle for 6 yards (tackle by Markus Golden),-0.140,0.280
+1,2:22,2,4,GNB 22,0,7,Aaron Rodgers pass incomplete short right intended for Randall Cobb,0.280,-0.570
+1,2:15,3,4,GNB 22,0,7,Aaron Rodgers right end for 19 yards,-0.570,1.660
+1,1:36,1,10,GNB 41,0,7,Aaron Rodgers pass complete short left to James Starks for 6 yards (tackle by Tony Jefferson),1.660,1.930
+1,1:00,2,4,GNB 47,0,7,James Starks middle for -1 yards (tackle by Ed Stinson),1.930,1.090
+1,0:43,3,5,GNB 46,0,7,"Aaron Rodgers pass complete deep left to Randall Cobb for 51 yards (tackle by Justin Bethel). Penalty on Bryan Bulaga: Illegal Shift (Offsetting), Penalty on Jason Babin: Defensive 12 On-field (Offsetting), Penalty on Markus Golden: Illegal Use of Hands (Offsetting) (no play)",1.090,1.090
+1,0:10,3,5,GNB 46,0,7,Aaron Rodgers pass complete short right to Jared Abbrederis for 14 yards (tackle by Jerraud Powers),1.090,2.920
+Quarter,Time,Down,ToGo,Location,GNB,ARI,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,ARI 40,0,7,Aaron Rodgers pass complete short right to James Starks for -1 yards (tackle by Jerraud Powers),2.920,2.240
+2,14:25,2,11,ARI 41,0,7,Aaron Rodgers pass incomplete deep left intended for Jeff Janis (defended by Justin Bethel),2.240,1.550
+2,14:18,3,11,ARI 41,0,7,Aaron Rodgers pass complete short left to Jared Abbrederis for 17 yards (tackle by Justin Bethel),1.550,3.970
+2,13:47,1,10,ARI 24,0,7,"Aaron Rodgers pass incomplete short right intended for Jared Abbrederis. Penalty on Josh Sitton: Ineligible Downfield Pass, 5 yards (no play)",3.970,3.640
+2,13:40,1,15,ARI 29,0,7,Aaron Rodgers pass complete short middle to Jeff Janis for 11 yards (tackle by Tony Jefferson),3.640,4.290
+2,13:16,2,4,ARI 18,0,7,Aaron Rodgers pass incomplete deep right intended for Jared Abbrederis,4.290,3.570
+2,13:08,3,4,ARI 18,0,7,"Aaron Rodgers pass incomplete deep left intended for James Jones is intercepted by Patrick Peterson at ARI-0 and returned for 100 yards. Penalty on Patrick Peterson: Taunting (Declined), Penalty on Frostee Rucker: Illegal Use of Hands, 6 yards (no play)",3.570,4.780
+2,12:49,1,10,ARI 12,0,7,Eddie Lacy left tackle for no gain (tackle by Deone Bucannon),4.780,4.100
+2,12:16,2,10,ARI 12,0,7,Aaron Rodgers right end for 2 yards (tackle by Justin Bethel),4.100,3.480
+2,11:31,3,8,ARI 10,0,7,Aaron Rodgers pass incomplete short right intended for Jeff Janis,3.480,2.760
+2,11:27,4,8,ARI 10,3,7,Mason Crosby 28 yard field goal good,2.760,3.000
+2,11:27,,,GNB 35,3,7,"Mason Crosby kicks off 65 yards, touchback",0.000,-0.280
+2,11:22,1,10,ARI 20,3,7,Carson Palmer pass incomplete short middle intended for David Johnson,0.280,-0.270
+2,11:18,2,10,ARI 20,3,7,Carson Palmer pass complete deep right to John Brown for 19 yards (tackle by Morgan Burnett),-0.270,1.530
+2,10:43,1,10,ARI 39,3,7,David Johnson middle for no gain (tackle by Letroy Guion),1.530,0.990
+2,10:05,2,10,ARI 39,3,7,Carson Palmer sacked by Julius Peppers for -8 yards,0.990,-0.760
+2,9:23,3,18,ARI 31,3,7,Carson Palmer pass complete short left to John Brown for 15 yards (tackle by Micah Hyde and Ha Ha Clinton-Dix),-0.760,-0.320
+2,9:01,4,3,ARI 46,3,7,"Drew Butler punts 41 yards, fair catch by Jared Abbrederis",-0.320,0.320
+2,8:52,1,10,GNB 13,3,7,Eddie Lacy left tackle for -1 yards (tackle by Frostee Rucker),-0.320,-0.850
+2,8:26,2,11,GNB 12,3,7,Aaron Rodgers pass complete short right to John Kuhn for 6 yards (tackle by Jerraud Powers),-0.850,-0.830
+2,7:46,3,5,GNB 18,3,7,Aaron Rodgers pass complete short right to Richard Rodgers for 11 yards,-0.830,0.870
+2,7:09,1,10,GNB 29,3,7,Eddie Lacy right tackle for 6 yards (tackle by Kevin Minter),0.870,1.140
+2,6:33,2,4,GNB 35,3,7,Aaron Rodgers pass complete short left to Jared Abbrederis for 6 yards (tackle by Justin Bethel),1.140,1.660
+2,6:05,1,10,GNB 41,3,7,Eddie Lacy left end for 1 yard (tackle by Tony Jefferson),1.660,1.260
+2,5:25,2,9,GNB 42,3,7,Aaron Rodgers pass complete short middle to Eddie Lacy for 4 yards (tackle by Josh Mauro),1.260,1.090
+2,4:45,3,5,GNB 46,3,7,Aaron Rodgers pass complete short middle to Jared Abbrederis for 18 yards (tackle by Jerraud Powers),1.090,3.180
+2,4:06,1,10,ARI 36,3,7,Aaron Rodgers pass incomplete deep middle intended for Jeff Janis,3.180,2.640
+2,3:59,2,10,ARI 36,3,7,Aaron Rodgers pass complete short right to Jeff Janis for 6 yards (tackle by Justin Bethel),2.640,2.740
+2,3:21,3,4,ARI 30,3,7,Aaron Rodgers pass complete short right to Jeff Janis for 6 yards (tackle by Justin Bethel),2.740,3.970
+2,2:51,1,10,ARI 24,3,7,Eddie Lacy middle for -1 yards (tackle by Tony Jefferson),3.970,3.300
+2,2:10,2,11,ARI 25,3,7,Aaron Rodgers pass complete short right to Jeff Janis for 13 yards (tackle by Justin Bethel),3.300,4.780
+2,2:00,1,10,ARI 12,3,7,Aaron Rodgers pass complete short right to James Starks for -4 yards (tackle by Kevin Minter),4.780,3.530
+2,1:15,2,14,ARI 16,3,7,Aaron Rodgers pass incomplete deep right intended for Richard Rodgers,3.530,3.530
+2,1:07,2,14,ARI 16,3,7,Timeout #2 by Green Bay Packers,3.530,2.930
+2,1:07,3,14,ARI 16,3,7,Aaron Rodgers pass incomplete deep middle intended for Jared Abbrederis,2.930,2.380
+2,1:01,4,14,ARI 16,6,7,Mason Crosby 34 yard field goal good,2.380,3.000
+2,1:01,,,GNB 35,6,7,"Mason Crosby kicks off 65 yards, touchback",0.000,-0.280
+2,0:57,1,10,ARI 20,6,7,Carson Palmer pass incomplete short middle intended for Michael Floyd (defended by Ha Ha Clinton-Dix),0.280,-0.270
+2,0:51,2,10,ARI 20,6,7,Carson Palmer sacked by Mike Daniels for -8 yards,-0.270,-0.270
+2,0:42,2,10,ARI 20,6,7,Timeout #3 by Green Bay Packers,-0.270,-2.360
+2,0:42,3,18,ARI 12,6,7,David Johnson middle for 8 yards (tackle by Clay Matthews),-2.360,-2.030
+Quarter,Time,Down,ToGo,Location,GNB,ARI,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,ARI 35,6,7,"Chandler Catanzaro kicks off 65 yards, touchback",0.000,-0.280
+3,15:00,1,10,GNB 20,6,7,Eddie Lacy left end for no gain (tackle by Kevin Minter),0.280,-0.270
+3,14:30,2,10,GNB 20,6,7,Aaron Rodgers pass complete short middle to Richard Rodgers for 15 yards (tackle by Tony Jefferson),-0.270,1.270
+3,13:57,1,10,GNB 35,6,7,Aaron Rodgers pass incomplete short left intended for Jared Abbrederis is intercepted by Rashad Johnson at GNB-48 and returned for 1 yard,1.270,-2.460
+3,13:50,1,10,GNB 47,6,7,David Johnson right tackle for -1 yards (tackle by Clay Matthews),2.460,1.780
+3,13:34,2,11,GNB 48,6,7,Carson Palmer pass incomplete deep left intended for John Brown,1.780,1.090
+3,13:28,3,11,GNB 48,6,7,Carson Palmer pass incomplete deep right intended for Michael Floyd is intercepted by Ha Ha Clinton-Dix at GNB-19,1.090,-0.150
+3,13:22,1,10,GNB 19,6,7,Aaron Rodgers pass complete short right to Eddie Lacy for -2 yards (tackle by Tony Jefferson),0.150,-0.720
+3,12:47,2,12,GNB 17,6,7,Eddie Lacy middle for 14 yards (tackle by Rashad Johnson),-0.720,1.000
+3,12:14,1,10,GNB 31,6,7,Eddie Lacy middle for 61 yards (tackle by Rashad Johnson),1.000,5.370
+3,11:20,1,8,ARI 8,6,7,James Starks left end for no gain (tackle by Ed Stinson),5.370,4.570
+3,10:36,2,8,ARI 8,6,7,Aaron Rodgers pass incomplete,4.570,4.570
+3,10:25,2,8,ARI 8,6,7,Timeout #1 by Green Bay Packers,4.570,3.580
+3,10:25,3,8,ARI 8,12,7,"Aaron Rodgers pass complete short right to Jeff Janis for 8 yards, touchdown",3.580,7.000
+3,10:25,,,ARI 8,13,7,Mason Crosby kicks extra point good,0.000,0.000
+3,10:25,,,GNB 35,13,7,"Mason Crosby kicks off 60 yards, returned by JJ Nelson for 11 yards (tackle by Chris Banjo)",0.000,0.140
+3,10:12,1,10,ARI 16,13,7,Carson Palmer pass complete short right to Larry Fitzgerald for 4 yards (tackle by Damarious Randall),-0.140,0.010
+3,9:38,2,6,ARI 20,13,7,Carson Palmer pass complete deep right to Larry Fitzgerald for 32 yards (tackle by Damarious Randall),0.010,2.390
+3,8:58,1,10,GNB 48,13,7,"Penalty on Carson Palmer: Delay of Game, 5 yards (no play)",2.390,2.060
+3,8:37,1,15,ARI 47,13,7,"Carson Palmer pass complete short middle to Darren Fells for 11 yards (tackle by Clay Matthews and Casey Hayward). Penalty on B.J. Raji: Unnecessary Roughness, 15 yards",2.060,3.780
+3,8:11,1,10,GNB 27,13,7,David Johnson middle for 1 yard (tackle by Joe Thomas),3.780,3.370
+3,7:35,2,9,GNB 26,13,7,Carson Palmer pass complete short middle to Larry Fitzgerald for 19 yards (tackle by Casey Hayward),3.370,5.600
+3,6:54,1,7,GNB 7,13,7,"John Brown right end for 2 yards (tackle by Datone Jones). Penalty on Larry Fitzgerald: Illegal Blindside Block, 15 yards",5.600,4.240
+3,6:24,1,20,GNB 20,13,7,Carson Palmer pass complete short middle to David Johnson for 5 yards (tackle by Jake Ryan),4.240,3.460
+3,5:41,2,15,GNB 15,13,7,"Penalty on Datone Jones: Defensive 12 On-field, 5 yards (no play)",3.460,4.190
+3,5:19,2,10,GNB 10,13,7,Carson Palmer pass incomplete short middle intended for David Johnson,4.190,3.130
+3,5:14,3,10,GNB 10,13,7,Carson Palmer pass incomplete short left intended for David Johnson,3.130,2.760
+3,5:09,4,10,GNB 10,13,10,Chandler Catanzaro 28 yard field goal good,2.760,3.000
+3,5:09,,,ARI 35,13,10,"Chandler Catanzaro kicks off 65 yards, returned by Jeff Janis for 35 yards (tackle by Chris Clemons)",0.000,-1.270
+3,4:58,1,10,GNB 35,13,10,Eddie Lacy right end for 2 yards (tackle by Rodney Gunter),1.270,0.990
+3,4:15,2,8,GNB 37,13,10,"Penalty on John Kuhn: False Start, 5 yards (no play)",0.990,0.320
+3,3:49,2,13,GNB 32,13,10,Aaron Rodgers pass incomplete deep left intended for Jared Abbrederis,0.320,-0.360
+3,3:42,3,13,GNB 32,13,10,Aaron Rodgers pass complete short left to Richard Rodgers for 3 yards (tackle by Deone Bucannon and Jerraud Powers),-0.360,-1.040
+3,2:57,4,10,GNB 35,13,10,"Tim Masthay punts 34 yards, out of bounds",-1.040,-1.000
+3,2:50,1,10,ARI 31,13,10,Carson Palmer pass complete deep left to Larry Fitzgerald for 22 yards,1.000,2.460
+,,,,,,,"GNB challenged the pass completion ruling, and the play was upheld.",,
+3,2:20,1,10,GNB 47,13,10,David Johnson middle for 2 yards (tackle by Clay Matthews),2.460,2.180
+3,1:40,2,8,GNB 45,13,10,"Carson Palmer pass complete short middle to Larry Fitzgerald for 1 yard (tackle by Casey Hayward). Penalty on Morgan Burnett: Defensive Holding, 5 yards (no play)",2.180,2.920
+3,1:17,1,10,GNB 40,13,10,David Johnson middle for 2 yards (tackle by Nick Perry),2.920,2.640
+3,0:37,2,8,GNB 38,13,10,Carson Palmer pass complete short left to David Johnson for 10 yards (tackle by Sam Shields),2.640,3.710
+Quarter,Time,Down,ToGo,Location,GNB,ARI,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,GNB 28,13,10,Carson Palmer pass complete short left to John Brown for 18 yards (tackle by Jake Ryan),3.710,4.910
+4,14:18,1,10,GNB 10,13,10,Carson Palmer pass incomplete short right intended for John Brown is intercepted by Damarious Randall at GNB-0,4.910,-0.280
+4,14:10,1,10,GNB 20,13,10,James Starks right tackle for 1 yard (tackle by Deone Bucannon),0.280,-0.130
+4,13:29,2,9,GNB 21,13,10,Aaron Rodgers pass complete short left to Richard Rodgers for 11 yards (tackle by Markus Golden),-0.130,1.070
+4,12:54,1,10,GNB 32,13,10,James Starks middle for 9 yards (tackle by Tony Jefferson),1.070,1.740
+4,12:26,2,1,GNB 41,13,10,John Kuhn middle for 2 yards (tackle by Deone Bucannon),1.740,1.800
+4,11:53,1,10,GNB 43,13,10,James Starks left tackle for no gain (tackle by Ed Stinson),1.800,1.250
+4,11:13,2,10,GNB 43,13,10,Aaron Rodgers pass incomplete deep middle intended for James Jones,1.250,0.560
+4,11:04,3,10,GNB 43,13,10,Aaron Rodgers pass incomplete short middle intended for Richard Rodgers,0.560,-0.520
+,,,,,,,"ARI challenged the pass completion ruling, and the original play was overturned.",,
+4,11:01,4,10,GNB 43,13,10,"Tim Masthay punts 37 yards, fair catch by Patrick Peterson",-0.520,-0.280
+4,10:53,1,10,ARI 20,13,10,Carson Palmer pass incomplete short left intended for Andre Ellington,0.280,-0.270
+4,10:49,2,10,ARI 20,13,10,Carson Palmer pass complete deep left to John Brown for 21 yards (tackle by Ha Ha Clinton-Dix),-0.270,1.660
+4,10:12,1,10,ARI 41,13,10,Andre Ellington left tackle for -3 yards (tackle by Nick Perry),1.660,0.720
+4,9:31,2,13,ARI 38,13,10,Carson Palmer pass complete short left to Larry Fitzgerald for 13 yards (tackle by Casey Hayward),0.720,2.320
+4,8:50,1,10,GNB 49,13,10,David Johnson middle for 3 yards (tackle by Mike Pennel),2.320,2.190
+4,8:17,2,7,GNB 46,13,10,Carson Palmer pass complete short left to Darren Fells for 3 yards (tackle by Ha Ha Clinton-Dix),2.190,1.880
+4,7:36,3,4,GNB 43,13,10,Carson Palmer pass complete short middle to Michael Floyd for 9 yards (tackle by Morgan Burnett),1.880,3.310
+4,6:54,1,10,GNB 34,13,10,David Johnson middle for 8 yards (tackle by Jake Ryan and Nick Perry),3.310,3.850
+4,6:12,2,2,GNB 26,13,10,David Johnson middle for -2 yards (tackle by B.J. Raji),3.850,2.870
+4,5:27,3,4,GNB 28,13,10,Carson Palmer pass complete short right to John Brown for 9 yards (tackle by Datone Jones),2.870,4.310
+4,4:46,1,10,GNB 19,13,10,Carson Palmer pass incomplete deep right intended for Michael Floyd (defended by Sam Shields),4.310,3.750
+4,4:40,2,10,GNB 19,13,10,Carson Palmer pass incomplete deep right intended for Larry Fitzgerald,3.750,3.030
+4,4:32,3,10,GNB 19,13,10,Carson Palmer pass complete short middle to David Johnson for 10 yards (tackle by Joe Thomas),3.030,5.140
+4,3:50,1,9,GNB 9,13,16,"Carson Palmer pass complete short right to Michael Floyd for 9 yards, touchdown",5.140,7.000
+4,3:50,,,GNB 9,13,17,Chandler Catanzaro kicks extra point good,0.000,0.000
+4,3:50,,,ARI 35,13,17,"Chandler Catanzaro kicks off 65 yards, touchback",0.000,-0.280
+4,3:44,1,10,GNB 20,13,17,Aaron Rodgers pass complete short middle to John Kuhn for 4 yards (tackle by Deone Bucannon),0.280,0.270
+4,3:20,2,6,GNB 24,13,17,Eddie Lacy right tackle for 1 yard (tackle by Calais Campbell and Markus Golden),0.270,-0.300
+4,2:47,3,5,GNB 25,13,17,Aaron Rodgers pass incomplete short left intended for Jared Abbrederis (defended by Jerraud Powers),-0.300,-1.700
+4,2:42,4,5,GNB 25,13,17,Aaron Rodgers pass incomplete short right intended for James Jones,-1.700,-3.970
+4,2:38,1,10,GNB 24,13,17,David Johnson middle for 2 yards (tackle by Mike Pennel),3.970,3.970
+4,2:34,1,10,GNB 24,13,17,Timeout #3 by Green Bay Packers,3.970,3.700
+4,2:34,2,8,GNB 22,13,17,Carson Palmer pass incomplete short left intended for Larry Fitzgerald,3.700,3.010
+4,2:29,3,8,GNB 22,13,17,David Johnson right end for 4 yards (tackle by Ha Ha Clinton-Dix),3.010,2.320
+4,2:00,4,4,GNB 18,13,20,Chandler Catanzaro 36 yard field goal good,2.320,3.000
+4,2:00,,,ARI 35,13,20,"Chandler Catanzaro kicks off 66 yards, returned by Jeff Janis for 15 yards (tackle by Jaron Brown)",0.000,0.280
+4,1:50,1,10,GNB 14,13,20,Aaron Rodgers pass incomplete deep left intended for Jared Abbrederis,-0.280,-0.750
+4,1:45,2,10,GNB 14,13,20,Aaron Rodgers sacked by Dwight Freeney for -10 yards,-0.750,-2.590
+4,1:05,3,20,GNB 4,13,20,Aaron Rodgers pass incomplete deep left intended for Jeff Janis (defended by Jerraud Powers),-2.590,-2.590
+4,0:55,3,20,GNB 4,13,20,Timeout #1 by Arizona Cardinals,-2.590,-2.490
+4,0:55,4,20,GNB 4,13,20,Aaron Rodgers pass complete deep left to Jeff Janis for 60 yards (tackle by Tony Jefferson),-2.490,3.180
+4,0:21,1,10,ARI 36,13,20,"Aaron Rodgers pass incomplete deep left intended for Jeff Janis (defended by Justin Bethel). Penalty on Richard Rodgers: Illegal Motion, 5 yards (no play)",3.180,3.180
+4,0:12,1,10,ARI 36,13,20,Timeout #2 by Arizona Cardinals,3.180,2.850
+4,0:12,1,15,ARI 41,13,20,Aaron Rodgers pass incomplete,2.850,2.850
+4,0:05,1,15,ARI 41,13,20,Timeout #3 by Arizona Cardinals,2.850,1.960
+4,0:05,2,15,ARI 41,19,20,"Aaron Rodgers pass complete deep middle to Jeff Janis for 41 yards, touchdown",1.960,7.000
+4,0:05,,,ARI 41,20,20,Mason Crosby kicks extra point good,0.000,0.000
+Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime
+Quarter,Time,Down,ToGo,Location,GNB,ARI,Detail,EPB,EPA
+,,,,,,,"Cardinals won the coin toss, Cardinals to receive the overtime kickoff.",,
+OT,15:00,,,GNB 35,20,20,"Mason Crosby kicks off 65 yards, touchback",0.000,-0.280
+OT,15:00,1,10,ARI 20,20,20,Carson Palmer pass complete short left to Larry Fitzgerald for 75 yards (tackle by Casey Hayward),0.280,0.280
+OT,14:04,1,10,ARI 20,20,20,Timeout #1 by Arizona Cardinals,0.280,6.060
+OT,14:04,1,5,GNB 5,20,20,Carson Palmer pass incomplete short right intended for Larry Fitzgerald,6.060,5.150
+OT,14:00,2,5,GNB 5,20,26,"Carson Palmer pass complete short middle to Larry Fitzgerald for 5 yards, touchdown",5.150,7.000
+End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime

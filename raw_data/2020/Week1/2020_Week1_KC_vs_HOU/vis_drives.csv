@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,HOU 25,3,0:53,0,Punt
+2,1,10:06,HOU 20,9,5:12,80,Touchdown
+3,2,14:13,HOU 25,4,2:43,25,Punt
+4,2,2:26,HOU 20,11,2:01,47,Missed FG
+5,3,10:53,HOU 21,8,4:56,27,Punt
+6,3,1:12,HOU 5,4,1:57,31,Interception
+7,4,11:25,HOU 25,10,4:10,75,Touchdown
+8,4,5:29,HOU 35,7,2:51,65,Touchdown
+9,4,0:30,HOU 25,3,0:30,5,End of Game

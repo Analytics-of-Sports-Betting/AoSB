@@ -1,0 +1,172 @@
+Quarter,Time,Down,ToGo,Location,DAL,BAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Cowboys won the coin toss, Cowboys to receive the opening kickoff.",,
+1,15:00,,,BAL 30,0,0,"Wade Richey kicks off 65 yards, returned by ReShard Lee for 17 yards (tackle by Bart Scott)",0.000,0.410
+1,14:56,1,10,DAL 22,0,0,"Penalty on Flozell Adams: False Start, 5 yards (no play)",0.410,-0.120
+1,14:56,1,15,DAL 17,0,0,Vinny Testaverde pass complete to Quincy Morgan for 10 yards (tackle by Gary Baxter),-0.120,0.540
+1,14:22,2,5,DAL 27,0,0,Vinny Testaverde pass incomplete intended for Quincy Morgan,0.540,-0.160
+1,14:18,3,5,DAL 27,0,0,Julius Jones up the middle for -2 yards (tackle by Chad Williams and Terrell Suggs),-0.160,-1.700
+1,13:37,4,7,DAL 25,0,0,"Mat McBriar punts 55 yards, returned by B.J. Sams for 18 yards (tackle by Alshermond Singleton)",-1.700,-1.470
+1,13:20,1,10,BAL 38,0,0,Kyle Boller pass incomplete intended for Travis Taylor,1.470,0.920
+1,13:14,2,10,BAL 38,0,0,Jamal Lewis left tackle for 1 yard (tackle by Dat Nguyen),0.920,0.370
+1,12:38,3,9,BAL 39,0,0,Kyle Boller pass incomplete intended for Clarence Moore,0.370,-0.780
+1,12:34,4,9,BAL 39,0,0,"Nick Murphy punts 41 yards, returned by Lance Frazier for 18 yards (tackle by Musa Smith)",-0.780,-1.470
+1,12:23,1,10,DAL 38,0,0,Eddie George right tackle for 4 yards (tackle by Ma'ake Kemoeatu),1.470,1.460
+1,11:41,,,,0,0,Timeout #1 by Dallas Cowboys,0.000,1.460
+1,11:41,2,6,DAL 42,0,0,Eddie George left guard for 1 yard (tackle by Will Demps and Ray Lewis),1.460,0.890
+1,11:01,3,5,DAL 43,0,0,Vinny Testaverde pass incomplete intended for Quincy Morgan. Penalty on Brett Pierce: Offensive Holding (Declined),0.890,-0.520
+1,10:53,4,5,DAL 43,0,0,"Mat McBriar punts 47 yards, returned by B.J. Sams for no gain",-0.520,0.380
+1,10:43,1,10,BAL 10,0,0,Chester Taylor right guard for 2 yards (tackle by Greg Ellis and Dat Nguyen),-0.380,-0.630
+1,10:11,2,8,BAL 12,0,0,Kyle Boller pass complete to Jamal Lewis for 3 yards (tackle by Leonardo Carson),-0.630,-0.840
+1,9:29,3,5,BAL 15,0,0,Kyle Boller pass complete to Kevin Johnson for 1 yard (tackle by Dexter Coakley),-0.840,-2.390
+1,8:51,4,4,BAL 16,0,0,"Nick Murphy punts 54 yards, returned by Lance Frazier for 15 yards (tackle by Musa Smith)",-2.390,-1.930
+1,8:40,1,10,DAL 45,0,0,Julius Jones right guard for 6 yards (tackle by Kelly Gregg),1.930,2.190
+1,8:04,2,4,BAL 49,0,0,Julius Jones left tackle for 3 yards (tackle by Ma'ake Kemoeatu and Ed Hartwell),2.190,1.880
+1,7:27,3,1,BAL 46,0,0,Eddie George left guard for no gain (tackle by Ed Hartwell and Ray Lewis),1.880,0.200
+1,6:41,4,1,BAL 46,0,0,"Mat McBriar punts 32 yards, fair catch by B.J. Sams",0.200,0.280
+1,6:32,1,10,BAL 14,0,0,Jamal Lewis left tackle for 4 yards (tackle by Greg Ellis),-0.280,-0.210
+1,5:55,2,6,BAL 18,0,0,"Kyle Boller pass complete to Travis Taylor for 2 yards (tackle by Alshermond Singleton). Travis Taylor fumbles (forced by Alshermond Singleton), recovered by Lance Frazier at BAL-15",-0.210,-4.580
+1,5:50,1,10,BAL 15,0,0,Vinny Testaverde pass complete to Jason Witten for 13 yards (tackle by Gary Baxter),4.580,6.740
+1,5:16,1,2,BAL 2,0,0,Julius Jones up the middle for no gain (tackle by Terrell Suggs and Gary Baxter),6.740,5.720
+1,4:41,2,2,BAL 2,0,0,Julius Jones up the middle for 1 yard (tackle by Kelly Gregg and Ed Reed),5.720,5.170
+1,4:00,3,1,BAL 1,0,0,Vinny Testaverde pass incomplete intended for Keyshawn Johnson (defended by Gary Baxter),5.170,3.550
+1,3:56,4,1,BAL 1,3,0,Billy Cundiff 19 yard field goal good,3.550,3.000
+1,,,,DAL 30,3,0,"Billy Cundiff kicks off 55 yards, returned by B.J. Sams for 7 yards (tackle by Bradie James)",0.000,0.410
+1,3:46,1,10,BAL 22,3,0,Kyle Boller pass complete to Travis Taylor for 13 yards (tackle by Lynn Scott),0.410,1.270
+1,3:05,1,10,BAL 35,3,0,Kyle Boller left guard for 7 yards (tackle by Alshermond Singleton),1.270,1.670
+1,2:27,2,3,BAL 42,3,0,Chester Taylor right guard for 2 yards (tackle by Marcellus Wiley),1.670,1.220
+1,1:47,3,1,BAL 44,3,0,Musa Smith right tackle for 12 yards (tackle by Roy Williams),1.220,2.650
+1,1:24,1,10,DAL 44,3,0,Chester Taylor up the middle for no gain (tackle by La'Roi Glover),2.650,2.110
+1,0:49,2,10,DAL 44,3,0,Kyle Boller pass complete to Chester Taylor for 5 yards (tackle by Alshermond Singleton),2.110,2.080
+1,0:12,3,5,DAL 39,3,0,Randy Hymes pass incomplete intended for Chester Taylor,2.080,0.660
+1,0:06,4,5,DAL 39,3,0,Nick Murphy punts 30 yards,0.660,0.380
+Quarter,Time,Down,ToGo,Location,DAL,BAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,DAL 9,3,0,Vinny Testaverde pass incomplete intended for Keyshawn Johnson,-0.380,-0.780
+2,14:58,2,10,DAL 9,3,0,"Penalty on Flozell Adams: False Start, 5 yards",-0.780,-1.150
+2,14:58,2,15,DAL 4,3,0,Julius Jones right tackle for 5 yards (tackle by Ray Lewis),-1.150,-1.420
+2,14:24,3,10,DAL 9,3,0,Vinny Testaverde pass complete to Terrance Copper for 22 yards (tackle by Will Demps),-1.420,1.000
+2,13:39,1,10,DAL 31,3,0,Julius Jones left guard for 6 yards (tackle by Kelly Gregg and Ed Hartwell),1.000,1.270
+2,13:01,2,4,DAL 37,3,0,Julius Jones up the middle for 11 yards (tackle by Gary Baxter and Raymond Walls),1.270,2.130
+2,12:24,1,10,DAL 48,3,0,Julius Jones up the middle for 1 yard (tackle by Ed Hartwell and Terrell Suggs),2.130,1.720
+2,11:34,2,9,DAL 49,3,0,Vinny Testaverde pass complete to Keyshawn Johnson for 16 yards (tackle by Ray Lewis),1.720,3.250
+2,11:02,1,10,BAL 35,3,0,Julius Jones left end for 3 yards (tackle by Ed Hartwell),3.250,3.110
+2,10:14,2,7,BAL 32,3,0,Julius Jones left guard for 2 yards (tackle by Kelly Gregg and Marques Douglas),3.110,2.680
+2,9:34,3,5,BAL 30,3,0,Julius Jones up the middle for 5 yards (tackle by Adalius Thomas),2.680,3.910
+2,8:54,1,10,BAL 25,3,0,Julius Jones left tackle for 3 yards (tackle by Ray Lewis),3.910,3.770
+2,8:13,2,7,BAL 22,3,0,"Vinny Testaverde pass complete to Quincy Morgan for 14 yards. Penalty on ReShard Lee: Illegal Formation, 5 yards (no play)",3.770,3.090
+2,7:50,2,12,BAL 27,3,0,Julius Jones up the middle for 4 yards (tackle by Anthony Weaver),3.090,2.940
+2,7:03,3,8,BAL 23,3,0,Vinny Testaverde pass incomplete intended for Quincy Morgan,2.940,1.930
+2,6:58,4,8,BAL 23,3,0,Billy Cundiff 41 yard field goal no good,1.930,-1.000
+2,6:54,1,10,BAL 31,3,0,Kyle Boller pass incomplete intended for Travis Taylor,1.000,0.460
+2,6:50,2,10,BAL 31,3,0,Kyle Boller pass complete to Travis Taylor for 9 yards (tackle by Roy Williams),0.460,0.960
+2,6:11,3,1,BAL 40,3,0,Chester Taylor left guard for 1 yard (tackle by Leonardo Carson and Alshermond Singleton),0.960,1.660
+2,5:48,1,10,BAL 41,3,0,"Penalty on Bennie Anderson: False Start, 5 yards (no play)",1.660,1.330
+2,5:29,1,15,BAL 36,3,0,Kyle Boller pass complete to Clarence Moore for 24 yards (tackle by Lynn Scott),1.330,2.920
+2,4:53,1,10,DAL 40,3,0,Chester Taylor left tackle for 3 yards (tackle by Greg Ellis and Bradie James),2.920,2.780
+2,4:16,2,7,DAL 37,3,0,Chester Taylor right tackle for -1 yards (tackle by Greg Ellis),2.780,1.950
+2,3:34,3,8,DAL 38,3,0,Kyle Boller pass complete to Daniel Wilcox for 3 yards (tackle by Dat Nguyen),1.950,0.980
+2,2:48,4,5,DAL 35,3,0,Kyle Boller pass incomplete intended for Kevin Johnson (defended by Lance Frazier),0.980,-1.270
+2,2:45,1,10,DAL 35,3,0,Julius Jones up the middle for 1 yard (tackle by Ray Lewis and Ed Hartwell),1.270,0.860
+2,2:11,,,,3,0,Timeout #1 by Baltimore Ravens,0.000,0.860
+2,2:11,2,9,DAL 36,3,0,Vinny Testaverde pass complete to Keyshawn Johnson for 11 yards (tackle by Gary Baxter),0.860,2.060
+2,2:00,1,10,DAL 47,3,0,Vinny Testaverde pass complete to Quincy Morgan for 11 yards,2.060,2.790
+2,1:56,1,10,BAL 42,3,0,Vinny Testaverde pass complete to Jason Witten for 7 yards (tackle by Ed Reed),2.790,3.190
+2,1:25,2,3,BAL 35,3,0,Julius Jones left tackle for -2 yards (tackle by Ed Hartwell),3.190,2.210
+2,0:45,3,5,BAL 37,3,0,Vinny Testaverde pass incomplete intended for Keyshawn Johnson (defended by Gary Baxter),2.210,0.790
+2,0:39,,,,3,0,Timeout #2 by Dallas Cowboys,0.000,0.790
+2,0:39,4,5,BAL 37,3,0,Vinny Testaverde pass incomplete intended for Keyshawn Johnson (defended by Ed Reed),0.790,-1.400
+2,0:34,1,10,BAL 37,3,0,Kyle Boller pass complete to Chester Taylor for 5 yards (tackle by Terence Newman),1.400,1.530
+2,0:24,,,,3,0,Timeout #2 by Baltimore Ravens,0.000,1.530
+2,0:24,2,5,BAL 42,3,0,Kyle Boller left end for 3 yards (tackle by Lance Frazier),1.530,1.220
+2,0:16,3,2,BAL 45,3,0,"Kyle Boller pass complete to Kevin Johnson for 12 yards (tackle by Terence Newman). Kevin Johnson fumbles (forced by Terence Newman), recovered by Dexter Coakley at DAL-42",1.220,-1.730
+2,0:09,1,10,DAL 42,3,0,Vinny Testaverde pass incomplete intended for Quincy Morgan (defended by Will Demps),1.730,1.190
+2,0:04,2,10,DAL 42,3,0,Vinny Testaverde pass incomplete intended for Quincy Morgan (defended by Ed Reed),1.190,0.500
+Quarter,Time,Down,ToGo,Location,DAL,BAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DAL 30,3,0,"Billy Cundiff kicks off 69 yards, returned by B.J. Sams for 22 yards (tackle by Tony Dixon)",0.000,0.480
+3,14:54,1,10,BAL 23,3,0,Kyle Boller pass complete to Travis Taylor for 13 yards (tackle by Lance Frazier),0.480,1.330
+3,14:27,1,10,BAL 36,3,0,Chester Taylor right tackle for no gain (tackle by Dat Nguyen and Dexter Coakley),1.330,0.790
+3,13:54,2,10,BAL 36,3,0,Kyle Boller pass complete to Alan Ricard for 5 yards (tackle by Dat Nguyen),0.790,0.760
+3,13:22,3,5,BAL 41,3,0,Kyle Boller pass incomplete intended for Kevin Johnson,0.760,-0.650
+3,13:13,4,5,BAL 41,3,0,Nick Murphy punts 28 yards,-0.650,-1.000
+3,13:03,1,10,DAL 31,3,0,Julius Jones up the middle for -1 yards (tackle by Ed Hartwell),1.000,0.320
+3,12:29,2,11,DAL 30,3,0,Vinny Testaverde right end for 1 yard (tackle by Ed Hartwell),0.320,-0.230
+3,11:56,3,10,DAL 31,3,0,Vinny Testaverde pass complete to Jason Witten for 9 yards (tackle by Ray Lewis). Penalty on Jason Witten: Offensive Pass Interference (Declined),-0.230,-0.720
+3,11:33,4,1,DAL 40,3,0,"Mat McBriar punts 45 yards, returned by B.J. Sams for 7 yards (tackle by Terrance Copper)",-0.720,-0.410
+3,11:21,1,10,BAL 22,3,0,Chester Taylor right guard for 3 yards (tackle by Bradie James),0.410,0.270
+3,10:48,2,7,BAL 25,3,0,Kyle Boller pass complete to Darnell Dinkins for 8 yards (tackle by Dexter Coakley),0.270,1.140
+3,10:16,1,10,BAL 33,3,0,Kyle Boller pass complete to Chester Taylor for 2 yards (tackle by Terence Newman),1.140,0.860
+3,9:04,2,8,BAL 35,3,0,Kyle Boller pass complete to Darnell Dinkins for 15 yards (tackle by Alshermond Singleton),0.860,2.260
+3,8:58,1,10,BAL 50,3,0,Kyle Boller pass complete to Daniel Wilcox for 20 yards (tackle by Roy Williams),2.260,3.580
+3,8:22,1,10,DAL 30,3,0,Kyle Boller pass incomplete intended for Travis Taylor (defended by Greg Ellis),3.580,3.030
+3,8:18,2,10,DAL 30,3,0,Chester Taylor up the middle for 1 yard (tackle by Alshermond Singleton),3.030,2.480
+3,7:42,3,9,DAL 29,3,0,Kyle Boller pass complete to Travis Taylor for 12 yards (tackle by Dat Nguyen),2.480,4.440
+3,7:00,1,10,DAL 17,3,6,"Kyle Boller pass complete to Darnell Dinkins for 17 yards, touchdown",4.440,7.000
+3,,,,DAL 2,3,7,Matt Stover kicks extra point good,0.000,0.000
+3,,,,BAL 30,3,7,"Wade Richey kicks off 61 yards, returned by Terrance Copper for 39 yards (tackle by Wade Richey)",0.000,2.130
+3,6:45,1,10,DAL 48,3,7,Vinny Testaverde pass incomplete intended for Keyshawn Johnson is intercepted by Ed Reed at BAL-35 and returned for 2 yards (tackle by Terrance Copper),2.130,-1.400
+3,6:37,1,10,BAL 37,3,7,Chester Taylor right tackle for 4 yards (tackle by Dexter Coakley and Lynn Scott),1.400,1.400
+3,6:03,2,6,BAL 41,3,7,Chester Taylor right tackle for 9 yards (tackle by Lynn Scott),1.400,2.260
+3,5:27,1,10,BAL 50,3,7,Kyle Boller pass complete to Travis Taylor for 19 yards (tackle by Lynn Scott),2.260,3.510
+3,4:47,1,10,DAL 31,3,7,Kyle Boller pass incomplete intended for Alan Ricard (defended by Greg Ellis),3.510,2.970
+3,4:42,2,10,DAL 31,3,7,Kyle Boller pass incomplete intended for Travis Taylor,2.970,2.280
+3,4:38,3,10,DAL 31,3,13,"Kyle Boller pass complete to Kevin Johnson for 31 yards, touchdown. Penalty on Lance Frazier: Illegal Contact (Declined)",2.280,7.000
+3,,,,DAL 2,3,14,Matt Stover kicks extra point good,0.000,0.000
+3,,,,BAL 30,3,14,"Wade Richey kicks off 68 yards, returned by ReShard Lee for 16 yards (tackle by Adalius Thomas)",0.000,0.040
+3,4:24,1,10,DAL 18,3,14,Julius Jones left guard for 7 yards (tackle by Ed Hartwell and Will Demps),0.040,0.550
+3,3:47,2,3,DAL 25,3,14,Julius Jones up the middle for 2 yards (tackle by Ed Hartwell and Kelly Gregg),0.550,-0.020
+3,3:06,3,1,DAL 27,3,14,Julius Jones left guard for no gain (tackle by Terrell Suggs and Ray Lewis),-0.020,-1.570
+3,2:20,4,1,DAL 27,3,14,"Mat McBriar punts 37 yards, returned by B.J. Sams for no gain",-1.570,-1.330
+3,2:13,1,10,BAL 36,3,14,Chester Taylor right tackle for 1 yard (tackle by Marcellus Wiley and Alshermond Singleton),1.330,0.930
+3,1:38,2,9,BAL 37,3,14,Chester Taylor right tackle for 3 yards (tackle by Dat Nguyen and Dexter Coakley),0.930,0.630
+3,1:00,3,6,BAL 40,3,14,Kyle Boller pass incomplete intended for Kevin Johnson,0.630,-0.720
+3,0:52,4,6,BAL 40,3,14,Nick Murphy punts 47 yards,-0.720,0.320
+3,0:44,1,10,DAL 13,3,14,"Penalty on Flozell Adams: False Start, 5 yards (no play)",-0.320,-0.570
+3,0:44,1,15,DAL 8,3,14,Vinny Testaverde pass incomplete intended for Terrance Copper,-0.570,-1.150
+3,0:40,2,15,DAL 8,3,14,"Vinny Testaverde pass complete to Jason Witten for 8 yards. Penalty on Chad Williams: Defensive Holding, 5 yards (no play)",-1.150,-0.320
+3,0:09,1,10,DAL 13,3,14,Vinny Testaverde sacked by Terrell Suggs for -7 yards,-0.320,-1.290
+Quarter,Time,Down,ToGo,Location,DAL,BAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,17,DAL 6,3,14,Julius Jones up the middle for 5 yards (tackle by Adalius Thomas and Kelly Gregg),-1.290,-1.650
+4,14:23,3,12,DAL 11,3,14,Vinny Testaverde pass incomplete intended for Quincy Morgan (defended by Raymond Walls),-1.650,-2.490
+4,14:15,4,12,DAL 11,3,14,Mat McBriar punts 34 yards,-2.490,-2.590
+4,14:06,1,10,DAL 45,3,14,Kyle Boller pass incomplete intended for Clarence Moore (defended by Lance Frazier),2.590,2.040
+4,14:00,2,10,DAL 45,3,14,Chester Taylor right end for 4 yards (tackle by Dexter Coakley and La'Roi Glover),2.040,1.880
+4,13:21,3,6,DAL 41,3,14,Kyle Boller pass complete to Kevin Johnson for 7 yards (tackle by Terence Newman),1.880,3.310
+4,12:40,1,10,DAL 34,3,14,Kyle Boller sacked by Kenyon Coleman for -4 yards,3.310,2.230
+4,12:10,2,14,DAL 38,3,14,Kyle Boller pass complete to Chester Taylor for 6 yards (tackle by Dexter Coakley),2.230,2.350
+4,11:33,3,8,DAL 32,3,14,Kyle Boller pass incomplete intended for Travis Taylor,2.350,1.240
+4,11:27,4,8,DAL 32,3,17,Matt Stover 50 yard field goal good,1.240,3.000
+4,,,,BAL 30,3,17,"Wade Richey kicks off 66 yards, returned by ReShard Lee for 25 yards (tackle by Chad Williams)",0.000,0.870
+4,11:16,1,10,DAL 29,3,17,Vinny Testaverde pass complete to Quincy Morgan for 10 yards (tackle by Chad Williams),0.870,1.530
+4,10:53,1,10,DAL 39,3,23,"Vinny Testaverde pass incomplete intended for Keyshawn Johnson is intercepted by Chad Williams at DAL-44 and returned for 44 yards, touchdown",1.530,-7.000
+4,,,,DAL 2,3,24,Matt Stover kicks extra point good,0.000,0.000
+4,,,,BAL 30,3,24,"Wade Richey kicks off 70 yards, returned by ReShard Lee for 22 yards (tackle by Cornell Brown)",0.000,0.410
+4,10:35,1,10,DAL 22,3,24,"Drew Henson sacked by Marques Douglas for -8 yards. Drew Henson fumbles (forced by Marques Douglas), recovered by Terrell Suggs at DAL-1 (tackle by Dat Nguyen)",0.410,-6.970
+4,10:23,1,1,DAL 1,3,24,Kyle Boller pass complete to Alan Ricard for no gain,6.970,5.910
+4,9:49,2,1,DAL 1,3,30,"Chester Taylor up the middle for 1 yard, touchdown",5.910,7.000
+4,,,,DAL 2,3,30,"Matt Stover kicks extra point good. Penalty on Darnell Dinkins: Face Mask (15 Yards), 15 yards (no play)",0.000,0.000
+4,,,,DAL 2,3,30,Matt Stover kicks extra point no good,0.000,-1.000
+4,,,,BAL 30,3,30,"Wade Richey kicks off 72 yards, returned by ReShard Lee for 22 yards (tackle by B.J. Sams)",0.000,0.280
+4,9:41,1,10,DAL 20,3,30,Julius Jones up the middle for 6 yards (tackle by Ray Lewis and Bart Scott),0.280,0.540
+4,9:09,2,4,DAL 26,3,30,Julius Jones right end for 1 yard (tackle by Ma'ake Kemoeatu),0.540,-0.030
+4,8:30,3,3,DAL 27,3,30,Drew Henson pass complete to Terrance Copper for 6 yards (tackle by Corey Fuller),-0.030,1.140
+4,7:58,1,10,DAL 33,3,30,Drew Henson pass complete to Darian Barnes for no gain,1.140,0.590
+4,7:18,2,10,DAL 33,3,30,Julius Jones right guard for 2 yards (tackle by Bart Scott),0.590,0.170
+4,6:46,3,8,DAL 35,3,30,"Drew Henson pass incomplete intended for Terrance Copper. Penalty on Marques Douglas: Defensive Offside, 5 yards (no play)",0.170,0.830
+4,6:38,3,3,DAL 40,3,30,Julius Jones left tackle for 7 yards (tackle by Bart Scott),0.830,2.060
+4,5:57,1,10,DAL 47,3,30,Drew Henson pass complete to Quincy Morgan for 11 yards (tackle by Gary Baxter),2.060,2.790
+4,5:33,1,10,BAL 42,3,30,Drew Henson pass complete to Keyshawn Johnson for 13 yards,2.790,3.640
+4,5:05,1,10,BAL 29,3,30,Julius Jones up the middle for 4 yards (tackle by Ray Lewis and Bart Scott),3.640,3.640
+4,4:32,2,6,BAL 25,3,30,Julius Jones up the middle for -4 yards (tackle by Bart Scott),3.640,2.410
+4,3:53,3,10,BAL 29,3,30,Drew Henson pass complete to Terrance Copper for 16 yards (tackle by Will Demps),2.410,4.710
+4,3:10,1,10,BAL 13,3,30,Julius Jones right tackle for 4 yards (tackle by Roderick Green),4.710,4.770
+4,2:31,2,6,BAL 9,3,30,Julius Jones up the middle for -1 yards (tackle by Adalius Thomas),4.770,3.650
+4,2:00,3,7,BAL 10,3,30,Drew Henson up the middle for 7 yards (tackle by Ed Hartwell),3.650,6.510
+4,1:22,1,3,BAL 3,3,30,Julius Jones left tackle for 2 yards (tackle by Bart Scott and Gary Baxter),6.510,5.910
+4,0:43,2,1,BAL 1,9,30,"Drew Henson pass complete to Jeff Robinson for 1 yard, touchdown",5.910,7.000
+4,,,,BAL 2,10,30,Billy Cundiff kicks extra point good,0.000,0.000
+4,,,,DAL 30,10,30,"Billy Cundiff kicks off 63 yards, returned by B.J. Sams for 13 yards (tackle by Kalen Thornton)",0.000,0.280
+4,0:33,1,10,BAL 20,10,30,Kyle Boller kneels for -1 yards,0.280,-0.460
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

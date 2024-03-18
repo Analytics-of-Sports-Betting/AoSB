@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,SEA 25,9,4:34,75,Touchdown
+2,1,6:37,SEA 25,11,6:10,40,Field Goal
+3,2,14:45,SEA 24,6,3:33,76,Touchdown
+4,2,5:28,SEA 21,6,2:14,53,Missed FG
+5,2,0:16,SEA 25,3,0:16,54,End of Half
+6,3,6:34,SEA 25,5,2:46,7,Punt
+7,4,13:47,SEA 25,5,2:08,18,Punt
+8,4,4:31,SEA 25,5,2:03,32,Downs
+9,4,0:23,SEA 1,4,0:23,39,End of Game

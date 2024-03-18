@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,14:42,PHI 37,6,3:29,37,Touchdown
+2,1,7:38,DAL 28,9,5:24,72,Touchdown
+3,2,12:33,DAL 6,9,4:50,37,Punt
+4,2,4:21,DAL 20,5,2:28,59,Interception
+5,2,1:33,PHI 14,3,0:49,14,Touchdown
+6,3,15:00,DAL 36,4,2:16,64,Touchdown
+7,3,7:43,DAL 22,6,3:15,78,Touchdown
+8,3,0:47,DAL 11,10,5:50,85,Field Goal
+9,4,5:51,PHI 45,3,2:26,6,Punt
+10,4,1:32,DAL 36,3,1:32,-3,End of Game

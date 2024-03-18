@@ -1,0 +1,15 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,PHI 50,4,2:38,50,Touchdown
+2,1,11:18,OAK 45,7,2:43,24,Missed FG
+3,1,7:37,OAK 19,6,2:57,15,Punt
+4,1,0:18,OAK 20,3,0:55,-5,Punt
+5,2,10:05,OAK 14,3,1:04,0,Punt
+6,2,8:09,OAK 4,3,1:30,1,Punt
+7,2,4:33,OAK 39,10,3:44,51,Field Goal
+8,2,0:01,OAK 18,1,0:01,-1,End of Half
+9,3,10:20,OAK 39,3,1:26,7,Punt
+10,3,6:54,OAK 43,3,2:19,7,Punt
+11,3,0:45,OAK 41,7,2:51,51,Field Goal
+12,4,11:00,OAK 2,12,5:40,79,Missed FG
+13,4,4:17,OAK 35,7,2:00,65,Touchdown
+14,4,0:09,,0,0:09,0,End of Game

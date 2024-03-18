@@ -1,0 +1,182 @@
+Quarter,Time,Down,ToGo,Location,CAR,GNB,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Panthers won the coin toss, Panthers to receive the opening kickoff.",,
+1,15:00,,,GNB 30,0,0,"Mason Crosby kicks off 57 yards, returned by Mark Jones for 17 yards (tackle by John Kuhn)",0.000,0.940
+1,14:57,1,10,CAR 30,0,0,"Jake Delhomme pass complete deep right to Muhsin Muhammad for 44 yards (tackle by Tramon Williams). Muhsin Muhammad fumbles (forced by Tramon Williams), recovered by Charles Woodson at GNB-21 (tackle by Steve Smith)",0.940,-0.150
+1,14:41,1,10,GNB 19,0,0,Ryan Grant left end for 4 yards (tackle by Ken Lucas),0.150,0.210
+1,14:10,2,6,GNB 23,0,0,Aaron Rodgers pass incomplete deep right intended for Donald Driver,0.210,-0.550
+1,14:04,3,6,GNB 23,0,0,Aaron Rodgers pass incomplete short left intended for Jordy Nelson,-0.550,-1.830
+1,14:00,4,6,GNB 23,0,0,"Derrick Frost punts 40 yards, returned by Mark Jones for 12 yards (tackle by Desmond Bishop)",-1.830,-2.190
+1,13:50,1,10,CAR 49,0,0,DeAngelo Williams left end for 1 yard (tackle by Brady Poppinga and A.J. Hawk),2.190,1.780
+1,13:11,2,9,,0,0,Jake Delhomme pass complete short left to Muhsin Muhammad for 6 yards (tackle by Tramon Williams),1.780,1.880
+1,12:48,3,3,GNB 44,0,0,Jake Delhomme pass incomplete short left intended for Muhsin Muhammad,1.880,0.330
+1,12:44,4,3,GNB 44,0,0,Jason Baker punts 41 yards,0.330,0.380
+1,12:33,1,10,GNB 3,0,0,Ryan Grant left end for 2 yards (tackle by Ken Lucas and Jon Beason),-0.380,-0.630
+1,11:57,2,8,GNB 5,0,0,Ryan Grant left guard for 2 yards (tackle by Ma'ake Kemoeatu),-0.630,-0.950
+1,11:14,3,6,GNB 7,0,0,Aaron Rodgers pass incomplete deep middle intended for Greg Jennings,-0.950,-2.490
+1,11:09,4,6,GNB 7,0,0,"Derrick Frost punts 48 yards, returned by Mark Jones for 13 yards (tackle by Brandon Chillar)",-2.490,-2.790
+1,10:58,1,10,GNB 42,0,0,DeAngelo Williams left end for 7 yards (tackle by Mike Montgomery),2.790,3.190
+1,10:25,2,3,GNB 35,0,0,Jake Delhomme pass incomplete deep middle intended for Jeff King,3.190,2.480
+1,10:20,3,3,GNB 35,0,0,Jake Delhomme pass complete short right to DeAngelo Williams for 5 yards (tackle by A.J. Hawk),2.480,3.580
+1,9:40,1,10,GNB 30,0,0,DeAngelo Williams left end for 27 yards (tackle by Nick Collins),3.580,6.510
+1,9:11,1,3,GNB 3,0,0,DeAngelo Williams right guard for 2 yards (tackle by Mike Montgomery and Atari Bigby),6.510,5.910
+1,8:36,2,1,GNB 1,6,0,"DeAngelo Williams left guard for 1 yard, touchdown",5.910,7.000
+1,,,,GNB 2,7,0,John Kasay kicks extra point good,0.000,0.000
+1,,,,CAR 30,7,0,"Rhys Lloyd kicks off 65 yards, returned by Will Blackmon for 18 yards (tackle by Quinton Teal)",0.000,0.480
+1,8:28,1,10,GNB 23,7,0,Aaron Rodgers pass incomplete short left intended for John Kuhn,0.480,-0.070
+1,8:23,2,10,GNB 23,7,0,Aaron Rodgers pass complete short middle to Donald Lee for 7 yards (tackle by Na'il Diggs),-0.070,0.170
+1,7:42,3,3,GNB 30,7,0,Aaron Rodgers pass complete short middle to Greg Jennings for 4 yards (tackle by Chris Gamble),0.170,1.200
+1,7:02,1,10,GNB 34,7,0,"Ryan Grant right end for 2 yards (tackle by Damione Lewis and Tyler Brayton). Penalty on Donald Driver: Offensive Holding, 10 yards (no play)",1.200,0.540
+1,6:40,1,20,GNB 24,7,0,Ryan Grant right tackle for 11 yards (tackle by Jon Beason),0.540,0.790
+1,6:03,2,9,GNB 35,7,0,Aaron Rodgers pass complete short right to Korey Hall for 2 yards (tackle by Chris Harris),0.790,0.370
+1,5:18,3,7,GNB 37,7,0,Aaron Rodgers for 2 yards (tackle by Jon Beason),0.370,-0.780
+1,4:56,4,5,GNB 39,7,0,"Derrick Frost punts 41 yards, returned by Mark Jones for 10 yards (tackle by Jeremy Thompson)",-0.780,-0.940
+1,4:45,1,10,CAR 30,7,0,Jake Delhomme pass complete short left to DeAngelo Williams for 3 yards (tackle by A.J. Hawk),0.940,0.800
+1,4:12,2,7,CAR 33,7,0,DeAngelo Williams right tackle for 5 yards (tackle by Brandon Chillar and Charles Woodson),0.800,0.760
+1,3:28,3,2,CAR 38,7,0,Jake Delhomme sacked by Aaron Kampman for -5 yards,0.760,-1.180
+1,3:13,4,7,CAR 33,7,0,"Jason Baker punts 46 yards, returned by Will Blackmon for 14 yards (tackle by Donte Curry)",-1.180,-1.270
+1,3:03,1,10,GNB 35,7,0,Aaron Rodgers pass complete deep left to Greg Jennings for 17 yards (tackle by Chris Harris),1.270,2.390
+1,2:34,1,10,CAR 48,7,0,Ryan Grant left end for 2 yards (tackle by Ma'ake Kemoeatu),2.390,2.120
+1,1:57,2,8,CAR 46,7,0,Ryan Grant up the middle for 3 yards (tackle by Jon Beason),2.120,1.820
+1,1:15,3,5,CAR 43,7,0,Aaron Rodgers pass complete short middle to James Jones for 9 yards (tackle by Charles Johnson),1.820,3.310
+1,0:35,1,10,CAR 34,7,0,Aaron Rodgers pass complete short right to Greg Jennings for 5 yards (tackle by Charles Godfrey),3.310,3.450
+Quarter,Time,Down,ToGo,Location,CAR,GNB,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,5,CAR 29,7,0,Aaron Rodgers pass complete short right to Korey Hall for 7 yards (tackle by Jon Beason),3.450,4.110
+2,14:21,1,10,CAR 22,7,0,Aaron Rodgers pass incomplete short right intended for Donald Driver,4.110,3.560
+2,14:13,2,10,CAR 22,7,0,Ryan Grant right end for -1 yards (tackle by Thomas Davis),3.560,2.740
+2,13:32,3,11,CAR 23,7,0,Aaron Rodgers pass complete short middle to Donald Lee for 9 yards (tackle by Thomas Davis),2.740,2.630
+2,12:49,4,2,CAR 14,7,3,Mason Crosby 32 yard field goal good,2.630,3.000
+2,,,,GNB 30,7,3,"Mason Crosby kicks off 67 yards, returned by Mark Jones for 42 yards (tackle by Jeremy Thompson)",0.000,1.930
+2,12:38,1,10,CAR 45,7,3,Jake Delhomme pass complete short right to Jonathan Stewart for 3 yards (tackle by Brandon Chillar),1.930,1.790
+2,12:19,2,7,CAR 48,7,3,Jonathan Stewart left guard for 6 yards (tackle by A.J. Hawk and Mike Montgomery),1.790,1.880
+2,11:39,3,1,GNB 46,7,3,"Jonathan Stewart left tackle for 41 yards (tackle by Charles Woodson). Jonathan Stewart fumbles (forced by Charles Woodson), recovered by Travelle Wharton at GNB-2",1.880,6.740
+2,10:31,1,2,GNB 2,7,3,DeAngelo Williams right tackle for 1 yard (tackle by A.J. Hawk and Mike Montgomery),6.740,5.910
+2,9:51,2,1,GNB 1,7,3,"Jake Delhomme pass incomplete short right intended for Steve Smith. Penalty on Tramon Williams: Defensive Pass Interference, Penalty on Tramon Williams: Face Mask (15 Yards) (no play)",5.910,6.970
+2,9:48,1,1,GNB 1,13,3,"Jake Delhomme left end for 1 yard, touchdown",6.970,7.000
+2,,,,GNB 2,14,3,John Kasay kicks extra point good,0.000,0.000
+2,,,,CAR 30,14,3,"Rhys Lloyd kicks off 60 yards, returned by Will Blackmon for 24 yards (tackle by Richard Marshall)",0.000,1.200
+2,9:37,1,10,GNB 34,14,3,Ryan Grant right tackle for 4 yards (tackle by Damione Lewis),1.200,1.200
+2,8:56,2,6,GNB 38,14,3,Aaron Rodgers pass complete short right to Ruvell Martin for 5 yards (tackle by Chris Gamble),1.200,1.160
+2,8:18,3,1,GNB 43,14,3,Ryan Grant right tackle for 2 yards (tackle by Darwin Walker),1.160,1.930
+2,7:38,1,10,GNB 45,14,3,Ryan Grant right tackle for 7 yards (tackle by Julius Peppers),1.930,2.330
+2,6:59,2,3,CAR 48,14,3,Ryan Grant up the middle for 1 yard (tackle by Damione Lewis and Tyler Brayton),2.330,1.750
+2,6:17,3,2,CAR 47,14,3,Aaron Rodgers pass complete short middle to Jordy Nelson for 5 yards (tackle by Jon Beason),1.750,2.790
+2,5:38,1,10,CAR 42,14,3,Aaron Rodgers pass complete short middle to Donald Driver for 12 yards (tackle by Charles Godfrey),2.790,3.580
+2,4:59,1,10,CAR 30,14,3,Ryan Grant left tackle for 2 yards (tackle by Thomas Davis and Darwin Walker),3.580,3.300
+2,4:19,2,8,CAR 28,14,3,Brandon Jackson left end for 24 yards (tackle by Charles Godfrey),3.300,6.280
+2,4:07,,,,14,3,Timeout #1 by Carolina Panthers,0.000,6.280
+2,4:07,1,4,CAR 4,14,3,Aaron Rodgers pass incomplete short right intended for Donald Driver,6.280,5.340
+2,4:01,2,4,CAR 4,14,3,Brandon Jackson right end for -2 yards (tackle by Damione Lewis and Thomas Davis),5.340,4.040
+2,3:18,3,6,CAR 6,14,9,"Aaron Rodgers pass complete short left to Donald Driver for 6 yards, touchdown",4.040,7.000
+2,,,,CAR 2,14,10,Mason Crosby kicks extra point good,0.000,0.000
+2,,,,GNB 30,14,10,"Mason Crosby kicks off 76 yards, touchback",0.000,0.280
+2,3:15,1,10,CAR 20,14,10,DeAngelo Williams left guard for no gain (tackle by Johnny Jolly and A.J. Hawk),0.280,-0.270
+2,3:10,,,,14,10,Timeout #1 by Green Bay Packers,0.000,-0.270
+2,3:10,2,10,CAR 20,14,10,Jake Delhomme pass incomplete deep middle intended for Steve Smith,-0.270,-0.960
+2,3:05,3,10,CAR 20,14,10,Jake Delhomme pass complete short right to DeAngelo Williams for 6 yards (tackle by Charles Woodson),-0.960,-1.630
+2,2:47,4,4,CAR 26,14,10,"Jason Baker punts 45 yards, returned by Will Blackmon for 7 yards (tackle by Dante Wesley)",-1.630,-1.330
+2,2:38,1,10,GNB 36,14,10,"Aaron Rodgers for no gain. Aaron Rodgers fumbles, recovered by Charles Johnson at GNB-17 (tackle by Brandon Jackson)",1.330,-4.440
+2,2:29,1,10,GNB 17,14,10,DeAngelo Williams right tackle for 2 yards (tackle by Charles Woodson),4.440,4.150
+2,2:00,2,8,GNB 15,14,10,Jake Delhomme pass complete short middle to Jeff King for 9 yards (tackle by Nick Collins),4.150,5.830
+2,1:20,1,6,GNB 6,14,10,DeAngelo Williams up the middle for 5 yards (tackle by Brady Poppinga and Aaron Kampman),5.830,5.910
+2,0:37,2,1,GNB 1,20,10,"DeAngelo Williams left end for 1 yard, touchdown",5.910,7.000
+2,,,,GNB 2,21,10,John Kasay kicks extra point good,0.000,0.000
+2,,,,CAR 30,21,10,"Rhys Lloyd kicks off 48 yards, returned by Jordy Nelson for 7 yards (tackle by Nick Goings)",0.000,0.870
+2,0:28,1,10,GNB 29,21,10,Aaron Rodgers pass incomplete short right intended for Greg Jennings (defended by Charles Johnson),0.870,0.330
+2,0:24,2,10,GNB 29,21,10,Aaron Rodgers pass incomplete short middle intended for Donald Lee,0.330,-0.360
+2,0:19,3,10,GNB 29,21,10,Brandon Jackson right tackle for 2 yards (tackle by Charles Johnson),-0.360,-1.310
+2,0:14,,,,21,10,Timeout #2 by Carolina Panthers,0.000,-1.310
+2,0:14,4,8,GNB 31,21,10,"Derrick Frost punts 46 yards, returned by Mark Jones for 11 yards (tackle by Brett Goode)",-1.310,-1.200
+2,0:02,1,10,CAR 34,21,10,Jake Delhomme kneels for -1 yards,1.200,0.520
+Quarter,Time,Down,ToGo,Location,CAR,GNB,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,CAR 30,21,10,"Rhys Lloyd kicks off 53 yards, returned by Will Blackmon for 25 yards (tackle by Richard Marshall)",0.000,1.730
+3,14:54,1,10,GNB 42,21,10,Brandon Jackson left end for 32 yards (tackle by Jon Beason),1.730,3.840
+3,14:19,1,10,CAR 26,21,10,Aaron Rodgers pass incomplete short right intended for Greg Jennings,3.840,3.300
+3,14:13,2,10,CAR 26,21,10,Aaron Rodgers pass incomplete short left intended for Brandon Jackson,3.300,2.610
+3,14:08,3,10,CAR 26,21,10,Aaron Rodgers pass incomplete deep right intended for Donald Driver,2.610,1.740
+3,13:57,4,10,CAR 26,21,13,Mason Crosby 44 yard field goal good,1.740,3.000
+3,,,,GNB 30,21,13,"Mason Crosby kicks off 75 yards, touchback",0.000,0.280
+3,13:57,1,10,CAR 20,21,13,DeAngelo Williams right end for 2 yards (tackle by Ryan Pickett and Charles Woodson),0.280,0.000
+3,13:20,2,8,CAR 22,21,13,DeAngelo Williams left guard for 7 yards (tackle by Mike Montgomery),0.000,0.230
+3,12:44,3,1,CAR 29,21,13,DeAngelo Williams up the middle for 2 yards (tackle by Desmond Bishop),0.230,1.000
+3,12:08,1,10,CAR 31,21,13,Jake Delhomme pass complete short right to Steve Smith for 7 yards (tackle by Tramon Williams),1.000,1.410
+3,11:30,2,3,CAR 38,21,13,Jonathan Stewart right tackle for 7 yards (tackle by A.J. Hawk and Brady Poppinga),1.410,1.930
+3,10:49,1,10,CAR 45,21,13,Jake Delhomme pass incomplete short left intended for Dante Rosario,1.930,1.380
+3,10:45,2,10,CAR 45,21,13,Jake Delhomme pass incomplete short middle intended for Steve Smith (defended by Brandon Chillar),1.380,0.700
+3,10:40,3,10,CAR 45,21,13,Jake Delhomme pass complete short middle to Steve Smith for 8 yards (tackle by Nick Collins),0.700,0.130
+3,10:40,4,2,GNB 47,21,13,"Penalty on Jake Delhomme: Delay of Game, 5 yards (no play)",0.130,-0.190
+3,9:41,4,7,CAR 48,21,13,Jason Baker punts 47 yards,-0.190,0.380
+3,9:30,1,10,GNB 5,21,13,Aaron Rodgers pass complete deep right to Donald Driver for 46 yards (tackle by Chris Gamble),-0.380,2.320
+3,9:30,1,10,CAR 49,21,13,"Penalty on Aaron Rodgers: Delay of Game, 5 yards (no play)",2.320,1.990
+3,8:20,1,15,GNB 46,21,13,Aaron Rodgers right end for 16 yards (tackle by Tyler Brayton),1.990,3.050
+3,7:35,1,10,CAR 38,21,13,Aaron Rodgers pass complete short middle to Greg Jennings for 15 yards (tackle by Ken Lucas),3.050,4.040
+3,7:04,1,10,CAR 23,21,13,Aaron Rodgers pass complete short right to Greg Jennings for 5 yards (tackle by Richard Marshall),4.040,4.210
+3,6:22,2,5,CAR 18,21,13,Aaron Rodgers pass incomplete short right intended for Brandon Jackson (defended by Tyler Brayton),4.210,3.490
+3,6:13,3,5,CAR 18,21,13,Aaron Rodgers pass complete short left to Donald Driver for 6 yards (tackle by Dante Wesley),3.490,4.780
+3,5:34,1,10,CAR 12,21,13,Aaron Rodgers pass complete short right to Greg Jennings for 7 yards (tackle by Chris Gamble),4.780,5.410
+,,,,,,,"CAR challenged the pass completion ruling, and the play was upheld.",,
+3,5:22,2,3,CAR 5,21,19,"Aaron Rodgers pass complete short left to Donald Lee for 5 yards, touchdown",5.410,7.000
+3,,,,,21,21,"Two Point Attempt: Aaron Rodgers pass complete to Greg Jennings, conversion succeeds",1.000,1.000
+3,,,,GNB 30,21,21,"Mason Crosby kicks off 57 yards, returned by Dante Rosario for 8 yards (tackle by Kenneth Pettway)",0.000,0.340
+3,5:10,1,10,CAR 21,21,21,Jonathan Stewart right end for 2 yards (tackle by Charles Woodson and Aaron Kampman),0.340,0.070
+3,4:24,2,8,CAR 23,21,21,Jake Delhomme sacked by Aaron Kampman for -2 yards,0.070,-0.890
+3,3:49,3,10,CAR 21,21,21,Jake Delhomme pass complete short left to Nick Goings for -4 yards (tackle by A.J. Hawk),-0.890,-2.320
+3,3:14,4,14,CAR 17,21,21,"Jason Baker punts 51 yards, returned by Will Blackmon for 2 yards (tackle by Quinton Teal). Penalty on John Kuhn: Illegal Block Above the Waist, 10 yards",-2.320,-0.540
+3,3:02,1,10,GNB 24,21,21,Aaron Rodgers sacked by Julius Peppers for -5 yards,0.540,-0.740
+3,2:29,2,15,GNB 19,21,21,Aaron Rodgers pass incomplete deep right intended for James Jones,-0.740,-1.430
+3,2:24,3,15,GNB 19,21,21,Aaron Rodgers pass complete deep left to Jordy Nelson for 23 yards (tackle by Landon Johnson),-1.430,1.730
+3,1:43,1,10,GNB 42,21,21,Brandon Jackson left end for 3 yards (tackle by Tyler Brayton and Darwin Walker),1.730,1.590
+3,1:07,2,7,GNB 45,21,21,Aaron Rodgers pass complete short middle to Donald Lee for 16 yards (tackle by Charles Godfrey),1.590,2.980
+3,0:25,1,10,CAR 39,21,21,Aaron Rodgers pass complete short right to Brandon Jackson for 6 yards (tackle by Thomas Davis),2.980,3.250
+Quarter,Time,Down,ToGo,Location,CAR,GNB,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,4,CAR 33,21,21,Aaron Rodgers pass complete short right to Ruvell Martin for 7 yards (tackle by Chris Gamble),3.250,3.840
+4,14:24,1,10,CAR 26,21,21,Brandon Jackson left end for 5 yards (tackle by Thomas Davis),3.840,3.970
+4,13:47,2,5,CAR 21,21,27,"Aaron Rodgers pass complete deep middle to Greg Jennings for 21 yards, touchdown",3.970,7.000
+4,,,,CAR 2,21,28,Mason Crosby kicks extra point good,0.000,0.000
+4,,,,GNB 30,21,28,"Mason Crosby kicks off 71 yards, returned by Mark Jones for 51 yards (tackle by Jarrett Bush)",0.000,2.260
+4,13:35,1,10,,21,28,"Jake Delhomme pass incomplete deep right intended for Muhsin Muhammad is intercepted by Tramon Williams at GNB-13 and returned for 41 yards (tackle by Jeff Otah). Penalty on Tramon Williams: Defensive Pass Interference, 14 yards (no play)",2.260,3.180
+4,13:17,1,10,GNB 36,21,28,DeAngelo Williams up the middle for -2 yards (tackle by Brady Poppinga),3.180,2.370
+4,12:43,2,12,GNB 38,21,28,DeAngelo Williams up the middle for 1 yard (tackle by Mike Montgomery),2.370,1.820
+4,12:00,3,11,GNB 37,21,28,Jake Delhomme pass complete deep middle to Steve Smith for 36 yards (tackle by Tramon Williams),1.820,6.970
+4,11:14,1,1,GNB 1,27,28,"DeAngelo Williams right guard for 1 yard, touchdown",6.970,7.000
+4,,,,GNB 2,28,28,John Kasay kicks extra point good,0.000,0.000
+4,,,,CAR 30,28,28,"Rhys Lloyd kicks off 78 yards, touchback",0.000,0.280
+4,11:10,1,10,GNB 20,28,28,Brandon Jackson left end for 1 yard (tackle by Na'il Diggs and Jon Beason),0.280,-0.130
+4,10:29,2,9,GNB 21,28,28,Aaron Rodgers pass complete short left to Ruvell Martin for 17 yards (tackle by Chris Harris),-0.130,1.470
+4,9:49,1,10,GNB 38,28,28,Aaron Rodgers pass complete short right to James Jones for 3 yards (tackle by Ken Lucas),1.470,1.330
+4,9:12,2,7,GNB 41,28,28,Aaron Rodgers pass complete short right to Ruvell Martin for 3 yards (tackle by Chris Gamble),1.330,1.020
+4,8:39,,,,28,28,Timeout #2 by Carolina Panthers,0.000,1.020
+4,8:39,3,4,GNB 44,28,28,Aaron Rodgers right end for 6 yards (tackle by Damione Lewis),1.020,2.260
+4,7:54,1,10,,28,28,Brandon Jackson left end for 4 yards (tackle by Na'il Diggs and Tyler Brayton),2.260,2.250
+4,7:11,2,6,CAR 46,28,28,Brandon Jackson left end for 5 yards (tackle by Thomas Davis),2.250,2.210
+4,6:29,3,1,CAR 41,28,28,Aaron Rodgers pass complete short right to Jermichael Finley for no gain,2.210,0.530
+4,6:05,4,1,CAR 41,28,28,Aaron Rodgers up the middle for 2 yards (tackle by Ma'ake Kemoeatu),0.530,2.980
+4,5:25,1,10,CAR 39,28,28,Aaron Rodgers pass complete deep middle to Greg Jennings for 17 yards (tackle by Charles Godfrey),2.980,4.110
+4,4:41,1,10,CAR 22,28,28,Aaron Rodgers pass complete short right to Donald Driver for 13 yards (tackle by Jon Beason),4.110,5.140
+4,3:52,1,9,CAR 9,28,28,"Penalty on Aaron Rodgers: Delay of Game, 5 yards (no play)",5.140,4.440
+4,3:52,1,14,CAR 14,28,28,"Aaron Rodgers sacked by Julius Peppers for 0 yards. Penalty on Julius Peppers: Unnecessary Roughness, 7 yards",4.440,5.600
+4,3:45,1,7,CAR 7,28,28,Brandon Jackson left tackle for 6 yards (tackle by Jon Beason),5.600,5.910
+4,3:01,2,1,CAR 1,28,28,Brandon Jackson right tackle for no gain (tackle by Jon Beason and Charles Johnson),5.910,5.170
+4,2:19,3,1,CAR 1,28,28,John Kuhn up the middle for no gain (tackle by Damione Lewis and Julius Peppers),5.170,3.550
+4,2:00,4,1,CAR 1,28,31,Mason Crosby 19 yard field goal good,3.550,3.000
+4,,,,GNB 30,28,31,"Mason Crosby kicks off 70 yards, returned by Mark Jones for 45 yards (tackle by Mason Crosby)",0.000,1.930
+4,1:48,1,10,CAR 45,28,31,Jake Delhomme pass complete deep middle to Steve Smith for 54 yards (tackle by Brandon Chillar),1.930,6.970
+,,,,,,,"Replay Assistant challenged the runner was down by contact ruling, and the play was upheld.",,
+4,1:33,,,,28,31,Timeout #1 by Green Bay Packers,0.000,6.970
+4,1:33,1,1,GNB 1,34,31,"DeAngelo Williams right guard for 1 yard, touchdown",6.970,7.000
+4,,,,GNB 2,35,31,"John Kasay kicks extra point good. Penalty on Jarrett Bush: Defensive Offside, 5 yards",0.000,0.000
+4,,,,CAR 35,35,31,"Rhys Lloyd kicks off 66 yards, returned by Will Blackmon for 18 yards (tackle by Nick Goings)",0.000,-0.060
+4,1:24,1,10,GNB 17,35,31,Aaron Rodgers pass incomplete deep left intended for Greg Jennings,-0.060,-0.580
+4,1:19,2,10,GNB 17,35,31,Aaron Rodgers pass incomplete deep right intended for Donald Driver is intercepted by Jon Beason at CAR-39,-0.580,-1.530
+4,1:09,1,10,CAR 39,35,31,DeAngelo Williams right tackle for 8 yards (tackle by A.J. Hawk and Brandon Chillar),1.530,2.070
+4,1:03,,,,35,31,Timeout #2 by Green Bay Packers,0.000,2.070
+4,1:03,2,2,CAR 47,35,31,DeAngelo Williams left guard for no gain (tackle by Mike Montgomery and Johnny Jolly),2.070,1.360
+4,0:58,,,,35,31,Timeout #3 by Green Bay Packers,0.000,1.360
+4,0:58,3,2,CAR 47,35,31,DeAngelo Williams up the middle for no gain (tackle by Nick Collins),1.360,-0.260
+4,0:14,,,,35,31,Timeout #3 by Carolina Panthers,0.000,-0.260
+4,0:14,4,2,CAR 47,35,31,Jason Baker punts 47 yards,-0.260,0.380
+4,0:02,1,10,GNB 6,35,31,Aaron Rodgers pass incomplete short middle intended for Greg Jennings,-0.380,-0.780
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,HOU 27,10,5:30,40,Downs
+2,1,4:30,HOU 33,7,3:24,30,Downs
+3,2,10:13,HOU 25,10,5:28,75,Touchdown
+4,2,1:47,NYJ 36,2,0:27,1,Interception
+5,3,10:33,HOU 3,3,1:50,0,Punt
+6,3,7:59,HOU 26,5,3:19,14,Punt
+7,4,13:30,HOU 26,5,2:17,25,Interception
+8,4,9:05,HOU 30,3,0:53,3,Punt
+9,4,2:09,HOU 36,7,2:09,6,End of Game

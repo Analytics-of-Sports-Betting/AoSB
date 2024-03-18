@@ -1,0 +1,173 @@
+Quarter,Time,Down,ToGo,Location,LAR,NOR,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Saints won the coin toss and deferred, Rams to receive the opening kickoff.",,
+1,15:00,,,NOR 35,0,0,"Wil Lutz kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,LAR 25,0,0,Darrell Henderson left tackle for 4 yards (tackle by David Onyemata and Carl Granderson),0.610,0.600
+1,14:23,2,6,LAR 29,0,0,Darrell Henderson right guard for 5 yards (tackle by Demario Davis),0.600,0.560
+1,13:43,3,1,LAR 34,0,0,Brandon Powell right end for -1 yards (tackle by Paulson Adebo),0.560,-1.180
+1,13:04,4,2,LAR 33,0,0,"Riley Dixon punts 56 yards, returned by Rashid Shaheed for 12 yards (tackle by Quentin Lake)",-1.180,-0.480
+1,12:49,1,10,NOR 23,0,0,Andy Dalton pass incomplete short left intended for Alvin Kamara,0.480,-0.070
+1,12:46,2,10,NOR 23,0,0,Alvin Kamara left guard for 7 yards (tackle by Bobby Wagner and Jalen Ramsey),-0.070,0.170
+1,12:07,3,3,NOR 30,0,0,Andy Dalton pass complete short left to Adam Trautman for 2 yards (tackle by Jalen Ramsey),0.170,-1.240
+1,11:08,4,1,NOR 32,0,0,"Blake Gillikin punts 53 yards, fair catch by Brandon Powell at LA-15",-1.240,0.220
+1,11:01,1,10,LAR 15,0,0,Matthew Stafford pass complete short right to Van Jefferson for 5 yards (tackle by Paulson Adebo and Kaden Elliss),-0.220,0.080
+1,10:21,2,5,LAR 20,0,0,Cam Akers right guard for 6 yards (tackle by Paulson Adebo),0.080,0.670
+1,9:44,1,10,LAR 26,0,0,Cam Akers left tackle for 4 yards (tackle by Jabari Zuniga),0.670,0.670
+1,9:07,2,6,LAR 30,0,0,Matthew Stafford pass incomplete deep left intended for Allen Robinson,0.670,-0.030
+1,9:02,3,6,LAR 30,0,0,Matthew Stafford pass incomplete short left intended for Tyler Higbee (defended by Chris Harris),-0.030,-1.370
+1,8:58,4,6,LAR 30,0,0,"Riley Dixon punts 40 yards, returned by Rashid Shaheed for 11 yards (tackle by Jacob Harris)",-1.370,-1.660
+1,8:50,1,10,NOR 41,0,0,Andy Dalton pass complete short right to Adam Trautman for 7 yards (tackle by Leonard Floyd),1.660,2.070
+1,8:19,2,3,NOR 48,0,0,Alvin Kamara right tackle for 2 yards (tackle by Bobby Wagner),2.070,1.620
+1,7:40,3,1,LAR 50,0,0,Andy Dalton pass complete deep right to Juwan Johnson for 26 yards (tackle by Jalen Ramsey),1.620,3.970
+1,7:03,1,10,LAR 24,0,0,Taysom Hill left end for 8 yards (tackle by Russ Yeast),3.970,4.650
+1,6:25,2,2,LAR 16,0,0,Alvin Kamara right tackle for 3 yards (tackle by A'Shawn Robinson),4.650,4.710
+1,5:46,1,10,LAR 13,0,0,Taysom Hill pass incomplete short right intended for Jarvis Landry (defended by Taylor Rapp),4.710,4.050
+1,5:40,2,10,LAR 13,0,0,Andy Dalton sacked by Greg Gaines for -8 yards,4.050,2.410
+1,4:55,3,18,LAR 21,0,0,Taysom Hill sacked by Leonard Floyd for -7 yards,2.410,1.590
+1,4:19,4,25,LAR 28,0,3,Wil Lutz 46 yard field goal good,1.590,3.000
+1,4:14,,,NOR 35,0,3,"Wil Lutz kicks off 61 yards, returned by Brandon Powell for 34 yards (tackle by Daniel Sorensen)",0.000,1.470
+1,4:08,1,10,LAR 38,6,3,"Matthew Stafford pass complete deep left to Tutu Atwell for 62 yards, touchdown",1.470,7.000
+1,4:00,,,NOR 15,7,3,Matt Gay kicks extra point good,0.000,0.000
+1,4:00,,,LAR 35,7,3,"Matt Gay kicks off 65 yards, touchback.",0.000,0.610
+1,4:00,1,10,NOR 25,7,3,Alvin Kamara right end for 1 yard (tackle by Marquise Copeland),0.610,0.200
+1,3:23,2,9,NOR 26,7,3,Andy Dalton pass complete short left to Chris Olave for 12 yards (tackle by David Long),0.200,1.470
+1,2:46,1,10,NOR 38,7,3,Andy Dalton pass incomplete short right intended for Rashid Shaheed,1.470,0.920
+1,2:42,2,10,NOR 38,7,3,Alvin Kamara left tackle for 1 yard (tackle by A'Shawn Robinson and Aaron Donald),0.920,0.370
+1,1:59,3,9,NOR 39,7,3,Andy Dalton pass complete short left to Adam Trautman for 3 yards (tackle by Jalen Ramsey),0.370,-0.590
+1,1:19,4,6,NOR 42,7,3,Blake Gillikin punts 55 yards downed by Andrew Dowell,-0.590,0.380
+1,1:09,1,10,LAR 3,7,3,Cam Akers right tackle for 2 yards (tackle by Paulson Adebo),-0.380,-0.630
+1,0:27,2,8,LAR 5,7,3,Matthew Stafford pass incomplete short left intended for Tyler Higbee,-0.630,-1.190
+1,0:24,3,8,LAR 5,7,3,Matthew Stafford pass incomplete short left intended for Van Jefferson (defended by Alontae Taylor),-1.190,-2.490
+1,0:19,4,8,LAR 5,7,3,"Riley Dixon punts 49 yards, fair catch by Rashid Shaheed at NO-46. Penalty on Jacob Harris: Player Out of Bounds on a Punt, 5 yards (accepted)",-2.490,-2.320
+1,0:11,1,10,LAR 49,7,3,Alvin Kamara right guard for 11 yards (tackle by Taylor Rapp),2.320,3.050
+Quarter,Time,Down,ToGo,Location,LAR,NOR,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,LAR 38,7,3,Taysom Hill left tackle for 12 yards (tackle by Jalen Ramsey),3.050,3.840
+2,14:19,1,10,LAR 26,7,3,Taysom Hill pass incomplete deep left intended for Juwan Johnson,3.840,3.300
+2,14:14,2,10,LAR 26,7,3,Andy Dalton pass complete short middle to Alvin Kamara for 15 yards (tackle by Ernest Jones and Bobby Wagner),3.300,4.840
+2,13:36,1,10,LAR 11,7,3,Alvin Kamara left guard for 2 yards (tackle by A'Shawn Robinson),4.840,4.510
+2,12:59,2,8,LAR 9,7,3,Taysom Hill left guard for 1 yard (tackle by Leonard Floyd and Ernest Jones),4.510,3.760
+2,12:18,3,7,LAR 8,7,9,"Andy Dalton pass complete to Juwan Johnson for 8 yards, touchdown",3.760,7.000
+2,12:11,,,LAR 15,7,10,Wil Lutz kicks extra point good,0.000,0.000
+2,12:11,,,NOR 35,7,10,"Wil Lutz kicks off 65 yards, touchback.",0.000,0.610
+2,12:11,1,10,LAR 25,7,10,Cam Akers right tackle for 7 yards (tackle by Tyrann Mathieu),0.610,1.010
+2,11:32,2,3,LAR 32,7,10,Cam Akers left tackle for 2 yards (tackle by David Onyemata),1.010,0.560
+2,10:42,,,,,,Timeout #1 by Los Angeles Rams,,
+2,10:42,3,1,LAR 34,7,10,Kyren Williams left guard for 2 yards (tackle by Carl Granderson),0.560,1.330
+2,10:03,1,10,LAR 36,7,10,Kyren Williams left guard for no gain (tackle by Chris Harris and David Onyemata),1.330,0.790
+2,9:19,2,10,LAR 36,7,10,Kyren Williams left guard for 5 yards (tackle by Shy Tuttle and Demario Davis),0.790,0.760
+2,8:35,3,5,LAR 41,7,10,Matthew Stafford scrambles right end for 4 yards (tackle by Paulson Adebo),0.760,-0.390
+2,7:44,,,,,,Timeout #2 by Los Angeles Rams,,
+2,7:44,4,1,LAR 45,7,10,Cam Akers left end for 13 yards (tackle by Tyrann Mathieu),-0.390,2.790
+2,6:57,1,10,NOR 42,7,10,Cam Akers right end for 4 yards (tackle by Kaden Elliss),2.790,2.780
+2,6:18,2,6,NOR 38,7,10,Matthew Stafford pass incomplete deep right intended for Van Jefferson,2.780,2.080
+2,6:12,3,6,NOR 38,7,10,Matthew Stafford pass complete short left to Ben Skowronek for 4 yards (tackle by Demario Davis),2.080,1.100
+2,5:29,4,2,NOR 34,7,10,Kyren Williams right guard for -1 yards (tackle by Payton Turner and Demario Davis),1.100,-1.330
+2,5:23,1,10,NOR 36,7,10,Alvin Kamara left guard for 5 yards (tackle by Bobby Wagner and Nick Scott),1.330,1.470
+2,4:44,2,5,NOR 41,7,10,Alvin Kamara right guard for -1 yards (tackle by Aaron Donald and Leonard Floyd),1.470,0.630
+2,4:03,3,6,NOR 40,7,10,Andy Dalton pass complete short right to Alvin Kamara for 4 yards (tackle by Derion Kendrick and Bobby Wagner),0.630,-0.460
+2,3:20,4,2,NOR 44,7,10,"Blake Gillikin punts 43 yards, fair catch by Brandon Powell at LA-13",-0.460,0.320
+2,3:13,1,10,LAR 13,7,10,Cam Akers left guard for 4 yards (tackle by Shy Tuttle and Kentavius Street),-0.320,-0.300
+2,2:37,2,6,LAR 17,7,10,Cam Akers left tackle for 5 yards (tackle by Demario Davis and Kaden Elliss),-0.300,-0.350
+2,2:00,3,1,LAR 22,7,10,Matthew Stafford pass complete short left to Allen Robinson for 9 yards (tackle by Alontae Taylor),-0.350,1.000
+2,1:39,1,10,LAR 31,7,10,Matthew Stafford pass complete short middle to Van Jefferson for 16 yards (tackle by Tyrann Mathieu),1.000,2.060
+2,1:17,1,10,LAR 47,7,10,Matthew Stafford pass incomplete short right intended for Tyler Higbee (defended by Tyrann Mathieu),2.060,1.520
+2,1:12,2,10,LAR 47,7,10,Matthew Stafford pass complete deep right to Van Jefferson for 20 yards,1.520,3.380
+2,1:06,1,10,NOR 33,7,10,Matthew Stafford pass complete short right to Tyler Higbee for 3 yards (tackle by Tyrann Mathieu),3.380,3.240
+2,1:02,2,7,NOR 30,7,10,Matthew Stafford pass complete short left to Kyren Williams for 8 yards (tackle by Alontae Taylor),3.240,4.110
+2,0:55,1,10,NOR 22,7,10,Matthew Stafford pass complete short right to Brandon Powell for 8 yards (tackle by Chris Harris),4.110,4.850
+2,0:36,2,2,NOR 14,7,10,"Matthew Stafford pass complete short middle to Brandon Powell for no gain (tackle by Demario Davis). Penalty on Bobby Evans: Offensive Holding, 10 yards (accepted) (no play)",4.850,3.290
+2,0:30,,,,,,Timeout #1 by New Orleans Saints,,
+2,0:30,2,12,NOR 24,7,10,Matthew Stafford pass complete short middle to Tyler Higbee for 18 yards (tackle by Tyrann Mathieu and Kaden Elliss),3.290,5.830
+2,0:22,,,,,,Timeout #3 by Los Angeles Rams,,
+2,0:22,1,6,NOR 6,13,10,"Matthew Stafford pass complete short right to Allen Robinson for 6 yards, touchdown",5.830,7.000
+2,0:19,,,NOR 15,14,10,Matt Gay kicks extra point good,0.000,0.000
+2,0:19,,,LAR 35,14,10,"Matt Gay kicks off 65 yards, touchback.",0.000,0.610
+2,0:19,1,10,NOR 25,14,10,Andy Dalton kneels for -1 yards,0.610,-0.070
+Quarter,Time,Down,ToGo,Location,LAR,NOR,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,LAR 35,14,10,"Matt Gay kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,NOR 25,14,10,Andy Dalton pass complete deep left to Chris Olave for 18 yards (tackle by Troy Hill),0.610,1.800
+3,14:22,1,10,NOR 43,14,10,Alvin Kamara left guard for 6 yards (tackle by Ernest Jones and Taylor Rapp),1.800,2.060
+3,13:45,2,4,NOR 49,14,10,Alvin Kamara right guard for 2 yards (tackle by Aaron Donald and Bobby Wagner),2.060,1.620
+3,13:04,3,2,LAR 49,14,10,Andy Dalton pass complete short left to Alvin Kamara for 13 yards (tackle by Derion Kendrick),1.620,3.180
+3,12:32,1,10,LAR 36,14,10,Andy Dalton pass incomplete short right,3.180,2.640
+3,12:26,2,10,LAR 36,14,10,Andy Dalton pass complete short left to Alvin Kamara for 15 yards (tackle by Taylor Rapp),2.640,4.170
+3,11:52,1,10,LAR 21,14,10,David Johnson left end for -4 yards (tackle by Aaron Donald),4.170,3.090
+3,11:10,2,14,LAR 25,14,10,Andy Dalton pass complete short middle to Jarvis Landry for 18 yards (tackle by Jalen Ramsey),3.090,5.600
+3,10:27,1,7,LAR 7,14,16,"Andy Dalton pass complete short left to Jarvis Landry for 7 yards, touchdown",5.600,7.000
+3,10:23,,,LAR 15,14,17,Wil Lutz kicks extra point good,0.000,0.000
+3,10:23,,,NOR 35,14,17,"Wil Lutz kicks off 65 yards, touchback.",0.000,0.610
+3,10:23,1,10,LAR 25,14,17,Cam Akers left tackle for 2 yards (tackle by Kaden Elliss and David Onyemata),0.610,0.330
+3,9:45,2,8,LAR 27,14,17,Matthew Stafford pass incomplete deep right intended for Ben Skowronek,0.330,-0.360
+3,9:38,3,8,LAR 27,14,17,Matthew Stafford sacked by and Demario Davis for -9 yards and Tanoh Kpassagnon for -9 yards,-0.360,-2.240
+3,8:50,4,17,LAR 18,14,17,"Riley Dixon punts 40 yards, returned by Rashid Shaheed for no gain (tackle by Justin Hollins and Christian Rozeboom). Penalty on Justin Evans: Offensive Holding, 10 yards (accepted)",-2.240,-1.070
+3,8:40,1,10,NOR 32,14,17,Taysom Hill right tackle for 7 yards (tackle by Nick Scott),1.070,1.470
+3,8:04,2,3,NOR 39,14,17,Andy Dalton pass complete short middle to Taysom Hill for 8 yards (tackle by Bobby Wagner),1.470,2.060
+3,7:23,1,10,NOR 47,14,17,Andy Dalton sacked by Greg Gaines for -13 yards,2.060,-0.240
+3,6:38,2,23,NOR 34,14,17,Andy Dalton pass complete short left to Juwan Johnson for 13 yards (tackle by Jalen Ramsey and Bobby Wagner),-0.240,0.830
+3,5:55,3,10,NOR 47,14,23,"Andy Dalton pass complete deep middle to Chris Olave for 53 yards, touchdown",0.830,7.000
+3,5:47,,,LAR 15,14,24,Wil Lutz kicks extra point good,0.000,0.000
+3,5:47,,,NOR 35,14,24,"Wil Lutz kicks off 65 yards, touchback.",0.000,0.610
+3,5:47,1,10,LAR 25,14,24,Cam Akers right guard for no gain (tackle by Carl Granderson and Kaden Elliss),0.610,0.060
+3,5:11,2,10,LAR 25,14,24,Bryce Perkins right end for 23 yards (tackle by Tyrann Mathieu and Shy Tuttle),0.060,2.130
+3,4:33,1,10,LAR 48,14,24,Bryce Perkins right end for 2 yards (tackle by Jabari Zuniga),2.130,1.850
+3,3:56,2,8,LAR 50,14,24,Kyren Williams left guard for 7 yards (tackle by Marcus Maye),1.850,2.080
+3,3:21,3,1,NOR 43,14,24,Bryce Perkins right end for 7 yards (tackle by Alontae Taylor),2.080,3.180
+3,2:47,1,10,NOR 36,14,24,Cam Akers left guard for 2 yards (tackle by Kaden Elliss),3.180,2.910
+3,2:10,2,8,NOR 34,14,24,"Cam Akers right tackle for -1 yards (tackle by Kaden Elliss). Penalty on Matt Skura: Offensive Holding, 10 yards (accepted) (no play)",2.910,1.560
+3,1:45,2,18,NOR 44,14,24,Bryce Perkins pass complete short left to Brandon Powell for 8 yards (tackle by Carl Granderson),1.560,1.950
+3,0:58,3,10,NOR 36,14,24,Kyren Williams left tackle for 17 yards (tackle by Marcus Maye),1.950,4.310
+3,0:31,1,10,NOR 19,14,24,Bryce Perkins left end for 4 yards (tackle by Marcus Maye and Kaden Elliss),4.310,4.350
+Quarter,Time,Down,ToGo,Location,LAR,NOR,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,6,NOR 15,14,24,Bryce Perkins pass incomplete short right intended for Tyler Higbee,4.350,3.580
+4,14:55,3,6,NOR 15,14,24,Bryce Perkins pass incomplete short middle intended for Kyren Williams (defended by Shy Tuttle),3.580,2.470
+4,14:51,4,6,NOR 15,17,24,Matt Gay 33 yard field goal good,2.470,3.000
+4,14:48,,,LAR 35,17,24,"Matt Gay kicks off 65 yards, touchback.",0.000,0.610
+4,14:48,1,10,NOR 25,17,24,Taysom Hill left guard for 11 yards (tackle by Nick Scott and Bobby Wagner),0.610,1.330
+4,14:08,1,10,NOR 36,17,24,Andy Dalton pass complete short left to David Johnson for 11 yards (tackle by Taylor Rapp),1.330,2.060
+4,13:24,1,10,NOR 47,17,24,Taysom Hill pass complete short right to Chris Olave for 14 yards (tackle by Nick Scott),2.060,2.980
+4,12:47,1,10,LAR 39,17,24,"Alvin Kamara right guard for no gain (tackle by Leonard Floyd and Greg Gaines). Penalty on Aaron Donald: Face Mask (15 Yards), 15 yards (accepted) (no play)",2.980,3.970
+4,12:27,1,10,LAR 24,17,24,Taysom Hill left guard for 8 yards (tackle by Bobby Wagner),3.970,4.650
+4,11:47,2,2,LAR 16,17,24,Andy Dalton pass complete short right to Jarvis Landry for 8 yards (tackle by Troy Hill),4.650,5.370
+4,11:07,1,8,LAR 8,17,24,Andy Dalton pass complete short left to Chris Olave for 5 yards (tackle by Troy Hill and Taylor Rapp),5.370,5.530
+4,10:27,2,3,LAR 3,17,24,Andy Dalton sacked by Leonard Floyd for -11 yards,5.530,3.000
+4,9:42,3,14,LAR 14,17,24,Andy Dalton pass complete short right to Rashid Shaheed for 8 yards (tackle by David Long),3.000,2.990
+4,9:09,4,6,LAR 6,17,27,Wil Lutz 25 yard field goal good,2.990,3.000
+4,9:06,,,NOR 35,17,27,"Wil Lutz kicks off 65 yards, touchback.",0.000,0.610
+4,9:06,1,10,LAR 25,17,27,Bryce Perkins pass complete short right to Allen Robinson for 17 yards (tackle by Alontae Taylor),0.610,1.730
+4,8:41,1,10,LAR 42,17,27,Bryce Perkins pass complete short right to Tyler Higbee for 4 yards (tackle by Kaden Elliss),1.730,1.730
+4,8:07,2,6,LAR 46,17,27,Cam Akers left end for 8 yards (tackle by Chris Harris),1.730,2.520
+4,7:24,1,10,NOR 46,17,27,Bryce Perkins pass incomplete short right intended for Ben Skowronek (defended by Kaden Elliss),2.520,1.980
+4,7:19,2,10,NOR 46,17,27,Cam Akers left guard for 2 yards (tackle by Kentavius Street and Carl Granderson),1.980,1.550
+4,6:28,3,8,NOR 44,17,27,"Penalty on LAR: Delay of Game, 5 yards (accepted) (no play)",1.550,0.890
+4,6:28,3,13,NOR 49,17,27,Bryce Perkins pass incomplete deep right intended for Ben Skowronek,0.890,0.000
+4,6:22,4,13,NOR 49,17,27,"Riley Dixon punts 41 yards, fair catch by Rashid Shaheed at NO-8",0.000,0.380
+4,6:16,1,10,NOR 8,17,27,Alvin Kamara left guard for 3 yards (tackle by Justin Hollins),-0.380,-0.560
+4,5:34,2,7,NOR 11,17,27,Andy Dalton pass complete short left to Marquez Callaway for 6 yards (tackle by Troy Hill),-0.560,-0.370
+4,4:54,3,1,NOR 17,17,27,Taysom Hill right guard for no gain (tackle by Bobby Wagner and Nick Scott),-0.370,-2.320
+4,3:50,4,1,NOR 17,17,27,"Blake Gillikin punts 51 yards, returned by Brandon Powell for -5 yards, lateral to Jalen Ramsey for no gain (tackle by Zack Baun). Penalty on Jake Gervase: Offensive Holding, 10 yards (accepted)",-2.320,-0.410
+4,3:36,1,10,LAR 22,17,27,Bryce Perkins right end for 3 yards (tackle by Demario Davis),0.410,0.270
+4,3:10,2,7,LAR 25,17,27,Bryce Perkins sacked by Carl Granderson for -9 yards,0.270,-1.870
+4,2:27,3,16,LAR 16,17,27,Bryce Perkins sacked by Kaden Elliss for -10 yards,-1.870,-2.490
+4,2:00,4,26,LAR 6,17,27,"Riley Dixon punts 60 yards, returned by Rashid Shaheed for 17 yards (tackle by Jake Gervase)",-2.490,-2.320
+4,1:48,1,10,LAR 49,17,27,Taysom Hill right tackle for 2 yards (tackle by Troy Hill),2.320,2.050
+4,1:45,,,,,,Timeout #1 by Los Angeles Rams,,
+4,1:45,2,8,LAR 47,17,27,Taysom Hill left tackle for 3 yards (tackle by Marquise Copeland),2.050,1.750
+4,1:39,,,,,,Timeout #2 by Los Angeles Rams,,
+4,1:39,,,,,,Timeout #1 by New Orleans Saints,,
+4,1:39,3,5,LAR 44,17,27,Andy Dalton pass incomplete deep right intended for Chris Olave,1.750,0.330
+4,1:34,4,5,LAR 44,17,27,"Penalty on Bryce Thompson: False Start, 5 yards (accepted) (no play)",0.330,0.000
+4,1:34,4,10,LAR 49,17,27,"Blake Gillikin punts 37 yards, returned by Brandon Powell for 14 yards (tackle by Kaden Elliss)",0.000,-0.670
+4,1:23,1,10,LAR 26,17,27,Bryce Perkins sacked by and Kaden Elliss for -7 yards and Carl Granderson for -7 yards,0.670,-0.870
+4,0:54,2,17,LAR 19,17,27,Kyren Williams right guard for 6 yards (tackle by David Onyemata),-0.870,-0.690
+4,0:33,3,11,LAR 25,17,27,Bryce Perkins pass complete deep middle to Tyler Higbee for 20 yards (tackle by Chris Harris),-0.690,1.930
+4,0:28,,,,,,Timeout #3 by Los Angeles Rams,,
+4,0:28,1,10,LAR 45,17,27,Bryce Perkins pass complete short left to Allen Robinson for 15 yards (tackle by Alontae Taylor and Demario Davis),1.930,2.920
+4,0:12,1,10,NOR 40,17,27,Bryce Perkins spiked the ball,2.920,2.370
+4,0:11,2,10,NOR 40,20,27,Matt Gay 58 yard field goal good,2.370,3.000
+4,0:06,,,,,,Timeout #2 by New Orleans Saints,,
+4,0:06,,,LAR 35,20,27,"Matt Gay kicks onside 9 yards, returned by Jarvis Landry for no gain",0.000,2.650
+4,0:05,1,10,LAR 44,20,27,Andy Dalton kneels for -1 yards,2.650,1.980
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

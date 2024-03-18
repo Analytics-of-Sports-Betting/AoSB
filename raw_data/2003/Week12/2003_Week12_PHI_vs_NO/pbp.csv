@@ -1,0 +1,190 @@
+Quarter,Time,Down,ToGo,Location,NOR,PHI,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Eagles won the coin toss, Eagles to receive the opening kickoff.",,
+1,15:00,,,NOR 30,0,0,"Mitch Berger kicks off 64 yards, returned by James Thrash for 19 yards (tackle by Keyuo Craver). Penalty on Sheldon Brown: Offensive Holding, 10 yards",0.000,-0.220
+1,14:55,1,10,PHI 15,0,0,Donovan McNabb pass complete to Todd Pinkston for 48 yards (tackle by Ashley Ambrose),-0.220,3.120
+1,14:07,1,10,NOR 37,0,0,Donovan McNabb pass incomplete intended for James Thrash,3.120,2.570
+1,14:00,2,10,NOR 37,0,0,Duce Staley left tackle for 9 yards (tackle by Tebucky Jones),2.570,3.070
+1,13:32,3,1,NOR 28,0,0,Donovan McNabb up the middle for 4 yards (tackle by Johnathan Sullivan),3.070,3.970
+1,13:00,1,10,NOR 24,0,0,Correll Buckhalter up the middle for 6 yards (tackle by Dale Carter),3.970,4.290
+1,12:21,2,4,NOR 18,0,0,Donovan McNabb pass incomplete intended for Greg Lewis,4.290,3.570
+1,12:18,3,4,NOR 18,0,0,Donovan McNabb pass incomplete intended for Brian Westbrook (defended by Charles Grant),3.570,2.320
+1,12:12,4,4,NOR 18,0,3,David Akers 36 yard field goal good,2.320,3.000
+1,,,,PHI 30,0,3,"David Akers kicks off 70 yards, returned by Michael Lewis for 16 yards (tackle by Roderick Hood)",0.000,-0.140
+1,12:03,1,10,NOR 16,0,3,Deuce McAllister right guard for 8 yards (tackle by Carlos Emmons),-0.140,0.550
+1,11:31,2,2,NOR 24,0,3,Aaron Brooks pass incomplete intended for Deuce McAllister (defended by Carlos Emmons),0.550,-0.320
+1,11:26,,,,0,3,Timeout #1 by New Orleans Saints,0.000,-0.320
+1,11:26,3,2,NOR 24,0,3,"Penalty on LeCharles Bentley: False Start, 5 yards (no play)",-0.320,-0.950
+1,11:26,3,7,NOR 19,0,3,Ki-Jana Carter left end for 8 yards (tackle by Michael Lewis),-0.950,0.740
+1,10:45,1,10,NOR 27,0,3,Aaron Brooks pass complete to Joe Horn for 42 yards (tackle by Michael Lewis),0.740,3.510
+1,9:59,1,10,PHI 31,0,3,Deuce McAllister left guard for 12 yards (tackle by Nate Wayne),3.510,4.310
+1,9:21,1,10,PHI 19,0,3,"Penalty on Walter Rasby: False Start, 5 yards (no play)",4.310,3.970
+1,8:56,1,15,PHI 24,0,3,Aaron Brooks pass complete to Deuce McAllister for 23 yards (tackle by Michael Lewis),3.970,6.970
+1,8:11,1,1,PHI 1,0,3,Deuce McAllister left guard for no gain (tackle by N.D. Kalu),6.970,5.910
+1,7:45,2,1,PHI 1,0,3,"Aaron Brooks for no gain. Aaron Brooks fumbles, recovered by Troy Vincent at PHI-0",5.910,-0.280
+1,7:39,1,10,PHI 20,0,3,Donovan McNabb pass incomplete intended for L.J. Smith,0.280,-0.270
+1,7:36,2,10,PHI 20,0,3,"Donovan McNabb pass incomplete intended for L.J. Smith (defended by Tebucky Jones). Penalty on Fred Thomas: Illegal Use of Hands, 5 yards (no play)",-0.270,0.610
+1,7:31,1,10,PHI 25,0,3,Brian Westbrook left end for 6 yards (tackle by Tebucky Jones and Fred Thomas),0.610,0.870
+1,6:49,2,4,PHI 31,0,3,Donovan McNabb pass complete to Correll Buckhalter for 20 yards (tackle by Sedrick Hodge),0.870,2.320
+1,6:03,1,10,NOR 49,0,3,Brian Westbrook left end for no gain (tackle by Orlando Ruff),2.320,1.780
+1,5:20,2,10,NOR 49,0,3,Donovan McNabb right end for 34 yards (tackle by Jay Bellamy),1.780,4.580
+1,4:31,,,,0,3,Timeout #2 by New Orleans Saints,0.000,4.580
+1,4:31,1,10,NOR 15,0,9,"Brian Westbrook up the middle for 15 yards, touchdown",4.580,7.000
+1,,,,NOR 2,0,10,"David Akers kicks extra point good. Penalty on Tebucky Jones: Defensive Offside, 5 yards",0.000,0.000
+1,,,,PHI 35,0,10,"David Akers kicks off 71 yards, touchback",0.000,0.280
+1,4:25,1,10,NOR 20,0,10,Aaron Brooks pass complete to Boo Williams for 8 yards (tackle by Mark Simoneau),0.280,0.810
+1,3:52,2,2,NOR 28,0,10,Deuce McAllister right guard for 2 yards (tackle by Carlos Emmons and Brandon Whiting),0.810,0.940
+1,3:11,1,10,NOR 30,0,10,Deuce McAllister right tackle for 5 yards (tackle by Brandon Whiting),0.940,1.070
+1,2:37,2,5,NOR 35,0,10,Aaron Brooks pass incomplete intended for Jerome Pathon (defended by Lito Sheppard),1.070,0.370
+1,2:30,3,5,NOR 35,0,10,"Penalty on Aaron Brooks: Delay of Game, 5 yards (no play)",0.370,-0.300
+1,2:30,3,10,NOR 30,0,10,"Aaron Brooks pass incomplete intended for Joe Horn. Penalty on N.D. Kalu: Roughing the Passer, 15 yards (no play)",-0.300,1.930
+1,2:25,1,10,NOR 45,0,10,Deuce McAllister left tackle for 9 yards (tackle by N.D. Kalu),1.930,2.600
+1,1:51,2,1,PHI 46,0,10,Deuce McAllister left guard for 8 yards (tackle by Michael Lewis),2.600,3.050
+1,1:11,1,10,PHI 38,0,10,"Penalty on Walter Rasby: False Start, 5 yards (no play)",3.050,2.720
+1,0:45,1,15,PHI 43,0,10,Aaron Brooks pass complete to Deuce McAllister for 1 yard (tackle by Troy Vincent),2.720,1.970
+1,0:07,2,14,PHI 42,0,10,"Aaron Brooks pass complete to Joe Horn for 6 yards (tackle by Lito Sheppard). Joe Horn fumbles (forced by Lito Sheppard), ball out of bounds at PHI-36",1.970,2.080
+Quarter,Time,Down,ToGo,Location,NOR,PHI,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,8,PHI 36,0,10,Deuce McAllister right end for no gain (tackle by Nate Wayne),2.080,0.880
+2,14:16,4,8,PHI 36,0,10,Aaron Brooks pass incomplete intended for Joe Horn (defended by Sheldon Brown). Penalty on Victor Riley: Offensive Holding (Declined),0.880,-1.330
+2,14:11,1,10,PHI 36,0,10,Donovan McNabb pass complete to Chad Lewis for 14 yards (tackle by Derrick Rodgers),1.330,2.260
+2,13:38,1,10,PHI 50,0,10,Brian Westbrook left end for -5 yards (tackle by Darren Howard),2.260,1.040
+2,12:55,2,15,PHI 45,0,10,Brian Westbrook up the middle for 14 yards (tackle by Tebucky Jones),1.040,2.210
+2,12:12,3,1,NOR 41,0,10,Correll Buckhalter right guard for 2 yards (tackle by Fred Thomas and Derrick Rodgers),2.210,2.980
+2,11:32,1,10,NOR 39,0,10,Donovan McNabb pass incomplete intended for Todd Pinkston,2.980,2.440
+2,11:27,2,10,NOR 39,0,10,"Duce Staley up the middle for 2 yards (tackle by Sedrick Hodge). Penalty on Artis Hicks: Offensive Holding, 10 yards (no play)",2.440,1.090
+2,10:55,2,20,NOR 49,0,10,Donovan McNabb pass incomplete intended for Brian Westbrook,1.090,0.430
+2,10:50,3,20,NOR 49,0,10,Donovan McNabb pass complete to Brian Westbrook for 7 yards (tackle by Johnathan Sullivan). Penalty on Artis Hicks: Illegal Use of Hands (Declined),0.430,0.460
+2,10:50,4,13,NOR 42,0,10,"Penalty on Greg Lewis: False Start, 5 yards (no play)",0.460,0.130
+2,10:29,4,18,NOR 47,0,10,"Dirk Johnson punts 47 yards, touchback",0.130,-0.280
+2,10:18,1,10,NOR 20,0,10,Aaron Brooks right guard for 3 yards (tackle by Mark Simoneau),0.280,0.140
+2,9:40,2,7,NOR 23,0,10,Aaron Brooks pass complete to Jerome Pathon for 8 yards (tackle by Nate Wayne),0.140,1.000
+2,9:19,1,10,NOR 31,0,10,Deuce McAllister right guard for 2 yards (tackle by Jerome McDougle and Mark Simoneau),1.000,0.730
+2,8:42,2,8,NOR 33,0,10,Deuce McAllister up the middle for 4 yards (tackle by Corey Simon),0.730,0.560
+2,8:03,3,4,NOR 37,0,10,Aaron Brooks pass complete to Boo Williams for 5 yards (tackle by Mark Simoneau),0.560,1.730
+2,6:58,1,10,NOR 42,0,10,Aaron Brooks pass complete to Boo Williams for 19 yards (tackle by Sheldon Brown),1.730,2.980
+2,6:17,1,10,PHI 39,0,10,Deuce McAllister up the middle for 2 yards (tackle by Mark Simoneau),2.980,2.710
+2,5:33,2,8,PHI 37,0,10,"Aaron Brooks sacked by Nate Wayne for -6 yards. Aaron Brooks fumbles (forced by Nate Wayne), recovered by N.D. Kalu at tm_-50 (tackle by Deuce McAllister)",2.710,-2.260
+2,5:24,1,10,PHI 50,0,10,Correll Buckhalter left tackle for no gain (tackle by Kenderick Allen),2.260,1.710
+2,4:47,2,10,PHI 50,0,10,Donovan McNabb pass complete to James Thrash for 6 yards (tackle by Derrick Rodgers),1.710,1.820
+2,4:09,3,4,NOR 44,0,10,Duce Staley right guard for 15 yards (tackle by Sedrick Hodge),1.820,3.640
+2,3:30,,,,0,10,Timeout #1 by Philadelphia Eagles,0.000,3.640
+2,3:30,1,10,NOR 29,0,10,Donovan McNabb pass complete to L.J. Smith for 28 yards (tackle by Jay Bellamy),3.640,6.970
+2,2:47,1,1,NOR 1,0,16,"Correll Buckhalter up the middle for 1 yard, touchdown",6.970,7.000
+2,,,,NOR 2,0,17,David Akers kicks extra point good,0.000,0.000
+2,,,,PHI 30,0,17,"David Akers kicks off 61 yards, returned by Michael Lewis for 19 yards (tackle by Keith Adams)",0.000,0.810
+2,2:33,1,10,NOR 28,0,17,Aaron Brooks pass complete to Boo Williams for 23 yards (tackle by Lito Sheppard),0.810,2.320
+2,2:02,1,10,PHI 49,0,17,Deuce McAllister right guard for 12 yards (tackle by Clinton Hart),2.320,3.120
+2,1:56,1,10,PHI 37,0,17,"Aaron Brooks pass incomplete intended for Michael Lewis (defended by Lito Sheppard). Penalty on Lito Sheppard: Defensive Pass Interference, 31 yards (no play)",3.120,5.830
+2,1:51,1,6,PHI 6,6,17,"Aaron Brooks pass complete to Boo Williams for 6 yards, touchdown",5.830,7.000
+2,,,,PHI 2,7,17,John Carney kicks extra point good,0.000,0.000
+2,,,,NOR 30,7,17,"Mitch Berger kicks off 60 yards, returned by James Thrash for 25 yards (tackle by Fakhir Brown). Penalty on Quintin Mikell: Offensive Holding (Offsetting), Penalty on Charles Grant: Face Mask (15 Yards) (Offsetting)",0.000,1.270
+2,1:40,1,10,PHI 35,7,17,"Donovan McNabb pass incomplete intended for Duce Staley. Penalty on Bobbie Williams: Offensive Holding, 10 yards (no play)",1.270,0.610
+2,1:31,1,20,PHI 25,7,17,Duce Staley left tackle for 16 yards (tackle by Johnathan Sullivan),0.610,1.530
+2,0:51,2,4,PHI 41,7,17,Donovan McNabb up the middle for 3 yards (tackle by Darren Howard),1.530,1.220
+2,0:42,,,,7,17,Timeout #2 by Philadelphia Eagles,0.000,1.220
+2,0:42,3,1,PHI 44,7,17,Donovan McNabb up the middle for 2 yards (tackle by Kenny Smith),1.220,1.990
+2,0:25,1,10,PHI 46,7,17,Donovan McNabb pass complete to James Thrash for 13 yards,1.990,2.850
+2,0:22,1,10,NOR 41,7,17,Donovan McNabb pass incomplete intended for Freddie Mitchell (defended by Tebucky Jones),2.850,2.310
+2,0:16,2,10,NOR 41,7,17,Donovan McNabb pass complete to Freddie Mitchell for 18 yards (tackle by Jay Bellamy),2.310,4.040
+2,0:09,,,,7,17,Timeout #3 by Philadelphia Eagles,0.000,4.040
+2,0:09,1,10,NOR 23,7,20,David Akers 41 yard field goal good,4.040,3.000
+2,,,,PHI 30,7,20,"David Akers kicks off 29 yards, returned by Walter Rasby for 3 yards (tackle by Justin Ena)",0.000,0.940
+Quarter,Time,Down,ToGo,Location,NOR,PHI,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PHI 30,7,20,"David Akers kicks off 65 yards, returned by Keyuo Craver for 20 yards (tackle by Keith Adams)",0.000,0.610
+3,14:55,1,10,NOR 25,7,20,Aaron Brooks pass incomplete intended for Boo Williams,0.610,0.060
+3,14:50,2,10,NOR 25,7,20,"Aaron Brooks pass incomplete intended for Talman Gardner. Penalty on Montrae Holland: Illegal Use of Hands, 10 yards (no play)",0.060,-1.430
+3,14:47,2,20,NOR 15,7,20,Aaron Brooks pass incomplete intended for Talman Gardner,-1.430,-2.350
+3,14:43,3,20,NOR 15,7,20,"Aaron Brooks pass complete to Jerome Pathon for 7 yards (tackle by Ike Reese). Jerome Pathon fumbles (forced by Ike Reese), recovered by N.D. Kalu at NOR-22 (tackle by Montrae Holland)",-2.350,-4.110
+3,14:42,1,10,NOR 22,7,20,Donovan McNabb pass incomplete intended for Duce Staley (defended by Darren Howard),4.110,3.560
+3,14:27,2,10,NOR 22,7,20,Brian Westbrook left end for 5 yards (tackle by Jay Bellamy),3.560,3.560
+3,13:43,3,5,NOR 17,7,20,Donovan McNabb sacked by Darren Howard and Charles Grant for -7 yards,3.560,1.870
+3,13:20,4,12,NOR 24,7,23,David Akers 42 yard field goal good,1.870,3.000
+3,,,,PHI 30,7,23,"David Akers kicks off 62 yards, returned by Keyuo Craver for 16 yards (tackle by Sean Morey)",0.000,0.540
+3,13:09,1,10,NOR 24,13,23,"Deuce McAllister right guard for 76 yards, touchdown",0.540,7.000
+3,,,,,14,23,"Two Point Attempt: Aaron Brooks pass complete to Boo Williams, conversion succeeds. Penalty on Boo Williams: Illegal Motion, 5 yards (no play)",1.000,0.000
+3,,,,PHI 2,14,23,John Carney kicks extra point good,0.000,0.000
+3,,,,NOR 30,14,23,"Mitch Berger kicks off 58 yards, returned by James Thrash for 13 yards (tackle by Roger Knight). Penalty on Sheldon Brown: Offensive Holding, 10 yards",0.000,-0.220
+3,12:51,1,10,PHI 15,14,23,Brian Westbrook right tackle for 7 yards (tackle by Orlando Ruff),-0.220,0.350
+3,12:17,2,3,PHI 22,14,23,Brian Westbrook right end for 6 yards (tackle by Kenny Smith),0.350,0.810
+3,11:42,1,10,PHI 28,14,23,Donovan McNabb sacked by Darren Howard for -1 yards,0.810,0.130
+3,11:16,2,11,PHI 27,14,23,"Brian Westbrook right tackle for no gain (tackle by Ashley Ambrose). Penalty on Hank Fraley: Offensive Holding, 10 yards (no play)",0.130,-1.360
+3,10:48,2,21,PHI 17,14,23,Donovan McNabb pass complete to Chad Lewis for 23 yards (tackle by Jay Bellamy),-1.360,1.600
+3,9:59,1,10,PHI 40,14,23,Donovan McNabb pass complete to Freddie Mitchell for 6 yards (tackle by Ashley Ambrose),1.600,1.860
+3,9:22,2,4,PHI 46,14,23,"Brian Westbrook left end for 4 yards (tackle by Tebucky Jones). Penalty on Freddie Mitchell: Clipping, 15 yards",1.860,0.380
+3,9:00,2,15,PHI 35,14,23,Donovan McNabb sacked by Charles Grant for -4 yards,0.380,-0.820
+3,8:27,,,,14,23,Timeout #1 by Philadelphia Eagles,0.000,-0.820
+3,8:27,3,19,PHI 31,14,23,Donovan McNabb left tackle for 12 yards (tackle by Roger Knight),-0.820,-0.520
+3,7:46,4,7,PHI 43,14,23,"Dirk Johnson punts 55 yards, returned by Keyuo Craver for 3 yards (tackle by Roderick Hood). Penalty on Justin Ena: Ineligible Downfield Kick, 5 yards (no play)",-0.520,-0.850
+3,7:38,4,12,PHI 38,14,23,"Dirk Johnson punts 30 yards. Penalty on Victor Green: Offensive Holding, 10 yards",-0.850,-0.410
+3,7:31,1,10,NOR 22,14,23,Deuce McAllister up the middle for 5 yards (tackle by Mark Simoneau),0.410,0.540
+3,7:00,2,5,NOR 27,14,23,Deuce McAllister right guard for 3 yards (tackle by Darwin Walker),0.540,0.230
+3,6:10,3,2,NOR 30,14,23,Aaron Brooks left end for 2 yards (tackle by Carlos Emmons),0.230,1.070
+3,5:27,1,10,NOR 32,14,23,Aaron Brooks pass complete to Boo Williams for 23 yards (tackle by Mark Simoneau),1.070,2.590
+3,4:45,1,10,PHI 45,14,23,Deuce McAllister left end for 7 yards (tackle by Carlos Emmons),2.590,2.990
+3,4:10,2,3,PHI 38,14,23,Deuce McAllister right tackle for 2 yards (tackle by Carlos Emmons),2.990,2.540
+3,3:27,3,1,PHI 36,14,23,Aaron Brooks up the middle for 2 yards (tackle by Sam Rayburn),2.540,3.310
+3,2:49,1,10,PHI 34,14,23,Aaron Brooks pass incomplete intended for Terrelle Smith,3.310,2.770
+3,2:43,2,10,PHI 34,14,23,"Aaron Brooks pass complete to Joe Horn for no gain. Penalty on LeCharles Bentley: Offensive Holding, 10 yards (no play)",2.770,1.420
+3,2:16,2,20,PHI 44,14,23,Aaron Brooks pass complete to Talman Gardner for 7 yards (tackle by Mark Simoneau),1.420,1.690
+3,1:33,3,13,PHI 37,14,23,Aaron Brooks pass complete to Jerome Pathon for 10 yards (tackle by Sheldon Brown),1.690,1.770
+3,0:51,4,3,PHI 27,14,23,"John Carney 45 yard field goal no good, blocked by Michael Lewis",1.770,-0.150
+3,0:40,1,10,PHI 19,14,23,Donovan McNabb pass incomplete intended for L.J. Smith,0.150,-0.390
+3,0:37,2,10,PHI 19,14,23,Donovan McNabb pass complete to Duce Staley for 13 yards (tackle by Melvin Williams),-0.390,1.070
+Quarter,Time,Down,ToGo,Location,NOR,PHI,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,PHI 32,14,23,"Duce Staley left end for 5 yards (tackle by Orlando Ruff). Penalty on L.J. Smith: Offensive Holding, 10 yards",1.070,0.740
+4,14:27,1,15,PHI 27,14,23,Duce Staley right end for 10 yards (tackle by Tebucky Jones),0.740,1.200
+4,13:50,2,5,PHI 37,14,23,Donovan McNabb pass complete to Duce Staley for 13 yards (tackle by Kenderick Allen),1.200,2.260
+4,13:06,1,10,PHI 50,14,23,"Brian Westbrook right end for no gain (tackle by Tebucky Jones). Penalty on Hank Fraley: Offensive Holding, 10 yards (no play)",2.260,1.600
+4,12:37,1,20,PHI 40,14,23,Donovan McNabb pass complete to Brian Westbrook for 38 yards (tackle by Fred Thomas),1.600,4.110
+4,12:12,1,10,NOR 22,14,23,"Donovan McNabb pass incomplete intended for James Thrash. Penalty on Artis Hicks: Offensive Holding (Offsetting), Penalty on Ashley Ambrose: Defensive Holding (Offsetting) (no play)",4.110,4.110
+4,12:07,1,10,NOR 22,14,23,Donovan McNabb pass complete to Brian Westbrook for 2 yards (tackle by Kenny Smith),4.110,3.830
+4,11:25,2,8,NOR 20,14,23,Duce Staley up the middle for 5 yards (tackle by Johnathan Sullivan),3.830,3.930
+4,10:47,3,3,NOR 15,14,23,James Thrash right end for no gain (tackle by Johnathan Sullivan),3.930,2.540
+4,10:05,4,3,NOR 15,14,26,David Akers 33 yard field goal good,2.540,3.000
+4,,,,PHI 30,14,26,"David Akers kicks off 72 yards, touchback",0.000,0.280
+4,10:01,1,10,NOR 20,14,26,"Penalty on Jerome Pathon: False Start, 5 yards (no play)",0.280,-0.310
+4,10:01,1,15,NOR 15,14,26,Aaron Brooks pass complete to Deuce McAllister for 9 yards (tackle by Mark Simoneau),-0.310,0.270
+4,9:32,2,6,NOR 24,14,26,Aaron Brooks pass complete to Talman Gardner for 11 yards (tackle by Lito Sheppard),0.270,1.270
+4,9:10,1,10,NOR 35,14,26,Deuce McAllister up the middle for 5 yards (tackle by N.D. Kalu),1.270,1.400
+4,8:33,2,5,NOR 40,14,26,Aaron Brooks sacked by Corey Simon for -7 yards,1.400,-0.230
+4,8:02,3,12,NOR 33,14,26,Aaron Brooks pass incomplete intended for Boo Williams (defended by Michael Lewis),-0.230,-1.180
+4,7:57,4,12,NOR 33,14,26,"Mitch Berger punts 40 yards, returned by Brian Westbrook for 15 yards (tackle by Steve Gleason)",-1.180,-1.730
+4,7:46,1,10,PHI 42,14,26,Duce Staley left tackle for 8 yards (tackle by Derrick Rodgers),1.730,2.270
+4,7:10,2,2,PHI 50,14,26,"Donovan McNabb pass incomplete intended for Todd Pinkston (defended by Fred Thomas). Penalty on Fred Thomas: Defensive Pass Interference, 31 yards (no play)",2.270,4.310
+4,7:04,1,10,NOR 19,14,26,Duce Staley left end for 9 yards (tackle by Sedrick Hodge),4.310,5.360
+4,6:19,2,1,NOR 10,14,26,Donovan McNabb pass complete to Greg Lewis for 8 yards (tackle by Keyuo Craver),5.360,6.740
+4,5:34,1,2,NOR 2,14,32,"Donovan McNabb pass complete to Jon Ritchie for 2 yards, touchdown",6.740,7.000
+4,,,,NOR 2,14,33,David Akers kicks extra point good,0.000,0.000
+4,,,,PHI 30,14,33,"David Akers kicks off 70 yards, returned by Keyuo Craver for 21 yards (tackle by Sheldon Brown). Penalty on Keith Adams: Face Mask (15 Yards), 15 yards",0.000,1.330
+4,5:22,1,10,NOR 36,14,33,Aaron Brooks pass complete to Jerome Pathon for 2 yards (tackle by Ike Reese),1.330,1.060
+4,4:54,2,8,NOR 38,14,33,Aaron Brooks pass complete to Deuce McAllister for 15 yards (tackle by Nate Wayne),1.060,2.460
+4,4:26,1,10,PHI 47,14,33,Aaron Brooks pass complete to Boo Williams for 10 yards (tackle by Michael Lewis),2.460,3.120
+4,3:56,1,10,PHI 37,14,33,Aaron Brooks pass incomplete intended for Boo Williams,3.120,2.570
+4,3:51,2,10,PHI 37,14,33,"Aaron Brooks pass incomplete intended for Talman Gardner. Penalty on Lito Sheppard: Roughing the Passer, 15 yards (no play)",2.570,4.110
+4,3:47,1,10,PHI 22,20,33,"Deuce McAllister up the middle for 22 yards, touchdown",4.110,7.000
+4,,,,,20,33,"Two Point Attempt: Aaron Brooks pass incomplete intended for Boo Williams, conversion fails",1.000,-1.000
+4,,,,NOR 30,20,33,"John Carney kicks off 58 yards, returned by James Thrash for 33 yards (tackle by Ashley Ambrose). Penalty on Ashley Ambrose: Offside on Free Kick (Declined)",0.000,1.930
+4,3:30,1,10,PHI 45,20,33,Correll Buckhalter right end for 8 yards (tackle by Derrick Rodgers),1.930,2.460
+4,3:22,2,2,NOR 47,20,33,Correll Buckhalter up the middle for -1 yards (tackle by Darren Howard),2.460,1.620
+4,3:13,,,,20,33,Timeout #1 by New Orleans Saints,0.000,1.620
+4,3:13,3,3,NOR 48,20,33,Correll Buckhalter right end for 2 yards (tackle by Orlando Ruff),1.620,0.200
+4,3:04,,,,20,33,Timeout #2 by New Orleans Saints,0.000,0.200
+4,3:04,4,1,NOR 46,20,33,"Dirk Johnson punts 27 yards, fair catch by Keyuo Craver",0.200,-0.150
+4,2:58,1,10,NOR 19,20,33,Aaron Brooks pass incomplete intended for Deuce McAllister (defended by Darwin Walker),0.150,-0.390
+4,2:51,2,10,NOR 19,20,33,Aaron Brooks pass complete to Boo Williams for 10 yards (tackle by Nate Wayne),-0.390,0.870
+4,2:23,1,10,NOR 29,20,33,Aaron Brooks pass complete to Joe Horn for 11 yards (tackle by Lito Sheppard),0.870,1.600
+4,2:05,1,10,NOR 40,20,33,Aaron Brooks spiked the ball,1.600,1.050
+4,2:04,2,10,NOR 40,20,33,Aaron Brooks pass complete to Joe Horn for 17 yards (tackle by Troy Vincent). Penalty on PHI: Defensive 12 On-field (Declined),1.050,2.720
+4,2:00,1,10,PHI 43,20,33,Aaron Brooks pass complete to Boo Williams for 6 yards (tackle by Troy Vincent),2.720,2.990
+4,1:35,2,4,PHI 37,20,33,Aaron Brooks pass incomplete intended for Jerome Pathon,2.990,2.280
+4,1:31,3,4,PHI 37,20,33,Aaron Brooks pass complete to Jerome Pathon for 8 yards (tackle by Sheldon Brown),2.280,3.640
+4,1:26,1,10,PHI 29,20,33,Aaron Brooks pass incomplete intended for Jerome Pathon (defended by N.D. Kalu),3.640,3.100
+4,1:21,2,10,PHI 29,20,33,Aaron Brooks pass incomplete intended for Jerome Pathon,3.100,2.410
+4,1:14,3,10,PHI 29,20,33,Aaron Brooks pass incomplete intended for Talman Gardner,2.410,1.500
+4,1:11,4,10,PHI 29,20,33,Aaron Brooks pass incomplete intended for Joe Horn,1.500,-0.870
+4,1:07,1,10,PHI 29,20,33,Donovan McNabb kneels for no gain,0.870,0.330
+4,0:29,2,10,PHI 29,20,33,Donovan McNabb kneels for -1 yards,0.330,-0.490
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,WAS 35,7,4:00,28,Punt
+2,1,10:53,DAL 21,4,2:09,21,Touchdown
+3,1,1:59,WAS 28,3,1:20,8,Punt
+4,2,13:35,WAS 25,8,3:55,75,Touchdown
+5,2,6:18,WAS 22,8,3:17,40,Punt
+6,2,1:40,DAL 34,2,0:15,34,Touchdown
+7,2,0:29,DAL 38,2,0:17,38,Touchdown
+8,3,13:28,DAL 21,6,3:13,21,Touchdown
+9,3,8:52,WAS 48,3,2:54,1,Punt
+10,3,2:52,DAL 45,3,1:34,4,Punt
+11,4,12:10,WAS 38,7,4:15,25,Fumble
+12,4,6:25,WAS 3,6,4:10,16,Punt
+13,4,0:05,WAS 22,1,0:05,-1,End of Game

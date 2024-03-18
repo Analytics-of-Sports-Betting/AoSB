@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,DAL 25,3,1:29,7,Punt
+2,1,10:57,MIN 30,3,1:31,30,Touchdown
+3,1,2:11,DAL 25,10,4:07,47,Interception
+4,2,9:56,DAL 48,9,5:01,52,Touchdown
+5,2,3:42,DAL 25,5,1:51,37,Downs
+6,2,0:49,MIN 48,5,0:47,47,Field Goal
+7,3,9:50,DAL 12,6,3:06,29,Punt
+8,4,14:57,DAL 25,5,2:55,75,Touchdown
+9,4,9:37,DAL 25,6,3:43,8,Punt
+10,4,4:00,DAL 39,11,2:23,61,Touchdown
+11,4,1:18,MIN 29,2,1:18,-2,End of Game

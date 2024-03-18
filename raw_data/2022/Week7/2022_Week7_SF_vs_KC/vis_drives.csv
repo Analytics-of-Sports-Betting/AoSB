@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,10:22,KAN 25,3,1:39,3,Interception
+2,1,6:29,KAN 27,9,4:22,73,Touchdown
+3,2,12:11,KAN 10,10,5:02,90,Touchdown
+4,2,1:28,KAN 6,8,1:22,73,Missed FG
+5,3,15:00,SFO 33,3,1:32,33,Touchdown
+6,3,7:41,KAN 25,9,4:10,75,Touchdown
+7,4,14:16,KAN 20,6,3:33,80,Touchdown
+8,4,8:49,KAN 28,5,2:44,72,Touchdown
+9,4,4:00,KAN 49,3,0:21,3,Punt
+10,4,1:30,KAN 20,3,1:30,-3,End of Game

@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,ATL 17,6,3:39,9,Punt
+2,1,6:59,ATL 34,8,4:20,24,Punt
+3,2,7:43,ATL 3,3,2:17,9,Punt
+4,2,4:34,ATL 25,2,0:23,0,Interception
+5,2,1:47,ATL 25,8,1:47,60,Field Goal
+6,3,14:13,ATL 29,5,3:27,30,Punt
+7,3,9:01,CAR 42,6,2:46,42,Touchdown
+8,3,1:51,ATL 25,4,2:04,23,Punt
+9,4,9:22,ATL 27,6,1:50,13,Downs
+10,4,5:18,ATL 3,8,2:22,97,Touchdown
+11,4,2:33,ATL 34,4,0:43,-15,Downs
+12,4,0:10,ATL 20,1,0:10,8,End of Game

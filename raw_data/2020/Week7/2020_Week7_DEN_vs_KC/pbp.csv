@@ -1,0 +1,174 @@
+Quarter,Time,Down,ToGo,Location,KAN,DEN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Broncos won the coin toss, Broncos to receive the opening kickoff.",,
+1,15:00,,,KAN 35,0,0,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,DEN 25,0,0,Phillip Lindsay left tackle for -1 yards (tackle by Willie Gay),0.610,-0.070
+1,14:25,2,11,DEN 24,0,0,"Penalty on Jerry Jeudy: False Start, 5 yards (no play)",-0.070,-0.810
+1,14:08,2,16,DEN 19,0,0,Drew Lock pass complete short right to Noah Fant for 3 yards (tackle by Damien Wilson),-0.810,-1.020
+1,13:26,3,13,DEN 22,0,0,Drew Lock pass incomplete short left,-1.020,-1.900
+1,13:20,4,13,DEN 22,0,0,"Sam Martin punts 57 yards, returned by Mecole Hardman for 11 yards (tackle by Jeremy Cox)",-1.900,-1.070
+1,13:10,1,10,KAN 32,0,0,Mecole Hardman right end for 13 yards (tackle by A.J. Bouye),1.070,1.930
+1,12:32,1,10,KAN 45,0,0,Clyde Edwards-Helaire left guard for 2 yards (tackle by Alexander Johnson),1.930,1.650
+1,11:52,2,8,KAN 47,0,0,Patrick Mahomes pass complete short right to Tyreek Hill for 11 yards (tackle by A.J. Bouye),1.650,2.790
+1,11:19,1,10,DEN 42,0,0,Patrick Mahomes pass complete short middle to Travis Kelce for 8 yards (tackle by Justin Simmons),2.790,3.320
+1,10:35,2,2,DEN 34,0,0,Clyde Edwards-Helaire right guard for 4 yards (tackle by Bradley Chubb and Alexander Johnson),3.320,3.580
+1,9:58,1,10,DEN 30,0,0,Patrick Mahomes pass incomplete short left,3.580,3.030
+1,9:51,2,10,DEN 30,0,0,Patrick Mahomes pass complete deep left to Mecole Hardman for 19 yards,3.030,4.840
+1,9:15,1,10,DEN 11,6,0,"Clyde Edwards-Helaire left guard for 11 yards, touchdown",4.840,7.000
+1,9:08,,,DEN 15,7,0,Harrison Butker kicks extra point good,0.000,0.000
+1,9:08,,,KAN 35,7,0,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+1,9:08,1,10,DEN 25,7,0,Drew Lock pass incomplete short right intended for Noah Fant,0.610,0.060
+1,9:02,2,10,DEN 25,7,0,Phillip Lindsay right tackle for 6 yards (tackle by Charvarius Ward),0.060,0.170
+1,8:20,3,4,DEN 31,7,0,Drew Lock pass incomplete deep left intended for Noah Fant,0.170,-1.310
+1,8:15,4,4,DEN 31,7,0,"Sam Martin punts 60 yards, returned by Mecole Hardman for 10 yards (tackle by Jacob Bobenmoyer)",-1.310,-0.150
+1,8:02,1,10,KAN 19,7,0,"Patrick Mahomes pass complete short left to Nick Keizer for 14 yards (tackle by Alexander Johnson). Nick Keizer fumbles (forced by Alexander Johnson), recovered by Bryce Callahan at KC-37",0.150,-3.120
+1,7:50,1,10,KAN 37,7,0,Drew Lock pass complete deep right to Tim Patrick for 27 yards (tackle by Tyrann Mathieu),3.120,4.910
+1,7:32,1,10,KAN 10,7,0,Melvin Gordon up the middle for 3 yards (tackle by Chris Jones and Mike Pennel),4.910,4.760
+1,6:51,2,7,KAN 7,7,0,Drew Lock pass complete short right to Tim Patrick for 5 yards (tackle by Anthony Hitchens),4.760,4.950
+1,6:09,,,,,,Timeout #1 by Denver Broncos,,
+1,6:09,3,2,KAN 2,7,6,"Drew Lock right end for 2 yards, touchdown",4.950,7.000
+1,6:04,,,KAN 15,7,6,Brandon McManus kicks extra point no good wide left,0.000,-1.000
+1,6:04,,,DEN 35,7,6,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+1,6:04,1,10,KAN 25,7,6,Le'Veon Bell left tackle for 16 yards (tackle by Josey Jewell and Alexander Johnson),0.610,1.660
+1,5:26,1,10,KAN 41,7,6,Le'Veon Bell left guard for 1 yard (tackle by Malik Reed),1.660,1.260
+1,4:52,2,9,KAN 42,7,6,Patrick Mahomes pass complete deep right to Mecole Hardman for 38 yards (tackle by Michael Ojemudia),1.260,4.240
+1,4:06,1,10,DEN 20,7,6,Patrick Mahomes pass complete short left to Demarcus Robinson for 4 yards (tackle by Michael Ojemudia),4.240,4.280
+1,3:29,2,6,DEN 16,7,6,Le'Veon Bell right guard for 2 yards (tackle by Malik Reed),4.280,3.890
+1,2:51,3,4,DEN 14,7,6,Patrick Mahomes sacked by Bradley Chubb for -8 yards,3.890,1.990
+1,2:09,4,12,DEN 22,10,6,Harrison Butker 40 yard field goal good,1.990,3.000
+1,2:04,,,KAN 35,10,6,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+1,2:04,1,10,DEN 25,10,6,Phillip Lindsay right tackle for 14 yards (tackle by Charvarius Ward),0.610,1.530
+1,1:32,1,10,DEN 39,10,6,Drew Lock pass incomplete short right intended for Nick Vannett (defended by Willie Gay),1.530,0.990
+1,1:26,2,10,DEN 39,10,6,"Melvin Gordon right end for 7 yards (tackle by Charvarius Ward). Penalty on Lloyd Cushenberry: Offensive Holding, 10 yards (no play)",0.990,-0.360
+1,0:59,2,20,DEN 29,10,6,Drew Lock pass complete short right to Melvin Gordon for 2 yards (tackle by Damien Wilson),-0.360,-0.760
+1,0:19,3,18,DEN 31,10,6,"Drew Lock pass complete short right to Melvin Gordon for 10 yards (tackle by Charvarius Ward and Tershawn Wharton). Melvin Gordon fumbles (forced by Tershawn Wharton), recovered by Tershawn Wharton at DEN-45 and returned for -3 yards (tackle by Graham Glasgow). Tershawn Wharton fumbles (forced by Graham Glasgow), recovered by Tyrann Mathieu at DEN-48 and returned for -2 yards (tackle by Tim Patrick)",-0.760,-2.260
+1,0:03,1,10,KAN 50,10,6,Patrick Mahomes pass incomplete deep left intended for Tyreek Hill,2.260,1.710
+Quarter,Time,Down,ToGo,Location,KAN,DEN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,10,KAN 50,10,6,Patrick Mahomes pass incomplete short left intended for Clyde Edwards-Helaire,1.710,1.030
+2,14:58,3,10,KAN 50,10,6,Patrick Mahomes sacked by Dre'Mont Jones for -8 yards,1.030,-0.590
+2,14:21,4,18,KAN 42,10,6,Tommy Townsend punts 57 yards downed by Byron Pringle,-0.590,0.380
+2,14:12,1,10,DEN 1,10,6,Drew Lock up the middle for 2 yards (tackle by Willie Gay),-0.380,-0.630
+2,13:33,2,8,DEN 3,10,6,Melvin Gordon left guard for 6 yards (tackle by Juan Thornhill),-0.630,-0.480
+2,12:52,3,2,DEN 9,10,6,Drew Lock pass complete short right to Jerry Jeudy for 7 yards (tackle by Anthony Hitchens),-0.480,-0.140
+2,12:11,1,10,DEN 16,10,6,Drew Lock pass incomplete deep right intended for Jerry Jeudy,-0.140,-0.660
+2,12:04,2,10,DEN 16,10,6,Phillip Lindsay right tackle for 20 yards (tackle by Tyrann Mathieu),-0.660,1.330
+2,11:30,1,10,DEN 36,10,6,Phillip Lindsay right end for 9 yards (tackle by Charvarius Ward),1.330,2.010
+2,10:53,2,1,DEN 45,10,6,Melvin Gordon right tackle for 4 yards (tackle by Demone Harris and Chris Jones),2.010,2.190
+2,10:14,1,10,DEN 49,10,6,Drew Lock sacked by Tanoh Kpassagnon for -3 yards,2.190,1.240
+2,9:28,2,13,DEN 46,16,6,"Drew Lock pass short right intended for Noah Fant is intercepted by Daniel Sorensen at 50 and returned for 50 yards, touchdown",1.240,-7.000
+2,9:18,,,DEN 15,17,6,Harrison Butker kicks extra point good,0.000,0.000
+2,9:18,,,KAN 35,17,6,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+2,9:18,1,10,DEN 25,17,6,Phillip Lindsay right tackle for 19 yards (tackle by Juan Thornhill and Charvarius Ward),0.610,1.860
+2,8:42,1,10,DEN 44,17,6,Phillip Lindsay right end for 6 yards (tackle by Daniel Sorensen),1.860,2.130
+2,8:01,2,4,DEN 50,17,6,Drew Lock pass complete short right to Nick Vannett for 19 yards (tackle by Anthony Hitchens),2.130,3.510
+2,7:22,1,10,KAN 31,17,6,Melvin Gordon right tackle for 1 yard (tackle by Willie Gay and Daniel Sorensen),3.510,3.100
+2,6:43,2,9,KAN 30,17,6,Drew Lock pass complete short right to Albert Okwuegbunam for 5 yards (tackle by Daniel Sorensen),3.100,3.070
+2,5:59,3,4,KAN 25,17,6,Drew Lock pass incomplete deep left intended for Noah Fant,3.070,1.880
+2,5:54,4,4,KAN 25,17,9,Brandon McManus 43 yard field goal good,1.880,3.000
+2,5:49,,,DEN 35,23,9,"Brandon McManus kicks off 67 yards, returned by Byron Pringle for 102 yards, touchdown",0.000,7.000
+2,5:35,,,DEN 15,24,9,Harrison Butker kicks extra point good,0.000,0.000
+2,5:35,,,KAN 35,24,9,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+2,5:35,1,10,DEN 25,24,9,Phillip Lindsay left end for 1 yard (tackle by Bashaud Breeland),0.610,0.200
+2,5:01,2,9,DEN 26,24,9,Melvin Gordon left tackle for 6 yards (tackle by Demone Harris and Damien Wilson),0.200,0.300
+2,4:21,3,3,DEN 32,24,9,Drew Lock pass incomplete short right intended for Tim Patrick (defended by Willie Gay),0.300,-1.240
+2,4:15,4,3,DEN 32,24,9,"Sam Martin punts 44 yards, fair catch by Mecole Hardman at KC-24",-1.240,-0.540
+2,4:06,1,10,KAN 24,24,9,Clyde Edwards-Helaire right tackle for 27 yards (tackle by Justin Simmons),0.540,2.320
+2,3:48,1,10,DEN 49,24,9,Patrick Mahomes pass complete short left to Tyreek Hill for 5 yards (tackle by Bryce Callahan),2.320,2.460
+2,3:15,2,5,DEN 44,24,9,Clyde Edwards-Helaire left guard for no gain (tackle by Shelby Harris),2.460,1.750
+2,2:35,3,5,DEN 44,24,9,Patrick Mahomes pass incomplete short left intended for Tyreek Hill,1.750,0.330
+2,2:29,4,5,DEN 44,24,9,"Tommy Townsend punts 29 yards, fair catch by Bryce Callahan at DEN-15",0.330,0.220
+2,2:23,1,10,DEN 15,24,9,Phillip Lindsay right end for 5 yards (tackle by Daniel Sorensen),-0.220,0.080
+2,2:00,2,5,DEN 20,24,9,Melvin Gordon right guard for 10 yards (tackle by Frank Clark),0.080,0.940
+2,1:37,1,10,DEN 30,24,9,Drew Lock sacked by Chris Jones for -8 yards,0.940,-0.690
+2,1:04,2,18,DEN 22,24,9,Drew Lock pass complete short right to Albert Okwuegbunam for 17 yards (tackle by Damien Wilson),-0.690,0.890
+2,0:40,3,1,DEN 39,24,9,Melvin Gordon right tackle for 8 yards (tackle by Tyrann Mathieu),0.890,2.060
+2,0:34,,,,,,Timeout #2 by Denver Broncos,,
+2,0:34,1,10,DEN 47,24,9,Drew Lock pass complete short left to DaeSean Hamilton for 13 yards (tackle by Bashaud Breeland). Penalty on Charvarius Ward: Defensive Holding (Declined),2.060,2.920
+2,0:24,1,10,KAN 40,24,9,Drew Lock sacked by Charvarius Ward for -9 yards,2.920,1.160
+2,0:18,,,,,,Timeout #3 by Denver Broncos,,
+2,0:18,2,19,KAN 49,24,9,"Drew Lock pass incomplete short right. Penalty on Drew Lock: Intentional Grounding, 9 yards",1.160,-0.690
+2,0:02,,,,,,Timeout #1 by Kansas City Chiefs,,
+2,0:02,3,28,DEN 42,24,9,Drew Lock pass complete short right to KJ Hamler for 21 yards (tackle by Charvarius Ward),-0.690,0.790
+Quarter,Time,Down,ToGo,Location,KAN,DEN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DEN 35,24,9,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,KAN 25,24,9,Patrick Mahomes sacked by Malik Reed for -9 yards,0.610,-1.290
+3,14:18,2,19,KAN 16,24,9,Patrick Mahomes pass incomplete deep right intended for Tyreek Hill,-1.290,-2.140
+3,14:14,3,19,KAN 16,24,9,Patrick Mahomes pass complete short middle to Tyreek Hill for 15 yards (tackle by Alexander Johnson),-2.140,-1.310
+3,13:32,4,4,KAN 31,24,9,"Tommy Townsend punts 47 yards, muffed catch by KJ Hamler, recovered by KJ Hamler at DEN-22",-1.310,-0.410
+3,13:23,1,10,DEN 22,24,9,Melvin Gordon up the middle for -1 yards (tackle by Damien Wilson and Anthony Hitchens),0.410,-0.270
+3,12:51,2,11,DEN 21,24,9,Drew Lock pass complete short right to Tim Patrick for 12 yards (tackle by Daniel Sorensen),-0.270,1.140
+3,12:12,1,10,DEN 33,24,9,KJ Hamler right end for 10 yards (tackle by Daniel Sorensen),1.140,1.800
+3,11:34,1,10,DEN 43,24,9,"Melvin Gordon aborted snap, recovered by Frank Clark at DEN-28 and returned for 14 yards (tackle by Drew Lock and Garett Bolles)",1.800,-4.650
+3,11:24,1,10,DEN 14,24,9,Patrick Mahomes pass incomplete short right intended for Clyde Edwards-Helaire,4.650,4.000
+3,11:18,2,10,DEN 14,24,9,Clyde Edwards-Helaire right end for 1 yard (tackle by Alexander Johnson),4.000,3.260
+3,10:32,3,9,DEN 13,24,9,Patrick Mahomes pass incomplete short right intended for Clyde Edwards-Helaire,3.260,2.570
+3,10:25,4,9,DEN 13,27,9,Harrison Butker 31 yard field goal good,2.570,3.000
+3,10:21,,,KAN 35,27,9,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+3,10:21,1,10,DEN 25,27,9,Melvin Gordon right tackle for 6 yards (tackle by Demone Harris),0.610,0.870
+3,9:39,2,4,DEN 31,27,9,Melvin Gordon right guard for 4 yards (tackle by Mike Pennel),0.870,1.270
+3,9:02,1,10,DEN 35,27,9,Drew Lock pass incomplete short right intended for Melvin Gordon,1.270,0.720
+3,8:58,2,10,DEN 35,27,9,Melvin Gordon right guard for 2 yards (tackle by Tershawn Wharton),0.720,0.300
+3,8:15,3,8,DEN 37,27,9,Drew Lock pass complete short left to Jerry Jeudy for 13 yards (tackle by Rashad Fenton),0.300,2.260
+3,7:37,1,10,DEN 50,27,9,"Penalty on DEN: Offensive Too Many Men on Field, 5 yards (no play)",2.260,1.930
+3,7:22,1,15,DEN 45,27,9,Drew Lock pass complete short right to Albert Okwuegbunam for 4 yards (tackle by Tyrann Mathieu),1.930,1.580
+3,6:44,2,11,DEN 49,27,9,Drew Lock pass complete short right to Nick Vannett for 6 yards (tackle by Damien Wilson),1.580,1.690
+3,6:01,3,5,KAN 45,27,9,Drew Lock pass incomplete short left intended for Melvin Gordon,1.690,0.270
+3,5:56,4,5,KAN 45,27,9,"Drew Lock pass complete short left to KJ Hamler for 3 yards (tackle by Charvarius Ward and Bashaud Breeland). KJ Hamler fumbles, ball out of bounds at KC-42 (forced by Bashaud Breeland)",0.270,-1.730
+3,5:49,1,10,KAN 42,27,9,Le'Veon Bell left tackle for 16 yards (tackle by Justin Simmons and Kareem Jackson),1.730,2.790
+3,5:10,1,10,DEN 42,27,9,Patrick Mahomes pass complete short right to Travis Kelce for 17 yards (tackle by Josey Jewell),2.790,3.910
+3,4:32,1,10,DEN 25,27,9,Le'Veon Bell right guard for 3 yards (tackle by Alexander Johnson and DeMarcus Walker),3.910,3.770
+3,3:59,2,7,DEN 22,27,9,Patrick Mahomes pass complete short left to Tyreek Hill for 7 yards (tackle by Bryce Callahan),3.770,4.580
+3,3:26,1,10,DEN 15,27,9,Patrick Mahomes pass complete short right to Travis Kelce for 6 yards (tackle by Justin Simmons),4.580,5.030
+3,2:48,2,4,DEN 9,27,9,Le'Veon Bell right guard for 1 yard (tackle by Alexander Johnson and Anthony Chickillo),5.030,4.450
+3,2:08,3,3,DEN 8,27,9,Patrick Mahomes pass incomplete short left intended for Tyreek Hill,4.450,2.980
+3,2:03,4,3,DEN 8,30,9,Harrison Butker 26 yard field goal good,2.980,3.000
+3,2:00,,,KAN 35,30,9,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+3,2:00,1,10,DEN 25,30,9,Drew Lock right end for 4 yards (tackle by Tyrann Mathieu),0.610,0.600
+3,1:33,2,6,DEN 29,30,9,"Melvin Gordon right end for 11 yards (tackle by Damien Wilson). Penalty on Damien Wilson: Unnecessary Roughness, 15 yards",0.600,2.590
+3,1:11,1,10,KAN 45,30,9,Drew Lock pass complete short right to Albert Okwuegbunam for 6 yards (tackle by Damien Wilson),2.590,2.850
+3,0:35,2,4,KAN 39,30,9,Melvin Gordon up the middle for no gain (tackle by Tanoh Kpassagnon),2.850,2.150
+Quarter,Time,Down,ToGo,Location,KAN,DEN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,4,KAN 39,30,9,Drew Lock pass short middle intended for KJ Hamler is intercepted by Tyrann Mathieu at KC-25 and returned for 18 yards,2.150,-1.800
+4,14:48,1,10,KAN 43,30,9,Clyde Edwards-Helaire right tackle for 1 yard (tackle by DeShawn Williams and Malik Reed),1.800,1.390
+4,14:14,2,9,KAN 44,30,9,Patrick Mahomes pass complete short left to Clyde Edwards-Helaire for 17 yards (tackle by Bryce Callahan and Kareem Jackson),1.390,2.980
+4,13:29,1,10,DEN 39,30,9,Patrick Mahomes pass complete short middle to Tyreek Hill for 7 yards (tackle by Bryce Callahan),2.980,3.390
+4,12:51,2,3,DEN 32,30,9,Patrick Mahomes pass complete short middle to Nick Keizer for 22 yards (tackle by Bryce Callahan),3.390,4.910
+4,12:06,1,10,DEN 10,30,9,Clyde Edwards-Helaire left end for no gain (tackle by Dre'Mont Jones),4.910,4.190
+4,11:21,2,10,DEN 10,36,9,"Patrick Mahomes pass complete short right to Tyreek Hill for 10 yards, touchdown",4.190,7.000
+4,11:15,,,DEN 15,37,9,Harrison Butker kicks extra point good,0.000,0.000
+4,11:15,,,KAN 35,37,9,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+4,11:15,1,10,DEN 25,37,9,Melvin Gordon left guard for 3 yards (tackle by Daniel Sorensen and Ben Niemann),0.610,0.470
+4,10:46,2,7,DEN 28,37,9,Drew Lock pass complete short right to DaeSean Hamilton for 13 yards (tackle by Charvarius Ward),0.470,1.660
+4,10:22,1,10,DEN 41,37,9,Melvin Gordon right guard for 2 yards (tackle by Khalen Saunders),1.660,1.390
+4,9:40,2,8,DEN 43,37,9,Royce Freeman left tackle for 3 yards (tackle by Frank Clark). Penalty on Charvarius Ward: Unnecessary Roughness (Offsetting) . Penalty on Mecole Hardman: Unnecessary Roughness (Offsetting),1.390,1.090
+4,9:07,3,5,DEN 46,37,9,Drew Lock pass complete short middle to Noah Fant for 11 yards (tackle by Daniel Sorensen),1.090,2.720
+4,8:42,1,10,KAN 43,37,9,Drew Lock pass complete deep middle to Noah Fant for 24 yards (tackle by Daniel Sorensen). Penalty on Daniel Sorensen: Defensive Holding (Declined),2.720,4.310
+4,8:21,1,10,KAN 19,37,9,Drew Lock pass complete short right to Royce Freeman for 5 yards (tackle by Rashad Fenton),4.310,4.530
+4,7:42,2,5,KAN 14,37,9,Drew Lock pass complete short right to Albert Okwuegbunam for 11 yards (tackle by Ben Niemann),4.530,6.510
+4,6:58,1,3,KAN 3,37,15,"Melvin Gordon left guard for 3 yards, touchdown",6.510,7.000
+4,6:54,,,KAN 15,37,16,Brandon McManus kicks extra point good,0.000,0.000
+4,6:54,,,DEN 35,37,16,"Brandon McManus kicks onside 7 yards, returned by Demarcus Robinson for 21 yards (tackle by Duke Dawson)",0.000,4.170
+4,6:50,1,10,DEN 21,37,16,DeAndre Washington right tackle for no gain (tackle by Anthony Chickillo),4.170,3.630
+4,6:09,2,10,DEN 21,37,16,Chad Henne pass complete short right to Marcus Kemp for 11 yards (tackle by A.J. Bouye),3.630,4.910
+4,5:30,1,10,DEN 10,37,16,DeAndre Washington left guard for 2 yards (tackle by DeMarcus Walker),4.910,4.570
+4,4:46,2,8,DEN 8,37,16,Chad Henne sacked by Malik Reed for -3 yards,4.570,3.120
+4,3:59,3,11,DEN 11,37,16,"Chad Henne pass complete short right to DeAndre Washington for 2 yards (tackle by Alexander Johnson). Penalty on Shelby Harris: Unsportsmanlike Conduct, 5 yards",3.120,6.280
+4,3:48,1,4,DEN 4,37,16,DeAndre Washington right guard for 3 yards (tackle by Josey Jewell),6.280,5.910
+4,3:02,2,1,DEN 1,43,16,"Chad Henne left end for 1 yard, touchdown",5.910,7.000
+4,2:58,,,DEN 15,43,16,Harrison Butker kicks extra point no good hit left upright,0.000,-1.000
+4,2:58,,,KAN 35,43,16,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+4,2:58,1,10,DEN 25,43,16,Royce Freeman left end for 3 yards (tackle by Armani Watts),0.610,0.470
+4,2:33,2,7,DEN 28,43,16,Drew Lock pass complete short right to Albert Okwuegbunam for 9 yards (tackle by Tedric Thompson),0.470,1.400
+4,2:24,1,10,DEN 37,43,16,Drew Lock pass complete short right to Albert Okwuegbunam for 8 yards (tackle by Willie Gay),1.400,1.940
+4,2:01,2,2,DEN 45,43,16,Royce Freeman right tackle for 6 yards (tackle by Antonio Hamilton),1.940,2.320
+4,1:57,1,10,KAN 49,43,16,Drew Lock pass incomplete short left intended for Jerry Jeudy,2.320,1.780
+4,1:52,2,10,KAN 49,43,16,Drew Lock pass incomplete short middle intended for DaeSean Hamilton (defended by Antonio Hamilton),1.780,1.090
+4,1:49,3,10,KAN 49,43,16,Drew Lock pass incomplete short right intended for Royce Freeman,1.090,0.000
+4,1:42,4,10,KAN 49,43,16,Drew Lock pass incomplete deep left intended for Tyrie Cleveland,0.000,-2.190
+4,1:36,1,10,KAN 49,43,16,Chad Henne kneels for -1 yards,2.190,1.510
+4,0:55,2,11,KAN 48,43,16,Chad Henne kneels for -1 yards,1.510,0.700
+4,0:23,3,12,KAN 47,43,16,Chad Henne kneels for -1 yards,0.700,-0.320
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

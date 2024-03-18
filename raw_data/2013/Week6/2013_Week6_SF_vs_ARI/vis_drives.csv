@@ -1,0 +1,16 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,ARI 21,3,2:06,9,Punt
+2,1,11:23,ARI 44,2,0:46,3,Interception
+3,1,9:37,ARI 12,3,1:12,9,Punt
+4,1,6:57,ARI 3,3,0:51,0,Interception
+5,1,4:31,ARI 20,3,1:25,80,Touchdown
+6,2,11:09,ARI 1,3,1:47,-1,Safety
+7,2,8:31,ARI 20,3,1:28,80,Touchdown
+8,2,4:55,ARI 7,3,2:01,9,Punt
+9,2,1:55,ARI 20,3,0:25,9,Punt
+10,2,1:06,SFO 44,3,0:38,2,Punt
+11,3,12:45,ARI 39,9,4:33,61,Touchdown
+12,3,5:50,ARI 20,11,4:43,57,Fumble
+13,4,6:35,ARI 20,2,0:39,11,Fumble
+14,4,4:15,ARI 20,7,1:16,32,Downs
+15,4,1:51,ARI 5,5,1:51,32,End of Game

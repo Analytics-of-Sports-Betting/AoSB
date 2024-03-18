@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,KAN 23,13,6:47,77,Touchdown
+2,1,5:02,KAN 20,3,1:06,9,Punt
+3,1,0:36,KAN 20,4,1:25,27,Punt
+4,2,13:06,DAL 48,3,1:30,-3,Punt
+5,2,8:56,KAN 45,5,2:47,7,Punt
+6,2,1:47,KAN 15,11,1:40,46,Blocked FG
+7,3,6:54,KAN 20,10,4:01,80,Touchdown
+8,3,0:38,DAL 31,4,1:32,9,Field Goal
+9,4,11:05,DAL 35,3,1:53,-5,Punt
+10,4,8:41,KAN 36,3,1:58,-1,Punt
+11,4,3:50,KAN 16,8,3:34,38,Punt

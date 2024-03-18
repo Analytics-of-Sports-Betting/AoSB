@@ -1,0 +1,173 @@
+Quarter,Time,Down,ToGo,Location,CAR,MIN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Panthers won the coin toss and deferred, Vikings to receive the opening kickoff.",,
+1,15:00,,,CAR 35,0,0,"Graham Gano kicks off 65 yards, touchback",0.000,-0.280
+1,15:00,1,10,MIN 20,0,0,Matt Cassel pass complete short middle to Jerome Simpson for 10 yards (tackle by Michael Mitchell),0.280,0.940
+1,14:26,1,10,MIN 30,0,0,Adrian Peterson left tackle for 1 yard (tackle by Chase Blackburn),0.940,0.530
+1,13:50,2,9,MIN 31,0,0,Matt Cassel pass incomplete deep left intended for Kyle Rudolph (defended by Thomas Davis),0.530,-0.160
+1,13:44,3,9,MIN 31,0,0,Matt Cassel pass complete short middle to Kyle Rudolph for 15 yards (tackle by Melvin White),-0.160,1.990
+1,13:06,1,10,MIN 46,0,0,Adrian Peterson up the middle for 2 yards (tackle by Greg Hardy),1.990,1.720
+1,12:30,2,8,MIN 48,0,0,Matt Cassel pass complete short right to Jarius Wright for 8 yards (tackle by Josh Thomas),1.720,2.650
+1,12:09,1,10,CAR 44,0,0,"Adrian Peterson right end for 3 yards. Penalty on Frank Alexander: Defensive Offside, 5 yards (no play)",2.650,3.380
+1,11:45,1,5,CAR 39,0,0,Matt Cassel pass incomplete deep middle intended for Greg Jennings is intercepted by Michael Mitchell at CAR-14 and returned for 24 yards (tackle by Kyle Rudolph),3.380,-1.470
+1,11:32,1,10,CAR 38,0,0,"Cam Newton pass incomplete deep middle intended for Steve Smith (defended by Jamarca Sanford). Penalty on Ryan Kalil: Illegal Use of Hands, 10 yards (no play)",1.470,0.810
+1,11:26,1,20,CAR 28,0,0,Cam Newton pass complete short left to Steve Smith for 5 yards (tackle by Chris Cook),0.810,0.250
+1,10:58,2,15,CAR 33,0,0,Cam Newton pass complete short left to DeAngelo Williams for 6 yards (tackle by Chris Cook),0.250,0.370
+1,10:12,3,9,CAR 39,0,0,"Cam Newton sacked by Chad Greenway for -8 yards. Penalty on Chris Cook: Defensive Holding, 5 yards (no play)",0.370,1.860
+1,9:32,1,10,CAR 44,0,0,DeAngelo Williams up the middle for 2 yards (tackle by Desmond Bishop),1.860,1.590
+1,8:53,2,8,CAR 46,0,0,DeAngelo Williams left guard for 7 yards (tackle by Jared Allen),1.590,1.820
+1,8:11,3,1,MIN 47,0,0,Cam Newton for 6 yards,1.820,2.850
+1,7:38,1,10,MIN 41,0,0,Cam Newton pass incomplete short right intended for Mike Tolbert (defended by Brian Robison),2.850,2.310
+1,7:33,2,10,MIN 41,0,0,Mike Tolbert left guard for 3 yards (tackle by Jared Allen),2.310,2.020
+1,6:53,3,7,MIN 38,0,0,Cam Newton up the middle for 6 yards (tackle by Harrison Smith),2.020,2.020
+1,6:05,3,7,MIN 38,0,0,Timeout #1 by Carolina Panthers,2.020,1.310
+1,6:05,4,1,MIN 32,0,0,Mike Tolbert left guard for 2 yards (tackle by Erin Henderson),1.310,3.580
+1,5:27,1,10,MIN 30,0,0,DeAngelo Williams right end for 6 yards (tackle by Jamarca Sanford and Erin Henderson),3.580,3.840
+1,4:43,2,4,MIN 24,0,0,Cam Newton pass complete short middle to DeAngelo Williams for 13 yards (tackle by Jamarca Sanford),3.840,4.840
+1,4:12,1,10,MIN 11,0,0,Brandon LaFell right end for 9 yards (tackle by Jamarca Sanford),4.840,5.850
+1,3:36,2,1,MIN 2,0,0,DeAngelo Williams left guard for no gain (tackle by Erin Henderson),5.850,5.120
+1,2:54,3,1,MIN 2,0,0,Mike Tolbert up the middle for no gain (tackle by Chad Greenway),5.120,5.120
+1,2:07,3,1,MIN 2,0,0,Timeout #2 by Carolina Panthers,5.120,3.250
+1,2:07,4,1,MIN 2,6,0,"Cam Newton pass complete short left to Steve Smith for 2 yards, touchdown",3.250,7.000
+1,2:07,,,MIN 2,7,0,Graham Gano kicks extra point good,0.000,0.000
+1,2:07,,,CAR 35,7,0,"Graham Gano kicks off 65 yards, touchback",0.000,-0.280
+1,2:03,1,10,MIN 20,7,0,Adrian Peterson up the middle for -4 yards (tackle by Chase Blackburn),0.280,-0.940
+1,1:29,2,14,MIN 16,7,0,Adrian Peterson right tackle for 2 yards (tackle by Luke Kuechly),-0.940,-1.330
+1,0:55,3,12,MIN 18,7,0,Matt Cassel pass complete short left to Kyle Rudolph for 7 yards (tackle by Luke Kuechly),-1.330,-1.700
+1,0:35,4,5,MIN 25,7,0,"Jeff Locke punts 52 yards, returned by Ted Ginn for 2 yards (tackle by Harrison Smith)",-1.700,-0.610
+1,0:24,1,10,CAR 25,7,0,Cam Newton pass incomplete deep left intended for Steve Smith,0.610,0.060
+1,0:16,2,10,CAR 25,7,0,DeAngelo Williams left end for 22 yards (tackle by Jamarca Sanford),0.060,2.060
+Quarter,Time,Down,ToGo,Location,CAR,MIN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,CAR 47,7,0,Cam Newton up the middle for -5 yards (tackle by Everson Griffen),2.060,0.840
+2,14:28,2,15,CAR 42,7,0,DeAngelo Williams up the middle for -1 yards,0.840,0.040
+2,13:46,3,16,CAR 41,7,0,Cam Newton pass complete short right to Brandon LaFell for 14 yards (tackle by Chad Greenway and Xavier Rhodes),0.040,0.270
+2,13:24,4,2,MIN 45,7,0,"Brad Nortman punts 34 yards, fair catch by Marcus Sherels",0.270,0.370
+2,13:17,1,10,MIN 11,7,0,Adrian Peterson up the middle for 11 yards (tackle by Josh Thomas and Greg Hardy),-0.370,0.410
+2,12:30,1,10,MIN 22,7,0,Matt Cassel pass complete short right to Cordarrelle Patterson for 5 yards (tackle by Melvin White),0.410,0.540
+2,11:53,2,5,MIN 27,7,0,Matt Cassel pass complete short left to Cordarrelle Patterson for -2 yards (tackle by Greg Hardy and Luke Kuechly),0.540,-0.430
+2,11:15,3,7,MIN 25,7,0,Matt Cassel up the middle for 6 yards (tackle by Thomas Davis),-0.430,-1.310
+2,10:29,4,1,MIN 31,7,0,"Jeff Locke punts 60 yards, returned by Ted Ginn for 9 yards (tackle by Larry Dean)",-1.310,-0.040
+2,10:17,1,10,CAR 18,7,0,DeAngelo Williams up the middle for 4 yards,0.040,0.140
+2,9:45,2,6,CAR 22,7,0,Cam Newton pass complete short middle to Greg Olsen for 8 yards (tackle by Marcus Sherels),0.140,0.940
+2,9:06,1,10,CAR 30,7,0,Cam Newton pass complete short middle to Steve Smith for 5 yards (tackle by Harrison Smith),0.940,1.070
+2,8:25,2,5,CAR 35,7,0,Mike Tolbert left guard for 9 yards (tackle by Jamarca Sanford),1.070,1.860
+2,7:42,1,10,CAR 44,7,0,Cam Newton pass incomplete short left intended for Steve Smith (defended by Chris Cook),1.860,1.320
+2,7:38,2,10,CAR 44,7,0,Cam Newton pass incomplete deep right intended for Ted Ginn,1.320,0.630
+2,7:33,3,10,CAR 44,7,0,Cam Newton pass complete short right to Brandon LaFell for 11 yards (tackle by Chris Cook),0.630,2.590
+2,7:06,1,10,MIN 45,7,0,Cam Newton pass complete short left to Greg Olsen for 11 yards (tackle by Everson Griffen),2.590,3.310
+2,6:29,1,10,MIN 34,7,0,DeAngelo Williams left end for 1 yard (tackle by Erin Henderson),3.310,2.910
+2,5:47,2,9,MIN 33,7,0,"Cam Newton sacked by Sharrif Floyd for -6 yards. Penalty on Sharrif Floyd: Face Mask (15 Yards), 15 yards",2.910,3.970
+2,5:19,1,10,MIN 24,7,0,Cam Newton left end for 9 yards (tackle by Chris Cook),3.970,4.850
+2,4:52,2,1,MIN 15,7,0,Mike Tolbert up the middle for 5 yards (tackle by Sharrif Floyd),4.850,4.910
+2,4:16,1,10,MIN 10,7,0,DeAngelo Williams up the middle for no gain (tackle by Letroy Guion),4.910,4.190
+2,3:50,2,10,MIN 10,13,0,"Cam Newton pass complete short middle to Mike Tolbert for 10 yards, touchdown",4.190,7.000
+2,3:50,,,MIN 2,14,0,"Graham Gano kicks extra point good. Penalty on Letroy Guion: Taunting, 15 yards",0.000,0.000
+2,3:50,,,MIN 10,14,0,"Graham Gano kicks off 50 yards, touchback",0.000,-0.280
+2,3:43,1,10,MIN 20,14,0,Adrian Peterson right tackle for 7 yards (tackle by Colin Cole),0.280,0.680
+2,3:09,2,3,MIN 27,14,0,Matt Cassel pass complete short right to Greg Jennings for 7 yards,0.680,1.200
+2,2:43,1,10,MIN 34,14,0,Matt Cassel sacked by Thomas Davis for -7 yards,1.200,-0.290
+2,2:13,2,17,MIN 27,14,0,Matt Cassel pass complete short left to John Carlson for 8 yards (tackle by Quintin Mikell),-0.290,0.100
+2,2:00,3,9,MIN 35,14,0,Matt Cassel pass complete short left to Jerome Simpson for 15 yards (tackle by Michael Mitchell),0.100,2.260
+2,1:54,1,10,CAR 50,14,0,Matt Cassel pass complete short middle to Adrian Peterson for 2 yards (tackle by Luke Kuechly and Thomas Davis),2.260,1.980
+2,1:31,2,8,CAR 48,14,0,Matt Cassel pass complete short left to Jerome Simpson for 4 yards (tackle by Quintin Mikell),1.980,1.820
+2,1:11,3,4,CAR 44,14,0,Matt Cassel pass complete deep right to Kyle Rudolph for 21 yards (tackle by Quintin Mikell),1.820,4.040
+2,0:49,1,10,CAR 23,14,0,Matt Cassel pass complete short right to Kyle Rudolph for 2 yards (tackle by Quintin Mikell),4.040,3.770
+2,0:45,2,8,CAR 21,14,0,Matt Cassel pass incomplete short left intended for Adrian Peterson. Penalty on Matt Kalil: Ineligible Downfield Pass (Declined),3.770,3.070
+2,0:42,3,8,CAR 21,14,0,Matt Cassel pass complete short right to Adrian Peterson for 8 yards (tackle by Thomas Davis),3.070,4.710
+2,0:36,1,10,CAR 13,14,0,"Adrian Peterson left guard for 9 yards (tackle by Captain Munnerlyn). Adrian Peterson fumbles (forced by Captain Munnerlyn), recovered by Jarius Wright at CAR-4",4.710,4.710
+2,0:27,1,10,CAR 13,14,0,Timeout #1 by Minnesota Vikings,4.710,5.730
+2,0:27,2,1,CAR 4,14,0,Matt Cassel pass complete short middle to Greg Jennings for no gain,5.730,5.730
+2,0:22,2,1,CAR 4,14,0,Timeout #2 by Minnesota Vikings,5.730,5.010
+2,0:22,3,1,CAR 4,14,0,Matt Cassel pass incomplete short right intended for Kyle Rudolph,5.010,3.040
+2,0:17,4,1,CAR 4,14,3,Blair Walsh 22 yard field goal good,3.040,3.000
+2,0:17,,,MIN 35,14,3,"Jeff Locke kicks off 71 yards, touchback",0.000,-0.280
+2,0:14,1,10,CAR 20,14,3,Cam Newton kneels for -1 yards,0.280,-0.460
+Quarter,Time,Down,ToGo,Location,CAR,MIN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,MIN 35,14,3,"Jeff Locke kicks off no gain, returned by Ted Ginn for 16 yards (tackle by Josh Robinson)",0.000,-0.280
+3,14:54,1,10,CAR 14,14,3,Cam Newton pass incomplete short middle intended for Greg Olsen (defended by Brian Robison),-0.280,-0.750
+3,14:50,2,10,CAR 14,14,3,Cam Newton left tackle for 7 yards (tackle by Fred Evans),-0.750,-0.560
+3,14:08,3,3,CAR 21,20,3,"Cam Newton pass complete deep right to Brandon LaFell for 79 yards, touchdown",-0.560,7.000
+3,14:08,3,3,CAR 21,20,3,"Penalty on Chris Scott: False Start, 5 yards (no play)",-0.560,0.000
+3,14:08,,,MIN 2,21,3,Graham Gano kicks extra point good,0.000,0.000
+3,14:08,,,CAR 35,21,3,"Graham Gano kicks off 65 yards, touchback",0.000,-0.280
+3,13:56,1,10,MIN 20,21,3,Adrian Peterson up the middle for -3 yards (tackle by Luke Kuechly),0.280,-0.790
+3,13:21,2,13,MIN 17,21,3,Adrian Peterson up the middle for 6 yards (tackle by Chase Blackburn and Luke Kuechly),-0.790,-0.560
+3,12:45,3,7,MIN 23,21,3,Matt Cassel sacked by Thomas Davis for -10 yards,-0.560,-2.490
+3,12:11,4,17,MIN 13,21,3,"Jeff Locke punts 51 yards, returned by Ted Ginn for 11 yards (tackle by Robert Blanton)",-2.490,-2.060
+3,12:00,1,10,CAR 47,21,3,DeAngelo Williams right end for -1 yards (tackle by Erin Henderson),2.060,1.380
+3,11:22,2,11,CAR 46,21,3,Cam Newton pass complete short middle to Ted Ginn for 17 yards (tackle by Jamarca Sanford),1.380,3.120
+3,10:41,1,10,MIN 37,21,3,Cam Newton pass complete short middle to DeAngelo Williams for 7 yards (tackle by Brian Robison),3.120,3.520
+3,9:59,2,3,MIN 30,21,3,DeAngelo Williams right guard for 10 yards (tackle by Jamarca Sanford and Harrison Smith),3.520,4.240
+3,9:13,1,10,MIN 20,21,3,Cam Newton pass complete short left to Steve Smith for -1 yards (tackle by Josh Robinson),4.240,3.560
+3,8:46,2,11,MIN 21,21,3,Cam Newton pass complete short left to DeAngelo Williams for 9 yards (tackle by Chris Cook),3.560,4.340
+3,8:09,3,2,MIN 12,21,3,Cam Newton left end for 3 yards (tackle by Andrew Sendejo),4.340,5.140
+3,7:30,1,9,MIN 9,21,3,Cam Newton left tackle for -2 yards (tackle by Marvin Mitchell),5.140,4.020
+3,6:59,2,11,MIN 11,21,3,DeAngelo Williams right guard for 4 yards (tackle by Erin Henderson),4.020,3.810
+3,6:17,3,7,MIN 7,27,3,"Cam Newton up the middle for 7 yards, touchdown. Penalty on MIN: Unnecessary Roughness, 15 yards",3.810,7.000
+3,6:17,,,MIN 2,28,3,Graham Gano kicks extra point good,0.000,0.000
+3,6:17,,,MIN 7,28,3,"Graham Gano kicks off 50 yards, touchback",0.000,-0.280
+3,6:10,1,10,MIN 20,28,3,Adrian Peterson up the middle for 31 yards (tackle by Michael Mitchell),0.280,2.320
+3,5:39,1,10,CAR 49,28,3,Matt Cassel pass complete short right to Greg Jennings for no gain,2.320,1.780
+3,5:19,2,10,CAR 49,28,3,Matt Cassel pass incomplete deep middle intended for Jerome Simpson,1.780,1.090
+3,5:13,3,10,CAR 49,28,3,Matt Cassel pass complete short right to Adrian Peterson for 11 yards (tackle by Drayton Florence),1.090,3.050
+3,4:35,1,10,CAR 38,28,3,Matt Cassel pass incomplete short right intended for Jerome Simpson,3.050,2.510
+3,4:30,2,10,CAR 38,28,3,Matt Cassel pass complete short left to Jarius Wright for 2 yards (tackle by Captain Munnerlyn),2.510,2.080
+3,3:56,3,8,CAR 36,28,3,Matt Cassel pass complete short left to Jerome Simpson for 1 yard (tackle by Josh Thomas),2.080,0.970
+3,3:14,4,7,CAR 35,28,3,Matt Cassel pass incomplete deep middle intended for Greg Jennings,0.970,-1.330
+3,3:06,1,10,CAR 36,28,3,DeAngelo Williams right tackle for 1 yard (tackle by Chad Greenway),1.330,0.930
+3,2:26,2,9,CAR 37,28,3,Cam Newton pass complete short right to Brandon LaFell for 3 yards (tackle by Josh Robinson),0.930,0.630
+3,1:58,3,6,CAR 40,28,3,Cam Newton pass complete short right to Steve Smith for 10 yards (tackle by Xavier Rhodes),0.630,2.260
+3,1:11,1,10,,28,3,DeAngelo Williams left guard for 1 yard (tackle by Chad Greenway and Andrew Sendejo),2.260,1.850
+3,0:31,2,9,MIN 49,28,3,Cam Newton pass complete short left to Mike Tolbert for 10 yards (tackle by Chad Greenway and Chris Cook),1.850,2.980
+Quarter,Time,Down,ToGo,Location,CAR,MIN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,MIN 39,28,3,Cam Newton pass incomplete deep middle intended for Greg Olsen,2.980,2.440
+4,14:55,2,10,MIN 39,28,3,DeAngelo Williams up the middle for 3 yards (tackle by Erin Henderson and Chad Greenway),2.440,2.150
+4,14:16,3,7,MIN 36,28,3,"Cam Newton pass incomplete intended for Steve Smith (defended by Brian Robison). Penalty on Jordan Gross: Offensive Holding (Offsetting), Penalty on Xavier Rhodes: Unnecessary Roughness (Offsetting) (no play)",2.150,2.150
+4,14:11,3,7,MIN 36,28,3,"Cam Newton pass complete short right to Greg Olsen for 13 yards (tackle by Marcus Sherels). Penalty on Byron Bell: Offensive Holding, 10 yards (no play)",2.150,0.830
+4,13:37,3,17,MIN 46,28,3,Cam Newton pass complete short right to Ted Ginn for 5 yards (tackle by Marcus Sherels),0.830,0.530
+4,13:32,4,12,MIN 41,28,3,Brad Nortman punts 33 yards,0.530,0.380
+4,13:23,1,10,MIN 8,28,3,Matt Cassel pass complete short left to John Carlson for 4 yards (tackle by Thomas Davis),-0.380,-0.490
+4,12:51,2,6,MIN 12,28,3,"Penalty on Phil Loadholt: False Start, 5 yards (no play)",-0.490,-0.850
+4,12:37,2,11,MIN 7,28,3,Matt Cassel pass complete short left to Toby Gerhart for 10 yards (tackle by Thomas Davis),-0.850,-0.370
+4,12:09,3,1,MIN 17,28,3,Matt Cassel pass incomplete deep left intended for Jerome Simpson,-0.370,-2.320
+4,12:06,4,1,MIN 17,28,3,Matt Cassel pass complete short middle to Kyle Rudolph for 8 yards (tackle by Michael Mitchell),-2.320,0.610
+4,11:39,1,10,MIN 25,28,3,Matt Cassel pass complete short right to Kyle Rudolph for 9 yards (tackle by Michael Mitchell). Penalty on Colin Cole: Defensive Offside (Declined),0.610,1.280
+4,11:18,2,1,MIN 34,28,3,Matt Cassel pass complete short right to Joe Webb for 6 yards (tackle by Thomas Davis),1.280,1.600
+4,10:54,1,10,MIN 40,28,3,Matt Cassel pass incomplete intended for Greg Jennings is intercepted by Michael Mitchell at CAR-41 and returned for 38 yards,1.600,-4.170
+4,10:42,1,10,MIN 21,28,3,Ted Ginn left end for -3 yards (tackle by Andrew Sendejo),4.170,3.220
+4,9:59,2,13,MIN 24,28,3,Cam Newton pass complete short left to DeAngelo Williams for 18 yards (tackle by Jamarca Sanford),3.220,5.830
+4,9:17,1,6,MIN 6,28,3,DeAngelo Williams right tackle for 2 yards (tackle by Brian Robison),5.830,5.340
+4,8:31,2,4,MIN 4,28,3,DeAngelo Williams left tackle for 3 yards (tackle by Chad Greenway and Jared Allen),5.340,5.170
+4,7:44,3,1,MIN 1,34,3,"Mike Tolbert right guard for 1 yard, touchdown",5.170,7.000
+4,7:44,,,MIN 2,35,3,Graham Gano kicks extra point good,0.000,0.000
+4,7:44,,,CAR 35,35,3,"Graham Gano kicks off 65 yards, touchback",0.000,-0.280
+4,7:39,1,10,MIN 20,35,3,Matt Cassel pass complete short right to Kyle Rudolph for 3 yards (tackle by Drayton Florence),0.280,0.140
+4,7:23,2,7,MIN 23,35,3,Matt Cassel pass complete short right to Greg Jennings for no gain,0.140,-0.560
+4,6:49,3,7,MIN 23,35,3,Matt Cassel sacked by Michael Mitchell for -9 yards,-0.560,-2.470
+4,6:12,4,16,MIN 14,35,3,Jeff Locke punts 36 yards,-2.470,-2.260
+4,6:02,1,10,MIN 50,35,3,Mike Tolbert up the middle for 7 yards (tackle by Chad Greenway),2.260,2.660
+4,5:15,2,3,MIN 43,35,3,Mike Tolbert left guard for no gain (tackle by Kevin Williams),2.660,1.950
+4,4:30,3,3,MIN 43,35,3,"Penalty on Ben Hartsock: False Start, 5 yards (no play)",1.950,1.290
+4,4:29,3,8,MIN 48,35,3,Armond Smith right guard for 5 yards (tackle by Brian Robison),1.290,0.400
+4,3:44,4,3,MIN 43,35,3,"Brad Nortman punts 32 yards, fair catch by Marcus Sherels",0.400,0.370
+4,3:38,1,10,MIN 11,35,3,Matt Cassel pass incomplete short right intended for Joe Webb (defended by Drayton Florence),-0.370,-0.780
+4,3:34,2,10,MIN 11,35,3,Matt Cassel pass complete short right to Joe Webb for 15 yards (tackle by James Dockery),-0.780,0.670
+4,3:08,1,10,MIN 26,35,3,Matt Cassel pass incomplete short left intended for Greg Jennings,0.670,0.130
+4,3:03,2,10,MIN 26,35,3,Toby Gerhart up the middle for 6 yards (tackle by Wes Horton),0.130,0.230
+4,2:40,3,4,MIN 32,35,3,Matt Cassel pass complete short left to Greg Jennings for 20 yards (tackle by A.J. Klein),0.230,2.390
+4,2:07,1,10,CAR 48,35,3,Matt Cassel pass incomplete short middle intended for Toby Gerhart,2.390,1.850
+4,2:02,2,10,CAR 48,35,3,Matt Cassel pass complete short left to Joe Webb for 3 yards (tackle by A.J. Klein),1.850,1.550
+4,1:57,3,7,CAR 45,35,3,Matt Cassel up the middle for 1 yard (tackle by A.J. Klein),1.550,0.330
+4,1:24,4,6,CAR 44,35,3,"Matt Cassel pass incomplete intended for Jerome Simpson (defended by Jordan Senn). Penalty on Jordan Senn: Illegal Use of Hands, 5 yards (no play)",0.330,2.980
+4,1:19,1,10,CAR 39,35,3,Matt Cassel pass complete short right to Greg Jennings for 7 yards (tackle by Drayton Florence),2.980,3.390
+4,1:14,2,3,CAR 32,35,3,Matt Cassel pass complete short right to Kyle Rudolph for 9 yards (tackle by Quintin Mikell),3.390,3.390
+4,1:07,2,3,CAR 32,35,3,Timeout #1 by Minnesota Vikings,3.390,4.040
+4,1:07,1,10,CAR 23,35,9,"Matt Cassel pass complete short right to Kyle Rudolph for 23 yards, touchdown",4.040,7.000
+4,1:07,,,CAR 2,35,10,Blair Walsh kicks extra point good,0.000,0.000
+4,,,,MIN 35,,,"Jeff Locke kicks off 61 yards, returned by Ted Ginn for 15 yards",,
+4,0:56,1,10,CAR 19,35,10,Derek Anderson kneels for no gain,0.150,-0.390
+4,0:30,2,10,CAR 19,35,10,Derek Anderson kneels for -1 yards,-0.390,-1.250
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

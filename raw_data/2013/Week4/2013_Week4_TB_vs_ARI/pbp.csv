@@ -1,0 +1,191 @@
+Quarter,Time,Down,ToGo,Location,ARI,TAM,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Cardinals won the coin toss, Cardinals to receive the opening kickoff.",,
+1,15:00,,,TAM 35,0,0,"Michael Koenen kicks off 71 yards, touchback",0.000,-0.280
+1,15:00,1,10,ARI 20,0,0,Carson Palmer sacked by Gerald McCoy for -8 yards,0.280,-1.360
+1,14:27,2,18,ARI 12,0,0,Carson Palmer pass incomplete short right intended for Rashard Mendenhall,-1.360,-2.360
+1,14:23,3,18,ARI 12,0,0,Carson Palmer pass complete short middle to Andre Ellington for 7 yards (tackle by Mason Foster),-2.360,-2.140
+1,13:47,4,11,ARI 19,0,0,"Dave Zastudil punts 59 yards, returned by Eric Page for 12 yards (tackle by Jasper Brinkley)",-2.140,-1.200
+1,13:34,1,10,TAM 34,0,0,Doug Martin up the middle for 1 yard (tackle by Jasper Brinkley),1.200,0.790
+1,13:01,2,9,TAM 35,0,0,Mike Glennon pass incomplete short right intended for Erik Lorig,0.790,0.100
+1,12:55,3,9,TAM 35,0,0,Mike Glennon pass complete short left to Kevin Ogletree for 12 yards (tackle by Tyrann Mathieu),0.100,2.060
+1,12:30,1,10,TAM 47,0,0,Doug Martin left guard for -2 yards (tackle by Jasper Brinkley and Yeremiah Bell),2.060,1.250
+1,11:51,2,12,TAM 45,0,0,Mike Glennon pass complete short right to Tim Wright for no gain,1.250,0.560
+1,11:11,3,12,TAM 45,0,0,Mike Glennon sacked by Yeremiah Bell for -11 yards,0.560,-1.110
+1,10:40,4,23,TAM 34,0,0,"Michael Koenen punts 36 yards, out of bounds",-1.110,-0.940
+1,10:29,1,10,ARI 30,0,0,Carson Palmer pass complete short right to Michael Floyd for 4 yards (tackle by Mason Foster and Mark Barron),0.940,0.930
+1,9:59,2,6,ARI 34,0,0,Carson Palmer pass complete short middle to Jim Dray for 10 yards (tackle by Dekoda Watson),0.930,1.860
+1,9:27,1,10,ARI 44,0,0,Rashard Mendenhall left tackle for 5 yards (tackle by Adrian Clayborn),1.860,1.990
+1,8:55,2,5,ARI 49,0,0,"Rashard Mendenhall up the middle for 4 yards (tackle by Leonard Johnson). Rashard Mendenhall fumbles (forced by Leonard Johnson), recovered by Gerald McCoy at TAM-47 and returned for 12 yards (tackle by Rob Housler)",1.990,-2.850
+1,8:43,1,10,ARI 41,0,0,Mike Glennon pass incomplete deep middle intended for Kevin Ogletree,2.850,2.310
+1,8:37,2,10,ARI 41,0,0,Doug Martin left end for 12 yards (tackle by Karlos Dansby),2.310,3.640
+1,7:57,1,10,ARI 29,0,0,Mike Glennon pass complete short middle to Mike Williams for 14 yards (tackle by Tony Jefferson and Jasper Brinkley),3.640,4.580
+1,7:20,1,10,ARI 15,0,0,Doug Martin up the middle for 8 yards (tackle by Tyrann Mathieu),4.580,5.410
+1,7:02,2,2,ARI 7,0,0,Doug Martin left tackle for -1 yards (tackle by Jasper Brinkley),5.410,4.450
+1,6:24,3,3,ARI 8,0,6,"Mike Glennon pass complete short left to Mike Williams for 8 yards, touchdown",4.450,7.000
+1,6:24,,,ARI 2,0,7,Rian Lindell kicks extra point good,0.000,0.000
+1,6:24,,,TAM 35,0,7,"Michael Koenen kicks off 65 yards, touchback",0.000,-0.280
+1,6:17,1,10,ARI 20,0,7,Rashard Mendenhall up the middle for 2 yards (tackle by Mark Barron),0.280,0.000
+1,5:49,2,8,ARI 22,0,7,"Penalty on Eric Winston: False Start, 5 yards (no play)",0.000,-0.790
+1,5:30,2,13,ARI 17,0,7,Carson Palmer pass complete short right to Rashard Mendenhall for 7 yards (tackle by Daniel Te'o-Nesheim and Lavonte David),-0.790,-0.430
+1,4:47,3,6,ARI 24,0,7,Carson Palmer pass incomplete deep middle intended for Michael Floyd (defended by Johnthan Banks),-0.430,-1.770
+1,4:40,4,6,ARI 24,0,7,"Dave Zastudil punts 55 yards, returned by Eric Page for 10 yards (tackle by Yeremiah Bell)",-1.770,-1.000
+1,4:26,1,10,TAM 31,0,7,Doug Martin right tackle for 4 yards (tackle by Jasper Brinkley),1.000,1.000
+1,3:53,2,6,TAM 35,0,7,Mike Glennon pass complete short right to Vincent Jackson for 13 yards (tackle by Patrick Peterson),1.000,2.130
+1,3:11,1,10,TAM 48,0,7,Doug Martin right tackle for 3 yards (tackle by Matt Shaughnessy),2.130,1.990
+1,2:31,2,7,ARI 49,0,7,Mike Glennon pass complete short right to Tim Wright for -1 yards (tackle by Tyrann Mathieu),1.990,1.160
+1,1:56,3,8,,0,7,Mike Glennon pass incomplete short left intended for Vincent Jackson,1.160,-0.060
+1,1:50,4,8,,0,7,"Michael Koenen punts 32 yards, fair catch by Patrick Peterson. Penalty on Karlos Dansby: Illegal Formation (Declined)",-0.060,-0.040
+1,1:43,1,10,ARI 18,0,7,Carson Palmer pass complete short middle to Rashard Mendenhall for 9 yards (tackle by Jonathan Casillas),0.040,0.820
+1,1:13,2,1,ARI 27,0,7,Rashard Mendenhall right guard for no gain (tackle by Lavonte David),0.820,-0.020
+1,0:31,3,1,ARI 27,0,7,Carson Palmer pass incomplete short right intended for Jaron Brown (defended by Lavonte David),-0.020,-1.570
+1,0:24,4,1,ARI 27,0,7,"Dave Zastudil punts 37 yards. Penalty on Deveron Carr: Personal Foul, 15 yards",-1.570,-0.340
+1,0:15,1,10,TAM 21,0,7,Jeff Demps right end for 14 yards (tackle by Frostee Rucker),0.340,1.270
+Quarter,Time,Down,ToGo,Location,ARI,TAM,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,TAM 35,0,7,Doug Martin left end for -3 yards (tackle by John Abraham),1.270,0.320
+2,14:19,2,13,TAM 32,0,7,Mike Glennon pass complete short right to Doug Martin for 12 yards (tackle by Matt Shaughnessy),0.320,1.220
+2,13:32,3,1,TAM 44,0,7,Doug Martin left guard for 5 yards (tackle by Karlos Dansby),1.220,2.190
+2,13:32,1,10,TAM 49,0,7,"Penalty on Calais Campbell: Encroachment, 5 yards (no play)",2.190,2.920
+2,12:40,1,5,ARI 46,0,7,Doug Martin up the middle for -3 yards (tackle by Matt Shaughnessy),2.920,1.920
+2,12:06,2,8,ARI 49,0,7,Mike Glennon pass complete short left to Mike James for 2 yards (tackle by Darnell Dockett),1.920,1.490
+2,11:32,3,6,ARI 47,0,7,Mike Glennon pass incomplete short right intended for Vincent Jackson (defended by Karlos Dansby),1.490,0.130
+2,11:25,4,6,ARI 47,0,7,"Michael Koenen punts 47 yards, touchback",0.130,-0.280
+2,11:16,1,10,ARI 20,0,7,Carson Palmer pass complete short right to Andre Ellington for 11 yards (tackle by Darrelle Revis),0.280,1.000
+2,10:37,1,10,ARI 31,0,7,Andre Ellington right tackle for 25 yards (tackle by Dashon Goldson),1.000,2.650
+2,10:10,1,10,TAM 44,0,7,Andre Ellington up the middle for no gain (tackle by Lavonte David and Akeem Spence),2.650,2.110
+2,9:35,2,10,TAM 44,0,7,Carson Palmer pass complete short right to Andre Roberts for 6 yards (tackle by Johnthan Banks),2.110,2.210
+2,8:52,3,4,TAM 38,0,7,Carson Palmer pass incomplete short right intended for Rob Housler (defended by Mason Foster),2.210,0.720
+2,8:46,4,4,TAM 38,0,7,"Dave Zastudil punts 24 yards, fair catch by Eric Page",0.720,0.280
+2,8:39,1,10,TAM 14,0,7,Mike Glennon pass incomplete deep left intended for Vincent Jackson,-0.280,-0.750
+2,8:32,2,10,TAM 14,0,7,Doug Martin left end for -2 yards (tackle by Calais Campbell and Yeremiah Bell),-0.750,-1.650
+2,7:54,3,12,TAM 12,0,7,Mike Glennon pass complete short right to Tim Wright for 14 yards (tackle by Karlos Dansby),-1.650,0.670
+2,7:15,1,10,TAM 26,0,7,--,0.670,-0.550
+2,6:36,2,15,TAM 21,0,7,Mike Glennon pass incomplete short right intended for Mike Williams,-0.550,-1.220
+2,6:30,3,15,TAM 21,0,7,Mike Glennon pass complete short left to Doug Martin for no gain,-1.220,-1.960
+2,5:55,4,15,TAM 21,0,7,"Michael Koenen punts 38 yards, out of bounds",-1.960,-1.660
+2,5:43,1,10,ARI 41,0,7,Rashard Mendenhall up the middle for 1 yard (tackle by Lavonte David),1.660,1.260
+2,5:14,2,9,ARI 42,0,7,Carson Palmer pass incomplete short middle intended for Michael Floyd (defended by Dashon Goldson),1.260,0.560
+2,5:07,3,9,ARI 42,0,7,Carson Palmer pass incomplete short left intended for Andre Ellington,0.560,-0.590
+2,5:02,4,9,ARI 42,0,7,"Dave Zastudil punts 51 yards, out of bounds",-0.590,0.380
+2,4:50,1,10,TAM 7,0,7,Doug Martin right guard for 3 yards (tackle by Karlos Dansby),-0.380,-0.560
+2,4:14,2,7,TAM 10,0,7,Mike Glennon pass complete short left to Doug Martin for 4 yards (tackle by Kenny Demens),-0.560,-0.600
+2,3:33,3,3,TAM 14,0,7,Mike Glennon pass complete short left to Brian Leonard for 4 yards (tackle by Tony Jefferson),-0.600,0.040
+2,2:54,1,10,TAM 18,0,7,Doug Martin left tackle for -2 yards (tackle by Yeremiah Bell),0.040,-0.800
+2,2:18,2,12,TAM 16,0,7,Doug Martin left tackle for 7 yards (tackle by Calais Campbell and Tony Jefferson),-0.800,-0.800
+2,2:02,2,12,TAM 16,0,7,Timeout #1 by Arizona Cardinals,-0.800,-0.530
+2,2:02,3,5,TAM 23,0,7,Mike Glennon pass complete short middle to Kevin Ogletree for 5 yards (tackle by Tyrann Mathieu),-0.530,0.810
+2,1:56,1,10,TAM 28,0,7,"Mike Glennon pass incomplete deep middle intended for Tim Wright (defended by Yeremiah Bell). Penalty on Yeremiah Bell: Unnecessary Roughness, 15 yards (no play)",0.810,1.800
+2,1:50,1,10,TAM 43,0,7,Mike Glennon pass incomplete short right intended for Mike Williams (defended by Jerraud Powers),1.800,1.250
+2,1:43,2,10,TAM 43,0,7,Mike Glennon pass complete short left to Mike Williams for 13 yards (tackle by Jerraud Powers),1.250,2.650
+2,1:37,1,10,ARI 44,0,7,Mike Glennon pass complete short right to Tim Wright for 15 yards (tackle by Karlos Dansby),2.650,2.650
+2,1:06,1,10,ARI 44,0,7,Timeout #1 by Tampa Bay Buccaneers,2.650,3.640
+2,1:06,1,10,ARI 29,0,7,Doug Martin up the middle for 2 yards (tackle by Karlos Dansby),3.640,3.370
+2,0:42,2,8,ARI 27,0,7,Mike Glennon pass incomplete short right intended for Vincent Jackson,3.370,2.680
+2,0:36,3,8,ARI 27,0,7,"Penalty on Mike Williams: False Start, 5 yards (no play)",2.680,2.020
+2,0:36,3,13,ARI 32,0,7,Mike Glennon pass incomplete short right intended for Kevin Ogletree,2.020,1.240
+2,0:32,4,13,ARI 32,0,10,Rian Lindell 50 yard field goal good,1.240,3.000
+2,0:32,,,TAM 35,0,10,"Michael Koenen kicks off 65 yards, touchback",0.000,-0.280
+2,0:27,1,10,ARI 20,0,10,Carson Palmer pass incomplete short left intended for Andre Ellington,0.280,-0.270
+2,0:22,2,10,ARI 20,0,10,Carson Palmer pass incomplete short left intended for Andre Ellington (defended by Gerald McCoy),-0.270,-0.960
+2,0:18,3,10,ARI 20,0,10,Carson Palmer pass complete short middle to Andre Ellington for 4 yards (tackle by Keith Tandy),-0.960,-0.960
+2,0:12,3,10,ARI 20,0,10,Timeout #2 by Tampa Bay Buccaneers,-0.960,-1.770
+2,0:12,4,6,ARI 24,0,10,"Dave Zastudil punts 52 yards, fair catch by Eric Page",-1.770,-0.540
+2,0:05,1,10,TAM 24,0,10,Mike Glennon kneels for -1 yards,0.540,-0.140
+Quarter,Time,Down,ToGo,Location,ARI,TAM,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,ARI 35,0,10,"Jay Feely kicks off no gain, returned by Jeff Demps for 29 yards (tackle by Kenny Demens)",0.000,0.340
+3,14:55,1,10,TAM 21,0,10,Mike Glennon pass complete short right to Erik Lorig for 20 yards (tackle by Jasper Brinkley),0.340,1.660
+3,14:29,1,10,TAM 41,0,10,Doug Martin up the middle for 3 yards (tackle by Yeremiah Bell),1.660,1.530
+3,13:57,2,7,TAM 44,0,10,Mike Glennon pass complete short right to Vincent Jackson for 14 yards (tackle by Patrick Peterson),1.530,2.790
+3,13:21,1,10,ARI 42,0,10,Doug Martin left guard for 4 yards (tackle by Karlos Dansby),2.790,2.780
+3,12:45,2,6,ARI 38,0,10,Doug Martin left tackle for no gain (tackle by Karlos Dansby and Yeremiah Bell),2.780,2.080
+3,12:18,3,6,ARI 38,0,10,Mike Glennon pass incomplete short left intended for Doug Martin,2.080,0.720
+3,12:18,4,6,ARI 38,0,10,"Penalty on Mike Glennon: Delay of Game, 5 yards (no play)",0.720,0.400
+3,12:12,4,11,ARI 43,0,10,Michael Koenen punts 35 yards,0.400,0.380
+3,11:57,1,10,ARI 8,0,10,Carson Palmer pass complete short right to Larry Fitzgerald for 9 yards (tackle by Dekoda Watson),-0.380,0.050
+3,11:24,2,1,ARI 17,0,10,Rashard Mendenhall up the middle for 1 yard (tackle by Ahmad Black),0.050,0.040
+3,10:45,1,10,ARI 18,0,10,Carson Palmer pass complete short left to Michael Floyd for 14 yards (tackle by Dekoda Watson),0.040,1.070
+3,10:17,1,10,ARI 32,0,10,Rashard Mendenhall right end for -3 yards (tackle by Dekoda Watson),1.070,0.120
+3,9:34,2,13,ARI 29,0,10,Carson Palmer pass complete deep middle to Larry Fitzgerald for 21 yards (tackle by Ahmad Black and Leonard Johnson),0.120,0.120
+3,8:49,2,13,ARI 29,0,10,Timeout #1 by Arizona Cardinals,0.120,2.260
+3,8:49,1,10,,0,10,Carson Palmer pass incomplete short left intended for Larry Fitzgerald,2.260,1.710
+3,8:43,2,10,,0,10,Carson Palmer pass complete short left to Larry Fitzgerald for 11 yards (tackle by Dekoda Watson),1.710,2.980
+3,8:11,1,10,TAM 39,0,10,Rashard Mendenhall left tackle for 2 yards (tackle by Adrian Clayborn and Dashon Goldson),2.980,2.710
+3,7:39,2,8,TAM 37,0,10,Rashard Mendenhall right tackle for 6 yards (tackle by Mason Foster),2.710,2.810
+3,6:59,3,2,TAM 31,0,10,Andre Ellington up the middle for 3 yards (tackle by Adrian Clayborn and Da'Quan Bowers),2.810,3.710
+3,6:16,1,10,TAM 28,0,10,"Carson Palmer pass incomplete. Penalty on Carson Palmer: Intentional Grounding, 10 yards",3.710,1.820
+3,6:10,2,20,TAM 38,0,10,Carson Palmer pass complete deep middle to Michael Floyd for 27 yards (tackle by Darrelle Revis and Dashon Goldson),1.820,4.840
+3,5:28,1,10,TAM 11,0,10,"Penalty on Levi Brown: False Start, 5 yards (no play)",4.840,4.340
+3,5:04,1,15,TAM 16,0,10,Andre Ellington left guard for 1 yard (tackle by Leonard Johnson),4.340,3.560
+3,4:24,2,14,TAM 15,0,10,Carson Palmer pass incomplete short left intended for Michael Floyd is intercepted by Johnthan Banks at TAM-0,3.560,-0.280
+3,4:16,1,10,TAM 20,0,10,"Doug Martin left tackle for 1 yard (tackle by Matt Shaughnessy). Penalty on Darnell Dockett: Taunting, 15 yards",0.280,1.330
+3,3:47,1,10,TAM 36,0,10,"Mike Glennon pass incomplete. Penalty on Mike Glennon: Intentional Grounding, 15 yards",1.330,-1.240
+3,3:40,2,25,TAM 21,0,10,Mike Glennon pass incomplete short right intended for Kevin Ogletree,-1.240,-1.880
+3,3:35,3,25,TAM 21,0,10,Mike Glennon pass incomplete short right intended for Kevin Ogletree,-1.880,-1.960
+3,3:30,4,25,TAM 21,0,10,"Michael Koenen punts 40 yards, out of bounds. Penalty on Russell Shepard: Player Out of Bounds on Punt, 5 yards",-1.960,-1.860
+3,3:21,1,10,ARI 44,0,10,"Penalty on Eric Winston: False Start, 5 yards (no play)",1.860,1.530
+3,3:21,1,15,ARI 39,0,10,"Carson Palmer pass complete short left to Andre Roberts for 4 yards (tackle by Leonard Johnson). Penalty on ARI: Illegal Formation, 5 yards (no play)",1.530,1.200
+3,2:58,1,20,ARI 34,0,10,Carson Palmer pass complete short middle to Michael Floyd for 22 yards (tackle by Dashon Goldson),1.200,2.650
+3,2:27,1,10,TAM 44,0,10,Rashard Mendenhall up the middle for 1 yard (tackle by Akeem Spence),2.650,2.250
+3,1:49,2,9,TAM 43,0,10,Carson Palmer for 10 yards (tackle by Mason Foster),2.250,3.380
+3,1:13,1,10,TAM 33,0,10,Carson Palmer pass incomplete short left intended for Larry Fitzgerald is intercepted by Darrelle Revis at TAM-20 and returned for 3 yards (tackle by Larry Fitzgerald),3.380,-0.480
+3,1:04,1,10,TAM 23,0,10,Mike Glennon pass incomplete short right intended for Vincent Jackson,0.480,-0.070
+3,0:59,2,10,TAM 23,0,10,Mike Glennon pass complete short right to Jeff Demps for 8 yards (tackle by Tony Jefferson),-0.070,0.300
+3,0:16,3,2,TAM 31,0,10,"Doug Martin right end for -5 yards (tackle by Darnell Dockett). Penalty on Darnell Dockett: Horse Collar Tackle, 15 yards",0.300,1.660
+Quarter,Time,Down,ToGo,Location,ARI,TAM,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,TAM 41,0,10,Mike Glennon pass incomplete deep left intended for Vincent Jackson,1.660,1.120
+4,14:53,2,10,TAM 41,0,10,Doug Martin up the middle for 4 yards (tackle by Tony Jefferson and Jasper Brinkley),1.120,0.960
+4,14:16,3,6,TAM 45,0,10,Mike Glennon pass complete short right to Brian Leonard for 7 yards (tackle by Dontay Moch),0.960,2.390
+4,13:38,1,10,ARI 48,0,10,"Mike Glennon for no gain. Mike Glennon fumbles, recovered by Matt Shaughnessy at 50 (tackle by Doug Martin)",2.390,-2.260
+4,13:30,1,10,,0,10,Carson Palmer pass complete short middle to Larry Fitzgerald for 6 yards (tackle by Darrelle Revis),2.260,2.520
+4,12:57,2,4,TAM 44,0,10,Carson Palmer pass complete deep left to Rob Housler for 23 yards (tackle by Jonathan Casillas),2.520,4.170
+4,12:19,1,10,TAM 21,0,10,Carson Palmer pass incomplete deep middle intended for Michael Floyd,4.170,3.630
+4,12:12,2,10,TAM 21,0,10,Carson Palmer pass complete short right to Rashard Mendenhall for -3 yards (tackle by Mason Foster and Lavonte David),3.630,2.540
+4,11:28,3,13,TAM 24,0,10,Carson Palmer pass incomplete deep left intended for Andre Roberts,2.540,1.870
+4,11:21,4,13,TAM 24,3,10,Jay Feely 42 yard field goal good,1.870,3.000
+4,11:21,,,ARI 35,3,10,"Jay Feely kicks off 70 yards, returned by Jeff Demps for 21 yards (tackle by Dontay Moch)",0.000,0.140
+4,11:08,1,10,TAM 16,3,10,Mike Glennon pass complete short left to Mike Williams for 3 yards (tackle by Jerraud Powers),-0.140,-0.180
+4,10:27,2,7,TAM 19,3,10,Doug Martin right guard for 4 yards (tackle by Yeremiah Bell),-0.180,-0.450
+4,9:49,3,3,TAM 23,3,10,Mike Glennon pass complete short middle to Kevin Ogletree for 2 yards (tackle by Javier Arenas),-0.450,-1.700
+4,9:22,4,1,TAM 25,3,10,Dashon Goldson left end for 22 yards (tackle by Tony Jefferson),-1.700,2.060
+4,8:35,1,10,TAM 47,3,10,Doug Martin up the middle for -1 yards (tackle by Karlos Dansby),2.060,1.380
+4,7:54,2,11,TAM 46,3,10,Doug Martin left tackle for 4 yards (tackle by Kenny Demens),1.380,1.220
+4,7:13,3,7,,3,10,Mike Glennon pass complete short left to Kevin Ogletree for 3 yards (tackle by Tony Jefferson),1.220,0.130
+4,7:13,4,4,ARI 47,3,10,"Penalty on TAM: Delay of Game, 5 yards (no play)",0.130,-0.190
+4,6:39,4,9,TAM 48,3,10,"Michael Koenen punts 52 yards, touchback",-0.190,-0.280
+4,6:03,1,10,ARI 20,3,10,Carson Palmer pass incomplete short left intended for Michael Floyd,0.280,-0.270
+4,5:58,2,10,ARI 20,3,10,Carson Palmer pass complete short middle to Michael Floyd for 20 yards (tackle by Leonard Johnson),-0.270,1.600
+4,5:16,1,10,ARI 40,3,10,"Carson Palmer pass incomplete deep right intended for Andre Roberts. Penalty on Johnthan Banks: Defensive Pass Interference, 13 yards (no play)",1.600,2.460
+4,5:09,1,10,TAM 47,3,10,"Carson Palmer pass incomplete deep left intended for Rob Housler. Penalty on Rob Housler: Offensive Pass Interference, 10 yards (no play)",2.460,1.800
+4,5:04,1,20,ARI 43,3,10,Carson Palmer pass incomplete deep left intended for Larry Fitzgerald,1.800,0.560
+4,4:57,2,20,ARI 43,3,10,Carson Palmer pass complete short left to Larry Fitzgerald for 8 yards (tackle by Darrelle Revis),0.560,0.960
+4,4:18,3,12,TAM 49,3,10,Carson Palmer pass incomplete short left intended for Alfonso Smith,0.960,0.000
+4,4:12,4,12,TAM 49,3,10,Dave Zastudil punts 42 yards,0.000,0.380
+4,4:04,1,10,TAM 7,3,10,Doug Martin left guard for 4 yards (tackle by Kenny Demens),-0.380,-0.490
+4,3:23,2,6,TAM 11,3,10,Mike Glennon pass incomplete short middle intended for Vincent Jackson is intercepted by Patrick Peterson at TAM-24 and returned for 11 yards (tackle by Tim Wright),-0.490,-4.710
+4,3:12,1,10,TAM 13,9,10,"Carson Palmer pass complete short middle to Larry Fitzgerald for 13 yards, touchdown",4.710,7.000
+4,3:12,,,TAM 2,10,10,Jay Feely kicks extra point good,0.000,0.000
+4,3:12,,,ARI 35,10,10,"Jay Feely kicks off 74 yards, returned by Jeff Demps for 19 yards (tackle by Justin Bethel)",0.000,0.380
+4,3:02,1,10,TAM 10,10,10,Doug Martin left tackle for no gain (tackle by Jerraud Powers),-0.380,-0.380
+4,2:50,1,10,TAM 10,10,10,Timeout #2 by Arizona Cardinals,-0.380,-0.780
+4,2:50,2,10,TAM 10,10,10,Mike Glennon pass incomplete short left intended for Vincent Jackson,-0.780,-1.420
+4,2:46,3,10,TAM 10,10,10,Mike Glennon sacked by Dontay Moch for -9 yards,-1.420,-2.490
+4,2:08,4,19,TAM 1,10,10,"Michael Koenen punts 42 yards, returned by Patrick Peterson for 5 yards (tackle by Lavonte David)",-2.490,-3.050
+4,1:56,1,10,TAM 38,10,10,"Carson Palmer pass complete deep right to Jaron Brown for 19 yards (tackle by Dashon Goldson). Penalty on Dashon Goldson: Unnecessary Roughness, 10 yards",3.050,5.140
+4,1:50,1,9,TAM 9,10,10,Rashard Mendenhall left tackle for 2 yards (tackle by Darrelle Revis and Ahmad Black),5.140,5.140
+4,1:43,1,9,TAM 9,10,10,Timeout #1 by Tampa Bay Buccaneers,5.140,4.760
+4,1:43,2,7,TAM 7,10,10,"Rashard Mendenhall right tackle for no gain (tackle by Darrelle Revis). Rashard Mendenhall fumbles (forced by Darrelle Revis), ball out of bounds at TAM-7",4.760,4.760
+4,1:37,2,7,TAM 7,10,10,Timeout #2 by Tampa Bay Buccaneers,4.760,3.810
+4,1:37,3,7,TAM 7,10,10,Carson Palmer up the middle for -2 yards (tackle by Dekoda Watson),3.810,3.810
+4,1:33,3,7,TAM 7,10,10,Timeout #3 by Tampa Bay Buccaneers,3.810,2.830
+4,1:33,4,9,TAM 9,13,10,Jay Feely 27 yard field goal good,2.830,3.000
+4,1:33,,,ARI 35,13,10,"Jay Feely kicks off 74 yards, touchback",0.000,-0.280
+4,1:29,1,10,TAM 20,13,10,Mike Glennon pass incomplete short middle intended for Tim Wright,0.280,-0.270
+4,1:25,2,10,TAM 20,13,10,Mike Glennon pass complete short left to Tim Wright for 13 yards (tackle by Jerraud Powers),-0.270,1.140
+4,1:02,1,10,TAM 33,13,10,Mike Glennon pass complete short right to Kevin Ogletree for 8 yards (tackle by Tyrann Mathieu),1.140,1.670
+4,0:56,2,2,TAM 41,13,10,Mike Glennon pass incomplete short left intended for Vincent Jackson is intercepted by Patrick Peterson at TAM-47 and returned for 5 yards (tackle by Vincent Jackson),1.670,-2.790
+4,0:48,1,10,TAM 42,13,10,Carson Palmer kneels for -1 yards,2.790,2.110
+4,0:11,2,11,TAM 43,13,10,Carson Palmer kneels for -1 yards,2.110,1.290
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

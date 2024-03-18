@@ -1,0 +1,192 @@
+Quarter,Time,Down,ToGo,Location,CIN,CAR,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Bengals won the coin toss, Bengals to receive the opening kickoff.",,
+1,15:00,,,CAR 30,0,0,"Todd Sauerbrun kicks off 64 yards, returned by T.J. Houshmandzadeh for 21 yards (tackle by Deke Cooper)",0.000,0.740
+1,14:55,1,10,CIN 27,0,0,Jon Kitna pass complete to Peter Warrick for 12 yards (tackle by Reggie Howard),0.740,1.530
+1,14:45,1,10,CIN 39,0,0,Corey Dillon middle for 3 yards (tackle by Mike Rucker),1.530,1.390
+1,14:18,2,7,CIN 42,0,0,Jon Kitna pass complete to Chad Johnson for 9 yards (tackle by Reggie Howard),1.390,2.320
+1,13:59,1,10,CAR 49,0,0,Jon Kitna pass complete to Chad Johnson for 5 yards (tackle by Mark Fields),2.320,2.460
+1,13:32,2,5,CAR 44,0,0,Jon Kitna pass incomplete intended for Peter Warrick,2.460,1.750
+1,13:28,3,5,CAR 44,0,0,Jon Kitna left end for 7 yards (tackle by Dante Wesley),1.750,3.120
+1,12:56,1,10,CAR 37,6,0,"Jon Kitna pass complete to Peter Warrick for 37 yards, touchdown",3.120,7.000
+1,12:56,,,CAR 37,7,0,Neil Rackers kicks extra point good,0.000,0.000
+1,12:56,,,CIN 30,7,0,"Neil Rackers kicks off 57 yards, returned by Isaac Byrd for 21 yards (tackle by Cory Hall)",0.000,1.200
+1,12:40,1,10,CAR 34,7,0,Rodney Peete pass complete to Muhsin Muhammad for 8 yards (tackle by Jeff Burris),1.200,1.740
+1,12:05,2,2,CAR 42,7,0,Dee Brown right end for 1 yard (tackle by Bernard Whittington),1.740,1.160
+1,11:23,3,1,CAR 43,7,0,Dee Brown middle for 5 yards (tackle by Artrell Hawkins),1.160,2.130
+1,10:42,1,10,CAR 48,7,0,Dee Brown left tackle for 3 yards (tackle by Brian Simmons),2.130,1.990
+1,10:04,2,7,CIN 49,7,0,Muhsin Muhammad left end for 3 yards (tackle by Brian Simmons),1.990,1.680
+1,9:34,3,4,CIN 46,7,0,Rodney Peete pass incomplete,1.680,0.200
+1,9:28,4,4,CIN 46,7,0,Todd Sauerbrun punts 42 yards,0.200,0.380
+1,9:18,1,10,CIN 4,7,6,"Jon Kitna for no gain. Jon Kitna fumbles, recovered by Al Wallace at CIN-0, touchdown",-0.380,-7.000
+1,9:13,,,CIN 4,7,7,Shayne Graham kicks extra point good,0.000,0.000
+1,9:13,,,CAR 30,7,7,"Todd Sauerbrun kicks off 69 yards, returned by T.J. Houshmandzadeh for 23 yards (tackle by Kory Minor). Penalty on Damien Richardson: Defensive Offside, 5 yards (no play)",0.000,0.000
+1,9:13,,,CAR 25,7,7,"Todd Sauerbrun kicks off 61 yards, returned by Rudi Johnson for 17 yards (tackle by Rod Smart)",0.000,1.000
+1,9:02,1,10,CIN 31,7,7,Corey Dillon right end for 2 yards (tackle by Will Witherspoon),1.000,0.730
+1,8:22,2,8,CIN 33,7,7,Jon Kitna pass complete to Chad Johnson for 32 yards (tackle by Reggie Howard). Penalty on Reggie Howard: Defensive Pass Interference (Declined),0.730,3.250
+1,8:14,1,10,CAR 35,7,7,Lorenzo Neal middle for no gain (tackle by Mike Rucker),3.250,2.700
+1,7:39,2,10,CAR 35,7,7,"Corey Dillon for no gain. Corey Dillon fumbles, recovered by Peter Warrick at CAR-44",2.700,0.830
+1,6:55,3,19,CAR 44,7,7,"Jon Kitna sacked by Mark Fields for -4 yards. Jon Kitna fumbles (forced by Mark Fields), recovered by Jon Kitna at CIN-49. Penalty on Brentson Buckner: Face Mask (5 Yards), 5 yards",0.830,1.090
+1,6:38,3,17,CAR 42,7,7,Corey Dillon right tackle for 8 yards (tackle by Mike Minter and Will Witherspoon),1.090,1.060
+1,5:52,4,9,CAR 34,7,7,Neil Rackers 52 yard field goal no good,1.060,-1.730
+1,5:47,1,10,CAR 42,7,7,Rodney Peete pass complete to Steve Smith for 49 yards (tackle by Cory Hall),1.730,5.140
+1,5:13,1,9,CIN 9,7,7,Dee Brown left end for 2 yards (tackle by Artrell Hawkins),5.140,4.760
+1,4:32,2,7,CIN 7,7,7,Rodney Peete pass incomplete intended for Muhsin Muhammad,4.760,3.810
+1,4:30,3,7,CIN 7,7,7,"Rodney Peete pass incomplete intended for Steve Smith. Penalty on Artrell Hawkins: Defensive Holding, 4 yards (no play)",3.810,6.510
+1,4:25,1,3,CIN 3,7,7,Dee Brown middle for 2 yards (tackle by Eric Ogbogu and Tony Williams),6.510,5.910
+1,3:40,2,1,CIN 1,7,7,"Dee Brown left tackle for -1 yards (tackle by JoJuan Armour). Dee Brown fumbles (forced by JoJuan Armour), recovered by Bernard Whittington at CIN-2",5.910,0.380
+,,,,,,,"CAR challenged the ruling, and the play was upheld.",,
+1,3:32,1,10,CIN 2,7,7,Corey Dillon left guard for 1 yard (tackle by Brentson Buckner and Brian Allen),-0.380,-0.710
+1,2:58,2,9,CIN 3,7,9,"Corey Dillon for -3 yards, safety",-0.710,-2.000
+1,2:58,2,9,CIN 3,7,9,--,-0.710,0.000
+1,2:58,,,CIN 20,7,9,"Travis Dorsch kicks off 40 yards, returned by Kris Mangum for 12 yards (tackle by Adrian Ross)",0.000,2.390
+1,2:06,1,10,CIN 48,7,9,Rodney Peete pass complete to Dee Brown for 8 yards (tackle by Brian Simmons),2.390,2.930
+1,1:59,2,2,CIN 40,7,9,Dee Brown left guard for no gain (tackle by Bernard Whittington),2.930,2.210
+1,1:30,3,2,CIN 40,7,9,Rodney Peete pass incomplete intended for Karl Hankton. Penalty on Jeff Mitchell: Offensive Holding (Declined),2.210,0.590
+1,1:25,4,2,CIN 40,7,9,"Todd Sauerbrun punts 28 yards, fair catch by Danny Farmer",0.590,0.350
+1,1:18,1,10,CIN 12,7,9,Corey Dillon left guard for 4 yards (tackle by Mark Fields),-0.350,-0.370
+1,0:42,2,6,CIN 16,7,9,Jon Kitna pass incomplete intended for Chad Johnson,-0.370,-0.950
+1,0:37,3,6,CIN 16,7,9,"Jon Kitna pass incomplete intended for Peter Warrick (defended by Emmanuel McDaniel). Penalty on Emmanuel McDaniel: Defensive Pass Interference, 16 yards (no play)",-0.950,1.070
+1,0:31,1,10,CIN 32,7,9,Jon Kitna pass incomplete intended for Peter Warrick (defended by Reggie Howard),1.070,0.530
+1,0:25,2,10,CIN 32,7,9,Corey Dillon middle for -1 yards (tackle by Will Witherspoon),0.530,-0.290
+Quarter,Time,Down,ToGo,Location,CIN,CAR,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,11,CIN 31,7,9,"Jon Kitna left tackle for 13 yards (tackle by Dante Wesley). Penalty on Matt O'Dwyer: Offensive Holding, 10 yards (no play)",-0.290,-1.620
+2,14:36,3,21,CIN 21,7,9,Jon Kitna pass complete to Corey Dillon for 3 yards (tackle by Terry Cousin and Mark Fields),-1.620,-1.770
+2,13:54,4,18,CIN 24,7,15,"Travis Dorsch punts 37 yards, returned by Steve Smith for 61 yards, touchdown",-1.770,-7.000
+2,13:47,,,CIN 24,7,16,Shayne Graham kicks extra point good,0.000,0.000
+2,13:47,,,CAR 30,7,16,"Todd Sauerbrun kicks off 70 yards, touchback",0.000,0.280
+2,13:44,1,10,CIN 20,7,16,"Jon Kitna pass complete to Ron Dugans for 5 yards (tackle by Terry Cousin). Penalty on Mike Minter: Personal Foul, 15 yards",0.280,1.600
+2,13:02,1,10,CIN 40,7,16,Corey Dillon right end for -1 yards (tackle by Reggie Howard and Mark Fields),1.600,0.920
+2,12:09,2,11,CIN 39,7,16,Corey Dillon right tackle for 12 yards (tackle by Reggie Howard),0.920,2.320
+2,11:58,1,10,CAR 49,7,16,Jon Kitna pass complete to Chad Johnson for 29 yards (tackle by Mike Minter and Reggie Howard),2.320,4.240
+2,11:21,1,10,CAR 20,7,16,Jon Kitna pass incomplete intended for Lorenzo Neal (defended by Dante Wesley),4.240,3.690
+2,11:14,2,10,CAR 20,7,16,Rudi Johnson middle for 3 yards (tackle by Mike Rucker),3.690,3.360
+2,10:29,3,7,CAR 17,7,16,Jon Kitna pass complete to Ron Dugans for 10 yards (tackle by Will Witherspoon),3.360,5.600
+2,9:48,1,7,CAR 7,7,16,Jon Kitna left end for 2 yards (tackle by Mike Rucker and Kris Jenkins),5.600,5.150
+2,9:03,2,5,CAR 5,7,16,Corey Dillon left tackle for 2 yards (tackle by Kris Jenkins and Mark Fields),5.150,4.720
+2,8:21,3,3,CAR 3,13,16,"Jon Kitna pass complete to Peter Warrick for 3 yards, touchdown",4.720,7.000
+2,8:21,,,CAR 3,14,16,Neil Rackers kicks extra point good,0.000,0.000
+2,8:21,,,CIN 30,14,16,"Neil Rackers kicks off 67 yards, returned by Isaac Byrd for 23 yards (tackle by Riall Johnson). Penalty on Ron Dugans: Defensive Offside, 5 yards (no play)",0.000,0.000
+2,8:21,,,CIN 25,14,16,"Neil Rackers kicks off 58 yards, returned by Isaac Byrd for 24 yards (tackle by JoJuan Armour)",0.000,1.660
+2,8:07,1,10,CAR 41,14,16,Rodney Peete pass complete to Muhsin Muhammad for 5 yards (tackle by Jeff Burris),1.660,1.800
+2,7:44,2,5,CAR 46,14,16,Dee Brown right tackle for 3 yards (tackle by JoJuan Armour),1.800,1.490
+2,7:03,3,2,CAR 49,14,16,Dee Brown left guard for 1 yard (tackle by Tony Williams),1.490,-0.060
+2,6:15,4,1,,14,16,"Todd Sauerbrun punts 50 yards, touchback",-0.060,-0.280
+2,6:06,1,10,CIN 20,14,16,"Jon Kitna sacked by Mike Rucker for -9 yards. Penalty on Dante Wesley: Illegal Use of Hands, 5 yards (no play)",0.280,0.610
+2,5:43,1,10,CIN 25,14,16,Corey Dillon middle for 5 yards (tackle by Reggie Howard and Terry Cousin),0.610,0.740
+2,5:05,2,5,CIN 30,14,16,Jon Kitna pass complete to Danny Farmer for 4 yards (tackle by Reggie Howard),0.740,0.560
+2,4:20,3,1,CIN 34,14,16,Corey Dillon right guard for 3 yards (tackle by Will Witherspoon),0.560,1.400
+2,3:43,1,10,CIN 37,14,16,Corey Dillon middle for 2 yards (tackle by Terry Cousin),1.400,1.130
+2,3:09,2,8,CIN 39,14,16,Jon Kitna pass complete to Matt Schobel for 7 yards (tackle by Mark Fields),1.130,1.360
+2,2:35,3,1,CIN 46,14,16,Corey Dillon left guard for 17 yards (tackle by Deon Grant),1.360,3.120
+2,2:07,1,10,CAR 37,14,16,Rudi Johnson left tackle for 2 yards (tackle by Josh Taves and Will Witherspoon),3.120,2.840
+2,2:00,2,8,CAR 35,14,16,Jon Kitna pass complete to Rudi Johnson for 9 yards (tackle by Al Wallace),2.840,3.840
+2,1:52,1,10,CAR 26,14,16,Rudi Johnson middle for 5 yards (tackle by Will Witherspoon),3.840,3.970
+2,1:21,1,10,CAR 26,,,Timeout #2 by Carolina Panthers,3.840,3.970
+2,1:21,2,5,CAR 21,14,16,Jon Kitna pass complete to Chad Johnson for 12 yards (tackle by Dante Wesley),3.970,5.140
+2,1:16,1,9,CAR 9,14,16,Jon Kitna pass complete to Matt Schobel for 2 yards (tackle by Mike Minter),5.140,4.760
+2,1:03,1,9,CAR 9,,,Timeout #1 by Cincinnati Bengals,5.140,4.760
+2,1:03,2,7,CAR 7,14,16,Jon Kitna pass incomplete,4.760,3.810
+2,0:56,3,7,CAR 7,14,16,Jon Kitna pass incomplete,3.810,2.970
+2,0:49,4,7,CAR 7,17,16,Neil Rackers 24 yard field goal good,2.970,3.000
+2,0:49,,,CIN 30,17,16,"Neil Rackers kicks off 65 yards, returned by Isaac Byrd for 20 yards (tackle by Reggie Myles)",0.000,0.610
+2,0:41,1,10,CAR 25,17,16,Nick Goings middle for 14 yards (tackle by Kevin Kaesviharn),0.610,1.530
+2,0:33,1,10,CAR 25,,,Timeout #3 by Carolina Panthers,0.610,1.530
+2,0:29,1,10,CAR 39,17,16,Rodney Peete pass incomplete intended for Dee Brown,1.530,0.990
+2,0:28,2,10,CAR 39,17,16,Rodney Peete pass incomplete intended for Dee Brown,0.990,0.300
+2,0:24,3,10,CAR 39,17,16,"Penalty on Todd Steussie: False Start, 5 yards (no play)",0.300,-0.360
+2,0:24,3,15,CAR 34,17,16,"Rodney Peete pass incomplete intended for Dee Brown. Penalty on Justin Smith: Roughing the Passer, 15 yards (no play)",-0.360,2.190
+2,0:21,1,10,CAR 49,17,16,Rodney Peete pass complete to Dee Brown for 1 yard (tackle by Mark Roman),2.190,1.780
+2,0:14,2,9,,17,16,Rodney Peete pass incomplete intended for Steve Smith (defended by Kevin Kaesviharn),1.780,1.090
+2,0:09,3,9,,17,16,Rodney Peete pass complete to Steve Smith for 11 yards,1.090,2.980
+2,0:04,1,10,CIN 39,17,16,Rodney Peete pass incomplete intended for Muhsin Muhammad is intercepted by Cory Hall at CIN-2 and returned for 2 yards,2.980,0.000
+Quarter,Time,Down,ToGo,Location,CIN,CAR,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,CIN 30,17,16,"Neil Rackers kicks off 48 yards, returned by Isaac Byrd for 30 yards (tackle by JoJuan Armour)",0.000,2.390
+3,14:53,1,10,CIN 48,17,16,Rodney Peete pass complete to Wesley Walls for 27 yards (tackle by Brian Simmons),2.390,4.170
+3,14:09,1,10,CIN 21,17,16,"Rodney Peete pass complete to Nick Goings for 1 yard (tackle by Canute Curtis). Penalty on Jeff Mitchell: Offensive Holding, 10 yards",4.170,3.580
+3,13:40,1,19,CIN 30,17,16,"Nick Goings left guard for 9 yards (tackle by Takeo Spikes). Penalty on Steve Smith: Offensive Holding, 10 yards",3.580,3.510
+3,13:07,1,20,CIN 31,17,22,"Rodney Peete pass complete to Steve Smith for 31 yards, touchdown",3.510,7.000
+3,13:07,,,CIN 31,17,23,Shayne Graham kicks extra point good,0.000,0.000
+3,13:07,,,CAR 30,17,23,"Todd Sauerbrun kicks off 63 yards, returned by T.J. Houshmandzadeh for 16 yards (tackle by Kemp Rasmussen)",0.000,0.480
+3,12:57,1,10,CIN 23,17,23,Corey Dillon left guard for -4 yards (tackle by Kris Jenkins),0.480,-0.670
+3,12:19,2,14,CIN 19,17,23,Jon Kitna pass complete to Corey Dillon for 3 yards (tackle by Will Witherspoon),-0.670,-0.890
+3,11:36,3,11,CIN 22,17,23,Jon Kitna pass incomplete,-0.890,-1.900
+3,11:28,4,11,CIN 22,17,23,Travis Dorsch punts 28 yards,-1.900,-2.260
+3,11:20,1,10,,23,23,"Rodney Peete for no gain. Rodney Peete fumbles, recovered by Takeo Spikes at CAR-45 and returned for 45 yards, touchdown",2.260,-7.000
+3,11:10,,,CAR 50,24,23,Neil Rackers kicks extra point good,0.000,0.000
+3,11:10,,,CIN 30,24,23,"Neil Rackers kicks off 62 yards, returned by Steve Smith for 16 yards (tackle by Marquand Manuel)",0.000,0.540
+3,11:04,1,10,CAR 24,24,23,Rodney Peete pass complete to Kris Mangum for 12 yards (tackle by Takeo Spikes),0.540,1.330
+3,10:20,1,10,CAR 36,24,23,Dee Brown left guard for 12 yards (tackle by Mark Roman),1.330,2.130
+3,9:39,1,10,CAR 48,24,23,Rodney Peete pass complete to Muhsin Muhammad for 12 yards (tackle by Jeff Burris),2.130,2.920
+3,8:58,1,10,CIN 40,24,23,Nick Goings right tackle for 3 yards (tackle by Reinard Wilson),2.920,2.780
+3,8:15,2,7,CIN 37,24,23,Rodney Peete pass complete to Nick Goings for 8 yards (tackle by Brian Simmons). Penalty on Tony Williams: Defensive Offside (Declined),2.780,3.640
+3,7:52,1,10,CIN 29,24,23,Rodney Peete pass complete to Muhsin Muhammad for 26 yards (tackle by Mark Roman),3.640,6.510
+3,7:06,1,3,CIN 3,24,23,Dee Brown right end for -1 yards (tackle by Mark Roman),6.510,5.340
+3,6:23,2,4,CIN 4,24,23,Brad Hoover right guard for 2 yards (tackle by Bernard Whittington),5.340,4.950
+3,5:42,3,2,CIN 2,24,29,"Rodney Peete pass complete to Muhsin Muhammad for 2 yards, touchdown",4.950,7.000
+3,5:42,,,CIN 2,24,30,Shayne Graham kicks extra point good,0.000,0.000
+3,5:42,,,CAR 30,24,30,"Todd Sauerbrun kicks off 55 yards, returned by T.J. Houshmandzadeh for 23 yards (tackle by Mike Minter)",0.000,1.470
+3,5:31,1,10,CIN 38,24,30,Jon Kitna pass incomplete intended for Ron Dugans (defended by Reggie Howard),1.470,0.920
+3,5:25,2,10,CIN 38,24,30,Jon Kitna pass complete to Ron Dugans for 3 yards (tackle by Will Witherspoon and Terry Cousin),0.920,0.630
+3,4:52,3,7,CIN 41,24,30,Jon Kitna pass incomplete intended for Ron Dugans,0.630,-0.650
+3,4:46,4,7,CIN 41,24,36,"Travis Dorsch punts 46 yards, returned by Steve Smith for 87 yards, touchdown. Penalty on Lorenzo Neal: Ineligible Downfield Kick (Declined)",-0.650,-7.000
+3,4:24,,,CIN 41,24,37,Shayne Graham kicks extra point good,0.000,0.000
+3,4:24,,,CAR 30,24,37,"Todd Sauerbrun kicks off 58 yards, returned by T.J. Houshmandzadeh for 20 yards (tackle by Kory Minor)",0.000,1.070
+3,4:18,1,10,CIN 32,24,37,Corey Dillon middle for 3 yards (tackle by Mike Rucker and Will Witherspoon),1.070,0.930
+3,3:44,2,7,CIN 35,24,37,Jon Kitna pass complete to Corey Dillon for 16 yards (tackle by Terry Cousin),0.930,2.320
+3,3:05,1,10,CAR 49,24,37,Jon Kitna pass complete to Rudi Johnson for 6 yards (tackle by Will Witherspoon),2.320,2.590
+3,2:26,2,4,CAR 43,24,37,Rudi Johnson middle for 2 yards (tackle by Kris Jenkins),2.590,2.150
+3,1:43,3,2,CAR 41,24,37,Corey Dillon middle for 2 yards (tackle by Brian Allen),2.150,2.980
+3,1:02,1,10,CAR 39,24,37,Jon Kitna pass complete to Chad Johnson for 27 yards,2.980,4.780
+3,0:35,1,10,CAR 12,30,37,"Jon Kitna left tackle for 12 yards, touchdown",4.780,7.000
+3,0:35,,,CAR 12,31,37,Neil Rackers kicks extra point good,0.000,0.000
+3,0:35,,,CIN 30,31,37,"Neil Rackers kicks off 53 yards, returned by Isaac Byrd for 20 yards (tackle by Mark Roman)",0.000,1.400
+3,0:21,1,10,CAR 37,31,37,Rodney Peete pass complete to Steve Smith for 29 yards,1.400,3.310
+Quarter,Time,Down,ToGo,Location,CIN,CAR,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,CIN 34,31,37,"Rodney Peete pass incomplete intended for Steve Smith (defended by Artrell Hawkins). Penalty on Derrick Fletcher: Illegal Formation, 5 yards (no play)",3.310,2.980
+4,14:55,1,15,CIN 39,31,37,Rodney Peete pass incomplete intended for Dee Brown (defended by Brian Simmons),2.980,2.090
+4,14:49,1,15,CIN 39,,,Timeout #1 by Carolina Panthers,2.980,2.090
+4,14:49,2,15,CIN 39,31,37,Rodney Peete pass complete to Steve Smith for 24 yards (tackle by Mark Roman),2.090,4.580
+4,14:21,1,10,CIN 15,31,37,Rodney Peete pass complete to Kris Mangum for 10 yards (tackle by Mark Roman),4.580,6.060
+4,13:37,1,5,CIN 5,31,37,Dee Brown left guard for 3 yards (tackle by Tony Williams),6.060,5.720
+4,12:52,1,5,CIN 5,,,Timeout #2 by Carolina Panthers,6.060,5.720
+4,12:52,2,2,CIN 2,31,43,"Rodney Peete pass complete to Wesley Walls for 2 yards, touchdown",5.720,7.000
+4,12:52,,,CIN 2,31,44,Shayne Graham kicks extra point good,0.000,0.000
+4,12:52,,,CAR 30,31,44,"Todd Sauerbrun kicks off 68 yards, returned by T.J. Houshmandzadeh for 19 yards (tackle by Kemp Rasmussen)",0.000,0.340
+4,12:42,1,10,CIN 21,31,44,Jon Kitna pass complete to Ron Dugans for 10 yards (tackle by Reggie Howard),0.340,1.000
+4,12:04,1,10,CIN 31,31,44,Jon Kitna sacked by Mark Fields for -8 yards,1.000,-0.620
+4,11:33,2,18,CIN 23,31,44,Jon Kitna pass complete to Corey Dillon for 8 yards (tackle by Reggie Howard),-0.620,-0.230
+4,11:06,3,10,CIN 31,31,44,Jon Kitna sacked by Brentson Buckner and Mike Rucker for -11 yards,-0.230,-2.030
+4,10:48,4,21,CIN 20,31,44,"Travis Dorsch punts 41 yards, returned by Steve Smith for 5 yards (tackle by Lorenzo Neal)",-2.030,-1.860
+4,10:35,1,10,CAR 44,31,44,Dee Brown left end for -2 yards (tackle by Brian Simmons),1.860,1.050
+4,9:55,2,12,CAR 42,31,44,Rodney Peete pass complete to Muhsin Muhammad for 14 yards (tackle by Jeff Burris),1.050,2.650
+4,9:10,1,10,CIN 44,31,44,Rodney Peete pass complete to Muhsin Muhammad for 21 yards (tackle by JoJuan Armour and Cory Hall),2.650,4.040
+4,8:26,1,10,CIN 23,31,44,Nick Goings left end for -3 yards (tackle by Justin Smith and Mark Roman),4.040,3.090
+4,7:38,2,13,CIN 26,31,44,Dee Brown right guard for 2 yards (tackle by Justin Smith),3.090,2.680
+4,6:54,3,11,CIN 24,31,44,Rodney Peete pass complete to Muhsin Muhammad for 18 yards (tackle by Kevin Kaesviharn),2.680,5.830
+4,6:19,1,6,CIN 6,31,50,"Dee Brown middle for 6 yards, touchdown",5.830,7.000
+4,6:19,1,,CIN 6,31,52,"Two Point Attempt: Nick Goings right guard, conversion succeeds",1.000,1.000
+4,6:19,,,CAR 30,31,52,"Todd Sauerbrun kicks off 59 yards, returned by Rudi Johnson for 20 yards (tackle by Damien Richardson)",0.000,1.000
+4,6:07,1,10,CIN 31,31,52,Jon Kitna pass incomplete intended for T.J. Houshmandzadeh,1.000,0.460
+4,6:03,2,10,CIN 31,31,52,Jon Kitna pass incomplete (defended by Al Wallace). Penalty on Levi Jones: Illegal Formation (Declined),0.460,-0.230
+4,5:59,3,10,CIN 31,31,52,"Penalty on Levi Jones: False Start, 5 yards (no play)",-0.230,-0.890
+4,5:59,3,15,CIN 26,31,52,"Jon Kitna sacked by Will Witherspoon for -14 yards. Jon Kitna fumbles (forced by Will Witherspoon), recovered by Matt O'Dwyer at CIN-9 and returned for 1 yards",-0.890,-2.490
+4,5:15,4,31,CIN 10,31,52,"Travis Dorsch punts 10 yards, out of bounds",-2.490,-4.240
+4,5:08,1,10,CIN 20,31,52,Dee Brown left guard for 3 yards (tackle by Justin Smith),4.240,4.120
+4,4:28,2,7,CIN 17,31,52,Dee Brown right guard for 6 yards (tackle by Jeff Burris),4.120,4.590
+4,3:44,3,1,CIN 11,31,52,Brad Hoover left guard for 7 yards (tackle by JoJuan Armour and Takeo Spikes),4.590,6.280
+4,3:00,1,4,CIN 4,31,52,Brad Hoover right guard for 2 yards (tackle by Tony Williams),6.280,5.720
+4,2:19,2,2,CIN 2,31,52,Brad Hoover left guard for -1 yards (tackle by Bernard Whittington),5.720,4.720
+4,2:00,3,3,CIN 3,31,52,Brad Hoover left guard for 2 yards (tackle by Tony Williams),4.720,3.550
+4,1:16,4,1,CIN 1,31,52,Rodney Peete kneels for -1 yards,3.550,0.380
+4,1:12,1,10,CIN 2,31,52,"Jon Kitna pass complete to T.J. Houshmandzadeh for 10 yards (tackle by Reggie Howard). Penalty on Reggie Howard: Personal Foul, 15 yards",-0.380,0.740
+4,0:58,1,10,CIN 27,31,52,Jon Kitna pass complete to T.J. Houshmandzadeh for 15 yards (tackle by Dante Wesley and Deon Grant),0.740,1.730
+4,0:39,1,10,CIN 42,31,52,Jon Kitna pass complete to T.J. Houshmandzadeh for 18 yards (tackle by Deon Grant),1.730,2.920
+4,0:30,1,10,CIN 42,,,Timeout #1 by Cincinnati Bengals,1.730,2.920
+4,0:30,1,10,CAR 40,31,52,Rudi Johnson right end for -4 yards (tackle by Reggie Howard),2.920,1.830
+4,0:24,2,14,CAR 44,31,52,Jon Kitna pass incomplete intended for Chad Johnson (defended by Dante Wesley),1.830,1.160
+4,0:17,3,14,CAR 44,31,52,Jon Kitna kneels for -1 yards,1.160,0.270
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

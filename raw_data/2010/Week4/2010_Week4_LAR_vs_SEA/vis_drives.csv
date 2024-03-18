@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,12:50,SEA 31,7,2:52,25,Punt
+2,1,5:49,SEA 15,14,6:29,81,Field Goal
+3,2,13:11,SEA 41,7,3:59,21,Downs
+4,2,5:44,SEA 20,3,1:16,9,Interception
+5,2,3:44,SEA 20,9,2:43,38,Downs
+6,3,15:00,SEA 42,3,1:22,-1,Punt
+7,3,10:39,SEA 26,5,2:24,9,Punt
+8,3,5:26,SEA 15,3,0:59,8,Punt
+9,3,1:09,SEA 4,3,1:19,8,Punt
+10,4,13:46,SEA 5,4,1:18,38,Punt
+11,4,8:30,SEA 15,3,1:13,-6,Punt
+12,4,2:35,SEA 16,1,0:11,-6,Fumble
+13,4,1:05,SEA 17,4,1:05,33,End of Game

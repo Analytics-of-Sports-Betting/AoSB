@@ -1,0 +1,205 @@
+Quarter,Time,Down,ToGo,Location,PIT,NWE,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Steelers won the coin toss, Steelers to receive the opening kickoff.",,
+1,15:00,,,NWE 35,0,0,"Stephen Gostkowski kicks off 65 yards, returned by Felix Jones for 40 yards (tackle by Chris White)",0.000,-1.600
+1,14:53,1,10,PIT 40,0,0,Ben Roethlisberger pass complete short left to Antonio Brown for 6 yards,1.600,1.860
+1,14:23,2,4,PIT 46,0,0,Le'Veon Bell right end for 10 yards (tackle by Steve Gregory and Rob Ninkovich),1.860,2.650
+1,13:39,1,10,NWE 44,0,0,Ben Roethlisberger pass complete short left to Emmanuel Sanders for 8 yards (tackle by Alfonzo Dennard),2.650,3.190
+1,12:54,2,2,NWE 36,0,0,Le'Veon Bell right guard for no gain (tackle by Brandon Spikes),3.190,2.480
+1,12:12,3,2,NWE 36,0,0,"Ben Roethlisberger sacked by Rob Ninkovich for -6 yards. Ben Roethlisberger fumbles (forced by Rob Ninkovich), recovered by Joe Vellano at NWE-42 (tackle by Kelvin Beachum)",2.480,-1.730
+1,12:05,1,10,NWE 42,0,0,Stevan Ridley right guard for 4 yards (tackle by Vince Williams and Troy Polamalu),1.730,1.730
+1,11:42,2,6,NWE 46,0,0,Stevan Ridley up the middle for 2 yards (tackle by Ike Taylor and Jason Worilds),1.730,1.290
+1,11:01,3,4,NWE 48,0,0,Tom Brady sacked by Jason Worilds for -2 yards,1.290,-0.320
+1,10:26,4,6,NWE 46,0,0,"Ryan Allen punts 54 yards, touchback",-0.320,-0.280
+1,10:20,1,10,PIT 20,0,0,Le'Veon Bell right end for -1 yards (tackle by Rob Ninkovich),0.280,-0.460
+1,9:38,2,11,PIT 19,0,0,Le'Veon Bell right tackle for 5 yards (tackle by Dont'a Hightower and Rob Ninkovich),-0.460,-0.430
+1,8:52,3,6,PIT 24,0,0,Ben Roethlisberger pass complete short middle to Le'Veon Bell for 5 yards (tackle by Steve Gregory and Chandler Jones),-0.430,-1.440
+1,8:14,4,1,PIT 29,0,0,"Mat McBriar punts 49 yards, fair catch by Julian Edelman",-1.440,-0.410
+1,8:07,1,10,NWE 22,0,0,Tom Brady pass complete short right to Rob Gronkowski for 11 yards (tackle by William Gay),0.410,1.140
+1,7:53,1,10,NWE 33,0,0,"Stevan Ridley right end for no gain (tackle by LaMarr Woodley). Penalty on Logan Mankins: Clipping, 15 yards (no play)",1.140,-0.070
+1,7:28,1,25,NWE 18,0,0,Tom Brady pass incomplete short left intended for Julian Edelman,-0.070,-1.540
+1,7:23,2,25,NWE 18,0,0,Brandon Bolden left end for 11 yards (tackle by Ryan Clark and Cortez Allen),-1.540,-0.620
+1,6:50,3,14,NWE 29,0,0,Tom Brady pass complete deep right to Rob Gronkowski for 34 yards (tackle by Ryan Clark),-0.620,3.120
+1,6:23,1,10,PIT 37,0,0,Tom Brady pass complete deep middle to Rob Gronkowski for 27 yards (tackle by William Gay and Ryan Clark),3.120,4.910
+1,5:41,1,10,PIT 10,0,0,Tom Brady pass incomplete short middle intended for Julian Edelman,4.910,4.190
+1,5:37,2,10,PIT 10,0,0,Stevan Ridley right guard for 3 yards (tackle by Evander Hood and Lawrence Timmons),4.190,3.810
+1,4:56,3,7,PIT 7,0,0,Tom Brady pass complete short right to Rob Gronkowski for 6 yards (tackle by Shamarko Thomas),3.810,3.550
+1,4:17,4,1,PIT 1,0,0,Stevan Ridley left tackle for no gain (tackle by Troy Polamalu),3.550,0.380
+1,4:12,1,10,PIT 1,0,0,--,-0.380,-0.380
+1,4:12,1,10,PIT 1,0,0,Ben Roethlisberger pass incomplete deep left intended for Antonio Brown is intercepted by Devin McCourty at PIT-34,-0.380,-3.310
+1,4:06,1,10,PIT 34,0,6,"Tom Brady pass complete deep left to Danny Amendola for 34 yards, touchdown",3.310,7.000
+1,4:06,,,PIT 2,0,7,Stephen Gostkowski kicks extra point good,0.000,0.000
+1,4:06,,,NWE 35,0,7,"Stephen Gostkowski kicks off 64 yards, returned by Felix Jones for 22 yards (tackle by Devin McCourty)",0.000,-0.480
+1,3:54,1,10,PIT 23,0,7,Ben Roethlisberger pass complete short right to Jerricho Cotchery for 15 yards (tackle by Kyle Arrington),0.480,1.470
+1,3:12,1,10,PIT 38,0,7,Le'Veon Bell left guard for 6 yards (tackle by Chandler Jones),1.470,1.730
+1,2:37,2,4,PIT 44,0,7,Le'Veon Bell right tackle for 1 yard (tackle by Steve Gregory),1.730,1.160
+1,1:56,3,3,PIT 45,0,7,Le'Veon Bell up the middle for 4 yards (tackle by Dont'a Hightower),1.160,2.190
+1,1:12,1,10,PIT 49,0,7,"Ben Roethlisberger pass incomplete deep left intended for Emmanuel Sanders. Penalty on Le'Veon Bell: Chop Block, 16 yards (no play)",2.190,1.140
+1,1:05,1,26,PIT 33,0,7,Ben Roethlisberger sacked by Chandler Jones for -4 yards,1.140,-1.050
+1,0:26,2,30,PIT 29,0,7,Ben Roethlisberger pass incomplete short middle intended for Le'Veon Bell,-1.050,-1.050
+1,0:23,2,30,PIT 29,0,7,Timeout #1 by New England Patriots,-1.050,-1.680
+1,0:23,3,30,PIT 29,0,7,Ben Roethlisberger pass complete short left to Le'Veon Bell for 29 yards (tackle by Dane Fletcher),-1.680,0.460
+Quarter,Time,Down,ToGo,Location,PIT,NWE,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,4,1,NWE 42,0,7,Le'Veon Bell up the middle for 1 yard (tackle by Chris Jones),0.460,2.850
+2,14:26,1,10,NWE 41,0,7,Le'Veon Bell right end for no gain (tackle by Rob Ninkovich),2.850,2.310
+2,13:43,2,10,NWE 41,0,7,Ben Roethlisberger pass complete short right to Heath Miller for 9 yards,2.310,2.810
+2,13:25,3,1,NWE 32,0,7,Le'Veon Bell up the middle for no gain (tackle by Joe Vellano and Steve Gregory),2.810,2.810
+2,12:42,3,1,NWE 32,0,7,Timeout #1 by Pittsburgh Steelers,2.810,1.310
+2,12:42,4,1,NWE 32,0,7,Le'Veon Bell left guard for -1 yards (tackle by Chris Jones and Jamie Collins),1.310,-1.140
+2,12:36,1,10,NWE 33,0,7,Stevan Ridley right guard for 4 yards (tackle by LaMarr Woodley and Ryan Clark),1.140,1.130
+2,12:10,2,6,NWE 37,0,7,Stevan Ridley left tackle for 13 yards (tackle by LaMarr Woodley),1.130,2.260
+2,11:41,1,10,,0,7,Tom Brady pass complete short left to Michael Hoomanawanui for 17 yards (tackle by Ryan Clark and Lawrence Timmons),2.260,3.380
+2,11:26,1,10,PIT 33,0,7,Stevan Ridley left end for 1 yard (tackle by Cameron Heyward and Lawrence Timmons),3.380,2.970
+2,10:56,2,9,PIT 32,0,7,Tom Brady pass complete short left to Rob Gronkowski for 13 yards (tackle by Shamarko Thomas),2.970,4.310
+2,10:35,1,10,PIT 19,0,13,"Tom Brady pass complete deep left to Rob Gronkowski for 19 yards, touchdown. Penalty on Troy Polamalu: Unnecessary Roughness, 15 yards",4.310,7.000
+2,10:35,,,PIT 2,0,14,Stephen Gostkowski kicks extra point good,0.000,0.000
+2,10:35,,,PIT 19,0,14,"Stephen Gostkowski kicks off 50 yards, touchback",0.000,-0.280
+2,10:30,1,10,PIT 20,0,14,Ben Roethlisberger pass complete short middle to Felix Jones for 4 yards (tackle by Brandon Spikes),0.280,0.270
+2,9:57,2,6,PIT 24,0,14,Ben Roethlisberger pass complete deep left to Emmanuel Sanders for 42 yards (tackle by Kyle Arrington),0.270,3.310
+2,9:17,1,10,NWE 34,0,14,Ben Roethlisberger pass complete short left to Antonio Brown for 17 yards (tackle by Alfonzo Dennard),3.310,4.440
+2,8:34,1,10,NWE 17,0,14,Ben Roethlisberger pass incomplete deep right intended for Emmanuel Sanders,4.440,3.850
+2,8:30,2,10,NWE 17,0,14,Felix Jones left guard for 5 yards (tackle by Dont'a Hightower and Chandler Jones),3.850,3.880
+2,7:45,3,5,NWE 12,0,14,Ben Roethlisberger pass incomplete short right intended for Emmanuel Sanders,3.880,2.680
+2,7:41,4,5,NWE 12,3,14,Shaun Suisham 30 yard field goal good,2.680,3.000
+2,7:41,,,PIT 35,3,14,"Shaun Suisham kicks off 65 yards, touchback",0.000,-0.280
+2,7:36,1,10,NWE 20,3,14,Tom Brady pass complete short left to Stevan Ridley for 3 yards (tackle by Vince Williams),0.280,0.140
+2,7:23,2,7,NWE 23,3,14,Stevan Ridley right guard for 1 yard (tackle by LaMarr Woodley and Lawrence Timmons),0.140,-0.430
+2,6:48,3,6,NWE 24,3,14,Tom Brady pass complete short middle to Rob Gronkowski for 9 yards (tackle by Cortez Allen),-0.430,1.140
+2,6:13,1,10,NWE 33,3,14,Tom Brady pass complete deep left to Danny Amendola for 57 yards,1.140,1.140
+2,5:48,1,10,NWE 33,3,14,Timeout #2 by Pittsburgh Steelers,1.140,4.910
+2,5:48,1,10,PIT 10,3,14,Stevan Ridley left end for 1 yard (tackle by Lawrence Timmons),4.910,4.380
+2,5:11,2,9,PIT 9,3,14,Tom Brady sacked by Cameron Heyward for -8 yards,4.380,2.740
+2,4:37,3,17,PIT 17,3,14,Brandon Bolden up the middle for 14 yards (tackle by Ryan Clark and Cameron Heyward),2.740,3.040
+2,4:37,4,3,PIT 3,3,17,Stephen Gostkowski 20 yard field goal good,3.040,3.000
+2,4:37,,,NWE 35,3,17,"Stephen Gostkowski kicks off 55 yards, returned by Emmanuel Sanders for 19 yards (tackle by Marquice Cole)",0.000,-0.870
+2,3:46,1,10,PIT 29,3,17,Le'Veon Bell left end for 3 yards (tackle by Chandler Jones and Chris Jones),0.870,0.730
+2,3:07,2,7,PIT 32,3,17,Ben Roethlisberger pass complete short right to Heath Miller for 11 yards (tackle by Brandon Spikes),0.730,1.800
+2,2:34,1,10,PIT 43,3,17,Jonathan Dwyer left tackle for 30 yards (tackle by Alfonzo Dennard),1.800,3.780
+2,2:00,1,10,NWE 27,9,17,"Ben Roethlisberger pass complete deep right to Antonio Brown for 27 yards, touchdown",3.780,7.000
+2,2:00,,,NWE 2,10,17,Shaun Suisham kicks extra point good,0.000,0.000
+2,2:00,,,PIT 35,10,17,"Shaun Suisham kicks off 67 yards, returned by LeGarrette Blount for 25 yards (tackle by Shamarko Thomas)",0.000,-0.480
+2,1:50,1,10,NWE 23,10,17,Stevan Ridley left tackle for 8 yards (tackle by LaMarr Woodley and Cortez Allen),0.480,1.010
+2,1:30,2,2,NWE 31,10,17,Stevan Ridley up the middle for 2 yards (tackle by Lawrence Timmons and LaMarr Woodley),1.010,1.140
+2,1:08,1,10,NWE 33,10,17,"Tom Brady pass incomplete short middle intended for Aaron Dobson. Penalty on Troy Polamalu: Defensive Pass Interference, 15 yards (no play)",1.140,2.130
+2,1:03,1,10,NWE 48,10,17,Tom Brady pass complete short left to Aaron Dobson for 6 yards (tackle by William Gay),2.130,2.390
+2,1:03,2,4,PIT 46,10,17,Tom Brady pass incomplete short left intended for Aaron Dobson,2.390,1.680
+2,0:40,3,4,PIT 46,10,17,Tom Brady pass complete short left to Aaron Dobson for 16 yards (tackle by Troy Polamalu),1.680,3.580
+2,0:35,1,10,PIT 30,10,17,Tom Brady pass incomplete deep left intended for Aaron Dobson,3.580,3.030
+2,0:29,2,10,PIT 30,10,17,Brandon Bolden up the middle for 11 yards (tackle by Jason Worilds and LaMarr Woodley),3.030,3.030
+2,0:24,2,10,PIT 30,10,17,Timeout #2 by New England Patriots,3.030,4.310
+2,0:24,1,10,PIT 19,10,17,"Tom Brady pass incomplete deep left intended for Rob Gronkowski. Penalty on Shamarko Thomas: Defensive Pass Interference, 18 yards (no play)",4.310,6.970
+2,0:18,1,1,PIT 1,10,17,Tom Brady pass incomplete short middle intended for Rob Gronkowski,6.970,5.910
+2,0:13,2,1,PIT 1,10,23,"Stevan Ridley right guard for 1 yard, touchdown",5.910,7.000
+2,0:13,,,PIT 2,10,24,Stephen Gostkowski kicks extra point good,0.000,0.000
+2,0:13,,,NWE 35,10,24,"Stephen Gostkowski kicks off 56 yards, returned by Jonathan Dwyer for 15 yards (tackle by Matt Slater)",0.000,-0.540
+2,0:04,1,10,PIT 24,10,24,Ben Roethlisberger kneels for -1 yards,0.540,-0.140
+Quarter,Time,Down,ToGo,Location,PIT,NWE,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PIT 35,10,24,"Shaun Suisham kicks off 64 yards, returned by LeGarrette Blount for 30 yards (tackle by Shaun Suisham). Penalty on Tavon Wilson: Offensive Holding, 10 yards",0.000,0.380
+3,14:55,1,10,NWE 10,10,24,Stevan Ridley left tackle for 11 yards (tackle by Ryan Clark),-0.380,0.340
+3,14:26,1,10,NWE 21,10,24,Tom Brady pass incomplete short middle intended for Julian Edelman,0.340,-0.200
+3,14:22,2,10,NWE 21,10,24,Stevan Ridley left guard for 4 yards (tackle by Steve McLendon and Brett Keisel),-0.200,-0.360
+3,13:41,3,6,NWE 25,10,24,Tom Brady pass complete short right to Danny Amendola for 10 yards (tackle by Shamarko Thomas),-0.360,1.270
+3,13:07,1,10,NWE 35,10,24,"Tom Brady pass complete short right to Stevan Ridley for 1 yard (tackle by Troy Polamalu). Stevan Ridley fumbles (forced by Troy Polamalu), recovered by LaMarr Woodley at NWE-36",1.270,-3.180
+,,,,,,,"Replay Assistant challenged the pass completion ruling, and the play was upheld.",,
+3,12:56,1,10,NWE 36,10,24,Ben Roethlisberger pass complete short left to Le'Veon Bell for 9 yards (tackle by Devin McCourty and Steve Gregory),3.180,3.850
+3,12:11,2,1,NWE 27,10,24,Le'Veon Bell right guard for 8 yards (tackle by Kyle Arrington),3.850,4.310
+3,11:33,1,10,NWE 19,10,24,Ben Roethlisberger sacked by Chandler Jones for -1 yards,4.310,3.630
+3,11:12,2,11,NWE 20,10,24,Ben Roethlisberger pass incomplete short right intended for Le'Veon Bell (defended by Dont'a Hightower),3.630,2.940
+3,11:08,3,11,NWE 20,16,24,"Ben Roethlisberger pass complete deep middle to Jerricho Cotchery for 20 yards, touchdown",2.940,7.000
+3,11:08,,,NWE 2,17,24,Shaun Suisham kicks extra point good,0.000,0.000
+3,11:08,,,PIT 35,17,24,"Shaun Suisham kicks off 60 yards, returned by Matt Slater for 10 yards (tackle by Antwon Blake)",0.000,0.220
+3,10:55,1,10,NWE 15,17,24,Stevan Ridley up the middle for 3 yards (tackle by LaMarr Woodley),-0.220,-0.280
+3,10:30,2,7,NWE 18,17,24,Tom Brady pass complete short right to Stevan Ridley for 5 yards (tackle by Lawrence Timmons),-0.280,-0.390
+3,9:47,3,2,NWE 23,17,24,Tom Brady pass incomplete deep right intended for Aaron Dobson,-0.390,-1.830
+3,9:42,4,2,NWE 23,17,24,"Ryan Allen punts 47 yards, returned by Antonio Brown for 24 yards (tackle by Nate Ebner)",-1.830,-2.520
+3,9:28,1,10,NWE 46,17,24,"Ben Roethlisberger pass complete short left to Le'Veon Bell for 7 yards (tackle by Joe Vellano). Penalty on Fernando Velasco: Illegal Block Above the Waist, 10 yards (no play)",2.520,1.860
+3,9:04,1,20,PIT 44,17,24,Le'Veon Bell right end for 25 yards (tackle by Devin McCourty),1.860,3.510
+3,8:38,1,10,NWE 31,17,24,Ben Roethlisberger pass complete short middle to Heath Miller for 15 yards (tackle by Steve Gregory and Devin McCourty),3.510,4.510
+3,7:56,1,10,NWE 16,17,24,Ben Roethlisberger pass incomplete deep right intended for Le'Veon Bell,4.510,3.900
+3,7:52,2,10,NWE 16,17,24,Ben Roethlisberger pass complete short middle to Antonio Brown for 8 yards (tackle by Duron Harmon),3.900,4.620
+3,7:14,3,2,NWE 8,23,24,"Ben Roethlisberger pass complete short left to Jerricho Cotchery for 8 yards, touchdown",4.620,7.000
+3,7:14,,,NWE 2,24,24,Shaun Suisham kicks extra point good,0.000,0.000
+3,7:14,,,PIT 35,24,24,"Shaun Suisham kicks off 67 yards, returned by LeGarrette Blount for 28 yards (tackle by Stevenson Sylvester)",0.000,-0.670
+3,7:03,1,10,NWE 26,24,24,Tom Brady pass complete short middle to Rob Gronkowski for 16 yards (tackle by Ryan Clark),0.670,1.730
+3,6:26,1,10,NWE 42,24,24,"Penalty on Logan Mankins: False Start, 5 yards (no play)",1.730,1.400
+3,6:24,1,15,NWE 37,24,24,Tom Brady pass complete short right to Julian Edelman for 11 yards,1.400,2.000
+3,6:13,2,4,NWE 48,24,24,Stevan Ridley left tackle for 8 yards (tackle by Shamarko Thomas),2.000,2.650
+3,5:43,1,10,PIT 44,24,24,Tom Brady pass incomplete deep left intended for Aaron Dobson,2.650,2.110
+3,5:38,2,10,PIT 44,24,24,Stevan Ridley left tackle for 9 yards (tackle by Shamarko Thomas),2.110,2.610
+3,5:16,3,1,PIT 35,24,24,Stevan Ridley left tackle for 2 yards (tackle by Troy Polamalu),2.610,3.380
+3,4:47,1,10,PIT 33,24,24,Tom Brady pass complete deep right to Danny Amendola for 21 yards (tackle by Ike Taylor),3.380,4.780
+3,4:18,1,10,PIT 12,24,24,Stevan Ridley left tackle for 3 yards (tackle by Cameron Heyward and Shamarko Thomas),4.780,4.640
+3,3:43,2,7,PIT 9,24,24,Stevan Ridley up the middle for 4 yards (tackle by LaMarr Woodley and Lawrence Timmons),4.640,4.610
+3,3:15,3,3,PIT 5,24,24,Tom Brady sacked by Jason Worilds for -9 yards,4.610,2.510
+3,2:42,4,12,PIT 14,24,27,Stephen Gostkowski 32 yard field goal good,2.510,3.000
+3,2:42,,,NWE 35,24,27,"Stephen Gostkowski kicks off 64 yards, returned by Felix Jones for 10 yards (tackle by Nate Ebner)",0.000,0.370
+3,2:34,1,10,PIT 11,24,27,Le'Veon Bell up the middle for 9 yards (tackle by Dont'a Hightower),-0.370,0.360
+3,2:01,2,1,PIT 20,24,27,Ben Roethlisberger pass complete short right to Jerricho Cotchery for 16 yards (tackle by Logan Ryan),0.360,1.330
+3,1:26,1,10,PIT 36,24,27,Ben Roethlisberger left tackle for no gain (tackle by Chris Jones),1.330,0.790
+3,0:48,2,10,PIT 36,24,27,Ben Roethlisberger pass incomplete deep right intended for Emmanuel Sanders,0.790,0.790
+3,0:43,2,10,PIT 36,24,27,Timeout #1 by Pittsburgh Steelers,0.790,0.100
+3,0:43,3,10,PIT 36,24,27,Ben Roethlisberger pass incomplete deep middle intended for Heath Miller,0.100,-0.980
+3,0:38,4,10,PIT 36,24,27,"Mat McBriar punts 41 yards, returned by Julian Edelman for 43 yards (tackle by Jason Worilds)",-0.980,-3.310
+3,0:24,1,10,PIT 34,24,27,LeGarrette Blount left tackle for 4 yards (tackle by Cameron Heyward),3.310,3.310
+Quarter,Time,Down,ToGo,Location,PIT,NWE,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,6,PIT 30,24,27,Tom Brady pass incomplete short left intended for Michael Hoomanawanui,3.310,2.610
+4,14:57,3,6,PIT 30,24,27,Tom Brady pass complete short middle to Aaron Dobson for 10 yards (tackle by William Gay),2.610,4.240
+4,14:26,1,10,PIT 20,24,27,LeGarrette Blount left tackle for 3 yards (tackle by Vince Williams),4.240,4.120
+4,13:51,2,7,PIT 17,24,33,"Tom Brady pass complete deep left to Aaron Dobson for 17 yards, touchdown",4.120,7.000
+,,,,,,,"Replay Assistant challenged the pass completion ruling, and the play was upheld.",,
+4,13:51,,,PIT 2,24,34,Stephen Gostkowski kicks extra point good,0.000,0.000
+4,13:51,,,NWE 35,24,34,"Stephen Gostkowski kicks off 65 yards, returned by Jonathan Dwyer for 23 yards (tackle by Marquice Cole)",0.000,-0.480
+4,13:39,1,10,PIT 23,24,34,Ben Roethlisberger pass incomplete short middle intended for Felix Jones (defended by Isaac Sopoaga),0.480,-0.070
+4,13:35,2,10,PIT 23,24,34,Ben Roethlisberger pass incomplete short left intended for Antonio Brown (defended by Kyle Arrington),-0.070,-0.760
+4,13:31,3,10,PIT 23,24,34,Ben Roethlisberger sacked by Dane Fletcher for -12 yards,-0.760,-2.490
+4,12:51,4,22,PIT 11,24,34,"Mat McBriar punts 50 yards, returned by Julian Edelman for no gain",-2.490,-1.530
+4,12:44,1,10,NWE 39,24,34,Stevan Ridley right guard for 11 yards (tackle by Lawrence Timmons),1.530,2.260
+4,12:13,1,10,,24,34,Stevan Ridley left end for -1 yards (tackle by Lawrence Timmons),2.260,1.580
+4,11:37,2,11,NWE 49,24,34,"Tom Brady pass incomplete deep left intended for Aaron Dobson. Penalty on William Gay: Defensive Pass Interference, 22 yards (no play)",1.580,3.640
+4,11:31,1,10,PIT 29,24,34,Tom Brady pass incomplete short middle intended for Stevan Ridley,3.640,3.100
+4,11:25,2,10,PIT 29,24,34,Stevan Ridley right guard for 3 yards (tackle by Ryan Clark),3.100,2.810
+4,10:48,3,7,PIT 26,24,34,Tom Brady pass complete short right to Rob Gronkowski for 8 yards (tackle by Shamarko Thomas),2.810,4.370
+4,10:10,1,10,PIT 18,24,34,Stevan Ridley right guard for 7 yards (tackle by Lawrence Timmons and Troy Polamalu),4.370,5.010
+4,9:42,2,3,PIT 11,24,34,Stevan Ridley left tackle for 6 yards (tackle by Stevenson Sylvester and Ryan Clark),5.010,6.060
+4,9:19,1,5,PIT 5,24,40,"Stevan Ridley left guard for 5 yards, touchdown",6.060,7.000
+4,9:19,,,PIT 2,24,41,Stephen Gostkowski kicks extra point good,0.000,0.000
+4,9:19,,,NWE 35,24,41,"Stephen Gostkowski kicks off 65 yards, touchback",0.000,-0.280
+4,9:16,1,10,PIT 20,24,41,Ben Roethlisberger pass complete deep middle to Emmanuel Sanders for 24 yards (tackle by Duron Harmon),0.280,1.860
+4,8:45,1,10,PIT 44,24,41,Ben Roethlisberger pass incomplete deep right intended for Antonio Brown (defended by Alfonzo Dennard),1.860,1.320
+4,8:39,2,10,PIT 44,24,41,Ben Roethlisberger pass incomplete short middle intended for Jerricho Cotchery,1.320,1.320
+4,8:32,2,10,PIT 44,24,41,Timeout #2 by Pittsburgh Steelers,1.320,0.630
+4,8:32,3,10,PIT 44,24,41,Ben Roethlisberger pass complete short right to Jerricho Cotchery for 17 yards (tackle by Marquice Cole),0.630,2.980
+4,7:52,1,10,NWE 39,24,41,Ben Roethlisberger pass complete short right to Emmanuel Sanders for 6 yards,2.980,3.250
+4,7:23,2,4,NWE 33,24,41,Ben Roethlisberger pass complete short right to Antonio Brown for 13 yards (tackle by Duron Harmon),3.250,4.240
+4,6:59,1,10,NWE 20,24,41,Ben Roethlisberger pass incomplete short right intended for Le'Veon Bell,4.240,3.690
+4,6:55,2,10,NWE 20,24,41,Ben Roethlisberger pass complete short middle to Jerricho Cotchery for 14 yards (tackle by Marquice Cole and Duron Harmon),3.690,5.830
+4,6:26,1,6,NWE 6,24,41,Ben Roethlisberger pass incomplete short left intended for Emmanuel Sanders,5.830,4.950
+4,6:20,2,6,NWE 6,30,41,"Ben Roethlisberger pass complete short right to Jerricho Cotchery for 6 yards, touchdown",4.950,7.000
+4,6:20,,,NWE 2,31,41,Shaun Suisham kicks extra point good,0.000,0.000
+4,6:20,,,PIT 35,31,41,"Shaun Suisham kicks off 65 yards, returned by Devin McCourty for 7 yards (tackle by Antwon Blake)",0.000,0.380
+4,6:12,1,10,NWE 7,31,41,LeGarrette Blount left tackle for 12 yards (tackle by Ike Taylor and Jarvis Jones),-0.380,0.150
+4,5:25,1,10,NWE 19,31,47,"Tom Brady pass complete deep left to Aaron Dobson for 81 yards, touchdown",0.150,7.000
+4,5:25,,,PIT 2,31,48,Stephen Gostkowski kicks extra point good,0.000,0.000
+4,5:25,,,NWE 35,31,48,"Stephen Gostkowski kicks off 65 yards, touchback",0.000,-0.280
+4,5:15,1,10,PIT 20,31,48,Ben Roethlisberger sacked by Andre Carter for -6 yards,0.280,-1.180
+4,4:41,2,16,PIT 14,31,48,Ben Roethlisberger pass complete short right to Jonathan Dwyer for 23 yards (tackle by Devin McCourty),-1.180,1.400
+4,3:58,1,10,PIT 37,31,48,Ben Roethlisberger pass complete short right to Emmanuel Sanders for 11 yards (tackle by Kyle Arrington),1.400,2.130
+4,3:32,1,10,PIT 48,31,48,Ben Roethlisberger pass incomplete deep left intended for Antonio Brown is intercepted by Duron Harmon at NWE-30 and returned for 42 yards (tackle by Guy Whimper),2.130,-3.710
+4,3:19,1,10,PIT 28,31,48,LeGarrette Blount left guard for 23 yards (tackle by Troy Polamalu),3.710,6.060
+4,2:49,1,5,PIT 5,31,54,"LeGarrette Blount up the middle for 5 yards, touchdown",6.060,7.000
+4,2:49,,,PIT 2,31,55,Stephen Gostkowski kicks extra point good,0.000,0.000
+4,2:49,,,NWE 35,31,55,"Stephen Gostkowski kicks off 65 yards, touchback",0.000,-0.280
+4,2:41,1,10,PIT 20,31,55,Ben Roethlisberger pass incomplete short right intended for Emmanuel Sanders,0.280,-0.270
+4,2:32,2,10,PIT 20,31,55,Ben Roethlisberger pass complete short middle to Emmanuel Sanders for 7 yards (tackle by Kyle Arrington),-0.270,-0.030
+4,2:05,3,3,PIT 27,31,55,Ben Roethlisberger pass complete short left to Heath Miller for 8 yards (tackle by Logan Ryan),-0.030,1.270
+4,1:58,1,10,PIT 35,31,55,Ben Roethlisberger pass incomplete short left intended for Felix Jones,1.270,0.720
+4,1:54,2,10,PIT 35,31,55,Ben Roethlisberger pass complete short right to Le'Veon Bell for 22 yards (tackle by Devin McCourty),0.720,2.720
+4,1:24,1,10,NWE 43,31,55,Ben Roethlisberger pass incomplete deep right intended for Le'Veon Bell,2.720,2.180
+4,1:16,2,10,NWE 43,31,55,Ben Roethlisberger pass incomplete deep right intended for Derek Moye,2.180,1.490
+4,1:11,3,10,NWE 43,31,55,Le'Veon Bell right end for 4 yards (tackle by Logan Ryan),1.490,0.660
+4,0:38,4,6,NWE 39,31,55,Ben Roethlisberger pass incomplete short middle intended for Le'Veon Bell,0.660,-1.530
+4,0:33,1,10,NWE 39,31,55,Tom Brady kneels for -1 yards,1.530,0.850
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

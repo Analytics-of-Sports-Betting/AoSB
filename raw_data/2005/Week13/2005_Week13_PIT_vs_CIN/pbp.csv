@@ -1,0 +1,192 @@
+Quarter,Time,Down,ToGo,Location,CIN,PIT,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Steelers won the coin toss, Steelers to receive the opening kickoff.",,
+1,15:00,,,CIN 30,0,0,"Shayne Graham kicks off 58 yards, returned by Ricardo Colclough for 16 yards (tackle by Rashad Bauman)",0.000,0.810
+1,14:54,1,10,PIT 28,0,0,Ben Roethlisberger pass complete to Antwaan Randle El for 8 yards (tackle by Tory James),0.810,1.340
+1,14:29,2,2,PIT 36,0,0,Ben Roethlisberger pass complete to Hines Ward for 14 yards,1.340,2.260
+1,14:05,1,10,PIT 50,0,0,Willie Parker left end for 1 yard (tackle by Ifeanyi Ohalete),2.260,1.850
+1,13:30,2,9,CIN 49,0,0,Willie Parker up the middle for -1 yards (tackle by Brian Simmons and Justin Smith),1.850,1.030
+1,12:49,3,10,PIT 50,0,0,Ben Roethlisberger pass incomplete intended for Duce Staley,1.030,-0.060
+1,12:44,4,10,PIT 50,0,0,"Chris Gardocki punts 37 yards, returned by Keiwan Ratliff for 3 yards (tackle by Brett Keisel)",-0.060,0.140
+1,12:31,1,10,CIN 16,0,0,Carson Palmer pass complete to Chris Henry for 9 yards (tackle by Bryant McFadden),-0.140,0.690
+1,12:06,2,1,CIN 25,0,0,Rudi Johnson up the middle for 6 yards (tackle by Chris Hope and Larry Foote),0.690,1.000
+1,11:29,1,10,CIN 31,0,0,Carson Palmer pass complete to Chris Henry for 14 yards (tackle by Chris Hope),1.000,1.930
+1,10:55,1,10,CIN 45,0,0,Rudi Johnson up the middle for 17 yards (tackle by Chris Hope),1.930,3.050
+1,10:13,1,10,PIT 38,0,0,Carson Palmer pass incomplete intended for Chad Johnson,3.050,2.510
+1,10:08,2,10,PIT 38,0,0,Carson Palmer pass complete to Chris Henry for 6 yards (tackle by Bryant McFadden),2.510,2.610
+1,9:29,3,4,PIT 32,0,0,Carson Palmer pass incomplete intended for Chris Henry,2.610,1.270
+1,9:24,4,4,PIT 32,0,0,Carson Palmer pass incomplete intended for Chris Henry (defended by Bryant McFadden),1.270,-1.070
+1,9:19,1,10,PIT 32,0,0,Willie Parker left tackle for 1 yard (tackle by Brian Simmons and John Thornton),1.070,0.660
+1,8:42,2,9,PIT 33,0,0,Willie Parker left guard for 6 yards (tackle by Shaun Smith),0.660,0.760
+1,8:01,3,3,PIT 39,0,0,Ben Roethlisberger pass complete to Antwaan Randle El for 7 yards (tackle by Odell Thurman and Brian Simmons),0.760,1.990
+1,7:16,1,10,PIT 46,0,0,Ben Roethlisberger pass complete to Jerame Tuman for 26 yards (tackle by Deltha O'Neal),1.990,3.710
+1,6:46,1,10,CIN 28,0,0,Willie Parker left tackle for 3 yards (tackle by Odell Thurman and Brian Simmons),3.710,3.570
+1,6:09,2,7,CIN 25,0,0,Ben Roethlisberger pass complete to Heath Miller for 21 yards (tackle by David Pollack),3.570,6.280
+1,5:28,1,4,CIN 4,0,0,Jerome Bettis right guard for 3 yards (tackle by Deltha O'Neal and Shaun Smith),6.280,5.910
+1,4:50,2,1,CIN 1,0,6,"Jerome Bettis left end for 1 yard, touchdown",5.910,7.000
+1,,,,CIN 2,0,7,Jeff Reed kicks extra point good,0.000,0.000
+1,,,,PIT 30,0,7,"Jeff Reed kicks off 59 yards, returned by Tab Perry for 15 yards (tackle by Mike Logan)",0.000,0.670
+1,4:41,1,10,CIN 26,0,7,"Penalty on Carson Palmer: Delay of Game, 5 yards (no play)",0.670,0.340
+1,4:41,1,15,CIN 21,0,7,Carson Palmer pass complete to Chad Johnson for 19 yards (tackle by Chris Hope),0.340,1.600
+1,4:04,1,10,CIN 40,0,7,Carson Palmer pass complete to Chad Johnson for 16 yards (tackle by Clark Haggans). Penalty on Deshea Townsend: Defensive Offside (Declined),1.600,2.650
+1,3:49,1,10,PIT 44,0,7,Rudi Johnson left tackle for 1 yard (tackle by James Farrior and Deshea Townsend),2.650,2.250
+1,3:29,2,9,PIT 43,6,7,"Carson Palmer pass complete to T.J. Houshmandzadeh for 43 yards, touchdown",2.250,7.000
+1,,,,PIT 2,7,7,Shayne Graham kicks extra point good,0.000,0.000
+1,,,,CIN 30,7,7,"Shayne Graham kicks off 53 yards, returned by Brett Keisel for 11 yards (tackle by Anthony Mitchell)",0.000,0.810
+1,3:18,1,10,PIT 28,7,7,Ben Roethlisberger pass incomplete intended for Jerame Tuman,0.810,0.260
+1,3:09,2,10,PIT 28,7,7,Ben Roethlisberger pass complete to Cedrick Wilson for no gain,0.260,-0.430
+1,2:25,3,10,PIT 28,7,7,Ben Roethlisberger pass complete to Hines Ward for 31 yards (tackle by Tory James),-0.430,2.850
+1,1:38,1,10,CIN 41,7,7,Willie Parker right end for 12 yards (tackle by Deltha O'Neal),2.850,3.640
+1,1:07,1,10,CIN 29,7,7,Ben Roethlisberger pass incomplete intended for Cedrick Wilson (defended by Landon Johnson),3.640,3.100
+1,1:03,2,10,CIN 29,7,7,Willie Parker left tackle for 4 yards (tackle by Odell Thurman and Ifeanyi Ohalete),3.100,2.940
+1,0:19,3,6,CIN 25,7,13,"Ben Roethlisberger pass complete to Quincy Morgan for 25 yards, touchdown",2.940,7.000
+1,,,,CIN 2,7,14,Jeff Reed kicks extra point good,0.000,0.000
+1,,,,PIT 30,7,14,"Jeff Reed kicks off 69 yards, returned by Tab Perry for 46 yards (tackle by Ricardo Colclough)",0.000,2.060
+1,0:05,1,10,CIN 47,7,14,Carson Palmer pass complete to Chad Johnson for 5 yards (tackle by Ike Taylor),2.060,2.190
+Quarter,Time,Down,ToGo,Location,CIN,PIT,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,5,PIT 48,7,14,Carson Palmer pass complete to T.J. Houshmandzadeh for 6 yards (tackle by Larry Foote),2.190,2.790
+2,14:27,1,10,PIT 42,7,14,Rudi Johnson left guard for 8 yards (tackle by Chris Hope),2.790,3.320
+2,14:08,2,2,PIT 34,7,14,Rudi Johnson left end for 5 yards (tackle by Chris Hope),3.320,3.640
+2,13:41,,,,7,14,Timeout #1 by Pittsburgh Steelers,0.000,3.640
+2,13:40,1,10,PIT 29,7,14,Carson Palmer pass incomplete intended for Chad Johnson,3.640,3.100
+2,13:35,2,10,PIT 29,7,14,Rudi Johnson right guard for -1 yards (tackle by James Farrior and Clark Haggans),3.100,2.280
+2,12:52,3,11,PIT 30,7,14,Carson Palmer pass complete to Chris Henry for 17 yards (tackle by Tyrone Carter),2.280,4.710
+2,12:13,1,10,PIT 13,7,14,Carson Palmer pass complete to Tony Stewart for 4 yards (tackle by Joey Porter),4.710,4.770
+2,11:34,2,6,PIT 9,7,14,Rudi Johnson right guard for 4 yards (tackle by Larry Foote and Clark Haggans),4.770,4.780
+2,10:57,3,2,PIT 5,7,14,Rudi Johnson right tackle for 4 yards (tackle by James Farrior and Deshea Townsend),4.780,6.970
+2,10:12,1,1,PIT 1,13,14,"Carson Palmer pass complete to Reggie Kelly for 1 yard, touchdown",6.970,7.000
+2,,,,PIT 2,14,14,Shayne Graham kicks extra point good,0.000,0.000
+2,,,,CIN 30,14,14,"Shayne Graham kicks off 62 yards, returned by Quincy Morgan for 28 yards (tackle by Hannibal Navies)",0.000,1.330
+2,10:01,1,10,PIT 36,14,14,Willie Parker for -4 yards (tackle by Jonathan Fanene),1.330,0.250
+2,9:23,2,14,PIT 32,14,14,Ben Roethlisberger pass incomplete intended for Antwaan Randle El,0.250,-0.430
+2,9:15,3,14,PIT 32,14,14,"Ben Roethlisberger pass incomplete intended for Quincy Morgan is intercepted by Brian Simmons at CIN-47 and returned for 16 yards. Penalty on Antwaan Randle El: Low Block, 15 yards",-0.430,-4.110
+2,9:00,1,10,PIT 22,14,14,Rudi Johnson right tackle for 5 yards (tackle by Deshea Townsend and James Farrior),4.110,4.290
+2,8:24,2,5,PIT 17,14,14,Carson Palmer pass incomplete intended for T.J. Houshmandzadeh,4.290,3.560
+2,8:19,3,5,PIT 17,14,14,Carson Palmer pass complete to Reggie Kelly for 6 yards (tackle by James Farrior),3.560,4.840
+2,7:45,1,10,PIT 11,14,14,Rudi Johnson left tackle for 5 yards (tackle by Chris Hope and James Farrior),4.840,5.080
+2,7:06,2,5,PIT 6,14,14,Carson Palmer pass incomplete intended for Matt Schobel,5.080,4.210
+2,7:02,,,,14,14,Timeout #1 by Cincinnati Bengals,0.000,4.210
+2,7:02,3,5,PIT 6,20,14,"Carson Palmer pass complete to T.J. Houshmandzadeh for 6 yards, touchdown",4.210,7.000
+2,,,,PIT 2,21,14,Shayne Graham kicks extra point good,0.000,0.000
+2,,,,CIN 30,21,14,"Shayne Graham kicks off 70 yards, touchback",0.000,0.280
+2,6:57,1,10,PIT 20,21,14,Ben Roethlisberger pass complete to Hines Ward for 7 yards (tackle by Deltha O'Neal),0.280,0.680
+2,6:19,2,3,PIT 27,21,14,Jerome Bettis left guard for 3 yards (tackle by Odell Thurman),0.680,0.940
+2,5:43,1,10,PIT 30,21,14,Jerome Bettis right end for 2 yards (tackle by Brian Simmons and Ifeanyi Ohalete),0.940,0.660
+2,5:09,2,8,PIT 32,21,14,Jerome Bettis up the middle for 3 yards (tackle by Shaun Smith and John Thornton),0.660,0.370
+2,4:28,3,5,PIT 35,21,14,"Ben Roethlisberger pass complete to Hines Ward for 18 yards (tackle by Rashad Bauman). Penalty on Odell Thurman: Roughing the Passer, 15 yards",0.370,3.450
+2,3:57,1,10,CIN 32,21,14,"Hines Ward left end for 7 yards (tackle by Robert Geathers). Hines Ward fumbles (forced by Robert Geathers), recovered by Kevin Kaesviharn at CIN-25 (tackle by Heath Miller)",3.450,-0.610
+2,3:45,1,10,CIN 25,21,14,T.J. Houshmandzadeh left end for 7 yards (tackle by Casey Hampton),0.610,1.010
+2,3:22,2,3,CIN 32,21,14,Carson Palmer pass incomplete intended for Chad Johnson,1.010,0.300
+2,3:15,3,3,CIN 32,21,14,Carson Palmer pass incomplete intended for Chris Perry (defended by Aaron Smith),0.300,-1.240
+2,3:12,4,3,CIN 32,21,14,"Kyle Larson punts 50 yards, returned by Antwaan Randle El for no gain. Penalty on Hannibal Navies: Ineligible Downfield Kic (Offsetting), Penalty on Quincy Morgan: Illegal Block Above the (Offsetting) (no play)",-1.240,-1.240
+2,2:59,4,3,CIN 32,21,14,Kyle Larson punts 37 yards,-1.240,-1.000
+2,2:52,1,10,PIT 31,21,14,Jerome Bettis left tackle for 1 yard (tackle by Kevin Kaesviharn and Odell Thurman),1.000,0.600
+2,2:16,2,9,PIT 32,21,14,Ben Roethlisberger pass complete to Cedrick Wilson for 41 yards (tackle by Ifeanyi Ohalete),0.600,3.780
+2,2:00,1,10,CIN 27,21,14,Ben Roethlisberger pass complete to Jerome Bettis for 7 yards (tackle by Caleb Miller),3.780,4.180
+2,1:21,2,3,CIN 20,21,14,Ben Roethlisberger pass complete to Jerome Bettis for 8 yards (tackle by Landon Johnson),4.180,4.780
+2,0:51,1,10,CIN 12,21,14,Jerome Bettis up the middle for 2 yards (tackle by Shaun Smith and Landon Johnson),4.780,4.450
+2,0:45,,,,21,14,Timeout #2 by Pittsburgh Steelers,0.000,4.450
+2,0:45,2,8,CIN 10,21,14,Ben Roethlisberger pass incomplete intended for Hines Ward,4.450,3.480
+2,0:42,3,8,CIN 10,21,14,Ben Roethlisberger pass complete to Duce Staley for 5 yards (tackle by Odell Thurman and Brian Simmons),3.480,3.020
+2,0:02,,,,21,14,Timeout #3 by Pittsburgh Steelers,0.000,3.020
+2,0:02,4,3,CIN 5,21,17,Jeff Reed 23 yard field goal good,3.020,3.000
+Quarter,Time,Down,ToGo,Location,CIN,PIT,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PIT 30,21,17,"Jeff Reed kicks off 57 yards, returned by Tab Perry for 24 yards (tackle by Ricardo Colclough)",0.000,1.400
+3,14:53,1,10,CIN 37,21,17,Carson Palmer pass complete to Chad Johnson for 9 yards (tackle by Clark Haggans),1.400,2.070
+3,14:41,2,1,CIN 46,21,17,"Penalty on Casey Hampton: Defensive Offside, 5 yards (no play)",2.070,2.320
+3,14:26,1,10,PIT 49,21,17,Carson Palmer pass complete to T.J. Houshmandzadeh for 14 yards (tackle by Larry Foote and Ike Taylor),2.320,3.250
+3,13:59,1,10,PIT 35,21,17,Rudi Johnson up the middle for 1 yard (tackle by James Farrior and Larry Foote),3.250,2.840
+3,13:20,2,9,PIT 34,21,17,Rudi Johnson left tackle for 5 yards,2.840,2.810
+3,12:43,3,4,PIT 29,21,17,Rudi Johnson up the middle for 12 yards (tackle by Chris Hope and Joey Porter),2.810,4.440
+3,12:01,1,10,PIT 17,21,17,Carson Palmer pass incomplete intended for T.J. Houshmandzadeh,4.440,3.850
+3,11:53,2,10,PIT 17,21,17,Carson Palmer pass complete to Rudi Johnson for 5 yards (tackle by Deshea Townsend and Travis Kirschke),3.850,3.880
+3,11:09,3,5,PIT 12,21,17,Carson Palmer pass incomplete intended for Chris Perry (defended by Brett Keisel),3.880,2.680
+3,11:01,4,5,PIT 12,24,17,Shayne Graham 30 yard field goal good,2.680,3.000
+3,,,,CIN 30,24,17,"Shayne Graham kicks off 62 yards, returned by Quincy Morgan for 34 yards (tackle by Shayne Graham)",0.000,1.730
+3,10:54,1,10,PIT 42,24,17,Ben Roethlisberger pass complete to Hines Ward for 14 yards (tackle by Tory James),1.730,2.650
+3,10:31,1,10,CIN 44,24,17,Willie Parker up the middle for 7 yards (tackle by Ifeanyi Ohalete and Shaun Smith),2.650,3.060
+3,9:56,2,3,CIN 37,24,17,Willie Parker right tackle for 17 yards (tackle by Deltha O'Neal and Kevin Kaesviharn),3.060,4.240
+3,9:11,1,10,CIN 20,24,23,"Ben Roethlisberger pass complete to Hines Ward for 20 yards, touchdown",4.240,7.000
+3,,,,CIN 2,24,24,Jeff Reed kicks extra point good,0.000,0.000
+3,,,,PIT 30,24,24,"Jeff Reed kicks off 67 yards, returned by Tab Perry for 94 yards (tackle by Ike Taylor)",0.000,6.510
+3,8:45,1,3,PIT 3,24,24,Rudi Johnson up the middle for 2 yards (tackle by Troy Polamalu),6.510,5.910
+3,8:01,2,1,PIT 1,30,24,"Rudi Johnson right guard for 1 yard, touchdown",5.910,7.000
+3,,,,PIT 2,31,24,Shayne Graham kicks extra point good,0.000,0.000
+3,,,,CIN 30,31,24,"Shayne Graham kicks off 58 yards, returned by Ricardo Colclough for 25 yards (tackle by Hannibal Navies)",0.000,1.400
+3,7:52,1,10,PIT 37,31,24,Ben Roethlisberger pass complete to Hines Ward for 19 yards (tackle by Deltha O'Neal),1.400,2.650
+3,7:12,1,10,CIN 44,31,24,Willie Parker left guard for 12 yards (tackle by Tory James and Ifeanyi Ohalete),2.650,3.450
+3,6:32,1,10,CIN 32,31,24,Ben Roethlisberger pass incomplete intended for Antwaan Randle El,3.450,2.900
+3,6:27,2,10,CIN 32,31,24,"Ben Roethlisberger pass complete to Willie Parker for no gain. Penalty on Alan Faneca: Illegal Block Above the , 10 yards (no play)",2.900,1.550
+3,5:59,2,20,CIN 42,31,24,Ben Roethlisberger pass incomplete intended for Hines Ward,1.550,0.890
+3,5:52,3,20,CIN 42,31,24,Ben Roethlisberger pass complete to Duce Staley for 4 yards (tackle by Odell Thurman and Landon Johnson),0.890,0.720
+3,5:06,4,16,CIN 38,31,24,Chris Gardocki punts 31 yards,0.720,0.380
+3,4:53,1,10,CIN 7,31,24,Rudi Johnson left guard for no gain,-0.380,-0.780
+3,4:09,2,10,CIN 7,31,24,Carson Palmer pass complete to Reggie Kelly for 5 yards (tackle by Troy Polamalu),-0.780,-0.840
+3,3:36,3,5,CIN 12,31,24,Carson Palmer sacked by Clark Haggans for -5 yards,-0.840,-2.490
+3,3:11,4,10,CIN 7,31,24,"Kyle Larson punts 46 yards, returned by Antwaan Randle El for 8 yards (tackle by Marcus Wilkins)",-2.490,-2.590
+3,2:59,1,10,CIN 45,31,24,"Willie Parker up the middle for 1 yard (tackle by Odell Thurman). Willie Parker fumbles (forced by Odell Thurman), recovered by Alan Faneca at CIN-44",2.590,2.180
+3,2:14,2,9,CIN 44,31,24,Willie Parker left guard for 2 yards (tackle by Landon Johnson),2.180,1.750
+3,1:31,3,7,CIN 42,31,24,Ben Roethlisberger pass incomplete intended for Hines Ward is intercepted by Deltha O'Neal at CIN-7 and returned for 37 yards,1.750,-1.860
+3,1:17,1,10,CIN 44,31,24,Carson Palmer pass incomplete intended for Chad Johnson (defended by Ike Taylor),1.860,1.320
+3,1:06,2,10,CIN 44,31,24,Carson Palmer pass complete to Chad Johnson for 5 yards (tackle by Ike Taylor),1.320,1.290
+3,0:40,3,5,CIN 49,31,24,Carson Palmer pass incomplete intended for T.J. Houshmandzadeh,1.290,-0.130
+3,0:36,4,5,CIN 49,31,24,"Kyle Larson punts 51 yards, touchback",-0.130,-0.280
+3,0:27,1,10,PIT 20,31,24,Ben Roethlisberger pass complete to Heath Miller for 12 yards (tackle by Brian Simmons and Landon Johnson),0.280,1.070
+Quarter,Time,Down,ToGo,Location,CIN,PIT,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,PIT 32,31,24,"Willie Parker left end for 7 yards. Willie Parker fumbles, recovered by Alan Faneca at CIN-48",1.070,2.390
+4,14:22,1,10,CIN 48,31,24,Ben Roethlisberger pass complete to Jerome Bettis for 9 yards (tackle by Landon Johnson),2.390,3.060
+4,13:35,2,1,CIN 39,31,24,Jerome Bettis up the middle for -2 yards (tackle by Kevin Kaesviharn and Landon Johnson),3.060,2.080
+4,13:01,3,3,CIN 41,31,24,"Duce Staley right end for -9 yards. Duce Staley fumbles, recovered by Duce Staley at 50",2.080,-0.060
+4,12:15,4,12,PIT 50,31,24,"Chris Gardocki punts 28 yards, fair catch by Keiwan Ratliff",-0.060,-0.410
+4,12:10,1,10,CIN 22,31,24,"Carson Palmer pass complete to Chris Perry for 5 yards (tackle by Troy Polamalu). Penalty on Clark Haggans: Roughing the Passer, 15 yards",0.410,1.730
+4,11:45,1,10,CIN 42,31,24,Carson Palmer pass incomplete intended for Reggie Kelly,1.730,1.190
+4,11:40,,,,31,24,Timeout #1 by Cincinnati Bengals,0.000,1.190
+4,11:40,2,10,CIN 42,31,24,Rudi Johnson right tackle for 2 yards (tackle by Casey Hampton and James Farrior),1.190,0.760
+4,10:56,3,8,CIN 44,31,24,Carson Palmer pass incomplete intended for Reggie Kelly,0.760,-0.460
+4,10:51,4,8,CIN 44,31,24,"Kyle Larson punts 56 yards, touchback",-0.460,-0.280
+4,10:41,1,10,PIT 20,31,24,Ben Roethlisberger pass complete to Heath Miller for 11 yards (tackle by Landon Johnson),0.280,1.000
+4,10:06,1,10,PIT 31,31,24,Duce Staley up the middle for 8 yards (tackle by Landon Johnson and Justin Smith),1.000,1.540
+4,9:44,2,2,PIT 39,31,24,Duce Staley up the middle for 3 yards (tackle by Shaun Smith and Kevin Kaesviharn),1.540,1.730
+4,9:08,1,10,PIT 42,31,24,Ben Roethlisberger pass incomplete intended for Hines Ward is intercepted by Odell Thurman at CIN-46 and returned for 5 yards,1.730,-2.320
+4,8:59,1,10,PIT 49,31,24,Carson Palmer pass incomplete intended for Chad Johnson (defended by Ike Taylor),2.320,1.780
+4,8:52,2,10,PIT 49,31,24,Rudi Johnson right tackle for 6 yards (tackle by Chris Hope and James Farrior),1.780,1.880
+4,8:09,3,4,PIT 43,31,24,Carson Palmer pass complete to Chris Henry for 6 yards (tackle by Bryant McFadden),1.880,3.120
+4,7:43,1,10,PIT 37,31,24,Carson Palmer pass complete to T.J. Houshmandzadeh for 19 yards (tackle by Deshea Townsend),3.120,4.370
+4,7:01,1,10,PIT 18,31,24,Rudi Johnson right guard for 4 yards (tackle by Casey Hampton and Clark Haggans),4.370,4.430
+4,6:16,2,6,PIT 14,37,24,"Rudi Johnson right end for 14 yards, touchdown",4.430,7.000
+4,,,,PIT 2,38,24,Shayne Graham kicks extra point good,0.000,0.000
+4,,,,CIN 30,38,24,"Shayne Graham kicks off 64 yards, returned by Quincy Morgan for 22 yards (tackle by Anthony Mitchell)",0.000,0.810
+4,6:03,1,10,PIT 28,38,24,"Ben Roethlisberger pass complete to Antwaan Randle El for 7 yards (tackle by Brian Simmons). Penalty on Justin Smith: Defensive Offside, 5 yards (no play)",0.810,1.540
+4,5:36,1,5,PIT 33,38,24,Ben Roethlisberger pass complete to Cedrick Wilson for 12 yards,1.540,1.930
+4,5:12,1,10,PIT 45,38,24,Ben Roethlisberger pass complete to Cedrick Wilson for 12 yards (tackle by Kevin Kaesviharn),1.930,2.720
+4,4:46,1,10,CIN 43,38,24,Ben Roethlisberger pass complete to Antwaan Randle El for 14 yards (tackle by Brian Simmons),2.720,3.640
+4,4:21,1,10,CIN 29,38,24,Ben Roethlisberger pass incomplete intended for Cedrick Wilson,3.640,3.100
+4,4:17,2,10,CIN 29,38,24,Ben Roethlisberger pass complete to Antwaan Randle El for 9 yards (tackle by Robert Geathers),3.100,3.600
+4,3:58,3,1,CIN 20,38,24,Ben Roethlisberger up the middle for 2 yards (tackle by Odell Thurman),3.600,4.370
+4,3:37,1,10,CIN 18,38,24,Ben Roethlisberger pass complete to Antwaan Randle El for 9 yards (tackle by Brian Simmons),4.370,5.420
+4,3:28,2,1,CIN 9,38,24,Ben Roethlisberger pass incomplete intended for Hines Ward,5.420,4.740
+4,3:25,3,1,CIN 9,38,24,Willie Parker up the middle for 3 yards (tackle by Odell Thurman),4.740,5.830
+4,3:04,1,6,CIN 6,38,30,"Ben Roethlisberger pass complete to Hines Ward for 6 yards, touchdown",5.830,7.000
+4,,,,CIN 2,38,31,Jeff Reed kicks extra point good,0.000,0.000
+4,,,,PIT 30,38,31,"Jeff Reed kicks off 65 yards, returned by Tab Perry for 18 yards (tackle by Sean Morey)",0.000,0.480
+4,2:52,1,10,CIN 23,38,31,Carson Palmer pass incomplete intended for Chad Johnson (defended by Troy Polamalu),0.480,-0.070
+4,2:48,2,10,CIN 23,38,31,Rudi Johnson right guard for -3 yards (tackle by Larry Foote and James Farrior),-0.070,-1.150
+4,2:43,,,,38,31,Timeout #1 by Pittsburgh Steelers,0.000,-1.150
+4,2:43,3,13,CIN 20,38,31,Carson Palmer pass complete to Chris Perry for 7 yards (tackle by Chris Hope). Penalty on Levi Jones: Offensive Holding (Declined),-1.150,-1.570
+4,2:37,4,6,CIN 27,38,31,"Penalty on Landon Johnson: False Start, 5 yards (no play)",-1.570,-1.900
+4,2:37,4,11,CIN 22,38,31,"Kyle Larson punts 44 yards, returned by Antwaan Randle El for no gain. Penalty on Tyrone Carter: Offensive Holding, 10 yards",-1.900,-0.540
+4,2:26,1,10,PIT 24,38,31,Ben Roethlisberger pass complete to Hines Ward for 6 yards (tackle by Rashad Bauman),0.540,0.810
+4,2:03,2,4,PIT 30,38,31,"Penalty on Max Starks: False Start, 5 yards (no play)",0.810,0.130
+4,2:01,2,9,PIT 25,38,31,"Ben Roethlisberger pass complete to Cedrick Wilson for 16 yards (tackle by Landon Johnson). Penalty on Trai Essex: Offensive Holding, 10 yards (no play)",0.130,-1.350
+4,1:54,2,19,PIT 15,38,31,Ben Roethlisberger sacked by David Pollack for -5 yards,-1.350,-3.060
+4,1:44,,,,38,31,Timeout #2 by Pittsburgh Steelers,0.000,-3.060
+4,1:44,3,24,PIT 10,38,31,Ben Roethlisberger pass complete to Willie Parker for 11 yards (tackle by Landon Johnson),-3.060,-1.960
+4,1:34,,,,38,31,Timeout #3 by Pittsburgh Steelers,0.000,-1.960
+4,1:34,4,13,PIT 21,38,31,Ben Roethlisberger sacked by Justin Smith for -2 yards,-1.960,-4.310
+4,1:23,1,10,PIT 19,38,31,Carson Palmer kneels for -1 yards,4.310,3.630
+4,1:23,2,11,PIT 20,38,31,Carson Palmer kneels for -1 yards,3.630,2.810
+4,0:21,3,12,PIT 21,38,31,Carson Palmer kneels for -1 yards,2.810,1.990
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

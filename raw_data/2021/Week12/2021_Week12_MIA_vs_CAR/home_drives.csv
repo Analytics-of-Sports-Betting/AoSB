@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,MIA 25,8,4:51,33,Punt
+2,1,6:01,MIA 25,7,4:16,22,Punt
+3,2,12:46,MIA 47,3,0:56,5,Punt
+4,2,10:27,CAR 9,3,1:26,9,Touchdown
+5,2,7:19,MIA 27,6,2:53,73,Touchdown
+6,2,3:26,MIA 32,6,1:52,7,Punt
+7,2,0:53,MIA 32,6,0:52,28,Fumble
+8,3,11:35,MIA 20,13,7:24,80,Touchdown
+9,3,2:32,CAR 47,10,6:34,19,Field Goal
+10,4,9:03,CAR 37,10,5:22,23,Field Goal
+11,4,1:08,MIA 23,2,1:08,-2,End of Game

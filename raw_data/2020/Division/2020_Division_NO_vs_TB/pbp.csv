@@ -1,0 +1,182 @@
+Quarter,Time,Down,ToGo,Location,TAM,NOR,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Saints won the coin toss and deferred, Buccaneers to receive the opening kickoff.",,
+1,15:00,,,NOR 35,0,0,"Wil Lutz kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,TAM 25,0,0,Leonard Fournette left tackle for 2 yards (tackle by David Onyemata and Cameron Jordan),0.610,0.330
+1,14:25,2,8,TAM 27,0,0,Tom Brady pass complete short left to Cameron Brate for 5 yards (tackle by Demario Davis),0.330,0.300
+1,13:42,3,3,TAM 32,0,0,Tom Brady pass incomplete deep left intended for Rob Gronkowski,0.300,-1.240
+1,13:36,4,3,TAM 32,0,0,"Bradley Pinion punts 43 yards, returned by Deonte Harris for 54 yards (tackle by Andrew Adams)",-1.240,-4.170
+1,13:18,1,10,TAM 21,0,0,Alvin Kamara left guard for no gain (tackle by Devin White),4.170,3.630
+1,12:45,2,10,TAM 21,0,0,"Drew Brees pass complete short right to Emmanuel Sanders for 7 yards (tackle by Jordan Whitehead). Penalty on Jordan Whitehead: Unnecessary Roughness, 7 yards",3.630,5.600
+1,12:19,1,7,TAM 7,0,0,Drew Brees pass incomplete short left intended for Marquez Callaway,5.600,4.760
+1,12:14,2,7,TAM 7,0,0,Alvin Kamara right guard for 2 yards (tackle by William Gholston and Jamel Dean),4.760,4.260
+1,11:39,3,5,TAM 5,0,0,Drew Brees pass incomplete short right intended for Michael Thomas,4.260,3.010
+1,11:34,4,5,TAM 5,0,3,Wil Lutz 23 yard field goal good,3.010,3.000
+1,11:30,,,NOR 35,0,3,"Wil Lutz kicks off 65 yards, touchback.",0.000,0.610
+1,11:30,1,10,TAM 25,0,3,Leonard Fournette right guard for 4 yards (tackle by Marcus Davenport),0.610,0.600
+1,10:55,2,6,TAM 29,0,3,Tom Brady pass incomplete short middle intended for Cameron Brate (defended by Malcolm Jenkins),0.600,-0.100
+1,10:50,3,6,TAM 29,0,3,Tom Brady sacked by Demario Davis for -10 yards,-0.100,-2.140
+1,10:06,4,16,TAM 19,0,3,"Bradley Pinion punts 48 yards, returned by Deonte Harris for 7 yards. Penalty on Carl Granderson: Illegal Block Above the Waist, 10 yards",-2.140,-0.940
+1,9:46,1,10,NOR 30,0,3,Drew Brees pass incomplete deep right intended for Emmanuel Sanders (defended by Sean Murphy-Bunting),0.940,0.390
+1,9:40,2,10,NOR 30,0,3,Drew Brees pass complete short left to Deonte Harris for -1 yards (tackle by Devin White),0.390,-0.430
+1,8:52,3,11,NOR 29,0,3,Drew Brees pass complete short middle to Tre'Quan Smith for 13 yards (tackle by Mike Edwards),-0.430,1.730
+1,8:11,1,10,NOR 42,0,3,"Alvin Kamara right guard for 3 yards (tackle by Jason Pierre-Paul). Penalty on Jason Pierre-Paul: Tripping, 10 yards",1.730,2.590
+1,7:55,1,10,TAM 45,0,3,Alvin Kamara left end for 10 yards (tackle by Jordan Whitehead),2.590,3.250
+1,7:17,1,10,TAM 35,0,3,Ty Montgomery right end for 5 yards (tackle by Jason Pierre-Paul),3.250,3.380
+1,6:41,2,5,TAM 30,0,3,Drew Brees pass complete short middle to Jared Cook for 4 yards (tackle by Sean Murphy-Bunting),3.380,3.200
+1,6:00,3,1,TAM 26,0,3,Alvin Kamara left guard for 1 yard (tackle by William Gholston),3.200,3.910
+1,5:31,1,10,TAM 25,0,3,Alvin Kamara left end for 1 yard (tackle by Devin White),3.910,3.500
+1,4:54,2,9,TAM 24,0,3,Drew Brees pass incomplete deep middle intended for Jared Cook,3.500,2.810
+1,4:49,,,,,,Timeout #1 by New Orleans Saints,,
+1,4:49,3,9,TAM 24,0,3,Drew Brees pass incomplete short middle intended for Michael Burton (defended by Jason Pierre-Paul),2.810,1.870
+1,4:44,4,9,TAM 24,0,6,Wil Lutz 42 yard field goal good,1.870,3.000
+1,4:39,,,NOR 35,0,6,"Wil Lutz kicks off 65 yards, touchback.",0.000,0.610
+1,4:39,1,10,TAM 25,0,6,Tom Brady pass incomplete short left intended for Ronald Jones,0.610,0.060
+1,4:34,2,10,TAM 25,0,6,Ronald Jones left guard for 9 yards (tackle by Demario Davis and Alex Anzalone),0.060,0.560
+1,3:50,3,1,TAM 34,0,6,Ronald Jones left guard for no gain (tackle by Malcolm Jenkins),0.560,-1.110
+1,3:12,4,1,TAM 34,0,6,Tom Brady up the middle for 2 yards (tackle by Malcolm Jenkins and David Onyemata),-1.110,1.330
+1,2:37,1,10,TAM 36,0,6,Leonard Fournette left guard for 5 yards (tackle by Shy Tuttle),1.330,1.470
+1,2:07,2,5,TAM 41,0,6,Leonard Fournette right end for 8 yards (tackle by Zack Baun and Malcolm Jenkins),1.470,2.190
+1,1:33,1,10,TAM 49,0,6,Tom Brady pass incomplete deep left intended for Mike Evans (defended by Marshon Lattimore),2.190,1.650
+1,1:26,2,10,TAM 49,0,6,Tom Brady pass incomplete short right intended for Antonio Brown,1.650,0.960
+1,1:20,3,10,TAM 49,0,6,"Penalty on Marcus Davenport: Neutral Zone Infraction, 5 yards (no play)",0.960,1.620
+1,1:20,3,5,NOR 46,0,6,Tom Brady pass complete short left to Chris Godwin for 11 yards (tackle by Alex Anzalone),1.620,3.250
+1,0:38,1,10,NOR 35,0,6,Ronald Jones left end for 2 yards (tackle by Zack Baun),3.250,2.970
+Quarter,Time,Down,ToGo,Location,TAM,NOR,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,8,NOR 33,0,6,Tom Brady pass complete deep left to Cameron Brate for 16 yards (tackle by Malcolm Jenkins),2.970,4.440
+2,14:24,1,10,NOR 17,0,6,Leonard Fournette right tackle for 6 yards (tackle by Malcolm Jenkins),4.440,4.890
+2,13:41,2,4,NOR 11,0,6,Leonard Fournette right tackle for 3 yards (tackle by Cameron Jordan),4.890,4.800
+2,13:04,3,1,NOR 8,0,6,Tom Brady pass incomplete short right intended for Rob Gronkowski (defended by Malcolm Jenkins),4.800,2.990
+2,13:00,4,1,NOR 8,3,6,Ryan Succop 26 yard field goal good,2.990,3.000
+2,12:57,,,TAM 35,3,6,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+2,12:57,1,10,NOR 25,3,6,Alvin Kamara left guard for 11 yards (tackle by Antoine Winfield),0.610,1.330
+2,12:22,1,10,NOR 36,3,6,Alvin Kamara left guard for 6 yards (tackle by Antoine Winfield),1.330,1.600
+2,11:52,2,4,NOR 42,3,6,"Penalty on Ryan Ramczyk: False Start, 5 yards (no play)",1.600,0.930
+2,11:31,2,9,NOR 37,3,6,Drew Brees pass short right intended for Michael Thomas is intercepted by Sean Murphy-Bunting at NO-39 and returned for 36 yards,0.930,-6.510
+2,11:20,1,3,NOR 3,9,6,"Tom Brady pass complete short left to Mike Evans for 3 yards, touchdown",6.510,7.000
+2,11:16,,,NOR 15,10,6,Ryan Succop kicks extra point good,0.000,0.000
+2,11:16,,,TAM 35,10,6,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+2,11:16,1,10,NOR 25,10,6,Drew Brees pass incomplete short left intended for Michael Thomas (defended by Carlton Davis),0.610,0.060
+2,11:11,2,10,NOR 25,10,6,Drew Brees pass complete short right to Jared Cook for 4 yards (tackle by Sean Murphy-Bunting),0.060,-0.100
+2,10:26,3,6,NOR 29,10,6,"Drew Brees pass incomplete deep right. Penalty on Sean Murphy-Bunting: Defensive Holding, 5 yards (no play)",-0.100,1.200
+2,10:20,1,10,NOR 34,10,6,Alvin Kamara left guard for 5 yards (tackle by Ross Cockrell),1.200,1.330
+2,9:42,2,5,NOR 39,10,6,Drew Brees pass complete short middle to Alvin Kamara for 4 yards (tackle by Devin White),1.330,1.160
+2,8:58,3,1,NOR 43,10,6,Drew Brees up the middle for 1 yard (tackle by Devin White),1.160,1.860
+2,8:17,1,10,NOR 44,10,12,"Jameis Winston pass complete deep middle to Tre'Quan Smith for 56 yards, touchdown",1.860,7.000
+2,8:08,,,TAM 15,10,13,Wil Lutz kicks extra point good,0.000,0.000
+2,8:08,,,NOR 35,10,13,"Wil Lutz kicks off 65 yards, touchback.",0.000,0.610
+2,8:08,1,10,TAM 25,10,13,Ronald Jones right guard for 7 yards (tackle by Demario Davis),0.610,1.010
+2,7:25,2,3,TAM 32,10,13,Ronald Jones left guard for 2 yards (tackle by David Onyemata),1.010,0.560
+2,6:44,3,1,TAM 34,10,13,Tom Brady pass incomplete deep right intended for Antonio Brown,0.560,-1.110
+2,6:39,4,1,TAM 34,10,13,"Bradley Pinion punts 48 yards, returned by Marquez Callaway for no gain (tackle by Jaydon Mickens). Penalty on Marshon Lattimore: Face Mask (15 Yards), 9 yards",-1.110,0.380
+2,6:30,1,10,NOR 9,10,13,Alvin Kamara right guard for 5 yards (tackle by Jamel Dean),-0.380,-0.390
+2,5:58,2,5,NOR 14,10,13,Drew Brees pass complete short middle to Emmanuel Sanders for 10 yards (tackle by Lavonte David),-0.390,0.540
+2,5:21,1,10,NOR 24,10,13,Drew Brees pass complete short left to Emmanuel Sanders for 16 yards (tackle by Carlton Davis),0.540,1.600
+2,4:47,1,10,NOR 40,10,13,Dwayne Washington right guard for 2 yards (tackle by Ndamukong Suh and Lavonte David),1.600,1.320
+2,4:07,2,8,NOR 42,10,13,Drew Brees pass complete short right to Josh Hill for -3 yards (tackle by Sean Murphy-Bunting),1.320,0.230
+2,3:23,3,11,NOR 39,10,13,Drew Brees pass complete short right to Alvin Kamara for 9 yards (tackle by Antoine Winfield),0.230,-0.190
+2,2:42,4,2,NOR 48,10,13,"Penalty on Andrus Peat: False Start, 5 yards (no play)",-0.190,-0.520
+2,2:35,4,7,NOR 43,10,13,"Thomas Morstead punts 39 yards, fair catch by Jaydon Mickens at TB-18",-0.520,-0.040
+2,2:28,1,10,TAM 18,10,13,Leonard Fournette left guard for 3 yards (tackle by Malcolm Jenkins),0.040,0.010
+2,2:02,2,7,TAM 21,10,13,Tom Brady pass incomplete short right intended for Leonard Fournette,0.010,-0.790
+2,1:59,3,7,TAM 21,10,13,Tom Brady pass complete short left to Leonard Fournette for 8 yards (tackle by Chauncey Gardner-Johnson),-0.790,0.870
+2,1:52,1,10,TAM 29,10,13,Tom Brady pass complete short middle to Chris Godwin for 8 yards (tackle by Demario Davis),0.870,1.410
+2,1:31,2,2,TAM 37,10,13,Tom Brady pass complete short left to Leonard Fournette for 14 yards (tackle by Marcus Williams),1.410,2.320
+2,1:06,1,10,NOR 49,10,13,Tom Brady pass incomplete deep right intended for Chris Godwin (defended by Chauncey Gardner-Johnson),2.320,1.780
+2,1:01,2,10,NOR 49,10,13,Tom Brady pass complete short middle to Leonard Fournette for 8 yards (tackle by Demario Davis),1.780,2.150
+2,0:54,,,,,,Timeout #1 by Tampa Bay Buccaneers,,
+2,0:54,3,2,NOR 41,10,13,Leonard Fournette right guard for 7 yards (tackle by Malcolm Jenkins),2.150,3.310
+2,0:37,1,10,NOR 34,10,13,"Tom Brady for -128 yards. Tom Brady fumbles, recovered by Tom Brady at NO-40 Tom Brady pass complete short right to Antonio Brown for 10 yards (tackle by Janoris Jenkins)",3.310,3.970
+2,0:27,,,,,,Timeout #2 by Tampa Bay Buccaneers,,
+2,0:27,1,10,NOR 24,10,13,"Penalty on Aaron Stinnie: False Start, 5 yards (no play)",3.970,3.640
+2,0:27,1,15,NOR 29,10,13,Tom Brady pass incomplete short middle intended for Rob Gronkowski,3.640,2.760
+2,0:24,2,15,NOR 29,10,13,Tom Brady pass incomplete deep middle intended for Chris Godwin,2.760,2.080
+2,0:18,3,15,NOR 29,10,13,Tom Brady pass complete short right to Cameron Brate for 10 yards (tackle by Malcolm Jenkins),2.080,2.240
+2,0:03,,,,,,Timeout #3 by Tampa Bay Buccaneers,,
+2,0:03,4,5,NOR 19,13,13,Ryan Succop 37 yard field goal good,2.240,3.000
+Quarter,Time,Down,ToGo,Location,TAM,NOR,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,TAM 35,13,13,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,NOR 25,13,13,Drew Brees pass complete short right to Alvin Kamara for 7 yards (tackle by Lavonte David),0.610,1.010
+3,14:27,2,3,NOR 32,13,13,Ty Montgomery left end for 5 yards (tackle by Sean Murphy-Bunting),1.010,1.400
+3,13:49,1,10,NOR 37,13,13,Alvin Kamara right guard for 8 yards (tackle by Lavonte David),1.400,1.940
+3,13:11,2,2,NOR 45,13,13,Alvin Kamara right guard for 1 yard (tackle by Ndamukong Suh),1.940,1.360
+3,12:33,3,1,NOR 46,13,13,Drew Brees up the middle for 2 yards (tackle by Devin White),1.360,2.130
+3,12:00,1,10,NOR 48,13,13,Alvin Kamara right guard for 17 yards (tackle by Sean Murphy-Bunting),2.130,3.250
+3,11:19,1,10,TAM 35,13,13,Alvin Kamara right guard for 6 yards (tackle by Steve McLendon and Antoine Winfield),3.250,3.510
+3,10:42,2,4,TAM 29,13,13,Drew Brees pass complete short middle to Ty Montgomery for 13 yards (tackle by Devin White),3.510,4.510
+3,9:56,1,10,TAM 16,13,13,Drew Brees pass incomplete short middle intended for Michael Thomas,4.510,3.900
+3,9:50,2,10,TAM 16,13,19,"Drew Brees pass complete deep right to Tre'Quan Smith for 16 yards, touchdown",3.900,7.000
+3,9:43,,,TAM 15,13,20,Wil Lutz kicks extra point good,0.000,0.000
+3,9:43,,,NOR 35,13,20,"Wil Lutz kicks off 65 yards, touchback.",0.000,0.610
+3,9:43,1,10,TAM 25,13,20,Leonard Fournette right tackle for 3 yards (tackle by Demario Davis),0.610,0.470
+3,9:04,2,7,TAM 28,13,20,Tom Brady pass complete short right to Leonard Fournette for 8 yards (tackle by Alex Anzalone),0.470,1.330
+3,8:32,1,10,TAM 36,13,20,Leonard Fournette right tackle for 3 yards (tackle by Cameron Jordan),1.330,1.200
+3,7:56,2,7,TAM 39,13,20,Tom Brady pass complete short left to Chris Godwin for 2 yards (tackle by Marshon Lattimore and Chauncey Gardner-Johnson),1.200,0.760
+3,7:11,3,5,TAM 41,13,20,Tom Brady pass incomplete short middle intended for Chris Godwin,0.760,-0.650
+3,7:04,4,5,TAM 41,13,20,"Bradley Pinion punts 44 yards, fair catch by Marquez Callaway at NO-15",-0.650,0.220
+3,6:58,1,10,NOR 15,13,20,Drew Brees pass complete short left to Emmanuel Sanders for no gain (tackle by Devin White),-0.220,-0.710
+3,6:18,2,10,NOR 15,13,20,Alvin Kamara right guard for 2 yards (tackle by Ndamukong Suh and Shaquil Barrett),-0.710,-1.120
+3,5:36,3,8,NOR 17,13,20,"Drew Brees pass incomplete deep left intended for Tre'Quan Smith (defended by Sean Murphy-Bunting). Penalty on Sean Murphy-Bunting: Defensive Pass Interference, 20 yards (no play)",-1.120,1.400
+3,5:30,1,10,NOR 37,13,20,Drew Brees pass incomplete deep left intended for Emmanuel Sanders,1.400,0.860
+3,5:25,2,10,NOR 37,13,20,Drew Brees pass complete short left to Emmanuel Sanders for 8 yards (tackle by Jamel Dean),0.860,1.220
+3,4:41,3,2,NOR 45,13,20,"Drew Brees pass complete short right to Jared Cook for 8 yards (tackle by Antoine Winfield). Jared Cook fumbles (forced by Antoine Winfield), recovered by Devin White at TB-42 and returned for 18 yards (tackle by Michael Thomas)",1.220,-2.920
+3,4:30,1,10,NOR 40,13,20,Tom Brady pass complete short right to Cameron Brate for 19 yards (tackle by Marcus Williams),2.920,4.170
+3,3:57,1,10,NOR 21,13,20,Ronald Jones left guard for 10 yards (tackle by Malcolm Jenkins and Janoris Jenkins),4.170,4.840
+3,3:11,1,10,NOR 11,13,20,Ronald Jones right guard for 5 yards (tackle by Shy Tuttle),4.840,5.080
+3,2:32,2,5,NOR 6,13,20,Tom Brady pass incomplete short right intended for Mike Evans,5.080,4.210
+3,2:26,3,5,NOR 6,19,20,"Tom Brady pass complete short middle to Leonard Fournette for 6 yards, touchdown",4.210,7.000
+3,2:22,,,NOR 15,20,20,Ryan Succop kicks extra point good,0.000,0.000
+3,2:22,,,TAM 35,20,20,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+3,2:22,1,10,NOR 25,20,20,Drew Brees pass incomplete short middle intended for Marquez Callaway,0.610,0.060
+3,2:18,2,10,NOR 25,20,20,Drew Brees pass complete short middle to Jared Cook for 6 yards (tackle by Lavonte David),0.060,0.170
+3,1:42,3,4,NOR 31,20,20,"Drew Brees pass incomplete short left intended for Michael Thomas. Penalty on Jamel Dean: Illegal Use of Hands, 5 yards (no play)",0.170,1.330
+3,1:37,1,10,NOR 36,20,20,Alvin Kamara right end for 1 yard (tackle by Devin White),1.330,0.930
+3,1:04,2,9,NOR 37,20,20,Drew Brees pass incomplete short left intended for Emmanuel Sanders (defended by Jamel Dean),0.930,0.230
+3,1:00,3,9,NOR 37,20,20,Drew Brees pass incomplete short left intended for Alvin Kamara (defended by Ross Cockrell),0.230,-0.910
+3,0:55,4,9,NOR 37,20,20,"Thomas Morstead punts 55 yards, returned by Jaydon Mickens for 13 yards (tackle by Zack Baun)",-0.910,-0.340
+3,0:44,1,10,TAM 21,20,20,Ronald Jones right end for 6 yards (tackle by Alex Anzalone),0.340,0.610
+Quarter,Time,Down,ToGo,Location,TAM,NOR,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,4,TAM 27,20,20,Ronald Jones left guard for 3 yards (tackle by Demario Davis),0.610,0.300
+4,14:19,3,1,TAM 30,20,20,"Ronald Jones left guard for 44 yards (tackle by Chauncey Gardner-Johnson). Penalty on Tristan Wirfs: Offensive Holding, 10 yards (no play)",0.300,-1.020
+4,13:46,3,11,TAM 20,20,20,Tom Brady pass complete short right to Tyler Johnson for 15 yards,-1.020,1.270
+4,13:19,1,10,TAM 35,20,20,Leonard Fournette right guard for 4 yards (tackle by Malcolm Jenkins),1.270,1.260
+4,12:36,2,6,TAM 39,20,20,Leonard Fournette right guard for 1 yard (tackle by Cameron Jordan),1.260,0.700
+4,11:57,3,5,TAM 40,20,20,Tom Brady pass complete deep right to Scott Miller for 29 yards (tackle by Marcus Williams). Penalty on Marshon Lattimore: Defensive Holding (Declined),0.700,3.510
+4,11:26,,,,,,Timeout #1 by Tampa Bay Buccaneers,,
+4,11:26,1,10,NOR 31,20,20,Ronald Jones left tackle for 12 yards (tackle by Janoris Jenkins),3.510,4.310
+4,10:49,1,10,NOR 19,20,20,Ronald Jones right guard for 1 yard (tackle by Malcolm Jenkins),4.310,3.880
+4,10:07,2,9,NOR 18,20,20,Tom Brady pass incomplete deep left intended for Rob Gronkowski (defended by Malcolm Jenkins),3.880,3.140
+4,10:01,3,9,NOR 18,20,20,Tom Brady pass incomplete short right intended for Scott Miller (defended by Marshon Lattimore),3.140,2.250
+4,9:57,4,9,NOR 18,23,20,Ryan Succop 36 yard field goal good,2.250,3.000
+4,9:52,,,TAM 35,23,20,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+4,9:52,1,10,NOR 25,23,20,Alvin Kamara right guard for 2 yards (tackle by Rakeem Nunez-Roches and Devin White),0.610,0.330
+4,9:13,2,8,NOR 27,23,20,Ty Montgomery left tackle for 2 yards (tackle by Lavonte David),0.330,-0.100
+4,8:30,3,6,NOR 29,23,20,Drew Brees pass complete short left to Emmanuel Sanders for 7 yards (tackle by Antoine Winfield),-0.100,1.330
+4,7:51,1,10,NOR 36,23,20,Ty Montgomery right tackle for 2 yards (tackle by Anthony Nelson),1.330,1.060
+4,7:18,2,8,NOR 38,23,20,Drew Brees pass short right intended for Alvin Kamara is intercepted by Devin White at NO-48 and returned for 28 yards,1.060,-4.240
+4,7:08,1,10,NOR 20,23,20,Ronald Jones left guard for 2 yards (tackle by Demario Davis),4.240,3.960
+4,6:30,2,8,NOR 18,23,20,Tom Brady pass complete short left to Rob Gronkowski for 14 yards (tackle by Marcus Williams and Alex Anzalone),3.960,6.280
+4,5:45,1,4,NOR 4,23,20,Ronald Jones right tackle for 3 yards (tackle by Janoris Jenkins),6.280,5.910
+4,5:01,2,1,NOR 1,29,20,"Tom Brady left guard for 1 yard, touchdown",5.910,7.000
+4,4:57,,,NOR 15,30,20,Ryan Succop kicks extra point good,0.000,0.000
+4,4:57,,,TAM 35,30,20,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+4,4:57,1,10,NOR 25,30,20,Drew Brees pass incomplete short middle intended for Alvin Kamara,0.610,0.060
+4,4:53,2,10,NOR 25,30,20,Drew Brees pass complete short right to Jared Cook for 6 yards (tackle by Lavonte David),0.060,0.170
+4,4:48,3,4,NOR 31,30,20,Alvin Kamara right tackle for 4 yards (tackle by Devin White),0.170,1.270
+4,4:25,1,10,NOR 35,30,20,Drew Brees pass deep right intended for Jared Cook is intercepted by Mike Edwards at TB-47 and returned for 1 yard,1.270,-2.130
+4,4:17,1,10,TAM 48,30,20,Leonard Fournette left guard for no gain (tackle by Alex Anzalone),2.130,1.580
+4,4:14,,,,,,Timeout #1 by New Orleans Saints,,
+4,4:14,2,10,TAM 48,30,20,Leonard Fournette left guard for 2 yards (tackle by Alex Anzalone and Shy Tuttle),1.580,1.160
+4,4:11,,,,,,Timeout #2 by New Orleans Saints,,
+4,4:11,3,8,TAM 50,30,20,Tom Brady pass complete short left to Chris Godwin for 13 yards (tackle by Marcus Williams),1.160,3.120
+4,4:01,,,,,,Timeout #3 by New Orleans Saints,,
+4,4:01,1,10,NOR 37,30,20,Leonard Fournette left guard for 3 yards (tackle by Sheldon Rankins),3.120,2.980
+4,3:15,2,7,NOR 34,30,20,Leonard Fournette left guard for 4 yards (tackle by Marcus Davenport),2.980,2.810
+4,2:27,3,3,NOR 30,30,20,Leonard Fournette left guard for 5 yards (tackle by Shy Tuttle),2.810,3.910
+4,2:00,1,10,NOR 25,30,20,Tom Brady kneels for -1 yards,3.910,3.230
+4,1:18,2,11,NOR 26,30,20,Tom Brady kneels for no gain,3.230,2.540
+4,0:38,3,11,NOR 26,30,20,Tom Brady kneels for no gain,2.540,1.740
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

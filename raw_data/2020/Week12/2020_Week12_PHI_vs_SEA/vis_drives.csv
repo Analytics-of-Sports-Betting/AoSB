@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,14:31,SEA 35,14,7:34,58,Downs
+2,1,5:19,PHI 45,4,1:40,7,Downs
+3,1,1:46,SEA 16,3,1:31,7,Punt
+4,2,13:37,SEA 32,6,2:41,68,Touchdown
+5,2,9:25,SEA 34,7,3:58,66,Touchdown
+6,2,0:12,SEA 25,1,0:12,-1,End of Half
+7,3,15:00,SEA 25,3,1:38,3,Punt
+8,3,7:33,SEA 22,9,5:27,52,Field Goal
+9,4,13:30,PHI 48,7,2:22,33,Field Goal
+10,4,8:35,SEA 20,7,4:41,25,Punt
+11,4,2:14,PHI 24,4,1:01,3,Field Goal
+12,4,0:12,SEA 49,1,0:12,-1,End of Game

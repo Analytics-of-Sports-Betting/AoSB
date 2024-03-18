@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,PHI 20,6,2:30,20,Punt
+2,1,6:44,PHI 20,6,2:49,25,Punt
+3,1,2:24,PHI 32,3,0:48,12,Punt
+4,2,13:18,PHI 20,13,4:17,80,Touchdown
+5,2,2:15,PHI 6,10,2:15,34,Punt
+6,3,11:15,PHI 5,7,2:39,95,Touchdown
+7,3,2:04,PHI 20,3,1:44,0,Punt
+8,4,10:52,PHI 20,10,3:30,67,Field Goal
+9,4,2:53,PHI 20,6,1:07,45,Field Goal
+10,4,0:02,PHI 20,1,0:02,-1,End of Half
+11,5,15:00,PHI 20,9,4:01,80,Touchdown

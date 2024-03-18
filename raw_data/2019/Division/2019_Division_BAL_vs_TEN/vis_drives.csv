@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,TEN 25,5,3:18,15,Punt
+2,1,7:49,BAL 35,8,4:13,35,Touchdown
+3,2,14:53,BAL 45,1,0:08,45,Touchdown
+4,2,13:33,TEN 28,5,2:20,9,Punt
+5,2,5:52,TEN 19,5,3:20,31,Punt
+6,3,9:55,TEN 19,6,3:01,81,Touchdown
+7,3,6:44,BAL 20,6,2:28,20,Touchdown
+8,3,1:45,TEN 27,4,1:56,29,Punt
+9,4,11:04,TEN 17,8,4:39,28,Punt
+10,4,4:27,TEN 16,3,1:42,5,Punt
+11,4,0:49,TEN 22,2,0:49,-2,End of Game

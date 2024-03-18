@@ -1,0 +1,232 @@
+Quarter,Time,Down,ToGo,Location,DET,PHI,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Eagles won the coin toss and deferred, Lions to receive the opening kickoff.",,
+1,15:00,,,PHI 35,0,0,"Alex Henery kicks off 65 yards, touchback",0.000,0.280
+1,15:00,1,10,DET 20,0,0,Matthew Stafford pass incomplete short right intended for Calvin Johnson,0.280,-0.270
+1,14:52,2,10,DET 20,0,0,Mikel Leshoure up the middle for 5 yards (tackle by DeMeco Ryans),-0.270,-0.300
+1,14:15,3,5,DET 25,0,0,Matthew Stafford pass incomplete short right intended for Calvin Johnson (defended by Nnamdi Asomugha),-0.300,-1.700
+1,14:11,4,5,DET 25,0,0,"Nick Harris punts 38 yards, fair catch by Mardy Gilyard",-1.700,-1.400
+1,14:04,1,10,PHI 37,0,0,Michael Vick pass complete short left to Clay Harbor for 6 yards (tackle by Stephen Tulloch),1.400,1.670
+1,13:34,2,4,PHI 43,0,0,DeSean Jackson right end for -14 yards (tackle by Cliff Avril),1.670,-0.890
+1,13:01,3,18,PHI 29,0,0,"Penalty on Demetress Bell: False Start, 5 yards (no play)",-0.890,-1.550
+1,12:54,3,23,PHI 24,0,0,Michael Vick pass complete short right to Brent Celek for 11 yards (tackle by Justin Durant),-1.550,-1.040
+1,12:15,4,12,PHI 35,0,0,"Mat McBriar punts 47 yards, returned by Stefan Logan for 48 yards (tackle by Casey Matthews)",-1.040,-3.310
+1,11:58,1,10,PHI 34,0,0,Matthew Stafford pass incomplete deep right intended for Tony Scheffler,3.310,2.770
+1,11:53,2,10,PHI 34,0,0,Nate Burleson right end for 6 yards (tackle by Mychal Kendricks),2.770,2.870
+1,11:11,3,4,PHI 28,0,0,Matthew Stafford pass incomplete short right intended for Brandon Pettigrew,2.870,1.650
+1,11:08,4,4,PHI 28,3,0,Jason Hanson 46 yard field goal good,1.650,3.000
+1,11:03,,,DET 35,3,0,"Jason Hanson kicks off 60 yards, returned by Brandon Boykin for 30 yards (tackle by Ronnell Lewis)",0.000,1.270
+1,10:56,1,10,PHI 35,3,0,Michael Vick pass incomplete deep right intended for DeSean Jackson,1.270,0.720
+1,10:50,2,10,PHI 35,3,0,LeSean McCoy right tackle for -2 yards (tackle by Kyle Vanden Bosch),0.720,-0.230
+1,10:15,3,12,PHI 33,3,0,"Penalty on Nick Fairley: Encroachment, 5 yards (no play)",-0.230,0.430
+1,9:57,3,7,PHI 38,3,0,Michael Vick pass incomplete short middle intended for Brent Celek (defended by DeAndre Levy),0.430,-0.850
+1,9:51,4,7,PHI 38,3,0,"Mat McBriar punts 62 yards, touchback",-0.850,-0.280
+1,9:43,1,10,DET 20,3,0,Mikel Leshoure left end for 14 yards (tackle by Dominique Rodgers-Cromartie and Akeem Jordan),0.280,1.200
+1,9:00,1,10,DET 34,3,0,Matthew Stafford pass complete short right to Brandon Pettigrew for 10 yards (tackle by Mychal Kendricks),1.200,1.860
+1,8:20,1,10,DET 44,3,0,Joique Bell up the middle for 13 yards (tackle by Nnamdi Asomugha),1.860,2.720
+1,7:40,1,10,PHI 43,3,0,"Penalty on Calvin Johnson: False Start, 5 yards (no play)",2.720,2.390
+1,7:17,1,15,PHI 48,3,0,"Penalty on Dominic Raiola: False Start, 5 yards (no play)",2.390,2.060
+1,7:06,1,20,DET 47,3,0,Matthew Stafford pass complete deep middle to Calvin Johnson for 28 yards (tackle by Nnamdi Asomugha),2.060,3.910
+1,6:28,1,10,PHI 25,3,0,Mikel Leshoure up the middle for 3 yards (tackle by Cedric Thornton),3.910,3.770
+1,5:47,2,7,PHI 22,3,0,Matthew Stafford pass incomplete short right intended for Calvin Johnson (defended by Nnamdi Asomugha),3.770,3.070
+1,5:42,3,7,PHI 22,3,0,"Matthew Stafford pass incomplete short left intended for Nate Burleson. Penalty on Curtis Marsh: Defensive Holding, 5 yards (no play)",3.070,4.440
+1,5:38,1,10,PHI 17,3,0,Mikel Leshoure up the middle for 4 yards (tackle by Nate Allen and Jason Babin),4.440,4.500
+1,4:52,2,6,PHI 13,3,0,"Penalty on Gosder Cherilus: Unnecessary Roughness, 15 yards, Penalty on Calvin Johnson: False Start (Declined) (no play)",4.500,2.410
+1,4:37,2,21,PHI 28,3,0,Matthew Stafford pass complete short left to Mikel Leshoure for 13 yards (tackle by Brandon Boykin),2.410,3.340
+1,4:06,3,8,PHI 15,3,0,Matthew Stafford pass incomplete short middle intended for Tony Scheffler,3.340,2.440
+1,4:01,4,8,PHI 15,6,0,Jason Hanson 34 yard field goal good,2.440,3.000
+1,3:58,,,DET 35,6,0,"Jason Hanson kicks off 67 yards, returned by Brandon Boykin for 31 yards (tackle by Joique Bell)",0.000,0.870
+1,3:52,1,10,PHI 29,6,0,"Michael Vick pass incomplete short left intended for Brent Celek. Penalty on Sammie Lee Hill: Roughing the Passer, 15 yards",0.870,1.860
+1,3:46,1,10,PHI 44,6,0,Michael Vick up the middle for 12 yards (tackle by Stephen Tulloch),1.860,2.650
+1,3:05,1,10,DET 44,6,0,"Michael Vick for no gain. Michael Vick fumbles, recovered by Michael Vick at 50",2.650,1.300
+1,2:34,2,16,,6,0,LeSean McCoy up the middle for 5 yards (tackle by Louis Delmas),1.300,1.290
+1,1:58,3,11,DET 45,6,0,"Penalty on Willie Young: Encroachment, 5 yards (no play)",1.290,1.950
+1,1:49,3,6,DET 40,6,0,Michael Vick pass complete short left to Riley Cooper for 8 yards (tackle by Bill Bentley),1.950,3.450
+1,1:12,1,10,DET 32,6,0,Michael Vick pass complete short right to LeSean McCoy for 3 yards (tackle by Jacob Lacey),3.450,3.310
+1,0:35,2,7,DET 29,6,0,"Aborted snap. Dallas Reynolds fumbles, recovered by Stephen Tulloch at DET-45 (tackle by Demetress Bell)",3.310,-1.930
+1,0:25,1,10,DET 45,6,0,Matthew Stafford pass complete short left to Mikel Leshoure for 12 yards (tackle by Akeem Jordan). Penalty on Dominique Rodgers-Cromartie: Defensive Holding (Declined),1.930,2.720
+Quarter,Time,Down,ToGo,Location,DET,PHI,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,PHI 43,6,0,"Penalty on Cedric Thornton: Encroachment, 5 yards (no play)",2.720,3.450
+2,15:00,1,5,PHI 38,6,0,Matthew Stafford pass incomplete deep right intended for Calvin Johnson is intercepted by Nnamdi Asomugha at PHI--5,3.450,-0.280
+2,14:53,1,10,PHI 20,6,0,LeSean McCoy up the middle for -1 yards (tackle by Ndamukong Suh),0.280,-0.460
+2,14:15,2,11,PHI 19,6,0,Michael Vick pass complete short left to Riley Cooper for 10 yards (tackle by Bill Bentley),-0.460,0.230
+2,13:36,3,1,PHI 29,6,0,Michael Vick pass complete short right to LeSean McCoy for -3 yards (tackle by Louis Delmas),0.230,-1.630
+2,12:55,4,4,PHI 26,6,0,"Mat McBriar punts 64 yards, returned by Stefan Logan for 10 yards (tackle by Akeem Jordan)",-1.630,-0.280
+2,12:43,1,10,DET 20,6,0,Matthew Stafford pass complete short left to Brandon Pettigrew for 16 yards (tackle by Kurt Coleman),0.280,1.330
+2,12:27,1,10,DET 36,6,0,Joique Bell left guard for 9 yards (tackle by Kurt Coleman),1.330,2.010
+2,11:51,2,1,DET 45,6,0,Joique Bell right end for -1 yards (tackle by DeMeco Ryans),2.010,1.160
+2,11:06,3,2,DET 44,6,0,Joique Bell left tackle for -2 yards (tackle by DeMeco Ryans),1.160,-0.590
+2,10:29,4,4,DET 42,6,0,"Nick Harris punts 42 yards, fair catch by Mardy Gilyard",-0.590,0.140
+2,10:21,1,10,PHI 16,6,0,Michael Vick pass complete short right to DeSean Jackson for 7 yards (tackle by Louis Delmas),-0.140,0.420
+2,9:46,2,3,PHI 23,6,0,Michael Vick pass complete short right to Brent Celek for 5 yards (tackle by Justin Durant),0.420,0.810
+2,9:00,1,10,PHI 28,6,0,"Michael Vick pass incomplete short left intended for Jeremy Maclin. Penalty on Bill Bentley: Defensive Pass Interference, 6 yards (no play)",0.810,1.200
+2,8:57,1,10,PHI 34,6,0,LeSean McCoy for 6 yards (tackle by Amari Spievey),1.200,1.470
+2,8:43,2,4,PHI 40,6,0,LeSean McCoy right end for 3 yards (tackle by Stephen Tulloch),1.470,0.000
+2,8:28,,,,6,0,Timeout #1 by Philadelphia Eagles,0.000,1.160
+2,8:28,3,1,PHI 43,6,0,"Penalty on Nick Fairley: Encroachment, 5 yards (no play)",1.160,2.130
+2,8:28,1,10,PHI 48,6,0,Michael Vick pass incomplete deep right intended for Jason Avant is intercepted by Louis Delmas at DET-14,2.130,0.280
+2,8:20,1,10,DET 14,6,0,Mikel Leshoure right tackle for no gain (tackle by Brandon Graham),-0.280,-0.750
+2,7:43,2,10,DET 14,6,0,Matthew Stafford pass complete short right to Brandon Pettigrew for 12 yards (tackle by DeMeco Ryans),-0.750,0.670
+2,7:00,1,10,DET 26,6,0,"Penalty on Jeff Backus: False Start, 5 yards (no play)",0.670,0.340
+2,7:00,1,15,DET 21,6,0,Mikel Leshoure up the middle for 2 yards (tackle by Darryl Tapp),0.340,-0.280
+2,6:10,2,13,DET 23,6,0,"Matthew Stafford sacked by Fletcher Cox for -3 yards. Penalty on Fletcher Cox: Illegal Use of Hands, 5 yards, Penalty on DeMeco Ryans: Defensive Holding (Declined) (no play)",-0.280,0.810
+2,5:49,1,10,DET 28,6,0,Matthew Stafford pass incomplete deep right intended for Titus Young,0.810,0.260
+2,5:41,2,10,DET 28,6,0,Mikel Leshoure right tackle for 7 yards (tackle by DeMeco Ryans),0.260,0.500
+2,4:58,3,3,DET 35,6,0,Matthew Stafford pass incomplete short left intended for Nate Burleson,0.500,-1.040
+2,4:54,4,3,DET 35,6,0,"Nick Harris punts 48 yards, returned by Mardy Gilyard for 4 yards (tackle by Keiland Williams)",-1.040,-0.340
+2,4:44,1,10,PHI 21,6,0,Michael Vick pass incomplete short right intended for DeSean Jackson,0.340,-0.200
+2,4:40,2,10,PHI 21,6,0,LeSean McCoy right end for no gain (tackle by Stephen Tulloch),-0.200,-0.890
+2,4:05,3,10,PHI 21,6,0,Michael Vick pass complete deep left to Jeremy Maclin for 17 yards (tackle by Bill Bentley),-0.890,1.470
+2,3:39,1,10,PHI 38,6,0,Michael Vick pass complete short right to DeSean Jackson for 9 yards (tackle by Amari Spievey),1.470,2.140
+2,3:09,2,1,PHI 47,6,0,Bryce Brown left end for 2 yards (tackle by Justin Durant),2.140,2.190
+2,2:35,1,10,PHI 49,6,0,Michael Vick pass complete deep middle to Jason Avant for 17 yards (tackle by Louis Delmas),2.190,3.310
+2,2:03,1,10,DET 34,6,0,Michael Vick pass complete short left to Jeremy Maclin for 5 yards,3.310,3.450
+2,1:59,2,5,DET 29,6,0,"Michael Vick pass incomplete deep left intended for Jeremy Maclin (defended by Jacob Lacey). Penalty on Jacob Lacey: Defensive Pass Interference, 26 yards (no play)",3.450,6.510
+2,1:54,1,3,DET 3,6,0,LeSean McCoy up the middle for 1 yard (tackle by Kyle Vanden Bosch),6.510,5.720
+2,1:21,2,2,DET 2,6,6,"Michael Vick pass complete short left to LeSean McCoy for 2 yards, touchdown",5.720,7.000
+2,1:21,,,DET 2,6,7,Alex Henery kicks extra point good,0.000,0.000
+2,1:16,,,PHI 35,6,7,"Alex Henery kicks off 65 yards, touchback",0.000,0.280
+2,1:16,1,10,DET 20,6,7,Matthew Stafford pass incomplete short right intended for Nate Burleson,0.280,-0.270
+2,1:12,2,10,DET 20,6,7,Matthew Stafford pass incomplete short left intended for Titus Young (defended by Fletcher Cox),-0.270,-0.960
+2,1:05,3,10,DET 20,6,7,Matthew Stafford pass incomplete short right intended for Brandon Pettigrew,-0.960,-2.030
+2,1:00,4,10,DET 20,6,7,"Nick Harris punts 50 yards, returned by DeSean Jackson for -3 yards (tackle by Kassim Osgood)",-2.030,-0.740
+2,0:49,1,10,PHI 27,6,7,Michael Vick pass complete short right to LeSean McCoy for 17 yards (tackle by Amari Spievey),0.740,0.000
+2,0:38,,,,6,7,Timeout #2 by Philadelphia Eagles,0.000,1.860
+2,0:38,1,10,PHI 44,6,7,Michael Vick pass complete short right to LeSean McCoy for no gain,1.860,0.000
+2,0:31,,,,6,7,Timeout #2 by Philadelphia Eagles,0.000,1.320
+2,0:31,2,10,PHI 44,6,7,Michael Vick for 9 yards,1.320,1.820
+2,0:24,3,1,DET 47,6,7,Michael Vick pass complete short left to Jason Avant for 4 yards (tackle by Jacob Lacey),1.820,2.720
+2,0:09,1,10,DET 43,6,7,Michael Vick spiked the ball,2.720,0.000
+2,0:09,,,,6,7,Timeout #1 by Detroit Lions,0.000,2.180
+2,0:09,2,10,DET 43,6,7,Michael Vick pass incomplete deep left intended for Jeremy Maclin,2.180,1.490
+2,0:03,3,10,DET 43,6,7,Michael Vick pass incomplete deep right intended for Riley Cooper,1.490,0.400
+Quarter,Time,Down,ToGo,Location,DET,PHI,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DET 35,6,7,"Jason Hanson kicks off 65 yards, touchback",0.000,0.280
+3,15:00,1,10,PHI 20,6,7,LeSean McCoy up the middle for 11 yards (tackle by DeAndre Levy),0.280,1.000
+3,14:19,1,10,PHI 31,6,7,Michael Vick pass incomplete deep middle intended for Jason Avant,1.000,0.460
+3,14:15,2,10,PHI 31,6,7,"Penalty on Kyle Vanden Bosch: Neutral Zone Infraction, 5 yards (no play)",0.460,1.140
+3,14:15,2,5,PHI 36,6,7,LeSean McCoy right tackle for 4 yards (tackle by Justin Durant),1.140,0.960
+3,13:37,3,1,PHI 40,6,7,Michael Vick for 10 yards,0.960,2.260
+3,13:11,1,10,,6,7,Michael Vick pass incomplete short left intended for Brent Celek,2.260,1.710
+3,13:04,2,10,,6,7,Bryce Brown right end for 1 yard (tackle by Stephen Tulloch and Amari Spievey),1.710,1.160
+3,12:35,3,9,DET 49,6,7,Michael Vick pass complete short left to Jeremy Maclin for 15 yards,1.160,3.310
+3,11:59,1,10,DET 34,6,7,Bryce Brown left end for -4 yards (tackle by Louis Delmas),3.310,2.230
+3,11:22,2,14,DET 38,6,7,Michael Vick pass complete short left to DeSean Jackson for 16 yards (tackle by Chris Houston),2.230,4.110
+3,10:47,1,10,DET 22,6,7,Michael Vick for 4 yards,4.110,4.130
+3,10:16,2,6,DET 18,6,7,Michael Vick for 9 yards,4.130,5.140
+3,9:42,1,9,DET 9,6,7,LeSean McCoy left tackle for -5 yards (tackle by Nick Fairley),5.140,3.580
+3,9:05,2,14,DET 14,6,7,Michael Vick pass complete short left to Brent Celek for 6 yards (tackle by Jacob Lacey),3.580,3.580
+3,8:30,3,8,DET 8,6,7,Michael Vick pass incomplete short middle intended for Brent Celek,3.580,2.950
+3,8:26,4,8,DET 8,6,10,Alex Henery 26 yard field goal good,2.950,3.000
+3,8:23,,,PHI 35,6,10,"Alex Henery kicks off 55 yards, muffed catch by Joique Bell, recovered by Stefan Logan and returned for no gain",0.000,-0.140
+3,8:19,1,10,DET 16,6,10,Mikel Leshoure right end for 3 yards (tackle by Cullen Jenkins),-0.140,-0.180
+3,7:40,2,7,DET 19,6,10,Matthew Stafford pass incomplete short right intended for Mikel Leshoure,-0.180,-0.950
+3,7:35,3,7,DET 19,6,10,Matthew Stafford pass incomplete short right intended for Calvin Johnson,-0.950,-2.140
+3,7:27,4,7,DET 19,6,10,"Nick Harris punts 56 yards, returned by Mardy Gilyard for 11 yards (tackle by Erik Coleman)",-2.140,-1.330
+3,7:19,1,10,PHI 36,6,10,Michael Vick pass complete short right to Jeremy Maclin for 16 yards,1.330,2.390
+3,7:10,1,10,DET 48,6,10,LeSean McCoy right end for -2 yards (tackle by Justin Durant),2.390,1.580
+3,6:40,2,12,,6,10,"Michael Vick pass complete short right to Riley Cooper for 7 yards (tackle by Bill Bentley and Justin Durant). Penalty on Lawrence Jackson: Defensive Offside, 5 yards (no play)",1.580,2.250
+3,6:27,2,7,DET 45,6,10,Michael Vick pass complete deep right to DeSean Jackson for 30 yards (tackle by Chris Houston),2.250,4.580
+3,6:00,1,10,DET 15,6,10,Michael Vick pass incomplete,4.580,3.950
+3,5:54,2,10,DET 15,6,10,Bryce Brown left tackle for 5 yards (tackle by Stephen Tulloch),3.950,4.000
+3,5:23,3,5,DET 10,6,10,Michael Vick pass complete short middle to Jeremy Maclin for 7 yards (tackle by Amari Spievey),4.000,6.510
+3,4:39,1,3,DET 3,6,10,Michael Vick pass incomplete short left intended for LeSean McCoy,6.510,5.530
+,,,,,,,"DET challenged the backward pass ruling, and the play was upheld.",,
+3,4:35,2,3,DET 3,6,10,"Michael Vick pass complete short left to Brent Celek for 3 yards. Penalty on Brent Celek: Offensive Pass Interference, 10 yards (no play)",5.530,3.720
+3,4:32,2,13,DET 13,6,10,Michael Vick pass complete short left to Clay Harbor for 3 yards (tackle by Louis Delmas),3.720,3.130
+3,3:53,3,10,DET 10,6,10,Michael Vick sacked by Cliff Avril for -4 yards,3.130,2.510
+3,3:42,4,14,DET 14,6,13,Alex Henery 32 yard field goal good,2.510,3.000
+3,3:39,,,PHI 35,6,13,"Alex Henery kicks off 62 yards, returned by Stefan Logan for 15 yards (tackle by Colt Anderson)",0.000,0.040
+3,3:36,1,10,DET 18,6,13,Matthew Stafford for 3 yards,0.040,0.010
+3,3:17,2,7,DET 21,6,13,Mikel Leshoure right tackle for 6 yards (tackle by Akeem Jordan and DeMeco Ryans),0.010,-0.020
+3,2:37,3,1,DET 27,6,13,Matthew Stafford pass complete short left to Nate Burleson for no gain,-0.020,-1.570
+3,1:59,4,1,DET 27,6,13,"Nick Harris punts 39 yards, fair catch by Mardy Gilyard",-1.570,-1.200
+3,1:50,1,10,PHI 34,6,13,Michael Vick pass incomplete short right intended for Jeremy Maclin (defended by Nick Fairley),1.200,0.660
+3,1:47,2,10,PHI 34,6,13,Michael Vick for 9 yards,0.660,1.160
+3,1:23,3,1,PHI 43,6,13,Michael Vick pass complete short left to Brent Celek for 11 yards (tackle by Louis Delmas),1.160,2.520
+3,0:39,1,10,DET 46,6,13,LeSean McCoy right end for 1 yard (tackle by Stephen Tulloch),2.520,2.110
+Quarter,Time,Down,ToGo,Location,DET,PHI,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,9,DET 45,6,13,Michael Vick pass complete short left to DeSean Jackson for 12 yards,2.110,3.380
+4,14:44,1,10,DET 33,6,13,LeSean McCoy for -4 yards,3.380,2.300
+4,14:23,2,14,DET 37,6,13,Michael Vick pass incomplete short left intended for Jeremy Maclin (defended by Jonte Green),2.300,1.620
+4,14:19,3,14,DET 37,6,13,Michael Vick right end for 6 yards (tackle by Justin Durant),1.620,1.320
+4,13:43,4,8,DET 31,6,16,Alex Henery 49 yard field goal good,1.320,3.000
+4,13:39,,,PHI 35,6,16,"Alex Henery kicks off 65 yards, touchback",0.000,0.280
+4,13:39,1,10,DET 20,6,16,Nate Burleson left end for 16 yards (tackle by Nnamdi Asomugha),0.280,1.330
+4,13:08,1,10,DET 36,6,16,Matthew Stafford pass complete deep right to Calvin Johnson for 37 yards (tackle by Nate Allen and Nnamdi Asomugha),1.330,3.780
+4,12:38,1,10,PHI 27,6,16,Mikel Leshoure up the middle for 3 yards (tackle by Jason Babin),3.780,3.640
+4,12:02,2,7,PHI 24,6,16,"Penalty on Jason Babin: Defensive Offside, 5 yards (no play)",3.640,4.350
+4,11:49,2,2,PHI 19,6,16,Mikel Leshoure right guard for 8 yards (tackle by Jason Babin and DeMeco Ryans),4.350,4.840
+4,11:09,1,10,PHI 11,6,16,"Matthew Stafford pass complete short left to Calvin Johnson for 11 yards. Penalty on Calvin Johnson: Offensive Pass Interference, 10 yards (no play)",4.840,4.170
+4,11:02,1,20,PHI 21,6,16,Matthew Stafford pass incomplete deep left intended for Calvin Johnson,4.170,2.940
+4,10:56,2,20,PHI 21,6,16,Matthew Stafford pass complete short left to Calvin Johnson for 20 yards (tackle by Kurt Coleman),2.940,6.970
+4,10:35,1,1,PHI 1,12,16,"Matthew Stafford left end for 1 yard, touchdown",6.970,7.000
+4,10:35,,,PHI 2,12,16,Jason Hanson kicks extra point good. Penalty on Fletcher Cox: Neutral Zone Infraction (no play),0.000,-1.000
+4,10:35,,,PHI 2,13,16,"Jason Hanson kicks extra point good. Penalty on Fletcher Cox: Disqualification, 20 yards",0.000,0.000
+4,10:30,,,PHI 45,13,16,"Jason Hanson kicks off 45 yards, touchback",0.000,0.280
+4,10:29,1,10,PHI 20,13,16,Michael Vick pass incomplete deep left intended for DeSean Jackson is intercepted by Chris Houston at DET-34,0.280,-1.200
+4,10:21,1,10,DET 34,13,16,Joique Bell right tackle for 8 yards (tackle by Cullen Jenkins),1.200,1.740
+4,9:44,2,2,DET 42,13,16,Joique Bell right end for 3 yards (tackle by Nnamdi Asomugha),1.740,1.930
+4,9:03,1,10,DET 45,13,16,Joique Bell left tackle for 8 yards (tackle by DeMeco Ryans),1.930,2.460
+4,8:28,2,2,PHI 47,13,16,Matthew Stafford pass incomplete short right intended for Brandon Pettigrew,2.460,1.750
+4,8:23,3,2,PHI 47,13,16,Matthew Stafford pass complete short left to Nate Burleson for 2 yards (tackle by Brandon Boykin),1.750,2.590
+4,7:45,1,10,PHI 45,13,16,Mikel Leshoure left end for no gain (tackle by Kurt Coleman and DeMeco Ryans),2.590,2.040
+4,7:05,2,10,PHI 45,13,16,Matthew Stafford pass incomplete short right intended for Brandon Pettigrew,2.040,1.360
+4,7:00,3,10,PHI 45,13,16,"Penalty on Rob Sims: False Start, 5 yards (no play)",1.360,0.700
+4,7:00,3,15,,13,16,Matthew Stafford pass incomplete short left intended for Nate Burleson (defended by Dominique Rodgers-Cromartie),0.700,-0.060
+4,6:55,4,15,,13,16,Nick Harris punts 26 yards,-0.060,-0.540
+4,6:47,1,10,PHI 24,13,16,LeSean McCoy right tackle for 5 yards (tackle by Cliff Avril),0.540,0.670
+4,6:12,2,5,PHI 29,13,16,Michael Vick pass complete short left to LeSean McCoy for 1 yard (tackle by Justin Durant),0.670,0.100
+4,5:28,3,4,PHI 30,13,22,"Michael Vick pass complete deep right to Jeremy Maclin for 70 yards, touchdown",0.100,7.000
+4,5:28,,,DET 2,13,23,Alex Henery kicks extra point good,0.000,0.000
+4,5:18,,,PHI 35,13,23,"Alex Henery kicks off 65 yards, touchback",0.000,0.280
+4,5:18,1,10,DET 20,13,23,Matthew Stafford pass complete short right to Titus Young for 3 yards (tackle by Brandon Boykin),0.280,0.140
+4,4:51,2,7,DET 23,13,23,Matthew Stafford pass complete short middle to Nate Burleson for 5 yards (tackle by Brandon Boykin),0.140,0.100
+4,4:26,3,2,DET 28,13,23,Matthew Stafford pass complete short left to Joique Bell for 3 yards (tackle by DeMeco Ryans),0.100,1.000
+4,4:01,1,10,DET 31,13,23,Matthew Stafford pass complete deep right to Tony Scheffler for 57 yards (tackle by Brandon Hughes). Penalty on Nnamdi Asomugha: Defensive Holding (Declined),1.000,4.780
+4,3:45,1,10,PHI 12,13,23,"Penalty on Jeff Backus: False Start, 5 yards (no play)",4.780,4.320
+4,3:45,1,15,PHI 17,13,23,Matthew Stafford pass incomplete short right intended for Nate Burleson,4.320,3.420
+4,3:42,2,15,PHI 17,13,23,Matthew Stafford pass incomplete short left intended for Joique Bell,3.420,2.840
+4,3:38,3,15,PHI 17,19,23,"Matthew Stafford pass complete deep left to Nate Burleson for 17 yards, touchdown",2.840,7.000
+4,3:38,,,PHI 2,20,23,Jason Hanson kicks extra point good,0.000,0.000
+4,3:32,,,DET 35,20,23,"Jason Hanson kicks off 65 yards, returned by Brandon Boykin for 12 yards (tackle by Stefan Logan)",0.000,-0.350
+4,3:32,1,10,PHI 12,20,23,Michael Vick pass complete short left to LeSean McCoy for 6 yards (tackle by Kyle Vanden Bosch),-0.350,-0.070
+4,3:32,2,4,PHI 18,20,23,Bryce Brown right end for no gain (tackle by Stephen Tulloch),-0.070,-0.720
+4,2:41,3,4,PHI 18,20,23,Michael Vick pass incomplete short left intended for Jeremy Maclin (defended by Ndamukong Suh),-0.720,-2.240
+4,2:38,4,4,PHI 18,20,23,"Mat McBriar punts 53 yards, returned by Stefan Logan for 3 yards (tackle by Kurt Coleman)",-2.240,-1.070
+4,2:27,1,10,DET 32,20,23,Matthew Stafford pass complete short left to Titus Young for 3 yards (tackle by Dominique Rodgers-Cromartie),1.070,0.930
+4,2:05,2,7,DET 35,20,23,Matthew Stafford pass complete short left to Tony Scheffler for 8 yards (tackle by Brandon Hughes),0.930,1.800
+4,1:59,1,10,DET 43,20,23,Matthew Stafford pass incomplete deep right intended for Titus Young,1.800,1.250
+4,1:55,2,10,DET 43,20,23,Matthew Stafford pass complete short left to Calvin Johnson for 17 yards (tackle by Kurt Coleman),1.250,2.920
+4,1:26,1,10,PHI 40,20,23,Matthew Stafford pass complete short right to Mikel Leshoure for -1 yards (tackle by DeMeco Ryans),2.920,0.000
+4,1:19,,,,20,23,Timeout #2 by Detroit Lions,0.000,2.240
+4,1:19,2,11,PHI 41,20,23,Matthew Stafford pass complete deep left to Calvin Johnson for 16 yards (tackle by Kurt Coleman),2.240,3.910
+,,,,,,,"Replay Assistant challenged the incomplete pass ruling, and the original play was overturned.",,
+4,1:11,1,10,PHI 25,20,23,Mikel Leshoure right tackle for 8 yards (tackle by Kurt Coleman),3.910,4.550
+4,0:47,2,2,PHI 17,20,23,Mikel Leshoure left end for 8 yards (tackle by Mychal Kendricks),4.550,0.000
+4,0:40,,,,20,23,Timeout #3 by Detroit Lions,0.000,5.140
+4,0:40,1,9,PHI 9,20,23,Matthew Stafford left tackle for 3 yards (tackle by Cedric Thornton),5.140,4.950
+4,0:17,2,6,PHI 6,20,23,"Matthew Stafford pass incomplete short right intended for Titus Young. Penalty on Colt Anderson: Defensive Pass Interference, 5 yards (no play)",4.950,6.970
+4,0:13,1,1,PHI 1,20,23,Matthew Stafford pass incomplete short left intended for Nate Burleson,6.970,5.910
+4,0:09,2,1,PHI 1,20,23,Matthew Stafford pass incomplete short middle intended for Calvin Johnson,5.910,5.170
+4,0:05,3,1,PHI 1,23,23,Jason Hanson 19 yard field goal good,5.170,3.000
+4,0:03,,,DET 35,23,23,"Jason Hanson kicks off 56 yards, returned by Brandon Boykin for 26 yards (tackle by Amari Spievey)",0.000,0.000
+Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime
+Quarter,Time,Down,ToGo,Location,DET,PHI,Detail,EPB,EPA
+,,,,,,,"Eagles won the coin toss, Eagles to receive the overtime kickoff.",,
+OT,15:00,,,DET 35,23,23,"Jason Hanson kicks off 63 yards, returned by Brandon Boykin for 23 yards (tackle by Amari Spievey)",0.000,0.610
+OT,14:54,1,10,PHI 25,23,23,Michael Vick sacked by Cliff Avril for -7 yards,0.610,-0.980
+OT,14:26,2,17,PHI 18,23,23,Michael Vick sacked by Nick Fairley and Kyle Vanden Bosch for -14 yards,-0.980,-3.880
+OT,13:41,3,31,PHI 4,23,23,Michael Vick pass incomplete,-3.880,-2.490
+OT,13:35,4,31,PHI 4,23,23,"Mat McBriar punts 57 yards, returned by Stefan Logan for 10 yards (tackle by Akeem Jordan). Stefan Logan fumbles (forced by Akeem Jordan), recovered by Stefan Logan at 50",-2.490,-2.260
+OT,13:22,1,10,,23,23,Matthew Stafford pass complete short right to Tony Scheffler for 16 yards (tackle by Curtis Marsh),2.260,3.310
+OT,12:47,1,10,PHI 34,23,23,"Mikel Leshoure left end for no gain (tackle by Trent Cole). Penalty on Rob Sims: Offensive Holding, 10 yards (no play)",3.310,2.650
+OT,12:25,1,20,PHI 44,23,23,Matthew Stafford pass complete short left to Calvin Johnson for 17 yards (tackle by Mychal Kendricks),2.650,3.720
+OT,12:04,2,3,PHI 27,23,23,Mikel Leshoure right tackle for -1 yards (tackle by Derek Landri),3.720,2.870
+OT,11:19,3,4,PHI 28,23,23,Keiland Williams right tackle for 1 yard (tackle by DeMeco Ryans),2.870,0.000
+OT,11:05,,,,23,23,Timeout #1 by Detroit Lions,0.000,1.770
+OT,11:05,4,3,PHI 27,26,23,Jason Hanson 45 yard field goal good,1.770,3.000
+End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime

@@ -1,0 +1,205 @@
+Quarter,Time,Down,ToGo,Location,NWE,DEN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Patriots won the coin toss, Patriots to receive the opening kickoff.",,
+1,15:00,,,DEN 35,0,0,"Brandon McManus kicks off 65 yards, touchback",0.000,-0.280
+1,15:00,1,10,NWE 20,0,0,Tom Brady pass complete short left to Rob Gronkowski for 5 yards (tackle by Danny Trevathan),0.280,0.410
+1,14:23,2,5,NWE 25,0,0,Tom Brady pass complete short middle to Julian Edelman for 8 yards (tackle by Chris Harris). Penalty on Aqib Talib: Defensive Holding (Declined),0.410,1.140
+1,13:57,1,10,NWE 33,0,0,James White left guard for 2 yards (tackle by DeMarcus Ware and T.J. Ward),1.140,0.860
+1,13:20,2,8,NWE 35,0,0,Tom Brady pass incomplete short left intended for Julian Edelman,0.860,0.170
+1,13:17,3,8,NWE 35,0,0,Tom Brady pass incomplete short middle intended for Rob Gronkowski,0.170,-1.040
+1,13:12,4,8,NWE 35,0,0,"Ryan Allen punts 47 yards, returned by Jordan Norwood for -1 yards (tackle by Brandon King)",-1.040,0.060
+1,13:02,1,10,DEN 17,0,0,Peyton Manning pass incomplete short left intended for Ronnie Hillman,-0.060,-0.580
+1,12:58,2,10,DEN 17,0,0,Peyton Manning pass incomplete deep right intended for Vernon Davis (defended by Devin McCourty),-0.580,-1.250
+1,12:54,3,10,DEN 17,0,0,Peyton Manning pass complete short right to Emmanuel Sanders for 11 yards (tackle by Malcolm Butler),-1.250,0.810
+1,12:16,1,10,DEN 28,0,0,Ronnie Hillman right guard for -1 yards (tackle by Jamie Collins),0.810,0.130
+1,11:35,2,11,DEN 27,0,0,Peyton Manning pass complete short right to Jordan Norwood for 13 yards (tackle by Logan Ryan),0.130,1.600
+1,11:03,1,10,DEN 40,0,0,C.J. Anderson middle for 2 yards (tackle by Jabaal Sheard),1.600,1.320
+1,10:20,2,8,DEN 42,0,0,C.J. Anderson right tackle for 2 yards (tackle by Jamie Collins),1.320,0.890
+1,9:47,3,6,DEN 44,0,0,"Peyton Manning pass incomplete short left intended for Demaryius Thomas. Penalty on Logan Ryan: Defensive Pass Interference, 14 yards (no play)",0.890,2.790
+1,9:43,1,10,NWE 42,0,0,Ronnie Hillman left tackle for 7 yards (tackle by Jabaal Sheard),2.790,3.190
+1,9:03,2,3,NWE 35,0,0,Peyton Manning pass complete short middle to Andre Caldwell for 15 yards (tackle by Justin Coleman),3.190,4.240
+1,8:19,1,10,NWE 20,0,0,Ronnie Hillman left guard for -1 yards (tackle by Akiem Hicks),4.240,3.560
+1,7:37,2,11,NWE 21,0,6,"Peyton Manning pass complete deep middle to Owen Daniels for 21 yards, touchdown",3.560,7.000
+1,7:37,,,NWE 21,0,7,Brandon McManus kicks extra point good,0.000,0.000
+1,7:37,,,DEN 35,0,7,"Brandon McManus kicks off 65 yards, touchback",0.000,-0.280
+1,7:32,1,10,NWE 20,0,7,Tom Brady pass complete short right to Julian Edelman for 7 yards (tackle by Aqib Talib),0.280,0.680
+1,6:59,2,3,NWE 27,0,7,Tom Brady pass incomplete short right intended for Julian Edelman (defended by Derek Wolfe),0.680,-0.030
+1,6:56,3,3,NWE 27,0,7,Tom Brady pass incomplete short right intended for Rob Gronkowski,-0.030,-1.570
+1,6:52,4,3,NWE 27,0,7,"Ryan Allen punts 55 yards, returned by Jordan Norwood for 16 yards (tackle by Michael Williams)",-1.570,-1.200
+1,6:40,1,10,DEN 34,0,7,Peyton Manning pass complete short left to Demaryius Thomas for 5 yards (tackle by Justin Coleman),1.200,1.330
+1,5:59,2,5,DEN 39,0,7,Ronnie Hillman left tackle for -1 yards (tackle by Patrick Chung),1.330,0.500
+1,5:24,3,6,DEN 38,0,7,Peyton Manning pass incomplete short right intended for Bennie Fowler (defended by Justin Coleman),0.500,-0.850
+1,5:19,4,6,DEN 38,0,7,"Britton Colquitt punts 50 yards, returned by Danny Amendola for 28 yards (tackle by Britton Colquitt)",-0.850,-1.600
+1,5:05,1,10,NWE 40,0,7,"Steven Jackson middle for 5 yards (tackle by Derek Wolfe). Penalty on Bryan Stork: Unnecessary Roughness, 15 yards",1.600,-0.300
+1,4:33,2,20,NWE 30,0,7,Tom Brady pass complete short middle to Danny Amendola for 6 yards (tackle by Josh Bush and T.J. Ward),-0.300,-0.160
+1,3:53,3,14,NWE 36,0,7,Tom Brady sacked by Derek Wolfe for -2 yards,-0.160,-1.110
+1,3:16,4,16,NWE 34,0,7,"Ryan Allen punts 45 yards, fair catch by Jordan Norwood. Penalty on Brandon Bolden: Ineligible Downfield Kick, 5 yards",-1.110,-0.670
+1,3:08,1,10,DEN 26,0,7,Ronnie Hillman middle for 2 yards (tackle by Devin McCourty),0.670,0.400
+1,2:27,2,8,DEN 28,0,7,"Peyton Manning for no gain. Peyton Manning fumbles, recovered by Jonathan Freeny at DEN-22",0.400,-4.110
+,,,,,,,"NWE challenged the incomplete pass ruling, and the original play was overturned.",,
+1,2:23,1,10,DEN 22,0,7,"Tom Brady pass complete short right to Brandon Bolden for 20 yards (tackle by Von Miller). Penalty on T.J. Ward: Unnecessary Roughness, 1 yards",4.110,6.970
+1,1:53,1,1,DEN 1,6,7,"Steven Jackson right guard for 1 yard, touchdown",6.970,7.000
+1,1:53,,,DEN 1,6,7,Stephen Gostkowski kicks extra point no good,0.000,-1.000
+1,1:53,,,NWE 35,6,7,"Stephen Gostkowski kicks off 65 yards, touchback",0.000,-0.280
+1,1:49,1,10,DEN 20,6,7,C.J. Anderson for 3 yards (tackle by Patrick Chung),0.280,0.140
+1,1:19,2,7,DEN 23,6,7,Peyton Manning pass complete short right to C.J. Anderson for 3 yards (tackle by Logan Ryan),0.140,-0.160
+1,0:46,3,4,DEN 26,6,7,Peyton Manning pass complete deep left to Emmanuel Sanders for 34 yards (tackle by Malcolm Butler),-0.160,2.920
+1,0:02,1,10,NWE 40,6,7,Ronnie Hillman left tackle for 1 yard (tackle by Rob Ninkovich and Malcolm Butler),2.920,2.510
+Quarter,Time,Down,ToGo,Location,NWE,DEN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,9,NWE 39,6,7,Peyton Manning pass incomplete short left intended for Virgil Green (defended by Dont'a Hightower),2.510,1.820
+2,14:57,3,9,NWE 39,6,7,Peyton Manning pass incomplete short right intended for Demaryius Thomas,1.820,0.660
+2,14:53,4,9,NWE 39,6,7,"Britton Colquitt punts 26 yards, fair catch by Danny Amendola",0.660,0.320
+2,14:46,1,10,NWE 13,6,7,Tom Brady pass incomplete short right intended for Julian Edelman,-0.320,-0.770
+2,14:41,2,10,NWE 13,6,7,Tom Brady pass incomplete short right intended for Rob Gronkowski is intercepted by Von Miller at NWE-20 and returned for 4 yards,-0.770,-4.510
+2,14:35,1,10,NWE 16,6,7,Peyton Manning pass incomplete deep middle intended for Emmanuel Sanders,4.510,3.900
+2,14:30,2,10,NWE 16,6,7,Ronnie Hillman middle for 4 yards (tackle by Rob Ninkovich),3.900,3.730
+2,13:51,3,6,NWE 12,6,13,"Peyton Manning pass complete short right to Owen Daniels for 12 yards, touchdown",3.730,7.000
+2,13:51,,,NWE 12,6,14,Brandon McManus kicks extra point good,0.000,0.000
+2,13:51,,,DEN 35,6,14,"Brandon McManus kicks off 60 yards, returned by Keshawn Martin for 19 yards (tackle by Andre Caldwell)",0.000,-0.540
+2,13:41,1,10,NWE 24,6,14,Tom Brady pass incomplete deep left intended for Brandon Bolden,0.540,0.540
+2,13:36,1,10,NWE 24,6,14,Timeout #1 by New England Patriots,0.540,0.000
+2,13:36,2,10,NWE 24,6,14,Tom Brady pass complete deep right to Rob Gronkowski for 19 yards (tackle by Josh Bush and T.J. Ward),0.000,1.800
+2,12:53,1,10,NWE 43,6,14,"Penalty on Rob Gronkowski: False Start, 5 yards (no play)",1.800,1.470
+2,12:31,1,15,NWE 38,6,14,James White right guard for 2 yards (tackle by Danny Trevathan),1.470,0.850
+2,11:53,2,13,NWE 40,6,14,Tom Brady pass complete short left to Danny Amendola for 4 yards (tackle by Chris Harris),0.850,0.690
+2,11:08,3,9,NWE 44,6,14,"Tom Brady pass incomplete short middle intended for Rob Gronkowski. Penalty on Danny Trevathan: Illegal Contact, 5 yards (no play)",0.690,2.190
+2,11:02,1,10,NWE 49,6,14,Brandon Bolden middle for no gain (tackle by Malik Jackson),2.190,1.650
+2,10:21,2,10,NWE 49,6,14,Tom Brady pass complete short right to James White for 11 yards (tackle by Darian Stewart and Josh Bush),1.650,2.920
+2,9:46,1,10,DEN 40,6,14,Steven Jackson middle for no gain (tackle by Danny Trevathan),2.920,2.370
+2,9:03,2,10,DEN 40,6,14,Tom Brady pass incomplete short right intended for James White,2.370,1.680
+2,9:00,3,10,DEN 40,6,14,Tom Brady for 11 yards (tackle by Aqib Talib),1.680,3.640
+2,8:30,1,10,DEN 29,6,14,Tom Brady pass incomplete short right intended for Julian Edelman,3.640,3.100
+2,8:26,2,10,DEN 29,6,14,Tom Brady pass complete short middle to James White for 7 yards (tackle by T.J. Ward and Josh Bush),3.100,3.340
+2,7:46,3,3,DEN 22,6,14,Tom Brady sacked by DeMarcus Ware and Von Miller for -6 yards,3.340,1.590
+2,7:07,4,9,DEN 28,9,14,Stephen Gostkowski 46 yard field goal good,1.590,3.000
+2,7:07,,,NWE 35,9,14,"Stephen Gostkowski kicks off 65 yards, touchback",0.000,-0.280
+2,7:02,1,10,DEN 20,9,14,C.J. Anderson left guard for 3 yards (tackle by Akiem Hicks and Jabaal Sheard),0.280,0.140
+2,6:21,2,7,DEN 23,9,14,C.J. Anderson right guard for 2 yards (tackle by Malcom Brown),0.140,-0.300
+2,5:36,3,5,DEN 25,9,14,Peyton Manning pass incomplete,-0.300,-1.700
+2,5:29,4,5,DEN 25,9,14,"Britton Colquitt punts 49 yards, out of bounds. Penalty on Kayvon Webster: Unsportsmanlike Conduct, 15 yards",-1.700,-1.660
+2,5:21,1,10,NWE 41,9,14,Brandon Bolden middle for 4 yards (tackle by Derek Wolfe),1.660,1.660
+2,4:55,2,6,NWE 45,9,14,Brandon Bolden middle for 1 yard (tackle by Danny Trevathan and T.J. Ward),1.660,1.090
+2,4:15,3,5,NWE 46,9,14,Tom Brady pass incomplete deep left intended for James White is intercepted by Darian Stewart at DEN-36 and returned for 8 yards,1.090,-1.860
+2,4:08,1,10,DEN 44,9,14,"Penalty on Max Garcia: False Start, 5 yards (no play)",1.860,1.530
+2,4:08,1,15,DEN 39,9,14,Peyton Manning sacked by Alan Branch for -6 yards,1.530,1.530
+2,3:23,1,15,DEN 39,9,14,Timeout #1 by Denver Broncos,1.530,-0.170
+2,3:23,2,21,DEN 33,9,14,Peyton Manning pass incomplete short middle intended for Demaryius Thomas (defended by Malcolm Butler),-0.170,-0.820
+2,3:15,3,21,DEN 33,9,14,C.J. Anderson middle for 7 yards (tackle by Dont'a Hightower),-0.820,-0.720
+2,2:34,4,14,DEN 40,9,14,"Britton Colquitt punts 48 yards, fair catch by Danny Amendola",-0.720,0.350
+2,2:27,1,10,NWE 12,9,14,Steven Jackson middle for 2 yards (tackle by Derek Wolfe),-0.350,-0.610
+2,2:00,2,8,NWE 14,9,14,"Penalty on Josh Kline: False Start, 5 yards (no play)",-0.610,-1.000
+2,2:00,2,13,NWE 9,9,14,Tom Brady pass incomplete short left intended for Keshawn Martin,-1.000,-1.770
+2,1:58,3,13,NWE 9,9,14,James White middle for 8 yards (tackle by Brandon Marshall),-1.770,-1.770
+2,1:52,3,13,NWE 9,9,14,Timeout #2 by Denver Broncos,-1.770,-2.320
+2,1:52,4,5,NWE 17,9,14,"Ryan Allen punts 39 yards, out of bounds",-2.320,-1.860
+2,1:46,1,10,DEN 44,9,14,C.J. Anderson left tackle for 9 yards (tackle by Jamie Collins),1.860,2.530
+2,1:21,2,1,NWE 47,9,14,Peyton Manning pass complete short right to Demaryius Thomas for 7 yards (tackle by Justin Coleman),2.530,2.920
+2,0:53,1,10,NWE 40,9,14,Peyton Manning pass complete short left to C.J. Anderson for 7 yards (tackle by Justin Coleman),2.920,3.320
+2,0:47,2,3,NWE 33,9,14,Peyton Manning pass incomplete deep left intended for Emmanuel Sanders,3.320,2.610
+2,0:42,3,3,NWE 33,9,14,Peyton Manning pass incomplete short left intended for Demaryius Thomas (defended by Logan Ryan),2.610,2.610
+2,0:38,3,3,NWE 33,9,14,Timeout #2 by New England Patriots,2.610,1.190
+2,0:38,4,3,NWE 33,9,17,Brandon McManus 52 yard field goal good,1.190,3.000
+2,0:38,,,DEN 35,9,17,"Brandon McManus kicks off 65 yards, touchback",0.000,-0.280
+2,0:33,1,10,NWE 20,9,17,Tom Brady kneels for -1 yards,0.280,-0.460
+Quarter,Time,Down,ToGo,Location,NWE,DEN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,NWE 35,9,17,"Stephen Gostkowski kicks off 65 yards, touchback",0.000,-0.280
+3,15:00,1,10,DEN 20,9,17,Ronnie Hillman left tackle for no gain (tackle by Dont'a Hightower),0.280,-0.270
+3,14:36,2,10,DEN 20,9,17,Peyton Manning sacked by Jamie Collins for -13 yards,-0.270,-2.940
+3,13:52,3,23,DEN 7,9,17,C.J. Anderson middle for 8 yards (tackle by Jamie Collins),-2.940,-2.440
+3,13:25,4,15,DEN 15,9,17,"Britton Colquitt punts 53 yards, returned by Danny Amendola for 1 yard (tackle by Cody Latimer)",-2.440,-1.140
+3,13:15,1,10,NWE 33,9,17,Tom Brady pass incomplete short right intended for Rob Gronkowski (defended by Danny Trevathan),1.140,0.590
+3,13:11,2,10,NWE 33,9,17,Tom Brady pass complete short middle to Rob Gronkowski for 31 yards (tackle by Aqib Talib),0.590,3.180
+3,12:32,1,10,DEN 36,9,17,Tom Brady pass complete short left to Julian Edelman for 6 yards (tackle by Kayvon Webster),3.180,3.450
+3,11:58,2,4,DEN 30,9,17,Tom Brady pass complete short middle to Danny Amendola for 10 yards (tackle by Darian Stewart),3.450,4.240
+3,11:19,1,10,DEN 20,9,17,Tom Brady pass incomplete deep right intended for James White (defended by Josh Bush),4.240,3.690
+3,11:14,2,10,DEN 20,9,17,James White middle for no gain (tackle by Vance Walker and Antonio Smith),3.690,3.010
+3,10:35,3,10,DEN 20,9,17,Tom Brady pass incomplete short middle intended for Danny Amendola (defended by Chris Harris),3.010,2.120
+3,10:31,4,10,DEN 20,12,17,Stephen Gostkowski 38 yard field goal good,2.120,3.000
+3,10:31,,,NWE 35,12,17,"Stephen Gostkowski kicks off 65 yards, touchback",0.000,-0.280
+3,10:26,1,10,DEN 20,12,17,C.J. Anderson middle for no gain (tackle by Dont'a Hightower),0.280,-0.270
+3,9:53,2,10,DEN 20,12,17,Peyton Manning pass incomplete deep right intended for Demaryius Thomas,-0.270,-0.960
+3,9:49,3,10,DEN 20,12,17,Peyton Manning right tackle for 12 yards (tackle by Logan Ryan),-0.960,1.070
+3,9:01,1,10,DEN 32,12,17,Peyton Manning pass complete short right to Cody Latimer for 13 yards (tackle by Logan Ryan),1.070,1.930
+3,8:26,1,10,DEN 45,12,17,Ronnie Hillman left tackle for 2 yards (tackle by Chandler Jones),1.930,1.650
+3,7:45,2,8,DEN 47,12,17,Peyton Manning pass complete short left to Emmanuel Sanders for 7 yards (tackle by Malcolm Butler),1.650,1.880
+3,7:13,3,1,NWE 46,12,17,C.J. Anderson left end for no gain (tackle by Malcolm Butler and Dont'a Hightower),1.880,0.200
+3,6:49,4,1,NWE 46,12,17,"Britton Colquitt punts 38 yards, fair catch by Danny Amendola",0.200,0.380
+3,6:42,1,10,NWE 8,12,17,Tom Brady sacked by Von Miller for -6 yards,-0.380,-1.220
+3,6:02,2,16,NWE 2,12,17,Brandon Bolden right guard for 3 yards (tackle by Brandon Marshall and Darian Stewart),-1.220,-1.770
+3,5:40,3,13,NWE 5,12,17,Tom Brady pass complete short middle to James White for 3 yards (tackle by Von Miller),-1.770,-2.490
+3,5:00,4,10,NWE 8,12,17,"Penalty on Darius Fleming: False Start, 4 yards (no play)",-2.490,-2.490
+3,4:52,4,14,NWE 4,12,17,Ryan Allen punts 52 yards,-2.490,-1.860
+3,4:40,1,10,DEN 44,12,17,Ronnie Hillman middle for 3 yards (tackle by Jabaal Sheard),1.860,1.720
+3,4:07,2,7,DEN 47,12,17,Peyton Manning sacked by Jamie Collins for -12 yards,1.720,-0.560
+3,3:22,3,19,DEN 35,12,17,Peyton Manning pass complete short middle to C.J. Anderson for 8 yards (tackle by Patrick Chung and Jamie Collins),-0.560,-0.520
+3,2:48,4,11,DEN 43,12,17,Britton Colquitt punts 53 yards,-0.520,0.380
+3,2:35,1,10,NWE 4,12,17,Tom Brady pass complete short middle to Danny Amendola for 9 yards (tackle by T.J. Ward),-0.380,-0.120
+3,1:58,2,1,NWE 13,12,17,Tom Brady middle for 3 yards (tackle by Malik Jackson),-0.120,-0.140
+3,1:24,1,10,NWE 16,12,17,Tom Brady pass complete short middle to Rob Gronkowski for 12 yards (tackle by Chris Harris),-0.140,0.810
+3,0:52,1,10,NWE 28,12,17,Tom Brady pass incomplete short middle intended for James White,0.810,0.260
+3,0:49,2,10,NWE 28,12,17,Tom Brady pass incomplete short right intended for Julian Edelman,0.260,-0.430
+3,0:45,3,10,NWE 28,12,17,Tom Brady sacked by Von Miller for -4 yards,-0.430,-1.770
+3,0:10,4,14,NWE 24,12,17,"Ryan Allen punts 43 yards, returned by Jordan Norwood for 6 yards (tackle by Brandon King)",-1.770,-1.530
+Quarter,Time,Down,ToGo,Location,NWE,DEN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,DEN 39,12,17,Peyton Manning pass complete short right to Jordan Norwood for 3 yards (tackle by Logan Ryan),1.530,1.390
+4,14:29,2,7,DEN 42,12,17,Peyton Manning pass complete short right to Emmanuel Sanders for 6 yards (tackle by Malcolm Butler),1.390,1.490
+4,13:39,3,1,DEN 48,12,17,C.J. Anderson left tackle for 30 yards (tackle by Devin McCourty),1.490,4.110
+4,13:08,1,10,NWE 22,12,17,C.J. Anderson right tackle for 8 yards (tackle by Patrick Chung),4.110,4.850
+4,12:24,2,2,NWE 14,12,17,Ronnie Hillman right guard for no gain (tackle by Sealver Siliga),4.850,4.150
+4,11:41,3,2,NWE 14,12,17,Peyton Manning pass complete short left to Emmanuel Sanders for 4 yards (tackle by Malcolm Butler),4.150,4.910
+4,11:00,1,10,NWE 10,12,17,C.J. Anderson right tackle for -3 yards (tackle by Dont'a Hightower),4.910,3.720
+4,10:14,2,13,NWE 13,12,17,Peyton Manning pass incomplete short middle intended for Owen Daniels,3.720,3.060
+4,10:10,3,13,NWE 13,12,17,Peyton Manning pass incomplete short middle intended for Jordan Norwood,3.060,2.570
+4,10:06,4,13,NWE 13,12,20,Brandon McManus 31 yard field goal good,2.570,3.000
+4,10:06,,,DEN 35,12,20,"Brandon McManus kicks off 65 yards, touchback",0.000,-0.280
+4,10:02,1,10,NWE 20,12,20,Tom Brady pass incomplete short right intended for Danny Amendola (defended by Aqib Talib),0.280,-0.270
+4,9:56,2,10,NWE 20,12,20,"Tom Brady pass complete short left to Julian Edelman for 8 yards (tackle by Shiloh Keo). Penalty on Shiloh Keo: Unnecessary Roughness, 15 yards",-0.270,1.800
+4,9:34,1,10,NWE 43,12,20,Brandon Bolden middle for 4 yards (tackle by Derek Wolfe),1.800,1.790
+4,8:55,2,6,NWE 47,12,20,Tom Brady pass complete short left to Brandon Bolden for 9 yards (tackle by Brandon Marshall),1.790,2.650
+4,8:23,1,10,DEN 44,12,20,Tom Brady pass incomplete deep right intended for Rob Gronkowski,2.650,2.650
+4,8:15,1,10,DEN 44,12,20,Timeout #1 by Denver Broncos,2.650,2.110
+4,8:15,2,10,DEN 44,12,20,Tom Brady pass incomplete deep right intended for James White,2.110,1.420
+4,8:10,3,10,DEN 44,12,20,Tom Brady pass complete deep middle to Julian Edelman for 19 yards (tackle by Shiloh Keo),1.420,3.910
+4,7:30,1,10,DEN 25,12,20,James White middle for -1 yards (tackle by Shaquil Barrett and Danny Trevathan),3.910,3.230
+4,6:51,2,11,DEN 26,12,20,Tom Brady pass incomplete deep right intended for James White,3.230,2.540
+4,6:46,3,11,DEN 26,12,20,Tom Brady pass complete short middle to Danny Amendola for 10 yards (tackle by Derek Wolfe),2.540,2.530
+4,6:03,4,1,DEN 16,12,20,Tom Brady pass complete short left to Julian Edelman for -1 yards (tackle by Chris Harris and Aqib Talib),2.530,0.060
+4,5:56,1,10,DEN 17,12,20,C.J. Anderson left guard for 1 yard (tackle by Dont'a Hightower),-0.060,-0.420
+4,5:22,2,9,DEN 18,12,20,Peyton Manning pass incomplete short right intended for Demaryius Thomas,-0.420,-1.130
+4,5:19,3,9,DEN 18,12,20,"Penalty on Demaryius Thomas: False Start, 5 yards (no play)",-1.130,-1.860
+4,5:19,3,14,DEN 13,12,20,Peyton Manning pass complete short middle to Ronnie Hillman for 7 yards (tackle by Patrick Chung and Jamie Collins),-1.860,-2.030
+4,4:46,4,7,DEN 20,12,20,"Britton Colquitt punts 54 yards, returned by Danny Amendola for 3 yards (tackle by Cody Latimer)",-2.030,-0.870
+4,4:35,1,10,NWE 29,12,20,Tom Brady pass incomplete short left intended for James White,0.870,0.330
+4,4:32,2,10,NWE 29,12,20,"Tom Brady pass complete short right to James White for 15 yards (tackle by Brandon Marshall). James White fumbles (forced by Brandon Marshall), recovered by James White at NWE-44",0.330,1.860
+4,3:55,1,10,NWE 44,12,20,Tom Brady pass complete deep middle to Rob Gronkowski for 28 yards (tackle by Shiloh Keo),1.860,3.710
+4,3:14,1,10,DEN 28,12,20,Tom Brady pass complete short right to Rob Gronkowski for 5 yards (tackle by Chris Harris),3.710,3.840
+4,2:41,2,5,DEN 23,12,20,"Tom Brady pass incomplete short middle intended for James White. Penalty on Brandon Marshall: Defensive Holding, 5 yards (no play)",3.840,4.370
+4,2:37,1,10,DEN 18,12,20,Tom Brady pass complete short right to James White for 9 yards (tackle by Aqib Talib),4.370,5.420
+4,2:33,2,1,DEN 9,12,20,Tom Brady pass incomplete short left intended for James White,5.420,4.740
+4,2:30,3,1,DEN 9,12,20,"Penalty on Marcus Cannon: False Start, 5 yards (no play)",4.740,3.630
+4,2:30,3,6,DEN 14,12,20,Tom Brady pass incomplete short middle intended for Danny Amendola (defended by Kayvon Webster),3.630,2.530
+,,,,,,,"DEN challenged the incomplete pass ruling, and the play was upheld.",,
+4,2:25,4,6,DEN 14,12,20,Tom Brady pass incomplete short middle intended for Rob Gronkowski (defended by Aqib Talib),2.530,0.280
+4,2:18,1,10,DEN 14,12,20,C.J. Anderson right tackle for 2 yards (tackle by Jabaal Sheard),-0.280,-0.280
+4,2:13,1,10,DEN 14,12,20,Timeout #1 by New England Patriots,-0.280,-0.510
+4,2:13,2,8,DEN 16,12,20,C.J. Anderson left tackle for -2 yards (tackle by Jabaal Sheard),-0.510,-0.510
+4,2:09,2,8,DEN 16,12,20,Timeout #2 by New England Patriots,-0.510,-1.400
+4,2:09,3,10,DEN 14,12,20,Peyton Manning pass incomplete deep left intended for Emmanuel Sanders (defended by Malcolm Butler),-1.400,-2.470
+4,2:04,4,10,DEN 14,12,20,"Britton Colquitt punts 52 yards, returned by Julian Edelman for 16 yards (tackle by Josh Bush)",-2.470,-2.260
+4,1:52,1,10,,12,20,Tom Brady pass incomplete deep left intended for James White (defended by Brandon Marshall),2.260,1.710
+4,1:46,2,10,,12,20,Tom Brady pass incomplete short right intended for James White,1.710,1.030
+4,1:39,3,10,,12,20,Tom Brady pass incomplete short right intended for Rob Gronkowski,1.030,-0.060
+4,1:34,4,10,,12,20,Tom Brady pass complete deep middle to Rob Gronkowski for 40 yards (tackle by Josh Bush and Chris Harris),-0.060,4.910
+4,0:57,1,10,DEN 10,12,20,Tom Brady pass incomplete short middle intended for James White,4.910,4.190
+4,0:54,2,10,DEN 10,12,20,Tom Brady pass complete short left to Julian Edelman for 6 yards (tackle by Kayvon Webster),4.190,4.490
+4,0:21,3,4,DEN 4,12,20,Tom Brady pass incomplete short middle intended for Julian Edelman,4.490,4.490
+4,0:17,3,4,DEN 4,12,20,Timeout #3 by New England Patriots,4.490,3.030
+4,0:17,4,4,DEN 4,18,20,"Tom Brady pass complete short middle to Rob Gronkowski for 4 yards, touchdown",3.030,7.000
+4,0:12,4,4,DEN 4,18,20,Timeout #3 by Denver Broncos,3.030,3.030
+4,0:12,4,,DEN 4,18,20,"Two Point Attempt: Tom Brady pass incomplete intended for Julian Edelman, conversion fails",3.030,-1.000
+4,0:12,,,NWE 35,18,20,"Stephen Gostkowski kicks onside 6 yards, recovered by Shiloh Keo and returned for 3 yards",0.000,-3.050
+4,0:11,1,10,NWE 38,18,20,Peyton Manning kneels for -1 yards,3.050,2.370
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

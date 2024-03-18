@@ -1,0 +1,182 @@
+Quarter,Time,Down,ToGo,Location,SFO,STL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"49ers won the coin toss and deferred, Rams to receive the opening kickoff.",,
+1,15:00,,,SFO 30,0,0,"Jeff Reed kicks off 66 yards, returned by Danny Amendola for 25 yards (tackle by C.J. Spillman)",0.000,0.870
+1,14:56,1,10,STL 29,0,0,Sam Bradford pass complete short left to Danario Alexander for 9 yards (tackle by Reggie Smith),0.870,1.540
+1,14:19,2,1,STL 38,0,0,Steven Jackson right guard for 5 yards (tackle by Patrick Willis and Manny Lawson),1.540,1.800
+1,13:43,1,10,STL 43,0,0,Steven Jackson right guard for 2 yards (tackle by Justin Smith),1.800,1.520
+1,12:57,2,8,STL 45,0,0,Sam Bradford pass incomplete short right intended for Laurent Robinson,1.520,0.830
+1,12:52,3,8,STL 45,0,0,Sam Bradford pass complete short middle to Danny Amendola for 9 yards (tackle by Manny Lawson),0.830,2.520
+1,12:16,1,10,SFO 46,0,0,Sam Bradford pass complete short left to Steven Jackson for 6 yards (tackle by Patrick Willis),2.520,2.790
+1,11:39,2,4,SFO 40,0,0,"Danny Amendola pass incomplete deep right intended for Danario Alexander is intercepted by Reggie Smith at SFO-1 and returned for 9 yards. Penalty on Nate Clements: Defensive Pass Interfere, 39 yards (no play)",2.790,6.970
+1,11:26,1,1,SFO 1,0,6,"Steven Jackson middle for 1 yard, touchdown",6.970,7.000
+1,,,,SFO 2,0,7,Josh Brown kicks extra point good,0.000,0.000
+1,,,,STL 30,0,7,"Josh Brown kicks off 63 yards, returned by Ted Ginn for 17 yards (tackle by Darian Stewart)",0.000,0.540
+1,11:16,1,10,SFO 24,0,7,Brian Westbrook left tackle for 8 yards (tackle by Gary Gibson),0.540,1.080
+1,10:36,2,2,SFO 32,0,7,Troy Smith pass complete short left to Delanie Walker for 4 yards (tackle by David Vobora and James Hall),1.080,1.330
+1,9:55,1,10,SFO 36,0,7,Brian Westbrook right tackle for no gain (tackle by Fred Robbins),1.330,0.790
+1,9:17,2,10,SFO 36,0,7,Brian Westbrook right guard for 2 yards (tackle by James Laurinaitis),0.790,0.370
+1,8:28,3,8,SFO 38,0,7,"Troy Smith for no gain. Troy Smith fumbles, recovered by Troy Smith at SFO-SF",0.370,-1.440
+1,8:06,4,17,SFO 29,0,7,"Penalty on C.J. Spillman: False Start, 5 yards (no play)",-1.440,-1.770
+1,7:53,4,22,SFO 24,0,7,"Andy Lee punts 54 yards, returned by Danny Amendola for 2 yards (tackle by C.J. Spillman)",-1.770,-0.540
+1,7:42,1,10,STL 24,0,7,Sam Bradford pass incomplete short left intended for Danario Alexander,0.540,0.000
+1,7:39,2,10,STL 24,0,7,Steven Jackson middle for no gain (tackle by Patrick Willis),0.000,-0.690
+1,7:05,3,10,STL 24,0,7,"Sam Bradford pass incomplete short middle intended for Steven Jackson. Penalty on Ray McDonald: Roughing the Passer, 15 yards, Penalty on Patrick Willis: Defensive Holding (Declined) (no play)",-0.690,1.530
+1,6:58,1,10,STL 39,0,7,Steven Jackson left end for 12 yards (tackle by Shawntae Spencer),1.530,2.320
+1,6:31,1,10,SFO 49,0,7,Brandon Gibson right end for 1 yard (tackle by Ahmad Brooks),2.320,1.920
+1,5:52,2,9,SFO 48,0,7,Steven Jackson right guard for 2 yards (tackle by Justin Smith),1.920,1.490
+1,5:16,,,,0,7,Timeout #1 by San Francisco 49ers,0.000,1.490
+1,5:16,3,7,SFO 46,0,7,"Penalty on Daniel Fells: False Start, 5 yards (no play)",1.490,0.830
+1,5:16,3,12,STL 49,0,7,Sam Bradford pass complete short middle to Kenneth Darby for 4 yards (tackle by Takeo Spikes),0.830,0.130
+1,4:44,4,8,SFO 47,0,7,"Donnie Jones punts 41 yards. Penalty on NaVorro Bowman: Illegal Block Above the , 3 yards",0.130,0.380
+1,4:26,1,10,SFO 3,0,7,Anthony Dixon left tackle for 5 yards (tackle by Darell Scott),-0.380,-0.420
+1,3:58,2,5,SFO 8,0,7,Brian Westbrook middle for 2 yards (tackle by Bryan Kehl and James Hall),-0.420,-0.600
+1,3:19,3,3,SFO 10,0,7,"Penalty on Barry Sims: False Start, 5 yards (no play)",-0.600,-1.190
+1,2:55,3,8,SFO 5,0,9,"Troy Smith for no gain. Troy Smith fumbles, recovered by Troy Smith at SFO--4, safety",-1.190,-2.000
+1,,,,SFO 20,0,9,"Andy Lee kicks off 65 yards, returned by Danny Amendola for 20 yards (tackle by Thaddeus Gibson). Danny Amendola fumbles (forced by Thaddeus Gibson), recovered by Eugene Sims at STL-35",0.000,1.270
+1,2:47,1,10,STL 35,0,9,Sam Bradford pass complete short right to Danny Amendola for 5 yards (tackle by Tarell Brown),1.270,1.400
+1,2:07,2,5,STL 40,0,9,Steven Jackson right guard for 9 yards (tackle by Dashon Goldson),1.400,2.190
+1,1:41,1,10,STL 49,0,9,Sam Bradford pass complete short middle to Brandon Gibson for 41 yards (tackle by Phillip Adams),2.190,4.910
+1,1:01,1,10,SFO 10,0,9,"Sam Bradford sacked by Patrick Willis for -13 yards. Sam Bradford fumbles (forced by Patrick Willis), recovered by Manny Lawson at SFO-27 and returned for 5 yards (tackle by Jason Smith)",4.910,-1.070
+1,0:53,1,10,SFO 32,0,9,"Troy Smith pass incomplete. Penalty on Troy Smith: Intentional Grounding, 10 yards",1.070,-0.820
+1,0:49,2,20,SFO 22,0,9,Troy Smith pass incomplete deep right intended for Michael Crabtree,-0.820,-1.480
+1,0:42,3,20,SFO 22,0,9,Brian Westbrook left guard for 3 yards (tackle by James Hall and Kevin Dockery),-1.480,-1.700
+1,0:10,4,17,SFO 25,0,9,"Andy Lee punts 59 yards, fair catch by Danny Amendola",-1.700,0.140
+Quarter,Time,Down,ToGo,Location,SFO,STL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,STL 16,0,9,Steven Jackson middle for -1 yards (tackle by Ray McDonald and Parys Haralson),-0.140,-0.780
+2,14:26,2,11,STL 15,0,9,Sam Bradford pass complete short middle to Danny Amendola for 5 yards (tackle by Tarell Brown),-0.780,-0.820
+2,13:47,3,6,STL 20,0,9,Steven Jackson middle for 4 yards (tackle by Justin Smith and Ray McDonald),-0.820,-1.770
+2,13:12,4,2,STL 24,0,9,"Donnie Jones punts 50 yards, returned by Ted Ginn for 14 yards (tackle by Kenneth Darby). Penalty on Larry Grant: Ineligible Downfield Kic, 5 yards",-1.770,-1.930
+2,13:00,1,10,SFO 45,0,9,"Penalty on Mike Iupati: False Start, 5 yards (no play)",1.930,1.600
+2,13:00,1,15,SFO 40,0,9,Troy Smith pass incomplete deep middle intended for Josh Morgan. Penalty on Adam Snyder: Illegal Formation (Declined),1.600,0.710
+2,12:55,2,15,SFO 40,0,9,Troy Smith pass incomplete deep left intended for Josh Morgan,0.710,0.040
+2,12:51,3,15,SFO 40,0,9,Troy Smith right end for 14 yards (tackle by James Hall),0.040,0.200
+2,11:54,4,1,STL 46,0,9,"Andy Lee punts 30 yards, fair catch by Danny Amendola",0.200,0.140
+2,11:45,1,10,STL 16,0,9,Steven Jackson left tackle for 1 yard (tackle by Patrick Willis),-0.140,-0.510
+2,11:01,2,9,STL 17,0,9,Steven Jackson left guard for -4 yards (tackle by Takeo Spikes),-0.510,-1.750
+2,10:24,3,13,STL 13,0,9,Sam Bradford pass complete short middle to Daniel Fells for 11 yards (tackle by Takeo Spikes),-1.750,-1.770
+2,9:44,4,2,STL 24,6,9,"Donnie Jones punts 54 yards, returned by Ted Ginn for 78 yards, touchdown",-1.770,-7.000
+2,,,,STL 2,7,9,Jeff Reed kicks extra point good,0.000,0.000
+2,,,,SFO 30,7,9,"Jeff Reed kicks off 63 yards, returned by Danny Amendola for 32 yards (tackle by Reggie Smith)",0.000,1.530
+2,9:20,1,10,STL 39,7,9,Sam Bradford pass complete short right to Brandon Gibson for 19 yards (tackle by Manny Lawson and Nate Clements),1.530,2.790
+2,8:45,1,10,SFO 42,7,9,Steven Jackson right end for 5 yards (tackle by Patrick Willis),2.790,2.920
+2,8:03,2,5,SFO 37,7,9,Sam Bradford pass complete short right to Steven Jackson for 4 yards (tackle by Patrick Willis),2.920,2.740
+2,7:42,3,1,SFO 33,7,9,Mike Karney middle for 2 yards (tackle by Patrick Willis),2.740,3.510
+2,7:09,1,10,SFO 31,7,9,Sam Bradford pass complete short right to Laurent Robinson for 5 yards (tackle by Nate Clements),3.510,3.640
+2,6:34,2,5,SFO 26,7,9,Steven Jackson right tackle for 1 yard (tackle by Parys Haralson and Nate Clements),3.640,3.070
+2,5:53,3,4,SFO 25,7,9,Sam Bradford pass incomplete deep left intended for Danny Amendola,3.070,1.880
+2,5:47,4,4,SFO 25,7,12,Josh Brown 43 yard field goal good,1.880,3.000
+2,,,,STL 30,7,12,"Josh Brown kicks off 68 yards, returned by Ted Ginn for 18 yards (tackle by Chris Chamberlain)",0.000,0.280
+2,5:37,1,10,SFO 20,7,12,"Troy Smith sacked by James Hall for -8 yards. Troy Smith fumbles (forced by James Hall), recovered by Anthony Davis at SFO-8",0.280,-1.660
+2,4:50,2,22,SFO 8,7,12,Brian Westbrook right tackle for 9 yards (tackle by Craig Dahl),-1.660,-1.510
+2,4:02,,,,7,12,Timeout #2 by San Francisco 49ers,0.000,-1.510
+2,4:02,3,13,SFO 17,7,12,Troy Smith pass complete deep right to Vernon Davis for 25 yards (tackle by James Laurinaitis),-1.510,1.730
+2,3:29,1,10,SFO 42,7,12,Anthony Dixon left tackle for -2 yards (tackle by Fred Robbins),1.730,0.920
+2,2:45,2,12,SFO 40,7,12,Troy Smith pass incomplete short left intended for Vernon Davis,0.920,0.230
+2,2:40,3,12,SFO 40,13,12,"Troy Smith pass complete short right to Michael Crabtree for 60 yards, touchdown",0.230,7.000
+2,,,,STL 2,14,12,Jeff Reed kicks extra point good,0.000,0.000
+2,,,,SFO 30,14,12,"Jeff Reed kicks off 63 yards, returned by Danny Amendola for 16 yards (tackle by Tarell Brown)",0.000,0.480
+2,2:28,1,10,STL 23,14,12,Sam Bradford pass incomplete deep left intended for Brandon Gibson,0.480,-0.070
+2,2:21,2,10,STL 23,14,12,Sam Bradford pass complete short left to Danny Amendola for 6 yards (tackle by Patrick Willis),-0.070,0.040
+2,2:00,3,4,STL 29,14,12,Sam Bradford pass incomplete short middle intended for Danny Amendola,0.040,-1.440
+2,1:56,4,4,STL 29,14,12,"Donnie Jones punts 49 yards, returned by Ted Ginn for 5 yards (tackle by Jerome Murphy)",-1.440,-0.740
+2,1:44,1,10,SFO 27,14,12,Troy Smith pass complete short left to Michael Crabtree for 5 yards (tackle by Eugene Sims),0.740,0.870
+2,1:18,2,5,SFO 32,14,12,Brian Westbrook middle for 3 yards (tackle by James Laurinaitis),0.870,0.560
+2,1:03,3,2,SFO 35,14,12,Troy Smith pass incomplete short right intended for Josh Morgan (defended by Fred Robbins),0.560,-1.040
+2,1:02,4,2,SFO 35,14,12,Andy Lee punts 62 yards,-1.040,0.380
+2,0:48,1,10,STL 3,14,12,Steven Jackson right guard for 1 yard (tackle by Aubrayo Franklin),-0.380,-0.710
+2,0:48,2,9,STL 4,14,12,Steven Jackson middle for 2 yards (tackle by Aubrayo Franklin),-0.710,-1.070
+Quarter,Time,Down,ToGo,Location,SFO,STL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,STL 30,14,12,"Josh Brown kicks off 68 yards, returned by Ted Ginn for 18 yards (tackle by David Vobora)",0.000,0.280
+3,14:56,1,10,SFO 20,14,12,Anthony Dixon middle for 3 yards (tackle by Gary Gibson and O.J. Atogwe),0.280,0.140
+3,14:16,2,7,SFO 23,14,12,Troy Smith pass incomplete short left intended for Vernon Davis,0.140,-0.560
+3,14:10,3,7,SFO 23,14,12,Troy Smith left guard for 10 yards (tackle by James Laurinaitis),-0.560,1.140
+3,13:32,1,10,SFO 33,14,12,Anthony Dixon left tackle for 2 yards (tackle by James Laurinaitis),1.140,0.860
+3,12:49,2,8,SFO 35,14,12,Troy Smith pass incomplete short right intended for Delanie Walker,0.860,0.170
+3,12:44,3,8,SFO 35,14,12,Troy Smith pass incomplete deep middle intended for Michael Crabtree is intercepted by O.J. Atogwe at STL-40 and returned for 19 yards,0.170,-2.850
+3,12:30,1,10,SFO 41,14,12,Sam Bradford pass incomplete deep left intended for Brandon Gibson,2.850,2.310
+3,12:24,2,10,SFO 41,14,12,Sam Bradford pass complete short left to Brandon Gibson for 9 yards (tackle by Shawntae Spencer),2.310,2.810
+3,11:45,3,1,SFO 32,14,12,Sam Bradford pass complete short right to Steven Jackson for 9 yards (tackle by Reggie Smith),2.810,4.040
+3,11:14,1,10,SFO 23,14,12,Sam Bradford pass complete short left to Danny Amendola for 10 yards (tackle by Nate Clements),4.040,4.710
+3,10:33,1,10,SFO 13,14,12,Steven Jackson middle for 1 yard (tackle by Justin Smith),4.710,4.220
+3,9:53,2,9,SFO 12,14,12,Sam Bradford pass incomplete short middle intended for Daniel Fells (defended by Takeo Spikes),4.220,3.280
+3,9:46,3,9,SFO 12,14,12,Sam Bradford pass incomplete short middle intended for Danny Amendola,3.280,2.630
+3,9:43,4,9,SFO 12,14,15,Josh Brown 30 yard field goal good,2.630,3.000
+3,,,,STL 30,14,15,"Josh Brown kicks off 65 yards, returned by Ted Ginn for 20 yards (tackle by Keith Toston)",0.000,0.610
+3,9:34,1,10,SFO 25,14,15,Troy Smith pass incomplete short left intended for Michael Crabtree,0.610,0.060
+3,9:28,2,10,SFO 25,14,15,Brian Westbrook middle for 4 yards (tackle by Darell Scott),0.060,-0.100
+3,8:43,3,6,SFO 29,14,15,Troy Smith middle for 4 yards (tackle by Darian Stewart),-0.100,-1.180
+3,8:03,4,2,SFO 33,14,15,"Andy Lee punts 54 yards, returned by Danny Amendola for 16 yards (tackle by Tarell Brown). Penalty on James Butler: Illegal Block Above the , 6 yards",-1.180,0.380
+3,7:56,1,10,STL 7,14,15,Steven Jackson right tackle for no gain (tackle by Ahmad Brooks),-0.380,-0.780
+3,7:20,2,10,STL 7,14,15,Sam Bradford pass complete short middle to Daniel Fells for 6 yards (tackle by Patrick Willis),-0.780,-0.720
+3,6:40,3,4,STL 13,14,15,Sam Bradford pass complete short left to Laurent Robinson for 17 yards (tackle by Reggie Smith),-0.720,0.940
+3,6:06,1,10,STL 30,14,15,Sam Bradford pass complete short left to Danario Alexander for 8 yards (tackle by Parys Haralson),0.940,1.470
+3,5:38,2,2,STL 38,14,15,Sam Bradford pass complete short left to Danario Alexander for 17 yards (tackle by Shawntae Spencer),1.470,2.590
+3,5:09,1,10,SFO 45,14,15,Sam Bradford pass complete short right to Danny Amendola for 9 yards (tackle by Dashon Goldson),2.590,3.260
+3,4:33,2,1,SFO 36,14,15,"Sam Bradford pass complete short right to Steven Jackson for 8 yards (tackle by Patrick Willis). Penalty on Danario Alexander: Offensive Pass Interfere, 10 yards (no play)",3.260,1.910
+3,4:09,2,11,SFO 46,14,15,Sam Bradford pass complete short right to Danny Amendola for 6 yards (tackle by Patrick Willis),1.910,2.010
+3,3:28,3,5,SFO 40,14,15,Sam Bradford pass complete short right to Kenneth Darby for -5 yards (tackle by Patrick Willis). Penalty on Jacob Bell: Chop Block (Declined),2.010,0.270
+3,3:09,4,10,SFO 45,14,15,"Donnie Jones punts 35 yards, fair catch by Ted Ginn. Penalty on Jerome Murphy: Personal Foul, 15 yards",0.270,-0.610
+3,2:59,1,10,SFO 25,14,15,Troy Smith pass complete deep left to Vernon Davis for 29 yards (tackle by Darell Scott),0.610,2.520
+3,2:12,1,10,STL 46,14,15,Troy Smith pass complete short right to Michael Crabtree for 24 yards (tackle by Craig Dahl),2.520,4.110
+3,1:29,1,10,STL 22,14,15,Troy Smith pass incomplete short left intended for Michael Crabtree,4.110,3.560
+3,1:24,2,10,STL 22,14,15,Troy Smith pass incomplete short middle intended for Vernon Davis (defended by Craig Dahl),3.560,2.870
+3,1:20,3,10,STL 22,14,15,Troy Smith pass complete short left to Michael Crabtree for 6 yards (tackle by Kevin Dockery and Craig Dahl),2.870,2.450
+3,0:37,4,4,STL 16,14,15,Jeff Reed 34 yard field goal no good,2.450,-0.540
+3,0:33,1,10,STL 24,14,15,Sam Bradford pass complete short right to Daniel Fells for 11 yards (tackle by Dashon Goldson),0.540,1.270
+Quarter,Time,Down,ToGo,Location,SFO,STL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,STL 35,14,15,Sam Bradford pass incomplete deep right intended for Brandon Gibson,1.270,0.720
+4,14:54,2,10,STL 35,14,15,Steven Jackson right tackle for 3 yards (tackle by Manny Lawson),0.720,0.430
+4,14:17,3,7,STL 38,14,15,Sam Bradford pass complete short middle to Danny Amendola for 3 yards (tackle by Nate Clements),0.430,-0.650
+4,13:39,4,4,STL 41,14,15,"Donnie Jones punts 44 yards, fair catch by Ted Ginn",-0.650,0.220
+4,13:31,1,10,SFO 15,14,15,Anthony Dixon middle for 5 yards (tackle by James Hall),-0.220,0.080
+4,12:56,2,5,SFO 20,14,15,Anthony Dixon left guard for 4 yards (tackle by O.J. Atogwe),0.080,-0.270
+4,12:17,3,1,SFO 24,14,15,"Troy Smith sacked by James Hall for -9 yards. Troy Smith fumbles (forced by James Hall), recovered by Brian Westbrook at SFO-13",-0.270,-2.490
+4,11:35,4,12,SFO 13,14,15,"Andy Lee punts 64 yards, returned by Danny Amendola for 9 yards (tackle by Manny Lawson)",-2.490,-1.070
+4,11:23,1,10,STL 32,14,15,Sam Bradford pass complete short left to Danario Alexander for 2 yards (tackle by Parys Haralson),1.070,0.800
+4,10:48,2,8,STL 34,14,15,Sam Bradford pass complete short right to Danario Alexander for 17 yards (tackle by Reggie Smith),0.800,2.320
+4,9:49,1,10,SFO 49,14,15,Sam Bradford pass complete deep left to Danario Alexander for 46 yards (tackle by Shawntae Spencer),2.320,6.510
+,,,,,,,"SFO challenged the runner was in bounds ruling, and the original play was overturned.",,
+4,9:45,1,3,SFO 3,14,21,"Sam Bradford pass complete short right to Laurent Robinson for 3 yards, touchdown",6.510,7.000
+4,,,,SFO 2,14,22,Josh Brown kicks extra point good,0.000,0.000
+4,,,,STL 30,14,22,"Josh Brown kicks off 66 yards, returned by Ted Ginn for 15 yards (tackle by Bryan Kehl)",0.000,0.150
+4,9:30,1,10,SFO 19,14,22,Alex Smith pass complete short left to Brian Westbrook for 5 yards (tackle by Bryan Kehl),0.150,0.340
+4,9:05,2,5,SFO 24,14,22,Brian Westbrook left end for 8 yards (tackle by Bradley Fletcher),0.340,1.070
+4,8:17,1,10,SFO 32,14,22,Alex Smith pass complete deep left to Josh Morgan for 33 yards (tackle by Bradley Fletcher),1.070,3.250
+4,7:50,1,10,STL 35,14,22,Brian Westbrook right end for 1 yard (tackle by James Laurinaitis),3.250,2.840
+4,7:09,2,9,STL 34,14,22,Alex Smith pass complete short right to Brian Westbrook for -2 yards (tackle by Darian Stewart),2.840,1.880
+4,6:27,3,11,STL 36,14,22,Alex Smith pass complete short left to Delanie Walker for 7 yards (tackle by Kevin Dockery),1.880,1.560
+4,5:46,4,4,STL 29,17,22,Jeff Reed 47 yard field goal good,1.560,3.000
+4,,,,SFO 30,17,22,"Jeff Reed kicks off 66 yards, returned by Danny Amendola for 84 yards (tackle by Thaddeus Gibson)",0.000,4.780
+4,5:28,1,10,SFO 12,17,22,Steven Jackson right guard for 2 yards (tackle by Justin Smith),4.780,4.450
+4,4:48,2,8,SFO 10,17,22,Steven Jackson right tackle for 1 yard (tackle by Parys Haralson),4.450,3.700
+4,4:03,3,7,SFO 9,17,22,Steven Jackson left end for -1 yards (tackle by Nate Clements and Manny Lawson),3.700,2.760
+4,3:54,,,,17,22,Timeout #1 by San Francisco 49ers,0.000,2.760
+4,3:54,4,8,SFO 10,17,25,Josh Brown 28 yard field goal good,2.760,3.000
+4,,,,STL 30,17,25,"Josh Brown kicks off 59 yards, returned by Ted Ginn for 12 yards (tackle by Darian Stewart)",0.000,0.480
+4,3:46,1,10,SFO 23,17,25,Alex Smith pass incomplete short left intended for Ted Ginn,0.480,-0.070
+4,3:42,2,10,SFO 23,17,25,Alex Smith pass incomplete deep middle intended for Vernon Davis (defended by Craig Dahl),-0.070,-0.760
+4,3:36,3,10,SFO 23,17,25,Alex Smith pass complete short right to Vernon Davis for 16 yards (tackle by Kevin Dockery),-0.760,1.530
+4,3:08,1,10,SFO 39,17,25,Alex Smith pass complete short right to Michael Crabtree for 18 yards (tackle by Ronald Bartell),1.530,2.720
+4,3:01,1,10,STL 43,17,25,"Penalty on Anthony Davis: False Start, 5 yards (no play)",2.720,2.390
+4,3:01,1,15,STL 48,17,25,Alex Smith pass incomplete short right intended for Brian Westbrook,2.390,1.500
+4,2:57,2,15,STL 48,17,25,Alex Smith pass complete short left to Delanie Walker for 6 yards (tackle by Kevin Dockery),1.500,1.620
+4,2:27,3,9,STL 42,17,25,"Alex Smith sacked by Chris Long for -5 yards. Alex Smith fumbles (forced by Chris Long), recovered by Fred Robbins at STL-46 (tackle by David Baas)",1.620,-1.990
+4,2:19,1,10,STL 46,17,25,Steven Jackson right tackle for -3 yards (tackle by Justin Smith),1.990,1.050
+4,2:15,,,,17,25,Timeout #2 by San Francisco 49ers,0.000,1.050
+4,2:15,2,13,STL 43,17,25,Brandon Gibson right end for 14 yards (tackle by Nate Clements),1.050,2.720
+4,2:07,1,10,SFO 43,17,25,Steven Jackson left end for 2 yards (tackle by Manny Lawson),2.720,2.450
+4,1:59,2,8,SFO 41,17,25,Laurent Robinson right end for -5 yards (tackle by Reggie Smith),2.450,1.090
+4,1:19,3,13,SFO 46,17,25,Steven Jackson middle for 3 yards (tackle by Ray McDonald),1.090,0.400
+4,1:13,,,,17,25,Timeout #3 by San Francisco 49ers,0.000,0.400
+4,1:13,4,10,SFO 43,17,25,"Donnie Jones punts 24 yards, fair catch by Ted Ginn",0.400,-0.150
+4,1:06,1,10,SFO 19,17,25,Alex Smith pass complete short left to Michael Crabtree for 9 yards (tackle by Bradley Fletcher),0.150,0.880
+4,0:45,2,1,SFO 28,17,25,Alex Smith pass complete to Josh Morgan for 6 yards (tackle by Ronald Bartell),0.880,1.200
+4,0:30,1,10,SFO 34,17,25,Alex Smith spiked the ball,1.200,0.660
+4,0:28,2,10,SFO 34,17,25,Alex Smith sacked by Fred Robbins for 0 yards,0.660,-0.030
+4,0:10,3,10,SFO 34,17,25,Alex Smith spiked the ball,-0.030,-1.110
+4,0:09,4,10,SFO 34,17,25,Alex Smith pass complete to Ted Ginn for 22 yards (tackle by Darian Stewart),-1.110,2.650
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

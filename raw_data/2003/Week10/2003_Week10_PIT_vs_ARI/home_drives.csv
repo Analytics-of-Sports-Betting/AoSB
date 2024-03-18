@@ -1,0 +1,15 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,PIT 23,3,1:03,1,Punt
+2,1,11:11,PIT 20,10,5:19,75,Missed FG
+3,1,2:17,PIT 20,3,2:27,7,Punt
+4,2,12:31,PIT 17,12,6:32,83,Touchdown
+5,2,3:06,PIT 20,3,1:16,-3,Fumble
+6,2,0:11,ARI 39,1,0:11,0,End of Half
+7,3,13:29,ARI 27,2,0:13,27,Touchdown
+8,3,12:15,ARI 22,1,0:06,22,Touchdown
+9,3,10:23,ARI 32,3,1:39,-3,Punt
+10,3,2:29,PIT 26,5,2:45,19,Punt
+11,4,10:13,PIT 11,3,1:32,8,Punt
+12,4,7:23,PIT 45,3,1:42,0,Punt
+13,4,2:56,PIT 47,3,1:14,3,Punt
+14,4,0:17,ARI 46,1,0:17,-1,End of Game

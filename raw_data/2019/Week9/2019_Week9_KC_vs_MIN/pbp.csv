@@ -1,0 +1,182 @@
+Quarter,Time,Down,ToGo,Location,MIN,KAN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Chiefs won the coin toss and deferred, Vikings to receive the opening kickoff.",,
+1,15:00,,,KAN 35,0,0,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,MIN 25,0,0,Kirk Cousins pass incomplete short left intended for Dalvin Cook,0.610,0.060
+1,14:56,2,10,MIN 25,0,0,Kirk Cousins pass incomplete short left intended for Adam Thielen,0.060,-0.620
+1,14:50,3,10,MIN 25,0,0,Kirk Cousins pass incomplete deep middle intended for Laquon Treadwell,-0.620,-1.700
+1,14:44,4,10,MIN 25,0,0,Britton Colquitt punts 47 yards out of bounds,-1.700,-0.810
+1,14:37,1,10,KAN 28,0,0,Mecole Hardman right end for 7 yards (tackle by Eric Kendricks),0.810,1.210
+1,14:07,2,3,KAN 35,0,0,Matt Moore pass incomplete short right intended for Tyreek Hill (defended by Trae Waynes),1.210,0.500
+1,14:02,3,3,KAN 35,0,0,Matt Moore pass complete short left to LeSean McCoy for no gain (tackle by Mackensie Alexander),0.500,-1.040
+1,13:24,4,3,KAN 35,0,0,"Dustin Colquitt punts 56 yards, returned by Mike Hughes for 9 yards (tackle by Byron Pringle and Dorian O'Daniel)",-1.040,-0.040
+1,13:12,1,10,MIN 18,0,0,Dalvin Cook left tackle for 2 yards (tackle by Anthony Hitchens and Mike Pennel),0.040,-0.130
+1,12:37,2,8,MIN 20,0,0,Kirk Cousins pass complete short left to C.J. Ham for 5 yards (tackle by Charvarius Ward),-0.130,-0.270
+1,11:59,3,3,MIN 25,0,0,Ameer Abdullah left end for 2 yards (tackle by Daniel Sorensen and Reggie Ragland),-0.270,-1.570
+1,11:45,4,1,MIN 27,0,0,"Britton Colquitt punts 42 yards, returned by Mecole Hardman for 2 yards (tackle by Ameer Abdullah)",-1.570,-1.140
+1,11:36,1,10,KAN 33,0,0,Matt Moore pass complete short left to Blake Bell for 2 yards (tackle by Xavier Rhodes),1.140,0.860
+1,11:02,2,8,KAN 35,0,0,Damien Williams left guard for 3 yards (tackle by Linval Joseph),0.860,0.560
+1,10:25,3,5,KAN 38,0,0,Matt Moore pass complete short right to Travis Kelce for 9 yards (tackle by Harrison Smith and Anthony Barr),0.560,2.060
+1,9:46,1,10,KAN 47,0,0,Damien Williams left tackle for 7 yards (tackle by Xavier Rhodes),2.060,2.460
+1,9:10,2,3,MIN 46,0,0,Matt Moore pass complete short right to Sammy Watkins for 6 yards (tackle by Trae Waynes),2.460,2.920
+1,8:35,1,10,MIN 40,0,0,Matt Moore pass incomplete deep left intended for Tyreek Hill (defended by Harrison Smith),2.920,2.370
+1,8:28,2,10,MIN 40,0,6,"Matt Moore pass complete deep right to Tyreek Hill for 40 yards, touchdown, touchdown",2.370,7.000
+1,8:21,,,MIN 15,0,7,Harrison Butker kicks extra point good,0.000,0.000
+1,8:21,,,KAN 35,0,7,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+1,8:21,1,10,MIN 25,0,7,Dalvin Cook left guard for 5 yards (tackle by Damien Wilson),0.610,0.740
+1,7:47,2,5,MIN 30,0,7,Dalvin Cook left end for 2 yards (tackle by Khalen Saunders and Joey Ivie),0.740,0.300
+1,7:23,3,3,MIN 32,0,7,"Kirk Cousins pass incomplete deep left intended for Stefon Diggs. Penalty on Charvarius Ward: Defensive Holding, 5 yards (no play)",0.300,1.400
+1,7:18,1,10,MIN 37,0,7,Kirk Cousins pass incomplete short right intended for Dalvin Cook,1.400,0.860
+1,7:13,2,10,MIN 37,0,7,Dalvin Cook left end for 3 yards (tackle by Damien Wilson),0.860,0.560
+1,6:48,3,7,MIN 40,0,7,Kirk Cousins pass complete deep left to Laquon Treadwell for 26 yards (tackle by Tyrann Mathieu and Charvarius Ward),0.560,3.310
+1,6:22,1,10,KAN 34,0,7,"Penalty on KAN: Defensive Too Many Men on Field, 5 yards (no play)",3.310,4.040
+1,5:57,1,5,KAN 29,0,7,Dalvin Cook right end for 9 yards (tackle by Bashaud Breeland),4.040,4.240
+1,5:37,1,10,KAN 20,0,7,Dalvin Cook left tackle for -1 yards (tackle by Tyrann Mathieu and Mike Pennel),4.240,3.560
+1,4:59,2,11,KAN 21,0,7,Kirk Cousins pass incomplete deep left intended for Alexander Mattison,3.560,2.870
+1,4:53,3,11,KAN 21,0,7,Kirk Cousins pass complete short right to Laquon Treadwell for 13 yards (tackle by Rashad Fenton),2.870,5.370
+1,4:13,1,8,KAN 8,0,7,Dalvin Cook left end for 3 yards (tackle by Juan Thornhill),5.370,5.150
+1,3:34,2,5,KAN 5,0,7,Dalvin Cook left end for 1 yard (tackle by Damien Wilson),5.150,4.490
+1,2:54,3,4,KAN 4,6,7,"Kirk Cousins pass complete short middle to Olabisi Johnson for 4 yards, touchdown",4.490,7.000
+1,2:50,,,KAN 15,7,7,Dan Bailey kicks extra point good,0.000,0.000
+1,2:50,,,MIN 35,7,7,"Dan Bailey kicks off 55 yards, returned by Mecole Hardman for 10 yards (tackle by Mike Hughes)",0.000,0.280
+1,2:43,1,10,KAN 20,7,7,LeSean McCoy right end for 1 yard (tackle by Trae Waynes),0.280,-0.130
+1,2:06,2,9,KAN 21,7,7,LeSean McCoy right end for 7 yards (tackle by Eric Kendricks),-0.130,0.100
+1,1:26,3,2,KAN 28,7,7,LeSean McCoy right guard for 1 yard (tackle by Linval Joseph),0.100,-1.440
+1,0:52,4,1,KAN 29,7,7,"Dustin Colquitt punts 42 yards, returned by Mike Hughes for 7 yards (tackle by Dorian O'Daniel and Darron Lee)",-1.440,-1.330
+1,0:42,1,10,MIN 36,7,7,Alexander Mattison right guard for no gain (tackle by Derrick Nnadi),1.330,0.790
+Quarter,Time,Down,ToGo,Location,MIN,KAN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,10,MIN 36,7,7,Kirk Cousins pass complete short left to Stefon Diggs for 4 yards (tackle by Charvarius Ward and Damien Wilson),0.790,0.630
+2,14:24,3,6,MIN 40,7,7,Kirk Cousins up the middle for 5 yards (tackle by Rashad Fenton),0.630,-0.390
+2,13:35,4,1,MIN 45,7,7,"Britton Colquitt punts 46 yards, fair catch by Mecole Hardman at KC-9",-0.390,0.380
+2,13:30,1,10,KAN 9,7,7,Matt Moore pass complete short right to Sammy Watkins for 11 yards (tackle by Harrison Smith),-0.380,0.280
+2,12:55,1,10,KAN 20,7,7,Matt Moore pass complete short middle to Travis Kelce for 13 yards (tackle by Anthony Harris),0.280,1.140
+2,12:19,1,10,KAN 33,7,7,Damien Williams right guard for 3 yards (tackle by Everson Griffen),1.140,1.000
+2,11:39,2,7,KAN 36,7,7,Matt Moore pass complete short right to Travis Kelce for 6 yards (tackle by Anthony Harris),1.000,1.090
+2,11:05,,,,,,Timeout #1 by Kansas City Chiefs,,
+2,11:05,3,1,KAN 42,7,7,Matt Moore pass complete short left to Tyreek Hill for 5 yards (tackle by Mike Hughes),1.090,2.060
+2,10:34,1,10,KAN 47,7,7,Matt Moore pass complete deep left to Sammy Watkins for 17 yards (tackle by Xavier Rhodes),2.060,3.180
+2,9:49,,,,,,Timeout #2 by Kansas City Chiefs,,
+2,9:49,1,10,MIN 36,7,7,Matt Moore pass complete short right to Travis Kelce for 10 yards (tackle by Trae Waynes),3.180,3.840
+2,9:08,1,10,MIN 26,7,7,Damien Williams up the middle for 5 yards (tackle by Eric Kendricks and Mike Hughes),3.840,3.970
+2,8:32,2,5,MIN 21,7,7,Matt Moore pass complete short right to Demarcus Robinson for 5 yards (tackle by Harrison Smith),3.970,4.510
+2,7:49,1,10,MIN 16,7,7,Matt Moore pass complete short middle to Travis Kelce for 4 yards (tackle by Anthony Harris and Harrison Smith),4.510,4.570
+2,7:15,2,6,MIN 12,7,7,Tyreek Hill right end for 5 yards (tackle by Danielle Hunter),4.570,4.850
+2,6:37,3,1,MIN 7,7,7,Damien Williams left guard for no gain (tackle by Danielle Hunter),4.850,3.010
+2,6:13,4,1,MIN 7,7,7,Damien Williams left end for 2 yards (tackle by Anthony Barr),3.010,6.060
+2,5:28,1,5,MIN 5,7,7,Matt Moore pass incomplete short left intended for Sammy Watkins (defended by Xavier Rhodes),6.060,5.150
+2,5:24,2,5,MIN 5,7,7,Matt Moore pass complete short right to Sammy Watkins for -1 yards (tackle by Mike Hughes),5.150,4.040
+2,4:43,3,6,MIN 6,7,7,Matt Moore pass incomplete short right intended for Travis Kelce,4.040,2.990
+2,4:38,4,6,MIN 6,7,10,Harrison Butker 24 yard field goal good,2.990,3.000
+2,4:34,,,KAN 35,7,10,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+2,4:34,1,10,MIN 25,7,10,Kirk Cousins pass incomplete short right intended for Irv Smith Jr.,0.610,0.060
+2,4:29,2,10,MIN 25,7,10,Dalvin Cook left end for 3 yards (tackle by Chris Jones and Anthony Hitchens),0.060,-0.230
+2,3:49,3,7,MIN 28,7,10,Kirk Cousins sacked by Chris Jones for -8 yards,-0.230,-2.030
+2,3:06,4,15,MIN 20,7,10,Britton Colquitt punts 54 yards out of bounds,-2.030,-0.670
+2,2:58,1,10,KAN 26,7,10,Matt Moore sacked by and Jaleel Johnson for -7 yards and Danielle Hunter for -7 yards. Penalty on Blake Bell: Offensive Holding (Declined),0.670,-0.870
+2,2:35,2,17,KAN 19,7,10,Darrel Williams left end for 1 yard (tackle by Ifeadi Odenigbo),-0.870,-1.350
+2,2:00,3,16,KAN 20,7,10,Matt Moore pass incomplete short middle intended for Tyreek Hill,-1.350,-2.030
+2,1:54,4,16,KAN 20,7,10,"Dustin Colquitt punts 58 yards, returned by Mike Hughes for 10 yards (tackle by Darron Lee)",-2.030,-1.070
+2,1:42,1,10,MIN 32,7,10,Kirk Cousins pass complete short middle to Dalvin Cook for 4 yards (tackle by Anthony Hitchens),1.070,1.070
+2,1:19,2,6,MIN 36,7,10,Kirk Cousins pass complete deep right to Irv Smith Jr. for 21 yards (tackle by Juan Thornhill),1.070,2.720
+2,0:56,1,10,KAN 43,7,10,Kirk Cousins pass incomplete deep right intended for Stefon Diggs,2.720,2.180
+2,0:52,2,10,KAN 43,7,10,Kirk Cousins pass complete deep right to Laquon Treadwell for 19 yards (tackle by Juan Thornhill),2.180,3.970
+2,0:46,1,10,KAN 24,7,10,Dalvin Cook right end for 9 yards (tackle by Derrick Nnadi and Tyrann Mathieu),3.970,4.850
+2,0:40,,,,,,Timeout #2 by Minnesota Vikings,,
+2,0:40,2,1,KAN 15,7,10,Kirk Cousins pass incomplete short left intended for Irv Smith Jr.,4.850,4.170
+2,0:34,3,1,KAN 15,7,10,Kirk Cousins pass incomplete short right intended for Kyle Rudolph,4.170,2.590
+2,0:29,4,1,KAN 15,7,10,Kirk Cousins pass complete short left to Irv Smith Jr. for 4 yards (tackle by Charvarius Ward),2.590,4.840
+2,0:23,1,10,KAN 11,7,10,Kirk Cousins pass incomplete short right intended for Kyle Rudolph,4.840,4.140
+2,0:18,2,10,KAN 11,7,10,Kirk Cousins pass incomplete short left intended for Olabisi Johnson,4.140,3.130
+2,0:13,3,10,KAN 11,7,10,Kirk Cousins pass incomplete short left intended for Stefon Diggs,3.130,2.700
+2,0:09,4,10,KAN 11,10,10,Dan Bailey 29 yard field goal good,2.700,3.000
+2,0:06,,,MIN 35,10,10,"Dan Bailey kicks off 67 yards, returned by Mecole Hardman for 28 yards (tackle by Eric Wilson and Kentrell Brothers)",0.000,1.270
+Quarter,Time,Down,ToGo,Location,MIN,KAN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,MIN 35,10,10,"Dan Bailey kicks off 65 yards, returned by Mecole Hardman for 34 yards (tackle by Mike Hughes). Mecole Hardman fumbles (forced by Mike Hughes), recovered by Holton Hill at KC-38 (tackle by Armani Watts)",0.000,-3.050
+3,14:52,1,10,KAN 38,10,10,Kirk Cousins pass complete short left to Dalvin Cook for 8 yards (tackle by Khalen Saunders),3.050,3.590
+3,14:14,2,2,KAN 30,10,10,Dalvin Cook right end for 8 yards (tackle by Derrick Nnadi and Daniel Sorensen),3.590,4.110
+3,13:33,1,10,KAN 22,10,10,"Dalvin Cook right end for 2 yards (tackle by Derrick Nnadi). Penalty on Garrett Bradbury: Offensive Holding, 10 yards (no play)",4.110,3.450
+3,13:10,1,20,KAN 32,10,10,Kirk Cousins pass complete short right to Kyle Rudolph for 15 yards (tackle by Anthony Hitchens),3.450,4.290
+3,12:33,2,5,KAN 17,10,10,Dalvin Cook right end for 1 yard (tackle by Derrick Nnadi and Khalen Saunders),4.290,3.740
+3,11:57,,,,,,Timeout #1 by Kansas City Chiefs,,
+3,11:57,3,4,KAN 16,16,10,"Kirk Cousins pass complete short right to Ameer Abdullah for 16 yards, touchdown",3.740,7.000
+3,11:51,,,KAN 15,16,10,Dan Bailey kicks extra point no good wide left,0.000,-1.000
+3,11:51,,,MIN 35,16,10,"Dan Bailey kicks off 66 yards, returned by Mecole Hardman for 29 yards (tackle by Ameer Abdullah)",0.000,0.810
+3,11:45,1,10,KAN 28,16,10,Damien Williams left end for 8 yards (tackle by Linval Joseph and Eric Kendricks),0.810,1.340
+3,11:03,2,2,KAN 36,16,10,Damien Williams left guard for no gain (tackle by Everson Griffen),1.340,0.630
+3,10:22,3,2,KAN 36,16,10,Matt Moore pass incomplete short right intended for Demarcus Robinson,0.630,-0.980
+3,10:19,4,2,KAN 36,16,10,"Dustin Colquitt punts 47 yards, returned by Mike Hughes for 3 yards (tackle by James Winchester)",-0.980,-0.280
+3,10:07,1,10,MIN 20,16,10,Dalvin Cook left end for 2 yards (tackle by Damien Wilson),0.280,0.000
+3,9:31,2,8,MIN 22,16,10,Kirk Cousins pass complete short left to C.J. Ham for 32 yards (tackle by Reggie Ragland),0.000,2.520
+3,8:49,1,10,KAN 46,16,10,Dalvin Cook left end for 3 yards (tackle by Anthony Hitchens),2.520,2.380
+3,8:27,2,7,KAN 43,16,10,"Kirk Cousins pass complete short left to Irv Smith Jr. for 14 yards (tackle by Charvarius Ward). Penalty on Garrett Bradbury: Ineligible Downfield Pass, 5 yards (no play)",2.380,1.710
+3,7:57,2,12,KAN 48,16,10,Alexander Mattison left guard for 3 yards (tackle by Damien Wilson and Reggie Ragland),1.710,1.420
+3,7:16,3,9,KAN 45,16,10,Kirk Cousins pass incomplete short right intended for Stefon Diggs (defended by Charvarius Ward),1.420,0.270
+3,7:11,4,9,KAN 45,16,10,Britton Colquitt punts 42 yards downed by Jayron Kearse,0.270,0.380
+3,7:01,1,10,KAN 3,16,10,Matt Moore pass complete short right to Sammy Watkins for 6 yards (tackle by Eric Kendricks),-0.380,-0.340
+3,6:25,2,4,KAN 9,16,16,"Damien Williams up the middle for 91 yards, touchdown",-0.340,7.000
+3,6:13,,,MIN 15,16,17,Harrison Butker kicks extra point good,0.000,0.000
+3,6:13,,,KAN 35,16,17,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+3,6:13,1,10,MIN 25,16,17,Kirk Cousins pass complete short right to Dalvin Cook for 11 yards (tackle by Reggie Ragland),0.610,1.330
+3,5:34,1,10,MIN 36,16,17,Dalvin Cook left end for 1 yard (tackle by Mike Pennel),1.330,0.930
+3,4:51,2,9,MIN 37,16,17,Kirk Cousins pass complete short left to Kyle Rudolph for 5 yards (tackle by Daniel Sorensen),0.930,0.890
+3,4:06,3,4,MIN 42,16,17,"Kirk Cousins pass complete short middle to Ameer Abdullah for 7 yards (tackle by Jordan Lucas). Penalty on Josh Kline: Illegal Use of Hands, 10 yards (no play)",0.890,-0.430
+3,3:44,3,14,MIN 32,16,17,Kirk Cousins pass incomplete short right intended for Laquon Treadwell,-0.430,-1.240
+3,3:39,4,14,MIN 32,16,17,"Britton Colquitt punts 49 yards, returned by Mecole Hardman for 15 yards (tackle by Mike Boone and Ben Gedeon)",-1.240,-1.200
+3,3:28,1,10,KAN 34,16,17,Matt Moore pass complete short right to Sammy Watkins for 8 yards (tackle by Mike Hughes),1.200,1.740
+3,2:54,2,2,KAN 42,16,17,Matt Moore pass complete short left to Travis Kelce for 3 yards (tackle by Anthony Harris and Everson Griffen),1.740,1.930
+3,2:15,1,10,KAN 45,16,17,Matt Moore pass complete deep right to Tyreek Hill for 30 yards (tackle by Harrison Smith),1.930,3.910
+3,1:28,1,10,MIN 25,16,17,Matt Moore pass complete short right to Damien Williams for -2 yards (tackle by Linval Joseph),3.910,3.090
+3,0:43,2,12,MIN 27,16,17,Matt Moore pass incomplete short right intended for Sammy Watkins (defended by Anthony Barr),3.090,2.410
+3,0:39,3,12,MIN 27,16,17,Matt Moore pass incomplete short middle intended for Sammy Watkins,2.410,1.670
+3,0:35,4,12,MIN 27,16,20,Harrison Butker 45 yard field goal good,1.670,3.000
+3,0:30,,,KAN 35,16,20,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+3,0:30,1,10,MIN 25,16,20,Dalvin Cook up the middle for no gain (tackle by Derrick Nnadi),0.610,0.060
+Quarter,Time,Down,ToGo,Location,MIN,KAN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,10,MIN 25,16,20,Kirk Cousins pass complete short left to Irv Smith Jr. for 15 yards (tackle by Charvarius Ward),0.060,1.600
+4,14:20,1,10,MIN 40,16,20,Kirk Cousins pass incomplete short right intended for C.J. Ham,1.600,1.050
+4,14:14,2,10,MIN 40,16,20,Dalvin Cook right end for 12 yards (tackle by Bashaud Breeland),1.050,2.390
+4,13:52,1,10,KAN 48,16,20,Dalvin Cook right end for 7 yards (tackle by Damien Wilson and Anthony Hitchens),2.390,2.790
+4,13:13,2,3,KAN 41,16,20,Stefon Diggs left end for 12 yards (tackle by Juan Thornhill),2.790,3.640
+4,12:52,1,10,KAN 29,16,20,Dalvin Cook right end for 1 yard (tackle by Reggie Ragland),3.640,3.240
+4,12:12,2,9,KAN 28,16,20,Kirk Cousins pass complete short right to Dalvin Cook for 22 yards (tackle by Reggie Ragland),3.240,5.830
+4,11:47,1,6,KAN 6,16,20,Kirk Cousins pass incomplete short left,5.830,4.950
+4,11:39,2,6,KAN 6,16,20,Alexander Mattison left end for 3 yards (tackle by Charvarius Ward),4.950,4.720
+4,11:03,3,3,KAN 3,22,20,"Kirk Cousins pass complete short middle to Kyle Rudolph for 3 yards, touchdown",4.720,7.000
+4,10:59,,,KAN 15,23,20,Dan Bailey kicks extra point good,0.000,0.000
+4,10:59,,,MIN 35,23,20,"Dan Bailey kicks off 65 yards, touchback.",0.000,0.610
+4,10:59,1,10,KAN 25,23,20,Matt Moore pass complete deep right to Sammy Watkins for 16 yards (tackle by Eric Kendricks),0.610,1.660
+4,10:25,1,10,KAN 41,23,20,Damien Williams left end for 4 yards (tackle by Jaleel Johnson and Anthony Barr),1.660,1.660
+4,9:46,2,6,KAN 45,23,20,Matt Moore pass complete short left to Damien Williams for 5 yards (tackle by Xavier Rhodes),1.660,1.620
+4,9:04,3,1,KAN 50,23,20,"Damien Williams left end for 11 yards (tackle by Eric Kendricks). Penalty on Travis Kelce: Offensive Holding, 10 yards (no play)",1.620,0.300
+4,8:34,,,,,,Timeout #1 by Minnesota Vikings,,
+4,8:34,3,11,KAN 40,23,20,"Penalty on Cameron Erving: False Start, 5 yards (no play)",0.300,-0.360
+4,8:34,3,16,KAN 35,23,20,Matt Moore sacked by Ifeadi Odenigbo for -11 yards,-0.360,-1.770
+4,7:58,4,27,KAN 24,23,20,"Dustin Colquitt punts 48 yards, muffed catch by Mike Hughes, recovered by Mike Hughes at MIN-28, returned by Mike Hughes for no gain (tackle by Jordan Lucas)",-1.770,-0.810
+4,7:47,1,10,MIN 28,23,20,Kirk Cousins pass incomplete short right intended for C.J. Ham,0.810,0.260
+4,7:41,2,10,MIN 28,23,20,Dalvin Cook up the middle for -3 yards (tackle by Emmanuel Ogbah and Derrick Nnadi),0.260,-0.820
+4,6:59,3,13,MIN 25,23,20,Dalvin Cook right end for 3 yards (tackle by Chris Jones). Penalty on Josh Kline: Offensive Holding (Declined),-0.820,-1.500
+4,6:41,4,10,MIN 28,23,20,Britton Colquitt punts 46 yards out of bounds,-1.500,-0.670
+4,6:35,1,10,KAN 26,23,20,Damien Williams left tackle for 5 yards (tackle by Anthony Harris),0.670,0.810
+4,6:01,2,5,KAN 31,23,20,Matt Moore sacked by Everson Griffen for -2 yards. Penalty on Cameron Erving: Offensive Holding (Declined),0.810,-0.160
+4,5:38,3,7,KAN 29,23,20,Matt Moore pass complete short left Matt Moore pass complete short left to Tyreek Hill for 11 yards to Tyreek Hill for 11 yards (tackle by Harrison Smith) (tackle by Harrison Smith),-0.160,1.600
+4,4:53,1,10,KAN 40,23,20,Matt Moore pass complete deep right to Tyreek Hill for 41 yards (tackle by Trae Waynes),1.600,4.310
+4,4:10,1,10,MIN 19,23,20,Damien Williams up the middle for -3 yards (tackle by Everson Griffen),4.310,3.360
+4,3:31,2,13,MIN 22,23,20,Matt Moore pass incomplete deep left intended for Travis Kelce,3.360,2.680
+4,3:27,3,13,MIN 22,23,20,"Matt Moore sacked by Harrison Smith for -14 yards. Matt Moore fumbles (forced by Harrison Smith), recovered by Matt Moore at MIN-36",2.680,0.880
+4,2:36,4,27,MIN 36,23,23,Harrison Butker 54 yard field goal good,0.880,3.000
+4,2:30,,,KAN 35,23,23,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+4,2:30,1,10,MIN 25,23,23,Kirk Cousins pass incomplete short middle intended for Stefon Diggs (defended by Khalen Saunders),0.610,0.060
+4,2:26,2,10,MIN 25,23,23,Kirk Cousins pass complete short right to Irv Smith Jr. for -7 yards (tackle by Daniel Sorensen),0.060,-1.720
+4,2:00,3,17,MIN 18,23,23,Kirk Cousins pass incomplete short left intended for Dalvin Cook,-1.720,-2.240
+4,1:55,4,17,MIN 18,23,23,Britton Colquitt punts 27 yards out of bounds,-2.240,-2.590
+4,1:47,1,10,MIN 45,23,23,"Matt Moore sacked by Stephen Weatherly for -11 yards. Matt Moore fumbles (forced by Stephen Weatherly), recovered by Damien Williams at KC-44",2.590,0.560
+4,0:59,,,,,,Timeout #2 by Kansas City Chiefs,,
+4,0:59,2,21,KAN 44,23,23,Matt Moore pass complete deep left to Travis Kelce for 17 yards (tackle by Mackensie Alexander),0.560,2.150
+4,0:24,,,,,,Timeout #2 by Minnesota Vikings,,
+4,0:24,3,4,MIN 39,23,23,Matt Moore pass complete short middle to Tyreek Hill for 13 yards (tackle by Harrison Smith),2.150,3.840
+4,0:04,1,10,MIN 26,23,23,Matt Moore spiked the ball,3.840,3.300
+4,0:03,2,10,MIN 26,23,26,Harrison Butker 44 yard field goal good,3.300,3.000
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

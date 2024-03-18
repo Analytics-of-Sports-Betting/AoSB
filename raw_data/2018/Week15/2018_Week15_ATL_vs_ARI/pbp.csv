@@ -1,0 +1,186 @@
+Quarter,Time,Down,ToGo,Location,ARI,ATL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Cardinals won the coin toss and deferred, Falcons to receive the opening kickoff.",,
+1,15:00,,,ARI 35,0,0,"Zane Gonzalez kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,ATL 25,0,0,Matt Ryan pass incomplete deep left intended for Julio Jones,0.610,0.060
+1,14:56,2,10,ATL 25,0,0,Matt Ryan pass complete short right to Calvin Ridley for 9 yards (tackle by David Amerson),0.060,0.560
+1,14:32,3,1,ATL 34,0,0,Matt Ryan left guard for 2 yards (tackle by Chandler Jones and Corey Peters),0.560,1.330
+1,13:50,1,10,ATL 36,0,0,Matt Ryan sacked by Markus Golden for -5 yards,1.330,0.120
+1,13:04,2,15,ATL 31,0,0,Matt Ryan pass complete short right to Calvin Ridley for 4 yards (tackle by Gerald Hodges),0.120,-0.030
+1,12:31,3,11,ATL 35,0,0,"Matt Ryan pass complete deep left to Mohamed Sanu for 17 yards (tackle by David Amerson). Penalty on Tevin Coleman: Illegal Shift, 5 yards (no play)",-0.030,-0.690
+1,12:06,3,16,ATL 30,0,0,Matt Ryan pass incomplete deep middle intended for Marvin Hall (defended by Brandon Williams),-0.690,-1.370
+1,12:00,4,16,ATL 30,0,0,"Matthew Bosher punts 40 yards, returned by Patrick Peterson for 16 yards (tackle by Justin Bethel). Penalty on Rudy Ford: Offensive Holding, 10 yards",-1.370,-1.330
+1,11:47,1,10,ARI 36,0,0,Josh Rosen pass complete short right to Larry Fitzgerald for 8 yards (tackle by Desmond Trufant),1.330,1.870
+1,11:12,2,2,ARI 44,0,0,David Johnson right end for 4 yards (tackle by Grady Jarrett),1.870,2.130
+1,10:35,1,10,ARI 48,0,0,Josh Rosen pass complete deep right to David Johnson for 40 yards (tackle by Damontae Kazee),2.130,4.780
+1,9:56,1,10,ATL 12,0,0,Josh Rosen pass incomplete short right Penalty on ARI: Illegal Shift (Declined),4.780,4.100
+1,9:52,2,10,ATL 12,0,0,Chase Edmonds left end for no gain (tackle by Deion Jones),4.100,3.120
+1,9:08,3,10,ATL 12,0,0,"Penalty on Trent Sherfield: False Start, 5 yards (no play)",3.120,2.840
+1,9:07,3,15,ATL 17,0,0,Josh Rosen pass complete short left to David Johnson for 15 yards (tackle by De'Vondre Campbell and Damontae Kazee),2.840,6.740
+1,8:41,1,2,ATL 2,0,0,David Johnson right guard for 1 yard (tackle by Desmond Trufant),6.740,5.910
+1,8:30,2,1,ATL 1,6,0,"David Johnson right guard for 1 yard, touchdown",5.910,7.000
+1,8:25,,,ATL 15,7,0,Zane Gonzalez kicks extra point good,0.000,0.000
+1,8:25,,,ARI 35,7,0,"Zane Gonzalez kicks off 65 yards, touchback.",0.000,0.610
+1,8:25,1,10,ATL 25,7,0,Tevin Coleman left end for no gain (tackle by Deone Bucannon),0.610,0.060
+1,7:46,2,10,ATL 25,7,0,Matt Ryan pass incomplete short right intended for Mohamed Sanu,0.060,-0.620
+1,7:42,3,10,ATL 25,7,0,Matt Ryan sacked by Haason Reddick for -6 yards,-0.620,-2.140
+1,7:09,4,16,ATL 19,7,0,"Matthew Bosher punts 38 yards, fair catch by Patrick Peterson at ARI-43",-2.140,-1.800
+1,7:01,1,10,ARI 43,7,0,David Johnson right end for -1 yards (tackle by Jack Crawford and Steven Means),1.800,1.120
+1,6:21,2,11,ARI 42,7,6,"Josh Rosen pass short right (defended by Vic Beasley) intended for David Johnson is intercepted by Deion Jones at ARI-41 and returned for 41 yards, touchdown",1.120,-7.000
+1,6:11,,,ATL 35,7,7,"Matthew Bosher kicks off 65 yards, touchback.",0.000,0.610
+1,6:11,1,10,ARI 25,7,7,Chase Edmonds left end for 7 yards (tackle by Damontae Kazee),0.610,1.010
+1,5:32,2,3,ARI 32,7,7,Josh Rosen pass incomplete short left intended for Ricky Seals-Jones,1.010,0.300
+1,5:26,3,3,ARI 32,7,7,Josh Rosen pass complete short left to Chase Edmonds for 9 yards (tackle by Brian Poole),0.300,1.660
+1,4:56,1,10,ARI 41,7,7,T.J. Logan right end for -3 yards (tackle by Vic Beasley and Deadrin Senat),1.660,0.720
+1,4:15,2,13,ARI 38,7,7,David Johnson right tackle for 6 yards (tackle by Jack Crawford),0.720,0.830
+1,3:35,3,7,ARI 44,7,7,Josh Rosen sacked by Bruce Irvin and De'Vondre Campbell for -9 yards,0.830,-1.040
+1,2:59,4,16,ARI 35,7,7,"Andy Lee punts 37 yards, fair catch by Justin Hardy at ATL-28",-1.040,-0.810
+1,2:52,1,10,ATL 28,7,7,Tevin Coleman right end for 65 yards (tackle by Tre Boston),0.810,5.600
+1,2:06,1,7,ARI 7,7,7,Tevin Coleman left guard for 3 yards (tackle by Rodney Gunter),5.600,5.340
+1,1:25,2,4,ARI 4,7,7,Matt Ryan pass complete short middle to Julio Jones for 1 yard (tackle by Rodney Gunter),5.340,4.720
+1,0:47,3,3,ARI 3,7,7,Matt Ryan pass incomplete short right intended for Austin Hooper (defended by Haason Reddick),4.720,3.040
+1,0:41,4,3,ARI 3,7,10,Matt Bryant 22 yard field goal good,3.040,3.000
+1,0:37,,,ATL 35,7,10,"Matthew Bosher kicks off 65 yards, touchback.",0.000,0.610
+1,0:37,1,10,ARI 25,7,10,Chase Edmonds left tackle for 13 yards (tackle by Damontae Kazee),0.610,1.470
+1,0:05,1,10,ARI 38,7,10,David Johnson left tackle for 1 yard (tackle by Grady Jarrett and Steven Means),1.470,1.060
+Quarter,Time,Down,ToGo,Location,ARI,ATL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,9,ARI 39,7,10,David Johnson left guard for 1 yard (tackle by Deion Jones),1.060,0.500
+2,14:19,3,8,ARI 40,7,10,"Josh Rosen sacked by Grady Jarrett for -4 yards. Josh Rosen fumbles (forced by Grady Jarrett), recovered by Brian Poole at ARI-34 (tackle by Larry Fitzgerald)",0.500,-3.310
+2,14:09,1,10,ARI 34,7,10,Matt Ryan pass complete deep middle to Julio Jones for 22 yards (tackle by Tre Boston),3.310,4.780
+2,13:29,1,10,ARI 12,7,10,Ito Smith left guard for 3 yards (tackle by Zach Moore and Deone Bucannon),4.780,4.640
+2,12:57,2,7,ARI 9,7,10,Matt Ryan pass incomplete short middle intended for Ito Smith,4.640,3.700
+2,12:54,,,,,,Timeout #1 by Arizona Cardinals,,
+2,12:54,3,7,ARI 9,7,10,Matt Ryan pass complete short left to Ito Smith for 8 yards (tackle by Haason Reddick),3.700,6.970
+2,12:36,1,1,ARI 1,7,16,"Matt Ryan right guard for 1 yard, touchdown",6.970,7.000
+2,12:32,,,ARI 15,7,17,Matt Bryant kicks extra point good,0.000,0.000
+2,12:32,,,ATL 35,7,17,"Matthew Bosher kicks off 65 yards, touchback.",0.000,0.610
+2,12:32,1,10,ARI 25,7,17,Josh Rosen pass complete short right to Larry Fitzgerald for -1 yards (tackle by Sharrod Neasman),0.610,-0.070
+2,11:51,2,11,ARI 24,7,17,Josh Rosen sacked by Brian Poole for -8 yards,-0.070,-2.140
+2,11:05,3,19,ARI 16,7,17,Josh Rosen right end for 9 yards (tackle by Sharrod Neasman),-2.140,-1.700
+2,10:34,4,10,ARI 25,7,17,"Andy Lee punts 64 yards, returned by Justin Hardy for 10 yards (tackle by Rudy Ford)",-1.700,-0.340
+2,10:19,1,10,ATL 21,7,17,Tevin Coleman right end for 8 yards (tackle by Gerald Hodges),0.340,0.880
+2,9:46,2,2,ATL 29,7,17,Tevin Coleman left tackle for -4 yards (tackle by Chandler Jones),0.880,-0.360
+2,9:07,3,6,ATL 25,7,17,Matt Ryan pass complete short right to Calvin Ridley for 8 yards (tackle by Brandon Williams),-0.360,1.140
+2,8:38,1,10,ATL 33,7,17,Matt Ryan pass complete short left to Marvin Hall for 10 yards (tackle by Budda Baker),1.140,1.800
+2,7:57,1,10,ATL 43,7,17,Matt Ryan pass complete short left to Justin Hardy for 18 yards (tackle by Patrick Peterson),1.800,2.980
+2,7:26,1,10,ARI 39,7,17,Ito Smith left end for 5 yards (tackle by Markus Golden),2.980,3.120
+2,6:46,2,5,ARI 34,7,17,Matt Ryan pass complete short left to Julio Jones for 17 yards (tackle by Antoine Bethea),3.120,4.440
+2,6:12,1,10,ARI 17,7,17,Matt Ryan pass incomplete short right intended for Russell Gage,4.440,3.850
+2,6:07,2,10,ARI 17,7,17,Ito Smith left end for 3 yards (tackle by Budda Baker),3.850,3.500
+2,5:24,3,7,ARI 14,7,17,Matt Ryan pass incomplete short right intended for Tevin Coleman,3.500,2.510
+2,5:21,4,7,ARI 14,7,20,Matt Bryant 33 yard field goal good,2.510,3.000
+2,5:16,,,ATL 35,7,20,"Matthew Bosher kicks off 65 yards, touchback.",0.000,0.610
+2,5:16,1,10,ARI 25,7,20,Josh Rosen pass complete short right to Jermaine Gresham for 16 yards (tackle by Foyesade Oluokun),0.610,1.660
+2,4:39,1,10,ARI 41,7,20,David Johnson right tackle for 4 yards (tackle by Takkarist McKinley),1.660,1.660
+2,4:01,2,6,ARI 45,7,20,Josh Rosen pass incomplete short left intended for David Johnson,1.660,0.960
+2,3:57,3,6,ARI 45,7,20,Josh Rosen pass incomplete short left intended for Trent Sherfield (defended by Robert Alford),0.960,-0.390
+2,3:52,4,6,ARI 45,7,20,"Andy Lee punts 44 yards, fair catch by Justin Hardy at ATL-11",-0.390,0.370
+2,3:43,1,10,ATL 11,7,20,Matt Ryan pass complete short left to Calvin Ridley for 7 yards (tackle by Brandon Williams),-0.370,0.000
+2,3:11,2,3,ATL 18,7,20,Tevin Coleman left tackle for 2 yards (tackle by Gerald Hodges),0.000,-0.370
+2,2:33,3,1,ATL 20,7,20,Matt Ryan pass incomplete short right intended for Julio Jones,-0.370,-2.030
+2,2:29,4,1,ATL 20,7,20,Matthew Bosher punts 41 yards downed by Russell Gage,-2.030,-1.530
+2,2:15,1,10,ARI 39,7,20,Josh Rosen pass complete short right to Ricky Seals-Jones for 9 yards (tackle by Sharrod Neasman),1.530,2.200
+2,2:00,2,1,ARI 48,7,20,Chase Edmonds right tackle for 1 yard (tackle by Takkarist McKinley and Grady Jarrett),2.200,2.190
+2,1:38,1,10,ARI 49,7,20,"Josh Rosen pass incomplete deep right. Penalty on Korey Cunningham: Offensive Holding, 10 yards (no play)",2.190,1.530
+2,1:29,1,20,ARI 39,7,20,Josh Rosen pass incomplete short left intended for Ricky Seals-Jones (defended by Deion Jones),1.530,0.300
+2,1:24,2,20,ARI 39,7,20,"Josh Rosen pass incomplete short right intended for David Johnson. Penalty on Grady Jarrett: Roughing the Passer, 15 yards (no play)",0.300,2.520
+2,1:18,1,10,ATL 46,7,20,Josh Rosen pass deep left intended for Larry Fitzgerald is intercepted by Brian Poole at ATL-29 and returned for no gain,2.520,-0.870
+2,1:10,1,10,ATL 29,7,20,Matt Ryan pass complete short left to Calvin Ridley for 14 yards (tackle by Haason Reddick),0.870,1.800
+2,1:03,1,10,ATL 43,7,20,Matt Ryan pass complete short left to Julio Jones for 14 yards (tackle by Haason Reddick),1.800,2.720
+2,0:39,1,10,ARI 43,7,20,Matt Ryan pass complete short left to Julio Jones for 7 yards (tackle by Patrick Peterson),2.720,3.120
+2,0:33,,,,,,Timeout #1 by Atlanta Falcons,,
+2,0:33,2,3,ARI 36,7,20,Matt Ryan left tackle for 15 yards (tackle by Patrick Peterson),3.120,4.170
+2,0:23,,,,,,Timeout #2 by Atlanta Falcons,,
+2,0:23,1,10,ARI 21,7,20,Matt Ryan pass incomplete deep left intended for Calvin Ridley,4.170,3.630
+2,0:19,2,10,ARI 21,7,26,"Matt Ryan pass complete deep left to Julio Jones for 21 yards, touchdown. Penalty on Chandler Jones: Roughing the Passer, 15 yards",3.630,7.000
+2,0:13,,,ARI 2,7,26,"Two Point Attempt: Matt Ryan pass incomplete intended for Marvin Hall, conversion fails",0.000,-1.000
+2,0:13,,,ATL 50,7,26,"Matthew Bosher kicks off 50 yards, touchback.",0.000,0.610
+2,0:13,1,10,ARI 25,7,26,Josh Rosen kneels for -1 yards,0.610,-0.070
+Quarter,Time,Down,ToGo,Location,ARI,ATL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,ATL 35,7,26,"Matthew Bosher kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,ARI 25,7,26,David Johnson left guard for 10 yards (tackle by Jack Crawford and Damontae Kazee),0.610,1.270
+3,14:24,1,10,ARI 35,7,26,"Penalty on Colby Gossett: False Start, 5 yards (no play)",1.270,0.940
+3,14:06,1,15,ARI 30,7,26,Josh Rosen pass complete short middle to Larry Fitzgerald for 8 yards (tackle by De'Vondre Campbell and Brian Poole),0.940,1.130
+3,13:25,2,7,ARI 38,7,26,Josh Rosen pass incomplete short right intended for David Johnson (defended by Vic Beasley),1.130,0.430
+3,13:22,3,7,ARI 38,7,26,Josh Rosen pass incomplete short left intended for Jalen Tolliver (defended by Robert Alford),0.430,-0.850
+3,13:18,4,7,ARI 38,7,26,"Andy Lee punts 45 yards, fair catch by Justin Hardy at ATL-17",-0.850,0.060
+3,13:08,1,10,ATL 17,7,26,Tevin Coleman right end for -1 yards (tackle by Tre Boston),-0.060,-0.730
+3,12:29,2,11,ATL 16,7,26,Matt Ryan pass complete short right to Russell Gage for 11 yards (tackle by Tre Boston),-0.730,0.740
+3,11:46,1,10,ATL 27,7,26,Matt Ryan pass complete deep middle to Russell Gage for 22 yards (tackle by Brandon Williams),0.740,2.190
+3,11:15,1,10,ATL 49,7,26,Matt Ryan pass incomplete short middle intended for Mohamed Sanu (defended by Tre Boston),2.190,1.650
+3,11:10,2,10,ATL 49,7,26,"Penalty on Justin Hardy: False Start, 5 yards (no play)",1.650,0.970
+3,11:10,2,15,ATL 44,7,26,Matt Ryan pass incomplete short right intended for Mohamed Sanu,0.970,0.300
+3,11:05,3,15,ATL 44,7,26,Matt Ryan pass incomplete short middle intended for Calvin Ridley,0.300,-0.460
+3,11:02,4,15,ATL 44,7,26,"Matthew Bosher punts 45 yards, fair catch by Patrick Peterson at ARI-11. Penalty on Zach Moore: Running Into the Kicker (Offsetting) (no play)",-0.460,-0.460
+3,10:52,4,15,ATL 44,7,26,"Matthew Bosher punts 42 yards, returned by Patrick Peterson for 8 yards (tackle by Russell Gage)",-0.460,-0.410
+3,10:41,1,10,ARI 22,7,26,Josh Rosen pass complete short middle to Larry Fitzgerald for 13 yards (tackle by Deadrin Senat),0.410,1.270
+3,9:56,1,10,ARI 35,7,26,Josh Rosen sacked by Steven Means for -7 yards,1.270,-0.220
+3,9:10,2,17,ARI 28,7,26,Josh Rosen pass complete short right to T.J. Logan for -5 yards (tackle by Jack Crawford and Sharrod Neasman),-0.220,-1.550
+3,8:23,3,22,ARI 23,7,26,Josh Rosen pass complete short right to David Johnson for 13 yards (tackle by Brian Poole),-1.550,-0.980
+3,7:40,4,9,ARI 36,7,26,"Andy Lee punts 36 yards, fair catch by Justin Hardy at ATL-28",-0.980,-0.810
+3,7:32,1,10,ATL 28,7,26,Ito Smith right guard for 16 yards (tackle by Haason Reddick and Tre Boston),0.810,1.860
+3,6:51,1,10,ATL 44,7,26,"Ito Smith left tackle for 1 yard (tackle by Benson Mayowa). Penalty on Rodney Gunter: Face Mask (15 Yards), 15 yards",1.860,2.920
+3,6:28,1,10,ARI 40,7,26,Matt Ryan pass complete short left to Ito Smith for -3 yards (tackle by Corey Peters and Rodney Gunter),2.920,1.970
+3,5:49,2,13,ARI 43,7,32,"Tevin Coleman left end for 43 yards, touchdown",1.970,7.000
+3,5:39,,,ARI 15,7,33,Matt Bryant kicks extra point good,0.000,0.000
+3,5:39,,,ATL 35,7,33,"Matthew Bosher kicks off 65 yards, touchback.",0.000,0.610
+3,5:39,1,10,ARI 25,7,33,Chase Edmonds right guard for 3 yards (tackle by Deion Jones and Bruce Irvin),0.610,0.470
+3,5:13,2,7,ARI 28,7,33,Josh Rosen pass complete short left to Ricky Seals-Jones for 4 yards (tackle by Foyesade Oluokun),0.470,0.300
+3,4:50,3,3,ARI 32,7,33,"Penalty on ATL: Defensive Too Many Men on Field, 5 yards (no play)",0.300,1.400
+3,4:37,1,10,ARI 37,7,33,Josh Rosen pass complete short middle to Trent Sherfield for 3 yards (tackle by Deion Jones),1.400,1.260
+3,4:12,2,7,ARI 40,7,33,Chase Edmonds right guard for -4 yards (tackle by Grady Jarrett),1.260,0.040
+3,3:35,,,,,,Timeout #1 by Arizona Cardinals,,
+3,3:35,3,11,ARI 36,7,33,Josh Rosen sacked by Bruce Irvin for -12 yards,0.040,-1.770
+3,2:53,4,23,ARI 24,7,33,Andy Lee punts 52 yards out of bounds,-1.770,-0.540
+3,2:46,1,10,ATL 24,7,33,Ito Smith left tackle for 6 yards (tackle by Gerald Hodges),0.540,0.810
+3,2:03,2,4,ATL 30,7,33,Matt Ryan pass complete short right to Justin Hardy for 6 yards (tackle by Corey Peters),0.810,1.330
+3,1:14,1,10,ATL 36,7,33,Ito Smith right tackle for 4 yards (tackle by Antoine Bethea and Cameron Malveaux),1.330,1.330
+3,0:37,2,6,ATL 40,7,33,Matt Ryan pass complete short left to Mohamed Sanu for 5 yards (tackle by Antoine Bethea),1.330,1.290
+Quarter,Time,Down,ToGo,Location,ARI,ATL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,1,ATL 45,7,33,Mohamed Sanu right tackle for 11 yards (tackle by Antoine Bethea),1.290,2.650
+4,14:19,1,10,ARI 44,7,33,Matt Ryan pass incomplete short right intended for Marvin Hall (defended by Tre Boston),2.650,2.110
+4,14:13,2,10,ARI 44,7,33,"Tevin Coleman left tackle for 28 yards. Penalty on Russell Gage: Illegal Block Above the Waist, 10 yards",2.110,3.840
+4,14:03,1,10,ARI 26,7,33,Ito Smith left guard for 2 yards (tackle by Tre Boston),3.840,3.570
+4,13:25,2,8,ARI 24,7,33,Matt Ryan pass complete short middle to Mohamed Sanu for 16 yards (tackle by Antoine Bethea),3.570,5.370
+4,12:36,1,8,ARI 8,7,33,Ito Smith left tackle for -6 yards (tackle by Benson Mayowa),5.370,3.580
+4,11:59,2,14,ARI 14,7,33,Matt Ryan pass complete short right to Mohamed Sanu for 9 yards (tackle by Budda Baker),3.580,4.260
+4,11:20,3,5,ARI 5,7,39,"Matt Ryan pass complete short left to Justin Hardy for 5 yards, touchdown",4.260,7.000
+4,11:14,,,ARI 15,7,40,Matt Bryant kicks extra point good,0.000,0.000
+4,11:14,,,ATL 35,7,40,"Matthew Bosher kicks off 65 yards, touchback.",0.000,0.610
+4,11:14,1,10,ARI 25,7,40,"Josh Rosen right guard for no gain. Penalty on Korey Cunningham: Offensive Holding, 10 yards (no play)",0.610,-0.410
+4,10:50,1,20,ARI 15,7,40,Josh Rosen sacked by Vic Beasley for -2 yards,-0.410,-1.640
+4,10:05,2,22,ARI 13,7,40,David Johnson left tackle for 1 yard (tackle by Vic Beasley),-1.640,-2.550
+4,9:27,3,21,ARI 14,7,40,David Johnson left end for 5 yards (tackle by Robert Alford),-2.550,-2.140
+4,9:01,4,16,ARI 19,7,40,"Andy Lee punts 58 yards, returned by Marvin Hall for no gain (tackle by Joe Walker). Penalty on Russell Gage: Offensive Holding, 10 yards",-2.140,0.320
+4,8:48,1,10,ATL 13,7,40,Tevin Coleman right end for no gain (tackle by Gerald Hodges),-0.320,-0.770
+4,8:03,2,10,ATL 13,7,40,Tevin Coleman left end for 1 yard (tackle by Corey Peters),-0.770,-1.300
+4,7:17,3,9,ATL 14,7,40,Matt Ryan pass incomplete short right intended for Russell Gage (defended by Brandon Williams),-1.300,-2.470
+4,7:14,4,9,ATL 14,7,40,"Matthew Bosher punts 50 yards, fair catch by Patrick Peterson at ARI-36",-2.470,-1.330
+4,7:04,1,10,ARI 36,7,40,Mike Glennon pass complete short right to Trent Sherfield for 5 yards (tackle by Desmond Trufant),1.330,1.470
+4,6:41,2,5,ARI 41,7,40,Mike Glennon pass complete short middle to Larry Fitzgerald for 26 yards (tackle by Damontae Kazee),1.470,3.380
+4,6:15,1,10,ATL 33,7,40,Mike Glennon pass incomplete deep right intended for Ricky Seals-Jones,3.380,2.840
+4,6:13,2,10,ATL 33,7,40,"Penalty on Joe Barksdale: False Start, 5 yards (no play)",2.840,2.160
+4,6:13,2,15,ATL 38,7,40,Mike Glennon sacked by Grady Jarrett for -8 yards,2.160,0.430
+4,5:51,3,23,ATL 46,7,40,Mike Glennon pass complete short right to Chase Edmonds for 13 yards (tackle by Sharrod Neasman),0.430,1.150
+4,5:23,4,10,ATL 33,7,40,Mike Glennon pass complete short left to Larry Fitzgerald for 12 yards (tackle by Brian Poole),1.150,4.170
+4,5:00,1,10,ATL 21,7,40,Mike Glennon pass incomplete deep left intended for Trent Sherfield,4.170,3.630
+4,4:57,2,10,ATL 21,7,40,Mike Glennon pass complete short left to Ricky Seals-Jones for 9 yards (tackle by Foyesade Oluokun). Penalty on Vic Beasley: Defensive Offside (Declined),3.630,4.490
+4,4:53,3,1,ATL 12,7,40,Chase Edmonds left guard for 2 yards (tackle by Foyesade Oluokun and Grady Jarrett),4.490,4.910
+4,4:32,1,10,ATL 10,7,40,Chase Edmonds right end for no gain (tackle by Brian Poole),4.910,4.190
+4,4:01,2,10,ATL 10,7,40,Mike Glennon pass complete short right to T.J. Logan for 3 yards (tackle by Foyesade Oluokun),4.190,3.810
+4,3:22,3,7,ATL 7,7,40,Mike Glennon pass incomplete short middle intended for Ricky Seals-Jones,3.810,2.970
+4,3:19,4,7,ATL 7,13,40,"Mike Glennon pass complete short right to Trent Sherfield for 7 yards, touchdown",2.970,7.000
+4,3:14,,,ATL 15,14,40,Zane Gonzalez kicks extra point good,0.000,0.000
+4,3:14,,,ARI 35,14,40,"Zane Gonzalez kicks off 59 yards, returned by Justin Hardy for no gain (tackle by Chase Edmonds)",0.000,-0.320
+4,3:11,1,10,ATL 13,14,40,Brian Hill left end for -2 yards (tackle by Corey Peters),-0.320,-0.930
+4,2:24,2,12,ATL 11,14,40,Brian Hill right guard for 4 yards (tackle by Tre Boston and Cameron Malveaux),-0.930,-1.180
+4,2:00,3,8,ATL 15,14,40,Brian Hill right guard for 5 yards (tackle by Deone Bucannon),-1.180,-2.030
+4,1:17,4,3,ATL 20,14,40,"Matthew Bosher punts 55 yards, returned by Patrick Peterson for 7 yards (tackle by Duke Riley)",-2.030,-1.070
+4,1:07,1,10,ARI 32,14,40,Mike Glennon pass complete short right to T.J. Logan for 17 yards (tackle by Sharrod Neasman),1.070,2.190
+4,0:41,1,10,ARI 49,14,40,Mike Glennon pass complete short left to Larry Fitzgerald for 16 yards (tackle by Brooks Reed),2.190,3.250
+4,0:19,1,10,ATL 35,14,40,Mike Glennon pass incomplete deep middle intended for Ricky Seals-Jones,3.250,2.700
+4,0:15,2,10,ATL 35,14,40,Mike Glennon pass complete short left to T.J. Logan for 3 yards (tackle by Duke Riley),2.700,2.410
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

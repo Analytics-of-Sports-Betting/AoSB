@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,HOU 25,6,2:44,12,Punt
+2,1,10:56,HOU 11,7,3:57,36,Punt
+3,1,2:07,,0,0:06,0,Fumble
+4,1,1:54,HOU 25,7,3:14,20,Interception
+5,2,11:42,HOU 10,7,3:27,28,Punt
+6,2,4:53,HOU 10,7,3:36,40,Punt
+7,3,8:19,,0,0:07,0,Fumble
+8,3,5:41,HOU 23,4,0:50,16,Punt
+9,3,3:27,HOU 20,9,4:15,44,Downs
+10,4,13:27,HOU 14,3,1:47,-3,Punt
+11,4,11:00,HOU 25,7,2:41,30,Downs
+12,4,6:41,HOU 5,11,3:30,40,Downs
+13,4,1:08,HOU 4,2,1:08,12,End of Game

@@ -1,0 +1,177 @@
+Quarter,Time,Down,ToGo,Location,SFO,DAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Cowboys won the coin toss, Cowboys to receive the opening kickoff.",,
+1,15:00,,,SFO 35,0,0,"Phil Dawson kicks off 73 yards, returned by Dwayne Harris for 28 yards (tackle by Chris Borland)",0.000,-0.280
+1,15:00,1,10,DAL 20,0,0,"Penalty on Tyron Smith: False Start, 5 yards (no play)",0.280,-0.310
+1,14:54,1,15,DAL 15,0,0,Tony Romo pass complete deep middle to Terrance Williams for 18 yards (tackle by Tramaine Brock),-0.310,1.140
+1,14:17,1,10,DAL 33,6,0,"DeMarco Murray left end for 2 yards (tackle by Dan Skuta). DeMarco Murray fumbles (forced by Dan Skuta), recovered by Chris Culliver at DAL-35 and returned for 35 yards, touchdown",1.140,-7.000
+1,14:06,,,DAL 2,7,0,Phil Dawson kicks extra point good,0.000,0.000
+1,14:06,,,SFO 35,7,0,"Phil Dawson kicks off 65 yards, touchback",0.000,-0.280
+1,14:06,1,10,DAL 20,7,0,Dwayne Harris right end for 9 yards (tackle by Michael Wilhoite),0.280,0.950
+1,13:30,2,1,DAL 29,7,0,Tony Romo pass complete deep middle to Dez Bryant for 20 yards (tackle by Tramaine Brock),0.950,2.190
+1,12:55,1,10,DAL 49,7,0,"DeMarco Murray right tackle for 7 yards (tackle by Tramaine Brock). Penalty on Ahmad Brooks: Illegal Use of Hands, 5 yards",2.190,2.980
+1,12:35,1,10,SFO 39,7,0,"Tony Romo pass incomplete short left intended for Terrance Williams. Penalty on Ahmad Brooks: Illegal Use of Hands, 5 yards (no play)",2.980,3.310
+1,12:31,1,10,SFO 34,7,0,DeMarco Murray right guard for 6 yards (tackle by Michael Wilhoite),3.310,3.580
+1,11:55,2,4,SFO 28,7,0,DeMarco Murray right tackle for 5 yards (tackle by Ray McDonald and Ian Williams),3.580,4.040
+1,11:09,1,10,SFO 23,7,0,"Tony Romo pass complete short left to Cole Beasley for no gain. Penalty on Dez Bryant: Offensive Holding, 10 yards (no play)",4.040,3.380
+1,10:47,1,20,SFO 33,7,0,DeMarco Murray up the middle for 6 yards (tackle by Michael Wilhoite),3.380,2.960
+1,10:09,2,14,SFO 27,7,0,"Penalty on Ahmad Brooks: Neutral Zone Infraction, 5 yards (no play)",2.960,3.630
+1,9:41,2,9,SFO 22,7,0,Tony Romo pass complete short middle to Lance Dunbar for 11 yards (tackle by Antoine Bethea),3.630,4.840
+1,9:07,1,10,SFO 11,7,0,Tony Romo pass complete short left to Lance Dunbar for 9 yards (tackle by Antoine Bethea),4.840,4.840
+1,8:18,1,10,SFO 11,7,0,Timeout #1 by Dallas Cowboys,4.840,5.850
+1,8:18,2,1,SFO 2,7,0,Tony Romo sacked by Justin Smith for -9 yards,5.850,3.130
+1,7:31,3,10,SFO 11,7,0,Tony Romo pass incomplete short middle intended for Jason Witten (defended by Antoine Bethea),3.130,2.700
+1,7:26,4,10,SFO 11,7,3,Dan Bailey 29 yard field goal good,2.700,3.000
+1,7:26,,,DAL 35,7,3,"Dan Bailey kicks off 65 yards, touchback",0.000,-0.280
+1,7:22,1,10,SFO 20,7,3,Colin Kaepernick pass complete short left to Anquan Boldin for 7 yards (tackle by Rolando McClain),0.280,0.680
+1,6:49,2,3,SFO 27,7,3,"Colin Kaepernick pass incomplete short left intended for Michael Crabtree. Penalty on Morris Claiborne: Defensive Pass Interference, 7 yards (no play)",0.680,1.200
+1,6:44,1,10,SFO 34,7,3,Colin Kaepernick pass complete deep middle to Anquan Boldin for 37 yards (tackle by Barry Church),1.200,3.640
+1,6:03,1,10,DAL 29,13,3,"Colin Kaepernick pass complete deep right to Vernon Davis for 29 yards, touchdown",3.640,7.000
+1,6:03,,,DAL 2,14,3,Phil Dawson kicks extra point good,0.000,0.000
+1,6:03,,,SFO 35,14,3,"Phil Dawson kicks off 65 yards, touchback",0.000,-0.280
+1,5:54,1,10,DAL 20,14,3,Tony Romo pass complete short left to Jason Witten for 7 yards (tackle by Patrick Willis),0.280,0.680
+,,,,,,,"Replay Assistant challenged the fumble ruling, and the original play was overturned.",,
+1,5:29,2,3,DAL 27,14,3,DeMarco Murray up the middle for 5 yards (tackle by Michael Wilhoite and Tony Jerod-Eddie),0.680,1.070
+1,4:52,1,10,DAL 32,14,3,Tony Romo pass incomplete deep right intended for Dez Bryant is intercepted by Eric Reid at 50 and returned for 48 yards,1.070,-6.740
+1,4:31,1,2,DAL 2,20,3,"Colin Kaepernick pass complete short right to Vernon Davis for 2 yards, touchdown",6.740,7.000
+1,4:31,,,DAL 2,21,3,Phil Dawson kicks extra point good,0.000,0.000
+1,4:31,,,SFO 35,21,3,"Phil Dawson kicks off 65 yards, touchback",0.000,-0.280
+1,4:25,1,10,DAL 20,21,3,DeMarco Murray up the middle for 7 yards (tackle by Justin Smith and Corey Lemonier),0.280,0.680
+1,3:46,2,3,DAL 27,21,3,Tony Romo pass complete short left to Terrance Williams for 9 yards (tackle by Chris Culliver),0.680,1.330
+1,3:01,1,10,DAL 36,21,3,DeMarco Murray left end for 15 yards (tackle by Eric Reid),1.330,2.320
+1,2:32,1,10,SFO 49,21,3,DeMarco Murray up the middle for 6 yards (tackle by Patrick Willis),2.320,2.590
+1,1:56,2,4,SFO 43,21,3,Tony Romo pass complete short left to Lance Dunbar for 1 yard (tackle by Dan Skuta),2.590,2.020
+1,1:10,3,3,SFO 42,21,3,Tony Romo pass complete short left to Cole Beasley for 6 yards,2.020,3.180
+1,0:36,1,10,SFO 36,21,3,DeMarco Murray left tackle for 6 yards (tackle by Chris Culliver and Demarcus Dobbs),3.180,3.450
+1,0:06,2,4,SFO 30,21,3,DeMarco Murray right tackle for 6 yards (tackle by Demarcus Dobbs),3.450,3.970
+Quarter,Time,Down,ToGo,Location,SFO,DAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,SFO 24,21,3,DeMarco Murray left guard for 2 yards (tackle by Ian Williams and Justin Smith),3.970,3.700
+2,14:22,2,8,SFO 22,21,3,DeMarco Murray right end for 4 yards (tackle by Perrish Cox),3.700,3.570
+2,13:46,3,4,SFO 18,21,3,Tony Romo pass complete short right to Cole Beasley for 13 yards (tackle by Patrick Willis),3.570,6.060
+2,13:10,1,5,SFO 5,21,3,Tony Romo pass incomplete short right intended for Jason Witten is intercepted by Patrick Willis at SFO--7,6.060,-0.280
+2,12:59,1,10,SFO 20,21,3,Frank Gore left tackle for 20 yards (tackle by Bruce Carter),0.280,1.600
+2,12:17,1,10,SFO 40,21,3,Colin Kaepernick right end for 2 yards,1.600,1.320
+2,11:36,2,8,SFO 42,21,3,Colin Kaepernick pass incomplete short left intended for Anquan Boldin,1.320,0.630
+2,11:29,3,8,SFO 42,21,3,Colin Kaepernick pass complete short middle to Anquan Boldin for 12 yards (tackle by Justin Durant),0.630,2.520
+2,10:52,1,10,DAL 46,21,3,Frank Gore left tackle for 3 yards (tackle by Davon Coleman),2.520,2.380
+2,10:11,2,7,DAL 43,21,3,Colin Kaepernick pass complete short right to Vernon Davis for 6 yards (tackle by Rolando McClain),2.380,2.480
+2,9:32,3,1,DAL 37,21,3,"Colin Kaepernick right end for 3 yards (tackle by Tyrone Crawford). Penalty on Steve Johnson: Offensive Holding, 10 yards",2.480,1.550
+2,9:01,3,8,DAL 44,21,3,Colin Kaepernick pass complete short left to Michael Crabtree for 12 yards (tackle by George Selvie and Barry Church),1.550,3.450
+2,8:22,1,10,DAL 32,21,3,LaMichael James right end for -1 yards (tackle by Brandon Carr),3.450,2.770
+2,7:50,2,11,DAL 33,21,3,Colin Kaepernick sacked by Bruce Carter for -9 yards,2.770,0.890
+2,7:00,3,20,DAL 42,21,3,"Colin Kaepernick up the middle for 16 yards (tackle by Bruce Carter). Penalty on Joe Staley: Offensive Holding, 10 yards (no play)",0.890,-0.430
+2,6:29,3,30,SFO 48,21,3,Colin Kaepernick pass complete short middle to Michael Crabtree for 13 yards (tackle by Nick Hayden),-0.430,0.660
+2,5:47,4,17,DAL 39,21,3,Andy Lee punts 38 yards,0.660,0.380
+2,5:36,1,10,DAL 1,21,3,Penalty on Ronald Leary: False Start (no play),-0.380,-0.380
+2,5:36,1,10,DAL 1,21,3,Tony Romo pass complete short left to Dez Bryant for 5 yards (tackle by Antoine Bethea),-0.380,-0.420
+2,5:00,2,5,DAL 6,21,3,DeMarco Murray up the middle for 4 yards (tackle by Justin Smith),-0.420,-0.420
+2,4:17,2,5,DAL 6,21,3,Timeout #2 by Dallas Cowboys,-0.420,-0.370
+2,4:17,3,1,DAL 10,21,3,DeMarco Murray left end for 2 yards (tackle by Patrick Willis),-0.370,-0.350
+2,3:50,1,10,DAL 12,21,3,Tony Romo pass incomplete deep right intended for Dez Bryant is intercepted by Perrish Cox at SFO-36,-0.350,-1.330
+2,3:39,1,10,SFO 36,21,3,Colin Kaepernick pass incomplete short right intended for Bruce Miller,1.330,0.790
+2,3:35,2,10,SFO 36,21,3,Colin Kaepernick pass complete short middle to Anquan Boldin for 11 yards (tackle by Justin Durant and Bruce Carter),0.790,2.060
+2,2:48,1,10,SFO 47,21,3,Frank Gore left tackle for 1 yard (tackle by Rolando McClain),2.060,1.650
+2,2:09,2,9,SFO 48,21,3,LaMichael James left end for 1 yard (tackle by Justin Durant),1.650,1.090
+2,2:00,3,8,SFO 49,21,3,Colin Kaepernick pass complete short right to Steve Johnson for 21 yards (tackle by Sterling Moore),1.090,3.580
+2,1:25,1,10,DAL 30,21,3,Frank Gore left end for 6 yards (tackle by Sterling Moore and Morris Claiborne),3.580,3.840
+2,0:57,2,4,DAL 24,21,3,Colin Kaepernick pass complete short middle to Anquan Boldin for 7 yards (tackle by Sterling Moore),3.840,3.840
+2,0:50,2,4,DAL 24,21,3,Timeout #1 by San Francisco 49ers,3.840,4.440
+2,0:48,1,10,DAL 17,21,3,Carlos Hyde right guard for 13 yards (tackle by Barry Church),4.440,4.440
+2,0:43,1,10,DAL 17,21,3,Timeout #2 by San Francisco 49ers,4.440,6.280
+2,0:43,1,4,DAL 4,27,3,"Carlos Hyde up the middle for 4 yards, touchdown",6.280,7.000
+2,0:43,,,DAL 2,28,3,Phil Dawson kicks extra point good,0.000,0.000
+2,0:43,,,SFO 35,28,3,"Phil Dawson kicks off 74 yards, returned by Dwayne Harris for 30 yards (tackle by Carlos Hyde). Penalty on Chris Borland: Offside on Free Kick, 5 yards (no play)",0.000,0.000
+2,0:43,,,SFO 30,28,3,"Phil Dawson kicks off 70 yards, returned by Dwayne Harris for 30 yards (tackle by Craig Dahl). Penalty on Cameron Lawrence: Offensive Holding, 10 yards",0.000,-0.280
+2,0:27,1,10,DAL 20,28,3,DeMarco Murray left end for 12 yards (tackle by Dontae Johnson),0.280,1.070
+Quarter,Time,Down,ToGo,Location,SFO,DAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DAL 35,28,3,"Dan Bailey kicks off 65 yards, touchback",0.000,-0.280
+3,15:00,1,10,SFO 20,28,3,Colin Kaepernick pass incomplete short left intended for Michael Crabtree (defended by Bruce Carter),0.280,-0.270
+3,14:54,2,10,SFO 20,28,3,Frank Gore up the middle for no gain (tackle by Justin Durant),-0.270,-0.960
+3,14:16,3,10,SFO 20,28,3,Colin Kaepernick pass incomplete short middle intended for Vernon Davis (defended by Barry Church),-0.960,-2.030
+3,14:10,4,10,SFO 20,28,3,"Andy Lee punts 51 yards, muffed catch by Dwayne Harris, recovered by Dwayne Harris and returned for no gain",-2.030,-0.940
+3,14:02,1,10,DAL 30,28,3,DeMarco Murray right guard for 4 yards (tackle by Justin Smith),0.940,0.930
+3,13:29,2,6,DAL 34,28,3,DeMarco Murray right guard for 2 yards (tackle by Ray McDonald),0.930,0.500
+3,13:29,3,4,DAL 36,28,3,"Penalty on Jason Witten: False Start, 5 yards (no play)",0.500,-0.160
+3,12:31,3,9,DAL 31,28,3,Tony Romo pass incomplete short left intended for Terrance Williams (defended by Dontae Johnson),-0.160,-1.310
+3,12:20,4,9,DAL 31,28,3,"Chris Jones punts 51 yards, fair catch by Bruce Ellington. Penalty on Nick Moody: Offensive Holding, 8 yards",-1.310,0.380
+3,12:11,1,10,SFO 10,28,3,Carlos Hyde right end for 6 yards (tackle by Brandon Carr and J.J. Wilcox),-0.380,-0.230
+3,11:32,2,4,SFO 16,28,3,Frank Gore left tackle for no gain (tackle by Justin Durant),-0.230,-0.230
+3,10:46,2,4,SFO 16,28,3,Timeout #1 by San Francisco 49ers,-0.230,-0.720
+3,10:46,3,4,SFO 16,28,3,Colin Kaepernick pass complete short left to Anquan Boldin for 9 yards (tackle by Morris Claiborne),-0.720,0.610
+3,10:00,1,10,SFO 25,28,3,"Colin Kaepernick pass incomplete short right intended for Brandon Lloyd. Penalty on Bruce Carter: Defensive Holding, 5 yards (no play)",0.610,0.940
+3,9:52,1,10,SFO 30,28,3,Frank Gore left tackle for 4 yards (tackle by Bruce Carter and Rolando McClain),0.940,0.930
+3,9:10,2,6,SFO 34,28,3,Frank Gore left tackle for 1 yard (tackle by Davon Coleman),0.930,0.370
+3,8:25,3,5,SFO 35,28,3,Colin Kaepernick pass complete short left to Steve Johnson for 12 yards (tackle by Morris Claiborne),0.370,2.060
+3,7:46,1,10,SFO 47,28,3,Colin Kaepernick pass incomplete deep left intended for Vernon Davis,2.060,1.520
+3,7:44,2,10,SFO 47,28,3,Colin Kaepernick pass incomplete short middle intended for Michael Crabtree (defended by Justin Durant),1.520,0.830
+,,,,,,,"Replay Assistant challenged the incomplete pass ruling, and the original play was overturned.",,
+3,7:38,3,10,SFO 47,28,3,Colin Kaepernick pass incomplete short left intended for Brandon Lloyd,0.830,-0.260
+3,7:33,4,10,SFO 47,28,3,"Andy Lee punts 40 yards, fair catch by Dwayne Harris",-0.260,0.320
+3,7:25,1,10,DAL 13,28,3,DeMarco Murray left guard for 15 yards (tackle by Ray McDonald),-0.320,0.810
+3,6:50,1,10,DAL 28,28,3,Tony Romo pass incomplete short middle intended for DeMarco Murray (defended by Aaron Lynch),0.810,0.260
+3,6:45,2,10,DAL 28,28,3,Tony Romo sacked by Justin Smith for -11 yards,0.260,-2.190
+3,5:57,3,21,DAL 17,28,3,"Tony Romo pass incomplete short right intended for DeMarco Murray. Penalty on Craig Dahl: Illegal Contact, 5 yards (no play)",-2.190,0.410
+3,5:45,1,10,DAL 22,28,3,DeMarco Murray left tackle for 2 yards (tackle by Antoine Bethea),0.410,0.140
+3,5:45,2,8,DAL 24,28,3,Tony Romo pass complete short left to Devin Street for 9 yards (tackle by Perrish Cox),0.140,1.140
+3,5:45,1,10,DAL 33,28,3,Tony Romo pass incomplete deep middle intended for Devin Street,1.140,0.590
+3,4:48,2,10,DAL 33,28,3,"Tony Romo pass complete short left to Cole Beasley for 7 yards (tackle by Michael Wilhoite). Penalty on Zack Martin: Illegal Use of Hands, 10 yards (no play)",0.590,-0.760
+3,4:22,2,20,DAL 23,28,3,Tony Romo pass complete short middle to DeMarco Murray for 13 yards (tackle by Corey Lemonier),-0.760,0.300
+3,3:44,3,7,DAL 36,28,3,"Tony Romo pass incomplete deep middle intended for Cole Beasley (defended by Jimmie Ward). Penalty on Jimmie Ward: Illegal Contact, 5 yards (no play)",0.300,1.660
+3,3:35,1,10,DAL 41,28,3,DeMarco Murray right end for -2 yards (tackle by Antoine Bethea),1.660,0.850
+3,3:00,2,12,DAL 39,28,3,Tony Romo sacked by Ahmad Brooks for -6 yards,0.850,-0.630
+3,2:15,3,18,DAL 33,28,3,Tony Romo pass complete deep middle to Dwayne Harris for 56 yards (tackle by Eric Reid),-0.630,4.840
+3,1:25,1,10,SFO 11,28,3,Tony Romo pass incomplete short left intended for Dwayne Harris,4.840,4.140
+3,1:20,2,10,SFO 11,28,3,Tony Romo pass complete short middle to Devin Street for 9 yards (tackle by Eric Reid),4.140,5.120
+3,0:38,3,1,SFO 2,28,3,Tony Romo pass incomplete short left intended for Terrance Williams,5.120,3.250
+3,0:33,4,1,SFO 2,28,9,"DeMarco Murray up the middle for 2 yards, touchdown",3.250,7.000
+3,0:33,,,SFO 2,28,10,Dan Bailey kicks extra point good,0.000,0.000
+3,0:33,,,DAL 35,28,10,"Dan Bailey kicks off 65 yards, touchback",0.000,-0.280
+3,0:29,1,10,SFO 20,28,10,Colin Kaepernick pass complete short middle to Anquan Boldin for 7 yards (tackle by Justin Durant),0.280,0.680
+Quarter,Time,Down,ToGo,Location,SFO,DAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,3,SFO 27,28,10,"Frank Gore up the middle for 3 yards (tackle by Justin Durant). Penalty on Joe Looney: Offensive Holding, 10 yards",0.680,-0.270
+4,14:35,2,10,SFO 20,28,10,Colin Kaepernick pass complete short right to Vernon Davis for 7 yards (tackle by Sterling Moore),-0.270,-0.030
+4,13:49,3,3,SFO 27,28,10,Colin Kaepernick pass complete short right to Anquan Boldin for 9 yards (tackle by Brandon Carr),-0.030,1.330
+4,13:20,1,10,SFO 36,28,10,Frank Gore left tackle for -2 yards (tackle by Jeremy Mincey and Nick Hayden),1.330,0.520
+4,12:43,2,12,SFO 34,28,10,Carlos Hyde up the middle for 5 yards (tackle by Rolando McClain),0.520,0.500
+4,12:00,3,7,SFO 39,28,10,"Colin Kaepernick pass complete short left to Vernon Davis for 32 yards (tackle by J.J. Wilcox). Penalty on Brandon Lloyd: Offensive Pass Interference, 10 yards (no play)",0.500,-0.820
+4,11:28,3,17,SFO 29,28,10,Colin Kaepernick up the middle for 8 yards (tackle by Justin Durant),-0.820,-0.910
+4,10:51,4,9,SFO 37,28,10,"Andy Lee punts 46 yards, muffed catch by Dwayne Harris, ball out of bounds at DAL-9",-0.910,0.380
+4,10:42,1,10,DAL 9,28,10,Tony Romo pass complete short right to DeMarco Murray for 7 yards (tackle by Perrish Cox),-0.380,-0.160
+4,10:23,2,3,DAL 16,28,10,Tony Romo pass incomplete deep left intended for Terrance Williams (defended by Dontae Johnson),-0.160,-0.160
+4,10:11,2,3,DAL 16,28,10,Timeout #1 by Dallas Cowboys,-0.160,-0.600
+4,10:11,3,3,DAL 16,28,10,Tony Romo pass incomplete short middle intended for Cole Beasley,-0.600,-2.390
+4,10:06,4,3,DAL 16,28,10,"Chris Jones punts 56 yards, returned by Bruce Ellington for 13 yards (tackle by Bruce Carter)",-2.390,-1.660
+4,9:53,1,10,SFO 41,28,10,Frank Gore right tackle for 6 yards (tackle by Brandon Carr),1.660,1.930
+4,9:17,2,4,SFO 47,28,10,Carlos Hyde up the middle for 15 yards (tackle by J.J. Wilcox),1.930,3.050
+4,8:32,1,10,DAL 38,28,10,Frank Gore right end for 12 yards (tackle by J.J. Wilcox and Barry Church),3.050,3.840
+4,7:49,1,10,DAL 26,28,10,Carlos Hyde up the middle for 4 yards (tackle by Bruce Carter),3.840,3.840
+4,7:12,2,6,DAL 22,28,10,Frank Gore right guard for no gain (tackle by Rolando McClain),3.840,3.140
+4,6:25,3,6,DAL 22,28,10,Carlos Hyde right end for 3 yards (tackle by Nick Hayden),3.140,2.280
+4,5:42,4,3,DAL 19,28,10,Phil Dawson 37 yard field goal no good,2.280,-0.740
+4,5:37,1,10,DAL 27,28,10,Tony Romo pass complete short middle to Dez Bryant for 11 yards (tackle by Corey Lemonier),0.740,1.470
+4,5:10,1,10,DAL 38,28,10,Tony Romo pass complete short right to DeMarco Murray for 5 yards (tackle by Patrick Willis),1.470,1.600
+4,4:41,2,5,DAL 43,28,10,Tony Romo pass incomplete short right intended for Jason Witten,1.600,0.890
+4,4:31,3,5,DAL 43,28,10,Tony Romo pass complete short right to Jason Witten for 7 yards (tackle by Eric Reid),0.890,2.260
+4,4:08,1,10,SFO 50,28,10,Tony Romo pass complete short middle to Dez Bryant for 19 yards (tackle by Jimmie Ward),2.260,3.510
+4,3:37,1,10,SFO 31,28,10,Tony Romo pass incomplete deep right intended for Jason Witten,3.510,2.970
+4,3:31,2,10,SFO 31,28,10,Tony Romo pass complete short left to Cole Beasley for 10 yards (tackle by Patrick Willis),2.970,4.170
+4,3:07,1,10,SFO 21,28,10,"Tony Romo left end for 9 yards. Penalty on Tyron Smith: Unnecessary Roughness, 15 yards (no play)",4.170,3.180
+4,2:56,1,25,SFO 36,28,10,Tony Romo pass complete deep left to Terrance Williams for 21 yards (tackle by Dontae Johnson),3.180,4.550
+4,2:31,2,4,SFO 15,28,10,Tony Romo pass complete short right to Cole Beasley for 13 yards (tackle by Antoine Bethea),4.550,6.740
+4,2:00,1,2,SFO 2,28,10,Tony Romo pass incomplete short right intended for Gavin Escobar,6.740,5.720
+4,1:55,2,2,SFO 2,28,16,"Tony Romo pass complete short middle to Terrance Williams for 2 yards, touchdown",5.720,7.000
+4,1:55,,,SFO 2,28,16,"Dan Bailey kicks extra point good. Penalty on Zack Martin: False Start, 5 yards (no play)",0.000,-1.000
+4,1:55,,,SFO 2,28,17,Dan Bailey kicks extra point good,0.000,0.000
+4,1:52,2,2,SFO 2,28,17,Timeout #2 by San Francisco 49ers,5.720,0.000
+4,1:55,,,DAL 35,28,17,"Dan Bailey kicks onside 13 yards, recovered by Anquan Boldin",0.000,-2.390
+4,1:51,1,10,DAL 48,28,17,Frank Gore right guard for 4 yards (tackle by Rolando McClain),2.390,2.390
+4,1:47,1,10,DAL 48,28,17,Timeout #2 by Dallas Cowboys,2.390,2.390
+4,1:47,2,6,DAL 44,28,17,Frank Gore right guard for 3 yards (tackle by Rolando McClain),2.390,2.390
+4,1:42,2,6,DAL 44,28,17,Timeout #3 by Dallas Cowboys,2.390,2.080
+4,1:42,3,3,DAL 41,28,17,Frank Gore right tackle for 5 yards (tackle by Barry Church and Anthony Hitchens),2.080,3.180
+4,0:57,1,10,DAL 36,28,17,Colin Kaepernick kneels for -1 yards,3.180,2.500
+4,0:24,2,11,DAL 37,28,17,Colin Kaepernick kneels for -1 yards,2.500,1.690
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

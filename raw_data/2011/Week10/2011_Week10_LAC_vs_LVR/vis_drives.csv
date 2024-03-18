@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,OAK 20,3,1:11,0,Punt
+2,1,10:40,OAK 13,5,2:45,53,Downs
+3,1,7:06,OAK 14,11,6:25,86,Touchdown
+4,2,14:27,OAK 25,7,3:25,70,Field Goal
+5,2,9:07,OAK 20,8,5:07,19,Punt
+6,2,2:22,OAK 44,2,0:31,56,Touchdown
+7,2,0:11,OAK 17,1,0:11,-1,End of Half
+8,3,11:48,OAK 15,5,2:47,85,Touchdown
+9,3,4:56,OAK 36,5,2:50,15,Fumble
+10,4,15:00,OAK 20,8,3:33,62,Interception
+11,4,8:23,OAK 31,3,1:35,7,Punt
+12,4,3:21,OAK 26,6,2:17,27,Punt

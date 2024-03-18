@@ -1,0 +1,195 @@
+Quarter,Time,Down,ToGo,Location,TEN,CAR,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Panthers won the coin toss, Panthers to receive the opening kickoff.",,
+1,15:00,,,TEN 30,0,0,--,0.000,-3.580
+1,14:56,1,10,CAR 30,0,0,Eddie George left guard for 5 yards (tackle by Dan Morgan),3.580,3.710
+1,14:20,2,5,CAR 25,0,0,Steve McNair pass complete to Drew Bennett for 21 yards (tackle by Ricky Manning),3.710,6.280
+1,13:47,1,4,CAR 4,0,0,Eddie George up the middle for -3 yards (tackle by Kris Jenkins),6.280,4.760
+1,13:02,2,7,CAR 7,0,0,Steve McNair pass incomplete intended for Justin McCareins,4.760,3.810
+1,12:57,3,7,CAR 7,6,0,"Steve McNair left end for 7 yards, touchdown",3.810,7.000
+1,,,,CAR 2,7,0,Gary Anderson kicks extra point good,0.000,0.000
+1,,,,TEN 30,7,0,"Craig Hentrich kicks off 70 yards, touchback",0.000,0.280
+1,12:49,1,10,CAR 20,7,0,Stephen Davis left guard for 3 yards (tackle by Keith Bulluck),0.280,0.140
+1,12:12,2,7,CAR 23,7,0,Jake Delhomme pass incomplete intended for Muhsin Muhammad (defended by Keith Bulluck),0.140,-0.560
+1,12:07,3,7,CAR 23,7,0,Jake Delhomme pass complete to Steve Smith for 4 yards (tackle by Andre Dyson),-0.560,-1.570
+1,11:26,4,3,CAR 27,7,0,"Todd Sauerbrun punts 48 yards, returned by Justin McCareins for 4 yards (tackle by Karl Hankton)",-1.570,-0.870
+1,11:13,1,10,TEN 29,7,0,Eddie George right end for 5 yards (tackle by Mike Minter),0.870,1.000
+1,10:34,2,5,TEN 34,7,0,Steve McNair pass incomplete (defended by Brentson Buckner),1.000,0.300
+1,10:30,3,5,TEN 34,7,0,Steve McNair pass complete to Erron Kinney for 8 yards (tackle by Will Witherspoon),0.300,1.730
+1,9:51,1,10,TEN 42,7,0,Eddie George right end for 7 yards (tackle by Greg Favors),1.730,2.130
+1,9:07,2,3,TEN 49,7,0,Robert Holcombe up the middle for 1 yard (tackle by Lester Towns),2.130,1.550
+1,8:24,3,2,CAR 50,7,0,Steve McNair pass incomplete intended for Justin McCareins,1.550,-0.060
+1,8:24,4,2,CAR 50,13,0,"Billy Volek pass complete to Eddie Berlin for 50 yards, touchdown",-0.060,7.000
+1,,,,CAR 2,14,0,Gary Anderson kicks extra point good,0.000,0.000
+1,,,,TEN 30,14,0,"Craig Hentrich kicks off 70 yards, touchback",0.000,0.280
+1,8:09,1,10,CAR 20,14,0,Stephen Davis right guard for no gain (tackle by Keith Bulluck),0.280,-0.270
+1,7:35,2,10,CAR 20,14,0,Jake Delhomme pass incomplete intended for Muhsin Muhammad. Penalty on Muhsin Muhammad: Illegal Touch Pass (Declined),-0.270,-0.960
+1,7:30,3,10,CAR 20,14,0,Jake Delhomme pass complete to DeShaun Foster for -3 yards (tackle by Keith Bulluck),-0.960,-2.320
+1,6:51,4,13,CAR 17,14,0,"Todd Sauerbrun punts 42 yards, returned by Justin McCareins for 15 yards (tackle by Lester Towns)",-2.320,-2.650
+1,6:40,1,10,CAR 44,14,0,Steve McNair pass complete to Derrick Mason for 19 yards (tackle by Lester Towns),2.650,3.910
+1,6:00,1,10,CAR 25,14,0,Steve McNair pass incomplete intended for Drew Bennett (defended by Terry Cousin),3.910,3.360
+1,5:54,2,10,CAR 25,14,0,Eddie George left guard for 3 yards (tackle by Julius Peppers and Lester Towns),3.360,3.070
+1,5:10,3,7,CAR 22,14,0,Steve McNair pass incomplete intended for Justin McCareins,3.070,1.990
+1,5:04,4,7,CAR 22,17,0,Gary Anderson 40 yard field goal good,1.990,3.000
+1,,,,TEN 30,17,0,"Craig Hentrich kicks off 44 yards, returned by Steve Smith for 36 yards (tackle by Dwone Hicks)",0.000,3.050
+1,4:45,1,10,TEN 38,17,0,Jake Delhomme pass complete to Brad Hoover for 1 yard (tackle by Peter Sirmon),3.050,2.640
+1,4:02,2,9,TEN 37,17,0,Jake Delhomme pass complete to Steve Smith for 5 yards (tackle by Andre Dyson),2.640,2.610
+1,3:23,3,4,TEN 32,17,0,Jake Delhomme sacked by Jevon Kearse for -7 yards,2.610,0.660
+1,3:08,4,11,TEN 39,17,0,Todd Sauerbrun punts 37 yards,0.660,0.380
+1,2:58,1,10,TEN 2,17,0,Eddie George left tackle for 2 yards (tackle by Reggie Howard and Greg Favors),-0.380,-0.630
+1,2:19,2,8,TEN 4,17,0,Eddie George left end for 1 yard (tackle by Will Witherspoon),-0.630,-1.070
+1,1:35,3,7,TEN 5,17,0,Steve McNair pass incomplete,-1.070,-2.490
+1,1:31,4,7,TEN 5,17,0,"Craig Hentrich punts 39 yards, returned by Steve Smith for 5 yards (tackle by Darrell Hill)",-2.490,-2.980
+1,1:23,1,10,TEN 39,17,0,Stephen Davis right guard for -1 yards (tackle by Rocky Calmus),2.980,2.300
+1,0:47,2,11,TEN 40,17,0,Jake Delhomme pass complete to Brad Hoover for 17 yards (tackle by Andre Dyson),2.300,4.040
+1,0:19,1,10,TEN 23,17,0,Steve Smith left end for -2 yards (tackle by Peter Sirmon),4.040,3.230
+Quarter,Time,Down,ToGo,Location,TEN,CAR,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,12,TEN 25,17,0,"Jake Delhomme for no gain. Jake Delhomme fumbles, recovered by Robaire Smith at TEN-29",3.230,-0.870
+2,14:56,1,10,TEN 29,17,0,Steve McNair pass complete to Drew Bennett for 48 yards,0.870,4.040
+2,14:29,1,10,CAR 23,17,0,Robert Holcombe left guard for 4 yards (tackle by Mike Rucker and Shane Burton),4.040,4.050
+2,13:56,2,6,CAR 19,17,0,Robert Holcombe right end for 3 yards (tackle by Ricky Manning),4.050,3.850
+2,13:13,3,3,CAR 16,17,0,Steve McNair pass complete to Erron Kinney for 2 yards (tackle by Reggie Howard),3.850,2.660
+2,12:37,4,1,CAR 14,20,0,Gary Anderson 32 yard field goal good,2.660,3.000
+2,,,,TEN 30,20,0,"Craig Hentrich kicks off 49 yards, fair catch by Jermaine Wiggins",0.000,0.340
+2,12:34,1,10,CAR 21,20,0,Jake Delhomme pass incomplete intended for Jermaine Wiggins,0.340,-0.200
+2,12:29,2,10,CAR 21,20,0,Stephen Davis left guard for -1 yards (tackle by Jevon Kearse),-0.200,-1.020
+2,11:53,3,11,CAR 20,20,0,Jake Delhomme pass incomplete intended for Steve Smith,-1.020,-2.030
+2,11:47,4,11,CAR 20,20,0,"Todd Sauerbrun punts 46 yards, returned by Justin McCareins for 13 yards (tackle by Lester Towns)",-2.030,-2.060
+2,11:37,1,10,TEN 47,20,0,Eddie George right tackle for 12 yards (tackle by Mike Rucker),2.060,2.850
+2,11:02,1,10,CAR 41,20,0,Eddie George right tackle for no gain (tackle by Julius Peppers and Will Witherspoon),2.850,2.310
+2,10:20,2,10,CAR 41,20,0,"Robert Holcombe right tackle for 3 yards (tackle by Ricky Manning). Penalty on Kris Jenkins: Defensive Offside, 5 yards (no play)",2.310,2.980
+2,9:55,2,5,CAR 36,20,0,Robert Holcombe right tackle for 4 yards (tackle by Mike Rucker),2.980,2.810
+2,9:29,3,1,CAR 32,20,0,"Steve McNair right guard for 1 yard (tackle by Julius Peppers and Brentson Buckner). Penalty on Fred Miller: False Start, 5 yards (no play)",2.810,2.150
+2,9:05,3,6,CAR 37,20,0,Steve McNair pass complete to Justin McCareins for 17 yards (tackle by Deon Grant),2.150,4.240
+2,8:24,1,10,CAR 20,20,0,Eddie George left tackle for 3 yards (tackle by Terry Cousin),4.240,4.120
+2,7:48,2,7,CAR 17,20,0,Steve McNair pass incomplete intended for Tyrone Calico (defended by Shane Burton),4.120,3.360
+2,7:44,,,,20,0,Timeout #1 by Tennessee Titans,0.000,3.360
+2,7:44,3,7,CAR 17,20,0,Steve McNair sacked by Brentson Buckner and Al Wallace for -6 yards,3.360,1.930
+2,7:24,4,13,CAR 23,20,0,Craig Hentrich pass incomplete intended for Jason Mathews,1.930,-0.480
+2,7:18,1,10,CAR 23,20,0,Jake Delhomme pass complete to Stephen Davis for 9 yards (tackle by Peter Sirmon),0.480,1.150
+2,6:43,2,1,CAR 32,20,0,Stephen Davis left tackle for 3 yards (tackle by Albert Haynesworth),1.150,1.270
+2,6:03,1,10,CAR 35,20,0,Stephen Davis up the middle for 11 yards (tackle by Keith Bulluck and Tank Williams),1.270,1.990
+2,5:26,1,10,CAR 46,20,0,Stephen Davis up the middle for 2 yards (tackle by Albert Haynesworth),1.990,1.720
+2,4:54,2,8,CAR 48,20,0,Jake Delhomme pass complete to Steve Smith for 6 yards (tackle by Andre Dyson),1.720,1.820
+2,4:15,3,2,TEN 46,20,0,Jake Delhomme pass complete to Steve Smith for 5 yards (tackle by Tony Beckham),1.820,2.850
+2,3:36,1,10,TEN 41,20,0,Jake Delhomme pass incomplete intended for Ricky Proehl,2.850,2.310
+2,3:31,2,10,TEN 41,20,0,Jake Delhomme pass complete to Brad Hoover for 7 yards (tackle by Andre Dyson),2.310,2.540
+2,2:52,3,3,TEN 34,20,0,Stephen Davis left tackle for -1 yards (tackle by Peter Sirmon),2.540,0.980
+2,2:16,4,4,TEN 35,20,3,John Kasay 53 yard field goal good,0.980,3.000
+2,,,,CAR 30,20,3,"John Kasay kicks off 68 yards, returned by Jake Schifino for 27 yards (tackle by Lester Towns)",0.000,0.870
+2,2:04,1,10,TEN 29,20,3,Robert Holcombe right guard for 13 yards (tackle by Mike Minter),0.870,1.730
+2,1:59,1,10,TEN 42,20,3,Steve McNair pass complete to Tyrone Calico for 20 yards (tackle by Ricky Manning). Penalty on Mike Rucker: Defensive Offside (Declined),1.730,3.050
+2,1:50,1,10,CAR 38,20,3,Steve McNair left end for 23 yards (tackle by Terry Cousin),3.050,4.580
+2,0:59,,,,20,3,Timeout #2 by Tennessee Titans,0.000,4.580
+2,0:59,1,10,CAR 15,20,3,Steve McNair pass complete to Robert Holcombe for 3 yards (tackle by Will Witherspoon),4.580,4.450
+2,0:30,2,7,CAR 12,20,3,Steve McNair pass incomplete intended for Drew Bennett,4.450,3.580
+2,0:26,3,7,CAR 12,20,3,"Steve McNair pass incomplete (defended by Kris Jenkins). Penalty on Fred Miller: Offensive Holding, 10 yards (no play)",3.580,2.410
+2,0:22,3,17,CAR 22,26,3,"Steve McNair pass complete to Drew Bennett for 22 yards, touchdown",2.410,7.000
+2,,,,CAR 2,27,3,Gary Anderson kicks extra point good,0.000,0.000
+2,,,,TEN 30,27,3,"Craig Hentrich kicks off 51 yards, returned by Steve Smith for 33 yards (tackle by Dwone Hicks)",0.000,2.390
+2,0:05,1,10,TEN 48,27,3,Jake Delhomme pass incomplete intended for Steve Smith (defended by Tony Beckham),2.390,1.850
+Quarter,Time,Down,ToGo,Location,TEN,CAR,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,CAR 30,27,3,"John Kasay kicks off 60 yards, returned by Jake Schifino for 21 yards (tackle by Colin Branch)",0.000,1.000
+3,14:55,1,10,TEN 31,27,3,Eddie George left guard for no gain (tackle by Lester Towns),1.000,0.460
+3,14:15,2,10,TEN 31,27,3,Eddie George left guard for 4 yards (tackle by Lester Towns and Will Witherspoon),0.460,0.300
+3,13:33,3,6,TEN 35,27,3,"Steve McNair for no gain. Steve McNair fumbles. Penalty on Justin Hartwig: False Start, 5 yards (no play)",0.300,-0.360
+3,13:18,3,11,TEN 30,27,3,"Robert Holcombe left tackle for 9 yards (tackle by Reggie Howard). Robert Holcombe fumbles (forced by Reggie Howard), recovered by Drew Bennett at TEN-39",-0.360,-0.780
+3,12:28,4,2,TEN 39,27,3,"Craig Hentrich punts 44 yards, returned by Steve Smith for 4 yards (tackle by Scott McGarrahan)",-0.780,-0.340
+3,12:16,1,10,CAR 21,27,3,Stephen Davis right end for -2 yards (tackle by Keith Bulluck),0.340,-0.530
+3,11:37,2,12,CAR 19,27,3,Stephen Davis right guard for 1 yard (tackle by Jevon Kearse and Peter Sirmon),-0.530,-1.020
+3,10:56,3,11,CAR 20,27,3,Jake Delhomme pass complete to Muhsin Muhammad for 10 yards (tackle by Peter Sirmon),-1.020,-1.370
+3,10:25,4,1,CAR 30,27,3,"Todd Sauerbrun punts 40 yards, returned by Justin McCareins for 8 yards (tackle by Jarrod Cooper)",-1.370,-1.470
+3,10:13,1,10,TEN 38,27,3,Steve McNair sacked by Mike Rucker for -8 yards,1.470,-0.160
+3,9:50,2,18,TEN 30,27,3,Robert Holcombe right tackle for 15 yards (tackle by Julius Peppers),-0.160,1.160
+3,9:04,3,3,TEN 45,27,3,Steve McNair pass incomplete intended for Tyrone Calico (defended by Reggie Howard),1.160,-0.390
+3,8:57,4,3,TEN 45,27,3,"Craig Hentrich punts 55 yards, touchback",-0.390,-0.280
+3,8:48,1,10,CAR 20,27,3,Jake Delhomme pass complete to Ricky Proehl for 3 yards (tackle by Lance Schulters),0.280,0.140
+3,8:26,2,7,CAR 23,27,3,Jake Delhomme pass incomplete intended for Ricky Proehl (defended by Andre Dyson),0.140,-0.560
+3,8:21,3,7,CAR 23,27,3,Jake Delhomme pass complete to Nick Goings for 11 yards (tackle by Andre Woolfolk),-0.560,1.200
+3,8:05,1,10,CAR 34,27,3,Jake Delhomme sacked by Kevin Carter for -3 yards,1.200,0.250
+3,7:39,2,13,CAR 31,27,3,Jake Delhomme pass incomplete intended for Ricky Proehl,0.250,-0.430
+3,7:33,3,13,CAR 31,27,3,"Jake Delhomme pass incomplete intended for Steve Smith. Penalty on Tony Beckham: Defensive Pass Interference, 5 yards (no play)",-0.430,1.330
+3,7:29,1,10,CAR 36,27,3,"Jake Delhomme pass incomplete (defended by Albert Haynesworth). Penalty on Stephen Davis: Unnecessary Roughness, 15 yards",1.330,-1.240
+3,7:23,2,25,CAR 21,27,3,DeShaun Foster left guard for 4 yards (tackle by Albert Haynesworth),-1.240,-1.350
+3,6:43,3,21,CAR 25,27,3,Jake Delhomme pass incomplete intended for Ricky Proehl,-1.350,-1.700
+3,6:34,4,21,CAR 25,27,3,"Todd Sauerbrun punts 52 yards, returned by Justin McCareins for 13 yards (tackle by Karl Hankton)",-1.700,-1.330
+3,6:22,1,10,TEN 36,27,3,Eddie George right end for 8 yards (tackle by Julius Peppers and Mike Minter),1.330,1.870
+3,5:38,2,2,TEN 44,27,3,Robert Holcombe up the middle for no gain (tackle by Greg Favors),1.870,1.160
+3,4:58,3,2,TEN 44,27,3,Robert Holcombe left end for -2 yards (tackle by Reggie Howard),1.160,-0.590
+3,4:12,4,4,TEN 42,27,3,Craig Hentrich punts 50 yards,-0.590,0.380
+3,4:02,1,10,CAR 8,27,3,Jake Delhomme pass complete to Steve Smith for 6 yards (tackle by Andre Dyson),-0.380,-0.320
+3,3:29,2,4,CAR 14,27,3,Jake Delhomme pass incomplete intended for Ricky Proehl,-0.320,-0.720
+3,3:24,3,4,CAR 14,27,3,Jake Delhomme pass complete to Nick Goings for 7 yards (tackle by Keith Bulluck),-0.720,0.340
+3,2:56,,,,27,3,Timeout #1 by Tennessee Titans,0.000,0.340
+3,2:56,1,10,CAR 21,27,3,Jake Delhomme pass complete to Muhsin Muhammad for 60 yards (tackle by Andre Woolfolk),0.340,4.310
+3,2:23,1,10,TEN 19,27,3,"Jake Delhomme up the middle for 3 yards (tackle by Peter Sirmon). Penalty on Jeno James: Chop Block, 15 yards (no play)",4.310,3.310
+3,2:02,1,25,TEN 34,27,3,"Jake Delhomme pass complete to Nick Goings for 3 yards (tackle by Juqua Parker). Penalty on Kevin Donnalley: Ineligible Downfield Pass, 5 yards (no play)",3.310,2.980
+3,1:47,1,30,TEN 39,27,3,Stephen Davis left tackle for 5 yards (tackle by Peter Sirmon),2.980,1.740
+3,1:04,2,25,TEN 34,27,3,"Jake Delhomme sacked by Juqua Parker for -7 yards. Jake Delhomme fumbles (forced by Juqua Parker), recovered by James H. Atkins at TEN-38 (tackle by Jeno James)",1.740,-1.470
+3,0:54,1,10,TEN 38,27,3,Steve McNair pass complete to Derrick Mason for 20 yards (tackle by Reggie Howard),1.470,2.790
+3,0:10,1,10,CAR 42,27,3,Steve McNair pass complete to Steve McNair for 4 yards (tackle by Lester Towns),2.790,2.780
+Quarter,Time,Down,ToGo,Location,TEN,CAR,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,6,CAR 38,27,3,"Penalty on Kris Jenkins: Defensive Offside, 5 yards (no play)",2.780,3.460
+4,15:00,2,1,CAR 33,27,3,Eddie George right end for 2 yards (tackle by Lester Towns),3.460,3.510
+4,14:21,1,10,CAR 31,27,3,Steve McNair pass incomplete intended for Robert Holcombe,3.510,2.970
+4,14:16,2,10,CAR 31,27,3,Robert Holcombe right tackle for 7 yards (tackle by Greg Favors and Ricky Manning),2.970,3.200
+4,13:30,3,3,CAR 24,27,3,Steve McNair pass complete to Drew Bennett for 6 yards (tackle by Reggie Howard),3.200,4.370
+4,12:44,1,10,CAR 18,27,3,Robert Holcombe left tackle for -1 yards (tackle by Mike Rucker),4.370,3.670
+4,12:00,2,11,CAR 19,27,3,Eddie George right guard for 5 yards (tackle by Mike Rucker and Kindal Moorehead),3.670,3.630
+4,11:16,3,6,CAR 14,27,3,Eddie George right end for -2 yards (tackle by Mike Minter),3.630,2.380
+4,10:49,4,8,CAR 16,30,3,Gary Anderson 34 yard field goal good,2.380,3.000
+4,,,,TEN 30,30,3,"Craig Hentrich kicks off 52 yards, returned by Ricky Proehl for 15 yards (tackle by Brad Kassell)",0.000,1.140
+4,10:40,1,10,CAR 33,30,9,"Jake Delhomme pass complete to Steve Smith for 67 yards, touchdown",1.140,7.000
+4,,,,TEN 2,30,10,John Kasay kicks extra point good,0.000,0.000
+4,,,,CAR 30,30,10,"Todd Sauerbrun kicks onside 18 yards, recovered by Drew Bennett",0.000,2.390
+4,10:29,1,10,CAR 48,30,10,"Steve McNair sacked by Julius Peppers for -8 yards. Steve McNair fumbles (forced by Julius Peppers), recovered by Fred Miller at TEN-40",2.390,0.230
+4,9:53,2,22,TEN 40,30,10,Robert Holcombe up the middle for no gain (tackle by Greg Favors),0.230,-0.430
+4,9:13,3,22,TEN 40,30,10,Robert Holcombe left tackle for no gain (tackle by Brentson Buckner). Penalty on Brad Hopkins: Offensive Holding (Declined),-0.430,-0.720
+4,8:55,4,22,TEN 40,30,10,"Craig Hentrich punts 42 yards, returned by Steve Smith for 5 yards (tackle by Scott McGarrahan)",-0.720,-0.480
+4,8:44,1,10,CAR 23,30,10,Jake Delhomme pass complete to Steve Smith for 5 yards (tackle by Tony Beckham),0.480,0.610
+4,8:21,2,5,CAR 28,36,10,"Jake Delhomme pass complete to DeShaun Foster for 4 yards (tackle by Jevon Kearse). DeShaun Foster fumbles (forced by Jevon Kearse), recovered by Keith Bulluck at CAR-32 and returned for 32 yards, touchdown",0.610,-7.000
+4,,,,CAR 2,37,10,Gary Anderson kicks extra point good,0.000,0.000
+4,,,,TEN 30,37,10,"Craig Hentrich kicks off 49 yards, returned by Rod Smart for 9 yards (tackle by Andre Woolfolk)",0.000,0.940
+4,8:02,1,10,CAR 30,37,10,Jake Delhomme pass incomplete intended for Muhsin Muhammad,0.940,0.390
+4,7:57,2,10,CAR 30,37,10,Jake Delhomme pass incomplete intended for Kris Mangum,0.390,-0.300
+4,7:51,3,10,CAR 30,37,10,Jake Delhomme pass complete to Kris Mangum for 8 yards (tackle by Andre Woolfolk),-0.300,-0.850
+4,7:09,4,2,CAR 38,37,10,Jake Delhomme pass incomplete intended for Muhsin Muhammad,-0.850,-3.120
+4,7:02,1,10,CAR 37,37,10,Eddie George right tackle for no gain (tackle by Greg Favors),3.120,2.570
+4,6:15,2,10,CAR 37,37,10,Eddie George right tackle for -1 yards (tackle by Greg Favors),2.570,1.750
+4,5:39,3,11,CAR 38,37,10,Billy Volek pass incomplete intended for Jake Schifino,1.750,0.720
+4,5:33,4,11,CAR 38,37,10,"Craig Hentrich punts 32 yards, fair catch by Steve Smith",0.720,0.380
+4,5:27,1,10,CAR 6,37,10,Jake Delhomme pass complete to Ricky Proehl for 9 yards (tackle by Rocky Boiman),-0.380,-0.070
+4,5:08,2,1,CAR 15,37,10,Jake Delhomme pass incomplete intended for Steve Smith,-0.070,-0.370
+4,5:03,3,1,CAR 15,37,10,Nick Goings left end for 7 yards (tackle by Rocky Calmus),-0.370,0.410
+4,4:55,,,,37,10,Timeout #1 by Carolina Panthers,0.000,0.410
+4,4:55,1,10,CAR 22,37,10,"Jake Delhomme pass complete to Nick Goings for 12 yards (tackle by Rocky Boiman). Penalty on Carlos Hall: Roughing the Passer, 15 yards",0.410,2.190
+4,4:46,1,10,CAR 49,37,10,Jake Delhomme sacked by Juqua Parker for -9 yards,2.190,0.430
+4,4:29,2,19,CAR 40,37,10,Jake Delhomme pass complete to DeShaun Foster for 11 yards (tackle by Andre Dyson),0.430,1.220
+4,4:22,3,8,TEN 49,37,10,Jake Delhomme pass incomplete intended for Brad Hoover,1.220,0.000
+4,4:17,4,8,TEN 49,37,10,Jake Delhomme pass complete to Steve Smith for 29 yards (tackle by Tony Beckham),0.000,4.240
+4,4:09,1,10,TEN 20,37,10,Jake Delhomme pass complete to Kris Mangum for 12 yards (tackle by Rocky Calmus),4.240,5.370
+4,3:43,1,8,TEN 8,37,16,"Jake Delhomme pass complete to Nick Goings for 8 yards, touchdown",5.370,7.000
+4,,,,TEN 2,37,17,John Kasay kicks extra point good,0.000,0.000
+4,,,,CAR 30,37,17,"Todd Sauerbrun kicks onside 13 yards, recovered by Drew Bennett and returned for -2 yards",0.000,2.590
+4,3:34,1,10,CAR 45,37,17,Robert Holcombe right tackle for -3 yards (tackle by Greg Favors),2.590,1.640
+4,3:28,,,,37,17,Timeout #2 by Carolina Panthers,0.000,1.640
+4,3:28,2,13,CAR 48,37,17,Robert Holcombe up the middle for 6 yards (tackle by Mike Rucker and Terry Cousin),1.640,1.750
+4,3:19,,,,37,17,Timeout #3 by Carolina Panthers,0.000,1.750
+4,3:19,3,7,CAR 42,37,17,Robert Holcombe left tackle for -3 yards (tackle by Shane Burton),1.750,0.270
+4,2:35,,,,37,17,Timeout #2 by Tennessee Titans,0.000,0.270
+4,2:35,4,10,CAR 45,37,17,Craig Hentrich punts 41 yards,0.270,0.380
+4,2:22,1,10,CAR 4,37,17,Jake Delhomme pass complete to DeShaun Foster for 8 yards (tackle by Andre Dyson),-0.380,-0.200
+4,2:16,2,2,CAR 12,37,17,Jake Delhomme pass complete to Kris Mangum for 10 yards (tackle by Rocky Boiman),-0.200,0.410
+4,2:00,1,10,CAR 22,37,17,DeShaun Foster left guard for 6 yards (tackle by Rocky Calmus),0.410,0.680
+4,1:34,2,4,CAR 28,37,17,Jake Delhomme pass complete to Kris Mangum for 4 yards (tackle by Andre Woolfolk),0.680,1.070
+4,1:17,1,10,CAR 32,37,17,Jake Delhomme up the middle for 9 yards (tackle by Scott McGarrahan),1.070,1.740
+4,0:57,2,1,CAR 41,37,17,Jake Delhomme pass complete to Rod Smart for 3 yards (tackle by Rocky Boiman),1.740,1.860
+4,0:35,1,10,CAR 44,37,17,Jake Delhomme pass complete to Steve Smith for 17 yards (tackle by Lamont Thompson),1.860,2.980
+4,0:27,1,10,TEN 39,37,17,Jake Delhomme pass incomplete intended for Muhsin Muhammad,2.980,2.440
+4,0:22,,,,37,17,Timeout #4 by Carolina Panthers,0.000,2.440
+4,0:22,2,10,TEN 39,37,17,Jake Delhomme pass incomplete intended for Steve Smith,2.440,1.750
+4,0:18,3,10,TEN 39,37,17,Jake Delhomme pass complete to Steve Smith for 7 yards (tackle by Tony Beckham),1.750,1.290
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,214 @@
+Quarter,Time,Down,ToGo,Location,ATL,DAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Falcons won the coin toss, Falcons to receive the opening kickoff.",,
+1,15:00,,,DAL 35,0,0,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,ATL 25,0,0,Todd Gurley right tackle for 3 yards (tackle by DeMarcus Lawrence),0.610,0.470
+1,14:23,2,7,ATL 28,0,0,Todd Gurley left guard for 5 yards (tackle by DeMarcus Lawrence),0.470,0.430
+1,13:45,3,2,ATL 33,0,0,Matt Ryan pass incomplete short middle intended for Russell Gage,0.430,-1.180
+1,13:42,4,2,ATL 33,0,0,"Sterling Hofrichter punts 44 yards, fair catch by CeeDee Lamb at DAL-23",-1.180,-0.480
+1,13:33,1,10,DAL 23,0,0,Tony Pollard left guard for 3 yards (tackle by Takkarist McKinley),0.480,0.340
+1,13:14,2,7,DAL 26,0,0,Tony Pollard left tackle for 3 yards (tackle by Foyesade Oluokun and Grady Jarrett),0.340,0.040
+1,13:00,3,4,DAL 29,0,0,Dak Prescott pass incomplete short right intended for Dalton Schultz (defended by Ricardo Allen),0.040,-1.440
+1,12:55,4,4,DAL 29,0,0,"Chris Jones punts 43 yards, fair catch by Brandon Powell at ATL-28",-1.440,-0.810
+1,12:47,1,10,ATL 28,0,0,Todd Gurley left end for 5 yards (tackle by Tyrone Crawford and Jourdan Lewis),0.810,0.940
+1,12:08,2,5,ATL 33,0,0,Matt Ryan pass incomplete deep middle intended for Hayden Hurst (defended by Jaylon Smith),0.940,0.230
+1,12:04,3,5,ATL 33,0,0,Matt Ryan pass incomplete deep middle intended for Russell Gage (defended by Daryl Worley),0.230,-1.180
+1,11:58,4,5,ATL 33,0,0,"Sterling Hofrichter punts 43 yards, fair catch by CeeDee Lamb at DAL-24",-1.180,-0.540
+1,11:50,1,10,DAL 24,0,0,Ezekiel Elliott left tackle for 3 yards (tackle by Takkarist McKinley and Deion Jones),0.540,0.400
+1,11:19,2,7,DAL 27,0,0,Dak Prescott pass incomplete deep right intended for Amari Cooper,0.400,-0.300
+1,11:13,3,7,DAL 27,0,0,"Dak Prescott sacked by and Dante Fowler for -5 yards and Deion Jones for -5 yards. Dak Prescott fumbles (forced by Dante Fowler), recovered by John Cominsky at DAL-22",-0.300,-4.110
+1,11:06,1,10,DAL 22,6,0,"Matt Ryan pass complete deep left to Calvin Ridley for 22 yards, touchdown, touchdown",4.110,7.000
+1,10:58,,,DAL 15,7,0,Younghoe Koo kicks extra point good,0.000,0.000
+1,10:58,,,ATL 35,7,0,"Younghoe Koo kicks off 65 yards, returned by Tony Pollard for 13 yards (tackle by Jacob Tuioti-Mariner)",0.000,-0.320
+1,10:53,1,10,DAL 13,7,0,Dak Prescott pass complete short left to Dalton Schultz for 15 yards (tackle by Keanu Neal),-0.320,0.810
+1,10:24,1,10,DAL 28,7,0,"Ezekiel Elliott left tackle for 3 yards (tackle by Foyesade Oluokun). Ezekiel Elliott fumbles (forced by Foyesade Oluokun), recovered by Ezekiel Elliott at DAL-31",0.810,0.670
+1,9:54,2,7,DAL 31,7,0,"Dak Prescott pass complete short right to Ezekiel Elliott for 8 yards (tackle by Damontae Kazee and AJ Terrell). Penalty on Takkarist McKinley: Roughing the Passer, 15 yards",0.670,2.520
+1,9:34,1,10,ATL 46,7,0,"Ezekiel Elliott left tackle for 4 yards (tackle by Foyesade Oluokun). Ezekiel Elliott fumbles (forced by Foyesade Oluokun), recovered by Grady Jarrett at ATL-45 and returned for 3 yards (tackle by Terence Steele)",2.520,-2.130
+1,9:26,1,10,ATL 48,7,0,Todd Gurley up the middle for 3 yards (tackle by Trevon Diggs),2.130,1.990
+1,8:51,2,7,DAL 49,7,0,Matt Ryan pass complete short left to Hayden Hurst for 2 yards (tackle by Tyrone Crawford and Joe Thomas),1.990,1.550
+1,8:14,3,5,DAL 47,7,0,Matt Ryan up the middle for 5 yards (tackle by Chidobe Awuzie),1.550,2.790
+1,7:45,1,10,DAL 42,13,0,"Matt Ryan pass complete deep left to Hayden Hurst for 42 yards, touchdown",2.790,7.000
+1,7:37,,,DAL 15,14,0,Younghoe Koo kicks extra point good,0.000,0.000
+1,7:37,,,ATL 35,14,0,"Younghoe Koo kicks off 65 yards, touchback.. Penalty on Donovan Wilson: Unnecessary Roughness, 12 yards",0.000,-0.320
+1,7:37,1,10,DAL 13,14,0,Dak Prescott pass complete short left to Dalton Schultz for 10 yards (tackle by Foyesade Oluokun),-0.320,0.480
+1,7:04,1,10,DAL 23,14,0,Ezekiel Elliott right tackle for -4 yards (tackle by Grady Jarrett and Takkarist McKinley),0.480,-0.670
+1,6:24,2,14,DAL 19,14,0,Dak Prescott pass complete short left to CeeDee Lamb for 10 yards (tackle by Darqueze Dennard),-0.670,0.040
+1,6:01,3,4,DAL 29,14,0,Dak Prescott pass incomplete short middle intended for Ezekiel Elliott,0.040,-1.440
+1,5:57,4,4,DAL 29,14,0,Chris Jones pass incomplete short left intended for C.J. Goodwin,-1.440,-3.640
+1,5:52,1,10,DAL 29,14,0,Brian Hill left tackle for 1 yard (tackle by DeMarcus Lawrence and Jaylon Smith),3.640,3.240
+1,5:23,2,9,DAL 28,14,0,Matt Ryan pass incomplete deep left intended for Calvin Ridley (defended by Chidobe Awuzie),3.240,2.540
+1,5:17,3,9,DAL 28,14,0,Matt Ryan pass complete short middle to Brian Hill for 4 yards (tackle by Joe Thomas),2.540,1.920
+1,4:32,4,5,DAL 24,17,0,Younghoe Koo 42 yard field goal good,1.920,3.000
+1,4:26,,,ATL 35,17,0,"Younghoe Koo kicks off 70 yards, returned by Tony Pollard for 22 yards (tackle by LaRoy Reynolds). Penalty on Olamide Zaccheaus: Face Mask (15 Yards), 15 yards",0.000,1.070
+1,4:21,1,10,DAL 32,17,0,"Dak Prescott pass complete short right to Dalton Schultz for 8 yards (tackle by Foyesade Oluokun). Dalton Schultz fumbles (forced by Foyesade Oluokun), recovered by Deadrin Senat at DAL-40 (tackle by Dalton Schultz). Penalty on Terence Steele: Ineligible Downfield Pass (Declined)",1.070,-2.920
+1,4:10,1,10,DAL 40,17,0,Brian Hill right end for 10 yards (tackle by Joe Thomas),2.920,3.580
+1,3:45,1,10,DAL 30,17,0,Brian Hill right tackle for 3 yards (tackle by Dorance Armstrong),3.580,3.440
+1,3:11,2,7,DAL 27,17,0,Matt Ryan pass incomplete short right intended for Hayden Hurst,3.440,2.740
+1,3:05,3,7,DAL 27,17,0,"Matt Ryan pass incomplete deep right intended for Julio Jones. Penalty on Trevon Diggs: Defensive Pass Interference, 13 yards (no play)",2.740,4.650
+1,2:59,1,10,DAL 14,17,0,Todd Gurley up the middle for 1 yard (tackle by DeMarcus Lawrence),4.650,4.160
+1,2:27,2,9,DAL 13,17,0,Todd Gurley up the middle for 1 yard (tackle by Joe Thomas and Aldon Smith),4.160,3.430
+1,1:52,3,8,DAL 12,17,0,Matt Ryan left tackle for 3 yards (tackle by Aldon Smith),3.430,2.880
+1,1:10,4,5,DAL 9,20,0,Younghoe Koo 27 yard field goal good,2.880,3.000
+1,1:06,,,ATL 35,20,0,"Younghoe Koo kicks off 65 yards, touchback.",0.000,0.610
+1,1:06,1,10,DAL 25,20,0,Dak Prescott pass complete short right to Amari Cooper for 11 yards (tackle by Darqueze Dennard),0.610,1.330
+1,0:47,1,10,DAL 36,20,0,"Ezekiel Elliott up the middle for 8 yards (tackle by Deion Jones). Penalty on Grady Jarrett: Defensive Holding, 5 yards",1.330,2.190
+1,0:27,1,10,DAL 49,20,0,Ezekiel Elliott right guard for 7 yards (tackle by AJ Terrell),2.190,2.590
+1,0:06,2,3,ATL 44,20,0,Dak Prescott pass complete short right to CeeDee Lamb for 9 yards (tackle by Foyesade Oluokun),2.590,3.250
+Quarter,Time,Down,ToGo,Location,ATL,DAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,ATL 35,20,0,CeeDee Lamb right end for 9 yards (tackle by Mykal Walker),3.250,3.920
+2,14:35,2,1,ATL 26,20,0,Ezekiel Elliott up the middle for 10 yards (tackle by Damontae Kazee),3.920,4.510
+2,14:16,1,10,ATL 16,20,0,Dak Prescott pass complete short right to Ezekiel Elliott for -3 yards (tackle by Darqueze Dennard),4.510,3.520
+2,13:42,2,13,ATL 19,20,0,Dak Prescott pass complete short middle to Blake Bell for 10 yards (tackle by Darqueze Dennard),3.520,4.390
+2,13:03,3,3,ATL 9,20,0,Ezekiel Elliott left guard for 7 yards (tackle by Ricardo Allen),4.390,6.740
+2,12:38,1,2,ATL 2,20,0,Ezekiel Elliott right guard for 1 yard (tackle by Keanu Neal and Grady Jarrett),6.740,5.910
+2,12:15,2,1,ATL 1,20,6,"Ezekiel Elliott right guard for 1 yard, touchdown",5.910,7.000
+2,12:09,,,ATL 15,20,7,Greg Zuerlein kicks extra point good,0.000,0.000
+2,12:09,,,DAL 35,20,7,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+2,12:09,1,10,ATL 25,20,7,Matt Ryan pass complete deep right to Calvin Ridley for 25 yards (tackle by Trevon Diggs),0.610,2.260
+2,11:30,1,10,ATL 50,20,7,Matt Ryan pass incomplete short right intended for Keith Smith,2.260,1.710
+2,11:23,2,10,ATL 50,20,7,Todd Gurley up the middle for 8 yards (tackle by Jaylon Smith),1.710,2.080
+2,10:38,3,2,DAL 42,20,7,Todd Gurley up the middle for 1 yard (tackle by Aldon Smith and Everson Griffen),2.080,0.530
+2,9:59,4,1,DAL 41,20,7,Keith Smith up the middle for 2 yards (tackle by Joe Thomas),0.530,2.980
+2,9:27,1,10,DAL 39,20,7,"Matt Ryan pass complete short right to Julio Jones for 5 yards (tackle by Jaylon Smith). Penalty on Jaylon Smith: Lowering the Head to Initiate Contact, 15 yards",2.980,4.310
+2,9:06,1,10,DAL 19,20,7,Todd Gurley right guard for 3 yards (tackle by Trysten Hill and Dorance Armstrong),4.310,4.180
+2,8:30,2,7,DAL 16,20,7,Matt Ryan up the middle for 5 yards (tackle by DeMarcus Lawrence and Darian Thompson),4.180,4.430
+2,7:47,3,2,DAL 11,20,7,Matt Ryan pass complete short right to Russell Gage for 4 yards (tackle by Jourdan Lewis),4.430,5.600
+2,7:16,1,7,DAL 7,20,7,Ito Smith left end for 6 yards (tackle by Everson Griffen and Joe Thomas),5.600,5.910
+2,6:37,2,1,DAL 1,20,7,Ito Smith left guard for -2 yards (tackle by Jaylon Smith),5.910,4.720
+2,6:03,,,,,,Timeout #1 by Dallas Cowboys,,
+2,6:03,3,3,DAL 3,26,7,"Matt Ryan pass complete short right to Calvin Ridley for 3 yards, touchdown",4.720,7.000
+2,5:58,,,DAL 2,26,7,"Two Point Attempt: Matt Ryan pass incomplete intended for Calvin Ridley, conversion fails",1.000,-1.000
+2,5:58,,,ATL 35,26,7,"Younghoe Koo kicks off 65 yards, touchback.",0.000,0.610
+2,5:58,,,,,,Timeout #1 by Atlanta Falcons,,
+2,5:58,1,10,DAL 25,26,7,Ezekiel Elliott left tackle for no gain (tackle by Steven Means and Tyeler Davison),0.610,0.060
+2,5:34,2,10,DAL 25,26,7,Dak Prescott pass complete short middle to Ezekiel Elliott for 11 yards (tackle by Steven Means),0.060,1.330
+2,5:10,1,10,DAL 36,26,7,Ezekiel Elliott up the middle for 4 yards (tackle by Deadrin Senat),1.330,1.330
+2,4:45,2,6,DAL 40,26,7,Dak Prescott pass complete short left to Tony Pollard for 3 yards (tackle by Mykal Walker and John Cominsky),1.330,1.030
+2,4:12,3,3,DAL 43,26,7,Dak Prescott pass complete short left to Dalton Schultz for 8 yards (tackle by Mykal Walker),1.030,2.320
+2,3:51,1,10,ATL 49,26,7,Dak Prescott pass complete short right to Amari Cooper for 12 yards (tackle by AJ Terrell),2.320,3.120
+2,3:16,1,10,ATL 37,26,7,Dak Prescott pass complete deep left to Michael Gallup for 20 yards (tackle by Damontae Kazee),3.120,4.440
+2,2:43,1,10,ATL 17,26,7,"Ezekiel Elliott up the middle for 4 yards (tackle by Deion Jones). Penalty on Terence Steele: Offensive Holding, 10 yards (no play)",4.440,3.780
+2,2:33,1,20,ATL 27,26,7,Dak Prescott pass incomplete short left intended for Michael Gallup (defended by Isaiah Oliver),3.780,2.540
+2,2:29,2,20,ATL 27,26,7,"Penalty on Terence Steele: False Start, 5 yards (no play)",2.540,1.870
+2,2:29,2,25,ATL 32,26,7,Dak Prescott pass complete short left to Ezekiel Elliott for 6 yards (tackle by Mykal Walker),1.870,2.020
+2,2:00,3,19,ATL 26,26,7,Dak Prescott right tackle for 11 yards (tackle by Darqueze Dennard and Grady Jarrett),2.020,2.440
+2,1:50,,,,,,Timeout #2 by Atlanta Falcons,,
+2,1:50,4,8,ATL 15,26,10,Greg Zuerlein 33 yard field goal good,2.440,3.000
+2,1:46,,,DAL 35,26,10,"Greg Zuerlein kicks off 61 yards, returned by Brandon Powell for 17 yards (tackle by Donovan Wilson)",0.000,0.340
+2,1:41,1,10,ATL 21,26,10,Todd Gurley left guard for 7 yards (tackle by Aldon Smith),0.340,0.750
+2,1:20,2,3,ATL 28,26,10,"Penalty on Jake Matthews: False Start, 5 yards (no play)",0.750,0.070
+2,1:06,2,8,ATL 23,26,10,Matt Ryan pass complete short left to Russell Gage for 14 yards (tackle by Jourdan Lewis),0.070,1.400
+2,0:48,1,10,ATL 37,26,10,Matt Ryan pass complete short right to Calvin Ridley for 11 yards (tackle by Trevon Diggs),1.400,2.130
+2,0:29,1,10,ATL 48,26,10,"Matt Ryan pass incomplete short middle intended for Todd Gurley. Penalty on Aldon Smith: Defensive Offside, 5 yards (no play)",2.130,2.860
+2,0:25,1,5,DAL 47,26,10,Matt Ryan pass complete deep left to Calvin Ridley for 24 yards (tackle by Daryl Worley),2.860,4.040
+2,0:16,1,10,DAL 23,26,10,Matt Ryan pass incomplete deep right intended for Julio Jones,4.040,3.500
+2,0:10,2,10,DAL 23,26,10,Matt Ryan pass incomplete short left intended for Russell Gage,3.500,2.810
+2,0:06,3,10,DAL 23,29,10,Younghoe Koo 41 yard field goal good,2.810,3.000
+2,0:02,,,ATL 35,29,10,"Younghoe Koo kicks off 60 yards, returned by Tony Pollard for 12 yards (tackle by Olamide Zaccheaus)",0.000,1.270
+Quarter,Time,Down,ToGo,Location,ATL,DAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,ATL 35,29,10,"Younghoe Koo kicks off 67 yards, returned by Tony Pollard for 28 yards (tackle by Jacob Tuioti-Mariner)",0.000,0.670
+3,14:53,1,10,DAL 26,29,10,Ezekiel Elliott left tackle for 10 yards (tackle by Keanu Neal),0.670,1.330
+3,14:20,1,10,DAL 36,29,10,Dak Prescott pass incomplete deep left intended for Amari Cooper (defended by Isaiah Oliver),1.330,0.790
+3,14:13,2,10,DAL 36,29,10,Dak Prescott pass complete short right to Amari Cooper for 4 yards (tackle by AJ Terrell),0.790,0.630
+3,13:40,3,6,DAL 40,29,10,Dak Prescott pass complete deep middle to CeeDee Lamb for 37 yards (tackle by Damontae Kazee). Penalty on Jacob Tuioti-Mariner: Defensive Offside (Declined),0.630,4.040
+3,13:23,1,10,ATL 23,29,10,Dak Prescott pass complete short right to Dalton Schultz for 18 yards (tackle by Damontae Kazee),4.040,6.060
+3,12:57,1,5,ATL 5,29,10,Ezekiel Elliott up the middle for 3 yards (tackle by Jacob Tuioti-Mariner),6.060,5.720
+3,12:27,2,2,ATL 2,29,16,"Dak Prescott left tackle for 2 yards, touchdown",5.720,7.000
+3,12:23,,,ATL 15,29,17,Greg Zuerlein kicks extra point good,0.000,0.000
+3,12:23,,,DAL 35,29,17,"Greg Zuerlein kicks off 59 yards, returned by Brandon Powell for 20 yards (tackle by Malik Turner)",0.000,0.670
+3,12:17,1,10,ATL 26,29,17,Matt Ryan pass complete short right to Keith Smith for 1 yard (tackle by Xavier Woods),0.670,0.270
+3,11:36,2,9,ATL 27,29,17,Todd Gurley left end for 4 yards (tackle by Joe Thomas and Aldon Smith),0.270,0.100
+3,10:57,3,5,ATL 31,29,17,Matt Ryan pass complete short right to Calvin Ridley for 10 yards (tackle by Trevon Diggs),0.100,1.660
+3,10:27,1,10,ATL 41,29,17,Matt Ryan pass complete short middle to Hayden Hurst for 2 yards (tackle by Jaylon Smith and Joe Thomas),1.660,1.390
+3,9:45,2,8,ATL 43,29,17,Todd Gurley left tackle for 2 yards (tackle by Everson Griffen and Jaylon Smith),1.390,0.960
+3,9:06,3,6,ATL 45,29,17,Matt Ryan pass complete short left to Russell Gage for 6 yards (tackle by Daryl Worley),0.960,2.320
+3,8:33,1,10,DAL 49,29,17,Todd Gurley right end for 1 yard (tackle by Xavier Woods),2.320,1.920
+3,7:58,2,9,DAL 48,29,17,Matt Ryan pass complete short right to Brian Hill for 7 yards (tackle by Joe Thomas),1.920,2.150
+3,7:15,3,2,DAL 41,29,17,Russell Gage pass incomplete deep left intended for Julio Jones,2.150,0.530
+3,7:08,4,2,DAL 41,29,17,"Penalty on ATL: Offensive Too Many Men on Field, 5 yards (no play)",0.530,0.200
+3,7:04,4,7,DAL 46,29,17,"Sterling Hofrichter punts 29 yards, fair catch by Cedrick Wilson at DAL-17",0.200,0.060
+3,7:01,1,10,DAL 17,29,17,Dak Prescott pass complete short right to Ezekiel Elliott for 8 yards (tackle by Deion Jones),-0.060,0.620
+3,6:30,2,2,DAL 25,29,17,Dak Prescott pass complete deep left to Amari Cooper for 58 yards (tackle by Keanu Neal),0.620,4.440
+3,5:51,1,10,ATL 17,29,17,Ezekiel Elliott left tackle for 9 yards (tackle by Dante Fowler),4.440,5.480
+3,5:12,2,1,ATL 8,29,17,Ezekiel Elliott left guard for 1 yard (tackle by Grady Jarrett),5.480,5.600
+3,4:39,1,7,ATL 7,29,17,"Dak Prescott pass complete short right to Dalton Schultz for 5 yards (tackle by Damontae Kazee). Penalty on Deion Jones: Roughing the Passer, 1 yard",5.600,6.970
+3,4:27,1,1,ATL 1,29,17,Andy Dalton pass incomplete short right,6.970,5.910
+3,4:21,2,1,ATL 1,29,17,Ezekiel Elliott up the middle for no gain (tackle by Deion Jones and John Cominsky),5.910,5.170
+3,4:17,3,1,ATL 1,29,23,"Dak Prescott up the middle for 1 yard, touchdown",5.170,7.000
+3,4:14,,,ATL 15,29,24,Greg Zuerlein kicks extra point good,0.000,0.000
+3,4:14,,,DAL 35,29,24,"Greg Zuerlein kicks off 64 yards, returned by Brandon Powell for 25 yards (tackle by Justin March-Lillard)",0.000,0.670
+3,4:08,1,10,ATL 26,29,24,Matt Ryan up the middle for 3 yards (tackle by Jaylon Smith),0.670,0.540
+3,3:38,2,7,ATL 29,29,24,Ito Smith left tackle for 1 yard (tackle by Trysten Hill),0.540,-0.030
+3,2:59,3,6,ATL 30,29,24,Matt Ryan pass complete short middle to Hayden Hurst for 22 yards (tackle by Xavier Woods),-0.030,2.390
+3,2:16,1,10,DAL 48,29,24,Ito Smith left tackle for 6 yards (tackle by Xavier Woods and Dorance Armstrong),2.390,2.660
+3,1:39,2,4,DAL 42,29,24,Matt Ryan pass incomplete deep middle intended for Calvin Ridley (defended by Trevon Diggs),2.660,1.950
+3,1:33,,,,,,Timeout #1 by Atlanta Falcons,,
+3,1:33,3,4,DAL 42,29,24,Matt Ryan pass complete short right to Russell Gage for 2 yards (tackle by Jourdan Lewis),1.950,0.590
+3,0:51,4,2,DAL 40,29,24,Matt Ryan pass complete short left to Julio Jones for 19 yards (tackle by Daryl Worley),0.590,4.170
+3,0:12,1,10,DAL 21,29,24,Ito Smith up the middle for 9 yards (tackle by Jaylon Smith and Xavier Woods),4.170,5.160
+Quarter,Time,Down,ToGo,Location,ATL,DAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,1,DAL 12,29,24,Todd Gurley left guard for 4 yards (tackle by Joe Thomas),5.160,5.370
+4,14:32,1,8,DAL 8,29,24,Matt Ryan pass incomplete short right intended for Calvin Ridley,5.370,4.570
+4,14:29,2,8,DAL 8,35,24,"Matt Ryan pass complete short left to Russell Gage for 8 yards, touchdown",4.570,7.000
+4,14:23,,,DAL 15,36,24,Younghoe Koo kicks extra point good,0.000,0.000
+4,14:23,,,ATL 35,36,24,"Younghoe Koo kicks off 72 yards, returned by Tony Pollard for 31 yards (tackle by Keanu Neal)",0.000,0.540
+4,14:17,1,10,DAL 24,36,24,Ezekiel Elliott left tackle for 11 yards (tackle by Deion Jones and Isaiah Oliver),0.540,1.270
+4,13:43,1,10,DAL 35,36,24,Dak Prescott pass incomplete deep right intended for Amari Cooper,1.270,0.720
+4,13:37,2,10,DAL 35,36,24,Ezekiel Elliott up the middle for 5 yards (tackle by Allen Bailey and Mykal Walker),0.720,0.700
+4,12:59,3,5,DAL 40,36,24,Dak Prescott pass incomplete short left intended for Blake Bell. Penalty on Terence Steele: Offensive Holding (Declined),0.700,-0.720
+4,12:53,4,5,DAL 40,36,24,Darian Thompson up the middle for 3 yards (tackle by John Cominsky),-0.720,-2.720
+4,12:46,1,10,DAL 43,36,24,Todd Gurley left end for -2 yards (tackle by Everson Griffen),2.720,1.910
+4,12:08,2,12,DAL 45,36,24,Matt Ryan pass complete short left to Hayden Hurst for 4 yards (tackle by Jaylon Smith),1.910,1.750
+4,11:28,3,8,DAL 41,36,24,Matt Ryan pass complete short middle to Russell Gage for 12 yards (tackle by Jourdan Lewis),1.750,3.640
+4,10:46,1,10,DAL 29,36,24,Todd Gurley right end for 5 yards (tackle by Jaylon Smith),3.640,3.780
+4,10:04,2,5,DAL 24,36,24,Todd Gurley right end for -2 yards (tackle by Joe Thomas),3.780,2.810
+4,9:22,3,7,DAL 26,36,24,Matt Ryan pass complete short middle to Calvin Ridley for 14 yards (tackle by Trevon Diggs). Penalty on Aldon Smith: Defensive Offside (Declined),2.810,4.780
+4,8:57,1,10,DAL 12,36,24,Todd Gurley left tackle for 4 yards (tackle by Jaylon Smith),4.780,4.830
+4,8:13,2,6,DAL 8,36,24,Matt Ryan pass incomplete short left,4.830,3.930
+4,8:08,3,6,DAL 8,36,24,Matt Ryan pass incomplete short right intended for Hayden Hurst,3.930,2.960
+4,8:02,4,6,DAL 8,36,24,"Penalty on Tyeler Davison: False Start, 5 yards (no play)",2.960,2.570
+4,8:01,4,11,DAL 13,39,24,Younghoe Koo 32 yard field goal good,2.570,3.000
+4,7:57,,,ATL 35,39,24,"Younghoe Koo kicks off 65 yards, touchback.",0.000,0.610
+4,7:57,1,10,DAL 25,39,24,Dak Prescott pass complete short left to Dalton Schultz for 6 yards (tackle by Keanu Neal and Mykal Walker),0.610,0.870
+4,7:31,2,4,DAL 31,39,24,Dak Prescott pass incomplete short middle intended for CeeDee Lamb (defended by Darqueze Dennard),0.870,0.170
+4,7:27,3,4,DAL 31,39,24,Dak Prescott pass complete deep left to Blake Bell for 24 yards (tackle by Keanu Neal),0.170,2.590
+4,6:59,1,10,ATL 45,39,24,Dak Prescott left tackle for 3 yards (tackle by Steven Means),2.590,2.450
+4,6:37,2,7,ATL 42,39,24,Dak Prescott pass incomplete deep left intended for Michael Gallup,2.450,1.750
+4,6:33,3,7,ATL 42,39,24,Dak Prescott pass complete short left to CeeDee Lamb for 12 yards (tackle by Isaiah Oliver),1.750,3.580
+4,6:07,1,10,ATL 30,39,24,Dak Prescott pass complete short right to Amari Cooper for 4 yards (tackle by Darqueze Dennard),3.580,3.570
+4,5:44,2,6,ATL 26,39,24,Dak Prescott pass complete short left to Dalton Schultz for 8 yards (tackle by Darqueze Dennard and Deion Jones),3.570,4.370
+4,5:21,1,10,ATL 18,39,24,Dak Prescott pass complete short middle to Noah Brown for 8 yards (tackle by Keanu Neal),4.370,5.230
+4,5:02,2,2,ATL 10,39,30,"Dak Prescott pass complete short middle to Dalton Schultz for 10 yards, touchdown",5.230,7.000
+4,4:57,,,ATL 2,39,30,"Two Point Attempt: Ezekiel Elliott rushes, conversion fails.",1.000,-1.000
+4,4:57,,,DAL 35,39,30,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+4,4:57,1,10,ATL 25,39,30,Todd Gurley right end for 6 yards (tackle by Trevon Diggs),0.610,0.870
+4,4:50,,,,,,Timeout #1 by Dallas Cowboys,,
+4,4:50,2,4,ATL 31,39,30,Todd Gurley right end for 4 yards (tackle by Jaylon Smith and Joe Thomas),0.870,1.270
+4,4:44,1,10,ATL 35,39,30,Todd Gurley right tackle for -2 yards (tackle by Xavier Woods and Jaylon Smith),1.270,0.450
+4,4:39,,,,,,Timeout #3 by Dallas Cowboys,,
+4,4:39,2,12,ATL 33,39,30,Matt Ryan sacked by Everson Griffen for -6 yards,0.450,-1.020
+4,3:54,3,18,ATL 27,39,30,Matt Ryan pass complete short left to Olamide Zaccheaus for 10 yards (tackle by Jaylon Smith),-1.020,-0.910
+4,3:09,4,8,ATL 37,39,30,"Sterling Hofrichter punts 42 yards, returned by CeeDee Lamb for 3 yards (tackle by Luke Stocker)",-0.910,-0.540
+4,2:57,1,10,DAL 24,39,30,Dak Prescott pass complete short right to Amari Cooper for 11 yards (tackle by LaRoy Reynolds),0.540,1.270
+4,2:52,1,10,DAL 35,39,30,Dak Prescott pass complete short right to Ezekiel Elliott for 3 yards (tackle by AJ Terrell),1.270,1.130
+4,2:33,2,7,DAL 38,39,30,Dak Prescott pass incomplete short left intended for CeeDee Lamb,1.130,0.430
+4,2:29,3,7,DAL 38,39,30,"Dak Prescott pass complete short middle to Noah Brown for 20 yards (tackle by Damontae Kazee). Penalty on CeeDee Lamb: Illegal Blindside Block, 15 yards",0.430,1.090
+4,2:18,3,2,DAL 43,39,30,Dak Prescott pass complete short left to CeeDee Lamb for 14 yards (tackle by Isaiah Oliver),1.090,2.720
+4,2:13,1,10,ATL 43,39,30,Dak Prescott pass complete deep left to Michael Gallup for 38 yards (tackle by Isaiah Oliver). Penalty on Dante Fowler: Defensive Holding (Declined),2.720,6.060
+4,2:05,1,5,ATL 5,39,30,Ezekiel Elliott left end for 4 yards (tackle by Isaiah Oliver),6.060,5.910
+4,2:00,2,1,ATL 1,39,30,Dak Prescott pass incomplete short left intended for Michael Gallup (defended by Isaiah Oliver). Penalty on Isaiah Oliver: Defensive Pass Interference (no play),5.910,6.970
+4,1:56,1,1,ATL 1,39,30,Dak Prescott pass incomplete short right intended for CeeDee Lamb,6.970,5.910
+4,1:52,2,1,ATL 1,39,36,"Dak Prescott up the middle for 1 yard, touchdown",5.910,7.000
+4,1:49,,,ATL 15,39,37,Greg Zuerlein kicks extra point good,0.000,0.000
+4,1:49,,,,,,Timeout #3 by Atlanta Falcons,,
+4,1:49,,,DAL 35,39,37,"Greg Zuerlein kicks onside 11 yards, recovered by C.J. Goodwin",0.000,-1.990
+4,1:48,1,10,DAL 46,39,37,Dak Prescott pass incomplete deep right intended for Michael Gallup,1.990,1.450
+4,1:43,2,10,DAL 46,39,37,Dak Prescott pass complete short right to CeeDee Lamb for 24 yards (tackle by Damontae Kazee),1.450,3.580
+4,1:15,1,10,ATL 30,39,37,Ezekiel Elliott left tackle for 2 yards (tackle by Allen Bailey),3.580,3.300
+4,0:42,2,8,ATL 28,39,37,Ezekiel Elliott right tackle for no gain (tackle by Jacob Tuioti-Mariner),3.300,2.610
+4,0:05,3,8,ATL 28,39,37,Dak Prescott spiked the ball,2.610,1.590
+4,0:04,4,8,ATL 28,39,40,Greg Zuerlein 46 yard field goal good,1.590,3.000
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

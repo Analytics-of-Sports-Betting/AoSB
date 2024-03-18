@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,14:04,NYJ 7,1,0:07,7,Touchdown
+2,1,12:34,SFO 19,4,1:49,81,Touchdown
+3,1,8:26,SFO 30,6,2:49,44,Missed FG
+4,1,1:58,SFO 12,8,3:37,58,Missed FG
+5,2,7:28,SFO 25,5,1:43,46,Field Goal
+6,2,4:23,SFO 41,4,2:16,11,Punt
+7,2,0:52,SFO 11,5,0:52,32,End of Half
+8,3,15:00,SFO 25,3,1:07,5,Punt
+9,3,6:28,SFO 25,6,3:18,17,Punt
+10,3,0:21,SFO 19,3,1:54,7,Punt
+11,4,5:04,SFO 25,4,2:29,0,Punt
+12,4,0:38,SFO 25,3,0:20,3,Punt
+13,5,15:00,SFO 25,6,2:09,38,Downs

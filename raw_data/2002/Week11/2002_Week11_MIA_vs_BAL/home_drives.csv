@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,MIA 32,3,1:37,7,Punt
+2,1,11:54,MIA 18,3,1:37,-6,Punt
+3,1,8:08,MIA 12,8,4:25,88,Touchdown
+4,1,0:48,MIA 20,3,1:44,7,Punt
+5,2,12:26,MIA 27,3,1:38,9,Punt
+6,2,9:08,MIA 39,6,2:49,61,Touchdown
+7,2,3:20,MIA 33,11,3:12,43,Field Goal
+8,3,12:12,MIA 8,6,3:34,23,Punt
+9,3,6:57,BAL 40,4,1:50,9,Field Goal
+10,3,2:46,MIA 16,3,1:33,6,Punt
+11,4,14:13,MIA 18,9,5:11,82,Touchdown
+12,4,6:30,MIA 39,6,3:20,21,Punt
+13,4,1:37,BAL 28,3,1:37,-3,End of Game

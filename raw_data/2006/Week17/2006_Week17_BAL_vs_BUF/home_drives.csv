@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,BAL 37,13,7:52,55,Field Goal
+2,1,5:01,BAL 24,1,0:09,0,Interception
+3,1,3:48,BAL 9,11,6:32,52,Punt
+4,2,6:43,BAL 20,13,5:11,61,Field Goal
+5,2,0:27,BAL 20,1,0:27,-1,End of Half
+6,3,14:15,BUF 25,4,1:47,4,Field Goal
+7,3,8:08,BAL 29,3,1:36,2,Punt
+8,3,5:34,BAL 44,3,1:01,0,Punt
+9,3,0:56,BAL 2,8,5:13,58,Punt
+10,4,9:06,BAL 43,9,4:18,46,Field Goal
+11,4,2:15,BAL 44,4,2:15,30,End of Game

@@ -1,0 +1,161 @@
+Quarter,Time,Down,ToGo,Location,PIT,LAC,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Steelers won the coin toss and deferred, Chargers to receive the opening kickoff.",,
+1,15:00,,,PIT 35,0,0,"Chris Boswell kicks off 66 yards, returned by Desmond King for 26 yards (tackle by Anthony Chickillo and Jordan Dangerfield)",0.000,0.610
+1,14:54,1,10,LAC 25,0,0,Philip Rivers pass complete short left to Hunter Henry for 19 yards (tackle by Minkah Fitzpatrick),0.610,1.860
+1,14:20,1,10,LAC 44,0,0,Melvin Gordon right guard for 2 yards (tackle by Cameron Heyward and Artie Burns),1.860,1.590
+1,13:45,2,8,LAC 46,0,0,Melvin Gordon up the middle for -1 yards (tackle by Bud Dupree),1.590,0.760
+1,13:03,3,9,LAC 45,0,0,Philip Rivers pass incomplete short left intended for Travis Benjamin,0.760,-0.390
+1,12:58,4,9,LAC 45,0,0,"Ty Long punts 43 yards, returned by Ryan Switzer for 9 yards (tackle by Nick Dzubnar)",-0.390,-0.340
+1,12:48,1,10,PIT 21,0,0,Devlin Hodges pass incomplete deep left intended for JuJu Smith-Schuster,0.340,-0.200
+1,12:42,2,10,PIT 21,0,0,James Conner up the middle for -1 yards (tackle by Denzel Perryman),-0.200,-1.020
+1,11:59,3,11,PIT 20,0,0,Devlin Hodges pass complete short right to Vance McDonald for 5 yards (tackle by Desmond King),-1.020,-1.700
+1,11:22,4,6,PIT 25,0,0,"Penalty on Justin Layne: False Start, 5 yards (no play)",-1.700,-2.030
+1,11:12,4,11,PIT 20,0,0,"Jordan Berry punts 59 yards, fair catch by Desmond King at LAC-21",-2.030,-0.340
+1,11:06,1,10,LAC 21,0,0,Philip Rivers pass incomplete short middle,0.340,-0.200
+1,11:01,2,10,LAC 21,6,0,"Philip Rivers aborted snap, recovered by Devin Bush at LAC-9 and returned for 9 yards, touchdown",-0.200,-7.000
+1,10:51,,,LAC 15,7,0,Chris Boswell kicks extra point good,0.000,0.000
+1,10:51,,,PIT 35,7,0,"Chris Boswell kicks off 65 yards, touchback.",0.000,0.610
+1,10:51,1,10,LAC 25,7,0,Austin Ekeler right tackle for -1 yards (tackle by Tyson Alualu and Terrell Edmunds),0.610,-0.070
+1,10:20,2,11,LAC 24,7,0,Melvin Gordon left guard for 7 yards (tackle by Devin Bush),-0.070,0.170
+1,9:39,3,4,LAC 31,7,0,Philip Rivers pass complete short right to Hunter Henry for 13 yards (tackle by Kameron Kelly),0.170,1.860
+1,8:59,1,10,LAC 44,7,0,Philip Rivers pass short middle (defended by Tyson Alualu) intended for Keenan Allen is intercepted by Devin Bush at LAC-46 and returned for 6 yards,1.860,-2.920
+1,8:52,1,10,LAC 40,7,0,James Conner left guard for 2 yards (tackle by Thomas Davis),2.920,2.640
+1,8:12,2,8,LAC 38,7,0,Devlin Hodges pass complete short right to James Conner for 4 yards (tackle by Thomas Davis),2.640,2.480
+1,7:28,3,4,LAC 34,7,0,Devlin Hodges pass complete short left to James Conner for 12 yards (tackle by Roderic Teamer),2.480,4.110
+1,6:51,1,10,LAC 22,7,0,James Conner right end for 2 yards (tackle by Michael Davis),4.110,3.830
+1,6:14,2,8,LAC 20,7,0,James Conner right guard for 4 yards (tackle by Joey Bosa),3.830,3.740
+1,5:30,3,4,LAC 16,7,0,Devlin Hodges pass complete short right to James Conner for 4 yards (tackle by Desmond King and Michael Davis),3.740,4.780
+1,4:35,1,10,LAC 12,13,0,"James Conner left end for 12 yards, touchdown",4.780,7.000
+1,4:29,,,LAC 15,14,0,Chris Boswell kicks extra point good,0.000,0.000
+1,4:29,,,PIT 35,14,0,"Chris Boswell kicks off 64 yards, returned by Desmond King for 23 yards (tackle by Tyler Matakevich)",0.000,0.540
+1,4:23,1,10,LAC 24,14,0,Melvin Gordon right guard for 1 yard (tackle by Devin Bush and Cameron Heyward),0.540,0.130
+1,3:46,2,9,LAC 25,14,0,Philip Rivers pass complete deep middle to Keenan Allen for 19 yards (tackle by Minkah Fitzpatrick),0.130,1.860
+1,3:02,1,10,LAC 44,14,0,Melvin Gordon up the middle for 3 yards (tackle by T.J. Watt and Devin Bush),1.860,1.720
+1,2:24,2,7,LAC 47,14,0,Melvin Gordon up the middle for 1 yard (tackle by Vince Williams),1.720,1.160
+1,1:41,3,6,LAC 48,14,0,Philip Rivers pass complete short left to Austin Ekeler for -1 yards (tackle by T.J. Watt and Artie Burns),1.160,-0.260
+1,1:05,4,7,LAC 47,14,0,"Ty Long punts 44 yards downed by Troymaine Pope. Penalty on Troymaine Pope: Illegal Touch Kick, 5 yards (no play)",-0.260,-0.590
+1,0:52,4,12,LAC 42,14,0,"Ty Long punts 44 yards, fair catch by Ryan Switzer at PIT-14",-0.590,0.280
+1,0:43,1,10,PIT 14,14,0,James Conner up the middle for 11 yards (tackle by Rayshawn Jenkins),-0.280,0.610
+Quarter,Time,Down,ToGo,Location,PIT,LAC,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,PIT 25,14,0,Devlin Hodges pass complete short middle to Diontae Johnson for 7 yards (tackle by Damion Square),0.610,1.010
+2,14:32,2,3,PIT 32,14,0,Benny Snell up the middle for 1 yard (tackle by Michael Davis),1.010,0.430
+2,13:52,3,2,PIT 33,14,0,James Conner up the middle for 4 yards (tackle by Thomas Davis),0.430,1.400
+2,13:14,1,10,PIT 37,14,0,James Conner right end for 3 yards (tackle by Rayshawn Jenkins),1.400,1.260
+2,12:31,2,7,PIT 40,14,0,Devlin Hodges pass complete short left to Diontae Johnson for 7 yards,1.260,2.060
+2,11:48,1,10,PIT 47,14,0,Benny Snell right end for 4 yards (tackle by Thomas Davis and Justin Jones),2.060,2.060
+2,11:06,2,6,LAC 49,14,0,Devlin Hodges right end for 2 yards (tackle by Desmond King),2.060,1.620
+2,10:18,3,4,LAC 47,14,0,Devlin Hodges pass complete short middle to James Conner for 5 yards (tackle by Desmond King),1.620,2.790
+2,9:33,1,10,LAC 42,14,0,Benny Snell right tackle for 7 yards (tackle by Uchenna Nwosu),2.790,3.190
+2,8:48,2,3,LAC 35,14,0,Benny Snell left tackle for 7 yards (tackle by Denzel Perryman),3.190,3.710
+2,8:07,1,10,LAC 28,14,0,Benny Snell left tackle for 1 yard (tackle by Denzel Perryman and Thomas Davis),3.710,3.300
+2,7:24,2,9,LAC 27,14,0,James Conner right end for 1 yard (tackle by Uchenna Nwosu and Justin Jones),3.300,2.740
+2,6:42,3,8,LAC 26,20,0,"Devlin Hodges pass complete short right to James Conner for 26 yards, touchdown",2.740,7.000
+2,6:34,,,LAC 15,21,0,Chris Boswell kicks extra point good,0.000,0.000
+2,6:34,,,PIT 35,21,0,"Chris Boswell kicks off 60 yards, returned by Troymaine Pope for 19 yards (tackle by Justin Layne). Penalty on Jatavis Brown: Offensive Holding, 10 yards",0.000,-0.280
+2,6:27,1,10,LAC 14,21,0,Austin Ekeler left tackle for 11 yards (tackle by Javon Hargrave),-0.280,0.610
+2,5:47,1,10,LAC 25,21,0,Philip Rivers pass incomplete short left intended for Austin Ekeler,0.610,0.060
+2,5:42,2,10,LAC 25,21,0,Austin Ekeler up the middle for -3 yards (tackle by Javon Hargrave and Tyson Alualu),0.060,-1.020
+2,5:01,3,13,LAC 22,21,0,Philip Rivers pass complete short left to Mike Williams for 16 yards (tackle by Terrell Edmunds and Artie Burns),-1.020,1.470
+2,4:23,1,10,LAC 38,21,0,Austin Ekeler right end for 1 yard (tackle by Vince Williams and Bud Dupree),1.470,1.060
+2,3:49,2,9,LAC 39,21,0,Philip Rivers pass incomplete deep left intended for Mike Williams,1.060,0.370
+2,3:41,3,9,LAC 39,21,0,Philip Rivers pass complete short right to Mike Williams for 12 yards (tackle by Artie Burns),0.370,2.320
+2,2:58,1,10,PIT 49,21,0,Philip Rivers pass complete deep left to Mike Williams for 20 yards (tackle by Minkah Fitzpatrick),2.320,3.640
+2,2:21,1,10,PIT 29,21,0,Melvin Gordon left tackle for 3 yards (tackle by Tyson Alualu),3.640,3.510
+2,2:00,2,7,PIT 26,21,0,"Philip Rivers pass incomplete short right. Penalty on Philip Rivers: Intentional Grounding, 12 yards",3.510,1.220
+2,1:23,3,19,PIT 38,21,0,Philip Rivers pass complete short middle to Melvin Gordon for 13 yards (tackle by Terrell Edmunds),1.220,1.830
+2,0:37,4,6,PIT 25,21,0,Chase McLaughlin 43 yard field goal no good,1.830,-1.140
+2,0:32,1,10,PIT 33,21,0,James Conner up the middle for 1 yard (tackle by Desmond King),1.140,0.730
+Quarter,Time,Down,ToGo,Location,PIT,LAC,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,LAC 35,21,0,"Chase McLaughlin kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,PIT 25,21,0,"James Conner left end for 8 yards (tackle by Rayshawn Jenkins). Penalty on Justin Jones: Defensive Offside, 5 yards (no play)",0.610,1.340
+3,14:36,1,5,PIT 30,21,0,Devlin Hodges pass complete short right to James Conner for 15 yards (tackle by Roderic Teamer and Rayshawn Jenkins),1.340,1.930
+3,13:44,1,10,PIT 45,21,0,Benny Snell left tackle for 3 yards (tackle by Joey Bosa),1.930,1.790
+3,12:59,2,7,PIT 48,21,0,"Devlin Hodges pass incomplete deep left intended for Diontae Johnson (defended by Michael Davis). Penalty on Thomas Davis: Unnecessary Roughness, 15 yards (no play)",1.790,3.120
+3,12:54,1,10,LAC 37,21,0,James Conner right end for no gain (tackle by Thomas Davis),3.120,2.570
+3,12:15,2,10,LAC 37,21,0,Devlin Hodges pass incomplete deep right intended for Donte Moncrief,2.570,1.880
+3,12:07,3,10,LAC 37,21,0,"Devlin Hodges pass complete short left to Benny Snell for 14 yards (tackle by Joey Bosa and Rayshawn Jenkins). Penalty on JuJu Smith-Schuster: Offensive Holding, 10 yards",1.880,2.410
+3,11:34,3,6,LAC 33,21,0,"Devlin Hodges pass incomplete deep left intended for JuJu Smith-Schuster. Penalty on Joey Bosa: Defensive Offside, 5 yards (no play)",2.410,3.070
+3,11:29,3,1,LAC 28,21,0,"Benny Snell right end for 4 yards (tackle by Desmond King). Penalty on Desmond King: Unsportsmanlike Conduct, 12 yards",3.070,4.780
+3,11:06,1,10,LAC 12,21,0,Devlin Hodges pass incomplete short right intended for JuJu Smith-Schuster,4.780,4.100
+3,11:00,2,10,LAC 12,21,0,Benny Snell right end for 6 yards (tackle by Justin Jones),4.100,4.380
+3,10:15,3,4,LAC 6,21,0,Benny Snell right tackle for 4 yards (tackle by Isaac Rochell),4.380,6.740
+3,9:46,1,2,LAC 2,21,0,James Conner left tackle for no gain (tackle by Justin Jones),6.740,5.720
+3,9:06,2,2,LAC 2,21,0,James Conner left guard for no gain (tackle by Joey Bosa and Roderic Teamer),5.720,4.950
+3,8:22,3,2,LAC 2,21,0,"Maurkice Pouncey aborted snap, recovered by Devlin Hodges at LAC-20 Devlin Hodges pass incomplete short right",4.950,3.250
+3,8:15,4,2,LAC 2,24,0,Chris Boswell 20 yard field goal good,3.250,3.000
+3,8:12,,,PIT 35,24,0,"Chris Boswell kicks off 64 yards, returned by Troymaine Pope for 29 yards (tackle by Tyler Matakevich)",0.000,0.940
+3,8:05,1,10,LAC 30,24,0,Melvin Gordon left tackle for 2 yards (tackle by Cameron Heyward),0.940,0.660
+3,7:34,2,8,LAC 32,24,0,Philip Rivers pass complete short left to Hunter Henry for 6 yards (tackle by Vince Williams),0.660,0.760
+3,6:53,3,2,LAC 38,24,0,Philip Rivers pass incomplete short right intended for Melvin Gordon (defended by T.J. Watt),0.760,-0.850
+3,6:49,4,2,LAC 38,24,0,"Ty Long punts 41 yards, returned by Ryan Switzer for 5 yards (tackle by Brandon Facyson)",-0.850,-0.670
+3,6:39,1,10,PIT 26,24,0,James Conner left tackle for no gain (tackle by Denzel Perryman),0.670,0.130
+3,6:02,2,10,PIT 26,24,0,Devlin Hodges pass complete short left to Donte Moncrief for 11 yards,0.130,1.400
+3,5:34,1,10,PIT 37,24,0,"Penalty on PIT: Offensive Too Many Men on Field, 5 yards (no play)",1.400,1.070
+3,5:17,1,15,PIT 32,24,0,James Conner right end for -1 yards (tackle by Drue Tranquill),1.070,0.050
+3,4:40,2,16,PIT 31,24,0,James Conner left end for 3 yards (tackle by Denzel Perryman),0.050,-0.230
+3,3:57,3,13,PIT 34,24,0,Devlin Hodges pass complete short left to James Conner for 12 yards (tackle by Roderic Teamer),-0.230,-0.320
+3,3:10,4,1,PIT 46,24,0,"Jordan Berry punts 45 yards, fair catch by Desmond King at LAC-9",-0.320,0.380
+3,2:59,1,10,LAC 9,24,0,Philip Rivers pass incomplete deep left intended for Keenan Allen,-0.380,-0.780
+3,2:52,2,10,LAC 9,24,0,"Philip Rivers pass complete short left to Keenan Allen for 14 yards (tackle by Devin Bush). Penalty on Devin Bush: Taunting, 15 yards",-0.780,1.470
+3,2:26,1,10,LAC 38,24,0,"Philip Rivers pass complete short right to Hunter Henry for 6 yards (tackle by Vince Williams). Penalty on Forrest Lamp: Offensive Holding, 10 yards (no play)",1.470,0.810
+3,2:02,1,20,LAC 28,24,0,Philip Rivers pass complete short right to Hunter Henry for 7 yards (tackle by Mike Hilton),0.810,0.520
+3,1:29,2,13,LAC 35,24,0,Philip Rivers pass complete short middle to Austin Ekeler for 11 yards (tackle by Joe Haden and Vince Williams),0.520,1.290
+3,1:04,3,2,LAC 46,24,0,Austin Ekeler left end for 6 yards (tackle by Terrell Edmunds),1.290,2.390
+3,0:33,1,10,PIT 48,24,0,Philip Rivers pass complete deep left to Hunter Henry for 18 yards (tackle by Joe Haden),2.390,3.580
+3,0:07,1,10,PIT 30,24,0,Philip Rivers pass complete short middle to Melvin Gordon for 14 yards (tackle by Devin Bush),3.580,4.510
+Quarter,Time,Down,ToGo,Location,PIT,LAC,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,PIT 16,24,0,Philip Rivers pass incomplete deep right intended for Travis Benjamin,4.510,3.900
+4,14:54,2,10,PIT 16,24,0,Philip Rivers sacked by and T.J. Watt for -4 yards,3.900,2.740
+4,14:09,3,14,PIT 20,24,0,Philip Rivers pass incomplete short right intended for Keenan Allen (defended by Joe Haden). Penalty on Sam Tevi: Offensive Holding (Declined),2.740,2.120
+4,14:04,4,14,PIT 20,24,3,Chase McLaughlin 38 yard field goal good,2.120,3.000
+4,14:00,,,LAC 35,24,3,"Chase McLaughlin kicks off 65 yards, touchback.",0.000,0.610
+4,14:00,1,10,PIT 25,24,3,Benny Snell left end for 3 yards (tackle by Justin Jones and Drue Tranquill),0.610,0.470
+4,13:18,2,7,PIT 28,24,3,Devlin Hodges pass complete short right to Nick Vannett for 5 yards (tackle by Uchenna Nwosu),0.470,0.430
+4,12:50,3,2,PIT 33,24,3,Benny Snell up the middle for 3 yards (tackle by Kyzir White),0.430,1.330
+4,12:10,1,10,PIT 36,24,3,Devlin Hodges pass complete short left to JuJu Smith-Schuster for 7 yards (tackle by Roderic Teamer),1.330,1.740
+4,11:26,2,3,PIT 43,24,3,Benny Snell left guard for 7 yards (tackle by Justin Jones and Drue Tranquill),1.740,2.260
+4,10:45,1,10,PIT 50,24,3,Devlin Hodges pass deep left intended for Johnny Holton is intercepted by Rayshawn Jenkins at LAC-22 and returned for 8 yards,2.260,-0.940
+4,10:36,1,10,LAC 30,24,3,Philip Rivers pass incomplete deep middle intended for Travis Benjamin,0.940,0.390
+4,10:28,2,10,LAC 30,24,3,Philip Rivers pass complete short middle to Mike Williams for 11 yards (tackle by Terrell Edmunds),0.390,1.660
+4,10:00,1,10,LAC 41,24,3,Philip Rivers pass complete deep middle to Hunter Henry for 21 yards (tackle by Artie Burns),1.660,3.050
+4,9:24,1,10,PIT 38,24,3,Philip Rivers pass incomplete short left intended for Virgil Green (defended by Daniel McCullers),3.050,2.510
+4,9:19,2,10,PIT 38,24,3,"Philip Rivers pass incomplete short right intended for Melvin Gordon. Penalty on Artie Burns: Illegal Use of Hands, 5 yards (no play)",2.510,3.380
+4,9:14,1,10,PIT 33,24,3,Philip Rivers pass complete short left to Mike Williams for 13 yards (tackle by Minkah Fitzpatrick),3.380,4.240
+4,8:40,1,10,PIT 20,24,3,Philip Rivers pass incomplete short left intended for Hunter Henry (defended by Terrell Edmunds),4.240,3.690
+4,8:34,2,10,PIT 20,24,3,Philip Rivers pass complete short middle to Virgil Green for 15 yards (tackle by Minkah Fitzpatrick),3.690,6.060
+4,8:00,1,5,PIT 5,24,3,Philip Rivers pass complete short left to Travis Benjamin for no gain (tackle by Mike Hilton and Devin Bush),6.060,5.150
+4,7:23,2,5,PIT 5,24,3,Philip Rivers pass incomplete short left intended for Mike Williams (defended by Cameron Sutton),5.150,4.260
+4,7:19,3,5,PIT 5,24,9,"Philip Rivers pass complete short middle to Hunter Henry for 5 yards, touchdown",4.260,7.000
+4,7:13,,,PIT 15,24,10,Chase McLaughlin kicks extra point good,0.000,0.000
+4,7:13,,,LAC 35,24,10,"Chase McLaughlin kicks off 55 yards, returned by Ryan Switzer for 9 yards (tackle by Drue Tranquill)",0.000,0.150
+4,7:09,1,10,PIT 19,24,10,Benny Snell up the middle for 20 yards (tackle by Rayshawn Jenkins),0.150,1.530
+4,6:22,1,10,PIT 39,24,10,Benny Snell up the middle for 1 yard (tackle by Drue Tranquill),1.530,1.120
+4,5:40,2,9,PIT 40,24,10,Benny Snell left tackle for 2 yards (tackle by Brandon Mebane),1.120,0.700
+4,4:55,3,7,PIT 42,24,10,Devlin Hodges pass complete short left to Ryan Switzer for -2 yards (tackle by Thomas Davis),0.700,-0.720
+4,4:07,4,9,PIT 40,24,10,"Jordan Berry punts 46 yards, returned by Desmond King for 7 yards (tackle by Anthony Chickillo and Johnny Holton)",-0.720,-0.340
+4,3:53,1,10,LAC 21,24,10,Philip Rivers pass incomplete deep middle intended for Keenan Allen (defended by Minkah Fitzpatrick),0.340,-0.200
+4,3:47,2,10,LAC 21,24,10,Philip Rivers pass complete short right to Melvin Gordon for 3 yards (tackle by Kameron Kelly),-0.200,-0.490
+4,3:19,3,7,LAC 24,24,10,Philip Rivers pass complete deep middle to Jason Moore for 32 yards (tackle by Artie Burns),-0.490,2.650
+4,2:46,1,10,PIT 44,24,10,"Philip Rivers pass complete short left to Melvin Gordon for -1 yards (tackle by Devin Bush). Penalty on Daniel McCullers: Illegal Use of Hands, 5 yards (no play)",2.650,2.980
+4,2:42,1,10,PIT 39,24,10,Philip Rivers pass incomplete deep middle intended for Mike Williams (defended by Cameron Sutton),2.980,2.440
+4,2:37,2,10,PIT 39,24,10,Philip Rivers pass complete short middle to Austin Ekeler for 4 yards (tackle by Devin Bush),2.440,2.280
+4,2:10,3,6,PIT 35,24,10,Philip Rivers pass complete short middle to Geremy Davis for 13 yards (tackle by Mike Hilton),2.280,4.110
+4,2:00,1,10,PIT 22,24,10,Philip Rivers pass complete short middle to Jason Moore for 11 yards (tackle by Cameron Sutton),4.110,4.840
+4,1:34,1,10,PIT 11,24,16,"Philip Rivers pass complete short middle to Hunter Henry for 11 yards, touchdown",4.840,7.000
+4,1:29,,,PIT 15,24,17,Chase McLaughlin kicks extra point good,0.000,0.000
+4,1:29,,,LAC 35,24,17,"Chase McLaughlin kicks onside 10 yards, returned by Cameron Sutton for no gain",0.000,2.590
+4,1:28,1,10,LAC 45,24,17,Benny Snell left end for 2 yards (tackle by Michael Davis and Justin Jones),2.590,2.310
+4,1:22,,,,,,Timeout #1 by Los Angeles Chargers,,
+4,1:22,2,8,LAC 43,24,17,Benny Snell left guard for no gain (tackle by Michael Davis and Justin Jones),2.310,1.620
+4,1:16,,,,,,Timeout #2 by Los Angeles Chargers,,
+4,1:16,3,8,LAC 43,24,17,Devlin Hodges right end for 7 yards (tackle by Kyzir White),1.620,0.890
+4,1:11,,,,,,Timeout #3 by Los Angeles Chargers,,
+4,1:11,4,1,LAC 36,24,17,Jordan Berry punts 35 yards downed by Johnny Holton,0.890,0.380
+4,1:03,1,10,LAC 1,24,17,Philip Rivers pass incomplete deep right intended for Mike Williams,-0.380,-0.780
+4,0:54,2,10,LAC 1,24,17,Philip Rivers pass deep left intended for Mike Williams is intercepted by Cameron Sutton at LAC-34 and returned for 26 yards,-0.780,-5.370
+4,0:41,1,8,LAC 8,24,17,Devlin Hodges kneels for -1 yards,5.370,4.380
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

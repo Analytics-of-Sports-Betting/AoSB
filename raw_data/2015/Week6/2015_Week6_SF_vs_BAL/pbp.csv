@@ -1,0 +1,185 @@
+Quarter,Time,Down,ToGo,Location,BAL,SFO,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"49ers won the coin toss, 49ers to receive the opening kickoff.",,
+1,15:00,,,BAL 35,0,0,"Justin Tucker kicks off 65 yards, touchback",0.000,-0.280
+1,15:00,1,10,SFO 20,0,0,Colin Kaepernick pass complete short right to Anquan Boldin for 15 yards (tackle by C.J. Mosley),0.280,1.270
+1,14:41,1,10,SFO 35,0,0,Carlos Hyde right guard for 5 yards (tackle by C.J. Mosley),1.270,1.400
+1,14:08,2,5,SFO 40,0,0,Colin Kaepernick pass complete short left to Torrey Smith for 2 yards (tackle by Jimmy Smith),1.400,0.960
+1,13:34,3,3,SFO 42,0,0,Colin Kaepernick pass complete short right to Anquan Boldin for 6 yards (tackle by Kyle Arrington),0.960,2.130
+1,13:08,1,10,SFO 48,0,0,Carlos Hyde middle for 4 yards (tackle by Za'Darius Smith),2.130,2.120
+1,12:36,2,6,BAL 48,0,0,Colin Kaepernick pass complete short right to Vance McDonald for 10 yards (tackle by C.J. Mosley),2.120,3.050
+1,11:56,1,10,BAL 38,0,0,Colin Kaepernick pass complete short right to Carlos Hyde for 1 yard (tackle by Courtney Upshaw),3.050,2.640
+1,11:22,2,9,BAL 37,0,0,Colin Kaepernick pass incomplete short left intended for Garrett Celek,2.640,1.950
+1,11:15,3,9,BAL 37,0,0,Colin Kaepernick pass incomplete deep left intended for Quinton Patton,1.950,0.790
+1,11:09,4,9,BAL 37,0,0,"Bradley Pinion punts 22 yards, out of bounds",0.790,0.220
+1,11:02,1,10,BAL 15,0,0,Joe Flacco pass complete short left to Kyle Juszczyk for 5 yards (tackle by Michael Wilhoite),-0.220,0.080
+1,10:20,2,5,BAL 20,0,0,Justin Forsett right tackle for 7 yards (tackle by NaVorro Bowman),0.080,0.740
+1,9:45,1,10,BAL 27,0,0,Justin Forsett right guard for -2 yards (tackle by NaVorro Bowman),0.740,-0.070
+1,9:11,2,12,BAL 25,0,0,Joe Flacco pass incomplete deep right intended for Crockett Gillmore,-0.070,-0.760
+1,9:00,3,12,BAL 25,0,0,Joe Flacco pass incomplete short middle intended for Crockett Gillmore (defended by Tony Jerod-Eddie),-0.760,-1.700
+1,8:56,4,12,BAL 25,0,0,"Sam Koch punts 46 yards, returned by Jarryd Hayne for 7 yards (tackle by Anthony Levine). Jarryd Hayne fumbles (forced by Anthony Levine), recovered by Dontae Johnson at SFO-33 (tackle by Tray Walker)",-1.700,-1.140
+1,8:37,1,10,SFO 33,0,0,Colin Kaepernick pass complete short right to Bruce Miller for 28 yards (tackle by Daryl Smith),1.140,2.980
+1,8:01,1,10,BAL 39,0,0,Colin Kaepernick pass incomplete short right intended for Torrey Smith,2.980,2.440
+1,7:54,2,10,BAL 39,0,0,Carlos Hyde left guard for 4 yards (tackle by Daryl Smith and Courtney Upshaw),2.440,2.280
+1,7:09,3,6,BAL 35,0,0,Colin Kaepernick pass incomplete short left intended for Anquan Boldin (defended by Jimmy Smith),2.280,0.970
+1,7:05,4,6,BAL 35,0,3,Phil Dawson 53 yard field goal good,0.970,3.000
+1,7:05,,,SFO 35,0,3,"Bradley Pinion kicks off 65 yards, touchback",0.000,-0.280
+1,7:00,1,10,BAL 20,0,3,Justin Forsett right tackle for 1 yard (tackle by Michael Wilhoite),0.280,-0.130
+1,6:26,2,9,BAL 21,0,3,Joe Flacco pass incomplete short right intended for Crockett Gillmore,-0.130,-0.820
+1,6:20,3,9,BAL 21,0,3,Joe Flacco pass complete short right to Justin Forsett for 3 yards (tackle by Ahmad Brooks and Antoine Bethea),-0.820,-1.770
+1,5:36,4,6,BAL 24,0,3,Sam Koch punts 62 yards,-1.770,0.280
+1,5:26,1,10,SFO 14,0,3,Colin Kaepernick pass complete short right to Bruce Miller for 9 yards (tackle by Za'Darius Smith),-0.280,0.550
+1,4:53,2,1,SFO 23,0,3,Colin Kaepernick pass incomplete short middle intended for Garrett Celek (defended by Brandon Williams),0.550,-0.320
+1,4:49,3,1,SFO 23,0,3,Colin Kaepernick pass complete deep right to Bruce Miller for 52 yards (tackle by Courtney Upshaw),-0.320,3.910
+1,4:12,1,10,BAL 25,0,3,Carlos Hyde right guard for 1 yard (tackle by Kapron Lewis-Moore and Timmy Jernigan),3.910,3.500
+1,3:35,2,9,BAL 24,0,3,"Colin Kaepernick pass incomplete short right intended for Anquan Boldin. Penalty on Shareece Wright: Defensive Holding, 5 yards (no play)",3.500,4.310
+1,3:29,1,10,BAL 19,0,3,Carlos Hyde left end for 3 yards (tackle by Lawrence Guy and Will Hill),4.310,4.180
+1,2:46,2,7,BAL 16,0,3,Colin Kaepernick pass incomplete short right intended for Anquan Boldin,4.180,3.410
+1,2:42,3,7,BAL 16,0,3,Colin Kaepernick pass complete short left to Anquan Boldin for 4 yards (tackle by Kyle Arrington),3.410,2.730
+1,2:00,4,3,BAL 12,0,6,Phil Dawson 31 yard field goal good,2.730,3.000
+1,2:00,,,SFO 35,0,6,"Bradley Pinion kicks off 65 yards, touchback. Penalty on Shayne Skov: Offside on Free Kick, 5 yards (no play)",0.000,0.000
+1,2:00,,,SFO 30,0,6,"Bradley Pinion kicks off 72 yards, returned by Jeremy Ross for 41 yards (tackle by Keith Reaser)",0.000,-1.530
+1,1:47,1,10,BAL 39,0,6,Joe Flacco pass complete deep right to Steve Smith for 19 yards,1.530,2.790
+1,1:13,1,10,SFO 42,0,6,Joe Flacco pass complete short left to Maxx Williams for 6 yards (tackle by Antoine Bethea),2.790,3.050
+1,0:44,2,4,SFO 36,0,6,Javorius Allen middle for 8 yards (tackle by NaVorro Bowman),3.050,3.710
+1,0:08,1,10,SFO 28,0,6,Joe Flacco pass complete short right to Crockett Gillmore for 2 yards (tackle by Jimmie Ward),3.710,3.440
+Quarter,Time,Down,ToGo,Location,BAL,SFO,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,8,SFO 26,0,6,Joe Flacco pass complete deep right to Crockett Gillmore for 19 yards (tackle by Antoine Bethea),3.440,5.600
+2,14:40,1,7,SFO 7,0,6,Joe Flacco pass complete short right to Justin Forsett for 4 yards (tackle by Aaron Lynch),5.600,5.530
+2,14:04,2,3,SFO 3,0,6,Justin Forsett right tackle for -1 yards (tackle by Tramaine Brock and Michael Wilhoite),5.530,5.530
+2,13:26,2,3,SFO 3,0,6,Timeout #1 by San Francisco 49ers,5.530,4.490
+2,13:26,3,4,SFO 4,0,6,Joe Flacco pass incomplete short middle intended for Steve Smith (defended by Tramaine Brock),4.490,3.030
+2,13:21,4,4,SFO 4,3,6,Justin Tucker 22 yard field goal good,3.030,3.000
+2,13:21,,,BAL 35,3,6,"Justin Tucker kicks off 65 yards, touchback",0.000,-0.280
+2,13:16,1,10,SFO 20,3,6,Carlos Hyde middle for 4 yards (tackle by Lawrence Guy),0.280,0.270
+2,12:37,2,6,SFO 24,3,12,"Colin Kaepernick pass complete deep right to Torrey Smith for 76 yards, touchdown",0.270,7.000
+2,12:37,,,BAL 24,3,13,Phil Dawson kicks extra point good,0.000,0.000
+2,12:37,,,SFO 35,3,13,"Bradley Pinion kicks off 65 yards, touchback",0.000,-0.280
+2,12:27,1,10,BAL 20,3,13,Joe Flacco pass incomplete deep middle intended for Kamar Aiken,0.280,-0.270
+2,12:22,2,10,BAL 20,3,13,Justin Forsett left guard for 6 yards (tackle by Michael Wilhoite and Antoine Bethea),-0.270,-0.160
+2,11:40,3,4,BAL 26,3,13,Joe Flacco pass incomplete short middle intended for Kamar Aiken is intercepted by Michael Wilhoite at BAL-29,-0.160,-3.640
+2,11:35,1,10,BAL 29,3,13,Carlos Hyde left tackle for 4 yards (tackle by Kendrick Lewis),3.640,3.640
+2,10:55,2,6,BAL 25,3,13,Colin Kaepernick left guard for 4 yards (tackle by Jimmy Smith),3.640,3.470
+2,10:08,3,2,BAL 21,3,13,Colin Kaepernick right end for 7 yards (tackle by Daryl Smith),3.470,4.650
+2,9:29,1,10,BAL 14,3,13,Carlos Hyde left tackle for 3 yards (tackle by Elvis Dumervil),4.650,4.520
+2,8:53,2,7,BAL 11,3,13,Carlos Hyde left guard for 3 yards (tackle by Lawrence Guy and Elvis Dumervil),4.520,4.280
+2,8:13,3,4,BAL 8,3,13,Colin Kaepernick pass incomplete short right intended for Anquan Boldin (defended by Albert McClellan),4.280,2.980
+2,8:09,4,4,BAL 8,3,16,Phil Dawson 26 yard field goal good,2.980,3.000
+2,8:09,,,SFO 35,3,16,"Bradley Pinion kicks off 65 yards, touchback",0.000,-0.280
+2,8:04,1,10,BAL 20,3,16,Joe Flacco pass complete short right to Steve Smith for 6 yards (tackle by Aaron Lynch),0.280,0.540
+2,7:36,2,4,BAL 26,3,16,Justin Forsett middle for 3 yards (tackle by Michael Wilhoite and Quinton Dial),0.540,0.230
+2,6:59,3,1,BAL 29,3,16,Jeremy Ross left end for 2 yards (tackle by Jimmie Ward and NaVorro Bowman),0.230,1.000
+2,6:25,1,10,BAL 31,3,16,Joe Flacco pass complete deep right to Steve Smith for 29 yards (tackle by Tramaine Brock),1.000,2.920
+2,5:45,1,10,SFO 40,3,16,Justin Forsett right guard for 22 yards (tackle by NaVorro Bowman),2.920,4.370
+2,5:09,1,10,SFO 18,3,16,Javorius Allen middle for no gain (tackle by Michael Wilhoite and Quinton Dial),4.370,3.800
+2,4:29,2,10,SFO 18,3,16,Joe Flacco pass incomplete deep right intended for Javorius Allen (defended by Aaron Lynch),3.800,3.050
+2,4:23,3,10,SFO 18,3,16,Joe Flacco pass incomplete deep right intended for Steve Smith (defended by Tramaine Brock),3.050,2.250
+2,4:19,4,10,SFO 18,6,16,Justin Tucker 36 yard field goal good,2.250,3.000
+2,4:19,,,BAL 35,6,16,"Justin Tucker kicks off 65 yards, touchback",0.000,-0.280
+2,4:14,1,10,SFO 20,6,16,Colin Kaepernick pass complete deep right to Torrey Smith for 18 yards (tackle by Shareece Wright),0.280,1.470
+2,3:40,1,10,SFO 38,6,16,Colin Kaepernick pass complete short middle to Carlos Hyde for 4 yards (tackle by Daryl Smith),1.470,1.460
+2,3:12,2,6,SFO 42,6,16,Carlos Hyde right guard for 2 yards (tackle by Daryl Smith),1.460,1.020
+2,2:33,3,4,SFO 44,6,16,"Penalty on Garrett Celek: False Start, 5 yards (no play)",1.020,0.370
+2,2:06,3,9,SFO 39,6,16,Colin Kaepernick sacked by Daryl Smith and Timmy Jernigan for -5 yards,0.370,-1.110
+2,1:59,4,14,SFO 34,6,16,"Bradley Pinion punts 42 yards, returned by Jeremy Ross for 9 yards (tackle by Dontae Johnson)",-1.110,-1.140
+2,1:48,1,10,BAL 33,6,16,Joe Flacco pass complete short right to Justin Forsett for 2 yards (tackle by NaVorro Bowman),1.140,0.860
+2,1:19,2,8,BAL 35,6,16,Joe Flacco pass complete short middle to Justin Forsett for 6 yards (tackle by Michael Wilhoite),0.860,0.960
+2,0:52,3,2,BAL 41,6,16,Joe Flacco pass incomplete deep right intended for Marlon Brown (defended by Ahmad Brooks),0.960,-0.650
+2,0:48,4,2,BAL 41,6,16,"Sam Koch punts 51 yards, fair catch by Jarryd Hayne",-0.650,0.380
+2,0:40,1,10,SFO 8,6,16,Carlos Hyde left tackle for 1 yard (tackle by C.J. Mosley),-0.380,-0.380
+2,0:36,1,10,SFO 8,6,16,Timeout #1 by Baltimore Ravens,-0.380,-0.710
+2,0:36,2,9,SFO 9,6,16,Carlos Hyde middle for 14 yards (tackle by C.J. Mosley and Will Hill),-0.710,0.480
+Quarter,Time,Down,ToGo,Location,BAL,SFO,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,SFO 35,6,16,"Bradley Pinion kicks off 65 yards, touchback",0.000,-0.280
+3,15:00,1,10,BAL 20,6,16,Joe Flacco pass complete short right to Kyle Juszczyk for 17 yards (tackle by Eric Reid),0.280,0.280
+3,14:17,1,10,BAL 20,6,16,Timeout #1 by Baltimore Ravens,0.280,1.400
+3,14:17,1,10,BAL 37,6,16,Joe Flacco pass complete short left to Maxx Williams for 2 yards (tackle by Aaron Lynch and Ahmad Brooks),1.400,1.130
+3,13:46,2,8,BAL 39,6,16,Justin Forsett left guard for 2 yards (tackle by Michael Wilhoite and Ian Williams),1.130,0.700
+3,13:10,3,6,BAL 41,6,16,Joe Flacco pass complete short left to Steve Smith for 8 yards (tackle by Jaquiski Tartt),0.700,2.190
+3,12:34,1,10,BAL 49,6,16,Joe Flacco pass incomplete deep left intended for Kamar Aiken,2.190,1.650
+3,12:25,2,10,BAL 49,6,16,Joe Flacco pass complete short right to Jeremy Ross for 8 yards (tackle by NaVorro Bowman),1.650,2.010
+3,11:44,3,2,SFO 43,6,16,Justin Forsett left tackle for 2 yards (tackle by NaVorro Bowman and Ian Williams),2.010,2.850
+3,10:53,1,10,SFO 41,6,16,Joe Flacco pass incomplete deep left intended for Javorius Allen is intercepted by Kenneth Acker at SFO-17 and returned for 45 yards,2.850,-3.050
+3,10:36,1,10,BAL 38,6,16,Carlos Hyde middle for -2 yards (tackle by Timmy Jernigan),3.050,2.240
+3,10:01,2,12,BAL 40,6,16,Colin Kaepernick pass incomplete short right intended for Vernon Davis,2.240,1.550
+3,9:55,3,12,BAL 40,6,16,Colin Kaepernick pass complete short right to Anquan Boldin for 26 yards (tackle by Shareece Wright),1.550,4.650
+3,9:36,1,10,BAL 14,6,16,Carlos Hyde middle for 2 yards (tackle by Will Hill),4.650,4.330
+3,9:04,2,8,BAL 12,6,16,Carlos Hyde middle for -4 yards (tackle by Brandon Williams and Courtney Upshaw),4.330,3.000
+3,8:21,3,12,BAL 16,6,16,Colin Kaepernick sacked by Daryl Smith and Elvis Dumervil for -8 yards,3.000,1.870
+3,7:39,4,20,BAL 24,6,19,Phil Dawson 42 yard field goal good,1.870,3.000
+3,7:39,,,SFO 35,6,19,"Bradley Pinion kicks off 65 yards, touchback",0.000,-0.280
+3,7:34,1,10,BAL 20,6,19,Justin Forsett left guard for 2 yards (tackle by NaVorro Bowman and Quinton Dial),0.280,0.000
+3,7:02,2,8,BAL 22,6,19,Joe Flacco pass complete short middle to Justin Forsett for 10 yards (tackle by Kenneth Acker),0.000,1.070
+3,6:26,1,10,BAL 32,6,19,Joe Flacco pass complete short right to Marlon Brown for 9 yards (tackle by Michael Wilhoite and Tramaine Brock),1.070,1.740
+3,5:52,2,1,BAL 41,6,19,Javorius Allen left guard for 3 yards (tackle by Glenn Dorsey),1.740,1.860
+3,5:18,1,10,BAL 44,6,19,Joe Flacco pass complete short middle to Javorius Allen for 8 yards (tackle by Michael Wilhoite),1.860,2.400
+3,4:48,2,2,SFO 48,6,19,Javorius Allen left guard for 2 yards (tackle by Aaron Lynch),2.400,2.520
+3,4:08,1,10,SFO 46,6,19,Joe Flacco pass complete short middle to Justin Forsett for 11 yards (tackle by Antoine Bethea and Michael Wilhoite),2.520,3.250
+3,3:27,1,10,SFO 35,6,19,Justin Forsett right guard for 6 yards (tackle by Ian Williams),3.250,3.510
+3,2:56,2,4,SFO 29,6,19,"Penalty on Ricky Wagner: False Start, 5 yards (no play)",3.510,2.840
+3,2:36,2,9,SFO 34,12,19,"Joe Flacco pass complete deep left to Steve Smith for 34 yards, touchdown",2.840,7.000
+3,2:36,,,SFO 34,13,19,Justin Tucker kicks extra point good,0.000,0.000
+3,2:36,,,BAL 35,13,19,"Justin Tucker kicks off 65 yards, touchback",0.000,-0.280
+3,2:29,1,10,SFO 20,13,19,Colin Kaepernick pass incomplete deep right intended for Torrey Smith,0.280,-0.270
+3,2:23,2,10,SFO 20,13,19,Colin Kaepernick pass incomplete short right intended for Anquan Boldin (defended by C.J. Mosley),-0.270,-0.960
+3,2:19,3,10,SFO 20,13,19,Colin Kaepernick pass incomplete short right intended for Torrey Smith,-0.960,-2.030
+3,2:12,4,10,SFO 20,13,19,Bradley Pinion punts 36 yards,-2.030,-1.860
+3,2:02,1,10,BAL 44,13,19,Joe Flacco pass complete short left to Crockett Gillmore for 9 yards (tackle by NaVorro Bowman),1.860,2.530
+3,1:26,2,1,SFO 47,13,19,Justin Forsett left guard for 3 yards (tackle by NaVorro Bowman),2.530,2.650
+3,0:53,1,10,SFO 44,13,19,Justin Forsett right guard for 3 yards (tackle by NaVorro Bowman and Ian Williams),2.650,2.520
+3,0:16,2,7,SFO 41,13,19,Joe Flacco pass complete short right to Kamar Aiken for 8 yards (tackle by Tramaine Brock),2.520,3.380
+Quarter,Time,Down,ToGo,Location,BAL,SFO,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,SFO 33,13,19,Joe Flacco pass complete short right to Maxx Williams for 5 yards (tackle by Michael Wilhoite),3.380,3.510
+4,14:30,2,5,SFO 28,13,19,Justin Forsett middle for 1 yard (tackle by Ahmad Brooks),3.510,2.940
+4,13:47,3,4,SFO 27,13,19,Joe Flacco pass incomplete deep right intended for Kamar Aiken,2.940,1.750
+4,13:42,4,4,SFO 27,13,19,Justin Tucker 45 yard field goal no good,1.750,-1.270
+4,13:37,1,10,SFO 35,13,19,Colin Kaepernick sacked by Lawrence Guy for -1 yards,1.270,1.270
+4,13:01,1,10,SFO 35,13,19,Timeout #1 by San Francisco 49ers,1.270,0.590
+4,13:01,2,11,SFO 34,13,19,"Carlos Hyde right tackle for 3 yards (tackle by Elvis Dumervil). Penalty on Marcus Martin: Offensive Holding, 10 yards (no play)",0.590,-0.760
+4,12:35,2,21,SFO 24,13,19,Colin Kaepernick pass complete deep left to Anquan Boldin for 51 yards (tackle by Jimmy Smith),-0.760,3.910
+,,,,,,,"BAL challenged the pass completion ruling, and the play was upheld.",,
+4,12:17,1,10,BAL 25,13,19,Carlos Hyde left end for 3 yards (tackle by Lawrence Guy),3.910,3.770
+4,11:41,2,7,BAL 22,13,19,Carlos Hyde middle for 1 yard (tackle by Daryl Smith),3.770,3.200
+4,10:59,3,6,BAL 21,13,25,"Colin Kaepernick pass complete deep right to Quinton Patton for 21 yards, touchdown",3.200,7.000
+4,10:59,3,,BAL 21,13,25,"Two Point Attempt: Colin Kaepernick pass incomplete intended for Anquan Boldin, conversion fails",3.200,-1.000
+4,10:59,,,SFO 35,13,25,"Bradley Pinion kicks off 65 yards, touchback",0.000,-0.280
+4,10:52,1,10,BAL 20,13,25,"Joe Flacco pass complete short left to Steve Smith for 12 yards (tackle by Eric Reid). Penalty on Eugene Monroe: Offensive Holding (Offsetting), Penalty on Michael Wilhoite: Illegal Contact (Offsetting) (no play)",0.280,0.280
+4,10:37,1,10,BAL 20,13,25,Joe Flacco pass complete short left to Justin Forsett for 3 yards (tackle by Jaquiski Tartt),0.280,0.140
+4,10:08,2,7,BAL 23,13,25,Joe Flacco pass complete deep right to Steve Smith for 19 yards (tackle by Tramaine Brock),0.140,1.730
+4,9:40,1,10,BAL 42,13,25,Justin Forsett middle for 3 yards (tackle by Aaron Lynch),1.730,1.590
+4,9:14,2,7,BAL 45,13,25,Joe Flacco pass incomplete deep right intended for Jeremy Ross,1.590,0.890
+4,9:09,3,7,BAL 45,13,25,Joe Flacco pass complete short middle to Chris Givens for 11 yards (tackle by Jaquiski Tartt),0.890,2.650
+4,8:43,1,10,SFO 44,13,25,Joe Flacco pass incomplete short right intended for Marlon Brown,2.650,2.110
+4,8:34,2,10,SFO 44,13,25,Joe Flacco pass complete short left to Kamar Aiken for 12 yards (tackle by NaVorro Bowman),2.110,3.450
+4,8:04,1,10,SFO 32,13,25,Joe Flacco pass complete short middle to Maxx Williams for 11 yards (tackle by Michael Wilhoite and NaVorro Bowman),3.450,4.170
+4,7:35,1,10,SFO 21,13,25,Joe Flacco pass complete short left to Chris Givens for 7 yards (tackle by Kenneth Acker),4.170,4.740
+4,7:11,2,3,SFO 14,13,25,Justin Forsett left guard for 5 yards (tackle by Arik Armstead),4.740,5.140
+4,6:43,1,9,SFO 9,13,25,Joe Flacco pass incomplete short right intended for Jeremy Ross,5.140,4.380
+4,6:39,2,9,SFO 9,13,25,Joe Flacco pass complete short left to Jeremy Ross for 8 yards (tackle by Eric Reid and Jimmie Ward),4.380,5.170
+4,6:05,3,1,SFO 1,13,25,Justin Forsett middle for -1 yards (tackle by Quinton Dial),5.170,3.250
+4,5:22,4,2,SFO 2,19,25,"Joe Flacco pass complete short right to Kamar Aiken for 2 yards, touchdown",3.250,7.000
+4,5:22,,,SFO 2,20,25,Justin Tucker kicks extra point good,0.000,0.000
+4,5:22,,,BAL 35,20,25,"Justin Tucker kicks off 65 yards, touchback",0.000,-0.280
+4,5:14,1,10,SFO 20,20,25,Carlos Hyde middle for no gain (tackle by Courtney Upshaw),0.280,-0.270
+4,4:33,2,10,SFO 20,20,25,Colin Kaepernick pass complete deep right to Quinton Patton for 17 yards (tackle by Shareece Wright),-0.270,1.400
+4,4:05,1,10,SFO 37,20,25,Colin Kaepernick right tackle for -1 yards (tackle by Elvis Dumervil),1.400,0.720
+4,3:15,2,11,SFO 36,20,25,Carlos Hyde left tackle for 4 yards (tackle by C.J. Mosley),0.720,0.560
+4,2:33,3,7,SFO 40,20,25,"Colin Kaepernick left end for 1 yard (tackle by Lawrence Guy). Penalty on Jimmy Smith: Defensive Holding, 5 yards (no play)",0.560,1.930
+4,2:26,1,10,SFO 45,20,25,Carlos Hyde right guard for 1 yard (tackle by Brandon Williams),1.930,1.930
+4,2:21,1,10,SFO 45,20,25,Timeout #3 by Baltimore Ravens,1.930,1.520
+4,2:21,2,9,SFO 46,20,25,Mike Davis left tackle for no gain (tackle by Brynden Trawick and Shareece Wright),1.520,0.830
+4,2:00,3,9,SFO 46,20,25,Carlos Hyde left tackle for 2 yards (tackle by Elvis Dumervil),0.830,0.830
+4,1:15,3,9,SFO 46,20,25,Timeout #2 by San Francisco 49ers,0.830,-0.190
+4,1:15,4,7,SFO 48,20,25,"Bradley Pinion punts 52 yards, touchback",-0.190,-0.280
+4,1:06,1,10,BAL 20,20,25,Joe Flacco pass incomplete short middle intended for Justin Forsett,0.280,-0.270
+4,1:02,2,10,BAL 20,20,25,Joe Flacco pass complete short right to Jeremy Ross for 18 yards (tackle by Jimmie Ward),-0.270,1.470
+4,0:38,1,10,BAL 38,20,25,Joe Flacco pass incomplete deep middle intended for Marlon Brown,1.470,0.920
+4,0:31,2,10,BAL 38,20,25,Joe Flacco pass complete deep middle to Steve Smith for 22 yards (tackle by NaVorro Bowman),0.920,2.920
+4,0:14,1,10,SFO 40,20,25,Joe Flacco spiked the ball,2.920,2.370
+4,0:13,2,10,SFO 40,20,25,"Penalty on Kenneth Acker: Defensive 12 On-field, 5 yards (no play)",2.370,3.050
+4,0:13,2,5,SFO 35,20,25,Joe Flacco pass incomplete deep left intended for Kamar Aiken (defended by Kenneth Acker),3.050,2.340
+4,0:06,3,5,SFO 35,20,25,Joe Flacco pass incomplete deep right intended for Steve Smith (defended by Eric Reid),2.340,0.980
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

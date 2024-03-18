@@ -1,0 +1,15 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,ATL 20,3,2:37,3,Punt
+2,1,10:55,ATL 38,10,5:26,62,Touchdown
+3,1,0:03,ATL 20,6,2:40,18,Punt
+4,2,8:46,ATL 4,3,1:34,-4,Safety
+5,2,6:51,ATL 19,3,1:49,-1,Punt
+6,2,3:03,ATL 20,5,1:33,10,Punt
+7,2,0:47,ATL 43,3,0:36,9,Punt
+8,3,13:50,ATL 43,10,2:55,45,Field Goal
+9,3,9:27,CAR 35,2,0:32,35,Touchdown
+10,3,4:46,CAR 24,4,0:48,-4,Missed FG
+11,3,2:06,ATL 10,10,4:24,90,Touchdown
+12,4,10:41,ATL 35,3,1:23,8,Punt
+13,4,5:12,ATL 26,2,0:55,74,Touchdown
+14,4,3:31,ATL 28,7,3:31,29,End of Game

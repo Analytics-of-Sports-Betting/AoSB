@@ -1,0 +1,171 @@
+Quarter,Time,Down,ToGo,Location,SDG,KAN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Chiefs won the coin toss, Chiefs to receive the opening kickoff.",,
+1,15:00,,,SDG 30,0,0,"Nate Kaeding kicks off 59 yards, returned by Javier Arenas for 17 yards (tackle by Antwan Applewhite)",0.000,0.810
+1,14:55,1,10,KAN 28,0,0,Matt Cassel pass incomplete deep middle intended for Dwayne Bowe (defended by Eric Weddle),0.810,0.260
+1,14:48,2,10,KAN 28,0,0,Thomas Jones left guard for 2 yards (tackle by Larry English and Stephen Cooper),0.260,-0.160
+1,14:18,3,8,KAN 30,0,0,Matt Cassel pass incomplete short left intended for Thomas Jones,-0.160,-1.370
+1,14:14,4,8,KAN 30,0,0,"Dustin Colquitt punts 51 yards, returned by Darren Sproles for 9 yards (tackle by Terrance Copper)",-1.370,-0.810
+1,14:01,1,10,SDG 28,0,0,Ryan Mathews middle for 4 yards (tackle by Derrick Johnson and Ron Edwards),0.810,0.800
+1,13:17,2,6,SDG 32,0,0,Philip Rivers pass incomplete deep right intended for Malcom Floyd,0.800,0.100
+1,13:11,,,,0,0,Timeout #1 by San Diego Chargers,0.000,0.100
+1,13:11,3,6,SDG 32,0,0,Philip Rivers pass complete short right to Legedu Naanee for 15 yards,0.100,2.060
+1,12:37,1,10,SDG 47,0,0,Philip Rivers pass complete short right to Antonio Gates for 11 yards (tackle by Eric Berry),2.060,2.790
+1,11:57,1,10,KAN 42,0,0,Ryan Mathews right guard for 7 yards (tackle by Jon McGraw),2.790,3.190
+1,11:19,2,3,KAN 35,0,0,Ryan Mathews middle for 4 yards (tackle by Jovan Belcher and Ron Edwards),3.190,3.510
+1,10:32,1,10,KAN 31,0,0,Philip Rivers pass complete short middle to Ryan Mathews for 2 yards (tackle by Derrick Johnson and Glenn Dorsey),3.510,3.240
+1,9:51,2,8,KAN 29,0,0,Ryan Mathews middle for 1 yard (tackle by Tamba Hali),3.240,2.680
+1,9:03,3,7,KAN 28,0,0,"Penalty on Philip Rivers: Delay of Game, 5 yards (no play)",2.680,2.020
+1,8:38,3,12,KAN 33,0,0,Philip Rivers pass incomplete deep middle intended for Malcom Floyd,2.020,1.150
+1,8:29,4,12,KAN 33,0,0,"Mike Scifres punts 33 yards, touchback",1.150,-0.280
+1,8:22,1,10,KAN 20,0,0,Matt Cassel pass complete short right to Tim Castille for no gain,0.280,-0.270
+1,7:52,2,10,KAN 20,0,0,Thomas Jones right guard for 2 yards (tackle by Antonio Garay),-0.270,-0.690
+1,7:12,3,8,KAN 22,0,0,Matt Cassel sacked by Shaun Phillips for -6 yards,-0.690,-2.390
+1,6:46,4,14,KAN 16,0,0,"Dustin Colquitt punts 44 yards, fair catch by Darren Sproles",-2.390,-1.600
+1,6:37,1,10,SDG 40,0,0,Philip Rivers pass incomplete short right intended for Legedu Naanee,1.600,1.050
+1,6:33,2,10,SDG 40,0,0,Ryan Mathews right tackle for 8 yards (tackle by Brandon Flowers),1.050,1.420
+1,5:52,3,2,SDG 48,0,0,Philip Rivers pass complete short left to Legedu Naanee for 7 yards (tackle by Derrick Johnson and Mike Vrabel),1.420,2.590
+1,5:07,1,10,KAN 45,0,0,Ryan Mathews left end for 2 yards (tackle by Glenn Dorsey and Tyson Jackson),2.590,2.310
+1,4:23,2,8,KAN 43,0,0,Philip Rivers pass complete short right to Darren Sproles for 4 yards (tackle by Brandon Flowers),2.310,2.150
+1,3:37,3,4,KAN 39,0,0,Philip Rivers pass complete short middle to Antonio Gates for 34 yards (tackle by Eric Berry),2.150,6.060
+1,2:47,1,5,KAN 5,0,0,Philip Rivers pass incomplete short left intended for Legedu Naanee (defended by Brandon Flowers),6.060,5.150
+1,2:40,2,5,KAN 5,0,0,Ryan Mathews right guard for 2 yards (tackle by Tyson Jackson),5.150,4.720
+1,1:56,3,3,KAN 3,6,0,"Philip Rivers pass complete short middle to Antonio Gates for 3 yards, touchdown",4.720,7.000
+1,,,,KAN 2,7,0,Nate Kaeding kicks extra point good,0.000,0.000
+1,,,,SDG 30,7,0,"Nate Kaeding kicks off 55 yards, returned by Javier Arenas for 16 yards",0.000,1.000
+1,1:46,1,10,KAN 31,7,0,Thomas Jones middle for 9 yards (tackle by Steve Gregory),1.000,1.680
+1,1:17,2,1,KAN 40,7,0,Jamaal Charles middle for 4 yards (tackle by Steve Gregory),1.680,1.860
+1,0:46,1,10,KAN 44,7,6,"Jamaal Charles left guard for 56 yards, touchdown",1.860,7.000
+1,,,,SDG 2,7,7,Ryan Succop kicks extra point good,0.000,0.000
+1,,,,KAN 30,7,7,"Ryan Succop kicks off 70 yards, touchback",0.000,0.280
+1,0:37,1,10,SDG 20,7,7,Ryan Mathews right end for 2 yards (tackle by Brandon Flowers),0.280,0.000
+Quarter,Time,Down,ToGo,Location,SDG,KAN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,8,SDG 22,7,7,"Philip Rivers for no gain. Philip Rivers fumbles, recovered by Jacob Hester at SDG-16",0.000,-1.690
+2,14:27,3,14,SDG 16,7,7,"Penalty on Philip Rivers: Delay of Game, 5 yards (no play)",-1.690,-2.470
+2,14:09,3,19,SDG 11,7,7,Darren Sproles middle for 2 yards (tackle by Demorrio Williams),-2.470,-2.490
+2,13:32,4,17,SDG 13,7,7,"Mike Scifres punts 55 yards, returned by Javier Arenas for 36 yards (tackle by Mike Scifres)",-2.490,-3.450
+2,13:21,1,10,SDG 32,7,7,Thomas Jones middle for 6 yards (tackle by Kevin Burnett),3.450,3.710
+2,12:49,2,4,SDG 26,7,7,Thomas Jones left guard for no gain (tackle by Ogemdi Nwagbuo and Kevin Burnett),3.710,3.010
+2,12:16,3,4,SDG 26,7,7,Jamaal Charles middle for -6 yards (tackle by Shaun Phillips and Larry English),3.010,1.240
+2,11:25,4,10,SDG 32,7,7,Dustin Colquitt punts 7 yards,1.240,-0.610
+2,11:20,1,10,SDG 25,7,7,Ryan Mathews right guard for 3 yards (tackle by Tyson Jackson),0.610,0.470
+2,10:38,2,7,SDG 28,7,7,Philip Rivers pass complete short left to Jacob Hester for 3 yards (tackle by Derrick Johnson),0.470,0.170
+2,9:52,3,4,SDG 31,7,7,Philip Rivers pass complete short left to Darren Sproles for -2 yards (tackle by Mike Vrabel),0.170,-1.440
+2,9:15,4,6,SDG 29,7,7,"Mike Scifres punts 54 yards, returned by Javier Arenas for 24 yards (tackle by Randy McMichael)",-1.440,-1.660
+2,8:59,1,10,KAN 41,7,7,Dexter McCluster left end for no gain (tackle by Antoine Cason),1.660,1.120
+2,8:26,2,10,KAN 41,7,7,Jamaal Charles left guard for 2 yards (tackle by Larry English),1.120,0.700
+2,7:46,3,8,KAN 43,7,7,Matt Cassel pass incomplete short left intended for Chris Chambers (defended by Antoine Cason),0.700,-0.520
+2,7:41,4,8,KAN 43,7,7,"Dustin Colquitt punts 44 yards, fair catch by Darren Sproles",-0.520,0.320
+2,7:32,1,10,SDG 13,7,7,"Ryan Mathews middle for 15 yards (tackle by Derrick Johnson). Ryan Mathews fumbles (forced by Derrick Johnson), recovered by Brandon Carr at SDG-35 (tackle by Legedu Naanee)",-0.320,-4.780
+2,7:21,1,10,SDG 12,7,7,Matt Cassel pass complete short right to Dexter McCluster for 5 yards (tackle by Quentin Jammer),4.780,5.020
+2,6:44,2,5,SDG 7,7,7,Matt Cassel right end for 5 yards (tackle by Kevin Burnett),5.020,6.740
+2,6:00,1,2,SDG 2,7,13,"Matt Cassel pass complete short right to Tony Moeaki for 2 yards, touchdown",6.740,7.000
+2,,,,SDG 2,7,14,Ryan Succop kicks extra point good,0.000,0.000
+2,,,,KAN 30,7,14,"Ryan Succop kicks off 61 yards, returned by Darren Sproles for 13 yards (tackle by Reshard Langford)",0.000,0.410
+2,5:51,1,10,SDG 22,7,14,Ryan Mathews middle for 2 yards (tackle by Glenn Dorsey and Tyson Jackson),0.410,0.140
+2,5:08,2,8,SDG 24,7,14,Philip Rivers pass incomplete short left intended for Ryan Mathews,0.140,-0.560
+2,5:03,,,,7,14,Timeout #1 by Kansas City Chiefs,0.000,-0.560
+2,5:03,3,8,SDG 24,7,14,Philip Rivers sacked by Tamba Hali and Glenn Dorsey for -9 yards,-0.560,-2.440
+2,4:43,4,17,SDG 15,7,14,"Mike Scifres punts 58 yards, returned by Dexter McCluster for 6 yards",-2.440,-1.140
+2,4:33,1,10,KAN 33,7,14,Matt Cassel pass complete short right to Tony Moeaki for 3 yards (tackle by Shaun Phillips),1.140,1.000
+2,4:14,2,7,KAN 36,7,14,Thomas Jones middle for 3 yards (tackle by Kevin Burnett),1.000,0.700
+2,3:43,3,4,KAN 39,7,14,Matt Cassel pass incomplete short middle intended for Tony Moeaki (defended by Kevin Burnett),0.700,-0.780
+2,3:38,4,4,KAN 39,7,14,"Dustin Colquitt punts 38 yards, returned by Darren Sproles for 5 yards (tackle by Thomas Gafford)",-0.780,-0.810
+2,3:28,1,10,SDG 28,7,14,Ryan Mathews middle for 3 yards (tackle by Glenn Dorsey),0.810,0.670
+2,2:52,2,7,SDG 31,7,14,Ryan Mathews left end for 3 yards (tackle by Jovan Belcher),0.670,0.370
+2,2:07,3,4,SDG 34,7,14,Philip Rivers pass incomplete short right intended for Craig Davis,0.370,-1.110
+2,2:03,4,4,SDG 34,7,20,"Mike Scifres punts 60 yards, returned by Dexter McCluster for 94 yards, touchdown",-1.110,-7.000
+2,,,,SDG 2,7,21,Ryan Succop kicks extra point good,0.000,0.000
+2,,,,KAN 30,7,21,"Ryan Succop kicks off 70 yards, touchback",0.000,0.280
+2,1:43,1,10,SDG 20,7,21,Philip Rivers pass incomplete short middle intended for Darren Sproles,0.280,-0.270
+2,1:39,2,10,SDG 20,7,21,Darren Sproles middle for 2 yards (tackle by Derrick Johnson and Tamba Hali),-0.270,-0.690
+2,1:28,,,,7,21,Timeout #2 by Kansas City Chiefs,0.000,-0.690
+2,1:28,3,8,SDG 22,7,21,Philip Rivers pass incomplete short left intended for Antonio Gates (defended by Brandon Carr),-0.690,-1.900
+2,1:23,4,8,SDG 22,7,21,"Mike Scifres punts 39 yards, muffed catch by Dexter McCluster, recovered by Dexter McCluster and returned for no gain. Penalty on Jake O'Connell: Offensive Holding, 10 yards",-1.900,-0.870
+2,1:15,1,10,KAN 29,7,21,Matt Cassel pass incomplete deep right intended for Dwayne Bowe,0.870,0.330
+2,1:09,2,10,KAN 29,7,21,Jamaal Charles left tackle for 12 yards (tackle by Steve Gregory),0.330,1.660
+2,0:45,1,10,KAN 41,7,21,Jamaal Charles left end for 6 yards (tackle by Stephen Cooper),1.660,1.930
+2,0:37,,,,7,21,Timeout #3 by Kansas City Chiefs,0.000,1.930
+2,0:37,2,4,KAN 47,7,21,Matt Cassel pass complete short left to Chris Chambers for 14 yards (tackle by Antoine Cason),1.930,2.980
+2,0:21,1,10,SDG 39,7,21,Matt Cassel spiked the ball,2.980,2.440
+2,0:19,2,10,SDG 39,7,21,Matt Cassel pass incomplete deep left intended for Chris Chambers,2.440,1.750
+2,0:14,3,10,SDG 39,7,21,Matt Cassel pass incomplete short left intended for Chris Chambers,1.750,0.660
+2,0:09,4,10,SDG 39,7,21,Matt Cassel pass complete short right to Jamaal Charles for 8 yards,0.660,-1.000
+2,0:02,1,10,SDG 31,7,21,Philip Rivers kneels for -1 yards,1.000,0.320
+Quarter,Time,Down,ToGo,Location,SDG,KAN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,KAN 30,7,21,"Ryan Succop kicks off 63 yards, returned by Darren Sproles for 19 yards (tackle by Terrance Copper). Penalty on Terrance Copper: Face Mask (15 Yards), 15 yards",0.000,1.660
+3,14:55,1,10,SDG 41,7,21,Philip Rivers pass complete deep middle to Legedu Naanee for 17 yards (tackle by Eric Berry),1.660,2.790
+3,14:16,1,10,KAN 42,7,21,Ryan Mathews middle for 2 yards (tackle by Ron Edwards),2.790,2.510
+3,13:29,,,,7,21,Timeout #1 by San Diego Chargers,0.000,2.510
+3,13:29,2,8,KAN 40,7,21,Philip Rivers pass complete short right to Craig Davis for 4 yards (tackle by Brandon Flowers and Eric Berry),2.510,2.340
+3,12:54,3,4,KAN 36,7,21,Philip Rivers pass incomplete short left intended for Craig Davis (defended by Javier Arenas),2.340,0.890
+3,12:54,4,4,KAN 36,7,21,"Penalty on Philip Rivers: Delay of Game, 5 yards (no play)",0.890,0.530
+3,12:45,4,9,KAN 41,7,21,"Mike Scifres punts 41 yards, touchback",0.530,-0.280
+3,12:38,1,10,KAN 20,7,21,Thomas Jones right tackle for 1 yard (tackle by Steve Gregory and Luis Castillo),0.280,-0.130
+3,12:01,2,9,KAN 21,7,21,Jamaal Charles left guard for 5 yards (tackle by Steve Gregory and Antoine Cason),-0.130,-0.160
+3,11:26,3,4,KAN 26,7,21,Matt Cassel pass incomplete short right intended for Dexter McCluster,-0.160,-1.630
+3,11:20,4,4,KAN 26,7,21,"Dustin Colquitt punts 43 yards, returned by Darren Sproles for 3 yards (tackle by Reshard Langford)",-1.630,-1.200
+3,11:09,1,10,SDG 34,7,21,Ryan Mathews right guard for 4 yards (tackle by Tyson Jackson),1.200,1.200
+3,10:32,2,6,SDG 38,7,21,Philip Rivers pass complete deep right to Malcom Floyd for 17 yards (tackle by Jon McGraw),1.200,2.590
+3,9:52,1,10,KAN 45,7,21,Ryan Mathews middle for 3 yards (tackle by Shaun Smith),2.590,2.450
+3,9:12,2,7,KAN 42,7,21,Philip Rivers pass incomplete short left intended for Malcom Floyd,2.450,1.750
+3,9:06,3,7,KAN 42,7,21,Philip Rivers pass incomplete deep left intended for Malcom Floyd,1.750,0.460
+3,8:59,4,7,KAN 42,7,21,"Mike Scifres punts 42 yards, touchback",0.460,-0.280
+3,8:49,1,10,KAN 20,7,21,Tim Castille middle for no gain (tackle by Stephen Cooper),0.280,-0.270
+3,8:14,2,10,KAN 20,7,21,Thomas Jones middle for 10 yards (tackle by Eric Weddle),-0.270,0.940
+3,7:31,1,10,KAN 30,7,21,Thomas Jones middle for -1 yards (tackle by Ogemdi Nwagbuo),0.940,0.260
+3,6:50,2,11,KAN 29,7,21,Jamaal Charles middle for 2 yards (tackle by Ogemdi Nwagbuo),0.260,-0.160
+3,6:11,3,9,KAN 31,7,21,Jamaal Charles middle for 8 yards (tackle by Steve Gregory),-0.160,-0.780
+3,5:26,4,1,KAN 39,7,21,"Dustin Colquitt punts 45 yards, returned by Darren Sproles for 5 yards (tackle by Terrance Copper)",-0.780,0.380
+3,5:14,1,10,SDG 9,7,21,Ryan Mathews middle for 2 yards (tackle by Shaun Smith),-0.380,-0.630
+3,4:38,2,8,SDG 11,7,21,Philip Rivers pass complete short left to Antonio Gates for 19 yards (tackle by Brandon Carr),-0.630,0.940
+3,3:55,1,10,SDG 30,7,21,Philip Rivers pass complete short right to Randy McMichael for 8 yards (tackle by Derrick Johnson and Tyson Jackson),0.940,1.470
+3,3:10,2,2,SDG 38,7,21,Ryan Mathews right guard for 3 yards (tackle by Mike Vrabel),1.470,1.660
+3,2:33,1,10,SDG 41,13,21,"Philip Rivers pass complete deep middle to Legedu Naanee for 59 yards, touchdown",1.660,7.000
+3,,,,KAN 2,14,21,Nate Kaeding kicks extra point good,0.000,0.000
+3,,,,SDG 30,14,21,"Nate Kaeding kicks off 66 yards, returned by Javier Arenas for 26 yards",0.000,0.940
+3,2:15,1,10,KAN 30,14,21,Thomas Jones middle for 4 yards (tackle by Kevin Burnett),0.940,0.930
+3,1:39,2,6,KAN 34,14,21,Thomas Jones middle for 3 yards (tackle by Jacques Cesaire),0.930,0.630
+3,1:08,3,3,KAN 37,14,21,Matt Cassel pass complete short left to Dwayne Bowe for 13 yards (tackle by Shaun Phillips),0.630,2.260
+3,0:26,1,10,,14,21,Matt Cassel pass complete short right to Tim Castille for 3 yards (tackle by Steve Gregory),2.260,2.120
+Quarter,Time,Down,ToGo,Location,SDG,KAN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,7,SDG 47,14,21,Matt Cassel pass complete deep left to Tony Moeaki for 16 yards (tackle by Antoine Cason),2.120,3.510
+4,14:32,1,10,SDG 31,14,21,"Jamaal Charles right end for 2 yards (tackle by Steve Gregory). Penalty on Barry Richardson: Offensive Holding, 10 yards (no play)",3.510,2.850
+4,14:13,1,20,SDG 41,14,21,Matt Cassel pass incomplete deep right intended for Dwayne Bowe,2.850,1.620
+4,14:05,2,20,SDG 41,14,21,Matt Cassel pass incomplete short left intended for Dexter McCluster,1.620,0.960
+4,13:59,3,20,SDG 41,14,21,Matt Cassel pass incomplete deep right intended for Dwayne Bowe,0.960,0.530
+4,13:57,4,20,SDG 41,14,21,"Dustin Colquitt punts 31 yards, fair catch by Darren Sproles",0.530,0.380
+4,13:50,1,10,SDG 10,14,21,Ryan Mathews middle for 5 yards (tackle by Derrick Johnson),-0.380,-0.350
+4,13:10,2,5,SDG 15,14,21,Philip Rivers left end for 6 yards (tackle by Tamba Hali),-0.350,0.340
+4,12:26,1,10,SDG 21,14,21,Ryan Mathews middle for 3 yards (tackle by Shaun Smith and Ron Edwards),0.340,0.210
+4,11:40,2,7,SDG 24,14,21,Philip Rivers pass complete short right to Malcom Floyd for 9 yards (tackle by Derrick Johnson),0.210,1.140
+4,10:56,1,10,SDG 33,14,21,"Philip Rivers sacked for -6 yards. Philip Rivers fumbles, recovered by Philip Rivers at SDG-24",1.140,-0.620
+4,10:20,2,19,SDG 24,14,21,Philip Rivers pass complete deep left to Randy McMichael for 20 yards (tackle by Eric Berry),-0.620,1.860
+4,9:37,1,10,SDG 44,14,21,Mike Tolbert middle for 23 yards (tackle by Brandon Carr),1.860,3.380
+4,8:55,1,10,KAN 33,14,21,Mike Tolbert middle for 3 yards (tackle by Jovan Belcher),3.380,3.240
+4,8:11,2,7,KAN 30,14,21,Philip Rivers pass complete short right to Jacob Hester for 3 yards (tackle by Eric Berry),3.240,2.940
+4,8:11,3,4,KAN 27,14,21,"Penalty on Jeromey Clary: False Start, 5 yards (no play)",2.940,2.280
+4,7:15,3,9,KAN 32,14,21,Philip Rivers pass incomplete short middle intended for Malcom Floyd (defended by Brandon Carr),2.280,1.240
+4,7:09,4,9,KAN 32,14,21,Philip Rivers pass incomplete short left intended for Legedu Naanee,1.240,-1.070
+4,7:03,1,10,KAN 32,14,21,Jamaal Charles right guard for 3 yards (tackle by Stephen Cooper),1.070,0.930
+4,6:22,2,7,KAN 35,14,21,Matt Cassel pass complete short left to Dexter McCluster for 4 yards (tackle by Antoine Cason),0.930,0.760
+4,5:42,3,3,KAN 39,14,21,Jamaal Charles right end for no gain (tackle by Shaun Phillips),0.760,-0.780
+4,5:03,4,3,KAN 39,14,21,"Dustin Colquitt punts 41 yards, returned by Darren Sproles for 13 yards (tackle by Jake O'Connell)",-0.780,-1.140
+4,4:52,1,10,SDG 33,14,21,Philip Rivers pass complete deep left to Craig Davis for 22 yards (tackle by Javier Arenas),1.140,2.590
+4,4:12,1,10,KAN 45,14,21,Philip Rivers pass complete short middle to Malcom Floyd for 22 yards (tackle by Derrick Johnson),2.590,4.040
+4,3:26,1,10,KAN 23,14,21,Darren Sproles left tackle for -2 yards (tackle by Derrick Johnson),4.040,3.230
+4,2:44,2,12,KAN 25,14,21,Philip Rivers pass complete short middle to Antonio Gates for 9 yards (tackle by Mike Vrabel),3.230,3.850
+4,2:00,3,3,KAN 16,14,21,Philip Rivers pass incomplete short left intended for Malcom Floyd (defended by Javier Arenas),3.850,2.480
+4,1:56,4,3,KAN 16,14,21,Philip Rivers pass complete short middle to Legedu Naanee for 12 yards (tackle by Donald Washington),2.480,6.280
+4,1:14,1,4,KAN 4,14,21,Philip Rivers pass incomplete short left intended for Malcom Floyd (defended by Brandon Carr),6.280,5.340
+4,1:08,2,4,KAN 4,14,21,Darren Sproles middle for -2 yards (tackle by Glenn Dorsey and Ron Edwards),5.340,4.040
+4,0:45,,,,14,21,Timeout #2 by San Diego Chargers,0.000,4.040
+4,0:45,3,6,KAN 6,14,21,Philip Rivers pass incomplete short middle intended for Malcom Floyd,4.040,2.990
+4,0:39,,,,14,21,Timeout #3 by San Diego Chargers,0.000,0.000
+4,0:39,,,,14,21,Timeout #1 by Kansas City Chiefs,0.000,2.990
+4,0:39,4,6,KAN 6,14,21,Philip Rivers pass incomplete short middle intended for Malcom Floyd,2.990,0.380
+4,0:33,1,10,KAN 6,14,21,Matt Cassel kneels for -1 yards,-0.380,-0.850
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

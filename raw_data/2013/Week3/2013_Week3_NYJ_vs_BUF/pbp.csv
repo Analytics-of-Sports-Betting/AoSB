@@ -1,0 +1,226 @@
+Quarter,Time,Down,ToGo,Location,BUF,NYJ,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Bills won the coin toss and deferred, Jets to receive the opening kickoff.",,
+1,15:00,,,BUF 35,0,0,"Dan Carpenter kicks off 65 yards, touchback",0.000,-0.280
+1,15:00,1,10,NYJ 20,0,0,Chris Ivory left guard for -2 yards (tackle by Manny Lawson),0.280,-0.630
+1,14:31,2,12,NYJ 18,0,0,Chris Ivory right guard for 5 yards (tackle by Marcell Dareus),-0.630,-0.560
+1,14:00,3,7,NYJ 23,0,0,Geno Smith pass complete deep right to Stephen Hill for 45 yards (tackle by Justin Rogers),-0.560,3.450
+1,13:33,1,10,BUF 32,0,0,"Geno Smith pass complete short right to Bilal Powell for 2 yards (tackle by Leodis McKelvin). Penalty on NYJ: Offensive Holding, 10 yards",3.450,2.920
+1,13:05,1,18,BUF 40,0,0,Geno Smith pass incomplete short left intended for Jeremy Kerley,2.920,1.820
+1,13:02,2,18,BUF 40,0,0,Chris Ivory left tackle for 1 yard (tackle by Da'Norris Searcy),1.820,1.290
+1,12:22,3,17,BUF 39,0,0,Geno Smith pass complete short middle to Jeremy Kerley for 18 yards (tackle by Leodis McKelvin),1.290,4.170
+1,11:44,1,10,BUF 21,0,0,Bilal Powell up the middle for 5 yards (tackle by Jerry Hughes),4.170,4.370
+1,11:16,2,5,BUF 16,0,0,Bilal Powell right guard for 2 yards (tackle by Kyle Williams and Manny Lawson),4.370,4.370
+1,10:38,2,5,BUF 16,0,0,Timeout #1 by New York Jets,4.370,4.020
+1,10:38,3,3,BUF 14,0,0,Geno Smith pass complete short middle to Jeremy Kerley for 7 yards (tackle by Da'Norris Searcy),4.020,5.600
+1,10:05,1,7,BUF 7,0,0,Bilal Powell up the middle for 4 yards (tackle by Marcell Dareus),5.600,5.530
+1,9:30,2,3,BUF 3,0,0,"Penalty on Vlad Ducasse: False Start, 5 yards (no play)",5.530,4.570
+1,9:11,2,8,BUF 8,0,6,"Geno Smith up the middle for 8 yards, touchdown",4.570,7.000
+1,9:11,,,BUF 2,0,7,Nick Folk kicks extra point good,0.000,0.000
+1,9:11,,,NYJ 35,0,7,"Nick Folk kicks off 65 yards, touchback",0.000,-0.280
+1,9:06,1,10,BUF 20,0,7,C.J. Spiller left end for 4 yards (tackle by Calvin Pace and Dawan Landry),0.280,0.270
+1,8:32,2,6,BUF 24,0,7,"C.J. Spiller right tackle for 6 yards (tackle by Antonio Cromartie). C.J. Spiller fumbles (forced by Antonio Cromartie), ball out of bounds at BUF-30",0.270,0.940
+1,8:09,1,10,BUF 30,0,7,EJ Manuel right end for 3 yards (tackle by Calvin Pace),0.940,0.800
+1,7:40,2,7,BUF 33,0,7,EJ Manuel pass incomplete deep middle intended for Steve Johnson,0.800,0.100
+1,7:37,3,7,BUF 33,0,7,EJ Manuel pass incomplete deep left intended for Steve Johnson,0.100,-1.180
+1,7:32,4,7,BUF 33,0,7,"Shawn Powell punts 57 yards, returned by Jeremy Kerley for 2 yards (tackle by Tashard Choice)",-1.180,0.350
+1,7:21,1,10,NYJ 12,0,7,Chris Ivory right end for 1 yard (tackle by Arthur Moats and Justin Rogers),-0.350,-0.700
+1,6:46,2,9,NYJ 13,0,7,Bilal Powell right tackle for 2 yards (tackle by Manny Lawson and Arthur Moats),-0.700,-1.070
+1,6:04,3,7,NYJ 15,0,7,Geno Smith pass incomplete deep right intended for Santonio Holmes,-1.070,-2.440
+1,5:57,4,7,NYJ 15,0,7,"Ryan Quigley punts 41 yards, fair catch by Jim Leonhard",-2.440,-1.860
+1,5:51,1,10,BUF 44,0,7,C.J. Spiller left end for -2 yards (tackle by Antonio Allen),1.860,1.050
+1,5:42,2,12,BUF 42,0,7,C.J. Spiller right tackle for -3 yards (tackle by David Harris),1.050,-0.030
+1,5:07,3,15,BUF 39,0,7,EJ Manuel pass incomplete short right intended for T.J. Graham,-0.030,-0.780
+1,5:00,4,15,BUF 39,0,7,"Shawn Powell punts 61 yards, touchback",-0.780,-0.280
+1,4:50,1,10,NYJ 20,0,7,Geno Smith pass complete short right to Bilal Powell for 7 yards (tackle by Manny Lawson),0.280,0.680
+1,4:11,2,3,NYJ 27,0,7,"Geno Smith sacked by Alan Branch for -2 yards. Penalty on Jeff Cumberland: Offensive Holding, 10 yards (no play)",0.680,-0.790
+1,3:48,2,13,NYJ 17,0,7,Geno Smith pass incomplete short left intended for Bilal Powell,-0.790,-1.510
+1,3:43,3,13,NYJ 17,0,7,Geno Smith pass complete deep right to Santonio Holmes for 24 yards (tackle by Justin Rogers),-1.510,1.660
+1,3:01,1,10,NYJ 41,0,7,Bilal Powell left guard for 5 yards (tackle by Kiko Alonso and Manny Lawson),1.660,1.800
+1,2:18,2,5,NYJ 46,0,7,Alex Green up the middle for -4 yards (tackle by Alex Carrington),1.800,0.560
+1,1:40,3,9,NYJ 42,0,7,"Penalty on Jerry Hughes: Defensive Offside, 5 yards (no play)",0.560,1.220
+1,1:19,3,4,NYJ 47,0,7,Geno Smith pass incomplete short right intended for Santonio Holmes,1.220,-0.260
+1,1:15,4,4,NYJ 47,0,7,Ryan Quigley punts 42 yards,-0.260,0.370
+1,1:02,1,10,BUF 11,0,7,EJ Manuel left end for 8 yards (tackle by Kyle Wilson),-0.370,0.170
+1,0:52,2,2,BUF 19,0,7,EJ Manuel pass complete short right to C.J. Spiller for 1 yard (tackle by Calvin Pace),0.170,-0.370
+1,0:26,3,1,BUF 20,0,7,Fred Jackson up the middle for 59 yards (tackle by Antonio Cromartie),-0.370,4.170
+Quarter,Time,Down,ToGo,Location,BUF,NYJ,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,NYJ 21,0,7,C.J. Spiller up the middle for 2 yards (tackle by Demario Davis),4.170,3.900
+2,14:27,2,8,NYJ 19,0,7,"C.J. Spiller left guard for no gain (tackle by Muhammad Wilkerson). C.J. Spiller fumbles (forced by Muhammad Wilkerson), recovered by C.J. Spiller at NYJ-19",3.900,3.180
+2,13:53,3,8,NYJ 19,0,7,EJ Manuel pass incomplete deep right intended for Robert Woods,3.180,2.180
+2,13:48,4,8,NYJ 19,3,7,Dan Carpenter 37 yard field goal good,2.180,3.000
+2,13:48,,,BUF 35,3,7,"Dan Carpenter kicks off 68 yards, returned by Clyde Gates for 18 yards (tackle by Marcus Easley)",0.000,0.220
+2,13:40,1,10,NYJ 15,3,7,"Geno Smith pass incomplete deep left intended for Santonio Holmes is intercepted by Jim Leonhard at 50 and returned for 14 yards. Penalty on Vlad Ducasse: Face Mask (15 Yards), 15 yards",-0.220,-4.170
+2,13:26,1,10,NYJ 21,3,7,Fred Jackson right tackle for 8 yards (tackle by Sheldon Richardson),4.170,4.950
+2,12:51,2,2,NYJ 13,3,7,C.J. Spiller right tackle for 1 yard (tackle by Calvin Pace),4.950,4.490
+2,12:07,3,1,NYJ 12,3,7,Fred Jackson up the middle for 2 yards (tackle by Quinton Coples and Calvin Pace),4.490,4.910
+2,11:40,1,10,NYJ 10,3,7,Fred Jackson up the middle for -1 yards (tackle by Quinton Coples),4.910,4.020
+2,11:18,2,11,NYJ 11,3,7,EJ Manuel left end for 5 yards (tackle by Calvin Pace and Antonio Allen),4.020,4.040
+2,10:43,3,6,NYJ 6,3,7,EJ Manuel up the middle for 1 yard (tackle by Sheldon Richardson and David Harris),4.040,3.010
+2,10:00,4,5,NYJ 5,6,7,Dan Carpenter 23 yard field goal good,3.010,3.000
+2,10:00,,,BUF 35,6,7,"Dan Carpenter kicks off 65 yards, touchback",0.000,-0.280
+2,9:57,1,10,NYJ 20,6,7,Bilal Powell right tackle for no gain (tackle by Manny Lawson),0.280,-0.270
+2,9:23,2,10,NYJ 20,6,7,Geno Smith pass complete short left to Santonio Holmes for 11 yards (tackle by Aaron Williams),-0.270,1.000
+2,8:47,1,10,NYJ 31,6,7,Bilal Powell right tackle for 1 yard (tackle by Manny Lawson),1.000,0.600
+2,8:12,2,9,NYJ 32,6,7,Geno Smith pass complete short middle to Stephen Hill for 12 yards (tackle by Jim Leonhard),0.600,1.860
+2,7:42,1,10,NYJ 44,6,7,Alex Green up the middle for 5 yards (tackle by Manny Lawson),1.860,1.990
+2,7:06,2,5,NYJ 49,6,13,"Geno Smith pass complete deep right to Stephen Hill for 51 yards, touchdown",1.990,7.000
+2,7:06,,,BUF 2,6,14,Nick Folk kicks extra point good,0.000,0.000
+2,7:06,,,NYJ 35,6,14,"Nick Folk kicks off 65 yards, touchback",0.000,-0.280
+2,6:58,1,10,BUF 20,6,14,EJ Manuel right end for 4 yards (tackle by David Harris and Garrett McIntyre),0.280,0.270
+2,6:30,2,6,BUF 24,6,14,C.J. Spiller up the middle for 2 yards (tackle by Muhammad Wilkerson and Damon Harrison),0.270,-0.160
+2,5:58,3,4,BUF 26,6,14,"Penalty on Muhammad Wilkerson: Defensive Offside, 5 yards (no play)",-0.160,1.000
+2,5:50,1,10,BUF 31,6,14,C.J. Spiller right tackle for -1 yards (tackle by Leger Douzable),1.000,0.320
+2,5:22,2,11,BUF 30,6,14,EJ Manuel pass complete short right to Robert Woods for 29 yards,0.320,2.850
+2,5:00,1,10,NYJ 41,6,14,EJ Manuel pass incomplete short right intended for Scott Chandler,2.850,2.310
+2,4:56,2,10,NYJ 41,6,14,EJ Manuel pass complete short middle to Scott Chandler for 9 yards (tackle by Dawan Landry),2.310,2.810
+2,4:26,3,1,NYJ 32,6,14,Fred Jackson right tackle for -1 yards (tackle by Sheldon Richardson),2.810,1.200
+2,3:49,4,2,NYJ 33,6,14,EJ Manuel sacked by Demario Davis for -3 yards,1.200,-1.330
+2,3:42,1,10,NYJ 36,6,14,Bilal Powell right tackle for 9 yards (tackle by Manny Lawson),1.330,2.010
+2,3:17,2,1,NYJ 45,6,14,Bilal Powell up the middle for 3 yards (tackle by Mario Williams and Kiko Alonso),2.010,2.130
+2,2:44,1,10,NYJ 48,6,14,Geno Smith pass incomplete deep middle intended for Stephen Hill,2.130,1.580
+2,2:35,2,10,NYJ 48,6,14,Alex Green left end for 4 yards (tackle by Kiko Alonso and Duke Williams),1.580,1.420
+2,2:00,3,6,BUF 48,6,14,"Geno Smith for no gain. Nick Mangold fumbles, recovered by Bilal Powell at NYJ-31",1.420,1.420
+2,1:45,3,6,BUF 48,6,14,Timeout #1 by Buffalo Bills,1.420,-1.310
+2,1:43,4,27,NYJ 31,6,14,"Ryan Quigley punts 44 yards, out of bounds",-1.310,-0.610
+2,1:41,1,10,BUF 25,6,14,EJ Manuel sacked by Muhammad Wilkerson for -8 yards,0.610,-1.150
+2,1:20,2,18,BUF 17,6,14,EJ Manuel pass complete short right to Steve Johnson for 9 yards (tackle by Antonio Cromartie),-1.150,-0.490
+2,1:00,3,9,BUF 26,6,14,EJ Manuel pass complete short right to Steve Johnson for 5 yards (tackle by Kyle Wilson),-0.490,-0.490
+2,0:52,3,9,BUF 26,6,14,Timeout #2 by New York Jets,-0.490,-1.310
+2,0:49,4,4,BUF 31,6,14,"Shawn Powell punts 47 yards, returned by Jeremy Kerley for 12 yards (tackle by Jim Leonhard)",-1.310,-1.200
+2,0:43,1,10,NYJ 34,6,14,"Penalty on Marcell Dareus: Defensive Offside, 5 yards (no play)",1.200,1.930
+2,0:43,1,5,NYJ 39,6,14,Geno Smith pass complete short left to Santonio Holmes for 10 yards (tackle by Justin Rogers),1.930,2.190
+2,0:24,1,10,NYJ 49,6,14,Geno Smith pass incomplete short left intended for Jeremy Kerley (defended by Nickell Robey),2.190,1.650
+,,,,,,,"Replay Assistant challenged the incomplete pass ruling, and the play was upheld.",,
+2,0:18,2,10,NYJ 49,6,14,"Geno Smith pass incomplete short right intended for Kellen Winslow. Penalty on Duke Williams: Defensive Pass Interference, 15 yards (no play)",1.650,3.180
+2,0:14,1,10,BUF 36,6,14,Bilal Powell left end for 9 yards (tackle by Duke Williams),3.180,3.850
+2,0:14,2,1,BUF 27,6,14,Geno Smith up the middle for -2 yards,3.850,3.850
+2,0:05,2,1,BUF 27,6,14,Timeout #3 by New York Jets,3.850,2.870
+2,0:05,3,3,BUF 29,6,17,Nick Folk 47 yard field goal good,2.870,3.000
+Quarter,Time,Down,ToGo,Location,BUF,NYJ,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,NYJ 35,6,17,"Nick Folk kicks off 70 yards, returned by Marcus Easley for 18 yards (tackle by Ellis Lankster)",0.000,0.320
+3,14:56,1,10,BUF 13,6,17,EJ Manuel pass complete short right to T.J. Graham for 5 yards (tackle by Antonio Cromartie),-0.320,-0.140
+3,14:39,2,5,BUF 18,6,17,C.J. Spiller right end for no gain (tackle by Demario Davis),-0.140,-0.830
+3,14:09,3,5,BUF 18,6,17,"EJ Manuel pass incomplete short right intended for T.J. Graham. Penalty on Antonio Cromartie: Defensive Pass Interference, 9 yards (no play)",-0.830,0.740
+3,14:05,1,10,BUF 27,6,17,EJ Manuel pass incomplete short left intended for Robert Woods,0.740,0.200
+3,14:00,2,10,BUF 27,6,17,EJ Manuel pass complete short left to Fred Jackson for 7 yards (tackle by Jaiquawn Jarrett),0.200,0.430
+3,13:47,3,3,BUF 34,6,17,EJ Manuel pass incomplete short right intended for Steve Johnson (defended by Kyle Wilson),0.430,-1.110
+3,13:44,4,3,BUF 34,6,17,"Shawn Powell punts 66 yards, touchback",-1.110,-0.280
+3,13:35,1,10,NYJ 20,6,17,Bilal Powell up the middle for 21 yards (tackle by Jim Leonhard),0.280,1.660
+3,13:04,1,10,NYJ 41,6,17,"Bilal Powell left guard for no gain (tackle by Kiko Alonso). Penalty on Willie Colon: Offensive Holding, 10 yards (no play)",1.660,1.000
+3,12:52,1,20,NYJ 31,6,17,Geno Smith left end for 8 yards (tackle by Aaron Williams),1.000,0.850
+3,12:31,2,12,NYJ 39,6,17,Geno Smith pass incomplete short right intended for Santonio Holmes,0.850,0.170
+,,,,,,,"Replay Assistant challenged the incomplete pass ruling, and the original play was overturned.",,
+3,12:28,3,12,NYJ 39,6,17,Geno Smith pass complete deep right to Santonio Holmes for 40 yards (tackle by Da'Norris Searcy),0.170,4.170
+3,11:47,1,10,BUF 21,6,17,"Bilal Powell right tackle for no gain. Penalty on Vlad Ducasse: Offensive Holding, 10 yards (no play)",4.170,3.510
+3,11:26,1,20,BUF 31,6,17,"Penalty on Vlad Ducasse: False Start, 5 yards (no play)",3.510,3.180
+3,11:15,1,25,BUF 36,6,17,Geno Smith pass complete deep right to Jeff Cumberland for 18 yards (tackle by Justin Rogers),3.180,4.040
+3,10:38,2,7,BUF 18,6,17,Bilal Powell right guard for 2 yards (tackle by Alan Branch and Alex Carrington),4.040,3.630
+3,9:59,3,5,BUF 16,6,17,Geno Smith pass incomplete deep right intended for Stephen Hill,3.630,2.430
+3,9:51,4,5,BUF 16,6,20,Nick Folk 34 yard field goal good,2.430,3.000
+3,9:51,,,NYJ 35,6,20,"Nick Folk kicks off 65 yards, touchback",0.000,-0.280
+3,9:48,1,10,BUF 20,6,20,EJ Manuel sacked by Sheldon Richardson for -8 yards. Penalty on Eric Wood: Offensive Holding (Declined),0.280,-1.360
+3,9:35,2,18,BUF 12,6,20,EJ Manuel pass complete short right to Fred Jackson for 17 yards (tackle by Demario Davis),-1.360,0.230
+3,9:16,3,1,BUF 29,6,20,EJ Manuel for 19 yards (tackle by Antonio Cromartie),0.230,2.130
+3,9:01,1,10,BUF 48,6,20,"EJ Manuel pass incomplete deep left intended for T.J. Graham. Penalty on Kyle Wilson: Defensive Pass Interference, 24 yards (no play)",2.130,3.710
+3,8:49,1,10,NYJ 28,6,20,Tashard Choice up the middle for 3 yards (tackle by Garrett McIntyre),3.710,3.570
+3,8:35,2,7,NYJ 25,6,20,EJ Manuel pass incomplete short left intended for T.J. Graham,3.570,2.870
+3,8:28,3,7,NYJ 25,6,20,EJ Manuel pass incomplete deep left intended for T.J. Graham,2.870,1.800
+3,8:22,4,7,NYJ 25,9,20,Dan Carpenter 43 yard field goal good,1.800,3.000
+3,8:22,,,BUF 35,9,20,"Dan Carpenter kicks off 65 yards, touchback",0.000,-0.280
+3,8:18,1,10,NYJ 20,9,20,Bilal Powell right guard for 1 yard (tackle by Manny Lawson),0.280,-0.130
+3,7:52,2,9,NYJ 21,9,20,Bilal Powell left end for 27 yards (tackle by Corbin Bryant and Nickell Robey),-0.130,2.130
+3,7:13,1,10,NYJ 48,9,20,"Geno Smith pass complete short right to Santonio Holmes for 11 yards (tackle by Jim Leonhard). Penalty on Kellen Winslow: Offensive Pass Interference, 10 yards (no play)",2.130,1.470
+3,7:13,1,20,NYJ 38,9,20,Geno Smith pass incomplete short left intended for Clyde Gates is intercepted by Kiko Alonso at NYJ-45 and returned for 32 yards (tackle by Nick Mangold),1.470,-4.710
+3,6:50,1,10,NYJ 13,9,20,Fred Jackson right tackle for 4 yards (tackle by Quinton Coples),4.710,4.770
+3,6:21,2,6,NYJ 9,9,20,Fred Jackson right tackle for 1 yard (tackle by Calvin Pace and Muhammad Wilkerson),4.770,4.100
+3,5:38,3,5,NYJ 8,9,20,EJ Manuel pass incomplete short right intended for Steve Johnson,4.100,2.970
+3,5:38,4,5,NYJ 8,12,20,Dan Carpenter 26 yard field goal good,2.970,3.000
+3,5:38,,,BUF 35,12,20,"Dan Carpenter kicks off 68 yards, returned by Clyde Gates for 18 yards (tackle by Duke Williams)",0.000,0.220
+3,5:28,1,10,NYJ 15,12,20,Bilal Powell up the middle for 5 yards (tackle by Manny Lawson),-0.220,0.080
+3,4:55,2,5,NYJ 20,12,20,Geno Smith pass complete short right to Tommy Bohanon for 9 yards (tackle by Arthur Moats),0.080,0.870
+3,4:32,1,10,NYJ 29,12,20,Bilal Powell right tackle for 3 yards (tackle by Alan Branch and Kiko Alonso),0.870,0.730
+3,4:02,2,7,NYJ 32,12,20,"Geno Smith pass incomplete deep right intended for Stephen Hill. Penalty on Justin Rogers: Defensive Pass Interference, 22 yards (no play)",0.730,2.520
+3,3:56,1,10,BUF 46,12,20,Alex Green right tackle for 2 yards (tackle by Corbin Bryant and Kiko Alonso),2.520,2.250
+3,3:26,2,8,BUF 44,12,20,Alex Green left tackle for 7 yards (tackle by Aaron Williams),2.250,2.480
+3,2:55,3,1,BUF 37,12,20,Bilal Powell right tackle for no gain (tackle by Arthur Moats and Jerry Hughes),2.480,0.790
+,,,,,,,"NYJ challenged the first down ruling, and the play was upheld.",,
+3,2:10,4,1,BUF 37,12,20,Tommy Bohanon up the middle for no gain (tackle by Manny Lawson),0.790,-1.400
+3,2:02,1,10,BUF 37,12,20,EJ Manuel pass complete deep right to Steve Johnson for 23 yards,1.400,2.920
+,,,,,,,"NYJ challenged the incomplete pass ruling, and the play was upheld.",,
+3,1:56,1,10,NYJ 40,12,20,EJ Manuel sacked by Antonio Allen for -7 yards,2.920,1.430
+3,1:25,2,17,NYJ 47,12,20,EJ Manuel pass incomplete short right intended for Robert Woods,1.430,0.760
+3,1:17,3,17,NYJ 47,12,20,EJ Manuel sacked by Calvin Pace for 0 yards,0.760,0.130
+3,0:43,4,17,NYJ 47,12,20,"Shawn Powell punts 47 yards, touchback",0.130,-0.280
+3,0:35,1,10,NYJ 20,12,20,Bilal Powell right tackle for 13 yards (tackle by Justin Rogers and Jim Leonhard),0.280,1.140
+Quarter,Time,Down,ToGo,Location,BUF,NYJ,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,NYJ 33,12,20,Bilal Powell right guard for 3 yards (tackle by Mario Williams),1.140,1.000
+4,14:24,2,7,NYJ 36,12,20,Geno Smith pass complete short right to Jeff Cumberland for 6 yards (tackle by Arthur Moats and Da'Norris Searcy),1.000,1.090
+4,13:38,3,1,NYJ 42,12,20,Geno Smith pass incomplete short right intended for Stephen Hill,1.090,-0.590
+4,13:33,4,1,NYJ 42,12,20,"Ryan Quigley punts 41 yards, returned by Jim Leonhard for 3 yards (tackle by Josh Bush)",-0.590,-0.280
+4,13:22,1,10,BUF 20,12,20,EJ Manuel pass incomplete deep left intended for T.J. Graham,0.280,-0.270
+4,13:16,2,10,BUF 20,12,20,"EJ Manuel up the middle for 21 yards (tackle by Dawan Landry). EJ Manuel fumbles (forced by Dawan Landry), recovered by Jaiquawn Jarrett at BUF-41. Penalty on Eric Wood: Offensive Holding, 10 yards (no play)",-0.270,-1.510
+4,12:57,2,20,BUF 10,12,20,EJ Manuel pass complete short left to Steve Johnson for 14 yards (tackle by David Harris),-1.510,-0.430
+4,12:23,3,6,BUF 24,12,20,"EJ Manuel pass incomplete short middle intended for Steve Johnson. Penalty on NYJ: Defensive Holding (Offsetting), Penalty on BUF: Taunting (Offsetting) (no play)",-0.430,-0.430
+4,12:19,3,6,BUF 24,12,20,"EJ Manuel pass incomplete deep right intended for Steve Johnson. Penalty on Kyle Wilson: Illegal Contact, 5 yards (no play)",-0.430,0.870
+4,12:16,1,10,BUF 29,12,20,"Fred Jackson left tackle for 1 yard (tackle by Damon Harrison). Fred Jackson fumbles (forced by Damon Harrison), recovered by Sheldon Richardson at BUF-32 and returned for 13 yards. Penalty on Kyle Wilson: Personal Foul, 5 yards, Penalty on Sheldon Richardson: Illegal Use of Hands (Declined) (no play)",0.870,1.200
+4,12:08,1,10,BUF 34,12,20,"EJ Manuel pass complete short left to Steve Johnson for 14 yards (tackle by Kyle Wilson). Penalty on NYJ: Personal Foul, 15 yards",1.200,3.120
+4,11:55,1,10,NYJ 37,12,20,Tashard Choice right end for -4 yards (tackle by David Harris),3.120,2.030
+4,11:26,2,14,NYJ 41,12,20,EJ Manuel pass complete short middle to Scott Chandler for 8 yards (tackle by Demario Davis),2.030,2.410
+4,10:47,3,6,NYJ 33,18,20,"EJ Manuel pass complete short left to Scott Chandler for 33 yards, touchdown",2.410,7.000
+4,10:47,,,,20,20,"Two Point Attempt: EJ Manuel pass complete to Steve Johnson, conversion succeeds",0.000,1.000
+4,10:47,,,BUF 35,20,20,"Dan Carpenter kicks off 67 yards, returned by Clyde Gates for 17 yards (tackle by Duke Williams)",0.000,0.220
+4,10:23,1,10,NYJ 15,20,20,Bilal Powell up the middle for 1 yard (tackle by Kiko Alonso),-0.220,-0.580
+4,10:08,2,9,NYJ 16,20,20,"Geno Smith pass incomplete deep left intended for Jeremy Kerley. Penalty on Nickell Robey: Defensive Pass Interference, 20 yards (no play)",-0.580,1.330
+4,10:00,1,10,NYJ 36,20,20,"Bilal Powell left end for 7 yards (tackle by Da'Norris Searcy). Penalty on Santonio Holmes: Illegal Shift, 5 yards (no play)",1.330,1.000
+4,9:34,1,15,NYJ 31,20,26,"Geno Smith pass complete deep right to Santonio Holmes for 69 yards, touchdown",1.000,7.000
+4,9:34,,,BUF 2,20,27,Nick Folk kicks extra point good,0.000,0.000
+4,9:34,,,NYJ 35,20,27,"Nick Folk kicks off 65 yards, touchback",0.000,-0.280
+4,9:23,1,10,BUF 20,20,27,EJ Manuel pass incomplete short left intended for Steve Johnson,0.280,-0.270
+4,9:16,2,10,BUF 20,20,27,EJ Manuel pass complete deep right to Steve Johnson for 21 yards (tackle by Dawan Landry),-0.270,1.660
+4,8:47,1,10,BUF 41,20,27,EJ Manuel pass incomplete short left intended for Robert Woods,1.660,1.120
+4,8:43,2,10,BUF 41,20,27,EJ Manuel sacked by Dawan Landry for 0 yards,1.120,0.430
+4,8:00,3,10,BUF 41,20,27,EJ Manuel pass incomplete deep left intended for Robert Woods,0.430,-0.650
+4,7:55,4,10,BUF 41,20,27,"Shawn Powell punts 45 yards, returned by Jeremy Kerley for 4 yards (tackle by Marcus Easley)",-0.650,-0.040
+4,7:47,1,10,NYJ 18,20,27,Bilal Powell right tackle for 1 yard (tackle by Manny Lawson),0.040,-0.320
+4,7:11,2,9,NYJ 19,20,27,Bilal Powell right guard for 4 yards (tackle by Alan Branch and Arthur Moats),-0.320,-0.530
+4,6:30,3,5,NYJ 23,20,27,Geno Smith pass incomplete short middle intended for Jeremy Kerley,-0.530,-1.830
+4,6:25,4,5,NYJ 23,20,27,"Ryan Quigley punts 43 yards, fair catch by Jim Leonhard",-1.830,-1.200
+4,6:19,1,10,BUF 34,20,27,EJ Manuel pass incomplete short left intended for Fred Jackson,1.200,0.660
+4,6:17,2,10,BUF 34,20,27,EJ Manuel pass incomplete short middle intended for Steve Johnson,0.660,-0.030
+4,6:14,3,10,BUF 34,20,27,"EJ Manuel pass incomplete deep right intended for Steve Johnson. Penalty on Quinton Coples: Defensive Offside, 5 yards (no play)",-0.030,0.630
+4,6:09,3,5,BUF 39,20,27,"Fred Jackson left end for 4 yards (tackle by Nick Bellore). Penalty on Quinton Coples: Defensive Offside, 5 yards (no play)",0.630,1.860
+4,5:59,1,10,BUF 44,20,27,EJ Manuel pass complete short left to Robert Woods for 6 yards (tackle by Damon Harrison),1.860,2.130
+4,5:30,2,4,,20,27,EJ Manuel pass incomplete short right intended for Robert Woods,2.130,1.420
+4,5:25,3,4,,20,27,"EJ Manuel pass incomplete deep left intended for T.J. Graham. Penalty on Muhammad Wilkerson: Defensive Offside, 5 yards (no play)",1.420,2.590
+4,5:20,1,10,NYJ 45,20,27,EJ Manuel pass incomplete short left intended for Robert Woods,2.590,2.040
+4,5:15,2,10,NYJ 45,20,27,EJ Manuel sacked by David Harris for -1 yards,2.040,1.220
+4,4:47,3,11,NYJ 46,20,27,EJ Manuel pass incomplete short middle intended for Tashard Choice,1.220,0.200
+4,4:43,4,11,NYJ 46,20,27,"Shawn Powell punts 34 yards, fair catch by Jeremy Kerley",0.200,0.350
+4,4:36,1,10,NYJ 12,20,27,Bilal Powell left end for 14 yards (tackle by Aaron Williams and Jim Leonhard),-0.350,0.670
+4,3:48,1,10,NYJ 26,20,27,Bilal Powell left tackle for 2 yards (tackle by Kiko Alonso),0.670,0.400
+4,3:04,2,8,NYJ 28,20,27,Geno Smith pass incomplete short right intended for Santonio Holmes,0.400,-0.300
+4,3:01,3,8,NYJ 28,20,27,Geno Smith pass complete short left to Jeff Cumberland for 2 yards (tackle by Manny Lawson),-0.300,-0.300
+4,2:54,3,8,NYJ 28,20,27,Timeout #1 by Buffalo Bills,-0.300,-1.370
+4,2:54,4,6,NYJ 30,20,27,"Ryan Quigley punts 43 yards, returned by Jim Leonhard for 1 yard (tackle by Isaiah Trufant)",-1.370,-0.810
+4,2:44,1,10,BUF 28,20,27,EJ Manuel pass complete short left to Scott Chandler for 12 yards,0.810,1.600
+4,2:39,1,10,BUF 40,20,27,EJ Manuel pass complete short left to Fred Jackson for 4 yards (tackle by Demario Davis and David Harris),1.600,1.590
+4,2:14,2,6,BUF 44,20,27,EJ Manuel sacked by Muhammad Wilkerson for -8 yards,1.590,-0.160
+4,2:00,3,14,BUF 36,20,27,"EJ Manuel right tackle for 4 yards (tackle by David Harris). Penalty on Cordy Glenn: Offensive Holding, 10 yards (no play)",-0.160,-1.480
+4,1:53,3,24,BUF 26,20,27,EJ Manuel pass complete short right to Scott Chandler for 17 yards,-1.480,-0.520
+4,1:48,4,7,BUF 43,20,27,EJ Manuel pass incomplete deep right intended for Robert Woods,-0.520,-2.720
+4,1:43,1,10,BUF 43,20,27,Bilal Powell left tackle for 2 yards (tackle by Kiko Alonso),2.720,2.720
+4,1:37,1,10,BUF 43,20,27,Timeout #2 by Buffalo Bills,2.720,2.450
+4,1:37,2,8,BUF 41,20,27,"Penalty on Stephen Hill: False Start, 5 yards (no play)",2.450,1.770
+4,1:37,2,13,BUF 46,20,27,Bilal Powell up the middle for 7 yards (tackle by Da'Norris Searcy),1.770,1.770
+4,1:32,2,13,BUF 46,20,27,Timeout #3 by Buffalo Bills,1.770,2.010
+4,1:32,3,6,BUF 39,20,27,Bilal Powell up the middle for 3 yards (tackle by Kyle Williams),2.010,0.890
+4,1:32,4,3,BUF 36,20,27,"Penalty on Geno Smith: Delay of Game, 5 yards (no play)",0.890,0.530
+4,0:30,4,8,BUF 41,20,27,Ryan Quigley punts 40 yards,0.530,0.380
+4,0:21,1,10,BUF 1,20,27,EJ Manuel pass incomplete short right intended for Steve Johnson,-0.380,-0.780
+4,0:17,2,10,BUF 1,20,27,EJ Manuel pass complete short middle to Fred Jackson for 9 yards (tackle by Kyle Wilson),-0.780,-0.370
+4,0:01,3,1,BUF 10,20,27,EJ Manuel spiked the ball,-0.370,-2.490
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

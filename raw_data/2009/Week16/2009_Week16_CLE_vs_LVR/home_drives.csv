@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,14:15,OAK 17,2,0:43,17,Touchdown
+2,1,12:31,CLE 31,10,4:15,45,Field Goal
+3,1,2:48,CLE 25,3,1:51,-8,Punt
+4,2,15:00,CLE 9,3,1:36,-1,Punt
+5,2,11:12,CLE 29,7,3:38,27,Punt
+6,2,1:46,CLE 7,9,1:28,93,Touchdown
+7,3,15:00,OAK 43,7,3:53,28,Field Goal
+8,3,9:14,CLE 27,9,4:21,67,Fumble
+9,3,2:46,CLE 30,5,2:53,18,Punt
+10,4,11:31,OAK 47,6,3:00,31,Field Goal
+11,4,4:22,CLE 2,3,0:22,7,Punt
+12,4,2:49,CLE 12,3,1:42,4,Punt
+13,4,0:40,OAK 48,1,0:40,-1,End of Game

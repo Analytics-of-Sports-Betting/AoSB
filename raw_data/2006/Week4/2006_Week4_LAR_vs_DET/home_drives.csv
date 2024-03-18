@@ -1,0 +1,15 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,STL 30,7,2:29,46,Field Goal
+2,1,11:46,DET 17,7,3:25,16,Field Goal
+3,1,4:48,STL 13,5,1:50,30,Punt
+4,1,1:53,DET 30,2,0:45,30,Touchdown
+5,2,14:27,STL 15,3,2:14,0,Punt
+6,2,8:49,STL 21,4,1:28,16,Punt
+7,2,1:12,STL 20,8,1:08,53,Field Goal
+8,3,13:59,STL 31,6,2:41,69,Touchdown
+9,3,8:08,STL 8,3,1:42,8,Punt
+10,3,4:23,STL 20,7,3:39,80,Touchdown
+11,4,11:11,STL 20,11,4:55,51,Field Goal
+12,4,4:42,STL 44,7,2:46,56,Touchdown
+13,4,1:49,DET 37,4,1:02,8,Missed FG
+14,4,0:02,STL 37,1,0:02,-1,End of Game

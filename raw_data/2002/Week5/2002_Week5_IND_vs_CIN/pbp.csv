@@ -1,0 +1,180 @@
+Quarter,Time,Down,ToGo,Location,CIN,IND,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Colts won the coin toss, Colts to receive the opening kickoff.",,
+1,15:00,,,CIN 30,0,0,"Neil Rackers kicks off 71 yards, returned by Troy Walters for 19 yards (tackle by Ron Dugans)",0.000,0.040
+1,14:55,1,10,IND 18,0,0,Peyton Manning pass incomplete intended for Edgerrin James,0.040,-0.490
+1,14:50,2,10,IND 18,0,0,Edgerrin James right end for 2 yards (tackle by Brian Simmons),-0.490,-0.910
+1,14:13,3,8,IND 20,0,0,Peyton Manning pass incomplete intended for Qadry Ismail,-0.910,-2.030
+1,14:08,4,8,IND 20,0,0,"Hunter Smith punts 42 yards, returned by Peter Warrick for -1 yards (tackle by Sam Sword)",-2.030,-1.400
+1,13:59,1,10,CIN 37,0,0,Jon Kitna pass complete to Chad Johnson for 14 yards (tackle by David Macklin and Marcus Washington),1.400,2.320
+1,13:26,1,10,IND 49,0,0,Corey Dillon right tackle for 1 yard (tackle by Mike Peterson),2.320,1.920
+1,12:42,2,9,IND 48,0,0,Jon Kitna pass incomplete intended for Corey Dillon,1.920,1.220
+1,12:38,3,9,IND 48,0,0,Jon Kitna pass complete to Matt Schobel for 4 yards (tackle by Mike Peterson),1.220,0.330
+1,12:10,4,5,IND 44,0,0,"Nick Harris punts 44 yards, touchback",0.330,-0.280
+1,12:00,1,10,IND 20,0,0,Peyton Manning pass incomplete intended for Marvin Harrison,0.280,-0.270
+1,11:53,2,10,IND 20,0,0,Edgerrin James middle for no gain (tackle by Oliver Gibson and Brian Simmons),-0.270,-0.960
+1,11:16,3,10,IND 20,0,0,Peyton Manning pass complete to Qadry Ismail for 4 yards (tackle by Takeo Spikes),-0.960,-1.770
+1,10:39,4,6,IND 24,0,0,"Hunter Smith punts 44 yards, fair catch by T.J. Houshmandzadeh",-1.770,-1.070
+1,10:31,1,10,CIN 32,0,0,Corey Dillon middle for 1 yard (tackle by Mike Peterson),1.070,0.660
+1,10:02,2,9,CIN 33,0,0,Jon Kitna pass complete to Chad Johnson for 5 yards,0.660,0.630
+1,9:44,2,9,CIN 33,,,Timeout #1 by Indianapolis Colts,0.660,0.630
+1,9:44,3,4,CIN 38,0,0,Jon Kitna pass incomplete intended for Chad Johnson (defended by David Macklin),0.630,-0.850
+1,9:40,4,4,CIN 38,0,0,"Nick Harris punts 48 yards, returned by Troy Walters for 18 yards (tackle by Ron Dugans)",-0.850,-1.070
+1,9:29,1,10,IND 32,0,0,Edgerrin James right end for 3 yards (tackle by Takeo Spikes),1.070,0.930
+1,8:46,2,7,IND 35,0,0,Peyton Manning pass complete to Marvin Harrison for 5 yards (tackle by Jeff Burris),0.930,0.890
+1,8:05,3,2,IND 40,0,0,Peyton Manning pass complete to Marvin Harrison for 10 yards (tackle by Jeff Burris),0.890,2.260
+1,7:26,1,10,,0,0,Edgerrin James right end for 3 yards (tackle by Reinard Wilson),2.260,2.120
+1,6:47,2,7,CIN 47,0,0,Peyton Manning pass complete to Qadry Ismail for 6 yards (tackle by Kevin Kaesviharn),2.120,2.210
+1,6:03,3,1,CIN 41,0,0,Peyton Manning pass complete to Marvin Harrison for 30 yards (tackle by Jeff Burris),2.210,4.840
+1,5:15,1,10,CIN 11,0,0,Edgerrin James right end for no gain (tackle by Justin Smith and Tony Williams),4.840,4.140
+1,4:33,2,10,CIN 11,0,0,Peyton Manning pass incomplete intended for Marcus Pollard (defended by Marquand Manuel),4.140,3.130
+1,4:27,3,10,CIN 11,0,6,"Peyton Manning middle for 11 yards, touchdown",3.130,7.000
+1,4:27,,,CIN 11,0,7,Mike Vanderjagt kicks extra point good,0.000,0.000
+1,4:27,,,IND 30,0,7,"Mike Vanderjagt kicks off 66 yards, returned by Brandon Bennett for 14 yards (tackle by Donnel Thompson)",0.000,0.040
+1,4:19,1,10,CIN 18,0,7,Corey Dillon right tackle for 15 yards (tackle by Idrees Bashir),0.040,1.140
+1,3:46,1,10,CIN 33,0,7,"Corey Dillon middle for 4 yards (tackle by Mike Peterson). Penalty on Rich Braham: Offensive Holding (Declined), Penalty on Matt O'Dwyer: Offensive Holding, 10 yards (no play)",1.140,0.480
+1,3:26,1,20,CIN 23,0,7,Jon Kitna pass complete to Corey Dillon for -3 yards (tackle by Idrees Bashir),0.480,-1.160
+1,2:48,2,23,CIN 20,0,7,Corey Dillon middle for 5 yards (tackle by David Gibson and James Cannida),-1.160,-1.150
+1,2:13,3,18,CIN 25,0,7,Jon Kitna pass complete to Corey Dillon for 3 yards (tackle by Dwight Freeney),-1.150,-1.500
+1,1:44,4,15,CIN 28,0,7,"Nick Harris punts 42 yards, returned by Troy Walters for 15 yards (tackle by Armegis Spearman)",-1.500,-1.930
+1,1:33,1,10,IND 45,0,7,Troy Walters right end for 17 yards (tackle by Cory Hall),1.930,3.050
+1,0:45,1,10,CIN 38,0,7,Edgerrin James middle for 4 yards (tackle by Tony Williams and Mark Roman),3.050,3.050
+1,0:06,2,6,CIN 34,0,7,Peyton Manning pass complete to Marvin Harrison for 16 yards,3.050,4.370
+Quarter,Time,Down,ToGo,Location,CIN,IND,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,CIN 18,0,7,Edgerrin James left end for 8 yards (tackle by Brian Simmons),4.370,5.230
+2,14:30,2,2,CIN 10,0,7,Edgerrin James left end for 7 yards (tackle by Artrell Hawkins),5.230,6.510
+2,13:47,1,3,CIN 3,0,13,"Peyton Manning pass complete to Marcus Pollard for 3 yards, touchdown",6.510,7.000
+2,13:47,,,CIN 3,0,14,Mike Vanderjagt kicks extra point good,0.000,0.000
+2,13:47,,,IND 30,0,14,"Mike Vanderjagt kicks off 68 yards, returned by Brandon Bennett for 21 yards (tackle by Joe Jefferson). Penalty on Detron Smith: Illegal Use of Hands, 5 yards",0.000,0.810
+2,13:42,1,10,CIN 28,0,14,Jon Kitna pass complete to Lorenzo Neal for 5 yards (tackle by Walt Harris),0.810,0.940
+2,12:06,2,5,CIN 33,0,14,Corey Dillon middle for 4 yards (tackle by Chad Bratzke),0.940,0.760
+2,12:06,3,1,CIN 37,0,14,"Penalty on Matt Schobel: False Start, 5 yards (no play)",0.760,0.100
+2,12:06,3,6,CIN 32,0,14,Jon Kitna pass incomplete intended for Chad Johnson,0.100,-1.240
+2,12:06,4,6,CIN 32,0,14,"Nick Harris punts 41 yards, fair catch by Troy Walters",-1.240,-0.740
+2,12:04,1,10,IND 27,0,14,Peyton Manning pass complete to Joe Davenport for 10 yards (tackle by Takeo Spikes),0.740,1.400
+2,11:20,1,10,IND 37,0,14,Edgerrin James right guard for 2 yards (tackle by Takeo Spikes),1.400,1.130
+2,10:42,2,8,IND 39,0,14,Peyton Manning pass complete to Marvin Harrison for 9 yards,1.130,2.130
+2,10:08,1,10,IND 48,0,14,Edgerrin James middle for 3 yards (tackle by Justin Smith),2.130,1.990
+2,9:31,2,7,CIN 49,0,14,Peyton Manning pass incomplete intended for Marcus Pollard (defended by Brian Simmons),1.990,1.290
+2,9:26,3,7,CIN 49,0,14,"Penalty on Tarik Glenn: False Start, 5 yards (no play)",1.290,0.630
+2,9:26,3,12,IND 46,0,14,Peyton Manning pass complete to Edgerrin James for -2 yards (tackle by Brian Simmons),0.630,-0.460
+2,8:49,4,14,IND 44,0,14,"Hunter Smith punts 51 yards, muffed catch by Peter Warrick, recovered by Clifton Crosby and returned for no gain",-0.460,6.280
+2,8:39,1,4,CIN 4,0,14,Peyton Manning pass incomplete intended for Mike Roberg,6.280,5.340
+,,,,,,,"IND challenged the ruling, and the play was upheld.",,
+2,8:29,2,4,CIN 4,0,14,Edgerrin James middle for 1 yard (tackle by Takeo Spikes),5.340,4.720
+2,8:05,2,4,CIN 4,,,Timeout #1 by Cincinnati Bengals,5.340,4.720
+2,8:05,3,3,CIN 3,0,20,"Peyton Manning pass complete to Marvin Harrison for 3 yards, touchdown",4.720,7.000
+2,8:05,,,CIN 3,0,21,Mike Vanderjagt kicks extra point good,0.000,0.000
+2,8:05,,,IND 30,0,21,"Mike Vanderjagt kicks off 57 yards, returned by Nick Luchey for 17 yards (tackle by David Thornton)",0.000,0.940
+2,7:56,1,10,CIN 30,0,21,Jon Kitna pass complete to Chad Johnson for 16 yards (tackle by David Macklin),0.940,1.990
+2,7:20,1,10,CIN 46,0,21,Corey Dillon left tackle for 1 yard (tackle by Josh Mallard),1.990,1.590
+2,6:44,2,9,CIN 47,0,21,Corey Dillon left tackle for 5 yards (tackle by Jason Doering and Mike Peterson),1.590,1.550
+2,6:07,3,4,IND 48,0,21,Corey Dillon left guard for 3 yards (tackle by Brad Scioli),1.550,0.270
+2,5:27,4,1,IND 45,0,21,Corey Dillon middle for 5 yards (tackle by Marcus Washington and Jason Doering),0.270,2.920
+2,4:53,1,10,IND 40,0,21,Corey Dillon right end for 4 yards (tackle by Walt Harris),2.920,2.910
+2,4:16,2,6,IND 36,0,21,Jon Kitna pass complete to Lorenzo Neal for 6 yards (tackle by David Macklin and Rob Morris),2.910,3.580
+2,3:35,1,10,IND 30,0,21,Jon Kitna pass complete to Brandon Bennett for 4 yards (tackle by Jason Doering),3.580,3.570
+2,2:50,2,6,IND 26,0,21,Jon Kitna pass complete to Chad Johnson for 7 yards,3.570,4.310
+2,2:28,1,10,IND 19,0,21,Corey Dillon left tackle for 6 yards (tackle by Rob Morris),4.310,4.720
+2,2:00,2,4,IND 13,0,21,Lorenzo Neal middle for 9 yards (tackle by Jason Doering),4.720,6.280
+2,1:24,1,4,IND 4,0,21,Corey Dillon middle for 2 yards (tackle by Mike Peterson),6.280,5.720
+2,0:50,2,2,IND 2,6,21,"Corey Dillon middle for 2 yards, touchdown",5.720,7.000
+2,0:50,,,IND 2,7,21,Neil Rackers kicks extra point good,0.000,0.000
+2,0:50,,,CIN 30,7,21,"Neil Rackers kicks off 63 yards, returned by Troy Walters for 24 yards (tackle by Neil Rackers)",0.000,1.000
+2,0:39,1,10,IND 31,7,21,Edgerrin James middle for 1 yard (tackle by Tony Williams),1.000,0.600
+2,0:21,2,9,IND 32,7,21,Peyton Manning pass incomplete intended for Qadry Ismail,0.600,-0.100
+2,0:15,3,9,IND 32,7,21,Edgerrin James right guard for 1 yard (tackle by Takeo Spikes),-0.100,-1.180
+2,0:09,3,9,IND 32,,,Timeout #2 by Cincinnati Bengals,-0.100,-1.180
+2,0:09,4,8,IND 33,7,21,"Hunter Smith punts 42 yards, returned by T.J. Houshmandzadeh for 3 yards (tackle by Donnel Thompson)",-1.180,1.140
+Quarter,Time,Down,ToGo,Location,CIN,IND,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,IND 30,7,21,"Mike Vanderjagt kicks off 47 yards, returned by Lorenzo Neal for 10 yards (tackle by Sam Sword)",0.000,1.140
+3,14:55,1,10,CIN 33,7,21,Corey Dillon middle for 5 yards (tackle by James Cannida and Rob Morris),1.140,1.270
+3,14:19,2,5,CIN 38,7,21,Corey Dillon middle for 2 yards (tackle by Idrees Bashir),1.270,0.830
+3,13:41,3,3,CIN 40,7,21,"Jon Kitna pass incomplete intended for Chad Johnson. Penalty on David Macklin: Defensive Pass Interference, 21 yards (no play)",0.830,2.980
+3,13:33,1,10,IND 39,7,21,"Jon Kitna pass incomplete intended for Chad Johnson. Penalty on David Macklin: Defensive Pass Interference, 25 yards (no play)",2.980,4.650
+3,13:28,1,10,IND 14,7,21,Jon Kitna pass incomplete intended for Matt Schobel,4.650,4.000
+3,13:24,2,10,IND 14,7,21,Jon Kitna pass incomplete intended for Chad Johnson is intercepted by Walt Harris at IND-2,4.000,0.380
+3,13:18,1,10,IND 3,7,21,Peyton Manning pass complete to Detron Smith for 14 yards (tackle by Jeff Burris and Brian Simmons),-0.380,-0.060
+3,12:39,1,10,IND 17,7,21,Peyton Manning pass complete to Qadry Ismail for 5 yards (tackle by Artrell Hawkins),-0.060,0.210
+3,11:52,2,5,IND 22,7,21,Edgerrin James left end for 6 yards (tackle by Takeo Spikes),0.210,0.810
+3,11:13,1,10,IND 28,7,21,Peyton Manning pass complete to Edgerrin James for 6 yards (tackle by Takeo Spikes and Oliver Gibson),0.810,1.070
+3,10:26,2,4,IND 34,7,21,Edgerrin James middle for 3 yards (tackle by Kevin Kaesviharn),1.070,0.760
+3,9:38,3,1,IND 37,7,21,Peyton Manning pass complete to Qadry Ismail for 12 yards (tackle by Kevin Kaesviharn),0.760,2.190
+3,8:53,1,10,IND 49,7,21,Edgerrin James left tackle for 1 yard (tackle by JoJuan Armour),2.190,1.780
+3,8:13,2,9,,7,21,Peyton Manning pass complete to Marvin Harrison for no gain,1.780,1.090
+3,7:29,3,9,,7,21,Peyton Manning pass incomplete intended for Reggie Wayne (defended by Adrian Ross),1.090,-0.060
+3,7:25,4,9,,7,21,"Hunter Smith punts 50 yards, touchback",-0.060,-0.280
+3,7:10,1,10,CIN 20,7,21,"Corey Dillon right end for no gain (tackle by David Gibson). Corey Dillon fumbles (forced by David Gibson), ball out of bounds at CIN-23",0.280,-0.270
+3,6:47,2,10,CIN 20,7,21,Jon Kitna pass incomplete intended for Michael Westbrook,-0.270,-0.960
+3,6:41,3,10,CIN 20,7,21,Jon Kitna pass complete to Chad Johnson for 13 yards (tackle by David Gibson),-0.960,1.140
+3,6:07,1,10,CIN 33,13,21,"Corey Dillon right end for 67 yards, touchdown",1.140,7.000
+3,6:07,,,IND 33,14,21,Neil Rackers kicks extra point good,0.000,0.000
+3,6:07,,,CIN 30,14,21,"Neil Rackers kicks off 63 yards, returned by Troy Walters for 25 yards (tackle by Ligarius Jennings)",0.000,1.070
+3,5:50,1,10,IND 32,14,21,Peyton Manning pass complete to Qadry Ismail for 12 yards (tackle by Kevin Kaesviharn),1.070,1.860
+3,5:08,1,10,IND 44,14,21,Peyton Manning pass incomplete intended for Reggie Wayne (defended by Justin Smith),1.860,1.320
+3,5:04,2,10,IND 44,14,21,Edgerrin James middle for 2 yards (tackle by Justin Smith),1.320,0.890
+3,4:21,3,8,IND 46,14,21,Peyton Manning pass incomplete intended for Marcus Pollard,0.890,-0.320
+3,4:17,4,8,IND 46,14,21,"Hunter Smith punts 39 yards, fair catch by T.J. Houshmandzadeh. Penalty on Nick Harper: Fair Catch Interference, 15 yards",-0.320,-0.940
+3,4:07,1,10,CIN 30,14,21,Corey Dillon right tackle for 8 yards (tackle by Rob Morris),0.940,1.470
+3,3:32,2,2,CIN 38,14,21,Jon Kitna pass complete to Matt Schobel for 11 yards (tackle by Marcus Washington and Rob Morris),1.470,2.190
+3,2:51,1,10,CIN 49,14,21,Corey Dillon middle for 2 yards (tackle by Mike Peterson),2.190,1.920
+3,2:51,2,8,IND 49,14,21,Corey Dillon middle for 2 yards (tackle by Nick Harper and Idrees Bashir),1.920,1.490
+3,1:37,3,6,IND 47,14,21,Jon Kitna pass incomplete intended for Peter Warrick (defended by Nick Harper),1.490,0.130
+3,1:32,4,6,IND 47,14,21,"Nick Harris punts 47 yards, touchback",0.130,-0.280
+3,1:19,1,10,IND 20,14,21,Edgerrin James right end for 1 yard (tackle by Glen Steele),0.280,-0.130
+3,0:41,2,9,IND 21,14,21,Peyton Manning pass complete to Qadry Ismail for 3 yards (tackle by Cory Hall),-0.130,-0.430
+3,0:01,3,6,IND 24,14,21,"Peyton Manning pass complete to Marvin Harrison for 69 yards (tackle by Lamont Thompson). Penalty on Artrell Hawkins: Roughing the Passer, 4 yards",-0.430,6.510
+Quarter,Time,Down,ToGo,Location,CIN,IND,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,3,CIN 3,14,27,"Edgerrin James middle for 3 yards, touchdown",6.510,7.000
+4,15:00,,,CIN 3,14,28,Mike Vanderjagt kicks extra point good,0.000,0.000
+4,15:00,,,IND 30,14,28,"Mike Vanderjagt kicks off 67 yards, returned by Brandon Bennett for 20 yards (tackle by Joe Jefferson)",0.000,0.480
+4,14:50,1,10,CIN 23,14,28,Jon Kitna pass complete to Peter Warrick for 7 yards (tackle by Jason Doering),0.480,0.880
+4,14:50,2,3,CIN 30,14,28,Corey Dillon right tackle for 2 yards (tackle by Rob Morris),0.880,0.430
+4,13:40,3,1,CIN 32,14,28,Jon Kitna pass incomplete intended for Michael Westbrook is intercepted by Walt Harris at CIN-38,0.430,-3.050
+4,13:34,1,10,CIN 38,14,28,Peyton Manning pass incomplete intended for Qadry Ismail (defended by Kevin Kaesviharn),3.050,2.510
+4,13:27,2,10,CIN 38,14,28,"Peyton Manning pass incomplete intended for Marvin Harrison. Penalty on Jeff Burris: Defensive Pass Interference, 34 yards (no play)",2.510,6.280
+4,13:20,1,4,CIN 4,14,28,Edgerrin James right tackle for -1 yards (tackle by Bernard Whittington),6.280,5.150
+4,12:36,2,5,CIN 5,14,28,Peyton Manning pass incomplete intended for Marvin Harrison,5.150,4.260
+4,12:32,2,5,CIN 5,,,Timeout #1 by Indianapolis Colts,5.150,4.260
+4,12:32,3,5,CIN 5,14,28,Peyton Manning pass incomplete intended for Marvin Harrison is intercepted by Artrell Hawkins at CIN--8,4.260,-0.280
+4,12:25,1,10,CIN 20,14,28,Corey Dillon middle for 7 yards (tackle by Nick Harper),0.280,0.680
+4,11:53,2,3,CIN 27,14,28,Jon Kitna pass complete to Corey Dillon for 10 yards,0.680,1.400
+4,11:27,1,10,CIN 37,14,28,Jon Kitna sacked by Dwight Freeney for -7 yards,1.400,-0.090
+4,10:56,2,17,CIN 30,14,28,Jon Kitna pass complete to Peter Warrick for 9 yards (tackle by David Thornton and Mike Peterson),-0.090,0.430
+4,10:17,3,8,CIN 39,14,28,Jon Kitna pass complete to Chad Johnson for 17 yards (tackle by Walt Harris),0.430,2.650
+4,9:39,1,10,IND 44,14,28,Jon Kitna pass complete to T.J. Houshmandzadeh for 16 yards (tackle by Mike Peterson),2.650,3.710
+4,8:56,1,10,IND 28,14,28,Jon Kitna pass incomplete intended for Chad Johnson,3.710,3.170
+4,8:56,2,10,IND 28,14,28,Jon Kitna pass complete to Corey Dillon for -6 yards (tackle by Dwight Freeney),3.170,1.680
+4,8:11,3,16,IND 34,14,28,"Penalty on Levi Jones: False Start, 5 yards (no play)",1.680,1.020
+4,7:56,3,21,IND 39,14,28,Jon Kitna pass complete to Ron Dugans for 6 yards (tackle by Nick Harper),1.020,1.150
+4,7:15,4,15,IND 33,14,28,Jon Kitna pass complete to Peter Warrick for 8 yards (tackle by Nick Harper),1.150,-0.610
+4,7:06,1,10,IND 25,14,28,Edgerrin James left tackle for 14 yards (tackle by Marquand Manuel),0.610,1.530
+4,6:17,1,10,IND 39,14,28,Edgerrin James middle for -4 yards (tackle by Oliver Gibson),1.530,0.450
+4,5:36,2,14,IND 35,14,28,Peyton Manning pass complete to Marvin Harrison for 3 yards (tackle by Jeff Burris),0.450,0.170
+4,4:52,3,11,IND 38,14,28,Peyton Manning pass complete to Edgerrin James for 6 yards (tackle by Reinard Wilson),0.170,-0.460
+4,4:09,4,5,IND 44,14,28,"Hunter Smith punts 56 yards, touchback",-0.460,-0.280
+4,3:57,1,10,CIN 20,14,28,"Jon Kitna pass complete to Ron Dugans for 9 yards (tackle by Mike Peterson). Penalty on Willie Anderson: Illegal Formation, 5 yards (no play)",0.280,-0.310
+4,3:53,1,15,CIN 15,14,28,Jon Kitna pass incomplete intended for Chad Johnson (defended by Brad Scioli),-0.310,-1.070
+4,3:47,2,15,CIN 15,14,28,Corey Dillon middle for 15 yards (tackle by Idrees Bashir),-1.070,0.940
+4,3:09,1,10,CIN 30,14,28,Jon Kitna pass complete to Ron Dugans for 8 yards (tackle by Mike Peterson),0.940,1.470
+4,3:06,2,2,CIN 38,14,28,Jon Kitna pass complete to Ron Dugans for 7 yards (tackle by Nick Harper),1.470,1.930
+4,2:45,1,10,CIN 45,14,28,Jon Kitna pass complete to Ron Dugans for 5 yards (tackle by David Gibson),1.930,2.060
+4,2:20,2,5,,14,28,Jon Kitna pass complete to Corey Dillon for 7 yards (tackle by Mike Peterson),2.060,2.720
+4,2:00,1,10,IND 43,14,28,Jon Kitna pass complete to Brandon Bennett for 4 yards (tackle by Marcus Washington),2.720,2.720
+4,1:39,2,6,IND 39,14,28,Jon Kitna pass complete to Ron Dugans for 2 yards,2.720,2.280
+4,1:33,3,4,IND 37,14,28,"Jon Kitna pass complete to Brandon Bennett for -1 yards. Brandon Bennett fumbles, ball out of bounds at IND-38",2.280,0.720
+4,1:08,4,5,IND 38,14,28,Jon Kitna pass complete to Ron Dugans for 8 yards (tackle by Mike Peterson and Nick Harper),0.720,3.580
+4,1:00,4,5,IND 38,,,Timeout #1 by Cincinnati Bengals,0.720,3.580
+4,1:00,1,10,IND 30,20,28,"Jon Kitna pass complete to Peter Warrick for 30 yards, touchdown",3.580,7.000
+4,1:00,,,IND 30,21,28,Neil Rackers kicks extra point good,0.000,0.000
+4,1:00,,,CIN 30,21,28,"Neil Rackers kicks onside 13 yards, recovered by Marquand Manuel (onside kick successful)",0.000,1.800
+4,0:53,1,10,CIN 43,21,28,Jon Kitna pass complete to Corey Dillon for 10 yards (tackle by David Thornton),1.800,2.460
+4,0:48,1,10,CIN 43,,,Timeout #2 by Cincinnati Bengals,1.800,2.460
+4,0:48,1,10,IND 47,21,28,Jon Kitna pass complete to Ron Dugans for 12 yards (tackle by Idrees Bashir and Marcus Washington),2.460,3.250
+4,0:31,1,10,IND 35,21,28,Jon Kitna spiked the ball,3.250,2.700
+4,0:31,2,10,IND 35,21,28,Jon Kitna pass incomplete intended for Chad Johnson is intercepted by Idrees Bashir at IND-14 and returned for 4 yards,2.700,-0.040
+4,0:23,1,10,IND 18,21,28,Peyton Manning kneels for -1 yards,0.040,-0.650
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

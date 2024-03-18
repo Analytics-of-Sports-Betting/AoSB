@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,10:34,BUF 40,3,1:28,-2,Punt
+2,1,6:00,BUF 14,6,3:46,-4,Punt
+3,2,12:00,BUF 25,5,2:30,18,Punt
+4,2,8:34,PIT 7,3,1:27,7,Touchdown
+5,2,4:36,BUF 20,5,2:12,25,Punt
+6,2,0:32,BUF 15,4,0:32,23,End of Half
+7,3,15:00,BUF 16,6,2:59,14,Punt
+8,3,5:28,BUF 25,3,1:30,6,Punt
+9,4,13:43,BUF 20,1,0:12,0,Interception
+10,4,9:57,BUF 18,5,2:30,82,Touchdown
+11,4,3:38,BUF 25,8,2:13,75,Touchdown

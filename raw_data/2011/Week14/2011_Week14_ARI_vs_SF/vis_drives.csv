@@ -1,0 +1,15 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,SFO 14,5,3:21,11,Punt
+2,1,9:55,ARI 43,11,5:16,15,Field Goal
+3,1,3:07,SFO 33,4,2:13,24,Punt
+4,2,15:00,ARI 4,4,0:58,-1,Field Goal
+5,2,11:50,SFO 43,8,4:29,25,Missed FG
+6,2,7:10,SFO 22,10,5:12,69,Field Goal
+7,2,1:10,ARI 16,6,1:10,12,Field Goal
+8,3,12:33,ARI 37,1,0:09,37,Touchdown
+9,3,9:04,SFO 19,3,0:58,2,Punt
+10,3,5:52,SFO 10,3,1:46,8,Punt
+11,3,1:21,SFO 19,3,1:05,20,Punt
+12,4,11:50,SFO 27,3,1:47,8,Punt
+13,4,5:37,SFO 20,3,1:38,4,Punt
+14,4,2:51,SFO 32,4,0:54,9,Downs

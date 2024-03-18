@@ -1,0 +1,188 @@
+Quarter,Time,Down,ToGo,Location,NWE,PIT,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Steelers won the coin toss, Steelers to receive the opening kickoff.",,
+1,15:00,,,NWE 30,0,0,"Adam Vinatieri kicks off 70 yards, touchback",0.000,0.280
+1,15:00,1,10,PIT 20,0,0,Willie Parker right end for 6 yards (tackle by Rodney Harrison),0.280,0.540
+1,14:24,2,4,PIT 26,0,0,Ben Roethlisberger pass complete to Willie Parker for -6 yards (tackle by Mike Vrabel),0.540,-0.960
+1,13:39,3,10,PIT 20,0,0,Ben Roethlisberger pass incomplete intended for Hines Ward,-0.960,-2.030
+1,13:33,4,10,PIT 20,0,0,"Chris Gardocki punts 45 yards, returned by Tim Dwight for 19 yards (tackle by Verron Haynes)",-2.030,-2.520
+1,13:20,1,10,PIT 46,0,0,Corey Dillon up the middle for 1 yard,2.520,2.110
+1,12:46,2,9,PIT 45,0,0,Corey Dillon right tackle for 6 yards (tackle by Casey Hampton and Larry Foote),2.110,2.210
+1,12:06,3,3,PIT 39,0,0,Corey Dillon right tackle for 7 yards (tackle by Larry Foote and Ike Taylor),2.210,3.450
+1,11:29,1,10,PIT 32,0,0,Tom Brady pass complete to David Givens for 15 yards,3.450,4.440
+1,11:05,1,10,PIT 17,0,0,Kevin Faulk left end for 3 yards (tackle by Larry Foote),4.440,4.320
+1,10:29,2,7,PIT 14,0,0,Tom Brady pass complete to Ben Watson for 10 yards (tackle by Ike Taylor and Larry Foote),4.320,6.280
+1,9:52,1,4,PIT 4,6,0,"Corey Dillon up the middle for 4 yards, touchdown",6.280,7.000
+1,,,,PIT 2,7,0,Adam Vinatieri kicks extra point good,0.000,0.000
+1,,,,NWE 30,7,0,"Adam Vinatieri kicks off 71 yards, returned by Ricardo Colclough for 16 yards (tackle by Guss Scott)",0.000,-0.220
+1,9:43,1,10,PIT 15,7,6,"Ben Roethlisberger pass complete to Hines Ward for 85 yards, touchdown",-0.220,7.000
+1,,,,NWE 2,7,7,Jeff Reed kicks extra point good,0.000,0.000
+1,,,,PIT 30,7,7,"Jeff Reed kicks off 73 yards, returned by Bethel Johnson for 26 yards (tackle by Clint Kriewaldt)",0.000,0.480
+1,9:27,1,10,NWE 23,7,7,Tom Brady pass complete to Corey Dillon for 4 yards (tackle by Deshea Townsend),0.480,0.470
+1,8:43,2,6,NWE 27,7,7,Corey Dillon up the middle for 2 yards (tackle by Clark Haggans),0.470,0.040
+1,8:05,3,4,NWE 29,7,7,Tom Brady sacked by James Farrior for -11 yards,0.040,-2.240
+1,7:51,4,15,NWE 18,7,7,"Josh Miller punts 48 yards, returned by Antwaan Randle El for 17 yards (tackle by Patrick Pass)",-2.240,-2.320
+1,7:39,1,10,NWE 49,7,7,"Ben Roethlisberger pass incomplete intended for Hines Ward. Penalty on Chad Scott: Defensive Pass Interfere, 25 yards (no play)",2.320,3.970
+1,7:34,1,10,NWE 24,7,7,Willie Parker right guard for 2 yards (tackle by Chad Brown and Eugene Wilson),3.970,3.700
+1,7:07,2,8,NWE 22,7,7,Willie Parker left end for 2 yards (tackle by Chad Brown),3.700,3.270
+1,6:26,3,6,NWE 20,7,7,Ben Roethlisberger up the middle for 10 yards (tackle by Chad Scott and Eugene Wilson),3.270,4.910
+1,5:38,,,,7,7,Timeout #1 by Pittsburgh Steelers,0.000,4.910
+1,5:38,1,10,NWE 10,7,7,Willie Parker up the middle for no gain (tackle by Ty Warren and Matt Chatham),4.910,4.190
+1,5:02,2,10,NWE 10,7,7,Ben Roethlisberger pass incomplete intended for Antwaan Randle El,4.190,3.130
+1,4:51,3,10,NWE 10,7,7,"Penalty on Kendall Simmons: False Start, 5 yards (no play)",3.130,2.930
+1,4:51,3,15,NWE 15,7,7,Ben Roethlisberger pass incomplete intended for Antwaan Randle El (defended by Asante Samuel),2.930,2.440
+1,4:45,4,15,NWE 15,7,10,Jeff Reed 33 yard field goal good,2.440,3.000
+1,,,,PIT 30,7,10,"Jeff Reed kicks off 67 yards, returned by Bethel Johnson for 24 yards (tackle by Ike Taylor). Penalty on Tully Banta-Cain: Offensive Holding, 10 yards",0.000,-0.060
+1,4:34,1,10,NWE 17,7,10,Corey Dillon right end for 1 yard (tackle by Ike Taylor and Clark Haggans),-0.060,-0.420
+1,3:57,2,9,NWE 18,7,10,Tom Brady pass complete to Deion Branch for 15 yards (tackle by Ike Taylor),-0.420,1.140
+1,3:36,1,10,NWE 33,7,10,Corey Dillon left guard for 1 yard,1.140,0.730
+1,2:56,2,9,NWE 34,7,10,Tom Brady pass incomplete intended for Daniel Graham,0.730,0.040
+1,2:51,3,9,NWE 34,7,10,Tom Brady pass complete to Troy Brown for 19 yards (tackle by Ricardo Colclough),0.040,2.460
+1,2:21,1,10,PIT 47,7,10,Tom Brady pass complete to Deion Branch for 5 yards (tackle by Ike Taylor),2.460,2.590
+1,1:46,2,5,PIT 42,7,10,Kevin Faulk up the middle for -1 yards (tackle by Larry Foote),2.590,1.750
+1,1:04,3,6,PIT 43,7,10,Tom Brady pass complete to Kevin Faulk for 8 yards (tackle by Mike Logan),1.750,3.250
+1,0:42,1,10,PIT 35,7,10,Corey Dillon right end for 9 yards (tackle by Clark Haggans),3.250,3.920
+1,0:20,2,1,PIT 26,7,10,Corey Dillon right tackle for no gain (tackle by Clark Haggans and James Farrior),3.920,3.200
+Quarter,Time,Down,ToGo,Location,NWE,PIT,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,1,PIT 26,7,10,Corey Dillon right end for 2 yards (tackle by James Farrior and Chris Hope),3.200,3.970
+2,14:18,1,10,PIT 24,7,10,Kevin Faulk left end for 4 yards (tackle by Chris Hope),3.970,3.970
+2,13:40,2,6,PIT 20,7,10,Kevin Faulk up the middle for 4 yards (tackle by James Farrior),3.970,3.950
+2,13:01,3,2,PIT 16,7,10,Kevin Faulk right tackle for 2 yards (tackle by Travis Kirschke and Chris Hope),3.950,4.650
+2,12:18,1,10,PIT 14,7,10,"Tom Brady pass complete to Kevin Faulk for 6 yards (tackle by Clark Haggans). Kevin Faulk fumbles (forced by Clark Haggans), recovered by Larry Foote at PIT-8 and returned for 27 yards (tackle by Deion Branch)",4.650,-1.270
+2,12:05,1,10,PIT 35,7,10,Willie Parker left tackle for 1 yard (tackle by Guss Scott and Monty Beisel),1.270,0.860
+2,11:25,2,9,PIT 36,7,10,"Ben Roethlisberger pass complete to Antwaan Randle El for 49 yards. Antwaan Randle El fumbles, recovered by Eugene Wilson at NWE-11 (tackle by Antwaan Randle El)",0.860,0.370
+2,11:08,1,10,NWE 11,7,10,Tom Brady pass complete to Bethel Johnson for 3 yards (tackle by Joey Porter),-0.370,-0.530
+2,10:36,2,7,NWE 14,7,10,Kevin Faulk left tackle for 2 yards (tackle by Clark Haggans),-0.530,-0.840
+2,10:03,3,5,NWE 16,7,10,Tom Brady pass incomplete intended for Tim Dwight,-0.840,-2.390
+2,9:59,4,5,NWE 16,7,10,"Josh Miller punts 45 yards, fair catch by Antwaan Randle El. Penalty on Tully Banta-Cain: Ineligible Downfield Kic, 5 yards (no play)",-2.390,-2.490
+2,9:50,4,10,NWE 11,7,10,"Josh Miller punts 49 yards, returned by Antwaan Randle El for 5 yards (tackle by Larry Izzo)",-2.490,-1.930
+2,9:39,1,10,PIT 45,7,10,Willie Parker up the middle for 10 yards (tackle by Monty Beisel and Eugene Wilson),1.930,2.590
+2,9:03,1,10,NWE 45,7,10,Willie Parker left guard for -2 yards (tackle by Richard Seymour),2.590,1.770
+2,8:18,2,12,NWE 47,7,10,Ben Roethlisberger left end for 8 yards (tackle by Jarvis Green),1.770,2.150
+2,7:29,3,4,NWE 39,7,10,Ben Roethlisberger pass incomplete intended for Antwaan Randle El,2.150,0.660
+,,,,,,,"PIT challenged the ruling, and the original play was overturned.",,
+2,7:26,4,4,NWE 39,7,10,"Ben Roethlisberger punts 39 yards, touchback",0.660,-0.280
+2,7:19,1,10,NWE 20,7,10,Corey Dillon left end for -1 yards (tackle by James Farrior and Ike Taylor),0.280,-0.460
+2,6:45,2,11,NWE 19,7,10,Tom Brady pass incomplete intended for David Givens,-0.460,-1.140
+2,6:40,3,11,NWE 19,7,10,Tom Brady pass complete to Troy Brown for no gain,-1.140,-2.140
+2,6:00,4,11,NWE 19,7,10,"Josh Miller punts 40 yards, returned by Antwaan Randle El for -2 yards (tackle by Bethel Johnson)",-2.140,-1.530
+2,5:49,1,10,PIT 39,7,10,Ben Roethlisberger pass complete to Hines Ward for 9 yards (tackle by Asante Samuel),1.530,2.200
+2,5:11,2,1,PIT 48,7,10,Willie Parker right guard for 3 yards (tackle by Ty Warren and Eugene Wilson),2.200,2.320
+2,4:34,1,10,NWE 49,7,10,"Ben Roethlisberger sacked by Richard Seymour for -9 yards. Penalty on Richard Seymour: Face Mask (15 Yards), 15 yards",2.320,2.720
+2,4:11,1,10,NWE 43,7,10,Willie Parker up the middle for 11 yards (tackle by Eugene Wilson and Asante Samuel),2.720,3.450
+2,3:34,1,10,NWE 32,7,10,Willie Parker left guard for 3 yards (tackle by Vince Wilfork and Jarvis Green),3.450,3.310
+2,2:54,2,7,NWE 29,7,10,Ben Roethlisberger pass incomplete intended for Heath Miller (defended by Monty Beisel),3.310,2.610
+2,2:42,3,7,NWE 29,7,10,Ben Roethlisberger pass incomplete intended for Hines Ward,2.610,1.500
+2,2:37,4,7,NWE 29,7,10,"Penalty on Barrett Brooks: False Start, 5 yards (no play)",1.500,1.060
+2,2:37,4,12,NWE 34,7,10,Jeff Reed 52 yard field goal no good,1.060,-1.730
+2,2:34,1,10,NWE 42,7,10,Corey Dillon left tackle for no gain (tackle by Casey Hampton),1.730,1.190
+2,2:00,2,10,NWE 42,7,10,Tom Brady pass complete to Kevin Faulk for 7 yards (tackle by James Farrior and Clark Haggans),1.190,1.420
+2,1:36,3,3,NWE 49,7,10,Tom Brady pass complete to Kevin Faulk for 7 yards (tackle by Mike Logan),1.420,2.650
+2,1:14,1,10,PIT 44,7,10,Tom Brady pass incomplete intended for David Givens (defended by Ike Taylor),2.650,2.110
+2,1:11,2,10,PIT 44,7,10,Tom Brady pass complete to David Givens for 4 yards (tackle by Ike Taylor),2.110,1.950
+2,0:58,3,6,PIT 40,7,10,Tom Brady pass complete to Deion Branch for 14 yards (tackle by Troy Polamalu),1.950,3.840
+2,0:51,,,,7,10,Timeout #1 by New England Patriots,0.000,3.840
+2,0:50,1,10,PIT 26,7,10,Tom Brady pass complete to Kevin Faulk for 23 yards (tackle by Troy Polamalu),3.840,6.510
+2,0:41,1,3,PIT 3,7,10,"Penalty on Steve Neal: False Start, 5 yards (no play)",6.510,5.370
+2,0:41,1,8,PIT 8,7,10,Tom Brady pass incomplete is intercepted by Chris Hope at PIT-4 and returned for 5 yards,5.370,0.380
+2,0:31,1,10,PIT 9,7,10,Ben Roethlisberger kneels for -1 yards,-0.380,-0.850
+Quarter,Time,Down,ToGo,Location,NWE,PIT,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PIT 30,7,10,"Jeff Reed kicks off 58 yards, returned by Ellis Hobbs for 25 yards (tackle by Brett Keisel)",0.000,1.400
+3,14:54,1,10,NWE 37,7,10,Corey Dillon up the middle for 4 yards (tackle by Larry Foote and James Farrior),1.400,1.400
+3,14:18,2,6,NWE 41,7,10,Tom Brady pass complete to David Givens for 18 yards (tackle by Ike Taylor),1.400,2.850
+3,13:43,1,10,PIT 41,7,10,Tom Brady sacked by James Harrison for -8 yards. Penalty on Nick Kaczur: Offensive Holding (Declined),2.850,1.230
+3,13:20,2,18,PIT 49,7,10,Tom Brady pass complete to Deion Branch for 14 yards (tackle by Mike Logan),1.230,2.410
+3,12:32,,,,7,10,Timeout #1 by New England Patriots,0.000,2.410
+3,12:32,3,4,PIT 35,7,10,Tom Brady pass incomplete intended for Troy Brown,2.410,0.980
+3,12:27,4,4,PIT 35,7,10,Adam Vinatieri 53 yard field goal no good,0.980,-1.800
+3,12:24,1,10,PIT 43,7,10,Willie Parker up the middle for 3 yards (tackle by Ty Warren),1.800,1.660
+3,11:53,2,7,PIT 46,7,10,Willie Parker up the middle for 3 yards (tackle by Vince Wilfork and Ty Warren),1.660,1.350
+3,11:09,3,4,PIT 49,7,10,Ben Roethlisberger pass incomplete intended for Antwaan Randle El (defended by Duane Starks),1.350,-0.130
+3,11:05,4,4,PIT 49,7,10,"Chris Gardocki punts 31 yards, fair catch by Troy Brown",-0.130,-0.280
+3,10:57,1,10,NWE 20,7,10,Tom Brady pass complete to David Givens for 11 yards (tackle by Ike Taylor),0.280,1.000
+3,10:21,1,10,NWE 31,7,10,Corey Dillon right end for 2 yards (tackle by Larry Foote and Casey Hampton),1.000,0.730
+3,9:37,2,8,NWE 33,7,10,Tom Brady sacked by Clark Haggans for -7 yards,0.730,-0.890
+3,9:09,3,15,NWE 26,7,10,"Kevin Faulk up the middle for no gain (tackle by Clark Haggans). Kevin Faulk fumbles (forced by Clark Haggans), recovered by Travis Kirschke at NWE-28 (tackle by Logan Mankins)",-0.890,-3.710
+3,9:04,1,10,NWE 28,7,10,Ben Roethlisberger pass incomplete intended for Dan Kreider (defended by Willie McGinest),3.710,3.170
+3,9:04,2,10,NWE 28,7,10,Ben Roethlisberger pass complete to Heath Miller for 13 yards,3.170,4.580
+3,9:04,1,10,NWE 15,7,10,Willie Parker up the middle for 4 yards (tackle by Willie McGinest and Monty Beisel),4.580,4.640
+3,9:04,2,6,NWE 11,7,10,Willie Parker up the middle for -1 yards (tackle by Richard Seymour),4.640,3.580
+3,6:56,3,7,NWE 12,7,10,Verron Haynes up the middle for 6 yards (tackle by Guss Scott),3.580,3.020
+3,6:11,4,1,NWE 6,7,13,Jeff Reed 24 yard field goal good,3.020,3.000
+3,,,,PIT 30,7,13,"Jeff Reed kicks off 63 yards, returned by Bethel Johnson for 19 yards (tackle by Ike Taylor)",0.000,0.670
+3,6:08,1,10,NWE 26,7,13,Corey Dillon left end for 8 yards (tackle by Troy Polamalu and Larry Foote),0.670,1.210
+3,5:22,2,2,NWE 34,7,13,"Corey Dillon left end for 2 yards (tackle by Chris Hope). Penalty on Deion Branch: Offensive Holding, 10 yards",1.210,0.130
+3,5:05,2,10,NWE 26,7,13,Tom Brady pass complete to Deion Branch for 22 yards (tackle by Chris Hope),0.130,2.130
+3,4:23,1,10,NWE 48,7,13,Tom Brady pass incomplete intended for Daniel Graham,2.130,1.580
+3,4:18,2,10,NWE 48,7,13,Corey Dillon right tackle for 3 yards,1.580,1.290
+3,3:36,3,7,PIT 49,7,13,Tom Brady pass incomplete intended for David Givens,1.290,0.000
+3,3:30,4,7,PIT 49,7,13,Josh Miller punts 43 yards,0.000,0.380
+3,3:20,1,10,PIT 6,7,13,Willie Parker left tackle for 2 yards (tackle by Mike Vrabel and Monty Beisel),-0.380,-0.630
+3,2:45,2,8,PIT 8,7,13,Willie Parker up the middle for 6 yards (tackle by Monty Beisel and Guss Scott),-0.630,-0.480
+3,2:03,3,2,PIT 14,7,13,Verron Haynes left guard for 1 yard (tackle by Willie McGinest and Ellis Hobbs),-0.480,-2.440
+3,1:20,4,1,PIT 15,7,13,"Chris Gardocki punts 43 yards, returned by Tim Dwight for 28 yards (tackle by Chris Gardocki)",-2.440,-3.580
+3,1:05,1,10,PIT 30,7,13,Corey Dillon up the middle for no gain (tackle by James Farrior),3.580,3.030
+3,0:30,2,10,PIT 30,7,13,Tom Brady pass incomplete intended for David Givens (defended by Troy Polamalu),3.030,2.340
+3,0:23,3,10,PIT 30,7,13,Tom Brady pass incomplete intended for Deion Branch,2.340,1.410
+3,0:19,4,10,PIT 30,10,13,Adam Vinatieri 48 yard field goal good,1.410,3.000
+3,,,,NWE 30,10,13,"Adam Vinatieri kicks off 70 yards, touchback",0.000,0.280
+3,0:14,1,10,PIT 20,10,13,Ben Roethlisberger pass incomplete intended for Willie Parker,0.280,-0.270
+3,0:04,2,10,PIT 20,10,13,Ben Roethlisberger pass complete to Cedrick Wilson for 10 yards (tackle by Duane Starks),-0.270,0.940
+Quarter,Time,Down,ToGo,Location,NWE,PIT,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,PIT 30,10,13,Ben Roethlisberger pass incomplete intended for Willie Parker (defended by Richard Seymour),0.940,0.390
+4,14:51,2,10,PIT 30,10,13,Cedrick Wilson right end for no gain (tackle by Chad Brown and Willie McGinest),0.390,-0.300
+4,14:51,3,10,PIT 30,10,13,"Penalty on Kendall Simmons: False Start, 5 yards (no play)",-0.300,-0.960
+4,14:37,3,15,PIT 25,10,13,Ben Roethlisberger pass incomplete intended for Cedrick Wilson,-0.960,-1.700
+4,14:29,4,15,PIT 25,10,13,"Chris Gardocki punts 51 yards, muffed catch by Tim Dwight, recovered by Tim Dwight and returned for no gain. Penalty on Chad Scott: Offensive Holding, 10 yards",-1.700,0.280
+4,14:19,1,10,NWE 14,10,13,Tom Brady pass complete to David Givens for 14 yards (tackle by Deshea Townsend),-0.280,0.810
+4,13:55,1,10,NWE 28,10,13,Tom Brady pass complete to Deion Branch for 8 yards (tackle by Ike Taylor),0.810,1.340
+4,13:12,2,2,NWE 36,10,13,Tom Brady pass complete to Troy Brown for 19 yards (tackle by Ike Taylor and Chris Hope),1.340,2.590
+4,12:31,1,10,PIT 45,10,13,Tom Brady pass complete to Troy Brown for 5 yards (tackle by Ricardo Colclough),2.590,2.720
+4,11:57,2,5,PIT 40,10,13,Corey Dillon up the middle for 3 yards (tackle by James Farrior and Clark Haggans),2.720,2.410
+4,11:14,3,2,PIT 37,10,13,Tom Brady pass complete to David Givens for 30 yards (tackle by Chris Hope),2.410,5.600
+4,10:46,1,7,PIT 7,16,13,"Corey Dillon right end for 7 yards, touchdown",5.600,7.000
+4,,,,PIT 2,17,13,Adam Vinatieri kicks extra point good,0.000,0.000
+4,,,,NWE 30,17,13,"Adam Vinatieri kicks off 71 yards, returned by Ricardo Colclough for 21 yards (tackle by Guss Scott). Penalty on Heath Miller: Illegal Block Above the , 10 yards",0.000,-0.380
+4,10:29,1,10,PIT 10,17,13,Ben Roethlisberger sacked by Richard Seymour for -8 yards,-0.380,-1.360
+4,10:07,2,18,PIT 2,17,13,Willie Parker up the middle for 2 yards (tackle by Mike Vrabel),-1.360,-2.120
+4,9:24,3,16,PIT 4,17,13,Ben Roethlisberger pass complete to Verron Haynes for 18 yards (tackle by Guss Scott),-2.120,0.410
+4,8:47,1,10,PIT 22,17,13,Ben Roethlisberger sacked by Willie McGinest for -9 yards,0.410,-1.430
+4,8:13,2,19,PIT 13,17,13,Ben Roethlisberger pass incomplete intended for Hines Ward,-1.430,-2.420
+4,8:09,3,19,PIT 13,17,13,"Ben Roethlisberger sacked by Richard Seymour for 0 yards. Penalty on Willie McGinest: Defensive Offside, 5 yards (no play)",-2.420,-1.490
+4,7:45,3,14,PIT 18,17,13,Ben Roethlisberger pass incomplete intended for Cedrick Wilson,-1.490,-2.240
+4,7:37,4,14,PIT 18,17,13,"Chris Gardocki punts 56 yards, returned by Tim Dwight for 8 yards (tackle by Mike Logan). Penalty on Tully Banta-Cain: Illegal Block Above the , 10 yards",-2.240,-0.540
+4,7:27,1,10,NWE 24,17,13,Tom Brady pass complete to David Givens for 12 yards (tackle by Chris Hope and Larry Foote),0.540,1.330
+4,6:44,1,10,NWE 36,17,13,Tom Brady pass complete to Corey Dillon for 19 yards (tackle by Deshea Townsend),1.330,2.590
+4,6:01,1,10,PIT 45,17,13,Tom Brady pass complete to David Givens for 20 yards (tackle by Chris Hope and James Farrior),2.590,3.910
+4,5:19,1,10,PIT 25,17,13,Patrick Pass up the middle for 5 yards (tackle by James Farrior),3.910,4.040
+4,4:44,2,5,PIT 20,17,13,Corey Dillon up the middle for no gain (tackle by Clark Haggans and James Farrior),4.040,3.340
+4,4:07,,,,17,13,Timeout #2 by New England Patriots,0.000,3.340
+4,4:07,3,5,PIT 20,17,13,Tom Brady pass complete to Kevin Faulk for 3 yards (tackle by Ike Taylor),3.340,2.440
+4,3:23,4,2,PIT 17,20,13,Adam Vinatieri 35 yard field goal good,2.440,3.000
+4,,,,NWE 30,20,13,"Adam Vinatieri kicks off 65 yards, returned by Ricardo Colclough for 44 yards (tackle by Larry Izzo)",0.000,2.190
+4,3:10,1,10,PIT 49,20,13,Ben Roethlisberger pass complete to Antwaan Randle El for 7 yards (tackle by Ellis Hobbs),2.190,2.590
+4,2:45,2,3,NWE 44,20,13,Ben Roethlisberger pass incomplete intended for Hines Ward (defended by Mike Vrabel),2.590,1.880
+4,2:41,3,3,NWE 44,20,13,Ben Roethlisberger pass complete to Cedrick Wilson for 6 yards (tackle by Ellis Hobbs),1.880,3.050
+4,2:12,1,10,NWE 38,20,13,Ben Roethlisberger pass incomplete intended for Hines Ward,3.050,2.510
+4,2:06,2,10,NWE 38,20,13,Ben Roethlisberger pass complete to Hines Ward for 12 yards (tackle by Asante Samuel),2.510,3.840
+4,1:58,1,10,NWE 26,20,13,Ben Roethlisberger pass complete to Quincy Morgan for 9 yards (tackle by Chad Scott),3.840,4.640
+4,1:53,2,1,NWE 17,20,13,"Ben Roethlisberger left end for 11 yards (tackle by Richard Seymour). Penalty on Kendall Simmons: Offensive Holding, 10 yards, Penalty on Marvel Smith: Offensive Holding (Declined) (no play)",4.640,3.160
+4,1:46,2,11,NWE 27,20,13,Ben Roethlisberger pass incomplete intended for Antwaan Randle El,3.160,2.480
+4,1:40,3,11,NWE 27,20,13,Ben Roethlisberger sacked by Willie McGinest for 0 yards,2.480,1.670
+4,1:31,,,,20,13,Timeout #1 by Pittsburgh Steelers,0.000,0.000
+4,1:31,,,,20,13,Timeout #3 by New England Patriots,0.000,1.670
+4,1:31,4,11,NWE 27,20,13,"Ben Roethlisberger pass incomplete intended for Quincy Morgan (defended by Chad Scott). Penalty on Chad Scott: Defensive Pass Interfere, 23 yards (no play)",1.670,6.280
+4,1:25,1,4,NWE 4,20,19,"Ben Roethlisberger pass complete to Hines Ward for 4 yards, touchdown",6.280,7.000
+4,,,,NWE 2,20,20,Jeff Reed kicks extra point good,0.000,0.000
+4,,,,PIT 30,20,20,"Jeff Reed kicks off 66 yards, returned by Ellis Hobbs for 34 yards (tackle by Chidi Iwuoma)",0.000,1.470
+4,1:14,1,10,NWE 38,20,20,Tom Brady pass complete to Kevin Faulk for 17 yards (tackle by James Farrior),1.470,2.590
+4,1:06,1,10,PIT 45,20,20,Tom Brady pass complete to Patrick Pass for 14 yards. Penalty on Deshea Townsend: Illegal Contact (Declined),2.590,3.510
+4,0:57,1,10,PIT 31,20,20,Corey Dillon up the middle for no gain (tackle by Clark Haggans and Casey Hampton),3.510,2.970
+4,0:50,,,,20,20,Timeout #2 by Pittsburgh Steelers,0.000,2.970
+4,0:50,2,10,PIT 31,20,20,Tom Brady pass complete to David Givens for 6 yards (tackle by Ike Taylor),2.970,3.070
+4,0:05,3,4,PIT 25,23,20,Adam Vinatieri 43 yard field goal good,3.070,3.000
+4,,,,NWE 30,23,20,"Adam Vinatieri kicks off 20 yards, returned by James Harrison for -2 yards (tackle by Larry Izzo)",0.000,0.940
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,NOR 25,5,2:22,24,Punt
+2,1,10:04,NOR 30,8,4:00,26,Punt
+3,1,5:00,JAX 37,7,2:31,8,Field Goal
+4,1,0:30,NOR 17,4,2:09,33,Punt
+5,2,11:18,NOR 18,3,1:33,6,Punt
+6,2,2:41,NOR 23,6,1:41,28,Punt
+7,3,13:29,NOR 40,11,4:49,57,Field Goal
+8,3,3:11,NOR 25,11,6:22,75,Touchdown
+9,4,9:10,NOR 40,3,1:33,-2,Punt
+10,4,6:09,NOR 40,9,6:09,51,End of Game

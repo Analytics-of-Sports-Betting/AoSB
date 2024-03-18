@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,8:01,LVR 30,3,1:40,3,Punt
+2,1,5:24,LVR 23,3,1:18,-8,Punt
+3,1,1:59,LVR 41,3,2:09,0,Punt
+4,2,13:26,LAC 44,4,1:52,7,Downs
+5,2,9:40,LVR 15,6,1:49,18,Punt
+6,2,4:16,LVR 8,3,1:32,9,Punt
+7,2,0:29,LVR 30,2,0:29,-3,End of Half
+8,3,15:00,LVR 22,11,5:59,78,Touchdown
+9,3,4:39,LVR 19,6,2:55,81,Touchdown
+10,4,13:26,LVR 14,5,2:48,52,Missed FG
+11,4,5:20,LVR 25,7,2:06,28,Interception
+12,4,1:51,LVR 10,4,0:40,3,Downs

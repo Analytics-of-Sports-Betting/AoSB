@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,9:09,IND 25,3,0:56,-2,Punt
+2,1,8:03,IND 25,3,1:21,-10,Punt
+3,1,6:36,OAK 22,3,1:14,22,Touchdown
+4,2,14:13,IND 25,12,6:40,67,Field Goal
+5,2,6:28,IND 35,7,2:50,49,Fumble
+6,2,2:03,IND 47,8,1:31,14,Missed FG
+7,2,0:10,IND 11,1,0:10,-1,End of Half
+8,3,15:00,IND 23,5,2:34,21,Punt
+9,3,3:14,IND 25,6,2:51,16,Punt
+10,4,10:21,IND 10,14,4:54,90,Touchdown
+11,4,2:28,IND 15,3,0:19,10,Interception
+12,4,2:09,IND 25,6,0:59,75,Touchdown

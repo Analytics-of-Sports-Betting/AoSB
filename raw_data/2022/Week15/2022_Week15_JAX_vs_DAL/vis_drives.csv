@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,DAL 25,8,4:23,29,Punt
+2,1,7:25,JAX 41,6,2:54,41,Touchdown
+3,1,2:51,DAL 14,10,4:50,86,Touchdown
+4,2,7:45,DAL 34,11,5:50,66,Touchdown
+5,2,1:31,DAL 23,4,0:50,13,Punt
+6,3,10:35,DAL 25,8,2:59,69,Field Goal
+7,3,6:27,JAX 42,4,1:06,7,Field Goal
+8,3,3:57,DAL 16,2,1:04,-8,Interception
+9,3,1:23,DAL 19,3,2:06,4,Punt
+10,4,10:03,DAL 25,13,7:01,75,Touchdown
+11,4,1:28,DAL 38,3,0:27,0,Punt
+12,5,8:48,DAL 20,4,1:56,27,Interception

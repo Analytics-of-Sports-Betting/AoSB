@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,ATL 25,14,6:14,62,Field Goal
+2,1,6:58,ATL 8,10,5:16,92,Touchdown
+3,2,15:00,ATL 23,8,3:59,77,Touchdown
+4,2,10:46,NYJ 34,2,0:49,21,Fumble
+5,2,2:14,ATL 24,10,2:14,42,Field Goal
+6,3,10:56,ATL 25,5,2:10,15,Punt
+7,3,6:35,ATL 9,10,4:21,68,Fumble
+8,3,0:28,ATL 31,8,5:58,27,Punt
+9,4,6:55,ATL 25,9,4:36,75,Touchdown
+10,4,0:17,NYJ 44,1,0:17,-1,End of Game

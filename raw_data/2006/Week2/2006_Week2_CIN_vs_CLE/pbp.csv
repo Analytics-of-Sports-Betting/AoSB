@@ -1,0 +1,183 @@
+Quarter,Time,Down,ToGo,Location,CLE,CIN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Bengals won the coin toss, Bengals to receive the opening kickoff.",,
+1,15:00,,,CLE 30,0,0,"Phil Dawson kicks off 64 yards, returned by Tab Perry for 19 yards (tackle by Josh Cribbs)",0.000,0.610
+1,14:55,1,10,CIN 25,0,0,Carson Palmer pass complete deep left to Reggie Kelly for 18 yards (tackle by Sean Jones),0.610,1.800
+1,14:14,1,10,CIN 43,0,0,Carson Palmer pass complete short right to Reggie Kelly for 17 yards (tackle by Gary Baxter),1.800,2.920
+1,13:46,1,10,CLE 40,0,0,Rudi Johnson right guard for 7 yards (tackle by Alvin McKinley),2.920,3.320
+1,13:07,2,3,CLE 33,0,0,Rudi Johnson left guard for 11 yards (tackle by Sean Jones),3.320,4.110
+1,12:33,1,10,CLE 22,0,6,"Carson Palmer pass complete short middle to Kelley Washington for 22 yards, touchdown",4.110,7.000
+1,,,,CLE 2,0,7,Shayne Graham kicks extra point good,0.000,0.000
+1,,,,CIN 30,0,7,"Shayne Graham kicks off 50 yards, returned by Steve Heiden for 11 yards (tackle by Tab Perry)",0.000,1.000
+1,12:21,1,10,CLE 31,0,7,Reuben Droughns right tackle for -2 yards (tackle by John Thornton),1.000,0.190
+1,11:47,2,12,CLE 29,0,7,Reuben Droughns left tackle for 10 yards (tackle by Landon Johnson and David Pollack),0.190,0.830
+1,11:20,3,2,CLE 39,0,7,Reuben Droughns right tackle for 1 yard (tackle by Bryan Robinson),0.830,-0.720
+1,10:37,4,1,CLE 40,0,7,"Dave Zastudil punts 53 yards, returned by Keiwan Ratliff for 8 yards (tackle by Mason Unck)",-0.720,0.220
+1,10:23,1,10,CIN 15,0,7,Carson Palmer pass incomplete short right intended for Reggie Kelly is intercepted by Andra Davis at CIN-17,-0.220,-4.440
+1,10:14,1,10,CIN 17,0,7,Reuben Droughns right end for 2 yards (tackle by Brian Simmons and Justin Smith),4.440,4.150
+1,9:40,2,8,CIN 15,0,7,Reuben Droughns right guard for 2 yards (tackle by Bryan Robinson),4.150,3.680
+1,9:02,3,6,CIN 13,0,7,Charlie Frye pass incomplete short right intended for Dennis Northcutt,3.680,2.590
+1,8:54,4,6,CIN 13,3,7,Phil Dawson 30 yard field goal good,2.590,3.000
+1,,,,CLE 30,3,7,"Phil Dawson kicks off 73 yards, returned by Kenny Watson for 19 yards (tackle by Daven Holly). Penalty on Caleb Miller: Offensive Holding, 8 yards",0.000,-0.380
+1,8:45,1,10,CIN 8,3,7,"Penalty on Eric Steinbach: False Start, 4 yards (no play)",-0.380,-0.530
+1,8:45,1,14,CIN 4,3,7,Rudi Johnson left tackle for 4 yards (tackle by Ted Washington),-0.530,-0.780
+1,8:22,2,10,CIN 8,3,7,Rudi Johnson left end for 9 yards (tackle by Chaun Thompson and Sean Jones),-0.780,-0.370
+1,7:59,3,1,CIN 17,3,7,Carson Palmer middle for 2 yards (tackle by Orpheus Roye),-0.370,0.150
+1,7:18,1,10,CIN 19,3,7,Rudi Johnson right end for 6 yards (tackle by Chaun Thompson),0.150,0.480
+1,6:46,2,4,CIN 25,3,7,Carson Palmer pass incomplete short left intended for Chad Johnson,0.480,-0.290
+1,6:41,3,4,CIN 25,3,7,Carson Palmer pass complete short left to Kelley Washington for 10 yards (tackle by Gary Baxter),-0.290,1.270
+1,5:55,1,10,CIN 35,3,7,Rudi Johnson left end for 6 yards (tackle by Brian Russell),1.270,1.530
+1,5:25,2,4,CIN 41,3,7,Carson Palmer pass incomplete short left intended for Kelley Washington,1.530,0.830
+1,5:19,3,4,CIN 41,3,7,Carson Palmer pass complete deep left to Tab Perry for 26 yards (tackle by Brian Russell),0.830,3.380
+1,5:05,1,10,CLE 33,3,7,Rudi Johnson left end for 2 yards (tackle by Sean Jones and Orpheus Roye),3.380,3.110
+1,4:36,2,8,CLE 31,3,7,Carson Palmer pass complete short middle to Chad Johnson for 18 yards (tackle by Sean Jones),3.110,4.710
+1,3:56,1,10,CLE 13,3,7,Carson Palmer pass complete short right to Rudi Johnson for 5 yards,4.710,4.960
+1,3:25,2,5,CLE 8,3,7,Carson Palmer pass incomplete short left intended for Tab Perry,4.960,4.100
+1,3:18,3,5,CLE 8,3,13,"Carson Palmer pass complete short left to Chad Johnson for 8 yards, touchdown",4.100,7.000
+1,,,,CLE 2,3,14,Shayne Graham kicks extra point good,0.000,0.000
+1,,,,CIN 30,3,14,"Shayne Graham kicks off 69 yards, returned by Josh Cribbs for 26 yards (tackle by Rashad Jeanty)",0.000,0.740
+1,3:04,1,10,CLE 27,3,14,Charlie Frye pass complete short left to Dennis Northcutt for 7 yards (tackle by Justin Smith),0.740,1.140
+1,2:26,2,3,CLE 34,3,14,Charlie Frye pass complete short right to Reuben Droughns for 24 yards (tackle by John Thornton),1.140,2.790
+1,1:43,1,10,CIN 42,3,14,Reuben Droughns left tackle for 2 yards (tackle by Sam Adams),2.790,2.510
+1,1:02,2,8,CIN 40,3,14,Charlie Frye pass incomplete short right intended for Steve Heiden,2.510,1.820
+1,0:57,3,8,CIN 40,3,14,Reuben Droughns left guard for 2 yards (tackle by Brian Simmons and Bryan Robinson),1.820,0.720
+1,0:12,4,6,CIN 38,3,14,Phil Dawson punts 31 yards,0.720,0.380
+1,0:03,1,10,CIN 7,3,14,Rudi Johnson right guard for 4 yards (tackle by Ted Washington),-0.380,-0.490
+Quarter,Time,Down,ToGo,Location,CLE,CIN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,6,CIN 11,3,14,Carson Palmer pass complete short right to Rudi Johnson for -2 yards (tackle by Brodney Pool),-0.490,-1.190
+2,14:18,3,8,CIN 9,3,14,Carson Palmer pass complete deep middle to Chris Henry for 17 yards (tackle by Sean Jones),-1.190,0.670
+2,13:38,1,10,CIN 26,3,14,Carson Palmer pass incomplete deep right intended for Chris Henry (defended by Gary Baxter),0.670,0.130
+2,13:31,2,10,CIN 26,3,14,"Penalty on Carson Palmer: False Start, 5 yards (no play)",0.130,-0.550
+2,13:31,2,15,CIN 21,3,14,Rudi Johnson middle for 2 yards (tackle by Brian Russell and Sean Jones),-0.550,-0.960
+2,13:06,3,13,CIN 23,3,14,Carson Palmer pass complete to Kelley Washington for 9 yards (tackle by Ralph Brown),-0.960,-1.240
+2,12:29,4,4,CIN 32,3,14,"Kyle Larson punts 53 yards, returned by Dennis Northcutt for 9 yards (tackle by Tony Stewart)",-1.240,-0.540
+2,12:18,1,10,CLE 24,3,14,Charlie Frye pass incomplete short left intended for Braylon Edwards,0.540,0.000
+2,12:14,2,10,CLE 24,3,14,Charlie Frye pass complete short right to Dennis Northcutt for 7 yards (tackle by Rashad Jeanty),0.000,0.230
+2,11:42,3,3,CLE 31,3,14,Charlie Frye pass incomplete short middle intended for Braylon Edwards (defended by Deltha O'Neal),0.230,-1.310
+2,11:36,4,3,CLE 31,3,14,"Dave Zastudil punts 46 yards, returned by Keiwan Ratliff for 7 yards (tackle by Josh Cribbs)",-1.310,-0.940
+2,11:24,1,10,CIN 30,3,14,Carson Palmer pass complete short right to Chad Johnson for 13 yards (tackle by Andra Davis),0.940,1.800
+2,10:53,1,10,CIN 43,3,14,"Penalty on Chris Henry: False Start, 5 yards (no play)",1.800,1.470
+2,10:35,1,15,CIN 38,3,14,Rudi Johnson left end for -2 yards (tackle by Kamerion Wimbley),1.470,0.310
+2,10:01,2,17,CIN 36,3,14,Carson Palmer pass complete deep right to Chris Henry for 43 yards (tackle by Gary Baxter),0.310,4.170
+2,9:14,1,10,CLE 21,3,14,Carson Palmer sacked by Chaun Thompson for -10 yards,4.170,2.280
+2,8:46,2,20,CLE 31,3,14,Carson Palmer pass incomplete deep left intended for Chris Henry,2.280,1.620
+2,8:41,3,20,CLE 31,3,14,Carson Palmer pass complete short middle to Tab Perry for 4 yards (tackle by Andra Davis and Brodney Pool),1.620,1.670
+2,7:57,4,16,CLE 27,3,14,Shayne Graham 44 yard field goal no good,1.670,-1.270
+2,7:51,1,10,CLE 35,3,14,Reuben Droughns left tackle for no gain (tackle by Sam Adams),1.270,0.720
+2,7:12,2,10,CLE 35,3,14,Charlie Frye pass complete short left to Kellen Winslow for 13 yards (tackle by Madieu Williams),0.720,2.130
+2,6:34,1,10,CLE 48,3,14,Reuben Droughns left end for -1 yards (tackle by Caleb Miller and Tory James),2.130,1.450
+2,5:52,2,11,CLE 47,3,14,Charlie Frye pass complete short middle to Reuben Droughns for 4 yards (tackle by John Thornton),1.450,1.290
+2,5:06,3,7,CIN 49,3,14,Charlie Frye pass incomplete short middle intended for Braylon Edwards (defended by Madieu Williams),1.290,0.000
+2,5:01,4,7,CIN 49,3,14,Dave Zastudil punts 48 yards,0.000,0.380
+2,4:51,1,10,CIN 1,3,14,Carson Palmer pass incomplete short middle intended for Reggie Kelly,-0.380,-0.780
+2,4:46,2,10,CIN 1,3,14,Rudi Johnson right tackle for 9 yards (tackle by D'Qwell Jackson and Gary Baxter),-0.780,-0.370
+2,4:03,3,1,CIN 10,3,14,Rudi Johnson left guard for no gain (tackle by Sean Jones and Andra Davis),-0.370,-2.490
+2,3:23,4,1,CIN 10,3,14,"Penalty on Ethan Kilmer: False Start, 5 yards (no play)",-2.490,-2.490
+2,3:10,4,6,CIN 5,3,14,"Kyle Larson punts 50 yards, returned by Dennis Northcutt for -1 yards (tackle by Ethan Kilmer)",-2.490,-1.860
+2,2:59,1,10,CLE 44,3,14,Charlie Frye pass incomplete short middle intended for Kellen Winslow (defended by Landon Johnson),1.860,1.320
+2,2:54,2,10,CLE 44,3,14,Charlie Frye pass complete short left to Kellen Winslow for 9 yards (tackle by Madieu Williams),1.320,1.820
+2,2:20,3,1,CIN 47,3,14,Reuben Droughns right end for 4 yards (tackle by Landon Johnson),1.820,2.720
+2,2:00,1,10,CIN 43,3,14,Charlie Frye pass incomplete short middle intended for Kellen Winslow is intercepted by Brian Simmons at CIN-40 and returned for 5 yards,2.720,-1.930
+2,1:54,1,10,CIN 45,3,14,Tab Perry left end for 2 yards (tackle by Sean Jones),1.930,1.650
+2,1:22,2,8,CIN 47,3,14,Carson Palmer pass complete short right to Tony Stewart for 9 yards (tackle by Ralph Brown),1.650,2.650
+2,1:13,1,10,CLE 44,3,14,Carson Palmer sacked by Kamerion Wimbley for -5 yards,2.650,1.440
+2,0:44,2,15,CLE 49,3,14,Carson Palmer pass complete short right to Tab Perry for 7 yards (tackle by Gary Baxter),1.440,1.690
+2,0:35,,,,3,14,Timeout #1 by Cincinnati Bengals,0.000,1.690
+2,0:35,3,8,CLE 42,3,14,Carson Palmer pass complete short middle to Kelley Washington for 18 yards (tackle by Brian Russell),1.690,3.970
+2,0:27,,,,3,14,Timeout #2 by Cincinnati Bengals,0.000,3.970
+2,0:27,1,10,CLE 24,3,14,Carson Palmer pass incomplete deep left intended for Chad Johnson (defended by Leigh Bodden),3.970,3.430
+2,0:21,2,10,CLE 24,3,14,"Penalty on Carson Palmer: Delay of Game, 5 yards (no play)",3.430,2.760
+2,0:21,2,15,CLE 29,3,14,Kenny Watson middle for 10 yards (tackle by Orpheus Roye),2.760,3.410
+2,0:03,,,,3,14,Timeout #3 by Cincinnati Bengals,0.000,0.000
+2,0:03,,,,3,14,Timeout #1 by Cleveland Browns,0.000,3.410
+2,0:03,3,5,CLE 19,3,17,Shayne Graham 37 yard field goal good,3.410,3.000
+Quarter,Time,Down,ToGo,Location,CLE,CIN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,CIN 30,3,17,"Shayne Graham kicks off 71 yards, returned by Josh Cribbs for 21 yards (tackle by Tony Stewart)",0.000,0.280
+3,14:53,1,10,CLE 20,3,17,"Dennis Northcutt right end for 16 yards (tackle by Madieu Williams). Penalty on Madieu Williams: Personal Foul, 15 yards",0.280,2.320
+3,14:24,1,10,CIN 49,3,17,Jason Wright right end for -1 yards (tackle by Deltha O'Neal),2.320,1.650
+3,13:48,2,11,,3,17,Charlie Frye pass complete short middle to Steve Heiden for 10 yards (tackle by Brian Simmons and Kevin Kaesviharn),1.650,2.280
+3,13:08,,,,3,17,Timeout #1 by Cleveland Browns,0.000,2.280
+3,13:08,3,1,CIN 40,3,17,Charlie Frye pass incomplete short right intended for Steve Heiden (defended by Rashad Jeanty),2.280,0.590
+3,13:05,4,1,CIN 40,3,17,"Dave Zastudil punts 40 yards, touchback",0.590,-0.280
+3,12:56,1,10,CIN 20,3,17,Carson Palmer pass complete deep right to Chad Johnson for 16 yards,0.280,1.330
+3,12:30,1,10,CIN 36,3,17,Carson Palmer pass complete short right to Chad Johnson for 11 yards,1.330,2.060
+3,12:07,1,10,CIN 47,3,17,Carson Palmer pass incomplete deep left intended for Chris Henry,2.060,1.520
+3,12:01,2,10,CIN 47,3,17,Rudi Johnson left end for 2 yards (tackle by Kamerion Wimbley),1.520,1.090
+3,11:18,3,8,CIN 49,3,17,Carson Palmer pass incomplete deep middle intended for Chad Johnson,1.090,-0.130
+3,11:13,4,8,CIN 49,3,17,"Kyle Larson punts 32 yards, fair catch by Dennis Northcutt",-0.130,-0.150
+3,11:04,1,10,CLE 19,3,17,Reuben Droughns left tackle for 2 yards (tackle by Sam Adams),0.150,-0.060
+3,10:27,2,8,CLE 21,3,17,Charlie Frye pass complete short right to Steve Heiden for 3 yards (tackle by Deltha O'Neal),-0.060,-0.420
+3,9:44,3,5,CLE 24,3,17,Charlie Frye pass complete deep left to Braylon Edwards for 23 yards (tackle by Kevin Kaesviharn),-0.420,2.060
+3,8:58,1,10,CLE 47,3,17,Charlie Frye pass complete short right to Kellen Winslow for 9 yards (tackle by Brian Simmons),2.060,2.730
+3,8:24,2,1,CIN 44,3,17,Reuben Droughns left guard for 7 yards (tackle by Tory James),2.730,3.120
+3,7:43,1,10,CIN 37,3,17,"Charlie Frye for -7 yards (tackle by Brian Simmons). Charlie Frye fumbles (forced by Brian Simmons), recovered by John Thornton at CIN-44 (tackle by Reuben Droughns)",3.120,-1.860
+3,7:38,1,10,CIN 44,3,17,Carson Palmer sacked by Matt Stewart for -9 yards,1.860,0.100
+3,7:08,2,19,CIN 35,3,17,Rudi Johnson left tackle for 8 yards (tackle by Brodney Pool),0.100,0.500
+3,6:28,3,11,CIN 43,3,17,Carson Palmer pass incomplete short left intended for Chad Johnson,0.500,-0.520
+3,6:22,4,11,CIN 43,3,17,"Kyle Larson punts 57 yards, touchback",-0.520,-0.280
+3,6:13,1,10,CLE 20,3,17,Charlie Frye for 14 yards (tackle by Bryan Robinson),0.280,1.200
+3,5:26,1,10,CLE 34,3,17,Charlie Frye pass complete short middle to Kellen Winslow for 11 yards (tackle by Madieu Williams),1.200,1.930
+3,4:44,1,10,CLE 45,3,17,Reuben Droughns middle for 2 yards (tackle by Domata Peko and Robert Geathers),1.930,1.650
+3,4:04,2,8,CLE 47,3,17,Charlie Frye pass incomplete short middle intended for Braylon Edwards,1.650,0.960
+3,3:58,3,8,CLE 47,3,17,Charlie Frye pass complete short left to Reuben Droughns for 2 yards (tackle by Madieu Williams and Landon Johnson),0.960,-0.130
+3,3:26,4,6,CLE 49,3,17,"Dave Zastudil punts 43 yards, fair catch by Keiwan Ratliff. Penalty on Josh Cribbs: Fair Catch Interference, 15 yards",-0.130,-0.480
+3,3:12,1,10,CIN 23,3,17,Rudi Johnson left end for 5 yards (tackle by D'Qwell Jackson and Andra Davis),0.480,0.610
+3,2:30,2,5,CIN 28,3,17,Carson Palmer pass complete short left to Chris Henry for 11 yards (tackle by Gary Baxter),0.610,1.530
+3,2:08,1,10,CIN 39,3,17,Rudi Johnson right end for -1 yards (tackle by Chaun Thompson),1.530,0.850
+3,1:36,2,11,CIN 38,3,17,Carson Palmer pass complete short right to Chad Johnson for 12 yards (tackle by Andra Davis),0.850,2.260
+3,0:58,1,10,,3,17,Carson Palmer pass incomplete deep right intended for Chad Johnson,2.260,1.710
+3,0:52,2,10,,3,17,Rudi Johnson middle for no gain (tackle by Orpheus Roye),1.710,1.030
+3,0:13,3,10,,3,17,Carson Palmer pass complete deep middle to Chris Henry for 38 yards (tackle by Gary Baxter),1.030,4.780
+Quarter,Time,Down,ToGo,Location,CLE,CIN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,CLE 12,3,17,Carson Palmer pass incomplete short right intended for Chris Henry,4.780,4.100
+4,14:54,2,10,CLE 12,3,17,Carson Palmer sacked by Brodney Pool for -7 yards,4.100,2.610
+4,14:23,3,17,CLE 19,3,17,Carson Palmer pass incomplete short right intended for Chris Henry (defended by Brodney Pool),2.610,2.180
+4,14:16,4,17,CLE 19,3,20,Shayne Graham 37 yard field goal good,2.180,3.000
+4,,,,CIN 30,3,20,"Shayne Graham kicks off 70 yards, returned by Josh Cribbs for 24 yards (tackle by Tab Perry)",0.000,0.540
+4,14:05,1,10,CLE 24,3,20,Charlie Frye pass complete deep left to Braylon Edwards for 75 yards (tackle by Kevin Kaesviharn),0.540,6.970
+4,13:15,,,,3,20,Timeout #2 by Cleveland Browns,0.000,6.970
+4,13:15,1,1,CIN 1,3,20,Charlie Frye pass incomplete short right intended for Kellen Winslow. Penalty on Landon Johnson: Roughing the Passer (no play),6.970,6.970
+4,13:10,1,1,CIN 1,9,20,"Reuben Droughns right guard for 1 yard, touchdown",6.970,7.000
+4,,,,CIN 2,10,20,Phil Dawson kicks extra point good,0.000,0.000
+4,,,,CLE 30,10,20,"Phil Dawson kicks off 70 yards, touchback",0.000,0.280
+4,13:06,1,10,CIN 20,10,20,Rudi Johnson left end for 20 yards (tackle by Brian Russell),0.280,1.600
+4,12:50,1,10,CIN 40,10,20,Carson Palmer pass complete short right to Chris Henry for 4 yards (tackle by Brian Russell),1.600,1.590
+4,12:09,2,6,CIN 44,10,20,Carson Palmer pass incomplete short middle intended for Chris Henry (defended by Leigh Bodden),1.590,0.890
+4,12:04,3,6,CIN 44,10,20,Carson Palmer pass complete short middle to Kelley Washington for 18 yards (tackle by Sean Jones and David McMillan),0.890,3.050
+4,11:28,1,10,CLE 38,10,20,Rudi Johnson right guard for 15 yards (tackle by Sean Jones and Gary Baxter),3.050,4.040
+4,10:48,1,10,CLE 23,10,20,Rudi Johnson left tackle for 10 yards (tackle by Sean Jones and Gary Baxter),4.040,4.710
+4,10:01,1,10,CLE 13,10,20,"Carson Palmer pass incomplete short right intended for Chris Henry. Penalty on Gary Baxter: Defensive Pass Interfere, 12 yards (no play)",4.710,6.970
+4,9:54,1,1,CLE 1,10,26,"Rudi Johnson right guard for 1 yard, touchdown",6.970,7.000
+4,,,,CLE 2,10,27,Shayne Graham kicks extra point good,0.000,0.000
+4,,,,CIN 30,10,27,"Shayne Graham kicks off 64 yards, returned by Josh Cribbs for 16 yards (tackle by Kevin Kaesviharn)",0.000,0.410
+4,9:45,1,10,CLE 22,10,27,Charlie Frye pass incomplete deep left intended for Kellen Winslow,0.410,-0.130
+4,9:39,2,10,CLE 22,10,27,Charlie Frye pass incomplete short middle intended for Reuben Droughns is intercepted by Landon Johnson at CLE-28 and returned for 2 yards,-0.130,-3.840
+4,9:32,1,10,CLE 26,10,27,Tab Perry left end for 2 yards (tackle by Alvin McKinley and Sean Jones),3.840,3.570
+4,8:44,2,8,CLE 24,10,27,Rudi Johnson right end for 12 yards (tackle by Sean Jones and Brian Russell),3.570,4.780
+4,7:59,1,10,CLE 12,10,27,Rudi Johnson right tackle for 3 yards (tackle by D'Qwell Jackson),4.780,4.640
+4,7:14,2,7,CLE 9,10,33,"Rudi Johnson right tackle for 9 yards, touchdown",4.640,7.000
+4,,,,CLE 2,10,34,Shayne Graham kicks extra point good,0.000,0.000
+4,,,,CIN 30,10,34,"Shayne Graham kicks off 67 yards, returned by Josh Cribbs for 22 yards (tackle by Marcus Wilkins)",0.000,0.610
+4,7:02,1,10,CLE 25,10,34,Charlie Frye pass complete short right to Jerome Harrison for 9 yards (tackle by Landon Johnson),0.610,1.280
+4,6:33,2,1,CLE 34,10,34,Charlie Frye pass complete short left to Dennis Northcutt for 4 yards (tackle by Brian Simmons),1.280,1.470
+4,5:56,1,10,CLE 38,10,34,Charlie Frye pass complete short middle to Jerome Harrison for 8 yards (tackle by Domata Peko),1.470,2.000
+4,5:15,2,2,CLE 46,10,34,Charlie Frye pass complete short middle to Braylon Edwards for 5 yards (tackle by Deltha O'Neal),2.000,2.320
+4,4:33,1,10,CIN 49,10,34,Charlie Frye pass complete short right to Terrelle Smith for 3 yards (tackle by Caleb Miller),2.320,2.190
+4,3:54,2,7,CIN 46,10,34,Charlie Frye for 1 yard (tackle by Johnathan Joseph),2.190,1.620
+4,3:47,3,6,CIN 45,10,34,Charlie Frye pass incomplete short middle intended for Dennis Northcutt (defended by Tory James),1.620,0.270
+4,3:41,4,6,CIN 45,10,34,Charlie Frye pass incomplete short middle intended for Braylon Edwards,0.270,-1.930
+4,3:36,1,10,CIN 45,10,34,Rudi Johnson middle for no gain (tackle by Ethan Kelley),1.930,1.380
+4,2:53,2,10,CIN 45,10,34,Rudi Johnson right tackle for 3 yards (tackle by Gary Baxter and D'Qwell Jackson),1.380,1.090
+4,2:07,,,,10,34,Timeout #1 by Cincinnati Bengals,0.000,1.090
+4,2:07,3,7,CIN 48,10,34,Carson Palmer pass incomplete short middle intended for Chad Johnson is intercepted by Leigh Bodden at CLE-43 and returned for 35 yards,1.090,-4.110
+4,1:54,1,10,CIN 22,10,34,Charlie Frye pass complete short middle to Josh Cribbs for 11 yards (tackle by Johnathan Joseph and Tory James),4.110,4.840
+4,1:15,1,10,CIN 11,10,34,"Charlie Frye pass complete short middle to Braylon Edwards for 7 yards (tackle by Caleb Miller). Penalty on Bryan Robinson: Personal Foul, 2 yards",4.840,6.740
+4,1:03,1,2,CIN 2,16,34,"Charlie Frye right end for 2 yards, touchdown",6.740,7.000
+4,,,,CIN 2,17,34,Phil Dawson kicks extra point good,0.000,0.000
+4,,,,CLE 30,17,34,"Phil Dawson kicks off 69 yards, returned by Tab Perry for 2 yards (tackle by Mason Unck)",0.000,-0.380
+4,0:54,1,10,CIN 3,17,34,Carson Palmer kneels for no gain,-0.380,-0.780
+4,0:25,2,10,CIN 3,17,34,Carson Palmer kneels for -1 yards,-0.780,-1.540
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

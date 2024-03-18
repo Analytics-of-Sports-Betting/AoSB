@@ -1,0 +1,195 @@
+Quarter,Time,Down,ToGo,Location,TAM,IND,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Buccaneers won the coin toss and deferred, Colts to receive the opening kickoff.",,
+1,15:00,,,TAM 35,0,0,"Connor Barth kicks off 65 yards, returned by Quan Bray for 17 yards (tackle by Bobby Rainey)",0.000,0.060
+1,14:55,1,10,IND 17,0,0,Matt Hasselbeck pass incomplete short right intended for Dwayne Allen (defended by William Gholston),-0.060,-0.580
+1,14:52,2,10,IND 17,0,0,Matt Hasselbeck pass complete short middle to Dwayne Allen for 11 yards (tackle by Kwon Alexander),-0.580,0.810
+1,14:14,1,10,IND 28,0,0,Frank Gore left guard for 3 yards (tackle by Kwon Alexander and William Gholston),0.810,0.670
+1,13:41,2,7,IND 31,0,0,"Penalty on Jacquies Smith: Neutral Zone Infraction, 5 yards (no play)",0.670,1.340
+1,13:22,2,2,IND 36,0,0,Matt Hasselbeck pass incomplete short right intended for Andre Johnson,1.340,0.630
+1,13:18,3,2,IND 36,0,0,Matt Hasselbeck pass complete short middle to T.Y. Hilton for 7 yards (tackle by Bradley McDougald),0.630,1.800
+1,12:37,1,10,IND 43,0,0,Frank Gore right end for 4 yards (tackle by Kwon Alexander),1.800,1.790
+1,11:57,2,6,IND 47,0,0,Frank Gore right end for -1 yards (tackle by Bradley McDougald),1.790,0.960
+1,11:14,3,7,IND 46,0,0,Matt Hasselbeck pass complete short left to Donte Moncrief for 9 yards,0.960,2.590
+1,10:38,1,10,TAM 45,0,0,Matt Hasselbeck sacked by Gerald McCoy for -4 yards,2.590,1.500
+1,10:07,2,14,TAM 49,0,0,"Penalty on Gerald McCoy: Neutral Zone Infraction, 5 yards (no play)",1.500,2.180
+1,9:52,2,9,TAM 44,0,0,Matt Hasselbeck pass complete short middle to Dwayne Allen for 8 yards (tackle by Danny Lansanah),2.180,2.540
+1,9:13,3,1,TAM 36,0,0,Frank Gore middle for 5 yards (tackle by Lavonte David),2.540,3.510
+1,8:32,1,10,TAM 31,0,0,Matt Hasselbeck pass incomplete short left intended for Ahmad Bradshaw,3.510,2.970
+1,8:27,2,10,TAM 31,0,0,Matt Hasselbeck pass incomplete short left intended for T.Y. Hilton,2.970,2.280
+1,8:23,3,10,TAM 31,0,0,Matt Hasselbeck pass incomplete short left intended for Donte Moncrief (defended by Lavonte David),2.280,1.320
+1,8:18,4,10,TAM 31,0,3,Adam Vinatieri 49 yard field goal good,1.320,3.000
+1,8:18,,,IND 35,0,3,"Pat McAfee kicks off 65 yards, touchback",0.000,-0.280
+1,8:13,1,10,TAM 20,0,3,Doug Martin middle for 6 yards (tackle by David Parry and Jerrell Freeman),0.280,0.540
+1,7:40,2,4,TAM 26,0,3,Doug Martin right tackle for 7 yards (tackle by Erik Walden),0.540,1.140
+1,7:06,1,10,TAM 33,0,3,Doug Martin right end for 1 yard (tackle by Robert Mathis),1.140,0.730
+1,6:24,2,9,TAM 34,0,3,Jameis Winston pass complete short middle to Mike Evans for 16 yards (tackle by Dwight Lowery),0.730,2.260
+1,5:51,1,10,,0,3,Doug Martin left end for -1 yards (tackle by Trent Cole),2.260,1.580
+1,5:11,2,11,TAM 49,0,3,Jameis Winston pass incomplete deep right intended for Vincent Jackson,1.580,0.890
+1,5:06,3,11,TAM 49,0,3,Jameis Winston pass complete short left to Vincent Jackson for 15 yards,0.890,3.180
+1,4:59,1,10,IND 36,0,3,"Jameis Winston pass incomplete deep right intended for Vincent Jackson. Penalty on IND: Defensive 12 On-field, 5 yards (no play)",3.180,3.910
+1,4:56,1,5,IND 31,0,3,Doug Martin middle for 7 yards (tackle by D'Qwell Jackson),3.910,3.970
+1,4:24,1,10,IND 24,0,3,Doug Martin middle for -1 yards (tackle by D'Qwell Jackson and Robert Mathis),3.970,3.300
+1,3:44,2,11,IND 25,0,3,Doug Martin middle for 5 yards (tackle by D'Qwell Jackson),3.300,3.270
+1,3:00,3,6,IND 20,0,3,Jameis Winston pass incomplete deep left intended for Mike Evans,3.270,2.150
+1,2:55,4,6,IND 20,3,3,Connor Barth 38 yard field goal good,2.150,3.000
+1,2:55,,,TAM 35,3,3,"Connor Barth kicks off 72 yards, returned by Quan Bray for 22 yards (tackle by Josh Keyes)",0.000,0.220
+1,2:46,1,10,IND 15,3,3,Frank Gore right end for 1 yard (tackle by William Gholston),-0.220,-0.580
+1,2:08,2,9,IND 16,3,3,Matt Hasselbeck pass complete deep middle to Andre Johnson for 22 yards (tackle by Bradley McDougald),-0.580,1.470
+1,1:29,1,10,IND 38,3,3,Frank Gore left end for -2 yards (tackle by Danny Lansanah),1.470,0.650
+1,0:49,2,12,IND 36,3,3,Frank Gore left guard for 3 yards (tackle by Lavonte David),0.650,0.370
+1,0:14,3,9,IND 39,3,3,"Matt Hasselbeck pass incomplete deep left intended for Coby Fleener. Penalty on Bradley McDougald: Defensive Pass Interference, 16 yards (no play)",0.370,2.590
+1,0:09,1,10,TAM 45,3,3,"Matt Hasselbeck pass complete deep left to T.Y. Hilton for 29 yards (tackle by Sterling Moore). T.Y. Hilton fumbles (forced by Sterling Moore), ball out of bounds at TAM-16",2.590,4.510
+Quarter,Time,Down,ToGo,Location,TAM,IND,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,TAM 16,3,3,Frank Gore left end for 3 yards (tackle by Lavonte David and Jude Adjei-Barimah),4.510,4.390
+2,14:22,2,7,TAM 13,3,3,Matt Hasselbeck pass complete short left to Donte Moncrief for 8 yards (tackle by Jude Adjei-Barimah and Lavonte David),4.390,6.060
+2,13:36,1,5,TAM 5,3,3,Ahmad Bradshaw left end for -4 yards (tackle by Jude Adjei-Barimah and Chris Conte),6.060,4.380
+2,12:59,2,9,TAM 9,3,3,Matt Hasselbeck pass incomplete,4.380,3.360
+2,12:53,3,9,TAM 9,3,3,Matt Hasselbeck pass incomplete short right intended for T.Y. Hilton,3.360,2.830
+2,12:48,4,9,TAM 9,3,6,Adam Vinatieri 27 yard field goal good,2.830,3.000
+2,12:48,,,IND 35,3,6,"Pat McAfee kicks off 65 yards, touchback",0.000,-0.280
+2,12:44,1,10,TAM 20,3,6,Jameis Winston pass incomplete deep left intended for Vincent Jackson,0.280,-0.270
+2,12:38,2,10,TAM 20,3,6,Doug Martin middle for 3 yards (tackle by Jerrell Freeman),-0.270,-0.560
+2,11:56,3,7,TAM 23,3,6,Jameis Winston pass complete short right to Vincent Jackson for 20 yards (tackle by D'Qwell Jackson and Clayton Geathers),-0.560,1.800
+2,11:17,1,10,TAM 43,3,6,Doug Martin left end for 6 yards (tackle by T.Y. McGill),1.800,2.060
+2,10:43,2,4,TAM 49,3,6,Doug Martin left end for no gain (tackle by D'Qwell Jackson),2.060,1.350
+2,10:04,3,4,TAM 49,3,6,Jameis Winston pass complete short right to Mike Evans for 17 yards (tackle by Darius Butler),1.350,3.310
+2,9:38,1,10,IND 34,3,6,Jameis Winston pass incomplete deep right intended for Vincent Jackson,3.310,3.310
+2,9:32,1,10,IND 34,3,6,Timeout #1 by Tampa Bay Buccaneers,3.310,2.770
+2,9:32,2,10,IND 34,3,6,Jameis Winston pass complete short left to Vincent Jackson for 20 yards (tackle by Dwight Lowery),2.770,4.650
+2,9:04,1,10,IND 14,3,6,Charles Sims right end for -2 yards (tackle by Clayton Geathers and Trent Cole),4.650,3.720
+2,8:19,2,12,IND 16,3,6,Jameis Winston pass complete short middle to Charles Sims for 7 yards (tackle by Jerrell Freeman),3.720,4.050
+2,7:38,3,5,IND 9,3,6,"Penalty on Mike Evans: False Start, 5 yards (no play)",4.050,3.110
+2,7:18,3,10,IND 14,3,6,Jameis Winston pass complete short right to Cameron Brate for 11 yards (tackle by Clayton Geathers),3.110,6.510
+2,6:38,1,3,IND 3,3,6,Doug Martin middle for 1 yard (tackle by Kendall Langford),6.510,5.720
+2,5:57,2,2,IND 2,3,6,"Doug Martin left end for 2 yards. Penalty on Kevin Pamphile: Offensive Holding, 10 yards (no play)",5.720,3.860
+2,5:52,2,12,IND 12,3,6,Jameis Winston pass incomplete short left intended for Doug Martin,3.860,3.100
+2,5:48,3,12,IND 12,3,6,Jameis Winston pass incomplete short right intended for Adam Humphries,3.100,2.630
+2,5:43,4,12,IND 12,6,6,Connor Barth 30 yard field goal good,2.630,3.000
+2,5:43,,,TAM 35,6,6,"Connor Barth kicks off 67 yards, returned by Quan Bray for 22 yards (tackle by Josh Keyes)",0.000,-0.280
+2,5:31,1,10,IND 20,6,6,Frank Gore middle for 1 yard (tackle by Tony McDaniel and Kwon Alexander),0.280,-0.130
+2,4:57,2,9,IND 21,6,6,Matt Hasselbeck pass incomplete short left intended for Frank Gore,-0.130,-0.130
+2,4:52,2,9,IND 21,6,6,Timeout #1 by Indianapolis Colts,-0.130,-0.820
+2,4:52,3,9,IND 21,6,6,"Penalty on Henry Melton: Neutral Zone Infraction, 5 yards (no play)",-0.820,-0.160
+2,4:52,3,4,IND 26,6,6,Matt Hasselbeck pass incomplete short right intended for Dwayne Allen (defended by Kwon Alexander),-0.160,-1.630
+2,4:48,4,4,IND 26,6,6,"Pat McAfee punts 57 yards, returned by Bobby Rainey for 7 yards (tackle by Dwayne Allen)",-1.630,-0.540
+2,4:34,1,10,TAM 24,6,6,"Jameis Winston pass incomplete deep left intended for Mike Evans. Penalty on Mike Evans: Offensive Pass Interference, 10 yards (no play)",0.540,-0.500
+2,4:29,1,20,TAM 14,6,6,Doug Martin right tackle for 56 yards (tackle by Darius Butler),-0.500,3.580
+2,3:43,1,10,IND 30,6,6,Charles Sims right tackle for 6 yards (tackle by D'Qwell Jackson),3.580,3.840
+2,3:08,2,4,IND 24,6,6,Jameis Winston sacked by D'Qwell Jackson for 0 yards,3.840,3.140
+2,2:25,3,4,IND 24,6,6,Jameis Winston pass complete short right to Mike Evans for 4 yards (tackle by Greg Toler),3.140,4.240
+,,,,,,,"IND challenged the pass completion ruling, and the play was upheld.",,
+2,2:00,1,10,IND 20,12,6,"Jameis Winston pass complete deep middle to Cameron Brate for 20 yards, touchdown",4.240,7.000
+2,2:00,,,IND 20,12,6,Connor Barth kicks extra point no good,0.000,-1.000
+2,2:00,,,TAM 35,12,6,"Connor Barth kicks off 69 yards, returned by Quan Bray for 23 yards (tackle by Bruce Carter)",0.000,-0.150
+2,1:49,1,10,IND 19,12,6,Matt Hasselbeck pass complete short middle to Coby Fleener for 17 yards (tackle by Lavonte David and Bradley McDougald),0.150,1.330
+2,1:23,1,10,IND 36,12,6,Matt Hasselbeck pass complete short left to Ahmad Bradshaw for 1 yard (tackle by Jude Adjei-Barimah),1.330,0.930
+2,1:17,2,9,IND 37,12,6,Matt Hasselbeck pass complete short left to Ahmad Bradshaw for 9 yards (tackle by Kwon Alexander),0.930,1.990
+2,0:51,1,10,IND 46,12,6,Matt Hasselbeck pass complete short left to Ahmad Bradshaw for 10 yards (tackle by Lavonte David),1.990,1.990
+2,0:42,1,10,IND 46,12,6,Timeout #3 by Indianapolis Colts,1.990,2.650
+2,0:42,1,10,TAM 44,12,6,Matt Hasselbeck pass incomplete deep left intended for T.Y. Hilton,2.650,2.110
+2,0:38,2,10,TAM 44,12,6,--,2.110,0.760
+2,0:31,2,20,IND 46,12,6,Matt Hasselbeck sacked by Akeem Spence for -1 yards,0.760,-0.030
+2,0:08,3,21,IND 45,12,6,Matt Hasselbeck pass complete short right to Frank Gore for 9 yards (tackle by Kwon Alexander),-0.030,0.200
+Quarter,Time,Down,ToGo,Location,TAM,IND,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,IND 35,12,6,"Pat McAfee kicks off 65 yards, touchback",0.000,-0.280
+3,15:00,1,10,TAM 20,12,6,"Doug Martin left tackle for 5 yards (tackle by Vontae Davis and D'Qwell Jackson). Penalty on Vincent Jackson: Offensive Holding, 10 yards (no play)",0.280,-0.760
+3,14:34,1,20,TAM 10,12,6,Jameis Winston pass incomplete deep right intended for Vincent Jackson,-0.760,-1.510
+3,14:28,2,20,TAM 10,12,6,Jameis Winston pass complete short left to Doug Martin for 1 yard (tackle by Jerrell Freeman),-1.510,-2.470
+3,13:41,3,19,TAM 11,12,6,Jameis Winston pass complete short right to Adam Humphries for 9 yards (tackle by Greg Toler),-2.470,-2.030
+3,13:14,4,10,TAM 20,12,6,"Jake Schum punts 44 yards, fair catch by Quan Bray",-2.030,-1.330
+3,13:05,1,10,IND 36,12,6,Matt Hasselbeck pass complete deep left to T.Y. Hilton for 31 yards (tackle by Jude Adjei-Barimah),1.330,3.380
+3,12:37,1,10,TAM 33,12,6,Matt Hasselbeck pass complete short right to T.Y. Hilton for 6 yards (tackle by Alterraun Verner),3.380,3.650
+3,11:58,2,4,TAM 27,12,6,Matt Hasselbeck pass incomplete deep left intended for T.Y. Hilton,3.650,2.940
+3,11:51,3,4,TAM 27,12,6,Matt Hasselbeck pass complete short left to Donte Moncrief for 16 yards (tackle by Sterling Moore),2.940,4.840
+3,11:25,1,10,TAM 11,12,6,Frank Gore right end for 4 yards (tackle by Gerald McCoy),4.840,4.890
+3,10:46,2,6,TAM 7,12,6,Matt Hasselbeck pass incomplete short right intended for Andre Johnson (defended by Bradley McDougald),4.890,3.980
+3,10:42,3,6,TAM 7,12,6,Matt Hasselbeck sacked by Howard Jones for -1 yards,3.980,2.960
+3,10:05,4,7,TAM 8,12,9,Adam Vinatieri 26 yard field goal good,2.960,3.000
+3,10:05,,,IND 35,12,9,"Pat McAfee kicks off 65 yards, touchback",0.000,-0.280
+3,10:01,1,10,TAM 20,12,9,Doug Martin right end for 2 yards (tackle by Jerrell Freeman and D'Qwell Jackson),0.280,0.000
+3,9:27,2,8,TAM 22,12,9,Jameis Winston sacked by Erik Walden for -10 yards,0.000,-2.360
+3,8:45,3,18,TAM 12,12,9,Jameis Winston pass incomplete short left intended for Doug Martin,-2.360,-2.490
+3,8:39,4,18,TAM 12,12,9,"Jake Schum punts 54 yards, returned by Quan Bray for 20 yards (tackle by Andrew DePaola)",-2.490,-2.520
+3,8:27,1,10,TAM 46,12,9,Frank Gore right end for -4 yards (tackle by Sterling Moore),2.520,1.440
+3,7:48,2,14,,12,9,Matt Hasselbeck pass complete deep right to Donte Moncrief for 31 yards (tackle by Bradley McDougald),1.440,4.310
+3,7:29,1,10,TAM 19,12,15,"Matt Hasselbeck pass complete deep right to T.Y. Hilton for 19 yards, touchdown",4.310,7.000
+3,7:29,,,TAM 19,12,16,Adam Vinatieri kicks extra point good,0.000,0.000
+3,7:29,,,IND 35,12,16,"Pat McAfee kicks off 65 yards, touchback",0.000,-0.280
+3,7:22,1,10,TAM 20,12,16,Jameis Winston pass complete short right to Mike Evans for 12 yards (tackle by Greg Toler),0.280,1.070
+3,6:50,1,10,TAM 32,12,16,Charles Sims left end for no gain (tackle by Clayton Geathers),1.070,0.530
+3,6:23,2,10,TAM 32,12,16,Jameis Winston pass complete short middle to Mike Evans for 15 yards (tackle by Vontae Davis and Dwight Lowery),0.530,2.060
+3,5:44,1,10,TAM 47,12,16,Charles Sims for 4 yards (tackle by Jerrell Freeman),2.060,2.060
+3,5:22,2,6,IND 49,12,16,Jameis Winston for 9 yards (tackle by Jerrell Freeman),2.060,2.920
+3,4:46,1,10,IND 40,12,16,Jameis Winston pass incomplete deep left intended for Mike Evans,2.920,2.370
+3,4:39,2,10,IND 40,12,16,Jameis Winston right end for 4 yards (tackle by Jerrell Freeman),2.370,2.210
+3,4:09,3,6,IND 36,12,16,Jameis Winston pass incomplete deep left intended for Mike Evans (defended by Darius Butler),2.210,0.880
+3,4:02,4,6,IND 36,12,16,"Connor Barth 54 yard field goal no good. Penalty on Logan Mankins: Unsportsmanlike Conduct, 15 yards",0.880,-2.850
+3,3:57,1,10,TAM 41,12,16,Matt Hasselbeck pass complete short left to Jack Doyle for 5 yards (tackle by Bruce Carter),2.850,2.980
+3,3:14,2,5,TAM 36,12,16,Matt Hasselbeck pass complete short right to Frank Gore for 4 yards (tackle by Lavonte David),2.980,2.810
+3,2:33,3,1,TAM 32,12,16,Frank Gore right guard for 1 yard (tackle by William Gholston),2.810,3.510
+3,1:52,1,10,TAM 31,12,16,Matt Hasselbeck pass incomplete short left intended for T.Y. Hilton,3.510,2.970
+3,1:47,2,10,TAM 31,12,16,Matt Hasselbeck pass incomplete short right intended for T.Y. Hilton (defended by Jacquies Smith),2.970,2.280
+,,,,,,,"IND challenged the incomplete pass ruling, and the play was upheld.",,
+3,1:45,3,10,TAM 31,12,16,Matt Hasselbeck pass complete short left to Coby Fleener for 5 yards (tackle by Bradley McDougald),2.280,1.790
+3,1:07,4,5,TAM 26,12,19,Adam Vinatieri 44 yard field goal good,1.790,3.000
+3,1:07,,,IND 35,12,19,"Pat McAfee kicks off 65 yards, touchback",0.000,-0.280
+3,1:02,1,10,TAM 20,12,19,Jameis Winston pass complete deep right to Vincent Jackson for 21 yards (tackle by Clayton Geathers),0.280,1.660
+3,0:26,1,10,TAM 41,12,19,Doug Martin right end for 5 yards (tackle by Dwight Lowery),1.660,1.800
+Quarter,Time,Down,ToGo,Location,TAM,IND,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,5,TAM 46,12,19,Jameis Winston sacked by Erik Walden for -6 yards,1.800,0.300
+4,14:13,3,11,TAM 40,12,19,Jameis Winston sacked by Nate Irving for -8 yards,0.300,-1.240
+4,13:32,4,19,TAM 32,12,19,"Jake Schum punts 44 yards, fair catch by Quan Bray",-1.240,-0.540
+4,13:23,1,10,IND 24,12,19,Matt Hasselbeck pass complete short left to Coby Fleener for 5 yards (tackle by Danny Lansanah),0.540,0.670
+4,12:46,2,5,IND 29,12,19,Frank Gore middle for no gain (tackle by Howard Jones),0.670,-0.030
+4,12:06,3,5,IND 29,12,19,--,-0.030,-0.030
+4,11:50,3,5,IND 29,12,19,--,-0.030,-0.690
+4,11:50,3,10,IND 24,12,19,Matt Hasselbeck pass complete short right to Donte Moncrief for 13 yards (tackle by Jude Adjei-Barimah),-0.690,1.400
+4,11:30,1,10,IND 37,12,19,"Frank Gore middle for 3 yards (tackle by Tony McDaniel and Kwon Alexander). Penalty on Howard Jones: Illegal Use of Hands, 5 yards",1.400,1.930
+4,11:07,1,10,IND 45,12,19,Frank Gore middle for 2 yards (tackle by Kwon Alexander),1.930,1.650
+4,10:43,2,8,IND 47,12,19,Matt Hasselbeck pass complete short left to Donte Moncrief for 12 yards (tackle by Jude Adjei-Barimah),1.650,2.850
+4,10:01,1,10,TAM 41,12,19,Ahmad Bradshaw right end for 7 yards (tackle by Danny Lansanah),2.850,3.250
+4,9:26,2,3,TAM 34,12,19,Frank Gore middle for -3 yards (tackle by Kwon Alexander),3.250,2.150
+4,8:46,3,6,TAM 37,12,19,Matt Hasselbeck pass complete short left to Donte Moncrief for 9 yards (tackle by Jude Adjei-Barimah),2.150,3.710
+4,8:13,1,10,TAM 28,12,19,Matt Hasselbeck pass complete deep left to Donte Moncrief for 16 yards (tackle by Jude Adjei-Barimah),3.710,4.780
+4,7:30,1,10,TAM 12,12,19,Ahmad Bradshaw right guard for no gain (tackle by Howard Jones),4.780,4.100
+4,6:47,2,10,TAM 12,12,19,Matt Hasselbeck pass incomplete,4.100,3.120
+4,6:40,3,10,TAM 12,12,19,Matt Hasselbeck pass incomplete,3.120,2.630
+4,6:35,4,10,TAM 12,12,19,"Adam Vinatieri 30 yard field goal good. Penalty on Chris Conte: Leaping, 6 yards (no play)",2.630,5.830
+4,6:31,1,6,TAM 6,12,19,Ahmad Bradshaw left end for 3 yards (tackle by Kwon Alexander),5.830,5.530
+,,,,,,,"TAM challenged the runner was down by contact ruling, and the play was upheld.",,
+4,5:58,2,3,TAM 3,12,25,"Matt Hasselbeck pass complete short left to T.Y. Hilton for 3 yards, touchdown",5.530,7.000
+4,5:58,,,TAM 3,12,25,Adam Vinatieri kicks extra point no good,0.000,-1.000
+4,5:58,,,IND 35,12,25,"Pat McAfee kicks off 65 yards, touchback",0.000,-0.280
+4,5:53,1,10,TAM 20,12,25,Jameis Winston pass incomplete short left intended for Mike Evans,0.280,-0.270
+4,5:48,2,10,TAM 20,12,25,Jameis Winston pass complete short left to Cameron Brate for 5 yards (tackle by Nate Irving),-0.270,-0.300
+4,5:26,3,5,TAM 25,12,25,Jameis Winston pass complete short left to Cameron Brate for 8 yards (tackle by D'Qwell Jackson and Vontae Davis),-0.300,1.140
+4,5:03,1,10,TAM 33,12,25,"Jameis Winston sacked by Trent Cole for -9 yards. Penalty on T.Y. McGill: Unnecessary Roughness, 15 yards",1.140,1.530
+4,4:55,1,10,TAM 39,12,25,Jameis Winston left end for 14 yards (tackle by Vontae Davis),1.530,2.460
+4,4:33,1,10,IND 47,12,25,Jameis Winston pass complete short left to Adam Humphries for 11 yards (tackle by Darius Butler),2.460,3.180
+4,4:27,1,10,IND 36,12,25,Jameis Winston pass incomplete short right intended for Luke Stocker (defended by D'Qwell Jackson),3.180,2.640
+4,4:20,2,10,IND 36,12,25,Jameis Winston pass complete short right to Cameron Brate for 9 yards (tackle by Erik Walden),2.640,3.140
+4,3:56,3,1,IND 27,12,25,Jameis Winston pass incomplete deep middle intended for Vincent Jackson,3.140,1.820
+4,3:52,4,1,IND 27,12,25,Jameis Winston pass incomplete short middle intended for Cameron Brate (defended by Nate Irving),1.820,-0.740
+4,3:46,1,10,IND 27,12,25,Frank Gore middle for no gain (tackle by Akeem Spence),0.740,0.740
+4,3:41,1,10,IND 27,12,25,Timeout #2 by Tampa Bay Buccaneers,0.740,0.200
+4,3:41,2,10,IND 27,12,25,Frank Gore middle for 2 yards (tackle by Akeem Spence),0.200,0.200
+4,3:36,2,10,IND 27,12,25,Timeout #3 by Tampa Bay Buccaneers,0.200,-0.230
+4,3:36,3,8,IND 29,12,25,--,-0.230,-0.890
+4,3:36,3,13,IND 24,12,25,Frank Gore middle for 2 yards (tackle by William Gholston),-0.890,-1.630
+4,2:53,4,11,IND 26,12,25,Pat McAfee punts 56 yards,-1.630,-0.040
+4,2:40,1,10,TAM 18,12,25,Jameis Winston pass incomplete deep right intended for Mike Evans,0.040,-0.490
+4,2:34,2,10,TAM 18,12,25,"Jameis Winston pass incomplete short middle intended for Adam Humphries. Penalty on Darius Butler: Defensive Holding, 5 yards (no play)",-0.490,0.480
+4,2:26,1,10,TAM 23,12,25,Jameis Winston pass incomplete deep right intended for Vincent Jackson is intercepted by Dwight Lowery at TAM-47 and returned for 1 yard,0.480,-2.520
+4,2:20,1,10,TAM 46,12,25,Matt Hasselbeck kneels for -1 yards,2.520,1.840
+4,2:00,2,11,TAM 47,12,25,Matt Hasselbeck kneels for -1 yards,1.840,1.030
+4,1:17,3,12,TAM 48,12,25,Matt Hasselbeck kneels for -1 yards,1.030,1.030
+4,0:34,3,12,TAM 48,12,25,Timeout #2 by Indianapolis Colts,1.030,0.000
+4,0:34,4,13,TAM 49,12,25,"Pat McAfee punts 43 yards, fair catch by Bobby Rainey",0.000,0.380
+4,0:26,1,10,TAM 6,12,25,"Penalty on Gosder Cherilus: False Start, 3 yards (no play)",-0.380,-0.490
+4,0:26,1,13,TAM 3,12,25,Jameis Winston pass complete short middle to Charles Sims for 16 yards (tackle by D'Qwell Jackson and Clayton Geathers),-0.490,0.150
+4,0:02,1,10,TAM 19,12,25,Jameis Winston pass complete short middle to Charles Sims for 8 yards (tackle by D'Qwell Jackson),0.150,0.750
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

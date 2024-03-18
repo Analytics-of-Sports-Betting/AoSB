@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,DEN 25,10,4:50,42,Missed FG
+2,1,4:05,DEN 25,5,3:26,25,Punt
+3,2,10:30,DEN 25,3,1:01,0,Punt
+4,2,9:29,BUF 35,6,3:01,35,Touchdown
+5,2,5:17,DEN 5,3,1:02,2,Punt
+6,2,1:49,DEN 25,9,1:44,75,Touchdown
+7,3,10:58,DEN 25,1,0:17,-4,Fumble
+8,3,10:41,DEN 25,3,1:38,-2,Punt
+9,3,6:57,DEN 4,3,1:25,1,Punt
+10,3,0:44,DEN 25,6,2:12,14,Punt
+11,4,5:46,DEN 25,12,3:54,75,Touchdown
+12,4,1:40,DEN 25,3,1:40,5,End of Game

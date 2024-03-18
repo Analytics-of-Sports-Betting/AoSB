@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,9:30,SEA 25,6,3:25,75,Touchdown
+2,1,2:34,SEA 25,3,0:24,-5,Punt
+3,2,15:00,SEA 9,11,5:12,91,Touchdown
+4,2,5:41,SEA 16,3,2:37,-7,Punt
+5,2,0:55,SEA 25,3,0:55,-2,End of Half
+6,3,15:00,SEA 25,4,1:47,35,Fumble
+7,3,11:22,SEA 17,8,3:49,60,Field Goal
+8,3,5:49,SEA 22,7,4:03,40,Interception
+9,4,12:57,SEA 25,11,6:11,67,Field Goal
+10,4,2:56,SEA 25,10,2:20,75,Touchdown
+11,4,0:10,LAR 31,1,0:10,-1,End of Game

@@ -1,0 +1,187 @@
+Quarter,Time,Down,ToGo,Location,NYG,MIA,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Giants won the coin toss and deferred, Dolphins to receive the opening kickoff.",,
+1,15:00,,,NYG 35,0,0,"Josh Brown kicks off 65 yards, touchback",0.000,-0.280
+1,15:00,1,10,MIA 20,0,0,Ryan Tannehill pass complete short right to Jordan Cameron for 11 yards (tackle by Craig Dahl),0.280,1.000
+1,14:29,1,10,MIA 31,0,0,Lamar Miller right tackle for 6 yards (tackle by J.T. Thomas),1.000,1.270
+1,13:54,2,4,MIA 37,0,0,"Ryan Tannehill pass complete short right to Dion Sims for -1 yards (tackle by Landon Collins). Dion Sims fumbles (forced by Landon Collins), recovered by Jason Pierre-Paul at MIA-36 (tackle by Billy Turner)",1.270,-3.180
+1,13:45,1,10,MIA 36,0,0,Eli Manning pass complete short left to Rueben Randle for 7 yards (tackle by Bobby McCain),3.180,3.580
+1,13:31,2,3,MIA 29,0,0,Eli Manning pass complete to Will Tye for 5 yards (tackle by Jelani Jenkins),3.580,3.970
+1,13:05,1,10,MIA 24,0,0,Rashad Jennings right guard for 3 yards (tackle by Reshad Jones),3.970,3.840
+1,12:31,2,7,MIA 21,0,0,Rashad Jennings middle for -6 yards (tackle by Ndamukong Suh),3.840,2.350
+1,11:49,3,13,MIA 27,0,0,Eli Manning pass complete short middle to Dwayne Harris for 10 yards (tackle by Brice McCain),2.350,2.410
+1,11:13,4,3,MIA 17,3,0,Josh Brown 35 yard field goal good,2.410,3.000
+1,11:13,,,NYG 35,3,0,"Josh Brown kicks off 69 yards, returned by Jarvis Landry for 30 yards (tackle by Landon Collins)",0.000,-0.670
+1,11:03,1,10,MIA 26,3,0,Ryan Tannehill pass complete short right to Jarvis Landry for 16 yards (tackle by Landon Collins),0.670,1.730
+1,10:42,1,10,MIA 42,3,0,Ryan Tannehill pass complete short right to Jarvis Landry for 2 yards (tackle by Dominique Rodgers-Cromartie),1.730,1.460
+1,10:07,2,8,MIA 44,3,0,Lamar Miller left tackle for 2 yards (tackle by Markus Kuhn),1.460,1.030
+1,9:28,3,6,MIA 46,3,0,Ryan Tannehill pass complete short middle to Jordan Cameron for 17 yards (tackle by Craig Dahl and Uani Unga),1.030,3.120
+1,8:51,1,10,NYG 37,3,0,Ryan Tannehill pass incomplete short middle intended for Jarvis Landry (defended by Kerry Wynn),3.120,2.570
+1,8:43,2,10,NYG 37,3,0,Lamar Miller left guard for 5 yards (tackle by Landon Collins and Jonathan Casillas),2.570,2.540
+1,8:03,3,5,NYG 32,3,0,Ryan Tannehill pass complete short right to Jarvis Landry for 4 yards (tackle by Trevin Wade),2.540,1.720
+1,7:09,4,1,NYG 28,3,0,Lamar Miller middle for 2 yards (tackle by Jay Bromley),1.720,3.840
+1,6:33,1,10,NYG 26,3,0,Ryan Tannehill pass incomplete deep right intended for Dion Sims,3.840,3.300
+1,6:26,2,10,NYG 26,3,0,"Penalty on Cullen Jenkins: Encroachment, 5 yards (no play)",3.300,3.970
+1,6:26,2,5,NYG 21,3,0,Ryan Tannehill right tackle for 7 yards (tackle by J.T. Thomas),3.970,4.650
+1,5:48,1,10,NYG 14,3,6,"Lamar Miller left tackle for 14 yards, touchdown",4.650,7.000
+1,5:48,,,NYG 14,3,7,Andrew Franks kicks extra point good,0.000,0.000
+1,5:48,,,MIA 35,3,7,"Andrew Franks kicks off 65 yards, touchback",0.000,-0.280
+1,5:40,1,10,NYG 20,3,7,Eli Manning pass complete short right to Odell Beckham for 12 yards (tackle by Brent Grimes),0.280,1.070
+1,5:10,1,10,NYG 32,3,7,Andre Williams left tackle for -1 yards (tackle by Michael Thomas),1.070,0.390
+1,4:29,2,11,NYG 31,3,7,Eli Manning pass complete short right to Dwayne Harris for 10 yards (tackle by Brice McCain),0.390,1.030
+1,3:50,3,1,NYG 41,3,7,Shane Vereen middle for no gain (tackle by Brice McCain),1.030,-0.650
+1,3:11,4,1,NYG 41,3,7,"Brad Wing punts 34 yards, fair catch by Jarvis Landry",-0.650,-0.610
+1,3:01,1,10,MIA 25,3,7,Ryan Tannehill left end for 12 yards (tackle by Prince Amukamara),0.610,1.400
+1,2:37,1,10,MIA 37,3,7,Ryan Tannehill pass incomplete deep middle intended for Dion Sims (defended by Craig Dahl),1.400,0.860
+1,2:28,2,10,MIA 37,3,7,Ryan Tannehill pass complete short middle to Jarvis Landry for 5 yards (tackle by Markus Kuhn),0.860,0.830
+1,1:47,3,5,MIA 42,3,7,Ryan Tannehill pass incomplete deep left intended for Damien Williams,0.830,-0.590
+1,1:39,4,5,MIA 42,3,7,"Matt Darr punts 48 yards, returned by Dwayne Harris for 20 yards (tackle by Walt Aikens)",-0.590,-0.940
+1,1:27,1,10,NYG 30,3,7,Rashad Jennings middle for 9 yards (tackle by Koa Misi),0.940,1.610
+1,1:04,2,1,NYG 39,3,7,Rashad Jennings middle for 21 yards (tackle by Michael Thomas),1.610,2.920
+1,0:31,1,10,MIA 40,3,7,Eli Manning pass complete short middle to Rueben Randle for 22 yards (tackle by Michael Thomas),2.920,4.370
+1,0:01,1,10,MIA 18,3,7,Rashad Jennings right tackle for no gain (tackle by Ndamukong Suh),4.370,3.800
+Quarter,Time,Down,ToGo,Location,NYG,MIA,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,10,MIA 18,3,7,Eli Manning pass complete short right to Will Tye for 6 yards (tackle by Jelani Jenkins),3.800,4.030
+2,14:25,3,4,MIA 12,3,7,Eli Manning pass complete short middle to Odell Beckham for 6 yards (tackle by Jelani Jenkins),4.030,5.830
+2,13:52,1,6,MIA 6,3,7,Rashad Jennings right guard for no gain (tackle by Jelani Jenkins),5.830,4.950
+2,13:10,2,6,MIA 6,3,7,Eli Manning pass incomplete short middle intended for Odell Beckham (defended by Ndamukong Suh),4.950,4.040
+2,13:05,3,6,MIA 6,9,7,"Eli Manning pass complete short middle to Rueben Randle for 6 yards, touchdown",4.040,7.000
+2,13:05,,,MIA 6,10,7,Josh Brown kicks extra point good,0.000,0.000
+2,13:05,,,NYG 35,10,7,"Josh Brown kicks off 68 yards, returned by Jarvis Landry for 36 yards (tackle by Cooper Taylor)",0.000,-1.140
+2,12:52,1,10,MIA 33,10,7,Ryan Tannehill pass complete short left to Greg Jennings for 7 yards (tackle by Prince Amukamara),1.140,1.540
+2,12:22,2,3,MIA 40,10,7,Lamar Miller right tackle for 2 yards (tackle by Jasper Brinkley),1.540,1.090
+2,11:44,3,1,MIA 42,10,7,Jay Ajayi right end for 1 yard (tackle by Craig Dahl and Landon Collins),1.090,1.800
+2,11:14,1,10,MIA 43,10,7,Ryan Tannehill pass complete short right to Kenny Stills for 2 yards (tackle by Dominique Rodgers-Cromartie),1.800,1.520
+2,11:01,2,8,MIA 45,10,7,Ryan Tannehill pass complete deep left to Jarvis Landry for 17 yards (tackle by Jasper Brinkley),1.520,3.050
+2,10:27,1,10,NYG 38,10,7,Ryan Tannehill pass incomplete deep left intended for DeVante Parker,3.050,2.510
+2,10:19,2,10,NYG 38,10,13,"Lamar Miller right guard for 38 yards, touchdown",2.510,7.000
+2,10:19,,,NYG 38,10,14,Andrew Franks kicks extra point good,0.000,0.000
+2,10:19,,,MIA 35,10,14,"Andrew Franks kicks off 65 yards, touchback",0.000,-0.280
+2,10:10,1,10,NYG 20,10,14,Eli Manning pass complete short left to Hakeem Nicks for 5 yards (tackle by Bobby McCain),0.280,0.410
+2,9:46,2,5,NYG 25,10,14,Andre Williams right tackle for -1 yards (tackle by Ndamukong Suh and Derrick Shelby),0.410,-0.430
+2,9:02,3,6,NYG 24,10,14,Eli Manning pass incomplete short middle intended for Rueben Randle (defended by Brice McCain),-0.430,-1.770
+2,8:57,4,6,NYG 24,10,14,"Brad Wing punts 52 yards, returned by Jarvis Landry for 10 yards (tackle by Jonathan Casillas)",-1.770,-1.200
+2,8:48,1,10,MIA 34,10,14,Ryan Tannehill pass complete short left to Jarvis Landry for -3 yards (tackle by Cooper Taylor),1.200,0.250
+2,8:20,2,13,MIA 31,10,14,Ryan Tannehill pass complete short middle to Jarvis Landry for 8 yards (tackle by Trevin Wade),0.250,0.630
+2,7:33,3,5,MIA 39,10,14,Ryan Tannehill pass complete short left to Dion Sims for 8 yards (tackle by Prince Amukamara),0.630,2.060
+2,6:53,1,10,MIA 47,10,14,Ryan Tannehill pass incomplete short right intended for Jarvis Landry,2.060,1.520
+2,6:42,2,10,MIA 47,10,14,Ryan Tannehill pass incomplete intended for Greg Jennings,1.520,0.830
+2,6:36,3,10,MIA 47,10,14,Ryan Tannehill pass complete short left to Dion Sims for 7 yards (tackle by Cullen Jenkins and Jason Pierre-Paul),0.830,0.200
+2,6:02,4,3,NYG 46,10,14,"Matt Darr punts 36 yards, fair catch by Dwayne Harris",0.200,0.380
+2,5:49,1,10,NYG 10,10,14,"Eli Manning pass incomplete deep right intended for Odell Beckham. Penalty on Odell Beckham: Offensive Pass Interference, 5 yards (no play)",-0.380,-0.570
+2,5:41,1,15,NYG 5,10,14,Rashad Jennings middle for 11 yards (tackle by Reshad Jones),-0.570,-0.230
+2,5:09,2,4,NYG 16,10,14,Rashad Jennings right guard for 3 yards (tackle by Reshad Jones),-0.230,-0.370
+2,4:40,3,1,NYG 19,10,14,Rashad Jennings middle for 1 yard (tackle by Jordan Phillips),-0.370,0.280
+2,3:59,1,10,NYG 20,10,14,Andre Williams left tackle for 5 yards (tackle by Brice McCain),0.280,0.410
+2,3:23,2,5,NYG 25,10,14,"Penalty on Ndamukong Suh: Defensive Offside, 4 yards (no play)",0.410,0.950
+2,3:06,2,1,NYG 29,10,14,"Eli Manning for no gain. Eli Manning fumbles, recovered by Reshad Jones at NYG-34 and returned for 9 yards (tackle by Jerome Cunningham)",0.950,-3.910
+2,2:57,1,10,NYG 25,10,14,Jay Ajayi right end for 5 yards (tackle by Landon Collins),3.910,4.040
+2,2:28,2,5,NYG 20,10,14,Jay Ajayi right tackle for no gain (tackle by George Selvie),4.040,3.340
+2,2:00,3,5,NYG 20,10,14,Ryan Tannehill pass complete short left to DeVante Parker for 2 yards (tackle by Prince Amukamara),3.340,3.340
+2,1:56,3,5,NYG 20,10,14,Timeout #1 by New York Giants,3.340,2.350
+2,1:56,4,3,NYG 18,10,17,Andrew Franks 36 yard field goal good,2.350,3.000
+2,1:56,,,MIA 35,10,17,"Andrew Franks kicks off 65 yards, touchback",0.000,-0.280
+2,1:52,1,10,NYG 20,10,17,Eli Manning pass complete short middle to Will Tye for 5 yards (tackle by Reshad Jones),0.280,0.410
+2,1:29,2,5,NYG 25,10,17,"Eli Manning pass complete deep middle to Odell Beckham for 45 yards (tackle by Brent Grimes). Penalty on Olivier Vernon: Roughing the Passer, 15 yards",0.410,4.580
+2,1:20,1,10,MIA 15,10,17,Eli Manning pass complete short right to Shane Vereen for 10 yards (tackle by Reshad Jones and Jelani Jenkins),4.580,6.060
+2,0:50,1,5,MIA 5,16,17,"Eli Manning pass complete short right to Will Tye for 5 yards, touchdown",6.060,7.000
+2,0:50,,,MIA 5,17,17,Josh Brown kicks extra point good,0.000,0.000
+2,0:50,,,NYG 35,17,17,"Josh Brown kicks off 62 yards, returned by Jay Ajayi for 20 yards (tackle by Cooper Taylor)",0.000,-0.480
+2,0:38,1,10,MIA 23,17,17,Ryan Tannehill pass incomplete short right intended for DeVante Parker (defended by Dominique Rodgers-Cromartie),0.480,-0.070
+2,0:34,2,10,MIA 23,17,17,"Ryan Tannehill pass complete short middle to Jay Ajayi for 11 yards (tackle by Uani Unga). Penalty on Jordan Cameron: Illegal Shift, 5 yards (no play)",-0.070,-0.840
+2,0:27,2,15,MIA 18,17,17,Jay Ajayi middle for 9 yards (tackle by Uani Unga),-0.840,-0.840
+2,0:21,2,15,MIA 18,17,17,Timeout #2 by New York Giants,-0.840,-0.230
+2,0:21,3,6,MIA 27,17,17,Ryan Tannehill sacked by Robert Ayers for -1 yards,-0.230,-0.230
+2,0:13,3,6,MIA 27,17,17,Timeout #3 by New York Giants,-0.230,-1.630
+2,0:13,4,7,MIA 26,17,17,"Matt Darr punts 56 yards, returned by Dwayne Harris for 10 yards (tackle by Jelani Jenkins). Penalty on MIA: Illegal Use of Hands, 10 yards (no play)",-1.630,-2.390
+2,0:01,4,17,MIA 16,17,17,Ryan Tannehill kneels for -2 yards,-2.390,0.040
+Quarter,Time,Down,ToGo,Location,NYG,MIA,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,MIA 35,17,17,"Andrew Franks kicks off 67 yards, returned by Dwayne Harris for 22 yards (tackle by Spencer Paysinger)",0.000,-0.280
+3,14:55,1,10,NYG 20,17,17,Rashad Jennings middle for -4 yards (tackle by Jelani Jenkins),0.280,-0.940
+3,14:21,2,14,NYG 16,17,17,Eli Manning pass complete short right to Dwayne Harris for 2 yards (tackle by Koa Misi),-0.940,-1.330
+3,13:44,3,12,NYG 18,17,17,Eli Manning pass complete short right to Will Tye for 9 yards (tackle by Jelani Jenkins),-1.330,-1.570
+3,13:06,4,3,NYG 27,17,17,"Brad Wing punts 54 yards, returned by Jarvis Landry for 20 yards (tackle by Craig Dahl)",-1.570,-1.530
+3,12:52,1,10,MIA 39,17,17,"Lamar Miller left tackle for 1 yard (tackle by Markus Kuhn). Penalty on Billy Turner: Offensive Holding, 10 yards (no play)",1.530,0.870
+3,12:32,1,20,MIA 29,17,17,Lamar Miller right guard for 8 yards (tackle by Jasper Brinkley),0.870,0.720
+3,12:11,2,12,MIA 37,17,17,Lamar Miller right tackle for 1 yard (tackle by Jason Pierre-Paul),0.720,0.170
+3,11:12,3,11,MIA 38,17,17,Ryan Tannehill pass complete short left to Jarvis Landry for 12 yards (tackle by Dominique Rodgers-Cromartie),0.170,2.260
+3,10:34,1,10,,17,17,Ryan Tannehill pass incomplete deep right intended for Kenny Stills (defended by Dominique Rodgers-Cromartie),2.260,1.710
+3,10:21,2,10,,17,17,Lamar Miller left tackle for 8 yards (tackle by Jonathan Casillas),1.710,2.080
+3,9:57,3,2,NYG 42,17,17,"Penalty on Daniel Thomas: False Start, 5 yards (no play)",2.080,1.420
+3,9:48,3,7,NYG 47,17,23,"Ryan Tannehill pass complete deep left to Kenny Stills for 47 yards, touchdown",1.420,7.000
+3,9:48,,,NYG 47,17,24,Andrew Franks kicks extra point good,0.000,0.000
+3,9:48,,,MIA 35,17,24,"Andrew Franks kicks off 65 yards, touchback",0.000,-0.280
+3,9:37,1,10,NYG 20,17,24,Eli Manning pass complete short middle to Orleans Darkwa for 6 yards (tackle by Kelvin Sheppard and Jelani Jenkins),0.280,0.540
+3,8:58,2,4,NYG 26,17,24,Orleans Darkwa middle for 10 yards (tackle by Reshad Jones),0.540,1.330
+3,8:22,1,10,NYG 36,17,24,Orleans Darkwa middle for no gain (tackle by Olivier Vernon),1.330,0.790
+3,7:47,2,10,NYG 36,17,24,"Orleans Darkwa left end for no gain (tackle by Reshad Jones and Jamar Taylor). Penalty on Reshad Jones: Face Mask (15 Yards), 15 yards (no play)",0.790,2.320
+3,7:23,1,10,MIA 49,17,24,Eli Manning pass complete short middle to Rashad Jennings for 19 yards (tackle by Kelvin Sheppard),2.320,3.580
+3,6:41,1,10,MIA 30,17,24,Eli Manning pass complete short right to Rueben Randle for 12 yards (tackle by Brent Grimes),3.580,4.370
+3,6:08,1,10,MIA 18,17,24,Eli Manning pass complete short left to Dwayne Harris for 7 yards (tackle by Kelvin Sheppard),4.370,5.010
+3,5:31,2,3,MIA 11,17,24,Rashad Jennings left end for 5 yards (tackle by Reshad Jones),5.010,5.010
+3,5:07,2,3,MIA 11,17,24,Timeout #1 by Miami Dolphins,5.010,5.830
+3,5:07,1,6,MIA 6,23,24,"Eli Manning pass complete short right to Odell Beckham for 6 yards, touchdown",5.830,7.000
+,,,,,,,"NYG challenged the incomplete pass ruling, and the original play was overturned.",,
+3,5:07,,,MIA 6,24,24,Josh Brown kicks extra point good,0.000,0.000
+3,5:07,,,NYG 35,24,24,"Josh Brown kicks off 65 yards, touchback",0.000,-0.280
+3,5:01,1,10,MIA 20,24,24,Lamar Miller right guard for 1 yard (tackle by Markus Kuhn and Cooper Taylor),0.280,-0.130
+3,4:22,2,9,MIA 21,24,24,"Ryan Tannehill pass complete short right to Jordan Cameron for 7 yards (tackle by Mark Herzlich). Jordan Cameron fumbles (forced by Mark Herzlich), recovered by Jordan Cameron at MIA-28",-0.130,0.100
+,,,,,,,"NYG challenged the loose ball recovery ruling, and the play was upheld.",,
+3,3:39,3,2,MIA 28,24,24,Ryan Tannehill pass incomplete short left intended for Jarvis Landry,0.100,-1.500
+3,3:36,4,2,MIA 28,24,24,"Matt Darr punts 68 yards, returned by Dwayne Harris for 15 yards (tackle by Zach Vigil)",-1.500,-0.150
+3,3:23,1,10,NYG 19,24,24,Rashad Jennings left tackle for -1 yards (tackle by Olivier Vernon),0.150,-0.560
+3,2:41,2,11,NYG 18,24,24,"Eli Manning pass incomplete deep right intended for Odell Beckham. Penalty on Brent Grimes: Defensive Pass Interference, 14 yards (no play)",-0.560,1.070
+3,2:35,1,10,NYG 32,24,24,"Eli Manning pass incomplete deep left intended for Hakeem Nicks. Penalty on Jordan Phillips: Roughing the Passer, 15 yards (no play)",1.070,2.060
+3,2:29,1,10,NYG 47,24,24,Rashad Jennings middle for 5 yards (tackle by Michael Thomas),2.060,2.190
+3,1:56,2,5,MIA 48,24,24,Eli Manning pass complete short right to Rueben Randle for 11 yards (tackle by Brice McCain),2.190,3.120
+3,1:41,1,10,MIA 37,24,24,Eli Manning pass complete short middle to Rashad Jennings for 2 yards (tackle by Koa Misi),3.120,2.840
+3,0:48,2,8,MIA 35,24,24,Rashad Jennings left guard for 5 yards (tackle by Jordan Phillips),2.840,2.810
+3,0:41,3,3,MIA 30,24,24,Eli Manning pass incomplete short right intended for Odell Beckham,2.810,1.480
+3,0:37,4,3,MIA 30,24,24,Josh Brown 48 yard field goal no good,1.480,-1.530
+3,0:33,1,10,MIA 39,24,24,"Penalty on Daniel Thomas: False Start, 5 yards (no play)",1.530,1.200
+3,0:33,1,15,MIA 34,24,24,Ryan Tannehill pass complete short right to Jarvis Landry for 4 yards (tackle by Landon Collins),1.200,0.850
+Quarter,Time,Down,ToGo,Location,NYG,MIA,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,11,MIA 38,24,24,Ryan Tannehill pass complete short middle to Jarvis Landry for 9 yards (tackle by Trevin Wade),0.850,1.360
+4,14:28,3,2,MIA 47,24,24,Ryan Tannehill pass complete short left to Damien Williams for 4 yards (tackle by Uani Unga),1.360,2.320
+4,13:54,1,10,NYG 49,24,24,Ryan Tannehill pass complete short right to Greg Jennings for 5 yards (tackle by Trevin Wade),2.320,2.460
+4,12:57,2,5,NYG 44,24,24,Jarvis Landry right end for no gain (tackle by Kerry Wynn),2.460,1.750
+4,12:16,3,5,NYG 44,24,24,Ryan Tannehill pass incomplete deep right intended for DeVante Parker (defended by Dominique Rodgers-Cromartie),1.750,0.330
+4,12:08,4,5,NYG 44,24,24,Matt Darr punts 40 yards,0.330,0.380
+4,11:58,1,10,NYG 4,24,24,Rashad Jennings left guard for 12 yards (tackle by Shamiel Gary),-0.380,-0.140
+4,11:28,1,10,NYG 16,30,24,"Eli Manning pass complete deep middle to Odell Beckham for 84 yards, touchdown",-0.140,7.000
+4,11:28,,,MIA 16,31,24,"Josh Brown kicks extra point good. Penalty on Marshall Newhouse: Unsportsmanlike Conduct, 15 yards",0.000,0.000
+4,11:28,,,NYG 20,31,24,"Josh Brown kicks off 75 yards, muffed catch by Damien Williams, recovered by Damien Williams and returned for no gain",0.000,-0.810
+4,11:06,1,10,MIA 28,31,24,Lamar Miller middle for 2 yards (tackle by Jasper Brinkley),0.810,0.530
+4,10:46,2,8,MIA 30,31,24,Ryan Tannehill pass incomplete short left intended for Jarvis Landry,0.530,-0.160
+4,10:23,3,8,MIA 30,31,24,Ryan Tannehill pass complete deep right to Jarvis Landry for 25 yards (tackle by Prince Amukamara),-0.160,2.590
+4,9:41,1,10,NYG 45,31,24,Ryan Tannehill right end for 7 yards (tackle by Landon Collins),2.590,2.990
+4,9:27,2,3,NYG 38,31,24,Ryan Tannehill pass complete short right to Damien Williams for 7 yards (tackle by Jasper Brinkley and Trumaine McBride),2.990,3.510
+4,8:28,1,10,NYG 31,31,24,Jay Ajayi right tackle for no gain (tackle by Jason Pierre-Paul and J.T. Thomas),3.510,2.970
+4,7:52,2,10,NYG 31,31,24,Ryan Tannehill pass incomplete deep left intended for Jarvis Landry (defended by Trevin Wade),2.970,2.280
+4,7:39,3,10,NYG 31,31,24,"Ryan Tannehill pass incomplete short middle intended for Damien Williams. Penalty on Jason Fox: Offensive Holding, 10 yards (no play)",2.280,0.960
+4,7:33,3,20,NYG 41,31,24,Ryan Tannehill pass incomplete deep middle intended for Jordan Cameron (defended by Craig Dahl),0.960,0.530
+4,7:29,4,20,NYG 41,31,24,Matt Darr punts 39 yards,0.530,0.380
+4,7:18,1,10,NYG 3,31,24,Rashad Jennings right guard for 2 yards (tackle by Derrick Shelby),-0.380,-0.630
+4,6:41,2,8,NYG 5,31,24,Rashad Jennings right tackle for 3 yards (tackle by Kelvin Sheppard),-0.630,-0.840
+4,6:06,3,5,NYG 8,31,24,Eli Manning pass incomplete short left intended for Shane Vereen,-0.840,-2.490
+4,5:59,4,5,NYG 8,31,24,Brad Wing punts 40 yards,-2.490,-2.390
+4,5:50,1,10,NYG 48,31,24,"Ryan Tannehill pass incomplete short left intended for Jarvis Landry (defended by Trevin Wade). Penalty on Jarvis Landry: Unnecessary Roughness, 15 yards",2.390,-0.180
+4,5:45,2,25,MIA 37,31,24,Ryan Tannehill pass complete short middle to DeVante Parker for 14 yards (tackle by Jasper Brinkley and Cooper Taylor),-0.180,1.030
+4,5:04,3,11,NYG 49,31,24,Ryan Tannehill pass incomplete deep left intended for Jarvis Landry,1.030,0.000
+4,4:52,4,11,NYG 49,31,24,"Matt Darr punts 49 yards, touchback",0.000,-0.280
+4,4:39,1,10,NYG 20,31,24,Eli Manning pass complete short right to Odell Beckham for 8 yards (tackle by Brice McCain),0.280,0.810
+4,4:32,2,2,NYG 28,31,24,Rashad Jennings right guard for no gain (tackle by Reshad Jones),0.810,0.100
+4,3:56,3,2,NYG 28,31,24,Rashad Jennings left guard for 3 yards (tackle by Kelvin Sheppard and Koa Misi),0.100,1.000
+4,3:18,1,10,NYG 31,31,24,Rashad Jennings right guard for 2 yards (tackle by Reshad Jones),1.000,1.000
+4,3:01,1,10,NYG 31,31,24,Timeout #2 by Miami Dolphins,1.000,0.730
+4,3:01,2,8,NYG 33,31,24,Eli Manning pass complete short right to Dwayne Harris for 12 yards (tackle by Michael Thomas),0.730,1.930
+4,2:22,1,10,NYG 45,31,24,Rashad Jennings middle for 6 yards (tackle by Koa Misi),1.930,1.930
+4,2:12,1,10,NYG 45,31,24,Timeout #3 by Miami Dolphins,1.930,2.190
+4,2:12,2,4,MIA 49,31,24,Rashad Jennings right tackle for 1 yard (tackle by Ndamukong Suh),2.190,1.620
+4,2:00,3,3,MIA 48,31,24,Eli Manning pass complete short right to Odell Beckham for 5 yards (tackle by Reshad Jones),1.620,2.720
+4,1:22,1,10,MIA 43,31,24,Eli Manning kneels for -1 yards,2.720,2.040
+4,0:37,2,11,MIA 44,31,24,Eli Manning kneels for -1 yards,2.040,1.220
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

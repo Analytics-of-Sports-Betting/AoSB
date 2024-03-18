@@ -1,0 +1,181 @@
+Quarter,Time,Down,ToGo,Location,CIN,PIT,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Steelers won the coin toss, Steelers to receive the opening kickoff.",,
+1,15:00,,,CIN 35,0,0,"Mike Nugent kicks off 65 yards, touchback",0.000,-0.280
+1,15:00,1,10,PIT 20,0,0,"Ben Roethlisberger pass complete short right to Le'Veon Bell for 5 yards. Penalty on Dre Kirkpatrick: Face Mask (15 Yards), 15 yards",0.280,1.600
+1,14:46,1,10,PIT 40,0,0,Le'Veon Bell right tackle for 4 yards (tackle by Vontaze Burfict),1.600,1.590
+1,14:14,2,6,PIT 44,0,0,Ben Roethlisberger pass complete short right to Antonio Brown for 12 yards (tackle by Reggie Nelson),1.590,2.650
+1,13:47,1,10,CIN 44,0,0,Le'Veon Bell right guard for 4 yards (tackle by Vontaze Burfict),2.650,2.650
+1,13:12,2,6,CIN 40,0,0,Le'Veon Bell left tackle for 1 yard (tackle by Chris Crocker and George Iloka),2.650,2.080
+1,12:33,3,5,CIN 39,0,0,Le'Veon Bell right end for 2 yards (tackle by Vincent Rey and Vontaze Burfict),2.080,0.790
+1,12:00,4,3,CIN 37,0,0,"Mat McBriar punts 30 yards, fair catch by Brandon Tate",0.790,0.380
+1,11:53,1,10,CIN 7,0,0,Andy Dalton pass complete short right to A.J. Green for 9 yards (tackle by Cortez Allen),-0.380,-0.020
+1,11:22,2,1,CIN 16,0,0,Andy Dalton pass incomplete short left intended for Marvin Jones (defended by Troy Polamalu),-0.020,-0.370
+1,11:16,3,1,CIN 16,0,0,BenJarvus Green-Ellis up the middle for no gain (tackle by Vince Williams),-0.370,-2.390
+1,10:47,4,1,CIN 16,0,0,"Kevin Huber for no gain. Kevin Huber fumbles, recovered by Kevin Huber at CIN-1",-2.390,-6.970
+1,10:40,1,1,CIN 1,0,0,Le'Veon Bell up the middle for no gain (tackle by Michael Johnson and Vincent Rey),6.970,5.910
+1,10:03,2,1,CIN 1,0,6,"Le'Veon Bell right tackle for 1 yard, touchdown",5.910,7.000
+1,10:03,,,CIN 2,0,7,Shaun Suisham kicks extra point good,0.000,0.000
+1,10:03,,,PIT 35,0,7,"Shaun Suisham kicks off 56 yards, fair catch by Cedric Peerman",0.000,0.380
+1,9:52,1,10,CIN 9,0,7,Andy Dalton pass incomplete short left intended for Giovani Bernard,-0.380,-0.780
+1,9:49,2,10,CIN 9,0,7,Andy Dalton right tackle for 9 yards (tackle by Ryan Clark),-0.780,-0.370
+1,9:08,3,1,CIN 18,0,7,BenJarvus Green-Ellis left guard for 1 yard (tackle by Lawrence Timmons and Al Woods),-0.370,0.150
+1,8:28,1,10,CIN 19,0,7,"Penalty on Andre Smith: False Start, 5 yards (no play)",0.150,-0.390
+1,8:05,1,15,CIN 14,0,7,Andy Dalton pass incomplete short right intended for Andrew Hawkins,-0.390,-1.110
+1,8:01,2,15,CIN 14,0,7,Giovani Bernard right end for 4 yards (tackle by Terence Garvin and Jason Worilds),-1.110,-1.250
+1,7:15,3,11,CIN 18,0,7,Andy Dalton sacked by Evander Hood for -8 yards,-1.250,-2.490
+1,6:47,4,19,CIN 10,0,7,"Kevin Huber punts 48 yards, returned by Antonio Brown for 11 yards (tackle by Cedric Peerman)",-2.490,-2.460
+1,6:36,1,10,CIN 47,0,7,Ben Roethlisberger pass complete short left to Le'Veon Bell for 9 yards (tackle by Domata Peko and Brandon Thompson),2.460,3.130
+1,6:08,2,1,CIN 38,0,7,Le'Veon Bell up the middle for 1 yard (tackle by James Harrison),3.130,3.120
+1,5:29,1,10,CIN 37,0,7,Ben Roethlisberger pass complete short right to Heath Miller for 4 yards (tackle by James Harrison),3.120,3.110
+1,4:51,2,6,CIN 33,0,7,Le'Veon Bell right guard for no gain (tackle by Michael Johnson),3.110,2.410
+1,4:16,3,6,CIN 33,0,7,Ben Roethlisberger pass complete short middle to Jerricho Cotchery for 2 yards (tackle by James Harrison),2.410,1.370
+1,3:32,4,4,CIN 31,0,7,Ben Roethlisberger pass complete short right to Le'Veon Bell for 16 yards,1.370,4.580
+1,3:05,1,10,CIN 15,0,7,Le'Veon Bell right guard for 3 yards (tackle by Brandon Thompson),4.580,4.450
+1,2:24,2,7,CIN 12,0,13,"Ben Roethlisberger pass complete short middle to Antonio Brown for 12 yards, touchdown",4.450,7.000
+1,2:24,,,CIN 2,0,14,Shaun Suisham kicks extra point good,0.000,0.000
+1,2:24,,,PIT 35,0,14,"Shaun Suisham kicks off 51 yards, returned by Cedric Peerman for 19 yards (tackle by Shamarko Thomas)",0.000,-1.140
+1,2:09,1,10,CIN 33,0,14,BenJarvus Green-Ellis right guard for 1 yard (tackle by Al Woods),1.140,0.730
+1,1:37,2,9,CIN 34,0,14,Andy Dalton pass incomplete short right intended for A.J. Green,0.730,0.040
+1,1:30,3,9,CIN 34,0,14,Andy Dalton pass incomplete short left intended for A.J. Green (defended by Ike Taylor),0.040,-1.110
+1,1:27,4,9,CIN 34,0,14,"Penalty on Brandon Ghee: False Start, 5 yards (no play)",-1.110,-1.440
+1,1:27,4,14,CIN 29,0,20,"Kevin Huber punts 38 yards, returned by Antonio Brown for 67 yards, touchdown",-1.440,-7.000
+1,1:12,,,CIN 2,0,21,Shaun Suisham kicks extra point good,0.000,0.000
+1,1:12,,,PIT 35,0,21,"Shaun Suisham kicks off 59 yards, returned by Brandon Tate for 17 yards (tackle by Markus Wheaton)",0.000,-0.480
+1,1:07,1,10,CIN 23,0,21,Andy Dalton pass complete short right to A.J. Green for 6 yards (tackle by Cortez Allen),0.480,0.740
+1,0:37,2,4,CIN 29,0,21,Giovani Bernard right guard for 1 yard (tackle by Lawrence Timmons),0.740,0.170
+Quarter,Time,Down,ToGo,Location,CIN,PIT,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,3,CIN 30,0,21,"Andy Dalton pass incomplete short middle intended for Giovani Bernard (defended by Lawrence Timmons). Penalty on Lawrence Timmons: Defensive Holding, 5 yards (no play)",0.170,1.270
+2,14:57,1,10,CIN 35,0,21,Andy Dalton pass incomplete short right intended for Mohamed Sanu (defended by Ike Taylor),1.270,0.720
+2,14:51,2,10,CIN 35,0,21,"Penalty on Andrew Whitworth: False Start, 5 yards (no play)",0.720,0.050
+2,14:51,2,15,CIN 30,0,21,Andy Dalton pass incomplete short right intended for Giovani Bernard,0.050,-0.630
+2,14:45,3,15,CIN 30,0,21,Andy Dalton pass incomplete short left intended for A.J. Green (defended by William Gay),-0.630,-1.370
+,,,,,,,"PIT challenged the pass completion ruling, and the original play was overturned.",,
+2,14:41,4,15,CIN 30,0,21,Mike Nugent punts 37 yards,-1.370,-1.140
+2,14:31,1,10,PIT 33,0,21,Ben Roethlisberger pass complete short left to Emmanuel Sanders for 21 yards (tackle by Michael Johnson),1.140,2.520
+2,14:04,1,10,CIN 46,0,21,Ben Roethlisberger pass complete short left to Emmanuel Sanders for -1 yards,2.520,1.840
+2,13:22,2,11,CIN 47,0,21,Ben Roethlisberger pass complete short right to Emmanuel Sanders for 12 yards (tackle by Chris Crocker),1.840,3.250
+2,12:37,1,10,CIN 35,0,21,Ben Roethlisberger pass complete short left to Heath Miller for 9 yards (tackle by Rey Maualuga),3.250,3.920
+2,11:59,2,1,CIN 26,0,21,Le'Veon Bell up the middle for 2 yards (tackle by Michael Johnson and Reggie Nelson),3.920,3.970
+2,11:26,1,10,CIN 24,0,21,Le'Veon Bell up the middle for 8 yards (tackle by Reggie Nelson),3.970,4.650
+2,10:55,2,2,CIN 16,0,21,Ben Roethlisberger pass complete short right to Antonio Brown for 11 yards (tackle by Dre Kirkpatrick),4.650,6.060
+2,10:30,1,5,CIN 5,0,21,Ben Roethlisberger pass incomplete short left intended for Matt Spaeth,6.060,5.150
+2,10:24,2,5,CIN 5,0,21,Ben Roethlisberger pass complete short left to Emmanuel Sanders for -2 yards,5.150,3.810
+2,9:44,3,7,CIN 7,0,21,Ben Roethlisberger pass incomplete short middle intended for Jerricho Cotchery (defended by George Iloka),3.810,2.970
+2,9:39,4,7,CIN 7,0,24,Shaun Suisham 25 yard field goal good,2.970,3.000
+2,9:39,,,PIT 35,0,24,"Shaun Suisham kicks off 64 yards, returned by Brandon Tate for 52 yards (tackle by Antwon Blake)",0.000,-2.460
+2,9:27,1,10,PIT 47,0,24,Andy Dalton pass complete deep left to A.J. Green for 19 yards (tackle by Ike Taylor),2.460,3.710
+2,8:59,1,10,PIT 28,0,24,Giovani Bernard right tackle for 7 yards (tackle by Lawrence Timmons),3.710,4.110
+2,8:26,2,3,PIT 21,0,24,Andy Dalton pass complete short left to A.J. Green for 9 yards (tackle by William Gay),4.110,4.780
+2,7:50,1,10,PIT 12,0,24,Andy Dalton pass incomplete short right intended for A.J. Green,4.780,4.100
+2,7:45,2,10,PIT 12,0,24,Giovani Bernard left tackle for 4 yards (tackle by Jarvis Jones and Cameron Heyward),4.100,3.930
+2,7:06,3,6,PIT 8,0,24,Andy Dalton pass complete short middle to Giovani Bernard for 5 yards (tackle by Evander Hood and Cameron Heyward),3.930,3.060
+2,6:36,4,1,PIT 3,0,24,Andy Dalton up the middle for 2 yards (tackle by Vince Williams),3.060,6.970
+2,5:55,1,1,PIT 1,0,24,Giovani Bernard up the middle for no gain (tackle by Ryan Clark and Hebron Fangupo),6.970,5.910
+2,5:19,2,1,PIT 1,6,24,"Giovani Bernard up the middle for 1 yard, touchdown",5.910,7.000
+2,5:19,,,PIT 2,7,24,Mike Nugent kicks extra point good,0.000,0.000
+2,5:19,,,CIN 35,7,24,"Mike Nugent kicks off 58 yards, returned by Felix Jones for 20 yards (tackle by J.K. Schaffer)",0.000,-0.740
+2,5:06,1,10,PIT 27,7,24,Felix Jones up the middle for 1 yard (tackle by Wallace Gilberry and Rey Maualuga),0.740,0.330
+2,4:27,2,9,PIT 28,7,24,Felix Jones left guard for 12 yards (tackle by Reggie Nelson),0.330,1.600
+2,3:54,1,10,PIT 40,7,24,Felix Jones left tackle for 4 yards,1.600,1.590
+2,3:21,2,6,PIT 44,7,24,Ben Roethlisberger pass complete short middle to Heath Miller for 9 yards (tackle by Rey Maualuga and Vontaze Burfict),1.590,2.460
+2,2:49,1,10,CIN 47,7,24,Jonathan Dwyer up the middle for 5 yards (tackle by Reggie Nelson and Vontaze Burfict),2.460,2.590
+2,2:14,2,5,CIN 42,7,24,Jonathan Dwyer right end for 10 yards (tackle by Dre Kirkpatrick),2.590,3.450
+2,2:00,1,10,CIN 32,7,24,Felix Jones up the middle for 4 yards (tackle by Wallace Gilberry and Domata Peko),3.450,3.440
+2,1:31,2,6,CIN 28,7,24,Felix Jones left guard for 1 yard (tackle by George Iloka),3.440,3.440
+2,1:21,2,6,CIN 28,7,24,Timeout #1 by Cincinnati Bengals,3.440,2.870
+2,1:21,3,5,CIN 27,7,24,Ben Roethlisberger pass incomplete short left intended for Antonio Brown,2.870,1.720
+2,1:19,4,5,CIN 27,7,27,Shaun Suisham 45 yard field goal good,1.720,3.000
+2,1:19,,,PIT 35,7,27,"Shaun Suisham kicks off 65 yards, touchback",0.000,-0.280
+2,1:14,1,10,CIN 20,7,27,Andy Dalton pass incomplete short left intended for Marvin Jones,0.280,-0.270
+2,1:11,2,10,CIN 20,7,27,Andy Dalton up the middle for 4 yards (tackle by Jason Worilds),-0.270,-0.430
+2,0:27,3,6,CIN 24,7,27,Andy Dalton pass complete short left to Mohamed Sanu for 9 yards (tackle by Troy Polamalu and Ike Taylor),-0.430,-0.430
+2,0:21,3,6,CIN 24,7,27,Timeout #2 by Cincinnati Bengals,-0.430,1.140
+2,0:21,1,10,CIN 33,7,27,Andy Dalton pass complete short left to Giovani Bernard for 8 yards (tackle by Cameron Heyward),1.140,1.670
+Quarter,Time,Down,ToGo,Location,CIN,PIT,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PIT 35,7,27,"Shaun Suisham kicks off no gain, returned by Brandon Tate for 26 yards (tackle by Markus Wheaton)",0.000,1.400
+3,14:52,1,10,CIN 37,7,27,Andy Dalton pass incomplete short left intended for A.J. Green,1.400,0.860
+3,14:48,2,10,CIN 37,7,27,"BenJarvus Green-Ellis left end for 1 yard (tackle by Lawrence Timmons and Jarvis Jones). Penalty on Andrew Whitworth: Offensive Holding, 10 yards (no play)",0.860,-0.490
+3,14:26,2,20,CIN 27,7,27,Andy Dalton right tackle for 5 yards (tackle by Evander Hood),-0.490,-0.490
+3,13:41,3,15,CIN 32,7,27,"Andy Dalton pass complete short left to Jermaine Gresham for 14 yards (tackle by Troy Polamalu and Ike Taylor). Jermaine Gresham fumbles (forced by Troy Polamalu), recovered by Evander Hood at CIN-48 (tackle by Andrew Hawkins)",-0.490,-2.390
+,,,,,,,"PIT challenged the runner was down by contact ruling, and the original play was overturned.",,
+3,13:33,1,10,CIN 48,7,27,"Le'Veon Bell right tackle for no gain (tackle by Reggie Nelson). Penalty on Matt Spaeth: Offensive Holding, 10 yards",2.390,1.730
+3,13:12,1,20,PIT 42,7,27,Ben Roethlisberger pass complete short left to Le'Veon Bell for 17 yards (tackle by Vontaze Burfict),1.730,2.790
+3,12:32,2,3,CIN 41,7,27,Ben Roethlisberger pass incomplete deep left intended for Emmanuel Sanders,2.790,0.380
+3,12:22,1,10,CIN 2,7,27,BenJarvus Green-Ellis left guard for 2 yards (tackle by Vince Williams and Jason Worilds),-0.380,-0.630
+3,11:49,2,8,CIN 4,7,27,Andy Dalton pass complete short left to A.J. Green for 11 yards (tackle by Ike Taylor),-0.630,-0.220
+3,11:29,1,10,CIN 15,7,27,Andy Dalton pass complete short left to Mohamed Sanu for 5 yards (tackle by Ike Taylor),-0.220,0.080
+3,10:57,2,5,CIN 20,7,27,Andy Dalton pass incomplete short right intended for Jermaine Gresham,0.080,-0.760
+3,10:50,3,5,CIN 20,7,27,Andy Dalton pass incomplete short right intended for A.J. Green,-0.760,-2.030
+3,10:47,4,5,CIN 20,7,27,Mike Nugent punts 43 yards,-2.030,-1.400
+3,10:37,1,10,PIT 37,7,27,Le'Veon Bell up the middle for 2 yards (tackle by Carlos Dunlap),1.400,1.130
+3,10:02,2,8,PIT 39,7,27,Ben Roethlisberger pass complete deep left to Antonio Brown for 20 yards,1.130,2.850
+3,9:46,1,10,CIN 41,7,27,Le'Veon Bell up the middle for 1 yard (tackle by George Iloka),2.850,2.440
+3,9:03,2,9,CIN 40,7,27,Ben Roethlisberger pass complete short right to Heath Miller for 13 yards (tackle by George Iloka),2.440,3.780
+3,8:43,1,10,CIN 27,7,27,"Le'Veon Bell left tackle for 6 yards (tackle by Rey Maualuga and Jayson DiManche). Penalty on Reggie Nelson: Taunting, 10 yards",3.780,4.840
+3,8:13,1,10,CIN 11,7,27,Ben Roethlisberger pass incomplete short middle intended for Jerricho Cotchery,4.840,4.140
+3,8:10,2,10,CIN 11,7,27,Le'Veon Bell right end for 4 yards (tackle by Carlos Dunlap and Vontaze Burfict),4.140,3.980
+3,7:27,3,6,CIN 7,7,27,Le'Veon Bell up the middle for 4 yards (tackle by Vontaze Burfict and Michael Johnson),3.980,3.050
+3,6:41,4,2,CIN 3,7,27,"Penalty on Guy Whimper: False Start, 5 yards (no play)",3.050,2.960
+3,6:22,4,7,CIN 8,7,30,Shaun Suisham 26 yard field goal good,2.960,3.000
+3,6:22,,,PIT 35,7,30,"Shaun Suisham kicks off 64 yards, returned by Brandon Tate for 36 yards (tackle by Terence Garvin)",0.000,-1.400
+3,6:11,1,10,CIN 37,7,30,Andy Dalton pass complete short right to Jermaine Gresham for 1 yard (tackle by Vince Williams),1.400,0.990
+3,5:36,2,9,CIN 38,7,30,Andy Dalton pass complete short left to A.J. Green for 10 yards (tackle by Ike Taylor),0.990,2.130
+3,5:01,1,10,CIN 48,7,30,Andy Dalton pass complete short right to Marvin Jones for 8 yards (tackle by Cortez Allen),2.130,2.660
+3,4:26,2,2,PIT 44,7,30,Andy Dalton pass complete short right to A.J. Green for 7 yards (tackle by Cortez Allen),2.660,3.120
+3,3:56,1,10,PIT 37,7,30,Andy Dalton pass complete short left to Marvin Jones for 9 yards (tackle by Will Allen),3.120,3.790
+3,3:12,2,1,PIT 28,7,30,Giovani Bernard up the middle for 4 yards (tackle by Evander Hood and Al Woods),3.790,3.970
+3,2:35,1,10,PIT 24,7,30,Andy Dalton pass complete short right to Jermaine Gresham for 8 yards (tackle by Will Allen),3.970,4.650
+3,2:02,2,2,PIT 16,7,30,Andy Dalton pass incomplete short middle intended for A.J. Green (defended by Al Woods),4.650,3.950
+3,1:57,3,2,PIT 16,7,30,Andy Dalton pass complete short right to A.J. Green for 11 yards (tackle by Will Allen),3.950,6.060
+3,1:14,1,5,PIT 5,7,30,Giovani Bernard up the middle for 1 yard (tackle by Vince Williams),6.060,5.340
+3,0:35,2,4,PIT 4,7,30,Giovani Bernard up the middle for 3 yards (tackle by Vince Williams),5.340,5.170
+Quarter,Time,Down,ToGo,Location,CIN,PIT,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,1,PIT 1,7,30,Giovani Bernard up the middle for no gain (tackle by Al Woods),5.170,3.550
+4,14:13,4,1,PIT 1,13,30,"Andy Dalton pass complete short right to Tyler Eifert for 1 yard, touchdown",3.550,7.000
+4,14:13,,,PIT 2,14,30,Mike Nugent kicks extra point good,0.000,0.000
+4,14:13,,,CIN 35,14,30,"Mike Nugent kicks off 65 yards, touchback",0.000,-0.280
+4,14:08,1,10,PIT 20,14,30,(tackle by George Iloka),0.280,-0.130
+4,13:43,2,9,PIT 21,14,30,Le'Veon Bell right guard for 3 yards (tackle by Rey Maualuga and Vontaze Burfict),-0.130,-0.430
+4,12:56,3,6,PIT 24,14,30,Ben Roethlisberger pass complete short right to Antonio Brown for 11 yards (tackle by Dre Kirkpatrick),-0.430,1.270
+4,12:15,1,10,PIT 35,14,30,Le'Veon Bell right guard for 1 yard (tackle by Vontaze Burfict),1.270,0.860
+4,11:40,2,9,PIT 36,14,30,Ben Roethlisberger pass complete short right to Le'Veon Bell for 3 yards (tackle by Vontaze Burfict),0.860,0.560
+4,11:10,3,6,PIT 39,14,30,"Penalty on Cody Wallace: False Start, 5 yards (no play)",0.560,0.560
+4,10:46,3,6,PIT 39,14,30,Timeout #1 by Pittsburgh Steelers,0.560,-0.100
+4,10:46,3,11,PIT 34,14,30,Ben Roethlisberger sacked by Wallace Gilberry for -7 yards,-0.100,-1.570
+4,10:20,4,18,PIT 27,14,30,"Mat McBriar punts 48 yards, out of bounds",-1.570,-0.610
+4,10:12,1,10,CIN 25,14,30,Andy Dalton pass complete short left to Tyler Eifert for 19 yards (tackle by Troy Polamalu and Ryan Clark),0.610,1.860
+4,9:42,1,10,CIN 44,14,30,Andy Dalton pass complete short left to A.J. Green for 11 yards (tackle by Ike Taylor),1.860,2.590
+4,9:16,1,10,PIT 45,14,30,Andy Dalton pass complete short right to Marvin Jones for 11 yards (tackle by Cortez Allen and Ryan Clark),2.590,3.310
+4,8:45,1,10,PIT 34,14,30,Giovani Bernard right guard for 2 yards (tackle by Troy Polamalu),3.310,3.040
+4,8:13,2,8,PIT 32,14,30,Andy Dalton pass complete short right to Marvin Jones for 7 yards (tackle by Cortez Allen),3.040,3.270
+4,7:48,3,1,PIT 25,14,30,Giovani Bernard up the middle for 7 yards (tackle by Lawrence Timmons),3.270,4.370
+4,7:19,1,10,PIT 18,14,30,Andy Dalton pass incomplete short left intended for Marvin Jones,4.370,3.800
+4,7:15,2,10,PIT 18,14,30,Giovani Bernard left guard for -1 yards (tackle by Lawrence Timmons),3.800,2.970
+4,6:37,3,11,PIT 19,14,30,Andy Dalton pass complete short right to Mohamed Sanu for 6 yards (tackle by Troy Polamalu and Cortez Allen),2.970,2.620
+4,5:51,4,5,PIT 13,20,30,"Andy Dalton pass complete short left to Marvin Jones for 13 yards, touchdown",2.620,7.000
+4,5:51,,,,20,30,"Two Point Attempt: Andy Dalton pass incomplete intended for Tyler Eifert, conversion fails",0.000,-1.000
+4,5:51,,,CIN 35,20,30,"Mike Nugent kicks off 65 yards, touchback",0.000,-0.280
+4,5:46,1,10,PIT 20,20,30,Le'Veon Bell up the middle for 6 yards (tackle by Domata Peko),0.280,0.280
+4,5:42,1,10,PIT 20,20,30,Timeout #1 by Cincinnati Bengals,0.280,0.540
+4,5:42,2,4,PIT 26,20,30,Le'Veon Bell up the middle for -3 yards (tackle by Reggie Nelson),0.540,0.540
+4,5:38,2,4,PIT 26,20,30,Timeout #2 by Cincinnati Bengals,0.540,-0.560
+4,5:38,3,7,PIT 23,20,30,Ben Roethlisberger pass complete short left to Emmanuel Sanders for 8 yards (tackle by Vincent Rey),-0.560,1.000
+4,4:55,1,10,PIT 31,20,30,Le'Veon Bell up the middle for no gain (tackle by Rey Maualuga),1.000,1.000
+4,4:51,1,10,PIT 31,20,30,Timeout #3 by Cincinnati Bengals,1.000,0.460
+4,4:51,2,10,PIT 31,20,30,Le'Veon Bell right tackle for 6 yards (tackle by Carlos Dunlap),0.460,0.560
+4,4:07,3,4,PIT 37,20,30,Le'Veon Bell up the middle for 1 yard,0.560,-0.850
+4,3:23,4,3,PIT 38,20,30,"Mat McBriar punts 37 yards, out of bounds",-0.850,-0.610
+4,3:17,1,10,CIN 25,20,30,Andy Dalton pass complete short left to Tyler Eifert for 13 yards (tackle by Will Allen),0.610,1.470
+4,2:56,1,10,CIN 38,20,30,Andy Dalton pass incomplete short right intended for Marvin Jones,1.470,0.920
+4,2:52,2,10,CIN 38,20,30,Andy Dalton pass incomplete short middle intended for Jermaine Gresham,0.920,0.230
+4,2:48,3,10,CIN 38,20,30,Andy Dalton pass incomplete short right intended for A.J. Green (defended by Cortez Allen),0.230,-0.850
+4,2:43,4,10,CIN 38,20,30,Andy Dalton pass incomplete deep middle intended for A.J. Green,-0.850,-3.050
+4,2:36,1,10,CIN 38,20,30,Jonathan Dwyer right guard for 8 yards (tackle by Jayson DiManche and Dre Kirkpatrick),3.050,3.590
+4,2:00,2,2,CIN 30,20,30,Jonathan Dwyer right guard for no gain (tackle by Michael Boley and George Iloka),3.590,2.870
+4,1:19,3,2,CIN 30,20,30,Jonathan Dwyer right guard for 1 yard (tackle by Michael Johnson),2.870,1.620
+4,0:38,4,1,CIN 29,20,30,Jonathan Dwyer left guard for 2 yards (tackle by Michael Johnson and Vontaze Burfict),1.620,3.510
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,182 @@
+Quarter,Time,Down,ToGo,Location,DEN,LAC,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Chargers won the coin toss and deferred, Broncos to receive the opening kickoff.",,
+1,15:00,,,LAC 35,0,0,"Michael Badgley kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,DEN 25,0,0,Case Keenum pass incomplete short right intended for Courtland Sutton,0.610,0.060
+1,14:55,2,10,DEN 25,0,0,"Case Keenum pass complete short right to Phillip Lindsay for 8 yards (tackle by Kyle Emanuel). Penalty on Corey Liuget: Defensive Offside, 5 yards (no play)",0.060,0.740
+1,14:35,2,5,DEN 30,0,0,Case Keenum pass incomplete short right intended for Emmanuel Sanders,0.740,0.040
+1,14:31,3,5,DEN 30,0,0,Case Keenum pass complete short right to DaeSean Hamilton for 4 yards (tackle by Michael Davis),0.040,-1.110
+1,13:57,4,1,DEN 34,0,0,Colby Wadman punts 46 yards downed by Brian Parker,-1.110,-0.280
+1,13:47,1,10,LAC 20,0,0,Keenan Allen left tackle for 1 yard (tackle by Bradley Chubb and Adam Gotsis),0.280,-0.130
+1,13:12,2,9,LAC 21,0,0,Philip Rivers pass complete short left to Tyrell Williams for 3 yards (tackle by Su'a Cravens),-0.130,-0.430
+1,12:27,3,6,LAC 24,0,0,Philip Rivers pass complete deep middle to Keenan Allen for 27 yards (tackle by Darian Stewart),-0.430,2.320
+1,11:44,1,10,DEN 49,0,0,Melvin Gordon up the middle for 5 yards (tackle by Zach Kerr and Todd Davis),2.320,2.460
+1,11:04,2,5,DEN 44,0,0,Melvin Gordon right tackle for 3 yards (tackle by Shaquil Barrett),2.460,2.150
+1,10:22,3,2,DEN 41,0,0,Philip Rivers pass complete short middle to Keenan Allen for 7 yards (tackle by Darian Stewart),2.150,3.310
+1,9:42,1,10,DEN 34,0,0,Philip Rivers pass incomplete short left intended for Virgil Green (defended by Todd Davis),3.310,2.770
+1,9:37,2,10,DEN 34,0,0,Philip Rivers pass incomplete short left intended for Tyrell Williams (defended by Justin Simmons),2.770,2.080
+1,9:32,3,10,DEN 34,0,0,Philip Rivers pass complete short right to Antonio Gates for 14 yards (tackle by Su'a Cravens),2.080,4.240
+1,8:46,1,10,DEN 20,0,0,"Melvin Gordon left end for no gain (tackle by Bradley Roby). Penalty on Mike Pouncey: Offensive Holding, 10 yards (no play)",4.240,3.580
+1,8:25,1,20,DEN 30,0,0,Philip Rivers pass incomplete deep left intended for Travis Benjamin,3.580,2.340
+1,8:19,2,20,DEN 30,0,0,"Penalty on Mike Pouncey: False Start, 5 yards (no play)",2.340,1.670
+1,8:18,2,25,DEN 35,0,0,Philip Rivers pass complete short right to Keenan Allen for 4 yards (tackle by Shelby Harris),1.670,1.550
+1,7:42,3,21,DEN 31,0,0,Austin Ekeler up the middle for 3 yards (tackle by Shaquil Barrett and Todd Davis),1.550,1.590
+1,7:05,4,18,DEN 28,0,3,Michael Badgley 46 yard field goal good,1.590,3.000
+1,7:00,,,LAC 35,0,3,"Michael Badgley kicks off 66 yards, returned by Adam Jones for no gain (tackle by Rayshawn Jenkins). Penalty on Andy Janovich: Offensive Holding, 7 yards",0.000,-0.380
+1,6:55,1,10,DEN 8,0,3,Case Keenum pass complete short left to Courtland Sutton for 9 yards (tackle by Derwin James),-0.380,0.050
+1,6:22,2,1,DEN 17,0,3,Phillip Lindsay up the middle for 7 yards (tackle by Jatavis Brown),0.050,0.540
+1,5:45,1,10,DEN 24,0,3,Case Keenum pass incomplete short middle intended for Matt LaCosse,0.540,0.000
+1,5:39,2,10,DEN 24,0,3,Case Keenum pass complete short left to Phillip Lindsay for 8 yards (tackle by Joey Bosa),0.000,0.370
+1,4:59,3,2,DEN 32,0,3,Case Keenum pass incomplete deep right,0.370,-1.240
+1,4:51,4,2,DEN 32,0,3,"Colby Wadman punts 52 yards, returned by Travis Benjamin for 2 yards (tackle by Isaac Yiadom)",-1.240,-0.040
+1,4:43,1,10,LAC 18,0,3,Melvin Gordon right guard for no gain (tackle by Derek Wolfe and Bradley Chubb),0.040,-0.490
+1,4:00,2,10,LAC 18,0,3,Philip Rivers pass incomplete short left intended for Tyrell Williams,-0.490,-1.170
+1,3:56,3,10,LAC 18,0,3,Philip Rivers pass complete deep left to Mike Williams for 27 yards (tackle by Bradley Roby),-1.170,1.930
+1,3:18,1,10,LAC 45,0,3,Philip Rivers pass complete deep middle to Virgil Green for 26 yards (tackle by Justin Simmons and Will Parks),1.930,3.640
+1,2:37,1,10,DEN 29,0,3,"Derek Watt up the middle for no gain (tackle by Domata Peko and Justin Simmons). Penalty on Virgil Green: Illegal Shift, 5 yards (no play)",3.640,3.310
+1,2:10,1,15,DEN 34,0,3,Melvin Gordon up the middle for -1 yards (tackle by Zach Kerr and Su'a Cravens),3.310,2.290
+1,1:27,2,16,DEN 35,0,3,Philip Rivers pass incomplete short right intended for Keenan Allen (defended by Darian Stewart),2.290,1.620
+1,1:22,3,16,DEN 35,0,3,"Penalty on Joe Barksdale: False Start, 5 yards (no play)",1.620,0.960
+1,1:22,3,21,DEN 40,0,3,Philip Rivers pass complete short right to Melvin Gordon for 13 yards (tackle by Justin Simmons and Josey Jewell),0.960,1.670
+1,0:45,4,8,DEN 27,0,6,Michael Badgley 45 yard field goal good,1.670,3.000
+1,0:39,,,LAC 35,0,6,"Michael Badgley kicks off 67 yards, returned by Devontae Booker for no gain (tackle by Adrian Phillips and Brandon Facyson). Penalty on Jeff Richards: Unnecessary Roughness, 15 yards",0.000,0.940
+1,0:33,1,10,DEN 30,0,6,Royce Freeman right end for no gain (tackle by Adrian Phillips),0.940,0.390
+1,0:02,2,10,DEN 30,0,6,"Penalty on Brandon Mebane: Encroachment, 5 yards (no play)",0.390,1.070
+Quarter,Time,Down,ToGo,Location,DEN,LAC,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,5,DEN 35,0,6,Royce Freeman right guard for 7 yards (tackle by Derwin James),1.070,1.730
+2,14:21,1,10,DEN 42,0,6,Case Keenum pass complete short left to Phillip Lindsay for 2 yards (tackle by Kyle Emanuel),1.730,1.460
+2,13:42,2,8,DEN 44,0,6,Case Keenum pass complete short left to Emmanuel Sanders for 3 yards (tackle by Jatavis Brown),1.460,1.160
+2,13:03,3,5,DEN 47,0,6,Case Keenum pass incomplete deep left intended for Courtland Sutton. Penalty on Devontae Booker: Offensive Pass Interference (Declined),1.160,-0.260
+2,12:58,4,5,DEN 47,0,6,Colby Wadman pass complete short left to Andy Janovich for 12 yards (tackle by Derek Watt),-0.260,2.850
+2,12:14,1,10,LAC 41,6,6,"Phillip Lindsay up the middle for 41 yards, touchdown",2.850,7.000
+2,12:05,,,LAC 15,7,6,Brandon McManus kicks extra point good,0.000,0.000
+2,12:05,,,DEN 35,7,6,"Brandon McManus kicks off 67 yards, returned by Desmond King for no gain (tackle by Joseph Jones)",0.000,-0.320
+2,12:01,1,10,LAC 13,7,6,Melvin Gordon up the middle for 2 yards (tackle by Todd Davis),-0.320,-0.570
+2,11:21,2,8,LAC 15,7,6,Philip Rivers pass incomplete short right intended for Tyrell Williams (defended by Bradley Roby),-0.570,-1.180
+2,11:16,3,8,LAC 15,7,6,Philip Rivers pass complete short left to Antonio Gates for 27 yards (tackle by Darian Stewart),-1.180,1.730
+2,10:27,1,10,LAC 42,7,6,Philip Rivers sacked by Adam Gotsis for -5 yards,1.730,0.510
+2,9:38,2,15,LAC 37,7,6,"Penalty on LAC: Delay of Game, 5 yards (no play)",0.510,-0.160
+2,9:17,2,20,LAC 32,7,6,Philip Rivers pass short left intended for Tyrell Williams is intercepted by Chris Harris at LAC-46 and returned for no gain,-0.160,-2.520
+2,9:12,1,10,LAC 46,7,6,"Emmanuel Sanders left end for 6 yards (tackle by Jahleel Addae). Penalty on Damion Square: Unnecessary Roughness, 15 yards",2.520,3.910
+2,8:44,1,10,LAC 25,7,6,Case Keenum pass complete short right to Royce Freeman for 7 yards (tackle by Derwin James),3.910,4.370
+2,8:24,2,3,LAC 18,7,6,Royce Freeman left tackle for 1 yard (tackle by Damion Square),4.370,3.850
+2,7:44,3,2,LAC 17,7,6,Royce Freeman up the middle for 1 yard (tackle by Melvin Ingram),3.850,2.530
+2,6:57,4,1,LAC 16,7,6,Phillip Lindsay up the middle for no gain (tackle by Jatavis Brown and Kyle Emanuel),2.530,0.140
+2,6:53,1,10,LAC 16,7,6,Philip Rivers pass complete short left to Keenan Allen for 10 yards (tackle by Chris Harris),-0.140,0.670
+2,6:16,1,10,LAC 26,7,6,Melvin Gordon up the middle for 3 yards (tackle by Bradley Chubb),0.670,0.540
+2,5:37,2,7,LAC 29,7,6,Philip Rivers pass incomplete deep right intended for Keenan Allen,0.540,-0.160
+2,5:31,3,7,LAC 29,7,6,Philip Rivers pass complete short left to Melvin Gordon for 32 yards (tackle by Chris Harris and Justin Simmons),-0.160,2.980
+2,4:42,1,10,DEN 39,7,6,Austin Ekeler up the middle for 2 yards (tackle by Shelby Harris),2.980,2.710
+2,4:05,2,8,DEN 37,7,6,Austin Ekeler up the middle for 4 yards (tackle by Zach Kerr),2.710,2.540
+2,3:25,3,4,DEN 33,7,6,Philip Rivers pass complete deep right to Mike Williams for 29 yards (tackle by Tramaine Brock),2.540,6.280
+2,2:50,1,4,DEN 4,7,6,Philip Rivers pass incomplete short middle intended for Antonio Gates (defended by Todd Davis),6.280,5.340
+2,2:45,2,4,DEN 4,7,12,"Philip Rivers pass complete short middle to Keenan Allen for 4 yards, touchdown. Penalty on Keenan Allen: Unsportsmanlike Conduct, 15 yards",5.340,7.000
+2,2:39,,,DEN 15,7,13,Michael Badgley kicks extra point good,0.000,0.000
+2,2:39,,,LAC 20,7,13,"Michael Badgley kicks off 48 yards, returned by Matt LaCosse for no gain (tackle by Rayshawn Jenkins)",0.000,1.730
+2,2:35,1,10,DEN 42,7,13,Case Keenum pass incomplete short middle intended for Phillip Lindsay (defended by Jatavis Brown),1.730,1.190
+2,2:31,2,10,DEN 42,7,13,Case Keenum pass incomplete short right intended for DaeSean Hamilton (defended by Michael Davis),1.190,0.500
+2,2:24,3,10,DEN 42,7,13,Case Keenum pass complete short right to Phillip Lindsay for 11 yards (tackle by Jahleel Addae),0.500,2.460
+2,2:00,1,10,LAC 47,7,13,"Case Keenum pass incomplete short right. Penalty on Jared Veldheer: Ineligible Downfield Pass, 5 yards (no play)",2.460,2.130
+2,1:55,1,15,DEN 48,7,13,Case Keenum pass complete short left to Jeff Heuerman for 6 yards (tackle by Jatavis Brown),2.130,2.050
+2,1:32,2,9,LAC 46,7,13,Case Keenum pass complete short right to Jeff Heuerman for 6 yards (tackle by Derwin James),2.050,2.150
+2,1:07,3,3,LAC 40,7,13,Case Keenum pass incomplete short right intended for Tim Patrick,2.150,0.590
+2,1:03,4,3,LAC 40,7,13,"Penalty on DEN: Delay of Game, 5 yards (no play)",0.590,0.270
+2,0:59,4,8,LAC 45,7,13,"Colby Wadman punts 36 yards, fair catch by Travis Benjamin at LAC-9",0.270,0.380
+2,0:56,1,10,LAC 9,7,13,Philip Rivers pass complete short left to Antonio Gates for 8 yards (tackle by Todd Davis),-0.380,-0.020
+2,0:30,2,2,LAC 17,7,13,Philip Rivers sacked by Von Miller for -3 yards,-0.020,-0.840
+2,0:25,,,,,,Timeout #1 by Denver Broncos,,
+2,0:25,3,5,LAC 14,7,13,"Philip Rivers pass complete short right to Tyrell Williams for 3 yards (tackle by Tramaine Brock). Penalty on Bradley Chubb: Defensive Offside, 5 yards (no play)",-0.840,0.150
+2,0:19,1,10,LAC 19,7,13,Philip Rivers pass incomplete deep middle intended for Travis Benjamin,0.150,-0.390
+2,0:12,2,10,LAC 19,7,13,Melvin Gordon left tackle for 20 yards (tackle by Darian Stewart),-0.390,1.530
+2,0:05,,,,,,Timeout #1 by Los Angeles Chargers,,
+2,0:05,1,10,LAC 39,7,13,Philip Rivers sacked by Bradley Chubb for -9 yards,1.530,-0.230
+Quarter,Time,Down,ToGo,Location,DEN,LAC,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DEN 35,7,13,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,LAC 25,7,13,Philip Rivers pass complete deep left to Tyrell Williams for 19 yards (tackle by Darian Stewart),0.610,1.860
+3,14:35,1,10,LAC 44,7,13,Melvin Gordon left tackle for 2 yards (tackle by Bradley Chubb),1.860,1.590
+3,13:58,2,8,LAC 46,7,13,Melvin Gordon up the middle for 7 yards (tackle by Chris Harris and Bradley Roby),1.590,1.820
+3,13:38,3,1,DEN 47,7,13,Melvin Gordon left tackle for 2 yards (tackle by Darian Stewart),1.820,2.590
+3,13:03,1,10,DEN 45,7,13,Austin Ekeler left end for 17 yards (tackle by Justin Simmons and Chris Harris),2.590,3.710
+3,12:15,1,10,DEN 28,7,13,Philip Rivers pass complete short right to Melvin Gordon for 15 yards (tackle by Darian Stewart),3.710,4.710
+3,11:30,1,10,DEN 13,7,13,"Philip Rivers sacked by Shane Ray for no gain. Penalty on Chris Harris: Defensive Holding, 5 yards (no play)",4.710,5.370
+3,11:02,1,8,DEN 8,7,13,Philip Rivers pass incomplete short right intended for Antonio Gates (defended by Josey Jewell),5.370,4.570
+3,10:55,2,8,DEN 8,7,13,"Philip Rivers pass complete short right to Melvin Gordon for 4 yards (tackle by Will Parks). Penalty on Dan Feeney: Offensive Holding, 10 yards (no play)",4.570,3.150
+3,10:32,2,18,DEN 18,7,13,"Philip Rivers pass complete short left to Keenan Allen for 6 yards (tackle by Justin Simmons). Penalty on Justin Simmons: Unnecessary Roughness, 6 yards",3.150,5.830
+3,10:02,1,6,DEN 6,7,19,"Philip Rivers pass complete short left to Antonio Gates for 6 yards, touchdown",5.830,7.000
+3,9:56,,,DEN 15,7,19,Michael Badgley kicks extra point no good wide left,0.000,-1.000
+3,9:56,,,LAC 35,7,19,"Michael Badgley kicks off 65 yards, touchback.",0.000,0.610
+3,9:56,1,10,DEN 25,7,19,Phillip Lindsay up the middle for 5 yards (tackle by Jatavis Brown),0.610,0.740
+3,9:31,2,5,DEN 30,7,19,Case Keenum pass complete short right to Jeff Heuerman for 3 yards (tackle by Derwin James),0.740,0.430
+3,8:50,3,2,DEN 33,7,19,Case Keenum pass incomplete short right intended for Courtland Sutton,0.430,-1.180
+3,8:40,4,2,DEN 33,7,19,"Colby Wadman punts 45 yards, fair catch by Travis Benjamin at LAC-22",-1.180,-0.410
+3,8:38,1,10,LAC 22,7,19,Philip Rivers pass complete short middle to Keenan Allen for 7 yards (tackle by Will Parks),0.410,0.810
+3,8:02,2,3,LAC 29,7,19,Melvin Gordon left tackle for 5 yards (tackle by Shaquil Barrett and Chris Harris),0.810,1.200
+3,7:19,1,10,LAC 34,7,19,Melvin Gordon right tackle for 4 yards (tackle by Josey Jewell),1.200,1.200
+3,6:36,2,6,LAC 38,7,19,Philip Rivers pass complete short left to Melvin Gordon for 7 yards (tackle by Josey Jewell),1.200,1.930
+3,5:51,1,10,LAC 45,7,19,Austin Ekeler up the middle for 3 yards (tackle by Adam Gotsis and Will Parks),1.930,1.790
+3,5:10,2,7,LAC 48,7,19,Philip Rivers pass complete short left to Keenan Allen for 16 yards (tackle by Chris Harris). Penalty on Chris Harris: Defensive Pass Interference (Declined),1.790,3.180
+3,4:41,1,10,DEN 36,7,19,Melvin Gordon left end for 1 yard (tackle by Bradley Chubb and Josey Jewell),3.180,2.770
+3,3:59,2,9,DEN 35,7,19,Philip Rivers pass incomplete short middle intended for Virgil Green,2.770,2.080
+3,3:55,3,9,DEN 35,7,19,Philip Rivers pass short right intended for Travis Benjamin is intercepted by Von Miller at DEN-40 and returned for 42 yards,2.080,-4.370
+3,3:45,1,10,LAC 18,7,19,Phillip Lindsay right end for 8 yards (tackle by Jahleel Addae),4.370,5.230
+3,3:04,2,2,LAC 10,7,19,Royce Freeman up the middle for 7 yards (tackle by Jatavis Brown),5.230,6.510
+3,2:28,1,3,LAC 3,13,19,"Royce Freeman up the middle for 3 yards, touchdown",6.510,7.000
+3,2:24,,,LAC 15,14,19,Brandon McManus kicks extra point good,0.000,0.000
+3,2:24,,,DEN 35,14,19,"Brandon McManus kicks off 64 yards, returned by Desmond King for no gain (tackle by Keishawn Bierria and Su'a Cravens)",0.000,0.670
+3,2:17,1,10,LAC 26,14,19,Philip Rivers pass complete short middle to Keenan Allen for 8 yards (tackle by Chris Harris),0.670,1.210
+3,1:41,2,2,LAC 34,14,19,Melvin Gordon up the middle for 1 yard (tackle by Justin Simmons and Will Parks),1.210,0.630
+3,1:01,3,1,LAC 35,14,19,Philip Rivers pass incomplete short left intended for Mike Williams (defended by Bradley Roby),0.630,-1.040
+3,0:58,4,1,LAC 35,14,19,"Donnie Jones punts 38 yards, fair catch by Adam Jones at DEN-27",-1.040,-0.740
+3,0:50,1,10,DEN 27,14,19,"Phillip Lindsay right end for 4 yards (tackle by Kyle Emanuel). Penalty on Derwin James: Face Mask (15 Yards), 15 yards",0.740,1.990
+3,0:24,1,10,DEN 46,14,19,Case Keenum pass complete short left to Emmanuel Sanders for no gain (tackle by Desmond King),1.990,1.450
+Quarter,Time,Down,ToGo,Location,DEN,LAC,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,10,DEN 46,14,19,Case Keenum pass complete short middle to Courtland Sutton for 39 yards (tackle by Adrian Phillips),1.450,4.580
+4,14:16,1,10,LAC 15,14,19,Phillip Lindsay up the middle for 3 yards (tackle by Jatavis Brown),4.580,4.450
+4,13:37,2,7,LAC 12,14,19,Royce Freeman up the middle for 4 yards (tackle by Damion Square and Casey Hayward),4.450,4.450
+4,12:56,3,3,LAC 8,14,19,Case Keenum pass complete short right to Phillip Lindsay for 6 yards (tackle by Michael Davis),4.450,6.740
+4,12:20,1,2,LAC 2,20,19,"Phillip Lindsay left end for 2 yards, touchdown",6.740,7.000
+4,12:17,,,LAC 2,20,19,"Two Point Attempt: Case Keenum rushes, conversion fails.",0.000,-1.000
+4,12:17,,,DEN 35,20,19,"Brandon McManus kicks off 67 yards, returned by Desmond King for no gain (tackle by Devontae Booker and Keishawn Bierria)",0.000,0.810
+4,12:11,1,10,LAC 28,20,19,Philip Rivers pass complete short right to Austin Ekeler for 17 yards (tackle by Justin Simmons),0.810,1.930
+4,11:26,1,10,LAC 45,20,19,Philip Rivers pass complete short left to Melvin Gordon for 6 yards (tackle by Bradley Roby),1.930,2.190
+4,10:45,2,4,DEN 49,20,19,Melvin Gordon up the middle for 5 yards (tackle by Justin Simmons),2.190,2.650
+4,10:02,1,10,DEN 44,20,19,Philip Rivers pass complete short right to Austin Ekeler for 23 yards (tackle by Darian Stewart and Chris Harris),2.650,4.170
+4,9:12,1,10,DEN 21,20,19,Austin Ekeler right tackle for no gain (tackle by Todd Davis),4.170,3.630
+4,8:31,2,10,DEN 21,20,19,"Penalty on Sam Tevi: False Start, 5 yards (no play)",3.630,2.950
+4,8:09,2,15,DEN 26,20,19,Melvin Gordon up the middle for no gain (tackle by Adam Gotsis),2.950,2.280
+4,7:27,3,15,DEN 26,20,19,Philip Rivers pass complete short left to Melvin Gordon for 14 yards (tackle by Darian Stewart),2.280,2.780
+4,6:51,,,,,,Timeout #1 by Los Angeles Chargers,,
+4,6:51,4,1,DEN 12,20,22,Michael Badgley 30 yard field goal good,2.780,3.000
+4,6:47,,,LAC 35,20,22,"Michael Badgley kicks off 60 yards, returned by Devontae Booker for no gain (tackle by Rayshawn Jenkins and Adrian Phillips)",0.000,0.670
+4,6:42,1,10,DEN 26,20,22,Case Keenum pass incomplete short right intended for Emmanuel Sanders (defended by Casey Hayward),0.670,0.130
+4,6:38,2,10,DEN 26,20,22,Case Keenum pass complete short middle to Emmanuel Sanders for 15 yards (tackle by Adrian Phillips),0.130,1.660
+4,6:04,1,10,DEN 41,20,22,Phillip Lindsay right end for no gain (tackle by Uchenna Nwosu),1.660,1.120
+4,5:24,2,10,DEN 41,20,22,Phillip Lindsay left tackle for 6 yards (tackle by Brandon Mebane),1.120,1.220
+4,4:48,3,4,DEN 47,20,22,"Case Keenum pass deep left is intercepted by Adrian Phillips at LAC-14 and returned for -1 yards. Penalty on Jahleel Addae: Defensive Holding, 5 yards (no play)",1.220,2.390
+4,4:40,1,10,LAC 48,20,22,Phillip Lindsay left tackle for 3 yards (tackle by Kyle Emanuel and Brandon Mebane),2.390,2.250
+4,4:03,2,7,LAC 45,20,22,Case Keenum pass incomplete short right intended for Andy Janovich,2.250,1.550
+4,3:57,3,7,LAC 45,20,22,Case Keenum pass incomplete short right intended for Jeff Heuerman,1.550,0.270
+4,3:53,4,7,LAC 45,20,22,"Colby Wadman punts 45 yards, touchback.",0.270,-0.280
+4,3:45,1,10,LAC 20,20,22,Melvin Gordon up the middle for 3 yards (tackle by Josey Jewell),0.280,0.140
+4,3:38,,,,,,Timeout #1 by Denver Broncos,,
+4,3:38,2,7,LAC 23,20,22,Philip Rivers pass complete short right to Virgil Green for 1 yard (tackle by Darian Stewart),0.140,-0.430
+4,3:33,,,,,,Timeout #2 by Denver Broncos,,
+4,3:33,3,6,LAC 24,20,22,Philip Rivers pass complete short right to Antonio Gates for 25 yards (tackle by Justin Simmons),-0.430,2.190
+4,2:44,1,10,LAC 49,20,22,Melvin Gordon right tackle for 7 yards (tackle by Shelby Harris and Justin Simmons),2.190,2.590
+4,2:39,,,,,,Timeout #3 by Denver Broncos,,
+4,2:39,2,3,DEN 44,20,22,Philip Rivers up the middle for -4 yards (tackle by Bradley Chubb),2.590,1.360
+4,2:00,3,7,DEN 48,20,22,Philip Rivers pass incomplete short right intended for Keenan Allen,1.360,0.070
+4,1:58,4,7,DEN 48,20,22,"Donnie Jones punts 40 yards, fair catch by River Cracraft at DEN-8",0.070,0.380
+4,1:51,1,10,DEN 8,20,22,Case Keenum pass complete short right to Jeff Heuerman for 5 yards (tackle by Derwin James),-0.380,-0.410
+4,1:28,2,5,DEN 13,20,22,Case Keenum pass complete short left to Emmanuel Sanders for 38 yards (tackle by Jatavis Brown),-0.410,2.320
+4,1:05,1,10,LAC 49,20,22,Case Keenum pass complete short middle to Devontae Booker for 4 yards (tackle by Adrian Phillips),2.320,2.320
+4,0:43,2,6,LAC 45,20,22,"Case Keenum pass complete short right to Tim Patrick for 11 yards (tackle by Michael Davis). Penalty on Tim Patrick: Offensive Pass Interference, 10 yards (no play)",2.320,0.970
+4,0:37,2,16,DEN 45,20,22,Case Keenum pass complete short right to Matt LaCosse for 9 yards (tackle by Desmond King),0.970,1.490
+4,0:20,3,7,LAC 46,20,22,Case Keenum pass complete deep middle to Courtland Sutton for 30 yards (tackle by Derwin James),1.490,4.510
+4,0:04,1,10,LAC 16,20,22,Case Keenum spiked the ball,4.510,3.900
+4,0:03,,,,,,Timeout #2 by Los Angeles Chargers,,
+4,0:03,2,10,LAC 16,23,22,Brandon McManus 34 yard field goal good,3.900,3.000
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

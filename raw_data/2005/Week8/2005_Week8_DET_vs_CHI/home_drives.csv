@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,DET 39,6,3:40,34,Missed FG
+2,1,10:20,DET 30,12,6:09,56,Field Goal
+3,1,2:13,DET 32,3,1:42,8,Punt
+4,2,9:29,DET 35,3,1:41,9,Punt
+5,2,1:51,DET 16,3,0:41,2,Punt
+6,2,0:17,DET 14,1,0:17,-1,End of Half
+7,3,13:23,DET 2,3,2:13,9,Punt
+8,3,10:08,DET 15,12,6:53,85,Touchdown
+9,3,1:41,DET 36,8,3:21,52,Field Goal
+10,4,9:40,DET 28,6,2:14,21,Punt
+11,4,4:54,DET 44,6,3:00,11,Punt
+12,5,15:00,DET 22,3,2:31,6,Punt
+13,5,10:16,DET 13,3,1:33,5,Interception

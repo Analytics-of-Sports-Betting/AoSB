@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,12:16,GNB 43,3,2:05,-4,Punt
+2,1,7:53,DEN 23,15,8:35,77,Touchdown
+3,2,11:19,DEN 25,15,7:29,63,Field Goal
+4,2,2:27,DEN 18,1,0:10,-13,Fumble
+5,2,1:56,DEN 25,3,0:53,6,Punt
+6,3,15:00,DEN 25,3,1:16,12,Fumble
+7,3,12:09,DEN 25,12,6:10,75,Touchdown
+8,3,4:23,DEN 3,5,2:40,59,Interception
+9,3,0:08,DEN 25,3,1:38,7,Punt
+10,4,5:49,DEN 25,10,3:33,18,Downs
+11,4,1:05,DEN 35,4,1:05,0,End of Game

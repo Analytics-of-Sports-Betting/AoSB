@@ -1,0 +1,200 @@
+Quarter,Time,Down,ToGo,Location,PHI,ATL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Eagles won the coin toss, Eagles to receive the opening kickoff.",,
+1,15:00,,,ATL 35,0,0,"Matthew Bosher kicks off 65 yards, touchback",0.000,-0.280
+1,15:00,1,10,PHI 20,0,0,Sam Bradford pass complete short right to DeMarco Murray for 2 yards (tackle by Phillip Adams),0.280,0.000
+1,14:45,2,8,PHI 22,0,0,DeMarco Murray right guard for 2 yards (tackle by Justin Durant),0.000,-0.430
+1,14:14,3,6,PHI 24,0,0,Sam Bradford pass incomplete deep left intended for Zach Ertz,-0.430,-1.770
+1,14:10,4,6,PHI 24,0,0,"Donnie Jones punts 60 yards, returned by Eric Weems for 9 yards (tackle by Seyi Ajirotutu)",-1.770,-0.610
+1,13:59,1,10,ATL 25,0,0,Tevin Coleman left tackle for 3 yards (tackle by Cedric Thornton),0.610,0.470
+1,13:27,2,7,ATL 28,0,0,Matt Ryan pass complete short middle to Julio Jones for 17 yards (tackle by Nolan Carroll),0.470,1.930
+1,12:54,1,10,ATL 45,0,0,Matt Ryan pass complete short right to Roddy White for 25 yards (tackle by Malcolm Jenkins),1.930,3.580
+1,12:18,1,10,PHI 30,0,0,Tevin Coleman for 9 yards (tackle by Mychal Kendricks),3.580,4.250
+1,11:46,2,1,PHI 21,0,0,Devonta Freeman left end for -2 yards (tackle by Fletcher Cox and Brandon Graham),4.250,3.270
+1,11:05,3,3,PHI 23,0,0,Matt Ryan pass incomplete short right intended for Julio Jones (defended by Malcolm Jenkins),3.270,2.030
+1,11:00,4,3,PHI 23,0,3,Matt Bryant 41 yard field goal good,2.030,3.000
+1,11:00,,,ATL 35,0,3,"Matthew Bosher kicks off 65 yards, touchback",0.000,-0.280
+1,10:55,1,10,PHI 20,0,3,DeMarco Murray right end for -12 yards (tackle by Jonathan Babineaux and Vic Beasley). Penalty on Lane Johnson: Offensive Holding (Declined),0.280,-1.660
+1,10:44,2,22,PHI 8,0,3,Sam Bradford pass complete short middle to DeMarco Murray for -2 yards (tackle by Jonathan Babineaux),-1.660,-3.060
+1,10:12,3,24,PHI 6,0,3,Sam Bradford pass complete short middle to Darren Sproles for 14 yards (tackle by Paul Worrilow),-3.060,-2.030
+1,9:44,4,10,PHI 20,0,3,"Donnie Jones punts 45 yards, returned by Eric Weems for 11 yards (tackle by Trey Burton). Penalty on Charles Godfrey: Offensive Holding, 10 yards",-2.030,-1.200
+1,9:33,1,10,ATL 34,0,3,Matt Ryan pass complete short right to Julio Jones for 6 yards (tackle by Byron Maxwell and Mychal Kendricks),1.200,1.470
+1,9:03,2,4,ATL 40,0,3,"Matt Ryan pass incomplete deep right intended for Julio Jones. Penalty on Byron Maxwell: Defensive Pass Interference, 18 yards (no play)",1.470,2.790
+1,8:58,1,10,PHI 42,0,3,Devonta Freeman for 3 yards (tackle by Connor Barwin),2.790,2.650
+1,8:43,2,7,PHI 39,0,3,Matt Ryan pass complete deep left to Roddy White for 22 yards (tackle by Byron Maxwell),2.650,4.440
+1,8:12,1,10,PHI 17,0,3,Devonta Freeman right end for 1 yard (tackle by Taylor Hart),4.440,4.000
+1,7:29,2,9,PHI 16,0,3,Matt Ryan pass complete short right to Devonta Freeman for 10 yards (tackle by Byron Maxwell),4.000,5.830
+1,6:55,1,6,PHI 6,0,3,Devonta Freeman right guard for 3 yards (tackle by Connor Barwin),5.830,5.530
+1,6:20,2,3,PHI 3,0,3,"Penalty on Ryan Schraeder: False Start, 5 yards (no play)",5.530,4.570
+1,5:57,2,8,PHI 8,0,3,Matt Ryan pass incomplete short middle intended for Roddy White is intercepted by Kiko Alonso at PHI-0,4.570,-0.280
+1,5:50,1,10,PHI 20,0,3,Sam Bradford pass complete short left to Josh Huff for 13 yards (tackle by William Moore),0.280,1.140
+1,5:28,1,10,PHI 33,0,3,Sam Bradford pass incomplete short left intended for Josh Huff (defended by Robert Alford),1.140,0.590
+1,5:24,2,10,PHI 33,0,3,Sam Bradford pass incomplete deep right intended for Miles Austin,0.590,-0.100
+1,5:20,3,10,PHI 33,0,3,Sam Bradford pass complete short middle to Zach Ertz for 7 yards (tackle by Ricardo Allen),-0.100,-0.720
+1,4:54,4,3,PHI 40,0,3,"Donnie Jones punts 60 yards, touchback",-0.720,-0.280
+1,4:47,1,10,ATL 20,0,3,Tevin Coleman left end for -5 yards (tackle by Bennie Logan),0.280,-1.070
+1,4:08,2,15,ATL 15,0,3,Matt Ryan pass incomplete deep left intended for Tevin Coleman,-1.070,-1.860
+1,4:03,3,15,ATL 15,0,3,Matt Ryan pass incomplete short right intended for Julio Jones (defended by Byron Maxwell),-1.860,-2.440
+1,3:58,4,15,ATL 15,0,3,"Matthew Bosher punts 53 yards, returned by Darren Sproles for 15 yards (tackle by Josh Harris)",-2.440,-2.060
+1,3:45,1,10,PHI 47,0,3,Sam Bradford pass incomplete short right intended for Jordan Matthews (defended by Desmond Trufant),2.060,1.520
+1,3:41,2,10,PHI 47,0,3,Sam Bradford pass complete short right to Brent Celek for 6 yards (tackle by William Moore),1.520,1.620
+1,3:06,3,4,ATL 47,0,3,Sam Bradford pass complete short right to Darren Sproles for 4 yards (tackle by Paul Worrilow),1.620,2.720
+1,2:38,1,10,ATL 43,0,3,Darren Sproles right guard for no gain (tackle by O'Brien Schofield),2.720,2.180
+1,2:07,2,10,ATL 43,0,3,DeMarco Murray right end for 1 yard (tackle by Adrian Clayborn),2.180,1.620
+1,1:35,3,9,ATL 42,0,3,Sam Bradford pass incomplete short right intended for Nelson Agholor,1.620,0.460
+1,1:31,4,9,ATL 42,0,3,Penalty on Donnie Jones: Delay of Game (Declined),0.460,0.460
+1,1:31,4,9,ATL 42,0,3,"Donnie Jones punts 30 yards, fair catch by Eric Weems",0.460,0.350
+1,1:23,1,10,ATL 12,0,3,Tevin Coleman left tackle for 3 yards (tackle by Vinny Curry),-0.350,-0.500
+1,0:52,2,7,ATL 15,0,3,Matt Ryan pass complete deep left to Julio Jones for 18 yards (tackle by Nolan Carroll),-0.500,1.140
+1,0:23,1,10,ATL 33,0,3,Matt Ryan pass complete short middle to Julio Jones for 13 yards (tackle by Nolan Carroll),1.140,1.990
+Quarter,Time,Down,ToGo,Location,PHI,ATL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,ATL 46,0,3,Tevin Coleman right end for 4 yards (tackle by Bennie Logan),1.990,1.990
+2,14:25,2,6,,0,3,Matt Ryan pass complete short left to Julio Jones for 8 yards (tackle by Byron Maxwell),1.990,2.790
+2,13:43,1,10,PHI 42,0,3,Tevin Coleman left end for 5 yards (tackle by Mychal Kendricks),2.790,2.920
+2,13:24,2,5,PHI 37,0,3,Matt Ryan right end for 4 yards,2.920,2.920
+2,12:42,2,5,PHI 37,0,3,Timeout #1 by Atlanta Falcons,2.920,2.740
+2,12:42,3,1,PHI 33,0,3,Matt Ryan pass complete short left to Levine Toilolo for 4 yards (tackle by DeMeco Ryans),2.740,3.640
+2,12:04,1,10,PHI 29,0,3,Matt Ryan pass complete deep left to Roddy White for 23 yards (tackle by Byron Maxwell),3.640,5.830
+2,11:33,1,6,PHI 6,0,3,Tevin Coleman left guard for 2 yards (tackle by Walter Thurmond and Mychal Kendricks),5.830,5.340
+2,10:50,2,4,PHI 4,0,9,"Matt Ryan pass complete short left to Julio Jones for 4 yards, touchdown",5.340,7.000
+2,10:50,,,PHI 4,0,10,Matt Bryant kicks extra point good,0.000,0.000
+2,10:50,,,ATL 35,0,10,"Matthew Bosher kicks off 65 yards, touchback",0.000,-0.280
+2,10:44,1,10,PHI 20,0,10,Sam Bradford pass complete short left to Darren Sproles for 6 yards (tackle by Kroy Biermann),0.280,0.540
+2,10:18,2,4,PHI 26,0,10,Sam Bradford pass complete short left to Riley Cooper for 6 yards (tackle by Paul Worrilow),0.540,1.070
+2,9:53,1,10,PHI 32,0,10,Sam Bradford pass complete deep right to Jordan Matthews for 25 yards (tackle by Kroy Biermann and Ricardo Allen),1.070,2.720
+2,9:22,1,10,ATL 43,0,10,Sam Bradford pass complete short left to Josh Huff for 6 yards (tackle by Paul Worrilow),2.720,2.990
+2,8:59,2,4,ATL 37,0,10,Sam Bradford pass incomplete short left intended for Ryan Mathews,2.990,2.280
+2,8:56,3,4,ATL 37,0,10,Sam Bradford pass complete short left to Jordan Matthews for 3 yards (tackle by Justin Durant),2.280,1.100
+2,8:31,4,1,ATL 34,0,10,Sam Bradford pass complete short left to Zach Ertz for 18 yards (tackle by William Moore),1.100,4.510
+2,7:54,1,10,ATL 16,0,10,DeMarco Murray left end for 5 yards (tackle by William Moore and Jonathan Babineaux),4.510,4.760
+2,7:31,2,5,ATL 11,0,10,Sam Bradford pass incomplete short right intended for Zach Ertz,4.760,3.940
+2,7:28,3,5,ATL 11,0,10,Sam Bradford pass incomplete short left intended for Jordan Matthews,3.940,2.750
+2,7:23,4,5,ATL 11,3,10,Cody Parkey 29 yard field goal good,2.750,3.000
+2,7:23,,,PHI 35,3,10,"Cody Parkey kicks off 68 yards, returned by Eric Weems for 26 yards (tackle by E.J. Biggers)",0.000,-0.480
+2,7:11,1,10,ATL 23,3,10,Matt Ryan pass incomplete short left intended for Roddy White,0.480,-0.070
+2,7:05,2,10,ATL 23,3,10,Devonta Freeman left end for 7 yards (tackle by Nolan Carroll),-0.070,0.170
+2,6:35,3,3,ATL 30,3,10,Matt Ryan pass incomplete short left intended for Roddy White (defended by Nolan Carroll),0.170,-1.370
+2,6:31,4,3,ATL 30,3,10,"Matthew Bosher punts 59 yards, returned by Darren Sproles for 12 yards (tackle by Kemal Ishmael). Penalty on Byron Maxwell: Offensive Holding, 5 yards, Penalty on Walter Thurmond: Illegal Block Above the Waist (Declined)",-1.370,0.380
+2,6:20,1,10,PHI 6,3,10,Sam Bradford pass complete short left to Jordan Matthews for 3 yards (tackle by Malliciah Goodman and Justin Durant),-0.380,-0.560
+2,5:50,2,7,PHI 9,3,10,Sam Bradford pass complete short left to DeMarco Murray for 6 yards (tackle by William Moore and Malliciah Goodman),-0.560,-0.370
+2,5:21,3,1,PHI 15,3,10,Sam Bradford pass incomplete short left intended for Riley Cooper (defended by Vic Beasley),-0.370,-2.440
+2,5:17,4,1,PHI 15,3,10,Donnie Jones punts 31 yards,-2.440,-2.520
+2,5:05,1,10,PHI 46,3,10,Tevin Coleman for 6 yards (tackle by DeMeco Ryans),2.520,2.790
+2,4:47,2,4,PHI 40,3,10,Tevin Coleman right tackle for 2 yards (tackle by Mychal Kendricks),2.790,2.350
+2,4:08,3,2,PHI 38,3,10,Matt Ryan pass complete short left to Leonard Hankerson for 3 yards (tackle by Malcolm Jenkins and Kiko Alonso),2.350,3.250
+2,3:26,1,10,PHI 35,3,10,Tevin Coleman right end for 2 yards (tackle by Connor Barwin),3.250,2.970
+2,2:49,2,8,PHI 33,3,10,Matt Ryan pass complete short left to Julio Jones for 9 yards (tackle by Kiko Alonso),2.970,3.970
+2,2:20,1,10,PHI 24,3,10,"Matt Ryan pass complete short right to Julio Jones for 10 yards (tackle by Byron Maxwell). Penalty on Roddy White: Offensive Pass Interference, 10 yards (no play)",3.970,3.310
+2,2:00,1,20,PHI 34,3,10,Matt Ryan pass complete short left to Jacob Tamme for 7 yards (tackle by Brandon Graham),3.310,3.310
+2,1:51,1,20,PHI 34,3,10,Timeout #1 by Philadelphia Eagles,3.310,3.030
+2,1:51,2,13,PHI 27,3,10,Matt Ryan pass complete short middle to Devonta Freeman for 12 yards (tackle by Malcolm Jenkins),3.030,4.170
+2,1:16,3,1,PHI 15,3,10,Devonta Freeman left end for -6 yards (tackle by Walter Thurmond),4.170,4.170
+2,1:10,3,1,PHI 15,3,10,Timeout #2 by Philadelphia Eagles,4.170,2.060
+2,1:09,4,7,PHI 21,3,13,Matt Bryant 39 yard field goal good,2.060,3.000
+2,1:09,,,ATL 35,3,13,"Matthew Bosher kicks off 65 yards, touchback",0.000,-0.280
+2,1:05,1,10,PHI 20,3,13,Sam Bradford pass incomplete short left intended for Zach Ertz is intercepted by William Moore at PHI-30 and returned for 3 yards,0.280,-3.780
+2,0:59,1,10,PHI 27,3,13,"Matt Ryan sacked by Fletcher Cox for -6 yards. Matt Ryan fumbles (forced by Fletcher Cox), recovered by Connor Barwin at PHI-33 and returned for 4 yards. Penalty on Kiko Alonso: Illegal Contact, 5 yards (no play)",3.780,4.110
+2,0:51,1,10,PHI 22,3,19,"Matt Ryan pass complete deep right to Julio Jones for 22 yards, touchdown",4.110,7.000
+2,0:51,,,PHI 22,3,20,Matt Bryant kicks extra point good,0.000,0.000
+2,0:51,,,ATL 35,3,20,"Matthew Bosher kicks off 65 yards, touchback",0.000,-0.280
+2,0:45,1,10,PHI 20,3,20,Sam Bradford pass incomplete short left intended for Darren Sproles,0.280,-0.270
+2,0:40,2,10,PHI 20,3,20,Darren Sproles right guard for 11 yards (tackle by Phillip Adams),-0.270,1.000
+2,0:23,1,10,PHI 31,3,20,Sam Bradford pass incomplete short right intended for Zach Ertz,1.000,0.460
+2,0:20,2,10,PHI 31,3,20,"Darren Sproles left end for 7 yards (tackle by Paul Worrilow and Vic Beasley). Penalty on Allen Barbre: Offensive Holding, 10 yards (no play)",0.460,-0.890
+2,0:14,2,20,PHI 21,3,20,"Darren Sproles right guard for 6 yards (tackle by Malliciah Goodman). Penalty on Andrew Gardner: Offensive Holding, 10 yards (no play)",-0.890,-2.240
+2,0:08,2,30,PHI 11,3,20,Darren Sproles right tackle for 1 yard (tackle by Paul Worrilow and Grady Jarrett),-2.240,-3.640
+Quarter,Time,Down,ToGo,Location,PHI,ATL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PHI 35,3,20,"Cody Parkey kicks off 65 yards, returned by Eric Weems for 16 yards (tackle by Bryan Braman)",0.000,0.140
+3,14:52,1,10,ATL 16,3,20,Tevin Coleman left guard for 4 yards (tackle by Mychal Kendricks and Bennie Logan),-0.140,0.010
+3,14:18,2,6,ATL 20,3,20,Matt Ryan sacked by Fletcher Cox for -8 yards,0.010,-1.890
+3,13:36,3,14,ATL 12,3,20,Matt Ryan pass incomplete deep middle intended for Roddy White is intercepted by Walter Thurmond at ATL-31 and returned for 23 yards,-1.890,-5.370
+3,13:25,1,8,ATL 8,3,20,Sam Bradford pass incomplete short left intended for DeMarco Murray,5.370,4.570
+3,13:20,2,8,ATL 8,9,20,"DeMarco Murray right end for 8 yards, touchdown",4.570,7.000
+3,13:20,,,ATL 8,10,20,Cody Parkey kicks extra point good,0.000,0.000
+3,13:20,,,PHI 35,10,20,"Cody Parkey kicks off 65 yards, touchback",0.000,-0.280
+3,13:12,1,10,ATL 20,10,20,Matt Ryan pass complete short right to Jacob Tamme for 4 yards (tackle by Malcolm Jenkins),0.280,0.270
+3,12:38,2,6,ATL 24,10,20,Tevin Coleman left end for 10 yards (tackle by Walter Thurmond),0.270,1.200
+3,11:54,1,10,ATL 34,10,20,Tevin Coleman left end for 4 yards (tackle by Mychal Kendricks and Kiko Alonso),1.200,1.200
+3,11:15,2,6,ATL 38,10,20,"Matt Ryan pass complete short right to Julio Jones for 13 yards. Penalty on Leonard Hankerson: Offensive Pass Interference, 10 yards (no play)",1.200,-0.150
+3,10:46,2,16,ATL 28,10,20,Matt Ryan pass complete short right to Nick Williams for 5 yards (tackle by Byron Maxwell and Walter Thurmond),-0.150,-0.160
+3,10:04,3,11,ATL 33,10,20,Matt Ryan pass incomplete short left intended for Leonard Hankerson (defended by Malcolm Jenkins),-0.160,-1.180
+3,9:59,4,11,ATL 33,10,20,"Matthew Bosher punts 62 yards, out of bounds",-1.180,0.380
+3,9:49,1,10,PHI 5,10,20,"Penalty on Jason Peters: False Start, 2 yards (no play)",-0.380,-0.460
+3,9:49,1,12,PHI 3,10,20,Sam Bradford pass complete short middle to Jordan Matthews for 6 yards (tackle by Justin Durant and William Moore),-0.460,-0.490
+3,9:20,2,6,PHI 9,10,20,Sam Bradford pass complete short left to Riley Cooper for 7 yards (tackle by Paul Worrilow),-0.490,-0.140
+3,8:54,1,10,PHI 16,10,20,"DeMarco Murray for 19 yards (tackle by Ricardo Allen). Penalty on Brent Celek: Offensive Holding, 8 yards, Penalty on DeMarco Murray: Face Mask (15 Yards) (Declined) (no play)",-0.140,-0.680
+3,8:30,1,18,PHI 8,10,20,Sam Bradford pass complete short left to Jordan Matthews for 19 yards (tackle by Kroy Biermann),-0.680,0.740
+3,8:09,1,10,PHI 27,10,20,Sam Bradford pass complete short right to Miles Austin for 7 yards (tackle by Phillip Adams),0.740,1.140
+3,7:49,2,3,PHI 34,10,20,DeMarco Murray right end for 2 yards (tackle by Paul Worrilow),1.140,0.700
+3,7:17,3,1,PHI 36,10,20,"Sam Bradford pass complete short middle to Zach Ertz for 12 yards (tackle by Ricardo Allen). Penalty on Nelson Agholor: Offensive Pass Interference, 10 yards (no play)",0.700,-0.620
+3,6:55,3,11,PHI 26,10,20,Sam Bradford pass complete short right to Ryan Mathews for 12 yards (tackle by William Moore),-0.620,1.470
+3,6:30,1,10,PHI 38,10,20,Sam Bradford pass complete short right to Miles Austin for 15 yards,1.470,2.460
+3,6:11,1,10,ATL 47,10,20,Sam Bradford pass complete short middle to Ryan Mathews for 8 yards (tackle by Paul Worrilow),2.460,2.990
+3,5:40,2,2,ATL 39,10,20,"Sam Bradford pass complete short right to Ryan Mathews for 10 yards (tackle by Desmond Trufant). Penalty on Jason Kelce: Offensive Holding, 10 yards (no play)",2.990,1.640
+3,5:21,2,12,ATL 49,10,20,Sam Bradford pass complete short right to Darren Sproles for 12 yards (tackle by Kemal Ishmael),1.640,3.120
+3,4:52,1,10,ATL 37,10,20,Sam Bradford pass incomplete short middle intended for Zach Ertz,3.120,2.570
+3,4:46,2,10,ATL 37,10,20,"Darren Sproles right end for 27 yards (tackle by Ricardo Allen). Penalty on Ricardo Allen: Horse Collar Tackle, 5 yards",2.570,6.060
+3,4:16,1,5,ATL 5,10,20,DeMarco Murray left end for no gain (tackle by Ricardo Allen),6.060,5.150
+3,3:46,2,5,ATL 5,16,20,"Sam Bradford pass complete short left to DeMarco Murray for 5 yards, touchdown",5.150,7.000
+3,3:46,,,ATL 5,17,20,Cody Parkey kicks extra point good,0.000,0.000
+3,3:46,,,PHI 35,17,20,"Cody Parkey kicks off 70 yards, returned by Eric Weems for 17 yards (tackle by Malcolm Jenkins)",0.000,0.350
+3,3:34,1,10,ATL 12,17,20,Tevin Coleman right tackle for 2 yards (tackle by Beau Allen),-0.350,-0.610
+3,2:54,2,8,ATL 14,17,20,"Matt Ryan pass complete short right to Julio Jones for 8 yards (tackle by Chris Maragos and Kiko Alonso). Penalty on Leonard Hankerson: Offensive Holding, 7 yards (no play)",-0.610,-1.150
+3,2:39,2,15,ATL 7,17,20,Matt Ryan pass incomplete short middle intended for Tevin Coleman,-1.150,-2.010
+3,2:34,3,15,ATL 7,17,20,Tevin Coleman left guard for 20 yards (tackle by Byron Maxwell),-2.010,0.740
+3,1:53,1,10,ATL 27,17,20,Devonta Freeman left tackle for 9 yards (tackle by Nolan Carroll),0.740,1.410
+3,1:26,2,1,ATL 36,17,20,Devonta Freeman left tackle for 2 yards (tackle by Brandon Graham and Chris Maragos),1.410,1.470
+3,0:42,1,10,ATL 38,17,20,Devonta Freeman left end for 2 yards (tackle by Taylor Hart),1.470,1.190
+Quarter,Time,Down,ToGo,Location,PHI,ATL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,8,ATL 40,17,20,Tevin Coleman right tackle for 4 yards (tackle by Kiko Alonso),1.190,1.020
+4,14:22,3,4,ATL 44,17,20,Matt Ryan pass complete short middle to Roddy White for 14 yards (tackle by Byron Maxwell),1.020,2.790
+4,13:45,1,10,PHI 42,17,20,Devonta Freeman right end for -1 yards (tackle by Walter Thurmond and Bennie Logan),2.790,2.110
+4,13:09,2,11,PHI 43,17,20,Matt Ryan pass complete short left to Leonard Hankerson for 13 yards (tackle by Walter Thurmond),2.110,3.580
+4,12:41,1,10,PHI 30,17,20,Matt Ryan for 6 yards (tackle by Kiko Alonso),3.580,3.840
+4,12:11,2,4,PHI 24,17,20,"Tevin Coleman left end for 16 yards (tackle by Connor Barwin). Penalty on Andy Levitre: Offensive Holding, 10 yards (no play)",3.840,2.490
+4,11:43,2,14,PHI 34,17,20,Matt Ryan pass complete short middle to Jacob Tamme for 8 yards (tackle by Kiko Alonso),2.490,2.870
+4,10:59,3,6,PHI 26,17,20,Matt Ryan pass incomplete deep right intended for Devonta Freeman (defended by Connor Barwin),2.870,1.760
+4,10:54,4,6,PHI 26,17,23,Matt Bryant 44 yard field goal good,1.760,3.000
+4,10:54,,,ATL 35,17,23,"Matthew Bosher kicks off 65 yards, touchback",0.000,-0.280
+4,10:49,1,10,PHI 20,17,23,DeMarco Murray left tackle for 3 yards (tackle by Justin Durant and Tyson Jackson),0.280,0.140
+4,10:18,2,7,PHI 23,17,23,Sam Bradford pass complete deep left to Darren Sproles for 24 yards,0.140,2.060
+4,10:02,1,10,PHI 47,17,23,Sam Bradford pass complete short middle to Jordan Matthews for 12 yards (tackle by Vic Beasley),2.060,2.850
+4,9:42,1,10,ATL 41,17,23,Sam Bradford pass complete deep left to Zach Ertz for 21 yards (tackle by Jalen Collins),2.850,4.240
+4,9:11,1,10,ATL 20,17,23,Sam Bradford pass complete short middle to Jordan Matthews for 19 yards (tackle by Jalen Collins),4.240,6.970
+4,8:42,1,1,ATL 1,23,23,"Ryan Mathews right guard for 1 yard, touchdown",6.970,7.000
+4,8:42,,,ATL 1,24,23,Cody Parkey kicks extra point good,0.000,0.000
+4,8:42,,,PHI 35,24,23,"Cody Parkey kicks off 65 yards, touchback",0.000,-0.280
+4,8:37,1,10,ATL 20,24,23,Matt Ryan pass complete deep right to Julio Jones for 44 yards (tackle by Byron Maxwell),0.280,3.180
+4,7:59,1,10,PHI 36,24,23,Matt Ryan pass incomplete deep left intended for Leonard Hankerson (defended by Malcolm Jenkins),3.180,2.640
+4,7:54,2,10,PHI 36,24,23,Tevin Coleman right tackle for no gain (tackle by Mychal Kendricks),2.640,1.950
+4,7:15,3,10,PHI 36,24,23,Matt Ryan pass complete short right to Devonta Freeman for 7 yards (tackle by Mychal Kendricks),1.950,1.580
+4,6:33,4,3,PHI 29,24,26,Matt Bryant 47 yard field goal good,1.580,3.000
+4,6:33,,,ATL 35,24,26,"Matthew Bosher kicks off 65 yards, touchback",0.000,-0.280
+4,6:27,1,10,PHI 20,24,26,Sam Bradford pass complete short right to Jordan Matthews for 4 yards (tackle by Paul Worrilow and Vic Beasley),0.280,0.270
+4,6:01,2,6,PHI 24,24,26,Sam Bradford pass complete short middle to Jordan Matthews for 7 yards (tackle by Paul Worrilow and Justin Durant),0.270,1.000
+4,5:34,1,10,PHI 31,24,26,Sam Bradford pass complete short right to Jordan Matthews for 4 yards (tackle by Justin Durant),1.000,1.000
+4,5:01,2,6,PHI 35,24,26,Sam Bradford pass complete short right to Nelson Agholor for 5 yards (tackle by Paul Worrilow),1.000,0.960
+4,4:37,3,1,PHI 40,24,26,Darren Sproles right guard for 11 yards (tackle by Ricardo Allen). Penalty on Vic Beasley: Defensive Offside (Declined),0.960,2.320
+4,4:32,1,10,ATL 49,24,26,"Sam Bradford pass complete short left to Darren Sproles for 14 yards (tackle by Justin Durant). Darren Sproles fumbles (forced by Justin Durant), ball out of bounds at ATL-35",2.320,3.250
+4,4:15,1,10,ATL 35,24,26,"Sam Bradford pass complete short left to Ryan Mathews for 4 yards (tackle by Ricardo Allen). Penalty on Jason Kelce: Offensive Holding, 10 yards",3.250,2.850
+4,4:02,1,16,ATL 41,24,26,Sam Bradford pass complete short left to Riley Cooper for 12 yards (tackle by Ricardo Allen and Robert Alford),2.850,3.510
+4,3:38,2,4,ATL 29,24,26,Ryan Mathews left guard for 3 yards (tackle by William Moore),3.510,3.200
+4,3:14,3,1,ATL 26,24,26,Ryan Mathews right guard for no gain (tackle by Paul Worrilow),3.200,1.890
+4,2:32,4,1,ATL 26,24,26,Cody Parkey 44 yard field goal no good,1.890,-1.200
+4,2:26,1,10,ATL 34,24,26,Tevin Coleman left tackle for 5 yards (tackle by Connor Barwin),1.200,1.200
+4,2:23,1,10,ATL 34,24,26,Timeout #1 by Philadelphia Eagles,1.200,1.330
+4,2:23,2,5,ATL 39,24,26,Tevin Coleman right end for 4 yards (tackle by Byron Maxwell),1.330,1.330
+4,2:18,2,5,ATL 39,24,26,Timeout #2 by Philadelphia Eagles,1.330,1.160
+4,2:18,3,1,ATL 43,24,26,Tevin Coleman left end for -4 yards (tackle by Malcolm Jenkins),1.160,-0.780
+4,2:00,4,5,ATL 39,24,26,"Matthew Bosher punts 57 yards, returned by Darren Sproles for 10 yards (tackle by Levine Toilolo)",-0.780,0.280
+4,1:49,1,10,PHI 14,24,26,Sam Bradford pass complete short right to Darren Sproles for 2 yards (tackle by William Moore),-0.280,-0.510
+4,1:22,2,8,PHI 16,24,26,Sam Bradford pass incomplete short right intended for Darren Sproles,-0.510,-1.160
+4,1:17,3,8,PHI 16,24,26,Sam Bradford pass incomplete short middle intended for Jordan Matthews is intercepted by Ricardo Allen at PHI-29,-1.160,-3.640
+4,1:11,1,10,PHI 29,24,26,Matt Ryan kneels for -1 yards,3.640,3.640
+4,1:09,1,10,PHI 29,24,26,Timeout #3 by Philadelphia Eagles,3.640,2.970
+4,1:09,2,11,PHI 30,24,26,Matt Ryan kneels for -1 yards,2.970,2.150
+4,0:35,3,12,PHI 31,24,26,Matt Ryan kneels for -1 yards,2.150,1.240
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

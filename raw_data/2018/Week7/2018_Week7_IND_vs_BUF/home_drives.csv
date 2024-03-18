@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,IND 25,3,1:49,9,Punt
+2,1,8:30,IND 10,3,1:40,6,Punt
+3,1,5:24,IND 25,13,6:53,75,Touchdown
+4,2,10:54,IND 26,3,1:29,74,Touchdown
+5,2,7:16,IND 18,9,5:35,82,Touchdown
+6,2,0:13,BUF 32,3,0:13,14,Field Goal
+7,3,7:42,IND 25,7,5:03,18,Punt
+8,3,0:25,IND 13,0,0:05,-13,"Fumble, Safety"
+9,4,14:44,BUF 2,3,1:31,2,Touchdown
+10,4,10:53,IND 17,8,4:42,35,Punt
+11,4,5:32,BUF 20,1,0:06,20,Touchdown
+12,4,4:13,IND 31,7,4:13,35,Downs

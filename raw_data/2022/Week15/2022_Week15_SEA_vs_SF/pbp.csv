@@ -1,0 +1,175 @@
+Quarter,Time,Down,ToGo,Location,SFO,SEA,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"49ers won the coin toss and deferred, Seahawks to receive the opening kickoff.",,
+1,15:00,,,SFO 35,0,0,"Robbie Gould kicks off 61 yards, returned by Godwin Igwebuike for 31 yards (tackle by Jackrabbit Jenkins)",0.000,1.270
+1,14:54,1,10,SEA 35,0,0,Kenneth Walker up the middle for 5 yards (tackle by Deommodore Lenoir and Fred Warner),1.270,1.400
+1,14:23,2,5,SEA 40,0,0,Geno Smith pass complete short left to Tyler Lockett for 5 yards (tackle by Deommodore Lenoir),1.400,1.930
+1,13:56,1,10,SEA 45,0,0,Geno Smith pass complete short left to Kenneth Walker for -3 yards (tackle by Azeez Al-Shaair),1.930,0.980
+1,13:14,2,13,SEA 42,0,0,Geno Smith pass incomplete short middle intended for Noah Fant (defended by Dre Greenlaw),0.980,0.300
+1,13:06,3,13,SEA 42,0,0,Geno Smith pass incomplete short left intended for Tyler Lockett,0.300,-0.590
+1,13:01,4,13,SEA 42,0,0,"Michael Dickson punts 48 yards, fair catch by Ray-Ray McCloud at SF-10",-0.590,0.380
+1,12:54,1,10,SFO 10,0,0,Christian McCaffrey left end for 3 yards (tackle by Cody Barton),-0.380,-0.560
+1,12:21,2,7,SFO 13,0,0,Brock Purdy pass complete short right to George Kittle for 2 yards (tackle by Jordyn Brooks),-0.560,-0.840
+1,11:38,3,5,SFO 15,0,0,Brock Purdy pass complete short right to Christian McCaffrey for 4 yards (tackle by Ryan Neal),-0.840,-2.140
+1,11:00,4,1,SFO 19,0,0,"Mitch Wishnowsky punts 46 yards, fair catch by Tyler Lockett at SEA-35",-2.140,-1.270
+1,10:57,1,10,SEA 35,0,0,Geno Smith pass incomplete short left,1.270,0.720
+1,10:52,2,10,SEA 35,0,0,Kenneth Walker left end for -2 yards (tackle by Jimmie Ward),0.720,-0.230
+1,10:04,3,12,SEA 33,0,0,Geno Smith pass complete short right to Noah Fant for 5 yards (tackle by Fred Warner),-0.230,-0.850
+1,9:22,4,7,SEA 38,0,0,"Michael Dickson punts 48 yards, fair catch by Ray-Ray McCloud at SF-14",-0.850,0.280
+1,9:13,1,10,SFO 14,0,0,Brock Purdy pass complete short right to Christian McCaffrey for 7 yards (tackle by Jordyn Brooks),-0.280,0.280
+1,8:29,2,3,SFO 21,0,0,Christian McCaffrey up the middle for 23 yards (tackle by Quandre Diggs and Cody Barton),0.280,1.860
+1,7:47,1,10,SFO 44,0,0,Christian McCaffrey right tackle for 3 yards (tackle by Bruce Irvin),1.860,1.720
+1,7:18,2,7,SFO 47,0,0,Christian McCaffrey right end for 4 yards (tackle by Cody Barton),1.720,1.550
+1,6:37,3,3,SEA 49,0,0,Brock Purdy pass complete short left to Jauan Jennings for 8 yards (tackle by Quandre Diggs),1.550,2.850
+1,5:59,1,10,SEA 41,0,0,Christian McCaffrey right end for no gain (tackle by Uchenna Nwosu),2.850,2.310
+1,5:16,2,10,SEA 41,0,0,Brock Purdy pass complete short left to Christian McCaffrey for 11 yards (tackle by Cody Barton),2.310,3.580
+1,4:33,1,10,SEA 30,0,0,Christian McCaffrey left end for 2 yards (tackle by Bruce Irvin),3.580,3.300
+1,3:56,2,8,SEA 28,6,0,"Brock Purdy pass complete short middle to George Kittle for 28 yards, touchdown",3.300,7.000
+1,3:49,,,SEA 15,7,0,Robbie Gould kicks extra point good,0.000,0.000
+1,3:49,,,SFO 35,7,0,"Robbie Gould kicks off 64 yards, returned by Godwin Igwebuike for 31 yards (tackle by Talanoa Hufanga)",0.000,1.070
+1,3:41,1,10,SEA 32,7,0,Kenneth Walker right guard for 3 yards (tackle by Dre Greenlaw and Talanoa Hufanga),1.070,0.930
+1,3:08,2,7,SEA 35,7,0,"Geno Smith sacked by Talanoa Hufanga for -11 yards. Geno Smith fumbles (forced by Talanoa Hufanga), recovered by Abraham Lucas at SEA-24",0.930,-1.220
+1,2:30,3,18,SEA 24,7,0,Geno Smith pass incomplete short right intended for Marquise Goodwin (defended by Nick Bosa),-1.220,-1.770
+1,2:25,4,15,SEA 24,7,0,"Michael Dickson punts 41 yards, fair catch by Ray-Ray McCloud at SF-35. Penalty on Joey Blount: Fair Catch Interference, 15 yards (accepted)",-1.770,-2.260
+1,2:17,1,10,SFO 50,7,0,Brock Purdy pass complete short left to Christian McCaffrey for 1 yard (tackle by Boye Mafe),2.260,1.850
+1,1:36,2,9,SEA 49,7,0,Brock Purdy pass complete short right to Brandon Aiyuk for 3 yards (tackle by Darrell Taylor),1.850,1.550
+1,0:56,3,6,SEA 46,7,0,"Brock Purdy pass complete to Ray-Ray McCloud for no gain (tackle by Coby Bryant). Penalty on Mike McGlinchey: Offensive Holding, 10 yards (accepted) (no play)",1.550,0.230
+1,0:30,3,16,SFO 44,7,0,Brock Purdy pass complete short middle to Christian McCaffrey for 9 yards (tackle by Tariq Woolen and Jordyn Brooks),0.230,0.130
+1,0:01,4,7,SEA 47,7,0,"Penalty on Darrell Taylor: Neutral Zone Infraction, 5 yards (accepted) (no play)",0.130,0.460
+Quarter,Time,Down,ToGo,Location,SFO,SEA,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,4,2,SEA 42,7,0,"Mitch Wishnowsky punts 42 yards, touchback.. Penalty on Danny Gray: Illegal Formation, 5 yards (accepted)",0.460,-0.610
+2,14:51,1,10,SEA 25,7,0,Geno Smith pass incomplete short left intended for D.K. Metcalf (defended by Charvarius Ward),0.610,0.060
+2,14:47,2,10,SEA 25,7,0,Kenneth Walker up the middle for 5 yards (tackle by Arik Armstead),0.060,0.040
+2,14:09,3,5,SEA 30,7,0,"Geno Smith pass complete short right to Travis Homer for 4 yards (tackle by Dre Greenlaw). Penalty on D.K. Metcalf: Taunting / Offense, 15 yards (accepted)",0.040,-2.140
+2,13:31,4,16,SEA 19,7,0,"Michael Dickson punts 55 yards, returned by Ray-Ray McCloud for 8 yards (tackle by Jon Rhattigan). Penalty on Jackrabbit Jenkins: Offensive Holding, 10 yards (accepted)",-2.140,-0.540
+2,13:21,1,10,SFO 24,7,0,Christian McCaffrey up the middle for 6 yards (tackle by Michael Jackson),0.540,0.810
+2,12:44,2,4,SFO 30,7,0,Brock Purdy pass complete short right to Brandon Aiyuk for 16 yards (tackle by Jordyn Brooks),0.810,1.990
+2,12:05,1,10,SFO 46,7,0,"Christian McCaffrey up the middle for 2 yards (tackle by Coby Bryant). Penalty on Brandon Aiyuk: Offensive Illegal Block Above the Waist, 10 yards (accepted)",1.990,1.470
+2,11:39,1,18,SFO 38,7,0,Brock Purdy pass complete short middle to George Kittle for 9 yards (tackle by Michael Jackson and Jordyn Brooks),1.470,1.590
+2,10:53,2,9,SFO 47,7,0,Brock Purdy pass incomplete short left intended for Christian McCaffrey,1.590,0.890
+2,10:49,3,9,SFO 47,7,0,Brock Purdy pass incomplete short right intended for Brandon Aiyuk,0.890,-0.260
+2,10:44,4,9,SFO 47,7,0,"Mitch Wishnowsky punts 35 yards, fair catch by Tyler Lockett at SEA-18",-0.260,-0.040
+2,10:37,1,10,SEA 18,7,0,Kenneth Walker up the middle for 2 yards (tackle by Fred Warner),0.040,-0.130
+2,9:57,2,8,SEA 20,7,0,Geno Smith pass complete short middle to D.K. Metcalf for 13 yards (tackle by Charvarius Ward),-0.130,1.140
+2,9:23,1,10,SEA 33,7,0,Geno Smith pass complete short middle to D.K. Metcalf for 13 yards (tackle by Fred Warner),1.140,1.990
+2,8:44,1,10,SEA 46,7,0,Geno Smith pass incomplete short left intended for D.K. Metcalf (defended by Charvarius Ward),1.990,1.450
+2,8:38,2,10,SEA 46,7,0,Geno Smith pass complete short left to Kenneth Walker for 2 yards (tackle by Deommodore Lenoir),1.450,1.030
+2,7:57,3,8,SEA 48,7,0,"Penalty on Tyler Lockett: False Start, 5 yards (accepted) (no play)",1.030,0.370
+2,7:32,3,13,SEA 43,7,0,Geno Smith scrambles right end for 18 yards (tackle by Talanoa Hufanga),0.370,3.120
+2,6:56,1,10,SFO 37,7,0,Kenneth Walker up the middle for 5 yards (tackle by Azeez Al-Shaair and Akeem Spence),3.120,3.120
+2,6:16,2,5,SFO 34,7,0,Geno Smith pass complete short left to Noah Fant for 12 yards (tackle by Azeez Al-Shaair),3.120,4.110
+2,5:45,1,10,SFO 22,7,0,Geno Smith pass complete short right to D.K. Metcalf for 2 yards (tackle by Charvarius Ward and Fred Warner),4.110,3.830
+2,5:04,2,8,SFO 20,7,0,Geno Smith pass incomplete deep middle intended for Colby Parkinson (defended by Talanoa Hufanga),3.830,3.140
+2,4:55,3,8,SFO 20,7,0,Geno Smith pass incomplete short middle,3.140,2.120
+2,4:52,4,8,SFO 20,7,3,Jason Myers 38 yard field goal good,2.120,3.000
+2,4:47,,,SEA 35,7,3,"Jason Myers kicks off 65 yards, touchback.",0.000,0.610
+2,4:47,1,10,SFO 25,7,3,Brock Purdy pass incomplete deep left intended for George Kittle (defended by Ryan Neal),0.610,0.060
+2,4:41,2,10,SFO 25,7,3,"Brock Purdy scrambles left end for no gain (tackle by Cody Barton). Penalty on Tariq Woolen: Defensive Offside, 5 yards (accepted) (no play)",0.060,0.740
+2,4:16,2,5,SFO 30,7,3,Christian McCaffrey up the middle for 4 yards (tackle by Cody Barton and Jordyn Brooks),0.740,0.560
+2,3:32,3,1,SFO 34,7,3,Christian McCaffrey up the middle for 3 yards (tackle by Uchenna Nwosu),0.560,1.470
+2,2:52,1,10,SFO 38,7,3,Christian McCaffrey right end for 1 yard (tackle by L.J. Collier),1.470,0.990
+2,2:14,2,9,SFO 38,7,3,Brock Purdy pass complete short middle to Christian McCaffrey for -2 yards (tackle by Uchenna Nwosu and Jordyn Brooks),0.990,0.040
+2,2:00,3,11,SFO 36,7,3,Brock Purdy pass incomplete deep middle intended for Jauan Jennings (defended by Quandre Diggs),0.040,-0.980
+2,1:55,4,11,SFO 36,7,3,"Mitch Wishnowsky punts 45 yards, fair catch by Tyler Lockett at SEA-19",-0.980,-0.150
+2,1:48,1,10,SEA 19,7,3,Geno Smith pass complete short left to Tyler Lockett for 7 yards (tackle by Deommodore Lenoir),0.150,0.610
+2,1:31,2,3,SEA 26,7,3,Geno Smith pass complete short left to Marquise Goodwin for 4 yards,0.610,0.940
+2,1:27,1,10,SEA 30,7,3,Travis Homer up the middle for 5 yards (tackle by Nick Bosa and Dre Greenlaw),0.940,1.070
+2,1:09,2,5,SEA 35,7,3,"Geno Smith pass complete short right to Travis Homer for 6 yards. Travis Homer fumbles (forced by Dre Greenlaw), recovered by Charvarius Ward at SEA-46 and returned for 40 yards (tackle by Abraham Lucas)",1.070,-5.830
+2,0:56,1,6,SEA 6,7,3,Christian McCaffrey up the middle for 5 yards (tackle by Cody Barton and Ryan Neal),5.830,5.910
+2,0:49,,,,,,Timeout #1 by Seattle Seahawks,,
+2,0:49,2,1,SEA 1,13,3,"Christian McCaffrey up the middle for 1 yard, touchdown",5.910,7.000
+2,0:47,,,SEA 15,14,3,Robbie Gould kicks extra point good,0.000,0.000
+2,0:47,,,SFO 35,14,3,"Robbie Gould kicks off 56 yards, returned by Godwin Igwebuike for 21 yards (tackle by George Odum and Demetrius Flannigan-Fowles)",0.000,1.000
+2,0:41,1,10,SEA 31,14,3,"Geno Smith pass complete to D.K. Metcalf for no gain. Penalty on D.K. Metcalf: Offensive Pass Interference, 10 yards (accepted) (no play)",1.000,0.280
+2,0:34,1,20,SEA 20,14,3,Geno Smith pass complete short right to Tyler Lockett for 13 yards (tackle by Deommodore Lenoir),0.280,0.800
+2,0:28,2,7,SEA 33,14,3,Geno Smith pass complete short left to Penny Hart for 3 yards (tackle by Jimmie Ward),0.800,0.500
+2,0:25,,,,,,Timeout #2 by Seattle Seahawks,,
+2,0:25,3,4,SEA 36,14,3,Geno Smith pass complete short left to Kenneth Walker for no gain (tackle by Drake Jackson and Tashaun Gipson),0.500,-0.980
+2,0:17,,,,,,Timeout #1 by San Francisco 49ers,,
+2,0:17,4,4,SEA 36,14,3,"Michael Dickson punts 64 yards, touchback.",-0.980,-0.280
+2,0:08,1,10,SFO 20,14,3,Brock Purdy kneels for -1 yards,0.280,-0.460
+Quarter,Time,Down,ToGo,Location,SFO,SEA,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,SEA 35,14,3,"Jason Myers kicks off 63 yards, returned by Ray-Ray McCloud for 39 yards (tackle by Jason Myers and Godwin Igwebuike)",0.000,1.660
+3,14:53,1,10,SFO 41,14,3,Christian McCaffrey up the middle for 5 yards (tackle by Quinton Jefferson),1.660,1.800
+3,14:12,2,5,SFO 46,20,3,"Brock Purdy pass complete deep left to George Kittle for 54 yards, touchdown",1.800,7.000
+3,14:00,,,SEA 15,21,3,Robbie Gould kicks extra point good,0.000,0.000
+3,14:00,,,SFO 35,21,3,"Robbie Gould kicks off 65 yards, touchback.",0.000,0.610
+3,14:00,1,10,SEA 25,21,3,Kenneth Walker up the middle for 3 yards (tackle by Dre Greenlaw),0.610,0.470
+3,13:28,2,7,SEA 28,21,3,Geno Smith pass complete short right to Noah Fant for -1 yards (tackle by Deommodore Lenoir),0.470,-0.360
+3,12:51,3,8,SEA 27,21,3,"Geno Smith pass is intercepted by Deommodore Lenoir at SEA-38 and returned for no gain, touchdown. Penalty on Nick Bosa: Roughing the Passer, 15 yards (accepted) (no play)",-0.360,1.730
+3,12:42,1,10,SEA 42,21,3,"Geno Smith pass complete deep right to Tyler Lockett for 19 yards (tackle by Deommodore Lenoir). Penalty on Deommodore Lenoir: Illegal Contact, 5 yards (declined)",1.730,2.980
+3,12:26,1,10,SFO 39,21,3,Kenneth Walker up the middle for 1 yard (tackle by Fred Warner and Dre Greenlaw),2.980,2.580
+3,12:04,2,9,SFO 38,21,3,Geno Smith pass complete short left to D.K. Metcalf for 5 yards (tackle by Charvarius Ward),2.580,2.540
+3,11:23,3,4,SFO 33,21,3,Geno Smith pass complete short middle to Tyler Lockett for 9 yards (tackle by Jimmie Ward),2.540,3.970
+3,10:32,1,10,SFO 24,21,3,"Geno Smith pass complete to Dareke Young for 22 yards. Penalty on Abraham Lucas: Offensive Holding, 11 yards (accepted) (no play)",3.970,3.250
+3,10:15,1,20,SFO 35,21,3,Geno Smith pass complete short left to D.K. Metcalf for no gain (tackle by Fred Warner and Tashaun Gipson),3.250,2.010
+3,9:35,2,20,SFO 35,21,3,Geno Smith sacked by Nick Bosa for -11 yards,2.010,-0.100
+3,8:59,3,31,SFO 46,21,3,Geno Smith pass complete short left to D.K. Metcalf for 13 yards (tackle by Charvarius Ward and Dre Greenlaw),-0.100,1.150
+3,8:13,4,18,SFO 33,21,6,Jason Myers 51 yard field goal good,1.150,3.000
+3,8:08,,,SEA 35,21,6,"Jason Myers kicks off 65 yards, returned by Ray-Ray McCloud for 28 yards (tackle by Justin Coleman)",0.000,0.810
+3,8:02,1,10,SFO 28,21,6,Christian McCaffrey up the middle for 9 yards (tackle by Jordyn Brooks and Quandre Diggs),0.810,1.480
+3,7:22,2,1,SFO 37,21,6,Christian McCaffrey left end for 2 yards (tackle by Tariq Woolen),1.480,1.530
+3,6:37,1,10,SFO 39,21,6,Jordan Mason up the middle for 1 yard (tackle by Uchenna Nwosu),1.530,1.120
+3,5:58,2,9,SFO 40,21,6,Brock Purdy sacked by Quinton Jefferson for -6 yards,1.120,-0.360
+3,5:13,3,15,SFO 34,21,6,Brock Purdy pass complete short middle to Ray-Ray McCloud for 16 yards (tackle by Tariq Woolen),-0.360,2.260
+3,4:31,1,10,SFO 50,21,6,Brock Purdy pass complete to Ray-Ray McCloud for no gain (no play),2.260,1.930
+3,3:59,1,15,SFO 45,21,6,Brock Purdy pass complete short right to Jauan Jennings for 12 yards (tackle by Coby Bryant and Michael Jackson),1.930,2.660
+3,3:21,2,3,SEA 43,21,6,Christian McCaffrey right tackle for -2 yards (tackle by Myles Adams),2.660,1.690
+3,2:45,3,5,SEA 45,21,6,Brock Purdy pass incomplete short left intended for Ray-Ray McCloud,1.690,0.270
+3,2:39,4,5,SEA 45,21,6,Mitch Wishnowsky punts 41 yards downed by George Odum,0.270,0.380
+3,2:31,1,10,SEA 4,21,6,Geno Smith pass complete short right to Tyler Lockett for 7 yards (tackle by Tashaun Gipson),-0.380,-0.270
+3,2:04,2,3,SEA 11,21,6,Geno Smith pass complete short left to Noah Fant for 6 yards (tackle by Deommodore Lenoir),-0.270,-0.060
+3,1:40,1,10,SEA 17,21,6,Kenneth Walker right end for 4 yards (tackle by Charvarius Ward),-0.060,0.080
+3,1:08,2,6,SEA 21,21,6,Kenneth Walker up the middle for 4 yards (tackle by Kerry Hyder),0.080,-0.240
+3,0:26,3,2,SEA 25,21,6,"Geno Smith pass complete short right to Travis Homer for 11 yards (tackle by Charvarius Ward). Penalty on Charvarius Ward: Defensive Holding, 5 yards (declined) . Penalty on Nick Bosa: Illegal Use of Hands / Defense, 5 yards (declined) . Penalty on Dre Greenlaw: Defensive Holding, 5 yards (declined)",-0.240,1.330
+3,0:10,1,10,SEA 36,21,6,Geno Smith pass complete short left to Tyler Lockett for 8 yards (tackle by Tashaun Gipson),1.330,1.870
+Quarter,Time,Down,ToGo,Location,SFO,SEA,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,2,SEA 44,21,6,Kenneth Walker right end for 15 yards (tackle by Deommodore Lenoir),1.870,2.850
+4,14:21,1,10,SFO 41,21,6,Geno Smith pass incomplete short right intended for Marquise Goodwin (defended by Dre Greenlaw),2.850,2.310
+4,14:16,2,10,SFO 41,21,6,"Geno Smith pass complete short right to Marquise Goodwin for 6 yards (tackle by Deommodore Lenoir) SFO challenged the pass completion ruling, and the play was upheld.",2.310,2.410
+4,14:05,3,4,SFO 35,21,6,Geno Smith sacked by Samson Ebukam for -9 yards,2.410,0.330
+4,13:18,4,13,SFO 44,21,6,Michael Dickson punts 43 yards downed by Tanner Muse,0.330,0.380
+4,13:06,1,10,SFO 1,21,6,Brock Purdy pass incomplete short right intended for Jauan Jennings (defended by Myles Adams),-0.380,-0.780
+4,13:03,,,,,,Timeout #2 by San Francisco 49ers,,
+4,13:03,2,10,SFO 1,21,6,Christian McCaffrey up the middle for 3 yards (tackle by Uchenna Nwosu),-0.780,-1.070
+4,12:23,3,7,SFO 4,21,6,Brock Purdy pass complete short middle to Jauan Jennings for 11 yards (tackle by Michael Jackson and Cody Barton),-1.070,-0.220
+4,11:36,1,10,SFO 15,21,6,Christian McCaffrey right guard for no gain (tackle by Cody Barton and Myles Adams),-0.220,-0.710
+4,10:55,2,10,SFO 15,21,6,Brock Purdy pass incomplete short middle intended for Christian McCaffrey,-0.710,-1.370
+4,10:50,3,10,SFO 15,21,6,"Penalty on Trent Williams: False Start, 5 yards (accepted) (no play)",-1.370,-2.010
+4,10:50,3,15,SFO 10,21,6,"Brock Purdy pass complete short left to Ray-Ray McCloud for 6 yards (tackle by Ryan Neal) SEA challenged the pass completion ruling, and the original play was overturned. Brock Purdy pass incomplete short left intended for Ray-Ray McCloud",-2.010,-2.490
+4,10:44,4,15,SFO 10,21,6,"Mitch Wishnowsky punts 44 yards, fair catch by Tyler Lockett at SEA-46",-2.490,-1.990
+4,10:38,1,10,SEA 46,21,6,"Geno Smith pass incomplete short middle. Penalty on Geno Smith: Intentional Grounding, 13 yards (accepted)",1.990,-0.310
+4,10:32,2,23,SEA 33,21,6,Geno Smith pass incomplete short middle intended for Kenneth Walker,-0.310,-0.960
+4,10:27,,,,,,Timeout #1 by Seattle Seahawks,,
+4,10:27,3,23,SEA 33,21,6,Geno Smith pass complete short left to Travis Homer for 4 yards (tackle by Dre Greenlaw),-0.960,-0.910
+4,9:44,4,19,SEA 37,21,6,"Michael Dickson punts 50 yards, returned by Ray-Ray McCloud for 9 yards (tackle by Will Dissly and Jon Rhattigan)",-0.910,-0.410
+4,9:34,1,10,SFO 22,21,6,Christian McCaffrey up the middle for 6 yards (tackle by Ryan Neal),0.410,0.680
+4,8:55,2,4,SFO 28,21,6,Christian McCaffrey up the middle for 11 yards (tackle by Quandre Diggs),0.680,1.530
+4,8:10,1,10,SFO 39,21,6,Christian McCaffrey up the middle for 4 yards (tackle by Ryan Neal and Poona Ford),1.530,1.530
+4,7:28,2,6,SFO 43,21,6,Brock Purdy pass complete deep right to Tyler Kroft for 28 yards (tackle by Quandre Diggs),1.530,3.640
+4,6:41,1,10,SEA 29,21,6,Christian McCaffrey right tackle for 3 yards (tackle by Tanner Muse),3.640,3.510
+4,5:54,2,7,SEA 26,21,6,Christian McCaffrey up the middle for 1 yard (tackle by Cody Barton and L.J. Collier),3.510,2.940
+4,5:10,3,6,SEA 25,21,6,Brock Purdy pass incomplete short middle intended for Brandon Aiyuk,2.940,1.830
+4,5:05,4,6,SEA 25,21,6,Robbie Gould 43 yard field goal no good,1.830,-1.140
+4,5:00,1,10,SEA 33,21,6,Geno Smith pass complete short left to D.K. Metcalf for 9 yards (tackle by Jackrabbit Jenkins),1.140,1.810
+4,4:43,2,1,SEA 42,21,6,Geno Smith pass incomplete short right intended for Marquise Goodwin (defended by Samson Ebukam),1.810,1.090
+4,4:39,3,1,SEA 42,21,6,Kenneth Walker left guard for 2 yards (tackle by Fred Warner),1.090,1.860
+4,4:17,1,10,SEA 44,21,6,Geno Smith pass complete short left to Will Dissly for 13 yards (tackle by Tashaun Gipson),1.860,2.720
+4,3:49,1,10,SFO 43,21,6,Geno Smith pass incomplete short right intended for Tyler Lockett,2.720,2.180
+4,3:47,2,10,SFO 43,21,6,Geno Smith pass complete short right to Kenneth Walker for 33 yards (tackle by Talanoa Hufanga),2.180,4.910
+4,3:39,1,10,SFO 10,21,12,"Geno Smith pass complete short middle to Noah Fant for 10 yards, touchdown",4.910,7.000
+4,3:35,,,SFO 15,21,13,Jason Myers kicks extra point good,0.000,0.000
+4,3:35,,,SEA 35,21,13,"Jason Myers kicks off 65 yards, touchback.",0.000,0.610
+4,3:35,1,10,SFO 25,21,13,Christian McCaffrey up the middle for 6 yards (tackle by Ryan Neal and Quandre Diggs),0.610,0.870
+4,2:55,2,4,SFO 31,21,13,Christian McCaffrey right guard for 3 yards (tackle by Bruce Irvin and Tanner Muse),0.870,0.560
+4,2:42,,,,,,Timeout #2 by Seattle Seahawks,,
+4,2:42,3,1,SFO 34,21,13,"Brock Purdy scrambles right end for 1 yard (tackle by Cody Barton) SEA challenged the first down ruling, and the play was upheld.",0.560,1.270
+4,2:16,1,10,SFO 35,21,13,Jordan Mason left guard for 6 yards (tackle by Quandre Diggs and Tanner Muse),1.270,1.530
+4,2:00,2,4,SFO 41,21,13,Jordan Mason right end for 2 yards (tackle by Uchenna Nwosu and Tanner Muse),1.530,1.090
+4,1:16,3,2,SFO 43,21,13,Jordan Mason up the middle for 55 yards (tackle by Michael Jackson),1.090,6.740
+4,1:02,1,2,SEA 2,21,13,Brock Purdy kneels for -1 yards,6.740,5.530
+4,0:31,2,3,SEA 3,21,13,Brock Purdy kneels for -1 yards,5.530,4.490
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

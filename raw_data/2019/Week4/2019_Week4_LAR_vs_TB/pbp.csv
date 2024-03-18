@@ -1,0 +1,229 @@
+Quarter,Time,Down,ToGo,Location,TAM,LAR,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Rams won the coin toss and deferred, Buccaneers to receive the opening kickoff.",,
+1,15:00,,,LAR 35,0,0,"Greg Zuerlein kicks off 25 yards, out of bounds",0.000,1.600
+1,15:00,1,10,TAM 40,0,0,Jameis Winston pass complete deep right to Chris Godwin for 17 yards (tackle by Aqib Talib),1.600,2.720
+1,14:25,1,10,LAR 43,0,0,Peyton Barber up the middle for 2 yards (tackle by Michael Brockers and Aaron Donald),2.720,2.450
+1,13:50,2,8,LAR 41,0,0,Jameis Winston pass complete short middle to Cameron Brate for 13 yards (tackle by John Johnson),2.450,3.710
+1,13:15,1,10,LAR 28,0,0,Peyton Barber up the middle for 7 yards (tackle by Eric Weddle),3.710,4.110
+1,12:40,2,3,LAR 21,0,0,Peyton Barber right tackle for no gain (tackle by Sebastian Joseph),4.110,3.400
+1,12:00,3,3,LAR 21,0,0,Jameis Winston pass complete short middle to Chris Godwin for 18 yards (tackle by Eric Weddle),3.400,6.510
+1,11:35,1,3,LAR 3,0,0,Dare Ogunbowale up the middle for no gain (tackle by Dante Fowler and Clay Matthews),6.510,5.530
+1,10:57,2,3,LAR 3,6,0,"Peyton Barber left guard for 3 yards, touchdown",5.530,7.000
+1,10:53,,,LAR 15,7,0,Matt Gay kicks extra point good,0.000,0.000
+1,10:53,,,TAM 35,7,0,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+1,10:53,1,10,LAR 25,7,0,Jared Goff pass incomplete short right intended for Robert Woods (defended by William Gholston),0.610,0.060
+1,10:48,2,10,LAR 25,7,0,"Penalty on Vita Vea: Neutral Zone Infraction, 5 yards (no play)",0.060,0.740
+1,10:48,2,5,LAR 30,7,0,"Penalty on Rob Havenstein: False Start, 5 yards (no play)",0.740,0.060
+1,10:48,2,10,LAR 25,7,0,Jared Goff pass complete short left to Brandin Cooks for 12 yards,0.060,1.400
+1,10:35,1,10,LAR 37,7,0,"Jared Goff pass complete short left to Brandin Cooks for 4 yards (tackle by Lavonte David). Penalty on Andrew Whitworth: Offensive Holding, 10 yards (no play)",1.400,0.740
+1,10:15,1,20,LAR 27,7,0,Jared Goff pass complete short left to Todd Gurley for 10 yards (tackle by M.J. Stewart),0.740,0.860
+1,10:02,2,10,LAR 37,7,0,Jared Goff pass complete short right to Robert Woods for 10 yards,0.860,2.060
+1,9:31,1,10,LAR 47,7,0,Cooper Kupp right tackle for -2 yards (tackle by Kevin Minter and Carl Nassib),2.060,1.250
+1,8:59,2,12,LAR 45,7,0,Jared Goff pass complete short right to Todd Gurley for 5 yards (tackle by Jordan Whitehead),1.250,1.220
+1,8:31,3,7,LAR 50,7,0,Jared Goff pass incomplete short left intended for Robert Woods (defended by Jordan Whitehead),1.220,-0.060
+1,8:26,4,7,LAR 50,7,0,Johnny Hekker punts 41 yards downed by Troy Reeder,-0.060,0.380
+1,8:16,1,10,TAM 9,7,0,Ronald Jones up the middle for 4 yards (tackle by Cory Littleton and Eric Weddle),-0.380,-0.480
+1,7:41,2,6,TAM 13,7,0,Jameis Winston pass incomplete short left intended for Breshad Perriman,-0.480,-0.950
+1,7:37,3,6,TAM 13,7,0,Jameis Winston pass complete short middle to Mike Evans for 7 yards (tackle by Taylor Rapp and Cory Littleton),-0.950,0.280
+1,6:58,1,10,TAM 20,7,0,Ronald Jones left tackle for no gain (tackle by Clay Matthews),0.280,-0.270
+1,6:21,2,10,TAM 20,7,0,Jameis Winston pass complete short middle to O.J. Howard for 14 yards (tackle by John Johnson),-0.270,1.200
+1,5:40,1,10,TAM 34,7,0,Ronald Jones up the middle for 4 yards (tackle by John Johnson),1.200,1.200
+1,5:04,2,6,TAM 38,7,0,Jameis Winston pass complete short left to Chris Godwin for 12 yards (tackle by Eric Weddle and Michael Brockers),1.200,2.260
+1,4:21,1,10,TAM 50,7,0,Jameis Winston pass incomplete short left,2.260,1.710
+1,4:14,2,10,TAM 50,7,0,Jameis Winston pass complete short middle to Justin Watson for 13 yards (tackle by John Johnson),1.710,3.120
+1,3:33,1,10,LAR 37,7,0,Jameis Winston sacked by Sebastian Joseph for -3 yards,3.120,2.170
+1,2:51,2,13,LAR 40,7,0,Jameis Winston pass incomplete short right intended for Chris Godwin,2.170,1.490
+1,2:47,3,13,LAR 40,7,0,Jameis Winston sacked by Clay Matthews for -6 yards,1.490,0.200
+1,2:07,4,19,LAR 46,7,0,"Bradley Pinion punts 46 yards, touchback.",0.200,-0.280
+1,1:55,1,10,LAR 20,7,0,Jared Goff pass incomplete short middle intended for Tyler Higbee,0.280,-0.270
+1,1:51,2,10,LAR 20,7,0,Jared Goff pass complete short middle to Cooper Kupp for 7 yards (tackle by M.J. Stewart),-0.270,-0.030
+1,1:17,3,3,LAR 27,7,0,"Penalty on Austin Blythe: False Start, 5 yards (no play)",-0.030,-0.690
+1,1:12,3,8,LAR 22,7,0,"Penalty on Devante Bond: Neutral Zone Infraction, 5 yards (no play)",-0.690,-0.030
+1,0:48,3,3,LAR 27,7,0,Jared Goff pass complete short middle to Robert Woods for 16 yards (tackle by Vernon Hargreaves),-0.030,1.800
+1,0:10,1,10,LAR 43,7,0,Jared Goff pass complete short right to Brandin Cooks for 23 yards (tackle by Ndamukong Suh),1.800,3.310
+Quarter,Time,Down,ToGo,Location,TAM,LAR,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,TAM 34,7,0,"Penalty on Rob Havenstein: False Start, 5 yards (no play)",3.310,2.980
+2,15:00,1,15,TAM 39,7,0,Jared Goff pass complete short middle to Todd Gurley for 10 yards (tackle by Mike Edwards),2.980,3.450
+2,14:21,2,5,TAM 29,7,0,Jared Goff pass complete short left to Robert Woods for -1 yards (tackle by Carlton Davis),3.450,2.610
+2,13:39,3,6,TAM 30,7,0,"Jared Goff pass short right (defended by Shaquil Barrett) intended for Cooper Kupp is intercepted by Jordan Whitehead at TB-24 and returned for 11 yards. Penalty on Robert Woods: Unnecessary Roughness, 15 yards",2.610,-2.260
+2,13:24,1,10,TAM 50,7,0,Peyton Barber up the middle for 3 yards (tackle by Bryce Hager and Michael Brockers),2.260,2.120
+2,12:50,2,7,LAR 47,7,0,Jameis Winston pass complete short right to O.J. Howard for 12 yards (tackle by Eric Weddle and Cory Littleton),2.120,3.250
+2,12:10,1,10,LAR 35,7,0,Peyton Barber up the middle for 3 yards (tackle by John Johnson and Bryce Hager),3.250,3.110
+2,11:33,2,7,LAR 32,7,0,Jameis Winston pass complete short middle to Chris Godwin for 30 yards (tackle by Eric Weddle),3.110,6.740
+2,10:48,1,2,LAR 2,7,0,Peyton Barber right guard for -1 yards (tackle by Samson Ebukam and Eric Weddle),6.740,5.530
+2,10:08,2,3,LAR 3,7,0,Jameis Winston pass incomplete short right intended for Mike Evans,5.530,4.720
+2,10:04,3,3,LAR 3,13,0,"Jameis Winston pass complete short right to Chris Godwin for 3 yards, touchdown",4.720,7.000
+2,9:57,,,LAR 15,14,0,Matt Gay kicks extra point good,0.000,0.000
+2,9:57,,,TAM 35,14,0,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+2,9:57,1,10,LAR 25,14,0,Malcolm Brown left tackle for 3 yards (tackle by Rakeem Nunez-Roches and Kevin Minter),0.610,0.470
+2,9:25,2,7,LAR 28,14,0,Malcolm Brown right tackle for 3 yards (tackle by Kevin Minter and Anthony Nelson),0.470,0.170
+2,8:45,3,4,LAR 31,14,0,Jared Goff pass short left intended for Gerald Everett is intercepted by Lavonte David at LA-35 and returned for 26 yards,0.170,-5.140
+2,8:35,1,9,LAR 9,20,0,"Jameis Winston pass complete short right to Chris Godwin for 9 yards, touchdown",5.140,7.000
+2,8:28,,,LAR 15,21,0,Matt Gay kicks extra point good,0.000,0.000
+2,8:28,,,TAM 35,21,0,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+2,8:28,1,10,LAR 25,21,0,Todd Gurley right tackle for 1 yard (tackle by Carl Nassib and Ndamukong Suh),0.610,0.200
+2,7:55,2,9,LAR 26,21,0,Jared Goff pass complete short middle to Robert Woods for 9 yards (tackle by Carlton Davis),0.200,1.270
+2,7:19,1,10,LAR 35,21,0,Jared Goff pass incomplete short middle intended for Brandin Cooks (defended by Kevin Minter),1.270,0.720
+2,7:14,2,10,LAR 35,21,0,Jared Goff pass complete short right to Gerald Everett for 15 yards (tackle by Carlton Davis),0.720,2.260
+2,6:49,1,10,LAR 50,21,0,Jared Goff pass complete short middle to Todd Gurley for 6 yards (tackle by Kevin Minter and Mike Edwards),2.260,2.520
+2,6:25,2,4,TAM 44,21,0,Jared Goff pass complete short right to Gerald Everett for 7 yards (tackle by Vita Vea and Carl Nassib),2.520,3.120
+2,6:06,1,10,TAM 37,21,0,Jared Goff pass complete short middle to Gerald Everett for 14 yards (tackle by Jordan Whitehead),3.120,4.040
+2,5:46,,,,,,Timeout #1 by Tampa Bay Buccaneers,,
+2,5:46,1,10,TAM 23,21,0,"Jared Goff pass incomplete deep right intended for Todd Gurley. Penalty on Jordan Whitehead: Defensive Pass Interference, 10 yards (no play)",4.040,4.710
+2,5:41,1,10,TAM 13,21,6,"Todd Gurley right tackle for 13 yards, touchdown",4.710,7.000
+2,5:34,,,TAM 15,21,7,Greg Zuerlein kicks extra point good,0.000,0.000
+2,5:34,,,LAR 35,21,7,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+2,5:34,1,10,TAM 25,21,7,"Ronald Jones up the middle for 24 yards (tackle by Aqib Talib). Penalty on Chris Godwin: Illegal Shift, 5 yards (no play)",0.610,0.280
+2,5:09,1,15,TAM 20,21,7,Jameis Winston pass complete short left to Mike Evans for 3 yards (tackle by Cory Littleton),0.280,-0.210
+2,4:29,2,12,TAM 23,21,7,Jameis Winston pass incomplete short right intended for Bobo Wilson,-0.210,-0.890
+2,4:23,3,12,TAM 23,21,7,Jameis Winston pass incomplete deep right intended for Mike Evans (defended by Eric Weddle),-0.890,-1.830
+2,4:16,4,12,TAM 23,21,7,"Bradley Pinion punts 42 yards, fair catch by Jojo Natson at LA-35. Penalty on Sean Murphy-Bunting: Fair Catch Interference, 15 yards",-1.830,-2.260
+2,4:02,,,,,,Timeout #1 by Los Angeles Rams,,
+2,4:02,1,10,LAR 50,21,7,Jared Goff pass complete deep right to Robert Woods for 37 yards (tackle by Shaquil Barrett),2.260,4.710
+2,3:50,1,10,TAM 13,21,7,Jared Goff pass complete short left to Gerald Everett for 3 yards (tackle by Kevin Minter),4.710,4.580
+2,3:07,2,7,TAM 10,21,7,"Jared Goff pass incomplete short middle. Penalty on Carl Nassib: Roughing the Passer, 5 yards (no play)",4.580,6.060
+2,3:02,1,5,TAM 5,21,7,Jared Goff pass incomplete short right intended for Tyler Higbee,6.060,5.150
+2,2:55,2,5,TAM 5,21,13,"Jared Goff pass complete short middle to Gerald Everett for 5 yards, touchdown",5.150,7.000
+2,2:50,,,TAM 15,21,14,Greg Zuerlein kicks extra point good,0.000,0.000
+2,2:50,,,LAR 35,21,14,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+2,2:50,1,10,TAM 25,21,14,Jameis Winston pass incomplete short middle intended for Peyton Barber,0.610,0.060
+2,2:45,2,10,TAM 25,21,14,Jameis Winston pass complete short right to Chris Godwin for 11 yards (tackle by Aqib Talib),0.060,1.330
+2,2:20,1,10,TAM 36,21,14,Peyton Barber up the middle for 3 yards (tackle by Eric Weddle),1.330,1.200
+2,2:00,2,7,TAM 39,21,14,Jameis Winston pass incomplete short left intended for Bobo Wilson (defended by Marcus Peters),1.200,0.500
+2,1:56,3,7,TAM 39,21,14,Jameis Winston pass complete short left to Chris Godwin for 14 yards (tackle by Nickell Robey-Coleman),0.500,2.460
+2,1:35,1,10,LAR 47,21,14,"Jameis Winston pass complete short left to Dare Ogunbowale for 2 yards (tackle by Eric Weddle). Penalty on Michael Brockers: Roughing the Passer, 15 yards",2.460,3.580
+2,1:29,1,10,LAR 30,21,14,Jameis Winston pass complete short left to Dare Ogunbowale for 7 yards (tackle by Eric Weddle),3.580,3.980
+2,1:09,2,3,LAR 23,21,14,Jameis Winston pass incomplete short middle intended for Dare Ogunbowale (defended by Michael Brockers),3.980,3.270
+2,1:04,3,3,LAR 23,21,14,Jameis Winston pass complete short right to Chris Godwin for 11 yards (tackle by Nickell Robey-Coleman),3.270,4.780
+2,0:59,1,10,LAR 12,21,14,Jameis Winston pass complete short middle to O.J. Howard for 7 yards (tackle by Cory Littleton),4.780,5.410
+2,0:52,,,,,,Timeout #2 by Tampa Bay Buccaneers,,
+2,0:52,2,3,LAR 5,27,14,"Ronald Jones up the middle for 5 yards, touchdown",5.410,7.000
+2,0:47,,,LAR 15,28,14,Matt Gay kicks extra point good,0.000,0.000
+2,0:47,,,TAM 35,28,14,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+2,0:47,1,10,LAR 25,28,14,Jared Goff pass incomplete short left intended for Todd Gurley,0.610,0.060
+2,0:43,2,10,LAR 25,28,14,Jared Goff pass complete short left to Robert Woods for 15 yards (tackle by Deone Bucannon),0.060,1.600
+2,0:24,1,10,LAR 40,28,14,Jared Goff pass complete short left to Brandin Cooks for 11 yards (tackle by Vernon Hargreaves),1.600,2.320
+2,0:18,,,,,,Timeout #2 by Los Angeles Rams,,
+2,0:18,1,10,TAM 49,28,14,Jared Goff pass incomplete short right intended for Cooper Kupp,2.320,1.780
+2,0:13,2,10,TAM 49,28,14,Jared Goff pass complete short middle to Robert Woods for 9 yards (tackle by Lavonte David),1.780,2.280
+2,0:07,,,,,,Timeout #3 by Los Angeles Rams,,
+2,0:07,3,1,TAM 40,28,17,Greg Zuerlein 58 yard field goal good,2.280,3.000
+2,0:02,,,LAR 35,28,17,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+2,0:02,1,10,TAM 25,28,17,Jameis Winston kneels for -1 yards,0.610,-0.070
+Quarter,Time,Down,ToGo,Location,TAM,LAR,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,TAM 35,28,17,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,LAR 25,28,17,Todd Gurley right tackle for -1 yards (tackle by Kevin Minter),0.610,-0.070
+3,14:24,2,11,LAR 24,28,17,Jared Goff pass complete short right to Todd Gurley for 3 yards (tackle by Mike Edwards),-0.070,-0.360
+3,13:41,3,8,LAR 27,28,17,Jared Goff pass complete short left to Robert Woods for 18 yards (tackle by Carlton Davis),-0.360,1.930
+3,13:17,1,10,LAR 45,28,17,Jared Goff pass complete short left to Brandin Cooks for 6 yards (tackle by Shaquil Barrett and Beau Allen),1.930,2.190
+3,12:41,2,4,TAM 49,28,17,Malcolm Brown up the middle for 4 yards (tackle by Lavonte David),2.190,2.590
+3,11:49,1,10,TAM 45,28,17,"Penalty on LAR: Delay of Game, 5 yards (no play)",2.590,2.260
+3,11:27,1,15,LAR 50,28,17,Malcolm Brown right guard for -2 yards (tackle by Rakeem Nunez-Roches and Shaquil Barrett),2.260,1.100
+3,10:48,2,17,LAR 48,28,17,Jared Goff pass complete deep left to Cooper Kupp for 24 yards (tackle by M.J. Stewart),1.100,3.710
+3,10:13,1,10,TAM 28,28,17,Jared Goff pass incomplete deep right intended for Gerald Everett,3.710,3.170
+3,10:07,2,10,TAM 28,28,17,Jared Goff pass incomplete short left intended for Todd Gurley,3.170,2.480
+3,10:03,3,10,TAM 28,28,17,Jared Goff pass incomplete deep middle intended for Cooper Kupp,2.480,1.590
+3,10:00,4,10,TAM 28,28,17,"Greg Zuerlein yard field goal good. Penalty on Rakeem Nunez-Roches: Unnecessary Roughness, 14 yards (no play)",1.590,4.650
+3,9:55,1,10,TAM 14,28,17,Todd Gurley right end for -2 yards (tackle by Carlton Davis),4.650,3.720
+3,9:15,2,12,TAM 16,28,17,Jared Goff pass incomplete short left intended for Todd Gurley,3.720,3.000
+3,9:11,3,12,TAM 16,28,17,Jared Goff sacked by William Gholston for -10 yards. Penalty on Andrew Whitworth: Offensive Holding (Declined),3.000,1.740
+3,9:08,4,22,TAM 26,28,20,Greg Zuerlein 44 yard field goal good,1.740,3.000
+3,9:03,,,LAR 35,28,20,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+3,9:03,1,10,TAM 25,28,20,Ronald Jones right tackle for 6 yards (tackle by John Johnson and Eric Weddle),0.610,0.870
+3,8:27,2,4,TAM 31,28,20,Jameis Winston pass complete short left to Chris Godwin for 12 yards (tackle by Eric Weddle),0.870,1.800
+3,7:47,1,10,TAM 43,28,20,Ronald Jones right tackle for no gain (tackle by Aaron Donald and Dante Fowler),1.800,1.250
+3,7:10,2,10,TAM 43,28,20,"Ronald Jones up the middle for 3 yards (tackle by Nickell Robey-Coleman). Penalty on O.J. Howard: Offensive Holding, 10 yards",1.250,0.310
+3,6:48,2,17,TAM 36,28,20,Jameis Winston pass complete short middle to Cameron Brate for 10 yards (tackle by Taylor Rapp),0.310,0.960
+3,6:04,3,7,TAM 46,28,20,Jameis Winston pass complete short left to Bobo Wilson for 14 yards (tackle by Marcus Peters and Eric Weddle),0.960,2.920
+3,5:27,1,10,LAR 40,28,20,Ronald Jones right tackle for no gain (tackle by Aaron Donald and Cory Littleton),2.920,2.370
+3,4:49,2,10,LAR 40,28,20,Jameis Winston pass incomplete short right intended for Mike Evans,2.370,1.680
+3,4:45,3,10,LAR 40,28,20,Jameis Winston pass incomplete deep middle intended for Scott Miller (defended by Eric Weddle),1.680,0.590
+3,4:38,4,10,LAR 40,31,20,Matt Gay 58 yard field goal good,0.590,3.000
+3,4:33,,,TAM 35,31,20,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+3,4:33,1,10,LAR 25,31,20,Jared Goff pass complete short left to Cooper Kupp for 27 yards (tackle by Mike Edwards),0.610,2.390
+3,4:07,1,10,TAM 48,31,20,Jared Goff pass complete short left to Cooper Kupp for 5 yards,2.390,2.520
+3,3:46,2,5,TAM 43,31,20,Jared Goff pass incomplete deep right intended for Brandin Cooks,2.520,1.820
+3,3:39,3,5,TAM 43,31,20,Jared Goff pass complete short right to Cooper Kupp for 3 yards (tackle by Mike Edwards),1.820,0.590
+3,2:54,4,2,TAM 40,31,20,Jared Goff pass short right intended for Malcolm Brown is intercepted by Shaquil Barrett at TB-43 and returned for 4 yards,0.590,-2.060
+3,2:49,1,10,TAM 47,31,20,Jameis Winston pass complete short right to Chris Godwin for 17 yards (tackle by John Johnson),2.060,3.180
+3,2:19,1,10,LAR 36,31,20,Ronald Jones right end for -1 yards (tackle by Aaron Donald),3.180,2.500
+3,1:40,2,11,LAR 37,31,20,Ronald Jones right end for 10 yards (tackle by Taylor Rapp and Dante Fowler),2.500,3.140
+3,1:08,3,1,LAR 27,31,20,Jameis Winston pass complete short right to Ronald Jones for 12 yards (tackle by Clay Matthews),3.140,4.580
+3,0:44,1,10,LAR 15,31,20,Ronald Jones up the middle for 2 yards (tackle by Eric Weddle),4.580,4.280
+Quarter,Time,Down,ToGo,Location,TAM,LAR,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,8,LAR 13,37,20,"Jameis Winston pass complete short middle to Cameron Brate for 13 yards, touchdown",4.280,7.000
+4,14:55,,,LAR 15,38,20,Matt Gay kicks extra point good,0.000,0.000
+4,14:55,,,TAM 35,38,20,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+4,14:55,1,10,LAR 25,38,20,Jared Goff pass complete short middle to Tyler Higbee for 12 yards (tackle by Lavonte David),0.610,1.400
+4,14:34,1,10,LAR 37,38,20,Jared Goff pass complete short middle to Todd Gurley for 8 yards (tackle by Kevin Minter),1.400,1.940
+4,14:13,2,2,LAR 45,38,20,Jared Goff pass complete short right to Robert Woods for 10 yards (tackle by Carlton Davis),1.940,2.590
+4,13:51,1,10,TAM 45,38,20,Jared Goff pass incomplete short left intended for Cooper Kupp,2.590,2.040
+4,13:47,2,10,TAM 45,38,20,"Jared Goff pass incomplete short middle intended for Robert Woods. Penalty on Kevin Minter: Roughing the Passer, 15 yards (no play)",2.040,3.580
+4,13:42,1,10,TAM 30,38,20,Jared Goff pass complete short middle to Robert Woods for 11 yards (tackle by M.J. Stewart),3.580,4.310
+4,13:15,1,10,TAM 19,38,20,"Penalty on Brian Allen: False Start, 5 yards (no play)",4.310,3.970
+4,12:59,1,15,TAM 24,38,20,Jared Goff pass incomplete short middle intended for Cooper Kupp,3.970,3.090
+4,12:55,2,15,TAM 24,38,20,Jared Goff pass complete short middle to Robert Woods for 19 yards (tackle by Mike Edwards),3.090,6.060
+4,12:37,1,5,TAM 5,38,26,"Todd Gurley up the middle for 5 yards, touchdown",6.060,7.000
+4,12:31,,,TAM 15,38,27,Greg Zuerlein kicks extra point good,0.000,0.000
+4,12:31,,,LAR 35,38,27,"Greg Zuerlein kicks off 58 yards, returned by T.J. Logan for 21 yards (tackle by Travin Howard)",0.000,0.810
+4,12:24,1,10,TAM 28,38,27,Ronald Jones up the middle for 5 yards (tackle by Samson Ebukam and Cory Littleton),0.810,0.940
+4,11:48,2,5,TAM 33,44,27,"Jameis Winston pass complete deep middle to Mike Evans for 67 yards, touchdown",0.940,7.000
+4,11:35,,,LAR 15,45,27,Matt Gay kicks extra point good,0.000,0.000
+4,11:35,,,TAM 35,45,27,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+4,11:35,1,10,LAR 25,45,27,"Jared Goff pass incomplete short right intended for Robert Woods. Penalty on Andrew Whitworth: Offensive Holding, 10 yards (no play)",0.610,-0.410
+4,11:30,1,20,LAR 15,45,27,Jared Goff pass incomplete short left intended for Brandin Cooks,-0.410,-1.430
+4,11:25,2,20,LAR 15,45,27,Jared Goff pass complete short left to Cooper Kupp for 10 yards,-1.430,-0.620
+4,10:52,3,10,LAR 25,45,27,Jared Goff pass complete deep right to Josh Reynolds for 22 yards (tackle by M.J. Stewart),-0.620,2.060
+4,10:28,1,10,LAR 47,45,27,Jared Goff pass complete short left to Todd Gurley for 12 yards (tackle by Kevin Minter),2.060,2.850
+4,9:47,1,10,TAM 41,45,27,Jared Goff pass complete short left to Brandin Cooks for 12 yards,2.850,3.640
+4,9:31,1,10,TAM 29,45,27,Jared Goff pass incomplete short middle intended for Todd Gurley,3.640,3.100
+4,9:27,2,10,TAM 29,45,27,Jared Goff pass incomplete short right intended for Gerald Everett (defended by Jordan Whitehead),3.100,2.410
+4,9:21,3,10,TAM 29,45,33,"Jared Goff pass complete short right to Cooper Kupp for 29 yards, touchdown",2.410,7.000
+4,9:12,,,TAM 15,45,34,Greg Zuerlein kicks extra point good,0.000,0.000
+4,9:12,,,LAR 35,45,34,"Greg Zuerlein kicks off 67 yards, returned by T.J. Logan for 13 yards (tackle by Travin Howard and Marqui Christian)",0.000,-0.370
+4,9:05,1,10,TAM 11,45,34,Ronald Jones up the middle for 1 yard (tackle by Samson Ebukam),-0.370,-0.710
+4,8:30,2,9,TAM 12,45,34,Jameis Winston pass incomplete short left intended for Chris Godwin,-0.710,-1.300
+4,8:25,3,9,TAM 12,45,40,"Jameis Winston pass deep left intended for Bobo Wilson is intercepted by Marcus Peters at TB-32 and returned for 32 yards, touchdown",-1.300,-7.000
+4,8:11,,,TAM 2,45,40,"Two Point Attempt: Jared Goff pass incomplete intended for Cooper Kupp, conversion fails",1.000,-1.000
+4,8:11,,,LAR 35,45,40,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+4,8:11,1,10,TAM 25,45,40,Ronald Jones right tackle for 6 yards (tackle by Cory Littleton and Aqib Talib),0.610,0.870
+4,7:33,2,4,TAM 31,45,40,Ronald Jones right end for -2 yards (tackle by Sebastian Joseph and Michael Brockers),0.870,-0.100
+4,6:46,3,6,TAM 29,45,40,Jameis Winston pass complete short middle to Mike Evans for 12 yards (tackle by John Johnson and Eric Weddle),-0.100,1.660
+4,6:07,1,10,TAM 41,45,40,"Ronald Jones up the middle for 3 yards (tackle by Troy Reeder). Penalty on Sebastian Joseph: Defensive Holding, 5 yards",1.660,2.190
+4,5:49,1,10,TAM 49,45,40,Ronald Jones left tackle for 3 yards (tackle by Troy Reeder and John Johnson),2.190,2.050
+4,5:10,2,7,LAR 48,45,40,Jameis Winston pass complete short middle to Chris Godwin for 18 yards (tackle by John Johnson),2.050,3.580
+4,4:26,1,10,LAR 30,45,40,Ronald Jones right tackle for 24 yards (tackle by Troy Reeder and Troy Hill),3.580,5.830
+4,3:33,1,6,LAR 6,45,40,Peyton Barber up the middle for -1 yards (tackle by Clay Matthews),5.830,4.760
+4,3:29,,,,,,Timeout #1 by Los Angeles Rams,,
+4,3:29,2,7,LAR 7,45,40,Ronald Jones left end for -3 yards (tackle by Dante Fowler),4.760,3.130
+4,3:25,,,,,,Timeout #2 by Los Angeles Rams,,
+4,3:25,3,10,LAR 10,45,40,Jameis Winston pass complete short right to Dare Ogunbowale for 7 yards (tackle by Marqui Christian and John Johnson),3.130,3.040
+4,2:37,,,,,,Timeout #1 by Tampa Bay Buccaneers,,
+4,2:37,4,3,LAR 3,48,40,Matt Gay 21 yard field goal good,3.040,3.000
+4,2:35,,,TAM 35,48,40,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+4,2:35,1,10,LAR 25,48,40,Jared Goff pass complete short right to Cooper Kupp for 5 yards (tackle by M.J. Stewart),0.610,0.740
+4,2:16,2,5,LAR 30,48,40,Jared Goff pass complete short right to Robert Woods for 9 yards,0.740,1.530
+4,2:12,1,10,LAR 39,48,40,Jared Goff pass complete short left to Cooper Kupp for 11 yards (tackle by M.J. Stewart),1.530,2.260
+4,2:00,1,10,LAR 50,48,40,Jared Goff pass complete short right to Robert Woods for 2 yards (tackle by Lavonte David and M.J. Stewart),2.260,1.980
+4,1:42,2,8,TAM 48,48,40,Jared Goff pass incomplete short middle intended for Cooper Kupp (defended by M.J. Stewart),1.980,1.290
+4,1:38,3,8,TAM 48,48,40,Jared Goff pass complete short middle to Brandin Cooks for 7 yards (tackle by Carlton Davis),1.290,0.530
+4,1:18,4,1,TAM 41,48,40,"Penalty on Carl Nassib: Encroachment, 5 yards (no play)",0.530,3.180
+4,1:18,1,10,TAM 36,48,40,"Jared Goff pass incomplete short right intended for Cooper Kupp. Penalty on Brandin Cooks: Offensive Pass Interference, 10 yards (no play)",3.180,2.520
+4,1:17,1,20,TAM 46,54,40,"Jared Goff sacked by Shaquil Barrett for -17 yards. Jared Goff fumbles (forced by Shaquil Barrett), recovered by Ndamukong Suh at LA-37 and returned for 37 yards, touchdown",2.520,-7.000
+4,1:06,,,LAR 15,54,40,"Matt Gay kicks extra point no good wide left. Penalty on Sebastian Joseph: Unsportsmanlike Conduct, 8 yards (no play)",0.000,0.000
+4,1:06,,,LAR 7,55,40,Matt Gay kicks extra point good,0.000,0.000
+4,1:06,,,TAM 35,55,40,"Bradley Pinion kicks off 70 yards, returned by Jojo Natson for 22 yards (tackle by Carlton Davis). Penalty on Malcolm Brown: Offensive Holding, 8 yards",0.000,-0.380
+4,1:01,1,10,LAR 9,55,40,Jared Goff pass complete short middle to Tyler Higbee for 5 yards (tackle by Lavonte David),-0.380,-0.390
+4,0:45,2,5,LAR 14,55,40,"Jared Goff pass incomplete deep right intended for Robert Woods. Penalty on Carl Nassib: Defensive Holding, 5 yards (no play)",-0.390,0.150
+4,0:39,1,10,LAR 19,55,40,"Penalty on Rakeem Nunez-Roches: Neutral Zone Infraction, 5 yards (no play)",0.150,0.940
+4,0:39,1,5,LAR 24,54,40,Jared Goff pass complete short middle to Tyler Higbee for 11 yards (tackle by Kevin Minter and Lavonte David),0.940,1.270
+4,0:22,1,10,LAR 35,54,40,Jared Goff pass incomplete short right intended for Tyler Higbee,1.270,0.720
+4,0:19,2,10,LAR 35,55,40,Jared Goff pass complete short middle to Tyler Higbee for 13 yards (tackle by M.J. Stewart and Lavonte David),0.720,2.130
+4,0:10,,,,,,Timeout #3 by Los Angeles Rams,,
+4,0:10,1,10,LAR 48,55,40,Jared Goff pass incomplete short left intended for Josh Reynolds (defended by Sean Murphy-Bunting),2.130,1.580
+4,0:06,2,10,LAR 48,54,40,Malcolm Brown left tackle for 6 yards (tackle by Devante Bond),1.580,1.680
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

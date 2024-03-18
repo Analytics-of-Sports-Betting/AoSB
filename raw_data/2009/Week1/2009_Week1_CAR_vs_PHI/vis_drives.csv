@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,6:54,PHI 26,6,3:19,27,Punt
+2,1,2:41,CAR 32,4,1:48,1,Field Goal
+3,2,10:01,CAR 9,1,0:06,9,Touchdown
+4,2,7:43,PHI 26,10,4:27,74,Touchdown
+5,2,1:42,PHI 15,6,1:18,33,Punt
+6,3,15:00,PHI 20,9,5:20,50,Interception
+7,3,8:21,CAR 10,3,1:22,10,Touchdown
+8,3,6:43,PHI 28,4,2:19,16,Punt
+9,3,3:01,PHI 20,6,3:09,15,Fumble
+10,4,13:42,PHI 20,3,1:42,4,Punt
+11,4,11:28,CAR 42,8,3:40,9,Missed FG
+12,4,6:50,CAR 47,4,2:33,0,Downs
+13,4,0:34,PHI 2,1,0:34,-1,End of Game

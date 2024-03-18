@@ -1,0 +1,202 @@
+Quarter,Time,Down,ToGo,Location,PHI,NYG,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Giants won the coin toss and deferred, Eagles to receive the opening kickoff.",,
+1,15:00,,,NYG 35,0,0,"Aldrick Rosas kicks off 62 yards, muffed catch by Boston Scott returned by Boston Scott for 4 yards (tackle by Sean Chandler)",0.000,-0.380
+1,14:54,1,10,PHI 7,0,0,Miles Sanders right guard for 2 yards (tackle by David Mayo),-0.380,-0.630
+1,14:26,2,8,PHI 9,0,0,Carson Wentz pass complete short right to Greg Ward for 11 yards (tackle by Julian Love),-0.630,0.280
+1,13:59,1,10,PHI 20,0,0,Miles Sanders left tackle for no gain (tackle by Lorenzo Carter and Markus Golden),0.280,-0.270
+1,13:31,2,10,PHI 20,0,0,Carson Wentz up the middle for 10 yards (tackle by David Mayo),-0.270,0.940
+1,12:48,1,10,PHI 30,0,0,Miles Sanders left end for 15 yards (tackle by Michael Thomas and Antoine Bethea),0.940,1.930
+1,12:16,1,10,PHI 45,0,0,Carson Wentz pass incomplete short left intended for Dallas Goedert,1.930,1.380
+1,12:11,2,10,PHI 45,0,0,Carson Wentz pass complete short middle to Joshua Perkins for 14 yards (tackle by Antoine Bethea),1.380,2.850
+1,11:43,1,10,NYG 41,0,0,Miles Sanders left tackle for 2 yards (tackle by Markus Golden and Dalvin Tomlinson),2.850,2.580
+1,11:09,2,8,NYG 39,0,0,Boston Scott up the middle for 1 yard (tackle by Leonard Williams and Markus Golden),2.580,2.020
+1,10:26,3,7,NYG 38,0,0,Carson Wentz pass incomplete short middle intended for Dallas Goedert (defended by Leonard Williams),2.020,0.720
+1,10:22,4,7,NYG 38,0,0,Carson Wentz pass incomplete short right intended for Dallas Goedert,0.720,-1.530
+1,10:17,1,10,NYG 39,0,0,Saquon Barkley right guard for 3 yards (tackle by Rodney McLeod),1.530,1.390
+1,9:44,2,7,NYG 42,0,0,"Daniel Jones pass incomplete short middle intended for Sterling Shepard (defended by Rasul Douglas). Penalty on Rasul Douglas: Defensive Holding, 5 yards (no play)",1.390,2.060
+1,9:39,1,10,NYG 47,0,0,"Daniel Jones pass incomplete short right. Penalty on Kaden Smith: Offensive Holding, 10 yards (no play)",2.060,1.400
+1,9:31,1,20,NYG 37,0,0,Daniel Jones pass complete short left to Darius Slayton for 5 yards (tackle by Nathan Gerry and Rasul Douglas),1.400,0.840
+1,8:51,2,15,NYG 42,0,0,Daniel Jones pass complete short middle to Kaden Smith for 8 yards (tackle by Cre'von LeBlanc),0.840,1.220
+1,8:09,3,7,NYG 50,0,0,Daniel Jones pass incomplete short middle intended for Golden Tate (defended by Cre'von LeBlanc),1.220,-0.060
+1,8:06,4,7,NYG 50,0,0,"Riley Dixon punts 32 yards, fair catch by Greg Ward at PHI-18",-0.060,-0.040
+1,7:58,1,10,PHI 18,0,0,Carson Wentz pass complete short right to Dallas Goedert for 14 yards (tackle by Antonio Hamilton and Alec Ogletree),0.040,1.070
+1,7:28,1,10,PHI 32,0,0,Miles Sanders left guard for 21 yards (tackle by Antoine Bethea),1.070,2.460
+1,6:58,1,10,NYG 47,0,0,Miles Sanders right tackle for -1 yards (tackle by Julian Love),2.460,1.780
+1,6:30,2,11,NYG 48,0,0,Carson Wentz pass complete short right to Miles Sanders for 4 yards (tackle by Alec Ogletree),1.780,1.620
+1,6:01,3,7,NYG 44,0,0,Carson Wentz pass complete deep middle to Dallas Goedert for 28 yards (tackle by Michael Thomas),1.620,4.510
+1,5:32,1,10,NYG 16,0,0,Boston Scott left tackle for 1 yard (tackle by Leonard Williams),4.510,4.050
+1,5:02,2,9,NYG 15,0,0,Miles Sanders right end for 1 yard (tackle by Kareem Martin),4.050,3.370
+1,4:18,3,8,NYG 14,0,0,Carson Wentz pass complete short right to Miles Sanders for 1 yard (tackle by Michael Thomas),3.370,2.570
+1,3:43,4,7,NYG 13,3,0,Jake Elliott 31 yard field goal good,2.570,3.000
+1,3:39,,,PHI 35,3,0,"Jake Elliott kicks off 58 yards, returned by Cody Latimer for 19 yards (tackle by Genard Avery and Sidney Jones)",0.000,0.670
+1,3:35,1,10,NYG 26,3,0,Daniel Jones pass complete short right to Sterling Shepard for 6 yards,0.670,0.940
+1,3:02,2,4,NYG 32,3,0,Saquon Barkley up the middle for -4 yards (tackle by Brandon Graham),0.940,-0.300
+1,2:18,3,8,NYG 28,3,0,Daniel Jones sacked by Brandon Graham for -11 yards,-0.300,-2.320
+1,1:47,4,19,NYG 17,3,0,"Riley Dixon punts 49 yards, returned by Greg Ward for 6 yards (tackle by Michael Thomas). Penalty on T.J. Edwards: Illegal Block Above the Waist, 10 yards",-2.320,-0.940
+1,1:34,1,10,PHI 30,3,0,Carson Wentz pass incomplete short left intended for Miles Sanders,0.940,0.390
+1,1:30,2,10,PHI 30,3,0,Carson Wentz pass incomplete short right intended for Miles Sanders,0.390,-0.300
+1,1:25,3,10,PHI 30,3,0,Carson Wentz pass complete short right to Miles Sanders for -6 yards (tackle by Deone Bucannon),-0.300,-1.770
+1,0:43,4,16,PHI 24,3,0,"Cameron Johnston punts 41 yards, returned by Da'Mari Scott for -3 yards (tackle by Malcolm Jenkins)",-1.770,-1.070
+1,0:31,1,10,NYG 32,3,0,Daniel Jones pass complete short left to Sterling Shepard for 9 yards (tackle by Nigel Bradham),1.070,1.740
+Quarter,Time,Down,ToGo,Location,PHI,NYG,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,1,NYG 41,3,0,Saquon Barkley right guard for -3 yards (tackle by Brandon Graham),1.740,0.630
+2,14:17,3,4,NYG 38,3,0,Daniel Jones pass incomplete deep left intended for Sterling Shepard (defended by Rasul Douglas),0.630,-0.850
+2,14:11,4,4,NYG 38,3,0,"Riley Dixon punts 61 yards downed by Cody Core. Penalty on Michael Thomas: Offensive Holding, 10 yards (no play)",-0.850,-1.500
+2,13:57,4,14,NYG 28,3,0,"Riley Dixon punts 53 yards, fair catch by Greg Ward at PHI-19",-1.500,-0.150
+2,13:49,1,10,PHI 19,3,0,Carson Wentz pass complete short middle to Boston Scott for 10 yards (tackle by Michael Thomas and David Mayo),0.150,0.870
+2,13:09,1,10,PHI 29,3,0,Carson Wentz pass complete short right to Greg Ward for 15 yards (tackle by Antoine Bethea),0.870,1.860
+2,12:38,1,10,PHI 44,3,0,"Carson Wentz pass incomplete short right intended for Robert Davis (defended by Antonio Hamilton). Penalty on Antonio Hamilton: Defensive Pass Interference, 13 yards (no play)",1.860,2.720
+2,12:34,1,10,NYG 43,3,0,"Carson Wentz aborted snap, recovered by Carson Wentz at NYG-48, recovered by Miles Sanders at NYG-48 (tackle by B.J. Hill)",2.720,2.310
+2,11:54,2,9,NYG 42,3,0,Carson Wentz sacked by and David Mayo for -10 yards and Leonard Williams for -10 yards,2.310,0.300
+2,11:08,3,19,PHI 48,3,0,"Penalty on PHI: Delay of Game, 5 yards (no play)",0.300,-0.360
+2,10:50,3,24,PHI 43,3,0,Miles Sanders left end for 11 yards (tackle by Michael Thomas),-0.360,0.200
+2,10:13,4,13,NYG 46,3,0,Cameron Johnston punts 43 yards downed by Sidney Jones,0.200,0.380
+2,10:04,1,10,NYG 3,3,0,Daniel Jones pass complete short right to Darius Slayton for 7 yards (tackle by Nathan Gerry and Avonte Maddox),-0.380,-0.270
+2,9:24,2,3,NYG 10,3,0,Daniel Jones pass incomplete deep right intended for Sterling Shepard (defended by Avonte Maddox),-0.270,-0.600
+2,9:18,3,3,NYG 10,3,0,Daniel Jones pass incomplete short middle intended for Golden Tate,-0.600,-2.490
+2,9:14,4,3,NYG 10,3,0,"Riley Dixon punts 41 yards, returned by Greg Ward for -3 yards (tackle by Da'Mari Scott)",-2.490,-1.990
+2,9:03,1,10,PHI 46,3,0,Carson Wentz right end for 3 yards (tackle by Michael Thomas),1.990,1.860
+2,8:24,2,7,PHI 49,3,0,Boston Scott right end for 3 yards (tackle by David Mayo and Alec Ogletree),1.860,1.550
+2,7:39,3,4,NYG 48,3,0,Carson Wentz pass incomplete deep right intended for Boston Scott,1.550,0.070
+2,7:33,4,4,NYG 48,3,0,"Cameron Johnston punts 34 yards, fair catch by Golden Tate at NYG-14",0.070,0.280
+2,7:26,1,10,NYG 14,3,0,Saquon Barkley right guard for 6 yards (tackle by Rodney McLeod and Cre'von LeBlanc),-0.280,0.150
+2,7:04,2,4,NYG 20,3,0,"Daniel Jones pass complete deep middle to Kaden Smith for 25 yards (tackle by Rodney McLeod and Nigel Bradham). Penalty on Rasul Douglas: Roughing the Passer, 15 yards",0.150,2.920
+2,6:46,1,10,PHI 40,3,0,Daniel Jones pass complete deep middle to Golden Tate for 20 yards (tackle by Avonte Maddox),2.920,4.240
+2,6:11,1,10,PHI 20,3,0,Daniel Jones pass incomplete short right intended for Darius Slayton (defended by Sidney Jones),4.240,3.690
+2,6:06,2,10,PHI 20,3,0,Saquon Barkley up the middle for 1 yard (tackle by Malcolm Jenkins and Timmy Jernigan),3.690,3.100
+2,5:24,3,9,PHI 19,3,0,Daniel Jones pass incomplete short right intended for Saquon Barkley,3.100,2.180
+2,5:20,4,9,PHI 19,3,3,Aldrick Rosas 37 yard field goal good,2.180,3.000
+2,5:16,,,NYG 35,3,3,"Aldrick Rosas kicks off 65 yards, touchback.",0.000,0.610
+2,5:16,1,10,PHI 25,3,3,Carson Wentz pass complete short middle to Dallas Goedert for 9 yards (tackle by Antoine Bethea),0.610,1.280
+2,4:50,2,1,PHI 34,3,3,Boston Scott right tackle for 2 yards (tackle by Alec Ogletree),1.280,1.330
+2,4:09,1,10,PHI 36,3,3,Carson Wentz pass complete short right to Boston Scott for 29 yards (tackle by Michael Thomas),1.330,3.250
+2,3:39,1,10,NYG 35,3,3,Carson Wentz pass complete short middle to Deontay Burnett for 7 yards (tackle by David Mayo),3.250,3.650
+2,3:10,2,3,NYG 28,3,3,Carson Wentz pass incomplete short middle intended for Robert Davis (defended by Antonio Hamilton),3.650,2.940
+2,3:03,3,3,NYG 28,3,3,Boston Scott left tackle for 2 yards (tackle by Deone Bucannon and Leonard Williams),2.940,1.890
+2,2:41,4,1,NYG 26,3,3,Carson Wentz up the middle for 2 yards (tackle by Leonard Williams and Markus Golden),1.890,3.970
+2,2:01,1,10,NYG 24,9,3,"Carson Wentz pass complete deep left to Joshua Perkins for 24 yards, touchdown",3.970,7.000
+2,1:52,,,NYG 15,10,3,Jake Elliott kicks extra point good,0.000,0.000
+2,1:52,,,PHI 35,10,3,"Jake Elliott kicks off 65 yards, returned by Da'Mari Scott for 17 yards (tackle by Genard Avery and Daeshon Hall)",0.000,-0.060
+2,1:46,1,10,NYG 17,10,3,Daniel Jones pass complete short middle to Golden Tate for 6 yards (tackle by Nathan Gerry),-0.060,0.350
+2,1:26,2,4,NYG 23,10,3,Daniel Jones pass complete short left to Saquon Barkley for 7 yards (tackle by Cre'von LeBlanc),0.350,0.940
+2,1:20,1,10,NYG 30,10,3,Daniel Jones pass complete short left to Darius Slayton for 5 yards (tackle by Rasul Douglas and Nigel Bradham),0.940,1.070
+2,0:58,2,5,NYG 35,10,3,Daniel Jones pass incomplete deep left intended for Darius Slayton,1.070,0.370
+2,0:52,3,5,NYG 35,10,3,Daniel Jones pass complete short left to Kaden Smith for 18 yards (tackle by Marcus Epps),0.370,2.460
+2,0:47,1,10,PHI 47,10,3,Daniel Jones pass incomplete deep left intended for Darius Slayton,2.460,1.910
+2,0:42,2,10,PHI 47,10,3,Daniel Jones pass incomplete short middle intended for Kaden Smith (defended by Rodney McLeod),1.910,1.220
+2,0:38,3,10,PHI 47,10,3,Daniel Jones pass incomplete short middle intended for Cody Latimer,1.220,0.130
+2,0:31,4,10,PHI 47,10,3,Riley Dixon punts 37 yards downed by Cody Core,0.130,0.380
+2,0:23,1,10,PHI 10,10,3,Boston Scott up the middle for 2 yards (tackle by Julian Love and Oshane Ximines),-0.380,-0.630
+2,0:19,,,,,,Timeout #1 by New York Giants,,
+2,0:19,2,8,PHI 12,10,3,Boston Scott up the middle for 4 yards (tackle by Markus Golden),-0.630,-0.720
+2,0:15,,,,,,Timeout #2 by New York Giants,,
+2,0:15,3,4,PHI 16,10,3,Carson Wentz pass incomplete short left intended for Dallas Goedert,-0.720,-2.390
+2,0:10,4,4,PHI 16,10,3,Cameron Johnston punts 43 yards,-2.390,-0.140
+Quarter,Time,Down,ToGo,Location,PHI,NYG,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PHI 35,10,3,"Jake Elliott kicks off 65 yards, returned by Cody Latimer for 24 yards (tackle by Daeshon Hall)",0.000,0.540
+3,14:53,1,10,NYG 24,10,3,Saquon Barkley right end for 6 yards (tackle by Avonte Maddox),0.540,0.810
+3,14:17,2,4,NYG 30,10,3,"Daniel Jones pass complete short right to Kaden Smith for 12 yards (tackle by Rodney McLeod). Kaden Smith fumbles (forced by Rodney McLeod), recovered by Kaden Smith at NYG-42. Penalty on Sidney Jones: Defensive Holding (Declined)",0.810,1.730
+3,14:07,1,10,NYG 42,10,3,Daniel Jones pass incomplete short middle intended for Sterling Shepard,1.730,1.190
+3,14:01,2,10,NYG 42,10,3,Saquon Barkley right tackle for no gain (tackle by Cre'von LeBlanc and Nigel Bradham),1.190,0.500
+3,13:14,3,10,NYG 42,10,3,"Penalty on Derek Barnett: Defensive Offside, 5 yards (no play)",0.500,1.160
+3,13:13,3,5,NYG 47,10,3,Daniel Jones pass complete short right to Sterling Shepard for 7 yards (tackle by Malcolm Jenkins). Penalty on Josh Sweat: Defensive Offside (Declined),1.160,2.520
+3,12:42,1,10,PHI 46,10,3,Daniel Jones pass complete short right to Kaden Smith for 9 yards (tackle by Malcolm Jenkins),2.520,3.190
+3,11:55,2,1,PHI 37,10,3,Saquon Barkley up the middle for no gain (tackle by Nigel Bradham and T.J. Edwards),3.190,2.480
+3,11:13,3,1,PHI 37,10,3,Saquon Barkley up the middle for no gain (tackle by Timmy Jernigan),2.480,0.790
+3,10:29,,,,,,Timeout #1 by New York Giants,,
+3,10:29,4,1,PHI 37,10,3,Daniel Jones right end for 17 yards (tackle by Malcolm Jenkins),0.790,4.240
+3,9:50,1,10,PHI 20,10,9,"Daniel Jones pass complete deep left to Golden Tate for 20 yards, touchdown. Penalty on Rasul Douglas: Defensive Pass Interference (Declined)",4.240,7.000
+3,9:41,,,PHI 15,10,10,Aldrick Rosas kicks extra point good,0.000,0.000
+3,9:41,,,NYG 35,10,10,"Aldrick Rosas kicks off 65 yards, touchback.",0.000,0.610
+3,9:41,1,10,PHI 25,10,10,"Carson Wentz pass complete short right to Joshua Perkins for 5 yards (tackle by Michael Thomas and Alec Ogletree). Penalty on Michael Thomas: Horse Collar Tackle, 15 yards",0.610,1.930
+3,9:16,1,10,PHI 45,10,10,Carson Wentz pass incomplete short middle intended for Dallas Goedert,1.930,1.380
+3,9:12,2,10,PHI 45,10,10,Carson Wentz pass complete short middle to Greg Ward for -7 yards (tackle by Lorenzo Carter),1.380,-0.230
+3,8:28,3,17,PHI 38,10,10,Carson Wentz pass incomplete deep right intended for Deontay Burnett (defended by Antonio Hamilton),-0.230,-0.850
+3,8:20,4,17,PHI 38,10,10,"Cameron Johnston punts 51 yards, returned by Golden Tate for 8 yards (tackle by Duke Riley and T.J. Edwards)",-0.850,-0.150
+3,8:09,1,10,NYG 19,10,10,Saquon Barkley left tackle for 4 yards (tackle by Nathan Gerry),0.150,0.210
+3,7:30,2,6,NYG 23,10,10,Daniel Jones pass complete deep right to Darius Slayton for 33 yards (tackle by Rasul Douglas),0.210,2.650
+3,7:05,1,10,PHI 44,10,10,Daniel Jones right end for 9 yards (tackle by Malcolm Jenkins),2.650,3.330
+3,6:29,2,1,PHI 35,10,10,Saquon Barkley left guard for -3 yards (tackle by Anthony Rush),3.330,2.210
+3,5:44,3,4,PHI 38,10,10,Daniel Jones pass incomplete deep right intended for Sterling Shepard (defended by Sidney Jones),2.210,0.720
+3,5:38,4,4,PHI 38,10,10,Daniel Jones pass incomplete short left intended for Sterling Shepard (defended by Cre'von LeBlanc),0.720,-1.470
+3,5:32,1,10,PHI 38,10,10,Boston Scott up the middle for 8 yards (tackle by Michael Thomas and Antonio Hamilton),1.470,2.000
+3,5:02,2,2,PHI 46,10,10,Carson Wentz pass complete short left to Greg Ward for 5 yards (tackle by Julian Love),2.000,2.320
+3,4:30,1,10,NYG 49,10,10,Carson Wentz pass complete short right to Greg Ward for 11 yards (tackle by Julian Love),2.320,3.050
+3,4:12,1,10,NYG 38,10,10,Boston Scott left guard for 2 yards (tackle by Markus Golden),3.050,2.780
+3,3:42,2,8,NYG 36,10,10,Carson Wentz pass incomplete short right intended for Robert Davis (defended by Antonio Hamilton),2.780,2.080
+3,3:38,3,8,NYG 36,10,10,Carson Wentz pass complete short right to Dallas Goedert for 14 yards,2.080,4.110
+3,3:14,1,10,NYG 22,10,10,Carson Wentz pass incomplete deep middle intended for Joshua Perkins,4.110,3.560
+3,3:10,2,10,NYG 22,10,10,Boston Scott up the middle for 15 yards (tackle by Julian Love),3.560,5.600
+3,2:28,1,7,NYG 7,16,10,"Boston Scott up the middle for 7 yards, touchdown",5.600,7.000
+3,2:21,,,NYG 15,17,10,Jake Elliott kicks extra point good,0.000,0.000
+3,2:21,,,PHI 35,17,10,"Jake Elliott kicks off 65 yards, returned by Cody Latimer for 32 yards (tackle by Nathan Gerry)",0.000,1.070
+3,2:16,1,10,NYG 32,17,16,"Saquon Barkley right tackle for 68 yards, touchdown",1.070,7.000
+3,2:05,,,PHI 15,17,17,Aldrick Rosas kicks extra point good,0.000,0.000
+3,2:05,,,NYG 35,17,17,"Aldrick Rosas kicks off 65 yards, touchback.",0.000,0.610
+3,2:05,1,10,PHI 25,17,17,Carson Wentz pass complete short right to Boston Scott for 6 yards,0.610,0.870
+3,1:33,2,4,PHI 31,17,17,Boston Scott right guard for -2 yards (tackle by Michael Thomas and Markus Golden),0.870,-0.100
+3,0:55,3,6,PHI 29,17,17,Carson Wentz pass complete short left to Greg Ward for 8 yards (tackle by Antoine Bethea),-0.100,1.400
+3,0:12,1,10,PHI 37,17,17,"Carson Wentz pass complete deep left to Robert Davis for 39 yards (tackle by Julian Love). Penalty on Halapoulivaati Vaitai: Offensive Holding, 10 yards (no play)",1.400,0.740
+Quarter,Time,Down,ToGo,Location,PHI,NYG,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,20,PHI 27,17,17,Carson Wentz pass complete deep right to Deontay Burnett for 41 yards (tackle by Antonio Hamilton),0.740,3.450
+4,14:18,1,10,NYG 32,17,17,Carson Wentz pass incomplete short right intended for Boston Scott,3.450,2.900
+4,14:13,2,10,NYG 32,17,17,Carson Wentz pass incomplete deep middle intended for Joshua Perkins (defended by Antonio Hamilton),2.900,2.210
+4,14:08,3,10,NYG 32,17,17,Carson Wentz pass incomplete short left intended for Greg Ward (defended by Julian Love),2.210,1.240
+4,14:03,4,10,NYG 32,20,17,Jake Elliott 50 yard field goal good,1.240,3.000
+4,13:58,,,PHI 35,20,17,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+4,13:58,1,10,NYG 25,20,17,"Penalty on Anthony Rush: Neutral Zone Infraction, 5 yards (no play)",0.610,1.340
+4,13:58,1,5,NYG 30,20,17,Daniel Jones sacked by Derek Barnett for -3 yards,1.340,0.330
+4,13:12,2,8,NYG 27,20,17,"Daniel Jones aborted snap, recovered by Daniel Jones at NYG-22 and returned for -7 yards. Daniel Jones fumbles (forced by Malcolm Jenkins), recovered by Fletcher Cox at NYG-3 and returned for 1 yard (tackle by Daniel Jones)",0.330,-6.740
+4,13:03,1,2,NYG 2,26,17,"Boston Scott left guard for 2 yards, touchdown",6.740,7.000
+4,13:00,,,NYG 15,27,17,Jake Elliott kicks extra point good,0.000,0.000
+4,13:00,,,PHI 35,27,17,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+4,13:00,1,10,NYG 25,27,17,Daniel Jones pass incomplete deep left intended for Darius Slayton (defended by Rasul Douglas),0.610,0.060
+4,12:53,2,10,NYG 25,27,17,Saquon Barkley left tackle for -2 yards (tackle by Nathan Gerry),0.060,-0.890
+4,12:16,3,12,NYG 23,27,17,Daniel Jones sacked by Derek Barnett for -2 yards,-0.890,-1.960
+4,11:44,4,14,NYG 21,27,17,"Riley Dixon punts 45 yards, fair catch by Greg Ward at PHI-34",-1.960,-1.200
+4,11:36,1,10,PHI 34,27,17,Boston Scott right end for no gain (tackle by Michael Thomas and B.J. Hill),1.200,0.660
+4,10:58,2,10,PHI 34,27,17,Carson Wentz pass incomplete short left intended for Dallas Goedert,0.660,-0.030
+4,10:50,3,10,PHI 34,27,17,Carson Wentz pass complete short middle to Joshua Perkins for 7 yards (tackle by Antonio Hamilton),-0.030,-0.650
+4,10:13,4,3,PHI 41,27,17,"Cameron Johnston punts 45 yards, returned by Golden Tate for 17 yards (tackle by Nathan Gerry)",-0.650,-1.000
+4,10:01,1,10,NYG 31,27,17,Daniel Jones sacked by Timmy Jernigan for -10 yards,1.000,-0.890
+4,9:22,2,20,NYG 21,27,17,Daniel Jones pass complete short right to Saquon Barkley for 9 yards (tackle by Sidney Jones),-0.890,-0.360
+4,8:39,3,11,NYG 30,27,17,Daniel Jones pass complete short left to Kaden Smith for 9 yards (tackle by Cre'von LeBlanc and Nigel Bradham),-0.360,-0.780
+4,8:00,4,2,NYG 39,27,17,Saquon Barkley right end for no gain (tackle by Cre'von LeBlanc),-0.780,-3.050
+4,7:53,1,10,NYG 38,27,17,Boston Scott right end for -3 yards (tackle by Julian Love),3.050,2.100
+4,7:16,2,13,NYG 41,27,17,Carson Wentz pass incomplete short middle intended for Deontay Burnett,2.100,1.420
+4,7:10,3,13,NYG 41,27,17,Carson Wentz pass complete short left to Boston Scott for 39 yards (tackle by Julian Love and Michael Thomas),1.420,6.740
+4,6:19,1,2,NYG 2,33,17,"Boston Scott left guard for 2 yards, touchdown",6.740,7.000
+4,6:14,,,NYG 15,34,17,Jake Elliott kicks extra point good,0.000,0.000
+4,6:14,,,PHI 35,34,17,"Jake Elliott kicks off 64 yards, returned by Cody Latimer for 23 yards (tackle by Nathan Gerry and T.J. Edwards)",0.000,0.540
+4,6:09,1,10,NYG 24,34,17,Daniel Jones pass complete short right to Golden Tate for 2 yards (tackle by Rasul Douglas),0.540,0.270
+4,5:39,2,8,NYG 26,34,17,Daniel Jones pass incomplete deep left intended for Kaden Smith (defended by Rasul Douglas),0.270,-0.430
+4,5:32,3,8,NYG 26,34,17,Daniel Jones pass complete short left to Kaden Smith for 10 yards (tackle by Nigel Bradham),-0.430,1.330
+4,5:06,1,10,NYG 36,34,17,Saquon Barkley right guard for 9 yards (tackle by Nigel Bradham),1.330,2.010
+4,4:36,2,1,NYG 45,34,17,Daniel Jones pass complete short middle to Kaden Smith for 7 yards (tackle by Vinny Curry and Nigel Bradham),2.010,2.390
+4,4:13,1,10,PHI 48,34,17,Daniel Jones pass complete short middle to Saquon Barkley for 9 yards (tackle by Cre'von LeBlanc),2.390,3.060
+4,3:49,2,1,PHI 39,34,17,Saquon Barkley up the middle for 10 yards (tackle by Cre'von LeBlanc),3.060,3.640
+4,3:23,1,10,PHI 29,34,17,Daniel Jones pass deep right intended for Darius Slayton is intercepted by Sidney Jones at PHI-6 and returned for 3 yards,3.640,0.380
+4,3:09,1,10,PHI 9,34,17,Boston Scott up the middle for 2 yards (tackle by Dexter Lawrence),-0.380,-0.630
+4,3:03,,,,,,Timeout #2 by New York Giants,,
+4,3:03,2,8,PHI 11,34,17,Boston Scott right tackle for 4 yards (tackle by Antonio Hamilton and Dalvin Tomlinson),-0.630,-0.720
+4,2:58,,,,,,Timeout #3 by New York Giants,,
+4,2:58,3,4,PHI 15,34,17,Boston Scott left tackle for 2 yards (tackle by Deandre Baker and Julian Love),-0.720,-2.320
+4,2:14,,,,,,Timeout #1 by Philadelphia Eagles,,
+4,2:14,4,2,PHI 17,34,17,"Cameron Johnston punts 46 yards, returned by Golden Tate for no gain (tackle by Sidney Jones)",-2.320,-1.400
+4,2:05,1,10,NYG 37,34,17,Saquon Barkley up the middle for -3 yards (tackle by Malcolm Jenkins),1.400,0.450
+4,2:00,2,13,NYG 34,34,17,Daniel Jones pass incomplete short middle intended for Golden Tate,0.450,-0.230
+4,1:56,3,13,NYG 34,34,17,Daniel Jones pass complete deep middle to Golden Tate for 20 yards (tackle by Marcus Epps),-0.230,2.520
+4,1:31,1,10,PHI 46,34,17,Daniel Jones pass complete short middle to Javorius Allen for 9 yards (tackle by Nigel Bradham),2.520,3.190
+4,1:15,,,,,,Timeout #2 by Philadelphia Eagles,,
+4,1:15,2,1,PHI 37,34,17,Daniel Jones pass complete short right to Sterling Shepard for no gain (tackle by Sidney Jones),3.190,2.480
+4,1:07,3,1,PHI 37,34,17,Javorius Allen right guard for 4 yards (tackle by Malcolm Jenkins),2.480,3.380
+4,0:50,1,10,PHI 33,34,17,Daniel Jones pass complete deep middle to Sterling Shepard for 17 yards (tackle by Marcus Epps),3.380,4.510
+4,0:27,1,10,PHI 16,34,17,Daniel Jones pass incomplete short right intended for Kaden Smith,4.510,3.900
+4,0:23,2,10,PHI 16,34,17,Daniel Jones pass complete short right to Cody Latimer for 3 yards (tackle by Sidney Jones),3.900,3.540
+4,0:19,3,7,PHI 13,34,17,Daniel Jones pass incomplete short left intended for Javorius Allen (defended by Malcolm Jenkins),3.540,2.570
+4,0:14,4,7,PHI 13,34,17,Daniel Jones pass complete short middle to Cody Latimer for 9 yards (tackle by Rodney McLeod and Marcus Epps),2.570,4.110
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

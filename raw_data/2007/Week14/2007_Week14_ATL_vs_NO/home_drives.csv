@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,ATL 20,5,2:51,25,Punt
+2,1,9:54,NOR 33,3,0:51,-1,Punt
+3,1,7:44,ATL 42,3,1:30,-3,Punt
+4,1,3:18,ATL 20,5,1:56,80,Touchdown
+5,2,10:41,ATL 16,6,3:13,20,Punt
+6,2,1:06,ATL 22,7,1:06,77,End of Half
+7,3,9:13,ATL 20,2,0:43,4,Interception
+8,3,8:30,ATL 20,14,7:27,45,Downs
+9,4,14:43,ATL 26,6,1:59,49,Downs
+10,4,11:16,ATL 33,3,1:38,-6,Punt
+11,4,9:38,NOR 16,2,0:46,16,Touchdown
+12,4,2:48,ATL 19,3,0:33,0,Punt

@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,9:12,NYJ 14,3,2:27,9,Punt
+2,1,5:54,BUF 32,4,1:20,3,Field Goal
+3,1,1:07,BUF 46,11,4:57,43,Field Goal
+4,2,7:14,BUF 8,1,0:43,8,Touchdown
+5,2,4:47,BUF 45,3,1:35,4,Punt
+6,3,15:00,,1,0:09,0,Fumble
+7,3,13:22,NYJ 35,9,5:14,32,Interception
+8,3,3:08,NYJ 15,12,6:02,85,Touchdown
+9,4,7:49,NYJ 44,3,1:33,4,Punt
+10,4,2:31,NYJ 39,8,1:14,61,Touchdown
+11,4,0:59,BUF 45,3,0:59,-2,End of Game

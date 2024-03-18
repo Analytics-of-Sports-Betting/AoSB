@@ -1,0 +1,179 @@
+Quarter,Time,Down,ToGo,Location,DAL,MIN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Vikings won the coin toss, Vikings to receive the opening kickoff.",,
+1,15:00,,,DAL 35,0,0,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,MIN 25,0,0,Dalvin Cook up the middle for 4 yards (tackle by Micah Parsons),0.610,0.600
+1,14:34,2,6,MIN 29,0,0,Dalvin Cook left guard for 3 yards (tackle by Osa Odighizuwa),0.600,0.300
+1,13:52,3,3,MIN 32,0,0,"Kirk Cousins sacked by Micah Parsons for -5 yards. Kirk Cousins fumbles (forced by Micah Parsons), recovered by Dorance Armstrong at MIN-27",0.300,-3.780
+1,13:44,1,10,MIN 27,0,0,Ezekiel Elliott left guard for 4 yards (tackle by Jordan Hicks),3.780,3.770
+1,13:05,2,6,MIN 23,0,0,Dak Prescott pass complete short middle to Ezekiel Elliott for 5 yards (tackle by Eric Kendricks),3.770,3.840
+1,12:24,3,1,MIN 18,0,0,Ezekiel Elliott up the middle for 2 yards (tackle by Jonathan Bullard),3.840,4.510
+1,11:48,1,10,MIN 16,0,0,Ezekiel Elliott right tackle for 7 yards (tackle by Camryn Bynum),4.510,5.160
+1,11:12,2,3,MIN 9,0,0,Dak Prescott pass complete short middle to Tony Pollard for no gain (tackle by Harrison Phillips),5.160,4.390
+1,10:29,3,3,MIN 9,0,0,Dak Prescott pass incomplete short left intended for Dalton Schultz,4.390,2.990
+1,10:25,4,2,MIN 8,3,0,Brett Maher 27 yard field goal good,2.990,3.000
+1,10:22,,,DAL 35,3,0,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+1,10:22,1,10,MIN 25,3,0,"Kirk Cousins pass incomplete short middle intended for T.J. Hockenson. Penalty on Kelvin Joseph: Defensive Pass Interference, 9 yards (accepted) (no play)",0.610,1.200
+1,10:18,1,10,MIN 34,3,0,Dalvin Cook right end for 2 yards (tackle by Kelvin Joseph),1.200,0.930
+1,9:44,2,8,MIN 36,3,0,Kirk Cousins pass complete short middle to Justin Jefferson for 14 yards (tackle by Leighton Vander Esch),0.930,2.260
+1,9:04,1,10,MIN 50,3,0,"Dalvin Cook right end for 17 yards (tackle by Donovan Wilson). Penalty on Carlos Watkins: Defensive Holding, 5 yards (accepted)",2.260,3.710
+1,8:49,1,10,DAL 28,3,0,Kirk Cousins pass incomplete deep right intended for Justin Jefferson,3.710,3.170
+1,8:44,2,10,DAL 28,3,0,Kirk Cousins pass complete short right to Justin Jefferson for 4 yards (tackle by Trevon Diggs),3.170,3.010
+1,8:08,3,6,DAL 24,3,0,Kirk Cousins pass complete short left to Adam Thielen for 10 yards (tackle by DaRon Bland),3.010,4.650
+1,7:34,1,10,DAL 14,3,0,Dalvin Cook right end for 8 yards (tackle by DeMarcus Lawrence and Jayron Kearse),4.650,5.470
+1,6:50,2,2,DAL 6,3,0,Kirk Cousins pass incomplete short left intended for T.J. Hockenson,5.470,4.730
+1,6:45,3,2,DAL 6,3,0,Kirk Cousins pass incomplete short right intended for T.J. Hockenson,4.730,3.010
+1,6:42,4,2,DAL 6,3,3,Greg Joseph 25 yard field goal good,3.010,3.000
+1,6:39,,,MIN 35,3,3,"Greg Joseph kicks off 65 yards, touchback.",0.000,0.610
+1,6:39,1,10,DAL 25,3,3,Dak Prescott pass complete short middle to Dalton Schultz for 3 yards (tackle by Eric Kendricks),0.610,0.470
+1,6:06,2,7,DAL 28,3,3,Tony Pollard left tackle for 4 yards (tackle by Danielle Hunter),0.470,0.300
+1,5:43,3,3,DAL 32,3,3,Dak Prescott pass complete short left to Michael Gallup for 14 yards (tackle by Andrew Booth and Harrison Smith),0.300,1.990
+1,5:16,1,10,DAL 46,3,3,Tony Pollard left guard for 18 yards (tackle by Harrison Smith),1.990,3.180
+1,4:43,1,10,MIN 36,3,3,Tony Pollard right tackle for 20 yards (tackle by Camryn Bynum),3.180,4.510
+1,3:59,1,10,MIN 16,3,3,Dak Prescott pass complete short left to Michael Gallup for 8 yards (tackle by Camryn Bynum),4.510,5.350
+1,3:23,2,2,MIN 8,3,3,Dak Prescott pass complete short left to CeeDee Lamb for 6 yards (tackle by Danielle Hunter and Camryn Bynum),5.350,6.740
+1,2:41,1,2,MIN 2,3,3,Tony Pollard up the middle for 1 yard (tackle by Khyiris Tonga),6.740,5.910
+1,2:08,2,1,MIN 1,3,3,Tony Pollard right guard for no gain (tackle by D.J. Wonnum and Khyiris Tonga),5.910,5.170
+1,1:31,3,1,MIN 1,9,3,"Ezekiel Elliott left guard for 1 yard, touchdown",5.170,7.000
+1,1:26,,,MIN 15,10,3,Brett Maher kicks extra point good,0.000,0.000
+1,1:26,,,DAL 35,10,3,"Brett Maher kicks off 69 yards, returned by Kene Nwangwu for 25 yards (tackle by Jabril Cox)",0.000,0.340
+1,1:22,1,10,MIN 21,10,3,Dalvin Cook left end for 4 yards (tackle by Dorance Armstrong),0.340,0.340
+1,0:51,2,6,MIN 25,10,3,Kirk Cousins pass complete short left to Adam Thielen for 15 yards (tackle by Anthony Brown),0.340,1.600
+1,0:11,1,10,MIN 40,10,3,Dalvin Cook right guard for 3 yards (tackle by Leighton Vander Esch),1.600,1.460
+Quarter,Time,Down,ToGo,Location,DAL,MIN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,7,MIN 43,10,3,Dalvin Cook left guard for 4 yards (tackle by Micah Parsons),1.460,1.290
+2,14:20,3,3,MIN 47,10,3,Kirk Cousins sacked by Dorance Armstrong for -6 yards,1.290,-0.650
+2,13:36,4,9,MIN 41,10,3,"Ryan Wright punts 46 yards, returned by KaVontae Turpin for 4 yards (tackle by Patrick Jones)",-0.650,0.060
+2,13:25,1,10,DAL 17,10,3,Dak Prescott scrambles left end for 1 yard (tackle by Harrison Phillips),-0.060,-0.420
+2,12:35,2,9,DAL 18,10,3,Dak Prescott pass complete short left to Noah Brown for 7 yards (tackle by Andrew Booth),-0.420,-0.240
+2,12:06,3,2,DAL 25,10,3,Tony Pollard right guard for 5 yards (tackle by Harrison Phillips),-0.240,0.940
+2,11:32,1,10,DAL 30,10,3,Ezekiel Elliott left guard for 8 yards (tackle by Harrison Phillips and D.J. Wonnum),0.940,1.470
+2,10:53,2,2,DAL 38,10,3,Ezekiel Elliott right tackle for 1 yard (tackle by Jonathan Bullard),1.470,0.890
+2,10:21,3,1,DAL 39,10,3,Ezekiel Elliott left guard for 2 yards (tackle by Khyiris Tonga),0.890,1.660
+2,9:42,1,10,DAL 41,10,3,"Dak Prescott pass complete short right to Dalton Schultz for 12 yards (tackle by Harrison Smith). Penalty on Andrew Booth: Illegal Contact, 5 yards (declined)",1.660,2.460
+2,9:14,1,10,MIN 47,10,3,Tony Pollard right end for 1 yard (tackle by Danielle Hunter),2.460,2.050
+2,8:40,2,9,MIN 46,10,3,Tony Pollard right end for 3 yards (tackle by Danielle Hunter),2.050,1.750
+2,7:52,3,6,MIN 43,10,3,Dak Prescott left end for 11 yards (tackle by Andrew Booth),1.750,3.450
+2,7:12,1,10,MIN 32,10,3,"Dak Prescott pass complete short right to CeeDee Lamb for no gain (tackle by Eric Kendricks). Penalty on CeeDee Lamb: Illegal Shift, 5 yards (accepted) (no play)",3.450,3.120
+2,6:47,1,15,MIN 37,10,3,Tony Pollard up the middle for -2 yards (tackle by Patrick Jones),3.120,1.960
+2,6:11,2,17,MIN 39,10,3,Ezekiel Elliott left guard for 4 yards (tackle by Za'Darius Smith and Harrison Smith),1.960,1.820
+2,5:41,3,13,MIN 35,10,3,Dak Prescott pass incomplete short left intended for Michael Gallup,1.820,1.060
+2,5:36,4,12,MIN 34,13,3,Brett Maher 53 yard field goal good,1.060,3.000
+2,5:31,,,DAL 35,13,3,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+2,5:31,1,10,MIN 25,13,3,Kirk Cousins pass incomplete deep left intended for T.J. Hockenson (defended by Anthony Brown),0.610,0.060
+2,5:22,2,10,MIN 25,13,3,Alexander Mattison right guard for 3 yards (tackle by Damone Clark and Carlos Watkins),0.060,-0.230
+2,4:39,3,7,MIN 28,13,3,Kirk Cousins pass incomplete short left,-0.230,-1.500
+2,4:34,4,7,MIN 28,13,3,"Ryan Wright punts 31 yards, fair catch by KaVontae Turpin at DAL-41",-1.500,-1.660
+2,4:27,1,10,DAL 41,13,3,Dak Prescott scrambles right end for 4 yards (tackle by Patrick Peterson),1.660,1.660
+2,3:50,2,6,DAL 45,13,3,Dak Prescott pass complete short right to Jake Ferguson for 4 yards (tackle by Jordan Hicks),1.660,1.490
+2,3:17,3,2,DAL 49,13,3,Tony Pollard left tackle for 7 yards (tackle by Harrison Smith),1.490,2.650
+2,2:47,1,10,MIN 44,13,3,Dak Prescott pass complete short middle to CeeDee Lamb for 8 yards (tackle by Camryn Bynum),2.650,3.190
+2,2:09,2,2,MIN 36,13,3,Ezekiel Elliott left guard for 1 yard (tackle by James Lynch),3.190,2.610
+2,2:00,3,1,MIN 35,13,3,Ezekiel Elliott right guard for 2 yards (tackle by Jordan Hicks and Camryn Bynum),2.610,3.380
+2,1:56,,,,,,Timeout #1 by Minnesota Vikings,,
+2,1:56,1,10,MIN 33,13,3,Ezekiel Elliott left tackle for 3 yards (tackle by Harrison Phillips),3.380,3.240
+2,1:52,,,,,,Timeout #2 by Minnesota Vikings,,
+2,1:52,2,7,MIN 30,19,3,"Dak Prescott pass complete short right to Tony Pollard for 30 yards, touchdown",3.240,7.000
+2,1:43,,,MIN 15,20,3,Brett Maher kicks extra point good,0.000,0.000
+2,1:43,,,DAL 35,20,3,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+2,1:43,1,10,MIN 25,20,3,Kirk Cousins pass incomplete short left intended for Dalvin Cook (defended by Jayron Kearse),0.610,0.060
+2,1:36,2,10,MIN 25,20,3,Kirk Cousins pass complete short left to Justin Jefferson for 15 yards,0.060,1.600
+2,1:32,1,10,MIN 40,20,3,Kirk Cousins pass complete short right to T.J. Hockenson for 6 yards (tackle by Jayron Kearse),1.600,1.860
+2,1:08,2,4,MIN 46,20,3,Kirk Cousins pass complete short left to K.J. Osborn for 5 yards (tackle by DaRon Bland),1.860,2.320
+2,1:05,1,10,DAL 49,20,3,"Penalty on Blake Brandel: False Start, 5 yards (accepted) (no play)",2.320,1.990
+2,1:05,1,15,MIN 46,20,3,Kirk Cousins sacked by Micah Parsons for -8 yards,1.990,-0.110
+2,0:52,,,,,,Timeout #3 by Minnesota Vikings,,
+2,0:52,2,24,MIN 37,20,3,Kirk Cousins pass incomplete short left,-0.110,-0.630
+2,0:46,3,23,MIN 38,20,3,Kirk Cousins pass incomplete short right intended for T.J. Hockenson,-0.630,-0.850
+2,0:41,4,23,MIN 38,20,3,"Ryan Wright punts 58 yards, returned by KaVontae Turpin for 10 yards (tackle by D.J. Wonnum)",-0.850,0.280
+2,0:31,1,10,DAL 14,20,3,Dak Prescott pass complete short left to CeeDee Lamb for 6 yards (tackle by Andrew Booth),-0.280,0.150
+2,0:26,,,,,,Timeout #1 by Dallas Cowboys,,
+2,0:26,2,4,DAL 20,20,3,Dak Prescott pass complete short right to Tony Pollard for 4 yards (tackle by Patrick Peterson),0.150,0.540
+2,0:20,1,10,DAL 24,20,3,Dak Prescott pass complete short left to Dalton Schultz for 7 yards (tackle by Andrew Booth),0.540,0.940
+2,0:13,2,3,DAL 31,20,3,"Dak Prescott pass complete deep right to CeeDee Lamb for 27 yards Replay Assistant challenged the pass completion ruling, and the play was upheld.",0.940,2.790
+2,0:05,,,,,,Timeout #2 by Dallas Cowboys,,
+2,0:05,1,10,MIN 42,23,3,Brett Maher 60 yard field goal good,2.790,3.000
+Quarter,Time,Down,ToGo,Location,DAL,MIN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,MIN 35,23,3,"Greg Joseph kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,DAL 25,23,3,Ezekiel Elliott left end for 1 yard (tackle by Andrew Booth),0.610,0.200
+3,14:33,2,9,DAL 26,23,3,Dak Prescott pass complete short right to Tony Pollard for 10 yards (tackle by Chandon Sullivan),0.200,1.330
+3,14:03,1,10,DAL 36,23,3,Tony Pollard left tackle for -1 yards (tackle by Harrison Smith),1.330,0.660
+3,13:26,2,11,DAL 35,23,3,Dak Prescott pass complete short right to Tony Pollard for -3 yards (tackle by Patrick Peterson),0.660,-0.430
+3,12:43,3,14,DAL 32,29,3,"Dak Prescott pass complete deep right to Tony Pollard for 68 yards, touchdown",-0.430,7.000
+3,12:32,,,MIN 15,30,3,Brett Maher kicks extra point good,0.000,0.000
+3,12:32,,,DAL 35,30,3,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+3,12:32,1,10,MIN 25,30,3,Kirk Cousins sacked by DeMarcus Lawrence for -7 yards,0.610,-0.980
+3,11:49,2,17,MIN 18,30,3,"Kirk Cousins pass complete short right to Dalvin Cook for no gain (tackle by Jayron Kearse and Leighton Vander Esch). Penalty on T.J. Hockenson: Offensive Pass Interference, 9 yards (accepted) (no play)",-0.980,-1.950
+3,11:26,2,26,MIN 9,30,3,Kirk Cousins pass complete short left to T.J. Hockenson for 7 yards (tackle by Damone Clark),-1.950,-2.140
+3,11:01,3,19,MIN 16,30,3,Kirk Cousins sacked by Dante Fowler for -10 yards,-2.140,-2.490
+3,10:22,4,29,MIN 6,30,3,"Ryan Wright punts 55 yards, returned by KaVontae Turpin for 20 yards (tackle by Andrew DePaola)",-2.490,-2.850
+3,10:09,1,10,MIN 41,30,3,Ezekiel Elliott right end for 3 yards (tackle by D.J. Wonnum and Jordan Hicks),2.850,2.710
+3,9:34,2,7,MIN 38,30,3,Ezekiel Elliott left tackle for 2 yards (tackle by Jordan Hicks),2.710,2.280
+3,8:51,3,5,MIN 36,30,3,"Dak Prescott pass complete deep left to Noah Brown for 35 yards (tackle by Andrew Booth) MIN challenged the pass completion ruling, and the play was upheld.",2.280,6.970
+3,8:23,1,1,MIN 1,30,3,Dak Prescott pass incomplete short right intended for Dalton Schultz,6.970,5.910
+3,8:18,2,1,MIN 1,36,3,"Ezekiel Elliott left guard for 1 yard, touchdown",5.910,7.000
+3,8:15,,,MIN 15,37,3,Brett Maher kicks extra point good,0.000,0.000
+3,8:15,,,DAL 35,37,3,"Brett Maher kicks off 67 yards, returned by Kene Nwangwu for 23 yards (tackle by C.J. Goodwin and Luke Gifford)",0.000,0.340
+3,8:10,1,10,MIN 21,37,3,Dalvin Cook right end for 5 yards (tackle by Trevon Diggs),0.340,0.480
+3,7:50,2,5,MIN 26,37,3,Kirk Cousins pass complete short middle to Johnny Mundt for 8 yards (tackle by Donovan Wilson). Penalty on Jayron Kearse: Defensive Holding (declined),0.480,1.270
+3,7:35,1,10,MIN 35,37,3,Dalvin Cook right end for 11 yards (tackle by Anthony Brown),1.270,1.930
+3,7:35,1,10,MIN 45,37,3,"Penalty on Dalvin Cook: Taunting / Offense, 15 yards (accepted) (no play)",1.930,0.940
+3,7:22,1,10,MIN 30,37,3,Kirk Cousins sacked by Jayron Kearse for -10 yards,0.940,-0.960
+3,6:57,2,20,MIN 20,37,3,Kirk Cousins pass incomplete short left intended for Justin Jefferson (defended by Trevon Diggs),-0.960,-1.620
+3,6:51,3,20,MIN 20,37,3,"Penalty on MIN: Delay of Game, 5 yards (accepted) (no play)",-1.620,-2.840
+3,6:51,3,25,MIN 15,37,3,Kirk Cousins pass complete short left to T.J. Hockenson for 10 yards (tackle by Trevon Diggs),-2.840,-1.700
+3,6:19,4,15,MIN 25,37,3,"Ryan Wright punts 57 yards. Penalty on Kris Boyd: Unnecessary Roughness / Defense, 15 yards (accepted)",-1.700,-1.200
+3,6:11,1,10,DAL 34,37,3,Tony Pollard left tackle for 2 yards (tackle by Patrick Jones),1.200,0.930
+3,5:31,2,8,DAL 36,37,3,Tony Pollard up the middle for 4 yards (tackle by Jonathan Bullard and Brian Asamoah),0.930,0.760
+3,4:49,3,4,DAL 40,37,3,Dak Prescott pass complete short right to CeeDee Lamb for -2 yards (tackle by Patrick Peterson),0.760,-0.850
+3,4:11,4,6,DAL 38,37,3,"Bryan Anger punts 48 yards, returned by Jalen Reagor for 3 yards. Jalen Reagor fumbles (forced by Luke Gifford), recovered by Theo Jackson at MIN-17",-0.850,0.060
+3,3:55,1,10,MIN 17,37,3,Dalvin Cook left end for 11 yards (tackle by Dante Fowler),-0.060,0.810
+3,3:27,1,10,MIN 28,37,3,Kirk Cousins pass complete short right to T.J. Hockenson for 11 yards (tackle by Damone Clark),0.810,1.530
+3,3:00,1,10,MIN 39,37,3,Kirk Cousins pass incomplete short right intended for Adam Thielen (defended by Anthony Brown),1.530,0.990
+3,2:58,2,10,MIN 39,37,3,"Kirk Cousins pass incomplete short left intended for Alexander Mattison. Penalty on Sam Williams: Illegal Use of Hands / Defense, 5 yards (accepted) (no play)",0.990,1.860
+3,2:53,1,10,MIN 44,37,3,Kirk Cousins pass incomplete deep left intended for K.J. Osborn,1.860,1.320
+3,2:48,2,10,MIN 44,37,3,Kirk Cousins pass complete short left to T.J. Hockenson for no gain (tackle by Jayron Kearse and Neville Gallimore),1.320,0.630
+3,2:23,3,10,MIN 44,37,3,"Penalty on Austin Schlottmann: False Start, 5 yards (accepted) (no play)",0.630,-0.030
+3,1:57,3,15,MIN 39,37,3,"Penalty on Brian O'Neill: False Start, 5 yards (accepted) (no play)",-0.030,-0.690
+3,1:38,3,20,MIN 34,37,3,Kirk Cousins sacked by Dorance Armstrong for -3 yards,-0.690,-1.310
+3,1:16,4,23,MIN 31,37,3,"Ryan Wright punts 45 yards, fair catch by KaVontae Turpin at DAL-24",-1.310,-0.540
+3,1:09,1,10,DAL 24,37,3,"Tony Pollard left tackle for no gain (tackle by Khyiris Tonga and Eric Kendricks). Penalty on Tyler Biadasz: Offensive Holding, 10 yards (accepted) (no play)",0.540,-0.500
+3,0:40,1,20,DAL 14,37,3,Dak Prescott pass complete short left to Michael Gallup for 19 yards (tackle by Patrick Peterson),-0.500,1.210
+Quarter,Time,Down,ToGo,Location,DAL,MIN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,1,DAL 33,37,3,Tony Pollard right tackle for 17 yards (tackle by Camryn Bynum),1.210,2.260
+4,14:20,1,10,DAL 50,37,3,Tony Pollard left tackle for 1 yard (tackle by Harrison Phillips),2.260,1.850
+4,13:39,2,9,MIN 49,37,3,Dak Prescott pass complete short right to Malik Davis for 8 yards (tackle by Chandon Sullivan),1.850,2.210
+4,12:52,,,,,,Timeout #1 by Dallas Cowboys,,
+4,12:52,3,1,MIN 41,37,3,Malik Davis up the middle for 9 yards (tackle by Harrison Smith),2.210,3.450
+4,12:14,1,10,MIN 32,37,3,Malik Davis left tackle for -2 yards (tackle by Jonathan Bullard),3.450,2.630
+4,11:33,2,12,MIN 34,37,3,Malik Davis left guard for -2 yards (tackle by Harrison Phillips and Jordan Hicks),2.630,1.690
+4,10:50,3,14,MIN 36,37,3,Malik Davis left guard for 4 yards (tackle by Patrick Jones and Jordan Hicks),1.690,1.240
+4,10:09,4,10,MIN 32,40,3,Brett Maher 50 yard field goal good,1.240,3.000
+4,10:04,,,DAL 35,40,3,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+4,10:04,1,10,MIN 25,40,3,Alexander Mattison right tackle for -3 yards (tackle by Sam Williams),0.610,-0.340
+4,9:38,2,13,MIN 22,40,3,Nick Mullens pass complete short middle to Jalen Reagor for 14 yards (tackle by Leighton Vander Esch),-0.340,1.330
+4,9:09,1,10,MIN 36,40,3,Nick Mullens pass complete short right to Alexander Mattison for 8 yards (tackle by Jayron Kearse),1.330,1.870
+4,8:31,2,2,MIN 44,40,3,Nick Mullens pass incomplete short right intended for Jalen Nailor,1.870,1.160
+4,8:26,3,2,MIN 44,40,3,Nick Mullens pass incomplete short left intended for Jalen Nailor,1.160,-0.460
+4,8:23,4,2,MIN 44,40,3,"Ryan Wright punts 46 yards, fair catch by KaVontae Turpin at DAL-10",-0.460,0.380
+4,8:16,1,10,DAL 10,40,3,Malik Davis right guard for 1 yard (tackle by D.J. Wonnum),-0.380,-0.710
+4,7:42,2,9,DAL 11,40,3,Cooper Rush pass complete short right to Jake Ferguson for 11 yards (tackle by Camryn Bynum),-0.710,0.410
+4,7:01,1,10,DAL 22,40,3,Malik Davis right tackle for 4 yards (tackle by Troy Dye and Patrick Jones),0.410,0.410
+4,6:22,2,6,DAL 26,40,3,Cooper Rush pass complete short right to Peyton Hendershot for -2 yards (tackle by Josh Metellus),0.410,-0.560
+4,5:44,3,8,DAL 24,40,3,Cooper Rush pass complete short left to Malik Davis for 14 yards (tackle by Andrew Booth),-0.560,1.470
+4,4:59,1,10,DAL 38,40,3,Cooper Rush pass complete short left to Jalen Tolbert for 8 yards (tackle by Andrew Booth),1.470,2.000
+4,4:19,2,2,DAL 46,40,3,Malik Davis right end for -1 yards (tackle by Khyiris Tonga),2.000,1.160
+4,3:39,3,3,DAL 45,40,3,Cooper Rush pass incomplete short middle intended for Malik Davis (defended by Khyiris Tonga),1.160,-0.390
+4,3:34,4,3,DAL 45,40,3,Bryan Anger punts 53 yards downed by Matt Overton,-0.390,0.380
+4,3:19,1,10,MIN 2,40,3,"Penalty on Neville Gallimore: Neutral Zone Infraction, 5 yards (accepted) (no play)",-0.380,-0.190
+4,3:19,1,5,MIN 7,40,3,Kene Nwangwu right guard for -3 yards (tackle by Sam Williams),-0.190,-0.630
+4,2:47,2,8,MIN 4,40,3,Nick Mullens pass complete short left to K.J. Osborn for 12 yards (tackle by Neville Gallimore and Israel Mukuamu),-0.630,-0.140
+4,2:18,1,10,MIN 16,40,3,Kene Nwangwu left end for no gain (tackle by Neville Gallimore),-0.140,-0.660
+4,2:00,2,10,MIN 16,40,3,Nick Mullens pass complete short right to Jalen Nailor for 15 yards (tackle by Anthony Brown),-0.660,1.000
+4,1:33,1,10,MIN 31,40,3,Kene Nwangwu up the middle for 4 yards (tackle by Chauncey Golston),1.000,1.000
+4,1:05,2,6,MIN 35,40,3,Nick Mullens pass complete short middle to Kene Nwangwu for 5 yards (tackle by Jabril Cox),1.000,0.960
+4,0:41,3,1,MIN 40,40,3,Kene Nwangwu left tackle for no gain (tackle by Sam Williams and Jabril Cox),0.960,-0.720
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

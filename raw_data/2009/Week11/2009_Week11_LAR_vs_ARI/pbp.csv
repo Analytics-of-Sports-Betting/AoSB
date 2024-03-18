@@ -1,0 +1,180 @@
+Quarter,Time,Down,ToGo,Location,ARI,STL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Cardinals won the coin toss, Cardinals to receive the opening kickoff.",,
+1,15:00,,,STL 30,0,0,"Josh Brown kicks off 69 yards, returned by LaRod Stephens-Howling for 17 yards (tackle by David Roach)",0.000,0.040
+1,14:55,1,10,ARI 18,0,0,Kurt Warner pass complete short right to Tim Hightower for 7 yards (tackle by David Vobora),0.040,0.550
+1,14:55,2,3,ARI 25,0,0,Kurt Warner pass complete short left to Anquan Boldin for 7 yards (tackle by James Laurinaitis and Justin King),0.550,1.070
+1,13:42,1,10,ARI 32,0,0,"Kurt Warner for no gain. Kurt Warner fumbles, recovered by O.J. Atogwe at ARI-25 (tackle by Anthony Becht)",1.070,-3.910
+1,13:31,1,10,ARI 25,0,0,"Penalty on STL: Illegal Substitution, 5 yards (no play)",3.910,3.580
+1,13:31,1,15,ARI 30,0,0,Marc Bulger pass complete short left to Billy Bajema for 6 yards (tackle by Karlos Dansby),3.580,3.500
+1,13:14,2,9,ARI 24,0,0,Steven Jackson left tackle for 2 yards (tackle by Adrian Wilson),3.500,3.070
+1,12:34,3,7,ARI 22,0,0,Marc Bulger pass incomplete short left intended for Brandon Gibson (defended by Bryant McFadden),3.070,1.990
+1,12:24,4,7,ARI 22,0,3,Josh Brown 40 yard field goal good,1.990,3.000
+1,,,,STL 30,0,3,"Josh Brown kicks off 71 yards, returned by LaRod Stephens-Howling for 27 yards (tackle by Chris Chamberlain)",0.000,0.670
+1,12:15,1,10,ARI 26,0,3,Tim Hightower right tackle for 1 yard (tackle by James Laurinaitis and David Vobora),0.670,0.270
+1,11:37,2,9,ARI 27,0,3,Kurt Warner pass incomplete short left intended for Early Doucet,0.270,-0.430
+1,11:30,3,9,ARI 27,0,3,Kurt Warner pass complete short middle to Larry Fitzgerald for 14 yards (tackle by James Butler),-0.430,1.660
+1,10:53,1,10,ARI 41,0,3,Kurt Warner pass complete short left to Anquan Boldin for 20 yards (tackle by James Butler),1.660,2.980
+1,10:07,1,10,STL 39,0,3,Beanie Wells left tackle for 4 yards (tackle by James Hall),2.980,2.980
+1,9:29,2,6,STL 35,0,3,Kurt Warner pass incomplete short right intended for Anquan Boldin,2.980,2.280
+1,9:23,3,6,STL 35,0,3,Kurt Warner sacked by Leonard Little and James Hall for -7 yards,2.280,0.460
+1,8:58,4,13,STL 42,0,3,Ben Graham punts 33 yards,0.460,0.380
+1,8:44,1,10,STL 9,0,3,Steven Jackson left tackle for 11 yards (tackle by Antrel Rolle),-0.380,0.280
+1,8:08,1,10,STL 20,0,3,Steven Jackson middle for 5 yards (tackle by Bryan Robinson and Adrian Wilson),0.280,0.410
+1,7:34,2,5,STL 25,0,3,Marc Bulger pass complete short left to Brandon Gibson for 6 yards (tackle by Bryant McFadden),0.410,1.000
+1,6:53,1,10,STL 31,0,3,Marc Bulger pass incomplete deep right intended for Donnie Avery,1.000,0.460
+1,6:45,2,10,STL 31,0,3,"Marc Bulger sacked for -6 yards. Marc Bulger fumbles, recovered by Marc Bulger at STL-21",0.460,-1.550
+1,6:10,3,20,STL 21,0,3,Steven Jackson left end for 12 yards (tackle by Adrian Wilson),-1.550,-1.180
+1,5:41,4,8,STL 33,0,3,"Donnie Jones punts 63 yards, returned by Steve Breaston for 9 yards (tackle by K.C. Asiodu)",-1.180,0.320
+1,5:28,1,10,ARI 13,0,3,"Penalty on Dan Kreider: False Start, 5 yards (no play)",-0.320,-0.570
+1,5:28,1,15,ARI 8,0,3,Kurt Warner pass complete short right to Dan Kreider for 7 yards (tackle by O.J. Atogwe),-0.570,-0.570
+1,5:05,2,8,ARI 15,0,3,Tim Hightower right tackle for 12 yards (tackle by James Butler and O.J. Atogwe),-0.570,0.740
+1,4:23,1,10,ARI 27,0,3,Tim Hightower middle for 50 yards (tackle by O.J. Atogwe),0.740,4.040
+1,3:51,1,10,STL 23,0,3,Kurt Warner pass complete short right to Larry Fitzgerald for 11 yards (tackle by Victor Adeyanju),4.040,4.780
+1,3:14,1,10,STL 12,0,3,Beanie Wells left end for 7 yards (tackle by Larry Grant),4.780,5.410
+1,2:32,2,3,STL 5,6,3,"Kurt Warner pass complete short right to Anquan Boldin for 5 yards, touchdown",5.410,7.000
+1,,,,STL 2,7,3,Neil Rackers kicks extra point good,0.000,0.000
+1,,,,ARI 30,7,3,"Neil Rackers kicks off 66 yards, returned by Danny Amendola for 31 yards (tackle by Michael Adams)",0.000,1.270
+1,2:22,1,10,STL 35,7,3,Steven Jackson middle for 3 yards (tackle by Gerald Hayes),1.270,1.130
+1,1:51,2,7,STL 38,7,3,Steven Jackson left tackle for 3 yards (tackle by Karlos Dansby),1.130,0.830
+1,1:14,3,4,STL 41,7,3,Marc Bulger pass incomplete short right intended for Brandon Gibson (defended by Darnell Dockett),0.830,-0.650
+1,1:07,4,4,STL 41,7,3,"Donnie Jones punts 59 yards, touchback. Penalty on Kenny Iwebema: Offensive Holding, 10 yards",-0.650,0.380
+1,0:57,1,10,ARI 10,7,3,Tim Hightower right end for 1 yard (tackle by James Laurinaitis),-0.380,-0.710
+1,0:15,2,9,ARI 11,7,3,Kurt Warner pass complete short right to Larry Fitzgerald for 7 yards (tackle by Craig Dahl),-0.710,-0.480
+Quarter,Time,Down,ToGo,Location,ARI,STL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,2,ARI 18,7,3,Kurt Warner pass complete short right to Larry Fitzgerald for 14 yards (tackle by Ronald Bartell),-0.480,1.070
+2,14:26,1,10,ARI 32,7,3,Beanie Wells left end for 16 yards (tackle by James Laurinaitis),1.070,2.130
+2,13:53,1,10,ARI 48,7,3,Tim Hightower right tackle for 11 yards (tackle by James Butler),2.130,2.850
+2,13:20,1,10,STL 41,7,3,Beanie Wells left tackle for 3 yards (tackle by James Hall),2.850,2.710
+2,12:36,2,7,STL 38,7,3,Kurt Warner pass complete deep middle to Ben Patrick for 27 yards (tackle by James Laurinaitis),2.710,4.840
+2,12:00,1,10,STL 11,7,3,Kurt Warner pass incomplete short middle intended for Larry Fitzgerald (defended by James Hall),4.840,4.140
+2,11:54,2,10,STL 11,13,3,"Kurt Warner pass complete short left to Larry Fitzgerald for 11 yards, touchdown",4.140,7.000
+2,,,,STL 2,14,3,Neil Rackers kicks extra point good,0.000,0.000
+2,,,,ARI 30,14,3,Neil Rackers kicks off 27 yards,0.000,1.800
+2,11:48,1,10,STL 43,14,3,"Penalty on Daniel Fells: False Start, 5 yards (no play)",1.800,1.470
+2,11:48,1,15,STL 38,14,3,Steven Jackson middle for 3 yards (tackle by Kenny Iwebema),1.470,0.980
+2,11:11,2,12,STL 41,14,3,Marc Bulger pass incomplete short left intended for Brandon Gibson,0.980,0.300
+2,11:08,3,12,STL 41,14,3,"Penalty on Adam Goldberg: False Start, 5 yards (no play)",0.300,-0.360
+2,11:08,3,17,STL 36,14,3,Marc Bulger pass complete deep left to Brandon Gibson for 22 yards (tackle by Michael Adams),-0.360,2.790
+2,10:30,1,10,ARI 42,14,3,Steven Jackson right guard for 3 yards (tackle by Karlos Dansby),2.790,2.650
+2,9:52,2,7,ARI 39,14,3,Marc Bulger pass complete short right to Randy McMichael for 8 yards (tackle by Michael Adams),2.650,3.510
+2,9:09,1,10,ARI 31,14,3,Marc Bulger pass complete short right to Donnie Avery for 6 yards (tackle by Clark Haggans),3.510,3.780
+2,8:27,2,4,ARI 25,14,3,Steven Jackson left tackle for 3 yards (tackle by Karlos Dansby),3.780,3.470
+2,7:47,3,1,ARI 22,14,3,Steven Jackson left guard for no gain (tackle by Gabe Watson),3.470,2.140
+2,7:19,4,1,ARI 22,14,3,Steven Jackson right tackle for no gain (tackle by Gerald Hayes),2.140,-0.410
+2,7:13,1,10,ARI 22,14,3,Kurt Warner pass complete short left to Anquan Boldin for 13 yards (tackle by Ronald Bartell),0.410,1.270
+2,6:35,1,10,ARI 35,14,3,Tim Hightower left tackle for 10 yards (tackle by James Laurinaitis),1.270,1.930
+2,5:57,1,10,ARI 45,14,3,Kurt Warner pass complete short right to Larry Fitzgerald for 14 yards (tackle by James Laurinaitis),1.930,2.850
+2,5:13,1,10,STL 41,14,3,"Beanie Wells right end for 4 yards (tackle by James Laurinaitis and James Butler). Penalty on Dan Kreider: Offensive Holding, 10 yards",2.850,2.460
+2,4:37,1,16,STL 47,14,3,Kurt Warner pass complete short middle to Anquan Boldin for 8 yards (tackle by James Laurinaitis),2.460,2.580
+2,4:00,2,8,STL 39,14,3,Kurt Warner pass complete short middle to Anquan Boldin for 38 yards (tackle by James Butler),2.580,6.970
+2,3:12,1,1,STL 1,14,3,Kurt Warner pass incomplete short right intended for Ben Patrick,6.970,5.910
+2,3:09,,,,14,3,Timeout #1 by Arizona Cardinals,0.000,5.910
+2,3:09,2,1,STL 1,14,3,Tim Hightower right guard for no gain (tackle by James Laurinaitis),5.910,5.170
+2,2:29,3,1,STL 1,20,3,"Beanie Wells right tackle for 1 yard, touchdown",5.170,7.000
+2,,,,STL 2,21,3,Neil Rackers kicks extra point good,0.000,0.000
+2,,,,ARI 30,21,3,"Neil Rackers kicks off 69 yards, returned by Danny Amendola for 20 yards (tackle by LaRod Stephens-Howling). Penalty on K.C. Asiodu: Illegal Block Above the , 10 yards",0.000,-0.370
+2,2:17,1,10,STL 11,21,3,Marc Bulger pass complete short middle to Steven Jackson for -1 yards (tackle by Darnell Dockett),-0.370,-0.850
+2,2:00,2,11,STL 10,21,3,Marc Bulger pass complete short right to Danny Amendola for 10 yards (tackle by Matt Ware),-0.850,-0.370
+2,1:34,3,1,STL 20,21,3,Marc Bulger pass complete short left to Brandon Gibson for 6 yards (tackle by Michael Adams),-0.370,0.670
+2,1:31,1,10,STL 26,21,3,Marc Bulger pass complete short middle to Randy McMichael for 9 yards (tackle by Clark Haggans),0.670,1.350
+2,1:15,2,1,STL 35,21,3,Marc Bulger pass incomplete deep left intended for Brandon Gibson,1.350,0.630
+2,1:10,3,1,STL 35,21,3,Marc Bulger pass complete short left to Ruvell Martin for 5 yards (tackle by Michael Adams),0.630,1.600
+2,0:53,1,10,STL 40,21,3,Marc Bulger pass incomplete short middle intended for Daniel Fells is intercepted by Adrian Wilson at ARI-45,1.600,-1.930
+,,,,,,,"Replay Assistant challenged the pass completion ruling, and the play was upheld.",,
+2,0:47,1,10,ARI 45,21,3,Matt Leinart pass complete short right to Anquan Boldin for 5 yards (tackle by Jonathan Wade),1.930,2.060
+2,0:21,2,5,,21,3,"Penalty on Levi Brown: False Start, 5 yards (no play)",2.060,1.380
+2,0:06,2,10,ARI 45,21,3,Tim Hightower left end for 6 yards (tackle by James Laurinaitis),1.380,1.490
+Quarter,Time,Down,ToGo,Location,ARI,STL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,ARI 30,21,3,"Neil Rackers kicks off 71 yards, returned by Danny Amendola for 40 yards (tackle by Michael Adams)",0.000,1.530
+3,14:51,1,10,STL 39,21,3,Donnie Avery left end for 4 yards (tackle by Michael Adams and Karlos Dansby),1.530,1.530
+3,14:14,2,6,STL 43,21,3,Steven Jackson right tackle for 1 yard (tackle by Clark Haggans),1.530,0.960
+3,13:37,3,5,STL 44,21,3,Marc Bulger pass incomplete short middle intended for Donnie Avery,0.960,-0.460
+3,13:28,4,5,STL 44,21,3,Donnie Jones punts 41 yards,-0.460,0.220
+3,13:20,1,10,ARI 15,21,3,Tim Hightower right tackle for 18 yards (tackle by James Butler),-0.220,1.140
+3,12:43,1,10,ARI 33,21,3,Matt Leinart pass incomplete short left intended for Larry Fitzgerald,1.140,0.590
+3,12:35,2,10,ARI 33,21,3,"Beanie Wells left tackle for 11 yards (tackle by James Laurinaitis). Penalty on LaJuan Ramsey: Defensive Holding, 5 yards",0.590,2.190
+3,12:12,1,10,ARI 49,21,3,Matt Leinart pass complete short right to Beanie Wells for 4 yards (tackle by Larry Grant),2.190,2.190
+3,11:31,2,6,STL 47,21,3,Matt Leinart pass complete short left to Tim Hightower for 8 yards (tackle by Quincy Butler),2.190,2.980
+3,10:51,1,10,STL 39,21,3,Tim Hightower right guard for -1 yards (tackle by Clifton Ryan),2.980,2.300
+3,10:09,2,11,STL 40,21,3,Matt Leinart pass complete short right to Beanie Wells for 7 yards (tackle by Ronald Bartell),2.300,2.540
+3,9:24,3,4,STL 33,21,3,Matt Leinart pass incomplete short left intended for Larry Fitzgerald,2.540,1.180
+3,9:24,4,4,STL 33,21,3,Penalty on Ben Graham: Delay of Game (Declined),1.180,1.180
+3,9:19,4,4,STL 33,21,3,Ben Graham punts 31 yards,1.180,0.380
+3,9:11,1,10,STL 2,21,3,Steven Jackson left guard for 1 yard (tackle by Adrian Wilson),-0.380,-0.710
+3,8:36,2,9,STL 3,21,3,Marc Bulger pass complete short right to Brandon Gibson for 11 yards (tackle by Bryan Robinson),-0.710,-0.280
+3,7:57,1,10,STL 14,21,3,Steven Jackson right guard for 6 yards (tackle by Karlos Dansby),-0.280,0.150
+3,7:13,2,4,STL 20,21,3,Marc Bulger pass incomplete short right intended for Brandon Gibson,0.150,-0.680
+3,7:08,3,4,STL 20,21,3,Marc Bulger sacked by Will Davis for -7 yards,-0.680,-2.490
+3,6:39,4,11,STL 13,21,3,"Donnie Jones punts 62 yards, returned by Steve Breaston for 10 yards (tackle by David Vobora)",-2.490,-1.270
+3,6:29,1,10,ARI 35,21,3,Tim Hightower middle for 1 yard (tackle by Victor Adeyanju),1.270,0.860
+3,5:47,2,9,ARI 36,21,3,Matt Leinart pass complete short left to Jason Wright for 8 yards (tackle by Craig Dahl),0.860,1.220
+3,5:04,3,1,ARI 44,21,3,Matt Leinart pass incomplete short right intended for Beanie Wells,1.220,-0.460
+3,4:59,4,1,ARI 44,21,3,"Ben Graham punts 47 yards, returned by Danny Amendola for 12 yards (tackle by Reggie Walker)",-0.460,-0.340
+3,4:49,1,10,STL 21,21,3,Marc Bulger pass complete short right to Danny Amendola for 15 yards (tackle by Karlos Dansby),0.340,1.330
+3,4:09,1,10,STL 36,21,3,Steven Jackson left guard for no gain (tackle by Gabe Watson),1.330,0.790
+3,3:27,2,10,STL 36,21,3,Steven Jackson left end for 1 yard (tackle by Michael Adams),0.790,0.230
+3,2:44,3,9,STL 37,21,3,Marc Bulger pass complete short right to Danny Amendola for 11 yards (tackle by Ralph Brown),0.230,2.130
+3,2:05,1,10,STL 48,21,3,Steven Jackson right end for 48 yards (tackle by Michael Adams and Adrian Wilson),2.130,6.280
+3,1:16,1,4,ARI 4,21,3,Steven Jackson right tackle for 1 yard (tackle by Gabe Watson),6.280,5.530
+3,0:42,2,3,ARI 3,21,3,Marc Bulger pass incomplete short left intended for Brandon Gibson,5.530,4.720
+3,0:36,3,3,ARI 3,21,3,Marc Bulger pass complete short left to Steven Jackson for 1 yard (tackle by Karlos Dansby),4.720,3.250
+3,0:17,4,2,ARI 2,21,6,Josh Brown 20 yard field goal good,3.250,3.000
+3,,,,STL 30,21,6,"Josh Brown kicks off 73 yards, returned by LaRod Stephens-Howling for 25 yards (tackle by Larry Grant)",0.000,0.410
+3,0:08,1,10,ARI 22,21,6,Beanie Wells left guard for 7 yards (tackle by James Laurinaitis),0.410,0.810
+Quarter,Time,Down,ToGo,Location,ARI,STL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,3,ARI 29,21,6,Beanie Wells right end for 2 yards (tackle by David Vobora),0.810,0.370
+4,14:20,3,1,ARI 31,21,6,Beanie Wells left end for 10 yards (tackle by O.J. Atogwe),0.370,1.660
+4,13:50,1,10,ARI 41,21,6,Matt Leinart pass incomplete short left intended for Larry Fitzgerald (defended by Quincy Butler),1.660,1.120
+4,13:44,2,10,ARI 41,21,6,Tim Hightower left guard for 2 yards (tackle by Justin King),1.120,0.700
+4,13:05,3,8,ARI 43,21,6,Matt Leinart pass complete short left to Larry Fitzgerald for 13 yards (tackle by Quincy Butler),0.700,2.650
+4,12:42,1,10,STL 44,21,6,Tim Hightower right tackle for -1 yards (tackle by James Laurinaitis),2.650,1.980
+4,12:05,2,11,STL 45,21,6,"Matt Leinart pass complete short right to Anthony Becht for -1 yards (tackle by David Vobora). Anthony Becht fumbles (forced by David Vobora), recovered by James Butler at STL-46 and returned for 10 yards (tackle by Larry Fitzgerald)",1.980,-2.650
+4,11:55,1,10,ARI 44,21,6,Steven Jackson middle for 3 yards (tackle by Gerald Hayes and Antrel Rolle),2.650,2.520
+4,11:22,2,7,ARI 41,21,6,Marc Bulger pass incomplete short left intended for Brandon Gibson,2.520,1.820
+4,11:17,3,7,ARI 41,21,6,Marc Bulger pass incomplete short left intended for Brandon Gibson,1.820,0.530
+4,11:14,4,7,ARI 41,21,6,"Marc Bulger pass incomplete short middle intended for Brandon Gibson. Penalty on Michael Adams: Defensive Holding, 5 yards (no play)",0.530,3.180
+4,11:09,1,10,ARI 36,21,6,Steven Jackson right guard for no gain (tackle by Will Davis),3.180,2.640
+4,10:32,2,10,ARI 36,21,6,Marc Bulger pass complete short right to Donnie Avery for 9 yards (tackle by Matt Ware),2.640,3.140
+4,9:51,3,1,ARI 27,21,6,Samkon Gado middle for no gain (tackle by Calais Campbell),3.140,1.820
+4,9:15,4,1,ARI 27,21,6,Steven Jackson middle for 2 yards (tackle by Gabe Watson),1.820,3.910
+4,8:42,1,10,ARI 25,21,6,Steven Jackson middle for 4 yards (tackle by Clark Haggans),3.910,3.900
+4,8:06,2,6,ARI 21,21,6,Marc Bulger pass incomplete short left intended for Kenneth Darby,3.900,3.200
+4,8:01,3,6,ARI 21,21,6,Marc Bulger pass incomplete short left intended for Brandon Gibson,3.200,2.080
+4,7:56,4,6,ARI 21,21,6,"Penalty on Marc Bulger: Delay of Game, 5 yards (no play)",2.080,1.740
+4,7:56,4,11,ARI 26,21,6,Marc Bulger pass complete deep middle to Danny Amendola for 25 yards (tackle by Ralph Brown and Antrel Rolle),1.740,6.970
+4,7:13,1,1,ARI 1,21,12,"Steven Jackson left tackle for 1 yard, touchdown",6.970,7.000
+4,,,,ARI 2,21,13,Josh Brown kicks extra point good,0.000,0.000
+4,,,,STL 30,21,13,"Josh Brown kicks off 73 yards, returned by LaRod Stephens-Howling for 22 yards (tackle by Kenneth Darby)",0.000,0.150
+4,7:04,1,10,ARI 19,21,13,Tim Hightower right tackle for no gain (tackle by Darell Scott),0.150,-0.390
+4,6:25,2,10,ARI 19,21,13,Matt Leinart pass complete short left to Anquan Boldin for 7 yards (tackle by Ronald Bartell),-0.390,-0.160
+4,6:06,3,3,ARI 26,21,13,Matt Leinart sacked by Chris Long for -9 yards,-0.160,-2.320
+4,5:35,4,12,ARI 17,21,13,Ben Graham punts 49 yards,-2.320,-1.200
+4,5:27,1,10,STL 34,21,13,Marc Bulger pass complete short left to Donnie Avery for 29 yards (tackle by Dominique Rodgers-Cromartie),1.200,3.120
+4,4:44,1,10,ARI 37,21,13,Steven Jackson middle for 3 yards (tackle by Karlos Dansby),3.120,2.980
+4,4:11,2,7,ARI 34,21,13,Marc Bulger pass complete deep right to Donnie Avery for 21 yards (tackle by Antrel Rolle),2.980,4.710
+4,4:06,1,10,ARI 13,21,13,"Marc Bulger pass incomplete short right intended for Brandon Gibson. Penalty on Adam Goldberg: Unnecessary Roughness, 15 yards",4.710,2.130
+4,4:02,2,25,ARI 28,21,13,"Marc Bulger pass incomplete deep left intended for Donnie Avery. Penalty on Clark Haggans: Defensive Offside, 5 yards (no play)",2.130,2.810
+4,3:57,2,20,ARI 23,21,13,Marc Bulger pass complete short left to Brandon Gibson for 16 yards (tackle by Michael Adams),2.810,4.330
+4,3:50,3,4,ARI 7,21,13,Marc Bulger pass incomplete short left intended for Brandon Gibson (defended by Michael Adams),4.330,2.990
+4,3:46,4,4,ARI 7,21,13,Marc Bulger pass incomplete short left intended for Donnie Avery,2.990,0.380
+4,3:42,1,10,ARI 7,21,13,Beanie Wells left guard for 3 yards (tackle by James Laurinaitis),-0.380,-0.560
+4,2:58,2,7,ARI 10,21,13,Matt Leinart pass complete short right to Larry Fitzgerald for 3 yards (tackle by Justin King),-0.560,-0.720
+4,2:47,,,,21,13,Timeout #1 by Los Angeles Rams,0.000,-0.720
+4,2:47,3,4,ARI 13,21,13,Matt Leinart pass complete short right to Early Doucet for 20 yards (tackle by James Butler),-0.720,1.140
+4,2:35,,,,21,13,Timeout #2 by Los Angeles Rams,0.000,1.140
+4,2:35,1,10,ARI 33,21,13,Beanie Wells left tackle for 4 yards (tackle by James Laurinaitis),1.140,1.130
+4,2:00,2,6,ARI 37,21,13,Beanie Wells left tackle for -1 yards (tackle by David Vobora),1.130,0.300
+4,1:55,,,,21,13,Timeout #3 by Los Angeles Rams,0.000,0.300
+4,1:55,3,7,ARI 36,21,13,Beanie Wells right tackle for 3 yards (tackle by Paris Lenon),0.300,-0.780
+4,1:10,,,,21,13,Timeout #1 by Arizona Cardinals,0.000,-0.780
+4,1:07,4,4,ARI 39,21,13,"Ben Graham punts 42 yards, returned by Danny Amendola for 7 yards (tackle by Mike Leach)",-0.780,-0.670
+4,1:01,1,10,STL 26,21,13,Marc Bulger sacked by Darnell Dockett for -7 yards,0.670,-0.870
+4,0:38,2,17,STL 19,21,13,Marc Bulger pass incomplete deep middle intended for Randy McMichael,-0.870,-1.580
+4,0:34,3,17,STL 19,21,13,Marc Bulger pass incomplete deep left intended for Brandon Gibson,-1.580,-2.140
+4,0:28,4,17,STL 19,21,13,"Marc Bulger left guard for 3 yards (tackle by Calais Campbell). Marc Bulger fumbles (forced by Calais Campbell), recovered by Brandon Gibson at STL-22. Penalty on Alex Barron: Offensive Holding (Declined)",-2.140,-4.110
+4,0:18,1,10,STL 22,21,13,Matt Leinart kneels for -1 yards,4.110,3.430
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

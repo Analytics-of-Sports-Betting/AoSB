@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,DAL 25,10,5:51,33,Punt
+2,1,7:49,ATL 21,3,1:30,21,Touchdown
+3,2,15:00,DAL 31,6,4:03,27,Punt
+4,2,6:55,DAL 48,3,1:59,-6,Punt
+5,2,1:31,DAL 25,8,1:23,31,Fumble
+6,3,8:26,DAL 30,10,5:57,50,Missed FG
+7,4,13:48,DAL 25,3,1:25,-9,Punt
+8,4,8:28,DAL 17,13,4:17,52,Downs
+9,4,3:48,DAL 27,2,0:28,0,Fumble
+10,4,1:01,DAL 26,2,1:01,14,End of Game

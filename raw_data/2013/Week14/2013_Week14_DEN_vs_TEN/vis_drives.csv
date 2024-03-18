@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,TEN 27,5,2:23,73,Touchdown
+2,1,7:28,DEN 3,1,0:27,3,Touchdown
+3,1,4:31,TEN 9,3,1:42,-8,Punt
+4,1,0:25,TEN 20,3,1:36,-2,Punt
+5,2,10:36,TEN 11,8,3:38,89,Touchdown
+6,2,1:50,TEN 20,3,0:58,3,Punt
+7,3,11:52,TEN 29,3,1:22,14,Interception
+8,3,7:34,TEN 20,6,2:44,80,Touchdown
+9,4,13:15,TEN 23,7,3:28,9,Fumble
+10,4,9:12,TEN 20,3,0:59,-7,Punt
+11,4,3:07,TEN 15,6,1:23,6,Downs

@@ -1,0 +1,193 @@
+Quarter,Time,Down,ToGo,Location,DET,CHI,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Lions won the coin toss, Lions to receive the opening kickoff.",,
+1,15:00,,,CHI 35,0,0,"Robbie Gould kicks off 65 yards, touchback",0.000,0.280
+1,15:00,1,10,DET 20,0,0,Matthew Stafford pass incomplete short right intended for Calvin Johnson (defended by Charles Tillman),0.280,-0.270
+1,14:57,2,10,DET 20,0,0,Mikel Leshoure left guard for 4 yards (tackle by Brian Urlacher),-0.270,-0.430
+1,14:14,3,6,DET 24,0,0,Matthew Stafford pass incomplete deep middle intended for Calvin Johnson,-0.430,-1.770
+1,14:08,4,6,DET 24,0,0,"Nick Harris punts 35 yards, fair catch by Devin Hester",-1.770,-1.660
+1,14:02,1,10,CHI 41,0,0,Matt Forte right guard for 2 yards (tackle by Amari Spievey),1.660,1.390
+1,13:38,2,8,CHI 43,0,0,Matt Forte right guard for no gain (tackle by Cliff Avril),1.390,0.700
+1,13:02,3,8,CHI 43,0,0,Jay Cutler left end for 11 yards (tackle by Justin Durant),0.700,2.520
+1,12:38,1,10,DET 46,0,0,Jay Cutler sacked by Kyle Vanden Bosch for 0 yards,2.520,1.980
+1,12:05,2,10,DET 46,0,0,Matt Forte left tackle for 39 yards (tackle by Amari Spievey),1.980,5.600
+1,11:18,1,7,DET 7,0,6,"Jay Cutler pass complete short right to Brandon Marshall for 7 yards, touchdown",5.600,7.000
+1,11:18,,,DET 2,0,7,Robbie Gould kicks extra point good,0.000,0.000
+1,11:12,,,CHI 35,0,7,"Robbie Gould kicks off 69 yards, returned by Stefan Logan for 25 yards (tackle by Blake Costanzo)",0.000,0.340
+1,11:06,1,10,DET 21,0,7,Mikel Leshoure left guard for 15 yards (tackle by Chris Conte),0.340,1.330
+1,10:32,1,10,DET 36,0,7,Matthew Stafford pass complete short right to Mikel Leshoure for 1 yard (tackle by Charles Tillman),1.330,0.000
+1,9:43,,,,0,7,Timeout #1 by Chicago Bears,0.000,0.930
+1,9:43,2,9,DET 37,0,7,Matthew Stafford pass incomplete short left intended for Nate Burleson (defended by Brian Urlacher),0.930,0.230
+1,9:40,3,9,DET 37,0,7,Matthew Stafford pass complete short left to Joique Bell for 2 yards (tackle by Tim Jennings and Lance Briggs),0.230,-0.780
+1,9:01,4,7,DET 39,0,7,"Nick Harris punts 35 yards, out of bounds",-0.780,-0.670
+1,8:56,1,10,CHI 26,0,7,Jay Cutler pass incomplete short right intended for Devin Hester,0.670,0.130
+1,8:52,2,10,CHI 26,0,7,Jay Cutler pass complete short left to Earl Bennett for no gain,0.130,-0.560
+1,8:10,3,10,CHI 26,0,7,Jay Cutler pass complete short middle to Earl Bennett for 15 yards (tackle by Amari Spievey),-0.560,1.660
+1,7:35,1,10,CHI 41,0,7,Matt Forte right guard for 3 yards (tackle by Justin Durant),1.660,1.530
+1,6:50,2,7,CHI 44,0,7,Jay Cutler pass incomplete deep middle intended for Brandon Marshall,1.530,0.000
+1,6:43,,,,0,7,Timeout #2 by Chicago Bears,0.000,0.830
+1,6:43,3,7,CHI 44,0,7,Jay Cutler pass complete short middle to Matt Forte for 2 yards (tackle by Stephen Tulloch),0.830,-0.320
+1,6:07,4,5,CHI 46,0,7,"Adam Podlesh punts 34 yards, fair catch by Stefan Logan",-0.320,-0.280
+1,5:59,1,10,DET 20,0,7,Mikel Leshoure left tackle for 3 yards (tackle by Corey Wootton),0.280,0.140
+1,5:23,2,7,DET 23,0,7,Mikel Leshoure right end for no gain (tackle by Lance Briggs and Major Wright),0.140,-0.560
+1,4:36,3,7,DET 23,0,7,Matthew Stafford sacked by Julius Peppers for -4 yards,-0.560,-2.140
+1,4:12,4,11,DET 19,0,7,"Nick Harris punts 36 yards, returned by Devin Hester for 5 yards (tackle by Ashlee Palmer)",-2.140,-2.260
+1,4:02,1,10,,0,7,"Michael Bush right tackle for 3 yards (tackle by Stephen Tulloch). Penalty on Gabe Carimi: Offensive Holding, 10 yards (no play)",2.260,1.600
+1,3:36,1,20,CHI 40,0,7,"Jay Cutler right end for 24 yards (tackle by Jonte Green). Penalty on Corey Williams: Unnecessary Roughness, 15 yards",1.600,4.170
+1,3:01,1,10,DET 21,0,7,Jay Cutler pass complete short left to Kellen Davis for 3 yards (tackle by DeAndre Levy),4.170,4.040
+1,2:19,2,7,DET 18,0,7,Jay Cutler pass incomplete short left intended for Matt Spaeth (defended by DeAndre Levy),4.040,3.310
+1,2:15,3,7,DET 18,0,7,Jay Cutler pass complete short left to Michael Bush for -3 yards (tackle by DeAndre Levy),3.310,2.060
+1,1:29,4,10,DET 21,0,10,Robbie Gould 39 yard field goal good,2.060,3.000
+1,1:23,,,CHI 35,0,10,"Robbie Gould kicks off 70 yards, returned by Stefan Logan for 19 yards (tackle by Anthony Walters)",0.000,-0.280
+1,1:18,1,10,DET 14,0,10,Matthew Stafford pass complete short right to Brandon Pettigrew for 9 yards (tackle by Charles Tillman),-0.280,0.550
+1,0:51,2,1,DET 23,0,10,Matthew Stafford pass incomplete deep right intended for Calvin Johnson,0.550,0.000
+1,0:45,,,,0,10,Timeout #1 by Detroit Lions,0.000,-0.320
+1,0:45,3,1,DET 23,0,10,Matthew Stafford pass incomplete short right intended for Joique Bell,-0.320,-1.830
+1,0:38,4,1,DET 23,0,10,Nick Harris punts 58 yards,-1.830,-0.150
+1,0:27,1,10,CHI 19,0,10,Matt Forte right end for -1 yards (tackle by Chris Houston),0.150,-0.560
+Quarter,Time,Down,ToGo,Location,DET,CHI,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,11,CHI 18,0,10,Jay Cutler pass incomplete short right intended for Kellen Davis,-0.560,-1.250
+2,14:56,3,11,CHI 18,0,10,Jay Cutler pass incomplete short middle intended for Matt Forte,-1.250,-2.240
+2,14:50,4,11,CHI 18,0,10,"Adam Podlesh punts 42 yards, muffed catch by Stefan Logan, ball out of bounds at DET-41. Penalty on CHI: Illegal Block Above the Waist, 10 yards",-2.240,-2.320
+2,14:42,1,10,CHI 49,0,10,Mikel Leshoure left tackle for no gain (tackle by Henry Melton),2.320,1.780
+2,14:06,2,10,CHI 49,0,10,Matthew Stafford sacked by Stephen Paea and Shea McClellin for -1 yards,1.780,0.960
+2,13:32,3,11,,0,10,Matthew Stafford pass incomplete deep right intended for Titus Young,0.960,-0.060
+2,13:27,4,11,,0,10,"Nick Harris punts 47 yards. Penalty on Charles Tillman: Offensive Holding, 1 yards",-0.060,0.380
+2,13:16,1,10,CHI 2,0,10,"Penalty on Lance Louis: False Start, 1 yards (no play)",-0.380,-0.420
+2,13:16,1,11,CHI 1,0,10,Matt Forte right guard for no gain (tackle by Stephen Tulloch),-0.420,-0.850
+2,12:32,2,11,CHI 1,0,10,Jay Cutler pass incomplete short middle intended for Earl Bennett (defended by Stephen Tulloch),-0.850,-1.540
+2,12:27,3,11,CHI 1,0,10,Jay Cutler pass complete short right to Brandon Marshall for 18 yards (tackle by Amari Spievey),-1.540,0.150
+2,11:47,1,10,CHI 19,0,10,Matt Forte left end for 2 yards (tackle by Chris Houston),0.150,-0.060
+2,11:12,2,8,CHI 21,0,10,"Jay Cutler pass complete short right to Brandon Marshall for 11 yards (tackle by Alphonso Smith). Penalty on Alphonso Smith: Horse Collar Tackle, 15 yards",-0.060,2.060
+2,10:40,1,10,CHI 47,0,10,Jay Cutler pass incomplete short right intended for Devin Hester,2.060,1.520
+2,10:35,2,10,CHI 47,0,10,Matt Forte left tackle for 8 yards (tackle by Stephen Tulloch),1.520,1.880
+2,9:53,3,2,DET 45,0,10,Jay Cutler pass complete deep left to Brandon Marshall for 20 yards (tackle by Alphonso Smith),1.880,3.910
+2,9:05,1,10,DET 25,0,10,"Jay Cutler left tackle for 15 yards. Penalty on Gabe Carimi: Offensive Holding (Offsetting), Penalty on Willie Young: Defensive Offside (Offsetting) (no play)",3.910,3.910
+2,8:35,1,10,DET 25,0,10,Matt Forte left end for 5 yards (tackle by Jonte Green),3.910,4.040
+2,7:50,2,5,DET 20,0,10,Matt Forte right end for no gain (tackle by Justin Durant),4.040,3.340
+2,7:04,3,5,DET 20,0,10,Jay Cutler sacked by Justin Durant and Stephen Tulloch for -9 yards,3.340,1.500
+2,6:44,4,14,DET 29,0,10,"Robbie Gould 47 yard field goal no good, blocked by Lawrence Jackson",1.500,-1.400
+2,6:33,1,10,DET 37,0,10,Matthew Stafford pass complete short left to Titus Young for 9 yards (tackle by Tim Jennings),1.400,2.070
+2,6:08,2,1,DET 46,0,10,Mikel Leshoure right tackle for -1 yards (tackle by Shea McClellin),2.070,1.220
+2,5:26,3,2,DET 45,0,10,Matthew Stafford pass incomplete short middle intended for Nate Burleson (defended by Lance Briggs),1.220,-0.390
+2,5:22,4,2,DET 45,0,10,"Penalty on Tahir Whitehead: False Start, 5 yards (no play)",-0.390,-0.720
+2,5:21,4,7,DET 40,0,10,"Nick Harris punts 36 yards, returned by Earl Bennett for 2 yards (tackle by John Wendling)",-0.720,-0.670
+2,5:12,1,10,CHI 26,0,10,Jay Cutler sacked by Ndamukong Suh for -8 yards,0.670,-1.050
+2,4:52,2,18,CHI 18,0,10,Jason Campbell right guard for 5 yards (tackle by DeAndre Levy),-1.050,-0.960
+2,4:08,3,13,CHI 23,0,10,Jay Cutler pass incomplete short right intended for Devin Hester,-0.960,-1.830
+2,4:05,4,13,CHI 23,0,10,"Adam Podlesh punts 53 yards, returned by Stefan Logan for 5 yards (tackle by Zackary Bowman)",-1.830,-0.870
+2,3:54,1,10,DET 29,0,10,"Matthew Stafford pass complete short right to Brandon Pettigrew for 1 yard (tackle by Charles Tillman). Brandon Pettigrew fumbles (forced by Charles Tillman), ball out of bounds at DET-30",0.870,0.460
+2,3:35,2,9,DET 30,0,10,Matthew Stafford right end for 12 yards (tackle by Lance Briggs),0.460,1.730
+2,3:15,1,10,DET 42,0,10,"Matthew Stafford pass complete short right to Brandon Pettigrew for 5 yards (tackle by Charles Tillman). Brandon Pettigrew fumbles (forced by Charles Tillman), ball out of bounds at DET-47",1.730,1.860
+2,2:55,2,5,DET 47,0,10,Mikel Leshoure right guard for 14 yards (tackle by Chris Conte),1.860,2.980
+2,2:28,1,10,CHI 39,0,10,Matthew Stafford right tackle for 5 yards,2.980,3.120
+2,2:04,2,5,CHI 34,0,10,Matthew Stafford pass complete short middle to Tony Scheffler for 6 yards (tackle by Brian Urlacher),3.120,3.710
+2,2:00,1,10,CHI 28,0,10,Matthew Stafford pass complete short middle to Mikel Leshoure for 10 yards (tackle by Brian Urlacher),3.710,4.370
+2,1:32,1,10,CHI 18,0,10,"Mikel Leshoure left guard for 1 yard (tackle by Lance Briggs). Mikel Leshoure fumbles (forced by Lance Briggs), recovered by Julius Peppers at CHI-17 (tackle by Mikel Leshoure)",4.370,0.060
+,,,,,,,"Replay Assistant challenged the fumble ruling, and the play was upheld.",,
+2,1:22,1,10,CHI 17,0,10,Jason Campbell pass complete short right to Matt Forte for no gain,-0.060,-0.580
+2,0:55,2,10,CHI 17,0,10,Matt Forte right guard for 2 yards (tackle by Cliff Avril),-0.580,0.000
+2,0:50,,,,0,10,Timeout #2 by Detroit Lions,0.000,-1.000
+2,0:50,3,8,CHI 19,0,10,Matt Forte right tackle for 9 yards (tackle by Alphonso Smith and Amari Spievey),-1.000,0.810
+2,0:03,1,10,CHI 28,0,10,Matt Forte left tackle for no gain (tackle by Justin Durant and Nick Fairley),0.810,0.260
+Quarter,Time,Down,ToGo,Location,DET,CHI,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DET 35,0,10,"Jason Hanson kicks off 68 yards, returned by Eric Weems for 27 yards (tackle by Kassim Osgood)",0.000,0.540
+3,14:56,1,10,CHI 24,0,10,Matt Forte right tackle for 2 yards (tackle by Amari Spievey),0.540,0.270
+3,14:22,2,8,CHI 26,0,10,Jay Cutler pass incomplete short left intended for Kyle Adams,0.270,-0.430
+3,14:17,3,8,CHI 26,0,10,Jay Cutler pass complete short right to Matt Forte for 2 yards (tackle by Amari Spievey and Jonte Green),-0.430,-1.500
+3,13:43,4,6,CHI 28,0,10,"Adam Podlesh punts 43 yards, muffed catch by Stefan Logan, recovered by Zackary Bowman and returned for no gain",-1.500,3.780
+3,13:32,1,10,DET 27,0,10,Michael Bush right guard for 12 yards (tackle by Amari Spievey),3.780,4.580
+3,12:55,1,10,DET 15,0,10,Michael Bush left guard for 3 yards (tackle by DeAndre Levy),4.580,4.450
+3,12:15,2,7,DET 12,0,10,Jay Cutler pass complete short right to Brandon Marshall for 9 yards (tackle by Chris Houston),4.450,6.510
+3,11:34,1,3,DET 3,0,10,Jay Cutler pass incomplete short right intended for Brandon Marshall,6.510,5.530
+3,11:31,2,3,DET 3,0,10,Jay Cutler pass incomplete short right intended for Brandon Marshall (defended by Justin Durant),5.530,4.720
+3,11:28,3,3,DET 3,0,10,Jay Cutler pass incomplete short left intended for Earl Bennett (defended by Alphonso Smith),4.720,3.040
+3,11:24,4,3,DET 3,0,13,Robbie Gould 21 yard field goal good,3.040,3.000
+3,11:20,,,CHI 35,0,13,"Robbie Gould kicks off 65 yards, touchback",0.000,0.280
+3,11:20,1,10,DET 20,0,13,Mikel Leshoure left tackle for 14 yards (tackle by Chris Conte),0.280,1.200
+3,10:43,1,10,DET 34,0,13,Matthew Stafford pass complete deep left to Nate Burleson for 16 yards (tackle by Tim Jennings),1.200,2.260
+3,10:08,1,10,,0,13,Mikel Leshoure left tackle for 8 yards (tackle by Lance Briggs),2.260,2.790
+3,9:29,2,2,CHI 42,0,13,Mikel Leshoure right guard for 1 yard (tackle by Corey Wootton and Lance Briggs),2.790,2.210
+3,8:48,3,1,CHI 41,0,13,Matthew Stafford pass complete short left to Titus Young for 4 yards (tackle by Tim Jennings),2.210,3.120
+3,8:14,1,10,CHI 37,0,13,Joique Bell right guard for 5 yards (tackle by Israel Idonije),3.120,3.250
+3,7:35,2,5,CHI 32,0,13,Matthew Stafford pass complete short right to Ryan Broyles for 16 yards (tackle by Kelvin Hayden),3.250,4.510
+3,6:58,1,10,CHI 16,0,13,Joique Bell right end for 8 yards (tackle by Major Wright and Stephen Paea),4.510,5.350
+3,6:19,2,2,CHI 8,0,13,Matthew Stafford pass incomplete short right intended for Titus Young,5.350,4.620
+3,6:16,3,2,CHI 8,0,13,Matthew Stafford pass complete short right to Calvin Johnson for 6 yards (tackle by Charles Tillman),4.620,6.740
+3,5:34,1,2,CHI 2,0,13,"Matthew Stafford pass incomplete short right intended for Calvin Johnson. Penalty on Charles Tillman: Defensive Pass Interference, 1 yards (no play)",6.740,6.970
+3,5:30,1,1,CHI 1,0,13,Matthew Stafford pass incomplete short right intended for Calvin Johnson (defended by Charles Tillman),6.970,5.910
+3,5:26,2,1,CHI 1,0,13,"Joique Bell right guard for no gain (tackle by Henry Melton). Joique Bell fumbles (forced by Henry Melton), recovered by Brian Urlacher at CHI-1 and returned for 4 yards (tackle by Gosder Cherilus)",5.910,0.380
+,,,,,,,"Replay Assistant challenged the fumble ruling, and the play was upheld.",,
+3,5:17,1,10,CHI 5,0,13,"Penalty on Roberto Garza: False Start, 2 yards (no play)",-0.380,-0.460
+3,5:17,1,12,CHI 3,0,13,Matt Forte right guard for 5 yards (tackle by DeAndre Levy),-0.460,-0.560
+3,4:43,2,7,CHI 8,0,13,Matt Forte right tackle for 11 yards (tackle by Erik Coleman),-0.560,0.150
+3,3:57,1,10,CHI 19,0,13,Matt Forte right tackle for -1 yards (tackle by Cliff Avril and Erik Coleman),0.150,-0.560
+3,3:18,2,11,CHI 18,0,13,Jay Cutler pass complete short right to Earl Bennett for 12 yards (tackle by Erik Coleman),-0.560,0.940
+3,2:34,1,10,CHI 30,0,13,Matt Forte right end for 1 yard (tackle by Willie Young),0.940,0.530
+3,2:01,2,9,CHI 31,0,13,Jay Cutler pass incomplete short right intended for Matt Forte,0.530,-0.160
+3,1:58,3,9,CHI 31,0,13,Jay Cutler pass incomplete short right intended for Earl Bennett (defended by Alphonso Smith),-0.160,-1.310
+3,1:53,4,9,CHI 31,0,13,"Adam Podlesh punts 43 yards, returned by Stefan Logan for 2 yards (tackle by Nick Roach)",-1.310,-0.810
+3,1:40,1,10,DET 28,0,13,Mikel Leshoure left tackle for 4 yards (tackle by Henry Melton),0.810,0.800
+3,1:10,2,6,DET 32,0,13,Matthew Stafford pass complete short right to Brandon Pettigrew for 13 yards (tackle by Brian Urlacher),0.800,1.930
+3,0:35,1,10,DET 45,0,13,Matthew Stafford pass complete short middle to Mikel Leshoure for 7 yards (tackle by Brian Urlacher and Lance Briggs),1.930,2.330
+3,0:10,2,3,CHI 48,0,13,Matthew Stafford pass incomplete short right intended for Calvin Johnson,2.330,1.620
+3,0:06,3,3,CHI 48,0,13,Matthew Stafford pass incomplete short left intended for Tony Scheffler,1.620,0.070
+3,0:03,4,3,CHI 48,0,13,"Nick Harris punts 39 yards, fair catch by Eric Weems. Penalty on J.T. Thomas: Offensive Holding, 4 yards",0.070,0.380
+Quarter,Time,Down,ToGo,Location,DET,CHI,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,CHI 5,0,13,Jay Cutler pass complete short right to Devin Hester for 23 yards (tackle by Justin Durant),-0.380,0.810
+4,14:23,1,10,CHI 28,0,13,"Michael Bush left tackle for 7 yards (tackle by Louis Delmas). Penalty on Chilo Rachal: Unnecessary Roughness, 15 yards",0.810,-0.820
+4,13:56,2,18,CHI 20,0,13,"Jay Cutler pass incomplete short middle intended for Brandon Marshall. Penalty on Chris Houston: Defensive Pass Interference, 7 yards (no play)",-0.820,0.740
+4,13:53,1,10,CHI 27,0,13,Michael Bush left tackle for 11 yards (tackle by Erik Coleman),0.740,1.470
+4,13:13,1,10,CHI 38,0,13,Michael Bush left guard for -2 yards (tackle by Lawrence Jackson and Nick Fairley),1.470,0.650
+4,12:34,2,12,CHI 36,0,13,Jay Cutler pass complete short left to Devin Hester for 8 yards (tackle by Justin Durant),0.650,1.020
+4,11:54,3,4,CHI 44,0,13,Jay Cutler pass complete short left to Brandon Marshall for 16 yards (tackle by Chris Houston and Louis Delmas),1.020,2.920
+4,11:10,1,10,DET 40,0,13,"Penalty on Roberto Garza: False Start, 5 yards (no play)",2.920,2.590
+4,10:46,1,15,DET 45,0,13,Jay Cutler sacked by Kyle Vanden Bosch for -6 yards,2.590,0.890
+4,10:16,2,21,CHI 49,0,13,Matt Forte left end for 3 yards (tackle by Chris Houston),0.890,0.630
+4,9:36,3,18,DET 48,0,13,Jay Cutler pass complete short middle to Devin Hester for 7 yards (tackle by Alphonso Smith),0.630,0.530
+4,8:57,4,11,DET 41,0,13,Adam Podlesh punts 28 yards,0.530,0.320
+4,8:47,1,10,DET 13,0,13,Matthew Stafford pass incomplete short right intended for Mikel Leshoure,-0.320,-0.770
+4,8:42,2,10,DET 13,0,13,Matthew Stafford pass incomplete deep left intended for Calvin Johnson,-0.770,-1.420
+4,8:36,3,10,DET 13,0,13,Matthew Stafford pass complete short middle to Mikel Leshoure for -1 yards (tackle by Brian Urlacher),-1.420,-2.490
+4,8:06,4,11,DET 12,0,13,"Nick Harris punts 35 yards, fair catch by Devin Hester",-2.490,-2.460
+4,7:59,1,10,DET 47,0,13,Michael Bush left tackle for 5 yards (tackle by Stephen Tulloch),2.460,2.590
+4,7:13,2,5,DET 42,0,13,Jay Cutler pass incomplete deep right intended for Brandon Marshall,2.590,1.880
+4,7:07,3,5,DET 42,0,13,Jay Cutler sacked by Jonte Green for -2 yards,1.880,0.330
+4,6:34,4,7,DET 44,0,13,"Adam Podlesh punts 32 yards, returned by Stefan Logan for no gain",0.330,0.350
+4,6:24,1,10,DET 12,0,13,Matthew Stafford pass complete short right to Titus Young for 5 yards (tackle by Tim Jennings),-0.350,-0.230
+4,5:58,2,5,DET 17,0,13,Matthew Stafford pass complete short right to Mikel Leshoure for 1 yard (tackle by Tim Jennings),-0.230,-0.720
+4,5:34,3,4,DET 18,0,13,Matthew Stafford pass complete short left to Calvin Johnson for 12 yards (tackle by Charles Tillman),-0.720,0.940
+4,5:01,1,10,DET 30,0,13,Matthew Stafford pass complete deep right to Titus Young for 19 yards (tackle by Tim Jennings),0.940,2.190
+4,4:53,1,10,DET 49,0,13,Matthew Stafford pass complete short middle to Joique Bell for 11 yards (tackle by Amobi Okoye),2.190,2.920
+4,4:25,1,10,CHI 40,0,13,Matthew Stafford pass incomplete deep left intended for Calvin Johnson (defended by Chris Conte),2.920,2.370
+,,,,,,,"Replay Assistant challenged the incomplete pass ruling, and the original play was overturned.",,
+4,4:21,2,10,CHI 40,0,13,"Penalty on Tony Scheffler: False Start, 5 yards (no play)",2.370,1.700
+4,4:21,2,15,CHI 45,0,13,Matthew Stafford pass complete short left to Calvin Johnson for 16 yards (tackle by Charles Tillman),1.700,3.640
+4,3:55,1,10,CHI 29,0,13,Matthew Stafford pass complete deep right to Ryan Broyles for 23 yards (tackle by Chris Conte),3.640,5.830
+4,3:25,1,6,CHI 6,0,13,Matthew Stafford pass complete short right to Joique Bell for 3 yards (tackle by Lance Briggs and Tim Jennings),5.830,5.530
+4,2:56,2,3,CHI 3,0,13,Matthew Stafford pass incomplete short middle intended for Tony Scheffler (defended by Major Wright),5.530,4.720
+4,2:50,3,3,CHI 3,0,13,Matthew Stafford pass incomplete short middle intended for Calvin Johnson,4.720,3.040
+4,2:46,4,3,CHI 3,0,13,Matthew Stafford pass incomplete short right intended for Ryan Broyles is intercepted by D.J. Moore at CHI-3 and returned for 2 yards (tackle by Ryan Broyles),3.040,0.380
+4,2:39,1,10,CHI 5,0,13,Matt Forte left guard for no gain (tackle by Nick Fairley),-0.380,0.000
+4,2:35,,,,0,13,Timeout #1 by Detroit Lions,0.000,-0.780
+4,2:35,2,10,CHI 5,0,13,Matt Forte left guard for 6 yards (tackle by Louis Delmas),-0.780,0.000
+4,2:29,,,,0,13,Timeout #2 by Detroit Lions,0.000,-0.720
+4,2:29,3,4,CHI 11,0,13,Matt Forte left tackle for no gain (tackle by Kyle Vanden Bosch),-0.720,0.000
+4,2:23,,,,0,13,Timeout #3 by Detroit Lions,0.000,-2.490
+4,2:23,4,4,CHI 11,0,13,"Adam Podlesh punts 47 yards, returned by Stefan Logan for no gain",-2.490,-1.730
+4,2:13,1,10,DET 42,0,13,Matthew Stafford pass complete short left to Mikel Leshoure for 2 yards (tackle by Tim Jennings),1.730,1.460
+4,2:05,2,8,DET 44,0,13,Matthew Stafford pass complete short right to Brandon Pettigrew for 9 yards (tackle by Brian Urlacher),1.460,2.460
+4,2:00,1,10,CHI 47,0,13,Matthew Stafford left guard for 6 yards,2.460,2.720
+4,1:30,2,4,CHI 41,0,13,Matthew Stafford sacked by Israel Idonije for -15 yards,2.720,0.040
+4,0:56,3,19,DET 44,0,13,Matthew Stafford pass complete deep right to Titus Young for 21 yards (tackle by Chris Conte),0.040,3.250
+4,0:48,1,10,CHI 35,0,13,Matthew Stafford pass complete deep right to Titus Young for 23 yards (tackle by Chris Conte),3.250,0.000
+4,0:41,,,,0,13,Timeout #1 by Chicago Bears,0.000,4.780
+4,0:41,1,10,CHI 12,0,13,Matthew Stafford pass incomplete short middle intended for Brandon Pettigrew (defended by Brian Urlacher),4.780,4.100
+4,0:36,2,10,CHI 12,6,13,"Matthew Stafford pass complete short right to Ryan Broyles for 12 yards, touchdown",4.100,7.000
+4,0:36,,,CHI 2,7,13,Jason Hanson kicks extra point good,0.000,0.000
+4,0:30,,,DET 35,7,13,"Jason Hanson kicks off 19 yards, returned by Earl Bennett for no gain",0.000,1.990
+4,0:29,1,10,CHI 46,7,13,Jay Cutler kneels for -1 yards,1.990,1.320
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

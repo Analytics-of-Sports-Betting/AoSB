@@ -1,0 +1,188 @@
+Quarter,Time,Down,ToGo,Location,SFO,SEA,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"49ers won the coin toss, 49ers to receive the opening kickoff.",,
+1,15:00,,,SEA 30,0,0,"Josh Brown kicks off 70 yards, touchback",0.000,0.280
+1,15:00,1,10,SFO 20,0,0,Frank Gore middle for 3 yards (tackle by Ken Hamlin),0.280,0.140
+1,14:24,2,7,SFO 23,0,0,Frank Gore left tackle for 3 yards (tackle by Ken Hamlin and Rocky Bernard),0.140,-0.160
+1,13:41,3,4,SFO 26,0,0,"Penalty on Frank Gore: False Start, 5 yards (no play)",-0.160,-0.820
+1,13:26,3,9,SFO 21,0,0,Alex Smith pass incomplete short left intended for Frank Gore,-0.820,-1.960
+1,13:20,4,9,SFO 21,0,0,"Andy Lee punts 41 yards, returned by Nate Burleson for no gain. Nate Burleson fumbles, recovered by Oliver Celestin at SEA-39 (tackle by Michael Robinson)",-1.960,-1.530
+1,13:05,1,10,SEA 39,0,0,Matt Hasselbeck pass incomplete short middle intended for Shaun Alexander (defended by Mike Adams),1.530,0.990
+1,12:57,2,10,SEA 39,0,0,Shaun Alexander left end for 1 yard (tackle by Mike Adams and Shawntae Spencer),0.990,0.430
+1,12:21,3,9,SEA 40,0,0,Matt Hasselbeck pass complete short left to Deion Branch for 12 yards,0.430,2.390
+1,11:55,1,10,SFO 48,0,0,Shaun Alexander middle for 1 yard (tackle by Marques Douglas and Bryant Young),2.390,1.980
+1,11:24,2,9,SFO 47,0,0,Shaun Alexander right end for 4 yards (tackle by Shawntae Spencer and Mark Roman),1.980,1.820
+1,10:46,3,5,SFO 43,0,0,Matt Hasselbeck pass incomplete short right intended for Deion Branch,1.820,0.400
+1,10:41,4,5,SFO 43,0,0,"Ryan Plackemeier punts 27 yards, fair catch by Brandon Williams",0.400,0.140
+1,10:33,1,10,SFO 16,0,0,Frank Gore middle for 3 yards (tackle by LeRoy Hill),-0.140,-0.180
+1,9:54,2,7,SFO 19,0,0,Alex Smith pass incomplete short middle intended for Frank Gore,-0.180,-0.950
+1,9:49,3,7,SFO 19,0,0,Alex Smith pass incomplete short left intended for Vernon Davis,-0.950,-2.140
+1,9:45,4,7,SFO 19,0,0,"Andy Lee punts 48 yards, fair catch by Nate Burleson",-2.140,-1.140
+1,9:39,1,10,SEA 33,0,0,Matt Hasselbeck pass complete short right to Mack Strong for 3 yards (tackle by Walt Harris),1.140,1.000
+1,9:05,2,7,SEA 36,0,0,Shaun Alexander middle for no gain (tackle by Bryant Young and Brandon Moore),1.000,0.300
+1,8:26,3,7,SEA 36,0,0,Matt Hasselbeck pass complete short left to D.J. Hackett for 14 yards (tackle by Keith Lewis),0.300,2.260
+1,8:02,1,10,SEA 50,0,0,Matt Hasselbeck pass complete short right to D.J. Hackett for 13 yards (tackle by Mark Roman),2.260,3.120
+1,7:27,1,10,SFO 37,0,0,Shaun Alexander left guard for -3 yards (tackle by Marques Douglas),3.120,2.170
+1,6:50,2,13,SFO 40,0,0,Matt Hasselbeck pass incomplete short right intended for Deion Branch,2.170,1.490
+1,6:45,3,13,SFO 40,0,0,Matt Hasselbeck pass incomplete deep middle intended for Jerramy Stevens,1.490,0.590
+1,6:40,4,13,SFO 40,0,0,Ryan Plackemeier punts 35 yards,0.590,0.380
+1,6:29,1,10,SFO 5,0,0,Frank Gore left guard for 2 yards (tackle by Russell Davis and Darryl Tapp),-0.380,-0.630
+1,6:01,2,8,SFO 7,0,0,Frank Gore right tackle for 4 yards (tackle by Robert Pollard and Lofa Tatupu),-0.630,-0.720
+1,5:19,3,4,SFO 11,0,0,Frank Gore middle for 1 yard (tackle by Chartric Darby),-0.720,-2.490
+1,4:40,4,3,SFO 12,0,0,"Andy Lee punts 42 yards, returned by Nate Burleson for 10 yards (tackle by Keith Lewis)",-2.490,-2.650
+1,4:27,1,10,SFO 44,0,0,Shaun Alexander right guard for 2 yards (tackle by Ronald Fields and Brandon Moore),2.650,2.380
+1,3:57,2,8,SFO 42,0,0,Matt Hasselbeck pass complete short right to D.J. Hackett for 11 yards (tackle by Mike Adams),2.380,3.510
+1,3:42,1,10,SFO 31,0,0,Shaun Alexander left tackle for 17 yards (tackle by Mike Adams),3.510,4.650
+1,3:04,1,10,SFO 14,0,0,"Matt Hasselbeck pass incomplete short middle intended for Deion Branch. Penalty on Chris Gray: Offensive Holding, 10 yards (no play)",4.650,3.970
+1,2:58,1,20,SFO 24,0,0,"Shaun Alexander right tackle for 18 yards (tackle by Walt Harris). Shaun Alexander fumbles (forced by Walt Harris), recovered by Nate Burleson at SFO-3",3.970,6.510
+1,2:24,1,3,SFO 3,0,6,"Shaun Alexander left guard for 3 yards, touchdown",6.510,7.000
+1,,,,SFO 2,0,7,Josh Brown kicks extra point good,0.000,0.000
+1,,,,SEA 30,0,7,"Josh Brown kicks off 72 yards, returned by Maurice Hicks for 28 yards (tackle by Jimmy Williams)",0.000,0.670
+1,2:12,1,10,SFO 26,0,7,"Penalty on Billy Bajema: False Start, 5 yards (no play)",0.670,0.340
+1,2:12,1,15,SFO 21,0,7,Alex Smith pass complete short right to Frank Gore for 10 yards (tackle by Julian Peterson),0.340,0.810
+1,1:42,2,5,SFO 31,0,7,Frank Gore left end for 2 yards (tackle by Darryl Tapp and Marcus Trufant),0.810,0.370
+1,0:59,3,3,SFO 33,0,7,Alex Smith pass complete short right to Vernon Davis for 2 yards (tackle by Julian Peterson),0.370,-1.040
+1,0:22,4,1,SFO 35,0,7,Andy Lee punts 35 yards,-1.040,-0.940
+1,0:10,1,10,SEA 30,0,7,Matt Hasselbeck pass complete short right to Nate Burleson for 5 yards (tackle by Shawntae Spencer),0.940,1.070
+Quarter,Time,Down,ToGo,Location,SFO,SEA,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,5,SEA 35,0,7,Shaun Alexander left end for 4 yards (tackle by Brandon Moore),1.070,0.890
+2,14:25,,,,0,7,Timeout #1 by Seattle Seahawks,0.000,0.890
+2,14:25,3,1,SEA 39,0,7,Matt Hasselbeck pass incomplete intended for D.J. Hackett,0.890,-0.780
+2,14:19,,,,0,7,Timeout #1 by San Francisco 49ers,0.000,-0.780
+2,14:19,4,1,SEA 39,0,7,Ryan Plackemeier punts 13 yards,-0.780,-2.130
+2,14:10,1,10,SFO 48,0,7,Frank Gore right tackle for -3 yards (tackle by Kelly Herndon and Robert Pollard),2.130,1.180
+2,13:31,2,13,SFO 45,0,7,Alex Smith pass complete short left to Vernon Davis for 5 yards (tackle by Julian Peterson),1.180,1.160
+2,12:49,3,8,SEA 50,0,7,Alex Smith pass incomplete deep middle intended for Antonio Bryant,1.160,-0.060
+2,12:42,4,8,SEA 50,0,7,"Andy Lee punts 50 yards, touchback",-0.060,-0.280
+2,12:32,1,10,SEA 20,0,7,Matt Hasselbeck pass complete short right to D.J. Hackett for 12 yards (tackle by Chad Williams and Brandon Moore),0.280,1.070
+2,12:00,1,10,SEA 32,0,7,"Penalty on Mack Strong: False Start, 5 yards (no play)",1.070,0.740
+2,11:40,1,15,SEA 27,0,7,Matt Hasselbeck pass incomplete deep middle intended for D.J. Hackett (defended by Mark Roman),0.740,-0.150
+2,11:34,2,15,SEA 27,0,7,Shaun Alexander left tackle for 2 yards (tackle by Bryant Young),-0.150,-0.560
+2,10:54,3,13,SEA 29,0,7,Matt Hasselbeck left end for 3 yards (tackle by Mike Adams),-0.560,-1.240
+2,10:32,4,10,SEA 32,0,7,Ryan Plackemeier punts 41 yards,-1.240,-0.740
+2,10:21,1,10,SFO 27,0,7,Alex Smith left end for 2 yards (tackle by Lofa Tatupu),0.740,0.470
+2,10:09,2,8,SFO 29,0,7,Frank Gore middle for 4 yards (tackle by Julian Peterson and Darryl Tapp),0.470,0.300
+2,9:30,3,4,SFO 33,0,7,Alex Smith pass incomplete short right intended for Antonio Bryant,0.300,-1.180
+2,9:24,4,4,SFO 33,0,7,"Andy Lee punts 57 yards, returned by Nate Burleson for 2 yards (tackle by Brian Jennings)",-1.180,0.350
+2,9:13,1,10,SEA 12,0,7,Matt Hasselbeck pass complete short right to Nate Burleson for 7 yards (tackle by Shawntae Spencer),-0.350,0.100
+2,8:55,2,3,SEA 19,0,7,Shaun Alexander middle for 6 yards (tackle by Marques Douglas and Bryant Young),0.100,0.610
+2,8:17,1,10,SEA 25,0,7,Matt Hasselbeck pass complete short left to D.J. Hackett for 5 yards,0.610,0.740
+2,8:06,2,5,SEA 30,0,7,Matt Hasselbeck pass incomplete short right intended for Nate Burleson,0.740,0.040
+2,8:01,3,5,SEA 30,0,7,Matt Hasselbeck pass complete short right to D.J. Hackett for 5 yards (tackle by Mike Adams),0.040,1.270
+2,7:20,1,10,SEA 35,0,7,Matt Hasselbeck pass incomplete intended for D.J. Hackett (defended by Mark Roman),1.270,0.720
+2,7:12,2,10,SEA 35,0,7,Matt Hasselbeck pass complete short left to Jerramy Stevens for 14 yards (tackle by Jeff Ulbrich),0.720,2.190
+2,6:39,1,10,SEA 49,0,7,Shaun Alexander left tackle for 4 yards (tackle by Jeff Ulbrich and Marques Douglas),2.190,2.190
+2,6:03,2,6,SFO 47,0,7,Matt Hasselbeck pass complete short middle to D.J. Hackett for 13 yards (tackle by Chad Williams),2.190,3.310
+2,5:29,1,10,SFO 34,0,7,Shaun Alexander left tackle for -2 yards (tackle by Brandon Moore),3.310,2.500
+2,4:51,2,12,SFO 36,0,7,Matt Hasselbeck pass incomplete deep right intended for Maurice Morris,2.500,1.820
+2,4:46,3,12,SFO 36,0,7,Matt Hasselbeck pass incomplete intended for Jerramy Stevens,1.820,0.880
+,,,,,,,"SFO challenged the ruling, and the original play was overturned.",,
+2,4:41,4,12,SFO 36,0,7,"Ryan Plackemeier punts 36 yards, touchback",0.880,-0.280
+2,4:33,1,10,SFO 20,0,7,Frank Gore middle for 7 yards (tackle by LeRoy Hill),0.280,0.680
+2,3:57,2,3,SFO 27,0,7,Frank Gore middle for 2 yards (tackle by Bryce Fisher),0.680,0.230
+2,3:13,3,1,SFO 29,0,7,"Frank Gore left guard for 9 yards (tackle by Jordan Babineaux). Penalty on Frank Gore: Personal Foul (Offsetting), Penalty on Ken Hamlin: Personal Foul (Offsetting)",0.230,1.470
+2,2:43,1,10,SFO 38,0,7,Alex Smith middle for 5 yards (tackle by Lofa Tatupu),1.470,1.600
+2,2:06,2,5,SFO 43,0,7,Frank Gore right guard for no gain (tackle by Lofa Tatupu and Julian Peterson),1.600,0.890
+2,2:00,3,5,SFO 43,0,7,Alex Smith pass incomplete deep right intended for Antonio Bryant,0.890,-0.520
+2,1:55,4,5,SFO 43,0,7,Michael Robinson right end for 33 yards (tackle by Nate Burleson),-0.520,3.970
+2,1:05,1,10,SEA 24,0,7,Alex Smith pass complete short right to Arnaz Battle for 15 yards (tackle by Jordan Babineaux),3.970,5.140
+,,,,,,,"Replay Assistant challenged the ruling, and the play was upheld.",,
+2,0:56,1,9,SEA 9,0,7,"Penalty on Frank Gore: False Start, 5 yards (no play)",5.140,4.440
+2,0:56,1,14,SEA 14,0,7,Frank Gore middle for -3 yards (tackle by Bryce Fisher and Rocky Bernard),4.440,3.240
+2,0:47,,,,0,7,Timeout #2 by San Francisco 49ers,0.000,3.240
+2,0:47,2,17,SEA 17,0,7,"Alex Smith right end for 16 yards (tackle by Michael Boulware). Penalty on Kwame Harris: Offensive Holding, 10 yards (no play)",3.240,2.060
+2,0:39,2,27,SEA 27,0,7,Alex Smith pass complete short right to Arnaz Battle for 6 yards (tackle by Marcus Trufant and Kelly Herndon),2.060,2.210
+2,0:13,3,21,SEA 21,0,7,Alex Smith pass incomplete short right intended for Vernon Davis,2.210,2.060
+2,0:08,4,21,SEA 21,3,7,Joe Nedney 39 yard field goal good,2.060,3.000
+2,,,,SFO 30,3,7,"Joe Nedney kicks off 51 yards, muffed catch by Nate Burleson, recovered by Nate Burleson at SEA-19, and returned for 3 yards",0.000,0.940
+Quarter,Time,Down,ToGo,Location,SFO,SEA,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,SFO 30,3,7,"Joe Nedney kicks off 61 yards, returned by Nate Burleson for 39 yards (tackle by Joe Nedney)",0.000,2.130
+3,14:51,1,10,SEA 48,3,7,Shaun Alexander left tackle for 2 yards (tackle by Brandon Moore and Chad Williams),2.130,1.850
+3,14:14,2,8,SEA 50,3,7,Matt Hasselbeck pass complete short middle to D.J. Hackett for 14 yards (tackle by Chad Williams),1.850,3.180
+3,13:40,1,10,SFO 36,3,7,Shaun Alexander right end for -2 yards (tackle by Keith Lewis),3.180,2.370
+3,13:01,2,12,SFO 38,3,7,Shaun Alexander left tackle for 9 yards (tackle by Shawntae Spencer),2.370,2.870
+3,12:38,3,3,SFO 29,3,7,Matt Hasselbeck pass complete short right to Deion Branch for 10 yards (tackle by Keith Lewis),2.870,4.310
+3,12:02,1,10,SFO 19,3,7,Shaun Alexander left tackle for -1 yards (tackle by Keith Lewis),4.310,3.630
+3,11:24,2,11,SFO 20,3,7,Matt Hasselbeck pass incomplete deep right intended for D.J. Hackett is intercepted by Mark Roman at SFO-0 and returned for 27 yards,3.630,-0.740
+3,11:10,1,10,SFO 27,3,7,Alex Smith pass complete short right to Arnaz Battle for 9 yards (tackle by Kelly Herndon),0.740,1.410
+3,10:46,2,1,SFO 36,3,7,Frank Gore middle for no gain (tackle by Bryce Fisher and Grant Wistrom),1.410,0.700
+3,10:00,3,1,SFO 36,3,7,Frank Gore middle for no gain (tackle by Chartric Darby and Bryce Fisher),0.700,-0.980
+3,9:09,4,1,SFO 36,3,7,"Andy Lee punts 47 yards, fair catch by Nate Burleson",-0.980,0.060
+3,9:03,1,10,SEA 17,3,7,Shaun Alexander middle for 1 yard (tackle by Melvin Oliver),-0.060,-0.420
+3,8:31,2,9,SEA 18,3,7,"Matt Hasselbeck pass incomplete short left intended for Deion Branch. Penalty on Chad Williams: Defensive Holding, 5 yards (no play)",-0.420,0.480
+3,8:27,1,10,SEA 23,3,7,Shaun Alexander left end for 3 yards (tackle by Jeff Ulbrich and Brandon Moore),0.480,0.340
+3,7:52,2,7,SEA 26,3,7,Matt Hasselbeck pass complete short middle to Jerramy Stevens for 8 yards (tackle by Chad Williams),0.340,1.200
+3,7:21,1,10,SEA 34,3,7,Maurice Morris left tackle for 12 yards (tackle by Brandon Moore and Keith Lewis),1.200,1.990
+3,6:49,1,10,SEA 46,3,7,Maurice Morris left tackle for 2 yards (tackle by Melvin Oliver and Jeff Ulbrich),1.990,1.720
+3,6:12,2,8,SEA 48,3,7,Matt Hasselbeck pass incomplete deep right intended for Deion Branch,1.720,1.030
+3,6:07,3,8,SEA 48,3,7,Matt Hasselbeck sacked by Isaac Sopoaga for -3 yards,1.030,-0.390
+3,5:35,4,11,SEA 45,3,7,"Ryan Plackemeier punts 55 yards, touchback",-0.390,-0.280
+3,5:23,1,10,SFO 20,3,7,Alex Smith pass complete short left to Frank Gore for -4 yards (tackle by Julian Peterson),0.280,-0.940
+3,4:36,2,14,SFO 16,3,7,Alex Smith pass complete short middle to Frank Gore for 8 yards (tackle by LeRoy Hill and Robert Pollard),-0.940,-0.430
+3,3:55,3,6,SFO 24,3,7,Alex Smith pass incomplete intended for Bryan Gilmore (defended by Julian Peterson),-0.430,-1.770
+3,3:49,4,6,SFO 24,3,7,"Andy Lee punts 40 yards, returned by Nate Burleson for 2 yards (tackle by Brian Jennings)",-1.770,-1.470
+3,3:37,1,10,SEA 38,3,7,Shaun Alexander left tackle for 3 yards (tackle by Melvin Oliver and Brandon Moore),1.470,1.330
+3,3:00,2,7,SEA 41,3,7,Matt Hasselbeck pass complete short right to Jerramy Stevens for 12 yards (tackle by Shawntae Spencer),1.330,2.460
+3,2:18,1,10,SFO 47,3,7,Matt Hasselbeck pass incomplete intended for D.J. Hackett,2.460,1.910
+3,2:12,2,10,SFO 47,3,7,"Penalty on Walter Jones: False Start, 5 yards (no play)",1.910,1.240
+3,2:12,2,15,SEA 48,3,7,Matt Hasselbeck pass incomplete deep right intended for Deion Branch,1.240,0.560
+3,2:06,3,15,SEA 48,3,7,Matt Hasselbeck pass incomplete short right intended for Jerramy Stevens,0.560,-0.190
+3,2:01,4,15,SEA 48,3,7,"Ryan Plackemeier punts 52 yards, touchback. Penalty on Mark Roman: Unnecessary Roughness, 10 yards",-0.190,0.380
+3,1:50,1,10,SFO 10,3,7,Frank Gore left end for 4 yards (tackle by Lofa Tatupu and Marcus Trufant),-0.380,-0.460
+3,1:07,2,6,SFO 14,3,7,Alex Smith pass incomplete short right intended for Arnaz Battle,-0.460,-0.950
+3,1:01,3,6,SFO 14,3,7,"Alex Smith pass complete short right to Antonio Bryant for 11 yards (tackle by LeRoy Hill and Kelly Herndon). Penalty on Tony Wragge: Personal Foul, 12 yards",-0.950,-0.320
+3,0:30,1,10,SFO 13,3,7,Alex Smith pass complete deep right to Arnaz Battle for 54 yards (tackle by Kelly Herndon),-0.320,3.380
+Quarter,Time,Down,ToGo,Location,SFO,SEA,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,SEA 33,3,7,Frank Gore middle for 3 yards (tackle by Russell Davis and Robert Pollard),3.380,3.240
+4,14:19,2,7,SEA 30,3,7,Alex Smith left tackle for 8 yards (tackle by Grant Wistrom),3.240,4.110
+4,13:34,1,10,SEA 22,3,7,Alex Smith pass incomplete short middle intended for Frank Gore,4.110,3.560
+4,13:30,2,10,SEA 22,3,7,Maurice Hicks right tackle for no gain (tackle by LeRoy Hill and Darryl Tapp),3.560,2.870
+4,12:52,,,,3,7,Timeout #1 by San Francisco 49ers,0.000,2.870
+4,12:52,3,10,SEA 22,3,7,Alex Smith pass complete short right to Arnaz Battle for 13 yards (tackle by Ken Hamlin),2.870,5.140
+4,12:13,1,9,SEA 9,3,7,Frank Gore right end for 1 yard (tackle by Lofa Tatupu and Ken Hamlin),5.140,4.570
+4,11:29,2,8,SEA 8,9,7,"Alex Smith pass complete to Vernon Davis for 8 yards, touchdown. Penalty on Vernon Davis: Unsportsmanlike Conduct, 15 yards",4.570,7.000
+4,,,,SEA 2,10,7,Joe Nedney kicks extra point good,0.000,0.000
+4,,,,SFO 15,10,7,--,0.000,3.180
+4,11:18,1,10,SFO 36,10,7,Shaun Alexander right tackle for 1 yard (tackle by Melvin Oliver),3.180,2.770
+4,10:42,2,9,SFO 35,10,7,Matt Hasselbeck pass complete short middle to Jerramy Stevens for 8 yards (tackle by Brandon Moore),2.770,3.140
+4,10:06,3,1,SFO 27,10,7,Shaun Alexander left tackle for no gain (tackle by Jeff Ulbrich and Marques Douglas),3.140,1.820
+4,9:49,4,1,SFO 27,10,7,Mack Strong middle for no gain (tackle by Manny Lawson and Melvin Oliver),1.820,-0.740
+4,9:37,1,10,SFO 27,10,7,Alex Smith left tackle for 1 yard (tackle by Chartric Darby),0.740,0.330
+4,8:51,2,9,SFO 28,10,7,Frank Gore left guard for 6 yards (tackle by LeRoy Hill and Ken Hamlin),0.330,0.430
+4,8:08,3,3,SFO 34,10,7,Alex Smith pass complete short left to Antonio Bryant for 5 yards (tackle by Marcus Trufant),0.430,1.530
+4,7:28,1,10,SFO 39,10,7,Arnaz Battle left end for 18 yards (tackle by Julian Peterson),1.530,2.720
+4,7:00,1,10,SEA 43,10,7,Frank Gore left end for 5 yards (tackle by Ken Hamlin),2.720,2.850
+4,6:17,2,5,SEA 38,10,7,Frank Gore left tackle for 3 yards (tackle by Lofa Tatupu),2.850,2.540
+4,5:32,3,2,SEA 35,10,7,Frank Gore left tackle for 11 yards (tackle by Michael Boulware),2.540,3.970
+4,4:56,1,10,SEA 24,10,7,Frank Gore middle for 9 yards (tackle by Michael Boulware),3.970,4.850
+4,4:17,2,1,SEA 15,10,7,Alex Smith pass incomplete intended for Antonio Bryant,4.850,4.170
+4,4:09,3,1,SEA 15,10,7,"Penalty on Alex Smith: Delay of Game, 5 yards (no play)",4.170,3.270
+4,4:09,3,6,SEA 20,16,7,"Alex Smith pass complete deep left to Frank Gore for 20 yards, touchdown",3.270,7.000
+4,,,,SEA 2,17,7,Joe Nedney kicks extra point good,0.000,0.000
+4,,,,SFO 30,17,7,"Joe Nedney kicks off 43 yards, muffed catch by Marquis Weeks, recovered by Marquis Weeks at SEA-29, and returned for 3 yards",0.000,1.070
+4,3:56,1,10,SEA 32,17,7,Matt Hasselbeck pass complete to Deion Branch for 11 yards (tackle by Keith Lewis),1.070,1.800
+4,3:38,1,10,SEA 43,17,7,Matt Hasselbeck pass incomplete intended for Nate Burleson is intercepted by Shawntae Spencer at SFO-14,1.800,0.280
+4,3:27,1,10,SFO 14,17,7,Frank Gore right tackle for 8 yards (tackle by Lofa Tatupu and Jordan Babineaux),-0.280,0.420
+4,3:20,,,,17,7,Timeout #1 by Seattle Seahawks,0.000,0.420
+4,3:20,2,2,SFO 22,17,7,Frank Gore left tackle for 18 yards (tackle by Jordan Babineaux),0.420,1.600
+4,2:32,1,10,SFO 40,17,7,Frank Gore left guard for 40 yards (tackle by LeRoy Hill),1.600,4.240
+4,2:00,1,10,SEA 20,17,7,Frank Gore middle for no gain (tackle by Ken Hamlin and Kevin Bentley),4.240,3.690
+4,1:54,,,,17,7,Timeout #2 by Seattle Seahawks,0.000,3.690
+4,1:54,2,10,SEA 20,17,7,Frank Gore middle for 2 yards (tackle by Grant Wistrom and Lofa Tatupu),3.690,3.220
+4,1:49,,,,17,7,Timeout #3 by Seattle Seahawks,0.000,3.220
+4,1:49,3,8,SEA 18,23,7,"Alex Smith left end for 18 yards, touchdown",3.220,7.000
+4,,,,SEA 2,24,7,Joe Nedney kicks extra point good,0.000,0.000
+4,,,,SFO 30,24,7,"Joe Nedney kicks off 46 yards, returned by Nate Burleson for 25 yards (tackle by Mark Roman)",0.000,2.190
+4,1:35,1,10,SEA 49,24,7,Matt Hasselbeck pass complete deep middle to Deion Branch for 21 yards (tackle by Hannibal Navies),2.190,3.580
+4,1:16,1,10,SFO 30,24,7,Matt Hasselbeck sacked by Roderick Green for -5 yards,3.580,2.360
+4,0:50,2,15,SFO 35,24,7,"Matt Hasselbeck pass incomplete deep left intended for Deion Branch. Penalty on Keith Lewis: Unnecessary Roughness, 15 yards (no play)",2.360,4.240
+4,0:45,1,10,SFO 20,24,7,Matt Hasselbeck sacked by Manny Lawson and Bryant Young for -2 yards,4.240,3.420
+4,0:22,2,12,SFO 22,24,7,Matt Hasselbeck pass incomplete deep right intended for Nate Burleson (defended by Shawntae Spencer),3.420,2.740
+4,0:18,3,12,SFO 22,24,13,"Matt Hasselbeck pass complete deep right to Jerramy Stevens for 22 yards, touchdown",2.740,7.000
+4,,,,SFO 2,24,14,Josh Brown kicks extra point good,0.000,0.000
+4,,,,SEA 30,24,14,Josh Brown kicks onside 10 yards,0.000,2.920
+4,0:08,1,10,SEA 40,24,14,Alex Smith kneels for -1 yards,2.920,2.240
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

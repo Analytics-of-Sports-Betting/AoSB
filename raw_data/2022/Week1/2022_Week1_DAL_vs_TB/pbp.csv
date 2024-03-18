@@ -1,0 +1,177 @@
+Quarter,Time,Down,ToGo,Location,TAM,DAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Buccaneers won the coin toss and deferred, Cowboys to receive the opening kickoff.",,
+1,15:00,,,TAM 35,0,0,"Jake Camarda kicks off 65 yards, returned by KaVontae Turpin for 14 yards (tackle by K.J. Britt)",0.000,-0.280
+1,14:56,1,10,DAL 14,0,0,Dak Prescott pass complete short left to Dalton Schultz for 7 yards (tackle by Jamel Dean),-0.280,0.280
+1,14:19,2,3,DAL 21,0,0,Ezekiel Elliott up the middle for 7 yards (tackle by Lavonte David),0.280,0.810
+1,13:48,1,10,DAL 28,0,0,Tony Pollard up the middle for -8 yards (tackle by Shaquil Barrett),0.810,-0.820
+1,13:09,2,18,DAL 20,0,0,Dak Prescott pass complete short right to Dennis Houston for 11 yards (tackle by Devin White),-0.820,-0.030
+1,12:35,3,7,DAL 31,0,0,Dak Prescott pass complete deep middle to CeeDee Lamb for 16 yards (tackle by Logan Ryan),-0.030,2.060
+1,12:13,1,10,DAL 47,0,0,Ezekiel Elliott right end for 6 yards (tackle by Devin White and Logan Ryan),2.060,2.330
+1,11:38,2,4,TAM 47,0,0,Ezekiel Elliott right tackle for 5 yards (tackle by Akiem Hicks and Anthony Nelson),2.330,2.790
+1,11:07,1,10,TAM 42,0,0,Dak Prescott pass incomplete short middle intended for CeeDee Lamb (defended by Carlton Davis),2.790,2.240
+1,11:07,2,10,TAM 42,0,0,Ezekiel Elliott right tackle for 2 yards (tackle by Lavonte David),2.240,1.820
+1,10:26,3,8,TAM 40,0,0,Dak Prescott pass complete short left to Noah Brown for 9 yards (tackle by Antoine Winfield and Lavonte David),1.820,3.510
+1,9:49,1,10,TAM 31,0,0,Tony Pollard right end for -1 yards (tackle by Logan Hall),3.510,2.830
+1,9:13,2,11,TAM 32,0,0,Dak Prescott pass incomplete short left intended for CeeDee Lamb,2.830,2.150
+1,9:10,3,11,TAM 32,0,0,Dak Prescott pass incomplete short right intended for Dalton Schultz,2.150,1.240
+1,9:06,4,11,TAM 32,0,3,Brett Maher 51 yard field goal good,1.240,3.000
+1,9:02,,,DAL 35,0,3,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+1,9:02,1,10,TAM 25,0,3,"Penalty on Cameron Brate: False Start, 5 yards (accepted) (no play)",0.610,0.280
+1,9:02,1,15,TAM 20,0,3,Tom Brady pass complete short left to Chris Godwin for 24 yards (tackle by Donovan Wilson),0.280,1.860
+1,8:33,1,10,TAM 44,0,3,Leonard Fournette left tackle for 2 yards (tackle by Dorance Armstrong and Jayron Kearse),1.860,1.590
+1,7:58,2,8,TAM 46,0,3,Tom Brady pass complete deep right to Mike Evans for 20 yards (tackle by Jayron Kearse and Anthony Brown),1.590,3.310
+1,7:17,1,10,DAL 34,0,3,Leonard Fournette left end for 7 yards (tackle by Jayron Kearse),3.310,3.720
+1,6:37,2,3,DAL 27,0,3,Leonard Fournette left tackle for 2 yards (tackle by Neville Gallimore and Jayron Kearse),3.720,3.270
+1,5:55,3,1,DAL 25,0,3,Leonard Fournette right tackle for -1 yards (tackle by DeMarcus Lawrence and Leighton Vander Esch),3.270,1.860
+1,5:09,4,2,DAL 26,3,3,Ryan Succop 44 yard field goal good,1.860,3.000
+1,5:05,,,TAM 35,3,3,"Jake Camarda kicks off 65 yards, touchback.",0.000,0.610
+1,5:05,1,10,DAL 25,3,3,Ezekiel Elliott right tackle for 7 yards (tackle by Joe Tryon-Shoyinka),0.610,1.010
+1,4:28,2,3,DAL 32,3,3,"Penalty on Terence Steele: False Start, 5 yards (accepted) (no play)",1.010,0.330
+1,4:13,2,8,DAL 27,3,3,Dak Prescott pass incomplete short left intended for CeeDee Lamb (defended by Lavonte David),0.330,-0.360
+1,4:07,3,8,DAL 27,3,3,Dak Prescott pass incomplete short left intended for Dalton Schultz,-0.360,-1.570
+1,4:03,4,8,DAL 27,3,3,"Bryan Anger punts 52 yards, returned by Jaelon Darden for 10 yards (tackle by Tony Pollard)",-1.570,-1.000
+1,3:53,1,10,TAM 31,3,3,Tom Brady pass complete deep left to Mike Evans for 19 yards (tackle by Trevon Diggs),1.000,2.260
+1,3:20,1,10,TAM 50,3,3,Tom Brady pass complete short right to Julio Jones for 8 yards (tackle by Donovan Wilson and Anthony Brown),2.260,2.790
+1,2:47,2,2,DAL 42,3,3,Leonard Fournette left end for 17 yards (tackle by Micah Parsons),2.790,3.910
+1,2:00,1,10,DAL 25,3,3,Tom Brady pass incomplete deep middle intended for Mike Evans,3.910,3.360
+1,1:56,2,10,DAL 25,3,3,Leonard Fournette left guard for 5 yards (tackle by Leighton Vander Esch),3.360,3.340
+1,1:13,3,5,DAL 20,3,3,Tom Brady pass incomplete short right intended for Julio Jones,3.340,2.170
+1,1:10,4,5,DAL 20,6,3,Ryan Succop 38 yard field goal good,2.170,3.000
+1,1:06,,,TAM 35,6,3,"Jake Camarda kicks off 67 yards, returned by KaVontae Turpin for 22 yards (tackle by Cade Otton). Penalty on Rico Dowdle: Defensive Holding, 10 yards (accepted)",0.000,-0.380
+1,1:01,1,10,DAL 10,6,3,Tony Pollard right guard for 1 yard (tackle by Akiem Hicks and Rakeem Nunez-Roches),-0.380,-0.710
+1,0:25,2,9,DAL 11,6,3,Dak Prescott pass complete short right to Dalton Schultz for 5 yards (tackle by Carlton Davis),-0.710,-0.720
+Quarter,Time,Down,ToGo,Location,TAM,DAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,4,DAL 16,6,3,Dak Prescott pass incomplete short middle intended for CeeDee Lamb,-0.720,-2.390
+2,14:55,4,4,DAL 16,6,3,"Bryan Anger punts 54 yards, returned by Jaelon Darden for 9 yards (tackle by C.J. Goodwin)",-2.390,-1.530
+2,14:45,1,10,TAM 39,6,3,Leonard Fournette up the middle for 6 yards (tackle by Anthony Barr),1.530,1.800
+2,14:10,2,4,TAM 45,6,3,Leonard Fournette up the middle for 3 yards (tackle by DeMarcus Lawrence and Jayron Kearse),1.800,1.490
+2,13:30,3,1,TAM 48,6,3,Julio Jones right end for 5 yards (tackle by Jayron Kearse),1.490,2.460
+2,12:46,1,10,DAL 47,6,3,Leonard Fournette left guard for 3 yards (tackle by Jourdan Lewis),2.460,2.320
+2,12:09,2,7,DAL 44,6,3,Tom Brady pass complete short left to Julio Jones for 13 yards (tackle by Jourdan Lewis),2.320,3.510
+2,11:32,1,10,DAL 31,6,3,Leonard Fournette left guard for -1 yards (tackle by Osa Odighizuwa),3.510,2.830
+2,10:51,2,11,DAL 32,6,3,Tom Brady pass complete short left to Leonard Fournette for 9 yards (tackle by Trevon Diggs),2.830,3.340
+2,10:05,3,2,DAL 23,6,3,Leonard Fournette left end for 10 yards (tackle by Leighton Vander Esch),3.340,4.710
+2,9:29,1,10,DAL 13,6,3,Rachaad White left guard for -1 yards (tackle by Trysten Hill and Quinton Bohanna),4.710,3.900
+2,8:53,2,11,DAL 14,6,3,Tom Brady pass complete short middle to Chris Godwin for 6 yards (tackle by Jourdan Lewis and Anthony Barr),3.900,4.100
+2,8:05,3,5,DAL 8,6,3,Tom Brady sacked by Micah Parsons for -10 yards,4.100,2.250
+2,7:34,4,15,DAL 18,6,3,Ryan Succop 36 yard field goal no good,2.250,-0.670
+2,7:31,1,10,DAL 26,6,3,"Dak Prescott pass complete short right to CeeDee Lamb for no gain (tackle by Antoine Winfield). Penalty on CeeDee Lamb: Offensive Pass Interference, 10 yards (accepted) (no play)",0.670,-0.300
+2,7:12,1,20,DAL 16,6,3,Ezekiel Elliott left guard for 5 yards (tackle by Logan Ryan),-0.300,-0.550
+2,6:43,2,15,DAL 21,6,3,Dak Prescott pass complete short left to Dennis Houston for 5 yards (tackle by Jamel Dean),-0.550,-0.560
+2,6:17,3,10,DAL 26,6,3,Dak Prescott pass short right intended for Noah Brown is intercepted by Antoine Winfield at DAL-38 and returned for 15 yards (tackle by Tyler Biadasz),-0.560,-4.040
+2,6:06,1,10,DAL 23,6,3,Julio Jones right end for 12 yards (tackle by Malik Hooker),4.040,4.840
+2,5:36,1,10,DAL 11,6,3,Leonard Fournette right end for 6 yards (tackle by Anthony Brown and Malik Hooker),4.840,5.280
+2,4:53,2,4,DAL 5,6,3,Leonard Fournette left guard for 1 yard (tackle by Osa Odighizuwa and Anthony Barr),5.280,4.670
+2,4:13,3,3,DAL 4,6,3,Tom Brady sacked by Micah Parsons for -7 yards,4.670,2.700
+2,3:28,4,10,DAL 11,9,3,Ryan Succop 29 yard field goal good,2.700,3.000
+2,3:25,,,TAM 35,9,3,"Jake Camarda kicks off 62 yards, returned by KaVontae Turpin for 21 yards (tackle by Cade Otton)",0.000,0.540
+2,3:20,1,10,DAL 24,9,3,"Penalty on Tyler Smith: False Start, 5 yards (accepted) (no play)",0.540,0.130
+2,3:20,1,15,DAL 19,9,3,Tony Pollard right tackle for 6 yards (tackle by Carlton Davis and William Gholston),0.130,0.130
+2,2:48,2,9,DAL 25,9,3,Dak Prescott left end for 12 yards (tackle by Mike Edwards),0.130,1.400
+2,2:10,1,10,DAL 37,9,3,Dak Prescott pass incomplete short right intended for Noah Brown,1.400,0.860
+2,2:05,2,10,DAL 37,9,3,Dak Prescott pass incomplete short middle intended for CeeDee Lamb (defended by Jamel Dean),0.860,0.170
+2,2:01,3,10,DAL 37,9,3,Dak Prescott pass incomplete short middle intended for CeeDee Lamb,0.170,-0.910
+2,1:56,4,10,DAL 37,9,3,Bryan Anger punts 53 yards downed by Devin Harper,-0.910,0.380
+2,1:46,1,10,TAM 10,9,3,Tom Brady pass complete short right to Chris Godwin for 5 yards (tackle by Anthony Brown),-0.380,-0.350
+2,1:41,2,5,TAM 15,9,3,Tom Brady pass complete short middle to Leonard Fournette for 1 yard (tackle by Leighton Vander Esch),-0.350,-0.720
+2,1:14,3,4,TAM 16,9,3,Tom Brady pass complete short middle to Cameron Brate for 7 yards (tackle by Leighton Vander Esch),-0.720,0.480
+2,1:00,1,10,TAM 23,9,3,Tom Brady pass complete deep right to Julio Jones for 48 yards (tackle by Anthony Brown),0.480,3.640
+2,0:33,1,10,DAL 29,9,3,Tom Brady pass incomplete deep left intended for Breshad Perriman (defended by Trevon Diggs),3.640,3.100
+2,0:28,2,10,DAL 29,9,3,Tom Brady pass incomplete short left intended for Cameron Brate,3.100,2.410
+2,0:25,3,10,DAL 29,9,3,Tom Brady pass incomplete deep left intended for Breshad Perriman,2.410,1.500
+2,0:19,,,,,,Timeout #1 by Dallas Cowboys,,
+2,0:19,4,10,DAL 29,12,3,Ryan Succop 47 yard field goal good,1.500,3.000
+2,0:14,,,TAM 35,12,3,"Jake Camarda kicks off 70 yards, returned by KaVontae Turpin for 20 yards (tackle by Keanu Neal and Cade Otton)",0.000,-0.220
+2,0:08,1,10,DAL 15,12,3,Dak Prescott kneels for -1 yards,-0.220,-0.820
+Quarter,Time,Down,ToGo,Location,TAM,DAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DAL 35,12,3,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,TAM 25,12,3,Leonard Fournette left tackle for 10 yards (tackle by Donovan Wilson),0.610,1.270
+3,14:21,1,10,TAM 35,12,3,Leonard Fournette right guard for 2 yards (tackle by Quinton Bohanna and DeMarcus Lawrence),1.270,0.990
+3,13:43,2,8,TAM 37,12,3,Tom Brady pass complete short right to Rachaad White for no gain (tackle by Dorance Armstrong and Leighton Vander Esch),0.990,0.300
+3,12:58,3,8,TAM 37,12,3,"Penalty on Luke Goedeke: False Start, 5 yards (accepted) (no play)",0.300,-0.360
+3,12:38,3,13,TAM 32,12,3,Tom Brady pass incomplete deep left intended for Breshad Perriman (defended by Trevon Diggs),-0.360,-1.240
+3,12:30,4,13,TAM 32,12,3,"Jake Camarda punts 43 yards, returned by KaVontae Turpin for 5 yards (tackle by Dee Delaney). Penalty on Tarell Basham: Running Into the Kicker, 5 yards (accepted) (no play)",-1.240,-0.910
+3,12:19,4,8,TAM 37,12,3,"Jake Camarda punts 63 yards, touchback.",-0.910,-0.280
+3,12:11,1,10,DAL 20,12,3,Ezekiel Elliott left tackle for 6 yards (tackle by Devin White),0.280,0.540
+3,11:34,2,4,DAL 26,12,3,Ezekiel Elliott right end for 7 yards (tackle by Carlton Davis),0.540,1.140
+3,10:56,1,10,DAL 33,12,3,"Dak Prescott pass complete short right to Tony Pollard for no gain (tackle by Joe Tryon-Shoyinka). Penalty on Tyler Biadasz: Ineligible Downfield Pass, 5 yards (accepted) (no play)",1.140,0.810
+3,10:26,1,15,DAL 28,12,3,Ezekiel Elliott left tackle for 5 yards (tackle by Antoine Winfield),0.810,0.590
+3,9:41,2,10,DAL 33,12,3,Dak Prescott pass complete short right to Tony Pollard for 4 yards (tackle by Antoine Winfield),0.590,0.430
+3,9:01,3,6,DAL 37,12,3,Dak Prescott sacked by Devin White for -7 yards,0.430,-1.370
+3,8:15,4,13,DAL 30,12,3,"Bryan Anger punts 58 yards, returned by Jaelon Darden for 9 yards (tackle by Luke Gifford)",-1.370,-0.340
+3,8:07,1,10,TAM 21,12,3,Leonard Fournette left end for 11 yards (tackle by Dorance Armstrong),0.340,1.070
+3,7:32,1,10,TAM 32,12,3,Leonard Fournette left end for 9 yards (tackle by Jayron Kearse),1.070,1.740
+3,6:53,2,1,TAM 41,12,3,Leonard Fournette left guard for 17 yards (tackle by Donovan Wilson),1.740,2.790
+3,6:14,1,10,DAL 42,12,3,Tom Brady pass incomplete deep left intended for Julio Jones,2.790,2.240
+3,6:07,2,10,DAL 42,12,3,Tom Brady pass complete short middle to Rachaad White for 7 yards (tackle by Leighton Vander Esch and Dorance Armstrong),2.240,2.480
+3,5:19,3,3,DAL 35,12,3,Tom Brady pass complete short right to Mike Evans for 10 yards (tackle by Anthony Brown),2.480,3.910
+3,4:36,1,10,DAL 25,12,3,Leonard Fournette left end for 3 yards (tackle by Leighton Vander Esch),3.910,3.770
+3,4:06,2,7,DAL 22,12,3,Tom Brady pass complete short middle to Mike Evans for 17 yards (tackle by Anthony Brown),3.770,6.060
+3,3:27,1,5,DAL 5,18,3,"Tom Brady pass complete short left to Mike Evans for 5 yards, touchdown",6.060,7.000
+3,3:23,,,DAL 15,19,3,Ryan Succop kicks extra point good,0.000,0.000
+3,3:23,,,TAM 35,19,3,"Jake Camarda kicks off 65 yards, touchback.",0.000,0.610
+3,3:23,1,10,DAL 25,19,3,Dak Prescott pass incomplete short right intended for Noah Brown,0.610,0.060
+3,3:18,2,10,DAL 25,19,3,Dak Prescott sacked by Anthony Nelson for -6 yards,0.060,-1.510
+3,2:34,3,16,DAL 19,19,3,"Dak Prescott pass incomplete deep right intended for Dennis Houston. Penalty on Anthony Nelson: Defensive Offside, 5 yards (accepted) (no play)",-1.510,-0.760
+3,2:34,3,11,DAL 24,19,3,Dak Prescott pass complete short right to Dalton Schultz for 14 yards (tackle by Devin White),-0.760,1.470
+3,2:03,1,10,DAL 38,19,3,Dak Prescott pass complete short right to Dalton Schultz for 5 yards (tackle by Lavonte David and Carlton Davis),1.470,1.600
+3,1:27,2,5,DAL 43,19,3,"Penalty on Terence Steele: False Start, 5 yards (accepted) (no play)",1.600,0.920
+3,1:06,2,10,DAL 38,19,3,Dak Prescott pass complete short middle to CeeDee Lamb for 13 yards (tackle by Antoine Winfield),0.920,2.320
+3,0:31,1,10,TAM 49,19,3,"Penalty on Terence Steele: False Start, 5 yards (accepted) (no play)",2.320,1.990
+3,0:19,1,15,DAL 46,19,3,Tony Pollard up the middle for 9 yards (tackle by Devin White),1.990,2.320
+Quarter,Time,Down,ToGo,Location,TAM,DAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,6,TAM 45,19,3,"Tony Pollard up the middle for 7 yards (tackle by Joe Tryon-Shoyinka). Penalty on Terence Steele: Offensive Holding, 10 yards (accepted) (no play)",2.320,0.970
+4,14:43,2,16,DAL 45,19,3,Dak Prescott pass complete short left to Dalton Schultz for 13 yards (tackle by Mike Edwards),0.970,2.020
+4,14:08,3,3,TAM 42,19,3,Tony Pollard right guard for 1 yard (tackle by Shaquil Barrett),2.020,0.530
+4,13:34,4,2,TAM 41,19,3,Dak Prescott pass incomplete short right intended for Dennis Houston (defended by Devin White),0.530,-1.660
+4,13:31,1,10,TAM 41,19,3,Leonard Fournette up the middle for 1 yard (tackle by Trysten Hill),1.660,1.260
+4,12:45,2,9,TAM 42,19,3,Tom Brady pass complete short right to Russell Gage for 6 yards (tackle by Jourdan Lewis),1.260,1.360
+4,12:06,3,3,TAM 48,19,3,Tom Brady pass short middle intended for Mike Evans is intercepted by Donovan Wilson at DAL-48 and returned for no gain (tackle by Mike Evans),1.360,-2.130
+4,12:01,1,10,DAL 48,19,3,Ezekiel Elliott right end for 2 yards (tackle by Carlton Davis),2.130,1.850
+4,11:32,2,8,DAL 50,19,3,Dak Prescott pass incomplete deep right intended for Dennis Houston,1.850,1.160
+4,11:26,3,8,DAL 50,19,3,Dak Prescott pass incomplete short right intended for Noah Brown,1.160,-0.060
+4,11:20,4,8,DAL 50,19,3,"Bryan Anger punts 37 yards, fair catch by Jaelon Darden at TB-13",-0.060,0.320
+4,11:12,1,10,TAM 13,19,3,Leonard Fournette left end for 14 yards (tackle by Trevon Diggs),-0.320,0.740
+4,10:31,1,10,TAM 27,19,3,Tom Brady pass complete short right to Russell Gage for 7 yards (tackle by Jourdan Lewis),0.740,1.140
+4,9:56,2,3,TAM 34,19,3,Rachaad White up the middle for 1 yard (tackle by Donovan Wilson),1.140,0.560
+4,9:08,,,,,,Timeout #1 by Tampa Bay Buccaneers,,
+4,9:08,3,2,TAM 35,19,3,Rachaad White right end for 3 yards (tackle by Micah Parsons),0.560,1.470
+4,8:38,1,10,TAM 38,19,3,Rachaad White right end for 5 yards (tackle by Osa Odighizuwa),1.470,1.600
+4,7:59,2,5,TAM 43,19,3,Jaelon Darden left end for 2 yards (tackle by Leighton Vander Esch),1.600,1.160
+4,7:12,3,3,TAM 45,19,3,Tom Brady pass incomplete short left intended for Cameron Brate,1.160,-0.390
+4,7:12,4,3,TAM 45,19,3,"Penalty on Dee Delaney: False Start, 5 yards (accepted) (no play)",-0.390,-0.720
+4,7:06,4,8,TAM 40,19,3,"Jake Camarda punts 46 yards, fair catch by KaVontae Turpin at DAL-14",-0.720,0.280
+4,7:00,1,10,DAL 14,19,3,Dak Prescott pass complete short left to Noah Brown for 22 yards (tackle by Antoine Winfield),-0.280,1.330
+4,6:34,1,10,DAL 36,19,3,Dak Prescott pass incomplete short left intended for CeeDee Lamb,1.330,0.790
+4,6:30,2,10,DAL 36,19,3,Dak Prescott pass complete short middle to Noah Brown for 13 yards (tackle by Mike Edwards),0.790,2.190
+4,6:02,1,10,DAL 49,19,3,Dak Prescott pass complete short left to Ezekiel Elliott for -3 yards (tackle by Lavonte David),2.190,1.240
+4,5:31,2,13,DAL 46,19,3,Cooper Rush pass complete short left to Noah Brown for 7 yards (tackle by Jamel Dean),1.240,1.490
+4,5:03,3,6,TAM 47,19,3,Cooper Rush pass incomplete short right intended for CeeDee Lamb,1.490,0.130
+4,5:01,4,6,TAM 47,19,3,"Cooper Rush sacked by Shaquil Barrett for no gain. Penalty on Shaquil Barrett: Defensive Offside, 5 yards (accepted) (no play)",0.130,0.460
+4,4:57,4,1,TAM 42,19,3,Cooper Rush pass complete short left to Dalton Schultz for 5 yards (tackle by Jamel Dean and Lavonte David),0.460,3.120
+4,4:32,1,10,TAM 37,19,3,Cooper Rush pass incomplete deep right intended for Dennis Houston,3.120,2.570
+4,4:29,2,10,TAM 37,19,3,Cooper Rush pass complete short right to Simi Fehoko for 5 yards (tackle by Logan Ryan),2.570,2.540
+4,4:03,3,5,TAM 32,19,3,Cooper Rush sacked by Devin White for -10 yards,2.540,0.460
+4,3:21,4,15,TAM 42,19,3,Cooper Rush pass incomplete deep right intended for Simi Fehoko (defended by Mike Edwards),0.460,-1.730
+4,3:14,1,10,TAM 42,19,3,Rachaad White right tackle for 4 yards (tackle by Malik Hooker),1.730,1.730
+4,3:08,,,,,,Timeout #1 by Dallas Cowboys,,
+4,3:08,2,6,TAM 46,19,3,Rachaad White left guard for 2 yards (tackle by DeMarcus Lawrence and Micah Parsons),1.730,1.290
+4,3:04,,,,,,Timeout #2 by Dallas Cowboys,,
+4,3:04,3,4,TAM 48,19,3,Breshad Perriman right end for -7 yards (tackle by Osa Odighizuwa),1.290,-0.650
+4,2:59,,,,,,Timeout #3 by Dallas Cowboys,,
+4,2:59,4,11,TAM 41,19,3,"Jake Camarda punts 43 yards, returned by KaVontae Turpin for 3 yards (tackle by K.J. Britt)",-0.650,-0.150
+4,2:47,1,10,DAL 19,19,3,Cooper Rush pass incomplete short right intended for Ezekiel Elliott,0.150,-0.390
+4,2:42,2,10,DAL 19,19,3,Cooper Rush pass complete short left to Simi Fehoko for 7 yards (tackle by Antoine Winfield),-0.390,-0.160
+4,2:19,3,3,DAL 26,19,3,Cooper Rush pass incomplete deep left intended for CeeDee Lamb,-0.160,-1.630
+4,2:13,4,3,DAL 26,19,3,Cooper Rush pass complete deep middle to Noah Brown for 17 yards (tackle by Mike Edwards and Logan Ryan),-1.630,1.800
+4,2:00,1,10,DAL 43,19,3,"Cooper Rush pass incomplete short right. Penalty on Cooper Rush: Intentional Grounding, 13 yards (accepted)",1.800,-0.500
+4,1:44,2,23,DAL 30,19,3,Cooper Rush sacked by Vita Vea for -2 yards,-0.500,-1.420
+4,1:18,3,25,DAL 28,19,3,Cooper Rush pass complete short middle to Dalton Schultz for 13 yards (tackle by Mike Edwards),-1.420,-0.650
+4,0:56,4,12,DAL 41,19,3,Cooper Rush pass complete short middle to Tony Pollard for 10 yards (tackle by Devin White),-0.650,-2.260
+4,0:49,1,10,DAL 50,19,3,Tom Brady kneels for no gain,2.260,1.710
+4,0:33,2,10,TAM 50,19,3,Tom Brady kneels for -1 yards,1.710,0.890
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

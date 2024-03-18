@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,NOR 20,3,1:20,28,Fumble
+2,1,12:20,NOR 21,3,0:59,4,Punt
+3,1,8:27,NOR 16,10,5:36,84,Touchdown
+4,1,0:30,NOR 30,3,1:08,0,Fumble
+5,2,13:13,NOR 20,5,3:09,80,Touchdown
+6,2,6:59,NOR 24,13,5:26,76,Touchdown
+7,2,0:27,NOR 34,2,0:27,36,End of Half
+8,3,13:59,MIN 44,4,1:44,44,Touchdown
+9,3,11:14,NOR 47,3,0:56,53,Touchdown
+10,3,8:26,NOR 13,19,10:36,87,Touchdown
+11,4,11:36,NOR 13,9,4:11,55,Missed FG
+12,4,5:12,MIN 44,6,3:17,20,Downs

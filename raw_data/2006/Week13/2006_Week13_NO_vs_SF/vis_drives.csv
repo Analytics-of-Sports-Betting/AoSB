@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,SFO 21,3,1:42,9,Punt
+2,1,12:20,SFO 31,3,1:36,8,Punt
+3,1,8:57,SFO 41,3,0:58,-1,Punt
+4,1,6:18,SFO 24,13,5:58,64,Field Goal
+5,2,12:11,SFO 31,3,2:09,-8,Punt
+6,2,8:11,SFO 12,3,1:29,-2,Punt
+7,2,0:43,SFO 20,1,0:43,3,End of Half
+8,3,12:56,SFO 23,4,2:04,77,Touchdown
+9,3,10:52,SFO 41,1,0:18,0,Interception
+10,3,9:02,SFO 19,3,2:21,3,Punt
+11,3,0:12,SFO 15,4,0:58,25,Interception
+12,4,11:18,SFO 21,3,1:09,5,Punt
+13,4,2:31,SFO 22,4,1:16,40,Interception

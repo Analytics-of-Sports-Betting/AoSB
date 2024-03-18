@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,ARI 16,3,1:34,-7,Punt
+2,1,12:11,ARI 34,5,1:51,20,Punt
+3,1,5:31,ARI 20,9,4:29,22,Punt
+4,2,14:53,GNB 43,3,1:27,43,Touchdown
+5,2,7:44,ARI 22,3,1:11,-2,Punt
+6,2,1:54,ARI 20,7,1:31,20,Punt
+7,3,14:03,ARI 20,1,0:06,0,Interception
+8,3,13:12,ARI 27,3,0:58,3,Punt
+9,3,11:16,ARI 13,8,2:55,87,Touchdown
+10,3,6:01,ARI 24,11,5:11,74,Field Goal
+11,4,15:00,ARI 20,3,1:31,8,Punt
+12,4,11:06,ARI 25,3,1:32,2,Punt
+13,4,4:34,ARI 18,8,2:14,48,Downs

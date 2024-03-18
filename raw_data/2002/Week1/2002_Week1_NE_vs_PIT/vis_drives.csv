@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,PIT 27,3,1:08,2,Interception
+2,1,12:57,PIT 20,1,0:06,0,Interception
+3,1,10:57,PIT 26,10,6:07,74,Touchdown
+4,1,0:56,PIT 23,8,4:34,31,Punt
+5,2,9:37,PIT 34,8,4:03,45,Missed FG
+6,2,2:23,PIT 28,5,1:58,1,Punt
+7,3,13:27,PIT 31,2,0:20,14,Fumble
+8,3,7:03,PIT 26,3,2:05,-1,Interception
+9,3,2:08,PIT 40,3,0:54,6,Punt
+10,4,14:10,PIT 8,3,1:39,-1,Punt
+11,4,9:32,PIT 22,7,3:04,22,Fumble
+12,4,6:20,NWE 47,4,1:38,-4,Punt
+13,4,2:55,PIT 34,11,2:55,66,Touchdown

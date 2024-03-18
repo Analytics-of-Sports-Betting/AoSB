@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,BUF 25,7,4:12,75,Touchdown
+2,1,7:10,BUF 21,9,4:57,49,Fumble
+3,1,2:13,BUF 28,10,4:24,41,Field Goal
+4,2,9:35,BUF 24,8,4:59,76,Touchdown
+5,2,0:28,BUF 22,1,0:28,-14,End of Half
+6,3,13:24,CHI 44,5,2:13,13,Field Goal
+7,3,8:43,BUF 5,3,1:08,3,Punt
+8,3,6:50,BUF 48,3,1:56,-4,Punt
+9,3,1:59,BUF 29,3,1:38,-7,Punt
+10,4,12:39,BUF 22,6,3:44,78,Touchdown
+11,4,2:46,BUF 25,9,2:22,54,Missed FG
+12,5,13:55,BUF 44,2,0:53,56,Touchdown

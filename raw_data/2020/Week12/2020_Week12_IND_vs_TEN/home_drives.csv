@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,9:12,IND 25,12,6:38,75,Touchdown
+2,1,0:09,IND 25,6,2:18,75,Touchdown
+3,2,11:15,IND 12,3,1:31,6,Punt
+4,2,6:15,IND 30,4,1:50,14,Punt
+5,2,1:41,IND 25,3,0:28,-9,Punt
+6,2,0:20,IND 15,1,0:20,-1,End of Half
+7,3,15:00,IND 25,4,1:18,15,Punt
+8,3,11:36,IND 8,6,2:52,15,Punt
+9,3,6:26,IND 13,4,0:48,14,Interception
+10,3,0:44,IND 25,9,2:21,75,Touchdown
+11,4,5:55,IND 6,11,3:21,94,Touchdown
+12,4,2:29,IND 25,4,0:42,-9,Downs

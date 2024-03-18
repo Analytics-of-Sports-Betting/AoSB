@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,TAM 25,9,4:16,35,Punt
+2,1,7:15,TAM 17,3,1:34,-4,Punt
+3,1,4:53,CAR 48,5,2:30,48,Touchdown
+4,1,0:56,TAM 8,4,2:37,13,Punt
+5,2,11:33,TAM 18,3,1:09,-2,Punt
+6,2,5:19,TAM 20,6,3:26,33,Interception
+7,2,1:00,CAR 45,3,0:24,9,Interception
+8,3,12:52,TAM 34,3,1:32,10,Fumble
+9,3,8:27,TAM 25,3,1:46,6,Punt
+10,3,4:01,TAM 14,1,0:11,2,Fumble
+11,3,1:50,TAM 29,4,1:57,17,Punt
+12,4,12:42,TAM 31,8,4:10,59,Field Goal
+13,4,3:11,TAM 30,6,1:12,6,Downs

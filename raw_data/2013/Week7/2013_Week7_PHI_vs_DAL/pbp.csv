@@ -1,0 +1,212 @@
+Quarter,Time,Down,ToGo,Location,DAL,PHI,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Eagles won the coin toss, Eagles to receive the opening kickoff.",,
+1,15:00,,,DAL 35,0,0,"Dan Bailey kicks off 70 yards, returned by Damaris Johnson for 23 yards (tackle by B.W. Webb)",0.000,-0.040
+1,14:57,1,10,PHI 18,0,0,Nick Foles pass complete short left to LeSean McCoy for 11 yards,0.040,0.870
+1,14:36,1,10,PHI 29,0,0,Nick Foles sacked by George Selvie for -5 yards,0.870,-0.350
+1,14:21,2,15,PHI 24,0,0,LeSean McCoy right end for 5 yards (tackle by J.J. Wilcox),-0.350,-0.360
+1,13:53,3,10,PHI 29,0,0,"Nick Foles pass incomplete. Penalty on Nick Foles: Intentional Grounding, 10 yards",-0.360,-2.140
+1,13:49,4,20,PHI 19,0,0,"Donnie Jones punts 53 yards, returned by Dwayne Harris for 6 yards (tackle by Najee Goode)",-2.140,-1.200
+1,13:37,1,10,DAL 34,0,0,Tony Romo pass complete short left to Jason Witten for 6 yards (tackle by Mychal Kendricks),1.200,1.470
+1,13:01,2,4,DAL 40,0,0,Joseph Randle up the middle for 3 yards (tackle by Cedric Thornton),1.470,1.160
+1,12:21,3,1,DAL 43,0,0,Phillip Tanner right guard for no gain (tackle by DeMeco Ryans),1.160,1.160
+1,11:47,3,1,DAL 43,0,0,Timeout #1 by Philadelphia Eagles,1.160,-0.520
+1,11:46,4,1,DAL 43,0,0,"Chris Jones punts 48 yards, fair catch by Damaris Johnson",-0.520,0.380
+1,11:39,1,10,PHI 9,0,0,Nick Foles pass complete short left to Riley Cooper for 14 yards (tackle by Sean Lee),-0.380,0.480
+1,11:10,1,10,PHI 23,0,0,LeSean McCoy right end for 4 yards (tackle by Barry Church),0.480,0.470
+1,10:42,2,6,PHI 27,0,0,LeSean McCoy right guard for 1 yard (tackle by Sean Lee),0.470,-0.100
+1,10:12,3,5,PHI 28,0,0,Nick Foles for 12 yards,-0.100,1.600
+1,9:46,1,10,PHI 40,0,0,Nick Foles pass incomplete short right intended for Zach Ertz,1.600,1.050
+1,9:40,2,10,PHI 40,0,0,Bryce Brown up the middle for 2 yards (tackle by Sean Lee),1.050,0.630
+1,9:05,3,8,PHI 42,0,0,Nick Foles pass incomplete deep left intended for Bryce Brown,0.630,-0.590
+1,8:59,4,8,PHI 42,0,0,"Donnie Jones punts 58 yards, touchback. Penalty on Morris Claiborne: Offensive Holding, 10 yards",-0.590,0.380
+1,8:49,1,10,DAL 10,0,0,"Penalty on Doug Free: False Start, 5 yards (no play)",-0.380,-0.570
+1,8:49,1,15,DAL 5,0,0,"Penalty on Fletcher Cox: Defensive Offside, 5 yards (no play)",-0.570,-0.380
+1,8:43,1,10,DAL 10,0,0,Tony Romo pass incomplete deep left intended for Dez Bryant,-0.380,-0.780
+1,8:38,2,10,DAL 10,0,0,Tony Romo pass incomplete short left intended for Dez Bryant,-0.780,-1.420
+1,8:35,3,10,DAL 10,0,0,Tony Romo pass complete short right to Cole Beasley for 11 yards (tackle by Brandon Boykin),-1.420,0.340
+1,7:53,1,10,DAL 21,0,0,Tony Romo pass complete deep right to Jason Witten for 26 yards (tackle by Earl Wolff),0.340,2.060
+1,7:13,1,10,DAL 47,0,0,Tony Romo pass incomplete short right intended for Cole Beasley,2.060,2.060
+1,7:07,1,10,DAL 47,0,0,Timeout #1 by Dallas Cowboys,2.060,1.520
+1,7:07,2,10,DAL 47,0,0,Joseph Randle left end for 12 yards (tackle by Earl Wolff),1.520,2.850
+1,6:37,1,10,PHI 41,0,0,Joseph Randle left end for 3 yards (tackle by Trent Cole),2.850,2.710
+1,6:00,2,7,PHI 38,0,0,Tony Romo sacked by DeMeco Ryans for -13 yards,2.710,0.300
+1,5:21,3,20,DAL 49,0,0,Tony Romo pass complete short right to Terrance Williams for 15 yards (tackle by Bradley Fletcher),0.300,0.880
+1,4:41,4,5,PHI 36,0,0,"Chris Jones punts 21 yards, fair catch by Damaris Johnson",0.880,0.220
+1,4:34,1,10,PHI 15,0,0,Bryce Brown left tackle for 2 yards (tackle by Barry Church),-0.220,-0.440
+1,4:07,2,8,PHI 17,0,0,"Nick Foles pass incomplete short left intended for LeSean McCoy. Penalty on Bruce Carter: Defensive Holding, 5 yards (no play)",-0.440,0.410
+1,4:01,1,10,PHI 22,0,0,Nick Foles pass incomplete short right intended for Jason Avant,0.410,-0.130
+1,3:54,2,10,PHI 22,0,0,Nick Foles pass incomplete short left intended for Jeff Maehl,-0.130,-0.820
+1,3:50,3,10,PHI 22,0,0,Nick Foles left end for 8 yards (tackle by Kyle Wilber),-0.820,-1.370
+1,3:15,4,2,PHI 30,0,0,"Donnie Jones punts 40 yards, returned by Dwayne Harris for no gain",-1.370,-0.940
+1,3:06,1,10,DAL 30,0,0,Joseph Randle left end for 2 yards (tackle by Trent Cole),0.940,0.660
+1,2:29,2,8,DAL 32,0,0,"Penalty on Ronald Leary: False Start, 5 yards (no play)",0.660,-0.010
+1,2:06,2,13,DAL 27,0,0,Tony Romo pass incomplete short right intended for Gavin Escobar,-0.010,-0.690
+1,2:01,3,13,DAL 27,0,0,Tony Romo pass complete short right to Cole Beasley for 12 yards (tackle by Brandon Boykin),-0.690,-0.780
+1,1:41,4,1,DAL 39,0,0,"Chris Jones punts 43 yards, fair catch by DeSean Jackson. Penalty on Dwayne Harris: Offensive Holding, 10 yards",-0.780,-0.810
+1,1:32,1,10,PHI 28,0,0,Nick Foles pass complete short right to DeSean Jackson for -1 yards (tackle by Orlando Scandrick),0.810,0.130
+1,1:00,2,11,PHI 27,0,0,Nick Foles pass complete short right to LeSean McCoy for -7 yards (tackle by Brandon Carr),0.130,-1.480
+1,0:23,3,18,PHI 20,0,0,Nick Foles pass complete short right to Zach Ertz for 7 yards (tackle by Brandon Carr),-1.480,-1.570
+Quarter,Time,Down,ToGo,Location,DAL,PHI,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,4,11,PHI 27,0,0,"Donnie Jones punts 44 yards, returned by Dwayne Harris for 1 yard (tackle by Colt Anderson). Penalty on Brandon Carr: Offensive Holding, 10 yards",-1.570,-0.280
+2,14:51,1,10,DAL 20,0,0,Tony Romo pass complete short left to Dez Bryant for 19 yards,0.280,1.530
+2,14:27,1,10,DAL 39,0,0,Tony Romo pass incomplete deep left intended for Jason Witten,1.530,0.990
+2,14:22,2,10,DAL 39,0,0,Tony Romo pass incomplete short right intended for Miles Austin (defended by Nate Allen),0.990,0.300
+2,14:17,3,10,DAL 39,0,0,Tony Romo sacked by Vinny Curry for -10 yards,0.300,-1.440
+2,13:47,4,20,DAL 29,0,0,"Chris Jones punts 41 yards, fair catch by Damaris Johnson",-1.440,-0.940
+2,13:39,1,10,PHI 30,0,0,LeSean McCoy right end for 1 yard (tackle by Drake Nevis),0.940,0.530
+2,13:17,2,9,PHI 31,0,0,LeSean McCoy left end for 2 yards (tackle by J.J. Wilcox),0.530,0.100
+2,12:44,3,7,PHI 33,0,0,Nick Foles pass complete short left to Riley Cooper for 9 yards,0.100,1.730
+2,12:32,1,10,PHI 42,0,0,LeSean McCoy up the middle for no gain (tackle by Jason Hatcher),1.730,1.190
+2,12:14,2,10,PHI 42,0,0,Nick Foles pass complete short right to LeSean McCoy for 4 yards (tackle by Brandon Carr),1.190,1.030
+2,11:42,3,6,PHI 46,0,0,Nick Foles pass incomplete short middle intended for Jeff Maehl,1.030,-0.320
+2,11:36,4,6,PHI 46,0,0,Donnie Jones punts 46 yards,-0.320,0.380
+2,11:26,1,10,DAL 8,0,0,Joseph Randle left tackle for 1 yard (tackle by Isaac Sopoaga),-0.380,-0.710
+2,10:48,2,9,DAL 9,0,0,Joseph Randle left tackle for 4 yards (tackle by Trent Cole),-0.710,-0.840
+2,10:08,3,5,DAL 13,0,0,Tony Romo pass complete deep left to Terrance Williams for 25 yards,-0.840,1.470
+2,9:44,1,10,DAL 38,0,0,Joseph Randle left end for 3 yards (tackle by Cedric Thornton),1.470,1.330
+2,9:07,2,7,DAL 41,0,0,Joseph Randle left end for 1 yard (tackle by Cedric Thornton),1.330,0.760
+2,8:24,3,6,DAL 42,0,0,Tony Romo pass incomplete short left intended for Dez Bryant. Penalty on Tyron Smith: Illegal Formation (Declined),0.760,-0.590
+2,8:20,4,6,DAL 42,0,0,"Chris Jones punts 32 yards, fair catch by Damaris Johnson",-0.590,-0.670
+2,8:11,1,10,PHI 26,0,0,LeSean McCoy left end for -3 yards (tackle by Sean Lee),0.670,-0.280
+2,7:36,2,13,PHI 23,0,0,Nick Foles pass complete short left to LeSean McCoy for 6 yards (tackle by Morris Claiborne),-0.280,-0.160
+2,7:14,3,7,PHI 29,0,0,Nick Foles pass incomplete short middle intended for Jason Avant. Penalty on Todd Herremans: Illegal Use of Hands (Declined),-0.160,-1.440
+2,7:09,4,7,PHI 29,0,0,"Donnie Jones punts 44 yards, returned by Dwayne Harris for 9 yards (tackle by DeMeco Ryans)",-1.440,-1.330
+2,6:59,1,10,DAL 36,0,0,Tony Romo pass complete short left to Cole Beasley for 14 yards (tackle by Earl Wolff),1.330,2.260
+2,6:19,1,10,,0,0,Tony Romo pass complete short middle to Dez Bryant for 15 yards (tackle by Nate Allen),2.260,3.250
+2,5:42,1,10,PHI 35,0,0,Joseph Randle left end for 2 yards (tackle by Connor Barwin),3.250,2.970
+2,5:00,2,8,PHI 33,0,0,Tony Romo pass complete short left to Terrance Williams for 10 yards (tackle by Earl Wolff),2.970,4.040
+2,4:14,1,10,PHI 23,0,0,Tony Romo pass incomplete short right intended for Miles Austin (defended by Connor Barwin),4.040,4.040
+2,4:11,1,10,PHI 23,0,0,Timeout #2 by Dallas Cowboys,4.040,3.500
+2,4:11,2,10,PHI 23,0,0,Joseph Randle left end for 3 yards (tackle by Trent Cole),3.500,3.200
+2,3:24,3,7,PHI 20,0,0,Tony Romo pass incomplete short middle intended for Terrance Williams (defended by Bradley Fletcher),3.200,2.120
+2,3:21,4,7,PHI 20,3,0,Dan Bailey 38 yard field goal good,2.120,3.000
+2,3:21,,,DAL 35,3,0,"Dan Bailey kicks off 65 yards, touchback",0.000,-0.280
+2,3:17,1,10,PHI 20,3,0,LeSean McCoy right end for 2 yards (tackle by Barry Church),0.280,0.000
+2,2:50,2,8,PHI 22,3,0,Nick Foles pass incomplete deep left intended for Brent Celek,0.000,-0.690
+2,2:45,3,8,PHI 22,3,0,"Nick Foles pass incomplete deep right intended for Brent Celek. Penalty on J.J. Wilcox: Defensive Holding, 5 yards (no play)",-0.690,0.740
+2,2:39,1,10,PHI 27,3,0,Nick Foles pass incomplete deep right intended for Jason Avant,0.740,0.200
+2,2:34,2,10,PHI 27,3,0,Nick Foles left end for 5 yards (tackle by Jason Vega),0.200,0.170
+2,2:00,3,5,PHI 32,3,0,Nick Foles pass incomplete short middle intended for Jason Avant,0.170,-1.240
+2,1:57,4,5,PHI 32,3,0,"Donnie Jones punts 49 yards, returned by Dwayne Harris for 7 yards (tackle by Brandon Graham)",-1.240,-0.670
+2,1:43,1,10,DAL 26,3,0,Tony Romo pass incomplete short left intended for Dez Bryant,0.670,0.130
+2,1:39,2,10,DAL 26,3,0,Tony Romo pass complete short left to Phillip Tanner for 7 yards (tackle by Cary Williams and DeMeco Ryans),0.130,0.370
+2,1:18,3,3,DAL 33,3,0,Tony Romo pass incomplete deep left intended for Dez Bryant,0.370,-1.180
+2,1:12,4,3,DAL 33,3,0,Chris Jones punts 45 yards,-1.180,-0.410
+2,1:02,1,10,PHI 22,3,0,Nick Foles pass complete short right to DeSean Jackson for 16 yards (tackle by Brandon Carr),0.410,1.470
+2,0:55,1,10,PHI 38,3,0,Nick Foles sacked by Jason Hatcher for -6 yards,1.470,1.470
+2,0:50,1,10,PHI 38,3,0,Timeout #2 by Philadelphia Eagles,1.470,0.110
+2,0:50,2,16,PHI 32,3,0,"Penalty on Kyle Wilber: Neutral Zone Infraction, 5 yards (no play)",0.110,0.790
+2,0:50,2,11,PHI 37,3,0,Nick Foles pass complete short right to LeSean McCoy for 12 yards,0.790,2.190
+2,0:43,1,10,PHI 49,3,0,Nick Foles pass complete short left to Riley Cooper for 9 yards (tackle by Sean Lee),2.190,2.860
+2,0:22,2,1,DAL 42,3,0,Nick Foles pass incomplete short left intended for Riley Cooper,2.860,2.150
+2,0:20,3,1,DAL 42,3,0,Nick Foles pass incomplete deep right intended for DeSean Jackson,2.150,0.460
+2,0:14,4,1,DAL 42,3,0,Alex Henery 60 yard field goal no good,0.460,-2.260
+2,0:09,1,10,,3,0,"Penalty on Doug Free: False Start, 5 yards (no play)",2.260,1.930
+2,0:09,1,15,DAL 45,3,0,"Tony Romo left tackle for 4 yards (tackle by DeMeco Ryans). Penalty on Brandon Boykin: Illegal Contact, 5 yards",1.930,2.520
+2,0:03,1,10,PHI 46,3,0,Tony Romo pass incomplete is intercepted by Earl Wolff at PHI--6,2.520,0.000
+Quarter,Time,Down,ToGo,Location,DAL,PHI,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PHI 35,3,0,"Alex Henery kicks off no gain, returned by Dwayne Harris for 39 yards (tackle by Roc Carmichael)",0.000,1.200
+3,14:55,1,10,DAL 34,3,0,Dwayne Harris right end for 6 yards (tackle by Cedric Thornton),1.200,1.470
+3,14:13,2,4,DAL 40,3,0,Tony Romo pass complete short middle to Dez Bryant for 12 yards (tackle by Bradley Fletcher),1.470,2.390
+3,13:38,1,10,PHI 48,3,0,Joseph Randle right end for 6 yards (tackle by DeMeco Ryans and Mychal Kendricks),2.390,2.660
+3,13:01,2,4,PHI 42,3,0,Joseph Randle left end for 2 yards (tackle by Cedric Thornton),2.660,2.210
+3,12:19,3,2,PHI 40,3,0,Tony Romo pass complete short left to Dez Bryant for 11 yards (tackle by Cary Williams),2.210,3.640
+3,11:38,1,10,PHI 29,3,0,Tony Romo pass complete short left to Joseph Randle for 8 yards (tackle by Cary Williams),3.640,4.180
+3,10:53,2,2,PHI 21,3,0,Tony Romo pass complete short right to Dez Bryant for 19 yards (tackle by Connor Barwin),4.180,6.740
+3,10:18,1,2,PHI 2,3,0,Tony Romo pass incomplete short right intended for Dez Bryant,6.740,5.720
+3,10:15,2,2,PHI 2,3,0,"Penalty on Doug Free: False Start, 5 yards (no play)",5.720,4.760
+3,10:02,2,7,PHI 7,3,0,Tony Romo pass complete short right to Cole Beasley for 3 yards (tackle by Brandon Boykin),4.760,4.490
+3,9:27,3,4,PHI 4,3,0,"Tony Romo pass incomplete short right intended for Dez Bryant. Penalty on Bradley Fletcher: Defensive Pass Interference, 3 yards (no play)",4.490,6.970
+3,9:23,1,1,PHI 1,9,0,"Phillip Tanner right tackle for 1 yard, touchdown",6.970,7.000
+3,9:23,,,PHI 2,10,0,Dan Bailey kicks extra point good,0.000,0.000
+3,9:23,,,DAL 35,10,0,"Dan Bailey kicks off 65 yards, touchback",0.000,-0.280
+3,9:17,1,10,PHI 20,10,0,LeSean McCoy right end for 4 yards (tackle by Bruce Carter and Sean Lee),0.280,0.270
+3,8:56,2,6,PHI 24,10,0,"Nick Foles pass incomplete short right intended for LeSean McCoy. Penalty on Evan Mathis: Offensive Holding, 10 yards (no play)",0.270,-1.180
+3,8:44,2,16,PHI 14,10,0,LeSean McCoy right end for 6 yards (tackle by Barry Church and George Selvie),-1.180,-0.960
+3,8:13,3,10,PHI 20,10,0,Nick Foles pass incomplete deep right intended for Jason Avant,-0.960,-2.030
+3,8:03,4,10,PHI 20,10,0,"Donnie Jones punts 39 yards, fair catch by Dwayne Harris",-2.030,-1.660
+3,7:55,1,10,DAL 41,10,0,Tony Romo pass complete short right to Jason Witten for 8 yards (tackle by DeMeco Ryans),1.660,2.200
+3,7:07,2,2,DAL 49,10,0,Tony Romo pass incomplete deep right intended for Dez Bryant,2.200,1.490
+3,7:01,3,2,DAL 49,10,0,Tony Romo pass incomplete short middle intended for Miles Austin,1.490,-0.130
+,,,,,,,"PHI challenged the pass completion ruling, and the original play was overturned.",,
+3,6:54,4,2,DAL 49,10,0,"Chris Jones punts 35 yards, fair catch by Damaris Johnson",-0.130,0.140
+3,6:47,1,10,PHI 16,10,0,Nick Foles pass incomplete deep right intended for Jeff Maehl,-0.140,-0.660
+3,6:41,2,10,PHI 16,10,0,LeSean McCoy right end for 6 yards (tackle by Barry Church),-0.660,-0.570
+3,6:12,3,4,PHI 22,10,0,Nick Foles pass incomplete short right intended for DeSean Jackson,-0.570,-1.900
+3,6:07,4,4,PHI 22,10,0,"Donnie Jones punts 46 yards, fair catch by Dwayne Harris",-1.900,-1.070
+3,6:00,1,10,DAL 32,10,0,Tony Romo pass complete short right to Terrance Williams for 11 yards (tackle by Bradley Fletcher),1.070,1.800
+3,5:16,1,10,DAL 43,10,0,Tony Romo pass incomplete short left intended for Jason Witten,1.800,1.250
+3,5:11,2,10,DAL 43,10,0,Joseph Randle right end for 7 yards (tackle by Connor Barwin),1.250,1.490
+3,4:24,3,3,,10,0,Tony Romo pass complete short left to Dez Bryant for 8 yards (tackle by Earl Wolff),1.490,1.490
+3,3:36,3,3,,10,0,Timeout #1 by Dallas Cowboys,1.490,2.790
+3,3:36,1,10,PHI 42,10,0,Tony Romo pass incomplete short right intended for Dez Bryant,2.790,2.240
+3,3:32,2,10,PHI 42,10,0,Tony Romo pass complete short left to Joseph Randle for 7 yards (tackle by Kurt Coleman),2.240,2.480
+3,3:02,3,3,PHI 35,10,0,"Tony Romo pass incomplete short left intended for Dez Bryant. Penalty on Cary Williams: Illegal Contact (Offsetting), Penalty on Ronald Leary: Illegal Use of Hands (Offsetting) (no play)",2.480,2.480
+3,2:58,3,3,PHI 35,10,0,Tony Romo pass incomplete short middle intended for Phillip Tanner is intercepted by DeMeco Ryans at PHI-34 and returned for 36 yards (tackle by Doug Free),2.480,-3.580
+3,2:46,1,10,DAL 30,10,0,Nick Foles pass incomplete deep left intended for DeSean Jackson (defended by J.J. Wilcox),3.580,3.030
+3,2:39,2,10,DAL 30,10,0,LeSean McCoy right end for 10 yards (tackle by Jason Hatcher and J.J. Wilcox),3.030,4.240
+3,2:14,1,10,DAL 20,10,0,Nick Foles pass incomplete deep left intended for Jason Avant,4.240,3.690
+,,,,,,,"Replay Assistant challenged the incomplete pass ruling, and the original play was overturned.",,
+3,2:09,2,10,DAL 20,10,0,LeSean McCoy left tackle for 6 yards (tackle by Nick Hayden),3.690,3.890
+3,1:44,3,4,DAL 14,10,0,LeSean McCoy up the middle for 3 yards (tackle by Jason Hatcher),3.890,2.850
+3,1:16,4,1,DAL 11,10,0,LeSean McCoy up the middle for 2 yards (tackle by Ernie Sims and Sean Lee),2.850,5.140
+3,0:42,1,9,DAL 9,10,0,LeSean McCoy right end for no gain (tackle by Sean Lee),5.140,4.380
+3,0:11,2,9,DAL 9,10,0,Nick Foles pass incomplete short left intended for Brent Celek,4.380,3.360
+3,0:03,3,9,DAL 9,10,0,Nick Foles sacked by Jarius Wynn and George Selvie for -4 yards,3.360,2.570
+Quarter,Time,Down,ToGo,Location,DAL,PHI,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,4,13,DAL 13,10,3,Alex Henery 31 yard field goal good,2.570,3.000
+4,15:00,,,PHI 35,10,3,"Alex Henery kicks off 47 yards, returned by Andre Smith for 10 yards (tackle by Jeff Maehl)",0.000,-0.810
+4,14:52,1,10,DAL 28,10,3,Tony Romo pass complete short middle to Dez Bryant for 16 yards (tackle by Brandon Graham),0.810,1.860
+4,14:12,1,10,DAL 44,10,3,Tony Romo pass complete short left to Joseph Randle for 13 yards,1.860,2.720
+4,13:38,1,10,PHI 43,10,3,Joseph Randle left tackle for 1 yard (tackle by Fletcher Cox),2.720,2.310
+4,12:54,2,9,PHI 42,10,3,Tony Romo pass complete short left to Dez Bryant for 10 yards (tackle by Cary Williams),2.310,3.450
+4,12:09,1,10,PHI 32,10,3,Joseph Randle left end for 2 yards (tackle by Brandon Graham),3.450,3.170
+4,11:20,2,8,PHI 30,10,3,Tony Romo pass complete short right to Jason Witten for 8 yards (tackle by Nate Allen),3.170,4.110
+4,10:48,1,10,PHI 22,10,3,Tony Romo pass incomplete short right intended for Joseph Randle,4.110,3.560
+4,10:44,2,10,PHI 22,10,3,Tony Romo pass complete short right to Cole Beasley for 8 yards (tackle by Brandon Boykin),3.560,4.150
+4,10:05,3,2,PHI 14,10,3,Tony Romo pass complete short right to Cole Beasley for 5 yards (tackle by Brandon Boykin),4.150,5.140
+4,9:28,1,9,PHI 9,16,3,"Tony Romo pass complete short right to Terrance Williams for 9 yards, touchdown",5.140,7.000
+4,9:28,,,PHI 2,17,3,Dan Bailey kicks extra point good,0.000,0.000
+4,9:28,,,DAL 35,17,3,"Dan Bailey kicks off 65 yards, touchback",0.000,-0.280
+4,9:25,1,10,PHI 20,17,3,Matt Barkley pass complete short right to Jason Avant for 6 yards,0.280,0.540
+4,9:10,2,4,PHI 26,17,3,"Matt Barkley pass incomplete is intercepted by Bruce Carter at PHI-35 and returned for 28 yards. Penalty on Jason Vega: Defensive Offside, 5 yards (no play)",0.540,1.000
+4,9:00,1,10,PHI 31,17,3,Matt Barkley pass complete deep left to Riley Cooper for 17 yards (tackle by Morris Claiborne),1.000,2.130
+4,8:22,1,10,PHI 48,17,3,"Matt Barkley pass incomplete short left intended for Riley Cooper. Penalty on Jason Vega: Defensive Offside, 5 yards (no play)",2.130,2.860
+4,8:18,1,5,DAL 47,17,3,Matt Barkley pass complete short left to DeSean Jackson for 6 yards (tackle by Jeff Heath),2.860,2.850
+4,7:50,1,10,DAL 41,17,3,LeSean McCoy right tackle for 4 yards (tackle by Ernie Sims),2.850,2.850
+4,7:20,2,6,DAL 37,17,3,Matt Barkley pass incomplete short left intended for Brent Celek,2.850,2.150
+4,7:14,3,6,DAL 37,17,3,Matt Barkley pass incomplete short middle intended for Jason Avant is intercepted by Sean Lee at DAL-29 and returned for 33 yards (tackle by Jason Peters),2.150,-3.050
+4,7:02,1,10,PHI 38,17,3,Joseph Randle left end for 3 yards (tackle by Mychal Kendricks),3.050,2.910
+4,6:16,2,7,PHI 35,17,3,Joseph Randle left end for 5 yards (tackle by DeMeco Ryans),2.910,2.870
+4,5:31,3,2,PHI 30,17,3,"Tony Romo for no gain. Tony Romo fumbles, recovered by Tony Romo at PHI-35",2.870,2.870
+4,5:24,3,2,PHI 30,17,3,Timeout #1 by Philadelphia Eagles,2.870,0.970
+4,5:24,4,7,PHI 35,17,3,Chris Jones punts 32 yards,0.970,0.380
+4,5:17,1,10,PHI 3,17,3,LeSean McCoy up the middle for 2 yards,-0.380,-0.630
+4,4:54,2,8,PHI 5,17,3,Matt Barkley pass incomplete short middle intended for Jason Avant (defended by Orlando Scandrick),-0.630,-1.190
+4,4:52,3,8,PHI 5,17,3,Matt Barkley pass complete short left to Brent Celek for 9 yards (tackle by Sean Lee),-1.190,-0.280
+4,4:45,1,10,PHI 14,17,3,Matt Barkley pass complete short left to Jason Avant for 15 yards (tackle by Sean Lee),-0.280,0.870
+4,4:23,1,10,PHI 29,17,3,Matt Barkley pass incomplete short right intended for Zach Ertz,0.870,0.330
+4,4:19,2,10,PHI 29,17,3,Matt Barkley pass incomplete deep right intended for DeSean Jackson,0.330,-0.360
+4,4:13,3,10,PHI 29,17,3,Matt Barkley pass incomplete deep left intended for Jeff Maehl is intercepted by Barry Church at DAL-37,-0.360,-1.400
+4,4:03,1,10,DAL 37,17,3,Joseph Randle right tackle for 4 yards (tackle by DeMeco Ryans),1.400,1.400
+4,3:18,2,6,DAL 41,17,3,Joseph Randle left end for 1 yard (tackle by Trent Cole and Clifton Geathers),1.400,1.400
+4,3:14,2,6,DAL 41,17,3,Timeout #2 by Philadelphia Eagles,1.400,0.830
+4,3:14,3,5,DAL 42,17,3,Tony Romo pass complete short right to Terrance Williams for 1 yard (tackle by Nate Allen),0.830,0.830
+4,3:08,3,5,DAL 42,17,3,Timeout #3 by Philadelphia Eagles,0.830,-0.520
+4,3:08,4,4,DAL 43,17,3,"Chris Jones punts 50 yards, returned by Damaris Johnson for 5 yards (tackle by Kyle Bosworth)",-0.520,0.350
+4,2:56,1,10,PHI 12,17,3,Matt Barkley pass incomplete short left intended for LeSean McCoy,-0.350,-0.780
+4,2:52,2,10,PHI 12,17,3,Matt Barkley pass complete deep left to Riley Cooper for 26 yards (tackle by Morris Claiborne and J.J. Wilcox),-0.780,1.470
+4,2:30,1,10,PHI 38,17,3,Matt Barkley pass complete short right to Zach Ertz for 5 yards,1.470,1.600
+4,2:22,2,5,PHI 43,17,3,Matt Barkley pass complete short left to LeSean McCoy for no gain,1.600,0.890
+4,2:00,3,5,PHI 43,17,3,Matt Barkley pass complete deep left to Zach Ertz for 21 yards (tackle by J.J. Wilcox). Penalty on Orlando Scandrick: Defensive Holding (Declined),0.890,3.180
+4,1:51,1,10,DAL 36,17,3,Matt Barkley pass incomplete deep right intended for DeSean Jackson (defended by Brandon Carr),3.180,2.640
+4,1:47,2,10,DAL 36,17,3,Matt Barkley pass complete short middle to Jason Avant for 11 yards (tackle by Sean Lee),2.640,3.910
+4,1:28,1,10,DAL 25,17,3,Matt Barkley pass complete short left to Riley Cooper for 13 yards (tackle by Morris Claiborne),3.910,4.780
+4,1:04,1,10,DAL 12,17,3,Matt Barkley pass incomplete deep right intended for Jason Avant is intercepted by Brandon Carr at DAL--5,4.780,-0.280
+4,0:58,1,10,DAL 20,17,3,Tony Romo kneels for -1 yards,0.280,-0.460
+4,0:19,2,11,DAL 19,17,3,Tony Romo kneels for -1 yards,-0.460,-1.330
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

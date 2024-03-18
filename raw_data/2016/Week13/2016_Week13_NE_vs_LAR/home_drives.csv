@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,NWE 20,8,4:22,80,Touchdown
+2,1,9:38,NWE 35,3,2:18,-2,Punt
+3,1,5:39,NWE 19,6,3:18,24,Punt
+4,2,15:00,LAR 30,4,1:56,30,Touchdown
+5,2,10:58,NWE 22,9,4:38,35,Punt
+6,2,5:30,NWE 42,13,5:19,48,Field Goal
+7,3,14:03,NWE 16,3,1:18,0,Punt
+8,3,7:50,NWE 21,6,2:42,49,Field Goal
+9,3,5:02,LAR 40,6,1:56,13,Field Goal
+10,3,0:14,NWE 16,10,4:26,58,Field Goal
+11,4,9:10,NWE 5,4,2:06,17,Punt
+12,4,5:52,NWE 8,5,2:23,17,Punt
+13,4,1:15,NWE 25,2,1:15,-2,End of Game

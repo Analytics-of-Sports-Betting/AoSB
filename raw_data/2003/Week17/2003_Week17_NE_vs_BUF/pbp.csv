@@ -1,0 +1,184 @@
+Quarter,Time,Down,ToGo,Location,BUF,NWE,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Patriots won the coin toss, Patriots to receive the opening kickoff.",,
+1,15:00,,,BUF 30,0,0,"Rian Lindell kicks off 55 yards, returned by Bethel Johnson for 23 yards (tackle by Kevin Thomas)",0.000,1.470
+1,14:55,1,10,NWE 38,0,0,Tom Brady pass complete to David Givens for 9 yards (tackle by Terrence McGee),1.470,2.140
+1,14:25,2,1,NWE 47,0,0,Tom Brady pass complete to Christian Fauria for 4 yards (tackle by London Fletcher),2.140,2.320
+1,13:58,1,10,BUF 49,0,0,Tom Brady pass complete to Deion Branch for 7 yards (tackle by Nate Clements),2.320,2.730
+1,13:26,2,3,BUF 42,0,0,Tom Brady up the middle for 11 yards (tackle by Antoine Winfield and Lawyer Milloy),2.730,3.510
+1,12:48,1,10,BUF 31,0,0,Tom Brady pass complete to Troy Brown for 5 yards (tackle by Antoine Winfield),3.510,3.640
+1,12:18,2,5,BUF 26,0,0,Tom Brady pass complete to Troy Brown for 9 yards (tackle by Terrence McGee),3.640,4.440
+1,11:55,1,10,BUF 17,0,0,Tom Brady pass incomplete intended for Troy Brown,4.440,3.850
+1,11:50,2,10,BUF 17,0,0,"Penalty on Dan Koppen: False Start, 5 yards (no play)",3.850,3.220
+1,11:50,2,15,BUF 22,0,0,"Tom Brady pass incomplete intended for Christian Fauria. Penalty on London Fletcher: Defensive Holding, 5 yards (no play)",3.220,4.440
+1,11:45,1,10,BUF 17,0,0,Tom Brady up the middle for 11 yards (tackle by Coy Wire and Terrence McGee),4.440,5.830
+1,10:58,1,6,BUF 6,0,0,"Tom Brady pass incomplete intended for David Givens. Penalty on Lawyer Milloy: Defensive Pass Interference, 5 yards (no play)",5.830,6.970
+1,10:54,1,1,BUF 1,0,6,"Tom Brady pass complete to Daniel Graham for 1 yard, touchdown",6.970,7.000
+1,,,,BUF 2,0,7,Adam Vinatieri kicks extra point good,0.000,0.000
+1,,,,NWE 30,0,7,"Adam Vinatieri kicks off 67 yards, returned by Antonio Brown for 19 yards (tackle by Chris Akins)",0.000,0.410
+1,10:45,1,10,BUF 22,0,7,Travis Henry right tackle for 4 yards (tackle by Bobby Hamilton),0.410,0.410
+1,10:05,2,6,BUF 26,0,7,Travis Henry left tackle for 7 yards (tackle by Tyrone Poole),0.410,1.140
+1,9:25,1,10,BUF 33,0,7,Drew Bledsoe pass incomplete intended for Mark Campbell is intercepted by Mike Vrabel at BUF-48 and returned for 14 yards (tackle by Marques Sullivan),1.140,-3.310
+1,9:17,1,10,BUF 34,0,7,Tom Brady pass complete to Troy Brown for 6 yards (tackle by Antoine Winfield),3.310,3.580
+1,8:58,2,4,BUF 28,0,7,Tom Brady pass complete to Deion Branch for 3 yards (tackle by Nate Clements),3.580,3.270
+1,8:26,3,1,BUF 25,0,7,Tom Brady up the middle for 3 yards (tackle by Takeo Spikes),3.270,4.110
+1,7:54,1,10,BUF 22,0,7,Tom Brady pass complete to David Givens for 3 yards (tackle by Jeff Posey),4.110,3.970
+1,7:15,2,7,BUF 19,0,7,Tom Brady pass complete to David Givens for 6 yards (tackle by Terrence McGee),3.970,4.390
+1,6:41,3,1,BUF 13,0,7,Larry Centers up the middle for 3 yards (tackle by Takeo Spikes and Aaron Schobel),4.390,4.910
+1,6:05,1,10,BUF 10,0,7,Antowain Smith left end for 1 yard (tackle by Lawyer Milloy and London Fletcher),4.910,4.380
+1,5:28,2,9,BUF 9,0,13,"Tom Brady pass complete to Bethel Johnson for 9 yards, touchdown",4.380,7.000
+1,,,,BUF 2,0,14,Adam Vinatieri kicks extra point good,0.000,0.000
+1,,,,NWE 30,0,14,"Adam Vinatieri kicks off 60 yards, returned by Sammy Morris for 16 yards (tackle by Chris Akins)",0.000,0.670
+1,5:19,1,10,BUF 26,0,14,Drew Bledsoe pass incomplete intended for Dave Moore,0.670,0.130
+1,5:15,2,10,BUF 26,0,14,Travis Henry up the middle for 5 yards (tackle by Mike Vrabel and Richard Seymour),0.130,0.100
+1,4:36,,,,0,14,Timeout #1 by New England Patriots,0.000,0.100
+1,4:36,3,5,BUF 31,0,14,Drew Bledsoe pass incomplete intended for Dave Moore (defended by Roman Phifer),0.100,-1.310
+1,4:31,4,5,BUF 31,0,14,"Brian Moorman punts 49 yards, returned by Troy Brown for 12 yards (tackle by Dominique Stevenson)",-1.310,-1.070
+1,4:20,1,10,NWE 32,0,14,Tom Brady pass complete to Deion Branch for 2 yards (tackle by Nate Clements),1.070,0.800
+1,3:46,2,8,NWE 34,0,14,"Tom Brady sacked by Jeff Posey for -5 yards. Tom Brady fumbles (forced by Jeff Posey), recovered by Takeo Spikes at NWE-29",0.800,-3.640
+1,3:38,1,10,NWE 29,0,14,Travis Henry left guard for 3 yards (tackle by Mike Vrabel),3.640,3.510
+1,3:02,2,7,NWE 26,0,14,Drew Bledsoe pass incomplete intended for Eric Moulds,3.510,2.810
+1,2:59,3,7,NWE 26,0,14,Drew Bledsoe pass incomplete intended for Josh Reed (defended by Ty Law),2.810,1.740
+1,2:55,4,7,NWE 26,0,14,"Penalty on Brian Moorman: Delay of Game, 5 yards (no play)",1.740,1.320
+1,2:55,4,12,NWE 31,0,14,Drew Bledsoe pass incomplete intended for Josh Reed,1.320,-1.070
+1,2:51,1,10,NWE 32,0,14,Tom Brady pass incomplete intended for Larry Centers (defended by Ryan Denney),1.070,0.530
+1,2:47,2,10,NWE 32,0,14,Antowain Smith left guard for 12 yards (tackle by Coy Wire),0.530,1.860
+1,2:14,1,10,NWE 44,0,14,Tom Brady pass complete to Deion Branch for 2 yards (tackle by Coy Wire),1.860,1.590
+1,1:44,2,8,NWE 46,0,14,Tom Brady pass incomplete intended for Deion Branch,1.590,0.890
+1,1:39,3,8,NWE 46,0,14,Tom Brady pass complete to David Givens for 10 yards,0.890,2.650
+1,1:10,1,10,BUF 44,0,14,Tom Brady pass complete to Deion Branch for 14 yards (tackle by Terrence McGee),2.650,3.580
+1,0:28,1,10,BUF 30,0,14,Antowain Smith up the middle for 8 yards (tackle by Terrence McGee and Jeff Posey),3.580,4.110
+Quarter,Time,Down,ToGo,Location,BUF,NWE,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,2,BUF 22,0,14,Antowain Smith up the middle for 3 yards (tackle by Lawyer Milloy and Pat Williams),4.110,4.310
+2,14:27,1,10,BUF 19,0,14,Tom Brady pass incomplete intended for Deion Branch,4.310,3.750
+2,14:24,2,10,BUF 19,0,14,Tom Brady pass incomplete intended for David Givens (defended by Coy Wire),3.750,3.030
+2,14:19,3,10,BUF 19,0,20,"Tom Brady pass complete to Troy Brown for 19 yards, touchdown",3.030,7.000
+2,,,,BUF 2,0,21,Adam Vinatieri kicks extra point good,0.000,0.000
+2,,,,NWE 30,0,21,"Adam Vinatieri kicks off 63 yards, returned by Sammy Morris for 16 yards (tackle by Chris Akins)",0.000,0.480
+2,14:09,1,10,BUF 23,0,21,Drew Bledsoe pass incomplete intended for Eric Moulds,0.480,-0.070
+2,14:05,2,10,BUF 23,0,21,Drew Bledsoe pass complete to Josh Reed for 5 yards (tackle by Tyrone Poole),-0.070,-0.100
+2,13:27,3,5,BUF 28,0,21,Drew Bledsoe pass incomplete intended for Dave Moore,-0.100,-1.500
+2,13:24,4,5,BUF 28,0,21,"Brian Moorman punts 52 yards, returned by Troy Brown for 15 yards (tackle by Dominique Stevenson)",-1.500,-1.270
+2,13:14,1,10,NWE 35,0,21,Antowain Smith left tackle for 2 yards (tackle by Takeo Spikes and Jeff Posey),1.270,0.990
+2,12:42,2,8,NWE 37,0,21,Tom Brady sacked by Ryan Denney for -9 yards,0.990,-0.890
+2,12:09,3,17,NWE 28,0,21,Tom Brady pass incomplete intended for David Givens,-0.890,-1.500
+2,12:02,4,17,NWE 28,0,21,"Ken Walter punts 47 yards, returned by Nate Clements for 30 yards (tackle by Don Davis)",-1.500,-2.590
+2,11:47,1,10,NWE 45,0,21,Drew Bledsoe pass complete to Eric Moulds for 16 yards (tackle by Eugene Wilson). Penalty on Mike Vrabel: Defensive Offside (Declined),2.590,3.640
+2,11:30,1,10,NWE 29,0,21,Drew Bledsoe pass complete to Travis Henry for 1 yard (tackle by Mike Vrabel),3.640,3.240
+2,10:51,2,9,NWE 28,0,21,Travis Henry right guard for 1 yard (tackle by Tedy Bruschi and Roman Phifer),3.240,2.680
+2,10:07,3,8,NWE 27,0,21,Drew Bledsoe pass complete to Eric Moulds for 9 yards (tackle by Ty Law),2.680,4.370
+2,9:34,1,10,NWE 18,0,21,Drew Bledsoe pass complete to Sam Gash for 3 yards (tackle by Roman Phifer),4.370,4.250
+2,8:58,2,7,NWE 15,0,21,Drew Bledsoe pass incomplete intended for Mark Campbell (defended by Bobby Hamilton),4.250,3.460
+2,8:55,3,7,NWE 15,0,21,Drew Bledsoe sacked by Rodney Harrison for -7 yards,3.460,1.990
+2,8:51,4,14,NWE 22,0,21,Rian Lindell 40 yard field goal no good,1.990,-0.940
+2,8:47,1,10,NWE 30,0,21,Antowain Smith left tackle for 5 yards (tackle by Pat Williams),0.940,1.070
+2,8:15,2,5,NWE 35,0,21,Antowain Smith right tackle for 3 yards (tackle by Chris Kelsay and Pat Williams),1.070,0.760
+2,7:41,3,2,NWE 38,0,21,Antowain Smith right tackle for 2 yards (tackle by London Fletcher),0.760,1.600
+2,6:59,1,10,NWE 40,0,21,Tom Brady pass complete to David Givens for 27 yards (tackle by Lawyer Milloy),1.600,3.380
+2,6:16,1,10,BUF 33,0,21,Antowain Smith left end for 3 yards (tackle by Aaron Schobel and Takeo Spikes),3.380,3.240
+2,5:35,2,7,BUF 30,0,21,"Kevin Faulk up the middle for 6 yards (tackle by Jeff Posey and Chris Kelsay). Penalty on Aaron Schobel: Defensive Offside, 5 yards (no play)",3.240,3.920
+2,5:14,2,2,BUF 25,0,21,"Kevin Faulk up the middle for 3 yards (tackle by Chris Kelsay and London Fletcher). Penalty on Takeo Spikes: Face Mask (15 Yards), 11 yards",3.920,4.840
+2,4:51,1,10,BUF 11,0,21,Kevin Faulk up the middle for 1 yard (tackle by Pat Williams and Chris Kelsay),4.840,4.320
+2,4:05,2,9,BUF 10,0,21,Tom Brady pass incomplete intended for Deion Branch,4.320,3.300
+2,4:01,,,,0,21,Timeout #1 by Buffalo Bills,0.000,3.300
+2,4:01,3,9,BUF 10,0,27,"Tom Brady pass complete to David Givens for 10 yards, touchdown",3.300,7.000
+2,,,,BUF 2,0,28,Adam Vinatieri kicks extra point good,0.000,0.000
+2,,,,NWE 30,0,28,"Adam Vinatieri kicks off 69 yards, returned by Antonio Brown for 19 yards (tackle by Bethel Johnson)",0.000,0.280
+2,3:48,1,10,BUF 20,0,28,Travis Henry left guard for 9 yards (tackle by Rodney Harrison and Tedy Bruschi),0.280,0.950
+2,3:13,2,1,BUF 29,0,28,Drew Bledsoe pass incomplete intended for Eric Moulds (defended by Tedy Bruschi),0.950,0.230
+2,3:09,3,1,BUF 29,0,28,Drew Bledsoe up the middle for 3 yards (tackle by Tedy Bruschi and Willie McGinest),0.230,1.070
+2,2:48,1,10,BUF 32,0,28,Drew Bledsoe pass complete to Eric Moulds for 8 yards (tackle by Ty Law),1.070,1.610
+2,2:24,2,2,BUF 40,0,28,Drew Bledsoe pass incomplete intended for Clarence Coleman,1.610,0.890
+2,2:21,3,2,BUF 40,0,28,Sammy Morris right guard for 7 yards (tackle by Rodney Harrison),0.890,2.060
+2,2:00,1,10,BUF 47,0,28,Drew Bledsoe pass complete to Eric Moulds for 5 yards (tackle by Tyrone Poole),2.060,2.190
+2,1:39,2,5,NWE 48,0,28,Sammy Morris right end for 3 yards (tackle by Mike Vrabel and Tedy Bruschi),2.190,1.880
+2,1:09,3,2,NWE 45,0,28,"Penalty on Marques Sullivan: False Start, 5 yards (no play)",1.880,1.220
+2,1:08,3,7,NWE 50,0,28,Drew Bledsoe pass incomplete intended for Josh Reed. Penalty on Ross Tucker: Illegal Use of Hands (Declined),1.220,-0.060
+2,1:04,4,7,NWE 50,0,28,"Brian Moorman punts 40 yards, returned by Troy Brown for 10 yards (tackle by Josh Stamer)",-0.060,-0.280
+2,0:54,1,10,NWE 20,0,28,Tom Brady kneels for -1 yards,0.280,-0.460
+2,0:18,2,11,NWE 19,0,28,Tom Brady kneels for -1 yards,-0.460,-1.330
+Quarter,Time,Down,ToGo,Location,BUF,NWE,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,NWE 30,0,28,"Adam Vinatieri kicks off 63 yards, returned by Antonio Brown for 75 yards (tackle by Bethel Johnson)",0.000,4.370
+3,14:48,1,10,NWE 18,0,28,Travis Henry right guard for 1 yard (tackle by Willie McGinest and Tedy Bruschi),4.370,3.940
+3,14:15,2,9,NWE 17,0,28,Drew Bledsoe pass incomplete intended for Josh Reed. Penalty on Eric Moulds: Offensive Offside (Declined),3.940,3.170
+3,14:11,3,9,NWE 17,0,28,"Penalty on Ross Tucker: False Start, 5 yards (no play)",3.170,2.610
+3,14:11,3,14,NWE 22,0,28,Drew Bledsoe sacked by Tully Banta-Cain for -7 yards,2.610,1.500
+3,13:43,4,21,NWE 29,0,28,Drew Bledsoe pass incomplete intended for Josh Reed,1.500,-0.940
+3,13:40,1,10,NWE 30,0,28,Tom Brady pass complete to Deion Branch for 30 yards (tackle by Antoine Winfield),0.940,2.920
+3,12:58,1,10,BUF 40,0,28,Antowain Smith right tackle for 9 yards (tackle by Takeo Spikes),2.920,3.590
+3,12:22,2,1,BUF 31,0,28,Antowain Smith up the middle for 6 yards (tackle by Justin Bannan and Lawyer Milloy),3.590,3.910
+3,11:43,1,10,BUF 25,0,28,Antowain Smith right tackle for 9 yards (tackle by Coy Wire and Lawyer Milloy),3.910,4.750
+3,11:05,2,1,BUF 16,0,28,"Patrick Pass left tackle for 1 yard (tackle by Takeo Spikes and Aaron Schobel). Penalty on Russ Hochstein: Offensive Holding, 9 yards (no play)",4.750,3.360
+3,10:41,2,10,BUF 25,0,28,Tom Brady pass complete to David Givens for 15 yards (tackle by Nate Clements),3.360,4.910
+3,10:10,1,10,BUF 10,0,28,Kevin Faulk up the middle for 3 yards (tackle by Pat Williams and Jeff Posey),4.910,4.760
+3,9:30,2,7,BUF 7,0,28,Tom Brady pass incomplete intended for David Givens,4.760,3.810
+3,9:26,3,7,BUF 7,0,28,Tom Brady pass incomplete intended for Troy Brown,3.810,2.970
+3,9:21,4,7,BUF 7,0,28,Adam Vinatieri 24 yard field goal no good,2.970,-0.280
+3,9:18,1,10,BUF 20,0,28,Drew Bledsoe pass complete to Sam Gash for 3 yards (tackle by Matt Chatham),0.280,0.140
+3,8:43,2,7,BUF 23,0,28,Travis Henry right tackle for 12 yards (tackle by Rodney Harrison and Tedy Bruschi),0.140,1.270
+3,8:09,1,10,BUF 35,0,28,Travis Henry right guard for 1 yard (tackle by Bobby Hamilton and Ted Washington),1.270,0.860
+3,7:28,2,9,BUF 36,0,28,Drew Bledsoe pass incomplete intended for Eric Moulds,0.860,0.170
+3,7:24,3,9,BUF 36,0,28,Drew Bledsoe pass complete to Josh Reed for 17 yards,0.170,2.460
+3,6:53,1,10,NWE 47,0,28,Drew Bledsoe pass incomplete intended for Clarence Coleman,2.460,1.910
+3,6:50,2,10,NWE 47,0,28,Drew Bledsoe pass complete to Eric Moulds for 9 yards (tackle by Rodney Harrison),1.910,2.410
+3,6:09,3,1,NWE 38,0,28,Travis Henry up the middle for 8 yards (tackle by Rodney Harrison and Roman Phifer),2.410,3.580
+3,5:19,1,10,NWE 30,0,28,"Drew Bledsoe pass incomplete intended for Clarence Coleman (defended by Tyrone Poole). Penalty on Ross Tucker: Offensive Holding, 10 yards (no play)",3.580,2.920
+3,5:14,1,20,NWE 40,0,28,Travis Henry left end for -1 yards (tackle by Tedy Bruschi),2.920,1.550
+3,4:28,2,21,NWE 41,0,28,Drew Bledsoe pass incomplete intended for Eric Moulds,1.550,0.890
+3,4:24,3,21,NWE 41,0,28,Drew Bledsoe pass complete to Eric Moulds for 3 yards,0.890,0.720
+3,3:52,4,18,NWE 38,0,28,"Penalty on Marques Sullivan: False Start, 5 yards (no play)",0.720,0.400
+3,3:52,4,23,NWE 43,0,28,"Brian Moorman punts 27 yards, fair catch by Troy Brown",0.400,0.140
+3,3:46,1,10,NWE 16,0,28,Antowain Smith right end for 6 yards,-0.140,0.280
+3,3:26,2,4,NWE 22,0,28,Antowain Smith left guard for 3 yards (tackle by Aaron Schobel and Takeo Spikes),0.280,-0.200
+3,2:53,3,1,NWE 25,0,28,Larry Centers up the middle for 2 yards (tackle by Jeff Posey and Sam Adams),-0.200,0.740
+3,2:17,1,10,NWE 27,0,28,Kevin Faulk right end for 3 yards (tackle by Chris Kelsay and Lawyer Milloy),0.740,0.600
+3,1:32,2,7,NWE 30,0,28,Tom Brady pass incomplete intended for Bethel Johnson,0.600,-0.100
+3,1:27,3,7,NWE 30,0,28,Tom Brady pass incomplete intended for Bethel Johnson,-0.100,-1.370
+3,1:21,4,7,NWE 30,0,28,"Ken Walter punts 37 yards, returned by Nate Clements for no gain",-1.370,-1.140
+3,1:14,1,10,BUF 33,0,28,Travis Henry left tackle for -3 yards (tackle by Rodney Harrison and Tedy Bruschi),1.140,0.190
+3,0:28,2,13,BUF 30,0,28,Drew Bledsoe pass complete to Josh Reed for 4 yards (tackle by Tyrone Poole),0.190,0.040
+Quarter,Time,Down,ToGo,Location,BUF,NWE,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,9,BUF 34,0,28,"Drew Bledsoe sacked by Tedy Bruschi for -7 yards. Drew Bledsoe fumbles (forced by Tedy Bruschi), recovered by Tedy Bruschi at BUF-27 and returned for 13 yards (tackle by Sammy Morris)",0.040,-4.650
+4,14:53,1,10,BUF 14,0,28,Antowain Smith up the middle for 2 yards (tackle by Keith McKenzie),4.650,4.330
+4,14:19,2,8,BUF 12,0,28,Larry Centers up the middle for 3 yards (tackle by Justin Bannan and Keith McKenzie),4.330,4.050
+4,13:36,3,5,BUF 9,0,28,Kevin Faulk left guard for 3 yards (tackle by Aaron Schobel and Takeo Spikes),4.050,3.010
+4,12:54,4,2,BUF 6,0,31,Adam Vinatieri 24 yard field goal good,3.010,3.000
+4,,,,NWE 30,0,31,"Adam Vinatieri kicks off 56 yards, returned by Antonio Brown for 16 yards (tackle by Matt Chatham)",0.000,0.940
+4,12:45,1,10,BUF 30,0,31,Travis Brown pass complete to Josh Reed for 9 yards (tackle by Rodney Harrison),0.940,1.610
+4,12:01,2,1,BUF 39,0,31,Travis Henry up the middle for 3 yards (tackle by Ty Warren and Dan Klecko),1.610,1.730
+4,11:23,1,10,BUF 42,0,31,"Travis Brown pass incomplete intended for Sammy Morris. Penalty on Dan Klecko: Defensive Offside, 5 yards (no play)",1.730,2.460
+4,11:18,1,5,BUF 47,0,31,Travis Brown pass complete to Mark Campbell for 26 yards (tackle by Rodney Harrison),2.460,3.780
+4,10:41,1,10,NWE 27,0,31,Travis Brown pass complete to Eric Moulds for 5 yards (tackle by Eugene Wilson),3.780,3.910
+4,10:04,2,5,NWE 22,0,31,"Travis Henry left end for 9 yards (tackle by Tyrone Poole and Eugene Wilson). Travis Henry fumbles (forced by Tyrone Poole), recovered by Matt Chatham at NWE-10 (tackle by Marcus Price)",3.910,0.380
+,,,,,,,"BUF challenged the ruling, and the play was upheld.",,
+4,9:56,1,10,NWE 10,0,31,"Kevin Faulk right tackle for 6 yards (tackle by Lawyer Milloy and Ryan Denney). Penalty on Lawyer Milloy: Face Mask (15 Yards), 15 yards",-0.380,1.000
+4,9:33,1,10,NWE 31,0,31,Kevin Faulk right end for 3 yards (tackle by Ryan Denney and Takeo Spikes),1.000,0.870
+4,8:49,2,7,NWE 34,0,31,Larry Centers up the middle for 1 yard (tackle by Pat Williams),0.870,0.300
+4,8:07,3,6,NWE 35,0,31,Tom Brady pass complete to Troy Brown for 13 yards (tackle by Coy Wire),0.300,2.130
+4,7:21,1,10,NWE 48,0,31,Kevin Faulk up the middle for -1 yards (tackle by Pat Williams and Aaron Schobel),2.130,1.450
+4,6:39,2,11,NWE 47,0,31,Kevin Faulk right tackle for 5 yards (tackle by Ryan Denney and Pat Williams),1.450,1.420
+4,5:53,3,6,BUF 48,0,31,Damon Huard pass incomplete intended for Deion Branch,1.420,0.070
+4,5:47,4,6,BUF 48,0,31,"Ken Walter punts 46 yards, returned by Pierson Prioleau for no gain",0.070,0.380
+4,5:34,1,10,BUF 2,0,31,Travis Henry left guard for 3 yards (tackle by Roman Phifer and Tedy Bruschi),-0.380,-0.560
+4,5:03,2,7,BUF 5,0,31,Travis Brown pass complete to Travis Henry for no gain,-0.560,-1.070
+4,4:19,3,7,BUF 5,0,31,Travis Brown pass complete to Clarence Coleman for 8 yards (tackle by Larry Izzo),-1.070,-0.320
+4,3:54,1,10,BUF 13,0,31,Travis Brown pass complete to Josh Reed for 5 yards (tackle by Larry Izzo),-0.320,-0.140
+4,3:29,2,5,BUF 18,0,31,Travis Brown pass incomplete intended for Clarence Coleman,-0.140,-0.830
+4,3:25,3,5,BUF 18,0,31,Sammy Morris right guard for 7 yards (tackle by Ted Johnson and Matt Chatham),-0.830,0.610
+4,2:55,1,10,BUF 25,0,31,Travis Brown pass complete to Clarence Coleman for 3 yards (tackle by Je'Rod Cherry),0.610,0.470
+4,2:48,2,7,BUF 28,0,31,Travis Brown pass incomplete intended for Josh Reed,0.470,-0.230
+4,2:42,3,7,BUF 28,0,31,Travis Brown pass complete to Sammy Morris for 8 yards (tackle by Larry Izzo),-0.230,1.330
+4,2:12,1,10,BUF 36,0,31,"Travis Brown pass incomplete intended for Josh Reed. Penalty on Ty Warren: Roughing the Passer, 15 yards (no play)",1.330,2.320
+4,2:09,1,10,NWE 49,0,31,Travis Brown pass complete to Clarence Coleman for 9 yards (tackle by Je'Rod Cherry),2.320,3.000
+4,2:00,2,1,NWE 40,0,31,Travis Brown sacked by Je'Rod Cherry for -7 yards,3.000,1.360
+4,1:25,3,8,NWE 47,0,31,Sammy Morris left guard for no gain (tackle by Je'Rod Cherry and Ty Warren),1.360,0.130
+4,0:54,4,8,NWE 47,0,31,Travis Brown pass complete to Mark Campbell for 18 yards (tackle by Shawn Mayer),0.130,3.640
+4,0:28,1,10,NWE 29,0,31,Travis Brown pass complete to Dave Moore for 28 yards (tackle by Shawn Mayer),3.640,6.970
+4,0:17,,,,0,31,Timeout #2 by Buffalo Bills,0.000,0.000
+4,0:17,,,,0,31,Timeout #1 by New England Patriots,0.000,6.970
+4,0:17,1,1,NWE 1,0,31,Travis Brown pass incomplete intended for Dave Moore is intercepted by Larry Izzo at NWE-0,6.970,-0.280
+4,0:13,1,10,NWE 20,0,31,Damon Huard kneels for -1 yards,0.280,-0.460
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

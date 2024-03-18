@@ -1,0 +1,190 @@
+Quarter,Time,Down,ToGo,Location,PIT,DEN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Broncos won the coin toss and deferred, Steelers to receive the opening kickoff.",,
+1,15:00,,,DEN 35,0,0,"Brandon McManus kicks off 65 yards, touchback",0.000,-0.280
+1,15:00,1,10,PIT 20,0,0,Ben Roethlisberger pass incomplete deep left intended for Markus Wheaton,0.280,-0.270
+1,14:55,2,10,PIT 20,0,0,Jordan Todman right end for 2 yards (tackle by Derek Wolfe and Danny Trevathan),-0.270,-0.690
+1,14:10,3,8,PIT 22,0,0,Ben Roethlisberger pass complete short left to Markus Wheaton for -2 yards (tackle by T.J. Ward),-0.690,-2.030
+1,13:37,4,10,PIT 20,0,0,"Jordan Berry punts 52 yards, returned by Omar Bolden for 42 yards (tackle by Shamarko Thomas)",-2.030,-3.580
+1,13:18,1,10,PIT 30,0,0,Peyton Manning pass complete short right to Demaryius Thomas for 11 yards (tackle by Brandon Boykin),3.580,4.310
+1,12:52,1,10,PIT 19,0,0,Peyton Manning pass incomplete short right intended for Demaryius Thomas,4.310,3.750
+1,12:47,2,10,PIT 19,0,0,Ronnie Hillman right tackle for 5 yards (tackle by Brandon Boykin),3.750,3.760
+1,11:58,3,5,PIT 14,0,0,Peyton Manning pass complete short left to C.J. Anderson for 4 yards (tackle by Ryan Shazier),3.760,2.910
+1,11:25,4,1,PIT 10,0,3,Brandon McManus 28 yard field goal good,2.910,3.000
+1,11:25,,,DEN 35,0,3,"Brandon McManus kicks off 65 yards, touchback",0.000,-0.280
+1,11:21,1,10,PIT 20,0,3,Ben Roethlisberger pass complete short middle to Fitzgerald Toussaint for -1 yards (tackle by Derek Wolfe and DeMarcus Ware),0.280,-0.460
+1,10:39,2,11,PIT 19,0,3,Jordan Todman left end for 3 yards (tackle by Darian Stewart),-0.460,-0.690
+1,10:03,3,8,PIT 22,0,3,Ben Roethlisberger pass complete short right to Sammie Coates for 37 yards (tackle by Darian Stewart),-0.690,2.850
+1,9:27,1,10,DEN 41,0,3,Jordan Todman right guard for 1 yard (tackle by Danny Trevathan),2.850,2.440
+1,8:50,2,9,DEN 40,0,3,Ben Roethlisberger pass incomplete short middle intended for Martavis Bryant,2.440,1.750
+1,8:47,3,9,DEN 40,0,3,Ben Roethlisberger pass complete short right to Markus Wheaton for 8 yards (tackle by Brandon Marshall),1.750,1.750
+1,8:02,3,9,DEN 40,0,3,Timeout #1 by Pittsburgh Steelers,1.750,1.310
+1,8:02,4,1,DEN 32,0,3,Ben Roethlisberger pass incomplete deep left intended for Markus Wheaton (defended by Aqib Talib),1.310,-1.070
+1,7:56,1,10,DEN 32,0,3,Peyton Manning pass complete short middle to Owen Daniels for 4 yards (tackle by Will Allen),1.070,1.070
+1,7:23,2,6,DEN 36,0,3,Ronnie Hillman right guard for 4 yards (tackle by James Harrison),1.070,0.890
+1,6:39,3,2,DEN 40,0,3,Ronnie Hillman middle for no gain (tackle by James Harrison),0.890,-0.720
+1,6:13,4,2,DEN 40,0,3,Britton Colquitt punts 57 yards,-0.720,0.380
+1,6:04,1,10,PIT 3,0,3,Fitzgerald Toussaint middle for 5 yards (tackle by Derek Wolfe and Malik Jackson),-0.380,-0.420
+1,5:21,2,5,PIT 8,0,3,Ben Roethlisberger pass incomplete short right intended for Martavis Bryant,-0.420,-0.840
+1,5:17,3,5,PIT 8,0,3,"Penalty on Alejandro Villanueva: False Start, 4 yards (no play)",-0.840,-1.300
+1,5:17,3,9,PIT 4,0,3,Ben Roethlisberger pass incomplete deep middle intended for Sammie Coates (defended by Josh Bush),-1.300,-2.490
+1,5:12,4,9,PIT 4,0,3,"Jordan Berry punts 27 yards, out of bounds",-2.490,-3.510
+1,5:06,1,10,PIT 31,0,3,Ronnie Hillman left tackle for 9 yards (tackle by Will Allen),3.510,4.180
+1,4:21,2,1,PIT 22,0,3,Ronnie Hillman right tackle for -1 yards (tackle by Stephon Tuitt),4.180,3.340
+1,3:48,3,2,PIT 23,0,3,Peyton Manning pass incomplete short left intended for Jordan Norwood (defended by Brandon Boykin),3.340,2.050
+1,3:45,4,2,PIT 23,0,6,Brandon McManus 41 yard field goal good,2.050,3.000
+1,3:45,,,DEN 35,0,6,"Brandon McManus kicks off 65 yards, touchback",0.000,-0.280
+1,3:40,1,10,PIT 20,0,6,Fitzgerald Toussaint right guard for 1 yard (tackle by Vance Walker and Shaquil Barrett),0.280,-0.130
+1,3:17,2,9,PIT 21,0,6,Ben Roethlisberger pass complete deep right to Martavis Bryant for 23 yards (tackle by Danny Trevathan),-0.130,1.860
+1,2:37,1,10,PIT 44,0,6,Martavis Bryant left end for 40 yards (tackle by Malik Jackson),1.860,4.510
+1,2:02,1,10,DEN 16,0,6,Fitzgerald Toussaint left tackle for 15 yards (tackle by Bradley Roby),4.510,6.970
+1,1:26,1,1,DEN 1,6,6,"Fitzgerald Toussaint right guard for 1 yard, touchdown",6.970,7.000
+1,1:26,,,DEN 1,7,6,Chris Boswell kicks extra point good,0.000,0.000
+1,1:26,,,PIT 35,7,6,"Chris Boswell kicks off 65 yards, touchback",0.000,-0.280
+1,1:22,1,10,DEN 20,7,6,Peyton Manning pass incomplete short middle intended for Andre Caldwell (defended by Will Allen),0.280,-0.270
+1,1:18,2,10,DEN 20,7,6,Peyton Manning pass complete short left to Virgil Green for 11 yards (tackle by Mike Mitchell and Lawrence Timmons),-0.270,1.000
+1,0:48,1,10,DEN 31,7,6,Peyton Manning pass complete short right to Demaryius Thomas for 15 yards (tackle by Ryan Shazier),1.000,1.990
+1,0:14,1,10,DEN 46,7,6,Peyton Manning pass complete short middle to Cody Latimer for 12 yards (tackle by Lawrence Timmons),1.990,2.790
+Quarter,Time,Down,ToGo,Location,PIT,DEN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,PIT 42,7,6,Peyton Manning pass incomplete deep middle intended for Demaryius Thomas,2.790,2.240
+2,14:55,2,10,PIT 42,7,6,C.J. Anderson right tackle for -1 yards (tackle by James Harrison),2.240,1.420
+2,14:24,3,11,PIT 43,7,6,Peyton Manning pass incomplete short middle intended for Emmanuel Sanders,1.420,0.400
+2,14:20,4,11,PIT 43,7,6,"Britton Colquitt punts 35 yards, returned by Markus Wheaton for 7 yards (tackle by Darian Stewart)",0.400,0.220
+2,14:12,1,10,PIT 15,7,6,Fitzgerald Toussaint right guard for 4 yards (tackle by Aqib Talib),-0.220,-0.110
+2,13:36,2,6,PIT 19,7,6,Fitzgerald Toussaint middle for 1 yard (tackle by Von Miller),-0.110,-0.760
+2,12:52,3,5,PIT 20,7,6,Ben Roethlisberger pass complete deep left to Darrius Heyward-Bey for 58 yards (tackle by Bradley Roby),-0.760,4.110
+2,12:01,1,10,DEN 22,7,6,Fitzgerald Toussaint right tackle for 4 yards (tackle by Antonio Smith),4.110,4.130
+2,11:15,2,6,DEN 18,7,6,Ben Roethlisberger sacked by Antonio Smith for -7 yards,4.130,2.480
+2,10:31,3,13,DEN 25,7,6,Ben Roethlisberger pass incomplete short middle intended for Heath Miller,2.480,1.800
+2,10:24,4,13,DEN 25,10,6,Chris Boswell 43 yard field goal good,1.800,3.000
+2,10:24,,,PIT 35,10,6,"Chris Boswell kicks off 65 yards, touchback",0.000,-0.280
+2,10:19,1,10,DEN 20,10,6,Ronnie Hillman right tackle for 5 yards (tackle by Jacoby Jones),0.280,0.410
+2,9:41,2,5,DEN 25,10,6,Ronnie Hillman right guard for 1 yard (tackle by Stephon Tuitt and Jacoby Jones),0.410,-0.160
+2,8:59,3,4,DEN 26,10,6,Peyton Manning pass incomplete short middle intended for C.J. Anderson,-0.160,-1.630
+2,8:55,4,4,DEN 26,10,6,"Britton Colquitt punts 48 yards, returned by Markus Wheaton for 12 yards (tackle by Aaron Brewer)",-1.630,-1.470
+2,8:44,1,10,PIT 38,10,6,Ben Roethlisberger pass complete short right to Matt Spaeth for 1 yard (tackle by Von Miller),1.470,1.060
+2,8:09,2,9,PIT 39,10,6,Fitzgerald Toussaint right tackle for 1 yard (tackle by Danny Trevathan),1.060,0.500
+2,7:29,3,8,PIT 40,10,6,Ben Roethlisberger sacked by Derek Wolfe for -8 yards,0.500,-1.240
+2,6:54,4,16,PIT 32,10,6,"Jordan Berry punts 27 yards, out of bounds",-1.240,-1.660
+2,6:48,1,10,DEN 41,10,6,Peyton Manning pass complete short middle to Emmanuel Sanders for 15 yards (tackle by William Gay),1.660,2.650
+2,6:11,1,10,PIT 44,10,6,Peyton Manning pass incomplete deep right intended for Bennie Fowler,2.650,2.110
+2,6:05,2,10,PIT 44,10,6,Peyton Manning pass incomplete short left intended for Bennie Fowler,2.110,2.110
+2,5:59,2,10,PIT 44,10,6,Timeout #1 by Denver Broncos,2.110,1.420
+2,5:59,3,10,PIT 44,10,6,Peyton Manning pass complete short left to C.J. Anderson for 7 yards (tackle by William Gay),1.420,0.790
+2,5:16,4,3,PIT 37,10,6,Peyton Manning pass incomplete short middle intended for Emmanuel Sanders (defended by Mike Mitchell),0.790,-1.400
+2,5:12,1,10,PIT 37,10,6,Ben Roethlisberger pass complete short right to Fitzgerald Toussaint for 1 yard (tackle by Brandon Marshall),1.400,0.990
+2,4:30,2,9,PIT 38,10,6,Ben Roethlisberger pass complete short right to Martavis Bryant for 7 yards (tackle by Aqib Talib),0.990,1.220
+2,3:46,3,2,PIT 45,10,6,Martavis Bryant left end for no gain (tackle by T.J. Ward),1.220,-0.390
+2,3:21,4,2,PIT 45,10,6,"Jordan Berry punts 50 yards, out of bounds",-0.390,0.380
+2,3:14,1,10,DEN 5,10,6,C.J. Anderson middle for 1 yard (tackle by Stephon Tuitt and Ryan Shazier),-0.380,-0.710
+2,2:33,2,9,DEN 6,10,6,C.J. Anderson left guard for 34 yards (tackle by Jacoby Jones),-0.710,1.600
+2,2:02,1,10,DEN 40,10,6,Ronnie Hillman left tackle for 1 yard (tackle by Ryan Shazier),1.600,1.190
+2,1:56,2,9,DEN 41,10,6,Peyton Manning pass complete short middle to Owen Daniels for 6 yards (tackle by Lawrence Timmons),1.190,1.290
+2,1:17,3,3,DEN 47,10,6,Peyton Manning pass complete short left to Demaryius Thomas for 10 yards (tackle by William Gay and Jacoby Jones),1.290,2.720
+2,0:53,1,10,PIT 43,10,6,Peyton Manning pass complete short right to Bennie Fowler for 4 yards (tackle by Brandon Boykin),2.720,2.720
+2,0:47,1,10,PIT 43,10,6,Timeout #2 by Denver Broncos,2.720,2.720
+2,0:47,2,6,PIT 39,10,6,C.J. Anderson middle for 7 yards (tackle by Jacoby Jones),2.720,3.450
+2,0:22,1,10,PIT 32,10,6,Peyton Manning pass incomplete deep left intended for Demaryius Thomas,3.450,2.900
+2,0:16,2,10,PIT 32,10,6,Peyton Manning pass incomplete short right intended for Jordan Norwood,2.900,2.210
+2,0:12,3,10,PIT 32,10,6,"Peyton Manning for no gain. Peyton Manning fumbles, recovered by Peyton Manning at PIT-33",2.210,2.210
+2,0:05,3,10,PIT 32,10,6,Timeout #3 by Denver Broncos,2.210,1.150
+2,0:05,4,11,PIT 33,10,9,Brandon McManus 51 yard field goal good,1.150,3.000
+Quarter,Time,Down,ToGo,Location,PIT,DEN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PIT 35,10,9,"Chris Boswell kicks off 65 yards, touchback",0.000,0.280
+3,15:00,1,10,DEN 20,10,9,C.J. Anderson right guard for 2 yards (tackle by James Harrison),0.280,0.000
+3,14:24,2,8,DEN 22,10,9,C.J. Anderson right tackle for 1 yard (tackle by Bud Dupree),0.000,-0.560
+3,13:42,3,7,DEN 23,10,9,"Peyton Manning pass incomplete short left intended for Demaryius Thomas. Penalty on William Gay: Defensive Pass Interference, 9 yards (no play)",-0.560,1.070
+3,13:37,1,10,DEN 32,10,9,Ronnie Hillman right guard for 1 yard (tackle by Lawrence Timmons),1.070,0.660
+3,13:15,2,9,DEN 33,10,9,Peyton Manning pass complete short right to Virgil Green for 3 yards (tackle by Will Allen),0.660,0.370
+3,12:27,3,6,DEN 36,10,9,Peyton Manning pass complete short left to Andre Caldwell for -1 yards (tackle by William Gay),0.370,-1.040
+3,12:00,4,7,DEN 35,10,9,"Britton Colquitt punts 45 yards, returned by Markus Wheaton for 1 yard (tackle by Kayvon Webster)",-1.040,-0.340
+3,11:51,1,10,PIT 21,10,9,Ben Roethlisberger pass incomplete short left intended for Martavis Bryant,0.340,-0.200
+3,11:48,2,10,PIT 21,10,9,Ben Roethlisberger pass complete short left to Martavis Bryant for 52 yards (tackle by T.J. Ward),-0.200,3.780
+3,10:59,1,10,DEN 27,10,9,Ben Roethlisberger pass incomplete short middle intended for Heath Miller (defended by Brandon Marshall),3.780,3.230
+3,10:55,2,10,DEN 27,10,9,Ben Roethlisberger pass complete short right to Martavis Bryant for 12 yards,3.230,4.580
+3,10:29,1,10,DEN 15,10,9,Ben Roethlisberger pass incomplete short left intended for Martavis Bryant (defended by Chris Harris),4.580,3.950
+3,10:26,2,10,DEN 15,10,9,Ben Roethlisberger pass complete short middle to Heath Miller for 5 yards (tackle by Danny Trevathan),3.950,4.000
+3,9:40,3,5,DEN 10,10,9,Ben Roethlisberger pass incomplete short right intended for Martavis Bryant (defended by Aqib Talib),4.000,2.810
+3,9:36,4,5,DEN 10,13,9,Chris Boswell 28 yard field goal good,2.810,3.000
+3,9:36,,,PIT 35,13,9,"Chris Boswell kicks off 65 yards, touchback",0.000,-0.280
+3,9:32,1,10,DEN 20,13,9,Peyton Manning pass complete deep right to Emmanuel Sanders for 19 yards (tackle by Antwon Blake),0.280,1.530
+3,8:54,1,10,DEN 39,13,9,Peyton Manning pass incomplete short left intended for Owen Daniels (defended by Jacoby Jones),1.530,0.990
+3,8:49,2,10,DEN 39,13,9,Ronnie Hillman right tackle for -1 yards (tackle by James Harrison),0.990,0.170
+3,8:12,3,11,DEN 38,13,9,Peyton Manning pass incomplete deep left intended for Demaryius Thomas,0.170,-0.850
+3,8:07,4,11,DEN 38,13,9,"Britton Colquitt punts 51 yards, muffed catch by Markus Wheaton, ball out of bounds at PIT-6",-0.850,0.380
+3,7:55,1,10,PIT 6,13,9,Fitzgerald Toussaint right tackle for -1 yards (tackle by Danny Trevathan),-0.380,-0.850
+3,7:14,2,11,PIT 5,13,9,Fitzgerald Toussaint middle for no gain (tackle by Vance Walker),-0.850,-1.540
+3,6:32,3,11,PIT 5,13,9,Jordan Todman middle for 5 yards (tackle by Brandon Marshall and Darian Stewart),-1.540,-2.490
+3,6:00,4,6,PIT 10,13,9,"Jordan Berry punts 43 yards, fair catch by Jordan Norwood",-2.490,-2.060
+3,5:53,1,10,DEN 47,13,9,Peyton Manning pass complete short left to Emmanuel Sanders for 10 yards (tackle by William Gay),2.060,2.720
+3,5:29,1,10,PIT 43,13,9,Peyton Manning pass complete short middle to Jordan Norwood for 10 yards (tackle by Ryan Shazier),2.720,3.380
+3,5:05,1,10,PIT 33,13,9,C.J. Anderson left guard for 11 yards (tackle by Will Allen and Mike Mitchell),3.380,4.110
+3,4:23,1,10,PIT 22,13,9,Peyton Manning sacked by James Harrison for -7 yards,4.110,2.620
+3,3:40,2,17,PIT 29,13,9,Peyton Manning pass complete short right to Cody Latimer for 6 yards (tackle by Brandon Boykin),2.620,2.620
+3,2:54,2,17,PIT 29,13,9,Timeout #1 by Denver Broncos,2.620,2.740
+3,2:54,3,11,PIT 23,13,9,Peyton Manning pass incomplete deep right intended for Jordan Norwood,2.740,1.930
+3,2:50,4,11,PIT 23,13,12,Brandon McManus 41 yard field goal good,1.930,3.000
+3,2:50,,,DEN 35,13,12,"Brandon McManus kicks off 65 yards, touchback",0.000,-0.280
+3,2:45,1,10,PIT 20,13,12,Ben Roethlisberger pass complete short middle to Sammie Coates for 24 yards (tackle by Chris Harris),0.280,1.860
+3,2:11,1,10,PIT 44,13,12,Ben Roethlisberger pass complete short middle to Markus Wheaton for 6 yards (tackle by Chris Harris),1.860,2.130
+3,1:30,2,4,,13,12,"Ben Roethlisberger pass incomplete deep left intended for Sammie Coates. Penalty on Bradley Roby: Defensive Pass Interference, 12 yards (no play)",2.130,3.050
+3,1:25,1,10,DEN 38,13,12,Ben Roethlisberger pass complete short middle to Markus Wheaton for 5 yards (tackle by Danny Trevathan),3.050,3.180
+3,0:54,2,5,DEN 33,13,12,Fitzgerald Toussaint left tackle for 9 yards (tackle by Danny Trevathan),3.180,3.970
+3,0:14,1,10,DEN 24,13,12,"Ben Roethlisberger sacked by Antonio Smith for -7 yards. Penalty on Marcus Gilbert: Face Mask (15 Yards), 15 yards (no play)",3.970,2.980
+Quarter,Time,Down,ToGo,Location,PIT,DEN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,25,DEN 39,13,12,Jordan Todman right tackle for -5 yards (tackle by DeMarcus Ware),2.980,0.730
+4,14:23,2,30,DEN 44,13,12,Ben Roethlisberger pass incomplete short middle intended for Markus Wheaton,0.730,0.100
+4,14:18,3,30,DEN 44,13,12,Ben Roethlisberger pass complete short middle to Martavis Bryant for 10 yards (tackle by Aqib Talib),0.100,1.060
+4,13:25,4,20,DEN 34,13,12,"Penalty on Jordan Berry: Delay of Game, 5 yards (no play)",1.060,0.660
+4,13:21,4,25,DEN 39,13,12,"Jordan Berry punts 39 yards, touchback",0.660,-0.280
+4,13:15,1,10,DEN 20,13,12,Peyton Manning pass complete short left to Emmanuel Sanders for 34 yards (tackle by William Gay),0.280,2.520
+4,12:53,1,10,PIT 46,13,12,Peyton Manning pass incomplete short right intended for Ronnie Hillman,2.520,2.520
+4,12:48,1,10,PIT 46,13,12,Timeout #2 by Denver Broncos,2.520,1.980
+4,12:48,2,10,PIT 46,13,12,Ronnie Hillman left tackle for -4 yards (tackle by Will Allen),1.980,0.760
+4,12:11,3,14,,13,12,Peyton Manning pass complete short middle to Demaryius Thomas for 4 yards (tackle by Stephon Tuitt),0.760,0.200
+4,11:41,4,10,PIT 46,13,12,"Britton Colquitt punts 39 yards, muffed catch by Markus Wheaton, recovered by Ross Cockrell and returned for no gain. Penalty on Kayvon Webster: Illegal Motion, 5 yards",0.200,-0.610
+4,11:33,1,10,PIT 25,13,12,Ben Roethlisberger pass complete short middle to Jesse James for 22 yards (tackle by Aqib Talib). Penalty on Brandon Marshall: Illegal Contact (Declined),0.610,2.060
+4,11:11,1,10,PIT 47,13,12,Ben Roethlisberger pass complete short middle to Markus Wheaton for 13 yards (tackle by Chris Harris),2.060,2.920
+4,10:32,1,10,DEN 40,13,12,Ben Roethlisberger pass complete short left to Darrius Heyward-Bey for 6 yards (tackle by Danny Trevathan),2.920,3.180
+4,10:00,2,4,DEN 34,13,12,"Fitzgerald Toussaint left tackle for -1 yards (tackle by Bradley Roby). Fitzgerald Toussaint fumbles (forced by Bradley Roby), recovered by DeMarcus Ware at DEN-35 (tackle by Cody Wallace)",3.180,-1.270
+4,9:52,1,10,DEN 35,13,12,C.J. Anderson left guard for 2 yards (tackle by Lawrence Timmons),1.270,0.990
+4,9:19,2,8,DEN 37,13,12,"C.J. Anderson right tackle for 6 yards (tackle by William Gay). Penalty on Michael Schofield: Offensive Holding, 10 yards",0.990,0.450
+4,8:44,2,12,DEN 33,13,12,Peyton Manning pass incomplete deep middle intended for Emmanuel Sanders (defended by William Gay),0.450,-0.230
+4,8:37,3,12,DEN 33,13,12,Peyton Manning pass complete deep middle to Bennie Fowler for 31 yards (tackle by Robert Golden and James Harrison),-0.230,3.180
+4,8:03,1,10,PIT 36,13,12,Ronnie Hillman right tackle for 3 yards (tackle by Steve McLendon),3.180,3.040
+4,7:31,2,7,PIT 33,13,12,"Penalty on James Harrison: Neutral Zone Infraction, 5 yards (no play)",3.040,3.720
+4,7:13,2,2,PIT 28,13,12,Ronnie Hillman left tackle for 3 yards (tackle by Steve McLendon),3.720,3.910
+4,6:44,1,10,PIT 25,13,12,C.J. Anderson right end for 4 yards (tackle by Lawrence Timmons),3.910,3.900
+4,6:00,2,6,PIT 21,13,12,Peyton Manning pass complete short left to Emmanuel Sanders for 7 yards (tackle by Ross Cockrell),3.900,4.650
+4,5:27,1,10,PIT 14,13,12,Ronnie Hillman right tackle for 5 yards (tackle by William Gay),4.650,4.900
+4,4:50,2,5,PIT 9,13,12,Ronnie Hillman left guard for 7 yards (tackle by Mike Mitchell and Bud Dupree),4.900,6.740
+4,4:08,1,2,PIT 2,13,12,Ronnie Hillman right guard for no gain (tackle by Ryan Shazier),6.740,5.720
+4,3:25,2,2,PIT 2,13,12,C.J. Anderson middle for 1 yard (tackle by Mike Mitchell),5.720,5.170
+4,3:04,3,1,PIT 1,13,18,"C.J. Anderson middle for 1 yard, touchdown",5.170,7.000
+4,3:00,3,1,PIT 1,13,18,Timeout #3 by Denver Broncos,5.170,5.170
+4,3:00,3,,PIT 1,13,20,"Two Point Attempt: Peyton Manning pass complete to Demaryius Thomas, conversion succeeds",5.170,1.000
+4,3:00,,,DEN 35,13,20,"Brandon McManus kicks off 65 yards, touchback",0.000,-0.280
+4,3:00,1,10,PIT 20,13,20,Ben Roethlisberger pass complete deep left to Martavis Bryant for 18 yards (tackle by Darian Stewart),0.280,1.470
+4,2:28,1,10,PIT 38,13,20,Ben Roethlisberger pass complete short right to Martavis Bryant for 3 yards (tackle by Chris Harris),1.470,1.470
+4,2:22,1,10,PIT 38,13,20,Timeout #1 by Pittsburgh Steelers,1.470,1.330
+4,2:22,2,7,PIT 41,13,20,Ben Roethlisberger pass complete short middle to Fitzgerald Toussaint for 2 yards (tackle by T.J. Ward),1.330,0.890
+4,2:00,3,5,PIT 43,13,20,Ben Roethlisberger pass incomplete short middle intended for Martavis Bryant,0.890,-0.520
+4,1:56,4,5,PIT 43,13,20,Ben Roethlisberger sacked by DeMarcus Ware for -13 yards,-0.520,-3.580
+4,1:49,1,10,PIT 30,13,20,C.J. Anderson right tackle for -1 yards (tackle by Bud Dupree),3.580,3.580
+4,1:45,1,10,PIT 30,13,20,Timeout #2 by Pittsburgh Steelers,3.580,2.900
+4,1:45,2,11,PIT 31,13,20,C.J. Anderson middle for no gain (tackle by Steve McLendon),2.900,2.900
+4,1:41,2,11,PIT 31,13,20,Timeout #3 by Pittsburgh Steelers,2.900,2.210
+4,1:41,3,11,PIT 31,13,20,C.J. Anderson right tackle for 4 yards (tackle by Ryan Shazier),2.210,1.670
+4,0:57,4,7,PIT 27,13,23,Brandon McManus 45 yard field goal good,1.670,3.000
+4,0:57,,,DEN 35,13,23,"Brandon McManus kicks off 65 yards, touchback",0.000,-0.280
+4,0:53,1,10,PIT 20,13,23,"Ben Roethlisberger pass incomplete deep middle intended for Markus Wheaton (defended by Chris Harris). Penalty on Chris Harris: Defensive Pass Interference, 22 yards (no play)",0.280,1.730
+4,0:46,1,10,PIT 42,13,23,Ben Roethlisberger pass complete short right to Martavis Bryant for 7 yards,1.730,2.130
+4,0:41,2,3,PIT 49,13,23,Ben Roethlisberger pass complete deep left to Martavis Bryant for 22 yards (tackle by Brandon Marshall),2.130,3.640
+4,0:25,1,10,DEN 29,13,23,Ben Roethlisberger spiked the ball,3.640,3.100
+4,0:24,2,10,DEN 29,16,23,Chris Boswell 47 yard field goal good,3.100,3.000
+4,0:24,,,PIT 35,16,23,"Chris Boswell kicks onside 26 yards, recovered by C.J. Anderson",0.000,-1.530
+4,0:14,1,10,DEN 39,16,23,Peyton Manning kneels for -1 yards,1.530,0.850
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

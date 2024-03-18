@@ -1,0 +1,221 @@
+Quarter,Time,Down,ToGo,Location,HOU,CAR,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Texans won the coin toss and deferred, Panthers to receive the opening kickoff.",,
+1,15:00,,,HOU 35,0,0,"Randy Bullock kicks off 65 yards, touchback",0.000,-0.280
+1,15:00,1,10,CAR 20,0,0,Cam Newton pass incomplete short left intended for Greg Olsen,0.280,-0.270
+1,14:57,2,10,CAR 20,0,0,Cam Newton pass incomplete short left intended for Ted Ginn,-0.270,-0.960
+1,14:53,3,10,CAR 20,0,0,"Penalty on Mike Remmers: False Start, 5 yards (no play)",-0.960,-1.860
+1,14:53,3,15,CAR 15,0,0,"Penalty on Brian Cushing: Neutral Zone Infraction, 5 yards (no play)",-1.860,-0.960
+1,14:53,3,10,CAR 20,0,0,Cam Newton pass incomplete short left intended for Ted Ginn (defended by Brian Cushing),-0.960,-2.030
+1,14:48,4,10,CAR 20,0,0,"Brad Nortman punts 60 yards, returned by Keith Mumphery for 8 yards (tackle by Ben Jacobs)",-2.030,-0.810
+1,14:36,1,10,HOU 28,0,0,Alfred Blue middle for -1 yards (tackle by Charles Johnson and Kawann Short),0.810,0.130
+1,13:58,2,11,HOU 27,0,0,Ryan Mallett pass incomplete short right intended for Garrett Graham,0.130,-0.560
+1,13:52,3,11,HOU 27,0,0,Ryan Mallett pass complete short right to Cecil Shorts for -5 yards (tackle by Josh Norman),-0.560,-1.900
+1,13:52,4,16,HOU 22,0,0,"Shane Lechler punts 48 yards, fair catch by Ted Ginn. Penalty on Teddy Williams: Unnecessary Roughness, 15 yards",-1.900,0.220
+1,13:12,1,10,CAR 15,0,0,Jonathan Stewart middle for 3 yards (tackle by J.J. Watt),-0.220,-0.280
+1,12:42,2,7,CAR 18,0,0,Jonathan Stewart right guard for 3 yards (tackle by Quintin Demps and Jared Crick),-0.280,-0.630
+1,12:11,3,4,CAR 21,0,0,Cam Newton pass incomplete short left intended for Greg Olsen,-0.630,-1.960
+1,12:05,4,4,CAR 21,0,0,"Brad Nortman punts 60 yards, returned by Keith Mumphery for 15 yards (tackle by Mario Addison). Penalty on Justin Tuggle: Illegal Block Above the Waist, 10 yards",-1.960,-0.410
+1,11:52,1,10,HOU 22,0,0,Ryan Mallett pass incomplete short right intended for Nate Washington,0.410,0.410
+1,11:45,1,10,HOU 22,0,0,Timeout #1 by Houston Texans,0.410,-0.130
+1,11:45,2,10,HOU 22,0,0,Ryan Mallett pass incomplete short middle intended for Garrett Graham,-0.130,-0.820
+1,11:41,3,10,HOU 22,0,0,Ryan Mallett pass complete short left to DeAndre Hopkins for 16 yards,-0.820,1.470
+1,11:04,1,10,HOU 38,0,0,Ryan Mallett pass incomplete short left intended for DeAndre Hopkins (defended by Josh Norman),1.470,0.920
+1,10:59,2,10,HOU 38,0,0,Chris Polk middle for 5 yards (tackle by Kurt Coleman),0.920,0.890
+1,10:24,3,5,HOU 43,0,0,"Penalty on Mario Addison: Defensive Offside, 4 yards (no play)",0.890,1.420
+1,10:23,3,1,HOU 47,0,0,Jay Prosch middle for 4 yards (tackle by Kurt Coleman and Charles Tillman),1.420,2.320
+1,9:44,1,10,CAR 49,0,0,"Ryan Mallett pass incomplete short left intended for DeAndre Hopkins. Penalty on Josh Norman: Defensive Holding, 5 yards (no play)",2.320,2.650
+1,9:41,1,10,CAR 44,0,0,Ryan Mallett pass incomplete short right intended for Cecil Shorts,2.650,2.110
+1,9:36,2,10,CAR 44,0,0,Ryan Mallett pass complete short middle to Cecil Shorts for 1 yard (tackle by Kurt Coleman and Thomas Davis),2.110,1.550
+1,8:53,3,9,CAR 43,0,0,Ryan Mallett pass complete short middle to Jonathan Grimes for 14 yards (tackle by Shaq Thompson),1.550,3.640
+1,8:31,1,10,CAR 29,0,0,Jonathan Grimes right guard for 4 yards (tackle by Thomas Davis),3.640,3.640
+1,8:09,2,6,CAR 25,0,0,Ryan Mallett pass incomplete deep right intended for Nate Washington,3.640,2.940
+1,8:05,3,6,CAR 25,0,0,Ryan Mallett pass incomplete short left intended for Keith Mumphery,2.940,1.830
+1,8:05,4,6,CAR 25,3,0,Randy Bullock 43 yard field goal good,1.830,3.000
+1,8:05,,,HOU 35,3,0,"Randy Bullock kicks off 65 yards, touchback",0.000,-0.280
+1,7:57,1,10,CAR 20,3,0,Cam Newton left end for 11 yards (tackle by Justin Tuggle),0.280,1.000
+1,7:28,1,10,CAR 31,3,0,Cam Newton pass complete short left to Jonathan Stewart for -3 yards (tackle by Justin Tuggle),1.000,0.060
+1,6:46,2,13,CAR 28,3,0,Cam Newton pass incomplete short right intended for Greg Olsen (defended by Jadeveon Clowney),0.060,-0.630
+1,6:40,3,13,CAR 28,3,0,Cam Newton pass complete short right to Corey Brown for 6 yards (tackle by Quintin Demps),-0.630,-1.110
+1,6:18,4,7,CAR 34,3,0,"Brad Nortman punts 41 yards, returned by Keith Mumphery for no gain. Penalty on Darryl Morris: Illegal Block Above the Waist, 10 yards",-1.110,0.220
+1,6:10,1,10,HOU 15,3,0,Alfred Blue left guard for 2 yards (tackle by Kony Ealy and Bene Benwikere),-0.220,-0.440
+1,5:36,2,8,HOU 17,3,0,"Chandler Worthy left guard for -6 yards (tackle by Charles Johnson). Penalty on Charles Johnson: Face Mask (15 Yards), 14 yards (no play)",-0.440,1.000
+1,5:28,1,10,HOU 31,3,0,Ryan Mallett pass complete short left to Chandler Worthy for 3 yards (tackle by Kurt Coleman),1.000,0.870
+1,5:00,2,7,HOU 34,3,0,Alfred Blue middle for no gain (tackle by Kurt Coleman and Kawann Short),0.870,0.170
+1,4:18,3,7,HOU 34,3,0,"Ryan Mallett pass complete short left to Jonathan Grimes for 5 yards (tackle by Shaq Thompson). Penalty on Thomas Davis: Unnecessary Roughness, 15 yards",0.170,2.520
+1,3:55,1,10,CAR 46,3,0,Ryan Mallett pass incomplete deep left intended for DeAndre Hopkins,2.520,1.980
+1,3:48,2,10,CAR 46,3,0,Ryan Mallett pass incomplete short right intended for Keith Mumphery (defended by Charles Tillman),1.980,1.290
+1,3:44,3,10,CAR 46,3,0,Ryan Mallett pass complete short middle to Jonathan Grimes for 5 yards (tackle by Bene Benwikere),1.290,0.530
+1,3:03,4,5,CAR 41,3,0,Ryan Mallett pass complete short left to Jonathan Grimes for 3 yards (tackle by Shaq Thompson),0.530,-1.470
+1,2:56,1,10,CAR 38,3,0,Cam Newton middle for 4 yards (tackle by J.J. Watt),1.470,1.460
+1,2:18,2,6,CAR 42,3,0,Jonathan Stewart right end for 10 yards (tackle by Justin Tuggle),1.460,2.390
+1,1:51,1,10,HOU 48,3,0,Jonathan Stewart right tackle for 3 yards (tackle by Quintin Demps and Benardrick McKinney),2.390,2.250
+1,1:10,2,7,HOU 45,3,0,Cam Newton pass complete short left to Greg Olsen for 7 yards (tackle by Kareem Jackson),2.250,3.050
+1,0:51,1,10,HOU 38,3,0,Cam Newton pass incomplete deep left intended for Ted Ginn,3.050,2.510
+1,0:43,2,10,HOU 38,3,0,Cam Newton pass complete short left to Mike Tolbert for -3 yards (tackle by Benardrick McKinney),2.510,1.420
+Quarter,Time,Down,ToGo,Location,HOU,CAR,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,13,HOU 41,3,0,Cam Newton pass incomplete deep middle intended for Ted Ginn,1.420,0.530
+2,14:55,4,13,HOU 41,3,0,"Brad Nortman punts 41 yards, touchback",0.530,-0.280
+2,14:46,1,10,HOU 20,3,0,Chris Polk left guard for 1 yard (tackle by Kyle Love),0.280,-0.130
+2,14:17,2,9,HOU 21,3,0,Chris Polk left tackle for 4 yards (tackle by Kurt Coleman),-0.130,-0.300
+2,13:39,3,5,HOU 25,3,0,Ryan Mallett pass incomplete short left intended for DeAndre Hopkins,-0.300,-1.700
+,,,,,,,"CAR challenged the pass completion ruling, and the original play was overturned.",,
+2,13:36,4,5,HOU 25,3,0,"Shane Lechler punts 60 yards, returned by Ted Ginn for 11 yards (tackle by Akeem Dent)",-1.700,-0.670
+2,13:26,1,10,CAR 26,3,0,Cam Newton right end for 15 yards (tackle by Rahim Moore),0.670,1.660
+2,13:07,1,10,CAR 41,3,0,Cam Newton pass complete short right to Greg Olsen for 12 yards,1.660,2.460
+2,12:47,1,10,HOU 47,3,0,Jonathan Stewart middle for 9 yards (tackle by Quintin Demps and Jared Crick),2.460,3.130
+2,12:10,2,1,HOU 38,3,0,Mike Tolbert right tackle for 13 yards (tackle by Kareem Jackson),3.130,3.910
+2,11:30,1,10,HOU 25,3,6,"Cam Newton pass complete deep left to Ted Ginn for 25 yards, touchdown",3.910,7.000
+2,11:30,,,HOU 25,3,7,Graham Gano kicks extra point good,0.000,0.000
+2,11:30,,,CAR 35,3,7,"Graham Gano kicks off 65 yards, touchback",0.000,-0.280
+2,11:22,1,10,HOU 20,3,7,Ryan Mallett pass complete short right to C.J. Fiedorowicz for 19 yards (tackle by Roman Harper),0.280,1.530
+2,10:57,1,10,HOU 39,3,7,Ryan Mallett pass incomplete short middle intended for Garrett Graham,1.530,0.990
+2,10:53,2,10,HOU 39,3,7,Ryan Mallett pass incomplete deep right intended for DeAndre Hopkins (defended by Josh Norman),0.990,0.300
+2,10:48,3,10,HOU 39,3,7,Ryan Mallett sacked by Dwan Edwards for -5 yards,0.300,-1.110
+2,10:18,4,15,HOU 34,3,7,"Shane Lechler punts 44 yards, returned by Ted Ginn for 17 yards (tackle by Jon Weeks)",-1.110,-1.530
+2,10:05,1,10,CAR 39,3,7,Jonathan Stewart middle for 2 yards (tackle by J.J. Watt and Brian Cushing),1.530,1.260
+2,9:35,2,8,CAR 41,3,7,Cam Newton pass complete short left to Jerricho Cotchery for 11 yards (tackle by Jadeveon Clowney),1.260,2.390
+2,9:02,1,10,HOU 48,3,7,Cam Newton pass complete short left to Ted Ginn for 7 yards (tackle by Johnathan Joseph),2.390,2.790
+2,8:33,2,3,HOU 41,3,7,Cam Newton pass complete short left to Ted Ginn for 5 yards,2.790,3.180
+2,8:11,1,10,HOU 36,3,7,Cam Newton pass complete short right to Corey Brown for 15 yards (tackle by Kevin Johnson),3.180,4.170
+2,7:41,1,10,HOU 21,3,7,"Cam Newton pass complete short right to Greg Olsen for no gain. Penalty on Cam Newton: Illegal Motion, 5 yards (no play)",4.170,3.840
+2,7:21,1,15,HOU 26,3,7,"Cam Newton right guard for 5 yards (tackle by J.J. Watt). Penalty on Kareem Jackson: Defensive Holding, 5 yards",3.840,4.510
+2,6:48,1,10,HOU 16,3,7,Cam Newton pass incomplete short right intended for Greg Olsen (defended by Rahim Moore),4.510,3.900
+2,6:42,2,10,HOU 16,3,7,Jonathan Stewart left tackle for 3 yards (tackle by Brian Cushing),3.900,3.540
+2,6:11,3,7,HOU 13,3,7,Cam Newton left tackle for 3 yards (tackle by Brian Cushing),3.540,2.840
+2,5:28,4,4,HOU 10,3,10,Graham Gano 28 yard field goal good,2.840,3.000
+2,5:28,,,CAR 35,3,10,"Graham Gano kicks off 73 yards, returned by Chandler Worthy for 27 yards (tackle by David Mayo). Penalty on Eddie Pleasant: Illegal Block Above the Waist, 9 yards",0.000,0.380
+2,5:21,1,10,HOU 10,3,10,Ryan Mallett pass incomplete short left intended for Chris Polk (defended by Kony Ealy),-0.380,-0.780
+2,5:18,2,10,HOU 10,3,10,Chris Polk left guard for 1 yard (tackle by Wes Horton and Josh Norman),-0.780,-1.300
+2,4:50,3,9,HOU 11,3,10,Ryan Mallett pass incomplete short left intended for Nate Washington. Penalty on Jeff Adams: Illegal Use of Hands (Declined),-1.300,-2.490
+2,4:44,4,9,HOU 11,3,10,"Shane Lechler punts 55 yards, returned by Ted Ginn for 16 yards (tackle by Akeem Dent)",-2.490,-2.260
+2,4:33,1,10,,3,10,Cam Newton pass incomplete short left intended for Devin Funchess,2.260,1.710
+2,4:29,2,10,,3,10,Cam Newton pass complete short left to Devin Funchess for 15 yards (tackle by Johnathan Joseph),1.710,3.250
+2,3:56,1,10,HOU 35,3,10,Cam Newton pass complete short right to Greg Olsen for 12 yards,3.250,4.040
+2,3:23,1,10,HOU 23,3,10,Cam Newton pass complete short right to Greg Olsen for 2 yards (tackle by Kevin Johnson),4.040,3.770
+2,2:55,2,8,HOU 21,3,10,"Cam Newton pass incomplete deep middle intended for Kevin Norwood is intercepted by Rahim Moore at HOU-0 and returned for 17 yards. Rahim Moore fumbles (forced by Kevin Norwood), recovered by Justin Tuggle at HOU-22",3.770,-0.410
+2,2:40,1,10,HOU 22,3,10,Ryan Mallett pass complete short middle to Jonathan Grimes for 9 yards (tackle by Thomas Davis),0.410,1.080
+2,2:14,2,1,HOU 31,3,10,Jonathan Grimes middle for 3 yards (tackle by Kyle Love and Kawann Short),1.080,1.200
+2,2:00,1,10,HOU 34,3,10,Ryan Mallett pass complete short right to Jonathan Grimes for 4 yards (tackle by Roman Harper),1.200,1.200
+2,1:54,1,10,HOU 34,3,10,Timeout #1 by Carolina Panthers,1.200,1.200
+2,1:54,2,6,HOU 38,3,10,Ryan Mallett pass incomplete short left intended for Jonathan Grimes,1.200,1.200
+2,1:49,2,6,HOU 38,3,10,Timeout #2 by Carolina Panthers,1.200,0.500
+2,1:49,3,6,HOU 38,3,10,Ryan Mallett pass incomplete short left intended for Nate Washington,0.500,-0.850
+2,1:45,4,6,HOU 38,3,10,"Shane Lechler punts 48 yards, fair catch by Ted Ginn",-0.850,0.280
+2,1:38,1,10,CAR 14,3,10,Cam Newton pass incomplete short right intended for Corey Brown (defended by J.J. Watt),-0.280,-0.750
+2,1:35,2,10,CAR 14,3,10,Fozzy Whittaker middle for 3 yards (tackle by Whitney Mercilus),-0.750,-1.040
+2,1:30,3,7,CAR 17,3,10,Cam Newton pass incomplete deep left intended for Ted Ginn,-1.040,-2.320
+2,1:25,4,7,CAR 17,3,10,"Brad Nortman punts 65 yards, returned by Keith Mumphery for 12 yards (tackle by Ed Dickson)",-2.320,-0.940
+2,1:11,1,10,HOU 30,3,10,Ryan Mallett pass incomplete short left intended for Chris Polk,0.940,0.940
+2,1:11,1,10,HOU 30,3,10,Timeout #2 by Houston Texans,0.940,0.390
+2,1:07,2,10,HOU 30,3,10,Ryan Mallett pass incomplete short left intended for Cecil Shorts (defended by Bene Benwikere),0.390,-0.300
+2,1:07,3,10,HOU 30,3,10,"Penalty on Ryan Mallett: Delay of Game, 5 yards (no play)",-0.300,-0.960
+2,1:02,3,15,HOU 25,3,10,Chris Polk left tackle for 1 yard (tackle by Shaq Thompson and Mario Addison),-0.960,-0.960
+2,0:56,3,15,HOU 25,3,10,Timeout #3 by Carolina Panthers,-0.960,-1.630
+2,0:56,4,14,HOU 26,3,10,"Shane Lechler punts 56 yards, returned by Ted Ginn for 8 yards (tackle by Andre Hal). Penalty on Bene Benwikere: Offensive Holding, 9 yards",-1.630,0.380
+2,0:35,1,10,CAR 9,3,10,Mike Tolbert right guard for 11 yards (tackle by Rahim Moore),-0.380,0.280
+2,0:19,1,10,CAR 20,3,10,Mike Tolbert middle for 3 yards (tackle by Brian Cushing),0.280,0.140
+Quarter,Time,Down,ToGo,Location,HOU,CAR,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,CAR 35,3,10,"Graham Gano kicks off 65 yards, touchback",0.000,-0.280
+3,15:00,1,10,HOU 20,3,10,Chris Polk left tackle for 13 yards (tackle by Kurt Coleman),0.280,1.140
+3,14:36,1,10,HOU 33,3,10,Chris Polk middle for no gain (tackle by Shaq Thompson),1.140,0.590
+3,14:02,2,10,HOU 33,3,10,Ryan Mallett pass complete short left to DeAndre Hopkins for 11 yards (tackle by Josh Norman),0.590,1.860
+3,13:37,1,10,HOU 44,3,10,Ryan Mallett pass complete short middle to Alfred Blue for 4 yards (tackle by Thomas Davis),1.860,1.860
+3,13:07,2,6,HOU 48,3,10,Alfred Blue middle for 4 yards (tackle by Charles Johnson and Thomas Davis),1.860,1.690
+3,12:29,3,2,CAR 48,3,10,Ryan Mallett pass complete short right to Chris Polk for 3 yards (tackle by Charles Tillman and Roman Harper),1.690,2.590
+3,11:52,1,10,CAR 45,3,10,Chris Polk middle for 3 yards (tackle by Roman Harper),2.590,2.450
+3,11:19,2,7,CAR 42,3,10,Ryan Mallett pass complete deep left to Cecil Shorts for 16 yards (tackle by Charles Tillman),2.450,3.840
+3,10:48,1,10,CAR 26,3,10,Chris Polk middle for 3 yards (tackle by Kurt Coleman and Colin Cole),3.840,3.700
+3,10:20,2,7,CAR 23,3,10,Ryan Mallett pass complete short middle to DeAndre Hopkins for 8 yards (tackle by Roman Harper),3.700,4.580
+3,9:40,1,10,CAR 15,3,10,Ryan Mallett pass complete short middle to DeAndre Hopkins for 8 yards (tackle by Kurt Coleman),4.580,5.410
+3,9:15,2,2,CAR 7,3,10,Chris Polk right guard for no gain (tackle by Kony Ealy and Thomas Davis),5.410,5.410
+3,8:35,2,2,CAR 7,3,10,Timeout #1 by Houston Texans,5.410,4.680
+3,8:35,3,2,CAR 7,9,10,"Ryan Mallett pass complete short middle to Garrett Graham for 7 yards, touchdown",4.680,7.000
+3,8:35,,,CAR 7,10,10,Randy Bullock kicks extra point good,0.000,0.000
+3,8:35,,,HOU 35,10,10,"Randy Bullock kicks off 65 yards, touchback",0.000,-0.280
+3,8:29,1,10,CAR 20,10,10,Jonathan Stewart right guard for 2 yards (tackle by Jadeveon Clowney),0.280,0.000
+3,7:56,2,8,CAR 22,10,10,Cam Newton right end for 9 yards (tackle by Johnathan Joseph),0.000,1.000
+3,7:19,1,10,CAR 31,10,10,Cam Newton pass incomplete short left intended for Greg Olsen,1.000,0.460
+3,7:15,2,10,CAR 31,10,10,Cam Newton pass incomplete short right intended for Devin Funchess,0.460,-0.230
+3,7:10,3,10,CAR 31,10,10,"Cam Newton pass incomplete short left intended for Devin Funchess. Penalty on Johnathan Joseph: Illegal Contact, 5 yards (no play)",-0.230,1.330
+3,7:06,1,10,CAR 36,10,10,Cam Newton right end for 19 yards (tackle by Rahim Moore),1.330,2.590
+3,6:25,1,10,HOU 45,10,10,"Cam Newton pass incomplete short middle intended for Greg Olsen is intercepted by Rahim Moore at HOU-40 and returned for -3 yards. Penalty on Quintin Demps: Defensive Holding, 5 yards (no play)",2.590,2.920
+3,6:17,1,10,HOU 40,10,10,Jonathan Stewart right end for 2 yards (tackle by Johnathan Joseph),2.920,2.640
+3,5:39,2,8,HOU 38,10,10,Cam Newton pass complete short middle to Greg Olsen for 10 yards (tackle by Whitney Mercilus),2.640,3.710
+3,5:05,1,10,HOU 28,10,10,Cam Newton sacked by J.J. Watt for -4 yards,3.710,2.630
+3,4:20,2,14,HOU 32,10,10,Jonathan Stewart middle for 11 yards (tackle by Quintin Demps),2.630,3.400
+3,3:36,3,3,HOU 21,10,10,Cam Newton pass complete short right to Ted Ginn for 4 yards (tackle by Kareem Jackson),3.400,4.440
+3,2:55,1,10,HOU 17,10,10,Mike Tolbert right tackle for 4 yards (tackle by Akeem Dent and Vince Wilfork),4.440,4.500
+3,2:12,2,6,HOU 13,10,10,Cam Newton pass incomplete short right intended for Mike Tolbert,4.500,4.500
+3,2:09,2,6,HOU 13,10,10,Timeout #1 by Carolina Panthers,4.500,3.680
+3,2:09,3,6,HOU 13,10,10,Cam Newton pass complete short right to Mike Tolbert for 7 yards (tackle by Quintin Demps and Johnathan Joseph),3.680,5.830
+3,2:09,1,6,HOU 6,10,10,"Penalty on Jadeveon Clowney: Neutral Zone Infraction, 4 yards (no play)",5.830,6.740
+3,1:10,1,2,HOU 2,10,16,"Cam Newton middle for 2 yards, touchdown",6.740,7.000
+3,1:10,,,HOU 2,10,17,Graham Gano kicks extra point good,0.000,0.000
+3,1:10,,,CAR 35,10,17,"Graham Gano kicks off 65 yards, touchback",0.000,-0.280
+3,1:04,1,10,HOU 20,10,17,Ryan Mallett pass complete short right to Chandler Worthy for 12 yards (tackle by A.J. Klein and Bene Benwikere),0.280,1.070
+3,1:04,1,10,HOU 32,10,17,Alfred Blue middle for 1 yard (tackle by Dwan Edwards),1.070,0.660
+3,0:06,2,9,HOU 33,10,17,Ryan Mallett pass complete short left to Cecil Shorts for 8 yards (tackle by Josh Norman),0.660,1.030
+Quarter,Time,Down,ToGo,Location,HOU,CAR,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,1,HOU 41,10,17,Ryan Mallett pass incomplete short left intended for Chris Polk,1.030,-0.650
+4,14:56,4,1,HOU 41,10,17,"Shane Lechler punts 43 yards, fair catch by Ted Ginn",-0.650,0.140
+4,14:48,1,10,CAR 16,10,17,Jonathan Stewart right tackle for 2 yards (tackle by Brian Cushing),-0.140,-0.350
+4,14:14,2,8,CAR 18,10,17,Cam Newton pass incomplete deep right intended for Greg Olsen (defended by J.J. Watt),-0.350,-1.070
+4,14:09,3,8,CAR 18,10,17,Cam Newton middle for 9 yards (tackle by Jared Crick),-1.070,0.740
+4,13:28,1,10,CAR 27,10,17,Cam Newton pass incomplete short left intended for Greg Olsen (defended by Jadeveon Clowney),0.740,0.200
+4,13:23,2,10,CAR 27,10,17,Jonathan Stewart left tackle for 1 yard (tackle by Jared Crick),0.200,-0.360
+4,12:43,3,9,CAR 28,10,17,Cam Newton sacked by Eddie Pleasant and Quintin Demps for -13 yards,-0.360,-2.440
+4,11:58,4,22,CAR 15,10,17,"Brad Nortman punts 49 yards, returned by Keith Mumphery for 10 yards (tackle by Ed Dickson)",-2.440,-1.990
+4,11:46,1,10,HOU 46,10,17,Ryan Mallett pass incomplete deep right intended for Cecil Shorts,1.990,1.450
+4,11:40,2,10,HOU 46,10,17,Ryan Mallett pass incomplete short right intended for DeAndre Hopkins,1.450,0.760
+4,11:35,3,10,HOU 46,10,17,Ryan Mallett pass incomplete short middle intended for Cecil Shorts (defended by Thomas Davis),0.760,-0.320
+4,11:27,4,10,HOU 46,10,17,Shane Lechler punts 34 yards,-0.320,-0.280
+4,11:22,1,10,CAR 20,10,17,Jonathan Stewart left tackle for -1 yards (tackle by Vince Wilfork and Whitney Mercilus),0.280,-0.460
+4,10:49,2,11,CAR 19,10,17,Jonathan Stewart right guard for 3 yards (tackle by Justin Tuggle and Jared Crick),-0.460,-0.690
+4,10:07,3,8,CAR 22,10,17,Cam Newton pass incomplete short left intended for Devin Funchess (defended by Kevin Johnson),-0.690,-1.900
+4,10:04,4,8,CAR 22,10,17,"Brad Nortman punts 61 yards, returned by Keith Mumphery for 15 yards (tackle by David Mayo)",-1.900,-1.070
+4,9:52,1,10,HOU 32,10,17,Chris Polk middle for -3 yards (tackle by Bene Benwikere),1.070,0.120
+4,9:13,2,13,HOU 29,10,17,Ryan Mallett pass incomplete short middle intended for Garrett Graham is intercepted by A.J. Klein at HOU-44 and returned for 8 yards,0.120,-3.180
+4,9:02,1,10,HOU 36,10,23,"Cam Newton pass complete deep middle to Corey Brown for 36 yards, touchdown",3.180,7.000
+4,9:02,,,HOU 36,10,24,Graham Gano kicks extra point good,0.000,0.000
+4,9:02,,,CAR 35,10,24,"Graham Gano kicks off 65 yards, touchback",0.000,-0.280
+4,8:52,1,10,HOU 20,10,24,Ryan Mallett pass complete short right to Nate Washington for 9 yards (tackle by Roman Harper),0.280,0.950
+4,8:38,2,1,HOU 29,10,24,Ryan Mallett pass complete deep right to Nate Washington for 48 yards (tackle by Charles Tillman),0.950,4.040
+4,7:54,1,10,CAR 23,10,24,Ryan Mallett pass complete short middle to DeAndre Hopkins for 10 yards (tackle by A.J. Klein),4.040,4.710
+4,7:30,1,10,CAR 13,10,24,Ryan Mallett pass incomplete short left intended for Cecil Shorts,4.710,4.050
+4,7:26,2,10,CAR 13,10,24,Ryan Mallett pass complete short middle to Cecil Shorts for 7 yards (tackle by Bene Benwikere),4.050,4.560
+4,6:42,3,3,CAR 6,10,24,Ryan Mallett pass incomplete short right intended for Chris Polk,4.560,4.560
+4,6:38,3,3,CAR 6,10,24,Timeout #2 by Carolina Panthers,4.560,3.010
+4,6:38,4,3,CAR 6,16,24,"Ryan Mallett right guard for 6 yards, touchdown",3.010,7.000
+4,6:38,,,CAR 6,17,24,Randy Bullock kicks extra point good,0.000,0.000
+4,6:38,,,HOU 35,17,24,"Randy Bullock kicks off 69 yards, returned by Fozzy Whittaker for 33 yards (tackle by Carlos Thompson)",0.000,-0.870
+4,6:23,1,10,CAR 29,17,24,Jonathan Stewart middle for 5 yards (tackle by Akeem Dent),0.870,1.000
+4,5:47,2,5,CAR 34,17,24,Jonathan Stewart middle for 3 yards (tackle by Jared Crick),1.000,0.700
+4,5:12,3,2,CAR 37,17,24,Cam Newton pass complete short left to Greg Olsen for 27 yards (tackle by Kareem Jackson and Quintin Demps),0.700,3.180
+4,4:22,1,10,HOU 36,17,24,Jonathan Stewart middle for 1 yard (tackle by Brian Cushing and Jared Crick),3.180,2.770
+4,3:39,2,9,HOU 35,17,24,Mike Tolbert right tackle for no gain (tackle by Brian Cushing and Whitney Mercilus),2.770,2.080
+4,2:53,3,9,HOU 35,17,24,Cam Newton pass incomplete deep left intended for Greg Olsen,2.080,0.970
+4,2:48,4,9,HOU 35,17,24,"Graham Gano 53 yard field goal no good, blocked by Jared Crick",0.970,-1.800
+4,2:44,1,10,HOU 43,17,24,Ryan Mallett pass incomplete short left intended for Chris Polk,1.800,1.250
+4,2:39,2,10,HOU 43,17,24,Chris Polk left tackle for 4 yards (tackle by Thomas Davis),1.250,1.090
+4,2:05,3,6,HOU 47,17,24,"Ryan Mallett pass incomplete short left intended for DeAndre Hopkins. Penalty on Kony Ealy: Roughing the Passer, 15 yards (no play)",1.090,3.050
+4,2:01,1,10,CAR 38,17,24,Chris Polk right guard for 3 yards (tackle by Dwan Edwards and A.J. Klein),3.050,2.910
+4,1:56,2,7,CAR 35,17,24,Ryan Mallett pass incomplete short left intended for Chris Polk,2.910,2.210
+4,1:51,3,7,CAR 35,17,24,Ryan Mallett pass complete short right to Nate Washington for 6 yards (tackle by A.J. Klein),2.210,2.210
+4,1:27,3,7,CAR 35,17,24,Timeout #2 by Houston Texans,2.210,1.620
+4,1:27,4,1,CAR 29,17,24,Chris Polk right tackle for 3 yards (tackle by Thomas Davis),1.620,3.840
+4,1:02,1,10,CAR 26,17,24,Ryan Mallett pass complete short left to Cecil Shorts for 7 yards (tackle by Josh Norman),3.840,4.270
+4,0:38,2,3,CAR 19,17,24,Ryan Mallett pass incomplete short right intended for Cecil Shorts,4.270,4.270
+4,0:32,2,3,CAR 19,17,24,Timeout #3 by Carolina Panthers,4.270,3.570
+4,0:32,3,3,CAR 19,17,24,"Ryan Mallett pass incomplete deep left intended for Keith Mumphery. Penalty on Kony Ealy: Defensive Offside, 5 yards (no play)",3.570,4.650
+4,0:26,1,10,CAR 14,17,24,Ryan Mallett pass incomplete short left intended for Nate Washington,4.650,4.000
+4,0:22,2,10,CAR 14,17,24,"Ryan Mallett pass incomplete. Penalty on Ryan Mallett: Intentional Grounding, 12 yards",4.000,4.000
+4,0:22,2,10,CAR 14,17,24,--,4.000,4.000
+4,0:17,2,10,CAR 14,17,24,Timeout #3 by Houston Texans,4.000,1.820
+4,0:17,3,22,CAR 26,17,24,Ryan Mallett pass complete short left to Chris Polk for 6 yards,1.820,2.120
+4,0:13,4,16,CAR 20,17,24,Ryan Mallett pass incomplete deep middle intended for DeAndre Hopkins,2.120,-0.280
+4,0:05,1,10,CAR 20,17,24,Cam Newton kneels for -1 yards,0.280,-0.460
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

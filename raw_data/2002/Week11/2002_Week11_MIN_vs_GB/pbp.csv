@@ -1,0 +1,191 @@
+Quarter,Time,Down,ToGo,Location,GNB,MIN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Vikings won the coin toss, Vikings to receive the opening kickoff.",,
+1,15:00,,,GNB 30,0,0,"Ryan Longwell kicks off 63 yards, returned by Nick Davis for 14 yards (tackle by Najeh Davenport)",0.000,0.340
+1,14:56,1,10,MIN 21,0,0,Kelly Campbell left end for 11 yards (tackle by Mike McKenzie),0.340,1.070
+1,14:24,1,10,MIN 32,0,0,Daunte Culpepper pass complete to Byron Chamberlain for 20 yards (tackle by Darren Sharper and Mike McKenzie),1.070,2.390
+1,13:45,1,10,GNB 48,0,0,Michael Bennett right end for 1 yard (tackle by Na'il Diggs),2.390,1.980
+1,13:12,2,9,GNB 47,0,0,Daunte Culpepper pass complete to Byron Chamberlain for 18 yards (tackle by Darren Sharper),1.980,3.640
+1,12:45,1,10,GNB 29,0,0,"Daunte Culpepper pass incomplete intended for D'Wayne Bates. Penalty on Na'il Diggs: Defensive Holding, 5 yards (no play)",3.640,3.970
+1,12:39,1,10,GNB 24,0,6,"Daunte Culpepper pass complete to Randy Moss for 24 yards, touchdown",3.970,7.000
+1,12:39,,,GNB 24,0,7,Gary Anderson kicks extra point good,0.000,0.000
+1,12:39,,,MIN 30,0,7,"Hayden Epstein kicks off 70 yards, returned by Javon Walker for 29 yards (tackle by Eric Kelly)",0.000,-0.870
+1,12:26,1,10,GNB 29,0,7,Brett Favre pass complete to William Henderson for 4 yards (tackle by Brian Williams),0.870,0.870
+1,11:40,2,6,GNB 33,0,7,Brett Favre pass complete to Ahman Green for 5 yards (tackle by Tyrone Carter),0.870,0.830
+1,11:00,3,1,GNB 38,0,7,Ahman Green left guard for no gain (tackle by Greg Biekert and Fred Robbins),0.830,-0.850
+1,10:20,4,1,GNB 38,0,7,Josh Bidwell punts 27 yards. Penalty on Matt Bowen: Illegal Touch Kick (Declined),-0.850,-1.270
+1,10:11,1,10,MIN 35,0,7,Michael Bennett middle for 4 yards (tackle by Marques Anderson),1.270,1.260
+1,9:41,2,6,MIN 39,0,7,Michael Bennett left guard for 3 yards (tackle by Hardy Nickerson and Aaron Kampman),1.260,0.960
+1,8:58,3,3,MIN 42,0,7,"Daunte Culpepper pass incomplete intended for Kelly Campbell. Penalty on Tyrone Williams: Defensive Pass Interference, 6 yards (no play)",0.960,2.130
+1,8:53,1,10,MIN 48,0,7,Daunte Culpepper pass complete to Randy Moss for 23 yards,2.130,3.640
+1,8:16,1,10,GNB 29,0,7,Michael Bennett right tackle for 3 yards (tackle by Hardy Nickerson and Nate Wayne),3.640,3.510
+1,7:30,2,7,GNB 26,0,7,Daunte Culpepper middle for 8 yards (tackle by Marques Anderson),3.510,4.370
+1,6:56,2,7,GNB 26,,,Timeout #1 by Minnesota Vikings,3.510,4.370
+1,6:56,1,10,GNB 18,0,13,"Daunte Culpepper pass complete to D'Wayne Bates for 18 yards, touchdown",4.370,7.000
+1,6:56,,,GNB 18,0,14,Gary Anderson kicks extra point good,0.000,0.000
+1,6:56,,,MIN 30,0,14,"Hayden Epstein kicks off 62 yards, returned by Javon Walker for 14 yards (tackle by Jack Brewer)",0.000,-0.410
+1,6:47,1,10,GNB 22,0,14,Ahman Green left guard for -3 yards (tackle by Henri Crockett),0.410,-0.600
+1,6:11,2,13,GNB 19,0,14,Ahman Green left guard for 7 yards (tackle by Lance Johnstone and Corey Chavous),-0.600,-0.290
+1,5:33,3,6,GNB 26,0,14,Brett Favre pass incomplete intended for Terry Glenn,-0.290,-1.630
+1,5:29,4,6,GNB 26,0,14,"Josh Bidwell punts 50 yards, returned by Nick Davis for 11 yards (tackle by Rob Davis)",-1.630,-1.270
+1,5:17,1,10,MIN 35,0,14,Daunte Culpepper pass complete to Michael Bennett for 9 yards (tackle by Mike McKenzie),1.270,1.940
+1,4:59,2,1,MIN 44,0,14,Daunte Culpepper pass complete to Randy Moss for 4 yards (tackle by Mike McKenzie),1.940,2.130
+1,4:16,1,10,MIN 48,0,14,Daunte Culpepper pass incomplete intended for D'Wayne Bates (defended by Tyrone Williams),2.130,1.580
+1,4:10,2,10,MIN 48,0,14,"Penalty on Daunte Culpepper: Delay of Game, 5 yards (no play)",1.580,0.910
+1,4:10,2,15,MIN 43,0,14,"Penalty on Billy Lyon: Encroachment, 5 yards (no play)",0.910,1.580
+1,4:10,2,10,MIN 48,0,14,"Daunte Culpepper pass complete to Michael Bennett for 18 yards (tackle by Darren Sharper). Penalty on Corbin Lacina: Offensive Holding, 10 yards (no play)",1.580,0.230
+1,3:39,2,20,MIN 38,0,14,Daunte Culpepper pass complete to Randy Moss for 16 yards (tackle by Hardy Nickerson),0.230,1.680
+1,2:52,2,20,MIN 38,,,Timeout #2 by Minnesota Vikings,0.230,1.680
+1,2:52,3,4,GNB 46,0,14,Daunte Culpepper sacked by Kabeer Gbaja-Biamila for -4 yards,1.680,-0.060
+1,2:52,4,8,,0,14,"Kyle Richardson punts 50 yards, touchback",-0.060,-0.280
+1,2:16,1,10,GNB 20,0,14,Brett Favre pass complete to Bubba Franks for 8 yards (tackle by Greg Biekert),0.280,0.810
+1,1:40,2,2,GNB 28,0,14,Ahman Green left end for -3 yards (tackle by Lance Johnstone and Ronnie Bradford),0.810,-0.300
+1,1:01,3,5,GNB 25,0,14,Brett Favre pass complete to Donald Driver for 8 yards (tackle by Eric Kelly),-0.300,1.140
+1,0:31,1,10,GNB 33,0,14,Brett Favre pass complete to Robert Ferguson for 9 yards (tackle by Corey Chavous),1.140,1.810
+Quarter,Time,Down,ToGo,Location,GNB,MIN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,1,GNB 42,0,14,"Ahman Green middle for 2 yards (tackle by Chris Hovan). Penalty on Mike Flanagan: Offensive Holding, 10 yards (no play)",1.810,0.460
+2,14:40,2,11,GNB 32,0,14,Brett Favre pass complete to Ahman Green for 4 yards (tackle by Brian Williams),0.460,0.300
+2,13:59,3,7,GNB 36,0,14,"Penalty on Earl Dotson: False Start, 5 yards (no play)",0.300,-0.360
+2,13:44,3,12,GNB 31,0,14,"Penalty on Earl Dotson: False Start, 5 yards (no play)",-0.360,-1.020
+2,13:15,3,17,GNB 26,0,14,Ahman Green left tackle for 16 yards (tackle by Eric Kelly),-1.020,-0.590
+2,12:56,4,1,GNB 42,0,14,"Josh Bidwell punts 48 yards, fair catch by Nick Davis",-0.590,0.380
+2,12:47,1,10,MIN 10,0,14,Michael Bennett middle for 10 yards (tackle by Steve Warren and Rod Walker),-0.380,0.280
+2,12:07,1,10,MIN 20,0,14,Daunte Culpepper pass complete to Randy Moss for 41 yards (tackle by Tyrone Williams),0.280,2.980
+2,11:30,1,10,GNB 39,0,14,Daunte Culpepper pass incomplete intended for Kelly Campbell,2.980,2.440
+2,11:23,2,10,GNB 39,0,14,Daunte Culpepper pass complete to Jim Kleinsasser for 4 yards (tackle by Steve Warren),2.440,2.280
+2,10:40,3,6,GNB 35,0,14,Daunte Culpepper pass incomplete intended for Moe Williams,2.280,0.970
+2,10:40,4,6,GNB 35,0,14,"Kyle Richardson punts 21 yards, fair catch by Darrien Gordon",0.970,0.280
+2,10:29,1,10,GNB 14,0,14,Brett Favre pass complete to Donald Driver for 20 yards (tackle by Brian Williams),-0.280,1.200
+2,9:55,1,10,GNB 34,0,14,Brett Favre pass complete to Ahman Green for 9 yards (tackle by Henri Crockett),1.200,1.870
+2,9:15,2,1,GNB 43,0,14,Ahman Green right guard for -1 yards (tackle by Kenny Mixon and Chris Hovan),1.870,1.030
+2,8:33,3,2,GNB 42,0,14,Brett Favre pass incomplete intended for Donald Driver is intercepted by Greg Biekert at MIN-46,1.030,-1.990
+2,8:27,1,10,MIN 46,0,14,Michael Bennett middle for 1 yard (tackle by Darren Sharper),1.990,1.590
+2,7:50,2,9,MIN 47,0,14,"Michael Bennett right end for 5 yards (tackle by Mike McKenzie and Kabeer Gbaja-Biamila). Penalty on Byron Chamberlain: Offensive Holding, 10 yards (no play)",1.590,0.240
+2,7:21,2,19,MIN 37,0,14,Michael Bennett middle for -5 yards (tackle by Gilbert Brown and Billy Lyon),0.240,-1.090
+2,6:39,3,24,MIN 32,0,14,Daunte Culpepper pass incomplete intended for Randy Moss,-1.090,-1.240
+2,6:31,4,24,MIN 32,0,14,"Kyle Richardson punts 39 yards, returned by Darrien Gordon for no gain. Penalty on Harold Morrow: Taunting (Offsetting), Penalty on Darrien Gordon: Taunting (Offsetting)",-1.240,-0.870
+2,6:23,1,10,GNB 29,0,14,"Brett Favre pass complete to Terry Glenn for 19 yards (tackle by Eric Kelly). Penalty on Kenny Mixon: Roughing the Passer, 15 yards",0.870,3.120
+2,6:04,1,10,MIN 37,0,14,"Brett Favre pass complete to Bubba Franks for 12 yards (tackle by Greg Biekert). Penalty on Greg Biekert: Face Mask (15 Yards), 13 yards, Penalty on Kenny Mixon: Defensive Offside (Declined)",3.120,4.780
+2,5:41,1,10,MIN 12,0,14,Ahman Green left guard for -5 yards (tackle by Fred Robbins),4.780,3.420
+2,5:07,2,15,MIN 17,0,14,"Brett Favre pass complete to William Henderson for 5 yards (tackle by Tyrone Carter). Penalty on Javon Walker: Offensive Pass Interference, 10 yards (no play)",3.420,2.200
+2,4:44,2,25,MIN 27,0,14,Brett Favre pass complete to Bubba Franks for 4 yards (tackle by Ronnie Bradford),2.200,2.080
+2,4:05,3,21,MIN 23,0,14,"Brett Favre pass incomplete intended for Terry Glenn is intercepted by Jack Brewer at MIN-5 and returned for 23 yards. Penalty on Brett Favre: Unnecessary Roughness, 15 yards",2.080,-1.800
+2,3:56,1,10,MIN 43,0,14,Daunte Culpepper pass incomplete intended for Randy Moss is intercepted by Marques Anderson at GNB-37,1.800,-1.400
+2,3:47,1,10,GNB 37,0,14,"Brett Favre pass complete to Terry Glenn for 16 yards (tackle by Tyrone Carter). Penalty on Tyrone Carter: Face Mask (15 Yards), 15 yards",1.400,3.450
+2,3:24,1,10,MIN 32,0,14,Brett Favre pass incomplete intended for Ahman Green,3.450,2.900
+2,3:19,2,10,MIN 32,0,14,Brett Favre pass incomplete intended for Robert Ferguson (defended by Chris Hovan),2.900,2.210
+2,3:16,3,10,MIN 32,0,14,"Brett Favre pass incomplete intended for Javon Walker (defended by Tyrone Carter). Penalty on Lance Johnstone: Roughing the Passer, 15 yards, Penalty on Greg Biekert: Defensive Holding (Declined) (no play)",2.210,4.440
+2,3:09,1,10,MIN 17,0,14,Brett Favre pass complete to Ahman Green for 5 yards (tackle by Tyrone Carter),4.440,4.690
+2,2:30,2,5,MIN 12,0,14,Ahman Green middle for 4 yards (tackle by Greg Biekert),4.690,4.800
+2,2:00,3,1,MIN 8,0,14,Ahman Green middle for 3 yards (tackle by Fred Robbins),4.800,6.060
+2,1:26,1,5,MIN 5,0,14,Brett Favre pass complete to Ahman Green for 4 yards (tackle by Greg Biekert and Henri Crockett),6.060,5.910
+2,0:48,2,1,MIN 1,6,14,"Ahman Green right tackle for 1 yard, touchdown. Penalty on MIN: Defensive Offside (Declined)",5.910,7.000
+2,0:48,,,MIN 1,7,14,Ryan Longwell kicks extra point good,0.000,0.000
+2,0:48,,,GNB 30,7,14,"Ryan Longwell kicks off 62 yards, returned by Nick Davis for 26 yards. Nick Davis fumbles, recovered by Nick Davis at MIN-34",0.000,1.200
+2,0:37,1,10,MIN 34,7,14,Moe Williams middle for 14 yards (tackle by Tod McBride and Matt Bowen),1.200,2.130
+2,0:37,1,10,MIN 48,7,14,"Daunte Culpepper pass incomplete. Penalty on Bryant McKinnie: False Start, 5 yards (no play)",2.130,1.800
+2,0:12,1,15,MIN 43,7,14,Daunte Culpepper left tackle for 5 yards (tackle by Tyrone Williams),1.800,1.580
+2,0:02,2,10,MIN 48,7,14,Daunte Culpepper pass incomplete intended for D'Wayne Bates is intercepted by Darren Sharper at GNB-7 and returned for 14 yards,1.580,0.000
+Quarter,Time,Down,ToGo,Location,GNB,MIN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,MIN 30,7,14,"Hayden Epstein kicks off 67 yards, returned by Javon Walker for 44 yards (tackle by Lemanski Hall)",0.000,-2.060
+3,14:50,1,10,GNB 47,7,14,Ahman Green middle for 3 yards (tackle by Chris Hovan and Fred Robbins),2.060,1.920
+3,14:14,2,7,,7,14,Brett Favre pass complete to Ahman Green for 3 yards (tackle by Nick Rogers),1.920,1.620
+3,13:33,3,4,MIN 47,7,14,Brett Favre pass incomplete intended for Terry Glenn,1.620,0.130
+3,13:27,4,4,MIN 47,7,14,"Josh Bidwell punts 28 yards, fair catch by Nick Davis",0.130,-0.150
+3,13:20,1,10,MIN 19,7,14,Michael Bennett left end for 1 yard (tackle by Billy Lyon and Hardy Nickerson),0.150,-0.200
+3,12:48,2,9,MIN 20,7,14,Daunte Culpepper pass incomplete intended for Jim Kleinsasser,-0.200,-0.940
+3,12:43,3,9,MIN 20,7,14,Daunte Culpepper pass complete to Kelly Campbell for 11 yards (tackle by Tyrone Williams),-0.940,1.000
+3,12:02,1,10,MIN 31,7,14,"Daunte Culpepper pass incomplete intended for Kelly Campbell. Penalty on Tyrone Williams: Defensive Pass Interference, 28 yards (no play)",1.000,2.850
+3,11:55,1,10,GNB 41,7,14,"Penalty on Matt Birk: False Start, 5 yards (no play)",2.850,2.520
+3,11:55,1,15,GNB 46,7,14,Michael Bennett right end for 4 yards (tackle by Hardy Nickerson and Mike McKenzie),2.520,2.170
+3,11:15,2,11,GNB 42,7,14,Daunte Culpepper pass incomplete intended for Randy Moss,2.170,1.490
+3,11:10,3,11,GNB 42,7,14,Daunte Culpepper pass complete to D'Wayne Bates for 22 yards (tackle by Tyrone Williams),1.490,4.240
+3,10:25,1,10,GNB 20,7,14,Michael Bennett right tackle for 13 yards (tackle by Darren Sharper),4.240,5.600
+3,9:43,1,7,GNB 7,7,14,Daunte Culpepper right guard for 6 yards (tackle by Mike McKenzie and Marques Anderson),5.600,5.910
+3,9:04,2,1,GNB 1,7,20,"Daunte Culpepper right end for 1 yard, touchdown",5.910,7.000
+3,9:04,,,GNB 1,7,21,Gary Anderson kicks extra point good,0.000,0.000
+3,9:04,,,MIN 30,7,21,"Hayden Epstein kicks off 63 yards, returned by Javon Walker for 21 yards (tackle by Jack Brewer)",0.000,-0.810
+3,8:53,1,10,GNB 28,7,21,Ahman Green right tackle for 34 yards (tackle by Corey Chavous),0.810,3.050
+3,8:25,1,10,MIN 38,7,21,"Penalty on Chad Clifton: False Start, 5 yards (no play)",3.050,2.720
+3,8:08,1,15,MIN 43,7,21,Brett Favre pass incomplete intended for Javon Walker,2.720,1.830
+3,8:03,2,15,MIN 43,7,21,Brett Favre pass incomplete intended for Donald Driver,1.830,1.160
+3,7:56,3,15,MIN 43,7,21,Brett Favre pass complete to Javon Walker for 14 yards (tackle by Brian Williams),1.160,1.620
+3,7:15,4,1,MIN 29,7,21,Brett Favre pass complete to Tyrone Davis for 24 yards (tackle by Corey Chavous),1.620,6.060
+3,6:40,1,5,MIN 5,7,21,"Brett Favre pass complete to Donald Driver for 5 yards. Penalty on Earl Dotson: Illegal Shift, 5 yards (no play)",6.060,4.910
+3,6:23,1,10,MIN 10,7,21,Brett Favre pass incomplete intended for Ahman Green,4.910,4.190
+3,6:19,2,10,MIN 10,7,21,Ahman Green middle for 7 yards (tackle by Henri Crockett and Greg Biekert),4.190,4.720
+3,5:44,3,3,MIN 3,7,21,"Brett Favre pass incomplete intended for Bubba Franks. Penalty on Lance Johnstone: Roughing the Passer, 2 yards (no play)",4.720,6.970
+3,5:39,1,1,MIN 1,13,21,"Brett Favre pass complete to Bubba Franks for 1 yard, touchdown",6.970,7.000
+3,5:39,,,MIN 1,14,21,Ryan Longwell kicks extra point good,0.000,0.000
+3,5:39,,,GNB 30,14,21,"Ryan Longwell kicks off 67 yards, returned by Moe Williams for 14 yards (tackle by Robert Ferguson)",0.000,-0.060
+3,5:31,1,10,MIN 17,14,21,Daunte Culpepper right end for 16 yards (tackle by Hardy Nickerson),-0.060,1.140
+3,5:04,1,10,MIN 33,14,21,Michael Bennett right guard for 9 yards (tackle by Na'il Diggs and Mike McKenzie),1.140,1.810
+3,4:35,2,1,MIN 42,14,21,Daunte Culpepper pass incomplete intended for Randy Moss,1.810,1.090
+3,4:30,3,1,MIN 42,14,21,Moe Williams middle for no gain (tackle by Rod Walker),1.090,-0.590
+3,4:19,4,1,MIN 42,14,21,"Kyle Richardson punts 50 yards. Penalty on Mike McKenzie: Offensive Holding, 4 yards",-0.590,0.380
+3,4:07,1,10,GNB 4,14,21,Ahman Green left guard for 2 yards (tackle by Nick Rogers and Fred Robbins),-0.380,-0.630
+3,3:31,2,8,GNB 6,14,21,Brett Favre pass incomplete intended for Terry Glenn is intercepted by Greg Biekert at GNB-25 and returned for 20 yards,-0.630,-6.060
+3,3:21,1,5,GNB 5,14,21,Moe Williams left tackle for 4 yards (tackle by Kabeer Gbaja-Biamila and Hardy Nickerson),6.060,5.910
+3,2:47,2,1,GNB 1,14,21,"Daunte Culpepper middle for no gain. Daunte Culpepper fumbles, recovered by Daunte Culpepper at GNB-1",5.910,5.170
+3,2:07,3,1,GNB 1,14,21,"Daunte Culpepper for no gain. Daunte Culpepper fumbles, recovered by Marques Anderson at GNB-2",5.170,0.380
+3,1:46,1,10,GNB 2,14,21,Ahman Green middle for 1 yard (tackle by Henri Crockett and Darius Holland),-0.380,-0.710
+3,1:11,2,9,GNB 3,14,21,Ahman Green left tackle for 4 yards (tackle by Nick Rogers and Greg Biekert),-0.710,-0.840
+3,0:27,2,9,GNB 3,,,Timeout #1 by Green Bay Packers,-0.710,-0.840
+3,0:27,3,5,GNB 7,14,21,Brett Favre pass incomplete intended for Bubba Franks,-0.840,-2.490
+3,0:27,4,5,GNB 7,14,21,"Josh Bidwell punts 42 yards, fair catch by Nick Davis",-2.490,-2.320
+3,0:15,1,10,GNB 49,14,21,"Daunte Culpepper middle for 7 yards (tackle by Jared Tomich). Daunte Culpepper fumbles (forced by Jared Tomich), recovered by Michael Bennett at GNB-41",2.320,2.860
+Quarter,Time,Down,ToGo,Location,GNB,MIN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,2,GNB 41,14,21,Michael Bennett left guard for 4 yards (tackle by Na'il Diggs),2.860,3.120
+4,14:23,1,10,GNB 37,14,21,Daunte Culpepper sacked by Nate Wayne and Hardy Nickerson for -6 yards,3.120,1.760
+4,13:43,2,16,GNB 43,14,21,Daunte Culpepper pass incomplete intended for Kelly Campbell (defended by Tyrone Williams),1.760,1.090
+4,13:36,3,16,GNB 43,14,21,Daunte Culpepper pass incomplete intended for Kelly Campbell,1.090,0.400
+4,13:30,4,16,GNB 43,14,21,"Kyle Richardson punts 27 yards, fair catch by Darrien Gordon",0.400,0.140
+4,13:20,1,10,GNB 16,14,21,Brett Favre pass complete to Ahman Green for 2 yards (tackle by Fred Robbins and Kenny Mixon),-0.140,-0.350
+4,12:46,2,8,GNB 18,14,21,Ahman Green middle for -2 yards (tackle by Lorenzo Bromell),-0.350,-1.320
+4,12:07,3,10,GNB 16,20,21,"Brett Favre pass complete to Donald Driver for 84 yards, touchdown",-1.320,7.000
+4,12:07,,,MIN 16,21,21,Ryan Longwell kicks extra point good,0.000,0.000
+4,12:07,,,GNB 30,21,21,"Ryan Longwell kicks off 69 yards, returned by Moe Williams for 51 yards (tackle by Matt Bowen). Penalty on Robert Ferguson: Face Mask (15 Yards), 15 yards",0.000,3.380
+4,11:43,1,10,GNB 33,21,21,Michael Bennett right end for 5 yards (tackle by Marques Anderson),3.380,3.510
+4,10:59,2,5,GNB 28,21,21,Michael Bennett middle for 3 yards (tackle by Tod McBride and Nate Wayne),3.510,3.200
+4,10:16,3,2,GNB 25,21,21,Daunte Culpepper pass complete to Randy Moss for 7 yards,3.200,4.370
+4,9:47,1,10,GNB 18,21,21,Michael Bennett right end for 2 yards (tackle by Rod Walker),4.370,4.090
+4,9:04,2,8,GNB 16,21,21,Michael Bennett right end for no gain (tackle by Billy Lyon),4.090,3.300
+4,8:19,3,8,GNB 16,21,21,"Penalty on Bryant McKinnie: False Start, 5 yards (no play)",3.300,2.740
+4,7:57,3,13,GNB 21,21,21,Moe Williams middle for 7 yards (tackle by Na'il Diggs and Darren Sharper),2.740,2.530
+4,7:21,4,6,GNB 14,21,24,Gary Anderson 32 yard field goal good,2.530,3.000
+4,7:21,,,MIN 30,21,24,"Hayden Epstein kicks off 61 yards, returned by Javon Walker for 27 yards (tackle by Lemanski Hall)",0.000,-1.330
+4,7:09,1,10,GNB 36,21,24,Ahman Green left end for 3 yards (tackle by Corey Chavous and Tyrone Carter),1.330,1.200
+4,6:33,2,7,GNB 39,21,24,Brett Favre pass incomplete intended for Terry Glenn (defended by Greg Biekert),1.200,0.500
+4,6:27,3,7,GNB 39,21,24,Brett Favre pass incomplete intended for Donald Driver (defended by Brian Williams),0.500,-0.780
+4,6:21,4,7,GNB 39,21,24,"Josh Bidwell punts 40 yards, returned by Nick Davis for no gain",-0.780,-0.340
+4,6:13,1,10,MIN 21,21,24,Michael Bennett left end for 2 yards,0.340,0.070
+4,5:32,2,8,MIN 23,21,24,Daunte Culpepper pass incomplete intended for D'Wayne Bates,0.070,-0.630
+4,5:27,2,8,MIN 23,,,Timeout #1 by Minnesota Vikings,0.070,-0.630
+4,5:27,3,8,MIN 23,21,24,Daunte Culpepper pass incomplete intended for D'Wayne Bates (defended by Mike McKenzie),-0.630,-1.830
+4,5:27,4,8,MIN 23,21,24,"Kyle Richardson punts 38 yards, fair catch by Darrien Gordon",-1.830,-1.530
+4,5:14,1,10,GNB 39,21,24,Brett Favre pass complete to Ahman Green for 6 yards (tackle by Chris Hovan),1.530,1.800
+4,4:38,2,4,GNB 45,21,24,Brett Favre pass incomplete intended for Donald Driver (defended by Tyrone Carter),1.800,1.090
+4,4:33,3,4,GNB 45,21,24,Brett Favre pass incomplete intended for Terry Glenn,1.090,-0.390
+4,4:27,4,4,GNB 45,21,24,"Josh Bidwell punts 35 yards, fair catch by Nick Davis",-0.390,-0.280
+4,4:20,1,10,MIN 20,21,24,Michael Bennett middle for 4 yards (tackle by Kabeer Gbaja-Biamila and Nate Wayne),0.280,0.270
+4,3:42,2,6,MIN 24,21,24,Michael Bennett left end for 4 yards (tackle by Tod McBride and Marques Anderson),0.270,0.100
+4,3:08,3,2,MIN 28,21,24,Daunte Culpepper left end for 6 yards (tackle by Hardy Nickerson),0.100,1.200
+4,3:03,1,10,MIN 34,21,24,Michael Bennett left end for 62 yards (tackle by Marques Anderson),1.200,6.280
+4,2:06,1,4,GNB 4,21,24,Moe Williams middle for 1 yard (tackle by Paris Lenon),6.280,5.530
+4,2:00,2,3,GNB 3,21,30,"Moe Williams left guard for 3 yards, touchdown",5.530,7.000
+4,2:00,,,GNB 3,21,31,Gary Anderson kicks extra point good,0.000,0.000
+4,2:00,,,MIN 30,21,31,"Hayden Epstein kicks off 65 yards, returned by Javon Walker for 18 yards (tackle by Lemanski Hall)",0.000,-0.480
+4,1:51,1,10,GNB 23,21,31,Brett Favre pass complete to Terry Glenn for 17 yards (tackle by Tyrone Carter),0.480,1.600
+4,1:26,1,10,GNB 40,21,31,Brett Favre pass complete to Donald Driver for 9 yards (tackle by Greg Biekert),1.600,2.270
+4,1:06,2,1,GNB 49,21,31,Brett Favre pass complete to Terry Glenn for 9 yards (tackle by Tyrone Carter and Jack Brewer),2.270,2.790
+4,1:00,2,1,GNB 49,,,Timeout #2 by Green Bay Packers,2.270,2.790
+4,1:00,1,10,MIN 42,21,31,"Penalty on Lorenzo Bromell: Neutral Zone Infraction, 5 yards (no play)",2.790,3.520
+4,1:00,1,5,MIN 37,21,31,Brett Favre pass incomplete intended for Gilbert Brown (defended by Tyrone Carter),3.520,2.920
+4,0:56,2,5,MIN 37,21,31,Brett Favre pass incomplete intended for Javon Walker (defended by Chris Hovan),2.920,2.210
+4,0:52,3,5,MIN 37,21,31,Brett Favre pass incomplete intended for Javon Walker,2.210,0.790
+4,0:47,4,5,MIN 37,21,31,Brett Favre pass incomplete intended for Robert Ferguson,0.790,-1.470
+4,0:43,1,10,MIN 38,21,31,Daunte Culpepper for -1 yards,1.470,0.790
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

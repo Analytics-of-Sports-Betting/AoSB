@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,SEA 19,6,3:31,36,Punt
+2,1,7:39,SEA 14,7,4:40,29,Punt
+3,1,2:07,ATL 9,1,0:05,9,Touchdown
+4,2,14:50,SEA 19,3,1:35,3,Punt
+5,2,8:38,SEA 25,8,4:06,75,Touchdown
+6,2,1:58,ATL 45,5,1:16,22,Field Goal
+7,3,11:01,SEA 25,3,1:27,7,Punt
+8,3,6:11,SEA 20,6,2:27,35,Punt
+9,3,0:17,SEA 26,10,3:50,64,Missed FG
+10,4,8:34,SEA 30,9,3:51,70,Touchdown
+11,4,3:48,,7,1:51,24,Field Goal
+12,4,1:30,ATL 25,3,1:30,-4,End of Game

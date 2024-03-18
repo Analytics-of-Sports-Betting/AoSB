@@ -1,0 +1,186 @@
+Quarter,Time,Down,ToGo,Location,NYJ,DEN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Broncos won the coin toss and deferred, Jets to receive the opening kickoff.",,
+1,15:00,,,DEN 35,0,0,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,NYJ 25,0,0,Zach Wilson pass incomplete deep right intended for Tyler Conklin,0.610,0.060
+1,14:55,2,10,NYJ 25,0,0,"Zach Wilson pass incomplete short right. Penalty on Nate Herbig: Ineligible Downfield Pass, 5 yards (declined)",0.060,-0.620
+1,14:48,3,10,NYJ 25,0,0,Zach Wilson pass incomplete deep middle intended for Corey Davis,-0.620,-1.700
+1,14:44,4,10,NYJ 25,0,0,"Braden Mann punts 58 yards, fair catch by Montrell Washington at DEN-17",-1.700,0.060
+1,14:37,1,10,DEN 17,0,0,Melvin Gordon up the middle for 3 yards (tackle by Quinnen Williams),-0.060,-0.060
+1,14:08,2,7,DEN 20,0,0,Brett Rypien pass complete short right to Jerry Jeudy for no gain (tackle by Sauce Gardner),-0.060,-0.870
+1,13:32,3,7,DEN 20,0,0,Brett Rypien pass complete short middle to Jerry Jeudy for 16 yards (tackle by Jordan Whitehead),-0.870,1.330
+1,12:58,1,10,DEN 36,0,0,Melvin Gordon right end for 6 yards (tackle by Sauce Gardner),1.330,1.600
+1,12:26,2,4,DEN 42,0,0,Melvin Gordon right tackle for 1 yard (tackle by Vinny Curry),1.600,1.030
+1,11:50,3,3,DEN 43,0,0,Brett Rypien pass incomplete short left intended for Jerry Jeudy,1.030,-0.520
+1,11:43,4,3,DEN 43,0,0,"Corliss Waitman punts 44 yards, fair catch by Braxton Berrios at NYJ-13",-0.520,0.320
+1,11:36,1,10,NYJ 13,0,0,Breece Hall right guard for 4 yards (tackle by Alex Singleton and D.J. Jones),-0.320,-0.370
+1,10:56,2,7,NYJ 17,0,0,Zach Wilson pass complete short left to Garrett Wilson for 5 yards (tackle by Damarri Mathis),-0.370,-0.350
+1,10:14,3,1,NYJ 22,0,0,"Breece Hall left end for no gain (tackle by Damarri Mathis). Penalty on Garrett Wilson: Offensive Holding, 10 yards (accepted) (no play)",-0.350,-1.540
+1,10:04,3,11,NYJ 12,0,0,Zach Wilson pass complete short left to C.J. Uzomah for 5 yards (tackle by Bradley Chubb),-1.540,-2.320
+1,9:22,4,6,NYJ 17,0,0,"Penalty on Jacob Martin: False Start, 5 yards (accepted) (no play)",-2.320,-2.490
+1,9:14,4,11,NYJ 12,0,0,"Braden Mann punts 51 yards, returned by Montrell Washington for 2 yards (tackle by Justin Hardee)",-2.490,-1.530
+1,9:04,1,10,DEN 39,0,0,Brett Rypien pass incomplete short left intended for Jerry Jeudy (defended by D.J. Reed),1.530,0.990
+1,9:00,2,10,DEN 39,0,0,Brett Rypien pass incomplete short middle intended for Melvin Gordon,0.990,0.300
+1,8:56,3,10,DEN 39,0,0,Brett Rypien pass incomplete short left intended for KJ Hamler,0.300,-0.780
+1,8:52,4,10,DEN 39,0,0,Corliss Waitman punts 34 yards downed by Tyrie Cleveland,-0.780,-0.740
+1,8:40,1,10,NYJ 27,0,0,Zach Wilson scrambles left end for 4 yards (tackle by Alex Singleton),0.740,0.740
+1,8:09,2,6,NYJ 31,0,0,Zach Wilson pass complete short right to Braxton Berrios for 7 yards (tackle by Patrick Surtain),0.740,1.470
+1,7:44,1,10,NYJ 38,6,0,"Breece Hall left end for 62 yards, touchdown",1.470,7.000
+1,7:34,,,DEN 15,7,0,Greg Zuerlein kicks extra point good,0.000,0.000
+1,7:34,,,NYJ 35,7,0,"Braden Mann kicks off 65 yards, touchback.",0.000,0.610
+1,7:34,1,10,DEN 25,7,0,Latavius Murray right end for 1 yard (tackle by Quincy Williams and Kwon Alexander),0.610,0.200
+1,6:59,2,9,DEN 26,7,0,Brett Rypien pass complete short right to Eric Tomlinson for 8 yards (tackle by Sauce Gardner),0.200,0.560
+1,6:25,3,1,DEN 34,7,0,Brett Rypien up the middle for 2 yards (tackle by Nathan Shepherd),0.560,1.330
+1,5:59,1,10,DEN 36,7,0,Latavius Murray left tackle for 5 yards (tackle by Quinnen Williams),1.330,1.470
+1,5:26,2,5,DEN 41,7,0,"Latavius Murray left end for no gain (tackle by Quinnen Williams and Marcell Harris). Penalty on John Franklin-Myers: Defensive Offside, 5 yards (accepted) (no play)",1.470,1.990
+1,5:11,1,10,DEN 46,7,0,Brett Rypien pass incomplete short right,1.990,1.450
+1,5:04,2,10,DEN 46,7,0,"Melvin Gordon left tackle for 5 yards (tackle by Nathan Shepherd and Quincy Williams). Penalty on Solomon Thomas: Defensive Holding, 5 yards (accepted)",1.450,2.650
+1,4:47,1,10,NYJ 44,7,0,Mike Boone right guard for 6 yards (tackle by C.J. Mosley and D.J. Reed),2.650,2.920
+1,4:14,2,4,NYJ 38,7,0,Mike Boone right end for 15 yards (tackle by Sauce Gardner),2.920,4.040
+1,3:40,1,10,NYJ 23,7,0,Mike Boone right tackle for no gain (tackle by Micheal Clemons),4.040,3.500
+1,3:00,2,10,NYJ 23,7,0,Brett Rypien pass incomplete deep right intended for Greg Dulcich,3.500,2.810
+1,2:54,3,10,NYJ 23,7,0,Brett Rypien pass complete deep left to Jerry Jeudy for 17 yards,2.810,5.830
+1,2:15,1,6,NYJ 6,7,0,Latavius Murray right guard for 4 yards (tackle by Quinnen Williams and Carl Lawson),5.830,5.720
+1,1:37,2,2,NYJ 2,7,6,"Latavius Murray left tackle for 2 yards, touchdown",5.720,7.000
+1,1:33,,,NYJ 15,7,6,Brandon McManus kicks extra point no good,0.000,-1.000
+1,1:33,,,DEN 35,7,6,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+1,1:33,1,10,NYJ 25,7,6,Michael Carter right tackle for 4 yards (tackle by D.J. Jones),0.610,0.600
+1,0:54,2,6,NYJ 29,7,6,"Zach Wilson sacked by Dre'Mont Jones for -10 yards DEN challenged the runner was down by contact ruling, and the play was upheld.",0.600,-1.510
+1,0:41,3,16,NYJ 19,7,6,Zach Wilson sacked by Dre'Mont Jones for -5 yards,-1.510,-2.470
+Quarter,Time,Down,ToGo,Location,NYJ,DEN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,4,21,NYJ 14,7,6,Braden Mann punts 38 yards out of bounds,-2.470,-2.130
+2,14:53,1,10,DEN 48,7,6,Melvin Gordon right tackle for 2 yards (tackle by Lamarcus Joyner),2.130,1.850
+2,14:19,2,8,DEN 50,7,6,Melvin Gordon left tackle for 1 yard (tackle by Quinnen Williams),1.850,1.290
+2,13:38,3,7,NYJ 49,7,6,Brett Rypien scrambles for 6 yards (tackle by Bryce Huff),1.290,0.400
+2,13:03,4,1,NYJ 43,7,6,Brett Rypien up the middle for 1 yard (tackle by Nathan Shepherd),0.400,2.790
+2,12:14,1,10,NYJ 42,7,6,Brett Rypien pass incomplete deep right intended for Jerry Jeudy,2.790,2.240
+2,12:07,2,10,NYJ 42,7,6,Latavius Murray left guard for 4 yards (tackle by D.J. Reed),2.240,2.080
+2,11:31,3,6,NYJ 38,7,6,Brett Rypien pass incomplete deep right intended for Eric Saubert,2.080,0.720
+2,11:25,4,6,NYJ 38,7,6,Brandon McManus 56 yard field goal no good,0.720,-1.990
+2,11:20,1,10,NYJ 46,7,6,Breece Hall left end for 4 yards (tackle by Matt Henningsen),1.990,1.990
+2,10:41,2,6,NYJ 50,7,6,Zach Wilson pass complete short left to Braxton Berrios for no gain (tackle by Jonathon Cooper),1.990,1.290
+2,9:57,3,6,DEN 50,7,6,Zach Wilson pass incomplete short right intended for Jeff Smith (defended by K'Waun Williams),1.290,-0.060
+2,9:51,4,6,DEN 50,7,6,Braden Mann punts 49 yards downed by Brandin Echols,-0.060,0.380
+2,9:42,1,10,DEN 1,7,6,Brett Rypien pass complete short left to Greg Dulcich for 9 yards (tackle by Kwon Alexander),-0.380,-0.120
+2,9:09,2,1,DEN 10,7,6,Melvin Gordon up the middle for 3 yards (tackle by Jacob Martin and C.J. Mosley),-0.120,-0.320
+2,8:33,1,10,DEN 13,7,6,Brett Rypien pass complete deep right to Jerry Jeudy for 45 yards (tackle by Sauce Gardner),-0.320,2.790
+2,7:40,1,10,NYJ 42,7,6,Brett Rypien pass incomplete short right intended for Courtland Sutton (defended by Sauce Gardner),2.790,2.240
+2,7:35,2,10,NYJ 42,7,6,Mike Boone right tackle for 2 yards (tackle by Quincy Williams),2.240,1.820
+2,6:48,3,8,NYJ 40,7,6,"Brett Rypien pass incomplete deep right intended for Melvin Gordon. Penalty on Lamarcus Joyner: Defensive Holding, 5 yards (accepted) (no play)",1.820,3.250
+2,6:42,1,10,NYJ 35,7,6,Melvin Gordon right tackle for 1 yard (tackle by Solomon Thomas and Vinny Curry),3.250,2.840
+2,6:07,2,9,NYJ 34,7,6,Brett Rypien pass complete short left to Eric Tomlinson for 13 yards (tackle by Quincy Williams),2.840,4.170
+2,5:27,1,10,NYJ 21,7,6,Montrell Washington right end for 2 yards (tackle by C.J. Mosley and Jordan Whitehead),4.170,3.900
+2,4:44,2,8,NYJ 19,7,6,"Penalty on Eric Saubert: False Start, 5 yards (accepted) (no play)",3.900,3.220
+2,4:27,2,13,NYJ 24,7,6,"Brett Rypien aborted snap, recovered by Brett Rypien at NYJ-24 Brett Rypien pass incomplete deep right intended for Courtland Sutton (defended by Sauce Gardner)",3.220,2.540
+2,4:21,3,13,NYJ 24,7,6,Brett Rypien pass complete short right to Latavius Murray for -2 yards (tackle by John Franklin-Myers),2.540,1.740
+2,3:41,4,15,NYJ 26,7,9,Brandon McManus 44 yard field goal good,1.740,3.000
+2,3:37,,,DEN 35,7,9,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+2,3:37,1,10,NYJ 25,7,9,Breece Hall left end for 2 yards (tackle by Patrick Surtain and Jonas Griffith),0.610,0.330
+2,3:17,2,8,NYJ 27,7,9,Zach Wilson pass incomplete short middle intended for Braxton Berrios,0.330,-0.360
+2,3:11,3,8,NYJ 27,7,9,Zach Wilson scrambles for 18 yards (tackle by P.J. Locke),-0.360,1.930
+2,2:21,1,10,NYJ 45,7,9,"Zach Wilson pass complete short right to Braxton Berrios for no gain (tackle by Alex Singleton). Penalty on Denzel Mims: Offensive Pass Interference, 10 yards (accepted) (no play)",1.930,1.270
+2,2:00,1,20,NYJ 35,7,9,"Penalty on Duane Brown: False Start, 5 yards (accepted) (no play)",1.270,0.940
+2,2:00,1,25,NYJ 30,7,9,Zach Wilson pass complete short middle to Michael Carter for 37 yards (tackle by Justin Simmons),0.940,3.380
+2,1:51,1,10,DEN 33,7,9,Zach Wilson pass complete short right to Denzel Mims for 4 yards (tackle by K'Waun Williams),3.380,3.380
+2,1:13,2,6,DEN 29,7,9,Zach Wilson pass complete short left to Garrett Wilson for 6 yards (tackle by K'Waun Williams),3.380,4.040
+2,0:40,1,10,DEN 23,7,9,"Ty Johnson left end for no gain (tackle by Alex Singleton). Penalty on Duane Brown: Offensive Holding, 10 yards (accepted) (no play)",4.040,3.380
+2,0:32,1,20,DEN 33,7,9,Zach Wilson pass incomplete short right,3.380,2.150
+2,0:24,2,20,DEN 33,7,9,Zach Wilson pass complete short middle to Tyler Conklin for 5 yards (tackle by Alex Singleton and Jonathon Cooper),2.150,2.150
+2,0:19,,,,,,Timeout #1 by New York Jets,,
+2,0:19,3,15,DEN 28,7,9,Michael Carter left guard for 1 yard (tackle by Bradley Chubb),2.150,1.670
+2,0:03,,,,,,Timeout #2 by New York Jets,,
+2,0:03,4,14,DEN 27,10,9,Greg Zuerlein 45 yard field goal good,1.670,3.000
+Quarter,Time,Down,ToGo,Location,NYJ,DEN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,NYJ 35,10,9,"Braden Mann kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,DEN 25,10,9,Brett Rypien pass incomplete short left intended for Jerry Jeudy (defended by Quinnen Williams),0.610,0.060
+3,14:57,2,10,DEN 25,10,9,Brett Rypien pass complete short left to Courtland Sutton for 7 yards (tackle by D.J. Reed),0.060,0.300
+3,14:21,3,3,DEN 32,10,9,Brett Rypien pass complete short middle to Greg Dulcich for 7 yards (tackle by Brandin Echols and C.J. Mosley),0.300,1.530
+3,13:44,1,10,DEN 39,10,9,Brett Rypien pass incomplete deep middle intended for Courtland Sutton (defended by D.J. Reed),1.530,0.990
+3,13:36,2,10,DEN 39,10,9,Brett Rypien pass complete short left to Greg Dulcich for 4 yards (tackle by Jordan Whitehead),0.990,0.830
+3,13:01,3,6,DEN 43,10,9,Brett Rypien pass complete short right to Courtland Sutton for 5 yards (tackle by D.J. Reed),0.830,-0.190
+3,12:20,4,1,DEN 48,10,9,"Corliss Waitman punts 39 yards, fair catch by Braxton Berrios at NYJ-13",-0.190,0.320
+3,12:12,1,10,NYJ 13,10,9,Braxton Berrios left end for 25 yards (tackle by Justin Simmons),-0.320,1.470
+3,11:31,1,10,NYJ 38,10,9,"Ty Johnson left tackle for no gain (tackle by Kareem Jackson). Penalty on Dre'Mont Jones: Defensive Offside, 5 yards (accepted) (no play)",1.470,2.200
+3,11:16,1,5,NYJ 43,10,9,Michael Carter left tackle for 2 yards (tackle by D.J. Jones),2.200,1.870
+3,10:36,2,3,NYJ 45,10,9,Zach Wilson pass incomplete short middle intended for C.J. Uzomah,1.870,1.160
+3,10:31,3,3,NYJ 45,10,9,Zach Wilson pass incomplete short middle intended for Tyler Conklin,1.160,-0.390
+3,10:22,4,3,NYJ 45,10,9,"Braden Mann punts 55 yards, touchback.",-0.390,-0.280
+3,10:14,1,10,DEN 20,10,9,Latavius Murray up the middle for 4 yards (tackle by Solomon Thomas),0.280,0.270
+3,9:39,2,6,DEN 24,10,9,Latavius Murray right tackle for no gain (tackle by Micheal Clemons) (no play),0.270,-0.460
+3,9:25,2,11,DEN 19,10,9,"Brett Rypien pass incomplete deep left intended for KJ Hamler. Penalty on Vinny Curry: Roughing the Passer, 15 yards (accepted) (no play)",-0.460,1.200
+3,9:25,1,10,DEN 34,10,9,Latavius Murray right end for 1 yard (tackle by Quincy Williams),1.200,0.790
+3,8:51,2,9,DEN 35,10,9,Brett Rypien pass incomplete short right intended for Greg Dulcich,0.790,0.100
+3,8:48,3,9,DEN 35,10,9,Brett Rypien sacked by and Bryce Huff for -6 yards and Carl Lawson for -6 yards,0.100,-1.440
+3,8:13,4,15,DEN 29,10,9,Corliss Waitman punts 39 yards downed by Tyrie Cleveland,-1.440,-1.070
+3,8:06,1,10,NYJ 32,10,9,Michael Carter up the middle for 2 yards (tackle by Mike Purcell and Jonas Griffith),1.070,0.800
+3,7:32,2,8,NYJ 34,10,9,Zach Wilson pass complete short left to Garrett Wilson for 1 yard (tackle by Alex Singleton and Jonas Griffith),0.800,0.230
+3,6:46,3,7,NYJ 35,10,9,Zach Wilson pass incomplete short left,0.230,-1.040
+3,6:38,4,7,NYJ 35,10,9,"Braden Mann punts 65 yards, touchback.",-1.040,-0.280
+3,6:29,1,10,DEN 20,10,9,Brett Rypien pass complete short left to Jerry Jeudy for 11 yards (tackle by D.J. Reed),0.280,1.000
+3,5:51,1,10,DEN 31,10,9,Melvin Gordon right end for 7 yards (tackle by C.J. Mosley and Sauce Gardner),1.000,1.410
+3,5:24,2,3,DEN 38,10,9,Melvin Gordon right tackle for 2 yards (tackle by Sauce Gardner),1.410,0.960
+3,4:44,3,1,DEN 40,10,9,Brett Rypien pass incomplete short right intended for Andrew Beck (defended by Jordan Whitehead),0.960,-0.720
+3,4:38,4,1,DEN 40,10,9,"Corliss Waitman punts 46 yards, fair catch by Braxton Berrios at NYJ-14",-0.720,0.280
+3,4:31,1,10,NYJ 14,10,9,Zach Wilson pass complete short right to Michael Carter for 8 yards (tackle by Damarri Mathis),-0.280,0.420
+3,3:57,2,2,NYJ 22,10,9,"Penalty on Duane Brown: False Start, 5 yards (accepted) (no play)",0.420,-0.370
+3,3:44,2,7,NYJ 17,10,9,Zach Wilson sacked by and Nik Bonitto for -1 yards and Mike Purcell for -1 yards,-0.370,-1.160
+3,2:57,3,8,NYJ 16,10,9,Zach Wilson pass complete short middle to Tyler Conklin for 6 yards (tackle by Alex Singleton and Damarri Mathis),-1.160,-1.900
+3,2:19,4,2,NYJ 22,10,9,Braden Mann punts 50 yards out of bounds,-1.900,-0.810
+3,2:07,1,10,DEN 28,10,9,KJ Hamler right end for 14 yards (tackle by Sauce Gardner and Lamarcus Joyner),0.810,1.730
+3,1:33,1,10,DEN 42,10,9,Brett Rypien pass deep left intended for Greg Dulcich is intercepted by Lamarcus Joyner at NYJ-36 and returned for 27 yards (tackle by Cameron Fleming),1.730,-3.120
+3,1:24,1,10,DEN 37,10,9,Michael Carter left tackle for 5 yards (tackle by Matt Henningsen),3.120,3.250
+3,0:47,2,5,DEN 32,10,9,Michael Carter right end for 4 yards (tackle by Alex Singleton),3.250,3.070
+3,0:11,3,1,DEN 28,10,9,Michael Carter left end for 3 yards (tackle by Kareem Jackson and Mike Purcell),3.070,3.910
+Quarter,Time,Down,ToGo,Location,NYJ,DEN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,DEN 25,10,9,Zach Wilson pass complete short left to Braxton Berrios for 8 yards (tackle by Alex Singleton),3.910,4.550
+4,14:27,2,2,DEN 17,10,9,Michael Carter left tackle for 1 yard (tackle by Alex Singleton and Dre'Mont Jones),4.550,4.060
+4,13:44,3,1,DEN 16,10,9,Michael Carter left guard for no gain (tackle by Bradley Chubb and Alex Singleton),4.060,2.530
+4,12:53,4,1,DEN 16,13,9,Greg Zuerlein 33 yard field goal good,2.530,3.000
+4,12:49,,,NYJ 35,13,9,"Braden Mann kicks off 65 yards, touchback.",0.000,0.610
+4,12:49,1,10,DEN 25,13,9,Melvin Gordon up the middle for 2 yards (tackle by Micheal Clemons and Nathan Shepherd),0.610,0.330
+4,12:12,2,8,DEN 27,13,9,Brett Rypien pass complete short left to Greg Dulcich for 6 yards (tackle by D.J. Reed),0.330,0.430
+4,11:33,3,2,DEN 33,13,9,Brett Rypien pass complete short middle to Latavius Murray for 1 yard (tackle by Kwon Alexander),0.430,-1.110
+4,10:54,4,1,DEN 34,13,9,Corliss Waitman punts 38 yards out of bounds,-1.110,-0.810
+4,10:47,1,10,NYJ 28,13,9,Zach Wilson pass complete short right to Garrett Wilson for 12 yards (tackle by Jonas Griffith),0.810,1.600
+4,10:19,1,10,NYJ 40,13,9,Ty Johnson left end for 3 yards (tackle by Matt Henningsen),1.600,1.460
+4,9:34,2,7,NYJ 43,13,9,Zach Wilson pass complete short middle to Ty Johnson for 6 yards (tackle by Jonas Griffith),1.460,1.550
+4,8:52,3,1,NYJ 49,13,9,Zach Wilson pass complete short right to Tyler Conklin for 8 yards (tackle by Kareem Jackson),1.550,2.720
+4,8:10,1,10,DEN 43,13,9,"Ty Johnson left guard for no gain (tackle by Jonas Griffith). Penalty on Nate Herbig: Offensive Holding, 10 yards (accepted) (no play)",2.720,2.060
+4,7:48,1,20,NYJ 47,13,9,Zach Wilson pass complete short right to Tyler Conklin for 3 yards (tackle by Damarri Mathis),2.060,1.230
+4,7:03,2,17,NYJ 50,13,9,Zach Wilson pass incomplete short middle intended for Denzel Mims,1.230,0.560
+4,6:58,3,17,NYJ 50,13,9,"Zach Wilson pass incomplete deep middle intended for Braxton Berrios. Penalty on K'Waun Williams: Defensive Pass Interference, 19 yards (accepted) (no play)",0.560,3.510
+4,6:52,1,10,DEN 31,13,9,Michael Carter right tackle for 1 yard (tackle by Mike Purcell and Dre'Mont Jones),3.510,3.100
+4,6:12,2,9,DEN 30,13,9,Michael Carter left guard for 5 yards (tackle by Mike Purcell and Alex Singleton),3.100,3.070
+4,5:31,3,4,DEN 25,13,9,Zach Wilson scrambles right end for 3 yards (tackle by Justin Simmons),3.070,2.140
+4,4:39,4,1,DEN 22,16,9,Greg Zuerlein 40 yard field goal good,2.140,3.000
+4,4:35,,,NYJ 35,16,9,"Braden Mann kicks off 65 yards, touchback.",0.000,0.610
+4,4:35,1,10,DEN 25,16,9,Brett Rypien pass complete short right to Greg Dulcich for 9 yards (tackle by Sauce Gardner),0.610,1.280
+4,4:31,2,1,DEN 34,16,9,Latavius Murray up the middle for 3 yards (tackle by Sheldon Rankins),1.280,1.400
+4,4:09,1,10,DEN 37,16,9,Brett Rypien pass complete short right to KJ Hamler for 4 yards (tackle by Sauce Gardner),1.400,1.400
+4,3:44,2,6,DEN 41,16,9,Brett Rypien pass incomplete short right intended for Latavius Murray,1.400,0.700
+4,3:41,3,6,DEN 41,16,9,Brett Rypien pass complete deep right to Greg Dulcich for 16 yards (tackle by Brandin Echols),0.700,2.720
+4,3:14,1,10,NYJ 43,16,9,Brett Rypien pass complete short left to Courtland Sutton for 11 yards (tackle by C.J. Mosley),2.720,3.450
+4,2:46,1,10,NYJ 32,16,9,Brett Rypien pass incomplete short left intended for Courtland Sutton,3.450,2.900
+4,2:42,2,10,NYJ 32,16,9,Brett Rypien pass complete short right to Jerry Jeudy for 4 yards (tackle by Jordan Whitehead),2.900,2.740
+4,2:36,3,6,NYJ 28,16,9,Brett Rypien pass complete short right to Jerry Jeudy for 3 yards (tackle by Michael Carter),2.740,1.900
+4,2:00,4,3,NYJ 25,16,9,Brett Rypien pass incomplete deep right intended for Courtland Sutton (defended by Sauce Gardner),1.900,-0.610
+4,1:55,1,10,NYJ 25,16,9,Michael Carter left tackle for no gain (tackle by Bradley Chubb),0.610,0.060
+4,1:50,,,,,,Timeout #1 by Denver Broncos,,
+4,1:50,2,10,NYJ 25,16,9,Michael Carter left tackle for 1 yard (tackle by Alex Singleton),0.060,-0.490
+4,1:46,,,,,,Timeout #2 by Denver Broncos,,
+4,1:46,3,9,NYJ 26,16,9,Braxton Berrios right end for 2 yards (tackle by Patrick Surtain and Jonas Griffith),-0.490,-1.500
+4,1:39,,,,,,Timeout #3 by Denver Broncos,,
+4,1:39,4,7,NYJ 28,16,9,"Braden Mann punts 72 yards, touchback.",-1.500,-0.280
+4,1:30,1,10,DEN 20,16,9,Brett Rypien pass complete short middle to Melvin Gordon for 4 yards (tackle by C.J. Mosley),0.280,0.270
+4,1:16,2,6,DEN 24,16,9,Brett Rypien pass complete short left to Melvin Gordon for 13 yards (tackle by D.J. Reed),0.270,1.400
+4,1:06,1,10,DEN 37,16,9,Brett Rypien pass complete short left to Kendall Hinton for 14 yards (tackle by D.J. Reed),1.400,2.320
+4,0:53,,,,,,Timeout #1 by New York Jets,,
+4,0:53,1,10,NYJ 49,16,9,Brett Rypien pass incomplete short left intended for Melvin Gordon,2.320,1.780
+4,0:50,2,10,NYJ 49,16,9,Brett Rypien pass incomplete deep middle intended for KJ Hamler,1.780,1.090
+4,0:42,3,10,NYJ 49,16,9,"Brett Rypien pass short left intended for Courtland Sutton is intercepted by C.J. Mosley at NYJ-33 and returned for no gain Replay Assistant challenged the pass interception ruling, and the original play was overturned. Brett Rypien pass incomplete short left intended for Courtland Sutton (defended by D.J. Reed)",1.090,0.000
+4,0:37,4,10,NYJ 49,16,9,Brett Rypien pass incomplete deep right intended for KJ Hamler,0.000,-2.190
+4,0:30,1,10,NYJ 49,16,9,Zach Wilson kneels for -1 yards,2.190,1.510
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

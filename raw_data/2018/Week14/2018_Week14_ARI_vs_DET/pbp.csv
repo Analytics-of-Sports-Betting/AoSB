@@ -1,0 +1,170 @@
+Quarter,Time,Down,ToGo,Location,DET,ARI,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Cardinals won the coin toss and deferred, Lions to receive the opening kickoff.",,
+1,15:00,,,ARI 35,0,0,"Zane Gonzalez kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,DET 25,0,0,LeGarrette Blount up the middle for no gain (tackle by Chandler Jones),0.610,0.060
+1,14:28,2,10,DET 25,0,0,LeGarrette Blount up the middle for 12 yards (tackle by Haason Reddick),0.060,1.400
+1,13:49,1,10,DET 37,0,0,Theo Riddick up the middle for 8 yards (tackle by Budda Baker),1.400,1.940
+1,13:15,2,2,DET 45,0,0,Matthew Stafford pass incomplete short right,1.940,1.220
+1,13:09,3,2,DET 45,0,0,Matthew Stafford pass complete short left to Bruce Ellington for 7 yards (tackle by Antoine Bethea). Penalty on Patrick Peterson: Defensive Holding (Declined),1.220,2.390
+1,12:41,1,10,ARI 48,0,0,LeGarrette Blount up the middle for 14 yards (tackle by Antoine Bethea),2.390,3.310
+1,12:15,1,10,ARI 34,0,0,"Matthew Stafford pass complete short right to LeGarrette Blount for 2 yards (tackle by Budda Baker). LeGarrette Blount fumbles (forced by Budda Baker), recovered by Budda Baker at ARI-32 and returned for -2 yards (tackle by Ricky Wagner)",3.310,-0.940
+1,12:03,1,10,ARI 30,0,0,Josh Rosen pass incomplete short right intended for Jermaine Gresham,0.940,0.390
+1,11:58,2,10,ARI 30,0,0,David Johnson up the middle for 1 yard (tackle by Damon Harrison),0.390,-0.160
+1,11:18,3,9,ARI 31,0,0,Josh Rosen sacked by Romeo Okwara for -7 yards,-0.160,-1.770
+1,10:44,4,16,ARI 24,0,0,"Andy Lee punts 45 yards, returned by T.J. Jones for 4 yards (tackle by Thurston Armbrister)",-1.770,-1.270
+1,10:32,1,10,DET 35,0,0,Matthew Stafford pass complete short right to Kenny Golladay for 2 yards (tackle by David Amerson),1.270,0.990
+1,9:57,2,8,DET 37,0,0,Theo Riddick right end for no gain (tackle by Benson Mayowa),0.990,0.300
+1,9:13,3,8,DET 37,0,0,Matthew Stafford pass complete short right to Bruce Ellington for 5 yards (tackle by Antoine Bethea),0.300,-0.590
+1,8:37,4,3,DET 42,0,0,"Sam Martin punts 43 yards, fair catch by Patrick Peterson at ARI-15",-0.590,0.220
+1,8:29,1,10,ARI 15,0,0,David Johnson up the middle for 10 yards (tackle by Kelvin Sheppard),-0.220,0.610
+1,7:50,1,10,ARI 25,0,0,David Johnson left tackle for no gain (tackle by A'Shawn Robinson),0.610,0.060
+1,7:13,2,10,ARI 25,0,0,Josh Rosen pass incomplete short left intended for David Johnson,0.060,-0.620
+1,7:08,3,10,ARI 25,0,0,Josh Rosen up the middle for 2 yards (tackle by Eli Harold),-0.620,-1.570
+1,6:32,4,8,ARI 27,0,0,"Andy Lee punts 51 yards, fair catch by Bruce Ellington at DET-22",-1.570,-0.410
+1,6:24,1,10,DET 22,0,0,LeGarrette Blount up the middle for no gain (tackle by David Amerson),0.410,-0.130
+1,5:47,2,10,DET 22,0,0,"Zach Zenner left tackle for no gain (tackle by Zach Moore). Penalty on Kenny Golladay: Offensive Holding, 10 yards (no play)",-0.130,-1.510
+1,5:22,2,20,DET 12,0,0,Matthew Stafford pass complete short right to Bruce Ellington for 3 yards (tackle by Haason Reddick),-1.510,-2.050
+1,4:39,3,17,DET 15,0,0,Matthew Stafford pass incomplete deep right intended for Kenny Golladay,-2.050,-2.440
+1,4:32,4,17,DET 15,0,0,"Sam Martin punts 50 yards, returned by Patrick Peterson for 2 yards (tackle by Tavon Wilson). Penalty on David Amerson: Illegal Block Above the Waist, 10 yards",-2.440,-0.740
+1,4:21,1,10,ARI 27,0,0,David Johnson up the middle for 2 yards (tackle by Eli Harold and A'Shawn Robinson),0.740,0.470
+1,3:42,2,8,ARI 29,0,0,Josh Rosen pass complete short right to JJ Nelson for 17 yards (tackle by Jarrad Davis). Penalty on Damon Harrison: Defensive Offside (Declined),0.470,1.990
+1,3:22,1,10,ARI 46,0,0,Josh Rosen pass incomplete deep middle intended for JJ Nelson,1.990,1.450
+1,3:14,2,10,ARI 46,0,0,"Chase Edmonds up the middle for 4 yards (tackle by Christian Jones and Ezekiel Ansah). Chase Edmonds fumbles (forced by Christian Jones), recovered by Oday Aboushi at ARI-46 (tackle by A'Shawn Robinson)",1.450,1.290
+1,2:44,3,6,ARI 50,0,0,Josh Rosen pass incomplete short left intended for Larry Fitzgerald,1.290,-0.060
+1,2:39,4,6,ARI 50,0,0,"Andy Lee punts 35 yards, muffed catch by Bruce Ellington, recovered by Bruce Ellington at DET-16, returned by Bruce Ellington for no gain",-0.060,0.140
+1,2:31,1,10,DET 16,0,0,LeGarrette Blount up the middle for 3 yards (tackle by Haason Reddick),-0.140,-0.180
+1,1:50,2,7,DET 19,0,0,Matthew Stafford pass complete short left to Kenny Golladay for 3 yards (tackle by Budda Baker),-0.180,-0.570
+1,1:10,3,4,DET 22,0,0,Theo Riddick up the middle for 9 yards (tackle by Benson Mayowa),-0.570,1.000
+1,0:36,1,10,DET 31,0,0,Matthew Stafford pass complete short left to LeGarrette Blount for 16 yards (tackle by David Amerson),1.000,2.060
+Quarter,Time,Down,ToGo,Location,DET,ARI,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,DET 47,0,0,LeGarrette Blount up the middle for 4 yards (tackle by Haason Reddick),2.060,2.060
+2,14:39,2,6,ARI 49,0,0,Matthew Stafford pass complete short middle to Bruce Ellington for 2 yards (tackle by Haason Reddick),2.060,1.620
+2,13:55,3,4,ARI 47,0,0,Matthew Stafford right end for 7 yards (tackle by Gerald Hodges),1.620,2.920
+2,13:20,1,10,ARI 40,0,0,LeGarrette Blount left tackle for no gain (tackle by Rodney Gunter),2.920,2.370
+2,12:41,2,10,ARI 40,0,0,Matthew Stafford pass complete short middle to Theo Riddick for 11 yards (tackle by Haason Reddick and Antoine Bethea),2.370,3.640
+2,11:59,1,10,ARI 29,0,0,"Matthew Stafford sacked by Markus Golden for no gain. Penalty on Ricky Wagner: Offensive Holding, 10 yards (no play)",3.640,2.980
+2,11:36,1,20,ARI 39,0,0,Theo Riddick up the middle for 3 yards (tackle by Haason Reddick),2.980,2.160
+2,10:58,2,17,ARI 36,0,0,Matthew Stafford pass complete short right to Theo Riddick for -2 yards (tackle by Haason Reddick),2.160,1.220
+2,10:18,3,19,ARI 38,0,0,Theo Riddick right tackle for 9 yards (tackle by David Amerson),1.220,1.500
+2,9:40,4,10,ARI 29,3,0,Matt Prater 47 yard field goal good,1.500,3.000
+2,9:35,,,DET 35,3,0,"Matt Prater kicks off 65 yards, touchback.",0.000,0.610
+2,9:35,1,10,ARI 25,3,0,David Johnson up the middle for 1 yard (tackle by Jarrad Davis),0.610,0.200
+2,8:56,2,9,ARI 26,3,0,Josh Rosen pass incomplete short right intended for Trent Sherfield (defended by Darius Slay),0.200,-0.490
+2,8:51,3,9,ARI 26,3,0,Josh Rosen pass complete short right to JJ Nelson for 10 yards (tackle by Darius Slay),-0.490,1.330
+2,8:19,1,10,ARI 36,3,0,David Johnson up the middle for 3 yards (tackle by Ricky Jean-Francois and Damon Harrison),1.330,1.200
+2,7:40,2,7,ARI 39,3,0,"Josh Rosen pass complete short right to David Johnson for no gain (tackle by Marcus Cooper). David Johnson fumbles (forced by Marcus Cooper), recovered by Ricky Seals-Jones at ARI-41 (tackle by Glover Quin)",1.200,0.760
+2,6:52,3,5,ARI 41,3,0,"Penalty on Mason Cole: False Start, 5 yards (no play)",0.760,0.100
+2,6:38,3,10,ARI 36,3,0,"Josh Rosen pass complete short middle to Trent Sherfield for 19 yards (tackle by Mike Ford). Penalty on Eric Lee: Face Mask (15 Yards), 15 yards",0.100,3.580
+2,6:17,1,10,DET 30,3,0,Josh Rosen pass incomplete deep left intended for JJ Nelson,3.580,3.030
+2,6:11,2,10,DET 30,3,0,Josh Rosen pass complete short right to David Johnson for -6 yards (tackle by Jarrad Davis),3.030,1.550
+2,5:28,3,16,DET 36,3,0,Josh Rosen pass incomplete short right intended for JJ Nelson (defended by Darius Slay),1.550,0.880
+2,5:22,4,16,DET 36,3,0,Zane Gonzalez 54 yard field goal no good,0.880,-1.860
+2,5:17,1,10,DET 44,3,0,Matthew Stafford sacked by Cameron Malveaux for -5 yards,1.860,0.640
+2,4:50,2,15,DET 39,3,0,Matthew Stafford pass incomplete short left intended for LeGarrette Blount,0.640,-0.030
+2,4:46,3,15,DET 39,3,0,Matthew Stafford pass complete deep right to Bruce Ellington for 18 yards (tackle by Budda Baker). Penalty on Graham Glasgow: Offensive Holding (Offsetting) (no play),-0.030,-0.030
+2,4:15,3,15,DET 39,3,0,Matthew Stafford pass incomplete short middle intended for Kenny Golladay,-0.030,-0.780
+2,4:11,4,15,DET 39,3,0,"Sam Martin punts 48 yards, returned by Patrick Peterson for 11 yards (tackle by Eli Harold)",-0.780,-0.540
+2,4:00,1,10,ARI 24,3,0,David Johnson up the middle for 3 yards (tackle by Romeo Okwara and A'Shawn Robinson),0.540,0.400
+2,3:22,2,7,ARI 27,3,0,Josh Rosen pass complete short middle to David Johnson for 10 yards (tackle by Christian Jones),0.400,1.400
+2,2:44,1,10,ARI 37,3,0,Josh Rosen pass incomplete short right intended for David Johnson (defended by Jarrad Davis),1.400,0.860
+2,2:37,2,10,ARI 37,3,0,Josh Rosen pass incomplete short right intended for Ricky Seals-Jones,0.860,0.170
+2,2:31,3,10,ARI 37,3,0,Josh Rosen sacked by Jarrad Davis for -7 yards,0.170,-1.370
+2,2:00,4,17,ARI 30,3,0,"Andy Lee punts 57 yards, returned by Quandre Diggs for 4 yards (tackle by Joe Walker and Zeke Turner)",-1.370,0.060
+2,1:48,1,10,DET 17,3,0,Matthew Stafford pass complete short middle to Levine Toilolo for 10 yards (tackle by David Amerson),-0.060,0.740
+2,1:26,1,10,DET 27,3,0,Matthew Stafford pass complete short right to Theo Riddick for 17 yards (tackle by Patrick Peterson),0.740,1.860
+2,0:53,1,10,DET 44,3,0,Matthew Stafford pass complete short right to Theo Riddick for 4 yards (tackle by Antoine Bethea),1.860,1.860
+2,0:48,,,,,,Timeout #1 by Detroit Lions,,
+2,0:48,2,6,DET 48,3,0,Matthew Stafford pass incomplete short right intended for T.J. Jones (defended by Benson Mayowa),1.860,1.160
+2,0:45,3,6,DET 48,3,0,Matthew Stafford pass incomplete short left intended for Michael Roberts,1.160,-0.190
+2,0:40,4,6,DET 48,3,0,"Sam Martin punts 45 yards, returned by Patrick Peterson for 12 yards (tackle by Mike Ford)",-0.190,-0.150
+2,0:30,1,10,ARI 19,3,0,David Johnson up the middle for 1 yard (tackle by Jarrad Davis),0.150,-0.200
+2,0:24,,,,,,Timeout #1 by Arizona Cardinals,,
+2,0:24,2,9,ARI 20,3,0,David Johnson up the middle for 10 yards (tackle by Glover Quin),-0.200,0.940
+Quarter,Time,Down,ToGo,Location,DET,ARI,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DET 35,3,0,"Matt Prater kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,ARI 25,3,0,David Johnson up the middle for 3 yards (tackle by Romeo Okwara),0.610,0.470
+3,14:26,2,7,ARI 28,3,0,David Johnson up the middle for 1 yard (tackle by Glover Quin and Jarrad Davis),0.470,-0.100
+3,13:51,3,6,ARI 29,3,0,Josh Rosen pass complete short right to Jalen Tolliver for 10 yards (tackle by DeShawn Shead),-0.100,1.530
+3,13:46,1,10,ARI 39,3,0,David Johnson up the middle for 3 yards (tackle by Ricky Jean-Francois),1.530,1.390
+3,12:59,2,7,ARI 42,3,0,Chase Edmonds up the middle for 2 yards (tackle by Damon Harrison and A'Shawn Robinson),1.390,0.960
+3,12:16,3,5,ARI 44,3,0,Josh Rosen pass complete short right to David Johnson for no gain (tackle by Christian Jones),0.960,-0.460
+3,11:41,4,5,ARI 44,3,0,"Andy Lee punts 56 yards, touchback.. Penalty on Nicholas Grigsby: Offensive Holding, 10 yards",-0.460,0.380
+3,11:32,1,10,DET 10,3,0,LeGarrette Blount up the middle for 1 yard (tackle by Haason Reddick),-0.380,-0.710
+3,10:49,2,9,DET 11,3,0,Zach Zenner up the middle for 2 yards (tackle by Tre Boston),-0.710,-1.070
+3,10:03,3,7,DET 13,3,0,Matthew Stafford pass complete deep middle to Levine Toilolo for 16 yards (tackle by Antoine Bethea),-1.070,0.870
+3,9:24,1,10,DET 29,3,0,Matthew Stafford pass complete short right to Andy Jones for 5 yards (tackle by David Amerson),0.870,1.000
+3,8:45,2,5,DET 34,3,0,LeGarrette Blount up the middle for 2 yards (tackle by Markus Golden),1.000,0.560
+3,8:00,3,3,DET 36,3,0,Matthew Stafford pass incomplete short middle intended for Michael Roberts,0.560,-0.980
+3,7:54,4,3,DET 36,3,0,"Sam Martin punts 51 yards, returned by Patrick Peterson for 1 yard (tackle by Andy Jones)",-0.980,0.280
+3,7:45,1,10,ARI 14,3,0,David Johnson up the middle for no gain (tackle by Damon Harrison),-0.280,-0.750
+3,7:05,2,10,ARI 14,3,0,Josh Rosen pass complete short right to David Johnson for 4 yards (tackle by Glover Quin),-0.750,-0.920
+3,6:29,3,6,ARI 18,3,0,Josh Rosen pass complete short middle to Trent Sherfield for 12 yards (tackle by Quandre Diggs),-0.920,0.940
+3,5:48,1,10,ARI 30,3,0,Josh Rosen pass complete short right to Larry Fitzgerald for 14 yards (tackle by Nevin Lawson),0.940,1.860
+3,5:11,1,10,ARI 44,3,0,Josh Rosen pass complete deep left to JJ Nelson for 16 yards,1.860,2.920
+3,4:34,1,10,DET 40,3,0,JJ Nelson right end for -5 yards (tackle by Eric Lee),2.920,1.700
+3,3:53,2,15,DET 45,3,0,Josh Rosen pass complete short right to David Johnson for 1 yard (tackle by Tracy Walker),1.700,1.160
+3,3:16,3,14,DET 44,9,0,"Josh Rosen pass short right intended for Trent Sherfield is intercepted by Darius Slay at DET-33 and returned for 67 yards, touchdown",1.160,-7.000
+3,3:03,,,DET 35,10,0,"Matt Prater kicks off 65 yards, touchback.",0.000,0.610
+3,3:03,1,10,ARI 25,10,0,"Chase Edmonds right tackle for no gain (tackle by Christian Jones). Penalty on Jermaine Gresham: Offensive Holding, 10 yards (no play)",0.610,-0.410
+3,2:39,1,20,ARI 15,10,0,Chase Edmonds left end for 8 yards (tackle by Quandre Diggs),-0.410,-0.210
+3,2:01,2,12,ARI 23,10,0,Josh Rosen pass incomplete short right intended for Larry Fitzgerald (defended by Christian Jones),-0.210,-0.890
+3,1:58,3,12,ARI 23,10,0,Josh Rosen pass complete short right to Trent Sherfield for 11 yards (tackle by Darius Slay and Nevin Lawson),-0.890,-1.110
+3,1:00,4,1,ARI 34,10,0,"Andy Lee punts 55 yards, fair catch by Quandre Diggs at DET-11",-1.110,0.370
+3,0:52,1,10,DET 11,10,0,LeGarrette Blount up the middle for -1 yards (tackle by Haason Reddick),-0.370,-0.850
+3,0:14,2,11,DET 10,10,0,LeGarrette Blount up the middle for no gain (tackle by Benson Mayowa),-0.850,-1.540
+Quarter,Time,Down,ToGo,Location,DET,ARI,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,11,DET 10,10,0,"Matthew Stafford pass incomplete deep right intended for T.J. Jones. Penalty on David Amerson: Illegal Contact, 5 yards (no play)",-1.540,-0.220
+4,14:54,1,10,DET 15,10,0,LeGarrette Blount up the middle for -2 yards (tackle by Gerald Hodges). Penalty on Graham Glasgow: Offensive Holding (Declined),-0.220,-0.920
+4,14:34,2,12,DET 13,10,0,Theo Riddick right tackle for -1 yards (tackle by Benson Mayowa),-0.920,-1.770
+4,13:51,3,13,DET 12,10,0,Matthew Stafford pass incomplete deep left intended for Andy Jones,-1.770,-2.490
+4,13:43,4,13,DET 12,10,0,"Sam Martin punts 44 yards, returned by Patrick Peterson for no gain (tackle by DeShawn Shead). Penalty on Dennis Gardeck: Offensive Holding, 10 yards",-2.490,-1.200
+4,13:31,1,10,ARI 34,10,0,Josh Rosen pass complete short right to Trent Sherfield for 17 yards (tackle by Tracy Walker),1.200,2.320
+4,12:53,1,10,DET 49,10,0,Josh Rosen pass complete deep middle to Trent Sherfield for 18 yards (tackle by Mike Ford),2.320,3.510
+4,12:16,1,10,DET 31,10,0,Josh Rosen up the middle for 1 yard (tackle by A'Shawn Robinson and Eric Lee),3.510,3.100
+4,11:33,2,9,DET 30,10,0,David Johnson left end for 2 yards (tackle by A'Shawn Robinson),3.100,2.680
+4,10:52,3,7,DET 28,10,0,Josh Rosen pass complete short left to Ricky Seals-Jones for 12 yards (tackle by DeShawn Shead),2.680,4.510
+4,10:15,1,10,DET 16,10,0,"Josh Rosen pass incomplete short middle intended for Larry Fitzgerald. Penalty on A'Shawn Robinson: Roughing the Passer, 8 yards (no play)",4.510,5.370
+4,10:15,1,8,DET 8,10,0,"Chase Edmonds up the middle for no gain (tackle by Quandre Diggs). Chase Edmonds fumbles (forced by Quandre Diggs), recovered by Chase Edmonds at DET-7. Penalty on Joe Barksdale: Offensive Holding, 10 yards (no play)",5.370,4.240
+4,9:42,1,18,DET 18,10,0,David Johnson up the middle for 9 yards (tackle by Quandre Diggs),4.240,4.380
+4,9:03,2,9,DET 9,10,0,Josh Rosen pass complete short right to David Johnson for 5 yards (tackle by Jarrad Davis),4.380,4.490
+4,8:22,3,4,DET 4,10,0,Josh Rosen pass incomplete short right intended for Larry Fitzgerald,4.490,3.030
+4,8:18,4,4,DET 4,10,3,Zane Gonzalez 22 yard field goal good,3.030,3.000
+4,8:14,,,ARI 35,10,3,"Zane Gonzalez kicks off 65 yards, touchback.",0.000,0.610
+4,8:14,1,10,DET 25,10,3,Zach Zenner right tackle for 14 yards (tackle by Antoine Bethea),0.610,1.530
+4,7:32,1,10,DET 39,10,3,Zach Zenner up the middle for 7 yards (tackle by Patrick Peterson),1.530,1.930
+4,6:51,2,3,DET 46,10,3,Zach Zenner up the middle for 4 yards (tackle by Antoine Bethea),1.930,2.260
+4,6:07,1,10,DET 50,10,3,"Matthew Stafford pass incomplete deep right intended for Kenny Golladay. Penalty on Budda Baker: Defensive Pass Interference, 25 yards (no play)",2.260,3.910
+4,6:01,1,10,ARI 25,10,3,Zach Zenner up the middle for 2 yards (tackle by Gerald Hodges and David Amerson),3.910,3.630
+4,5:18,2,8,ARI 23,10,3,"Zach Zenner up the middle for 7 yards (tackle by Gerald Hodges). Penalty on Gerald Hodges: Face Mask (15 Yards), 8 yards",3.630,5.370
+4,4:54,1,8,ARI 8,10,3,Zach Zenner up the middle for 7 yards (tackle by Budda Baker),5.370,5.910
+4,4:09,2,1,ARI 1,16,3,"Zach Zenner up the middle for 1 yard, touchdown",5.910,7.000
+4,4:05,,,ARI 15,17,3,Matt Prater kicks extra point good,0.000,0.000
+4,4:05,,,DET 35,17,3,"Matt Prater kicks off 64 yards, muffed catch by T.J. Logan returned by Chase Edmonds for no gain (tackle by Zach Zenner and DeShawn Shead)",0.000,0.610
+4,3:58,1,10,ARI 25,17,3,Josh Rosen pass complete short middle to Ricky Seals-Jones for 11 yards (tackle by Glover Quin),0.610,1.330
+4,3:35,1,10,ARI 36,17,3,Josh Rosen pass complete short right to Larry Fitzgerald for 10 yards (tackle by Darius Slay),1.330,1.990
+4,3:13,1,10,ARI 46,17,3,"Josh Rosen pass complete short left to Larry Fitzgerald for 4 yards (tackle by Nevin Lawson). Penalty on A'Shawn Robinson: Illegal Use of Hands, 5 yards (no play)",1.990,2.320
+4,3:07,1,10,DET 49,17,3,Josh Rosen pass complete short middle to Larry Fitzgerald for 10 yards (tackle by Glover Quin),2.320,2.980
+4,2:46,1,10,DET 39,17,3,Josh Rosen pass incomplete short right intended for JJ Nelson,2.980,2.440
+4,2:41,2,10,DET 39,17,3,Josh Rosen pass complete short right to David Johnson for -2 yards (tackle by Quandre Diggs),2.440,1.490
+4,2:20,3,12,DET 41,17,3,Josh Rosen pass incomplete deep left intended for Trent Sherfield. Penalty on Colby Gossett: Offensive Holding (Offsetting) (no play),1.490,1.490
+4,2:11,3,12,DET 41,17,3,Josh Rosen sacked by A'Shawn Robinson for -8 yards,1.490,0.000
+4,2:00,,,,,,Timeout #1 by Detroit Lions,,
+4,2:00,4,20,DET 49,17,3,Josh Rosen pass incomplete deep middle intended for Ricky Seals-Jones,0.000,-2.190
+4,1:53,1,10,DET 49,17,3,Zach Zenner up the middle for 1 yard (tackle by Haason Reddick),2.190,1.780
+4,1:48,,,,,,Timeout #1 by Arizona Cardinals,,
+4,1:48,2,9,DET 50,17,3,"Zach Zenner up the middle for 5 yards. Penalty on Frank Ragnow: Offensive Holding, 10 yards",1.780,1.110
+4,1:40,2,14,DET 45,17,3,Zach Zenner right tackle for no gain (tackle by Tre Boston),1.110,0.430
+4,1:36,,,,,,Timeout #2 by Arizona Cardinals,,
+4,1:36,3,14,DET 45,17,3,Zach Zenner up the middle for 4 yards (tackle by Tre Boston and Gerald Hodges),0.430,-0.130
+4,1:34,,,,,,Timeout #3 by Arizona Cardinals,,
+4,1:34,4,10,DET 49,17,3,"Sam Martin punts 36 yards, fair catch by Patrick Peterson at ARI-15",-0.130,0.220
+4,1:28,1,10,ARI 15,17,3,Josh Rosen pass complete short right to Larry Fitzgerald for 12 yards (tackle by Nevin Lawson),-0.220,0.740
+4,1:04,1,10,ARI 27,17,3,Josh Rosen pass incomplete deep left intended for Larry Fitzgerald,0.740,0.200
+4,1:00,2,10,ARI 27,17,3,Josh Rosen pass complete short left to Ricky Seals-Jones for 8 yards (tackle by DeShawn Shead),0.200,0.560
+4,0:38,3,2,ARI 35,17,3,Josh Rosen pass complete short right to Larry Fitzgerald for 9 yards (tackle by Nevin Lawson),0.560,1.860
+4,0:15,1,10,ARI 44,17,3,Josh Rosen pass complete short middle to Jalen Tolliver for 12 yards (tackle by Jarrad Davis),1.860,2.650
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

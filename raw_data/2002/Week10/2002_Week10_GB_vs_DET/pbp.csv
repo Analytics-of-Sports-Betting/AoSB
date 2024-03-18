@@ -1,0 +1,200 @@
+Quarter,Time,Down,ToGo,Location,DET,GNB,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Packers won the coin toss, Packers to receive the opening kickoff.",,
+1,15:00,,,DET 30,0,0,"Jason Hanson kicks off 74 yards, returned by Javon Walker for 18 yards",0.000,-0.280
+1,14:55,1,10,GNB 14,0,0,Brett Favre pass complete to Donald Driver for 11 yards (tackle by Chris Cash),-0.280,0.610
+1,14:25,1,10,GNB 25,0,0,Ahman Green left tackle for 1 yard (tackle by Robert Porcher),0.610,0.200
+1,13:51,2,9,GNB 26,0,0,Ahman Green left tackle for 3 yards (tackle by Corey Harris and Barrett Green),0.200,-0.100
+1,13:51,3,6,GNB 29,0,0,"Penalty on Earl Dotson: False Start, 5 yards (no play)",-0.100,-0.760
+1,12:52,3,11,GNB 24,0,0,Brett Favre pass complete to Javon Walker for 30 yards (tackle by Jeff Gooch),-0.760,2.520
+1,12:14,1,10,DET 46,0,0,Ahman Green middle for 5 yards (tackle by Barrett Green),2.520,2.650
+1,11:41,2,5,DET 41,0,0,Brett Favre pass complete to Bubba Franks for 19 yards (tackle by Eric Davis),2.650,4.110
+1,10:55,1,10,DET 22,0,0,Brett Favre pass incomplete intended for Robert Ferguson (defended by Andre' Goodman),4.110,3.560
+1,10:51,2,10,DET 22,0,0,Ahman Green left end for 9 yards (tackle by Barrett Green and Corey Harris),3.560,4.390
+1,10:09,3,1,DET 13,0,0,Ahman Green right tackle for 3 yards,4.390,4.910
+1,9:27,1,10,DET 10,0,0,Ahman Green left end for 2 yards (tackle by Luther Elliss and Chris Claiborne),4.910,4.570
+1,8:52,2,8,DET 8,0,0,Brett Favre pass complete to Tony Fisher for 3 yards,4.570,4.260
+1,8:08,3,5,DET 5,0,0,Brett Favre sacked by Corey Harris for -7 yards,4.260,2.630
+1,7:51,4,12,DET 12,0,3,Ryan Longwell 30 yard field goal good,2.630,3.000
+1,7:51,,,GNB 30,0,3,"Ryan Longwell kicks off 61 yards, returned by Desmond Howard for 27 yards (tackle by Darrien Gordon)",0.000,1.330
+1,7:41,1,10,DET 36,6,3,"Joey Harrington pass complete to Az-Zahir Hakim for 64 yards, touchdown",1.330,7.000
+1,7:41,,,GNB 36,7,3,Jason Hanson kicks extra point good,0.000,0.000
+1,7:41,,,DET 30,7,3,"Jason Hanson kicks off 63 yards, returned by Javon Walker for 26 yards",0.000,1.140
+1,7:26,1,10,GNB 33,7,3,Brett Favre pass complete to Donald Driver for 6 yards (tackle by Chris Cash),1.140,1.400
+1,6:51,2,4,GNB 39,7,3,Ahman Green right tackle for 3 yards (tackle by Kelvin Pritchett),1.400,1.090
+1,6:07,3,1,GNB 42,7,3,Ahman Green left end for -3 yards (tackle by James Hall),1.090,-0.780
+1,5:34,4,4,GNB 39,7,3,"Josh Bidwell punts 32 yards, returned by Desmond Howard for no gain",-0.780,-0.870
+1,5:26,1,10,DET 29,7,3,James Stewart right tackle for 3 yards (tackle by Aaron Kampman and Hardy Nickerson),0.870,0.730
+1,4:47,2,7,DET 32,7,3,Joey Harrington pass incomplete intended for Bill Schroeder,0.730,0.040
+1,4:42,3,7,DET 32,7,3,Joey Harrington pass incomplete intended for Az-Zahir Hakim (defended by Matt Bowen),0.040,-1.240
+1,4:36,4,7,DET 32,7,3,"John Jett punts 40 yards, returned by Darrien Gordon for 8 yards (tackle by Cory Schlesinger)",-1.240,-1.330
+1,4:27,1,10,GNB 36,7,3,Brett Favre pass complete to Ahman Green for 8 yards (tackle by Chris Cash),1.330,1.870
+1,4:03,2,2,GNB 44,7,3,Ahman Green left guard for 3 yards (tackle by Robert Porcher and Corey Harris),1.870,2.060
+1,3:40,1,10,GNB 47,7,3,Ahman Green left tackle for 14 yards (tackle by Eric Davis),2.060,2.980
+1,3:17,1,10,DET 39,7,3,Brett Favre pass complete to Bubba Franks for 14 yards (tackle by Barrett Green and Donte Curry),2.980,3.910
+1,2:33,1,10,DET 25,7,3,Brett Favre pass complete to Tony Fisher for 4 yards (tackle by Jeff Gooch),3.910,3.900
+1,1:46,2,6,DET 21,7,3,"Brett Favre sacked by Robert Porcher for -3 yards. Brett Favre fumbles (forced by Robert Porcher), recovered by Brett Favre at DET-24",3.900,2.810
+1,0:52,3,9,DET 24,7,3,Brett Favre pass complete to Ahman Green for 10 yards (tackle by Eric Davis),2.810,4.650
+Quarter,Time,Down,ToGo,Location,DET,GNB,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,DET 14,7,3,Brett Favre pass complete to Terry Glenn for 10 yards (tackle by Todd Lyght),4.650,6.280
+2,14:40,1,4,DET 4,7,9,"Brett Favre pass complete to Bubba Franks for 4 yards, touchdown",6.280,7.000
+2,14:40,,,DET 4,7,10,Ryan Longwell kicks extra point good,0.000,0.000
+2,14:40,,,GNB 30,7,10,"Ryan Longwell kicks off 64 yards, returned by Desmond Howard for 25 yards (tackle by Tony Carter)",0.000,1.000
+2,14:28,1,10,DET 31,7,10,James Stewart middle for 2 yards (tackle by Gilbert Brown and Hardy Nickerson),1.000,0.730
+2,13:49,2,8,DET 33,7,10,Joey Harrington pass incomplete intended for James Stewart,0.730,0.040
+2,13:46,3,8,DET 33,7,10,Joey Harrington pass complete to Aveion Cason for 6 yards (tackle by Darren Sharper),0.040,-0.780
+2,13:10,4,2,DET 39,7,10,"John Jett punts 40 yards, returned by Darrien Gordon for 2 yards (tackle by Jimmy Wyrick). Penalty on Matt Bowen: Illegal Block Above the Waist, 10 yards",-0.780,0.320
+2,13:00,1,10,GNB 13,7,10,Ahman Green left end for 9 yards (tackle by Todd Lyght),-0.320,0.490
+2,12:41,2,1,GNB 22,7,10,Brett Favre pass complete to Bubba Franks for 16 yards (tackle by Corey Harris and Jared DeVries),0.490,1.470
+2,11:56,1,10,GNB 38,7,10,Najeh Davenport right tackle for 3 yards (tackle by Chris Claiborne and Kelvin Pritchett),1.470,1.330
+2,11:36,2,7,GNB 41,7,10,"Brett Favre pass incomplete intended for Ahman Green. Penalty on Marco Rivera: Offensive Holding, 10 yards (no play)",1.330,-0.020
+2,11:31,2,17,GNB 31,7,10,Brett Favre pass incomplete intended for Javon Walker,-0.020,-0.690
+2,11:26,3,17,GNB 31,7,10,Brett Favre pass complete to Donald Driver for 38 yards (tackle by Todd Lyght and Barrett Green),-0.690,3.510
+2,10:54,1,10,DET 31,7,10,Brett Favre pass complete to Donald Driver for 8 yards (tackle by Andre' Goodman),3.510,4.050
+2,10:14,2,2,DET 23,7,10,Ahman Green left tackle for 1 yard (tackle by Travis Kirschke and James Hall),4.050,3.470
+2,9:46,3,1,DET 22,7,10,Najeh Davenport left tackle for no gain (tackle by Corey Harris),3.470,2.140
+2,9:01,4,1,DET 22,7,13,Ryan Longwell 40 yard field goal good,2.140,3.000
+2,9:01,,,GNB 30,7,13,"Ryan Longwell kicks off 66 yards, returned by Desmond Howard for 22 yards (tackle by Antuan Edwards)",0.000,0.670
+2,8:52,1,10,DET 26,7,13,James Stewart right guard for 5 yards (tackle by Marques Anderson),0.670,0.810
+2,8:11,2,5,DET 31,7,13,Joey Harrington pass incomplete intended for Mikhael Ricks (defended by Na'il Diggs),0.810,0.100
+2,8:06,3,5,DET 31,7,13,Joey Harrington pass complete to Aveion Cason for 4 yards (tackle by Darren Sharper),0.100,-1.040
+2,7:45,3,5,DET 31,,,Timeout #1 by Green Bay Packers,0.100,-1.040
+2,7:45,4,1,DET 35,7,13,Joey Harrington left guard for no gain (tackle by Hardy Nickerson),-1.040,-3.250
+2,7:38,1,10,DET 35,7,13,Brett Favre pass incomplete intended for Terry Glenn,3.250,2.700
+2,7:33,2,10,DET 35,7,13,Brett Favre pass complete to Ahman Green for 2 yards (tackle by Chris Claiborne),2.700,2.280
+2,7:03,3,8,DET 33,7,13,Brett Favre pass complete to Javon Walker for 20 yards (tackle by Andre' Goodman and Corey Harris),2.280,4.710
+2,6:13,1,10,DET 13,7,13,Brett Favre pass incomplete intended for Tony Fisher (defended by Robert Porcher),4.710,4.050
+2,6:10,2,10,DET 13,7,13,"Brett Favre pass complete to Robert Ferguson for 13 yards. Penalty on Robert Ferguson: Illegal Touch Pass, 5 yards (no play)",4.050,3.400
+2,6:04,2,15,DET 18,7,13,Brett Favre pass incomplete intended for Terry Glenn,3.400,2.790
+2,6:00,3,15,DET 18,7,13,Brett Favre pass incomplete intended for Donald Driver (defended by Chris Cash),2.790,2.250
+2,5:55,4,15,DET 18,7,16,Ryan Longwell 36 yard field goal good,2.250,3.000
+2,5:55,,,GNB 30,7,16,"Ryan Longwell kicks off 66 yards, returned by Desmond Howard for 24 yards (tackle by Paris Lenon)",0.000,0.810
+2,5:46,1,10,DET 28,7,16,Joey Harrington pass incomplete intended for James Stewart (defended by Mike McKenzie),0.810,0.260
+2,5:43,2,10,DET 28,7,16,James Stewart left end for 6 yards (tackle by Marques Anderson),0.260,0.370
+2,5:16,3,4,DET 34,7,16,Joey Harrington pass incomplete intended for Az-Zahir Hakim,0.370,-1.110
+2,5:12,4,4,DET 34,7,16,"John Jett punts 40 yards, returned by Darrien Gordon for 10 yards (tackle by Stephen Trejo). Penalty on Torrance Marshall: Offensive Holding, 10 yards",-1.110,0.140
+2,5:02,1,10,GNB 16,7,16,Tony Fisher right guard for 4 yards (tackle by Shaun Rogers),-0.140,0.010
+2,4:23,2,6,GNB 20,7,16,Brett Favre pass complete to Donald Driver for 2 yards (tackle by Donte Curry),0.010,-0.570
+2,3:39,3,4,GNB 22,7,16,Brett Favre pass complete to Donald Driver for 18 yards (tackle by Eric Davis),-0.570,1.600
+2,2:57,1,10,GNB 40,7,16,Brett Favre pass incomplete intended for Robert Ferguson (defended by Chris Cash),1.600,1.050
+2,2:52,2,10,GNB 40,7,16,Tony Fisher left tackle for 2 yards (tackle by Barrett Green and Chris Claiborne),1.050,0.630
+2,2:10,3,8,GNB 42,7,16,Brett Favre pass incomplete intended for Javon Walker,0.630,-0.590
+2,2:04,4,8,GNB 42,7,16,"Josh Bidwell punts 47 yards, returned by Desmond Howard for 1 yard (tackle by Matt Bowen)",-0.590,0.350
+2,1:55,1,10,DET 12,7,22,"Joey Harrington pass incomplete intended for Bill Schroeder is intercepted by Marques Anderson at DET-14 and returned for 14 yards, touchdown",-0.350,-7.000
+2,1:47,,,DET 12,7,23,Ryan Longwell kicks extra point good,0.000,0.000
+2,1:47,,,GNB 30,7,23,"Ryan Longwell kicks off 67 yards, returned by Desmond Howard for 22 yards (tackle by Torrance Marshall)",0.000,0.610
+2,1:41,1,10,DET 25,7,23,Joey Harrington pass complete to Az-Zahir Hakim for 7 yards (tackle by Marques Anderson),0.610,1.010
+2,1:36,2,3,DET 32,7,23,Joey Harrington pass incomplete intended for Cory Schlesinger (defended by Na'il Diggs),1.010,0.300
+2,1:32,3,3,DET 32,7,23,Joey Harrington pass incomplete intended for Mikhael Ricks (defended by Antuan Edwards),0.300,-1.240
+2,1:28,4,3,DET 32,7,23,"John Jett punts 38 yards, returned by Darrien Gordon for 2 yards",-1.240,-1.070
+2,1:20,1,10,GNB 32,7,23,Brett Favre pass complete to Donald Driver for 4 yards (tackle by Andre' Goodman),1.070,1.070
+2,1:16,2,6,GNB 36,7,23,Brett Favre pass complete to Donald Driver for 10 yards (tackle by Andre' Goodman and Corey Harris),1.070,1.990
+2,1:11,2,6,GNB 36,,,Timeout #2 by Green Bay Packers,1.070,1.990
+2,1:11,1,10,GNB 46,7,23,Brett Favre pass incomplete intended for Robert Ferguson (defended by Andre' Goodman),1.990,1.450
+2,1:06,2,10,GNB 46,7,23,Brett Favre pass complete to Donald Driver for 12 yards (tackle by Chris Cash),1.450,2.790
+2,0:45,1,10,DET 42,7,23,"Penalty on Chad Clifton: False Start, 5 yards (no play)",2.790,2.460
+2,0:31,1,15,DET 47,7,23,Brett Favre pass complete to Terry Glenn for 46 yards (tackle by Corey Harris),2.460,6.970
+,,,,,,,"Replay Assistant challenged the ruling, and the original play was overturned.",,
+2,0:21,1,1,DET 1,7,29,"Najeh Davenport middle for 1 yard, touchdown",6.970,7.000
+2,0:21,,,DET 1,7,30,Ryan Longwell kicks extra point good,0.000,0.000
+2,0:21,,,GNB 30,7,30,"Ryan Longwell kicks off 34 yards, returned by Eric Beverly for 9 yards (tackle by Torrance Marshall)",0.000,1.930
+2,0:12,1,10,DET 45,7,30,James Stewart left end for 7 yards (tackle by Antuan Edwards and Na'il Diggs),1.930,2.330
+2,0:07,1,10,DET 45,,,Timeout #1 by Detroit Lions,1.930,2.330
+2,0:07,2,3,GNB 48,7,30,Joey Harrington pass complete to Az-Zahir Hakim for 16 yards (tackle by Mike McKenzie),2.330,3.450
+2,0:01,2,3,GNB 48,,,Timeout #2 by Detroit Lions,2.330,3.450
+2,0:01,1,10,GNB 32,7,30,Jason Hanson 50 yard field goal no good,3.450,1.530
+Quarter,Time,Down,ToGo,Location,DET,GNB,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,GNB 30,7,30,"Ryan Longwell kicks off 70 yards, returned by Desmond Howard for 36 yards (tackle by Najeh Davenport)",0.000,1.330
+3,14:52,1,10,DET 36,7,30,Joey Harrington pass complete to James Stewart for 4 yards (tackle by Marques Anderson),1.330,1.330
+3,14:30,2,6,DET 40,7,30,James Stewart right end for 1 yard (tackle by Kabeer Gbaja-Biamila),1.330,0.760
+3,13:49,3,5,DET 41,7,30,Joey Harrington pass complete to Cory Schlesinger for 2 yards (tackle by Tod McBride),0.760,-0.520
+3,13:15,4,3,DET 43,7,30,John Jett punts 23 yards,-0.520,-1.200
+3,13:06,1,10,GNB 34,7,30,Brett Favre pass complete to Donald Driver for 9 yards (tackle by Chris Cash),1.200,1.870
+3,12:34,2,1,GNB 43,7,30,Najeh Davenport right guard for 43 yards (tackle by Todd Lyght),1.870,4.650
+3,11:46,1,10,DET 14,7,30,Najeh Davenport left end for -1 yards (tackle by Chris Cash),4.650,3.850
+3,10:45,2,11,DET 15,7,30,Brett Favre pass incomplete intended for Javon Walker,3.850,3.060
+3,10:40,3,11,DET 15,7,30,Brett Favre pass incomplete intended for Robert Ferguson,3.060,2.440
+3,10:34,4,11,DET 15,7,33,Ryan Longwell 33 yard field goal good,2.440,3.000
+3,10:34,,,GNB 30,7,33,"Ryan Longwell kicks off 71 yards, returned by Desmond Howard for 17 yards (tackle by Robert Ferguson)",0.000,-0.140
+3,10:24,1,10,DET 16,7,33,Joey Harrington pass incomplete intended for Cory Schlesinger,-0.140,-0.660
+3,10:19,2,10,DET 16,7,33,"Penalty on Kabeer Gbaja-Biamila: Neutral Zone Infraction, 5 yards (no play)",-0.660,0.150
+3,10:19,2,5,DET 21,7,33,James Stewart right tackle for 6 yards (tackle by Nate Wayne),0.150,0.740
+3,9:40,1,10,DET 27,7,33,Joey Harrington pass incomplete intended for Az-Zahir Hakim (defended by Matt Bowen),0.740,0.200
+3,9:34,2,10,DET 27,7,33,Joey Harrington pass incomplete intended for Az-Zahir Hakim,0.200,-0.490
+3,9:30,3,10,DET 27,7,33,Joey Harrington pass incomplete intended for Mikhael Ricks (defended by Antuan Edwards),-0.490,-1.570
+3,9:26,4,10,DET 27,7,33,"John Jett punts 44 yards, returned by Darrien Gordon for 2 yards (tackle by Stephen Trejo)",-1.570,-1.000
+3,9:16,1,10,GNB 31,7,33,Najeh Davenport left tackle for 12 yards (tackle by Eric Davis and Travis Kirschke),1.000,1.800
+3,8:32,1,10,GNB 43,7,33,Brett Favre pass incomplete intended for David Martin,1.800,1.250
+3,8:28,2,10,GNB 43,7,33,Tony Fisher left tackle for 1 yard (tackle by Jared DeVries and Kalimba Edwards),1.250,0.690
+3,7:44,3,9,GNB 44,7,33,Brett Favre pass complete to Donald Driver for 12 yards (tackle by Corey Harris),0.690,2.650
+3,7:04,1,10,DET 44,7,33,Najeh Davenport left tackle for 3 yards (tackle by Donte Curry and Corey Harris),2.650,2.520
+3,6:23,2,7,DET 41,7,33,Brett Favre pass complete to Terry Glenn for 26 yards (tackle by Eric Davis),2.520,4.580
+3,5:36,1,10,DET 15,7,33,Tony Fisher left end for 6 yards (tackle by Eric Davis and James Hall),4.580,5.030
+3,5:07,2,4,DET 9,7,33,Brett Favre pass incomplete intended for Bubba Franks (defended by Corey Harris),5.030,4.220
+3,5:02,3,4,DET 9,7,39,"Brett Favre pass complete to William Henderson for 9 yards, touchdown",4.220,7.000
+3,5:02,,,DET 9,7,40,Ryan Longwell kicks extra point good,0.000,0.000
+3,5:02,,,GNB 30,7,40,"Ryan Longwell kicks off 68 yards, returned by Eddie Drummond for 32 yards (tackle by Tod McBride)",0.000,1.200
+3,4:48,1,10,DET 34,7,40,Joey Harrington pass complete to James Stewart for 15 yards (tackle by Darren Sharper),1.200,2.190
+3,4:08,1,10,DET 49,7,40,James Stewart right end for 4 yards (tackle by Nate Wayne and Mike McKenzie),2.190,2.190
+3,3:25,2,6,GNB 47,7,40,Joey Harrington pass incomplete intended for Az-Zahir Hakim (defended by Mike McKenzie),2.190,1.490
+3,3:19,3,6,GNB 47,7,40,Joey Harrington pass incomplete intended for Germane Crowell (defended by Tyrone Williams),1.490,0.130
+3,3:07,4,6,GNB 47,7,40,John Jett punts 31 yards,0.130,0.140
+3,3:07,1,10,GNB 16,7,40,Najeh Davenport left tackle for 11 yards (tackle by Todd Lyght),-0.140,0.740
+3,2:24,1,10,GNB 27,7,40,Najeh Davenport left tackle for 4 yards (tackle by Travis Kirschke and Jared DeVries),0.740,0.740
+3,1:44,2,6,GNB 31,7,40,"Najeh Davenport left guard for -3 yards (tackle by Donte Curry). Najeh Davenport fumbles (forced by Donte Curry), recovered by Shaun Rogers at GNB-28",0.740,-3.710
+3,1:24,1,10,GNB 28,7,40,James Stewart for 15 yards (tackle by Darren Sharper),3.710,4.710
+3,0:55,1,10,GNB 13,7,40,Cory Schlesinger left end for 4 yards (tackle by Jamal Reynolds),4.710,4.770
+3,0:15,2,6,GNB 9,7,40,James Stewart middle for 5 yards (tackle by Rod Walker and Jamal Reynolds),4.770,5.010
+Quarter,Time,Down,ToGo,Location,DET,GNB,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,1,GNB 4,7,40,Joey Harrington pass incomplete intended for James Stewart is intercepted by Nate Wayne at GNB-18 and returned for 3 yards,5.010,-0.340
+4,14:55,1,10,GNB 21,7,40,Tony Fisher right end for 2 yards (tackle by Chris Claiborne),0.340,0.070
+4,14:16,2,8,GNB 23,7,40,Tony Fisher left tackle for 2 yards (tackle by Travis Kirschke),0.070,-0.360
+4,13:35,3,6,GNB 25,7,40,Doug Pederson pass complete to Tony Fisher for -1 yards (tackle by Todd Lyght),-0.360,-1.770
+4,12:50,4,7,GNB 24,7,40,"Josh Bidwell punts 41 yards, fair catch by Desmond Howard",-1.770,-1.270
+4,12:42,1,10,DET 35,7,40,James Stewart left end for 56 yards (tackle by Tyrone Williams and Mike McKenzie),1.270,5.140
+4,11:53,1,9,GNB 9,7,40,James Stewart left tackle for 2 yards (tackle by Nate Wayne),5.140,4.760
+4,11:15,2,7,GNB 7,7,40,Joey Harrington pass incomplete intended for Cory Schlesinger (defended by Nate Wayne),4.760,3.810
+4,11:10,3,7,GNB 7,7,40,Joey Harrington pass complete to Germane Crowell for 6 yards (tackle by Mike McKenzie),3.810,3.550
+4,10:51,3,7,GNB 7,,,Timeout #1 by Detroit Lions,3.810,3.550
+4,10:51,4,1,GNB 1,13,40,"Joey Harrington pass complete to Mikhael Ricks for 1 yard, touchdown",3.550,7.000
+,,,,,,,"GNB challenged the ruling, and the play was upheld.",,
+4,10:51,,,GNB 1,14,40,Jason Hanson kicks extra point good,0.000,0.000
+4,10:51,,,DET 30,14,40,"Jason Hanson kicks off 70 yards, returned by Darrien Gordon for 14 yards",0.000,-0.280
+4,10:40,1,10,GNB 14,14,40,Doug Pederson pass complete to William Henderson for 5 yards (tackle by Chris Cash),-0.280,-0.040
+4,10:17,2,5,GNB 19,14,40,"Doug Pederson pass complete to Tony Fisher for 8 yards (tackle by Donte Curry). Tony Fisher fumbles (forced by Donte Curry), recovered by Shaun Rogers at GNB-29 (tackle by Tony Fisher)",-0.040,-3.640
+4,10:05,1,10,GNB 29,14,40,Joey Harrington pass incomplete intended for Cory Schlesinger,3.640,3.100
+4,10:00,2,10,GNB 29,14,40,James Stewart left tackle for 7 yards (tackle by Tyrone Williams),3.100,3.340
+4,9:21,3,3,GNB 22,14,40,Joey Harrington pass complete to Germane Crowell for 16 yards (tackle by Darren Sharper),3.340,5.830
+4,8:56,1,6,GNB 6,14,40,"Joey Harrington pass incomplete intended for Germane Crowell. Penalty on Jared Tomich: Defensive 12 On-field, 3 yards (no play)",5.830,6.510
+4,8:52,1,3,GNB 3,14,40,James Stewart right end for -1 yards (tackle by Darren Sharper and Jamal Reynolds),6.510,5.340
+4,8:07,2,4,GNB 4,14,40,"Joey Harrington pass incomplete intended for Bill Schroeder. Penalty on Ray Brown: Offensive Holding, 10 yards (no play)",5.340,3.580
+4,8:03,2,14,GNB 14,14,40,Joey Harrington pass complete to Az-Zahir Hakim for 4 yards (tackle by Hardy Nickerson),3.580,3.130
+4,7:14,3,10,GNB 10,14,40,Joey Harrington pass complete to Az-Zahir Hakim for 5 yards (tackle by Tod McBride),3.130,3.010
+4,6:45,3,10,GNB 10,,,Timeout #2 by Detroit Lions,3.130,3.010
+4,6:45,4,5,GNB 5,14,40,Joey Harrington pass incomplete intended for Mikhael Ricks,3.010,0.380
+4,6:41,1,10,GNB 5,14,40,Tony Fisher right tackle for 2 yards (tackle by Jared DeVries and Chris Claiborne),-0.380,-0.630
+4,5:58,2,8,GNB 7,14,40,Tony Fisher right guard for 4 yards (tackle by Donte Curry and Corey Harris),-0.630,-0.720
+4,5:09,3,4,GNB 11,14,40,Tony Fisher left end for -3 yards (tackle by Todd Lyght and Shaun Rogers),-0.720,-2.490
+4,4:24,4,7,GNB 8,14,40,"Josh Bidwell punts 45 yards, fair catch by Desmond Howard",-2.490,-2.060
+4,4:16,1,10,DET 47,14,40,James Stewart left end for 4 yards (tackle by Nate Wayne),2.060,2.060
+4,3:54,2,6,GNB 49,14,40,Joey Harrington pass complete to Cory Schlesinger for 8 yards (tackle by Paris Lenon and Nate Wayne),2.060,2.850
+4,3:22,1,10,GNB 41,14,40,Joey Harrington pass complete to Az-Zahir Hakim for 15 yards (tackle by Mike McKenzie),2.850,3.840
+4,2:57,1,10,GNB 26,14,40,Joey Harrington pass incomplete intended for Az-Zahir Hakim (defended by Matt Bowen),3.840,3.300
+4,2:51,2,10,GNB 26,14,40,Joey Harrington pass complete to Cory Schlesinger for -1 yards (tackle by Steve Warren),3.300,2.480
+4,2:23,3,11,GNB 27,14,40,Joey Harrington pass incomplete intended for Mikhael Ricks,2.480,1.670
+4,2:19,4,11,GNB 27,14,40,Joey Harrington pass incomplete intended for Az-Zahir Hakim,1.670,-0.740
+4,2:13,1,10,GNB 27,14,40,Tony Fisher right tackle for 1 yard (tackle by Donte Curry),0.740,0.330
+4,2:00,2,9,GNB 28,14,40,Tony Fisher left end for 6 yards (tackle by Chris Claiborne and Kalimba Edwards),0.330,0.430
+4,1:53,2,9,GNB 28,,,Timeout #3 by Detroit Lions,0.330,0.430
+4,1:53,3,3,GNB 34,14,40,Tony Fisher left guard for no gain (tackle by Jared DeVries and Shaun Rogers),0.430,-1.110
+4,0:59,4,3,GNB 34,14,40,"Josh Bidwell punts 45 yards, returned by Eddie Drummond for no gain",-1.110,-0.340
+4,0:59,1,10,DET 21,14,40,Joey Harrington pass complete to Az-Zahir Hakim for 32 yards (tackle by Torrance Marshall),0.340,2.460
+4,0:51,1,10,GNB 47,14,40,Joey Harrington pass complete to Aveion Cason for 7 yards (tackle by Torrance Marshall),2.460,2.860
+4,0:46,2,3,GNB 40,14,40,Joey Harrington pass complete to Scotty Anderson for 15 yards (tackle by Matt Bowen and Darrien Gordon),2.860,3.910
+4,0:23,1,10,GNB 25,14,40,Joey Harrington pass complete to Germane Crowell for 10 yards (tackle by Tod McBride),3.910,4.580
+4,0:04,1,10,GNB 15,14,40,Joey Harrington pass incomplete,4.580,3.950
+4,0:03,2,10,GNB 15,14,40,Joey Harrington pass incomplete intended for Bill Schroeder,3.950,3.100
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

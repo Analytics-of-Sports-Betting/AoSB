@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,STL 17,5,2:54,20,Interception
+2,1,10:08,STL 20,3,1:06,3,Punt
+3,1,9:02,GNB 40,3,1:38,40,Touchdown
+4,1,4:49,GNB 47,3,1:02,47,Touchdown
+5,2,15:00,STL 42,2,0:13,0,Interception
+6,2,13:23,STL 27,6,4:05,4,Punt
+7,2,4:06,STL 29,10,3:09,71,Touchdown
+8,3,11:56,STL 20,5,2:22,35,Punt
+9,3,6:55,STL 29,5,2:44,71,Touchdown
+10,3,0:27,STL 20,9,5:18,33,Punt
+11,4,8:18,STL 38,6,3:26,41,Field Goal
+12,4,4:00,GNB 18,4,1:04,-7,Field Goal
+13,4,1:48,STL 43,4,1:48,9,End of Game

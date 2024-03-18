@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,8:44,SFO 19,4,1:30,6,Punt
+2,1,4:55,SFO 11,6,3:56,32,Punt
+3,2,14:12,SFO 12,3,1:04,5,Punt
+4,2,10:55,SFO 13,6,3:52,0,Punt
+5,2,5:50,SFO 17,9,4:50,29,Punt
+6,3,15:00,SFO 20,8,5:08,26,Punt
+7,3,7:50,SFO 47,8,4:21,48,Field Goal
+8,3,1:13,SFO 20,3,2:03,1,Punt
+9,4,10:39,SFO 10,1,0:10,5,Fumble
+10,4,9:04,SFO 28,10,5:05,72,Touchdown
+11,4,3:54,CIN 32,4,1:38,-3,Field Goal
+12,4,1:45,SFO 25,4,1:43,-25,Safety

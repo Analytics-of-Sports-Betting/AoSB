@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,SEA 16,3,1:42,-5,Punt
+2,1,10:44,SEA 29,3,1:18,-4,Punt
+3,1,5:49,SEA 21,3,1:31,9,Punt
+4,1,2:18,,0,0:10,0,Fumble
+5,1,2:03,NYG 32,4,2:17,15,Interception
+6,2,9:15,SEA 36,9,4:11,39,Interception
+7,2,0:53,SEA 43,5,0:46,17,Downs
+8,3,13:20,SEA 32,3,1:55,-13,Punt
+9,3,10:05,SEA 39,3,1:36,4,Punt
+10,4,15:00,SEA 30,3,1:26,70,Touchdown
+11,4,0:34,SEA 9,1,0:34,4,End of Game

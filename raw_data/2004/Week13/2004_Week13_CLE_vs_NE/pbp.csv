@@ -1,0 +1,185 @@
+Quarter,Time,Down,ToGo,Location,NWE,CLE,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Patriots won the coin toss, Patriots to receive the opening kickoff.",,
+1,15:00,,,CLE 30,6,0,"Phil Dawson kicks off 63 yards, returned by Bethel Johnson for 93 yards, touchdown",0.000,7.000
+1,,,,CLE 2,7,0,Adam Vinatieri kicks extra point good,0.000,0.000
+1,,,,NWE 30,7,0,"Adam Vinatieri kicks off 60 yards, returned by Richard Alston for 21 yards (tackle by Rodney Harrison)",0.000,1.000
+1,14:40,1,10,CLE 31,7,0,Luke McCown pass incomplete intended for Antonio Bryant (defended by Randall Gay),1.000,0.460
+1,14:37,2,10,CLE 31,7,0,William Green left guard for no gain (tackle by Ty Warren),0.460,-0.230
+1,14:00,3,10,CLE 31,7,0,Luke McCown pass incomplete intended for Antonio Bryant,-0.230,-1.310
+1,13:55,4,10,CLE 31,7,0,"Derrick Frost punts 36 yards, returned by Troy Brown for 4 yards (tackle by Kevin Bentley)",-1.310,-1.400
+1,13:44,1,10,NWE 37,7,0,Corey Dillon up the middle for 21 yards (tackle by Lewis Sanders),1.400,2.790
+1,13:07,1,10,CLE 42,7,0,Tom Brady pass incomplete intended for David Givens,2.790,2.240
+1,13:02,2,10,CLE 42,7,0,Corey Dillon right tackle for 7 yards (tackle by Warrick Holdman and Chris Crocker),2.240,2.480
+1,12:21,3,3,CLE 35,7,0,"Tom Brady sacked by Kenard Lang for -10 yards. Penalty on Gerard Warren: Personal Foul, 15 yards, Penalty on Chaun Thompson: Illegal Contact (Declined)",2.480,3.580
+1,12:09,1,10,CLE 30,7,0,Corey Dillon left end for -1 yards (tackle by Chris Crocker),3.580,2.900
+1,11:41,2,11,CLE 31,7,0,"Penalty on Kenard Lang: Neutral Zone Infraction, 5 yards (no play)",2.900,3.570
+1,11:41,2,6,CLE 26,7,0,"Penalty on Brandon Gorin: False Start, 5 yards (no play)",3.570,2.900
+1,11:04,2,11,CLE 31,7,0,"Tom Brady sacked by Kenard Lang for -6 yards. Tom Brady fumbles (forced by Kenard Lang), recovered by Dan Koppen at CLE-35",2.900,1.680
+1,10:18,3,15,CLE 35,7,0,Tom Brady pass incomplete intended for Deion Branch (defended by Chris Crocker),1.680,0.970
+1,10:18,,,,7,0,Timeout #1 by New England Patriots,0.000,0.970
+1,10:11,4,15,CLE 35,7,0,Josh Miller punts 27 yards,0.970,0.380
+1,10:02,1,10,CLE 8,7,0,William Green right guard for 3 yards (tackle by Tedy Bruschi),-0.380,-0.560
+1,9:27,2,7,CLE 11,7,0,Luke McCown pass complete to Antonio Bryant for 10 yards (tackle by Willie McGinest),-0.560,0.340
+1,8:52,1,10,CLE 21,7,0,William Green left guard for 1 yard (tackle by Ted Johnson),0.340,-0.070
+1,8:14,2,9,CLE 22,7,0,William Green left guard for 4 yards (tackle by Richard Seymour),-0.070,-0.230
+1,7:32,3,5,CLE 26,7,0,Luke McCown pass incomplete intended for Dennis Northcutt,-0.230,-1.630
+1,7:27,4,5,CLE 26,7,0,"Derrick Frost punts 42 yards, fair catch by Troy Brown",-1.630,-1.070
+1,7:19,1,10,NWE 32,7,0,"Corey Dillon for no gain (tackle by Gerard Warren). Corey Dillon fumbles (forced by Gerard Warren), recovered by Alvin McKinley at NWE-32",1.070,-3.450
+1,7:13,1,10,NWE 32,7,0,"Luke McCown pass incomplete intended for Dennis Northcutt. Penalty on Mike Vrabel: Defensive Holding, 5 yards (no play)",3.450,4.180
+1,7:02,1,5,NWE 27,7,0,Luke McCown pass incomplete intended for Dennis Northcutt is intercepted by Rodney Harrison at NWE-4,4.180,0.380
+1,6:54,1,10,NWE 5,7,0,Corey Dillon left guard for 1 yard (tackle by Warrick Holdman),-0.380,-0.710
+1,6:18,2,9,NWE 6,7,0,Corey Dillon right guard for 5 yards (tackle by Kenard Lang and Barry Gardner),-0.710,-0.720
+1,5:35,3,4,NWE 11,7,0,Tom Brady up the middle for 10 yards (tackle by Tyrone Rogers),-0.720,0.340
+1,4:49,1,10,NWE 21,7,0,Tom Brady pass complete to David Givens for 5 yards (tackle by Lewis Sanders),0.340,0.480
+1,4:06,2,5,NWE 26,7,0,Corey Dillon left tackle for 9 yards (tackle by Robert Griffith),0.480,1.270
+1,3:39,1,10,NWE 35,7,0,Tom Brady pass incomplete intended for David Givens (defended by Alvin McKinley),1.270,0.720
+1,3:32,2,10,NWE 35,7,0,Corey Dillon left tackle for 16 yards (tackle by Chris Crocker),0.720,2.320
+1,2:48,1,10,CLE 49,7,0,Cedric Cobbs left tackle for 3 yards (tackle by Warrick Holdman and Barry Gardner),2.320,2.190
+1,2:12,2,7,CLE 46,7,0,Kevin Faulk left tackle for 10 yards (tackle by Orpheus Roye),2.190,3.180
+1,1:32,1,10,CLE 36,7,0,Tom Brady pass complete to Christian Fauria for 25 yards (tackle by Chris Crocker),3.180,4.840
+1,0:50,1,10,CLE 11,7,0,Corey Dillon left end for 7 yards (tackle by Barry Gardner),4.840,5.470
+1,0:21,2,3,CLE 4,13,0,"Corey Dillon left guard for 4 yards, touchdown. Penalty on CLE: Defensive 12 On-field (Declined)",5.470,7.000
+1,,,,CLE 2,14,0,Adam Vinatieri kicks extra point good,0.000,0.000
+1,,,,NWE 30,14,0,"Adam Vinatieri kicks off 61 yards, returned by Richard Alston for 24 yards (tackle by Patrick Pass)",0.000,1.140
+1,0:08,1,10,CLE 33,14,0,Luke McCown pass complete to Dennis Northcutt for 6 yards (tackle by Willie McGinest),1.140,1.400
+Quarter,Time,Down,ToGo,Location,NWE,CLE,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,4,CLE 39,14,0,William Green left guard for 5 yards. Penalty on Vince Wilfork: Defensive Offside (Declined),1.400,1.860
+2,14:30,1,10,CLE 44,14,0,Dennis Northcutt left end for 8 yards,1.860,2.400
+2,14:00,2,2,NWE 48,14,0,William Green left guard for 3 yards (tackle by Vince Wilfork),2.400,2.590
+2,13:43,1,10,NWE 45,14,0,Luke McCown for 11 yards (tackle by Ty Warren),2.590,3.310
+2,12:56,1,10,NWE 34,14,0,Luke McCown pass complete to William Green for 4 yards (tackle by Richard Seymour),3.310,3.310
+2,12:17,2,6,NWE 30,14,0,William Green right guard for -2 yards (tackle by Willie McGinest),3.310,2.350
+2,11:35,3,8,NWE 32,14,0,Luke McCown pass complete to William Green for 3 yards (tackle by Earthwind Moreland),2.350,1.540
+2,10:52,4,5,NWE 29,14,0,Luke McCown pass complete to Dennis Northcutt for 2 yards (tackle by Troy Brown),1.540,-0.810
+2,10:43,1,10,NWE 28,14,0,Tom Brady pass incomplete intended for Corey Dillon,0.810,0.260
+2,10:38,2,10,NWE 28,14,0,Corey Dillon right tackle for 1 yard (tackle by Barry Gardner and Robert Griffith),0.260,-0.300
+2,9:57,3,9,NWE 29,14,0,Tom Brady pass complete to Deion Branch for 13 yards (tackle by Robert Griffith),-0.300,1.730
+2,9:21,1,10,NWE 42,14,0,Corey Dillon left end for 8 yards (tackle by Chaun Thompson and Anthony Henry). Penalty on Michael Myers: Defensive Offside (Declined),1.730,2.270
+2,9:08,2,2,CLE 50,14,0,Corey Dillon right guard for 4 yards (tackle by Chaun Thompson and Orpheus Roye),2.270,2.520
+2,8:33,1,10,CLE 46,14,0,Tom Brady pass complete to Patrick Pass for 2 yards (tackle by Lewis Sanders),2.520,2.250
+2,8:03,2,8,CLE 44,14,0,Tom Brady pass incomplete intended for David Patten,2.250,1.550
+2,7:58,3,8,CLE 44,14,0,"Tom Brady pass incomplete intended for David Patten. Penalty on Lewis Sanders: Defensive Pass Interference, 39 yards (no play)",1.550,6.060
+2,7:50,1,5,CLE 5,14,0,Corey Dillon right guard for no gain (tackle by Kenard Lang),6.060,5.150
+2,7:14,2,5,CLE 5,14,0,Tom Brady pass complete to David Givens for 4 yards (tackle by Lewis Sanders). Penalty on Warrick Holdman: Face Mask (5 Yards),5.150,5.910
+2,6:57,2,1,CLE 1,20,0,"Corey Dillon right guard for 1 yard, touchdown",5.910,7.000
+2,,,,CLE 2,21,0,Adam Vinatieri kicks extra point good,0.000,0.000
+2,,,,NWE 30,21,0,"Adam Vinatieri kicks off 64 yards, returned by Richard Alston for 17 yards (tackle by Dexter Reid)",0.000,0.480
+2,6:48,1,10,CLE 23,21,0,Frisman Jackson pass incomplete intended for Dennis Northcutt,0.480,-0.070
+2,6:39,2,10,CLE 23,21,0,William Green left tackle for 3 yards (tackle by Tedy Bruschi and Rodney Harrison),-0.070,-0.360
+2,5:59,3,7,CLE 26,21,0,Luke McCown pass incomplete intended for Antonio Bryant,-0.360,-1.630
+,,,,,,,"CLE challenged the ruling, and the original play was overturned.",,
+2,5:55,4,7,CLE 26,21,0,"Derrick Frost punts 32 yards, muffed catch by Randall Gay, recovered by Troy Brown and returned for no gain",-1.630,-1.730
+2,5:40,1,10,NWE 42,21,0,Corey Dillon left tackle for 10 yards (tackle by Robert Griffith),1.730,2.390
+2,4:57,1,10,CLE 48,21,0,Corey Dillon right guard for 5 yards (tackle by Lewis Sanders),2.390,2.520
+2,4:19,2,5,CLE 43,21,0,Cedric Cobbs left guard for 6 yards (tackle by Robert Griffith),2.520,3.120
+2,3:39,1,10,CLE 37,21,0,Kevin Faulk left guard for 6 yards (tackle by Ebenezer Ekuban and Alvin McKinley),3.120,3.380
+2,2:58,2,4,CLE 31,21,0,Cedric Cobbs right guard for 1 yard (tackle by Michael Myers),3.380,2.810
+2,2:16,3,3,CLE 30,21,0,Tom Brady pass incomplete intended for David Givens (defended by Lewis Sanders),2.810,1.480
+2,2:13,,,,21,0,Timeout #2 by New England Patriots,0.000,1.480
+2,2:13,4,3,CLE 30,21,0,Patrick Pass right guard for 1 yard (tackle by Robert Griffith and Ebenezer Ekuban),1.480,-0.940
+2,2:07,1,10,CLE 30,21,0,William Green left guard for -3 yards (tackle by Ty Warren),0.940,-0.010
+2,1:59,2,13,CLE 27,21,0,Luke McCown pass incomplete intended for Aaron Shea,-0.010,-0.690
+2,1:53,3,13,CLE 27,21,0,Luke McCown pass complete to William Green for 17 yards (tackle by Don Davis),-0.690,1.860
+2,1:39,,,,21,0,Timeout #1 by Cleveland Browns,0.000,1.860
+2,1:39,1,10,CLE 44,21,0,Luke McCown pass incomplete intended for Frisman Jackson,1.860,1.320
+2,1:34,2,10,CLE 44,21,0,"Luke McCown pass incomplete intended for Frisman Jackson. Penalty on Randall Gay: Defensive Holding, 5 yards (no play)",1.320,2.190
+2,1:34,1,10,CLE 49,21,0,Luke McCown pass complete to Dennis Northcutt for 7 yards (tackle by Troy Brown),2.190,2.590
+2,1:25,2,3,NWE 44,21,0,Luke McCown pass complete to Antonio Bryant for 7 yards (tackle by Randall Gay),2.590,3.120
+2,1:18,1,10,NWE 37,21,0,Luke McCown pass complete to Dennis Northcutt for 25 yards (tackle by Eugene Wilson),3.120,4.780
+2,1:11,1,10,NWE 12,21,0,Luke McCown pass incomplete intended for Dennis Northcutt,4.780,4.100
+2,1:06,2,10,NWE 12,21,0,"William Green left tackle for 6 yards (tackle by Eugene Wilson). Penalty on Frisman Jackson: Offensive Holding, 10 yards",4.100,3.530
+2,1:01,2,14,NWE 16,21,0,Luke McCown pass incomplete intended for William Green,3.530,2.930
+2,0:57,3,14,NWE 16,21,6,"Luke McCown pass complete to Antonio Bryant for 16 yards, touchdown",2.930,7.000
+2,,,,NWE 2,21,7,Phil Dawson kicks extra point good,0.000,0.000
+2,,,,CLE 30,21,7,"Phil Dawson kicks off 60 yards, returned by Bethel Johnson for 17 yards (tackle by Michael Jameson)",0.000,0.740
+2,0:44,1,10,NWE 27,21,7,Tom Brady pass incomplete intended for David Givens,0.740,0.200
+2,0:39,2,10,NWE 27,21,7,Tom Brady pass complete to Kevin Faulk for 4 yards (tackle by Warrick Holdman),0.200,0.040
+2,0:28,,,,21,7,Timeout #2 by Cleveland Browns,0.000,0.040
+2,0:28,3,6,NWE 31,21,7,Kevin Faulk left guard for 9 yards (tackle by Alvin McKinley),0.040,1.600
+2,0:18,,,,21,7,Timeout #3 by New England Patriots,0.000,1.600
+2,0:18,1,10,NWE 40,21,7,Tom Brady pass complete to David Givens for 16 yards,1.600,2.650
+2,0:09,1,10,CLE 44,21,7,Tom Brady pass incomplete intended for David Givens is intercepted by Lewis Sanders at CLE-36 and returned for 12 yards (tackle by Kevin Faulk),2.650,-2.130
+2,0:01,1,10,CLE 48,21,7,Luke McCown pass incomplete intended for Dennis Northcutt (defended by Tedy Bruschi),2.130,1.580
+Quarter,Time,Down,ToGo,Location,NWE,CLE,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,NWE 30,21,7,"Adam Vinatieri kicks off 53 yards, returned by Richard Alston for 22 yards (tackle by Tully Banta-Cain)",0.000,1.530
+3,14:55,1,10,CLE 39,21,7,William Green left tackle for 1 yard (tackle by Richard Seymour and Tedy Bruschi),1.530,1.120
+3,14:17,2,9,CLE 40,21,7,Luke McCown pass complete to Antonio Bryant for 7 yards (tackle by Rodney Harrison),1.120,1.360
+3,13:42,3,2,CLE 47,27,7,"William Green left tackle for -6 yards (tackle by Richard Seymour). William Green fumbles (forced by Richard Seymour), recovered by Randall Gay at CLE-41 and returned for 41 yards, touchdown",1.360,-7.000
+3,,,,CLE 2,28,7,Adam Vinatieri kicks extra point good,0.000,0.000
+3,,,,NWE 30,28,7,"Adam Vinatieri kicks off 64 yards, returned by Richard Alston for 30 yards (tackle by Earthwind Moreland)",0.000,1.330
+3,13:21,1,10,CLE 36,28,7,Adimchinobe Echemandu left guard for 1 yard (tackle by Richard Seymour),1.330,0.930
+3,12:44,2,9,CLE 37,28,7,Luke McCown pass incomplete intended for Steve Heiden,0.930,0.230
+3,12:38,3,9,CLE 37,28,7,Luke McCown pass incomplete intended for Aaron Shea,0.230,-0.910
+3,12:33,4,9,CLE 37,28,7,"Derrick Frost punts 37 yards, returned by Troy Brown for 1 yard (tackle by Eric Westmoreland)",-0.910,-0.740
+3,12:21,1,10,NWE 27,28,7,Kevin Faulk left tackle for 20 yards (tackle by Chris Crocker),0.740,2.060
+3,11:53,1,10,NWE 47,28,7,Cedric Cobbs left guard for 6 yards (tackle by Warrick Holdman),2.060,2.330
+3,11:14,2,4,CLE 47,28,7,Cedric Cobbs left tackle for -5 yards (tackle by Kenard Lang and Orpheus Roye),2.330,0.960
+3,10:26,3,9,NWE 48,28,7,Tom Brady pass complete to David Patten for 13 yards (tackle by Lewis Sanders),0.960,2.980
+3,9:50,1,10,CLE 39,28,7,"Cedric Cobbs left tackle for 8 yards (tackle by Chaun Thompson). Penalty on David Givens: Illegal Block Above the Waist, 10 yards (no play)",2.980,2.320
+3,9:34,1,20,CLE 49,28,7,Tom Brady pass complete to Daniel Graham for 14 yards (tackle by Chris Crocker),2.320,2.980
+3,9:09,2,6,CLE 35,28,7,Cedric Cobbs right tackle for 5 yards (tackle by Alvin McKinley),2.980,2.940
+3,8:35,3,1,CLE 30,28,7,Cedric Cobbs left tackle for 3 yards (tackle by Kevin Bentley),2.940,3.780
+3,7:57,1,10,CLE 27,28,7,Tom Brady pass complete to Patrick Pass for 17 yards (tackle by Barry Gardner),3.780,4.910
+3,7:34,1,10,CLE 10,34,7,"Kevin Faulk left guard for 10 yards, touchdown",4.910,7.000
+3,,,,CLE 2,35,7,Adam Vinatieri kicks extra point good,0.000,0.000
+3,,,,NWE 30,35,7,"Adam Vinatieri kicks off 70 yards, touchback",0.000,0.280
+3,7:28,1,10,CLE 20,35,7,"Luke McCown pass complete to Steve Heiden for 12 yards (tackle by Dexter Reid). Steve Heiden fumbles (forced by Dexter Reid), recovered by Eugene Wilson at CLE-32 (tackle by Steve Heiden)",0.280,-3.450
+3,7:15,1,10,CLE 32,35,7,Corey Dillon left tackle for 2 yards (tackle by Gerard Warren),3.450,3.170
+3,6:37,2,8,CLE 30,35,7,"Kevin Faulk left end for 1 yard (tackle by Anthony Henry). Penalty on Steve Neal: Clipping, 15 yards",3.170,1.280
+3,6:16,2,22,CLE 44,35,7,Tom Brady pass incomplete intended for David Givens (defended by Lewis Sanders),1.280,0.630
+3,6:08,3,22,CLE 44,41,7,"Tom Brady pass complete to David Patten for 44 yards, touchdown",0.630,7.000
+3,,,,CLE 2,42,7,Adam Vinatieri kicks extra point good,0.000,0.000
+3,,,,NWE 30,42,7,"Adam Vinatieri kicks off 58 yards, returned by Richard Alston for 23 yards (tackle by Don Davis)",0.000,1.270
+3,5:54,1,10,CLE 35,42,7,"Luke McCown pass incomplete intended for Antonio Bryant. Penalty on Rodney Harrison: Personal Foul, 15 yards (no play)",1.270,2.260
+3,5:44,1,10,CLE 50,42,7,Luke McCown pass incomplete intended for Steve Heiden,2.260,1.710
+3,5:39,2,10,CLE 50,42,7,Luke McCown pass complete to Adimchinobe Echemandu for 6 yards (tackle by Mike Vrabel),1.710,1.820
+3,5:00,3,4,NWE 44,42,7,Luke McCown pass complete to Adimchinobe Echemandu for no gain,1.820,0.330
+3,4:17,4,4,NWE 44,42,7,Luke McCown pass complete to Antonio Bryant for 9 yards (tackle by Rodney Harrison). Penalty on Richard Seymour: Defensive Offside (Declined),0.330,3.250
+3,3:58,1,10,NWE 35,42,7,Luke McCown sacked by Tedy Bruschi for -8 yards,3.250,1.620
+3,3:37,2,18,NWE 43,42,7,Luke McCown sacked by Mike Vrabel for -15 yards,1.620,-1.020
+3,3:04,3,33,CLE 42,42,7,Luke McCown pass complete to Antonio Bryant for 26 yards (tackle by Mike Vrabel),-1.020,1.240
+3,2:20,4,7,NWE 32,42,7,"Luke McCown pass complete to Frisman Jackson for 20 yards (tackle by Earthwind Moreland). Penalty on Aaron Shea: Offensive Holding, 10 yards (no play)",1.240,0.460
+3,2:02,4,17,NWE 42,42,7,Luke McCown sacked by Willie McGinest for -13 yards,0.460,-2.590
+3,1:56,1,10,CLE 45,42,7,Cedric Cobbs left guard for 3 yards (tackle by Chris Crocker and Warrick Holdman),2.590,2.450
+3,1:15,2,7,CLE 42,42,7,Rohan Davey left end for -2 yards (tackle by Kenard Lang),2.450,1.490
+3,0:52,3,9,CLE 44,42,7,Rohan Davey pass complete to Bethel Johnson for 20 yards (tackle by Earl Little),1.490,3.970
+3,0:16,1,10,CLE 24,42,7,"Penalty on Rohan Davey: Delay of Game, 5 yards (no play)",3.970,3.640
+Quarter,Time,Down,ToGo,Location,NWE,CLE,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,15,CLE 29,42,7,Cedric Cobbs left guard for 2 yards (tackle by Michael Myers),3.640,3.030
+4,14:20,2,13,CLE 27,42,7,Rohan Davey pass incomplete intended for Daniel Graham,3.030,2.350
+4,14:14,3,13,CLE 27,42,7,Cedric Cobbs left tackle for no gain (tackle by Warrick Holdman and Michael Jameson),2.350,1.670
+4,13:29,4,13,CLE 27,42,7,Rohan Davey pass complete to David Patten for 17 yards (tackle by Robert Griffith),1.670,4.910
+4,12:46,1,10,CLE 10,42,7,Cedric Cobbs right guard for 4 yards (tackle by Robert Griffith),4.910,4.950
+4,12:05,2,6,CLE 6,42,7,Cedric Cobbs right end for no gain (tackle by Earl Little),4.950,4.040
+4,11:21,3,6,CLE 6,42,7,Cedric Cobbs right guard for 1 yard (tackle by Orpheus Roye and Michael Myers),4.040,3.010
+4,10:38,4,5,CLE 5,42,7,"Cedric Cobbs up the middle for -2 yards. Cedric Cobbs fumbles, recovered by Michael Jameson at CLE-7",3.010,0.380
+4,10:30,1,10,CLE 7,42,7,Luke McCown pass complete to Dennis Northcutt for 53 yards (tackle by Dexter Reid). Penalty on Dexter Reid: Defensive Pass Interference (Declined),-0.380,2.920
+4,10:13,1,10,NWE 40,42,13,"Luke McCown pass complete to Antonio Bryant for 40 yards, touchdown",2.920,7.000
+4,,,,,42,15,"Two Point Attempt: Luke McCown pass complete to Steve Heiden, conversion succeeds",1.000,1.000
+4,,,,CLE 30,42,15,"Phil Dawson kicks off 57 yards, returned by Bethel Johnson for 24 yards (tackle by Kevin Bentley)",0.000,1.400
+4,9:55,1,10,NWE 37,42,15,Kevin Faulk right tackle for 13 yards (tackle by Lewis Sanders and Michael Myers),1.400,2.260
+4,9:10,1,10,CLE 50,42,15,Kevin Faulk left end for 4 yards (tackle by Kevin Bentley and Barry Gardner),2.260,2.250
+4,8:26,2,6,CLE 46,42,15,"Penalty on Alvin McKinley: Encroachment, 5 yards (no play)",2.250,2.930
+4,8:05,2,1,CLE 41,42,15,Kevin Faulk left guard for 7 yards (tackle by Alvin McKinley and Michael Myers),2.930,3.310
+4,7:21,1,10,CLE 34,42,15,Kevin Faulk right guard for no gain (tackle by Kevin Bentley and Barry Gardner),3.310,2.770
+4,6:41,2,10,CLE 34,42,15,Rohan Davey pass incomplete intended for Troy Brown,2.770,2.080
+4,6:34,3,10,CLE 34,42,15,Rohan Davey pass incomplete intended for Jed Weaver. Penalty on Jed Weaver: Offensive Pass Interference (Declined),2.080,1.060
+4,6:29,,,,42,15,Timeout #2 by New England Patriots,0.000,1.060
+4,6:28,4,10,CLE 34,42,15,"Josh Miller punts 34 yards, touchback",1.060,-0.280
+4,6:20,1,10,CLE 20,42,15,Luke McCown pass complete to Adimchinobe Echemandu for 19 yards (tackle by Troy Brown),0.280,1.530
+4,5:43,1,10,CLE 39,42,15,Luke McCown pass complete to Steve Heiden for 8 yards (tackle by Don Davis),1.530,2.070
+4,5:01,2,2,CLE 47,42,15,Adimchinobe Echemandu left guard for 6 yards (tackle by Vince Wilfork),2.070,2.460
+4,4:22,1,10,NWE 47,42,15,Luke McCown pass incomplete intended for Dennis Northcutt is intercepted by Troy Brown at NWE-24,2.460,-0.540
+4,4:11,1,10,NWE 24,42,15,Kevin Faulk left guard for 5 yards (tackle by Anthony Henry),0.540,0.670
+4,3:30,2,5,NWE 29,42,15,Kevin Faulk for 2 yards (tackle by Robert Griffith),0.670,0.230
+4,2:49,3,3,NWE 31,42,15,Rohan Davey pass complete to Jed Weaver for 7 yards (tackle by Eric Westmoreland),0.230,1.470
+4,2:06,1,10,NWE 38,42,15,Kevin Faulk right guard for no gain (tackle by Mason Unck and Kevin Bentley),1.470,0.920
+4,2:00,2,10,NWE 38,42,15,Cedric Cobbs left guard for 4 yards (tackle by Tyrone Rogers),0.920,0.760
+4,1:19,3,6,NWE 42,42,15,Cedric Cobbs right tackle for -2 yards (tackle by Eric Westmoreland),0.760,-0.720
+4,0:21,4,8,NWE 40,42,15,"Josh Miller punts 40 yards, returned by Dennis Northcutt for 12 yards (tackle by Dexter Reid)",-0.720,-1.070
+4,0:10,1,10,CLE 32,42,15,Adimchinobe Echemandu right guard for 5 yards (tackle by Tully Banta-Cain),1.070,1.200
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

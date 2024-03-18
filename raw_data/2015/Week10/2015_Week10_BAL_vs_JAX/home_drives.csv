@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:35,BAL 31,4,1:18,25,Punt
+2,1,10:44,BAL 32,8,3:48,33,Downs
+3,1,2:29,BAL 42,3,1:41,6,Punt
+4,2,14:43,BAL 22,4,2:19,22,Punt
+5,2,12:17,JAX 26,2,0:45,26,Touchdown
+6,2,3:28,BAL 20,7,2:17,80,Touchdown
+7,2,0:47,BAL 29,6,0:47,31,Missed FG
+8,3,15:00,BAL 20,1,0:09,0,Interception
+9,3,14:27,BAL 20,8,3:57,39,Interception
+10,3,7:49,BAL 45,5,2:44,14,Fumble
+11,3,1:21,BAL 20,3,1:21,4,Punt
+12,4,13:01,BAL 20,10,5:31,80,Touchdown
+13,4,3:57,BAL 20,7,2:51,37,Punt

@@ -1,0 +1,15 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,TEN 35,3,1:34,5,Punt
+2,1,7:06,TEN 20,6,3:20,23,Punt
+3,1,3:29,CHI 25,6,2:45,23,Fumble
+4,2,14:16,CHI 46,6,2:30,11,Punt
+5,2,10:20,CHI 22,4,1:41,22,Touchdown
+6,2,5:51,TEN 20,8,3:59,40,Punt
+7,2,0:58,CHI 44,4,0:58,13,Missed FG
+8,3,14:22,TEN 44,6,2:54,56,Touchdown
+9,3,9:52,TEN 45,3,1:37,8,Punt
+10,3,5:09,TEN 37,3,1:02,-2,Punt
+11,3,2:26,TEN 48,11,5:20,52,Touchdown
+12,4,9:40,TEN 30,3,1:28,5,Punt
+13,4,4:55,TEN 28,3,1:43,-9,Punt
+14,4,2:25,TEN 35,6,2:25,14,End of Game

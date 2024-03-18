@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:26,SFO 18,8,2:43,25,Fumble
+2,1,8:13,SFO 26,11,6:05,72,Field Goal
+3,1,2:01,OAK 16,3,1:27,16,Touchdown
+4,2,8:55,SFO 20,9,3:54,58,Missed FG
+5,2,3:22,SFO 26,3,1:33,7,Punt
+6,2,0:15,SFO 24,1,0:15,-1,End of Half
+7,3,15:00,SFO 36,9,4:38,60,Field Goal
+8,3,6:46,SFO 12,15,8:49,88,Touchdown
+9,4,6:28,SFO 46,13,6:28,45,Missed FG
+10,5,15:00,SFO 22,17,8:41,73,Field Goal

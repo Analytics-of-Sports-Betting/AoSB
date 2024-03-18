@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,14:51,SEA 29,8,4:35,24,Field Goal
+2,1,8:11,SFO 10,15,9:35,84,Downs
+3,2,12:11,SEA 37,9,5:48,31,Field Goal
+4,2,2:26,SFO 20,3,0:53,5,Interception
+5,2,1:27,SFO 10,3,1:12,4,Punt
+6,3,15:00,SFO 20,3,1:01,2,Interception
+7,3,13:59,SFO 23,3,0:33,-10,Punt
+8,3,10:30,SFO 29,5,2:04,31,Punt
+9,3,7:02,SFO 40,3,1:42,7,Punt
+10,4,14:11,SFO 20,6,2:13,37,Punt
+11,4,9:41,SFO 33,3,0:45,2,Punt
+12,4,2:24,SFO 16,7,2:24,26,End of Game

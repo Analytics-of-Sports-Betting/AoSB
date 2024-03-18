@@ -1,0 +1,167 @@
+Quarter,Time,Down,ToGo,Location,DET,DAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Cowboys won the coin toss and deferred, Lions to receive the opening kickoff.",,
+1,15:00,,,DAL 35,0,0,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,DET 25,0,0,Kerryon Johnson left guard for 32 yards (tackle by Byron Jones),0.610,2.720
+1,14:27,1,10,DAL 43,0,0,Kerryon Johnson left guard for 4 yards (tackle by Damien Wilson and Taco Charlton),2.720,2.720
+1,13:45,2,6,DAL 39,0,0,Kerryon Johnson up the middle for -1 yards (tackle by Antwaun Woods and Demarcus Lawrence),2.720,1.880
+1,13:00,3,7,DAL 40,0,0,Matthew Stafford pass incomplete short right intended for Luke Willson,1.880,0.590
+1,12:56,4,7,DAL 40,0,0,"Penalty on Don Muhlbach: False Start, 5 yards (no play)",0.590,0.270
+1,12:54,4,12,DAL 45,0,0,"Sam Martin punts 45 yards, touchback.",0.270,-0.280
+1,12:44,1,10,DAL 20,0,0,Ezekiel Elliott right tackle for 1 yard (tackle by A'Shawn Robinson),0.280,-0.130
+1,12:16,2,9,DAL 21,0,0,Ezekiel Elliott up the middle for 8 yards (tackle by Christian Jones and Quandre Diggs),-0.130,0.230
+1,11:47,3,1,DAL 29,0,0,Ezekiel Elliott left tackle for -1 yards (tackle by Devon Kennard),0.230,-1.500
+1,11:08,4,2,DAL 28,0,0,Chris Jones punts 42 yards downed by Jeff Heath,-1.500,-0.940
+1,10:57,1,10,DET 30,0,0,Matthew Stafford pass complete short right to Marvin Jones for 5 yards (tackle by Xavier Woods and Chidobe Awuzie),0.940,1.070
+1,10:16,2,5,DET 35,0,0,Matthew Stafford pass complete short left to Levine Toilolo for 8 yards (tackle by Damien Wilson and Jaylon Smith),1.070,1.800
+1,9:33,1,10,DET 43,0,0,Kerryon Johnson right tackle for 1 yard (tackle by Demarcus Lawrence),1.800,1.390
+1,8:50,2,9,DET 44,0,0,Matthew Stafford pass complete short left to Theo Riddick for 11 yards (tackle by Damien Wilson),1.390,2.590
+1,8:13,1,10,DAL 45,0,0,LeGarrette Blount right tackle for 3 yards (tackle by Leighton Vander Esch),2.590,2.450
+1,7:33,2,7,DAL 42,0,0,LeGarrette Blount right guard for 1 yard (tackle by Jeff Heath and Dorance Armstrong),2.450,1.880
+1,6:51,3,6,DAL 41,0,0,Matthew Stafford pass incomplete short right intended for Theo Riddick,1.880,0.530
+1,6:47,4,6,DAL 41,0,0,"Sam Martin punts 31 yards, fair catch by Cole Beasley at DAL-10",0.530,0.380
+1,6:39,1,10,DAL 10,0,0,Dak Prescott pass complete short right to Geoff Swaim for 31 yards (tackle by Glover Quin),-0.380,1.660
+1,6:15,1,10,DAL 41,0,0,Ezekiel Elliott up the middle for 7 yards (tackle by A'Shawn Robinson),1.660,2.070
+1,5:45,2,3,DAL 48,0,0,Dak Prescott pass complete deep left to Michael Gallup for 37 yards (tackle by Nevin Lawson),2.070,4.580
+1,5:04,1,10,DET 15,0,0,Ezekiel Elliott right tackle for 1 yard (tackle by A'Shawn Robinson),4.580,4.110
+1,4:40,2,9,DET 14,0,0,Dak Prescott pass incomplete short right intended for Allen Hurns (defended by Darius Slay),4.110,3.240
+1,4:39,3,9,DET 14,0,0,Dak Prescott pass incomplete short right intended for Michael Gallup,3.240,2.510
+1,4:34,4,9,DET 14,0,3,Brett Maher 32 yard field goal good,2.510,3.000
+1,4:30,,,DAL 35,0,3,"Brett Maher kicks off 65 yards, returned by Jamal Agnew for no gain (tackle by Rod Smith)",0.000,0.480
+1,4:25,1,10,DET 23,0,3,Matthew Stafford pass complete short left to Golden Tate for -3 yards (tackle by Jeff Heath),0.480,-0.470
+1,3:42,2,13,DET 20,0,3,Matthew Stafford pass complete short left to Theo Riddick for 2 yards (tackle by Xavier Woods),-0.470,-0.890
+1,3:02,3,11,DET 22,0,3,Matthew Stafford pass complete short right to Kenny Golladay for 15 yards (tackle by Joe Thomas),-0.890,1.400
+1,2:30,1,10,DET 37,0,3,LeGarrette Blount right tackle for 7 yards (tackle by Chidobe Awuzie),1.400,1.800
+1,1:51,2,3,DET 44,0,3,Matthew Stafford pass incomplete short right intended for Marvin Jones,1.800,1.090
+1,1:49,3,3,DET 44,0,3,Matthew Stafford pass complete short right to Golden Tate for 4 yards (tackle by Anthony Brown),1.090,2.130
+1,1:17,1,10,DET 48,0,3,Matthew Stafford pass incomplete short right intended for Marvin Jones (defended by Chidobe Awuzie),2.130,1.580
+1,1:12,2,10,DET 48,0,3,Theo Riddick right guard for 7 yards (tackle by Jaylon Smith and Demarcus Lawrence),1.580,1.820
+1,0:30,3,3,DAL 45,6,3,"Matthew Stafford pass complete short right to Golden Tate for 45 yards, touchdown. Penalty on Randy Gregory: Illegal Use of Hands (Declined)",1.820,7.000
+1,0:19,,,DAL 15,7,3,Matt Prater kicks extra point good,0.000,0.000
+1,0:19,,,DET 35,7,3,"Sam Martin kicks off 65 yards, touchback.",0.000,0.610
+1,0:19,1,10,DAL 25,7,3,Dak Prescott left end for 2 yards (tackle by Jarrad Davis),0.610,0.330
+Quarter,Time,Down,ToGo,Location,DET,DAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,8,DAL 27,7,3,Ezekiel Elliott right end for 5 yards (tackle by Jarrad Davis),0.330,0.300
+2,14:21,3,3,DAL 32,7,3,Dak Prescott pass complete short left to Ezekiel Elliott for 4 yards (tackle by Jarrad Davis),0.300,1.330
+2,13:48,1,10,DAL 36,7,3,Ezekiel Elliott left guard for 9 yards (tackle by Glover Quin and Nevin Lawson),1.330,2.010
+2,13:48,2,1,DAL 45,7,3,Dak Prescott pass complete short right to Allen Hurns for 12 yards (tackle by Darius Slay). Penalty on Ricky Jean-Francois: Defensive Offside (Declined),2.010,2.720
+2,13:07,1,10,DET 43,7,3,Rod Smith right tackle for 9 yards (tackle by Jarrad Davis and Devon Kennard),2.720,3.390
+2,12:32,2,1,DET 34,7,3,Dak Prescott pass incomplete deep right intended for Tavon Austin (defended by Darius Slay),3.390,2.680
+2,12:23,3,1,DET 34,7,3,Ezekiel Elliott left guard for 2 yards (tackle by A'Shawn Robinson),2.680,3.450
+2,11:54,1,10,DET 32,7,3,Dak Prescott pass incomplete short left intended for Michael Gallup (defended by Nevin Lawson),3.450,2.900
+2,11:52,2,10,DET 32,7,3,Ezekiel Elliott right tackle for 7 yards (tackle by Glover Quin),2.900,3.140
+2,11:10,3,3,DET 25,7,3,Dak Prescott pass incomplete short right intended for Allen Hurns (defended by Darius Slay),3.140,1.900
+2,11:06,4,3,DET 25,7,6,Brett Maher 43 yard field goal good,1.900,3.000
+2,11:01,,,DAL 35,7,6,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+2,11:01,1,10,DET 25,7,6,LeGarrette Blount up the middle for 1 yard (tackle by Taco Charlton),0.610,0.200
+2,10:25,2,9,DET 26,7,6,"LeGarrette Blount right tackle for no gain (tackle by Tyrone Crawford and Leighton Vander Esch). Penalty on Ricky Wagner: Face Mask (15 Yards), 13 yards (no play)",0.200,-1.640
+2,9:58,2,22,DET 13,7,6,Matthew Stafford pass complete deep right to Marvin Jones for 34 yards (tackle by Chidobe Awuzie),-1.640,2.060
+2,9:30,1,10,DET 47,7,6,LeGarrette Blount up the middle for 3 yards (tackle by Jaylon Smith),2.060,1.920
+2,8:51,2,7,DET 50,7,6,Kerryon Johnson up the middle for 3 yards (tackle by Caraun Reid),1.920,1.620
+2,8:06,3,4,DAL 47,7,6,Matthew Stafford pass complete short right to Golden Tate for 6 yards (tackle by Chidobe Awuzie),1.620,2.850
+2,7:33,1,10,DAL 41,7,6,Matthew Stafford right end for 3 yards (tackle by Demarcus Lawrence),2.850,2.710
+2,6:57,2,7,DAL 38,7,6,Matthew Stafford pass complete short middle to Luke Willson for 6 yards (tackle by Jaylon Smith),2.710,2.810
+2,6:17,3,1,DAL 32,7,6,Matthew Stafford up the middle for 2 yards (tackle by Randy Gregory),2.810,3.580
+2,5:35,1,10,DAL 30,7,6,Jamal Agnew right end for 17 yards (tackle by Xavier Woods),3.580,4.710
+2,5:35,1,10,DAL 13,7,6,"Penalty on Taylor Decker: False Start, 5 yards (no play)",4.710,4.290
+2,4:29,1,15,DAL 18,7,6,Kerryon Johnson right end for 2 yards (tackle by Jaylon Smith),4.290,3.620
+2,3:46,2,13,DAL 16,7,6,Matthew Stafford pass complete short right to Kerryon Johnson for 1 yard (tackle by Leighton Vander Esch and Chidobe Awuzie),3.620,3.030
+2,2:59,3,12,DAL 15,7,6,Matthew Stafford pass incomplete short right intended for Marvin Jones,3.030,2.440
+2,2:54,4,12,DAL 15,10,6,Matt Prater 33 yard field goal good,2.440,3.000
+2,2:50,,,DET 35,10,6,"Sam Martin kicks off 65 yards, touchback.",0.000,0.610
+2,2:50,1,10,DAL 25,10,6,Ezekiel Elliott left end for 19 yards,0.610,1.860
+2,2:20,1,10,DAL 44,10,6,Dak Prescott pass complete short right to Cole Beasley for 12 yards (tackle by Jarrad Davis),1.860,2.650
+2,2:00,1,10,DET 44,10,6,"Dak Prescott sacked by Romeo Okwara for -9 yards. Penalty on Romeo Okwara: Unnecessary Roughness, 15 yards. Penalty on Darius Slay: Illegal Contact (Declined)",2.650,3.050
+2,1:48,1,10,DET 38,10,12,"Dak Prescott pass complete short right to Ezekiel Elliott for 38 yards, touchdown",3.050,7.000
+2,1:39,,,DET 15,10,13,Brett Maher kicks extra point good,0.000,0.000
+2,1:39,,,DAL 35,10,13,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+2,1:39,1,10,DET 25,10,13,Matthew Stafford pass complete short middle to Theo Riddick for 5 yards (tackle by Jaylon Smith),0.610,0.740
+2,1:18,2,5,DET 30,10,13,Matthew Stafford pass complete short right to Kenny Golladay for 15 yards (tackle by Chidobe Awuzie),0.740,1.930
+2,1:13,1,10,DET 45,10,13,Matthew Stafford sacked by Demarcus Lawrence for -9 yards,1.930,0.170
+2,0:44,2,19,DET 36,10,13,Matthew Stafford pass complete short left to Theo Riddick for 2 yards (tackle by Leighton Vander Esch),0.170,-0.230
+2,0:18,3,17,DET 38,10,13,Matthew Stafford pass incomplete deep left,-0.230,-0.850
+2,0:12,4,17,DET 38,10,13,"Sam Martin punts 43 yards, fair catch by Cole Beasley at DAL-19",-0.850,-0.150
+2,0:04,1,10,DAL 19,10,13,Dak Prescott kneels for -1 yards,0.150,-0.560
+Quarter,Time,Down,ToGo,Location,DET,DAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DET 35,10,13,"Sam Martin kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,DAL 25,10,13,"Ezekiel Elliott left guard for 4 yards (tackle by Christian Jones and Jarrad Davis). Penalty on Da'Shawn Hand: Defensive Holding, 5 yards",0.610,1.200
+3,14:35,1,10,DAL 34,10,13,Ezekiel Elliott up the middle for no gain (tackle by Darius Slay),1.200,0.660
+3,14:00,2,10,DAL 34,10,13,Dak Prescott pass complete short left to Ezekiel Elliott for 12 yards (tackle by Jarrad Davis),0.660,1.990
+3,13:26,1,10,DAL 46,10,13,"Dak Prescott pass incomplete short right intended for Tavon Austin. Penalty on Quandre Diggs: Defensive Holding, 5 yards (no play)",1.990,2.320
+3,13:18,1,10,DET 49,10,13,Ezekiel Elliott right tackle for 3 yards (tackle by Jarrad Davis and Sylvester Williams),2.320,2.190
+3,12:36,2,7,DET 46,10,13,"Dak Prescott pass incomplete short left intended for Ezekiel Elliott. Penalty on Devon Kennard: Defensive Holding, 5 yards (no play)",2.190,2.850
+3,12:31,1,10,DET 41,10,13,Tavon Austin left end for 7 yards (tackle by Quandre Diggs),2.850,3.250
+3,11:59,2,3,DET 34,10,13,Rod Smith left tackle for 8 yards (tackle by Jarrad Davis),3.250,3.840
+3,11:18,1,10,DET 26,10,13,"Dak Prescott pass complete short right to Tavon Austin for 2 yards (tackle by Jarrad Davis). Penalty on Ezekiel Elliott: Illegal Block Above the Waist, 10 yards (no play)",3.840,3.180
+3,10:54,1,20,DET 36,10,13,Dak Prescott pass incomplete short middle intended for Cole Beasley (defended by Quandre Diggs),3.180,1.950
+3,10:50,2,20,DET 36,10,13,Ezekiel Elliott up the middle for 2 yards (tackle by Ricky Jean-Francois and Jalen Reeves-Maybin),1.950,1.550
+3,10:11,3,18,DET 34,10,13,Dak Prescott sacked by Devon Kennard for -14 yards,1.550,0.070
+3,9:24,4,32,DET 48,10,13,"Chris Jones punts 36 yards, fair catch by Jamal Agnew at DET-12",0.070,0.350
+3,9:15,1,10,DET 12,10,13,Kerryon Johnson left guard for no gain (tackle by Demarcus Lawrence),-0.350,-0.780
+3,8:34,2,10,DET 12,10,13,Matthew Stafford pass complete short left to Hakeem Valles for 6 yards (tackle by Leighton Vander Esch),-0.780,-0.720
+3,7:48,3,4,DET 18,10,13,Matthew Stafford sacked by Demarcus Lawrence for -6 yards,-0.720,-2.490
+3,7:08,4,10,DET 12,10,13,"Sam Martin punts 52 yards, fair catch by Tavon Austin at DAL-36",-2.490,-1.330
+3,7:02,1,10,DAL 36,10,13,Ezekiel Elliott right guard for 41 yards (tackle by Quandre Diggs),1.330,4.040
+3,6:15,1,10,DET 23,10,13,Ezekiel Elliott right guard for 9 yards (tackle by Glover Quin and Christian Jones),4.040,4.950
+3,5:37,2,1,DET 14,10,13,Rod Smith right tackle for 2 yards (tackle by A'Shawn Robinson),4.950,4.780
+3,4:51,1,10,DET 12,10,13,Rod Smith right tackle for no gain (tackle by Romeo Okwara and Quandre Diggs),4.780,4.100
+3,4:18,2,10,DET 12,10,13,Dak Prescott pass complete short left to Rod Smith for no gain (tackle by Jarrad Davis),4.100,3.120
+3,3:39,3,10,DET 12,10,13,Dak Prescott pass complete short middle to Cole Beasley for 9 yards (tackle by Jamal Agnew),3.120,3.060
+3,3:16,,,,,,Timeout #1 by Detroit Lions,,
+3,3:16,4,1,DET 3,10,13,"Ezekiel Elliott up the middle for 2 yards (tackle by Jarrad Davis). Ezekiel Elliott fumbles (forced by Jarrad Davis), recovered by Blake Jarwin at DET-1",3.060,6.970
+3,3:01,1,1,DET 1,10,19,"Dak Prescott pass complete short right to Geoff Swaim for 1 yard, touchdown, touchdown",6.970,7.000
+3,2:59,,,DET 15,10,20,Brett Maher kicks extra point good,0.000,0.000
+3,2:59,,,DAL 35,10,20,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+3,2:59,1,10,DET 25,10,20,Matthew Stafford pass complete short right to Marvin Jones for 17 yards (tackle by Chidobe Awuzie and Damien Wilson),0.610,1.730
+3,2:17,1,10,DET 42,10,20,LeGarrette Blount up the middle for -1 yards (tackle by Taco Charlton),1.730,1.050
+3,1:37,2,11,DET 41,10,20,Matthew Stafford pass complete deep right to Kenny Golladay for 22 yards (tackle by Chidobe Awuzie),1.050,3.120
+3,1:25,1,10,DAL 37,10,20,Matthew Stafford pass complete short right to Golden Tate for 3 yards (tackle by Leighton Vander Esch),3.120,2.980
+3,0:41,2,7,DAL 34,10,20,Matthew Stafford pass complete short right to Levine Toilolo for 4 yards (tackle by Jeff Heath),2.980,2.810
+Quarter,Time,Down,ToGo,Location,DET,DAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,3,DAL 30,10,20,Matthew Stafford pass complete short left to Kenny Golladay for 22 yards (tackle by Byron Jones),2.810,5.370
+4,14:26,1,8,DAL 8,16,20,"Kerryon Johnson right tackle for 8 yards, touchdown",5.370,7.000
+4,14:20,,,DAL 15,17,20,Matt Prater kicks extra point good,0.000,0.000
+4,14:20,,,DET 35,17,20,"Sam Martin kicks off 61 yards, returned by Deonte Thompson for no gain (tackle by Charles Washington and Nick Bellore). Penalty on Damien Wilson: Unnecessary Roughness, 10 yards",0.000,-0.370
+4,14:20,1,10,DAL 11,17,20,Dak Prescott pass complete short right to Michael Gallup for 8 yards (tackle by Darius Slay),-0.370,0.170
+4,13:40,2,2,DAL 19,17,20,Ezekiel Elliott left tackle for 4 yards (tackle by Ricky Jean-Francois),0.170,0.480
+4,13:08,1,10,DAL 23,17,20,Dak Prescott pass complete short left to Cole Beasley for 13 yards (tackle by Jamal Agnew),0.480,1.330
+4,12:29,1,10,DAL 36,17,20,Ezekiel Elliott right guard for 14 yards (tackle by Tracy Walker),1.330,2.260
+4,11:54,1,10,DAL 50,17,20,Dak Prescott sacked by Da'Shawn Hand for -1 yards,2.260,1.580
+4,11:21,2,11,DAL 49,17,20,Rod Smith up the middle for 4 yards (tackle by Jalen Reeves-Maybin and Devon Kennard),1.580,1.420
+4,10:43,3,7,DET 47,17,20,"Dak Prescott pass incomplete short left intended for Michael Gallup. Penalty on Eli Harold: Defensive Offside, 5 yards (no play)",1.420,2.080
+4,10:37,3,2,DET 42,17,20,Ezekiel Elliott up the middle for 7 yards (tackle by Christian Jones and Devon Kennard),2.080,3.250
+4,10:00,1,10,DET 35,17,20,Ezekiel Elliott right tackle for no gain (tackle by Eric Lee and A'Shawn Robinson),3.250,2.700
+4,9:26,2,10,DET 35,17,20,Dak Prescott pass complete short left to Allen Hurns for 9 yards (tackle by Nevin Lawson),2.700,3.200
+4,8:52,3,1,DET 26,17,20,Ezekiel Elliott left tackle for 2 yards (tackle by A'Shawn Robinson and Nevin Lawson),3.200,3.970
+4,8:13,1,10,DET 24,17,20,Rod Smith right end for -1 yards (tackle by Da'Shawn Hand),3.970,3.300
+4,7:32,2,11,DET 25,17,20,Dak Prescott pass complete deep middle to Cole Beasley for 19 yards (tackle by Nevin Lawson),3.300,5.830
+4,6:44,1,6,DET 6,17,20,Ezekiel Elliott left guard for 2 yards (tackle by Sylvester Williams),5.830,5.340
+4,6:02,,,,,,Timeout #1 by Dallas Cowboys,,
+4,6:02,2,4,DET 4,17,20,Dak Prescott pass incomplete short right intended for Geoff Swaim,5.340,4.490
+4,5:56,3,4,DET 4,17,20,Dak Prescott pass incomplete short left intended for Rico Gathers,4.490,3.030
+4,5:52,4,4,DET 4,17,23,Brett Maher 22 yard field goal good,3.030,3.000
+4,5:49,,,DAL 35,17,23,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+4,5:49,1,10,DET 25,17,23,Kerryon Johnson left end for 6 yards (tackle by Leighton Vander Esch),0.610,0.870
+4,5:13,2,4,DET 31,17,23,Matthew Stafford pass complete short right to Golden Tate for 4 yards (tackle by Jaylon Smith),0.870,1.270
+4,4:35,1,10,DET 35,17,23,Matthew Stafford sacked by Demarcus Lawrence for -6 yards,1.270,-0.090
+4,3:52,2,16,DET 29,17,23,Matthew Stafford pass complete deep right to Golden Tate for 35 yards (tackle by Kavon Frazier and Byron Jones),-0.090,3.180
+4,3:07,1,10,DAL 36,17,23,LeGarrette Blount left tackle for -2 yards (tackle by Daniel Ross),3.180,2.370
+4,2:24,2,12,DAL 38,23,23,"Matthew Stafford pass complete deep right to Golden Tate for 38 yards, touchdown",2.370,7.000
+4,2:17,,,DAL 15,24,23,Matt Prater kicks extra point good,0.000,0.000
+4,2:17,,,DET 35,24,23,"Sam Martin kicks off 65 yards, touchback.",0.000,0.610
+4,2:17,1,10,DAL 25,24,23,Dak Prescott pass complete short middle to Geoff Swaim for 7 yards (tackle by Glover Quin),0.610,1.010
+4,2:00,2,3,DAL 32,24,23,"Dak Prescott for no gain (tackle by Da'Shawn Hand). Dak Prescott fumbles (forced by Da'Shawn Hand), recovered by Dak Prescott at DAL-19 Dak Prescott pass incomplete deep right intended for Geoff Swaim",1.010,0.300
+4,1:50,3,3,DAL 32,24,23,Dak Prescott pass complete short middle to Allen Hurns for 9 yards (tackle by Jamal Agnew),0.300,1.660
+4,1:28,1,10,DAL 41,24,23,Dak Prescott pass incomplete short right intended for Michael Gallup (defended by Glover Quin),1.660,1.120
+4,1:23,2,10,DAL 41,24,23,Dak Prescott pass complete deep right to Ezekiel Elliott for 34 yards (tackle by Jarrad Davis),1.120,3.910
+4,0:39,1,10,DET 25,24,23,Ezekiel Elliott left tackle for 3 yards (tackle by Glover Quin),3.910,3.770
+4,0:35,,,,,,Timeout #2 by Detroit Lions,,
+4,0:35,2,7,DET 22,24,23,Ezekiel Elliott up the middle for 1 yard (tackle by Glover Quin and A'Shawn Robinson),3.770,3.200
+4,0:32,,,,,,Timeout #3 by Detroit Lions,,
+4,0:32,3,6,DET 21,24,23,Dak Prescott left guard for 1 yard (tackle by Sylvester Williams),3.200,2.170
+4,0:03,,,,,,Timeout #2 by Dallas Cowboys,,
+4,0:03,4,5,DET 20,24,26,Brett Maher 38 yard field goal good,2.170,3.000
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

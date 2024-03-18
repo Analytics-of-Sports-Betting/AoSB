@@ -1,0 +1,186 @@
+Quarter,Time,Down,ToGo,Location,SFO,TAM,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"49ers won the coin toss and deferred, Buccaneers to receive the opening kickoff.",,
+1,15:00,,,SFO 35,0,0,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,TAM 25,0,0,Jameis Winston pass incomplete deep left intended for DeSean Jackson,0.610,0.060
+1,14:54,2,10,TAM 25,0,0,Jameis Winston pass complete short left to Adam Humphries for 9 yards (tackle by Jaquiski Tartt),0.060,0.560
+1,14:21,3,1,TAM 34,0,0,Peyton Barber up the middle for no gain (tackle by Earl Mitchell and Jaquiski Tartt),0.560,-1.110
+1,13:43,4,1,TAM 34,0,0,"Bryan Anger punts 56 yards, fair catch by Richie James at SF-10",-1.110,0.380
+1,13:35,1,10,SFO 10,0,0,Matt Breida left end for 33 yards (tackle by Jordan Whitehead),-0.380,1.800
+1,13:09,1,10,SFO 43,0,0,"Nick Mullens sacked by Carl Nassib for -5 yards. Nick Mullens fumbles (forced by Carl Nassib), recovered by Mike McGlinchey at SF-38",1.800,0.580
+1,12:27,2,15,SFO 38,0,0,Nick Mullens pass incomplete short left intended for Kendrick Bourne,0.580,-0.100
+1,12:22,3,15,SFO 38,0,0,Nick Mullens pass incomplete short right intended for George Kittle,-0.100,-0.850
+1,12:18,4,15,SFO 38,0,0,"Bradley Pinion punts 35 yards, fair catch by Adam Humphries at TB-27",-0.850,-0.740
+1,12:11,1,10,TAM 27,0,0,Peyton Barber right guard for 11 yards (tackle by Jimmie Ward),0.740,1.470
+1,11:43,1,10,TAM 38,0,0,"Penalty on Demar Dotson: False Start, 5 yards (no play)",1.470,1.140
+1,11:31,1,15,TAM 33,0,0,Peyton Barber up the middle for -2 yards (tackle by Jaquiski Tartt),1.140,-0.020
+1,11:00,2,17,TAM 31,0,0,Jameis Winston pass complete short right to Peyton Barber for 9 yards (tackle by Richard Sherman),-0.020,0.500
+1,10:25,3,8,TAM 40,0,0,Jameis Winston pass complete deep right to Mike Evans for 42 yards,0.500,4.370
+1,9:47,1,10,SFO 18,0,0,Peyton Barber right tackle for 14 yards (tackle by D.J. Reed),4.370,6.280
+1,9:09,1,4,SFO 4,0,0,Peyton Barber right tackle for -2 yards (tackle by DeForest Buckner),6.280,4.950
+1,8:27,2,6,SFO 6,0,6,"Jameis Winston pass complete short right to Cameron Brate for 6 yards, touchdown",4.950,7.000
+1,8:21,,,SFO 15,0,7,Cairo Santos kicks extra point good,0.000,0.000
+1,8:21,,,TAM 35,0,7,"Cairo Santos kicks off 64 yards, returned by Richie James for no gain (tackle by Cameron Lynch)",0.000,0.740
+1,8:16,1,10,SFO 27,0,7,Matt Breida left tackle for 2 yards (tackle by Riley Bullough),0.740,0.470
+1,7:49,2,8,SFO 29,0,7,Matt Breida right guard for 1 yard (tackle by Jordan Whitehead),0.470,-0.100
+1,7:06,3,7,SFO 30,0,7,Nick Mullens pass incomplete short middle intended for Dante Pettis,-0.100,-1.370
+1,7:02,4,7,SFO 30,0,7,"Bradley Pinion punts 54 yards, fair catch by Adam Humphries at TB-16",-1.370,0.140
+1,6:56,1,10,TAM 16,0,7,Jameis Winston sacked by DeForest Buckner for -8 yards,-0.140,-1.360
+1,6:21,2,18,TAM 8,0,7,Peyton Barber right tackle for no gain (tackle by Solomon Thomas),-1.360,-2.360
+1,5:45,3,18,TAM 8,0,7,Jameis Winston pass complete short left to Adam Humphries for 5 yards (tackle by Fred Warner),-2.360,-2.490
+1,5:06,4,13,TAM 13,0,7,"Bryan Anger punts 47 yards, returned by Richie James for no gain (tackle by Jacquizz Rodgers). Penalty on D.J. Reed: Offensive Holding, 10 yards",-2.490,-0.940
+1,4:55,1,10,SFO 30,0,7,Nick Mullens pass complete short middle to George Kittle for 12 yards (tackle by Riley Bullough),0.940,1.730
+1,4:30,1,10,SFO 42,0,7,Nick Mullens pass incomplete deep left intended for George Kittle,1.730,1.190
+1,4:25,2,10,SFO 42,0,7,Matt Breida right end for -6 yards (tackle by Carl Nassib). Penalty on Michael Person: Offensive Holding (Declined),1.190,-0.290
+1,4:04,3,16,SFO 36,0,7,Nick Mullens pass incomplete short middle intended for George Kittle (defended by Jordan Whitehead),-0.290,-0.980
+1,3:59,4,16,SFO 36,0,7,"Bradley Pinion punts 55 yards, fair catch by Adam Humphries at TB-9. Penalty on Marcell Harris: Ineligible Downfield Kick, 5 yards (no play)",-0.980,-1.310
+1,3:53,4,21,SFO 31,0,7,Bradley Pinion punts 56 yards out of bounds,-1.310,0.320
+1,3:43,1,10,TAM 13,0,7,Peyton Barber up the middle for 1 yard (tackle by K'Waun Williams),-0.320,-0.680
+1,3:15,2,9,TAM 14,0,7,Jameis Winston left end for 4 yards (tackle by Elijah Lee),-0.680,-0.830
+1,2:34,3,5,TAM 18,0,7,Jameis Winston pass complete short middle to Jacquizz Rodgers for 9 yards (tackle by Elijah Lee),-0.830,0.740
+1,2:00,1,10,TAM 27,0,7,Peyton Barber left tackle for 2 yards (tackle by K'Waun Williams),0.740,0.470
+1,1:25,2,8,TAM 29,0,7,Jameis Winston pass incomplete short left intended for DeSean Jackson,0.470,-0.230
+1,1:21,3,8,TAM 29,0,7,Jameis Winston pass complete short right to Mike Evans for 13 yards (tackle by Fred Warner),-0.230,1.730
+1,0:44,1,10,TAM 42,0,7,"Jameis Winston pass complete short left to DeSean Jackson for 2 yards (tackle by Ahkello Witherspoon). Penalty on Ryan Jensen: Unnecessary Roughness, 15 yards",1.730,-0.570
+1,0:21,2,23,TAM 29,0,7,Jameis Winston pass complete short left to Chris Godwin for 6 yards (tackle by Malcolm Smith),-0.570,-0.430
+Quarter,Time,Down,ToGo,Location,SFO,TAM,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,17,TAM 35,0,7,Jameis Winston pass complete short left to Jacquizz Rodgers for 8 yards (tackle by Elijah Lee),-0.430,-0.520
+2,14:24,4,9,TAM 43,0,7,"Bryan Anger punts 42 yards, returned by Richie James for 6 yards (tackle by Josh Shaw)",-0.520,-0.340
+2,14:14,1,10,SFO 21,0,7,Nick Mullens pass complete short left to Matt Breida for 9 yards (tackle by Carlton Davis),0.340,1.020
+2,13:34,2,1,SFO 30,0,7,Matt Breida left end for 2 yards (tackle by Beau Allen),1.020,1.070
+2,12:54,1,10,SFO 32,0,7,George Kittle right end for 10 yards (tackle by Adarius Taylor),1.070,1.730
+2,12:23,1,10,SFO 42,0,7,Nick Mullens pass complete short right to George Kittle for 11 yards (tackle by Devante Bond),1.730,2.460
+2,11:37,1,10,TAM 47,0,7,Jeff Wilson up the middle for 2 yards (tackle by Vinny Curry),2.460,2.180
+2,10:51,,,,,,Timeout #1 by San Francisco 49ers,,
+2,10:51,2,8,TAM 45,0,7,Matt Breida left end for 11 yards (tackle by Isaiah Johnson),2.180,3.310
+2,10:24,1,10,TAM 34,0,7,Matt Breida right end for 21 yards (tackle by Isaiah Johnson),3.310,4.710
+2,9:46,1,10,TAM 13,0,7,"Jeff Wilson left tackle for no gain (tackle by Isaiah Johnson) Penalty on SFO: Illegal Shift, 5 yards (no play)",4.710,4.290
+2,9:16,,,,,,Timeout #2 by San Francisco 49ers,,
+2,9:16,1,15,TAM 18,0,7,Matt Breida right tackle for 5 yards (tackle by Beau Allen),4.290,4.050
+2,8:37,2,10,TAM 13,6,7,"Nick Mullens pass complete short middle to Dante Pettis for 13 yards, touchdown",4.050,7.000
+2,8:32,,,TAM 15,6,7,Robbie Gould kicks extra point no good hit right upright,0.000,-1.000
+2,8:32,,,SFO 35,6,7,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+2,8:32,1,10,TAM 25,6,7,Jameis Winston pass complete short middle to Jacquizz Rodgers for 7 yards (tackle by Jaquiski Tartt),0.610,1.010
+2,7:56,2,3,TAM 32,6,7,DeSean Jackson left end for 6 yards (tackle by D.J. Reed),1.010,1.470
+2,7:13,1,10,TAM 38,6,7,Jameis Winston left end for 1 yard (tackle by DeForest Buckner),1.470,1.060
+2,6:30,2,9,TAM 39,6,7,Jameis Winston pass incomplete deep middle intended for DeSean Jackson,1.060,0.370
+2,6:24,3,9,TAM 39,6,7,Jameis Winston pass complete short middle to Mike Evans for 12 yards (tackle by Tarvarius Moore),0.370,2.320
+2,6:05,1,10,SFO 49,6,7,Jameis Winston pass complete short right to Mike Evans for 8 yards (tackle by Malcolm Smith),2.320,2.860
+2,5:31,2,2,SFO 41,6,7,Jacquizz Rodgers up the middle for 2 yards (tackle by Sheldon Day),2.860,2.980
+2,4:53,1,10,SFO 39,6,7,Jameis Winston up the middle for 15 yards (tackle by Fred Warner),2.980,3.970
+2,4:08,1,10,SFO 24,6,7,Jameis Winston pass incomplete short right intended for Jacquizz Rodgers,3.970,3.430
+2,4:03,2,10,SFO 24,6,7,Jacquizz Rodgers left end for 2 yards (tackle by Malcolm Smith and Jaquiski Tartt),3.430,3.010
+2,3:27,3,8,SFO 22,6,7,Jameis Winston pass incomplete short left intended for Mike Evans (defended by Fred Warner),3.010,1.990
+2,3:23,4,8,SFO 22,6,10,Cairo Santos 41 yard field goal good,1.990,3.000
+2,3:21,,,TAM 35,6,10,"Cairo Santos kicks off 65 yards, touchback.",0.000,0.610
+2,3:21,1,10,SFO 25,6,10,Matt Breida right end for -4 yards (tackle by Vita Vea),0.610,-0.480
+2,2:37,2,14,SFO 21,6,10,Nick Mullens pass incomplete short middle intended for George Kittle (defended by Jordan Whitehead),-0.480,-1.150
+2,2:32,3,14,SFO 21,6,10,"Nick Mullens pass complete short middle to George Kittle for 10 yards (tackle by Jordan Whitehead). Penalty on Carl Nassib: Defensive Offside, 5 yards (no play)",-1.150,-0.490
+2,2:05,3,9,SFO 26,6,10,"Nick Mullens pass incomplete short middle intended for George Kittle (defended by Andrew Adams). Penalty on Andrew Adams: Defensive Pass Interference, 5 yards (no play)",-0.490,1.000
+2,2:01,1,10,SFO 31,6,10,"Penalty on Kyle Juszczyk: False Start, 5 yards (no play)",1.000,0.670
+2,2:01,1,15,SFO 26,6,10,Nick Mullens sacked by Jason Pierre-Paul for -11 yards,0.670,-1.860
+2,1:55,2,26,SFO 15,6,10,Nick Mullens sacked by Gerald McCoy for -4 yards,-1.860,-3.760
+2,1:51,,,,,,Timeout #1 by Tampa Bay Buccaneers,,
+2,1:51,3,30,SFO 11,6,10,Matt Breida up the middle for 15 yards (tackle by Jordan Whitehead),-3.760,-1.630
+2,1:51,,,,,,Timeout #2 by Tampa Bay Buccaneers,,
+2,1:51,4,15,SFO 26,6,10,"Bradley Pinion punts 39 yards, returned by Adam Humphries for 6 yards (tackle by Greg Mabin)",-1.630,-1.660
+2,1:43,1,10,TAM 41,6,10,Jameis Winston pass complete short middle to Jacquizz Rodgers for 7 yards (tackle by Jaquiski Tartt and Fred Warner),1.660,2.070
+2,1:18,2,3,TAM 48,6,10,Jameis Winston pass complete short left to DeSean Jackson for 3 yards (tackle by Ahkello Witherspoon),2.070,2.320
+2,1:14,1,10,SFO 49,6,10,Jameis Winston pass complete short middle to Cameron Brate for 9 yards (tackle by Elijah Lee),2.320,3.000
+2,0:54,2,1,SFO 40,6,10,"Jameis Winston pass complete short left to Mike Evans for 5 yards (tackle by Ahkello Witherspoon) Penalty on TAM: Illegal Formation, 5 yards (no play)",3.000,2.320
+2,0:45,2,6,SFO 45,6,10,Jameis Winston pass complete short left to Chris Godwin for 10 yards (tackle by Ahkello Witherspoon),2.320,3.250
+2,0:38,1,10,SFO 35,6,10,Jameis Winston pass complete short right to Cameron Brate for 11 yards (tackle by Cassius Marsh),3.250,3.970
+2,0:32,1,10,SFO 24,6,10,Jameis Winston up the middle for 3 yards (tackle by DeForest Buckner),3.970,3.840
+2,0:14,2,7,SFO 21,6,10,Jameis Winston pass incomplete deep middle intended for Cameron Brate (defended by Antone Exum),3.840,3.140
+2,0:09,3,7,SFO 21,6,13,Cairo Santos 39 yard field goal good,3.140,3.000
+2,0:06,,,TAM 35,6,13,"Cairo Santos kicks off 53 yards, returned by Richie James for no gain (tackle by De'Vante Harris)",0.000,-0.350
+2,0:03,1,10,SFO 12,6,13,Nick Mullens kneels for -1 yards,-0.350,-0.850
+Quarter,Time,Down,ToGo,Location,SFO,TAM,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,TAM 35,6,13,"Cairo Santos kicks off 67 yards, returned by Richie James for no gain (tackle by Kevin Minter)",0.000,-0.140
+3,14:53,1,10,SFO 16,6,13,Nick Mullens pass incomplete deep right intended for Dante Pettis,-0.140,-0.660
+3,14:48,2,10,SFO 16,6,13,Nick Mullens pass incomplete short left intended for George Kittle,-0.660,-1.320
+3,14:43,3,10,SFO 16,6,13,"Nick Mullens pass incomplete short left intended for Dante Pettis. Penalty on Jordan Whitehead: Illegal Contact (Declined) . Penalty on Carlton Davis: Defensive Holding, 5 yards (no play)",-1.320,0.340
+3,14:37,1,10,SFO 21,6,13,Matt Breida right end for 11 yards (tackle by Devante Bond),0.340,1.070
+3,14:07,1,10,SFO 32,6,13,Nick Mullens pass complete deep middle to Dante Pettis for 25 yards (tackle by Isaiah Johnson),1.070,2.720
+3,13:18,1,10,TAM 43,6,13,Nick Mullens pass complete short right to Matt Breida for 24 yards (tackle by Isaiah Johnson),2.720,4.310
+3,12:45,1,10,TAM 19,6,13,Nick Mullens pass complete short left to Kendrick Bourne for 10 yards (tackle by Jordan Whitehead),4.310,5.140
+3,12:20,1,9,TAM 9,6,13,Jeff Wilson right end for 8 yards (tackle by Brent Grimes),5.140,5.910
+3,12:11,2,1,TAM 1,6,13,Matt Breida up the middle for no gain (tackle by Jason Pierre-Paul),5.910,5.170
+3,11:44,3,1,TAM 1,6,13,Nick Mullens up the middle for no gain (tackle by Devante Bond),5.170,3.550
+3,11:05,4,1,TAM 1,6,13,"Penalty on George Kittle: False Start, 5 yards (no play)",3.550,2.990
+3,11:05,4,6,TAM 6,9,13,Robbie Gould 23 yard field goal good,2.990,3.000
+3,11:02,,,SFO 35,9,13,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+3,11:02,1,10,TAM 25,9,13,Jameis Winston pass incomplete deep left intended for DeSean Jackson,0.610,0.060
+3,10:56,2,10,TAM 25,9,13,Jameis Winston pass complete short right to Mike Evans for 34 yards (tackle by Richard Sherman),0.060,2.850
+3,10:56,1,10,SFO 41,9,13,Peyton Barber up the middle for 5 yards (tackle by Antone Exum),2.850,2.980
+3,9:49,2,5,SFO 36,9,13,"Jameis Winston pass incomplete deep left intended for DeSean Jackson. Penalty on Ahkello Witherspoon: Defensive Pass Interference, 23 yards (no play)",2.980,4.710
+3,9:43,1,10,SFO 13,9,13,Jameis Winston pass complete short middle to Peyton Barber for 7 yards (tackle by Elijah Lee and Mark Nzeocha),4.710,5.340
+3,9:15,2,3,SFO 6,9,13,Peyton Barber right tackle for 4 yards (tackle by DeForest Buckner),5.340,6.740
+3,8:30,1,2,SFO 2,9,19,"Peyton Barber up the middle for 2 yards, touchdown",6.740,7.000
+3,8:25,,,SFO 15,9,20,Cairo Santos kicks extra point good,0.000,0.000
+3,8:25,,,TAM 35,9,20,"Cairo Santos kicks off 65 yards, touchback.",0.000,0.610
+3,8:25,1,10,SFO 25,9,20,Matt Breida right end for 10 yards (tackle by Noah Spence and Riley Bullough),0.610,1.270
+3,7:37,1,10,SFO 35,9,20,Nick Mullens pass incomplete short right,1.270,0.720
+3,7:30,2,10,SFO 35,9,20,Nick Mullens pass complete deep left to Dante Pettis for 17 yards (tackle by Isaiah Johnson),0.720,2.390
+3,6:44,1,10,TAM 48,9,20,Matt Breida left end for 5 yards (tackle by Jason Pierre-Paul),2.390,2.520
+3,6:06,2,5,TAM 43,9,20,Jeff Wilson left end for 4 yards (tackle by Devante Bond),2.520,2.340
+3,5:31,3,1,TAM 39,9,20,Jeff Wilson up the middle for 2 yards (tackle by Vinny Curry),2.340,3.120
+3,5:05,1,10,TAM 37,9,20,Jeff Wilson left guard for -3 yards (tackle by Vita Vea),3.120,2.170
+3,4:27,2,13,TAM 40,9,20,Nick Mullens pass incomplete short middle intended for Matt Breida (defended by Adarius Taylor),2.170,1.490
+3,4:23,3,13,TAM 40,9,20,Nick Mullens pass incomplete short right intended for George Kittle,1.490,0.590
+3,4:23,4,13,TAM 40,9,20,"Bradley Pinion punts 30 yards downed by Tarvarius Moore. Penalty on Tarvarius Moore: Illegal Touch Kick, 5 yards",0.590,0.220
+3,4:10,1,10,TAM 15,9,20,Jameis Winston pass complete short right to Chris Godwin for 15 yards (tackle by Richard Sherman),-0.220,0.940
+3,3:32,1,10,TAM 30,9,20,Jameis Winston pass incomplete deep middle intended for Mike Evans (defended by Elijah Lee),0.940,0.390
+3,3:25,2,10,TAM 30,9,20,Jameis Winston pass complete short middle to Antony Auclair for 8 yards (tackle by Fred Warner and Elijah Lee),0.390,0.760
+3,2:41,3,2,TAM 38,9,20,Jameis Winston pass complete short left to Mike Evans for 7 yards (tackle by Ahkello Witherspoon). Penalty on Ahkello Witherspoon: Defensive Pass Interference (Declined),0.760,1.930
+3,2:32,1,10,TAM 45,9,20,Peyton Barber left guard for -2 yards (tackle by K'Waun Williams),1.930,1.110
+3,1:51,2,12,TAM 43,9,20,Jameis Winston pass complete short left to Adam Humphries for 6 yards (tackle by Solomon Thomas),1.110,1.220
+3,1:09,3,6,TAM 49,9,20,Jameis Winston pass complete short left to DeSean Jackson for 14 yards (tackle by Antone Exum),1.220,3.120
+3,0:33,1,10,SFO 37,9,20,Jameis Winston pass complete short left to Chris Godwin for 11 yards (tackle by Antone Exum),3.120,3.840
+Quarter,Time,Down,ToGo,Location,SFO,TAM,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,SFO 26,9,20,Peyton Barber up the middle for -2 yards (tackle by Elijah Lee and Sheldon Day),3.840,3.030
+4,14:21,2,12,SFO 28,9,26,"Jameis Winston pass complete short middle to Adam Humphries for 28 yards, touchdown",3.030,7.000
+4,14:10,,,SFO 15,9,27,Cairo Santos kicks extra point good,0.000,0.000
+4,14:10,,,TAM 35,9,27,"Cairo Santos kicks off 65 yards, touchback.",0.000,0.610
+4,14:10,1,10,SFO 25,9,27,Nick Mullens pass incomplete short middle intended for Kyle Juszczyk,0.610,0.060
+4,14:05,2,10,SFO 25,9,27,"Nick Mullens pass complete short left to Matt Breida for 1 yard (tackle by Vita Vea). Penalty on Dante Pettis: Illegal Block Above the Waist, 10 yards",0.060,-1.290
+4,13:34,2,19,SFO 16,9,27,Nick Mullens sacked by Vita Vea for -7 yards,-1.290,-3.290
+4,12:50,3,26,SFO 9,9,27,Nick Mullens pass complete short right to Richie James for 8 yards (tackle by Brent Grimes),-3.290,-2.320
+4,12:11,4,18,SFO 17,9,27,"Bradley Pinion punts 46 yards, fair catch by Adam Humphries at TB-37. Penalty on Ryan Smith: Unnecessary Roughness, 15 yards",-2.320,-0.410
+4,12:05,1,10,TAM 22,9,27,Jacquizz Rodgers right guard for 20 yards (tackle by Antone Exum and Mark Nzeocha),0.410,1.730
+4,11:32,1,10,TAM 42,9,27,Jameis Winston right end for 3 yards (tackle by Arik Armstead),1.730,1.590
+4,10:54,2,7,TAM 45,9,27,Jameis Winston pass complete short left to Adam Humphries for no gain (tackle by Cassius Marsh),1.590,0.890
+4,10:12,3,7,TAM 45,9,27,Jameis Winston pass incomplete short right intended for DeSean Jackson,0.890,-0.390
+4,10:08,4,7,TAM 45,9,27,"Bryan Anger punts 40 yards, fair catch by Richie James at SF-15",-0.390,0.220
+4,10:01,1,10,SFO 15,9,27,Jeff Wilson up the middle for 2 yards (tackle by Devante Bond and Vinny Curry),-0.220,-0.440
+4,9:27,2,8,SFO 17,9,27,Nick Mullens pass complete short right to Dante Pettis for 22 yards (tackle by Jordan Whitehead),-0.440,1.530
+4,8:54,1,10,SFO 39,9,27,Nick Mullens pass complete deep middle to Kendrick Bourne for 17 yards (tackle by Jordan Whitehead),1.530,2.650
+4,8:19,1,10,TAM 44,9,27,Jeff Wilson right tackle for 18 yards (tackle by Brent Grimes),2.650,3.840
+4,7:50,1,10,TAM 26,9,27,Nick Mullens pass deep right intended for Dante Pettis is intercepted by Ryan Smith at TB-0 and returned for no gain,3.840,-0.280
+4,7:43,1,10,TAM 20,9,27,Peyton Barber right guard for 6 yards (tackle by Ronald Blair),0.280,0.540
+4,7:01,2,4,TAM 26,9,27,Peyton Barber up the middle for 4 yards (tackle by Jullian Taylor),0.540,0.940
+4,6:20,1,10,TAM 30,9,27,Peyton Barber up the middle for 3 yards (tackle by Fred Warner),0.940,0.800
+4,5:38,2,7,TAM 33,9,27,Peyton Barber up the middle for 2 yards (tackle by Fred Warner and Jullian Taylor),0.800,0.370
+4,4:55,,,,,,Timeout #1 by Tampa Bay Buccaneers,,
+4,4:55,3,5,TAM 35,9,27,Jameis Winston pass complete short left to Adam Humphries for 6 yards (tackle by Marcell Harris),0.370,1.660
+4,4:13,1,10,TAM 41,9,27,Peyton Barber up the middle for 1 yard (tackle by Tarvarius Moore),1.660,1.260
+4,3:30,2,9,TAM 42,9,27,"Peyton Barber left tackle for no gain (tackle by Elijah Lee). Penalty on Antony Auclair: Offensive Holding, 10 yards (no play)",1.260,-0.100
+4,3:22,2,19,TAM 32,9,27,Jacquizz Rodgers up the middle for 5 yards (tackle by Sheldon Day),-0.100,-0.100
+4,3:17,,,,,,Timeout #2 by San Francisco 49ers,,
+4,3:17,3,14,TAM 37,9,27,Jacquizz Rodgers left guard for 2 yards (tackle by Cassius Marsh),-0.100,-0.780
+4,3:12,,,,,,Timeout #3 by San Francisco 49ers,,
+4,3:12,4,12,TAM 39,9,27,"Penalty on Cameron Lynch: False Start, 5 yards (no play)",-0.780,-1.110
+4,3:12,4,17,TAM 34,9,27,Bryan Anger punts 45 yards out of bounds,-1.110,-0.340
+4,3:05,1,10,SFO 21,9,27,Nick Mullens pass complete short right to George Kittle for 5 yards (tackle by Jordan Whitehead),0.340,0.480
+4,2:42,2,5,SFO 26,9,27,Nick Mullens pass complete short middle to George Kittle for 8 yards (tackle by Jordan Whitehead),0.480,1.200
+4,2:23,1,10,SFO 34,9,27,Nick Mullens pass complete short right to Jeff Wilson for 8 yards (tackle by Jordan Whitehead),1.200,1.740
+4,2:03,2,2,SFO 42,9,27,Nick Mullens pass complete short middle to George Kittle for 8 yards (tackle by Jordan Whitehead and Andrew Adams),1.740,2.260
+4,2:00,1,10,SFO 50,9,27,Nick Mullens pass complete short middle to Richie James for 19 yards (tackle by Vinny Curry),2.260,3.510
+4,1:39,1,10,TAM 31,9,27,Nick Mullens pass complete short middle to George Kittle for 4 yards (tackle by Isaiah Johnson),3.510,3.510
+4,1:24,2,6,TAM 27,9,27,Nick Mullens pass deep middle (defended by Andrew Adams) intended for George Kittle is intercepted by Isaiah Johnson at TB-8 and returned for 6 yards,3.510,0.280
+4,1:17,1,10,TAM 14,9,27,Jameis Winston kneels for -1 yards,-0.280,-0.850
+4,0:38,2,11,TAM 13,9,27,Jameis Winston kneels for -1 yards,-0.850,-1.650
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

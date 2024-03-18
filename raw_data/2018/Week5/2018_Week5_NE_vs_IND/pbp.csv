@@ -1,0 +1,203 @@
+Quarter,Time,Down,ToGo,Location,IND,NWE,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Colts won the coin toss and deferred, Patriots to receive the opening kickoff.",,
+1,15:00,,,IND 35,0,0,"Rigoberto Sanchez kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,NWE 25,0,0,Tom Brady pass complete short middle to Julian Edelman for 9 yards (tackle by Anthony Walker and Al Woods),0.610,1.280
+1,14:28,2,1,NWE 34,0,0,James White left tackle for no gain (tackle by Denico Autry and Zaire Franklin),1.280,0.560
+1,13:56,3,1,NWE 34,0,0,Sony Michel right tackle for 2 yards (tackle by Al Woods),0.560,1.330
+1,13:28,1,10,NWE 36,0,0,Tom Brady pass complete short left to Cordarrelle Patterson for 10 yards (tackle by Lenzy Pipkins and Zaire Franklin),1.330,1.990
+1,12:51,1,10,NWE 46,0,0,Tom Brady pass complete short right to Phillip Dorsett for 4 yards (tackle by Arthur Maulet),1.990,1.990
+1,12:30,2,6,NWE 50,0,0,Tom Brady pass complete short middle to Julian Edelman for 13 yards (tackle by Malik Hooker),1.990,3.120
+1,11:50,1,10,IND 37,0,0,Tom Brady pass complete short middle to Rob Gronkowski for 19 yards (tackle by Malik Hooker),3.120,4.370
+1,11:28,1,10,IND 18,0,0,"Penalty on David Andrews: False Start, 5 yards (no play)",4.370,4.040
+1,11:10,1,15,IND 23,0,0,Tom Brady pass complete short left to James White for 11 yards (tackle by Clayton Geathers and Zaire Franklin),4.040,4.810
+1,10:37,2,4,IND 12,0,0,Tom Brady pass complete short left to James White for 5 yards (tackle by Jabaal Sheard),4.810,5.600
+1,10:14,1,7,IND 7,0,0,James White right tackle for no gain (tackle by Malik Hooker and Denico Autry),5.600,4.760
+1,9:40,2,7,IND 7,0,0,Tom Brady pass complete short left to Julian Edelman for 6 yards (tackle by Pierre Desir and Malik Hooker),4.760,5.170
+1,9:03,3,1,IND 1,0,6,"Tom Brady pass complete short left to Cordarrelle Patterson for 1 yard, touchdown",5.170,7.000
+1,8:58,,,IND 15,0,7,Stephen Gostkowski kicks extra point good,0.000,0.000
+1,8:58,,,NWE 35,0,7,"Stephen Gostkowski kicks off 65 yards, touchback.",0.000,0.610
+1,8:58,1,10,IND 25,0,7,Nyheim Hines up the middle for 4 yards (tackle by Trey Flowers and Patrick Chung),0.610,0.600
+1,8:17,2,6,IND 29,0,7,Andrew Luck sacked by Trey Flowers and Patrick Chung for -10 yards,0.600,-1.510
+1,7:31,3,16,IND 19,0,7,Andrew Luck pass incomplete short right intended for Eric Ebron,-1.510,-2.140
+1,7:27,4,16,IND 19,0,7,"Rigoberto Sanchez punts 45 yards, returned by Julian Edelman for 15 yards (tackle by Najee Goode)",-2.140,-2.320
+1,7:18,1,10,IND 49,0,7,Tom Brady pass complete short left to James White for 4 yards (tackle by Anthony Walker),2.320,2.320
+1,6:46,2,6,IND 45,0,7,Sony Michel right end for 1 yard (tackle by Zaire Franklin and Anthony Walker),2.320,1.750
+1,6:21,3,5,IND 44,0,7,Tom Brady pass incomplete deep left intended for Julian Edelman,1.750,0.330
+1,6:16,4,5,IND 44,0,7,"Ryan Allen punts 38 yards, fair catch by Chester Rogers at IND-6",0.330,0.380
+1,6:10,1,10,IND 6,0,7,Andrew Luck pass complete deep left to Chester Rogers for 24 yards (tackle by Devin McCourty),-0.380,0.940
+1,5:51,1,10,IND 30,0,7,Nyheim Hines up the middle for 1 yard (tackle by Kyle Van Noy),0.940,0.530
+1,5:23,2,9,IND 31,0,7,Andrew Luck pass complete short left to Nyheim Hines for 4 yards (tackle by Devin McCourty),0.530,0.370
+1,4:51,3,5,IND 35,0,7,Andrew Luck pass complete short middle to Eric Ebron for 8 yards (tackle by Patrick Chung),0.370,1.800
+1,4:28,1,10,IND 43,0,7,Andrew Luck pass incomplete short right intended for Ryan Grant,1.800,1.250
+1,4:25,2,10,IND 43,0,7,Andrew Luck pass complete short left to Zach Pascal for 12 yards (tackle by Stephon Gilmore). Penalty on Stephon Gilmore: Defensive Holding (Declined),1.250,2.590
+1,3:59,1,10,NWE 45,0,7,Andrew Luck pass complete short right to Chester Rogers for 9 yards (tackle by Jonathan Jones),2.590,3.260
+1,3:36,2,1,NWE 36,0,7,Nyheim Hines left tackle for 5 yards (tackle by Malcom Brown),3.260,3.510
+1,2:58,1,10,NWE 31,0,7,Andrew Luck pass complete short right to Chester Rogers for 8 yards (tackle by Dont'a Hightower and Duron Harmon),3.510,4.050
+1,2:34,2,2,NWE 23,0,7,Nyheim Hines left guard for 2 yards (tackle by Kyle Van Noy and Lawrence Guy),4.050,4.170
+1,1:52,1,10,NWE 21,0,7,Nyheim Hines right tackle for 1 yard (tackle by Patrick Chung and Kyle Van Noy),4.170,3.760
+1,1:10,2,9,NWE 20,0,7,Andrew Luck pass incomplete deep right intended for Eric Ebron,3.760,3.070
+1,1:05,3,9,NWE 20,0,7,Andrew Luck pass incomplete deep left intended for Zach Pascal,3.070,2.120
+1,1:01,4,9,NWE 20,0,7,Adam Vinatieri 38 yard field goal no good,2.120,-0.810
+1,0:58,1,10,NWE 28,0,7,Tom Brady pass complete short right to Phillip Dorsett for 5 yards (tackle by Christopher Milton),0.810,0.940
+1,0:27,2,5,NWE 33,0,7,Tom Brady pass complete short right to James White for 18 yards (tackle by Najee Goode),0.940,2.320
+Quarter,Time,Down,ToGo,Location,IND,NWE,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,IND 49,0,7,Tom Brady pass complete short right to Sony Michel for 12 yards (tackle by Lenzy Pipkins),2.320,3.120
+2,14:21,1,10,IND 37,0,7,"Tom Brady pass complete short right to Rob Gronkowski for 6 yards (tackle by Zaire Franklin and Clayton Geathers). Penalty on Najee Goode: Roughing the Passer, 15 yards",3.120,4.510
+2,14:03,1,10,IND 16,0,7,Sony Michel up the middle for 14 yards (tackle by Lenzy Pipkins and Clayton Geathers),4.510,6.740
+2,13:34,1,2,IND 2,0,7,Sony Michel up the middle for 1 yard (tackle by Najee Goode and Malik Hooker),6.740,5.910
+2,12:52,2,1,IND 1,0,7,Sony Michel right guard for no gain (tackle by Zaire Franklin and Jabaal Sheard),5.910,5.170
+2,12:16,3,1,IND 1,0,13,"Tom Brady up the middle for 1 yard, touchdown",5.170,7.000
+2,12:14,,,IND 15,0,14,Stephen Gostkowski kicks extra point good,0.000,0.000
+2,12:14,,,NWE 35,0,14,"Stephen Gostkowski kicks off 65 yards, touchback.",0.000,0.610
+2,12:14,1,10,IND 25,0,14,Andrew Luck pass complete short left to Ryan Grant for 8 yards (tackle by Jason McCourty),0.610,1.140
+2,11:49,2,2,IND 33,0,14,Nyheim Hines up the middle for 1 yard (tackle by Trey Flowers),1.140,0.560
+2,11:13,3,1,IND 34,0,14,Andrew Luck pass complete short left to Eric Ebron for 17 yards (tackle by Deatrich Wise),0.560,2.320
+2,10:30,1,10,NWE 49,0,14,Nyheim Hines up the middle for 5 yards (tackle by John Simon),2.320,2.460
+2,10:07,2,5,NWE 44,0,14,Andrew Luck pass complete short right to Chester Rogers for 5 yards (tackle by Jonathan Jones). Penalty on Trey Flowers: Defensive Offside (Declined),2.460,2.980
+2,9:49,1,10,NWE 39,0,14,Andrew Luck pass incomplete short middle intended for Zach Pascal (defended by Stephon Gilmore),2.980,2.440
+2,9:37,2,10,NWE 39,0,14,Nyheim Hines right guard for 3 yards (tackle by Kyle Van Noy),2.440,2.150
+2,8:58,3,7,NWE 36,0,14,Andrew Luck pass incomplete short left intended for Chester Rogers (defended by Jonathan Jones),2.150,0.880
+2,8:54,4,7,NWE 36,3,14,Adam Vinatieri 54 yard field goal good,0.880,3.000
+2,8:49,,,IND 35,3,14,"Rigoberto Sanchez kicks off 65 yards, touchback.",0.000,0.610
+2,8:49,1,10,NWE 25,3,14,Tom Brady pass incomplete deep right intended for James White,0.610,0.060
+2,8:42,2,10,NWE 25,3,14,Tom Brady pass incomplete short middle intended for Josh Gordon,0.060,-0.620
+2,8:38,3,10,NWE 25,3,14,Tom Brady pass complete short right to Rob Gronkowski for 1 yard (tackle by Matthias Farley and Christopher Milton),-0.620,-1.630
+2,8:03,4,9,NWE 26,3,14,"Ryan Allen punts 57 yards, returned by Chester Rogers for 5 yards (tackle by Nicholas Grigsby)",-1.630,-0.410
+2,7:53,1,10,IND 22,3,14,Jordan Wilkins right guard for 4 yards (tackle by Kyle Van Noy),0.410,0.410
+2,7:29,2,6,IND 26,3,14,"Penalty on Matt Slauson: False Start, 5 yards (no play)",0.410,-0.270
+2,7:07,2,11,IND 21,3,14,Andrew Luck pass complete short middle to Chester Rogers for 4 yards (tackle by Kyle Van Noy),-0.270,-0.430
+2,6:34,3,7,IND 25,3,14,"Andrew Luck pass complete deep left to Eric Ebron for 16 yards. Penalty on Le'Raven Clark: Offensive Holding, 10 yards (no play)",-0.430,-2.050
+2,6:10,3,17,IND 15,3,14,Andrew Luck pass complete short right to Nyheim Hines for -3 yards (tackle by Adam Butler),-2.050,-2.490
+2,5:35,4,20,IND 12,3,14,"Rigoberto Sanchez punts 51 yards, returned by Julian Edelman for 5 yards (tackle by Ryan Hewitt). Penalty on J.C. Jackson: Illegal Block Above the Waist, 10 yards",-2.490,-1.070
+2,5:23,1,10,NWE 32,3,14,Sony Michel right guard for -1 yards (tackle by Denico Autry),1.070,0.390
+2,4:49,2,11,NWE 31,3,14,Tom Brady pass complete short middle to James White for 12 yards (tackle by Pierre Desir and Zaire Franklin),0.390,1.800
+2,4:10,1,10,NWE 43,3,14,Tom Brady pass complete deep middle to Chris Hogan for 21 yards (tackle by Matthias Farley),1.800,3.180
+2,3:34,1,10,IND 36,3,14,Sony Michel left end for 5 yards (tackle by Pierre Desir and Matthias Farley),3.180,3.310
+2,3:02,2,5,IND 31,3,14,Sony Michel up the middle for 15 yards (tackle by Matthias Farley and Malik Hooker),3.310,4.510
+2,2:25,1,10,IND 16,3,14,Sony Michel right end for 3 yards (tackle by Grover Stewart and Arthur Maulet),4.510,4.390
+2,2:00,2,7,IND 13,3,14,Tom Brady pass complete short left to James White for 6 yards (tackle by Lenzy Pipkins),4.390,4.850
+2,1:52,,,,,,Timeout #1 by Indianapolis Colts,,
+2,1:52,3,1,IND 7,3,14,Sony Michel left end for 1 yard (tackle by Carroll Phillips and Pierre Desir),4.850,5.830
+2,1:48,1,6,IND 6,3,14,"Sony Michel left guard for 3 yards (tackle by Jabaal Sheard). Penalty on Marcus Cannon: Offensive Holding, 10 yards",5.830,4.530
+2,1:42,1,13,IND 13,3,14,Tom Brady pass complete short left to James White for 7 yards (tackle by Pierre Desir and Najee Goode),4.530,4.950
+2,1:37,,,,,,Timeout #2 by Indianapolis Colts,,
+2,1:37,2,6,IND 6,3,20,"Tom Brady pass complete short middle to James White for 6 yards, touchdown",4.950,7.000
+2,1:34,,,IND 15,3,21,Stephen Gostkowski kicks extra point good,0.000,0.000
+2,1:34,,,NWE 35,3,21,"Stephen Gostkowski kicks off no gain, touchback.. Penalty on Skai Moore: Illegal Formation, 5 yards (no play)",0.000,0.000
+2,1:34,,,NWE 40,3,21,"Stephen Gostkowski kicks off 60 yards, touchback.. Penalty on Jason McCourty: Illegal Formation, 5 yards",0.000,0.940
+2,1:34,1,10,IND 30,3,21,Andrew Luck pass complete short middle to Chester Rogers for 9 yards (tackle by Patrick Chung and Devin McCourty),0.940,1.610
+2,1:10,2,1,IND 39,3,21,Andrew Luck pass complete short right to Chester Rogers for 4 yards (tackle by Devin McCourty),1.610,1.800
+2,0:49,1,10,IND 43,3,21,Andrew Luck pass complete short right to Eric Ebron for 7 yards (tackle by Devin McCourty),1.800,2.200
+2,0:44,2,3,IND 50,3,21,Andrew Luck pass short right intended for Nyheim Hines is intercepted by Patrick Chung at NE-49 and returned for 2 yards,2.200,-2.320
+2,0:38,1,10,IND 49,3,21,Tom Brady pass complete deep left to Phillip Dorsett for 16 yards (tackle by Pierre Desir),2.320,3.380
+2,0:32,1,10,IND 33,3,21,Tom Brady pass incomplete short left intended for James White,3.380,2.840
+2,0:27,2,10,IND 33,3,21,Tom Brady pass complete short right to Chris Hogan for 6 yards (tackle by Arthur Maulet and Najee Goode),2.840,2.940
+2,0:22,,,,,,Timeout #1 by New England Patriots,,
+2,0:22,3,4,IND 27,3,21,"Penalty on Rob Gronkowski: False Start, 5 yards (no play)",2.940,2.280
+2,0:22,3,9,IND 32,3,21,Tom Brady pass complete short right to James White for 5 yards (tackle by Zaire Franklin),2.280,1.750
+2,0:17,,,,,,Timeout #2 by New England Patriots,,
+2,0:17,4,4,IND 27,3,24,Stephen Gostkowski 45 yard field goal good,1.750,3.000
+2,0:13,,,NWE 35,3,24,"Stephen Gostkowski kicks off 65 yards, touchback.",0.000,0.610
+2,0:13,1,10,IND 25,3,24,Nyheim Hines up the middle for 9 yards (tackle by Patrick Chung and Dont'a Hightower),0.610,1.280
+Quarter,Time,Down,ToGo,Location,IND,NWE,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,NWE 35,3,24,"Stephen Gostkowski kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,IND 25,3,24,Nyheim Hines left tackle for 1 yard (tackle by Danny Shelton),0.610,0.200
+3,14:24,2,9,IND 26,3,24,Andrew Luck pass complete deep right to Ryan Grant for 19 yards (tackle by Elandon Roberts),0.200,1.930
+3,13:45,1,10,IND 45,3,24,Andrew Luck pass incomplete deep left intended for Ryan Grant (defended by Stephon Gilmore),1.930,1.380
+3,13:38,2,10,IND 45,3,24,Nyheim Hines up the middle for 4 yards (tackle by Trey Flowers and Dont'a Hightower),1.380,1.220
+3,12:57,3,6,IND 49,3,24,Andrew Luck pass incomplete short left intended for Nyheim Hines (defended by Devin McCourty),1.220,-0.130
+3,12:51,4,6,IND 49,3,24,Rigoberto Sanchez punts 46 yards downed by Christopher Milton,-0.130,0.380
+3,12:42,1,10,NWE 5,3,24,Tom Brady pass complete short right to Julian Edelman for 4 yards (tackle by Arthur Maulet),-0.380,-0.490
+3,12:05,2,6,NWE 9,3,24,Tom Brady pass incomplete short right intended for Josh Gordon,-0.490,-0.950
+3,12:00,3,6,NWE 9,3,24,Tom Brady pass incomplete short right intended for Julian Edelman,-0.950,-2.490
+3,11:57,4,6,NWE 9,3,24,"Ryan Allen punts 59 yards, returned by Chester Rogers for 33 yards (tackle by James Develin and Brandon King)",-2.490,-3.250
+3,11:44,1,10,NWE 35,3,24,Jordan Wilkins left guard for 5 yards (tackle by Dont'a Hightower),3.250,3.380
+3,11:12,2,5,NWE 30,3,24,Jordan Wilkins left tackle for 16 yards (tackle by Lawrence Guy and Devin McCourty),3.380,4.650
+3,10:34,1,10,NWE 14,3,24,Nyheim Hines right guard for no gain (tackle by Dont'a Hightower),4.650,4.000
+3,9:53,2,10,NWE 14,9,24,"Andrew Luck pass complete short left to Eric Ebron for 14 yards, touchdown",4.000,7.000
+3,9:48,,,NWE 15,10,24,Adam Vinatieri kicks extra point good,0.000,0.000
+3,9:48,,,IND 35,10,24,"Rigoberto Sanchez kicks off 59 yards, returned by Sony Michel for no gain (tackle by Carroll Phillips)",0.000,1.070
+3,9:43,1,10,NWE 32,10,24,Sony Michel left end for 1 yard (tackle by Matthew Adams and Najee Goode),1.070,0.660
+3,9:09,2,9,NWE 33,10,24,Tom Brady pass complete short middle to Julian Edelman for 5 yards (tackle by Zaire Franklin and Grover Stewart),0.660,0.630
+3,8:35,3,4,NWE 38,10,24,Tom Brady pass complete short middle to Rob Gronkowski for 15 yards (tackle by Malik Hooker and Lenzy Pipkins),0.630,2.460
+3,7:55,1,10,IND 47,10,24,Tom Brady pass complete short right to Rob Gronkowski for 15 yards (tackle by Lenzy Pipkins),2.460,3.450
+3,7:40,1,10,IND 32,10,24,Sony Michel left tackle for 2 yards (tackle by Matthew Adams and Zaire Franklin),3.450,3.170
+3,7:03,2,8,IND 30,10,24,Tom Brady pass short left intended for Chris Hogan is intercepted by Matthias Farley at IND-23 and returned for 7 yards,3.170,-0.940
+3,6:57,1,10,IND 30,10,24,Jordan Wilkins left guard for 2 yards (tackle by Patrick Chung and Jason McCourty),0.940,0.660
+3,6:22,2,8,IND 32,10,24,Andrew Luck pass complete short left to Jordan Wilkins for 5 yards (tackle by Patrick Chung),0.660,0.630
+3,5:50,3,3,IND 37,10,24,Andrew Luck pass complete short middle to Nyheim Hines for 7 yards (tackle by Jonathan Jones),0.630,1.860
+3,5:10,1,10,IND 44,10,24,"Andrew Luck pass complete short left to Jordan Wilkins for 4 yards (tackle by Devin McCourty). Jordan Wilkins fumbles (forced by Devin McCourty), recovered by Devin McCourty at IND-44 (tackle by Quenton Nelson)",1.860,-2.260
+3,5:00,1,10,NWE 50,10,24,Tom Brady pass complete short left to James White for 3 yards (tackle by Lenzy Pipkins),2.260,2.120
+3,4:24,2,7,IND 47,10,24,Tom Brady pass complete short middle to Julian Edelman for 13 yards (tackle by Malik Hooker),2.120,3.310
+3,3:48,1,10,IND 34,10,24,Tom Brady pass complete short middle to Rob Gronkowski for 19 yards (tackle by Matthias Farley and Malik Hooker),3.310,4.580
+3,3:08,1,10,IND 15,10,24,"Sony Michel right end for no gain (tackle by Matthew Adams). Penalty on David Andrews: Offensive Holding, 10 yards (no play)",4.580,3.910
+3,2:43,1,20,IND 25,10,24,Tom Brady pass incomplete short right intended for James White,3.910,2.670
+3,2:33,2,20,IND 25,10,24,Tom Brady pass deep middle (defended by Matthias Farley) intended for Rob Gronkowski is intercepted by Najee Goode at IND-4 and returned for 16 yards,2.670,-0.280
+3,2:26,1,10,IND 20,10,24,Nyheim Hines up the middle for 2 yards (tackle by Danny Shelton),0.280,0.000
+3,1:41,2,8,IND 22,10,24,Jordan Wilkins left tackle for 11 yards (tackle by Jason McCourty and Patrick Chung),0.000,1.140
+3,0:58,1,10,IND 33,10,24,Andrew Luck pass incomplete deep right intended for Ryan Grant,1.140,0.590
+3,0:54,2,10,IND 33,10,24,Andrew Luck pass incomplete deep left intended for Chester Rogers,0.590,-0.100
+3,0:48,3,10,IND 33,10,24,Andrew Luck pass complete deep middle to Eric Ebron for 28 yards (tackle by Devin McCourty),-0.100,2.980
+3,0:08,1,10,NWE 39,10,24,Jordan Wilkins up the middle for 1 yard (tackle by Kyle Van Noy),2.980,2.580
+Quarter,Time,Down,ToGo,Location,IND,NWE,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,9,NWE 38,10,24,Andrew Luck pass complete short left to Ryan Grant for 4 yards (tackle by Kyle Van Noy),2.580,2.410
+4,14:24,3,5,NWE 34,10,24,Andrew Luck pass complete deep left to Eric Ebron for 18 yards (tackle by Devin McCourty),2.410,4.510
+4,13:35,1,10,NWE 16,10,24,Andrew Luck pass complete short right to Ryan Grant for 3 yards (tackle by Jonathan Jones),4.510,4.390
+4,12:52,2,7,NWE 13,16,24,"Andrew Luck pass complete short middle to Erik Swoope for 13 yards, touchdown",4.390,7.000
+4,12:48,,,NWE 15,17,24,Adam Vinatieri kicks extra point good,0.000,0.000
+4,12:48,,,IND 35,17,24,"Rigoberto Sanchez kicks off 65 yards, touchback.",0.000,0.610
+4,12:48,1,10,NWE 25,17,24,Tom Brady pass complete short middle to Josh Gordon for 16 yards (tackle by Malik Hooker),0.610,1.660
+4,12:14,1,10,NWE 41,17,24,Sony Michel up the middle for 6 yards (tackle by Matthias Farley and Malik Hooker),1.660,1.930
+4,11:37,2,4,NWE 47,17,24,Sony Michel right tackle for 5 yards (tackle by Zaire Franklin and Grover Stewart),1.930,2.390
+4,10:58,1,10,IND 48,17,24,Tom Brady pass complete short left to James White for 11 yards (tackle by Kemoko Turay and Zaire Franklin). Penalty on Marcus Cannon: Tripping (Offsetting) (no play),2.390,2.390
+4,10:35,1,10,IND 48,17,24,Tom Brady pass complete short left to Chris Hogan for 7 yards (tackle by Lenzy Pipkins),2.390,2.790
+4,10:06,2,3,IND 41,17,24,Tom Brady pass complete short right to Julian Edelman for 7 yards (tackle by Lenzy Pipkins),2.790,3.310
+4,9:28,1,10,IND 34,17,30,"Tom Brady pass complete deep right to Josh Gordon for 34 yards, touchdown",3.310,7.000
+4,9:19,,,IND 15,17,31,Stephen Gostkowski kicks extra point good,0.000,0.000
+4,9:19,,,NWE 35,17,31,"Stephen Gostkowski kicks off 65 yards, touchback.",0.000,0.610
+4,9:19,1,10,IND 25,17,31,Andrew Luck pass incomplete short middle intended for Eric Ebron (defended by Adam Butler),0.610,0.060
+4,9:15,2,10,IND 25,17,31,Andrew Luck pass incomplete deep middle intended for Zach Pascal,0.060,-0.620
+4,9:10,3,10,IND 25,17,31,Andrew Luck pass complete short middle to Ryan Grant for 14 yards (tackle by Devin McCourty),-0.620,1.530
+4,8:34,1,10,IND 39,17,31,Andrew Luck pass incomplete deep right intended for Eric Ebron (defended by Stephon Gilmore),1.530,0.990
+4,8:30,2,10,IND 39,17,31,Andrew Luck pass incomplete short right intended for Robert Turbin,0.990,0.300
+4,8:28,3,10,IND 39,17,31,Andrew Luck pass complete short left to Eric Ebron for 5 yards (tackle by Devin McCourty),0.300,-0.460
+4,7:55,4,5,IND 44,17,31,Andrew Luck pass complete short middle to Nyheim Hines for 7 yards (tackle by Devin McCourty),-0.460,2.320
+4,7:25,1,10,NWE 49,17,31,Andrew Luck pass short right (defended by Jason McCourty) intended for Zach Pascal is intercepted by Jonathan Jones at NE-38 and returned for 28 yards,2.320,-3.310
+4,7:15,1,10,IND 34,17,37,"Sony Michel left guard for 34 yards, touchdown",3.310,7.000
+4,7:08,,,IND 15,17,38,Stephen Gostkowski kicks extra point good,0.000,0.000
+4,7:08,,,NWE 35,17,38,"Stephen Gostkowski kicks off 55 yards, returned by Zach Pascal for no gain (tackle by Matthew Slater)",0.000,0.610
+4,7:05,1,10,IND 25,17,38,Andrew Luck pass complete short middle to Eric Ebron for 7 yards (tackle by Patrick Chung and Elandon Roberts),0.610,1.010
+4,6:35,2,3,IND 32,17,38,Andrew Luck pass complete short right to Marcus Johnson for 9 yards (tackle by Elandon Roberts),1.010,1.660
+4,6:04,1,10,IND 41,17,38,Andrew Luck pass complete short left to Chester Rogers for 3 yards (tackle by Jonathan Jones),1.660,1.530
+4,5:38,2,7,IND 44,17,38,Andrew Luck pass complete deep right to Marcus Johnson for 17 yards (tackle by Jason McCourty),1.530,2.980
+4,5:09,1,10,NWE 39,17,38,Andrew Luck pass incomplete short left intended for Eric Ebron,2.980,2.440
+4,5:04,2,10,NWE 39,17,38,Andrew Luck pass complete short right to Nyheim Hines for 5 yards (tackle by Elandon Roberts),2.440,2.410
+4,4:40,3,5,NWE 34,17,38,Andrew Luck pass incomplete short left intended for Zach Pascal (defended by Jason McCourty),2.410,1.070
+4,4:37,4,5,NWE 34,17,38,Andrew Luck pass complete short left to Ryan Grant for 10 yards (tackle by Patrick Chung),1.070,3.970
+4,4:07,1,10,NWE 24,17,38,"Andrew Luck pass incomplete short middle intended for Nyheim Hines (defended by Devin McCourty). Penalty on Jonathan Jones: Illegal Contact, 5 yards (no play)",3.970,4.310
+4,4:04,1,10,NWE 19,17,38,Andrew Luck pass incomplete deep middle intended for Chester Rogers,4.310,3.750
+4,4:00,2,10,NWE 19,17,38,Nyheim Hines left tackle for 4 yards (tackle by Devin McCourty and Adrian Clayborn),3.750,3.580
+4,3:34,3,6,NWE 15,17,38,Andrew Luck pass incomplete short left intended for Zach Pascal,3.580,2.470
+4,3:29,4,6,NWE 15,17,38,Andrew Luck pass incomplete short left intended for Eric Ebron,2.470,0.220
+4,3:23,1,10,NWE 15,17,38,Sony Michel up the middle for 3 yards (tackle by Arthur Maulet and Malik Hooker),-0.220,-0.280
+4,3:16,,,,,,Timeout #1 by Indianapolis Colts,,
+4,3:16,2,7,NWE 18,17,38,Sony Michel up the middle for 3 yards (tackle by Najee Goode),-0.280,-0.630
+4,3:12,,,,,,Timeout #2 by Indianapolis Colts,,
+4,3:12,3,4,NWE 21,17,38,Tom Brady pass incomplete short middle intended for James White,-0.630,-1.960
+4,3:09,4,4,NWE 21,17,38,Ryan Allen punts 39 yards out of bounds,-1.960,-1.600
+4,3:03,1,10,IND 40,17,38,Andrew Luck pass complete short left to Nyheim Hines for 4 yards (tackle by Jason McCourty and Elandon Roberts),1.600,1.590
+4,2:35,2,6,IND 44,17,38,Andrew Luck pass complete short left to Erik Swoope for 5 yards (tackle by Jason McCourty),1.590,1.550
+4,2:08,3,1,IND 49,17,38,Nyheim Hines up the middle for 3 yards (tackle by Nicholas Grigsby and Elandon Roberts),1.550,2.390
+4,2:00,1,10,NWE 48,17,38,Andrew Luck pass complete short left to Nyheim Hines for 21 yards (tackle by Duron Harmon),2.390,3.780
+4,1:33,,,,,,Timeout #1 by New England Patriots,,
+4,1:33,1,10,NWE 27,17,38,Andrew Luck pass complete deep right to Erik Swoope for 26 yards (tackle by Devin McCourty),3.780,6.970
+4,1:14,1,1,NWE 1,23,38,"Andrew Luck pass complete short left to Eric Ebron for 1 yard, touchdown",6.970,7.000
+4,1:11,,,NWE 15,24,38,Adam Vinatieri kicks extra point good,0.000,0.000
+4,1:11,,,IND 35,24,38,"Rigoberto Sanchez kicks onside 9 yards, returned by Nate Ebner for no gain (tackle by Najee Goode)",0.000,-2.650
+4,1:10,1,10,IND 44,24,38,Tom Brady kneels for -1 yards,2.650,1.980
+4,0:32,2,11,IND 45,24,38,Tom Brady kneels for -1 yards,1.980,1.160
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

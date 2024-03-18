@@ -1,0 +1,17 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,12:33,MIN 21,3,1:22,12,Punt
+2,1,6:04,MIN 25,5,3:08,5,Punt
+3,1,0:22,MIN 21,3,1:16,8,Punt
+4,2,7:40,MIN 22,10,4:50,78,Touchdown
+5,2,1:45,MIN 26,5,0:56,6,Punt
+6,2,0:18,MIN 21,3,0:18,11,End of Half
+7,3,15:00,MIN 40,1,0:10,0,Interception
+8,3,14:50,MIN 25,8,3:42,75,Touchdown
+9,3,7:17,MIN 10,8,3:50,90,Touchdown
+10,3,2:24,JAX 34,6,2:29,32,Fumble
+11,4,14:11,MIN 38,6,3:39,22,Punt
+12,4,9:02,MIN 34,3,2:01,-1,Punt
+13,4,5:29,JAX 44,5,1:39,14,Field Goal
+14,4,1:08,MIN 25,8,0:55,42,Missed FG
+15,5,10:00,MIN 24,3,1:54,-4,Punt
+16,5,7:13,JAX 46,11,5:24,41,Field Goal

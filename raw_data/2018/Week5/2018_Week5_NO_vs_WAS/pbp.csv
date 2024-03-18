@@ -1,0 +1,170 @@
+Quarter,Time,Down,ToGo,Location,WAS,NOR,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Saints won the coin toss and deferred, Redskins to receive the opening kickoff.",,
+1,15:00,,,NOR 35,0,0,"Wil Lutz kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,WAS 25,0,0,Alex Smith pass incomplete deep right intended for Maurice Harris,0.610,0.060
+1,14:54,2,10,WAS 25,0,0,Alex Smith pass incomplete short right intended for Adrian Peterson (defended by P.J. Williams),0.060,-0.620
+1,14:47,3,10,WAS 25,0,0,Alex Smith pass complete short right to Jamison Crowder for 7 yards (tackle by Ken Crawley),-0.620,-1.240
+1,14:13,4,3,WAS 32,0,0,"Penalty on Nick Sundberg: False Start, 5 yards (no play)",-1.240,-1.570
+1,14:03,4,8,WAS 27,0,0,"Tress Way punts 37 yards, returned by Alvin Kamara for no gain (tackle by Ryan Anderson and Kenny Ladler)",-1.570,-1.330
+1,13:54,1,10,NOR 36,0,0,Mark Ingram left guard for 3 yards (tackle by Matthew Ioannidis),1.330,1.200
+1,13:27,2,7,NOR 39,0,0,Alvin Kamara right guard for 3 yards (tackle by Jonathan Allen and Mason Foster),1.200,0.890
+1,12:49,3,4,NOR 42,0,0,"Drew Brees pass incomplete short right intended for Michael Thomas. Penalty on Josh Norman: Defensive Holding, 5 yards (no play)",0.890,2.060
+1,12:43,1,10,NOR 47,0,0,Drew Brees pass complete deep right to Michael Thomas for 20 yards (tackle by Montae Nicholson),2.060,3.380
+1,12:07,1,10,WAS 33,0,0,Mark Ingram left guard for 3 yards (tackle by Zach Brown and Mason Foster),3.380,3.240
+1,11:33,2,7,WAS 30,0,0,Drew Brees pass complete short left to Mark Ingram for 28 yards (tackle by D.J. Swearinger),3.240,6.740
+1,10:45,1,2,WAS 2,0,6,"Mark Ingram left guard for 2 yards, touchdown",6.740,7.000
+1,10:41,,,WAS 15,0,6,Wil Lutz kicks extra point no good wide right,0.000,-1.000
+1,10:41,,,NOR 35,0,6,"Wil Lutz kicks off 65 yards, touchback.",0.000,0.610
+1,10:41,1,10,WAS 25,0,6,Adrian Peterson right tackle for 2 yards (tackle by Marcus Davenport and P.J. Williams),0.610,0.330
+1,10:00,2,8,WAS 27,0,6,Alex Smith pass complete short right to Vernon Davis for 9 yards (tackle by Demario Davis),0.330,1.330
+1,9:33,1,10,WAS 36,0,6,Alex Smith pass complete short left to Maurice Harris for 6 yards (tackle by Marshon Lattimore and A.J. Klein),1.330,1.600
+1,9:06,2,4,WAS 42,0,6,Adrian Peterson right guard for 4 yards (tackle by A.J. Klein and Tyeler Davison),1.600,1.990
+1,8:19,1,10,WAS 46,0,6,Alex Smith pass complete short middle to Adrian Peterson for 12 yards (tackle by Ken Crawley),1.990,2.790
+1,7:33,1,10,NOR 42,0,6,Chris Thompson right end for 1 yard (tackle by Demario Davis),2.790,2.380
+1,6:53,2,9,NOR 41,0,6,Alex Smith sacked by Cameron Jordan for -6 yards,2.380,0.890
+1,6:10,3,15,NOR 47,0,6,Alex Smith pass complete short left to Chris Thompson for 17 yards (tackle by Kurt Coleman),0.890,3.580
+1,5:31,1,10,NOR 30,0,6,Adrian Peterson left end for 2 yards (tackle by Vonn Bell),3.580,3.300
+1,4:50,2,8,NOR 28,0,6,Alex Smith pass incomplete short left intended for Chris Thompson,3.300,2.610
+1,4:45,3,8,NOR 28,0,6,Alex Smith pass complete deep right to Paul Richardson for 23 yards (tackle by Vonn Bell),2.610,6.060
+1,4:11,1,5,NOR 5,0,6,Adrian Peterson left tackle for -2 yards (tackle by Cameron Jordan),6.060,4.760
+1,3:29,2,7,NOR 7,0,6,Alex Smith pass incomplete short left intended for Chris Thompson,4.760,3.810
+1,3:23,3,7,NOR 7,0,6,Alex Smith sacked by Sheldon Rankins for -12 yards,3.810,2.180
+1,2:42,4,19,NOR 19,3,6,Dustin Hopkins 37 yard field goal good,2.180,3.000
+1,2:37,,,WAS 35,3,6,"Dustin Hopkins kicks off 65 yards, touchback.",0.000,0.610
+1,2:37,1,10,NOR 25,3,6,Drew Brees pass complete short left to Cameron Meredith for 7 yards (tackle by Quinton Dunbar),0.610,1.010
+1,2:00,2,3,NOR 32,3,6,Mark Ingram right tackle for 5 yards (tackle by Preston Smith and Da'Ron Payne),1.010,1.400
+1,1:12,1,10,NOR 37,3,6,Drew Brees pass complete short right to Alvin Kamara for 5 yards (tackle by Josh Norman),1.400,1.530
+1,0:37,2,5,NOR 42,3,6,Mark Ingram left guard for 5 yards (tackle by Matthew Ioannidis and Jonathan Allen),1.530,2.060
+Quarter,Time,Down,ToGo,Location,WAS,NOR,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,NOR 47,3,6,"Drew Brees pass complete short left to Mark Ingram for -8 yards (tackle by Da'Ron Payne). Mark Ingram fumbles (forced by Da'Ron Payne), recovered by Mark Ingram at NO-39",2.060,0.440
+2,14:16,2,18,NOR 39,3,6,Drew Brees pass complete short left to Austin Carr for 10 yards (tackle by Mason Foster),0.440,1.090
+2,13:32,3,8,NOR 49,3,6,"Drew Brees sacked by Ryan Kerrigan for -8 yards. Penalty on Montae Nicholson: Unnecessary Roughness, 15 yards",1.090,2.650
+2,13:03,,,,,,Timeout #1 by New Orleans Saints,,
+2,13:03,1,10,WAS 44,3,6,Alvin Kamara left guard for 2 yards (tackle by Mason Foster),2.650,2.380
+2,12:30,2,8,WAS 42,3,6,Drew Brees pass complete short left to Michael Thomas for 31 yards (tackle by D.J. Swearinger and Mason Foster),2.380,4.840
+2,11:46,1,10,WAS 11,3,6,Drew Brees pass complete short left to Alvin Kamara for 6 yards (tackle by Quinton Dunbar),4.840,5.280
+2,11:15,2,4,WAS 5,3,6,Drew Brees pass incomplete short left intended for Michael Thomas (defended by Quinton Dunbar),5.280,4.440
+2,11:12,3,4,WAS 5,3,6,"Drew Brees left end for 2 yards (tackle by Preston Smith). Penalty on Quinton Dunbar: Defensive Holding, 2 yards",4.440,6.970
+2,10:41,1,1,WAS 1,3,12,"Drew Brees pass complete short right to Josh Hill for 1 yard, touchdown",6.970,7.000
+2,10:38,,,WAS 15,3,13,Wil Lutz kicks extra point good,0.000,0.000
+2,10:38,,,NOR 35,3,13,"Wil Lutz kicks off 65 yards, touchback.",0.000,0.610
+2,10:38,1,10,WAS 25,3,13,Chris Thompson left end for 11 yards (tackle by Kurt Coleman),0.610,1.330
+2,10:08,1,10,WAS 36,3,13,Alex Smith pass complete short left to Adrian Peterson for 24 yards (tackle by Kurt Coleman),1.330,2.920
+2,9:31,1,10,NOR 40,3,13,Kapri Bibbs right guard for 5 yards (tackle by Craig Robertson and Vonn Bell),2.920,3.050
+2,8:50,2,5,NOR 35,3,13,Alex Smith pass incomplete short left intended for Maurice Harris (defended by Vonn Bell),3.050,2.340
+2,8:47,3,5,NOR 35,3,13,Alex Smith pass incomplete deep left intended for Jamison Crowder,2.340,0.980
+2,8:41,4,5,NOR 35,6,13,Dustin Hopkins 53 yard field goal good,0.980,3.000
+2,8:36,,,WAS 35,6,13,"Dustin Hopkins kicks off 65 yards, touchback.",0.000,0.610
+2,8:36,1,10,NOR 25,6,13,Drew Brees pass complete short left to Tre'Quan Smith for 14 yards (tackle by Quinton Dunbar),0.610,1.530
+2,8:15,1,10,NOR 39,6,13,Drew Brees pass complete short right to Ben Watson for 6 yards (tackle by Josh Norman),1.530,1.800
+2,7:41,2,4,NOR 45,6,13,Alvin Kamara left tackle for 3 yards (tackle by Quinton Dunbar and Jonathan Allen),1.800,1.490
+2,7:04,,,,,,Timeout #2 by New Orleans Saints,,
+2,7:04,3,1,NOR 48,6,13,Taysom Hill left guard for 5 yards (tackle by Preston Smith),1.490,2.460
+2,6:29,1,10,WAS 47,6,13,Drew Brees pass incomplete short left intended for Mark Ingram,2.460,1.910
+2,6:22,2,10,WAS 47,6,13,"Mark Ingram right end for 3 yards (tackle by Josh Norman). Penalty on Josh Hill: Offensive Holding, 10 yards",1.910,0.970
+2,5:53,2,17,NOR 46,6,13,Drew Brees pass complete deep middle to Cameron Meredith for 46 yards (tackle by Fabian Moreau and Zach Brown),0.970,5.370
+2,5:08,1,8,WAS 8,6,13,Taysom Hill left end for 6 yards (tackle by Zach Brown),5.370,5.720
+2,4:24,2,2,WAS 2,6,13,Mark Ingram right guard for 1 yard (tackle by D.J. Swearinger),5.720,5.170
+2,3:47,3,1,WAS 1,6,19,"Mark Ingram left guard for 1 yard, touchdown",5.170,7.000
+2,3:43,,,WAS 15,6,20,Wil Lutz kicks extra point good,0.000,0.000
+2,3:43,,,NOR 35,6,20,"Wil Lutz kicks off 62 yards, returned by Danny Johnson for no gain (tackle by Craig Robertson)",0.000,0.410
+2,3:38,1,10,WAS 22,6,20,Alex Smith pass complete short right to Chris Thompson for 3 yards (tackle by Sheldon Rankins),0.410,0.270
+2,2:59,2,7,WAS 25,6,20,Alex Smith pass incomplete short right intended for Maurice Harris,0.270,-0.430
+2,2:55,,,,,,Timeout #1 by Washington Redskins,,
+2,2:55,3,7,WAS 25,6,20,Alex Smith pass incomplete short right (defended by Marcus Davenport),-0.430,-1.700
+2,2:53,4,7,WAS 25,6,20,"Tress Way punts 37 yards, fair catch by Alvin Kamara at NO-38. Penalty on David Onyemata: Running Into the Kicker (Declined)",-1.700,-1.470
+2,2:46,1,10,NOR 38,6,26,"Drew Brees pass complete deep right to Tre'Quan Smith for 62 yards, touchdown. Penalty on Michael Thomas: Taunting, 15 yards",1.470,7.000
+2,2:36,,,WAS 2,6,26,"Two Point Attempt: Taysom Hill rushes, conversion fails.",0.000,-1.000
+2,2:36,,,NOR 20,6,26,"Wil Lutz kicks off 66 yards, returned by Danny Johnson for no gain (tackle by Marcus Williams). Penalty on Shaun Dion Hamilton: Offensive Holding, 10 yards",0.000,0.940
+2,2:31,1,10,WAS 30,6,26,Alex Smith pass complete short right to Paul Richardson for 16 yards (tackle by Demario Davis),0.940,1.990
+2,2:11,1,10,WAS 46,6,26,Alex Smith pass incomplete short right,1.990,1.450
+2,2:05,2,10,WAS 46,6,26,Alex Smith pass complete short left to Chris Thompson for 1 yard (tackle by David Onyemata),1.450,0.890
+2,2:00,3,9,WAS 47,6,26,Alex Smith pass incomplete deep right intended for Jamison Crowder,0.890,-0.260
+2,1:55,4,9,WAS 47,6,26,"Tress Way punts 36 yards, fair catch by Alvin Kamara at NO-17",-0.260,0.060
+2,1:47,1,10,NOR 17,6,26,Drew Brees pass incomplete short left intended for Alvin Kamara,-0.060,-0.580
+2,1:45,2,10,NOR 17,6,26,Drew Brees pass complete short left to Alvin Kamara for 4 yards (tackle by Quinton Dunbar),-0.580,-0.750
+2,1:41,3,6,NOR 21,6,26,Drew Brees pass complete short left to Cameron Meredith for 13 yards (tackle by Fabian Moreau),-0.750,1.200
+2,1:36,1,10,NOR 34,6,26,Drew Brees pass complete short left to Cameron Meredith for 3 yards (tackle by Mason Foster),1.200,1.060
+2,1:31,2,7,NOR 37,6,26,"Drew Brees pass complete short right to Cameron Meredith for 2 yards (tackle by Fabian Moreau). Cameron Meredith fumbles (forced by Fabian Moreau), recovered by Pernell McPhee at NO-40 and returned for 24 yards (tackle by Ryan Ramczyk)",1.060,-4.510
+2,1:22,1,10,NOR 16,6,26,Alex Smith pass complete short middle to Jamison Crowder for 13 yards (tackle by Vonn Bell),4.510,6.510
+2,0:54,1,3,NOR 3,6,26,Chris Thompson left guard for -1 yards (tackle by Vonn Bell),6.510,5.340
+2,0:29,,,,,,Timeout #2 by Washington Redskins,,
+2,0:29,2,4,NOR 4,12,26,"Alex Smith right guard for 4 yards, touchdown",5.340,7.000
+2,0:26,,,NOR 15,13,26,Dustin Hopkins kicks extra point good,0.000,0.000
+2,0:26,,,WAS 35,13,26,"Dustin Hopkins kicks off 65 yards, touchback.",0.000,0.610
+2,0:26,1,10,NOR 25,13,26,Drew Brees kneels for -1 yards,0.610,-0.070
+Quarter,Time,Down,ToGo,Location,WAS,NOR,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,WAS 35,13,26,"Dustin Hopkins kicks off 69 yards, returned by Taysom Hill for no gain (tackle by Deshazor Everett)",0.000,0.670
+3,14:55,1,10,NOR 26,13,26,Alvin Kamara right guard for 3 yards (tackle by Ryan Kerrigan),0.670,0.540
+3,14:23,2,7,NOR 29,13,26,Drew Brees pass complete short right to Josh Hill for 23 yards (tackle by Mason Foster),0.540,2.390
+3,13:44,1,10,WAS 48,13,26,Mark Ingram right tackle for 5 yards (tackle by Jonathan Allen and Preston Smith),2.390,2.520
+3,13:07,2,5,WAS 43,13,26,Drew Brees pass complete short middle to Ben Watson for 8 yards (tackle by Greg Stroman),2.520,3.250
+3,12:29,1,10,WAS 35,13,32,"Drew Brees pass complete deep right to Tre'Quan Smith for 35 yards, touchdown",3.250,7.000
+3,12:23,,,WAS 15,13,33,Wil Lutz kicks extra point good,0.000,0.000
+3,12:23,,,NOR 35,13,33,"Wil Lutz kicks off 65 yards, touchback.. Penalty on Craig Robertson: Taunting, 15 yards",0.000,1.600
+3,12:23,1,10,WAS 40,13,33,Alex Smith pass complete short middle to Chris Thompson for 5 yards (tackle by A.J. Klein),1.600,1.730
+3,11:59,2,5,WAS 45,13,33,Chris Thompson right guard for 5 yards (tackle by Demario Davis),1.730,2.260
+3,11:23,1,10,WAS 50,13,33,Alex Smith pass complete short left to Chris Thompson for 7 yards (tackle by Vonn Bell),2.260,2.660
+3,10:46,2,3,NOR 43,13,33,Chris Thompson right guard for -2 yards (tackle by Taylor Stallworth),2.660,1.690
+3,10:03,3,5,NOR 45,13,33,Alex Smith pass complete short left to Vernon Davis for 6 yards (tackle by Ken Crawley),1.690,2.980
+3,9:21,1,10,NOR 39,13,33,Chris Thompson left guard for 5 yards (tackle by A.J. Klein),2.980,3.120
+3,8:45,2,5,NOR 34,13,33,Alex Smith pass complete short left to Paul Richardson for 3 yards (tackle by Vonn Bell),3.120,2.810
+3,8:05,3,2,NOR 31,13,33,Alex Smith pass incomplete deep left intended for Vernon Davis,2.810,1.400
+3,7:59,4,2,NOR 31,13,33,Alex Smith pass short right intended for Maurice Harris is intercepted by Justin Hardee at NO-19 and returned for 77 yards,1.400,-6.280
+3,7:43,1,4,WAS 4,13,33,"Alvin Kamara right guard for no gain (tackle by Da'Ron Payne and Zach Brown). Penalty on Tre'Quan Smith: Illegal Motion, 5 yards (no play)",6.280,5.140
+3,7:17,1,9,WAS 9,13,33,"Drew Brees pass complete short right to Ben Watson for 7 yards (tackle by Zach Brown). Penalty on Zach Brown: Horse Collar Tackle, 1 yard",5.140,6.970
+3,6:48,1,1,WAS 1,13,39,"Taysom Hill right end for 1 yard, touchdown",6.970,7.000
+3,6:43,,,WAS 15,13,40,Wil Lutz kicks extra point good,0.000,0.000
+3,6:43,,,NOR 35,13,40,"Wil Lutz kicks off 65 yards, touchback.",0.000,0.610
+3,6:43,1,10,WAS 25,13,40,Alex Smith pass complete short right to Paul Richardson for 8 yards (tackle by David Onyemata),0.610,1.140
+3,6:12,2,2,WAS 33,13,40,Chris Thompson right guard for 1 yard (tackle by David Onyemata),1.140,0.560
+3,5:31,3,1,WAS 34,13,40,Alex Smith pass incomplete short right intended for Jordan Reed,0.560,-1.110
+3,5:27,4,1,WAS 34,13,40,Alex Smith left end for 3 yards (tackle by A.J. Klein),-1.110,1.400
+3,4:53,1,10,WAS 37,13,40,Alex Smith pass complete short left to Brian Quick for 6 yards (tackle by Justin Hardee),1.400,1.670
+3,4:26,2,4,WAS 43,13,40,Kapri Bibbs left end for 3 yards (tackle by Demario Davis),1.670,1.360
+3,4:01,3,1,WAS 46,13,40,Alex Smith pass complete deep left to Jordan Reed for 21 yards (tackle by Vonn Bell),1.360,3.380
+3,3:23,1,10,NOR 33,13,40,Alex Smith pass complete short middle to Jamison Crowder for 11 yards (tackle by Justin Hardee),3.380,4.110
+3,2:45,1,10,NOR 22,13,40,Alex Smith pass incomplete deep left intended for Maurice Harris (defended by Justin Hardee),4.110,3.560
+3,2:39,2,10,NOR 22,13,40,Alex Smith pass incomplete deep left intended for Jamison Crowder,3.560,2.870
+3,2:35,3,10,NOR 22,13,40,Alex Smith pass incomplete deep right intended for Paul Richardson (defended by A.J. Klein),2.870,1.990
+3,2:32,4,10,NOR 22,13,40,"Alex Smith sacked by Marcus Davenport for -13 yards. Alex Smith fumbles (forced by Marcus Davenport), recovered by A.J. Klein at NO-35 and returned for 17 yards (tackle by Morgan Moses)",1.990,-2.390
+3,2:19,1,10,WAS 48,13,40,Mark Ingram right guard for 5 yards (tackle by Jonathan Allen and Matthew Ioannidis),2.390,2.520
+3,1:36,2,5,WAS 43,13,40,Drew Brees pass complete short left to Michael Thomas for 13 yards (tackle by Quinton Dunbar),2.520,3.580
+3,0:50,1,10,WAS 30,13,40,Drew Brees sacked by Da'Ron Payne for -6 yards Penalty on NOR: Illegal Shift (Declined),3.580,2.220
+3,0:22,2,16,WAS 36,13,40,Drew Brees pass complete short left to Drew Brees for 1 yard (tackle by Ryan Kerrigan),2.220,1.680
+Quarter,Time,Down,ToGo,Location,WAS,NOR,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,15,WAS 35,13,40,Alvin Kamara right tackle for 9 yards (tackle by Josh Harvey-Clemons),1.680,1.760
+4,14:15,,,,,,Timeout #1 by New Orleans Saints,,
+4,14:15,4,6,WAS 26,13,43,Wil Lutz 44 yard field goal good,1.760,3.000
+4,14:10,,,NOR 35,13,43,"Wil Lutz kicks off 65 yards, touchback.",0.000,0.610
+4,14:10,1,10,WAS 25,13,43,Alex Smith pass complete short left to Maurice Harris for -1 yards (tackle by Justin Hardee),0.610,-0.070
+4,13:36,2,11,WAS 24,13,43,Chris Thompson left end for -3 yards (tackle by Marcus Davenport),-0.070,-1.150
+4,12:55,3,14,WAS 21,13,43,Alex Smith pass complete short left to Chris Thompson for 12 yards (tackle by Alex Anzalone),-1.150,-1.180
+4,12:07,4,2,WAS 33,13,43,Alex Smith pass complete deep right to Jamison Crowder for 24 yards (tackle by P.J. Williams),-1.180,2.720
+4,11:39,1,10,NOR 43,13,43,Alex Smith pass complete deep middle to Maurice Harris for 42 yards (tackle by Justin Hardee),2.720,6.970
+4,10:52,,,,,,Timeout #1 by Washington Redskins,,
+4,10:52,1,1,NOR 1,13,43,Kapri Bibbs right guard for no gain (tackle by Demario Davis and A.J. Klein),6.970,5.910
+4,10:29,2,1,NOR 1,19,43,"Kapri Bibbs left guard for 1 yard, touchdown",5.910,7.000
+4,10:25,,,NOR 2,19,43,"Two Point Attempt: Alex Smith pass incomplete intended for Chris Thompson, conversion fails",0.000,-1.000
+4,10:25,,,WAS 35,19,43,"Dustin Hopkins kicks off 56 yards, returned by Taysom Hill for no gain (tackle by Danny Johnson)",0.000,0.410
+4,10:21,1,10,NOR 22,19,43,Mark Ingram right guard for 6 yards (tackle by Mason Foster),0.410,0.680
+4,9:35,2,4,NOR 28,19,43,Mark Ingram left tackle for no gain (tackle by Da'Ron Payne),0.680,-0.030
+4,8:53,3,4,NOR 28,19,43,Drew Brees pass complete short left to Austin Carr for 7 yards (tackle by Fabian Moreau),-0.030,1.270
+4,8:09,1,10,NOR 35,19,43,Mark Ingram left guard for no gain (tackle by Ryan Anderson and Montae Nicholson),1.270,0.720
+4,7:27,2,10,NOR 35,19,43,Drew Brees pass complete short left to Michael Thomas for 10 yards (tackle by Zach Brown),0.720,1.930
+4,6:40,1,10,NOR 45,19,43,Alvin Kamara left guard for 4 yards (tackle by Mason Foster),1.930,1.920
+4,5:54,2,6,NOR 49,19,43,Drew Brees pass complete short left to Ben Watson for 9 yards (tackle by Zach Brown),1.920,2.790
+4,5:08,1,10,WAS 42,19,43,Mark Ingram right end for 2 yards (tackle by D.J. Swearinger),2.790,2.510
+4,4:24,2,8,WAS 40,19,43,Taysom Hill right end for 5 yards (tackle by D.J. Swearinger),2.510,2.480
+4,3:43,3,3,WAS 35,19,43,Taysom Hill left end for 6 yards (tackle by Fabian Moreau and Mason Foster),2.480,3.640
+4,2:56,1,10,WAS 29,19,43,Mark Ingram right tackle for 3 yards (tackle by Ryan Anderson),3.640,3.510
+4,2:17,2,7,WAS 26,19,43,Mark Ingram left end for 9 yards (tackle by Montae Nicholson),3.510,4.440
+4,2:00,,,,,,Timeout #2 by New Orleans Saints,,
+4,2:00,1,10,WAS 17,19,43,Teddy Bridgewater kneels for -1 yards,4.440,3.720
+4,1:17,2,11,WAS 18,19,43,Teddy Bridgewater kneels for -1 yards,3.720,2.910
+4,0:37,3,12,WAS 19,19,43,Teddy Bridgewater kneels for -1 yards,2.910,2.120
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,185 @@
+Quarter,Time,Down,ToGo,Location,ARI,LAR,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Rams won the coin toss and deferred, Cardinals to receive the opening kickoff.",,
+1,15:00,,,LAR 35,0,0,"Greg Zuerlein kicks off 65 yards, touchback",0.000,-0.610
+1,15:00,1,10,ARI 25,0,0,David Johnson left guard for 7 yards (tackle by Blake Countess and Maurice Alexander),0.610,1.010
+1,14:24,2,3,ARI 32,0,0,Carson Palmer pass complete short left to David Johnson for 12 yards (tackle by E.J. Gaines),1.010,1.860
+1,13:55,1,10,ARI 44,0,0,Carson Palmer pass complete deep right to Larry Fitzgerald for 22 yards (tackle by Trumaine Johnson),1.860,3.310
+1,13:21,1,10,LAR 34,0,0,David Johnson middle for -1 yards (tackle by T.J. McDonald),3.310,2.640
+1,12:46,2,11,LAR 35,0,0,Carson Palmer pass complete short left to David Johnson for 9 yards (tackle by Blake Countess and Mark Barron),2.640,3.140
+1,12:06,3,2,LAR 26,0,0,Carson Palmer pass complete short middle to Larry Fitzgerald for 11 yards (tackle by Maurice Alexander),3.140,4.580
+1,11:28,1,10,LAR 15,0,0,David Johnson left tackle for 1 yard (tackle by Cam Thomas and Blake Countess),4.580,4.110
+1,10:49,2,9,LAR 14,0,0,Carson Palmer pass incomplete short middle intended for JJ Nelson (defended by Mark Barron),4.110,3.240
+1,10:44,3,9,LAR 14,0,0,Carson Palmer pass incomplete short left intended for Brittan Golden. Penalty on Earl Watford: Face Mask (15 Yards) (Declined),3.240,2.510
+1,10:39,4,9,LAR 14,3,0,Chandler Catanzaro 32 yard field goal good,2.510,3.000
+1,10:34,,,ARI 35,3,0,"Chandler Catanzaro kicks off 65 yards, touchback",0.000,-0.610
+1,10:34,1,10,LAR 25,3,0,Jared Goff pass complete short left to Brian Quick for 5 yards (tackle by Marcus Cooper),0.610,0.740
+1,9:59,2,5,LAR 30,3,0,Todd Gurley right tackle for -2 yards (tackle by Josh Mauro),0.740,-0.230
+1,9:20,3,7,LAR 28,3,0,Jared Goff sacked by Markus Golden for -6 yards,-0.230,-1.900
+1,9:04,4,13,LAR 22,3,0,"Johnny Hekker punts 46 yards, returned by Patrick Peterson for 2 yards (tackle by Cory Littleton). Penalty on Patrick Peterson: Invalid Fair Catch Signal, 5 yards",-1.900,-0.740
+1,8:54,1,10,ARI 27,3,0,David Johnson left guard for 2 yards (tackle by Dominique Easley),0.740,0.470
+1,8:17,2,8,ARI 29,3,0,Carson Palmer pass incomplete deep left intended for David Johnson,0.470,-0.230
+1,8:11,3,8,ARI 29,3,0,Carson Palmer pass incomplete short right intended for Larry Fitzgerald (defended by Aaron Donald),-0.230,-1.440
+1,8:07,4,8,ARI 29,3,0,"Matt Wile punts 46 yards, muffed catch by Tavon Austin, recovered by Tavon Austin and returned for no gain",-1.440,-0.610
+1,7:51,1,10,LAR 25,3,0,Todd Gurley right guard for no gain (tackle by Josh Mauro),0.610,0.060
+1,7:17,2,10,LAR 25,3,0,"Jared Goff pass incomplete short right intended for Lance Kendricks is intercepted by D.J. Swearinger at LAR-34 and returned for -2 yards. Penalty on Kevin Minter: Roughing the Passer, 15 yards (no play)",0.060,1.600
+1,7:10,1,10,LAR 40,3,0,Todd Gurley left guard for 3 yards (tackle by Sio Moore),1.600,1.460
+1,6:36,2,7,LAR 43,3,0,Jared Goff pass incomplete deep left intended for Brian Quick,1.460,0.760
+1,6:29,3,7,LAR 43,3,0,Jared Goff pass complete short left to Pharoh Cooper for 3 yards (tackle by D.J. Swearinger),0.760,-0.320
+1,5:54,4,4,LAR 46,3,0,"Johnny Hekker punts 37 yards, fair catch by Patrick Peterson",-0.320,0.060
+1,5:43,1,10,ARI 17,3,0,Carson Palmer pass complete short middle to David Johnson for 17 yards (tackle by Blake Countess and T.J. McDonald),-0.060,1.200
+1,5:13,1,10,ARI 34,3,0,Carson Palmer pass complete short right to JJ Nelson for 7 yards (tackle by Trumaine Johnson),1.200,1.600
+1,4:39,2,3,ARI 41,3,0,David Johnson left end for -3 yards (tackle by Eugene Sims),1.600,0.500
+1,4:10,3,6,ARI 38,3,0,Carson Palmer pass complete short right to Larry Fitzgerald for no gain,0.500,-0.850
+1,3:36,4,6,ARI 38,3,0,"Matt Wile punts 54 yards, returned by Tavon Austin for 18 yards (tackle by Aaron Brewer)",-0.850,-0.670
+1,3:23,1,10,LAR 26,3,0,Todd Gurley left guard for 3 yards (tackle by D.J. Swearinger),0.670,0.540
+1,2:39,2,7,LAR 29,3,0,Jared Goff pass complete short left to Todd Gurley for no gain,0.540,-0.160
+1,2:14,3,7,LAR 29,3,0,Jared Goff sacked by Markus Golden for -10 yards,-0.160,-2.140
+1,1:42,4,17,LAR 19,3,0,"Johnny Hekker punts 46 yards. Penalty on Malcolm Brown: Ineligible Downfield Kick (Offsetting), Penalty on Patrick Peterson: Invalid Fair Catch Signal (Offsetting) (no play)",-2.140,-2.140
+1,1:28,4,17,LAR 19,3,0,"Penalty on Jake McQuaide: False Start, 5 yards (no play)",-2.140,-2.470
+1,1:28,4,22,LAR 14,3,0,"Johnny Hekker punts 73 yards, returned by Patrick Peterson for 14 yards (tackle by Cory Littleton)",-2.470,-0.740
+1,1:13,1,10,ARI 27,3,0,Andre Ellington left end for no gain (tackle by Morgan Fox),0.740,0.200
+1,0:37,2,10,ARI 27,3,0,"Carson Palmer pass incomplete short right intended for Larry Fitzgerald. Penalty on Dominique Easley: Defensive Pass Interference, 3 yards (no play)",0.200,0.940
+1,0:33,1,10,ARI 30,3,0,Carson Palmer pass incomplete deep left intended for Andre Ellington,0.940,0.390
+1,0:25,2,10,ARI 30,3,0,Andre Ellington right tackle for 2 yards (tackle by T.J. McDonald),0.390,-0.030
+Quarter,Time,Down,ToGo,Location,ARI,LAR,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,8,ARI 32,3,0,Carson Palmer pass incomplete deep middle intended for JJ Nelson is intercepted by Maurice Alexander at ARI-48 and returned for 19 yards,-0.030,-3.640
+2,14:51,1,10,ARI 29,3,0,Pharoh Cooper pass incomplete deep right intended for Todd Gurley is intercepted by Harlan Miller at ARI-13 and returned for 52 yards,3.640,-3.250
+2,14:32,1,10,LAR 35,3,0,Kerwynn Williams middle for 5 yards (tackle by Blake Countess),3.250,3.380
+2,13:58,2,5,LAR 30,3,0,Carson Palmer pass complete short right to Jeremy Ross for 10 yards (tackle by Blake Countess),3.380,4.240
+2,13:22,1,10,LAR 20,3,0,Carson Palmer pass incomplete short middle intended for JJ Nelson,4.240,3.690
+2,13:17,2,10,LAR 20,3,0,Kerwynn Williams right end for 4 yards (tackle by Mark Barron),3.690,3.520
+2,12:35,3,6,LAR 16,3,0,Carson Palmer pass incomplete deep right intended for JJ Nelson,3.520,2.400
+2,12:30,4,6,LAR 16,6,0,Chandler Catanzaro 34 yard field goal good,2.400,3.000
+2,12:25,,,ARI 35,6,0,"Chandler Catanzaro kicks off 70 yards, returned by Pharoh Cooper for 14 yards (tackle by Justin Bethel)",0.000,0.380
+2,12:17,1,10,LAR 9,6,0,Malcolm Brown right guard for 3 yards (tackle by Calais Campbell and Kevin Minter),-0.380,-0.560
+2,11:39,2,7,LAR 12,6,0,Jared Goff pass incomplete short left intended for Brian Quick,-0.560,-1.070
+2,11:35,3,7,LAR 12,6,0,Jared Goff pass complete short right to Paul McRoberts for 6 yards (tackle by Brandon Williams),-1.070,-2.240
+2,11:03,4,1,LAR 18,6,0,"Johnny Hekker punts 47 yards, fair catch by Patrick Peterson",-2.240,-1.270
+2,10:55,1,10,ARI 35,6,0,Carson Palmer pass incomplete deep middle intended for JJ Nelson,1.270,0.720
+2,10:46,2,10,ARI 35,6,0,Carson Palmer pass complete deep right to John Brown for 16 yards,0.720,2.320
+2,10:11,1,10,LAR 49,6,0,"Kerwynn Williams left guard for 4 yards (tackle by Blake Countess). Penalty on Alec Ogletree: Defensive Offside, 5 yards (no play)",2.320,3.050
+2,9:47,1,5,LAR 44,6,0,Carson Palmer pass incomplete deep left intended for Larry Fitzgerald,3.050,2.460
+2,9:41,2,5,LAR 44,6,0,Kerwynn Williams left end for 21 yards (tackle by E.J. Gaines),2.460,4.040
+2,9:08,1,10,LAR 23,6,0,Carson Palmer pass complete short left to JJ Nelson for 20 yards (tackle by Maurice Alexander),4.040,6.510
+2,8:32,1,3,LAR 3,6,0,Kerwynn Williams middle for -1 yards (tackle by William Hayes),6.510,5.340
+2,7:47,2,4,LAR 4,12,0,"Carson Palmer pass complete short middle to Jeremy Ross for 4 yards, touchdown",5.340,7.000
+2,7:42,,,LAR 15,13,0,Chandler Catanzaro kicks extra point good,0.000,0.000
+2,7:42,,,ARI 35,13,0,"Chandler Catanzaro kicks off 65 yards, touchback",0.000,-0.610
+2,7:42,1,10,LAR 25,13,0,Todd Gurley right end for 5 yards (tackle by Sio Moore),0.610,0.740
+2,7:04,2,5,LAR 30,13,0,Tavon Austin for 3 yards (tackle by Justin Bethel),0.740,0.430
+2,6:27,3,2,LAR 33,13,0,Jared Goff pass complete short right to Todd Gurley for 29 yards (tackle by Harlan Miller),0.430,3.050
+2,5:39,1,10,ARI 38,13,0,"Tavon Austin left end for 38 yards. Penalty on Jared Goff: Illegal Motion, 5 yards (no play)",3.050,2.720
+2,5:29,1,15,ARI 43,13,0,Todd Gurley right guard for 2 yards (tackle by Josh Mauro),2.720,2.100
+2,4:48,2,13,ARI 41,13,0,Jared Goff pass complete short right to Mike Thomas for 15 yards (tackle by Harlan Miller),2.100,3.840
+2,4:11,1,10,ARI 26,13,0,Jared Goff pass complete short left to Tavon Austin for 8 yards (tackle by Patrick Peterson),3.840,4.450
+2,3:33,2,2,ARI 18,13,0,Tavon Austin right end for -1 yards (tackle by Harlan Miller),4.450,3.570
+2,2:46,3,3,ARI 19,13,0,Jared Goff pass incomplete short left intended for Brian Quick (defended by Marcus Cooper),3.570,2.280
+2,2:39,4,3,ARI 19,13,3,Greg Zuerlein 37 yard field goal good,2.280,3.000
+2,2:34,,,LAR 35,13,3,"Greg Zuerlein kicks off 65 yards, touchback",0.000,-0.610
+2,2:34,1,10,ARI 25,13,3,Andre Ellington left guard for 7 yards (tackle by Alec Ogletree),0.610,1.010
+2,2:13,2,3,ARI 32,13,3,Carson Palmer pass incomplete short left intended for JJ Nelson,1.010,0.300
+2,2:10,3,3,ARI 32,13,3,Carson Palmer pass incomplete short right intended for Jermaine Gresham,0.300,-1.240
+2,2:06,4,3,ARI 32,13,3,"Matt Wile punts, blocked by Chase Reynolds, recovered by Kerwynn Williams",-1.240,-4.310
+2,1:59,1,10,ARI 19,13,3,Todd Gurley left end for -6 yards (tackle by Justin Bethel),4.310,2.950
+2,1:12,2,16,ARI 25,13,3,"Jared Goff pass complete short left to Lance Kendricks for 13 yards (tackle by Patrick Peterson). Penalty on Jamon Brown: Offensive Holding, 10 yards (no play)",2.950,1.600
+2,1:06,2,26,ARI 35,13,3,Jared Goff pass complete short right to Lance Kendricks for 3 yards (tackle by Justin Bethel),1.600,1.360
+2,1:00,3,23,ARI 32,13,3,Jared Goff pass complete short left to Todd Gurley for 14 yards (tackle by Kevin Minter),1.360,2.250
+2,0:53,4,9,ARI 18,13,6,Greg Zuerlein 36 yard field goal good,2.250,3.000
+2,0:48,,,LAR 35,13,6,"Greg Zuerlein kicks off 65 yards, touchback",0.000,-0.610
+2,0:48,1,10,ARI 25,13,6,Carson Palmer pass incomplete short left intended for JJ Nelson,0.610,0.060
+2,0:40,2,10,ARI 25,13,6,Carson Palmer sacked by William Hayes for -3 yards,0.060,0.000
+2,0:34,,,,13,6,Timeout #1 by Los Angeles Rams,0.000,1.020
+2,0:34,3,13,ARI 22,13,6,Carson Palmer pass complete short left to JJ Nelson for 16 yards (tackle by Alec Ogletree),-1.020,0.000
+2,0:26,,,,13,6,Timeout #1 by Arizona Cardinals,0.000,-1.470
+2,0:26,1,10,ARI 38,13,6,Carson Palmer pass complete short right to John Brown for 9 yards (tackle by Blake Countess),1.470,2.140
+2,0:13,2,1,ARI 47,13,6,Carson Palmer pass complete short right to Larry Fitzgerald for 5 yards (tackle by Maurice Alexander),2.140,0.000
+2,0:07,,,,13,6,Timeout #2 by Arizona Cardinals,0.000,-2.390
+2,0:07,1,10,LAR 48,13,6,"Carson Palmer pass complete short right to Andre Ellington for 4 yards (tackle by Trumaine Johnson). Penalty on Trumaine Johnson: Unnecessary Roughness, 15 yards",2.390,3.640
+2,0:01,1,10,LAR 29,16,6,Chandler Catanzaro 47 yard field goal good,3.640,3.000
+Quarter,Time,Down,ToGo,Location,ARI,LAR,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,ARI 35,16,6,"Chandler Catanzaro kicks off 70 yards, returned by Pharoh Cooper for 29 yards (tackle by Patrick Peterson)",0.000,-0.540
+3,14:56,1,10,LAR 24,16,6,Jared Goff pass incomplete short right intended for Brian Quick,0.540,0.000
+3,14:52,2,10,LAR 24,16,6,Todd Gurley left end for no gain (tackle by Corey Peters),0.000,-0.690
+3,14:09,3,10,LAR 24,16,6,Jared Goff sacked by Calais Campbell and Chandler Jones for -14 yards,-0.690,-2.490
+3,13:33,4,24,LAR 10,16,6,"Johnny Hekker punts 44 yards, returned by Patrick Peterson for 17 yards (tackle by Chase Reynolds)",-2.490,-3.120
+3,13:20,1,10,LAR 37,22,6,"Carson Palmer pass complete deep left to Darren Fells for 37 yards, touchdown",3.120,7.000
+3,13:11,,,LAR 15,23,6,Chandler Catanzaro kicks extra point good,0.000,0.000
+3,13:11,,,ARI 35,23,6,"Chandler Catanzaro kicks off 52 yards, returned by Pharoh Cooper for 5 yards (tackle by Hakeem Valles)",0.000,-0.040
+3,13:05,1,10,LAR 18,23,6,Todd Gurley for no gain (tackle by D.J. Swearinger),0.040,-0.490
+3,12:25,2,10,LAR 18,23,6,Jared Goff pass incomplete deep left intended for Tavon Austin,-0.490,-1.170
+3,12:18,3,10,LAR 18,23,6,"Jared Goff sacked by Chandler Jones for -10 yards. Jared Goff fumbles (forced by Chandler Jones), ball out of bounds at LAR-5",-1.170,-2.490
+3,11:54,4,23,LAR 5,23,6,"Johnny Hekker punts 47 yards, returned by Patrick Peterson for no gain. Patrick Peterson fumbles (forced by Mike Thomas), recovered by Patrick Peterson at ARI-43",-2.490,-1.800
+3,11:44,1,10,ARI 43,23,6,Kerwynn Williams right tackle for 15 yards (tackle by Trumaine Johnson),1.800,2.790
+3,11:04,1,10,LAR 42,23,6,Kerwynn Williams left end for no gain (tackle by Blake Countess and Maurice Alexander),2.790,2.240
+3,10:22,2,10,LAR 42,23,6,Kerwynn Williams middle for 2 yards (tackle by Eugene Sims),2.240,0.000
+3,9:39,,,,23,6,Timeout #1 by Arizona Cardinals,0.000,-1.820
+3,9:39,3,8,LAR 40,23,6,Carson Palmer pass complete short left to Andre Ellington for 4 yards (tackle by E.J. Gaines),1.820,0.000
+3,9:14,,,,23,6,Timeout #2 by Arizona Cardinals,0.000,-0.890
+3,9:14,4,4,LAR 36,23,6,Carson Palmer pass complete deep left to JJ Nelson for 32 yards,0.890,6.280
+,,,,,,,"challenged the pass completion ruling, and the play was upheld.",,
+3,9:02,1,4,LAR 4,23,6,Andre Ellington right end for 3 yards (tackle by T.J. McDonald and Alec Ogletree),6.280,5.910
+3,8:27,2,1,LAR 1,23,6,Carson Palmer pass incomplete short right intended for Jermaine Gresham,5.910,5.170
+3,8:22,3,1,LAR 1,29,6,"Kerwynn Williams middle for 1 yard, touchdown",5.170,7.000
+3,8:17,,,LAR 15,30,6,Chandler Catanzaro kicks extra point good,0.000,0.000
+3,8:17,,,ARI 35,30,6,"Chandler Catanzaro kicks off 71 yards, returned by Pharoh Cooper for 25 yards (tackle by Scooby Wright)",0.000,-0.150
+3,8:13,1,10,LAR 19,30,6,Jared Goff sacked by Calais Campbell for -8 yards,0.150,-1.360
+3,7:30,2,18,LAR 11,30,6,Jared Goff pass complete short right to Todd Gurley for -6 yards (tackle by Kevin Minter),-1.360,-3.060
+3,6:44,3,24,LAR 5,30,6,Jared Goff pass complete short left to Pharoh Cooper for 23 yards (tackle by Harlan Miller),-3.060,-1.500
+3,6:01,4,1,LAR 28,30,6,Johnny Hekker pass complete short left to Chase Reynolds for 4 yards (tackle by C.B. Bryant),-1.500,1.070
+3,5:41,1,10,LAR 32,30,6,"Penalty on Nic Grigsby: False Start, 5 yards (no play)",1.070,0.740
+3,5:19,1,15,LAR 27,30,6,Todd Gurley for 8 yards (tackle by Sio Moore),0.740,0.930
+3,4:42,2,7,LAR 35,30,6,Jared Goff pass complete short right to Brian Quick for 10 yards (tackle by Marcus Cooper),0.930,1.930
+3,4:00,1,10,LAR 45,30,6,Jared Goff pass incomplete short right intended for Tavon Austin (defended by Markus Golden),1.930,1.380
+3,3:57,2,10,LAR 45,30,6,"Jared Goff sacked by Markus Golden and Rodney Gunter for -8 yards. Jared Goff fumbles (forced by Markus Golden), recovered by Greg Robinson at LAR-37",1.380,0.000
+3,3:04,,,,30,6,Timeout #2 by Los Angeles Rams,0.000,0.360
+3,3:04,3,18,LAR 37,30,6,Jared Goff pass incomplete short middle intended for Pharoh Cooper (defended by Chandler Jones),-0.360,-0.910
+3,3:00,4,18,LAR 37,30,6,"Johnny Hekker punts 43 yards, fair catch by Jeremy Ross",-0.910,-0.280
+3,2:50,1,10,ARI 20,30,6,Kerwynn Williams left tackle for 3 yards (tackle by Ethan Westbrooks),0.280,0.140
+3,2:06,2,7,ARI 23,30,6,Carson Palmer pass complete short right to Jeremy Ross for 15 yards (tackle by Mark Barron),0.140,1.470
+3,1:18,1,10,ARI 38,30,6,Andre Ellington right end for 3 yards (tackle by Ethan Westbrooks),1.470,1.330
+3,0:35,2,7,ARI 41,30,6,Andre Ellington left end for no gain (tackle by Mark Barron),1.330,0.630
+Quarter,Time,Down,ToGo,Location,ARI,LAR,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,7,ARI 41,30,6,"Carson Palmer pass complete short middle to John Brown for 5 yards (tackle by Cody Davis). Penalty on Earl Watford: Offensive Holding, 10 yards (no play)",0.630,-0.690
+4,14:24,3,17,ARI 31,30,6,Carson Palmer pass incomplete deep left intended for John Brown,-0.690,-1.310
+4,14:17,4,17,ARI 31,30,6,"Matt Wile punts 47 yards, returned by Tavon Austin for no gain",-1.310,-0.410
+4,14:10,1,10,LAR 22,30,6,Jared Goff sacked by D.J. Swearinger for -13 yards,0.410,-1.730
+4,13:33,2,23,LAR 9,30,6,"Jared Goff pass complete short left to Tavon Austin for 10 yards (tackle by Sio Moore). Tavon Austin fumbles (forced by Sio Moore), recovered by Justin Bethel at LAR-19 (tackle by Pharoh Cooper)",-1.730,-4.310
+4,13:23,1,10,LAR 19,30,6,Carson Palmer pass incomplete short middle intended for Kerwynn Williams,4.310,3.750
+4,13:18,2,10,LAR 19,30,6,Kerwynn Williams right guard for 3 yards (tackle by Mark Barron),3.750,3.410
+4,12:35,3,7,LAR 16,30,6,Carson Palmer pass incomplete short right intended for JJ Nelson,3.410,2.380
+4,12:31,4,7,LAR 16,30,6,"Chandler Catanzaro 34 yard field goal good. Penalty on Cody Davis: Leaping, 8 yards (no play)",2.380,5.370
+4,12:26,1,8,LAR 8,30,6,Carson Palmer pass incomplete short left intended for John Brown,5.370,4.570
+4,12:19,2,8,LAR 8,30,6,Andre Ellington left tackle for 3 yards (tackle by Michael Brockers),4.570,4.260
+4,11:40,3,5,LAR 5,36,6,"Carson Palmer pass complete short middle to Larry Fitzgerald for 5 yards, touchdown",4.260,7.000
+4,11:35,,,LAR 15,37,6,Chandler Catanzaro kicks extra point good,0.000,0.000
+4,11:35,,,ARI 35,37,6,"Chandler Catanzaro kicks off 65 yards, touchback",0.000,-0.610
+4,11:35,1,10,LAR 25,37,6,Sean Mannion pass complete short right to Pharoh Cooper for 7 yards (tackle by Justin Bethel),0.610,1.010
+4,11:04,2,3,LAR 32,37,6,Todd Gurley left tackle for 6 yards (tackle by Rodney Gunter),1.010,1.470
+4,10:26,1,10,LAR 38,37,6,"Sean Mannion pass incomplete deep left intended for Tavon Austin. Penalty on Patrick Peterson: Defensive Pass Interference, 21 yards (no play)",1.470,2.850
+4,10:17,1,10,ARI 41,37,6,Sean Mannion pass incomplete short right intended for Lance Kendricks,2.850,2.310
+4,10:13,2,10,ARI 41,37,6,Sean Mannion pass complete short middle to Pharoh Cooper for 3 yards (tackle by Justin Bethel),2.310,2.020
+4,9:28,3,7,ARI 38,37,6,Sean Mannion pass complete short left to Lance Kendricks for 9 yards (tackle by Marcus Cooper and Kevin Minter),2.020,3.640
+4,8:46,1,10,ARI 29,37,6,"Penalty on Tim Barnes: False Start, 5 yards (no play)",3.640,3.310
+4,8:15,1,15,ARI 34,43,6,"Sean Mannion pass incomplete short right intended for Pharoh Cooper is intercepted by Justin Bethel at ARI-34 and returned for 66 yards, touchdown",3.310,-7.000
+4,,,,LAR 15,44,6,Chandler Catanzaro kicks extra point good,,
+4,8:06,,,ARI 35,44,6,"Chandler Catanzaro kicks off 65 yards, touchback",0.000,-0.610
+4,8:06,1,10,LAR 25,44,6,Todd Gurley right guard for 8 yards (tackle by Sio Moore),0.610,1.140
+4,7:29,2,2,LAR 33,44,6,Todd Gurley left guard for 8 yards (tackle by Sio Moore),1.140,1.660
+4,6:54,1,10,LAR 41,44,6,Todd Gurley right tackle for 5 yards (tackle by Kareem Martin and Kevin Minter),1.660,1.800
+4,6:11,2,5,LAR 46,44,6,Malcolm Brown right guard for 4 yards (tackle by Justin Bethel),1.800,1.620
+4,5:32,3,1,,44,6,Malcolm Brown right tackle for no gain (tackle by Kareem Martin),1.620,-0.060
+4,4:53,4,1,,44,6,Sean Mannion pass incomplete short left intended for Brian Quick (defended by Marcus Cooper),-0.060,-2.260
+4,4:46,1,10,,44,6,Kerwynn Williams left end for 5 yards (tackle by Alec Ogletree),2.260,2.390
+4,4:01,2,5,LAR 45,44,6,Drew Stanton pass complete short right to Jeremy Ross for 8 yards (tackle by Trumaine Johnson),2.390,3.120
+4,3:11,1,10,LAR 37,44,6,Kerwynn Williams left tackle for 2 yards (tackle by Mike Jordan),3.120,2.840
+4,2:29,2,8,LAR 35,44,6,Drew Stanton pass complete short left to Brittan Golden for no gain,2.840,2.150
+4,2:00,3,8,LAR 35,44,6,Drew Stanton pass incomplete short middle intended for Darren Fells,2.150,0.970
+4,1:54,4,8,LAR 35,44,6,Drew Stanton pass incomplete deep right intended for Brittan Golden is intercepted by T.J. McDonald at LAR-14,0.970,0.280
+4,1:46,1,10,LAR 14,44,6,Malcolm Brown right tackle for no gain (tackle by Kareem Martin),-0.280,-0.750
+4,1:14,2,10,LAR 14,44,6,Malcolm Brown right tackle for 4 yards (tackle by Rodney Gunter),-0.750,-0.920
+4,0:34,3,6,LAR 18,44,6,"Sean Mannion right end for -1 yards (tackle by D.J. Swearinger and Sio Moore). Sean Mannion fumbles (forced by Sio Moore), recovered by Malcolm Brown at LAR-17",-0.920,-2.320
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

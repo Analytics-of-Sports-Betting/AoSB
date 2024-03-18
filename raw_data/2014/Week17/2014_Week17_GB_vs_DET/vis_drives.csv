@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,DET 20,3,2:15,3,Punt
+2,1,7:44,DET 2,5,2:55,8,Punt
+3,1,4:49,DET 8,11,5:57,55,Punt
+4,2,10:00,DET 17,10,3:41,52,Downs
+5,2,2:24,DET 23,8,2:00,77,Touchdown
+6,3,12:55,DET 49,11,5:21,51,Touchdown
+7,3,3:33,DET 39,3,0:31,0,Punt
+8,4,13:36,DET 42,1,0:08,0,Fumble
+9,4,8:45,DET 25,6,1:24,38,Downs
+10,4,2:39,DET 10,1,0:07,-10,Safety
+11,4,2:32,GNB 44,5,0:47,44,Touchdown
+12,4,0:36,DET 20,2,0:36,-6,End of Game

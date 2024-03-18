@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,DEN 14,1,0:12,-14,Safety
+2,1,10:21,DEN 35,3,1:50,8,Punt
+3,1,2:16,DEN 20,3,1:17,3,Interception
+4,2,12:00,DEN 16,15,8:39,49,Interception
+5,2,3:21,DEN 33,9,2:20,48,Downs
+6,3,14:48,DEN 23,10,4:10,38,Punt
+7,3,7:05,DEN 45,3,1:10,34,Fumble
+8,3,2:58,DEN 20,6,2:58,80,Touchdown
+9,4,11:45,DEN 13,7,1:57,40,Downs
+10,4,5:19,DEN 31,4,1:35,-2,Fumble
+11,4,1:59,DEN 24,3,1:59,23,End of Game

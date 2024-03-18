@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,TEN 25,8,3:38,51,Field Goal
+2,1,9:09,TEN 20,4,1:52,22,Punt
+3,1,4:53,TEN 7,8,5:03,40,Punt
+4,2,11:53,TEN 11,5,2:57,37,Punt
+5,2,4:04,TEN 25,3,1:42,3,Punt
+6,2,0:41,TEN 20,1,0:15,0,Interception
+7,3,7:36,TEN 25,8,4:45,75,Touchdown
+8,4,14:03,PHI 35,8,4:45,20,Field Goal
+9,4,7:55,TEN 25,5,2:54,75,Touchdown
+10,4,2:50,TEN 20,3,1:09,7,Punt
+11,4,0:16,TEN 25,1,0:16,-1,End of Half
+12,5,6:19,TEN 25,16,6:14,75,Touchdown

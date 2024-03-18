@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,12:13,KAN 27,1,0:13,5,Fumble
+2,1,11:15,KAN 32,7,3:12,68,Touchdown
+3,1,6:35,ATL 47,3,1:30,5,Punt
+4,1,2:35,KAN 49,3,1:27,51,Touchdown
+5,2,14:48,KAN 27,12,7:23,73,Touchdown
+6,2,5:47,KAN 44,5,2:30,56,Touchdown
+7,2,1:44,KAN 20,5,1:23,30,Punt
+8,2,0:15,ATL 16,3,0:15,16,Touchdown
+9,3,15:00,KAN 12,4,2:32,15,Punt
+10,3,12:28,KAN 20,11,5:48,80,Touchdown
+11,3,3:26,KAN 24,8,4:19,76,Touchdown
+12,4,11:30,KAN 13,6,3:20,24,Punt
+13,4,7:01,ATL 44,9,5:02,44,Touchdown

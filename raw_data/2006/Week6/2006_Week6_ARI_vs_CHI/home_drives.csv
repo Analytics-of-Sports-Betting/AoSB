@@ -1,0 +1,18 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:58,ARI 23,12,6:52,77,Touchdown
+2,1,5:32,ARI 23,3,1:33,7,Punt
+3,1,2:26,CHI 25,3,1:32,25,Touchdown
+4,2,14:41,ARI 33,3,1:27,-2,Punt
+5,2,13:00,CHI 29,4,1:43,-5,Missed FG
+6,2,9:27,ARI 20,3,1:14,9,Punt
+7,2,8:05,CHI 33,7,3:50,10,Field Goal
+8,2,2:10,CHI 32,5,2:10,22,Field Goal
+9,3,15:00,ARI 16,3,1:49,6,Punt
+10,3,7:22,ARI 40,13,5:35,49,Field Goal
+11,3,0:50,ARI 15,2,0:48,-12,Fumble
+12,3,0:02,ARI 23,6,3:15,28,Punt
+13,4,10:53,ARI 21,3,0:52,-1,Punt
+14,4,9:17,ARI 26,3,1:57,6,Punt
+15,4,5:53,ARI 41,2,0:53,-1,Fumble
+16,4,5:00,ARI 19,5,2:02,14,Punt
+17,4,2:58,ARI 38,9,2:11,39,Missed FG

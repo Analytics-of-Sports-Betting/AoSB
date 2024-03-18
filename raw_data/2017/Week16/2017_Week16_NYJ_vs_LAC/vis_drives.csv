@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,12:04,LAC 1,6,2:52,23,Punt
+2,1,7:52,LAC 13,5,2:36,15,Punt
+3,1,3:05,LAC 7,6,2:52,21,Punt
+4,2,14:41,LAC 29,12,5:46,71,Touchdown
+5,2,7:00,LAC 24,4,2:06,27,Punt
+6,2,2:13,LAC 7,6,1:31,33,Punt
+7,3,13:02,LAC 31,5,1:40,40,Missed FG
+8,3,10:00,LAC 25,8,5:03,75,Touchdown
+9,3,3:35,LAC 16,4,2:05,24,Punt
+10,4,14:13,LAC 13,5,1:43,11,Punt
+11,4,9:38,LAC 15,3,1:40,-3,Punt
+12,4,3:07,LAC 17,8,3:04,31,Punt

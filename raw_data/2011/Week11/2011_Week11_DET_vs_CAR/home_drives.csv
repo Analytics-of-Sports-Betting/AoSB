@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,DET 17,3,0:25,0,Interception
+2,1,13:46,DET 20,10,5:11,54,Interception
+3,1,3:55,DET 20,3,1:26,9,Fumble
+4,1,0:35,DET 20,3,1:31,80,Touchdown
+5,2,13:50,DET 15,3,2:25,0,Punt
+6,2,9:32,DET 20,12,6:35,80,Touchdown
+7,3,11:51,CAR 30,3,1:23,30,Touchdown
+8,3,9:15,DET 34,6,3:18,66,Touchdown
+9,3,2:37,DET 21,4,2:48,16,Punt
+10,4,12:36,DET 31,8,4:34,69,Touchdown
+11,4,4:59,DET 20,7,2:27,80,Touchdown
+12,4,2:17,CAR 23,3,0:17,23,Touchdown
+13,4,0:47,DET 28,2,0:47,-2,End of Game

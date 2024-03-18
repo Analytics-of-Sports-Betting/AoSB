@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,12:45,DAL 10,8,4:56,90,Touchdown
+2,1,6:48,DAL 20,7,3:17,40,Fumble
+3,2,14:56,DAL 16,3,2:44,8,Punt
+4,2,7:17,DAL 16,12,5:34,72,Field Goal
+5,3,15:00,DAL 24,11,4:57,45,Missed FG
+6,3,6:23,DAL 46,5,3:05,54,Touchdown
+7,3,2:35,CLE 38,3,2:04,1,Interception
+8,4,14:25,DAL 20,5,3:13,37,Interception
+9,4,10:13,CLE 43,4,2:31,13,Interception
+10,4,5:31,CLE 38,3,1:46,-7,Punt
+11,4,2:10,DAL 25,5,2:01,43,Punt

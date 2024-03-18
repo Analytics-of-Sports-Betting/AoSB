@@ -1,0 +1,218 @@
+Quarter,Time,Down,ToGo,Location,BAL,CIN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Bengals won the coin toss and deferred, Ravens to receive the opening kickoff.",,
+1,15:00,,,CIN 35,0,0,"Randy Bullock kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,BAL 25,0,0,Joe Flacco pass incomplete short middle intended for Michael Crabtree (defended by Hardy Nickerson),0.610,0.060
+1,14:57,2,10,BAL 25,0,0,Alex Collins right tackle for 1 yard (tackle by Dre Kirkpatrick and Nick Vigil),0.060,-0.490
+1,14:15,3,9,BAL 26,0,0,Joe Flacco sacked by Geno Atkins for -1 yards,-0.490,-1.700
+1,13:37,4,10,BAL 25,0,0,"Sam Koch punts 60 yards, muffed catch by Darius Phillips, recovered by Darius Phillips at CIN-15, returned by Darius Phillips for 16 yards (tackle by Javorius Allen)",-1.700,-1.000
+1,13:24,1,10,CIN 31,0,0,Joe Mixon left tackle for -1 yards (tackle by Chris Wormley),1.000,0.320
+1,12:46,2,11,CIN 30,0,0,Andy Dalton pass incomplete short right intended for A.J. Green (defended by Eric Weddle),0.320,-0.360
+1,12:41,3,11,CIN 30,0,0,Andy Dalton pass incomplete deep middle intended for Tyler Boyd. Penalty on Giovani Bernard: Tripping (Declined),-0.360,-1.370
+1,12:37,4,11,CIN 30,0,0,"Penalty on Brandon Wilson: False Start, 5 yards (no play)",-1.370,-1.700
+1,12:37,4,16,CIN 25,0,0,"Kevin Huber punts 55 yards, returned by Janarion Grant for -2 yards (tackle by Tony McRae and Clayton Fejedelem). Janarion Grant fumbles (forced by Tony McRae), recovered by Tavon Young at BAL-18 (tackle by Vincent Rey)",-1.700,-0.040
+1,12:24,1,10,BAL 18,0,0,Joe Flacco pass deep right intended for Michael Crabtree is intercepted by Jessie Bates at BAL-37 and returned for 21 yards,0.040,-4.510
+1,12:13,1,10,BAL 16,0,0,Andy Dalton pass incomplete deep right intended for A.J. Green (defended by Brandon Carr),4.510,3.900
+1,12:08,2,10,BAL 16,0,0,Joe Mixon right tackle for 4 yards (tackle by Brent Urban and Michael Pierce),3.900,3.730
+1,11:27,3,6,BAL 12,0,0,"Andy Dalton pass incomplete short right intended for Tyler Eifert. Penalty on Tony Jefferson: Defensive Pass Interference, 11 yards (no play)",3.730,6.970
+1,11:22,1,1,BAL 1,0,0,Joe Mixon right end for -3 yards (tackle by Marlon Humphrey),6.970,5.340
+1,10:40,2,4,BAL 4,0,6,"Andy Dalton pass complete short right to A.J. Green for 4 yards, touchdown",5.340,7.000
+1,10:35,,,BAL 15,0,7,Randy Bullock kicks extra point good,0.000,0.000
+1,10:35,,,CIN 35,0,7,"Randy Bullock kicks off 68 yards, returned by Janarion Grant for no gain (tackle by Darqueze Dennard)",0.000,0.870
+1,10:30,1,10,BAL 29,0,7,"Penalty on Nick Boyle: False Start, 5 yards (no play)",0.870,0.540
+1,10:30,1,15,BAL 24,0,7,Alex Collins right guard for 7 yards (tackle by Jordan Evans),0.540,0.600
+1,9:56,2,8,BAL 31,0,7,Joe Flacco pass complete short middle to Michael Crabtree for 16 yards (tackle by Jessie Bates),0.600,2.060
+1,9:16,1,10,BAL 47,0,7,Joe Flacco sacked by Sam Hubbard for -11 yards,2.060,0.030
+1,9:03,2,21,BAL 36,0,7,Alex Collins right end for 14 yards (tackle by Hardy Nickerson),0.030,1.220
+1,8:21,3,7,BAL 50,0,7,Joe Flacco pass incomplete deep right intended for Michael Crabtree,1.220,-0.060
+1,8:17,4,7,BAL 50,0,7,"Sam Koch punts 50 yards, touchback.",-0.060,-0.280
+1,8:10,1,10,CIN 20,0,7,Andy Dalton pass complete short right to C.J. Uzomah for 29 yards (tackle by Eric Weddle),0.280,2.190
+1,7:36,1,10,CIN 49,0,7,Giovani Bernard left end for 11 yards (tackle by Tony Jefferson),2.190,2.920
+1,7:03,1,10,BAL 40,0,7,Andy Dalton pass complete short left to Giovani Bernard for 8 yards (tackle by Marlon Humphrey),2.920,3.450
+1,6:37,2,2,BAL 32,0,7,Andy Dalton pass incomplete short left intended for Giovani Bernard (defended by Terrell Suggs),3.450,2.740
+1,6:33,3,2,BAL 32,0,13,"Andy Dalton pass complete short middle to A.J. Green for 32 yards, touchdown, touchdown",2.740,7.000
+1,6:26,,,BAL 15,0,14,Randy Bullock kicks extra point good,0.000,0.000
+1,6:26,,,CIN 35,0,14,"Randy Bullock kicks off 65 yards, touchback.",0.000,0.610
+1,6:26,1,10,BAL 25,0,14,Alex Collins left tackle for 1 yard (tackle by Jordan Evans),0.610,0.200
+1,5:43,2,9,BAL 26,0,14,"Penalty on Alex Collins: False Start, 5 yards (no play)",0.200,-0.480
+1,5:28,2,14,BAL 21,0,14,Joe Flacco pass complete short right to Willie Snead for 5 yards (tackle by Hardy Nickerson),-0.480,-0.490
+1,4:49,3,9,BAL 26,0,14,Joe Flacco sacked by Geno Atkins for -5 yards,-0.490,-1.960
+1,4:06,4,14,BAL 21,0,14,"Sam Koch punts 59 yards, returned by Darius Phillips for 8 yards (tackle by Kenny Young)",-1.960,-0.810
+1,3:55,1,10,CIN 28,0,14,Joe Mixon right guard for 11 yards (tackle by Marlon Humphrey),0.810,1.530
+1,3:19,1,10,CIN 39,0,14,Joe Mixon up the middle for 1 yard (tackle by Tony Jefferson and Michael Pierce),1.530,1.120
+1,2:44,2,9,CIN 40,0,14,Andy Dalton pass complete deep left to Tyler Boyd for 27 yards (tackle by Tony Jefferson),1.120,3.380
+1,2:13,1,10,BAL 33,0,14,Andy Dalton pass complete short right to Tyler Boyd for 6 yards (tackle by Tavon Young),3.380,3.650
+1,1:36,2,4,BAL 27,0,14,Joe Mixon right tackle for 5 yards (tackle by Patrick Onwuasor and Brandon Williams),3.650,4.110
+1,1:08,1,10,BAL 22,0,14,Joe Mixon left guard for 5 yards (tackle by Tavon Young),4.110,4.290
+1,0:42,2,5,BAL 17,0,14,Andy Dalton pass complete short left to Tyler Kroft for 5 yards (tackle by Kenny Young),4.290,4.780
+1,0:06,1,10,BAL 12,0,14,Andy Dalton pass incomplete short middle intended for Tyler Eifert (defended by Tony Jefferson),4.780,4.100
+1,0:02,2,10,BAL 12,0,14,John Ross right end for -3 yards (tackle by Matt Judon),4.100,3.000
+Quarter,Time,Down,ToGo,Location,BAL,CIN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,13,BAL 15,0,14,"Andy Dalton pass complete short right to Giovani Bernard for 1 yard (tackle by Anthony Levine). Penalty on Terrell Suggs: Illegal Use of Hands, 5 yards (no play)",3.000,4.910
+2,14:34,1,10,BAL 10,0,14,Joe Mixon up the middle for no gain (tackle by Kenny Young),4.910,4.190
+2,13:50,2,10,BAL 10,0,14,Andy Dalton pass complete short right to Joe Mixon for 3 yards (tackle by Brandon Carr and Kenny Young),4.190,3.810
+2,13:07,3,7,BAL 7,0,20,"Andy Dalton pass complete short left to A.J. Green for 7 yards, touchdown",3.810,7.000
+2,13:02,,,BAL 15,0,20,"Penalty on CIN: Delay of Game, 5 yards (no play)",0.000,0.000
+2,13:02,,,BAL 20,0,21,Randy Bullock kicks extra point good,0.000,0.000
+2,13:02,,,CIN 35,0,21,"Randy Bullock kicks off 65 yards, touchback.",0.000,0.610
+2,13:02,1,10,BAL 25,0,21,Joe Flacco pass incomplete short left intended for Mark Andrews (defended by William Jackson),0.610,0.060
+2,12:58,2,10,BAL 25,0,21,Joe Flacco pass complete short right to John Brown for 9 yards (tackle by Dre Kirkpatrick),0.060,0.560
+2,12:24,3,1,BAL 34,0,21,Joe Flacco up the middle for 3 yards (tackle by Jordan Evans),0.560,1.400
+2,11:51,1,10,BAL 37,0,21,Chris Moore right end for 2 yards (tackle by Shawn Williams),1.400,1.130
+2,11:15,2,8,BAL 39,0,21,Javorius Allen left end for -7 yards (tackle by Sam Hubbard),1.130,-0.490
+2,10:32,3,15,BAL 32,0,21,Joe Flacco pass complete deep middle to John Brown for 45 yards (tackle by Shawn Williams),-0.490,4.040
+2,10:00,1,10,CIN 23,0,21,Joe Flacco pass complete short middle to Michael Crabtree for 10 yards (tackle by Nick Vigil),4.040,4.710
+2,9:19,1,10,CIN 13,0,21,Lamar Jackson right end for 5 yards (tackle by Nick Vigil and Shawn Williams),4.710,4.960
+2,8:36,2,5,CIN 8,0,21,Joe Flacco pass incomplete short right intended for Alex Collins,4.960,4.100
+2,8:29,3,5,CIN 8,0,21,"Joe Flacco pass incomplete short left intended for Mark Andrews (defended by Darqueze Dennard). Penalty on Darqueze Dennard: Defensive Pass Interference, 7 yards (no play)",4.100,6.970
+2,8:25,1,1,CIN 1,6,21,"Javorius Allen right guard for 1 yard, touchdown",6.970,7.000
+2,8:20,,,CIN 15,7,21,Justin Tucker kicks extra point good,0.000,0.000
+2,8:20,,,BAL 35,7,21,"Justin Tucker kicks off 68 yards, returned by Alex Erickson for no gain (tackle by Tyus Bowser)",0.000,0.410
+2,8:15,1,10,CIN 22,7,21,"Andy Dalton pass incomplete short right intended for Joe Mixon (defended by Za'Darius Smith). Penalty on Matt Judon: Roughing the Passer, 15 yards (no play)",0.410,1.400
+2,8:10,,,,,,Timeout #1 by Cincinnati Bengals,,
+2,8:10,1,10,CIN 37,7,21,Joe Mixon left tackle for 1 yard (tackle by Za'Darius Smith),1.400,0.990
+2,7:32,2,9,CIN 38,7,21,Andy Dalton pass complete short middle to Giovani Bernard for no gain (tackle by Kenny Young and Tony Jefferson),0.990,0.300
+2,6:48,3,9,CIN 38,7,21,Andy Dalton pass complete deep right to Tyler Boyd for 22 yards (tackle by Tavon Young). Penalty on Terrell Suggs: Defensive Offside (Declined),0.300,2.920
+2,6:25,1,10,BAL 40,7,21,Joe Mixon right tackle for 9 yards (tackle by Patrick Onwuasor and Kenny Young),2.920,3.590
+2,5:53,2,1,BAL 31,7,21,Andy Dalton pass incomplete short right intended for C.J. Uzomah,3.590,2.870
+2,5:49,3,1,BAL 31,7,21,Joe Mixon right guard for 3 yards (tackle by Patrick Onwuasor),2.870,3.710
+2,5:10,1,10,BAL 28,7,21,Andy Dalton pass complete short left to C.J. Uzomah for 4 yards (tackle by Tony Jefferson),3.710,3.710
+2,4:32,2,6,BAL 24,7,21,"Joe Mixon up the middle for 8 yards (tackle by Eric Weddle and Marlon Humphrey). Penalty on Bobby Hart: Offensive Holding, 10 yards",3.710,3.440
+2,4:04,2,8,BAL 26,7,21,Andy Dalton pass incomplete short left intended for John Ross,3.440,2.740
+2,3:59,3,8,BAL 26,7,21,Andy Dalton pass complete short middle to Tyler Boyd for 17 yards (tackle by Eric Weddle),2.740,5.140
+2,3:10,1,9,BAL 9,7,21,"Andy Dalton pass incomplete short left intended for Tyler Boyd. Penalty on Tyler Boyd: Illegal Shift, 5 yards (no play)",5.140,4.440
+2,3:07,1,14,BAL 14,7,21,Andy Dalton pass incomplete short right intended for John Ross,4.440,3.580
+2,3:04,2,14,BAL 14,7,27,"Andy Dalton pass complete short middle to Tyler Boyd for 14 yards, touchdown",3.580,7.000
+2,2:58,,,BAL 15,7,28,Randy Bullock kicks extra point good,0.000,0.000
+2,2:58,,,CIN 35,7,28,"Randy Bullock kicks off 65 yards, touchback.",0.000,0.610
+2,2:58,1,10,BAL 25,7,28,Joe Flacco pass complete short left to Alex Collins for 9 yards (tackle by Hardy Nickerson),0.610,1.280
+2,2:33,2,1,BAL 34,7,28,Alex Collins right guard for no gain (tackle by Carlos Dunlap),1.280,0.560
+2,2:05,3,1,BAL 34,7,28,Joe Flacco up the middle for 3 yards (tackle by Sam Hubbard and Geno Atkins),0.560,1.400
+2,2:00,1,10,BAL 37,7,28,Joe Flacco pass complete short middle to Willie Snead for 19 yards (tackle by Darqueze Dennard),1.400,2.650
+2,1:38,1,10,CIN 44,7,28,Joe Flacco pass incomplete short left intended for John Brown (defended by William Jackson),2.650,2.110
+2,1:33,2,10,CIN 44,7,28,Javorius Allen left end for 6 yards (tackle by Shawn Williams),2.110,2.210
+2,1:29,3,4,CIN 38,7,28,Joe Flacco pass incomplete short middle intended for Michael Crabtree,2.210,0.720
+2,1:25,4,4,CIN 38,7,28,Joe Flacco pass incomplete short left intended for Willie Snead,0.720,-1.470
+2,1:22,1,10,CIN 38,7,28,Andy Dalton pass incomplete short right intended for Giovani Bernard (defended by Terrell Suggs),1.470,0.920
+2,1:17,2,10,CIN 38,7,28,Andy Dalton pass incomplete deep left intended for A.J. Green,0.920,0.230
+2,1:12,3,10,CIN 38,7,28,Andy Dalton pass incomplete short right intended for A.J. Green,0.230,-0.850
+2,1:08,4,10,CIN 38,7,28,"Kevin Huber punts 43 yards, fair catch by Janarion Grant at BAL-19",-0.850,-0.150
+2,1:02,1,10,BAL 19,7,28,Joe Flacco pass incomplete deep middle intended for John Brown,0.150,-0.390
+2,0:54,2,10,BAL 19,7,28,Joe Flacco pass complete short middle to Alex Collins for 22 yards (tackle by Clayton Fejedelem),-0.390,1.660
+2,0:42,,,,,,Timeout #1 by Baltimore Ravens,,
+2,0:42,1,10,BAL 41,7,28,Joe Flacco pass complete short right to Michael Crabtree for 17 yards (tackle by Nick Vigil),1.660,2.790
+2,0:36,,,,,,Timeout #2 by Baltimore Ravens,,
+2,0:36,1,10,CIN 42,7,28,Joe Flacco pass complete short right to Mark Andrews for 11 yards (tackle by Nick Vigil),2.790,3.510
+2,0:30,1,10,CIN 31,7,28,"Joe Flacco pass incomplete deep right intended for John Brown. Penalty on Dre Kirkpatrick: Defensive Pass Interference, 30 yards (no play)",3.510,6.970
+2,0:24,1,1,CIN 1,7,28,Alex Collins right guard for no gain (tackle by Sam Hubbard and Geno Atkins),6.970,5.910
+2,0:16,,,,,,Timeout #3 by Baltimore Ravens,,
+2,0:16,,,,,,Timeout #2 by Cincinnati Bengals,,
+2,0:16,2,1,CIN 1,7,28,Joe Flacco pass incomplete short left intended for John Brown,5.910,5.170
+2,0:12,3,1,CIN 1,13,28,"Joe Flacco pass complete short right to Mark Andrews for 1 yard, touchdown",5.170,7.000
+2,0:08,,,CIN 15,14,28,Justin Tucker kicks extra point good,0.000,0.000
+2,0:08,,,BAL 35,14,28,"Justin Tucker kicks off 37 yards, muffed catch by Giovani Bernard returned by Giovani Bernard for no gain (tackle by Chris Board)",0.000,1.270
+Quarter,Time,Down,ToGo,Location,BAL,CIN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,BAL 35,14,28,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,CIN 25,14,28,Andy Dalton pass complete short middle to Tyler Eifert for 16 yards (tackle by Eric Weddle and Patrick Onwuasor),0.610,1.660
+3,14:27,1,10,CIN 41,14,28,Andy Dalton pass incomplete short right intended for Josh Malone (defended by Terrell Suggs),1.660,1.120
+3,14:24,2,10,CIN 41,14,28,"Joe Mixon right end for no gain (tackle by Eric Weddle). Penalty on Alex Redmond: Offensive Holding, 10 yards (no play)",1.120,-0.230
+3,13:58,2,20,CIN 31,14,28,Andy Dalton pass incomplete short left,-0.230,-0.890
+3,13:50,3,20,CIN 31,14,28,Andy Dalton pass incomplete short middle intended for Giovani Bernard (defended by Brent Urban),-0.890,-1.310
+3,13:44,4,20,CIN 31,14,28,Kevin Huber punts 34 yards downed by Clayton Fejedelem,-1.310,-1.270
+3,13:36,1,10,BAL 35,14,28,Joe Flacco pass complete deep left to Maxx Williams for 25 yards (tackle by Jessie Bates),1.270,2.920
+3,13:10,1,10,CIN 40,14,28,Alex Collins up the middle for 3 yards (tackle by Geno Atkins and Jordan Evans),2.920,2.780
+3,12:43,2,7,CIN 37,14,28,Joe Flacco pass incomplete short middle intended for Nick Boyle (defended by Jordan Willis),2.780,2.080
+3,12:40,3,7,CIN 37,14,28,Joe Flacco pass incomplete short middle intended for Willie Snead (defended by Carlos Dunlap),2.080,0.790
+3,12:35,4,7,CIN 37,17,28,Justin Tucker 55 yard field goal good,0.790,3.000
+3,12:30,,,BAL 35,17,28,"Justin Tucker kicks off 61 yards, returned by Alex Erickson for no gain (tackle by Chris Board and Tim Williams)",0.000,0.540
+3,12:25,1,10,CIN 24,17,28,Joe Mixon right guard for 7 yards (tackle by Marlon Humphrey),0.540,0.940
+3,11:45,2,3,CIN 31,17,28,Andy Dalton pass complete short left to Tyler Kroft for 6 yards (tackle by Patrick Onwuasor),0.940,1.400
+3,10:58,1,10,CIN 37,17,28,Joe Mixon left tackle for -2 yards (tackle by Kenny Young),1.400,0.590
+3,10:13,2,12,CIN 35,17,28,Andy Dalton pass complete short middle to Tyler Boyd for 5 yards (tackle by Tony Jefferson),0.590,0.560
+3,9:30,3,7,CIN 40,17,28,"Penalty on Cordy Glenn: False Start, 5 yards (no play)",0.560,-0.100
+3,9:23,3,12,CIN 35,17,28,Andy Dalton pass incomplete deep left intended for Tyler Boyd,-0.100,-1.040
+3,9:17,4,12,CIN 35,17,28,"Kevin Huber punts 44 yards, fair catch by Janarion Grant at BAL-21",-1.040,-0.340
+3,9:10,1,10,BAL 21,17,28,Alex Collins right guard for 3 yards (tackle by Jordan Evans and Shawn Williams),0.340,0.210
+3,8:32,2,7,BAL 24,17,28,Joe Flacco pass complete short right to Alex Collins for 24 yards (tackle by Ryan Glasgow),0.210,2.130
+3,7:51,1,10,BAL 48,17,28,Javorius Allen right tackle for 3 yards (tackle by Jordan Evans),2.130,1.990
+3,7:28,2,7,CIN 49,17,28,Joe Flacco pass complete short right to Chris Moore for 5 yards (tackle by Dre Kirkpatrick),1.990,1.950
+3,6:48,3,2,CIN 44,17,28,Joe Flacco pass incomplete short right intended for Javorius Allen (defended by Nick Vigil) (defended by Carlos Dunlap),1.950,0.330
+3,6:45,4,2,CIN 44,17,28,Joe Flacco pass complete short middle to Javorius Allen for 1 yard (tackle by Darqueze Dennard),0.330,-1.800
+3,6:35,1,10,CIN 43,17,28,Andy Dalton pass complete short right to Giovani Bernard for 8 yards (tackle by Kenny Young),1.800,2.330
+3,5:53,2,2,BAL 49,17,28,Giovani Bernard right tackle for 10 yards (tackle by Eric Weddle),2.330,2.980
+3,5:16,1,10,BAL 39,17,28,Giovani Bernard right guard for 2 yards (tackle by Tony Jefferson),2.980,2.710
+3,4:52,2,8,BAL 37,17,28,Andy Dalton pass incomplete short right intended for John Ross,2.710,2.020
+3,4:48,,,,,,Timeout #1 by Cincinnati Bengals,,
+3,4:48,3,8,BAL 37,17,28,Andy Dalton pass incomplete short right intended for Tyler Eifert,2.020,0.790
+3,4:44,4,8,BAL 37,17,28,Kevin Huber punts 28 yards downed by Jordan Evans,0.790,0.380
+3,4:37,1,10,BAL 9,17,28,Joe Flacco pass complete short left to Michael Crabtree for 6 yards (tackle by William Jackson),-0.380,-0.280
+3,4:13,2,4,BAL 15,17,28,Joe Flacco pass complete short middle to Nick Boyle for 17 yards (tackle by Jessie Bates),-0.280,1.070
+3,3:45,1,10,BAL 32,17,28,Alex Collins left guard for 6 yards (tackle by Carl Lawson),1.070,1.340
+3,3:21,2,4,BAL 38,17,28,Joe Flacco pass complete short left to Javorius Allen for 6 yards (tackle by Nick Vigil),1.340,1.860
+3,2:48,1,10,BAL 44,17,28,Javorius Allen right tackle for 3 yards (tackle by Nick Vigil and Hardy Nickerson),1.860,1.720
+3,2:08,2,7,BAL 47,17,28,Joe Flacco pass deep middle intended for John Brown is intercepted by Shawn Williams at CIN-24 and returned for 1 yard,1.720,-0.610
+3,2:00,1,10,CIN 25,17,28,Andy Dalton pass complete short right to Giovani Bernard for -1 yards (tackle by Tavon Young),0.610,-0.070
+3,1:22,2,11,CIN 24,17,28,Andy Dalton pass complete short middle to A.J. Green for 18 yards (tackle by Brandon Carr),-0.070,1.730
+3,0:52,1,10,CIN 42,17,28,Andy Dalton pass complete short middle to Tyler Eifert for 7 yards (tackle by Tony Jefferson),1.730,2.130
+3,0:17,2,3,CIN 49,17,28,Giovani Bernard right guard for 1 yard (tackle by Brent Urban),2.130,1.550
+Quarter,Time,Down,ToGo,Location,BAL,CIN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,2,CIN 50,17,28,Andy Dalton pass incomplete short right intended for Tyler Boyd,1.550,-0.060
+4,14:56,4,2,CIN 50,17,28,"Kevin Huber punts 37 yards, fair catch by Janarion Grant at BAL-13",-0.060,0.320
+4,14:50,1,10,BAL 13,17,28,Joe Flacco pass incomplete deep middle intended for Nick Boyle,-0.320,-0.770
+4,14:47,2,10,BAL 13,17,28,Joe Flacco pass complete deep right to John Brown for 17 yards (tackle by Darqueze Dennard),-0.770,0.940
+4,14:15,1,10,BAL 30,17,28,Joe Flacco pass complete short middle to Willie Snead for 10 yards (tackle by Nick Vigil),0.940,1.600
+4,13:49,1,10,BAL 40,17,28,Joe Flacco pass complete short left to Michael Crabtree for 7 yards,1.600,2.000
+4,13:19,2,3,BAL 47,17,28,Javorius Allen left tackle for 2 yards (tackle by Ryan Glasgow),2.000,1.550
+4,12:52,3,1,BAL 49,17,28,Joe Flacco right end for 2 yards (tackle by Hardy Nickerson),1.550,2.320
+4,12:24,1,10,CIN 49,17,28,Joe Flacco pass complete short right to Nick Boyle for 9 yards (tackle by Nick Vigil),2.320,3.000
+4,11:57,2,1,CIN 40,17,28,Joe Flacco pass incomplete deep right intended for John Brown,3.000,2.280
+4,11:51,3,1,CIN 40,17,28,Maxx Williams up the middle for 7 yards (tackle by Carl Lawson),2.280,3.380
+4,11:15,1,10,CIN 33,17,28,Joe Flacco pass complete short middle to Javorius Allen for 16 yards (tackle by Shawn Williams),3.380,4.440
+4,10:30,1,10,CIN 17,17,28,Lamar Jackson right tackle for 1 yard (tackle by Jordan Willis),4.440,4.000
+4,9:56,2,9,CIN 16,17,28,"Penalty on Ronnie Stanley: False Start, 5 yards (no play)",4.000,3.350
+4,9:41,2,14,CIN 21,23,28,"Joe Flacco pass complete deep right to John Brown for 21 yards, touchdown",3.350,7.000
+4,9:35,,,CIN 2,23,28,"Two Point Attempt: Joe Flacco pass incomplete intended for Javorius Allen, conversion fails",0.000,-1.000
+4,9:35,,,BAL 35,23,28,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+4,9:35,1,10,CIN 25,23,28,Joe Mixon right tackle for 6 yards (tackle by Patrick Onwuasor and Marlon Humphrey),0.610,0.870
+4,8:53,2,4,CIN 31,23,28,Giovani Bernard left tackle for 2 yards (tackle by Patrick Onwuasor and Brandon Williams),0.870,0.430
+4,8:08,3,2,CIN 33,23,28,"Andy Dalton pass incomplete short left intended for Tyler Boyd (defended by Tavon Young). Penalty on Tavon Young: Defensive Holding, 5 yards (no play)",0.430,1.470
+4,8:03,1,10,CIN 38,23,28,Andy Dalton pass complete short middle to C.J. Uzomah for 12 yards (tackle by Matt Judon),1.470,2.260
+4,7:22,1,10,CIN 50,23,28,Joe Mixon left end for 5 yards (tackle by Eric Weddle),2.260,2.390
+4,6:38,2,5,BAL 45,23,28,Andy Dalton pass complete short right to A.J. Green for 8 yards (tackle by Marlon Humphrey),2.390,3.120
+4,5:59,1,10,BAL 37,23,28,Joe Mixon right tackle for 21 yards (tackle by Eric Weddle),3.120,4.510
+4,5:08,1,10,BAL 16,23,28,Joe Mixon right end for -3 yards (tackle by Patrick Ricard),4.510,3.520
+4,4:29,2,13,BAL 19,23,28,Giovani Bernard up the middle for 1 yard (tackle by Tim Williams and Tony Jefferson),3.520,2.940
+4,3:44,3,12,BAL 18,23,28,Andy Dalton pass complete short left to John Ross for 8 yards (tackle by Brandon Carr),2.940,2.840
+4,3:03,4,4,BAL 10,23,31,Randy Bullock 28 yard field goal good,2.840,3.000
+4,2:59,,,CIN 35,23,31,"Randy Bullock kicks off 65 yards, touchback.",0.000,0.610
+4,2:59,1,10,BAL 25,23,31,Joe Flacco pass incomplete short right intended for John Brown (defended by Dre Kirkpatrick),0.610,0.060
+4,2:56,2,10,BAL 25,23,31,Joe Flacco pass incomplete short middle intended for Michael Crabtree,0.060,-0.620
+4,2:52,,,,,,Timeout #2 by Cincinnati Bengals,,
+4,2:52,3,10,BAL 25,23,31,"Joe Flacco sacked by Shawn Williams for no gain. Joe Flacco fumbles (forced by Shawn Williams), recovered by Jordan Willis at BAL-29 (tackle by Javorius Allen)",-0.620,-3.640
+4,2:42,1,10,BAL 29,23,31,Joe Mixon right end for 1 yard (tackle by Patrick Onwuasor),3.640,3.240
+4,2:37,,,,,,Timeout #1 by Baltimore Ravens,,
+4,2:37,2,9,BAL 28,23,31,Joe Mixon left end for 2 yards (tackle by Matt Judon),3.240,2.810
+4,2:33,,,,,,Timeout #2 by Baltimore Ravens,,
+4,2:33,3,7,BAL 26,23,31,Joe Mixon left tackle for 4 yards (tackle by Chris Wormley),2.810,2.090
+4,2:29,,,,,,Timeout #3 by Baltimore Ravens,,
+4,2:29,4,3,BAL 22,23,34,Randy Bullock 40 yard field goal good,2.090,3.000
+4,2:25,,,CIN 35,23,34,"Randy Bullock kicks off 65 yards, touchback.",0.000,0.610
+4,2:25,1,10,BAL 25,23,34,"Joe Flacco pass incomplete short middle intended for Javorius Allen. Penalty on Carl Lawson: Roughing the Passer, 15 yards (no play)",0.610,1.600
+4,2:21,1,10,BAL 40,23,34,Joe Flacco pass incomplete short right intended for Javorius Allen (defended by Carlos Dunlap),1.600,1.050
+4,2:18,2,10,BAL 40,23,34,Joe Flacco pass incomplete short right intended for Chris Moore,1.050,0.370
+4,2:14,3,10,BAL 40,23,34,Joe Flacco pass complete short middle to Javorius Allen for 7 yards (tackle by Hardy Nickerson and Darqueze Dennard),0.370,-0.260
+4,2:00,4,3,BAL 47,23,34,Joe Flacco pass complete short right to Mark Andrews for 5 yards (tackle by Hardy Nickerson),-0.260,2.390
+4,1:36,1,10,CIN 48,23,34,Joe Flacco pass complete short middle to Chris Moore for 4 yards (tackle by Shawn Williams),2.390,2.390
+4,1:15,2,6,CIN 44,23,34,Joe Flacco pass complete short middle to Javorius Allen for 6 yards (tackle by Darqueze Dennard),2.390,3.050
+4,1:06,,,,,,Timeout #3 by Cincinnati Bengals,,
+4,1:06,1,10,CIN 38,23,34,Joe Flacco pass incomplete deep right intended for Willie Snead,3.050,2.510
+4,0:59,2,10,CIN 38,23,34,Joe Flacco pass complete short middle to Willie Snead for 9 yards (tackle by Darqueze Dennard),2.510,3.010
+4,0:37,3,1,CIN 29,23,34,Joe Flacco pass complete short right to Maxx Williams for 4 yards (tackle by Darqueze Dennard),3.010,3.910
+4,0:26,1,10,CIN 25,23,34,Joe Flacco spiked the ball,3.910,3.360
+4,0:25,2,10,CIN 25,23,34,Joe Flacco pass complete short left to Maxx Williams for 2 yards (tackle by Darqueze Dennard and Hardy Nickerson),3.360,2.940
+4,0:09,3,8,CIN 23,23,34,Joe Flacco spiked the ball,2.940,1.930
+4,0:08,4,8,CIN 23,23,34,Joe Flacco pass complete short middle to Willie Snead for 11 yards (tackle by Sam Hubbard),1.930,3.310
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

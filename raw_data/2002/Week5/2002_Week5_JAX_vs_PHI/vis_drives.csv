@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,PHI 12,3,2:22,1,Punt
+2,1,8:50,PHI 25,10,5:08,44,Downs
+3,2,14:50,PHI 32,8,4:51,28,Punt
+4,2,8:19,PHI 37,9,4:38,63,Touchdown
+5,2,1:15,PHI 21,7,1:15,36,End of Half
+6,3,12:59,PHI 40,3,1:54,-3,Punt
+7,3,10:10,JAX 43,6,2:21,30,Field Goal
+8,3,4:00,PHI 10,6,2:20,26,Punt
+9,4,10:37,PHI 24,7,4:14,-1,Punt
+10,4,6:23,PHI 25,11,3:35,75,Touchdown
+11,4,2:20,PHI 18,14,2:20,82,Touchdown

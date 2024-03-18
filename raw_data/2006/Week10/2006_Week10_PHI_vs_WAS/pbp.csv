@@ -1,0 +1,176 @@
+Quarter,Time,Down,ToGo,Location,WAS,PHI,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Redskins won the coin toss, Redskins to receive the opening kickoff.",,
+1,15:00,,,PHI 30,0,0,"David Akers kicks off 70 yards, touchback",0.000,0.280
+1,15:00,1,10,WAS 20,0,0,"Clinton Portis right end for -2 yards (tackle by Trent Cole and Shawn Barber). Penalty on Trent Cole: Face Mask (5 Yards), 5 yards",0.280,0.720
+1,14:38,1,7,WAS 23,0,0,Mark Brunell pass complete short left to Clinton Portis for 6 yards (tackle by Matt McCoy),0.720,0.950
+1,13:56,2,1,WAS 29,0,0,Antwaan Randle El right end for 20 yards (tackle by Matt McCoy),0.950,2.190
+1,13:09,1,10,WAS 49,0,0,Clinton Portis left guard for 4 yards (tackle by Darwin Walker and Matt McCoy),2.190,2.190
+1,12:31,2,6,PHI 47,0,0,Mark Brunell pass incomplete short right intended for Brandon Lloyd (defended by Trent Cole),2.190,1.490
+1,12:27,3,6,PHI 47,0,0,Mark Brunell pass complete short left to Ladell Betts for 2 yards (tackle by Michael Lewis),1.490,0.270
+1,12:17,4,4,PHI 45,0,0,Derrick Frost punts 23 yards,0.270,-0.410
+1,12:09,1,10,PHI 22,0,0,Brian Westbrook right tackle for 3 yards (tackle by Cornelius Griffin),0.410,0.270
+1,11:44,2,7,PHI 25,0,0,Donovan McNabb pass incomplete short right intended for L.J. Smith (defended by Marcus Washington),0.270,-0.430
+1,11:40,3,7,PHI 25,0,0,Donovan McNabb for 11 yards,-0.430,1.330
+1,11:14,1,10,PHI 36,0,0,Brian Westbrook for 18 yards (tackle by Troy Vincent),1.330,2.520
+1,10:49,1,10,WAS 46,0,0,Donovan McNabb pass incomplete deep middle intended for Reggie Brown,2.520,1.980
+1,10:42,2,10,WAS 46,0,0,Donovan McNabb pass complete short right to Brian Westbrook for 17 yards (tackle by Troy Vincent),1.980,3.640
+1,10:02,1,10,WAS 29,0,0,Correll Buckhalter middle for 5 yards (tackle by Warrick Holdman),3.640,3.780
+1,9:33,2,5,WAS 24,0,0,Correll Buckhalter middle for 4 yards (tackle by Cornelius Griffin),3.780,3.600
+1,8:57,3,1,WAS 20,0,0,Brian Westbrook middle for no gain (tackle by Joe Salave'a),3.600,2.270
+1,8:05,4,1,WAS 20,0,3,David Akers 37 yard field goal good,2.270,3.000
+1,,,,PHI 30,0,3,"David Akers kicks off 70 yards, returned by Rock Cartwright for 27 yards (tackle by Reno Mahe)",0.000,0.740
+1,7:56,1,10,WAS 27,0,3,Antwaan Randle El right end for 3 yards (tackle by Lito Sheppard),0.740,0.600
+1,7:20,2,7,WAS 30,0,3,Clinton Portis left end for 10 yards (tackle by Shawn Barber and Brian Dawkins),0.600,1.600
+1,6:54,1,10,WAS 40,0,3,"Clinton Portis right end for 2 yards (tackle by Matt McCoy and Darwin Walker). Penalty on Darwin Walker: Face Mask (15 Yards), 15 yards",1.600,2.720
+1,6:31,1,10,PHI 43,0,3,"Penalty on Santana Moss: False Start, 5 yards (no play)",2.720,2.390
+1,6:03,1,15,PHI 48,0,3,Ladell Betts right end for 4 yards (tackle by Shawn Barber and Darwin Walker),2.390,2.040
+1,5:15,2,11,PHI 44,0,3,Mark Brunell pass complete short left to Chris Cooley for 15 yards (tackle by Brian Dawkins and Sheldon Brown),2.040,3.640
+1,4:34,1,10,PHI 29,0,3,Clinton Portis middle for 2 yards (tackle by Darren Howard),3.640,3.370
+1,3:50,2,8,PHI 27,0,3,"Mark Brunell pass incomplete. Penalty on Mark Brunell: Intentional Grounding, 10 yards",3.370,1.360
+1,3:46,3,18,PHI 37,0,3,Mark Brunell pass incomplete short left intended for Chris Cooley,1.360,0.790
+1,3:43,4,18,PHI 37,0,3,"Derrick Frost punts 21 yards, fair catch by Reno Mahe",0.790,0.140
+1,3:36,1,10,PHI 16,0,9,"Donovan McNabb pass complete deep middle to Donte' Stallworth for 84 yards, touchdown",-0.140,7.000
+1,,,,WAS 2,0,10,David Akers kicks extra point good,0.000,0.000
+1,,,,PHI 30,0,10,"David Akers kicks off 61 yards, returned by Rock Cartwright for 24 yards (tackle by Omar Gaither)",0.000,1.140
+1,3:18,1,10,WAS 33,0,10,Mark Brunell pass incomplete short left intended for Santana Moss,1.140,0.590
+1,3:12,2,10,WAS 33,0,10,Clinton Portis left end for 9 yards (tackle by Brian Dawkins),0.590,1.090
+1,2:29,3,1,WAS 42,0,10,Mark Brunell pass complete short left to Santana Moss for 4 yards (tackle by Michael Lewis),1.090,1.990
+1,2:02,1,10,WAS 46,0,10,Ladell Betts right end for 6 yards (tackle by Juqua Parker),1.990,2.260
+1,1:27,2,4,PHI 48,0,10,Ladell Betts middle for -2 yards (tackle by Brian Dawkins),2.260,1.290
+1,0:44,3,6,,0,10,Ladell Betts middle for 9 yards (tackle by Brian Dawkins),1.290,2.850
+1,0:05,1,10,PHI 41,0,10,Ladell Betts middle for 6 yards (tackle by Jeremiah Trotter),2.850,3.120
+Quarter,Time,Down,ToGo,Location,WAS,PHI,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,4,PHI 35,0,10,Ladell Betts left end for 1 yard (tackle by Shawn Barber and Sean Considine),3.120,2.540
+2,14:24,3,3,PHI 34,0,10,Ladell Betts right tackle for -1 yards (tackle by Trent Cole and Sean Considine),2.540,0.980
+2,13:43,4,4,PHI 35,0,10,Mark Brunell pass complete short right to Ladell Betts for 6 yards (tackle by Trent Cole),0.980,3.640
+2,13:20,1,10,PHI 29,0,10,Antwaan Randle El pass incomplete deep right intended for Chris Cooley (defended by Brian Dawkins),3.640,3.100
+2,13:13,2,10,PHI 29,0,10,"Ladell Betts left end for -1 yards (tackle by Jeremiah Trotter). Ladell Betts fumbles (forced by Jeremiah Trotter), ball out of bounds at PHI-30",3.100,2.280
+2,12:48,3,11,PHI 30,0,10,Mark Brunell pass incomplete intended for Brandon Lloyd,2.280,1.410
+2,12:47,4,11,PHI 30,0,10,Nick Novak 48 yard field goal no good,1.410,-1.470
+2,12:43,1,10,PHI 38,0,10,Brian Westbrook middle for 12 yards (tackle by Shawn Springs),1.470,2.260
+2,12:01,1,10,,0,10,"Penalty on Jamaal Jackson: False Start, 5 yards (no play)",2.260,1.930
+2,11:38,1,15,PHI 45,0,10,Donovan McNabb pass incomplete short right intended for Donte' Stallworth (defended by Carlos Rogers),1.930,1.040
+2,11:31,2,15,PHI 45,0,10,Brian Westbrook left tackle for no gain (tackle by Andre Carter),1.040,0.370
+2,10:57,3,15,PHI 45,0,16,"Donovan McNabb pass complete deep right to Correll Buckhalter for 55 yards, touchdown",0.370,7.000
+2,,,,WAS 2,0,17,David Akers kicks extra point good,0.000,0.000
+2,,,,PHI 30,0,17,"David Akers kicks off 61 yards, returned by Rock Cartwright for 29 yards (tackle by Matt McCoy)",0.000,1.470
+2,10:38,1,10,WAS 38,0,17,"Penalty on Derrick Dockery: False Start, 5 yards (no play)",1.470,1.140
+2,10:38,1,15,WAS 33,0,17,Ladell Betts left end for 5 yards (tackle by Juqua Parker),1.140,0.920
+2,10:00,2,10,WAS 38,0,17,Ladell Betts for 5 yards (tackle by Jeremiah Trotter),0.920,0.890
+2,9:32,3,5,WAS 43,0,17,Mark Brunell pass incomplete short left intended for Santana Moss (defended by Shawn Barber),0.890,-0.520
+2,9:26,4,5,WAS 43,0,17,"Derrick Frost punts 57 yards, touchback",-0.520,-0.280
+2,9:18,1,10,PHI 20,0,17,"Brian Westbrook for 12 yards (tackle by Sean Taylor). Penalty on Sean Taylor: Personal Foul, 3 yards",0.280,2.060
+2,9:01,1,10,PHI 47,0,17,Donovan McNabb pass incomplete deep left intended for Greg Lewis (defended by Carlos Rogers),2.060,1.520
+2,8:55,2,10,PHI 47,0,17,Brian Westbrook middle for 2 yards (tackle by Warrick Holdman),1.520,1.090
+2,8:20,3,8,PHI 49,0,17,Donovan McNabb pass incomplete short left intended for Donte' Stallworth,1.090,-0.130
+2,8:15,4,8,PHI 49,0,17,"Penalty on Omar Gaither: False Start, 5 yards (no play)",-0.130,-0.460
+2,8:15,4,13,PHI 44,0,17,"Dirk Johnson punts 56 yards, touchback",-0.460,-0.280
+2,8:06,1,10,WAS 20,0,17,Mark Brunell pass complete left to Mike Sellers for 5 yards (tackle by Sheldon Brown),0.280,0.410
+2,7:25,2,5,WAS 25,0,17,"Ladell Betts left end for no gain (tackle by Jeremiah Trotter). Penalty on Jeremiah Trotter: Personal Foul, 15 yards",0.410,1.600
+2,6:57,1,10,WAS 40,0,17,Mark Brunell pass complete deep left to Brandon Lloyd for 43 yards (tackle by Sheldon Brown),1.600,4.440
+2,6:12,1,10,PHI 17,0,17,Ladell Betts right end for 2 yards (tackle by Matt McCoy),4.440,4.150
+2,5:32,2,8,PHI 15,0,17,Ladell Betts left end for 2 yards (tackle by Michael Lewis),4.150,3.680
+2,4:58,,,,0,17,Timeout #1 by Washington Redskins,0.000,3.680
+2,4:58,3,6,PHI 13,0,17,Mark Brunell pass incomplete short left intended for Santana Moss (defended by Roderick Hood),3.680,2.590
+2,4:54,4,6,PHI 13,3,17,Nick Novak 32 yard field goal good,2.590,3.000
+2,,,,WAS 30,3,17,"Nick Novak kicks off 62 yards, returned by Reno Mahe for 30 yards (tackle by Adam Archuleta). Penalty on Sean Taylor: Face Mask (15 Yards), 15 yards",0.000,2.460
+2,4:37,1,10,WAS 47,3,17,Brian Westbrook for 3 yards,2.460,2.320
+2,4:05,2,7,WAS 44,3,17,Brian Westbrook middle for 4 yards (tackle by Troy Vincent),2.320,2.150
+2,3:34,3,3,WAS 40,3,17,Donovan McNabb pass incomplete short left intended for Donte' Stallworth,2.150,0.590
+2,3:31,4,3,WAS 40,3,17,Dirk Johnson punts 16 yards,0.590,-0.540
+2,3:22,1,10,WAS 24,3,17,"Ladell Betts middle for 4 yards (tackle by Jeremiah Trotter). Penalty on Derrick Dockery: Offensive Holding, 10 yards (no play)",0.540,-0.500
+2,3:00,1,20,WAS 14,3,17,Mark Brunell pass incomplete deep left intended for Brandon Lloyd,-0.500,-1.470
+2,2:56,2,20,WAS 14,3,17,Ladell Betts left end for 3 yards (tackle by Brian Dawkins),-1.470,-1.850
+2,2:49,,,,3,17,Timeout #1 by Philadelphia Eagles,0.000,-1.850
+2,2:49,3,17,WAS 17,3,17,"Penalty on Randy Thomas: False Start, 5 yards (no play)",-1.850,-2.820
+2,2:49,3,22,WAS 12,3,17,Ladell Betts left end for 8 yards (tackle by Shawn Barber),-2.820,-2.030
+2,2:42,,,,3,17,Timeout #2 by Philadelphia Eagles,0.000,-2.030
+2,2:42,4,14,WAS 20,3,17,"Derrick Frost punts 38 yards, returned by Reno Mahe for 13 yards (tackle by James Thrash)",-2.030,-2.590
+2,2:33,1,10,WAS 45,3,17,Donovan McNabb pass incomplete intended for Brian Westbrook (defended by Andre Carter),2.590,2.040
+2,2:28,2,10,WAS 45,3,17,Donovan McNabb pass incomplete short right intended for L.J. Smith,2.040,1.360
+2,2:19,3,10,WAS 45,3,17,Donovan McNabb pass incomplete,1.360,0.270
+2,2:15,4,10,WAS 45,3,17,"Dirk Johnson punts 25 yards, fair catch by Antwaan Randle El",0.270,-0.280
+2,2:08,1,10,WAS 20,3,17,Ladell Betts middle for 20 yards (tackle by Brian Dawkins),0.280,1.600
+2,2:00,1,10,WAS 40,3,17,Mark Brunell pass complete short left to Chris Cooley for 5 yards (tackle by Brian Dawkins),1.600,1.730
+2,1:33,2,5,WAS 45,3,17,Mark Brunell pass incomplete deep middle intended for Antwaan Randle El (defended by Sheldon Brown),1.730,1.030
+2,1:29,3,5,WAS 45,3,17,"Mark Brunell pass complete short left to Ladell Betts for -4 yards (tackle by Sheldon Brown). Penalty on Darwin Walker: Roughing the Passer, 15 yards (no play)",1.030,2.920
+2,1:24,1,10,PHI 40,3,17,Mark Brunell pass incomplete short left intended for Brandon Lloyd,2.920,2.370
+2,1:18,2,10,PHI 40,3,17,Mark Brunell pass incomplete short left intended for Brandon Lloyd (defended by Shawn Barber),2.370,1.680
+2,1:12,,,,3,17,Timeout #3 by Philadelphia Eagles,0.000,1.680
+2,1:12,3,10,PHI 40,3,17,Ladell Betts left end for 3 yards (tackle by Michael Lewis),1.680,0.790
+2,0:52,,,,3,17,Timeout #2 by Washington Redskins,0.000,0.790
+2,0:52,4,7,PHI 37,3,17,Mark Brunell pass incomplete short left intended for Brandon Lloyd (defended by Brian Dawkins),0.790,-1.400
+2,0:48,1,10,PHI 37,3,17,Donovan McNabb pass complete short left to Reggie Brown for 18 yards (tackle by Carlos Rogers),1.400,2.590
+2,0:48,1,10,WAS 45,3,17,Donovan McNabb spiked the ball,2.590,2.040
+2,0:28,2,10,WAS 45,3,17,Donovan McNabb pass incomplete short left intended for Reggie Brown (defended by Carlos Rogers),2.040,1.360
+2,0:25,3,10,WAS 45,3,17,Donovan McNabb pass incomplete short left intended for Donte' Stallworth (defended by Carlos Rogers),1.360,0.270
+2,0:21,4,10,WAS 45,3,17,Dirk Johnson punts 43 yards,0.270,0.380
+2,0:11,1,10,WAS 2,3,17,Mark Brunell kneels for -1 yards,-0.380,-0.850
+Quarter,Time,Down,ToGo,Location,WAS,PHI,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,WAS 30,3,17,"Nick Novak kicks off 55 yards, returned by Reno Mahe for 36 yards (tackle by Nick Novak)",0.000,2.320
+3,14:53,1,10,WAS 49,3,17,Brian Westbrook right tackle for 4 yards (tackle by Cornelius Griffin),2.320,2.320
+3,14:13,2,6,WAS 45,3,17,Donovan McNabb pass complete short left to Donte' Stallworth for 14 yards (tackle by Carlos Rogers),2.320,3.510
+3,13:38,1,10,WAS 31,3,17,Brian Westbrook middle for -2 yards (tackle by Warrick Holdman),3.510,2.700
+3,13:06,2,12,WAS 33,3,17,Donovan McNabb pass complete short left to Donte' Stallworth for 8 yards (tackle by Carlos Rogers and Troy Vincent),2.700,3.070
+3,12:30,3,4,WAS 25,3,17,Donovan McNabb pass incomplete deep left intended for Donte' Stallworth (defended by Carlos Rogers),3.070,1.880
+3,12:23,4,4,WAS 25,3,17,Donovan McNabb pass complete short left to Donte' Stallworth for 7 yards (tackle by Carlos Rogers),1.880,4.370
+3,11:39,1,10,WAS 18,3,17,Brian Westbrook right end for 3 yards (tackle by Sean Taylor),4.370,4.250
+3,11:05,2,7,WAS 15,3,17,Donovan McNabb pass complete short right to Brian Westbrook for 13 yards (tackle by Sean Taylor),4.250,6.740
+,,,,,,,"WAS challenged the ruling, and the play was upheld.",,
+3,10:54,1,2,WAS 2,3,17,Brian Westbrook right tackle for 1 yard (tackle by Joe Salave'a),6.740,5.910
+3,10:15,2,1,WAS 1,3,17,Donovan McNabb pass incomplete short right intended for Matt Schobel,5.910,5.170
+3,10:07,3,1,WAS 1,3,17,Correll Buckhalter right end for -2 yards (tackle by Cornelius Griffin),5.170,3.040
+3,9:21,4,3,WAS 3,3,17,"David Akers 21 yard field goal good. Penalty on Scott Young: Illegal Formation, 5 yards (no play)",3.040,2.950
+3,9:18,,,,3,17,Timeout #1 by Philadelphia Eagles,0.000,2.950
+3,9:18,4,8,WAS 8,3,20,David Akers 25 yard field goal good,2.950,3.000
+3,,,,PHI 30,3,20,"David Akers kicks off 67 yards, returned by Rock Cartwright for 19 yards (tackle by Quintin Mikell)",0.000,0.410
+3,9:08,1,10,WAS 22,3,20,Mark Brunell pass complete short middle to Mike Sellers for 13 yards (tackle by Matt McCoy and Jeremiah Trotter),0.410,1.270
+3,8:28,1,10,WAS 35,3,20,Mark Brunell pass complete deep left to Chris Cooley for 19 yards (tackle by Brian Dawkins),1.270,2.520
+3,7:51,1,10,PHI 46,3,20,Mark Brunell pass complete short right to Santana Moss for 8 yards (tackle by Lito Sheppard),2.520,3.060
+3,7:13,2,2,PHI 38,3,20,Ladell Betts left end for 3 yards (tackle by Darwin Walker),3.060,3.250
+3,6:28,1,10,PHI 35,3,20,Mark Brunell pass incomplete short left intended for Mike Sellers,3.250,2.700
+3,6:23,2,10,PHI 35,3,26,"Mark Brunell pass incomplete short right intended for Santana Moss is intercepted by Sheldon Brown at PHI-30 and returned for 70 yards, touchdown",2.700,-7.000
+3,,,,WAS 2,3,27,David Akers kicks extra point good,0.000,0.000
+3,,,,PHI 30,3,27,"David Akers kicks off 66 yards, returned by Rock Cartwright for 24 yards (tackle by Omar Gaither)",0.000,0.810
+3,6:04,1,10,WAS 28,3,27,T.J. Duckett middle for 12 yards (tackle by Jeremiah Trotter and Sean Considine),0.810,1.600
+3,5:24,1,10,WAS 40,3,27,Ladell Betts left guard for 6 yards (tackle by Sean Considine),1.600,1.860
+3,4:49,2,4,WAS 46,3,27,Mark Brunell pass incomplete short left intended for James Thrash,1.860,1.160
+3,4:43,3,4,WAS 46,3,27,"Penalty on Chris Cooley: False Start, 5 yards (no play)",1.160,0.500
+3,4:43,3,9,WAS 41,3,27,Mark Brunell pass complete short left to Brandon Lloyd for 4 yards (tackle by Will Peterson),0.500,-0.390
+3,4:02,4,5,WAS 45,3,27,Derrick Frost punts 52 yards,-0.390,0.380
+3,3:49,1,10,PHI 3,3,27,Brian Westbrook middle for 3 yards (tackle by Andre Carter),-0.380,-0.560
+3,3:11,2,7,PHI 6,3,27,Donovan McNabb pass complete short right to Donte' Stallworth for 5 yards (tackle by Shawn Springs),-0.560,-0.480
+3,2:36,3,2,PHI 11,3,27,Donovan McNabb pass complete short right to L.J. Smith for 8 yards (tackle by Cornelius Griffin),-0.480,0.150
+3,1:57,1,10,PHI 19,3,27,Donovan McNabb middle for 3 yards (tackle by Kedric Golston),0.150,0.070
+3,1:18,2,7,PHI 22,3,27,Brian Westbrook left tackle for 3 yards (tackle by Kedric Golston),0.070,-0.290
+3,0:40,3,4,PHI 25,3,27,Donovan McNabb pass complete short left to Donte' Stallworth for 21 yards (tackle by Kenny Wright),-0.290,1.990
+Quarter,Time,Down,ToGo,Location,WAS,PHI,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,PHI 46,3,27,Correll Buckhalter left end for 6 yards (tackle by Shawn Springs),1.990,2.260
+4,14:15,2,4,WAS 48,3,27,Donovan McNabb sacked by Warrick Holdman for -2 yards,2.260,1.290
+4,14:01,3,6,,3,27,Brian Westbrook left tackle for 3 yards (tackle by Renaldo Wynn),1.290,0.130
+4,13:18,4,3,WAS 47,3,27,"Dirk Johnson punts 47 yards, touchback",0.130,-0.280
+4,13:09,1,10,WAS 20,3,27,Mark Brunell pass complete short left to Santana Moss for 5 yards (tackle by Matt McCoy),0.280,0.410
+4,12:33,2,5,WAS 25,3,27,Ladell Betts left guard for 4 yards (tackle by Sam Rayburn),0.410,0.230
+4,11:57,3,1,WAS 29,3,27,T.J. Duckett right tackle for 4 yards (tackle by Jeremiah Trotter),0.230,1.140
+4,11:20,1,10,WAS 33,3,27,Mark Brunell pass complete short right to T.J. Duckett for -3 yards (tackle by Dhani Jones),1.140,0.190
+4,10:40,2,13,WAS 30,3,27,Mark Brunell pass complete short left to Ladell Betts for -9 yards (tackle by Sheldon Brown),0.190,-1.680
+4,9:54,3,22,WAS 21,3,27,Mark Brunell pass complete short left to Ladell Betts for 9 yards (tackle by Will Peterson and Shawn Barber),-1.680,-1.370
+4,9:13,4,13,WAS 30,3,27,"Derrick Frost punts 47 yards, returned by Reno Mahe for 5 yards (tackle by Ade Jimoh)",-1.370,-0.810
+4,9:03,1,10,PHI 28,3,27,Brian Westbrook middle for 3 yards (tackle by Troy Vincent),0.810,0.670
+4,8:21,2,7,PHI 31,3,27,Brian Westbrook right tackle for 3 yards (tackle by Andre Carter),0.670,0.370
+4,7:38,3,4,PHI 34,3,27,Brian Westbrook left end for 4 yards (tackle by Sean Taylor),0.370,1.470
+4,6:55,1,10,PHI 38,3,27,Brian Westbrook right guard for 2 yards (tackle by Marcus Washington),1.470,1.190
+4,6:06,2,8,PHI 40,3,27,Brian Westbrook left tackle for 11 yards (tackle by Carlos Rogers),1.190,2.320
+4,5:17,1,10,WAS 49,3,27,Correll Buckhalter middle for -1 yards (tackle by Demetric Evans),2.320,1.650
+4,4:28,2,11,,3,27,Brian Westbrook left tackle for 21 yards (tackle by Sean Taylor),1.650,3.640
+4,3:36,1,10,WAS 29,3,27,Correll Buckhalter right tackle for 3 yards (tackle by Sean Taylor),3.640,3.510
+4,2:52,2,7,WAS 26,3,27,Correll Buckhalter right guard for 1 yard (tackle by Joe Salave'a),3.510,2.940
+4,2:09,3,6,WAS 25,3,27,Donovan McNabb pass complete short right to Brian Westbrook for 7 yards (tackle by Kedric Golston),2.940,4.370
+4,2:00,1,10,WAS 18,3,27,Correll Buckhalter middle for 4 yards (tackle by Renaldo Wynn),4.370,4.430
+4,1:14,2,6,WAS 14,3,27,Donovan McNabb kneels for -1 yards,4.430,3.460
+4,0:32,3,7,WAS 15,3,27,Donovan McNabb kneels for -1 yards,3.460,2.380
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

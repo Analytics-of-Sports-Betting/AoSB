@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:20,SDG 41,3,1:35,9,Punt
+2,1,10:06,SDG 35,5,3:01,65,Touchdown
+3,1,5:45,SDG 35,6,3:37,16,Punt
+4,2,13:10,SDG 20,6,4:08,18,Punt
+5,2,7:38,SDG 46,6,2:27,36,Field Goal
+6,2,2:36,SDG 20,5,1:17,29,Interception
+7,2,1:19,SDG 10,8,1:19,66,Field Goal
+8,3,15:00,SDG 20,10,5:28,80,Touchdown
+9,3,6:09,SDG 11,13,6:23,84,Field Goal
+10,4,10:02,SDG 20,6,3:08,80,Touchdown
+11,4,2:42,SDG 20,5,1:40,21,Punt

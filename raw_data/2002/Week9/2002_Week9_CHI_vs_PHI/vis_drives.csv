@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:53,PHI 39,9,5:12,18,Punt
+2,1,5:36,PHI 16,8,1:37,35,Downs
+3,1,2:08,PHI 28,6,2:21,17,Punt
+4,2,9:28,PHI 27,10,4:46,73,Touchdown
+5,2,1:17,PHI 18,4,0:39,38,Interception
+6,3,15:00,PHI 41,10,4:38,54,Field Goal
+7,3,9:04,CHI 37,7,3:22,19,Field Goal
+8,3,2:54,PHI 40,7,3:02,20,Punt
+9,4,14:42,CHI 18,4,1:13,9,Field Goal
+10,4,11:28,PHI 49,6,3:20,27,Downs
+11,4,6:22,PHI 31,5,2:40,64,Field Goal
+12,4,0:11,PHI 33,1,0:11,-2,End of Game

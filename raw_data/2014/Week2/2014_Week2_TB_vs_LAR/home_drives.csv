@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,TAM 23,10,6:04,77,Touchdown
+2,1,3:07,TAM 20,11,6:53,71,Interception
+3,2,8:33,TAM 15,3,1:39,2,Punt
+4,2,5:22,TAM 19,3,2:03,6,Blocked Punt
+5,2,0:39,TAM 20,3,0:39,20,End of Half
+6,3,12:31,TAM 40,7,3:13,60,Touchdown
+7,3,2:41,STL 30,6,2:51,24,Blocked FG
+8,4,9:10,TAM 18,8,3:55,64,Field Goal
+9,4,0:38,TAM 20,3,0:38,48,End of Game

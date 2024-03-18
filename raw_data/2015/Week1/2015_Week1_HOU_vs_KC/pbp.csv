@@ -1,0 +1,204 @@
+Quarter,Time,Down,ToGo,Location,KAN,HOU,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Texans won the coin toss and deferred, Chiefs to receive the opening kickoff.",,
+1,15:00,,,HOU 35,0,0,"Randy Bullock kicks off 65 yards, touchback",0.000,-0.280
+1,15:00,1,10,KAN 20,0,0,"Jamaal Charles left end for 3 yards (tackle by Vince Wilfork). Penalty on Vince Wilfork: Defensive Offside, 5 yards (no play)",0.280,1.010
+1,14:35,1,5,KAN 25,0,0,Jamaal Charles left guard for 4 yards (tackle by J.J. Watt),1.010,0.950
+1,13:55,2,1,KAN 29,0,0,Alex Smith pass complete short right to Albert Wilson for 13 yards (tackle by Kareem Jackson),0.950,1.730
+1,13:18,1,10,KAN 42,0,0,Alex Smith pass complete short left to Jeremy Maclin for 9 yards (tackle by Johnathan Joseph),1.730,2.400
+1,12:50,2,1,HOU 49,0,0,Alex Smith right end for 4 yards (tackle by John Simon),2.400,2.590
+1,12:15,1,10,HOU 45,0,0,Jamaal Charles middle for 2 yards (tackle by Jared Crick),2.590,2.310
+1,11:32,2,8,HOU 43,0,0,Alex Smith pass incomplete short right intended for Jeremy Maclin (defended by Jared Crick),2.310,1.620
+1,11:28,3,8,HOU 43,0,0,Alex Smith pass incomplete short left intended for Jamaal Charles (defended by Whitney Mercilus),1.620,0.400
+1,11:23,4,8,HOU 43,0,0,Dustin Colquitt punts 36 yards,0.400,0.380
+1,11:14,1,10,HOU 7,0,0,Brian Hoyer pass incomplete short right intended for DeAndre Hopkins is intercepted by Marcus Peters at HOU-13,-0.380,-4.710
+1,11:04,1,10,HOU 13,0,0,Jamaal Charles right guard for 3 yards (tackle by Brian Cushing),4.710,4.580
+1,10:27,2,7,HOU 10,6,0,"Alex Smith pass complete short middle to Travis Kelce for 10 yards, touchdown",4.580,7.000
+1,10:27,,,HOU 10,7,0,Cairo Santos kicks extra point good,0.000,0.000
+1,10:27,,,KAN 35,7,0,"Cairo Santos kicks off 65 yards, touchback",0.000,-0.280
+1,10:22,1,10,HOU 20,7,0,Alfred Blue left guard for 3 yards (tackle by Husain Abdullah),0.280,0.140
+1,9:45,2,7,HOU 23,7,0,Brian Hoyer pass complete deep left to Nate Washington for 19 yards (tackle by Tamba Hali),0.140,1.730
+1,9:34,1,10,HOU 42,7,0,Alfred Blue right guard for 11 yards (tackle by Husain Abdullah),1.730,2.460
+1,9:11,1,10,KAN 47,7,0,Brian Hoyer pass incomplete short left intended for Ryan Griffin,2.460,1.910
+1,9:04,2,10,KAN 47,7,0,Brian Hoyer pass incomplete short left intended for Cecil Shorts,1.910,1.220
+1,8:59,3,10,KAN 47,7,0,Brian Hoyer pass incomplete deep middle intended for Cecil Shorts,1.220,0.130
+1,8:50,4,10,KAN 47,7,0,Shane Lechler punts 30 yards,0.130,0.060
+1,8:40,1,10,KAN 17,7,0,Jamaal Charles left guard for -3 yards (tackle by J.J. Watt),-0.060,-0.970
+1,8:08,2,13,KAN 14,7,0,Alex Smith pass incomplete short right intended for Jamaal Charles,-0.970,-1.720
+1,8:04,3,13,KAN 14,7,0,Alex Smith pass complete short right to Jamaal Charles for 17 yards (tackle by Eddie Pleasant),-1.720,1.000
+1,7:23,1,10,KAN 31,7,0,Alex Smith left end for 5 yards (tackle by Brian Cushing),1.000,1.140
+1,6:41,2,5,KAN 36,7,0,Alex Smith pass complete short left to Jamaal Charles for 10 yards (tackle by Akeem Dent and Rahim Moore),1.140,1.990
+1,6:02,1,10,KAN 46,7,0,Alex Smith pass complete short right to Jeremy Maclin for 8 yards (tackle by Kareem Jackson and John Simon),1.990,2.530
+1,5:21,2,2,HOU 46,7,0,Knile Davis right tackle for 4 yards (tackle by Jared Crick),2.530,2.790
+1,4:39,1,10,HOU 42,13,0,"Alex Smith pass complete short left to Travis Kelce for 42 yards, touchdown",2.790,7.000
+1,4:39,,,HOU 42,14,0,Cairo Santos kicks extra point good,0.000,0.000
+1,4:39,,,KAN 35,14,0,"Cairo Santos kicks off 65 yards, touchback",0.000,-0.280
+1,4:28,1,10,HOU 20,14,0,Brian Hoyer pass complete short right to Keith Mumphery for 6 yards (tackle by Marcus Peters),0.280,0.540
+1,4:02,2,4,HOU 26,14,0,Alfred Blue middle for 2 yards (tackle by Derrick Johnson),0.540,0.100
+1,3:28,3,2,HOU 28,14,0,Brian Hoyer pass complete short middle to Cecil Shorts for 15 yards (tackle by Jamell Fleming),0.100,1.800
+1,3:01,1,10,HOU 43,14,0,Jonathan Grimes right tackle for 21 yards (tackle by Ron Parker),1.800,3.180
+1,2:29,1,10,KAN 36,14,0,Brian Hoyer pass complete short middle to Nate Washington for 19 yards (tackle by Marcus Peters),3.180,4.440
+1,1:55,1,10,KAN 17,14,0,Brian Hoyer pass complete short middle to Cecil Shorts for 15 yards (tackle by Marcus Peters and Ron Parker),4.440,6.740
+1,1:33,1,2,KAN 2,14,0,Jonathan Grimes right tackle for -2 yards (tackle by Derrick Johnson and Josh Mauga),6.740,5.340
+1,0:51,2,4,KAN 4,14,6,"Brian Hoyer pass complete short right to DeAndre Hopkins for 4 yards, touchdown",5.340,7.000
+1,0:51,,,KAN 4,14,6,Randy Bullock kicks extra point no good,0.000,-1.000
+1,0:51,,,HOU 35,14,6,"Randy Bullock kicks off 70 yards, returned by Knile Davis for 30 yards (tackle by Kevin Johnson)",0.000,-0.610
+1,0:39,1,10,KAN 25,14,6,Alex Smith pass complete short left to Jamaal Charles for 11 yards (tackle by Brian Cushing),0.610,1.330
+Quarter,Time,Down,ToGo,Location,KAN,HOU,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,KAN 36,14,6,De'Anthony Thomas right end for 9 yards (tackle by Quintin Demps),1.330,2.010
+2,14:19,2,1,KAN 45,14,6,Alex Smith pass complete short left to Travis Kelce for 18 yards (tackle by Quintin Demps),2.010,3.120
+2,13:55,1,10,HOU 37,14,6,Jamaal Charles left end for 2 yards (tackle by A.J. Bouye),3.120,2.840
+2,13:21,2,8,HOU 35,14,6,Alex Smith pass complete short middle to Jeremy Maclin for 13 yards (tackle by Kareem Jackson),2.840,4.110
+2,12:44,1,10,HOU 22,14,6,Knile Davis middle for 10 yards (tackle by Rahim Moore),4.110,4.780
+2,11:58,1,10,HOU 12,14,6,Alex Smith pass complete short right to Jeremy Maclin for 2 yards (tackle by Johnathan Joseph),4.780,4.450
+2,11:17,2,8,HOU 10,14,6,Alex Smith pass complete short right to Jamaal Charles for 1 yard (tackle by Brian Cushing and Jadeveon Clowney),4.450,3.700
+2,10:33,3,7,HOU 9,14,6,Alex Smith pass incomplete short middle intended for Jeremy Maclin (defended by Johnathan Joseph),3.700,2.830
+2,10:29,4,7,HOU 9,17,6,Cairo Santos 27 yard field goal good,2.830,3.000
+2,10:29,,,KAN 35,17,6,"Cairo Santos kicks off 65 yards, touchback",0.000,-0.280
+2,10:26,1,10,HOU 20,17,6,Chris Polk middle for 2 yards (tackle by Dee Ford and Jaye Howard),0.280,0.000
+2,9:50,2,8,HOU 22,17,6,Chris Polk right tackle for 1 yard (tackle by Derrick Johnson),0.000,-0.560
+2,9:13,3,7,HOU 23,17,6,Brian Hoyer pass incomplete short middle intended for Cecil Shorts,-0.560,-1.830
+2,9:07,4,7,HOU 23,17,6,"Shane Lechler punts 48 yards, returned by De'Anthony Thomas for 19 yards (tackle by Keith Mumphery)",-1.830,-2.130
+2,8:52,1,10,KAN 48,17,6,Alex Smith pass complete deep right to Jeremy Maclin for 20 yards (tackle by Andre Hal),2.130,3.450
+2,8:13,1,10,HOU 32,17,6,Jamaal Charles middle for -1 yards (tackle by J.J. Watt),3.450,2.770
+2,7:33,2,11,HOU 33,17,6,Alex Smith sacked by J.J. Watt for -9 yards. Penalty on Jah Reid: Illegal Use of Hands (Declined),2.770,0.890
+2,7:03,3,20,HOU 42,17,6,Alex Smith pass complete short left to Knile Davis for 12 yards (tackle by Kevin Johnson),0.890,0.890
+2,6:25,3,20,HOU 42,17,6,Timeout #1 by Houston Texans,0.890,1.410
+2,6:25,4,8,HOU 30,20,6,Cairo Santos 48 yard field goal good,1.410,3.000
+2,6:25,,,KAN 35,20,6,"Cairo Santos kicks off 65 yards, touchback",0.000,-0.280
+2,6:20,1,10,HOU 20,20,6,Brian Hoyer sacked by Jaye Howard for -8 yards,0.280,-1.360
+2,5:44,2,18,HOU 12,20,6,Brian Hoyer pass complete short left to Nate Washington for 4 yards (tackle by Jamell Fleming),-1.360,-1.690
+2,5:09,3,14,HOU 16,20,6,"Brian Hoyer sacked by Justin Houston for -9 yards. Brian Hoyer fumbles (forced by Justin Houston), recovered by Allen Bailey at HOU-7 (tackle by Derek Newton)",-1.690,-5.600
+2,5:01,1,7,HOU 7,26,6,"Alex Smith pass complete short left to Jamaal Charles for 7 yards, touchdown",5.600,7.000
+2,5:01,,,HOU 7,27,6,Cairo Santos kicks extra point good,0.000,0.000
+2,5:01,,,KAN 35,27,6,"Cairo Santos kicks off 65 yards, touchback",0.000,-0.280
+2,4:55,1,10,HOU 20,27,6,Jonathan Grimes middle for 1 yard (tackle by Justin Houston),0.280,-0.130
+2,4:20,2,9,HOU 21,27,6,Brian Hoyer pass incomplete short left intended for Ryan Griffin,-0.130,-0.820
+2,4:16,3,9,HOU 21,27,6,Brian Hoyer pass incomplete short right intended for Nate Washington (defended by Marcus Peters),-0.820,-1.960
+2,4:10,4,9,HOU 21,27,6,"Shane Lechler punts 42 yards, returned by De'Anthony Thomas for 16 yards",-1.960,-2.460
+2,3:58,1,10,HOU 47,27,6,Knile Davis left end for 2 yards (tackle by Rahim Moore and Whitney Mercilus),2.460,2.180
+2,3:21,2,8,HOU 45,27,6,Knile Davis middle for -3 yards (tackle by J.J. Watt),2.180,1.090
+2,2:44,3,11,HOU 48,27,6,Alex Smith pass incomplete short right intended for De'Anthony Thomas,1.090,0.070
+2,2:38,4,11,HOU 48,27,6,"Dustin Colquitt punts 48 yards, touchback",0.070,-0.280
+2,2:26,1,10,HOU 20,27,6,Brian Hoyer pass complete short left to Alfred Blue for 7 yards (tackle by Josh Mauga and Tamba Hali),0.280,0.280
+2,2:17,1,10,HOU 20,27,6,Timeout #1 by Kansas City Chiefs,0.280,0.680
+2,2:17,2,3,HOU 27,27,6,Alfred Blue middle for 4 yards (tackle by Dontari Poe and Jaye Howard),0.680,1.000
+2,2:00,1,10,HOU 31,27,6,Brian Hoyer pass incomplete short right intended for DeAndre Hopkins,1.000,0.460
+2,1:57,2,10,HOU 31,27,6,Jonathan Grimes right guard for 3 yards (tackle by Justin Houston),0.460,0.170
+2,1:24,3,7,HOU 34,27,6,Brian Hoyer pass complete short left to Nate Washington for 18 yards (tackle by Eric Berry),0.170,2.390
+2,1:03,1,10,KAN 48,27,6,Brian Hoyer pass complete short left to Nate Washington for 13 yards (tackle by Jamell Fleming),2.390,3.250
+2,0:55,1,10,KAN 35,27,6,Brian Hoyer pass complete short middle to Ryan Griffin for 18 yards (tackle by Ron Parker),3.250,3.250
+2,0:47,1,10,KAN 35,27,6,Timeout #2 by Houston Texans,3.250,4.440
+2,0:47,1,10,KAN 17,27,6,Jonathan Grimes right guard for 4 yards (tackle by Derrick Johnson),4.440,4.500
+2,0:24,2,6,KAN 13,27,6,Brian Hoyer sacked by Allen Bailey for -3 yards,4.500,4.500
+2,0:20,2,6,KAN 13,27,6,Timeout #3 by Houston Texans,4.500,4.500
+2,0:20,2,6,KAN 13,27,6,Timeout #2 by Kansas City Chiefs,4.500,3.190
+2,0:20,3,9,KAN 16,27,6,Brian Hoyer pass incomplete deep left intended for Nate Washington (defended by Jamell Fleming),3.190,2.380
+2,0:13,4,9,KAN 16,27,9,Randy Bullock 34 yard field goal good,2.380,3.000
+2,0:13,,,HOU 35,27,9,"Randy Bullock kicks off 65 yards, touchback",0.000,-0.280
+2,0:09,1,10,KAN 20,27,9,Alex Smith kneels for -1 yards,0.280,-0.460
+Quarter,Time,Down,ToGo,Location,KAN,HOU,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,KAN 35,27,9,"Cairo Santos kicks off 65 yards, touchback",0.000,-0.280
+3,15:00,1,10,HOU 20,27,9,Brian Hoyer pass complete short right to DeAndre Hopkins for 16 yards,0.280,1.330
+3,14:39,1,10,HOU 36,27,9,Brian Hoyer pass incomplete short middle intended for Alfred Blue (defended by Derrick Johnson),1.330,0.790
+3,14:27,2,10,HOU 36,27,9,Alfred Blue middle for 7 yards (tackle by Marcus Peters and Ron Parker),0.790,1.030
+3,13:53,3,3,HOU 43,27,9,Brian Hoyer pass incomplete short middle intended for Nate Washington,1.030,-0.520
+3,13:46,4,3,HOU 43,27,9,"Shane Lechler punts 57 yards, touchback",-0.520,-0.280
+3,13:36,1,10,KAN 20,27,9,Jamaal Charles middle for no gain (tackle by J.J. Watt),0.280,-0.270
+3,13:03,2,10,KAN 20,27,9,Alex Smith pass complete short middle to Travis Kelce for 9 yards (tackle by Quintin Demps),-0.270,0.230
+3,12:23,3,1,KAN 29,27,9,"Jamaal Charles left end for no gain (tackle by Jadeveon Clowney). Jamaal Charles fumbles (forced by Jadeveon Clowney), ball out of bounds at KAN-29",0.230,-1.440
+3,11:56,4,1,KAN 29,27,9,"Dustin Colquitt punts 53 yards, muffed catch by Keith Mumphery, recovered by Keith Mumphery and returned for no gain",-1.440,-0.040
+3,11:46,1,10,HOU 18,27,9,Alfred Blue right guard for 2 yards (tackle by Josh Mauga),0.040,-0.130
+3,11:12,2,8,HOU 20,27,9,Brian Hoyer pass incomplete short middle intended for Nate Washington,-0.130,-0.910
+3,11:07,3,8,HOU 20,27,9,Brian Hoyer pass incomplete deep middle intended for Cecil Shorts (defended by Ron Parker),-0.910,-2.030
+3,11:01,4,8,HOU 20,27,9,"Shane Lechler punts 46 yards, returned by De'Anthony Thomas for 14 yards (tackle by Benardrick McKinney)",-2.030,-2.130
+3,10:47,1,10,KAN 48,27,9,Alex Smith pass incomplete deep left intended for Jeremy Maclin,2.130,1.580
+,,,,,,,"HOU challenged the pass completion ruling, and the original play was overturned.",,
+3,10:35,2,10,KAN 48,27,9,Jamaal Charles middle for 4 yards (tackle by Akeem Dent and Brian Cushing),1.580,1.420
+3,9:51,3,6,HOU 48,27,9,"Alex Smith pass complete short left to Jamaal Charles for no gain. Penalty on Kareem Jackson: Defensive Offside, 5 yards (no play)",1.420,2.080
+3,9:28,3,1,HOU 43,27,9,Alex Smith right end for 3 yards (tackle by Kareem Jackson),2.080,2.920
+3,9:02,1,10,HOU 40,27,9,Alex Smith pass incomplete short right intended for Jamaal Charles,2.920,2.370
+3,8:55,2,10,HOU 40,27,9,--,2.370,1.680
+3,8:50,3,10,HOU 40,27,9,Alex Smith right end for 3 yards (tackle by John Simon),1.680,0.790
+3,8:25,4,7,HOU 37,27,9,"Dustin Colquitt punts 37 yards, touchback",0.790,-0.280
+3,8:14,1,10,HOU 20,27,9,Brian Hoyer pass complete short left to C.J. Fiedorowicz for 15 yards (tackle by Husain Abdullah),0.280,1.270
+3,7:46,1,10,HOU 35,27,9,Chris Polk right end for 13 yards (tackle by Dontari Poe),1.270,2.130
+3,7:34,1,10,HOU 48,27,9,Brian Hoyer pass complete deep middle to Nate Washington for 32 yards (tackle by Marcus Peters),2.130,4.240
+3,6:59,1,10,KAN 20,27,9,Chris Polk left tackle for 4 yards (tackle by Jaye Howard and Allen Bailey),4.240,4.280
+3,6:28,2,6,KAN 16,27,9,Brian Hoyer pass complete short left to DeAndre Hopkins for 5 yards,4.280,4.590
+,,,,,,,"HOU challenged the incomplete pass ruling, and the original play was overturned.",,
+3,6:12,3,1,KAN 11,27,9,Brian Hoyer pass incomplete short right intended for DeAndre Hopkins,4.590,2.850
+3,6:09,4,1,KAN 11,27,9,Alfred Blue right tackle for no gain (tackle by Husain Abdullah and Jaye Howard),2.850,0.370
+3,6:03,1,10,KAN 11,27,9,Jamaal Charles middle for 13 yards (tackle by Johnathan Joseph),-0.370,0.540
+3,5:26,1,10,KAN 24,27,9,Jamaal Charles left end for 11 yards (tackle by Brian Cushing),0.540,1.270
+3,4:49,1,10,KAN 35,27,9,Alex Smith pass incomplete,1.270,0.720
+3,4:42,2,10,KAN 35,27,9,Alex Smith pass complete short right to De'Anthony Thomas for 2 yards (tackle by Kareem Jackson and Quintin Demps),0.720,0.300
+3,3:56,3,8,KAN 37,27,9,Alex Smith sacked by J.J. Watt for -1 yards,0.300,-0.980
+3,3:21,4,9,KAN 36,27,9,"Dustin Colquitt punts 56 yards, returned by Keith Mumphery for 3 yards (tackle by Charcandrick West)",-0.980,0.370
+3,3:05,1,10,HOU 11,27,9,Brian Hoyer pass complete short left to Cecil Shorts for 7 yards (tackle by Dee Ford),-0.370,0.000
+3,2:34,2,3,HOU 18,27,9,Brian Hoyer pass complete short left to DeAndre Hopkins for 14 yards (tackle by Jamell Fleming),0.000,1.070
+3,2:07,1,10,HOU 32,27,9,Chris Polk middle for 2 yards (tackle by Allen Bailey and Josh Mauga),1.070,0.800
+3,2:07,2,8,HOU 34,27,9,"Penalty on Ben Jones: False Start, 5 yards (no play)",0.800,0.120
+3,1:14,2,13,HOU 29,27,9,Brian Hoyer pass complete short left to Chris Polk for 9 yards (tackle by Josh Mauga),0.120,0.630
+3,0:29,3,4,HOU 38,27,9,Brian Hoyer sacked by Derrick Johnson for -9 yards,0.630,-1.440
+Quarter,Time,Down,ToGo,Location,KAN,HOU,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,4,13,HOU 29,27,9,"Shane Lechler punts 57 yards, muffed catch by De'Anthony Thomas, recovered by De'Anthony Thomas and returned for 15 yards (tackle by Darryl Morris)",-1.440,-0.870
+4,14:45,1,10,KAN 29,27,9,Jamaal Charles left guard for 1 yard (tackle by Brian Cushing),0.870,0.460
+4,14:09,2,9,KAN 30,27,9,Jamaal Charles right guard for 11 yards (tackle by Quintin Demps),0.460,1.660
+4,13:29,1,10,KAN 41,27,9,Knile Davis left end for -1 yards (tackle by J.J. Watt),1.660,0.990
+4,12:49,2,11,KAN 40,27,9,Alex Smith pass complete short right to Travis Kelce for 16 yards,0.990,2.650
+4,12:14,1,10,HOU 44,27,9,Alex Smith left guard for 1 yard (tackle by Whitney Mercilus),2.650,2.250
+4,11:31,2,9,HOU 43,27,9,Alex Smith pass incomplete deep right intended for Jeremy Maclin,2.250,2.250
+4,11:25,2,9,HOU 43,27,9,Timeout #1 by Kansas City Chiefs,2.250,1.550
+4,11:25,3,9,HOU 43,27,9,"Alex Smith right end for 5 yards (tackle by Kareem Jackson). Penalty on Jah Reid: Offensive Holding, 10 yards (no play)",1.550,0.230
+4,10:43,3,19,KAN 47,27,9,Alex Smith pass complete short middle to Albert Wilson for 6 yards (tackle by J.J. Watt),0.230,0.130
+4,10:04,4,13,HOU 47,27,9,"Dustin Colquitt punts 36 yards, returned by Keith Mumphery for 3 yards (tackle by D.J. Alexander). Penalty on Eddie Pleasant: Offensive Holding, 7 yards",0.130,0.380
+4,9:52,1,10,HOU 7,27,9,Alfred Blue middle for 9 yards (tackle by Husain Abdullah and Derrick Johnson),-0.380,-0.020
+4,9:35,2,1,HOU 16,27,9,Alfred Blue middle for 4 yards (tackle by Tamba Hali),-0.020,0.280
+4,9:16,1,10,HOU 20,27,9,"Brian Hoyer pass incomplete. Penalty on Brian Hoyer: Intentional Grounding, 12 yards",0.280,-1.660
+4,9:07,2,22,HOU 8,27,9,Brian Hoyer pass incomplete deep right intended for DeAndre Hopkins,-1.660,-2.820
+4,8:57,3,22,HOU 8,27,9,Jonathan Grimes middle for 1 yard (tackle by Husain Abdullah and Derrick Johnson),-2.820,-2.490
+4,8:30,4,21,HOU 9,27,9,"Shane Lechler punts 49 yards, returned by De'Anthony Thomas for 17 yards (tackle by Akeem Dent)",-2.490,-2.850
+4,8:13,1,10,HOU 41,27,9,Jamaal Charles right guard for 3 yards (tackle by Jadeveon Clowney and Brian Cushing),2.850,2.710
+4,7:42,2,7,HOU 38,27,9,Alex Smith pass complete short right to Albert Wilson for 6 yards (tackle by Kareem Jackson and John Simon),2.710,2.810
+4,7:01,3,1,HOU 32,27,9,Alex Smith pass complete short right to Anthony Sherman for no gain,2.810,1.310
+4,6:16,4,1,HOU 32,27,9,Cairo Santos 51 yard field goal no good,1.310,-1.660
+4,6:10,1,10,HOU 41,27,9,Ryan Mallett pass complete short left to DeAndre Hopkins for 8 yards (tackle by Jamell Fleming),1.660,2.200
+4,5:51,2,2,HOU 49,27,9,Ryan Mallett pass complete short left to DeAndre Hopkins for 14 yards (tackle by Jamell Fleming),2.200,3.120
+4,5:34,1,10,KAN 37,27,9,Ryan Mallett pass incomplete short left intended for Ryan Griffin (defended by Eric Berry),3.120,2.570
+4,5:29,2,10,KAN 37,27,9,Ryan Mallett pass complete short left to DeAndre Hopkins for 12 yards (tackle by Jamell Fleming and Tyvon Branch),2.570,3.910
+4,4:58,1,10,KAN 25,27,9,"Ryan Mallett pass incomplete short left intended for DeAndre Hopkins. Penalty on Jamell Fleming: Defensive Pass Interference, 15 yards (no play)",3.910,4.910
+4,4:54,1,10,KAN 10,27,9,Ryan Mallett pass complete short left to Jonathan Grimes for 2 yards (tackle by Husain Abdullah),4.910,4.570
+4,4:16,2,8,KAN 8,27,15,"Ryan Mallett pass complete short right to DeAndre Hopkins for 8 yards, touchdown",4.570,7.000
+4,4:16,2,,KAN 8,27,17,"Two Point Attempt: Ryan Mallett pass complete to DeAndre Hopkins, conversion succeeds",4.570,1.000
+4,4:16,,,HOU 35,27,17,"Randy Bullock kicks off 65 yards, touchback",0.000,-0.280
+4,4:07,1,10,KAN 20,27,17,Knile Davis left guard for 4 yards (tackle by Akeem Dent and Brian Cushing),0.280,0.270
+4,3:26,2,6,KAN 24,27,17,Alex Smith pass incomplete,0.270,-0.430
+4,3:21,3,6,KAN 24,27,17,Alex Smith pass complete short left to Travis Kelce for 11 yards (tackle by Johnathan Joseph),-0.430,1.270
+4,3:15,1,10,KAN 35,27,17,Jamaal Charles right tackle for -1 yards (tackle by Jadeveon Clowney),1.270,1.270
+4,3:12,1,10,KAN 35,27,17,Timeout #1 by Houston Texans,1.270,0.590
+4,3:12,2,11,KAN 34,27,17,Alex Smith left end for 2 yards (tackle by Akeem Dent),0.590,0.590
+4,3:06,2,11,KAN 34,27,17,Timeout #2 by Houston Texans,0.590,0.170
+4,3:06,3,9,KAN 36,27,17,Jamaal Charles right end for 8 yards (tackle by Jared Crick),0.170,0.170
+4,2:56,3,9,KAN 36,27,17,Timeout #3 by Houston Texans,0.170,-0.460
+4,2:55,4,1,KAN 44,27,17,"Dustin Colquitt punts 41 yards, returned by Keith Mumphery for 8 yards (tackle by D.J. Alexander)",-0.460,-0.480
+4,2:47,1,10,HOU 23,27,17,"Penalty on Duane Brown: False Start, 5 yards (no play)",0.480,0.000
+4,2:47,1,15,HOU 18,27,17,Ryan Mallett sacked by Allen Bailey for -7 yards,0.000,-1.660
+4,2:17,2,22,HOU 11,27,17,Ryan Mallett pass complete short right to Keith Mumphery for 17 yards (tackle by Marcus Peters),-1.660,-0.100
+4,2:10,3,5,HOU 28,27,17,Ryan Mallett right end for 6 yards (tackle by Derrick Johnson),-0.100,1.200
+,,,,,,,"KAN challenged the first down ruling, and the play was upheld.",,
+4,2:00,1,10,HOU 34,27,17,Ryan Mallett pass incomplete deep middle intended for Keith Mumphery (defended by Marcus Peters),1.200,0.660
+4,1:54,2,10,HOU 34,27,17,Ryan Mallett pass complete short right to Cecil Shorts for 20 yards (tackle by Marcus Peters),0.660,2.520
+4,1:47,1,10,KAN 46,27,17,Ryan Mallett pass complete short right to DeAndre Hopkins for 17 yards (tackle by Eric Berry),2.520,3.640
+4,1:42,1,10,KAN 29,27,17,Ryan Mallett pass incomplete short right intended for Nate Washington,3.640,3.100
+4,1:38,2,10,KAN 29,27,17,Ryan Mallett pass incomplete short right intended for Jonathan Grimes,3.100,3.100
+4,1:33,2,10,KAN 29,27,17,Timeout #3 by Kansas City Chiefs,3.100,2.410
+4,1:33,3,10,KAN 29,27,17,Ryan Mallett pass incomplete deep right intended for Garrett Graham,2.410,1.500
+4,1:28,4,10,KAN 29,27,20,Randy Bullock 47 yard field goal good,1.500,3.000
+4,1:28,,,HOU 35,27,20,"Randy Bullock kicks onside 15 yards, recovered by Jeremy Maclin",0.000,-2.260
+4,1:22,1,10,,27,20,Alex Smith kneels for -1 yards,2.260,1.580
+4,0:40,2,11,KAN 49,27,20,Alex Smith kneels for -1 yards,1.580,0.760
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

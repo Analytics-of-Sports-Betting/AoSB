@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,NOR 25,4,2:07,75,Touchdown
+2,1,10:54,NOR 25,15,8:48,65,Interception
+3,2,13:15,NOR 25,5,2:46,75,Touchdown
+4,2,2:28,NOR 25,2,0:38,10,Interception
+5,2,1:50,NOR 25,5,1:04,22,Interception
+6,2,0:46,NOR 9,1,0:46,-1,End of Half
+7,3,14:00,NOR 39,9,4:16,54,Field Goal
+8,3,8:05,NOR 46,3,1:05,3,Punt
+9,3,0:29,NOR 25,3,0:40,7,Punt
+10,4,12:54,ARI 46,5,1:40,46,Touchdown
+11,4,6:22,NOR 25,11,3:15,75,Touchdown
+12,4,2:40,NOR 20,10,1:57,53,Field Goal

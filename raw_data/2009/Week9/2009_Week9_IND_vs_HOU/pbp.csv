@@ -1,0 +1,197 @@
+Quarter,Time,Down,ToGo,Location,HOU,IND,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Colts won the coin toss, Colts to receive the opening kickoff.",,
+1,15:00,,,HOU 30,0,0,"Kris Brown kicks off 76 yards, touchback",0.000,0.280
+1,15:00,1,10,IND 20,0,0,Peyton Manning pass complete short left to Dallas Clark for 3 yards (tackle by Eugene Wilson),0.280,0.140
+1,14:41,2,7,IND 23,0,0,Peyton Manning pass complete short right to Dallas Clark for 11 yards (tackle by Bernard Pollard and Jacques Reeves),0.140,1.200
+1,14:21,1,10,IND 34,0,0,Peyton Manning pass complete short right to Pierre Garcon for 5 yards (tackle by Brian Cushing and DeMeco Ryans),1.200,1.330
+1,14:01,2,5,IND 39,0,0,Peyton Manning pass complete short left to Austin Collie for 10 yards (tackle by Glover Quin),1.330,2.190
+1,13:42,1,10,IND 49,0,0,Peyton Manning pass complete short left to Dallas Clark for 10 yards (tackle by Glover Quin),2.190,2.850
+1,13:24,1,10,HOU 41,0,0,Joseph Addai right tackle for 4 yards (tackle by Tim Jamison and Jeff Zgonina),2.850,2.850
+1,13:07,2,6,HOU 37,0,0,Peyton Manning pass incomplete short middle intended for Austin Collie (defended by Glover Quin),2.850,2.150
+1,13:02,3,6,HOU 37,0,0,Peyton Manning pass incomplete short right intended for Austin Collie (defended by Glover Quin),2.150,0.790
+1,12:57,4,6,HOU 37,0,0,"Penalty on Kevin Bentley: Neutral Zone Infraction, 5 yards (no play)",0.790,1.310
+1,12:57,4,1,HOU 32,0,0,Peyton Manning pass incomplete deep right intended for Joseph Addai,1.310,-1.070
+1,12:51,1,10,HOU 32,0,0,Matt Schaub sacked by Dwight Freeney for -3 yards,1.070,0.120
+1,12:20,2,13,HOU 29,0,0,Matt Schaub pass complete short left to Andre Johnson for 1 yard (tackle by Dwight Freeney and Antoine Bethea),0.120,-0.430
+1,11:40,3,12,HOU 30,0,0,Matt Schaub pass complete short right to Steve Slaton for 7 yards (tackle by Clint Session),-0.430,-0.910
+1,11:07,4,5,HOU 37,0,0,"Matt Turk punts 42 yards, fair catch by T.J. Rushing",-0.910,-0.340
+1,10:59,1,10,IND 21,0,0,Dallas Clark right end for 4 yards (tackle by DeMeco Ryans and Bernard Pollard),0.340,0.340
+1,10:34,2,6,IND 25,0,0,Peyton Manning pass complete short left to Reggie Wayne for 7 yards (tackle by Glover Quin),0.340,1.070
+1,10:11,1,10,IND 32,0,0,Peyton Manning pass complete short right to Dallas Clark for 11 yards (tackle by Brian Cushing),1.070,1.800
+1,9:51,1,10,IND 43,0,0,Peyton Manning pass incomplete deep right intended for Pierre Garcon,1.800,1.250
+1,9:45,2,10,IND 43,0,0,Peyton Manning pass complete short left to Joseph Addai for 7 yards (tackle by Glover Quin),1.250,1.490
+1,9:29,3,3,,0,0,"Peyton Manning pass incomplete short left intended for Reggie Wayne. Penalty on Dunta Robinson: Defensive Pass Interfere, 7 yards (no play)",1.490,2.720
+1,9:25,1,10,HOU 43,0,0,Peyton Manning pass complete short right to Joseph Addai for 18 yards (tackle by Glover Quin and DeMeco Ryans),2.720,3.910
+1,8:56,1,10,HOU 25,0,0,"Penalty on Ryan Diem: False Start, 5 yards (no play)",3.910,3.580
+1,8:38,1,15,HOU 30,0,0,Chad Simpson left end for 2 yards (tackle by DeMeco Ryans),3.580,2.960
+1,8:09,2,13,HOU 28,0,0,Peyton Manning pass complete short left to Dallas Clark for 7 yards (tackle by Eugene Wilson),2.960,3.200
+1,7:39,3,6,HOU 21,0,0,Peyton Manning pass complete short right to Dallas Clark for 7 yards (tackle by Brian Cushing),3.200,4.650
+1,7:13,1,10,HOU 14,0,0,Joseph Addai middle for no gain (tackle by Tim Bulman),4.650,4.000
+1,6:51,2,10,HOU 14,0,0,Peyton Manning pass complete short right to Pierre Garcon for 7 yards (tackle by Bernard Pollard and Brian Cushing),4.000,4.500
+1,6:26,3,3,HOU 7,0,6,"Peyton Manning pass complete short middle to Joseph Addai for 7 yards, touchdown",4.500,7.000
+1,,,,HOU 2,0,7,Matt Stover kicks extra point good,0.000,0.000
+1,,,,IND 30,0,7,"Pat McAfee kicks off 63 yards, returned by Jacoby Jones for 21 yards (tackle by Pat McAfee)",0.000,0.810
+1,6:11,1,10,HOU 28,0,7,Matt Schaub pass incomplete deep left intended for Andre Johnson is intercepted by Jerraud Powers at HOU-46 and returned for 1 yard,0.810,-2.590
+1,6:04,1,10,HOU 45,0,7,Peyton Manning pass complete deep right to Pierre Garcon for 26 yards (tackle by Jacques Reeves). Penalty on Bernard Pollard: Illegal Contact (Declined),2.590,4.310
+1,5:48,1,10,HOU 19,0,7,Joseph Addai right guard for 6 yards (tackle by Bernard Pollard),4.310,4.720
+1,5:16,2,4,HOU 13,0,7,"Peyton Manning sacked by Brian Cushing for -7 yards. Penalty on Antonio Smith: Defensive Offside, 5 yards (no play)",4.720,5.370
+1,5:01,1,8,HOU 8,0,7,"Peyton Manning pass complete short left to Pierre Garcon for 4 yards (tackle by Eugene Wilson). Penalty on Mario Williams: Defensive Offside, 4 yards (no play)",5.370,6.280
+1,4:43,1,4,HOU 4,0,7,Joseph Addai right tackle for -1 yards (tackle by Brian Cushing),6.280,5.150
+1,4:11,2,5,HOU 5,0,7,Peyton Manning pass incomplete short right intended for Joseph Addai,5.150,4.260
+1,4:07,3,5,HOU 5,0,7,Peyton Manning pass complete short left to Reggie Wayne for 1 yard (tackle by Dunta Robinson). Penalty on Austin Collie: Offensive Pass Interfere (Declined),4.260,3.030
+1,4:02,4,4,HOU 4,0,10,Matt Stover 22 yard field goal good,3.030,3.000
+1,,,,IND 30,0,10,"Pat McAfee kicks off 73 yards, returned by Jacoby Jones for 24 yards (tackle by Ramon Humber). Penalty on Cody Glenn: Clipping, 15 yards",0.000,1.330
+1,3:50,1,10,HOU 36,0,10,Ryan Moats left end for no gain (tackle by Gary Brackett and Antonio Johnson),1.330,0.790
+1,3:09,2,10,HOU 36,0,10,Jacoby Jones right end for 5 yards (tackle by Antoine Bethea),0.790,0.760
+1,2:38,3,5,HOU 41,0,10,"Penalty on Chris White: False Start, 5 yards (no play)",0.760,0.100
+1,2:21,3,10,HOU 36,0,10,Matt Schaub left guard for 2 yards (tackle by Jerraud Powers),0.100,-0.850
+1,1:47,4,8,HOU 38,0,10,"Matt Turk punts 42 yards, fair catch by T.J. Rushing",-0.850,-0.280
+1,1:41,1,10,IND 20,0,10,Peyton Manning pass incomplete short right intended for Chad Simpson (defended by Brian Cushing),0.280,-0.270
+1,1:36,2,10,IND 20,0,10,Peyton Manning pass complete short left to Reggie Wayne for 15 yards (tackle by Dunta Robinson),-0.270,1.270
+1,1:18,1,10,IND 35,0,10,Peyton Manning pass complete short middle to Dallas Clark for 6 yards (tackle by Brian Cushing),1.270,1.530
+1,0:50,2,4,IND 41,0,10,Peyton Manning pass complete short left to Reggie Wayne for 11 yards (tackle by DeMeco Ryans),1.530,2.390
+1,0:21,1,10,HOU 48,0,10,Peyton Manning pass complete short right to Dallas Clark for 7 yards (tackle by Brian Cushing and Jacques Reeves),2.390,2.790
+Quarter,Time,Down,ToGo,Location,HOU,IND,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,3,HOU 41,0,10,Chad Simpson left tackle for 1 yard (tackle by Jeff Zgonina and Shaun Cody),2.790,2.210
+2,14:16,3,2,HOU 40,0,10,"Peyton Manning pass incomplete short left intended for Dallas Clark (defended by Brian Cushing). Penalty on Brian Cushing: Defensive Holding, 5 yards (no play)",2.210,3.250
+2,14:12,1,10,HOU 35,0,10,"Peyton Manning pass incomplete short right intended for Reggie Wayne. Penalty on DeMeco Ryans: Defensive Pass Interfere, 12 yards (no play)",3.250,4.040
+2,14:07,1,10,HOU 23,0,10,"Peyton Manning pass complete short right to Austin Collie for 21 yards (tackle by Glover Quin). Penalty on Tim Bulman: Defensive Offside (Offsetting), Penalty on Jeff Saturday: Offensive Holding (Offsetting) (no play)",4.040,4.040
+2,13:49,1,10,HOU 23,0,10,Peyton Manning pass incomplete short right intended for Joseph Addai,4.040,3.500
+2,13:44,2,10,HOU 23,0,10,Joseph Addai left end for 4 yards (tackle by DeMeco Ryans),3.500,3.340
+2,13:01,3,6,HOU 19,0,10,Peyton Manning pass incomplete deep left intended for Joseph Addai,3.340,2.210
+2,12:55,4,6,HOU 19,0,13,Matt Stover 37 yard field goal good,2.210,3.000
+2,,,,IND 30,0,13,"Pat McAfee kicks off 72 yards, returned by Jacoby Jones for 19 yards (tackle by Cody Glenn)",0.000,-0.060
+2,12:45,1,10,HOU 17,0,13,Matt Schaub pass incomplete deep right intended for Andre' Davis,-0.060,-0.580
+2,12:38,2,10,HOU 17,0,13,Ryan Moats right end for 4 yards (tackle by Clint Session),-0.580,-0.750
+2,11:57,3,6,HOU 21,0,13,Matt Schaub sacked by Dwight Freeney and Robert Mathis for -7 yards,-0.750,-2.470
+2,11:26,4,13,HOU 14,0,13,"Matt Turk punts 52 yards, returned by T.J. Rushing for 2 yards (tackle by Connor Barwin)",-2.470,-1.330
+2,11:20,1,10,IND 36,0,13,Peyton Manning pass complete short left to Joseph Addai for 5 yards (tackle by DeMeco Ryans),1.330,1.470
+2,10:45,2,5,IND 41,0,13,Peyton Manning pass incomplete short right intended for Dallas Clark (defended by Mario Williams),1.470,0.760
+2,10:42,3,5,IND 41,0,13,Peyton Manning pass complete short middle to Dallas Clark for 13 yards (tackle by Brian Cushing and Dunta Robinson),0.760,2.520
+2,10:12,1,10,HOU 46,0,13,Joseph Addai right guard for 4 yards (tackle by Bernard Pollard),2.520,2.520
+2,9:41,2,6,HOU 42,0,13,Peyton Manning pass complete short left to Dallas Clark for 5 yards (tackle by Eugene Wilson and Bernard Pollard),2.520,2.480
+2,9:02,3,1,HOU 37,0,13,Joseph Addai right guard for -2 yards (tackle by Antonio Smith),2.480,0.660
+2,8:27,4,3,HOU 39,0,13,"Pat McAfee punts 28 yards, fair catch by Jacoby Jones",0.660,0.370
+2,8:18,1,10,HOU 11,0,13,Ryan Moats left end for 6 yards (tackle by Clint Session),-0.370,-0.160
+2,7:53,2,4,HOU 17,0,13,Ryan Moats right tackle for 6 yards (tackle by Melvin Bullitt),-0.160,0.480
+2,7:13,1,10,HOU 23,0,13,Matt Schaub pass complete short right to Joel Dreessen for 6 yards (tackle by Jacob Lacey),0.480,0.740
+2,6:52,2,4,HOU 29,0,13,"Ryan Moats right end for 5 yards (tackle by Clint Session). Penalty on Antonio Johnson: Face Mask (15 Yards), 15 yards",0.740,2.190
+2,6:27,1,10,HOU 49,0,13,Ryan Moats right end for 5 yards (tackle by Melvin Bullitt and Clint Session),2.190,2.320
+2,5:45,2,5,IND 46,0,13,Matt Schaub pass complete short right to Andre Johnson for 6 yards (tackle by Jacob Lacey and Antoine Bethea),2.320,2.920
+2,5:08,1,10,IND 40,0,13,Matt Schaub pass incomplete short middle intended for Joel Dreessen,2.920,2.370
+2,5:04,2,10,IND 40,0,13,Matt Schaub pass complete short right to Anthony Hill for 9 yards (tackle by Jerraud Powers and Eric Foster),2.370,2.870
+2,4:33,3,1,IND 31,0,13,Ryan Moats middle for no gain (tackle by Daniel Muir),2.870,1.410
+2,3:47,,,,0,13,Timeout #1 by Houston Texans,0.000,1.410
+2,3:47,4,1,IND 31,0,13,Matt Schaub pass complete short left to Andre Johnson for 10 yards (tackle by Jerraud Powers and Philip Wheeler),1.410,4.170
+2,3:08,1,10,IND 21,0,13,Matt Schaub pass complete short left to Andre Johnson for 11 yards (tackle by Melvin Bullitt and Jerraud Powers),4.170,4.910
+2,2:30,1,10,IND 10,0,13,Matt Schaub pass complete short left to Ryan Moats for 9 yards (tackle by Antoine Bethea). Ryan Moats fumbles (forced by Antoine Bethea),4.910,-0.280
+,,,,,,,"IND challenged the fumble ruling, and the original play was overturned.",,
+2,2:00,1,10,IND 20,0,13,Peyton Manning pass incomplete short left intended for Reggie Wayne (defended by Glover Quin),0.280,-0.270
+2,1:54,2,10,IND 20,0,13,Peyton Manning pass incomplete short middle intended for Dallas Clark (defended by Glover Quin),-0.270,-0.960
+2,1:50,3,10,IND 20,0,13,"Peyton Manning pass incomplete short middle intended for Dallas Clark (defended by Eugene Wilson). Penalty on Eugene Wilson: Unnecessary Roughness, 15 yards (no play)",-0.960,1.270
+2,1:46,1,10,IND 35,0,13,Peyton Manning pass complete short left to Reggie Wayne for 13 yards,1.270,2.130
+2,1:38,1,10,IND 48,0,13,Peyton Manning pass complete short right to Dallas Clark for 6 yards (tackle by DeMeco Ryans),2.130,2.390
+2,1:25,2,4,HOU 46,0,13,Peyton Manning pass incomplete short right intended for Pierre Garcon (defended by Bernard Pollard),2.390,1.680
+2,1:21,3,4,HOU 46,0,13,Peyton Manning pass complete short left to Joseph Addai for 12 yards,1.680,3.310
+2,1:17,1,10,HOU 34,0,13,Peyton Manning pass complete short left to Reggie Wayne for 12 yards,3.310,4.110
+2,1:12,1,10,HOU 22,0,13,Peyton Manning pass incomplete deep left intended for Austin Collie,4.110,3.560
+2,1:07,2,10,HOU 22,0,13,Peyton Manning pass incomplete short middle intended for Joseph Addai is intercepted by Bernard Pollard at HOU-14 and returned for 36 yards,3.560,-2.260
+2,0:56,1,10,,0,13,Matt Schaub pass complete short middle to David Anderson for 11 yards (tackle by Jerraud Powers and Antoine Bethea),2.260,2.980
+2,0:36,1,10,IND 39,0,13,"Matt Schaub pass complete short right to Steve Slaton for 3 yards (tackle by Jacob Lacey). Penalty on Jacoby Jones: Offensive Offside, 5 yards (no play)",2.980,2.650
+2,0:30,1,15,IND 44,0,13,Matt Schaub pass incomplete short right intended for Kevin Walter,2.650,1.770
+2,0:26,2,15,IND 44,0,13,Matt Schaub pass incomplete short right intended for Jacoby Jones,1.770,1.090
+2,0:22,3,15,IND 44,0,13,Matt Schaub pass complete short right to Jacoby Jones for 6 yards (tackle by Clint Session and Jacob Lacey),1.090,0.720
+2,0:02,,,,0,13,Timeout #2 by Houston Texans,0.000,0.000
+2,0:02,,,,0,13,Timeout #1 by Indianapolis Colts,0.000,0.720
+2,0:02,4,9,IND 38,3,13,Kris Brown 56 yard field goal good,0.720,3.000
+Quarter,Time,Down,ToGo,Location,HOU,IND,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,IND 30,3,13,"Pat McAfee kicks off 72 yards, returned by Jacoby Jones for 26 yards (tackle by Aaron Francisco). Penalty on Jesse Nading: Offensive Holding, 10 yards",0.000,-0.280
+3,14:57,1,10,HOU 14,3,13,Matt Schaub pass complete short left to Andre Johnson for 11 yards (tackle by Melvin Bullitt and Gary Brackett),-0.280,0.610
+3,14:22,1,10,HOU 25,3,13,Ryan Moats right tackle for 7 yards (tackle by Clint Session and Antonio Johnson),0.610,1.010
+3,13:44,2,3,HOU 32,3,13,Ryan Moats left tackle for 2 yards (tackle by Robert Mathis),1.010,0.560
+3,13:08,3,1,HOU 34,3,13,Steve Slaton left tackle for 4 yards (tackle by Tim Jennings),0.560,1.470
+3,12:33,1,10,HOU 38,3,13,Matt Schaub pass complete deep middle to Kevin Walter for 19 yards (tackle by Jerraud Powers),1.470,2.720
+3,11:50,1,10,IND 43,3,13,Matt Schaub pass incomplete short middle intended for Andre Johnson (defended by Gary Brackett),2.720,2.180
+3,11:45,2,10,IND 43,3,13,Steve Slaton left tackle for 3 yards (tackle by Raheem Brock and Gary Brackett),2.180,1.880
+3,11:03,3,7,IND 40,3,13,Matt Schaub for 19 yards,1.880,4.170
+3,10:36,1,10,IND 21,3,13,Ryan Moats middle for 1 yard (tackle by Clint Session),4.170,3.760
+3,9:56,2,9,IND 20,3,13,Matt Schaub pass complete deep middle to Kevin Walter for 18 yards (tackle by Melvin Bullitt),3.760,6.740
+3,9:20,1,2,IND 2,3,13,Ryan Moats right tackle for 1 yard (tackle by Gary Brackett and Jacob Lacey),6.740,5.910
+3,8:36,2,1,IND 1,9,13,"Matt Schaub pass complete short right to Ryan Moats for 1 yard, touchdown",5.910,7.000
+3,,,,IND 2,10,13,Kris Brown kicks extra point good,0.000,0.000
+3,,,,HOU 30,10,13,"Kris Brown kicks off 53 yards, returned by Keyunta Dawson for 14 yards (tackle by Andre' Davis). Penalty on Connor Barwin: Unnecessary Roughness, 15 yards",0.000,1.990
+3,8:27,1,10,IND 46,10,13,Peyton Manning pass complete short right to Reggie Wayne for no gain,1.990,1.450
+3,7:59,2,10,IND 46,10,13,Peyton Manning pass complete short right to Dallas Clark for 7 yards (tackle by Brian Cushing),1.450,1.690
+3,7:26,,,,10,13,Timeout #1 by Indianapolis Colts,0.000,1.690
+3,7:26,3,3,HOU 47,10,13,Peyton Manning left end for 2 yards (tackle by Bernard Pollard),1.690,0.270
+3,6:46,4,1,HOU 45,10,13,"Pat McAfee punts 29 yards, fair catch by Jacoby Jones",0.270,0.140
+3,6:39,1,10,HOU 16,10,13,Matt Schaub pass complete short left to Vonta Leach for 4 yards (tackle by Melvin Bullitt and Jerraud Powers),-0.140,0.010
+3,6:06,2,6,HOU 20,10,13,Ryan Moats right end for 1 yard (tackle by Gary Brackett),0.010,-0.700
+3,5:23,3,5,HOU 21,10,13,Matt Schaub pass complete deep right to Jacoby Jones for 45 yards (tackle by Jacob Lacey),-0.700,3.310
+3,4:36,1,10,IND 34,10,13,Steve Slaton left tackle for 3 yards (tackle by Josh Thomas),3.310,3.180
+3,3:52,2,7,IND 31,10,13,Matt Schaub pass incomplete short left intended for Anthony Hill,3.180,2.480
+3,3:45,3,7,IND 31,10,13,Matt Schaub pass complete short left to Andre Johnson for 16 yards (tackle by Gary Brackett),2.480,4.580
+3,3:08,1,10,IND 15,10,13,Steve Slaton right tackle for 2 yards (tackle by Philip Wheeler and Antoine Bethea),4.580,4.280
+3,2:30,2,8,IND 13,10,13,Ryan Moats left tackle for 4 yards (tackle by Daniel Muir and Robert Mathis),4.280,4.220
+3,1:48,3,4,IND 9,10,13,Matt Schaub pass complete short right to Andre Johnson for 8 yards (tackle by Antoine Bethea and Raheem Brock),4.220,6.970
+3,1:19,1,1,IND 1,10,13,Matt Schaub middle for no gain (tackle by Clint Session),6.970,5.910
+3,0:38,2,1,IND 1,10,13,Ryan Moats right guard for no gain (tackle by Eric Foster and Keyunta Dawson),5.910,5.170
+Quarter,Time,Down,ToGo,Location,HOU,IND,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,1,IND 1,16,13,"Steve Slaton right tackle for 1 yard, touchdown",5.170,7.000
+4,,,,IND 2,17,13,Kris Brown kicks extra point good,0.000,0.000
+4,,,,HOU 30,17,13,"Kris Brown kicks off 70 yards, touchback",0.000,0.280
+4,14:58,1,10,IND 20,17,13,Joseph Addai right end for 10 yards (tackle by Bernard Pollard),0.280,0.940
+4,14:42,1,10,IND 30,17,13,Peyton Manning pass incomplete short right intended for Pierre Garcon,0.940,0.390
+4,14:39,2,10,IND 30,17,13,Peyton Manning pass complete short right to Dallas Clark for 9 yards (tackle by Brian Cushing),0.390,0.890
+4,13:59,3,1,IND 39,17,13,Peyton Manning pass complete short right to Pierre Garcon for 7 yards (tackle by DeMeco Ryans),0.890,1.990
+4,13:34,1,10,IND 46,17,13,Peyton Manning sacked by Mario Williams for -6 yards,1.990,0.640
+4,13:13,2,16,IND 40,17,13,Peyton Manning pass complete short right to Pierre Garcon for 15 yards (tackle by Bernard Pollard),0.640,1.950
+4,12:45,3,1,HOU 45,17,13,"Peyton Manning pass incomplete short left intended for Reggie Wayne (defended by Dunta Robinson). Penalty on Connor Barwin: Defensive Offside, 5 yards (no play)",1.950,2.920
+4,12:38,1,10,HOU 40,17,13,Reggie Wayne pass incomplete deep right intended for Pierre Garcon is intercepted by Bernard Pollard at HOU-24. Penalty on Pierre Garcon: Offensive Pass Interfere (Declined),2.920,-0.540
+4,12:31,1,10,HOU 24,17,13,Matt Schaub pass incomplete deep left intended for Andre Johnson (defended by Tim Jennings),0.540,0.000
+4,12:26,2,10,HOU 24,17,13,Matt Schaub pass complete short right to Ryan Moats for 5 yards (tackle by Jacob Lacey and Philip Wheeler),0.000,-0.030
+4,11:43,3,5,HOU 29,17,13,Matt Schaub pass complete short right to David Anderson for no gain,-0.030,-1.440
+4,11:10,4,5,HOU 29,17,13,"Matt Turk punts 38 yards, returned by T.J. Rushing for 6 yards (tackle by Antwaun Molden)",-1.440,-1.530
+4,11:00,1,10,IND 39,17,13,Joseph Addai right tackle for 7 yards (tackle by Brian Cushing),1.530,1.930
+4,10:34,2,3,IND 46,17,13,Joseph Addai right end for 12 yards (tackle by Jacques Reeves and Brian Cushing),1.930,2.790
+4,9:53,1,10,HOU 42,17,13,Peyton Manning pass incomplete deep left intended for Austin Collie,2.790,2.240
+4,9:48,2,10,HOU 42,17,13,Peyton Manning pass complete deep right to Dallas Clark for 17 yards (tackle by Bernard Pollard),2.240,3.910
+4,9:11,1,10,HOU 25,17,13,Peyton Manning pass complete short left to Austin Collie for 16 yards (tackle by Glover Quin),3.910,5.140
+4,8:33,1,9,HOU 9,17,13,Joseph Addai middle for 2 yards (tackle by Tim Bulman),5.140,4.760
+4,7:58,2,7,HOU 7,17,13,Peyton Manning pass complete short right to Reggie Wayne for 5 yards (tackle by Eugene Wilson),4.760,4.950
+4,7:16,3,2,HOU 2,17,19,"Joseph Addai middle for 2 yards, touchdown",4.950,7.000
+4,,,,HOU 2,17,20,Matt Stover kicks extra point good,0.000,0.000
+4,,,,IND 30,17,20,"Pat McAfee kicks off 72 yards, returned by Jacoby Jones for 23 yards (tackle by Keyunta Dawson)",0.000,0.340
+4,7:06,1,10,HOU 21,17,20,Ryan Moats left tackle for -4 yards (tackle by Dwight Freeney),0.340,-0.860
+4,6:20,,,,17,20,Timeout #1 by Houston Texans,0.000,-0.860
+4,6:20,2,14,HOU 17,17,20,Matt Schaub pass complete short right to Kevin Walter for 9 yards (tackle by Philip Wheeler and Jacob Lacey),-0.860,-0.230
+4,5:39,3,5,HOU 26,17,20,Matt Schaub pass complete short left to Joel Dreessen for 9 yards (tackle by Tim Jennings),-0.230,1.270
+4,5:03,1,10,HOU 35,17,20,Steve Slaton right tackle for 4 yards (tackle by Clint Session and Antoine Bethea),1.270,1.260
+4,4:24,2,6,HOU 39,17,20,"Steve Slaton left end for 1 yard (tackle by Dwight Freeney and Antoine Bethea). Penalty on Kasey Studdard: Offensive Holding, 10 yards (no play)",1.260,-0.090
+4,4:17,2,16,HOU 29,17,20,Matt Schaub pass complete short right to Steve Slaton for 5 yards (tackle by Eric Foster),-0.090,-0.100
+4,3:36,3,11,HOU 34,17,20,Matt Schaub pass complete deep left to Andre Johnson for 24 yards (tackle by Melvin Bullitt),-0.100,2.790
+4,2:59,1,10,IND 42,17,20,Ryan Moats right guard for no gain (tackle by Clint Session and Jerraud Powers),2.790,2.240
+4,2:20,2,10,IND 42,17,20,Matt Schaub pass incomplete short middle intended for David Anderson is intercepted by Clint Session at IND-32 and returned for 8 yards,2.240,-1.600
+4,2:13,1,10,IND 40,17,20,Joseph Addai right tackle for 2 yards (tackle by Bernard Pollard),1.600,1.320
+4,2:09,,,,17,20,Timeout #2 by Houston Texans,0.000,1.320
+4,2:09,2,8,IND 42,17,20,"Penalty on Ryan Diem: False Start, 5 yards (no play)",1.320,0.650
+4,2:09,2,13,IND 37,17,20,"Peyton Manning sacked by Antonio Smith for -6 yards. Peyton Manning fumbles (forced by Antonio Smith), recovered by Ryan Diem at IND-31",0.650,-0.820
+4,2:00,3,19,IND 31,17,20,Joseph Addai middle for 13 yards (tackle by Dunta Robinson and Bernard Pollard),-0.820,-0.460
+4,1:51,,,,17,20,Timeout #3 by Houston Texans,0.000,-0.460
+4,1:51,4,6,IND 44,17,20,"Pat McAfee punts 41 yards, fair catch by Jacoby Jones",-0.460,0.220
+4,1:46,1,10,HOU 15,17,20,Matt Schaub pass complete short left to Jacoby Jones for 8 yards (tackle by Clint Session),-0.220,0.480
+4,1:27,2,2,HOU 23,17,20,Matt Schaub pass complete short middle to Kevin Walter for 13 yards (tackle by Gary Brackett),0.480,1.330
+4,1:06,1,10,HOU 36,17,20,Matt Schaub pass complete short right to Andre Johnson for 9 yards (tackle by Jerraud Powers and Jacob Lacey),1.330,2.010
+4,0:49,2,1,HOU 45,17,20,Matt Schaub spiked the ball,2.010,1.290
+4,0:48,3,1,HOU 45,17,20,Matt Schaub pass complete short right to Kevin Walter for 8 yards (tackle by Antoine Bethea),1.290,2.460
+4,0:44,1,10,IND 47,17,20,Matt Schaub pass complete short middle to David Anderson for 8 yards (tackle by Clint Session),2.460,2.990
+4,0:26,2,2,IND 39,17,20,Matt Schaub pass complete short right to Steve Slaton for no gain,2.990,2.280
+4,0:17,3,2,IND 39,17,20,Matt Schaub pass complete short right to Andre Johnson for 7 yards,2.280,3.450
+4,0:14,1,10,IND 32,17,20,Matt Schaub pass complete short left to Jacoby Jones for 8 yards (tackle by Jerraud Powers),3.450,3.980
+4,0:01,2,2,IND 24,17,20,Matt Schaub spiked the ball,3.980,3.270
+4,0:01,3,2,IND 24,17,20,Kris Brown 42 yard field goal no good,3.270,1.000
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

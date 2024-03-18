@@ -1,0 +1,168 @@
+Quarter,Time,Down,ToGo,Location,IND,HOU,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Texans won the coin toss, Texans to receive the opening kickoff.",,
+1,15:00,,,IND 30,0,0,"Mike Vanderjagt kicks off 61 yards, returned by Jermaine Lewis for 11 yards (tackle by Detron Smith)",0.000,0.280
+1,14:55,1,10,HOU 20,0,0,David Carr pass complete to Jabar Gaffney for 6 yards (tackle by David Macklin),0.280,0.540
+1,14:17,2,4,HOU 26,0,0,James Allen left guard for 3 yards (tackle by Mike Peterson and Raheem Brock),0.540,0.230
+1,13:37,3,1,HOU 29,0,0,James Allen right tackle for no gain (tackle by Raheem Brock),0.230,-1.440
+1,13:02,4,1,HOU 29,0,0,"Chad Stanley punts 42 yards, fair catch by Troy Walters. Penalty on Jason Bell: Interference with Opportunity to Catch, 15 yards",-1.440,-1.860
+1,12:48,1,10,IND 44,0,0,Peyton Manning pass complete to Marcus Pollard for 19 yards (tackle by Eric Brown),1.860,3.120
+1,12:20,1,10,HOU 37,0,0,Edgerrin James right guard for -2 yards (tackle by Jay Foreman),3.120,2.300
+1,11:30,2,12,HOU 39,0,0,Peyton Manning pass incomplete intended for Marcus Pollard (defended by Eric Brown),2.300,1.620
+1,11:28,3,12,HOU 39,0,0,"Penalty on Marcus Pollard: Illegal Substitution, 5 yards (no play)",1.620,0.960
+1,11:28,3,17,HOU 44,0,0,Peyton Manning sacked by Jeff Posey for -11 yards,0.960,-0.390
+1,10:59,4,28,IND 45,0,0,"Hunter Smith punts 50 yards, returned by Jermaine Lewis for 4 yards (tackle by Jason Doering)",-0.390,0.380
+1,10:49,1,10,HOU 9,0,0,James Allen right guard for 4 yards (tackle by Mike Peterson),-0.380,-0.480
+1,10:15,2,6,HOU 13,0,0,James Allen left end for 8 yards (tackle by Idrees Bashir),-0.480,0.340
+1,9:34,1,10,HOU 21,0,0,David Carr for 7 yards (tackle by Walt Harris),0.340,0.750
+1,9:08,2,3,HOU 28,0,0,James Allen middle for 8 yards (tackle by Mike Peterson and Raheem Brock),0.750,1.330
+1,8:02,1,10,HOU 36,0,0,"David Carr pass complete to Jarrod Baxter for 9 yards (tackle by Cory Bird). Penalty on Fred Weary: Offensive Holding, 10 yards (no play)",1.330,0.670
+1,7:58,1,20,HOU 26,0,0,James Allen right guard for -1 yards (tackle by Cory Bird),0.670,-0.700
+1,7:21,2,21,HOU 25,0,0,David Carr pass complete to James Allen for 9 yards (tackle by Mike Peterson),-0.700,-0.160
+1,6:42,2,21,HOU 25,,,Timeout #1 by Indianapolis Colts,-0.700,-0.160
+1,6:42,3,12,HOU 34,0,0,David Carr pass complete to James Allen for 11 yards (tackle by David Thornton and Mike Peterson),-0.160,-0.390
+1,6:14,4,1,HOU 45,0,0,"Chad Stanley punts 35 yards, fair catch by Troy Walters",-0.390,-0.280
+1,6:05,1,10,IND 20,0,0,Edgerrin James right end for -2 yards (tackle by Kailee Wong),0.280,-0.630
+1,5:17,2,12,IND 18,0,0,Peyton Manning pass complete to Reggie Wayne for 3 yards (tackle by Aaron Glenn),-0.630,-0.820
+1,4:33,3,9,IND 21,0,0,Peyton Manning pass complete to Marvin Harrison for 26 yards (tackle by Aaron Glenn),-0.820,2.060
+1,4:07,1,10,IND 47,0,0,Peyton Manning sacked by Jamie Sharper for 0 yards,2.060,1.520
+1,3:20,2,10,IND 47,0,0,Peyton Manning pass complete to Marvin Harrison for 9 yards (tackle by Aaron Glenn),1.520,2.020
+1,2:55,3,1,HOU 44,0,0,Edgerrin James left end for 2 yards (tackle by Jamie Sharper),2.020,2.790
+1,2:31,1,10,HOU 42,6,0,"Peyton Manning pass complete to Qadry Ismail for 42 yards, touchdown",2.790,7.000
+1,2:31,,,HOU 42,7,0,Mike Vanderjagt kicks extra point good,0.000,0.000
+1,2:31,,,IND 30,7,0,"Mike Vanderjagt kicks off 62 yards, returned by Avion Black for 11 yards (tackle by Clifton Crosby)",0.000,0.150
+1,2:17,1,10,HOU 19,7,0,James Allen right end for 3 yards (tackle by Rob Morris),0.150,0.070
+1,1:40,2,7,HOU 22,7,0,David Carr pass incomplete intended for Jarrod Baxter (defended by Raheem Brock),0.070,-0.680
+1,1:34,3,7,HOU 22,7,0,David Carr pass incomplete intended for Jabar Gaffney (defended by Walt Harris),-0.680,-1.900
+1,1:30,4,7,HOU 22,7,0,"Chad Stanley punts 45 yards, returned by Troy Walters for 34 yards (tackle by Jason Bell)",-1.900,-3.380
+1,1:15,1,10,HOU 33,7,0,"Peyton Manning pass complete to Jermaine Wiggins for 8 yards (tackle by Jay Foreman and Jamie Sharper). Jermaine Wiggins fumbles (forced by Jay Foreman), recovered by Marcus Coleman at HOU-25",3.380,-0.670
+1,1:05,1,10,HOU 26,7,0,James Allen for no gain (tackle by Jason Doering),0.670,0.130
+1,0:26,2,10,HOU 26,7,0,David Carr pass incomplete intended for Rod Rutledge is intercepted by Idrees Bashir at HOU-41,0.130,-2.850
+1,0:16,1,10,HOU 41,7,0,Edgerrin James right end for 6 yards (tackle by Jamie Sharper and Seth Payne),2.850,3.120
+Quarter,Time,Down,ToGo,Location,IND,HOU,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,4,HOU 35,7,0,Edgerrin James for 20 yards (tackle by Eric Brown),3.120,4.580
+2,14:30,1,10,HOU 15,7,0,Edgerrin James left end for 6 yards (tackle by Marcus Coleman and Jay Foreman),4.580,5.030
+2,13:45,2,4,HOU 9,7,0,Peyton Manning right end for 1 yard (tackle by Eric Brown),5.030,4.450
+2,12:59,2,4,HOU 9,,,Timeout #2 by Indianapolis Colts,5.030,4.450
+2,12:58,3,3,HOU 8,7,0,Edgerrin James right end for no gain (tackle by Gary Walker),4.450,2.980
+2,12:25,4,3,HOU 8,10,0,Mike Vanderjagt 26 yard field goal good,2.980,3.000
+2,12:25,,,IND 30,10,0,"Mike Vanderjagt kicks off 67 yards, returned by Jermaine Lewis for 9 yards (tackle by Detron Smith)",0.000,-0.350
+2,12:17,1,10,HOU 12,10,0,David Carr pass complete to Jabar Gaffney for 2 yards (tackle by Nick Harper),-0.350,-0.610
+2,11:45,2,8,HOU 14,10,0,Jonathan Wells right end for 3 yards (tackle by Marcus Washington),-0.610,-0.840
+2,11:05,3,5,HOU 17,10,0,David Carr for 6 yards (tackle by Clifton Crosby),-0.840,0.480
+2,10:40,1,10,HOU 23,10,0,"Penalty on DeMingo Graham: False Start, 5 yards (no play)",0.480,0.000
+2,10:21,1,15,HOU 18,10,0,Jonathan Wells middle for 8 yards (tackle by Mike Peterson),0.000,0.340
+2,9:42,2,7,HOU 26,10,0,Jonathan Wells for 37 yards (tackle by Jason Doering),0.340,3.120
+2,9:14,1,10,IND 37,10,0,David Carr pass incomplete intended for Avion Black (defended by Walt Harris),3.120,2.570
+2,9:06,2,10,IND 37,10,0,James Allen middle for 2 yards (tackle by Brad Scioli and Mike Peterson),2.570,2.150
+2,8:25,3,8,IND 35,10,0,David Carr pass incomplete intended for JaJuan Dawson (defended by Clifton Crosby),2.150,0.970
+2,8:25,4,8,IND 35,10,0,Kris Brown 54 yard field goal no good,0.970,-1.860
+2,8:16,1,10,IND 44,10,0,Peyton Manning pass complete to Edgerrin James for 7 yards (tackle by Jay Foreman),1.860,2.260
+2,7:45,2,3,HOU 49,10,0,Edgerrin James left end for -1 yards (tackle by Keith Mitchell),2.260,1.420
+2,7:05,3,4,,10,0,Peyton Manning sacked by Jeff Posey for -10 yards,1.420,-0.720
+2,6:34,4,14,IND 40,10,0,"Hunter Smith punts 46 yards, returned by Avion Black for 12 yards (tackle by Justin Snow)",-0.720,-0.670
+2,6:22,1,10,HOU 26,10,0,David Carr pass complete to Corey Bradford for 6 yards (tackle by Cory Bird),0.670,0.940
+2,5:45,2,4,HOU 32,10,0,Jonathan Wells middle for -2 yards (tackle by Rob Morris),0.940,-0.030
+2,5:04,3,6,HOU 30,10,0,David Carr pass incomplete intended for Jabar Gaffney (defended by Mike Peterson),-0.030,-1.370
+2,5:00,4,6,HOU 30,10,0,"Chad Stanley punts 37 yards, fair catch by Troy Walters",-1.370,-1.140
+2,4:52,1,10,IND 33,10,0,Peyton Manning pass complete to Marvin Harrison for 3 yards (tackle by Marcus Coleman),1.140,1.000
+2,4:17,2,7,IND 36,10,0,Peyton Manning pass incomplete intended for Marcus Pollard,1.000,0.300
+2,4:13,3,7,IND 36,10,0,Peyton Manning pass complete to Marvin Harrison for 24 yards (tackle by Matt Stevens),0.300,2.920
+2,3:34,1,10,HOU 40,10,0,Edgerrin James right guard for 14 yards (tackle by Jay Foreman),2.920,3.840
+2,2:57,1,10,HOU 26,10,0,Edgerrin James left end for no gain (tackle by Jamie Sharper and Keith Mitchell),3.840,3.300
+2,2:12,2,10,HOU 26,10,0,Peyton Manning pass complete to Joe Davenport for 8 yards (tackle by Matt Stevens),3.300,3.750
+2,2:00,3,2,HOU 18,10,0,Peyton Manning pass complete to Qadry Ismail for -3 yards (tackle by Marcus Coleman),3.750,2.110
+2,1:26,4,5,HOU 21,13,0,Mike Vanderjagt 39 yard field goal good,2.110,3.000
+2,1:26,,,IND 30,13,0,"Mike Vanderjagt kicks off 63 yards, returned by Avion Black for 18 yards (tackle by Sam Sword)",0.000,0.610
+2,1:17,1,10,HOU 25,13,0,James Allen left end for 3 yards (tackle by Clifton Crosby),0.610,0.470
+2,0:54,2,7,HOU 28,13,0,David Carr pass complete to James Allen for 5 yards (tackle by David Thornton),0.470,0.430
+2,0:37,3,2,HOU 33,13,0,David Carr pass incomplete intended for Avion Black,0.430,-1.180
+2,0:32,4,2,HOU 33,13,0,"Chad Stanley punts 39 yards, returned by Troy Walters for 9 yards (tackle by Jason Simmons)",-1.180,-1.400
+2,0:18,4,2,HOU 33,,,Timeout #1 by Houston Texans,-1.180,-1.400
+2,0:18,1,10,IND 37,13,0,Peyton Manning middle for -1 yards,1.400,0.720
+Quarter,Time,Down,ToGo,Location,IND,HOU,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,HOU 30,13,0,"Kris Brown kicks off 68 yards, returned by Troy Walters for 27 yards (tackle by Troy Evans)",0.000,0.870
+3,14:54,1,10,IND 29,13,0,Peyton Manning pass complete to Marvin Harrison for 22 yards (tackle by Eric Brown),0.870,2.320
+3,14:20,1,10,HOU 49,13,0,Edgerrin James middle for 6 yards (tackle by Gary Walker),2.320,2.590
+3,13:43,2,4,HOU 43,13,0,Edgerrin James left end for 5 yards (tackle by Jamie Sharper),2.590,3.050
+3,13:02,1,10,HOU 38,13,0,Peyton Manning pass complete to Marcus Pollard for 6 yards (tackle by Jamie Sharper),3.050,3.320
+3,12:23,2,4,HOU 32,13,0,Edgerrin James right end for 3 yards (tackle by Jamie Sharper and Aaron Glenn),3.320,3.010
+3,11:43,3,1,HOU 29,13,0,Edgerrin James left tackle for no gain (tackle by Eric Brown and Marcus Coleman),3.010,1.620
+3,11:01,4,1,HOU 29,13,0,Mike Vanderjagt 47 yard field goal no good,1.620,-1.470
+3,10:57,1,10,HOU 38,13,0,Jonathan Wells left end for 9 yards (tackle by Marcus Washington),1.470,2.140
+3,10:29,2,1,HOU 47,13,0,Jonathan Wells right guard for 5 yards (tackle by Marcus Washington),2.140,2.390
+3,9:53,1,10,IND 48,13,0,David Carr pass incomplete intended for Rod Rutledge (defended by Rob Morris),2.390,1.850
+3,9:48,2,10,IND 48,13,0,"Jonathan Wells left guard for 2 yards (tackle by Chad Bratzke). Penalty on DeMingo Graham: Offensive Holding, 10 yards (no play)",1.850,0.500
+3,9:22,2,20,HOU 42,13,0,"David Carr pass complete to JaJuan Dawson for 10 yards (tackle by David Thornton and Mike Peterson). Penalty on Brad Scioli: Personal Foul, 15 yards",0.500,3.380
+3,8:54,1,10,IND 33,13,0,"Penalty on DeMingo Graham: False Start, 5 yards (no play)",3.380,3.050
+3,8:38,1,15,IND 38,13,0,Jonathan Wells right guard for 16 yards (tackle by Idrees Bashir). Penalty on IND: Defensive Offside (Declined),3.050,4.110
+3,8:10,1,10,IND 22,13,0,Jonathan Wells left end for 6 yards (tackle by Raheem Brock),4.110,4.460
+3,7:34,2,4,IND 16,13,0,Jonathan Wells right guard for 2 yards (tackle by Josh Mallard),4.460,4.150
+3,6:49,2,4,IND 16,,,Timeout #1 by Houston Texans,4.460,4.150
+3,6:49,3,2,IND 14,13,0,David Carr left end for 3 yards (tackle by Mike Peterson),4.150,4.840
+3,6:27,1,10,IND 11,13,0,Jonathan Wells right end for 4 yards (tackle by Brad Scioli and Mike Peterson),4.840,4.890
+3,5:45,2,6,IND 7,13,0,David Carr for 1 yard (tackle by Mike Peterson),4.890,4.210
+3,5:00,3,5,IND 6,13,0,David Carr pass incomplete intended for Corey Bradford (defended by Brad Scioli),4.210,2.990
+3,4:55,4,5,IND 6,13,3,Kris Brown 24 yard field goal good,2.990,3.000
+3,4:55,,,HOU 30,13,3,"Kris Brown kicks off 66 yards, returned by Troy Walters for 25 yards (tackle by Jason Bell)",0.000,0.870
+3,4:46,1,10,IND 29,13,3,Edgerrin James right end for 3 yards (tackle by Seth Payne and Jay Foreman),0.870,0.730
+3,4:10,2,7,IND 32,13,3,Edgerrin James right guard for 8 yards (tackle by Jay Foreman),0.730,1.600
+3,3:31,1,10,IND 40,13,3,Peyton Manning pass incomplete intended for Qadry Ismail,1.600,1.050
+3,3:26,2,10,IND 40,13,3,Peyton Manning pass complete to Marvin Harrison for 3 yards (tackle by Aaron Glenn),1.050,0.760
+3,2:46,3,7,IND 43,13,3,"Peyton Manning pass incomplete intended for Qadry Ismail (defended by Kailee Wong). Penalty on Marcus Coleman: Defensive Pass Interference, 6 yards (no play)",0.760,2.190
+3,2:37,1,10,IND 49,13,3,Peyton Manning pass incomplete intended for Marvin Harrison,2.190,1.650
+3,2:32,2,10,IND 49,13,3,Edgerrin James left end for 6 yards (tackle by Corey Sears),1.650,1.750
+3,1:48,3,4,HOU 45,13,3,Peyton Manning pass incomplete intended for Reggie Wayne (defended by Aaron Glenn). Penalty on Adam Meadows: Illegal Formation (Declined),1.750,0.270
+3,1:44,4,4,HOU 45,13,3,"Hunter Smith punts 33 yards, fair catch by Avion Black. Penalty on Kailee Wong: Defensive Holding, 6 yards, Penalty on Marcus Coleman: Defensive Holding (Declined)",0.270,0.380
+3,1:36,1,10,HOU 6,13,3,Jonathan Wells for 4 yards (tackle by Jason Doering),-0.380,-0.490
+3,1:02,2,6,HOU 10,13,3,Jonathan Wells left end for 3 yards (tackle by Marcus Washington),-0.490,-0.600
+3,0:28,3,3,HOU 13,13,3,James Allen middle for -3 yards (tackle by Dwight Freeney),-0.600,-2.490
+Quarter,Time,Down,ToGo,Location,IND,HOU,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,4,6,HOU 10,13,3,"Chad Stanley punts 41 yards, returned by Troy Walters for 12 yards (tackle by Ramon Walker)",-2.490,-2.980
+4,14:50,1,10,HOU 39,13,3,Peyton Manning pass complete to Marvin Harrison for 15 yards (tackle by Aaron Glenn),2.980,3.970
+4,14:12,1,10,HOU 24,13,3,Edgerrin James middle for 4 yards (tackle by Eric Brown),3.970,3.970
+4,13:32,2,6,HOU 20,13,3,Peyton Manning pass incomplete intended for Qadry Ismail (defended by Eric Brown),3.970,3.270
+4,13:23,3,6,HOU 20,13,3,Peyton Manning pass complete to Edgerrin James for 9 yards (tackle by Matt Stevens),3.270,4.840
+4,12:49,1,10,HOU 11,13,3,Edgerrin James right end for 2 yards (tackle by Eric Brown),4.840,4.510
+4,12:08,2,8,HOU 9,13,3,"Peyton Manning pass complete to Marcus Pollard for 3 yards (tackle by Jay Foreman). Penalty on Jeff Saturday: Offensive Holding, 10 yards (no play)",4.510,3.150
+4,11:40,2,18,HOU 19,13,3,"Peyton Manning pass complete to Reggie Wayne for 7 yards (tackle by Marcus Coleman). Reggie Wayne fumbles (forced by Marcus Coleman), recovered by Gary Walker at HOU-12 and returned for 1 yards (tackle by Ryan Diem)",3.150,0.320
+4,11:31,1,10,HOU 13,13,3,David Carr pass complete to Jonathan Wells for 9 yards (tackle by Sam Sword and Mike Peterson),-0.320,0.490
+4,10:56,2,1,HOU 22,13,3,Jonathan Wells left guard for -1 yards (tackle by Brad Scioli),0.490,-0.470
+4,10:20,3,2,HOU 21,13,3,"David Carr pass incomplete intended for Jonathan Wells (defended by Sam Sword). Penalty on Chad Bratzke: Roughing the Passer, 15 yards (no play)",-0.470,1.330
+4,10:14,1,10,HOU 36,13,3,Corey Bradford left end for -11 yards (tackle by Chad Bratzke),1.330,-0.700
+4,9:34,1,10,HOU 36,,,Timeout #1 by Indianapolis Colts,1.330,-0.700
+4,9:34,2,21,HOU 25,13,3,Jonathan Wells left end for -1 yards (tackle by Marcus Washington),-0.700,-1.480
+4,8:53,3,22,HOU 24,13,3,David Carr pass complete to JaJuan Dawson for 12 yards (tackle by Clifton Crosby),-1.480,-0.980
+4,8:15,4,10,HOU 36,13,3,"Chad Stanley punts 42 yards, returned by Troy Walters for 9 yards (tackle by Jason Simmons)",-0.980,-1.000
+4,8:05,1,10,IND 31,13,3,Edgerrin James left end for 2 yards (tackle by Seth Payne),1.000,0.730
+4,7:29,2,8,IND 33,13,3,Peyton Manning pass complete to Edgerrin James for 4 yards (tackle by Marcus Coleman),0.730,0.560
+4,6:56,3,4,IND 37,13,3,Peyton Manning pass complete to Marvin Harrison for 8 yards (tackle by Kenny Wright),0.560,1.930
+4,6:13,1,10,IND 45,13,3,Peyton Manning pass incomplete intended for Qadry Ismail,1.930,1.380
+4,6:05,2,10,IND 45,13,3,Edgerrin James middle for 5 yards (tackle by Matt Stevens),1.380,1.360
+4,5:24,3,5,,13,3,Peyton Manning pass complete to Edgerrin James for 9 yards (tackle by Chris Carter). Penalty on HOU: Defensive Holding (Declined),1.360,2.850
+4,4:59,1,10,HOU 41,13,3,Edgerrin James middle for -2 yards (tackle by Jamie Sharper),2.850,2.040
+4,4:16,2,12,HOU 43,19,3,"Peyton Manning pass complete to Reggie Wayne for 43 yards, touchdown",2.040,7.000
+,,,,,,,"HOU challenged the ruling, and the play was upheld.",,
+4,4:16,,,HOU 43,20,3,Mike Vanderjagt kicks extra point good,0.000,0.000
+4,4:16,,,IND 30,20,3,"Mike Vanderjagt kicks off 66 yards, returned by Avion Black for 23 yards (tackle by Joe Jefferson)",0.000,0.740
+4,4:01,1,10,HOU 27,20,3,David Carr sacked by Marcus Washington for -7 yards,0.740,-0.750
+4,3:32,2,17,HOU 20,20,3,David Carr pass complete to Jonathan Wells for 5 yards (tackle by David Thornton),-0.750,-0.760
+4,3:23,3,12,HOU 25,20,3,"David Carr sacked by Brad Scioli for -3 yards. David Carr fumbles (forced by Brad Scioli), recovered by Marcus Washington at HOU-22 (tackle by Steve McKinney)",-0.760,-4.110
+,,,,,,,"HOU challenged the ruling, and the play was upheld.",,
+4,3:18,1,10,HOU 22,20,3,Edgerrin James right end for 1 yard (tackle by Gary Walker and Kailee Wong),4.110,3.700
+4,2:36,2,9,HOU 21,20,3,Edgerrin James middle for 3 yards (tackle by Eric Brown),3.700,3.400
+4,2:00,3,6,HOU 18,20,3,Edgerrin James left end for -1 yards (tackle by Chris Carter and Matt Stevens),3.400,2.180
+4,1:15,3,6,HOU 18,,,Timeout #2 by Indianapolis Colts,3.400,2.180
+4,1:15,4,7,HOU 19,23,3,Mike Vanderjagt 37 yard field goal good,2.180,3.000
+4,1:15,,,IND 30,23,3,"Mike Vanderjagt kicks off 70 yards, returned by Avion Black for 49 yards (tackle by Detron Smith)",0.000,2.190
+4,1:01,1,10,HOU 49,23,3,"Penalty on Cameron Spikes: False Start, 5 yards (no play)",2.190,1.860
+4,1:01,1,15,HOU 44,23,3,David Carr sacked by Dwight Freeney for -4 yards,1.860,0.430
+4,0:40,2,19,HOU 40,23,3,David Carr pass complete to Avion Black for 14 yards (tackle by David Thornton),0.430,1.620
+4,0:32,3,5,IND 46,23,3,David Carr pass complete to JaJuan Dawson for 10 yards (tackle by Clifton Crosby),1.620,3.180
+4,0:18,1,10,IND 36,23,3,David Carr pass incomplete,3.180,2.640
+4,0:07,2,10,IND 36,23,3,"Penalty on Cameron Spikes: False Start, 5 yards (no play)",2.640,1.960
+4,0:07,2,15,IND 41,23,3,David Carr sacked by Brad Scioli for -7 yards,1.960,0.370
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

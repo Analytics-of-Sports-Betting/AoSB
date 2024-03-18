@@ -1,0 +1,200 @@
+Quarter,Time,Down,ToGo,Location,CIN,KAN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Chiefs won the coin toss, Chiefs to receive the opening kickoff.",,
+1,15:00,,,CIN 30,0,0,"Shayne Graham kicks off 70 yards, returned by Eddie Drummond for 22 yards (tackle by Madieu Williams). Penalty on Madieu Williams: Face Mask (15 Yards), 15 yards",0.000,1.400
+1,14:53,1,10,KAN 37,0,0,Larry Johnson up the middle for 9 yards (tackle by Madieu Williams),1.400,2.070
+1,14:21,2,1,KAN 46,0,0,Larry Johnson right end for -1 yards (tackle by Landon Johnson and Robert Geathers),2.070,1.220
+1,13:46,3,2,KAN 45,0,0,Larry Johnson left end for 4 yards (tackle by Justin Smith),1.220,2.190
+1,13:03,1,10,KAN 49,0,0,Damon Huard sacked by Justin Smith for -6 yards,2.190,0.840
+1,12:26,2,16,KAN 43,0,0,"Damon Huard pass complete short right to Michael Bennett for 7 yards (tackle by Michael Myers). Penalty on Blue Adams: Roughing the Passer, 15 yards",0.840,3.250
+1,11:59,1,10,CIN 35,0,0,Damon Huard pass complete short left to Jeff Webb for 4 yards (tackle by Leon Hall),3.250,3.240
+1,11:22,2,6,CIN 31,0,0,Damon Huard pass incomplete short right intended for Dwayne Bowe,3.240,2.540
+1,11:15,3,6,CIN 31,0,0,Damon Huard pass complete short middle to Dwayne Bowe for 14 yards (tackle by Nedu Ndukwe),2.540,4.440
+1,10:33,1,10,CIN 17,0,0,Larry Johnson up the middle for 3 yards (tackle by Madieu Williams),4.440,4.320
+1,9:56,2,7,CIN 14,0,0,Damon Huard pass incomplete short right intended for Kris Wilson,4.320,3.500
+1,9:50,3,7,CIN 14,0,0,Damon Huard pass incomplete short middle intended for Tony Gonzalez (defended by Domata Peko),3.500,2.510
+1,9:50,4,7,CIN 14,0,3,Dave Rayner 32 yard field goal good,2.510,3.000
+1,,,,KAN 30,0,3,"Dave Rayner kicks off 65 yards, returned by Glenn Holt for 22 yards (tackle by Jon McGraw)",0.000,0.740
+1,9:34,1,10,CIN 27,0,3,Kenny Watson right end for 5 yards (tackle by Bernard Pollard),0.740,0.870
+1,9:02,2,5,CIN 32,0,3,Carson Palmer pass complete short left to Chad Ochocinco for 7 yards (tackle by Patrick Surtain),0.870,1.530
+1,8:30,1,10,CIN 39,0,3,Kenny Watson right end for 19 yards (tackle by Alfonso Boone),1.530,2.790
+1,7:47,1,10,KAN 42,6,3,"Carson Palmer pass complete deep left to T.J. Houshmandzadeh for 42 yards, touchdown",2.790,7.000
+1,,,,KAN 2,7,3,Shayne Graham kicks extra point good,0.000,0.000
+1,,,,CIN 30,7,3,"Shayne Graham kicks off 73 yards, returned by Eddie Drummond for 23 yards (tackle by Herana-Daze Jones)",0.000,0.280
+1,7:34,1,10,KAN 20,7,3,Damon Huard sacked by Landon Johnson for -8 yards,0.280,-1.360
+1,7:06,2,18,KAN 12,7,3,Damon Huard pass incomplete short middle intended for Larry Johnson,-1.360,-2.360
+1,7:02,3,18,KAN 12,7,3,Damon Huard pass complete deep left to Jeff Webb for 17 yards,-2.360,-1.440
+1,6:39,4,1,KAN 29,7,3,Dustin Colquitt punts 53 yards,-1.440,-0.040
+1,6:25,1,10,CIN 18,7,3,Rudi Johnson right end for 6 yards (tackle by Ron Edwards),0.040,0.410
+1,5:43,2,4,CIN 24,7,3,Carson Palmer pass incomplete short left intended for Chad Ochocinco,0.410,-0.400
+1,5:39,3,4,CIN 24,7,3,Carson Palmer sacked by Jared Allen and Tamba Hali for -8 yards,-0.400,-2.390
+1,5:09,4,12,CIN 16,7,3,"Kyle Larson punts 45 yards, returned by Eddie Drummond for 17 yards (tackle by Blue Adams)",-2.390,-2.650
+1,4:59,1,10,CIN 44,7,3,Larry Johnson right end for 4 yards (tackle by Domata Peko),2.650,2.650
+1,4:23,2,6,CIN 40,7,3,Larry Johnson right end for 20 yards (tackle by Justin Smith),2.650,4.240
+1,3:38,1,10,CIN 20,7,3,Michael Bennett up the middle for 1 yard (tackle by Domata Peko and Robert Geathers),4.240,3.820
+1,3:05,2,9,CIN 19,7,3,Damon Huard pass complete short middle to Tony Gonzalez for 10 yards (tackle by Landon Johnson),3.820,5.140
+1,2:18,1,9,CIN 9,7,3,Damon Huard pass complete short right to Tony Gonzalez for 8 yards (tackle by Dexter Jackson),5.140,5.910
+1,1:39,2,1,CIN 1,7,3,Larry Johnson left end for -2 yards (tackle by Madieu Williams and Michael Myers),5.910,4.720
+1,0:58,3,3,CIN 3,7,9,"Damon Huard pass complete short right to Tony Gonzalez for 3 yards, touchdown",4.720,7.000
+1,,,,CIN 2,7,10,Dave Rayner kicks extra point good,0.000,0.000
+1,,,,KAN 30,7,10,"Dave Rayner kicks off 72 yards, returned by Glenn Holt for 19 yards (tackle by Jon McGraw)",0.000,-0.060
+1,0:47,1,10,CIN 17,7,10,Carson Palmer pass incomplete short left intended for T.J. Houshmandzadeh,-0.060,-0.580
+1,0:43,2,10,CIN 17,7,10,Carson Palmer sacked by Jared Allen for -7 yards,-0.580,-2.240
+1,0:02,3,17,CIN 10,7,10,"Carson Palmer pass complete short right to Kenny Watson for 5 yards (tackle by Turk McBride). Penalty on Benny Sapp: Personal Foul, 15 yards, Penalty on Benny Sapp: Defensive Holding (Declined)",-2.240,0.940
+Quarter,Time,Down,ToGo,Location,CIN,KAN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,CIN 30,7,10,Carson Palmer pass complete short right to Chad Ochocinco for 4 yards (tackle by Patrick Surtain),0.940,0.930
+2,14:25,2,6,CIN 34,7,10,Carson Palmer pass complete short middle to Reggie Kelly for 14 yards (tackle by Jarrad Page),0.930,2.130
+2,13:53,1,10,CIN 48,7,10,Rudi Johnson up the middle for 5 yards (tackle by Napoleon Harris),2.130,2.260
+2,13:08,2,5,KAN 47,7,10,"Carson Palmer sacked by Jared Allen for -8 yards. Carson Palmer fumbles (forced by Jared Allen), recovered by Ron Edwards at CIN-45 (tackle by Carson Palmer)",2.260,-2.590
+2,13:00,1,10,CIN 45,7,10,Larry Johnson up the middle for no gain (tackle by Landon Johnson and Bryan Robinson),2.590,2.040
+2,12:24,2,10,CIN 45,7,10,Damon Huard pass incomplete short left intended for Samie Parker (defended by Robert Geathers),2.040,1.360
+,,,,,,,"KAN challenged the fumble ruling, and the original play was overturned.",,
+2,12:21,3,10,CIN 45,7,10,"Penalty on Damion McIntosh: False Start, 5 yards (no play)",1.360,0.700
+2,12:21,3,15,,7,10,Damon Huard pass complete deep left to Jeff Webb for 20 yards (tackle by Leon Hall),0.700,3.580
+2,12:00,1,10,CIN 30,7,10,Larry Johnson left end for -5 yards (tackle by Madieu Williams),3.580,2.360
+2,11:14,2,15,CIN 35,7,10,Larry Johnson up the middle for 34 yards (tackle by Deltha O'Neal). Larry Johnson fumbles (forced by Deltha O'Neal),2.360,-0.280
+2,11:04,1,10,CIN 20,7,10,Carson Palmer pass complete deep right to Chad Ochocinco for 16 yards,0.280,1.330
+2,10:43,1,10,CIN 36,7,10,Rudi Johnson up the middle for -4 yards (tackle by Derrick O. Johnson),1.330,0.250
+2,10:06,2,14,CIN 32,7,10,Carson Palmer pass incomplete short left intended for Daniel Coats,0.250,-0.430
+2,10:01,3,14,CIN 32,7,10,Carson Palmer pass incomplete short left intended for Chad Ochocinco is intercepted by Patrick Surtain at CIN-46 and returned for 2 yards,-0.430,-2.650
+2,9:57,1,10,CIN 44,7,10,Larry Johnson right end for 6 yards (tackle by John Thornton),2.650,2.920
+2,9:16,2,4,CIN 38,7,10,Larry Johnson up the middle for -1 yards (tackle by Robert Geathers and Anthony Schlegel),2.920,2.080
+2,8:37,3,5,CIN 39,7,10,Damon Huard pass complete short left to Tony Gonzalez for 17 yards (tackle by Nedu Ndukwe),2.080,4.110
+2,7:51,1,10,CIN 22,7,10,Damon Huard pass complete short right to Dwayne Bowe for 10 yards (tackle by Deltha O'Neal),4.110,4.780
+2,7:10,1,10,CIN 12,7,10,Larry Johnson up the middle for 4 yards (tackle by Domata Peko),4.780,4.830
+2,6:33,2,6,CIN 8,7,16,"Larry Johnson left end for 8 yards, touchdown",4.830,7.000
+2,,,,CIN 2,7,17,Dave Rayner kicks extra point good,0.000,0.000
+2,,,,KAN 30,7,17,"Dave Rayner kicks off 69 yards, returned by Glenn Holt for 28 yards (tackle by Johnny Baldwin)",0.000,0.870
+2,6:21,1,10,CIN 29,7,17,Kenny Watson left end for 7 yards (tackle by Jimmy Wilkerson),0.870,1.270
+2,5:52,2,3,CIN 36,7,17,Kenny Watson up the middle for 2 yards (tackle by Alfonso Boone),1.270,0.830
+2,5:16,3,1,CIN 38,7,17,Kenny Watson right end for -1 yards (tackle by Donnie Edwards),0.830,-0.910
+2,5:16,4,2,CIN 37,7,17,"Kyle Larson punts 45 yards, fair catch by Eddie Drummond",-0.910,-0.040
+2,4:24,1,10,KAN 18,7,17,Larry Johnson right end for 22 yards (tackle by Herana-Daze Jones),0.040,1.600
+2,4:00,1,10,KAN 40,7,17,Michael Bennett left end for 2 yards (tackle by Robert Geathers),1.600,1.320
+2,3:22,2,8,KAN 42,7,17,"Penalty on Tony Gonzalez: False Start, 5 yards (no play)",1.320,0.650
+2,3:00,2,13,KAN 37,7,17,"Damon Huard pass complete short left to Michael Bennett for 4 yards (tackle by Michael Myers). Penalty on Casey Wiegmann: Ineligible Downfield Pass, 5 yards (no play)",0.650,-0.030
+2,2:32,2,18,KAN 32,7,17,Damon Huard pass complete short middle to Michael Bennett for -1 yards (tackle by Dhani Jones),-0.030,-0.820
+2,2:09,,,,7,17,Timeout #1 by Cincinnati Bengals,0.000,-0.820
+2,2:09,3,19,KAN 31,7,17,Damon Huard pass incomplete short left intended for Michael Bennett,-0.820,-1.310
+2,2:09,4,19,KAN 31,7,17,"Dustin Colquitt punts 56 yards, returned by Skyler Green for 2 yards (tackle by Napoleon Harris)",-1.310,0.220
+2,1:52,1,10,CIN 15,7,17,Carson Palmer pass incomplete short right intended for Kenny Watson,-0.220,-0.710
+2,1:47,2,10,CIN 15,7,17,Carson Palmer pass incomplete short right intended for Reggie Kelly,-0.710,-1.370
+2,1:44,3,10,CIN 15,7,17,Kenny Watson left end for 6 yards (tackle by Alfonso Boone),-1.370,-1.960
+2,1:39,4,4,CIN 21,7,17,"Kyle Larson punts 48 yards, returned by Eddie Drummond for 9 yards (tackle by Herana-Daze Jones)",-1.960,-1.600
+2,1:27,1,10,KAN 40,7,17,Larry Johnson right end for 1 yard (tackle by Domata Peko),1.600,1.190
+2,1:04,2,9,KAN 41,7,17,Damon Huard pass complete to Tony Gonzalez for 6 yards (tackle by Deltha O'Neal),1.190,1.290
+2,0:58,,,,7,17,Timeout #1 by Kansas City Chiefs,0.000,1.290
+2,0:58,3,3,KAN 47,7,17,Damon Huard pass complete short middle to Tony Gonzalez for 6 yards (tackle by Blue Adams),1.290,2.460
+2,0:37,1,10,CIN 47,7,17,Damon Huard pass complete deep middle to Tony Gonzalez for 20 yards (tackle by Blue Adams),2.460,3.780
+2,0:37,,,,7,17,Timeout #2 by Kansas City Chiefs,0.000,3.780
+2,0:32,1,10,CIN 27,7,17,Damon Huard pass incomplete deep left intended for Jeff Webb,3.780,3.230
+2,0:28,2,10,CIN 27,7,17,Damon Huard pass complete deep left to Jeff Webb for 16 yards,3.230,4.840
+2,0:22,1,10,CIN 11,7,17,Damon Huard pass incomplete short right intended for Dwayne Bowe,4.840,4.140
+2,0:18,2,10,CIN 11,7,17,Damon Huard pass incomplete short middle intended for Kris Wilson (defended by Madieu Williams),4.140,3.130
+2,0:13,3,10,CIN 11,7,17,Damon Huard pass complete short middle to Larry Johnson for 9 yards (tackle by Herana-Daze Jones),3.130,3.250
+2,0:05,,,,7,17,Timeout #3 by Kansas City Chiefs,0.000,3.250
+2,0:05,4,1,CIN 2,7,20,Dave Rayner 20 yard field goal good,3.250,3.000
+Quarter,Time,Down,ToGo,Location,CIN,KAN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,KAN 30,7,20,"Dave Rayner kicks off 79 yards, touchback",0.000,0.280
+3,15:00,1,10,CIN 20,7,20,Carson Palmer pass complete short middle to Glenn Holt for 7 yards (tackle by Donnie Edwards),0.280,0.680
+3,14:38,2,3,CIN 27,7,20,Rudi Johnson left tackle for 1 yard (tackle by Donnie Edwards),0.680,0.100
+3,14:00,3,2,CIN 28,7,20,Carson Palmer sacked by Ron Edwards for -2 yards,0.100,-1.630
+3,13:29,4,4,CIN 26,7,20,"Kyle Larson punts 48 yards, returned by Eddie Drummond for 4 yards (tackle by Landon Johnson)",-1.630,-0.940
+3,13:17,1,10,KAN 30,7,20,Damon Huard pass complete short left to Tony Gonzalez for 6 yards (tackle by Madieu Williams),0.940,1.200
+3,12:43,2,4,KAN 36,7,20,Larry Johnson up the middle for -2 yards (tackle by Anthony Schlegel and Dexter Jackson),1.200,0.230
+3,12:04,3,6,KAN 34,7,20,Damon Huard pass complete short right to Jeff Webb for 9 yards (tackle by Deltha O'Neal),0.230,1.800
+3,11:19,1,10,KAN 43,7,20,Larry Johnson up the middle for 3 yards (tackle by Michael Myers),1.800,1.660
+3,10:40,2,7,KAN 46,7,20,Damon Huard sacked by Blue Adams for -7 yards,1.660,0.040
+3,10:06,3,14,KAN 39,7,20,Damon Huard sacked by Madieu Williams for -3 yards,0.040,-0.980
+3,9:46,4,17,KAN 36,7,20,"Dustin Colquitt punts 48 yards, returned by Skyler Green for 6 yards (tackle by Jarrad Page)",-0.980,-0.410
+3,9:36,1,10,CIN 22,7,20,"Carson Palmer pass incomplete deep right intended for T.J. Houshmandzadeh (defended by Jarrad Page). Penalty on Ty Law: Defensive Holding, 5 yards (no play)",0.410,0.740
+3,9:28,1,10,CIN 27,7,20,Carson Palmer pass incomplete deep left intended for T.J. Houshmandzadeh,0.740,0.200
+3,9:23,2,10,CIN 27,7,20,Carson Palmer pass complete short middle to Glenn Holt for 7 yards (tackle by Benny Sapp),0.200,0.430
+3,8:39,3,3,CIN 34,7,20,Carson Palmer right end for 2 yards (tackle by Turk McBride),0.430,-0.980
+3,8:24,4,1,CIN 36,7,20,Kenny Watson up the middle for no gain (tackle by Donnie Edwards),-0.980,-3.180
+,,,,,,,"CIN challenged the first down ruling, and the play was upheld.",,
+3,8:10,1,10,CIN 36,7,20,Damon Huard pass incomplete short right intended for Dwayne Bowe,3.180,2.640
+3,8:04,2,10,CIN 36,7,20,Larry Johnson up the middle for 3 yards (tackle by Landon Johnson),2.640,2.350
+3,7:24,3,7,CIN 33,7,20,Damon Huard sacked by Nedu Ndukwe and Robert Geathers for -7 yards,2.350,0.590
+3,7:03,4,14,CIN 40,7,20,"Dustin Colquitt punts 25 yards, fair catch by Skyler Green",0.590,0.220
+3,6:57,1,10,CIN 15,7,20,Kenny Watson right tackle for 4 yards (tackle by Bernard Pollard),-0.220,-0.110
+3,6:14,2,6,CIN 19,7,20,Carson Palmer pass complete short left to T.J. Houshmandzadeh for 8 yards,-0.110,0.740
+3,6:01,1,10,CIN 27,7,20,Carson Palmer pass complete short left to Chad Ochocinco for 14 yards (tackle by Bernard Pollard),0.740,1.660
+3,5:44,1,10,CIN 41,7,20,Kenny Watson up the middle for 3 yards (tackle by Bernard Pollard),1.660,1.530
+3,5:07,2,7,CIN 44,7,20,Kenny Watson left end for 4 yards (tackle by Bernard Pollard),1.530,1.360
+3,4:27,3,3,CIN 48,7,20,Carson Palmer pass incomplete short right intended for T.J. Houshmandzadeh (defended by Tamba Hali),1.360,-0.190
+3,4:23,4,3,CIN 48,7,20,"Kyle Larson punts 43 yards, fair catch by Eddie Drummond",-0.190,0.380
+3,4:16,1,10,KAN 9,7,20,Damon Huard pass complete short left to Samie Parker for 8 yards (tackle by Leon Hall),-0.380,-0.020
+3,3:53,2,2,KAN 17,7,20,Damon Huard pass complete short right to Dwayne Bowe for 11 yards (tackle by Landon Johnson),-0.020,0.810
+3,3:11,1,10,KAN 28,7,20,Larry Johnson up the middle for 5 yards (tackle by Justin Smith),0.810,0.940
+3,2:37,2,5,KAN 33,7,20,Damon Huard pass complete short left to Dwayne Bowe for 11 yards (tackle by Leon Hall),0.940,1.860
+3,1:56,1,10,KAN 44,7,20,"Damon Huard pass complete short left to Jeff Webb for 5 yards (tackle by Dhani Jones). Jeff Webb fumbles (forced by Dhani Jones), recovered by Frostee Rucker at CIN-48 (tackle by Jeff Webb)",1.860,-2.130
+3,1:48,1,10,CIN 48,7,20,Carson Palmer pass complete short left to Kenny Watson for 4 yards (tackle by Alfonso Boone),2.130,2.120
+3,1:13,2,6,KAN 48,7,20,Kenny Watson right end for 7 yards (tackle by Donnie Edwards),2.120,2.850
+3,0:40,1,10,KAN 41,7,20,Carson Palmer pass complete short right to Reggie Kelly for 8 yards (tackle by Patrick Surtain),2.850,3.390
+3,0:08,2,2,KAN 33,7,20,Carson Palmer pass complete short right to Chad Ochocinco for 11 yards (tackle by Derrick O. Johnson),3.390,4.110
+Quarter,Time,Down,ToGo,Location,CIN,KAN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,KAN 22,7,20,Carson Palmer pass complete short right to Chad Ochocinco for 6 yards (tackle by Patrick Surtain),4.110,4.460
+4,14:41,2,4,KAN 16,7,20,Carson Palmer pass complete short left to T.J. Houshmandzadeh for 1 yard (tackle by Tyron Brackenridge),4.460,3.930
+4,14:01,3,3,KAN 15,7,20,Carson Palmer pass incomplete short right intended for Chad Ochocinco,3.930,2.540
+4,13:58,4,3,KAN 15,10,20,Shayne Graham 33 yard field goal good,2.540,3.000
+4,,,,CIN 30,10,20,"Shayne Graham kicks off 78 yards, touchback",0.000,0.280
+4,13:54,1,10,KAN 20,10,20,Larry Johnson left tackle for 2 yards (tackle by Domata Peko),0.280,0.000
+4,13:16,2,8,KAN 22,10,20,Damon Huard pass complete short left to Jeff Webb for 7 yards,0.000,0.230
+4,13:12,3,1,KAN 29,10,20,Larry Johnson right tackle for -1 yards (tackle by Anthony Schlegel),0.230,-1.500
+4,12:33,4,2,KAN 28,10,20,"Dustin Colquitt punts 52 yards, returned by Skyler Green for 6 yards (tackle by Napoleon Harris). Penalty on Blue Adams: Illegal Block Above the Waist, 10 yards",-1.500,0.140
+4,12:20,1,10,CIN 16,10,20,Carson Palmer pass incomplete short left intended for T.J. Houshmandzadeh,-0.140,-0.660
+4,12:16,2,10,CIN 16,10,20,Kenny Watson left end for 5 yards (tackle by Donnie Edwards and Greg Wesley),-0.660,-0.700
+4,11:33,3,5,CIN 21,10,20,Carson Palmer pass incomplete deep right intended for Antonio Chatman,-0.700,-1.960
+,,,,,,,"CIN challenged the pass completion ruling, and the play was upheld.",,
+4,11:27,4,5,CIN 21,10,20,"Kyle Larson punts 42 yards, returned by Eddie Drummond for 7 yards (tackle by Landon Johnson)",-1.960,-1.860
+4,11:13,1,10,KAN 44,10,20,Larry Johnson right tackle for 8 yards (tackle by Landon Johnson),1.860,2.400
+4,10:29,2,2,CIN 48,10,20,Larry Johnson up the middle for no gain (tackle by Landon Johnson),2.400,1.690
+4,9:46,3,2,CIN 48,10,20,"Damon Huard pass incomplete short left intended for Tony Gonzalez. Penalty on Madieu Williams: Defensive Pass Interference, 4 yards (no play)",1.690,2.650
+4,9:42,1,10,CIN 44,10,20,Larry Johnson up the middle for 3 yards (tackle by Anthony Schlegel),2.650,2.520
+4,8:54,,,,10,20,Timeout #1 by Kansas City Chiefs,0.000,2.520
+4,8:54,2,7,CIN 41,10,20,Damon Huard pass complete short left to Larry Johnson for 15 yards (tackle by Dexter Jackson),2.520,3.840
+4,8:09,1,10,CIN 26,10,26,"Damon Huard pass complete deep left to Tony Gonzalez for 26 yards, touchdown",3.840,7.000
+4,,,,CIN 2,10,27,Dave Rayner kicks extra point good,0.000,0.000
+4,,,,KAN 30,10,27,"Dave Rayner kicks off 66 yards, returned by Glenn Holt for 6 yards (tackle by Jeff Webb)",0.000,-0.380
+4,7:59,1,10,CIN 10,10,27,Carson Palmer pass incomplete short left intended for Antonio Chatman,-0.380,-0.780
+4,7:55,2,10,CIN 10,10,27,Carson Palmer pass complete short left to Antonio Chatman for 13 yards (tackle by Donnie Edwards),-0.780,0.480
+4,7:27,1,10,CIN 23,10,27,Carson Palmer pass complete deep right to T.J. Houshmandzadeh for 19 yards (tackle by Patrick Surtain),0.480,1.730
+4,6:51,1,10,CIN 42,10,27,Carson Palmer pass incomplete deep left intended for T.J. Houshmandzadeh,1.730,1.190
+4,6:45,2,10,CIN 42,10,27,"Carson Palmer pass incomplete short right intended for Kenny Watson. Penalty on Turk McBride: Defensive Holding, 5 yards (no play)",1.190,2.060
+4,6:41,1,10,CIN 47,10,27,Carson Palmer pass complete short right to Antonio Chatman for 6 yards (tackle by Patrick Surtain),2.060,2.330
+4,6:14,2,4,KAN 47,10,27,"Penalty on Turk McBride: Defensive Offside, 5 yards (no play)",2.330,2.790
+4,6:07,1,10,KAN 42,10,27,Kenny Watson left end for 7 yards (tackle by Greg Wesley),2.790,3.190
+4,5:41,2,3,KAN 35,10,27,Carson Palmer pass complete short left to Chad Ochocinco for 5 yards (tackle by Ty Law),3.190,3.580
+4,5:09,1,10,KAN 30,16,27,"Carson Palmer pass complete deep right to T.J. Houshmandzadeh for 30 yards, touchdown",3.580,7.000
+4,,,,KAN 2,17,27,Shayne Graham kicks extra point good,0.000,0.000
+4,,,,CIN 30,17,27,"Shayne Graham kicks off 75 yards, touchback",0.000,0.280
+4,5:02,1,10,KAN 20,17,27,Larry Johnson left end for -2 yards (tackle by Dhani Jones),0.280,-0.630
+4,4:19,2,12,KAN 18,17,27,Larry Johnson right end for -2 yards (tackle by Madieu Williams),-0.630,-1.690
+4,3:52,,,,17,27,Timeout #3 by Cincinnati Bengals,0.000,-1.690
+4,4:14,3,14,KAN 16,17,27,"Larry Johnson left end for -6 yards (tackle by Blue Adams). Penalty on Larry Johnson: Delay of Game, 5 yards",-1.690,-2.490
+4,3:55,4,25,KAN 5,17,27,"Dustin Colquitt punts 49 yards, returned by Skyler Green for -2 yards (tackle by Eddie Drummond). Penalty on Jeremi Johnson: Illegal Block Above the Waist, 10 yards",-2.490,-1.200
+4,3:48,1,10,CIN 34,17,27,Carson Palmer pass complete short left to Kenny Watson for 5 yards,1.200,1.330
+4,3:39,2,5,CIN 39,17,27,Carson Palmer pass incomplete short middle intended for T.J. Houshmandzadeh,1.330,0.630
+4,3:38,3,5,CIN 39,17,27,Carson Palmer pass complete short right to T.J. Houshmandzadeh for 20 yards,0.630,2.850
+4,3:29,1,10,KAN 41,17,27,"Penalty on Stacy Andrews: False Start, 5 yards (no play)",2.850,2.520
+4,3:30,1,15,KAN 46,17,27,Carson Palmer pass incomplete deep middle intended for Chad Ochocinco is intercepted by Bernard Pollard at KAN-25 and returned for 21 yards (tackle by Kenny Watson),2.520,-1.990
+4,3:18,1,10,KAN 46,17,27,Larry Johnson right end for -1 yards (tackle by Anthony Schlegel). Penalty on Chris Terry: Offensive Holding (Declined),1.990,1.320
+4,3:15,2,11,KAN 45,17,27,Larry Johnson up the middle for 1 yard (tackle by Landon Johnson),1.320,0.760
+4,2:30,3,10,KAN 46,17,27,Larry Johnson left end for 2 yards (tackle by Anthony Schlegel),0.760,-0.190
+4,2:00,4,8,KAN 48,17,27,"Penalty on Napoleon Harris: False Start, 5 yards (no play)",-0.190,-0.520
+4,2:00,4,13,KAN 43,17,27,"Dustin Colquitt punts 43 yards, fair catch by Skyler Green. Penalty on Dhani Jones: Running Into the Kicker (Declined)",-0.520,0.280
+4,1:53,1,10,CIN 14,17,27,Carson Palmer pass complete deep middle to Reggie Kelly for 23 yards (tackle by Greg Wesley),-0.280,1.400
+4,1:31,1,10,CIN 37,17,27,Carson Palmer pass complete short middle to T.J. Houshmandzadeh for 12 yards (tackle by Donnie Edwards),1.400,2.190
+4,1:10,1,10,CIN 49,17,27,Carson Palmer pass complete deep middle to Chad Ochocinco for 20 yards (tackle by Greg Wesley),2.190,3.510
+4,0:45,1,10,KAN 31,17,27,Carson Palmer pass complete short right to T.J. Houshmandzadeh for 13 yards (tackle by Benny Sapp),3.510,4.370
+4,0:45,1,10,KAN 18,17,27,Carson Palmer spiked the ball,4.370,3.800
+4,0:28,2,10,KAN 18,17,27,Carson Palmer pass incomplete deep right intended for Glenn Holt,3.800,3.050
+4,0:22,,,,17,27,Timeout #2 by Kansas City Chiefs,0.000,3.050
+4,0:20,3,10,KAN 18,20,27,Shayne Graham 36 yard field goal good,3.050,3.000
+4,,,,CIN 30,20,27,"Kyle Larson kicks onside 8 yards, recovered by Jarrad Page",0.000,3.050
+4,0:18,1,10,CIN 38,20,27,Damon Huard kneels for -1 yards,3.050,2.370
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

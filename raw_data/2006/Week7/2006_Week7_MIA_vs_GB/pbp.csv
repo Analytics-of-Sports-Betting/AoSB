@@ -1,0 +1,214 @@
+Quarter,Time,Down,ToGo,Location,GNB,MIA,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Packers won the coin toss, Packers to receive the opening kickoff.",,
+1,15:00,,,MIA 30,0,0,"Olindo Mare kicks off 72 yards, returned by Vernand Morency for 30 yards (tackle by Derrick Pope)",0.000,0.810
+1,14:54,1,10,GNB 28,0,0,"Brett Favre pass incomplete short left intended for Donald Driver. Penalty on Donald Driver: Offensive Pass Interfere, 10 yards (no play)",0.810,-0.040
+1,14:48,1,20,GNB 18,0,0,Ahman Green middle for 2 yards (tackle by Channing Crowder),-0.040,-0.820
+1,14:12,2,18,GNB 20,0,0,Ahman Green left end for 4 yards (tackle by Andre' Goodman and Channing Crowder),-0.820,-0.960
+1,13:50,3,14,GNB 24,0,0,Noah Herron middle for 5 yards (tackle by Channing Crowder),-0.960,-1.440
+1,13:16,4,9,GNB 29,0,0,Jon Ryan punts 33 yards,-1.440,-1.470
+1,13:07,1,10,MIA 38,0,0,Joey Harrington pass complete short left to Randy McMichael for 19 yards (tackle by Marquand Manuel and Corey Williams),1.470,2.720
+1,12:36,1,10,GNB 43,0,0,Joey Harrington pass incomplete deep left intended for Chris Chambers,2.720,2.180
+1,12:29,2,10,GNB 43,0,0,Ronnie Brown right guard for no gain (tackle by Ryan Pickett and A.J. Hawk),2.180,1.490
+1,11:49,3,10,GNB 43,0,0,Joey Harrington sacked by Charles Woodson for -9 yards,1.490,-0.190
+1,11:23,4,19,MIA 48,0,0,"Donnie Jones punts 42 yards, returned by Charles Woodson for 4 yards (tackle by Travis Minor)",-0.190,0.280
+1,11:11,1,10,GNB 14,0,0,Brett Favre pass complete short middle to Donald Driver for 7 yards (tackle by Renaldo Hill),-0.280,0.280
+1,10:31,2,3,GNB 21,0,0,Brett Favre pass complete short right to Donald Driver for 5 yards (tackle by Will Allen and Travares Tillman),0.280,0.670
+1,9:53,1,10,GNB 26,0,0,Ahman Green left guard for 1 yard (tackle by Jason Taylor and Jeff Zgonina),0.670,0.270
+1,9:13,2,9,GNB 27,0,0,"Penalty on Brandon Miree: False Start, 5 yards (no play)",0.270,-0.410
+1,8:49,2,14,GNB 22,0,0,Brett Favre pass complete short middle to Brandon Miree for 4 yards (tackle by Zach Thomas),-0.410,-0.560
+1,8:05,3,10,GNB 26,0,0,"Brett Favre sacked by Jason Taylor for -12 yards. Brett Favre fumbles (forced by Jason Taylor), recovered by David Bowens at GNB-12 and returned for 4 yards (tackle by Jason Spitz)",-0.560,-5.370
+1,7:56,1,8,GNB 8,0,6,"Joey Harrington pass complete short middle to Marty Booker for 8 yards, touchdown",5.370,7.000
+1,,,,GNB 2,0,7,Olindo Mare kicks extra point good,0.000,0.000
+1,,,,MIA 30,0,7,"Olindo Mare kicks off 77 yards, touchback",0.000,0.280
+1,7:51,1,10,GNB 20,0,7,Brett Favre pass incomplete (defended by Dan Wilkinson). Penalty on Brett Favre: Illegal Forward Pass (Declined),0.280,-0.270
+1,7:44,2,10,GNB 20,0,7,"Ahman Green right tackle for 1 yard (tackle by Kevin Carter). Penalty on Dan Wilkinson: Defensive Holding, 5 yards",-0.270,0.670
+1,7:17,1,10,GNB 26,0,7,Brett Favre pass incomplete short right intended for Bubba Franks,0.670,0.130
+1,7:12,2,10,GNB 26,0,7,Ahman Green right guard for 7 yards (tackle by Kevin Carter),0.130,0.370
+1,6:37,3,3,GNB 33,0,7,Brett Favre pass complete short left to Donald Driver for 7 yards (tackle by Renaldo Hill),0.370,1.600
+1,6:10,1,10,GNB 40,0,7,Brett Favre pass incomplete short middle intended for Greg Jennings,1.600,1.050
+1,6:05,2,10,GNB 40,0,7,"Brett Favre pass incomplete deep right intended for Donald Driver. Penalty on Will Allen: Defensive Holding, 5 yards (no play)",1.050,1.930
+1,6:01,1,10,GNB 45,0,7,Ahman Green left end for no gain (tackle by Vonnie Holliday),1.930,1.380
+1,5:28,2,10,GNB 45,0,7,"Brett Favre sacked by Jason Taylor for -5 yards. Brett Favre fumbles (forced by Jason Taylor), recovered by Jason Spitz at GNB-44",1.380,0.560
+1,4:43,3,11,GNB 44,0,7,Brett Favre pass incomplete short middle intended for Ruvell Martin,0.560,-0.460
+1,4:38,4,11,GNB 44,0,7,"Jon Ryan punts 56 yards, touchback",-0.460,-0.280
+1,4:30,1,10,MIA 20,0,7,Ronnie Brown right end for 5 yards (tackle by A.J. Hawk and Kabeer Gbaja-Biamila),0.280,0.410
+1,3:50,2,5,MIA 25,0,7,"Joey Harrington pass incomplete short right intended for Marty Booker. Penalty on Charles Woodson: Defensive Pass Interfere, 10 yards (no play)",0.410,1.270
+1,3:45,1,10,MIA 35,0,7,Joey Harrington pass incomplete deep left intended for Chris Chambers,1.270,0.720
+1,3:38,2,10,MIA 35,0,7,Ronnie Brown left guard for 2 yards (tackle by Marquand Manuel and Nick Barnett),0.720,0.300
+1,2:57,3,8,MIA 37,0,7,Joey Harrington pass complete short left to Derek Hagan for 11 yards (tackle by A.J. Hawk),0.300,2.130
+1,2:19,1,10,MIA 48,0,7,Joey Harrington pass complete short left to Wes Welker for 5 yards (tackle by Patrick Dendy),2.130,2.260
+1,1:47,2,5,GNB 47,0,7,Joey Harrington pass incomplete short middle intended for Darian Barnes,2.260,1.550
+1,1:42,3,5,GNB 47,0,7,Joey Harrington pass complete short middle to Wes Welker for 8 yards (tackle by A.J. Hawk),1.550,2.980
+1,1:02,1,10,GNB 39,0,7,Joey Harrington pass incomplete short middle intended for Marty Booker is intercepted by Brady Poppinga at GNB-25 and returned for 21 yards,2.980,-1.990
+1,0:52,1,10,GNB 46,0,7,Ahman Green right guard for 1 yard (tackle by Zach Thomas and Vonnie Holliday),1.990,1.590
+1,0:10,2,9,GNB 47,0,7,Ahman Green middle for 1 yard (tackle by Kevin Carter),1.590,1.030
+Quarter,Time,Down,ToGo,Location,GNB,MIA,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,8,GNB 48,0,7,Brett Favre pass complete short middle to David Martin for 18 yards (tackle by Yeremiah Bell),1.030,3.310
+2,14:25,1,10,MIA 34,0,7,Brett Favre pass complete short right to Donald Driver for 9 yards (tackle by Travares Tillman),3.310,3.990
+2,14:07,2,1,MIA 25,0,7,Ahman Green right end for 3 yards (tackle by Zach Thomas and Jeff Zgonina),3.990,4.110
+2,13:31,1,10,MIA 22,0,7,Vernand Morency middle for 3 yards (tackle by Matt Roth),4.110,3.970
+2,13:01,2,7,MIA 19,0,7,Noah Herron middle for no gain (tackle by Matt Roth and Donnie Spragan),3.970,3.260
+2,12:37,3,7,MIA 19,0,7,"Penalty on GNB: Illegal Substitution, 5 yards (no play)",3.260,2.610
+2,12:19,3,12,MIA 24,0,7,Brett Favre pass incomplete deep left intended for Greg Jennings,2.610,1.870
+2,12:12,4,12,MIA 24,3,7,Dave Rayner 42 yard field goal good,1.870,3.000
+2,,,,GNB 30,3,7,"Dave Rayner kicks off 67 yards, returned by Wes Welker for 17 yards (tackle by Vernand Morency)",0.000,0.280
+2,12:02,1,10,MIA 20,3,7,Ronnie Brown left tackle for 3 yards (tackle by Ryan Pickett),0.280,0.140
+2,11:31,2,7,MIA 23,3,7,Joey Harrington pass incomplete short middle intended for Randy McMichael is intercepted by Nick Barnett at MIA-33 and returned for 3 yards,0.140,-3.580
+2,11:22,1,10,MIA 30,3,7,Brett Favre pass complete short right to Brandon Miree for 9 yards (tackle by Andre' Goodman and Donnie Spragan),3.580,4.250
+2,10:51,2,1,MIA 21,3,7,Ahman Green left tackle for 5 yards (tackle by Jason Taylor),4.250,4.510
+2,10:13,1,10,MIA 16,3,7,Brett Favre pass incomplete deep middle intended for Bubba Franks,4.510,3.900
+2,10:05,2,10,MIA 16,3,7,Brett Favre pass incomplete short right intended for Greg Jennings (defended by Will Allen),3.900,3.080
+2,10:02,3,10,MIA 16,3,7,Brett Favre pass incomplete deep right intended for Donald Driver (defended by Yeremiah Bell),3.080,2.380
+2,9:54,4,10,MIA 16,6,7,Dave Rayner 34 yard field goal good,2.380,3.000
+2,,,,GNB 30,6,7,"Dave Rayner kicks off 79 yards, touchback",0.000,0.280
+2,9:50,1,10,MIA 20,6,7,Ronnie Brown middle for -2 yards (tackle by Nick Collins),0.280,-0.630
+2,9:18,2,12,MIA 18,6,7,Joey Harrington pass complete short middle to Wes Welker for 11 yards (tackle by A.J. Hawk),-0.630,0.230
+2,8:35,3,1,MIA 29,6,7,Ronnie Brown right tackle for 1 yard (tackle by Aaron Kampman),0.230,0.940
+2,7:56,1,10,MIA 30,6,7,Joey Harrington pass incomplete short right intended for Randy McMichael,0.940,0.390
+2,7:52,2,10,MIA 30,6,7,Ronnie Brown middle for 2 yards (tackle by Johnny Jolly),0.390,-0.030
+2,7:16,3,8,MIA 32,6,7,Joey Harrington pass incomplete short right intended for Chris Chambers,-0.030,-1.240
+2,7:10,4,8,MIA 32,6,7,"Donnie Jones punts 45 yards, returned by Charles Woodson for 9 yards (tackle by Eddie Jackson)",-1.240,-1.070
+2,6:57,1,10,GNB 32,6,7,Brett Favre pass incomplete short right intended for Donald Driver,1.070,0.530
+2,6:53,2,10,GNB 32,6,7,Brett Favre pass complete short right to Donald Driver for 9 yards (tackle by Renaldo Hill),0.530,1.030
+2,6:17,3,1,GNB 41,6,7,Ahman Green middle for no gain (tackle by Keith Traylor),1.030,-0.650
+2,5:41,4,1,GNB 41,6,7,"Jon Ryan punts 43 yards, fair catch by Wes Welker",-0.650,0.140
+2,5:32,1,10,MIA 16,6,7,Ronnie Brown right end for 15 yards (tackle by Nick Barnett),-0.140,1.000
+2,4:50,1,10,MIA 31,6,7,Ronnie Brown middle for 1 yard (tackle by Ryan Pickett),1.000,0.600
+2,4:15,2,9,MIA 32,6,7,Joey Harrington pass incomplete short left intended for Sammy Morris (defended by Nick Barnett),0.600,-0.100
+2,4:09,3,9,MIA 32,6,7,Joey Harrington pass complete deep left to Marty Booker for 40 yards (tackle by Nick Collins),-0.100,3.710
+2,3:26,1,10,GNB 28,6,7,Ronnie Brown right end for 8 yards (tackle by Al Harris),3.710,4.250
+2,2:58,2,2,GNB 20,6,7,Ronnie Brown middle for 2 yards (tackle by Colin Cole),4.250,4.370
+2,2:27,1,10,GNB 18,6,7,Joey Harrington pass incomplete deep middle intended for Randy McMichael,4.370,3.800
+2,2:21,2,10,GNB 18,6,7,Joey Harrington pass complete short left to Ronnie Brown for 8 yards (tackle by Nick Barnett and Nick Collins),3.800,4.510
+2,2:00,3,2,GNB 10,6,7,Joey Harrington sacked by A.J. Hawk for -4 yards,4.510,2.530
+2,1:07,,,,6,7,Timeout #1 by Miami Dolphins,0.000,2.530
+2,1:07,4,6,GNB 14,6,10,Olindo Mare 32 yard field goal good,2.530,3.000
+2,,,,MIA 30,6,10,"Olindo Mare kicks off 65 yards, returned by Vernand Morency for 20 yards (tackle by Jim Maxwell)",0.000,0.610
+2,0:58,1,10,GNB 25,6,10,Ahman Green left tackle for 5 yards (tackle by Zach Thomas),0.610,0.740
+2,0:34,2,5,GNB 30,6,10,Brett Favre pass complete deep middle to Bubba Franks for 18 yards (tackle by Jason Allen),0.740,2.130
+2,0:25,1,10,GNB 48,6,10,Brett Favre pass incomplete deep middle intended for Donald Driver (defended by Travares Tillman),2.130,1.580
+2,0:19,2,10,GNB 48,6,10,Brett Favre pass incomplete short middle intended for David Martin,1.580,0.890
+2,0:14,3,10,GNB 48,6,10,"Penalty on Scott Wells: False Start, 5 yards (no play)",0.890,0.230
+2,0:14,3,15,GNB 43,6,10,Brett Favre pass complete short middle to Greg Jennings for 14 yards (tackle by Jason Allen),0.230,0.400
+2,0:08,,,,6,10,Timeout #1 by Green Bay Packers,0.000,0.400
+2,0:08,4,1,MIA 43,6,10,Brett Favre pass complete short middle to Ruvell Martin for 6 yards,0.400,3.120
+,,,,,,,"Replay Assistant challenged the ruling, and the play was upheld.",,
+2,0:04,,,,6,10,Timeout #2 by Miami Dolphins,0.000,3.120
+2,0:04,1,10,MIA 37,6,10,"Penalty on Zach Thomas: Unsportsmanlike Conduct, 15 yards (no play)",3.120,4.110
+2,0:04,1,10,MIA 22,6,10,"Dave Rayner 40 yard field goal good. Penalty on Mike Montgomery: Face Mask (15 Yards), 15 yards (no play)",4.110,0.870
+Quarter,Time,Down,ToGo,Location,GNB,MIA,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,GNB 30,6,10,"Dave Rayner kicks off 58 yards, returned by Wes Welker for 8 yards (tackle by Tracy White)",0.000,0.280
+3,14:56,1,10,MIA 20,6,10,Ronnie Brown middle for 3 yards (tackle by Brady Poppinga and Ryan Pickett),0.280,0.140
+3,14:19,2,7,MIA 23,12,10,"Joey Harrington pass incomplete short left intended for Randy McMichael is intercepted by Charles Woodson at MIA-23 and returned for 23 yards, touchdown",0.140,-7.000
+3,,,,MIA 2,13,10,Dave Rayner kicks extra point good,0.000,0.000
+3,,,,GNB 30,13,10,"Dave Rayner kicks off 69 yards, returned by Wes Welker for 19 yards (tackle by Tyrone Culver)",0.000,0.280
+3,14:04,1,10,MIA 20,13,10,Joey Harrington pass incomplete deep right intended for Marty Booker,0.280,-0.270
+3,13:59,2,10,MIA 20,13,10,Ronnie Brown right guard for 5 yards (tackle by Aaron Kampman and Nick Barnett),-0.270,-0.300
+3,13:17,3,5,MIA 25,13,10,Joey Harrington pass complete short left to Randy McMichael for 8 yards (tackle by A.J. Hawk),-0.300,1.140
+3,12:40,1,10,MIA 33,13,10,Joey Harrington pass incomplete deep right intended for Chris Chambers,1.140,0.590
+3,12:33,2,10,MIA 33,13,10,Joey Harrington pass complete short right to Randy McMichael for 6 yards (tackle by Nick Barnett),0.590,0.700
+3,11:55,3,4,MIA 39,13,10,Joey Harrington pass incomplete short left intended for Sammy Morris (defended by Nick Barnett),0.700,-0.780
+3,11:47,4,4,MIA 39,13,10,"Donnie Jones punts 36 yards, returned by Charles Woodson for 11 yards (tackle by John Denney)",-0.780,-1.330
+3,11:37,1,10,GNB 36,13,10,"Penalty on Jason Spitz: False Start, 5 yards (no play)",1.330,1.000
+3,11:37,1,15,GNB 31,13,10,Vernand Morency middle for 2 yards (tackle by Channing Crowder and Zach Thomas),1.000,0.390
+3,10:58,2,13,GNB 33,13,10,"Brett Favre pass incomplete short left intended for Bubba Franks (defended by Will Allen). Penalty on Will Allen: Taunting, 15 yards",0.390,2.130
+3,10:51,1,10,GNB 48,13,10,Brett Favre right end for 14 yards (tackle by Donnie Spragan),2.130,3.050
+3,10:09,1,10,MIA 38,13,10,Vernand Morency right end for 1 yard (tackle by Travares Tillman),3.050,2.640
+3,9:35,2,9,MIA 37,13,10,Brett Favre pass complete short right to Donald Driver for 3 yards (tackle by Channing Crowder),2.640,2.340
+3,8:59,3,6,MIA 34,19,10,"Brett Favre pass complete deep left to Donald Driver for 34 yards, touchdown",2.340,7.000
+,,,,,,,"GNB challenged the ruling, and the original play was overturned.",,
+3,,,,MIA 2,20,10,Dave Rayner kicks extra point good,0.000,0.000
+3,,,,GNB 30,20,10,"Dave Rayner kicks off 64 yards, returned by Wes Welker for 33 yards (tackle by Tory Humphrey)",0.000,1.530
+3,8:43,1,10,MIA 39,20,10,Joey Harrington pass complete short left to Wes Welker for 1 yard (tackle by Ryan Pickett),1.530,1.120
+3,8:13,2,9,MIA 40,20,10,Joey Harrington pass complete short left to Marty Booker for 16 yards (tackle by Patrick Dendy),1.120,2.650
+3,7:40,1,10,GNB 44,20,10,Joey Harrington pass complete short right to Ronnie Brown for 17 yards (tackle by Nick Collins and Nick Barnett),2.650,3.780
+3,7:23,1,10,GNB 27,20,10,Sammy Morris middle for 5 yards (tackle by Nick Barnett),3.780,3.910
+3,6:44,2,5,GNB 22,20,10,Joey Harrington pass incomplete deep left intended for Chris Chambers,3.910,3.200
+3,6:39,3,5,GNB 22,20,10,Joey Harrington pass incomplete short left intended for Marty Booker,3.200,2.040
+3,6:34,4,5,GNB 22,20,13,Olindo Mare 40 yard field goal good,2.040,3.000
+3,,,,MIA 30,20,13,"Olindo Mare kicks off 70 yards, touchback",0.000,0.280
+3,6:30,1,10,GNB 20,20,13,Brett Favre pass incomplete short middle intended for Donald Lee,0.280,-0.270
+3,6:25,2,10,GNB 20,20,13,Vernand Morency left tackle for 3 yards (tackle by Channing Crowder),-0.270,-0.560
+3,5:46,3,7,GNB 23,20,13,Brett Favre pass incomplete deep left intended for Ruvell Martin (defended by Andre' Goodman),-0.560,-1.830
+3,5:39,4,7,GNB 23,20,13,"Jon Ryan punts 39 yards, returned by Wes Welker for 8 yards (tackle by Noah Herron)",-1.830,-1.990
+3,5:30,1,10,MIA 46,20,13,Ronnie Brown left guard for 9 yards (tackle by Nick Barnett),1.990,2.670
+3,5:00,2,1,GNB 45,20,13,Joey Harrington pass complete short middle to Marty Booker for 3 yards (tackle by Nick Collins),2.670,2.790
+3,4:29,1,10,GNB 42,20,13,Joey Harrington pass incomplete deep right intended for Chris Chambers,2.790,2.240
+3,4:24,2,10,GNB 42,20,13,Joey Harrington pass incomplete short left intended for Wes Welker,2.240,1.550
+3,4:19,3,10,GNB 42,20,13,Joey Harrington pass incomplete short right intended for Derek Hagan,1.550,0.460
+3,4:13,4,10,GNB 42,20,13,Donnie Jones punts 35 yards,0.460,0.380
+3,4:05,1,10,GNB 7,20,13,Ahman Green left tackle for 6 yards (tackle by Matt Roth),-0.380,-0.340
+3,3:30,2,4,GNB 13,20,13,Ahman Green middle for 2 yards (tackle by Jeff Zgonina),-0.340,-0.480
+3,2:46,3,2,GNB 15,20,13,Brett Favre pass incomplete short middle intended for Brandon Miree (defended by Renaldo Hill),-0.480,-2.440
+3,2:41,4,2,GNB 15,20,13,"Jon Ryan punts 52 yards, returned by Wes Welker for 9 yards (tackle by Rob Davis). Penalty on David Bowens: Illegal Block Above the , 10 yards",-2.440,-1.070
+3,2:29,1,10,MIA 32,20,13,Joey Harrington pass complete short middle to Randy McMichael for 13 yards (tackle by Nick Collins),1.070,1.930
+3,2:01,1,10,MIA 45,20,13,Joey Harrington pass complete short middle to Randy McMichael for 7 yards (tackle by A.J. Hawk),1.930,2.330
+3,1:25,2,3,GNB 48,20,13,"Joey Harrington pass incomplete deep middle intended for Wes Welker (defended by A.J. Hawk). Penalty on A.J. Hawk: Illegal Contact, 4 yards (no play)",2.330,2.650
+3,1:19,1,10,GNB 44,20,13,Ronnie Brown middle for 5 yards (tackle by A.J. Hawk),2.650,2.780
+3,0:52,2,5,GNB 39,20,13,Joey Harrington pass incomplete deep left intended for Marty Booker,2.780,2.080
+3,0:46,3,5,GNB 39,20,13,Joey Harrington pass complete short right to Derek Hagan for 6 yards (tackle by Nick Collins),2.080,3.380
+3,0:05,1,10,GNB 33,20,13,"Joey Harrington middle for 18 yards (tackle by A.J. Hawk). Penalty on Jeno James: Offensive Holding, 10 yards (no play)",3.380,2.720
+Quarter,Time,Down,ToGo,Location,GNB,MIA,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,20,GNB 43,20,13,Joey Harrington pass incomplete short right intended for Marty Booker,2.720,1.490
+4,14:55,2,20,GNB 43,20,13,Joey Harrington pass complete short left to Derek Hagan for 6 yards (tackle by Charles Woodson),1.490,1.620
+4,14:32,3,14,GNB 37,20,13,Joey Harrington pass complete short right to Marty Booker for 10 yards (tackle by Charles Woodson),1.620,1.750
+4,13:33,4,4,GNB 27,20,16,Olindo Mare 45 yard field goal good,1.750,3.000
+4,,,,MIA 30,20,16,"Olindo Mare kicks off 60 yards, returned by Vernand Morency for 20 yards (tackle by Jim Maxwell)",0.000,0.940
+4,13:26,1,10,GNB 30,26,16,"Ahman Green left tackle for 70 yards, touchdown",0.940,7.000
+4,,,,MIA 2,27,16,Dave Rayner kicks extra point good,0.000,0.000
+4,,,,GNB 30,27,16,"Dave Rayner kicks off 76 yards, touchback",0.000,0.280
+4,13:14,1,10,MIA 20,27,16,Joey Harrington pass complete short left to Chris Chambers for 23 yards (tackle by Marquand Manuel),0.280,1.800
+4,12:58,1,10,MIA 43,27,16,Joey Harrington pass incomplete short right intended for Wes Welker (defended by A.J. Hawk),1.800,1.250
+4,12:50,2,10,MIA 43,27,16,Joey Harrington pass incomplete deep middle intended for Randy McMichael,1.250,0.560
+4,12:44,3,10,MIA 43,27,16,"Joey Harrington pass complete short left to Sammy Morris for 44 yards (tackle by Charles Woodson). Sammy Morris fumbles (forced by Charles Woodson), ball out of bounds at GNB-8",0.560,4.710
+4,12:02,1,10,GNB 13,27,22,"Joey Harrington pass complete short middle to Derek Hagan for 13 yards, touchdown",4.710,7.000
+4,,,,,27,24,"Two Point Attempt: Joey Harrington pass complete to Marty Booker, conversion succeeds. Penalty on Aaron Kampman: Roughing the Passer, 15 yards",1.000,1.000
+4,,,,MIA 45,27,24,"Olindo Mare kicks off 55 yards, touchback",0.000,0.280
+4,11:56,1,10,GNB 20,27,24,Ahman Green left tackle for 8 yards (tackle by Jason Taylor and Channing Crowder),0.280,0.810
+4,11:17,2,2,GNB 28,27,24,Brett Favre pass complete short left to Donald Driver for 4 yards (tackle by Travares Tillman),0.810,1.070
+4,10:45,1,10,GNB 32,27,24,Brett Favre pass complete short left to Ruvell Martin for 19 yards (tackle by Travares Tillman),1.070,2.320
+4,10:26,1,10,MIA 49,27,24,Vernand Morency left end for 1 yard (tackle by Channing Crowder),2.320,1.920
+4,9:41,2,9,MIA 48,27,24,Brett Favre pass incomplete deep middle intended for David Martin,1.920,1.220
+4,9:36,3,9,MIA 48,27,24,Brett Favre pass complete short middle to Donald Driver for 8 yards (tackle by Renaldo Hill),1.220,0.590
+4,8:53,4,1,MIA 40,27,24,Donald Driver left end for 6 yards (tackle by Channing Crowder),0.590,3.310
+4,8:21,1,10,MIA 34,27,24,Vernand Morency left guard for 2 yards (tackle by Donnie Spragan),3.310,3.040
+4,7:39,2,8,MIA 32,27,24,Brett Favre pass complete short middle to Donald Driver for 7 yards (tackle by Will Allen),3.040,3.270
+4,6:55,3,1,MIA 25,27,24,Brett Favre pass complete short middle to Chris Francies for 12 yards (tackle by Travares Tillman and Zach Thomas),3.270,4.710
+4,6:17,1,10,MIA 13,33,24,"Brett Favre pass complete short middle to David Martin for 13 yards, touchdown",4.710,7.000
+4,,,,MIA 2,34,24,Dave Rayner kicks extra point good,0.000,0.000
+4,,,,GNB 30,34,24,"Dave Rayner kicks off 75 yards, touchback",0.000,0.280
+4,6:11,1,10,MIA 20,34,24,Joey Harrington pass complete short middle to Ronnie Brown for 7 yards (tackle by Nick Barnett and Corey Williams),0.280,0.680
+4,5:43,2,3,MIA 27,34,24,Joey Harrington pass incomplete short middle intended for Derek Hagan (defended by Patrick Dendy),0.680,-0.030
+4,5:40,3,3,MIA 27,34,24,Joey Harrington pass incomplete short left intended for Marty Booker (defended by Charles Woodson),-0.030,-1.570
+4,5:32,4,3,MIA 27,34,24,Joey Harrington pass complete short left to Wes Welker for 6 yards (tackle by Al Harris),-1.570,1.140
+4,5:05,1,10,MIA 33,34,24,Joey Harrington pass incomplete intended for Justin Peelle,1.140,0.590
+4,5:01,2,10,MIA 33,34,24,Joey Harrington sacked by Mike Montgomery for -11 yards,0.590,-1.550
+4,4:32,3,21,MIA 22,34,24,Joey Harrington pass complete short middle to Marty Booker for 15 yards (tackle by A.J. Hawk),-1.550,-0.910
+4,3:45,4,6,MIA 37,34,24,Joey Harrington pass complete short middle to Randy McMichael for 9 yards (tackle by A.J. Hawk),-0.910,1.990
+4,3:11,1,10,MIA 46,34,24,Joey Harrington pass complete deep left to Derek Hagan for 17 yards,1.990,3.120
+4,3:06,1,10,GNB 37,34,24,"Penalty on Rex Hadnot: False Start, 5 yards (no play)",3.120,2.790
+4,3:06,1,15,GNB 42,34,24,Joey Harrington pass complete short left to Wes Welker for 7 yards (tackle by Charles Woodson),2.790,2.840
+4,2:41,2,8,GNB 35,34,24,Joey Harrington pass complete short middle to Chris Chambers for 6 yards (tackle by Al Harris),2.840,2.940
+4,2:16,3,2,GNB 29,34,24,Joey Harrington pass incomplete short left intended for Derek Hagan,2.940,1.600
+4,2:10,4,2,GNB 29,34,24,"Penalty on Olindo Mare: Delay of Game, 5 yards (no play)",1.600,1.060
+4,2:09,4,7,GNB 34,34,24,Olindo Mare 52 yard field goal no good,1.060,-1.800
+4,2:06,1,10,GNB 43,34,24,Vernand Morency middle for no gain (tackle by Channing Crowder),1.800,1.250
+4,2:01,,,,34,24,Timeout #1 by Miami Dolphins,0.000,1.250
+4,2:01,2,10,GNB 43,34,24,Ahman Green left tackle for no gain (tackle by Keith Traylor),1.250,0.560
+4,1:57,3,10,GNB 43,34,24,Ahman Green right guard for 2 yards (tackle by Channing Crowder and Zach Thomas),0.560,-0.390
+4,1:52,,,,34,24,Timeout #2 by Miami Dolphins,0.000,-0.390
+4,1:52,4,8,GNB 45,34,24,"Jon Ryan punts 39 yards, returned by Wes Welker for 6 yards (tackle by Rob Davis)",-0.390,-0.410
+4,1:41,1,10,MIA 22,34,24,Joey Harrington pass complete short middle to Randy McMichael for 15 yards (tackle by Nick Collins),0.410,1.400
+4,1:23,1,10,MIA 37,34,24,Joey Harrington pass complete short middle to Ronnie Brown for 18 yards (tackle by A.J. Hawk and Charles Woodson),1.400,2.590
+4,0:53,1,10,GNB 45,34,24,Joey Harrington pass complete short middle to Ronnie Brown for 13 yards (tackle by Marquand Manuel),2.590,3.450
+4,0:46,1,10,GNB 32,34,24,"Joey Harrington sacked by Aaron Kampman for -9 yards. Joey Harrington fumbles (forced by Aaron Kampman), recovered by Vernon Carey at GNB-41",3.450,1.690
+4,0:39,2,19,GNB 41,34,24,Joey Harrington pass incomplete deep left intended for Wes Welker (defended by Charles Woodson),1.690,1.030
+4,0:34,3,19,GNB 41,34,24,Joey Harrington pass complete deep middle to Marty Booker for 18 yards (tackle by Marquand Manuel),1.030,2.080
+4,0:17,4,1,GNB 23,34,24,Joey Harrington middle for 3 yards (tackle by Corey Williams),2.080,4.240
+4,0:09,1,10,GNB 20,34,24,Joey Harrington spiked the ball,4.240,3.690
+4,0:04,2,10,GNB 20,34,24,Joey Harrington pass incomplete deep right intended for Chris Chambers,3.690,3.010
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

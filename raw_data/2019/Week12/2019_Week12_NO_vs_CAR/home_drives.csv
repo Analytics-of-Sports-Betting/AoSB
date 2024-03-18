@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,NOR 25,7,4:21,75,Touchdown
+2,1,9:03,NOR 23,3,2:21,-1,Punt
+3,1,6:42,CAR 27,4,1:30,27,Touchdown
+4,1,3:08,NOR 25,9,4:34,52,Field Goal
+5,2,8:09,NOR 25,3,1:39,0,Punt
+6,3,13:58,NOR 38,5,2:40,62,Touchdown
+7,3,8:36,NOR 25,6,3:27,75,Touchdown
+8,3,1:28,NOR 25,4,2:18,21,Punt
+9,4,13:28,NOR 34,3,1:02,-5,Interception
+10,4,9:23,NOR 25,6,2:39,18,Downs
+11,4,1:56,NOR 20,11,1:56,65,Field Goal

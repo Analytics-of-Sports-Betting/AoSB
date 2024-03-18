@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,NOR 20,10,4:27,80,Touchdown
+2,1,6:47,NOR 2,9,6:20,98,Touchdown
+3,2,13:19,JAX 43,5,2:42,43,Touchdown
+4,2,9:01,NOR 25,3,1:59,-5,Punt
+5,2,6:56,JAX 46,8,3:00,27,Field Goal
+6,2,1:23,NOR 20,6,1:19,46,Missed FG
+7,3,8:51,NOR 20,7,3:22,80,Touchdown
+8,3,4:49,NOR 12,13,6:50,88,Touchdown
+9,4,9:48,NOR 17,11,7:01,73,Blocked FG
+10,4,1:13,JAX 44,3,0:53,-3,Punt

@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,10:44,GNB 32,5,2:10,30,Punt
+2,1,5:46,GNB 32,10,5:38,68,Touchdown
+3,2,12:21,GNB 43,12,7:00,57,Touchdown
+4,2,1:11,GNB 20,5,1:11,23,End of Half
+5,3,15:00,GNB 17,3,1:04,7,Fumble
+6,3,13:50,GNB 20,11,6:17,80,Touchdown
+7,3,4:27,GNB 2,3,1:35,5,Punt
+8,4,13:05,GNB 24,6,4:15,23,Punt
+9,4,4:02,GNB 22,5,2:17,7,Punt
+10,4,0:33,GNB 4,1,0:33,-1,End of Game

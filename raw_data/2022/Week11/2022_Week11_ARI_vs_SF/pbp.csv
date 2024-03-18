@@ -1,0 +1,171 @@
+Quarter,Time,Down,ToGo,Location,SFO,ARI,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"49ers won the coin toss and deferred, Cardinals to receive the opening kickoff.",,
+1,15:00,,,SFO 35,0,0,"Robbie Gould kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,ARI 25,0,0,Rondale Moore right end for -6 yards (tackle by Deommodore Lenoir),0.610,-0.810
+1,14:25,2,16,ARI 19,0,0,Colt McCoy pass complete short left to DeAndre Hopkins for 6 yards (tackle by Talanoa Hufanga),-0.810,-0.620
+1,13:47,3,10,ARI 25,0,0,Colt McCoy pass incomplete short right intended for James Conner,-0.620,-1.700
+1,13:42,4,10,ARI 25,0,0,"Andy Lee punts 45 yards, returned by Ray-Ray McCloud for 7 yards (tackle by Kamu Grugier-Hill)",-1.700,-1.400
+1,13:32,1,10,SFO 37,0,0,Christian McCaffrey right tackle for 2 yards (tackle by J.J. Watt),1.400,1.130
+1,13:02,2,8,SFO 39,0,0,Jimmy Garoppolo pass incomplete short right intended for George Kittle (defended by Budda Baker),1.130,0.430
+1,12:56,3,8,SFO 39,0,0,Jimmy Garoppolo pass incomplete deep left intended for Jauan Jennings,0.430,-0.780
+1,12:42,4,8,SFO 39,0,0,"Mitch Wishnowsky punts 61 yards, touchback.",-0.780,-0.280
+1,12:38,1,10,ARI 20,0,0,James Conner right tackle for -1 yards (tackle by Kevin Givens),0.280,-0.460
+1,12:06,2,11,ARI 19,0,0,Colt McCoy pass complete short right to Trey McBride for 6 yards (tackle by Talanoa Hufanga),-0.460,-0.300
+1,11:27,3,5,ARI 25,0,0,Colt McCoy pass complete short left to DeAndre Hopkins for 17 yards (tackle by Charvarius Ward),-0.300,1.730
+1,10:53,1,10,ARI 42,0,0,James Conner up the middle for 2 yards (tackle by Nick Bosa),1.730,1.460
+1,10:23,2,8,ARI 44,0,0,Colt McCoy pass complete deep left to DeAndre Hopkins for 17 yards (tackle by Charvarius Ward),1.460,2.980
+1,9:50,1,10,SFO 39,0,0,James Conner left end for 8 yards (tackle by Dre Greenlaw),2.980,3.520
+1,9:17,2,2,SFO 31,0,0,James Conner up the middle for 5 yards (tackle by Dre Greenlaw),3.520,3.840
+1,8:49,1,10,SFO 26,0,0,Keaontay Ingram up the middle for 4 yards (tackle by T.Y. McGill),3.840,3.840
+1,8:14,2,6,SFO 22,0,0,Colt McCoy pass incomplete deep left intended for Stephen Anderson,3.840,3.140
+1,8:07,3,6,SFO 22,0,0,Colt McCoy pass incomplete deep left intended for DeAndre Hopkins,3.140,2.020
+1,8:03,4,6,SFO 22,0,3,Matt Prater 40 yard field goal good,2.020,3.000
+1,8:00,,,ARI 35,0,3,"Matt Prater kicks off 65 yards, touchback.",0.000,0.610
+1,8:00,1,10,SFO 25,0,3,Jimmy Garoppolo pass complete short middle to Christian McCaffrey for 11 yards (tackle by Budda Baker),0.610,1.330
+1,7:27,1,10,SFO 36,0,3,Jimmy Garoppolo pass complete short left to Christian McCaffrey for 5 yards (tackle by Zaven Collins and Zach Allen),1.330,1.470
+1,6:54,2,5,SFO 41,0,3,Christian McCaffrey up the middle for 3 yards (tackle by Ben Niemann and Zach Allen),1.470,1.160
+1,6:14,3,2,SFO 44,0,3,"Deebo Samuel right end for -2 yards (tackle by Isaiah Simmons and Zaven Collins). Penalty on George Kittle: Offensive Holding, 10 yards (declined)",1.160,-0.590
+1,5:58,4,4,SFO 42,0,3,Mitch Wishnowsky punts 54 yards,-0.590,0.380
+1,5:47,1,10,ARI 4,0,3,James Conner up the middle for 1 yard (tackle by Charvarius Ward and Hassan Ridgeway),-0.380,-0.710
+1,5:17,2,9,ARI 5,0,3,Colt McCoy pass complete short right to Greg Dortch for 8 yards (tackle by Deommodore Lenoir),-0.710,-0.370
+1,4:43,3,1,ARI 13,0,3,James Conner up the middle for 3 yards (tackle by Dre Greenlaw),-0.370,-0.140
+1,4:14,1,10,ARI 16,0,3,Colt McCoy pass complete short left to Trey McBride for 2 yards (tackle by Charvarius Ward),-0.140,-0.350
+1,3:39,2,8,ARI 18,0,3,Colt McCoy pass complete short middle to A.J. Green for 5 yards (tackle by Fred Warner),-0.350,-0.450
+1,2:53,3,3,ARI 23,0,3,Colt McCoy pass incomplete short right intended for James Conner (defended by Drake Jackson),-0.450,-1.830
+1,2:49,4,3,ARI 23,0,3,"Andy Lee punts 59 yards, fair catch by Ray-Ray McCloud at SF-18",-1.830,-0.040
+1,2:41,1,10,SFO 18,0,3,Jimmy Garoppolo pass complete short left to Deebo Samuel for 4 yards (tackle by Budda Baker and Zaven Collins),0.040,0.140
+1,1:59,2,6,SFO 22,0,3,Christian McCaffrey left end for 1 yard (tackle by Jalen Thompson),0.140,-0.530
+1,1:18,3,5,SFO 23,0,3,Jimmy Garoppolo pass complete short left to George Kittle for 6 yards (tackle by Budda Baker),-0.530,0.870
+1,0:40,1,10,SFO 29,0,3,"Christian McCaffrey right end for 5 yards (tackle by Zaven Collins and Jonathan Ledbetter). Penalty on Jonathan Ledbetter: Face Mask (15 Yards), 15 yards (accepted)",0.870,2.190
+1,0:13,1,10,SFO 49,0,3,Jimmy Garoppolo pass complete short middle to Deebo Samuel for 19 yards (tackle by Antonio Hamilton),2.190,3.450
+Quarter,Time,Down,ToGo,Location,SFO,ARI,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,ARI 32,0,3,Christian McCaffrey left end for 20 yards (tackle by Antonio Hamilton),3.450,4.780
+2,14:28,1,10,ARI 12,0,3,Jimmy Garoppolo pass incomplete short right intended for George Kittle,4.780,4.100
+2,14:23,2,10,ARI 12,0,3,Jimmy Garoppolo pass complete short right to Deebo Samuel for 5 yards (tackle by Myjai Sanders and Ben Niemann),4.100,4.160
+2,13:40,3,5,ARI 7,6,3,"Jimmy Garoppolo pass complete short middle to Brandon Aiyuk for 7 yards, touchdown",4.160,7.000
+2,13:35,,,ARI 15,7,3,Robbie Gould kicks extra point good,0.000,0.000
+2,13:35,,,SFO 35,7,3,"Robbie Gould kicks off 65 yards, touchback.",0.000,0.610
+2,13:35,1,10,ARI 25,7,3,James Conner up the middle for -1 yards (tackle by Charvarius Ward),0.610,-0.070
+2,13:10,2,11,ARI 24,7,3,Colt McCoy pass complete to Maxx Williams for 7 yards (tackle by Fred Warner and Jimmie Ward),-0.070,0.170
+2,12:32,3,4,ARI 31,7,3,Colt McCoy pass complete deep left to DeAndre Hopkins for 16 yards,0.170,2.060
+2,12:07,1,10,ARI 47,7,3,Colt McCoy right tackle for -1 yards (tackle by Fred Warner),2.060,1.380
+2,11:32,2,11,ARI 46,7,3,Colt McCoy pass complete short left to Trey McBride for 4 yards (tackle by Jimmie Ward),1.380,1.220
+2,10:18,3,7,ARI 50,7,3,"Colt McCoy pass complete short left to DeAndre Hopkins for 10 yards (tackle by Jimmie Ward). Penalty on DeAndre Hopkins: Taunting / Offense, 15 yards (accepted)",1.220,1.930
+2,10:18,1,10,ARI 45,7,3,James Conner up the middle for -1 yards (tackle by Hassan Ridgeway),1.930,1.250
+2,9:42,2,11,ARI 44,7,3,Colt McCoy pass short middle intended for James Conner is intercepted by Jimmie Ward at ARI-46 and returned for no gain (tackle by James Conner),1.250,-2.520
+2,9:37,1,10,ARI 46,7,3,Jimmy Garoppolo pass complete short right to George Kittle for 7 yards (tackle by Tanner Vallejo and Zaven Collins),2.520,2.920
+2,8:55,,,,,,Timeout #1 by San Francisco 49ers,,
+2,8:55,2,3,ARI 39,7,3,Jimmy Garoppolo pass incomplete short right intended for Brandon Aiyuk,2.920,2.210
+2,8:51,3,3,ARI 39,13,3,"Jimmy Garoppolo pass complete deep middle to George Kittle for 39 yards, touchdown",2.210,7.000
+2,8:42,,,ARI 15,14,3,Robbie Gould kicks extra point good,0.000,0.000
+2,8:42,,,SFO 35,14,3,"Robbie Gould kicks off 65 yards, touchback.",0.000,0.610
+2,8:42,1,10,ARI 25,14,3,James Conner right end for 5 yards (tackle by Tashaun Gipson),0.610,0.740
+2,8:05,2,5,ARI 30,14,3,Colt McCoy pass complete short left to DeAndre Hopkins for 6 yards (tackle by Jimmie Ward),0.740,1.330
+2,7:30,1,10,ARI 36,14,3,Colt McCoy pass incomplete short middle,1.330,0.790
+2,7:24,2,10,ARI 36,14,3,Colt McCoy pass complete short middle to Greg Dortch for 4 yards (tackle by Fred Warner),0.790,0.630
+2,6:50,3,6,ARI 40,14,3,"Colt McCoy pass complete short left to Greg Dortch for 47 yards (tackle by Talanoa Hufanga). Penalty on Nick Bosa: Defensive Offside, 5 yards (declined)",0.630,4.710
+2,6:30,1,10,SFO 13,14,3,James Conner left end for 1 yard. James Conner fumbles (forced by Dre Greenlaw),4.710,4.220
+2,5:45,2,9,SFO 12,14,3,Colt McCoy pass complete short left to DeAndre Hopkins for 5 yards (tackle by Charvarius Ward),4.220,4.330
+2,5:00,3,4,SFO 7,14,3,Colt McCoy pass complete short right to Greg Dortch for 5 yards (tackle by Talanoa Hufanga),4.330,6.740
+2,4:24,1,2,SFO 2,14,9,"James Conner up the middle for 2 yards, touchdown",6.740,7.000
+2,4:19,,,SFO 15,14,10,Matt Prater kicks extra point good,0.000,0.000
+2,4:19,,,ARI 35,14,10,"Matt Prater kicks off 65 yards, touchback.",0.000,0.610
+2,4:19,1,10,SFO 25,14,10,Jimmy Garoppolo pass complete short middle to Deebo Samuel for 14 yards (tackle by Marco Wilson),0.610,1.530
+2,3:45,1,10,SFO 39,14,10,Jimmy Garoppolo pass complete short right to Christian McCaffrey for 12 yards (tackle by Budda Baker),1.530,2.320
+2,3:00,1,10,ARI 49,14,10,Jimmy Garoppolo pass complete short left to Christian McCaffrey for 14 yards (tackle by Budda Baker),2.320,3.250
+2,2:18,1,10,ARI 35,14,10,Elijah Mitchell for 4 yards (tackle by Dennis Gardeck),3.250,3.240
+2,2:00,2,6,ARI 31,14,10,Jimmy Garoppolo pass incomplete short left intended for Deebo Samuel,3.240,2.540
+2,1:57,,,,,,Timeout #1 by Arizona Cardinals,,
+2,1:57,3,6,ARI 31,14,10,Jimmy Garoppolo pass complete short right to Christian McCaffrey for 6 yards (tackle by Zaven Collins),2.540,3.910
+2,1:41,,,,,,Timeout #2 by Arizona Cardinals,,
+2,1:41,1,10,ARI 25,14,10,Jimmy Garoppolo pass complete to Deebo Samuel for 4 yards (tackle by Ben Niemann),3.910,3.900
+2,0:59,2,6,ARI 21,14,10,Jimmy Garoppolo pass incomplete deep left intended for Jauan Jennings,3.900,3.200
+2,0:52,3,6,ARI 21,14,10,Jimmy Garoppolo pass incomplete short middle intended for Deebo Samuel (defended by Marco Wilson),3.200,2.080
+2,0:47,4,6,ARI 21,17,10,Robbie Gould 39 yard field goal good,2.080,3.000
+2,0:43,,,SFO 35,17,10,"Robbie Gould kicks off 65 yards, touchback.",0.000,0.610
+2,0:43,1,10,ARI 25,17,10,Colt McCoy pass complete short right to James Conner for 7 yards (tackle by Nick Bosa),0.610,1.010
+2,0:24,2,3,ARI 32,17,10,Colt McCoy scrambles up the middle for 4 yards (tackle by Dre Greenlaw),1.010,1.330
+2,0:18,,,,,,Timeout #3 by Arizona Cardinals,,
+2,0:18,1,10,ARI 36,17,10,Colt McCoy sacked by Nick Bosa for -12 yards,1.330,-0.830
+Quarter,Time,Down,ToGo,Location,SFO,ARI,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,ARI 35,17,10,"Matt Prater kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,SFO 25,17,10,Christian McCaffrey left tackle for 5 yards (tackle by Ben Niemann and Myjai Sanders),0.610,0.740
+3,14:18,2,5,SFO 30,17,10,Jimmy Garoppolo pass complete short middle to Deebo Samuel for 4 yards (tackle by Marco Wilson),0.740,0.560
+3,13:53,3,1,SFO 34,17,10,Jimmy Garoppolo up the middle for 3 yards (tackle by Zach Allen and Budda Baker),0.560,1.400
+3,13:18,1,10,SFO 37,17,10,Elijah Mitchell up the middle for 4 yards (tackle by Leki Fotu and Budda Baker),1.400,1.400
+3,12:34,2,6,SFO 41,17,10,Elijah Mitchell right tackle for 7 yards (tackle by Jalen Thompson and Jonathan Ledbetter),1.400,2.130
+3,11:58,1,10,SFO 48,17,10,Elijah Mitchell up the middle for 9 yards (tackle by Zaven Collins),2.130,2.800
+3,11:27,2,1,ARI 43,17,10,Kyle Juszczyk up the middle for 4 yards (tackle by Markus Golden),2.800,2.980
+3,10:44,1,10,ARI 39,23,10,"Deebo Samuel left end for 39 yards, touchdown",2.980,7.000
+3,10:34,,,ARI 15,24,10,Robbie Gould kicks extra point good,0.000,0.000
+3,10:34,,,SFO 35,24,10,"Robbie Gould kicks off 65 yards, touchback.",0.000,0.610
+3,10:34,1,10,ARI 25,24,10,James Conner right tackle for 14 yards (tackle by Charvarius Ward),0.610,1.530
+3,10:01,1,10,ARI 39,24,10,Colt McCoy scrambles left end for 3 yards (tackle by Tashaun Gipson),1.530,1.390
+3,9:22,2,7,ARI 42,24,10,Colt McCoy pass incomplete short left intended for DeAndre Hopkins,1.390,0.700
+3,9:19,3,7,ARI 42,24,10,Colt McCoy pass complete short right to DeAndre Hopkins for 10 yards (tackle by Dre Greenlaw),0.700,2.390
+3,8:50,1,10,SFO 48,24,10,Colt McCoy pass complete short left to Greg Dortch for 2 yards (tackle by Charvarius Ward),2.390,2.120
+3,8:22,2,8,SFO 46,24,10,Colt McCoy pass complete short right to A.J. Green for 5 yards (tackle by Samuel Womack),2.120,1.950
+3,8:01,3,4,SFO 42,24,10,Colt McCoy pass incomplete deep left intended for DeAndre Hopkins (defended by Tashaun Gipson),1.950,0.530
+3,7:55,4,3,SFO 41,24,10,Colt McCoy pass incomplete short right intended for Greg Dortch,0.530,-1.660
+3,7:52,1,10,SFO 41,24,10,"Jimmy Garoppolo pass complete to Deebo Samuel for no gain (tackle by Marco Wilson). Penalty on Spencer Burford: Offensive Holding, 10 yards (accepted) (no play)",1.660,1.070
+3,7:22,1,19,SFO 32,24,10,Jimmy Garoppolo pass complete short middle to Christian McCaffrey for 7 yards (tackle by Ben Niemann),1.070,0.780
+3,6:44,2,13,SFO 39,24,10,Jimmy Garoppolo pass incomplete short right intended for Ray-Ray McCloud (defended by J.J. Watt),0.780,0.100
+3,6:37,3,13,SFO 39,24,10,Jimmy Garoppolo pass incomplete deep left intended for Brandon Aiyuk (defended by Marco Wilson),0.100,-0.780
+3,6:33,4,13,SFO 39,24,10,Mitch Wishnowsky punts 49 yards downed by Samuel Womack,-0.780,0.350
+3,6:24,1,10,ARI 12,24,10,James Conner right tackle for 2 yards (tackle by Azeez Al-Shaair and Jordan Willis),-0.350,-0.610
+3,5:50,2,8,ARI 14,24,10,Colt McCoy sacked by Kevin Givens for -9 yards,-0.610,-2.240
+3,5:12,3,17,ARI 5,24,10,Colt McCoy pass complete short right to Greg Dortch for 7 yards (tackle by Fred Warner),-2.240,-2.490
+3,4:37,4,10,ARI 12,24,10,"Andy Lee punts 41 yards, returned by Ray-Ray McCloud for 6 yards (tackle by Zeke Turner)",-2.490,-2.460
+3,4:25,1,10,ARI 47,24,10,Elijah Mitchell up the middle for 9 yards (tackle by Marco Wilson),2.460,3.130
+3,3:41,2,1,ARI 38,24,10,"Penalty on Jake Brendel: False Start, 5 yards (accepted) (no play)",3.130,2.450
+3,3:24,2,6,ARI 43,24,10,Elijah Mitchell left end for 19 yards (tackle by Chris Banjo),2.450,3.970
+3,2:44,1,10,ARI 24,24,10,Elijah Mitchell up the middle for -1 yards (tackle by Trysten Hill and Jonathan Ledbetter),3.970,3.300
+3,2:01,2,11,ARI 25,24,10,Jimmy Garoppolo pass complete short middle to Christian McCaffrey for 12 yards (tackle by Tanner Vallejo),3.300,4.710
+3,1:17,1,10,ARI 13,24,10,Deebo Samuel up the middle for no gain (tackle by Ben Niemann and Isaiah Simmons),4.710,4.050
+3,0:33,2,10,ARI 13,30,10,"Jimmy Garoppolo pass complete short left to Brandon Aiyuk for 13 yards, touchdown",4.050,7.000
+3,0:28,,,ARI 15,31,10,Robbie Gould kicks extra point good,0.000,0.000
+3,0:28,,,SFO 40,31,10,"Robbie Gould kicks off 60 yards, touchback.",0.000,0.610
+3,0:28,1,10,ARI 25,31,10,Colt McCoy pass complete short left to DeAndre Hopkins for 4 yards (tackle by Charvarius Ward),0.610,0.600
+3,0:02,2,6,ARI 29,31,10,"Penalty on Josh Jones: False Start, 5 yards (accepted) (no play)",0.600,-0.070
+Quarter,Time,Down,ToGo,Location,SFO,ARI,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,11,ARI 24,31,10,"Colt McCoy pass complete short right to James Conner for 5 yards (tackle by Dre Greenlaw and Jimmie Ward). Penalty on Nick Bosa: Roughing the Passer, 15 yards (accepted)",-0.070,1.860
+4,14:39,1,10,ARI 44,31,10,James Conner up the middle for 2 yards (tackle by Kerry Hyder),1.860,1.590
+4,14:06,2,8,ARI 46,31,10,"Colt McCoy sacked by Fred Warner for -9 yards. Penalty on Josh Jones: Offensive Holding, 10 yards (declined)",1.590,-0.300
+4,13:46,3,17,ARI 37,31,10,Colt McCoy pass complete short right to Greg Dortch for 13 yards (tackle by Dre Greenlaw),-0.300,-0.060
+4,13:14,4,4,ARI 50,31,10,Colt McCoy pass incomplete short right intended for A.J. Green (defended by Dre Greenlaw),-0.060,-2.260
+4,13:10,1,10,ARI 50,31,10,Elijah Mitchell right end for 2 yards (tackle by Budda Baker),2.260,1.980
+4,12:30,2,8,ARI 48,31,10,Elijah Mitchell up the middle for 6 yards (tackle by Tanner Vallejo and Leki Fotu),1.980,2.080
+4,11:47,3,2,ARI 42,31,10,Jimmy Garoppolo pass complete short middle to Deebo Samuel for 7 yards (tackle by Ben Niemann and Isaiah Simmons),2.080,3.250
+4,10:59,1,10,ARI 35,31,10,Christian McCaffrey up the middle for 3 yards (tackle by Michael Dogbe),3.250,3.110
+4,10:17,2,7,ARI 32,37,10,"Jimmy Garoppolo pass complete short left to George Kittle for 32 yards, touchdown",3.110,7.000
+4,10:08,,,ARI 15,38,10,Robbie Gould kicks extra point good,0.000,0.000
+4,10:08,,,SFO 35,38,10,"Robbie Gould kicks off 65 yards, touchback.",0.000,0.610
+4,10:08,1,10,ARI 25,38,10,Trace McSorley up the middle for 6 yards (tackle by Tashaun Gipson),0.610,0.870
+4,9:41,2,4,ARI 31,38,10,Trace McSorley pass complete deep right to A.J. Green for 18 yards (tackle by Talanoa Hufanga),0.870,2.190
+4,9:16,1,10,ARI 49,38,10,Trace McSorley pass complete short right to Trey McBride for 2 yards (tackle by Dre Greenlaw),2.190,1.920
+4,8:48,2,8,SFO 49,38,10,Keaontay Ingram up the middle for 2 yards (tackle by T.Y. McGill),1.920,1.490
+4,8:12,3,6,SFO 47,38,10,Trace McSorley pass incomplete short right,1.490,0.130
+4,8:04,4,6,SFO 47,38,10,"Andy Lee punts 36 yards, fair catch by Ray-Ray McCloud at SF-11",0.130,0.370
+4,7:57,1,10,SFO 11,38,10,Jordan Mason up the middle for 4 yards (tackle by Michael Dogbe),-0.370,-0.430
+4,7:18,2,6,SFO 15,38,10,Brock Purdy up the middle for 5 yards (tackle by Antonio Hamilton),-0.430,-0.370
+4,6:41,3,1,SFO 20,38,10,Jordan Mason up the middle for no gain (tackle by Budda Baker),-0.370,-2.030
+4,5:48,4,1,SFO 20,38,10,"Mitch Wishnowsky punts 51 yards, returned by Greg Dortch for 15 yards (tackle by Mitch Wishnowsky). Penalty on Corey Clement: Illegal Block Above the Waist, 10 yards (accepted)",-2.030,-1.200
+4,5:32,1,10,ARI 34,38,10,Keaontay Ingram up the middle for 13 yards (tackle by Talanoa Hufanga and Azeez Al-Shaair),1.200,2.060
+4,5:09,1,10,ARI 47,38,10,Keaontay Ingram up the middle for 1 yard (tackle by Azeez Al-Shaair),2.060,1.650
+4,4:42,2,9,ARI 48,38,10,Trace McSorley pass complete short right to Greg Dortch for 5 yards (tackle by Samuel Womack),1.650,1.620
+4,4:06,3,4,SFO 47,38,10,Trace McSorley pass complete short right to A.J. Green for 6 yards (tackle by Samuel Womack),1.620,2.850
+4,3:40,1,10,SFO 41,38,10,Trace McSorley pass complete deep right to A.J. Green for 16 yards,2.850,3.910
+4,3:29,1,10,SFO 25,38,10,Trace McSorley pass incomplete short right intended for A.J. Green (defended by Samuel Womack),3.910,3.360
+4,3:25,2,10,SFO 25,38,10,Trace McSorley pass complete short middle to Greg Dortch for 12 yards (tackle by Deommodore Lenoir and Oren Burks),3.360,4.710
+4,2:54,1,10,SFO 13,38,10,Keaontay Ingram left tackle for -1 yards (tackle by Deommodore Lenoir and Samuel Womack),4.710,3.900
+4,2:19,2,11,SFO 14,38,10,Trace McSorley pass incomplete short right intended for A.J. Green,3.900,3.080
+4,2:14,3,11,SFO 14,38,10,Trace McSorley pass short right intended for A.J. Green is intercepted by Samuel Womack in end zone and returned for no gain,3.080,-0.280
+4,2:07,1,10,SFO 20,38,10,Jordan Mason up the middle for 8 yards (tackle by Budda Baker and Chris Banjo),0.280,0.810
+4,2:00,2,2,SFO 28,38,10,Jordan Mason left tackle for 2 yards (tackle by Leki Fotu),0.810,0.940
+4,1:19,1,10,SFO 30,38,10,Brock Purdy kneels for -1 yards,0.940,0.260
+4,0:41,2,11,SFO 29,38,10,Brock Purdy kneels for -1 yards,0.260,-0.560
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

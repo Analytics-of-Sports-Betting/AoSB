@@ -1,0 +1,15 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,CLE 25,3,0:55,2,Punt
+2,1,12:24,CLE 26,6,1:42,26,Punt
+3,1,9:11,NYJ 39,3,1:53,-2,Punt
+4,1,4:32,CLE 6,5,2:19,25,Punt
+5,2,14:56,CLE 25,3,1:25,-5,Punt
+6,2,7:54,CLE 26,12,5:09,33,Punt
+7,2,1:42,CLE 34,6,1:19,39,Field Goal
+8,2,0:05,CLE 19,1,0:05,-1,End of Half
+9,3,12:25,CLE 5,9,4:50,50,Punt
+10,3,6:19,NYJ 8,4,0:58,0,Field Goal
+11,3,3:31,CLE 31,8,2:49,69,Touchdown
+12,4,8:56,CLE 25,15,6:52,75,Touchdown
+13,4,1:21,NYJ 43,3,0:25,8,Punt
+14,4,0:11,CLE 34,1,0:11,-1,End of Game

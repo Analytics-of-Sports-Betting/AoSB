@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,PIT 35,6,2:50,13,Punt
+2,1,7:32,PIT 3,8,4:14,97,Touchdown
+3,1,0:03,PIT 17,15,5:48,78,Field Goal
+4,2,6:48,PIT 39,2,0:20,20,Fumble
+5,2,5:37,CLE 48,5,2:19,31,Missed FG
+6,2,2:17,PIT 35,3,0:40,8,Punt
+7,2,0:03,PIT 30,1,0:03,-1,End of Half
+8,3,13:01,PIT 9,12,7:29,91,Touchdown
+9,3,3:52,PIT 26,4,2:05,74,Touchdown
+10,3,0:05,PIT 29,12,7:39,61,Field Goal
+11,4,5:20,PIT 31,8,5:20,40,End of Game

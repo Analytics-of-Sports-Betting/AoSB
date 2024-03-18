@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,OAK 20,5,3:06,38,Fumble
+2,1,11:54,OAK 34,5,2:10,21,Punt
+3,1,4:31,OAK 20,3,1:25,-3,Punt
+4,1,0:34,HOU 21,5,1:48,21,Touchdown
+5,2,12:17,HOU 47,4,1:27,10,Interception
+6,2,9:00,OAK 41,8,5:20,-1,Punt
+7,2,1:52,HOU 29,4,0:44,-6,Missed FG
+8,3,14:44,OAK 25,14,6:31,56,Missed FG
+9,3,7:24,HOU 48,8,4:57,37,Missed FG
+10,4,13:33,OAK 31,3,1:32,-11,Punt
+11,4,9:58,OAK 22,5,2:08,18,Fumble
+12,4,4:41,OAK 21,1,0:13,8,Fumble
+13,4,2:15,OAK 30,11,2:11,63,Interception

@@ -1,0 +1,194 @@
+Quarter,Time,Down,ToGo,Location,BAL,PIT,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Steelers won the coin toss and deferred, Ravens to receive the opening kickoff.",,
+1,15:00,,,PIT 30,0,0,"Jeff Reed kicks off 74 yards, returned by Yamon Figurs for 21 yards (tackle by Lawrence Timmons)",0.000,-0.060
+1,14:56,1,10,BAL 17,0,0,"Joe Flacco for no gain. Joe Flacco fumbles, recovered by Joe Flacco at BAL-BLT",-0.060,-0.730
+1,14:28,2,11,BAL 16,0,0,Willis McGahee left tackle for -1 yards (tackle by James Farrior and Larry Foote),-0.730,-1.570
+1,13:42,3,12,BAL 15,0,0,Joe Flacco pass incomplete short right intended for Derrick Mason (defended by Deshea Townsend),-1.570,-2.440
+1,13:38,4,12,BAL 15,0,0,"Sam Koch punts 55 yards, returned by Santonio Holmes for 15 yards (tackle by Antwan Barnes). Penalty on Bruce Davis: Illegal Block Above the Waist, 10 yards",-2.440,-0.540
+1,13:25,1,10,PIT 24,0,0,Rashard Mendenhall up the middle for no gain (tackle by Haloti Ngata and Terrell Suggs),0.540,0.000
+1,12:47,2,10,PIT 24,0,0,Ben Roethlisberger pass complete short right to Heath Miller for 2 yards (tackle by Bart Scott),0.000,-0.430
+1,12:05,3,8,PIT 26,0,0,Ben Roethlisberger pass complete short right to Santonio Holmes for 19 yards (tackle by Haruki Nakamura). Penalty on Ray Lewis: Illegal Contact (Declined),-0.430,1.930
+1,11:38,1,10,PIT 45,0,0,Ben Roethlisberger pass incomplete short middle intended for Matt Spaeth (defended by Bart Scott),1.930,1.380
+1,11:31,2,10,PIT 45,0,0,Rashard Mendenhall up the middle for 8 yards (tackle by Ray Lewis and Jim Leonhard),1.380,1.750
+1,10:52,3,2,BAL 47,0,0,"Penalty on Kendall Simmons: False Start (Offsetting), Penalty on Antwan Barnes: Personal Foul (Offsetting), Penalty on Santonio Holmes: Personal Foul (Offsetting) (no play)",1.750,1.750
+1,10:24,3,2,BAL 47,0,0,Ben Roethlisberger pass complete short middle to Nate Washington for 12 yards (tackle by Corey Ivy),1.750,3.250
+1,9:42,1,10,BAL 35,0,0,Rashard Mendenhall left guard for 12 yards (tackle by Fabian Washington),3.250,4.040
+1,9:42,1,10,BAL 23,0,0,Rashard Mendenhall left guard for -2 yards (tackle by Haloti Ngata and Ray Lewis),4.040,3.230
+1,8:25,2,12,BAL 25,0,0,Rashard Mendenhall right guard for 5 yards (tackle by Corey Ivy and Jim Leonhard),3.230,3.200
+1,7:39,3,7,BAL 20,0,0,"Penalty on Kendall Simmons: False Start, 5 yards (no play)",3.200,2.540
+1,7:14,3,12,BAL 25,0,0,Ben Roethlisberger sacked by Corey Ivy for -6 yards,2.540,1.320
+1,6:50,4,18,BAL 31,0,3,Jeff Reed 49 yard field goal good,1.320,3.000
+1,,,,PIT 30,0,3,"Jeff Reed kicks off 74 yards, returned by Yamon Figurs for 16 yards (tackle by Patrick Bailey)",0.000,-0.350
+1,6:40,1,10,BAL 12,0,3,Joe Flacco pass incomplete deep right intended for Demetrius Williams (defended by Ryan Clark),-0.350,-0.780
+1,6:31,2,10,BAL 12,0,3,Willis McGahee up the middle for 2 yards (tackle by Aaron Smith and James Harrison),-0.780,-1.190
+1,5:56,3,8,BAL 14,0,3,Joe Flacco sacked by James Harrison for -6 yards,-1.190,-2.490
+1,5:30,4,14,BAL 8,0,3,"Sam Koch punts 53 yards, returned by Santonio Holmes for 5 yards (tackle by Derrick Martin)",-2.490,-1.860
+1,5:18,1,10,PIT 44,0,3,Ben Roethlisberger pass incomplete short middle intended for Heath Miller is intercepted by Haloti Ngata at PIT-49 and returned for 1 yard,1.860,-2.390
+1,5:09,1,10,PIT 48,0,3,Willis McGahee right tackle for -1 yards (tackle by Larry Foote and Aaron Smith),2.390,1.710
+1,4:27,2,11,PIT 49,0,3,"Joe Flacco pass complete short left to Le'Ron McClain for 7 yards (tackle by James Farrior). Penalty on Todd Heap: Offensive Holding, 10 yards (no play)",1.710,0.360
+1,3:55,2,21,BAL 41,0,3,Joe Flacco pass complete deep right to Derrick Mason for 18 yards (tackle by Bryant McFadden),0.360,2.080
+1,3:14,3,3,PIT 41,0,3,Joe Flacco pass complete short right to Demetrius Williams for 6 yards (tackle by Bryant McFadden),2.080,3.250
+1,2:35,1,10,PIT 35,0,3,Joe Flacco pass incomplete short left intended for Todd Heap,3.250,2.700
+1,2:29,2,10,PIT 35,0,3,Willis McGahee right tackle for 4 yards (tackle by LaMarr Woodley and Nick Eason),2.700,2.540
+1,1:46,3,6,PIT 31,0,3,Joe Flacco pass complete short middle to Derrick Mason for 14 yards (tackle by Troy Polamalu),2.540,4.440
+1,1:08,1,10,PIT 17,0,3,Willis McGahee left guard for 2 yards (tackle by Troy Polamalu and James Farrior),4.440,4.150
+1,0:32,2,8,PIT 15,0,3,Joe Flacco pass incomplete short right intended for Derrick Mason,4.150,3.340
+1,0:26,3,8,PIT 15,0,3,Joe Flacco pass incomplete short left intended for Derrick Mason (defended by Lawrence Timmons),3.340,2.440
+1,0:22,4,8,PIT 15,3,3,Matt Stover 33 yard field goal good,2.440,3.000
+1,,,,BAL 30,3,3,"Matt Stover kicks off 60 yards, returned by Carey Davis for 16 yards (tackle by Tom Zbikowski)",0.000,0.670
+1,0:12,1,10,PIT 26,3,3,Rashard Mendenhall right tackle for 2 yards (tackle by Haloti Ngata and Jarret Johnson),0.670,0.400
+Quarter,Time,Down,ToGo,Location,BAL,PIT,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,8,PIT 28,3,3,Ben Roethlisberger pass incomplete short right intended for Santonio Holmes,0.400,-0.300
+2,14:54,3,8,PIT 28,3,3,Ben Roethlisberger pass incomplete deep middle intended for Heath Miller (defended by Chris McAlister),-0.300,-1.500
+2,14:49,4,8,PIT 28,3,3,"Mitch Berger punts 41 yards, muffed catch by Yamon Figurs, recovered by Yamon Figurs and returned for 2 yards (tackle by James Harrison). Penalty on Brendon Ayanbadejo: Unnecessary Roughness, 15 yards",-1.500,-0.040
+2,14:38,1,10,BAL 18,3,3,Willis McGahee up the middle for 2 yards (tackle by Larry Foote),0.040,-0.130
+2,14:04,2,8,BAL 20,3,3,Joe Flacco pass complete short right to Le'Ron McClain for -1 yards (tackle by LaMarr Woodley),-0.130,-1.040
+2,13:17,3,9,BAL 19,3,3,Joe Flacco pass complete short middle to Willis McGahee for 15 yards (tackle by LaMarr Woodley),-1.040,1.200
+2,12:33,1,10,BAL 34,3,3,Joe Flacco pass incomplete deep left intended for Derrick Mason (defended by Troy Polamalu),1.200,0.660
+2,12:25,2,10,BAL 34,3,3,Joe Flacco pass complete short left to Willis McGahee for -1 yards (tackle by Nick Eason),0.660,-0.160
+2,11:52,3,11,BAL 33,3,3,Joe Flacco pass incomplete deep right intended for Demetrius Williams,-0.160,-1.180
+2,11:44,4,11,BAL 33,3,3,"Sam Koch punts 56 yards, returned by Santonio Holmes for -3 yards (tackle by Tom Zbikowski)",-1.180,0.380
+2,11:33,1,10,PIT 8,3,3,Rashard Mendenhall right tackle for no gain (tackle by Jarret Johnson),-0.380,-0.780
+2,10:56,2,10,PIT 8,3,3,Rashard Mendenhall left guard for 2 yards (tackle by Ray Lewis and Justin Bannan),-0.780,-1.190
+2,10:12,3,8,PIT 10,3,3,Ben Roethlisberger pass complete short right to Santonio Holmes for 4 yards (tackle by Fabian Washington),-1.190,-2.470
+2,9:38,4,4,PIT 14,3,3,Mitch Berger punts 40 yards (tackle by Anthony Smith),-2.470,-2.260
+2,9:27,1,10,BAL 50,3,3,Willis McGahee up the middle for 6 yards (tackle by Aaron Smith and Lawrence Timmons),2.260,2.520
+2,8:48,2,4,PIT 44,3,3,Willis McGahee left tackle for 12 yards (tackle by Lawrence Timmons),2.520,3.450
+2,8:08,1,10,PIT 32,3,3,Willis McGahee up the middle for 3 yards (tackle by Chris Hoke),3.450,3.310
+2,7:33,2,7,PIT 29,3,3,Le'Ron McClain left guard for 4 yards (tackle by James Farrior and Travis Kirschke),3.310,3.140
+2,6:46,,,,3,3,Timeout #1 by Pittsburgh Steelers,0.000,3.140
+2,6:46,3,3,PIT 25,3,3,Joe Flacco pass complete short left to Willis McGahee for 5 yards (tackle by Travis Kirschke),3.140,4.240
+2,6:12,1,10,PIT 20,3,3,Willis McGahee right tackle for 5 yards (tackle by James Farrior and Ryan Clark),4.240,4.450
+2,5:37,2,5,PIT 15,3,3,Joe Flacco pass complete short left to Derrick Mason for 6 yards (tackle by Ike Taylor),4.450,5.140
+2,5:14,1,9,PIT 9,3,3,Le'Ron McClain right guard for 1 yard (tackle by Larry Foote),5.140,4.570
+2,4:37,2,8,PIT 8,3,3,Joe Flacco pass incomplete short left intended for Mark Clayton,4.570,3.580
+2,4:29,,,,3,3,Timeout #1 by Baltimore Ravens,0.000,3.580
+2,4:29,3,8,PIT 8,3,3,Willis McGahee up the middle for 6 yards (tackle by James Farrior and Ryan Clark),3.580,3.250
+2,3:52,4,2,PIT 2,6,3,Matt Stover 20 yard field goal good,3.250,3.000
+2,,,,BAL 30,6,3,"Matt Stover kicks off 70 yards, touchback",0.000,0.280
+2,3:48,1,10,PIT 20,6,3,Ben Roethlisberger sacked by Terrell Suggs for -7 yards,0.280,-1.280
+2,3:10,2,17,PIT 13,6,3,Ben Roethlisberger pass complete short right to Rashard Mendenhall for 6 yards (tackle by Ray Lewis),-1.280,-1.140
+2,2:26,3,11,PIT 19,6,3,"Ben Roethlisberger sacked by Bart Scott for -10 yards. Ben Roethlisberger fumbles (forced by Bart Scott), recovered by Willie Colon at PIT-9",-1.140,-2.490
+2,2:00,4,21,PIT 9,6,3,"Mitch Berger punts 35 yards, fair catch by Yamon Figurs",-2.490,-2.650
+2,1:52,1,10,PIT 44,6,3,Joe Flacco pass complete short left to Derrick Mason for 13 yards,2.650,3.510
+,,,,,,,"Replay Assistant challenged the pass completion ruling, and the original play was overturned.",,
+2,1:47,1,10,PIT 31,6,3,Willis McGahee up the middle for 1 yard (tackle by Aaron Smith and Troy Polamalu),3.510,3.100
+2,1:31,,,,6,3,Timeout #2 by Baltimore Ravens,0.000,3.100
+2,1:31,2,9,PIT 30,6,3,Joe Flacco pass complete short right to Le'Ron McClain for 2 yards (tackle by Bryant McFadden),3.100,2.680
+2,0:46,3,7,PIT 28,6,3,Joe Flacco pass complete short middle to Le'Ron McClain for 25 yards (tackle by James Harrison),2.680,6.510
+2,0:28,,,,6,3,Timeout #3 by Baltimore Ravens,0.000,6.510
+2,0:28,1,3,PIT 3,6,3,"Joe Flacco pass incomplete short left intended for Ray Rice. Penalty on Jared Gaither: Illegal Formation, 5 yards (no play)",6.510,5.370
+2,0:26,1,8,PIT 8,6,3,"Joe Flacco pass incomplete short right intended for Mark Clayton. Penalty on Marshall Yanda: Unnecessary Roughness (Offsetting), Penalty on LaMarr Woodley: Unnecessary Roughness (Offsetting)",5.370,4.570
+2,0:22,2,8,PIT 8,6,3,"Penalty on LaMarr Woodley: Neutral Zone Infraction, 4 yards (no play)",4.570,5.340
+2,0:22,2,4,PIT 4,12,3,"Joe Flacco pass complete short left to Daniel Wilcox for 4 yards, touchdown",5.340,7.000
+2,,,,PIT 2,13,3,Matt Stover kicks extra point good,0.000,0.000
+2,,,,BAL 30,13,3,"Matt Stover kicks off 70 yards, touchback",0.000,0.280
+2,0:17,1,10,PIT 20,13,3,Ben Roethlisberger kneels for -1 yards,0.280,-0.460
+Quarter,Time,Down,ToGo,Location,BAL,PIT,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,BAL 30,13,3,"Matt Stover kicks off 66 yards, returned by Mewelde Moore for 18 yards (tackle by Brendon Ayanbadejo)",0.000,0.410
+3,14:54,1,10,PIT 22,13,3,Rashard Mendenhall up the middle for 3 yards (tackle by Ray Lewis and Trevor Pryce),0.410,0.270
+3,14:15,2,7,PIT 25,13,3,Ben Roethlisberger pass complete short left to Heath Miller for 6 yards (tackle by Jarret Johnson),0.270,0.370
+3,13:32,3,1,PIT 31,13,3,"Ben Roethlisberger pass complete short right to Carey Davis for -1 yards (tackle by Jarret Johnson). Carey Davis fumbles (forced by Jarret Johnson), ball out of bounds at PIT-30",0.370,-1.370
+3,13:18,4,2,PIT 30,13,3,"Mitch Berger punts 38 yards, returned by Yamon Figurs for 1 yard (tackle by Matt Spaeth)",-1.370,-1.140
+3,13:06,1,10,BAL 33,13,3,Mark Clayton right end for -1 yards (tackle by Bryant McFadden),1.140,0.460
+3,12:27,2,11,BAL 32,13,3,Joe Flacco pass incomplete short left intended for Derrick Mason,0.460,-0.230
+3,12:21,3,11,BAL 32,13,3,Joe Flacco pass complete deep right to Derrick Mason for 26 yards,-0.230,2.790
+3,11:43,1,10,PIT 42,13,3,Le'Ron McClain right guard for 1 yard (tackle by Nick Eason),2.790,2.380
+3,11:01,2,9,PIT 41,13,3,Le'Ron McClain left end for 5 yards (tackle by James Farrior and Troy Polamalu),2.380,2.340
+3,10:18,3,4,PIT 36,13,3,Joe Flacco pass incomplete short middle intended for Todd Heap (defended by Nick Eason),2.340,0.890
+3,10:13,4,4,PIT 36,13,3,Sam Koch punts 29 yards,0.890,0.380
+3,10:02,1,10,PIT 7,13,3,Ben Roethlisberger pass complete short right to Hines Ward for 8 yards (tackle by Chris McAlister),-0.380,-0.140
+3,9:28,2,2,PIT 15,13,3,Carey Davis right tackle for 8 yards (tackle by Chris McAlister),-0.140,0.480
+3,8:52,1,10,PIT 23,13,3,Carey Davis up the middle for -1 yards (tackle by Haloti Ngata and Bart Scott),0.480,-0.200
+3,8:11,2,11,PIT 22,13,3,Carey Davis up the middle for no gain (tackle by Terrell Suggs),-0.200,-0.890
+3,7:27,3,11,PIT 22,13,3,"Penalty on Willie Colon: False Start, 5 yards (no play)",-0.890,-1.760
+3,7:01,3,16,PIT 17,13,3,Ben Roethlisberger pass incomplete deep left intended for Santonio Holmes,-1.760,-2.320
+3,6:53,4,16,PIT 17,13,3,Mitch Berger punts 44 yards. Penalty on BAL: Defensive 12 On-field (Declined),-2.320,-1.530
+3,6:44,1,10,BAL 39,13,3,Willis McGahee up the middle for 1 yard (tackle by Chris Hoke and James Harrison),1.530,1.120
+3,6:06,2,9,BAL 40,13,3,Joe Flacco pass incomplete short left intended for Derrick Mason,1.120,0.430
+3,6:02,3,9,BAL 40,13,3,Joe Flacco pass incomplete deep left intended for Mark Clayton,0.430,-0.720
+3,5:55,4,9,BAL 40,13,3,Sam Koch punts 27 yards,-0.720,-1.140
+3,5:49,1,10,PIT 33,13,3,"Nate Washington left end for 8 yards (tackle by Corey Ivy). Penalty on Jarret Johnson: Unnecessary Roughness, 15 yards",1.140,2.650
+3,5:28,1,10,BAL 44,13,3,Carey Davis up the middle for 2 yards (tackle by Ray Lewis and Justin Bannan),2.650,2.380
+3,4:54,2,8,BAL 42,13,3,Ben Roethlisberger up the middle for 4 yards (tackle by Jim Leonhard and Ray Lewis),2.380,2.210
+3,4:17,3,4,BAL 38,13,9,"Ben Roethlisberger pass complete short middle to Santonio Holmes for 38 yards, touchdown",2.210,7.000
+3,,,,BAL 2,13,10,Jeff Reed kicks extra point good,0.000,0.000
+3,,,,PIT 30,13,10,"Jeff Reed kicks off 68 yards, returned by Yamon Figurs for 27 yards (tackle by Patrick Bailey)",0.000,0.870
+3,4:04,1,10,BAL 29,13,16,"Joe Flacco sacked by James Harrison for -9 yards. Joe Flacco fumbles (forced by James Harrison), recovered by LaMarr Woodley at BAL-7 and returned for 7 yards, touchdown",0.870,-7.000
+3,,,,BAL 2,13,17,Jeff Reed kicks extra point good,0.000,0.000
+3,,,,PIT 30,13,17,"Jeff Reed kicks off 46 yards, returned by Lorenzo Neal for 2 yards (tackle by Anthony Madison)",0.000,0.670
+3,3:51,1,10,BAL 26,13,17,Le'Ron McClain up the middle for 4 yards (tackle by James Harrison and Travis Kirschke),0.670,0.670
+3,3:06,,,,13,17,Timeout #1 by Baltimore Ravens,0.000,0.670
+3,3:06,2,6,BAL 30,13,17,Joe Flacco pass incomplete short right intended for Mark Clayton,0.670,-0.030
+3,3:02,3,6,BAL 30,13,17,"Joe Flacco sacked by LaMarr Woodley for -15 yards. Joe Flacco fumbles (forced by LaMarr Woodley), recovered by Marshall Yanda at BAL-13",-0.030,-2.490
+3,2:22,4,23,BAL 13,13,17,"Sam Koch punts 61 yards, returned by Santonio Holmes for 13 yards (tackle by Tavares Gooden)",-2.490,-1.530
+3,2:10,1,10,PIT 39,13,17,Ben Roethlisberger pass complete short left to Nate Washington for 11 yards (tackle by Bart Scott),1.530,2.260
+3,1:43,1,10,PIT 50,13,17,Carey Davis left guard for 3 yards (tackle by Marques Douglas and Haloti Ngata),2.260,2.120
+3,1:43,2,7,BAL 47,13,17,Carey Davis up the middle for -1 yards (tackle by Ray Lewis),2.120,1.290
+3,0:27,3,8,BAL 48,13,17,Ben Roethlisberger pass incomplete short middle intended for Hines Ward (defended by Jarret Johnson),1.290,0.070
+3,0:21,4,8,BAL 48,13,17,Mitch Berger punts 39 yards,0.070,0.380
+3,0:10,1,10,BAL 9,13,17,Le'Ron McClain right tackle for 6 yards (tackle by LaMarr Woodley),-0.380,-0.280
+Quarter,Time,Down,ToGo,Location,BAL,PIT,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,4,BAL 15,13,17,Le'Ron McClain left tackle for 2 yards (tackle by Travis Kirschke),-0.280,-0.480
+4,14:17,3,2,BAL 17,13,17,Joe Flacco pass incomplete short left intended for Le'Ron McClain (defended by Larry Foote),-0.480,-2.320
+4,14:13,4,2,BAL 17,13,17,"Sam Koch punts 49 yards, returned by Santonio Holmes for 5 yards (tackle by Antwan Barnes)",-2.320,-1.530
+4,14:03,1,10,PIT 39,13,17,Carey Davis up the middle for 2 yards (tackle by Justin Bannan),1.530,1.260
+4,13:20,2,8,PIT 41,13,17,"Ben Roethlisberger left tackle for 9 yards (tackle by Bart Scott). Penalty on Hines Ward: Illegal Formation (Offsetting), Penalty on Ray Lewis: Defensive Holding (Offsetting) (no play)",1.260,1.260
+4,12:49,,,,13,17,Timeout #1 by Pittsburgh Steelers,0.000,1.260
+4,12:49,2,8,PIT 41,13,17,Ben Roethlisberger pass complete deep right to Hines Ward for 49 yards (tackle by Ed Reed),1.260,4.910
+4,11:52,,,,13,17,Timeout #2 by Pittsburgh Steelers,0.000,4.910
+4,11:52,1,10,BAL 10,13,17,Carey Davis right tackle for 2 yards (tackle by Ray Lewis and Ed Reed),4.910,4.570
+4,11:08,2,8,BAL 8,13,17,"Ben Roethlisberger pass incomplete short right intended for Matt Spaeth. Penalty on Marques Douglas: Defensive Holding, 4 yards (no play)",4.570,6.280
+4,10:59,1,4,BAL 4,13,17,Ben Roethlisberger pass incomplete,6.280,5.340
+4,10:52,2,4,BAL 4,13,17,Mewelde Moore up the middle for 3 yards (tackle by Justin Bannan and Ray Lewis),5.340,5.170
+4,10:09,3,1,BAL 1,13,17,Mewelde Moore right tackle for no gain (tackle by Ray Lewis and Bart Scott),5.170,3.550
+4,9:23,4,1,BAL 1,13,20,Jeff Reed 19 yard field goal good,3.550,3.000
+4,,,,PIT 30,13,20,"Jeff Reed kicks off 72 yards, returned by Yamon Figurs for 26 yards (tackle by Anthony Madison)",0.000,0.540
+4,9:13,1,10,BAL 24,13,20,Le'Ron McClain left guard for 2 yards (tackle by Travis Kirschke and James Harrison),0.540,0.270
+4,8:34,2,8,BAL 26,13,20,Joe Flacco pass complete short middle to Derrick Mason for 15 yards (tackle by Ryan Clark),0.270,1.660
+4,7:56,1,10,BAL 41,13,20,Le'Ron McClain left guard for 11 yards (tackle by Troy Polamalu and Ryan Clark),1.660,2.390
+4,7:16,1,10,PIT 48,13,20,Joe Flacco pass complete short right to Derrick Mason for 10 yards (tackle by Bryant McFadden),2.390,3.050
+4,6:36,1,10,PIT 38,13,20,Le'Ron McClain left guard for 2 yards (tackle by Troy Polamalu and Ryan Clark),3.050,2.780
+4,5:54,2,8,PIT 36,13,20,Joe Flacco sacked by LaMarr Woodley and James Harrison for -4 yards,2.780,1.550
+4,5:18,3,12,PIT 40,13,20,Joe Flacco pass complete deep right to Derrick Mason for 35 yards (tackle by Troy Polamalu),1.550,6.060
+4,4:44,1,5,PIT 5,13,20,Le'Ron McClain up the middle for 3 yards (tackle by Aaron Smith and Ryan Clark),6.060,5.720
+4,4:07,2,2,PIT 2,19,20,"Le'Ron McClain left end for 2 yards, touchdown",5.720,7.000
+4,,,,PIT 2,20,20,Matt Stover kicks extra point good,0.000,0.000
+4,,,,BAL 30,20,20,"Matt Stover kicks off 62 yards, returned by Mewelde Moore for 22 yards (tackle by Tom Zbikowski)",0.000,0.940
+4,3:57,1,10,PIT 30,20,20,Mewelde Moore right tackle for 5 yards (tackle by Bart Scott),0.940,1.070
+4,3:20,2,5,PIT 35,20,20,Mewelde Moore left tackle for 2 yards (tackle by Jim Leonhard and Chris McAlister),1.070,0.630
+4,2:51,,,,20,20,Timeout #2 by Baltimore Ravens,0.000,0.630
+4,2:51,3,3,PIT 37,20,20,Ben Roethlisberger pass complete short left to Mewelde Moore for 6 yards (tackle by Bart Scott),0.630,1.800
+4,2:16,1,10,PIT 43,20,20,Mewelde Moore up the middle for 5 yards (tackle by Antwan Barnes and Terrell Suggs),1.800,1.930
+4,2:00,2,5,PIT 48,20,20,Ben Roethlisberger pass incomplete deep left intended for Mewelde Moore,1.930,1.220
+4,1:53,3,5,PIT 48,20,20,Ben Roethlisberger pass incomplete short middle intended for Santonio Holmes (defended by Ray Lewis),1.220,-0.190
+4,1:50,4,5,PIT 48,20,20,"Penalty on Mitch Berger: Delay of Game, 5 yards (no play)",-0.190,-0.520
+4,1:49,4,10,PIT 43,20,20,Mitch Berger punts 44 yards,-0.520,0.320
+4,1:40,1,10,BAL 13,20,20,Le'Ron McClain right guard for 8 yards (tackle by LaMarr Woodley and Larry Foote),-0.320,0.350
+4,1:12,2,2,BAL 21,20,20,Le'Ron McClain right guard for 4 yards (tackle by LaMarr Woodley and Troy Polamalu),0.350,0.610
+4,0:46,,,,20,20,Timeout #3 by Baltimore Ravens,0.000,0.610
+4,0:46,1,10,BAL 25,20,20,Ray Rice left guard for no gain (tackle by James Harrison and Deshea Townsend),0.610,0.060
+4,0:07,2,10,BAL 25,20,20,"Joe Flacco kneels for -1 yards. Penalty on Adam Terry: Illegal Formation, 5 yards (no play)",0.060,-0.610
+4,0:07,2,15,BAL 20,20,20,Joe Flacco kneels for -1 yards,-0.610,0.000
+Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime
+Quarter,Time,Down,ToGo,Location,BAL,PIT,Detail,EPB,EPA
+,,,,,,,"Ravens won the coin toss, Ravens to receive the overtime kickoff.",,
+OT,,,,PIT 30,20,20,"Jeff Reed kicks off 73 yards, returned by Yamon Figurs for 51 yards (tackle by Ike Taylor). Penalty on Haruki Nakamura: Offensive Holding (Declined), Penalty on Antwan Barnes: Offensive Holding, 10 yards",0.000,-0.220
+OT,14:41,1,10,BAL 15,20,20,Le'Ron McClain right guard for 1 yard (tackle by James Farrior and Travis Kirschke),-0.220,-0.580
+OT,14:41,2,9,BAL 16,20,20,"Joe Flacco pass incomplete deep right intended for Derrick Mason (defended by Bryant McFadden). Penalty on Le'Ron McClain: Chop Block, 8 yards (no play)",-0.580,-1.290
+OT,13:59,2,17,BAL 8,20,20,Le'Ron McClain left end for 7 yards (tackle by Troy Polamalu),-1.290,-1.370
+OT,13:16,3,10,BAL 15,20,20,Joe Flacco sacked by Lawrence Timmons for -3 yards,-1.370,-2.490
+OT,13:03,4,13,BAL 12,20,20,"Sam Koch punts 49 yards, returned by Santonio Holmes for 4 yards (tackle by Antwan Barnes)",-2.490,-1.800
+OT,12:51,1,10,PIT 43,20,20,Mewelde Moore up the middle for 2 yards (tackle by Ray Lewis and Jim Leonhard),1.800,1.520
+OT,12:07,2,8,PIT 45,20,20,Ben Roethlisberger pass incomplete deep left intended for Santonio Holmes,1.520,0.830
+OT,12:03,3,8,PIT 45,20,20,Ben Roethlisberger pass complete short middle to Mewelde Moore for 24 yards (tackle by Jim Leonhard),0.830,3.510
+OT,11:14,1,10,BAL 31,20,20,Mewelde Moore up the middle for no gain (tackle by Marques Douglas),3.510,2.970
+OT,10:31,2,10,BAL 31,20,20,Mewelde Moore up the middle for -4 yards (tackle by Terrell Suggs),2.970,1.750
+OT,9:47,3,14,BAL 35,20,20,Ben Roethlisberger pass complete short left to Mewelde Moore for 7 yards (tackle by Terrell Suggs),1.750,1.590
+OT,9:01,,,,20,20,Timeout #1 by Baltimore Ravens,0.000,1.590
+OT,9:01,4,7,BAL 28,20,23,Jeff Reed 46 yard field goal good,1.590,3.000
+End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime

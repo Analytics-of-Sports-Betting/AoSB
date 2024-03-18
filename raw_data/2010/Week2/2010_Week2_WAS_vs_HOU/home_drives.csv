@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,WAS 20,9,5:23,57,Field Goal
+2,1,7:59,HOU 42,5,2:11,33,Field Goal
+3,2,14:56,WAS 27,5,2:27,73,Touchdown
+4,2,10:51,WAS 16,5,2:36,23,Punt
+5,2,2:19,WAS 37,4,0:59,63,Touchdown
+6,3,9:22,WAS 8,9,5:31,92,Touchdown
+7,4,15:00,WAS 20,3,1:45,-9,Punt
+8,4,11:10,WAS 37,8,4:34,53,Blocked FG
+9,4,5:06,WAS 49,3,1:50,-3,Punt
+10,4,2:03,WAS 31,3,1:14,-12,Punt
+11,5,10:29,WAS 20,8,3:17,46,Missed FG

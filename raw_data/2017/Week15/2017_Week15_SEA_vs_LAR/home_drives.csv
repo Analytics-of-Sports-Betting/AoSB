@@ -1,0 +1,16 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,SEA 16,3,1:24,24,Fumble
+2,1,12:06,SEA 25,3,1:06,-10,Punt
+3,1,8:21,SEA 20,3,2:21,-10,Punt
+4,1,5:57,SEA 25,7,3:35,25,Punt
+5,2,11:38,SEA 13,3,1:23,-5,Punt
+6,2,8:13,SEA 40,2,0:46,-1,Fumble
+7,2,3:26,SEA 20,5,2:07,7,Punt
+8,2,0:28,SEA 17,1,0:28,9,End of Half
+9,3,13:18,SEA 21,4,2:22,5,Punt
+10,3,7:04,SEA 34,3,1:39,-8,Punt
+11,3,3:11,SEA 23,7,1:48,77,Touchdown
+12,4,13:25,SEA 10,3,0:46,-1,Punt
+13,4,10:19,SEA 5,0,0:05,-5,Safety
+14,4,5:42,SEA 28,6,1:34,12,Punt
+15,4,1:50,LAR 45,3,1:50,10,End of Game

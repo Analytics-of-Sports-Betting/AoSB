@@ -1,0 +1,184 @@
+Quarter,Time,Down,ToGo,Location,CHI,NWE,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Patriots won the coin toss, Patriots to receive the opening kickoff.",,
+1,15:00,,,CHI 30,0,0,"Robbie Gould kicks off 66 yards, returned by Laurence Maroney for 23 yards (tackle by Danieal Manning)",0.000,0.740
+1,14:52,1,10,NWE 27,0,0,Corey Dillon for 3 yards,0.740,0.600
+1,14:27,2,7,NWE 30,0,0,Tom Brady pass incomplete short right intended for Ben Watson,0.600,-0.100
+1,14:23,3,7,NWE 30,0,0,Tom Brady pass incomplete short right intended for Reche Caldwell,-0.100,-1.370
+1,14:19,4,7,NWE 30,0,0,"Ken Walter punts 45 yards, fair catch by Devin Hester",-1.370,-0.610
+1,14:11,1,10,CHI 25,0,0,Rex Grossman pass complete short right to Muhsin Muhammad for 5 yards (tackle by Asante Samuel),0.610,0.740
+1,13:37,2,5,CHI 30,0,0,Rex Grossman pass incomplete short left intended for Thomas Jones,0.740,0.040
+1,13:34,3,5,CHI 30,0,0,Rex Grossman pass incomplete short right intended for Bernard Berrian is intercepted by Asante Samuel at CHI-39,0.040,-2.980
+1,13:30,1,10,CHI 39,0,0,Laurence Maroney middle for 3 yards (tackle by Todd Johnson),2.980,2.850
+1,12:54,2,7,CHI 36,0,0,Tom Brady pass complete short middle to Ben Watson for 10 yards (tackle by Brian Urlacher and Lance Briggs),2.850,3.840
+1,12:16,1,10,CHI 26,0,0,Tom Brady pass incomplete short middle intended for Ben Watson,3.840,3.300
+1,12:12,2,10,CHI 26,0,0,Laurence Maroney right tackle for 2 yards (tackle by Adewale Ogunleye and Lance Briggs),3.300,2.870
+1,11:31,3,8,CHI 24,0,0,Tom Brady pass incomplete deep middle intended for Ben Watson is intercepted by Charles Tillman at CHI-1 and returned for 5 yards,2.870,0.380
+1,11:21,1,10,CHI 6,0,0,Thomas Jones right tackle for 1 yard (tackle by Ty Warren and Rosevelt Colvin),-0.380,-0.710
+1,10:49,2,9,CHI 7,0,0,Thomas Jones left end for 8 yards (tackle by James Sanders),-0.710,-0.370
+1,10:12,3,1,CHI 15,0,0,Rex Grossman pass complete short left to Desmond Clark for 9 yards (tackle by Tedy Bruschi),-0.370,0.540
+1,9:39,1,10,CHI 24,0,0,Rex Grossman pass incomplete deep right intended for Muhsin Muhammad,0.540,0.000
+1,9:34,2,10,CHI 24,0,0,Thomas Jones right end for no gain (tackle by Ty Warren and James Sanders),0.000,-0.690
+1,8:50,3,10,CHI 24,0,0,Rex Grossman pass complete short right to Bernard Berrian for 13 yards (tackle by Asante Samuel),-0.690,1.400
+1,8:07,1,10,CHI 37,0,0,Rex Grossman pass incomplete deep left intended for Bernard Berrian,1.400,0.860
+1,8:00,2,10,CHI 37,0,0,Thomas Jones left guard for no gain (tackle by Rosevelt Colvin and Jarvis Green),0.860,0.170
+1,7:19,3,10,CHI 37,0,0,Rex Grossman pass complete short left to Mark Bradley for 15 yards (tackle by Ellis Hobbs). Penalty on Ellis Hobbs: Illegal Contact (Declined),0.170,2.390
+1,7:05,1,10,NWE 48,0,0,Thomas Jones left tackle for 2 yards (tackle by Rosevelt Colvin),2.390,2.120
+1,6:32,2,8,NWE 46,0,0,Rex Grossman pass complete deep left to Bernard Berrian for 21 yards (tackle by James Sanders and Artrell Hawkins),2.120,3.910
+1,5:50,1,10,NWE 25,0,0,Thomas Jones right end for 3 yards (tackle by Asante Samuel),3.910,3.770
+1,5:13,2,7,NWE 22,0,0,Rex Grossman pass incomplete deep right intended for Muhsin Muhammad,3.770,3.070
+1,5:08,3,7,NWE 22,0,0,Rex Grossman pass incomplete deep middle intended for Bernard Berrian,3.070,1.990
+1,5:02,4,7,NWE 22,0,0,"Robbie Gould 40 yard field goal good. Penalty on Alfonso Boone: False Start, 5 yards (no play)",1.990,1.670
+1,5:02,4,12,NWE 27,0,0,"Robbie Gould 45 yard field goal no good, blocked by Richard Seymour",1.670,-1.270
+1,4:58,1,10,NWE 35,0,0,Corey Dillon left end for 1 yard (tackle by Brian Urlacher),1.270,0.860
+1,4:19,2,9,NWE 36,0,0,Tom Brady pass complete short left to Laurence Maroney for 4 yards (tackle by Hunter Hillenmeyer and Nathan Vasher),0.860,0.700
+1,3:38,3,5,NWE 40,0,0,Tom Brady pass complete short right to Troy Brown for 13 yards (tackle by Lance Briggs and Charles Tillman),0.700,2.460
+1,3:07,1,10,CHI 47,0,0,"Corey Dillon right tackle for 26 yards (tackle by Danieal Manning). Penalty on Danieal Manning: Unnecessary Roughness, 10 yards",2.460,4.840
+1,2:45,1,10,CHI 11,0,0,"Laurence Maroney middle for -4 yards (tackle by Lance Briggs). Laurence Maroney fumbles (forced by Lance Briggs), recovered by Lance Briggs at CHI-15",4.840,0.220
+1,2:38,1,10,CHI 15,0,0,Cedric Benson left guard for 3 yards (tackle by Vince Wilfork and Jarvis Green),-0.220,-0.280
+1,2:04,2,7,CHI 18,0,0,Rex Grossman pass complete short left to Bernard Berrian for 13 yards (tackle by Ellis Hobbs),-0.280,1.000
+1,1:26,1,10,CHI 31,0,0,Cedric Benson left tackle for 14 yards (tackle by Artrell Hawkins and Ellis Hobbs),1.000,1.930
+1,0:49,1,10,CHI 45,0,0,Cedric Benson middle for 1 yard (tackle by Vince Wilfork and Mike Vrabel),1.930,1.520
+1,0:13,2,9,CHI 46,0,0,Rex Grossman pass complete deep right to Bernard Berrian for 47 yards (tackle by Asante Samuel),1.520,5.600
+,,,,,,,"NWE challenged the ruling, and the play was upheld.",,
+Quarter,Time,Down,ToGo,Location,CHI,NWE,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,7,NWE 7,0,0,Rex Grossman pass incomplete short right intended for Jason McKie,5.600,4.760
+2,14:55,2,7,NWE 7,0,0,Cedric Benson left tackle for 2 yards (tackle by Rosevelt Colvin and Tedy Bruschi),4.760,4.260
+2,14:15,3,5,NWE 5,0,0,"Rex Grossman for no gain. Rex Grossman fumbles, recovered by Richard Seymour at NWE-8 (tackle by Ruben Brown)",4.260,0.380
+2,14:12,1,10,NWE 8,0,0,Laurence Maroney right guard for 7 yards (tackle by Adewale Ogunleye and Brian Urlacher),-0.380,-0.210
+2,13:38,2,3,NWE 15,0,0,Laurence Maroney left tackle for -1 yards (tackle by Brian Urlacher and Hunter Hillenmeyer),-0.210,-0.720
+2,13:07,3,4,NWE 14,0,0,Tom Brady pass complete short left to Kevin Faulk for 7 yards (tackle by Brendon Ayanbadejo),-0.720,0.340
+2,12:31,1,10,NWE 21,0,0,Tom Brady pass complete deep middle to Daniel Graham for 25 yards (tackle by Hunter Hillenmeyer),0.340,1.990
+2,11:48,1,10,NWE 46,0,0,Tom Brady pass complete short right to Ben Watson for 9 yards (tackle by Chris Harris),1.990,2.670
+2,11:30,2,1,CHI 45,0,0,Laurence Maroney left tackle for 3 yards (tackle by Chris Harris and Danieal Manning),2.670,2.790
+2,10:54,1,10,CHI 42,0,0,Tom Brady pass complete short left to Reche Caldwell for 15 yards (tackle by Nathan Vasher),2.790,3.780
+2,10:29,1,10,CHI 27,0,0,Laurence Maroney middle for 6 yards (tackle by Ian Scott and Brian Urlacher),3.780,4.040
+2,9:53,2,4,CHI 21,0,0,Laurence Maroney left guard for 8 yards (tackle by Chris Harris),4.040,4.710
+2,9:30,1,10,CHI 13,0,0,Tom Brady pass complete short right to Laurence Maroney for 12 yards (tackle by Charles Tillman),4.710,6.970
+2,9:08,1,1,CHI 1,0,6,"Laurence Maroney right guard for 1 yard, touchdown",6.970,7.000
+2,9:08,,,CHI 2,0,7,"Stephen Gostkowski kicks extra point good. Penalty on Devin Hester: Defensive Offside, 5 yards",0.000,0.000
+2,9:07,,,NWE 35,0,7,"Stephen Gostkowski kicks off 68 yards, returned by Rashied Davis for 28 yards (tackle by Patrick Pass)",0.000,0.610
+2,9:02,1,10,CHI 25,0,7,Rex Grossman pass incomplete short right intended for Desmond Clark,0.610,0.060
+2,8:57,2,10,CHI 25,0,7,Cedric Benson right tackle for no gain (tackle by Junior Seau),0.060,-0.620
+2,8:35,3,10,CHI 25,0,7,Rex Grossman pass complete short left to Muhsin Muhammad for 14 yards (tackle by Mike Vrabel),-0.620,1.530
+2,7:58,1,10,CHI 39,0,7,Cedric Benson middle for 16 yards (tackle by Artrell Hawkins and Richard Seymour),1.530,2.590
+2,7:21,1,10,NWE 45,0,7,Rex Grossman pass complete short right to John Gilmore for 2 yards (tackle by Vince Wilfork),2.590,2.310
+2,6:38,2,8,NWE 43,0,7,Jason McKie middle for 7 yards (tackle by Richard Seymour and Tully Banta-Cain),2.310,2.540
+2,6:00,3,1,NWE 36,0,7,Thomas Jones middle for 1 yard (tackle by Vince Wilfork),2.540,3.250
+2,5:35,1,10,NWE 35,0,7,Rex Grossman pass complete short right to John Gilmore for 3 yards (tackle by Rosevelt Colvin),3.250,3.110
+2,4:52,2,7,NWE 32,0,7,Cedric Benson middle for 3 yards (tackle by Tully Banta-Cain and Richard Seymour),3.110,2.810
+2,4:14,3,4,NWE 29,0,7,Rex Grossman pass incomplete short right intended for Rashied Davis,2.810,1.560
+2,4:09,4,4,NWE 29,3,7,Robbie Gould 46 yard field goal good,1.560,3.000
+2,4:04,,,CHI 30,3,7,"Robbie Gould kicks off 63 yards, muffed catch by Laurence Maroney, recovered by Laurence Maroney at NE-9, and returned for 35 yards",0.000,1.860
+2,3:56,1,10,NWE 44,3,7,Tom Brady pass complete short right to Corey Dillon for 3 yards (tackle by Hunter Hillenmeyer),1.860,1.720
+2,3:29,2,7,NWE 47,3,7,Corey Dillon right tackle for -4 yards (tackle by Tank Johnson),1.720,0.500
+2,2:50,3,11,NWE 43,3,7,Tom Brady pass incomplete deep left intended for Chad Jackson,0.500,-0.520
+2,2:43,4,11,NWE 43,3,7,"Ken Walter punts 35 yards, out of bounds",-0.520,-0.410
+2,2:35,1,10,CHI 22,3,7,Rex Grossman pass complete short right to Bernard Berrian for 10 yards (tackle by Asante Samuel),0.410,1.070
+2,2:13,1,10,CHI 32,3,7,Rex Grossman pass incomplete deep middle intended for Bernard Berrian,1.070,0.530
+2,2:07,2,10,CHI 32,3,7,Rex Grossman pass incomplete short left intended for Muhsin Muhammad,0.530,-0.160
+2,2:01,3,10,CHI 32,3,7,Rex Grossman pass complete short right to Desmond Clark for 5 yards (tackle by Mike Vrabel),-0.160,-0.910
+2,1:55,4,5,CHI 37,3,7,Brad Maynard punts 24 yards,-0.910,-1.530
+2,1:44,1,10,NWE 39,3,7,Tom Brady pass complete short middle to Kevin Faulk for 4 yards (tackle by Brian Urlacher and Lance Briggs),1.530,1.530
+2,1:25,2,6,NWE 43,3,7,Tom Brady pass complete short middle to Kevin Faulk for 7 yards (tackle by Brian Urlacher and Hunter Hillenmeyer),1.530,2.260
+2,1:10,1,10,NWE 50,3,7,Tom Brady left guard for 1 yard (tackle by Tommie Harris),2.260,1.850
+2,1:03,,,,3,7,Timeout #2 by New England Patriots,0.000,1.850
+2,1:03,2,9,CHI 49,3,7,Tom Brady pass complete short right to Kevin Faulk for 6 yards (tackle by Lance Briggs and Brian Urlacher),1.850,1.950
+2,0:40,3,3,CHI 43,3,7,Tom Brady pass complete short middle to Laurence Maroney for 9 yards (tackle by Charles Tillman),1.950,3.310
+2,0:20,1,10,CHI 34,3,7,Tom Brady pass incomplete short right intended for Reche Caldwell,3.310,2.770
+,,,,,,,"Replay Assistant challenged the ruling, and the original play was overturned.",,
+2,0:16,2,10,CHI 34,3,7,Tom Brady pass incomplete short right intended for Ben Watson (defended by Lance Briggs),2.770,2.080
+2,0:12,,,,3,7,Timeout #1 by Chicago Bears,0.000,2.080
+2,0:12,3,10,CHI 34,3,7,Tom Brady pass incomplete deep left intended for Ben Watson,2.080,1.060
+,,,,,,,"Replay Assistant challenged the ruling, and the original play was overturned.",,
+2,0:06,,,,3,7,Timeout #2 by Chicago Bears,0.000,1.060
+2,0:06,4,10,CHI 34,3,10,Stephen Gostkowski 52 yard field goal good,1.060,3.000
+2,0:01,,,NWE 30,3,10,Stephen Gostkowski kicks onside 18 yards,0.000,0.940
+Quarter,Time,Down,ToGo,Location,CHI,NWE,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,NWE 30,,,"Stephen Gostkowski kicks off 55 yards, returned by Devin Hester for 21 yards",,
+3,14:53,1,10,CHI 36,3,10,Thomas Jones right tackle for 4 yards (tackle by Tedy Bruschi),1.330,1.330
+3,14:13,2,6,CHI 40,3,10,Thomas Jones middle for 4 yards (tackle by Vince Wilfork and Ty Warren),1.330,1.160
+3,13:41,3,2,CHI 44,3,10,Thomas Jones left tackle for 1 yard (tackle by Vince Wilfork and Jarvis Green),1.160,-0.390
+3,13:20,4,1,CHI 45,3,10,"Brad Maynard punts 55 yards, touchback",-0.390,-0.280
+3,13:12,1,10,NWE 20,3,10,Corey Dillon right tackle for no gain (tackle by Lance Briggs and Adewale Ogunleye),0.280,-0.270
+3,12:37,2,10,NWE 20,3,10,Corey Dillon middle for no gain (tackle by Chris Harris),-0.270,-0.960
+3,12:02,3,10,NWE 20,3,10,Tom Brady pass complete short left to Kevin Faulk for 4 yards (tackle by Nathan Vasher),-0.960,-1.770
+3,11:24,4,6,NWE 24,3,10,"Ken Walter punts 32 yards, fair catch by Devin Hester",-1.770,-1.860
+3,11:18,1,10,CHI 44,3,10,Rex Grossman pass incomplete deep left intended for Bernard Berrian,1.860,1.320
+3,11:11,2,10,CHI 44,3,10,Rex Grossman pass incomplete short right intended for Bernard Berrian (defended by Ellis Hobbs),1.320,0.630
+3,11:07,3,10,CHI 44,3,10,"Penalty on Thomas Jones: False Start, 5 yards (no play)",0.630,-0.030
+3,11:07,3,15,CHI 39,3,10,Rex Grossman sacked by Richard Seymour for -5 yards,-0.030,-1.110
+3,10:58,4,20,CHI 34,3,10,"Brad Maynard punts 36 yards, returned by Kevin Faulk for 2 yards (tackle by Brendon Ayanbadejo)",-1.110,-1.070
+3,10:50,1,10,NWE 32,3,10,Heath Evans middle for no gain (tackle by Tank Johnson and Tommie Harris),1.070,0.530
+3,10:11,2,10,NWE 32,3,10,Tom Brady pass complete short middle to Laurence Maroney for 20 yards (tackle by Charles Tillman and Lance Briggs),0.530,2.390
+3,9:31,1,10,CHI 48,3,10,Laurence Maroney left tackle for 3 yards (tackle by Brian Urlacher and Lance Briggs),2.390,2.250
+3,8:55,2,7,CHI 45,3,10,Tom Brady pass incomplete deep right intended for Chad Jackson (defended by Charles Tillman),2.250,1.550
+3,8:49,3,7,CHI 45,3,10,"Tom Brady pass complete deep middle to Ben Watson for 21 yards (tackle by Lance Briggs). Ben Watson fumbles (forced by Danieal Manning), recovered by Danieal Manning at CHI-13 (tackle by Troy Brown). Penalty on Charles Tillman: Unnecessary Roughness, 6 yards",1.550,0.380
+3,8:38,1,10,CHI 7,3,10,Thomas Jones right guard for 3 yards (tackle by Jarvis Green and Mike Vrabel),-0.380,-0.560
+3,8:05,2,7,CHI 10,3,10,Rex Grossman pass complete deep left to Muhsin Muhammad for 18 yards (tackle by Ellis Hobbs),-0.560,0.810
+3,7:27,1,10,CHI 28,3,10,Rex Grossman pass incomplete deep right intended for Muhsin Muhammad,0.810,0.260
+3,7:21,2,10,CHI 28,3,10,Thomas Jones middle for 6 yards (tackle by Ty Warren and Mike Vrabel),0.260,0.370
+3,6:46,3,4,CHI 34,3,10,Thomas Jones right guard for 17 yards (tackle by James Sanders),0.370,2.320
+3,6:09,1,10,NWE 49,3,10,Thomas Jones right guard for 3 yards (tackle by Mike Vrabel and Mike Wright),2.320,2.190
+3,5:33,2,7,NWE 46,3,10,Thomas Jones right guard for 5 yards (tackle by Tedy Bruschi),2.190,2.150
+3,4:55,3,2,NWE 41,3,10,Thomas Jones right end for 1 yard (tackle by Asante Samuel),2.150,0.590
+3,4:25,4,1,NWE 40,3,10,Rex Grossman middle for 1 yard (tackle by Ty Warren and Vince Wilfork),0.590,2.980
+3,4:07,1,10,NWE 39,3,10,"Penalty on Rosevelt Colvin: Defensive Offside, 5 yards (no play)",2.980,3.710
+3,3:49,1,5,NWE 34,3,10,Thomas Jones right guard for 3 yards (tackle by Ty Warren and Artrell Hawkins),3.710,3.520
+3,3:13,2,2,NWE 31,3,10,Thomas Jones middle for 2 yards (tackle by Tedy Bruschi and Mike Vrabel),3.520,3.640
+3,2:38,1,10,NWE 29,3,10,Rex Grossman pass incomplete deep right intended for Desmond Clark is intercepted by Asante Samuel at NWE-7 and returned for 27 yards,3.640,-1.200
+3,2:28,1,10,NWE 34,3,10,Corey Dillon right guard for 4 yards (tackle by Chris Harris and Alfonso Boone),1.200,1.200
+3,1:53,2,6,NWE 38,3,10,Corey Dillon left tackle for 3 yards (tackle by Chris Harris and Israel Idonije),1.200,0.890
+3,1:20,3,3,NWE 41,3,10,Tom Brady pass incomplete short middle intended for Troy Brown is intercepted by Charles Tillman at CHI-44 and returned for 3 yards,0.890,-2.060
+3,1:07,1,10,CHI 47,3,10,Cedric Benson left guard for 2 yards (tackle by Vince Wilfork),2.060,1.790
+3,0:32,2,8,CHI 49,3,10,Rex Grossman pass incomplete short left intended for Desmond Clark,1.790,1.090
+3,0:29,3,8,CHI 49,3,10,"Rex Grossman pass incomplete deep right intended for Bernard Berrian. Penalty on Artrell Hawkins: Defensive Pass Interfere, 45 yards (no play)",1.090,5.830
+3,0:21,1,6,NWE 6,3,10,Cedric Benson right guard for 3 yards (tackle by Ty Warren and Tedy Bruschi),5.830,5.530
+Quarter,Time,Down,ToGo,Location,CHI,NWE,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,3,NWE 3,3,10,"Rex Grossman pass incomplete short middle intended for Muhsin Muhammad. Penalty on Ellis Hobbs: Defensive Holding, 1 yards (no play)",5.530,6.740
+4,14:57,1,2,NWE 2,9,10,"Cedric Benson left guard for 2 yards, touchdown",6.740,7.000
+4,14:57,,,NWE 2,10,10,Robbie Gould kicks extra point good,0.000,0.000
+4,14:53,,,CHI 30,10,10,"Robbie Gould kicks off 61 yards, returned by Laurence Maroney for 18 yards (tackle by Israel Idonije)",0.000,0.740
+4,14:46,1,10,NWE 27,10,10,Tom Brady pass complete short left to Ben Watson for 5 yards (tackle by Chris Harris),0.740,0.870
+4,14:28,2,5,NWE 32,10,10,Laurence Maroney right tackle for 2 yards (tackle by Brian Urlacher and Alex Brown),0.870,0.430
+4,13:48,3,3,NWE 34,10,10,Tom Brady pass complete deep left to Ben Watson for 40 yards (tackle by Danieal Manning),0.430,3.840
+4,13:02,1,10,CHI 26,10,10,Chad Jackson middle for -8 yards (tackle by Adewale Ogunleye and Tank Johnson),3.840,2.220
+4,12:14,2,18,CHI 34,10,10,Tom Brady pass complete short right to Kevin Faulk for 9 yards (tackle by Hunter Hillenmeyer and Lance Briggs),2.220,2.740
+4,11:34,3,9,CHI 25,10,10,Tom Brady middle for 11 yards (tackle by Charles Tillman),2.740,4.650
+4,10:53,1,10,CHI 14,10,10,Heath Evans middle for 6 yards (tackle by Hunter Hillenmeyer and Tommie Harris),4.650,5.090
+4,10:14,2,4,CHI 8,10,10,Laurence Maroney left tackle for 2 yards (tackle by Lance Briggs and Adewale Ogunleye),5.090,4.730
+4,9:39,3,2,CHI 6,10,10,Tom Brady middle for 3 yards (tackle by Lance Briggs and Alex Brown),4.730,6.510
+4,8:55,1,3,CHI 3,10,10,Laurence Maroney right tackle for 1 yard (tackle by Adewale Ogunleye and Brian Urlacher),6.510,5.720
+4,8:25,2,2,CHI 2,10,16,"Tom Brady pass complete short left to Ben Watson for 2 yards, touchdown",5.720,7.000
+4,8:25,,,CHI 2,10,17,Stephen Gostkowski kicks extra point good,0.000,0.000
+4,8:22,,,NWE 30,10,17,"Stephen Gostkowski kicks off 71 yards, returned by Rashied Davis for 21 yards (tackle by Pierre Woods)",0.000,0.280
+4,8:17,1,10,CHI 20,10,17,Rex Grossman pass incomplete short middle intended for John Gilmore (defended by Richard Seymour),0.280,-0.270
+4,8:13,2,10,CHI 20,10,17,Thomas Jones middle for 9 yards (tackle by James Sanders),-0.270,0.230
+4,7:39,3,1,CHI 29,10,17,Thomas Jones right guard for 3 yards (tackle by Mike Vrabel),0.230,1.070
+4,7:17,1,10,CHI 32,10,17,Thomas Jones right end for 17 yards (tackle by Artrell Hawkins),1.070,2.190
+4,6:36,1,10,CHI 49,10,17,Thomas Jones middle for 3 yards (tackle by Mike Vrabel),2.190,2.050
+4,6:00,2,7,NWE 48,10,17,Rex Grossman pass incomplete short middle intended for Muhsin Muhammad,2.050,1.360
+4,5:55,3,7,NWE 48,10,17,"Rex Grossman pass incomplete deep left intended for Bernard Berrian. Penalty on Ellis Hobbs: Defensive Pass Interfere, 30 yards (no play)",1.360,4.370
+4,5:49,1,10,NWE 18,10,17,Thomas Jones right guard for 3 yards (tackle by James Sanders),4.370,4.250
+4,5:04,,,,10,17,Timeout #1 by Chicago Bears,0.000,4.250
+4,5:04,2,7,NWE 15,10,17,Rex Grossman pass complete short right to Thomas Jones for -2 yards (tackle by Asante Samuel and Tedy Bruschi),4.250,3.170
+4,4:20,3,9,NWE 17,10,17,Rex Grossman pass complete short right to Rashied Davis for 3 yards (tackle by Asante Samuel),3.170,2.530
+4,3:36,4,6,NWE 14,13,17,Robbie Gould 32 yard field goal good,2.530,3.000
+4,3:31,,,CHI 30,13,17,"Robbie Gould kicks off 62 yards, returned by Laurence Maroney for 19 yards (tackle by Cameron Worrell)",0.000,0.740
+4,3:26,1,10,NWE 27,13,17,Tom Brady pass complete deep right to Reche Caldwell for 22 yards (tackle by Charles Tillman),0.740,2.190
+4,3:18,1,10,NWE 49,13,17,Corey Dillon right guard for 1 yard (tackle by Tommie Harris),2.190,1.780
+4,3:11,,,,13,17,Timeout #2 by Chicago Bears,0.000,1.780
+4,3:11,2,9,NWE 50,13,17,Tom Brady pass incomplete,1.780,1.090
+4,3:07,3,9,NWE 50,13,17,Tom Brady pass complete short right to Reche Caldwell for 20 yards (tackle by Charles Tillman),1.090,3.580
+4,2:23,1,10,CHI 30,13,17,Heath Evans middle for 2 yards (tackle by Mark Anderson),3.580,3.300
+4,2:18,,,,13,17,Timeout #3 by Chicago Bears,0.000,3.300
+4,2:18,2,8,CHI 28,13,17,Corey Dillon left end for 3 yards (tackle by Tank Johnson),3.300,3.010
+4,2:00,3,5,CHI 25,13,17,"Corey Dillon right tackle for 3 yards (tackle by Danieal Manning). Corey Dillon fumbles (forced by Danieal Manning), recovered by Alex Brown at CHI-22",3.010,-0.410
+4,1:52,1,10,CHI 22,13,17,Rex Grossman pass incomplete deep middle intended for Rashied Davis is intercepted by Asante Samuel at NWE-38 and returned for -1 yards,0.410,-1.400
+4,1:46,1,10,NWE 37,13,17,Tom Brady kneels for -1 yards,1.400,0.720
+4,1:05,2,11,NWE 36,13,17,Tom Brady kneels for -1 yards,0.720,-0.100
+4,0:35,3,12,NWE 35,13,17,Tom Brady kneels for -1 yards,-0.100,-1.110
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

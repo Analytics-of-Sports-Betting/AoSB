@@ -1,0 +1,178 @@
+Quarter,Time,Down,ToGo,Location,IND,PHI,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Eagles won the coin toss, Eagles to receive the opening kickoff.",,
+1,15:00,,,IND 30,0,0,"Mike Vanderjagt kicks off 65 yards, returned by Brian Mitchell for 24 yards (tackle by Donnel Thompson)",0.000,0.870
+1,14:55,1,10,PHI 29,0,0,Donovan McNabb pass incomplete intended for Todd Pinkston,0.870,0.330
+1,14:50,2,10,PHI 29,0,0,Donovan McNabb pass incomplete intended for Duce Staley,0.330,-0.360
+1,14:45,3,10,PHI 29,0,0,Donovan McNabb pass complete to Chad Lewis for 11 yards (tackle by David Thornton),-0.360,1.600
+1,14:08,1,10,PHI 40,0,0,Dorsey Levens left tackle for 11 yards (tackle by Brad Scioli),1.600,2.320
+1,13:35,1,10,IND 49,0,0,Duce Staley right guard for 11 yards (tackle by Walt Harris),2.320,3.050
+1,12:57,1,10,IND 38,0,0,Donovan McNabb pass incomplete intended for James Thrash (defended by Walt Harris),3.050,2.510
+1,12:52,2,10,IND 38,0,0,"Donovan McNabb pass complete to Duce Staley for no gain. Penalty on John Welbourn: Illegal Use of Hands, 10 yards (no play)",2.510,1.160
+1,12:30,2,20,IND 48,0,0,Donovan McNabb pass complete to Antonio Freeman for 29 yards,1.160,4.310
+1,12:14,1,10,IND 19,0,0,Brian Westbrook right guard for -1 yards (tackle by Rob Morris),4.310,3.630
+1,11:35,2,11,IND 20,0,0,"Todd Pinkston for -15 yards (tackle by Dwight Freeney). Todd Pinkston fumbles (forced by Dwight Freeney), recovered by Todd Pinkston at IND-35. Todd Pinkston fumbles (forced by Dwight Freeney), recovered by Todd Pinkston at IND-35",3.630,0.960
+1,10:50,3,26,IND 35,0,0,Donovan McNabb pass complete to Brian Westbrook for 18 yards (tackle by Walt Harris),0.960,2.310
+1,10:09,4,8,IND 17,0,3,David Akers 34 yard field goal good,2.310,3.000
+1,10:09,,,PHI 30,0,3,"David Akers kicks off 63 yards, returned by Troy Walters for 19 yards (tackle by Barry Gardner). Penalty on Sam Sword: Illegal Block Above the Waist, 10 yards",0.000,-0.140
+1,10:00,1,10,IND 16,0,3,"James Mungro middle for no gain (tackle by Shawn Barber and Brian Dawkins). Penalty on Brandon Whiting: Defensive Offside, 5 yards (no play)",-0.140,0.740
+1,9:36,1,5,IND 21,0,3,James Mungro middle for 49 yards (tackle by Bobby Taylor),0.740,3.580
+1,8:55,1,10,PHI 30,0,3,James Mungro left end for 3 yards (tackle by Ike Reese),3.580,3.440
+1,8:15,2,7,PHI 27,0,3,Peyton Manning pass incomplete intended for Jim Finn,3.440,2.740
+1,8:11,3,7,PHI 27,0,3,Peyton Manning pass complete to Marvin Harrison for 9 yards (tackle by Troy Vincent),2.740,4.370
+1,7:33,1,10,PHI 18,0,3,James Mungro left tackle for 7 yards (tackle by Corey Simon),4.370,5.010
+1,6:51,2,3,PHI 11,0,3,"James Mungro right tackle for 6 yards (tackle by Michael Lewis). James Mungro fumbles (forced by Michael Lewis), recovered by Brian Dawkins at PHI-1 (tackle by Qadry Ismail)",5.010,0.380
+1,6:44,1,10,PHI 1,0,3,Duce Staley middle for no gain (tackle by David Gibson),-0.380,-0.780
+1,6:00,2,10,PHI 1,0,3,Donovan McNabb pass incomplete intended for James Thrash,-0.780,-1.420
+1,5:55,3,10,PHI 1,0,3,Duce Staley right tackle for 2 yards (tackle by Dwight Freeney),-1.420,-2.490
+1,5:19,4,8,PHI 3,0,3,"Sean Landeta punts 48 yards, returned by Troy Walters for 8 yards (tackle by Brian Mitchell)",-2.490,-2.720
+1,5:09,1,10,PHI 43,0,3,Peyton Manning pass complete to Marvin Harrison for 11 yards (tackle by Troy Vincent),2.720,3.450
+1,4:33,1,10,PHI 32,0,3,James Mungro right end for 6 yards (tackle by Troy Vincent),3.450,3.710
+1,3:56,2,4,PHI 26,0,3,Peyton Manning pass complete to Qadry Ismail for 13 yards (tackle by Blaine Bishop),3.710,4.710
+1,3:14,1,10,PHI 13,0,3,James Mungro right tackle for 7 yards (tackle by Ike Reese),4.710,5.340
+1,2:33,2,3,PHI 6,6,3,"James Mungro left tackle for 6 yards, touchdown",5.340,7.000
+1,2:33,,,PHI 6,7,3,Mike Vanderjagt kicks extra point good,0.000,0.000
+1,2:33,,,IND 30,7,3,"Mike Vanderjagt kicks off 62 yards, returned by Brian Mitchell for 20 yards (tackle by David Thornton)",0.000,0.810
+1,2:23,1,10,PHI 28,7,3,Donovan McNabb pass complete to Cecil Martin for no gain,0.810,0.260
+1,1:49,2,10,PHI 28,7,3,Donovan McNabb pass incomplete intended for Jeff Thomason,0.260,-0.430
+1,1:43,3,10,PHI 28,7,3,Donovan McNabb pass incomplete intended for Todd Pinkston,-0.430,-1.500
+1,1:38,4,10,PHI 28,7,3,"Sean Landeta punts 53 yards, returned by Troy Walters for 9 yards (tackle by Michael Lewis)",-1.500,-0.810
+1,1:28,1,10,IND 28,7,3,Peyton Manning pass complete to Marcus Pollard for 18 yards (tackle by Ike Reese),0.810,1.990
+1,0:51,1,10,IND 46,7,3,Jim Finn right end for -3 yards (tackle by Corey Simon),1.990,1.050
+1,0:08,2,13,IND 43,13,3,"Peyton Manning pass complete to Marvin Harrison for 57 yards, touchdown",1.050,7.000
+1,0:08,,,PHI 43,14,3,Mike Vanderjagt kicks extra point good,0.000,0.000
+Quarter,Time,Down,ToGo,Location,IND,PHI,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,,,,IND 30,14,3,"Mike Vanderjagt kicks off 60 yards, returned by Brian Mitchell for 22 yards (tackle by Clifton Crosby)",0.000,1.070
+2,14:55,1,10,PHI 32,14,3,Dorsey Levens right tackle for 2 yards (tackle by Mike Peterson and Brad Scioli),1.070,0.800
+2,14:16,2,8,PHI 34,14,3,Donovan McNabb for 18 yards,0.800,2.390
+2,13:47,1,10,IND 48,14,3,Duce Staley left tackle for 1 yard (tackle by Mike Peterson and James Cannida),2.390,1.980
+2,13:10,2,9,IND 47,14,3,Donovan McNabb pass complete to Todd Pinkston for 21 yards (tackle by Walt Harris and David Gibson),1.980,3.840
+2,12:26,1,10,IND 26,14,3,Donovan McNabb pass incomplete intended for Duce Staley,3.840,3.300
+2,12:18,2,10,IND 26,14,3,Dorsey Levens left end for 9 yards (tackle by David Macklin),3.300,3.950
+2,11:51,3,1,IND 17,14,3,Donovan McNabb middle for 2 yards (tackle by Dwight Freeney),3.950,4.580
+2,11:13,1,10,IND 15,14,3,Dorsey Levens left tackle for no gain (tackle by Josh Mallard),4.580,3.950
+2,10:37,2,10,IND 15,14,3,Donovan McNabb pass complete to James Thrash for 9 yards (tackle by Nick Harper),3.950,4.900
+2,9:55,3,1,IND 6,14,3,Duce Staley middle for no gain (tackle by David Gibson and Mike Peterson),4.900,3.020
+2,9:18,3,1,IND 6,,,Timeout #1 by Philadelphia Eagles,4.900,3.020
+2,9:17,4,1,IND 6,14,3,Donovan McNabb pass incomplete intended for Duce Staley (defended by Chad Bratzke),3.020,0.380
+2,9:12,1,10,IND 6,14,3,James Mungro right tackle for 3 yards (tackle by Paul Grasmanis and Troy Vincent),-0.380,-0.560
+2,8:33,2,7,IND 9,14,3,James Mungro left end for -4 yards (tackle by Brandon Whiting),-0.560,-1.540
+2,7:51,3,11,IND 5,14,3,Peyton Manning pass complete to James Mungro for 9 yards (tackle by Brian Dawkins),-1.540,-2.470
+2,7:07,4,2,IND 14,14,3,"Hunter Smith punts 40 yards, returned by Brian Mitchell for 8 yards (tackle by David Thornton)",-2.470,-2.520
+2,6:56,1,10,IND 46,14,3,Donovan McNabb pass complete to Cecil Martin for 8 yards (tackle by Mike Peterson),2.520,3.060
+2,6:18,2,2,IND 38,14,3,Dorsey Levens left end for 11 yards (tackle by David Macklin),3.060,3.780
+2,5:49,2,2,IND 38,,,Timeout #1 by Indianapolis Colts,3.060,3.780
+2,5:49,1,10,IND 27,14,3,Donovan McNabb pass complete to Todd Pinkston for 16 yards (tackle by David Gibson and Walt Harris),3.780,4.840
+2,5:09,1,10,IND 11,14,3,Dorsey Levens left end for 2 yards (tackle by Brad Scioli),4.840,4.510
+2,4:28,2,8,IND 9,14,3,Donovan McNabb pass incomplete intended for James Thrash,4.510,3.530
+2,4:23,3,8,IND 9,14,3,Donovan McNabb pass complete to Brian Westbrook for 7 yards (tackle by Idrees Bashir),3.530,3.250
+2,3:40,4,1,IND 2,14,6,David Akers 20 yard field goal good,3.250,3.000
+2,3:40,,,PHI 30,14,6,"David Akers kicks off 62 yards, returned by Autry Denson for 18 yards (tackle by Michael Lewis)",0.000,0.670
+2,3:32,1,10,IND 26,14,6,James Mungro left tackle for 2 yards (tackle by Shawn Barber),0.670,0.400
+2,2:58,2,8,IND 28,14,6,Peyton Manning pass incomplete intended for Marvin Harrison,0.400,-0.300
+2,2:53,2,8,IND 28,,,Timeout #2 by Indianapolis Colts,0.400,-0.300
+2,2:53,3,8,IND 28,14,6,Peyton Manning pass complete to Marvin Harrison for 10 yards (tackle by Troy Vincent),-0.300,1.470
+2,2:17,1,10,IND 38,14,6,James Mungro middle for 2 yards (tackle by Hugh Douglas),1.470,1.190
+2,2:00,2,8,IND 40,14,6,James Mungro left tackle for 14 yards (tackle by Ike Reese),1.190,2.520
+2,1:38,1,10,PHI 46,14,6,Peyton Manning pass incomplete intended for Marvin Harrison (defended by Corey Simon),2.520,1.980
+2,1:35,2,10,PHI 46,14,6,Peyton Manning middle for 3 yards (tackle by Ike Reese),1.980,1.680
+2,1:11,3,7,PHI 43,14,6,Peyton Manning pass incomplete intended for Qadry Ismail (defended by Al Harris),1.680,0.400
+2,1:07,4,7,PHI 43,14,6,"Hunter Smith punts 31 yards, out of bounds",0.400,0.350
+2,1:00,1,10,PHI 12,14,6,Donovan McNabb pass incomplete intended for Duce Staley (defended by Josh Mallard). Penalty on Jermane Mayberry: Ineligible Downfield Pass (Declined),-0.350,-0.780
+2,0:54,2,10,PHI 12,14,6,Donovan McNabb pass complete to Duce Staley for 7 yards (tackle by David Thornton),-0.780,-0.600
+2,0:16,3,3,PHI 19,14,6,Donovan McNabb pass complete to Chad Lewis for 6 yards (tackle by Chukie Nwokorie),-0.600,0.610
+Quarter,Time,Down,ToGo,Location,IND,PHI,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PHI 30,14,6,"David Akers kicks off 61 yards, returned by Autry Denson for 20 yards (tackle by Barry Gardner)",0.000,0.870
+3,14:55,1,10,IND 29,14,6,Peyton Manning pass complete to James Mungro for 11 yards (tackle by Shawn Barber),0.870,1.600
+3,14:11,1,10,IND 40,14,6,James Mungro middle for 1 yard (tackle by Blaine Bishop and Corey Simon),1.600,1.190
+3,13:26,2,9,IND 41,14,6,James Mungro right end for 4 yards (tackle by Brian Dawkins),1.190,1.030
+3,12:55,3,5,IND 45,14,6,Peyton Manning pass complete to Reggie Wayne for 12 yards (tackle by Shawn Barber),1.030,2.720
+3,12:22,1,10,PHI 43,14,6,James Mungro right end for 3 yards (tackle by Brian Dawkins and Troy Vincent),2.720,2.580
+3,11:56,2,7,PHI 40,14,6,James Mungro middle for -6 yards (tackle by Hugh Douglas),2.580,1.090
+3,11:14,3,13,PHI 46,14,6,Peyton Manning pass complete to Reggie Wayne for 19 yards (tackle by Brian Dawkins),1.090,3.780
+3,10:28,1,10,PHI 27,20,6,"Peyton Manning pass complete to Reggie Wayne for 27 yards, touchdown",3.780,7.000
+3,10:28,,,PHI 27,21,6,Mike Vanderjagt kicks extra point good,0.000,0.000
+3,10:28,,,IND 30,21,6,"Mike Vanderjagt kicks off 65 yards, returned by Brian Mitchell for 57 yards (tackle by Mike Vanderjagt)",0.000,3.050
+3,10:12,1,10,IND 38,21,6,Duce Staley left guard for 1 yard (tackle by Dwight Freeney),3.050,2.640
+3,9:39,2,9,IND 37,21,6,Donovan McNabb pass complete to Cecil Martin for 1 yard (tackle by Josh Mallard),2.640,2.080
+3,8:55,3,8,IND 36,21,6,"Donovan McNabb middle for 14 yards (tackle by Dwight Freeney). Donovan McNabb fumbles (forced by Dwight Freeney), recovered by Walt Harris at IND-12 (tackle by Todd Pinkston)",2.080,0.350
+3,8:43,1,10,IND 12,21,6,James Mungro left end for 2 yards (tackle by Levon Kirkland),-0.350,-0.610
+3,8:10,2,8,IND 14,21,6,Peyton Manning pass complete to Jim Finn for no gain,-0.610,-1.190
+3,7:26,3,8,IND 14,21,6,Peyton Manning pass incomplete intended for Troy Walters (defended by Al Harris),-1.190,-2.470
+3,7:22,4,8,IND 14,21,6,"Hunter Smith punts 46 yards, returned by Brian Mitchell for no gain",-2.470,-1.600
+3,7:11,1,10,PHI 40,21,6,Donovan McNabb pass incomplete intended for James Thrash,1.600,1.050
+3,7:06,2,10,PHI 40,21,6,Donovan McNabb pass complete to Todd Pinkston for 20 yards (tackle by David Macklin),1.050,2.920
+3,6:28,1,10,IND 40,21,6,Donovan McNabb pass incomplete intended for Cecil Martin (defended by Brad Scioli),2.920,2.370
+3,6:25,2,10,IND 40,21,6,Dorsey Levens right guard for 9 yards (tackle by Brad Scioli),2.370,2.870
+3,5:45,3,1,IND 31,21,6,Donovan McNabb pass incomplete intended for Cecil Martin,2.870,1.410
+3,5:39,4,1,IND 31,21,6,Dorsey Levens pass incomplete intended for Donovan McNabb,1.410,-1.070
+3,5:31,1,10,IND 32,21,6,Peyton Manning right end for 8 yards,1.070,1.610
+3,4:54,2,2,IND 40,21,6,James Mungro middle for -3 yards (tackle by Brandon Whiting),1.610,0.500
+3,4:10,3,5,IND 37,21,6,Peyton Manning pass complete to Reggie Wayne for 10 yards (tackle by Bobby Taylor),0.500,2.060
+3,3:42,1,10,IND 47,21,6,James Mungro right end for -2 yards (tackle by Brandon Whiting and Shawn Barber),2.060,1.250
+3,2:57,2,12,IND 45,21,6,James Mungro middle for 2 yards (tackle by Brandon Whiting and Shawn Barber),1.250,0.830
+3,2:16,3,10,IND 47,21,6,Peyton Manning pass complete to Troy Walters for 10 yards (tackle by Troy Vincent),0.830,2.720
+3,1:53,1,10,PHI 43,27,6,"Peyton Manning pass complete to Marvin Harrison for 43 yards, touchdown",2.720,7.000
+3,1:53,,,PHI 43,28,6,Mike Vanderjagt kicks extra point good,0.000,0.000
+3,1:53,,,IND 30,28,6,"Mike Vanderjagt kicks off 58 yards, returned by Brian Mitchell for 20 yards (tackle by Cory Bird)",0.000,1.070
+3,1:40,1,10,PHI 32,28,6,"Donovan McNabb sacked by Dwight Freeney for -5 yards. Donovan McNabb fumbles (forced by Dwight Freeney), recovered by Josh Mallard at PHI-26 (tackle by John Welbourn)",1.070,-3.840
+3,1:32,1,10,PHI 26,28,6,James Mungro right end for 3 yards (tackle by Troy Vincent),3.840,3.700
+3,0:46,2,7,PHI 23,28,6,"James Mungro right tackle for -1 yards (tackle by Paul Grasmanis). Penalty on Jeff Saturday: Offensive Holding, 10 yards",3.700,2.220
+3,0:17,2,18,PHI 34,28,6,James Mungro left tackle for -3 yards (tackle by Hugh Douglas),2.220,1.160
+Quarter,Time,Down,ToGo,Location,IND,PHI,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,21,PHI 37,28,6,Peyton Manning pass complete to Marvin Harrison for 7 yards (tackle by Shawn Barber),1.160,1.410
+4,15:00,4,14,PHI 30,28,6,Mike Vanderjagt 48 yard field goal no good,1.410,-1.470
+4,14:10,1,10,PHI 38,28,6,Donovan McNabb pass incomplete intended for Todd Pinkston (defended by Mike Peterson),1.470,0.920
+4,14:06,2,10,PHI 38,28,6,Donovan McNabb pass complete to Antonio Freeman for 7 yards (tackle by Nick Harper),0.920,1.160
+4,13:39,3,3,PHI 45,28,6,Donovan McNabb pass incomplete intended for James Thrash (defended by Walt Harris). Penalty on Tra Thomas: Illegal Formation (Declined),1.160,-0.390
+4,13:35,4,3,PHI 45,28,6,"Sean Landeta punts 47 yards, out of bounds",-0.390,0.380
+4,13:27,1,10,IND 8,28,6,James Mungro left end for 5 yards (tackle by Barry Gardner),-0.380,-0.410
+4,12:41,2,5,IND 13,28,6,Jim Finn left end for -1 yards (tackle by Brandon Whiting),-0.410,-0.950
+4,11:56,3,6,IND 12,28,6,Peyton Manning pass complete to Reggie Wayne for 5 yards (tackle by Brian Dawkins),-0.950,-2.320
+4,11:14,4,1,IND 17,28,6,Hunter Smith punts 27 yards,-2.320,-2.650
+4,11:01,1,10,IND 44,28,6,Donovan McNabb pass incomplete intended for James Thrash,2.650,2.110
+4,10:56,2,10,IND 44,28,6,"Donovan McNabb pass incomplete intended for Todd Pinkston. Penalty on Hank Fraley: Offensive Holding, 10 yards (no play)",2.110,0.760
+4,10:48,2,20,PHI 46,28,6,Donovan McNabb sacked by Marcus Washington for -6 yards,0.760,-0.690
+4,10:24,3,26,PHI 40,28,6,Donovan McNabb pass complete to Antonio Freeman for 6 yards (tackle by Nick Harper and Walt Harris),-0.690,-0.320
+4,10:24,4,20,PHI 46,28,6,Donovan McNabb pass complete to Duce Staley for 10 yards (tackle by David Thornton),-0.320,-1.860
+4,9:27,1,10,IND 44,28,6,James Mungro left end for no gain (tackle by Hugh Douglas),1.860,1.320
+4,8:42,2,10,IND 44,28,6,Peyton Manning pass complete to Reggie Wayne for 48 yards (tackle by Troy Vincent),1.320,5.370
+4,8:01,1,8,PHI 8,28,6,James Mungro left end for -1 yards (tackle by Bobby Taylor),5.370,4.380
+4,7:18,2,9,PHI 9,28,6,James Mungro middle for -1 yards (tackle by Ike Reese),4.380,3.130
+4,6:34,3,10,PHI 10,34,6,"James Mungro left guard for 10 yards, touchdown",3.130,7.000
+4,6:34,,,PHI 10,35,6,Mike Vanderjagt kicks extra point good,0.000,0.000
+4,6:34,,,IND 30,35,6,"Mike Vanderjagt kicks off 52 yards, returned by Dorsey Levens for 24 yards (tackle by David Macklin)",0.000,1.730
+4,6:23,1,10,PHI 42,35,6,Donovan McNabb left end for 14 yards,1.730,2.650
+4,5:52,1,10,IND 44,35,6,Donovan McNabb pass complete to Duce Staley for 8 yards (tackle by Brad Scioli and David Thornton),2.650,3.190
+4,5:26,2,2,IND 36,35,6,Donovan McNabb pass complete to Duce Staley for 14 yards (tackle by David Thornton),3.190,4.110
+4,4:58,1,10,IND 22,35,6,Donovan McNabb pass complete to Chad Lewis for 8 yards (tackle by Nick Harper),4.110,4.850
+4,4:27,2,2,IND 14,35,6,Donovan McNabb pass complete to Freddie Mitchell for 8 yards (tackle by Nick Harper),4.850,5.830
+4,4:04,1,6,IND 6,35,6,Donovan McNabb pass incomplete intended for Freddie Mitchell (defended by Nick Harper),5.830,4.950
+4,4:00,2,6,IND 6,35,6,Donovan McNabb pass incomplete intended for Duce Staley (defended by David Thornton),4.950,4.040
+4,3:57,3,6,IND 6,35,6,Donovan McNabb left end for 4 yards (tackle by Brad Scioli),4.040,3.250
+4,3:41,3,6,IND 6,,,Timeout #1 by Indianapolis Colts,4.040,3.250
+4,3:40,4,2,IND 2,35,12,"Donovan McNabb pass complete to Jeff Thomason for 2 yards, touchdown",3.250,7.000
+4,3:40,,,IND 2,35,13,David Akers kicks extra point good,0.000,0.000
+4,3:40,,,PHI 30,35,13,"David Akers kicks onside 11 yards, recovered by Jason Doering and returned for 2 yards",0.000,-2.980
+4,3:33,1,10,PHI 39,35,13,Jim Finn left end for 4 yards (tackle by Michael Lewis),2.980,2.980
+4,3:23,1,10,PHI 39,,,Timeout #1 by Philadelphia Eagles,2.980,2.980
+4,3:23,2,6,PHI 35,35,13,Autry Denson right end for -1 yards (tackle by Justin Ena),2.980,2.150
+4,3:17,2,6,PHI 35,,,Timeout #2 by Philadelphia Eagles,2.980,2.150
+4,3:17,3,7,PHI 36,35,13,Autry Denson left end for 3 yards (tackle by Corey Simon),2.150,1.180
+4,3:08,3,7,PHI 36,,,Timeout #3 by Philadelphia Eagles,2.150,1.180
+4,3:08,4,4,PHI 33,35,13,"Hunter Smith punts 23 yards, fair catch by Brian Mitchell",1.180,0.380
+4,3:02,1,10,PHI 10,35,13,Donovan McNabb pass complete to Antonio Freeman for 15 yards (tackle by David Macklin),-0.380,0.610
+4,2:42,1,10,PHI 25,35,13,Donovan McNabb pass incomplete intended for Todd Pinkston,0.610,0.060
+4,2:37,2,10,PHI 25,35,13,Donovan McNabb pass complete to Chad Lewis for 11 yards (tackle by Mike Peterson),0.060,1.330
+4,2:15,1,10,PHI 36,35,13,Donovan McNabb pass incomplete intended for Freddie Mitchell (defended by Idrees Bashir),1.330,0.790
+4,2:09,2,10,PHI 36,35,13,Donovan McNabb pass complete to Antonio Freeman for 6 yards (tackle by Clifton Crosby),0.790,0.890
+4,2:00,3,4,PHI 42,35,13,Donovan McNabb pass complete to Antonio Freeman for 9 yards (tackle by Clifton Crosby),0.890,2.320
+4,1:41,1,10,IND 49,35,13,"Penalty on Chad Bratzke: Defensive Offside, 5 yards (no play)",2.320,3.050
+4,1:41,1,5,IND 44,35,13,Donovan McNabb middle for 6 yards (tackle by David Thornton),3.050,3.050
+4,1:05,1,10,IND 38,35,13,Donovan McNabb pass complete to Antonio Freeman for 12 yards (tackle by Clifton Crosby),3.050,3.840
+4,0:41,1,10,IND 26,35,13,Donovan McNabb pass complete to Freddie Mitchell for 12 yards (tackle by Nick Harper),3.840,4.650
+4,0:18,1,10,IND 14,35,13,Donovan McNabb middle for 4 yards,4.650,4.710
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,182 @@
+Quarter,Time,Down,ToGo,Location,PIT,CLE,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Browns won the coin toss, Browns to receive the opening kickoff.",,
+1,15:00,,,PIT 35,0,0,"Chris Boswell kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,CLE 25,0,0,Nick Chubb right guard for 1 yard (tackle by Malik Reed),0.610,0.200
+1,14:25,2,9,CLE 26,0,0,Nick Chubb right guard for 13 yards (tackle by Minkah Fitzpatrick),0.200,1.530
+1,13:48,1,10,CLE 39,0,0,Jacoby Brissett pass incomplete short middle intended for Miller Forristall,1.530,0.990
+1,13:41,2,10,CLE 39,0,0,Jacoby Brissett pass complete short right to Amari Cooper for no gain (tackle by Cameron Sutton),0.990,0.300
+1,13:15,3,10,CLE 39,0,0,Jacoby Brissett pass incomplete deep left intended for Donovan Peoples-Jones (defended by Levi Wallace),0.300,-0.780
+1,13:08,4,10,CLE 39,0,0,"Corey Bojorquez punts 61 yards, touchback.",-0.780,-0.280
+1,13:00,1,10,PIT 20,0,0,Mitchell Trubisky pass complete short right to Diontae Johnson for 13 yards (tackle by Denzel Ward),0.280,1.140
+1,12:21,1,10,PIT 33,0,0,Najee Harris right tackle for 2 yards (tackle by Grant Delpit and Anthony Walker),1.140,0.860
+1,11:45,2,8,PIT 35,0,0,Najee Harris right guard for 3 yards (tackle by Jordan Elliott),0.860,0.560
+1,11:16,3,5,PIT 38,0,0,Mitchell Trubisky pass incomplete deep right intended for Diontae Johnson (defended by Denzel Ward),0.560,-0.850
+1,11:11,4,5,PIT 38,0,0,"Pressley Harvin punts 39 yards, fair catch by Chester Rogers at CLE-23",-0.850,-0.480
+1,11:04,1,10,CLE 23,0,0,Nick Chubb left tackle for 2 yards (tackle by Alex Highsmith),0.480,0.200
+1,10:32,2,8,CLE 25,0,0,Jacoby Brissett pass complete short right to Kareem Hunt for 1 yard (tackle by Myles Jack),0.200,-0.360
+1,9:48,3,7,CLE 26,0,0,"Penalty on Alex Highsmith: Neutral Zone Infraction, 5 yards (accepted) (no play)",-0.360,0.300
+1,9:27,3,2,CLE 31,0,0,Jacoby Brissett sacked by and Larry Ogunjobi for -8 yards and Alex Highsmith for -8 yards,0.300,-1.830
+1,8:45,4,10,CLE 23,0,0,Corey Bojorquez punts 25 yards out of bounds,-1.830,-2.390
+1,8:37,1,10,CLE 48,0,0,Najee Harris left guard for 10 yards (tackle by Grant Delpit and Anthony Walker),2.390,3.050
+1,7:58,1,10,CLE 38,0,0,Najee Harris right guard for 4 yards (tackle by Myles Garrett and Anthony Walker),3.050,3.050
+1,7:22,2,6,CLE 34,0,0,Mitchell Trubisky pass complete short right to George Pickens for -2 yards (tackle by Anthony Walker),3.050,2.080
+1,6:48,3,8,CLE 36,0,0,Mitchell Trubisky pass complete short right to Najee Harris for 4 yards (tackle by Anthony Walker),2.080,1.270
+1,6:00,4,4,CLE 32,0,0,Chris Boswell 49 yard field goal no good,1.270,-1.600
+1,5:55,1,10,CLE 40,0,0,Nick Chubb left tackle for 1 yard (tackle by Cameron Heyward),1.600,1.190
+1,5:32,2,9,CLE 41,0,0,Jacoby Brissett pass incomplete short left intended for Nick Chubb,1.190,0.500
+1,5:31,3,9,CLE 41,0,0,Jacoby Brissett pass complete short right to David Njoku for 8 yards (tackle by Levi Wallace),0.500,-0.130
+1,5:03,4,1,CLE 49,0,0,Jacoby Brissett left guard for 3 yards (tackle by Chris Wormley),-0.130,2.390
+1,4:22,1,10,PIT 48,0,0,Nick Chubb right tackle for 36 yards (tackle by Terrell Edmunds),2.390,4.780
+1,3:37,1,10,PIT 12,0,0,Nick Chubb right guard for 1 yard (tackle by Ahkello Witherspoon),4.780,4.270
+1,2:57,2,9,PIT 11,0,6,"Jacoby Brissett pass complete short middle to Amari Cooper for 11 yards, touchdown",4.270,7.000
+1,2:54,,,PIT 15,0,7,Cade York kicks extra point good,0.000,0.000
+1,2:54,,,CLE 35,0,7,"Cade York kicks off 65 yards, touchback.",0.000,0.610
+1,2:54,1,10,PIT 25,0,7,Mitchell Trubisky pass complete short right to Jaylen Warren for 3 yards (tackle by Isaac Rochell),0.610,0.470
+1,2:15,2,7,PIT 28,0,7,Mitchell Trubisky pass complete short left to Diontae Johnson for 11 yards (tackle by Denzel Ward),0.470,1.530
+1,1:54,1,10,PIT 39,0,7,Jaylen Warren left guard for 7 yards (tackle by Isaac Rochell),1.530,1.930
+1,1:32,2,3,PIT 46,0,7,Mitchell Trubisky pass complete deep right to George Pickens for 36 yards (tackle by Martin Emerson),1.930,4.370
+1,0:54,1,10,CLE 18,0,7,Jaylen Warren left guard for 6 yards (tackle by Alex Wright and Jacob Phillips),4.370,4.810
+1,0:37,2,4,CLE 12,0,7,Jaylen Warren right tackle for 7 yards (tackle by Martin Emerson),4.810,6.060
+Quarter,Time,Down,ToGo,Location,PIT,CLE,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,5,CLE 5,6,7,"Najee Harris left tackle for 5 yards, touchdown. Penalty on Denzel Ward: Defensive Offside, 5 yards (declined)",6.060,7.000
+2,14:55,,,CLE 15,7,7,Chris Boswell kicks extra point good,0.000,0.000
+2,14:55,,,PIT 35,7,7,"Chris Boswell kicks off 56 yards, returned by David Bell for 12 yards (tackle by Miles Killebrew)",0.000,0.340
+2,14:49,1,10,CLE 21,7,7,Jacoby Brissett pass complete short right to Amari Cooper for 6 yards (tackle by Myles Jack),0.340,0.610
+2,14:27,2,4,CLE 27,7,7,Jacoby Brissett pass incomplete deep right intended for Amari Cooper. Penalty on Amari Cooper: Illegal Touch Pass (accepted),0.610,-0.100
+2,14:05,3,4,CLE 27,7,7,Jacoby Brissett pass complete short right to David Njoku for 13 yards (tackle by Jamir Jones),-0.100,1.600
+2,13:34,,,,,,Timeout #1 by Pittsburgh Steelers,,
+2,13:34,1,10,CLE 40,7,7,Kareem Hunt left tackle for 1 yard (tackle by Devin Bush and Cameron Heyward),1.600,1.190
+2,12:59,2,9,CLE 41,7,7,Jacoby Brissett pass incomplete short left intended for Donovan Peoples-Jones (defended by Montravius Adams),1.190,0.500
+2,12:54,3,9,CLE 41,7,7,Jacoby Brissett pass complete short right to Donovan Peoples-Jones for 10 yards (tackle by Cameron Sutton),0.500,2.320
+2,12:30,1,10,PIT 49,7,7,Jacoby Brissett pass complete short right to Kareem Hunt for 11 yards (tackle by Ahkello Witherspoon),2.320,3.050
+2,11:36,1,10,PIT 38,7,7,Jacoby Brissett pass complete deep right to Amari Cooper for 18 yards,3.050,4.240
+2,11:07,1,10,PIT 20,7,7,Nick Chubb right tackle for 1 yard (tackle by Alex Highsmith),4.240,3.820
+2,10:25,2,9,PIT 19,7,7,Jacoby Brissett pass complete short left to David Njoku for 6 yards (tackle by Cameron Sutton),3.820,4.100
+2,9:48,3,3,PIT 13,7,7,Kareem Hunt right tackle for 6 yards (tackle by Devin Bush and Malik Reed),4.100,5.600
+2,9:01,1,7,PIT 7,7,13,"Jacoby Brissett pass complete short right to David Njoku for 7 yards, touchdown",5.600,7.000
+2,8:58,,,PIT 15,7,13,Cade York kicks extra point no good,0.000,-1.000
+2,8:58,,,CLE 35,7,13,"Cade York kicks off 65 yards, touchback.",0.000,0.610
+2,8:58,1,10,PIT 25,7,13,Mitchell Trubisky pass complete short right to Diontae Johnson for 8 yards (tackle by Denzel Ward),0.610,1.140
+2,8:18,2,2,PIT 33,7,13,Najee Harris left guard for 3 yards (tackle by John Johnson and Sione Takitaki),1.140,1.330
+2,7:36,1,10,PIT 36,7,13,Mitchell Trubisky pass complete deep right to Diontae Johnson for 16 yards (tackle by Denzel Ward),1.330,2.390
+2,7:11,1,10,CLE 48,7,13,Najee Harris left tackle for 4 yards (tackle by Jacob Phillips and Alex Wright),2.390,2.390
+2,6:31,2,6,CLE 44,7,13,"Jaylen Warren right tackle for 10 yards. Jaylen Warren fumbles (forced by John Johnson), recovered by Diontae Johnson at CLE-27",2.390,3.780
+2,5:25,1,10,CLE 27,7,13,Najee Harris right guard for 1 yard (tackle by Jacob Phillips and Grant Delpit),3.780,3.370
+2,5:11,2,9,CLE 26,7,13,Chase Claypool right end for 11 yards (tackle by Martin Emerson and Jacob Phillips),3.370,4.580
+2,5:06,1,10,CLE 15,7,13,Najee Harris right guard for 10 yards (tackle by Jeremiah Owusu-Koramoah and Grant Delpit),4.580,6.060
+2,4:46,1,5,CLE 5,7,13,Najee Harris right guard for 4 yards (tackle by Taven Bryan),6.060,5.910
+2,3:55,2,1,CLE 1,13,13,"Mitchell Trubisky right end for 1 yard, touchdown Replay Assistant challenged the runner broke the plane ruling, and the play was upheld.",5.910,7.000
+2,3:50,,,CLE 15,14,13,Chris Boswell kicks extra point good,0.000,0.000
+2,3:50,,,PIT 35,14,13,"Chris Boswell kicks off 68 yards, returned by Jerome Ford for 15 yards (tackle by Miles Boykin)",0.000,-0.350
+2,3:45,1,10,CLE 12,14,13,Jacoby Brissett pass complete short middle to David Njoku for 6 yards (tackle by Devin Bush),-0.350,-0.070
+2,3:20,2,4,CLE 18,14,13,Jacoby Brissett pass complete short left to David Njoku for 19 yards (tackle by Terrell Edmunds and Devin Bush),-0.070,1.400
+2,2:52,1,10,CLE 37,14,13,Jacoby Brissett pass complete short middle to David Njoku for 10 yards (tackle by Myles Jack),1.400,2.060
+2,2:27,1,10,CLE 47,14,13,Nick Chubb left tackle for 3 yards (tackle by Myles Jack),2.060,1.920
+2,2:00,2,7,PIT 50,14,13,Kareem Hunt right tackle for 11 yards (tackle by Myles Jack and Arthur Maulet),1.920,2.980
+2,1:24,1,10,PIT 39,14,13,Kareem Hunt right tackle for no gain (tackle by Chris Wormley and Myles Jack),2.980,2.440
+2,0:57,2,10,PIT 39,14,13,Jacoby Brissett pass complete short right to Kareem Hunt for 2 yards (tackle by Robert Spillane),2.440,2.020
+2,0:50,,,,,,Timeout #2 by Pittsburgh Steelers,,
+2,0:50,3,8,PIT 37,14,13,Jacoby Brissett pass complete short right to David Bell for 6 yards (tackle by Cameron Sutton),2.020,1.400
+2,0:35,,,,,,Timeout #1 by Cleveland Browns,,
+2,0:35,4,2,PIT 31,14,13,"Jacoby Brissett pass complete to Amari Cooper for 4 yards (tackle by Devin Bush) Replay Assistant challenged the pass completion ruling, and the original play was overturned. Jacoby Brissett pass incomplete short middle intended for Amari Cooper",1.400,-1.070
+2,0:30,1,10,PIT 32,14,13,"Mitchell Trubisky pass incomplete short left intended for Diontae Johnson. Penalty on Denzel Ward: Defensive Holding, 5 yards (accepted) (no play)",1.070,1.400
+2,0:25,1,10,PIT 37,14,13,Mitchell Trubisky pass complete deep left to Chase Claypool for 20 yards (tackle by John Johnson),1.400,2.720
+2,0:17,,,,,,Timeout #3 by Pittsburgh Steelers,,
+2,0:17,1,10,CLE 43,14,13,Mitchell Trubisky pass incomplete deep right intended for Chase Claypool,2.720,2.180
+2,0:12,2,10,CLE 43,14,13,Mitchell Trubisky pass incomplete deep left intended for George Pickens,2.180,1.490
+2,0:06,,,,,,Timeout #2 by Cleveland Browns,,
+2,0:06,3,10,CLE 43,14,13,Mitchell Trubisky pass incomplete short right intended for George Pickens,1.490,0.400
+Quarter,Time,Down,ToGo,Location,PIT,CLE,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,CLE 35,14,13,"Cade York kicks off 67 yards, returned by Gunner Olszewski for 18 yards (tackle by Jordan Kunaszyk and Tony Fields)",0.000,-0.140
+3,14:55,1,10,PIT 16,14,13,Mitchell Trubisky pass complete short right to Diontae Johnson for 1 yard (tackle by John Johnson),-0.140,-0.510
+3,14:18,2,9,PIT 17,14,13,Mitchell Trubisky pass incomplete short left intended for George Pickens,-0.510,-1.200
+3,14:15,3,9,PIT 17,14,13,Mitchell Trubisky pass complete short right to Chase Claypool for 14 yards (tackle by John Johnson),-1.200,1.000
+3,13:44,1,10,PIT 31,14,13,Mitchell Trubisky pass incomplete short middle intended for Diontae Johnson (no play),1.000,1.730
+3,13:44,1,5,PIT 36,14,13,Najee Harris left guard for 4 yards (tackle by Taven Bryan and Jacob Phillips),1.730,1.680
+3,13:17,2,1,PIT 40,14,13,Najee Harris left tackle for 2 yards (tackle by Isaac Rochell),1.680,1.730
+3,12:39,1,10,PIT 42,14,13,Najee Harris right guard for 3 yards (tackle by Myles Garrett and Jacob Phillips),1.730,1.590
+3,11:54,2,7,PIT 45,14,13,Mitchell Trubisky pass complete short left to Najee Harris for 9 yards (tackle by Martin Emerson),1.590,2.520
+3,11:26,1,10,CLE 46,14,13,Mitchell Trubisky pass complete short right to Najee Harris for -4 yards (tackle by Jordan Elliott and Anthony Walker),2.520,1.440
+3,10:45,2,14,CLE 50,14,13,"Mitchell Trubisky pass complete short middle to Jaylen Warren for no gain. Penalty on Chukwuma Okorafor: Ineligible Downfield Pass, 5 yards (accepted) (no play)",1.440,0.760
+3,10:22,2,19,PIT 45,14,13,Mitchell Trubisky pass complete short right to Diontae Johnson for 14 yards (tackle by Denzel Ward),0.760,1.950
+3,9:42,3,5,CLE 41,14,13,"Mitchell Trubisky pass incomplete short left intended for Chase Claypool. Penalty on Chase Claypool: Offensive Pass Interference, 10 yards (declined)",1.950,0.530
+3,9:40,4,5,CLE 41,14,13,"Penalty on PIT: Delay of Game, 5 yards (accepted) (no play)",0.530,0.200
+3,9:40,4,10,CLE 46,14,13,"Pressley Harvin punts 32 yards, fair catch by Chester Rogers at CLE-14",0.200,0.280
+3,9:33,1,10,CLE 14,14,13,Nick Chubb right tackle for 1 yard (tackle by Robert Spillane and Devin Bush),-0.280,-0.640
+3,8:53,2,9,CLE 15,14,13,Jacoby Brissett pass complete short right to Amari Cooper for 28 yards (tackle by Minkah Fitzpatrick),-0.640,1.800
+3,8:09,1,10,CLE 43,14,13,Jacoby Brissett pass complete short right to David Njoku for 12 yards (tackle by Myles Jack and Ahkello Witherspoon),1.800,2.590
+3,7:26,1,10,PIT 45,14,13,Nick Chubb right guard for 9 yards (tackle by Chris Wormley and Devin Bush),2.590,3.260
+3,6:41,2,1,PIT 36,14,13,"Jacoby Brissett scrambles right end for no gain (tackle by Malik Reed). Penalty on Michael Dunn: Offensive Holding, 10 yards (accepted) (no play)",3.260,1.910
+3,6:12,2,11,PIT 46,14,13,Nick Chubb left guard for 8 yards (tackle by DeMarvin Leal),1.910,2.280
+3,5:28,3,3,PIT 38,14,13,Kareem Hunt left guard for 2 yards (tackle by Cameron Heyward),2.280,0.890
+3,4:43,4,1,PIT 36,14,13,Kareem Hunt left guard for 9 yards (tackle by Ahkello Witherspoon and Myles Jack),0.890,3.780
+3,4:16,1,10,PIT 27,14,13,Nick Chubb right guard for 3 yards (tackle by Alex Highsmith),3.780,3.640
+3,3:48,2,7,PIT 24,14,13,Jacoby Brissett pass complete short right to Amari Cooper for 6 yards (tackle by Ahkello Witherspoon),3.640,3.840
+3,3:25,3,1,PIT 18,14,13,Jacoby Brissett right guard for 2 yards (tackle by Tyson Alualu),3.840,4.510
+3,2:47,1,10,PIT 16,14,13,Jacoby Brissett pass incomplete short left intended for David Njoku (defended by Cameron Sutton),4.510,3.900
+3,2:40,2,10,PIT 16,14,13,Jacoby Brissett pass incomplete short right intended for Amari Cooper (defended by Ahkello Witherspoon),3.900,3.080
+3,2:37,3,10,PIT 16,14,13,Jacoby Brissett pass incomplete short middle intended for Kareem Hunt,3.080,2.380
+3,2:34,4,10,PIT 16,14,16,Cade York 34 yard field goal good,2.380,3.000
+3,2:31,,,CLE 35,14,16,"Cade York kicks off 65 yards, touchback.",0.000,0.610
+3,2:31,1,10,PIT 25,14,16,Najee Harris right guard for 1 yard (tackle by Tony Fields),0.610,0.200
+3,1:54,2,9,PIT 26,14,16,Mitchell Trubisky left guard for 6 yards (tackle by Sione Takitaki),0.200,0.300
+3,1:23,3,3,PIT 32,14,16,Mitchell Trubisky pass incomplete deep left intended for Diontae Johnson (defended by Denzel Ward),0.300,-1.240
+3,1:16,4,3,PIT 32,14,16,Pressley Harvin punts 48 yards downed by James Pierre,-1.240,-0.280
+3,1:04,1,10,CLE 20,14,16,Nick Chubb left tackle for 5 yards (tackle by Myles Jack),0.280,0.410
+3,0:24,2,5,CLE 25,14,16,Nick Chubb right guard for 4 yards (tackle by Chris Wormley and Cameron Heyward),0.410,0.230
+Quarter,Time,Down,ToGo,Location,PIT,CLE,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,1,CLE 29,14,16,Jacoby Brissett pass complete deep right to Amari Cooper for 32 yards (tackle by Cameron Sutton),0.230,2.980
+4,14:15,1,10,PIT 39,14,16,Nick Chubb left tackle for 16 yards (tackle by Levi Wallace and Minkah Fitzpatrick),2.980,4.040
+4,13:33,1,10,PIT 23,14,16,Kareem Hunt right tackle for 8 yards (tackle by Devin Bush and Myles Jack),4.040,4.750
+4,12:56,2,2,PIT 15,14,16,Kareem Hunt left guard for 1 yard (tackle by Alex Highsmith),4.750,4.280
+4,12:17,3,1,PIT 14,14,16,Jacoby Brissett left guard for 6 yards (tackle by Devin Bush),4.280,5.370
+4,11:37,1,8,PIT 8,14,16,Kareem Hunt right guard for 5 yards (tackle by Cameron Heyward and Devin Bush),5.370,5.530
+4,11:01,2,3,PIT 3,14,16,Kareem Hunt left tackle for 2 yards (tackle by Devin Bush),5.530,5.170
+4,10:20,3,1,PIT 1,14,16,Kareem Hunt left guard for no gain (tackle by Chris Wormley and Minkah Fitzpatrick),5.170,3.550
+4,9:33,4,1,PIT 1,14,22,"Nick Chubb right guard for 1 yard, touchdown",3.550,7.000
+4,9:29,,,PIT 15,14,23,Cade York kicks extra point good,0.000,0.000
+4,9:29,,,CLE 35,14,23,"Cade York kicks off 65 yards, touchback.",0.000,0.610
+4,9:29,1,10,PIT 25,14,23,Najee Harris right guard for no gain (tackle by Sione Takitaki),0.610,0.060
+4,8:52,2,10,PIT 25,14,23,Mitchell Trubisky pass incomplete deep middle intended for Chase Claypool (defended by John Johnson),0.060,-0.620
+4,8:46,3,10,PIT 25,14,23,"Penalty on Kevin Dotson: False Start, 5 yards (accepted) (no play)",-0.620,-1.290
+4,8:46,3,15,PIT 20,14,23,Mitchell Trubisky pass incomplete deep middle intended for Pat Freiermuth,-1.290,-2.030
+4,8:42,4,15,PIT 20,14,23,"Pressley Harvin punts 48 yards, returned by Chester Rogers for 7 yards (tackle by James Pierre)",-2.030,-1.530
+4,8:32,1,10,CLE 39,14,23,Nick Chubb right guard for 3 yards (tackle by Jamir Jones),1.530,1.390
+4,7:55,2,7,CLE 42,14,23,Jacoby Brissett pass complete short middle to David Njoku for 8 yards (tackle by Devin Bush),1.390,2.260
+4,7:13,1,10,CLE 50,14,23,Nick Chubb right tackle for 3 yards (tackle by Alex Highsmith and Larry Ogunjobi),2.260,2.120
+4,6:31,2,7,PIT 47,14,23,Nick Chubb right tackle for -5 yards (tackle by Alex Highsmith),2.120,0.760
+4,5:44,3,12,CLE 48,14,23,Jacoby Brissett pass incomplete short right intended for Amari Cooper,0.760,-0.190
+4,5:40,4,12,CLE 48,14,23,Corey Bojorquez punts 46 yards downed by John Johnson,-0.190,0.380
+4,5:29,1,10,PIT 6,14,23,Mitchell Trubisky pass complete short right to Chase Claypool for 7 yards (tackle by Greg Newsome),-0.380,-0.270
+4,5:10,2,3,PIT 13,14,23,Mitchell Trubisky pass incomplete short left intended for Diontae Johnson,-0.270,-0.600
+4,5:04,3,3,PIT 13,14,23,Mitchell Trubisky sacked by Jacob Phillips for -3 yards,-0.600,-2.490
+4,4:27,4,6,PIT 10,14,23,"Pressley Harvin punts 45 yards, returned by Chester Rogers for 4 yards (tackle by James Pierre)",-2.490,-2.190
+4,4:18,1,10,CLE 49,14,23,Kareem Hunt left guard for 2 yards (tackle by Myles Jack and Cameron Heyward),2.190,1.920
+4,4:12,,,,,,Timeout #1 by Pittsburgh Steelers,,
+4,4:12,2,8,PIT 49,14,23,Nick Chubb right guard for -2 yards (tackle by Cameron Heyward),1.920,0.960
+4,4:05,,,,,,Timeout #2 by Pittsburgh Steelers,,
+4,4:05,3,10,CLE 49,14,23,Jacoby Brissett sacked by Alex Highsmith for -7 yards,0.960,-0.590
+4,3:22,4,17,CLE 42,14,23,Corey Bojorquez punts 38 yards out of bounds,-0.590,-0.280
+4,3:13,1,10,PIT 20,14,23,Mitchell Trubisky pass complete short left to Diontae Johnson for 13 yards,0.280,1.140
+4,3:08,1,10,PIT 33,14,23,Mitchell Trubisky pass complete deep middle to Pat Freiermuth for 26 yards (tackle by Grant Delpit),1.140,2.850
+4,2:46,1,10,CLE 41,14,23,Mitchell Trubisky pass complete short middle to Pat Freiermuth for 15 yards (tackle by Grant Delpit),2.850,3.840
+4,2:27,1,10,CLE 26,14,23,Mitchell Trubisky pass incomplete deep right intended for George Pickens,3.840,3.300
+4,2:23,2,10,CLE 26,14,23,Mitchell Trubisky pass complete short right to George Pickens for 5 yards (tackle by Isaac Rochell),3.300,3.270
+4,2:02,3,5,CLE 21,14,23,"Mitchell Trubisky pass incomplete deep left intended for Diontae Johnson Penalty on PIT: Illegal Shift, 5 yards (offset) . Penalty on Denzel Ward: Defensive Pass Interference, 15 yards (offset) (no play)",3.270,3.270
+4,1:57,3,5,CLE 21,14,23,Mitchell Trubisky pass incomplete intended for Pat Freiermuth (defended by Jacob Phillips),3.270,2.110
+4,1:51,4,5,CLE 21,14,23,Chris Boswell yard field goal good (no play),2.110,2.460
+4,1:51,4,1,CLE 17,17,23,Chris Boswell 34 yard field goal good,2.460,3.000
+4,1:48,,,PIT 35,17,23,"Chris Boswell kicks onside 16 yards, out of bounds. Penalty on George Pickens: Offside on Free Kick, 5 yards (accepted)",0.000,2.520
+4,1:46,1,10,PIT 46,17,23,Nick Chubb left guard for 3 yards (tackle by Tyson Alualu),2.520,2.380
+4,1:40,,,,,,Timeout #3 by Pittsburgh Steelers,,
+4,1:40,2,7,PIT 43,17,23,Nick Chubb left guard for 6 yards (tackle by Tyson Alualu and Myles Jack),2.380,2.480
+4,0:36,,,,,,Timeout #1 by Cleveland Browns,,
+4,0:36,3,1,PIT 37,17,23,"Nick Chubb right guard for 1 yard (tackle by Levi Wallace) Replay Assistant challenged the first down ruling, and the original play was overturned. Nick Chubb right guard for no gain (tackle by Levi Wallace)",2.480,0.790
+4,0:15,,,,,,Timeout #2 by Cleveland Browns,,
+4,0:15,4,1,PIT 37,17,23,Corey Bojorquez punts 33 yards out of bounds,0.790,0.380
+4,0:09,1,10,PIT 4,17,29,"Mitchell Trubisky pass complete short left to Diontae Johnson for 8 yards, lateral to Chase Claypool for no gain, lateral to Najee Harris for no gain. Najee Harris fumbles, recovered by Denzel Ward in end zone, touchdown",-0.380,-7.000
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

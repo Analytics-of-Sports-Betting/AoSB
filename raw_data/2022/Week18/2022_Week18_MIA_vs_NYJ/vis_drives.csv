@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,9:48,NYJ 44,6,2:42,14,Punt
+2,1,1:21,NYJ 12,3,2:10,9,Punt
+3,2,12:25,NYJ 45,6,1:37,18,Missed FG
+4,2,5:17,NYJ 25,11,3:42,61,Field Goal
+5,3,15:00,NYJ 25,3,1:30,9,Punt
+6,3,5:18,NYJ 25,14,8:19,58,Field Goal
+7,4,9:05,NYJ 11,7,2:34,38,Punt
+8,4,4:44,NYJ 28,3,1:43,-2,Punt
+9,4,0:18,NYJ 25,3,0:18,-25,"Fumble, Safety"

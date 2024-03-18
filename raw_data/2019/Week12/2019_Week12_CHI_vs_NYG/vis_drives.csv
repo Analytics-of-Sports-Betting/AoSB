@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,NYG 40,4,2:10,13,Punt
+2,1,11:26,NYG 29,6,2:53,18,Punt
+3,1,1:43,NYG 20,5,2:00,16,Punt
+4,2,11:02,CHI 42,6,3:24,42,Touchdown
+5,2,6:38,CHI 29,4,0:53,5,Missed FG
+6,2,4:18,CHI 48,5,2:23,23,Missed FG
+8,3,12:12,NYG 25,3,2:25,7,Punt
+9,3,7:09,NYG 23,1,0:15,-16,Fumble
+10,3,5:19,NYG 18,3,1:42,1,Punt
+11,4,14:45,,4,1:47,7,Downs
+12,4,9:05,NYG 3,11,4:55,97,Touchdown
+13,4,3:37,NYG 6,8,1:54,29,Downs

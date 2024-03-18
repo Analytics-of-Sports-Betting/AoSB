@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,11:16,CIN 18,13,5:57,69,Field Goal
+2,1,1:08,CIN 26,5,1:18,54,Missed FG
+3,2,13:20,CIN 15,9,3:43,54,Missed FG
+4,2,7:31,CIN 9,10,5:20,91,Touchdown
+5,2,0:51,CIN 43,6,0:51,20,Missed FG
+6,3,15:00,CIN 20,3,1:21,2,Punt
+7,3,12:10,CIN 20,3,1:12,80,Touchdown
+8,3,10:42,ATL 43,8,4:14,43,Touchdown
+9,3,1:39,CIN 16,7,4:05,24,Punt
+10,4,8:35,CIN 41,3,2:23,9,Punt
+11,4,4:29,CIN 47,5,2:11,12,Punt
+12,4,0:24,ATL 29,1,0:24,-1,End of Game

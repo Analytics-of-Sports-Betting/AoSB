@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,12:30,SEA 14,2,0:52,-3,Interception
+2,1,11:38,SEA 25,5,3:36,28,Punt
+3,2,14:18,SEA 20,1,0:06,0,Interception
+4,2,12:37,SEA 20,3,1:26,-8,Punt
+5,2,6:26,SEA 20,12,4:11,66,Downs
+6,2,1:05,SEA 33,5,1:05,30,Missed FG
+7,3,15:00,CAR 35,4,1:33,35,Touchdown
+8,3,10:20,SEA 37,7,2:40,63,Touchdown
+9,3,4:14,SEA 15,8,3:48,39,Punt
+10,4,9:32,SEA 27,9,3:28,73,Touchdown
+11,4,2:49,SEA 22,11,1:37,60,Field Goal

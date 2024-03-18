@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,MIN 25,3,0:23,0,Punt
+2,1,13:12,MIN 18,3,1:36,9,Punt
+3,1,8:21,MIN 25,12,5:31,75,Touchdown
+4,1,0:42,MIN 36,3,2:12,9,Punt
+5,2,4:34,MIN 25,3,1:36,-5,Punt
+6,2,1:42,MIN 32,12,1:36,57,Field Goal
+7,3,14:52,KAN 38,5,3:01,38,Touchdown
+8,3,10:07,MIN 20,5,3:06,35,Punt
+9,3,6:13,MIN 25,4,2:45,7,Punt
+10,3,0:30,MIN 25,11,4:31,75,Touchdown
+11,4,7:47,MIN 28,3,1:12,0,Punt
+12,4,2:30,MIN 25,3,0:43,-7,Punt

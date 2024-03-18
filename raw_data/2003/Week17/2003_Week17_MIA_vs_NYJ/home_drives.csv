@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,MIA 25,14,7:27,71,Field Goal
+2,1,2:19,MIA 14,6,2:34,61,Field Goal
+3,2,12:42,MIA 46,6,2:48,54,Touchdown
+4,2,6:08,NYJ 48,5,3:13,48,Touchdown
+5,2,0:14,MIA 32,1,0:14,-1,End of Half
+6,3,8:21,MIA 29,9,5:00,36,Missed FG
+7,3,1:49,MIA 10,4,1:27,-10,"Fumble, Safety"
+8,4,8:58,MIA 31,7,4:52,68,Interception
+9,4,2:56,NYJ 49,9,2:53,45,Field Goal

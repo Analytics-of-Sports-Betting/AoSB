@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,HOU 20,12,5:05,38,Punt
+2,1,1:08,HOU 20,9,5:01,35,Punt
+3,2,10:06,BAL 46,5,2:33,26,Downs
+4,2,6:11,BAL 17,3,1:23,17,Touchdown
+5,2,1:50,HOU 20,3,1:19,-2,Punt
+6,2,0:21,HOU 34,4,0:21,24,End of Half
+7,3,11:46,HOU 20,6,3:10,80,Touchdown
+8,3,3:30,HOU 20,5,2:03,13,Punt
+9,4,14:44,HOU 20,8,3:47,42,Punt
+10,4,8:39,HOU 14,3,2:01,6,Punt
+11,4,4:01,HOU 20,4,0:27,6,Downs
+12,4,1:55,HOU 20,4,0:38,9,Downs

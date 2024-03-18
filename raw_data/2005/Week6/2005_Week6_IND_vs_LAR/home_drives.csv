@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,8:17,IND 26,6,2:35,15,Punt
+2,1,3:31,IND 26,11,4:17,44,Missed FG
+3,2,12:37,STL 34,6,2:53,34,Touchdown
+4,2,6:21,IND 14,9,4:24,86,Touchdown
+5,2,0:30,IND 37,4,0:30,-8,Downs
+6,3,15:00,IND 26,12,4:58,70,Field Goal
+7,3,6:04,STL 35,7,2:48,35,Touchdown
+8,3,3:03,STL 14,6,3:05,14,Touchdown
+9,4,12:26,STL 38,5,3:01,38,Touchdown
+10,4,9:07,STL 19,2,0:55,19,Touchdown
+11,4,3:28,STL 46,6,3:28,26,End of Game

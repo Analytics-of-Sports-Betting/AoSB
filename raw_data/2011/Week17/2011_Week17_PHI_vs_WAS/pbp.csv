@@ -1,0 +1,183 @@
+Quarter,Time,Down,ToGo,Location,WAS,PHI,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Eagles won the coin toss, Eagles to receive the opening kickoff.",,
+1,15:00,,,WAS 35,0,0,"Graham Gano kicks off 69 yards, returned by Chad Hall for 24 yards (tackle by Reed Doughty)",0.000,0.280
+1,14:55,1,10,PHI 20,0,0,Ronnie Brown left end for 1 yard (tackle by Perry Riley and London Fletcher),0.280,-0.130
+1,14:13,2,9,PHI 21,0,0,Michael Vick pass incomplete short middle intended for Clay Harbor (defended by Perry Riley),-0.130,-0.820
+1,14:09,,,,0,0,Timeout #1 by Philadelphia Eagles,0.000,-0.820
+1,14:09,3,9,PHI 21,0,0,Michael Vick sacked by Brian Orakpo for -5 yards,-0.820,-2.390
+1,13:42,4,14,PHI 16,0,0,"Chas Henry punts 54 yards, fair catch by Brandon Banks. Penalty on Keyaron Fox: Offensive Holding, 10 yards",-2.390,-0.280
+1,13:39,1,10,WAS 20,0,0,Evan Royster right end for 1 yard (tackle by Trevor Laws),0.280,-0.130
+1,13:04,2,9,WAS 21,0,0,Evan Royster right tackle for 4 yards (tackle by Cullen Jenkins),-0.130,-0.300
+1,12:20,3,5,WAS 25,0,0,Rex Grossman pass incomplete short left intended for Jabar Gaffney,-0.300,-1.700
+1,12:15,4,5,WAS 25,0,0,"Saverio Rocca punts 22 yards, out of bounds",-1.700,-2.460
+1,12:10,1,10,WAS 47,0,0,Michael Vick pass complete deep left to Brent Celek for 30 yards (tackle by Dejon Gomes),2.460,4.440
+1,11:22,1,10,WAS 17,0,0,Dion Lewis right end for 1 yard (tackle by Perry Riley),4.440,4.000
+1,10:47,2,9,WAS 16,0,0,Michael Vick pass incomplete short right intended for Jeremy Maclin,4.000,3.190
+1,10:41,3,9,WAS 16,0,0,Michael Vick pass incomplete deep left intended for Jeremy Maclin,3.190,2.380
+1,10:34,4,9,WAS 16,0,3,Alex Henery 35 yard field goal good,2.380,3.000
+1,10:29,,,PHI 35,0,3,"Alex Henery kicks off 65 yards, touchback",0.000,0.280
+1,10:29,1,10,WAS 20,0,3,Evan Royster up the middle for 3 yards (tackle by Akeem Jordan),0.280,0.140
+1,9:52,2,7,WAS 23,0,3,Rex Grossman pass complete short right to Evan Royster for 10 yards (tackle by Casey Matthews),0.140,1.140
+1,9:18,1,10,WAS 33,0,3,Rex Grossman pass complete short left to Santana Moss for 3 yards (tackle by Darryl Tapp),1.140,1.000
+1,8:41,2,7,WAS 36,0,3,Rex Grossman pass complete deep right to Darrel Young for 20 yards,1.000,2.650
+1,8:15,1,10,PHI 44,0,3,Evan Royster left end for no gain (tackle by Jamar Chaney),2.650,2.110
+1,7:47,2,10,PHI 44,0,3,Roy Helu up the middle for 1 yard (tackle by Akeem Jordan and Jason Babin),2.110,1.550
+1,7:08,3,9,PHI 43,0,3,Rex Grossman pass incomplete deep middle intended for Santana Moss,1.550,0.400
+1,7:01,4,9,PHI 43,0,3,"Saverio Rocca punts 26 yards, fair catch by Chad Hall",0.400,0.060
+1,6:53,1,10,PHI 17,0,3,Ronnie Brown right end for no gain (tackle by Ryan Kerrigan),-0.060,-0.580
+1,6:53,2,10,PHI 17,0,3,Michael Vick pass incomplete deep middle intended for DeSean Jackson,-0.580,-1.250
+1,6:09,3,10,PHI 17,0,3,Michael Vick pass complete deep right to Jeremy Maclin for 21 yards (tackle by Reed Doughty),-1.250,1.470
+1,5:28,1,10,PHI 38,0,3,Michael Vick pass incomplete short middle intended for Brent Celek (defended by London Fletcher),1.470,0.920
+1,5:23,2,10,PHI 38,0,3,Dion Lewis left end for no gain (tackle by Dejon Gomes),0.920,0.230
+1,4:39,3,10,PHI 38,0,3,Michael Vick pass incomplete deep left intended for Jeremy Maclin (defended by DeAngelo Hall),0.230,-0.850
+1,4:33,4,10,PHI 38,0,3,"Chas Henry punts 52 yards, returned by Brandon Banks for 24 yards (tackle by Jon Dorenbos). Penalty on Anthony Armstrong: Illegal Block Above the Waist, 6 yards, Penalty on Lorenzo Alexander: Illegal Block Above the Waist (Declined)",-0.850,0.380
+1,4:19,1,10,WAS 6,0,3,Rex Grossman pass complete short middle to Logan Paulsen for 22 yards (tackle by Jaiquawn Jarrett),-0.380,0.810
+1,3:43,1,10,WAS 28,0,3,Rex Grossman pass complete short right to Roy Helu for 1 yard (tackle by Casey Matthews),0.810,0.400
+1,3:03,2,9,WAS 29,0,3,Evan Royster right end for 1 yard (tackle by Derek Landri),0.400,-0.160
+1,2:21,3,8,WAS 30,0,3,Rex Grossman pass incomplete short left intended for Jabar Gaffney,-0.160,-1.370
+1,2:14,4,8,WAS 30,0,3,"Saverio Rocca punts 53 yards, returned by Chad Hall for 2 yards (tackle by Keyaron Fox)",-1.370,-0.150
+1,2:05,1,10,PHI 19,0,3,Michael Vick pass complete short left to Jeremy Maclin for 15 yards (tackle by DeAngelo Hall),0.150,1.200
+1,1:28,1,10,PHI 34,0,3,Michael Vick pass complete short left to Brent Celek for 11 yards (tackle by Dejon Gomes),1.200,1.930
+1,0:54,1,10,PHI 45,0,3,Michael Vick pass complete short left to Jason Avant for 5 yards (tackle by Dejon Gomes),1.930,2.060
+1,0:15,2,5,,0,3,Michael Vick pass complete short left to DeSean Jackson for 7 yards (tackle by Josh Wilson),2.060,2.720
+Quarter,Time,Down,ToGo,Location,WAS,PHI,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,WAS 43,0,3,"Michael Vick pass complete deep middle to Jeremy Maclin for 29 yards (tackle by O.J. Atogwe). Penalty on Ronnie Brown: Offensive Holding, 10 yards (no play)",2.720,2.060
+2,14:37,1,20,PHI 47,0,3,Dion Lewis up the middle for -3 yards (tackle by Darrion Scott),2.060,0.420
+2,13:54,2,23,PHI 44,0,3,Michael Vick pass incomplete deep left intended for Jeremy Maclin (defended by Perry Riley),0.420,-0.230
+2,13:48,,,,0,3,Timeout #2 by Philadelphia Eagles,0.000,-0.230
+2,13:48,3,23,PHI 44,0,3,Michael Vick pass incomplete short left intended for Jason Avant,-0.230,-0.460
+2,13:42,4,23,PHI 44,0,3,"Chas Henry punts 56 yards, touchback",-0.460,-0.280
+2,13:34,1,10,WAS 20,0,3,Darrel Young right tackle for 12 yards (tackle by Dominique Rodgers-Cromartie),0.280,1.070
+2,13:03,1,10,WAS 32,0,3,Roy Helu for 7 yards,1.070,1.470
+2,12:33,2,3,WAS 39,0,3,"Rex Grossman pass incomplete deep middle intended for Anthony Armstrong is intercepted by Nate Allen at PHI-7 and returned for 31 yards (tackle by Willie Smith). Penalty on Brian Rolle: Illegal Block Above the Waist, 10 yards",1.470,-0.810
+2,12:12,1,10,PHI 28,0,3,"Ronnie Brown right end for no gain (tackle by O.J. Atogwe). Penalty on Todd Herremans: Offensive Holding, 10 yards (no play)",0.810,-0.040
+2,11:47,1,20,PHI 18,0,3,Michael Vick pass complete short right to Brent Celek for 10 yards (tackle by Byron Westbrook),-0.040,0.260
+2,11:04,2,10,PHI 28,0,3,Michael Vick pass incomplete deep right intended for DeSean Jackson,0.260,-0.430
+2,11:00,3,10,PHI 28,0,3,Michael Vick pass incomplete deep middle intended for Brent Celek,-0.430,-1.500
+2,10:55,4,10,PHI 28,0,3,"Chas Henry punts 39 yards, returned by Brandon Banks for -3 yards (tackle by Keenan Clayton)",-1.500,-0.940
+2,10:38,1,10,WAS 30,0,3,Evan Royster left guard for 28 yards (tackle by Casey Matthews),0.940,2.790
+2,9:52,1,10,PHI 42,0,3,Evan Royster right tackle for 6 yards (tackle by Trent Cole),2.790,3.050
+2,9:15,2,4,PHI 36,0,3,Evan Royster right guard for 7 yards (tackle by Dominique Rodgers-Cromartie),3.050,3.640
+2,8:33,1,10,PHI 29,0,3,Roy Helu up the middle for -3 yards (tackle by Derek Landri),3.640,2.700
+2,7:55,2,13,PHI 32,0,3,Rex Grossman pass complete short right to Evan Royster for 11 yards (tackle by Darryl Tapp and Nate Allen),2.700,3.470
+2,7:12,,,,0,3,Timeout #1 by Washington Redskins,0.000,3.470
+2,7:12,3,2,PHI 21,0,3,Evan Royster up the middle for 3 yards (tackle by Brian Rolle and Casey Matthews),3.470,4.370
+2,6:30,1,10,PHI 18,0,3,Rex Grossman pass incomplete short middle intended for Anthony Armstrong,4.370,3.800
+2,6:24,2,10,PHI 18,0,3,Rex Grossman pass incomplete short right intended for Jabar Gaffney,3.800,3.050
+2,6:21,3,10,PHI 18,0,3,Rex Grossman pass incomplete short right intended for Santana Moss,3.050,2.250
+2,6:18,4,10,PHI 18,0,3,"Graham Gano 36 yard field goal no good, blocked by Derek Landri, recovered by Dominique Rodgers-Cromartie and returned for 1 yard, lateral to Tom Nelson for 2 yards. (tackle by Sean Locklear)",2.250,-1.270
+2,5:53,1,10,PHI 35,0,3,Michael Vick pass complete short left to Jeremy Maclin for 10 yards,1.270,1.930
+2,5:23,1,10,PHI 45,0,3,Michael Vick pass complete short right to Jeremy Maclin for 5 yards (tackle by DeAngelo Hall),1.930,2.060
+2,4:51,2,5,,0,3,Ronnie Brown left end for 9 yards (tackle by Brian Orakpo),2.060,2.850
+2,4:15,1,10,WAS 41,0,3,Michael Vick pass complete short left to Clay Harbor for 9 yards (tackle by DeAngelo Hall),2.850,3.520
+2,3:25,2,1,WAS 32,0,3,Ronnie Brown right end for 4 yards (tackle by Ryan Kerrigan),3.520,3.710
+2,2:45,1,10,WAS 28,0,3,Michael Vick pass complete short left to DeSean Jackson for 10 yards (tackle by Perry Riley),3.710,4.370
+2,2:00,1,10,WAS 18,0,3,Michael Vick pass complete short left to Jeremy Maclin for 11 yards (tackle by London Fletcher),4.370,5.600
+2,1:49,,,,0,3,Timeout #2 by Washington Redskins,0.000,5.600
+2,1:49,1,7,WAS 7,0,9,"Michael Vick pass complete short left to Chad Hall for 7 yards, touchdown",5.600,7.000
+2,1:49,,,WAS 2,0,10,Alex Henery kicks extra point good,0.000,0.000
+2,1:44,,,PHI 35,0,10,"Alex Henery kicks off 65 yards, touchback",0.000,0.280
+2,1:44,1,10,WAS 20,0,10,Rex Grossman pass complete short right to Evan Royster for 16 yards (tackle by Nnamdi Asomugha),0.280,1.330
+2,1:37,1,10,WAS 36,0,10,"Rex Grossman pass complete short left to Jabar Gaffney for 4 yards (tackle by Brandon Hughes). Penalty on Jason Babin: Illegal Use of Hands, 5 yards (no play)",1.330,1.660
+2,1:32,1,10,WAS 41,0,10,Rex Grossman pass complete deep right to Santana Moss for 20 yards (tackle by Keenan Clayton),1.660,2.980
+2,1:22,,,,0,10,Timeout #3 by Washington Redskins,0.000,2.980
+2,1:22,1,10,PHI 39,0,10,Rex Grossman pass incomplete deep left intended for Jabar Gaffney,2.980,2.440
+2,1:17,2,10,PHI 39,0,10,Rex Grossman pass complete short middle to Jabar Gaffney for 4 yards (tackle by Nnamdi Asomugha),2.440,2.280
+2,0:53,3,6,PHI 35,0,10,Rex Grossman pass incomplete deep middle intended for Anthony Armstrong (defended by Trent Cole),2.280,0.970
+2,0:48,4,6,PHI 35,0,10,Rex Grossman pass incomplete deep left intended for Santana Moss,0.970,-1.270
+2,0:44,1,10,PHI 35,0,10,"Michael Vick sacked by Brian Orakpo for -13 yards. Michael Vick fumbles (forced by Brian Orakpo), recovered by Perry Riley at PHI-20 and returned for 3 yards (tackle by Jason Peters)",1.270,-4.440
+2,0:35,1,10,PHI 17,0,10,Rex Grossman pass incomplete short right intended for Evan Royster,4.440,3.850
+2,0:33,2,10,PHI 17,0,10,Rex Grossman pass complete short left to Jabar Gaffney for 13 yards (tackle by Nate Allen). Penalty on Jason Babin: Defensive Offside (Declined),3.850,6.280
+2,0:28,1,4,PHI 4,0,10,"Rex Grossman pass incomplete short right intended for Santana Moss. Penalty on Santana Moss: Unsportsmanlike Conduct, 15 yards",6.280,3.070
+2,0:23,2,19,PHI 19,0,10,Rex Grossman pass complete short right to Terrence Austin for 4 yards (tackle by Joselio Hanson),3.070,2.930
+2,0:16,3,15,PHI 15,0,10,Rex Grossman pass complete short middle to Jabar Gaffney for 8 yards (tackle by Keenan Clayton),2.930,2.970
+Quarter,Time,Down,ToGo,Location,WAS,PHI,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PHI 35,0,10,"Alex Henery kicks off 65 yards, touchback",0.000,0.280
+3,15:00,1,10,WAS 20,0,10,Evan Royster right end for 1 yard (tackle by Cullen Jenkins),0.280,-0.130
+3,14:23,2,9,WAS 21,0,10,Rex Grossman pass complete short right to Darrel Young for 8 yards (tackle by Jason Babin),-0.130,0.230
+3,13:50,3,1,WAS 29,0,10,Rex Grossman pass complete short right to Donte Stallworth for 8 yards (tackle by Keenan Clayton),0.230,1.400
+3,13:17,1,10,WAS 37,0,10,Evan Royster right tackle for 3 yards (tackle by Cullen Jenkins),1.400,1.260
+3,12:41,2,7,WAS 40,0,10,Evan Royster up the middle for 6 yards (tackle by Darryl Tapp),1.260,1.360
+3,12:02,3,1,WAS 46,0,10,Evan Royster right end for 3 yards (tackle by Akeem Jordan),1.360,2.190
+3,11:21,1,10,WAS 49,0,10,Rex Grossman pass complete short left to Darrel Young for 4 yards (tackle by Brian Rolle),2.190,2.190
+3,10:40,2,6,PHI 47,6,10,"Rex Grossman pass complete short left to Roy Helu for 47 yards, touchdown. Penalty on Donte Stallworth: Unsportsmanlike Conduct, 15 yards",2.190,7.000
+3,10:40,,,PHI 2,7,10,Graham Gano kicks extra point good,0.000,0.000
+3,10:29,,,WAS 20,7,10,"Graham Gano kicks off 73 yards, returned by Chad Hall for 19 yards (tackle by Keyaron Fox)",0.000,0.670
+3,10:23,1,10,PHI 26,7,10,Michael Vick pass complete short left to Jeremy Maclin for 2 yards (tackle by Rob Jackson),0.670,0.400
+3,9:42,2,8,PHI 28,7,10,Michael Vick pass incomplete short right intended for Jason Avant,0.400,-0.300
+3,9:39,3,8,PHI 28,7,10,"Michael Vick pass complete deep middle to Jason Avant for 16 yards (tackle by Reed Doughty). Penalty on Reed Doughty: Unnecessary Roughness, 15 yards",-0.300,2.850
+3,9:08,1,10,WAS 41,7,10,Michael Vick pass incomplete deep right intended for Jeremy Maclin (defended by DeAngelo Hall),2.850,2.310
+3,9:02,2,10,WAS 41,7,10,Ronnie Brown up the middle for -3 yards (tackle by Barry Cofield),2.310,1.220
+3,8:22,3,13,WAS 44,7,10,Michael Vick pass complete short middle to Jason Avant for 15 yards (tackle by Reed Doughty),1.220,3.640
+3,7:39,1,10,WAS 29,7,10,Michael Vick pass complete short right to Jeremy Maclin for 12 yards (tackle by Reed Doughty),3.640,4.440
+3,6:53,1,10,WAS 17,7,10,Ronnie Brown right guard for 3 yards (tackle by London Fletcher),4.440,4.320
+3,6:10,2,7,WAS 14,7,10,Michael Vick pass complete short middle to Brent Celek for 8 yards (tackle by Byron Westbrook),4.320,5.830
+3,5:28,1,6,WAS 6,7,10,Michael Vick up the middle for 3 yards (tackle by O.J. Atogwe),5.830,5.530
+3,4:50,2,3,WAS 3,7,10,Dion Lewis right tackle for 1 yard (tackle by Stephen Bowen),5.530,4.950
+3,4:15,3,2,WAS 2,7,10,Michael Vick pass incomplete short left intended for Brent Celek,4.950,3.250
+3,4:08,4,2,WAS 2,7,13,Alex Henery 20 yard field goal good,3.250,3.000
+3,4:05,,,PHI 35,7,13,"Alex Henery kicks off 65 yards, touchback",0.000,0.280
+3,4:05,1,10,WAS 20,7,13,Rex Grossman pass complete deep middle to Santana Moss for 22 yards (tackle by Joselio Hanson),0.280,1.730
+3,3:27,1,10,WAS 42,7,13,Rex Grossman pass incomplete short middle intended for Niles Paul (defended by Nate Allen),1.730,1.190
+3,3:21,2,10,WAS 42,7,13,Evan Royster up the middle for 7 yards (tackle by Nate Allen),1.190,1.420
+3,2:40,3,3,WAS 49,7,13,Rex Grossman pass complete short right to Logan Paulsen for 7 yards (tackle by Casey Matthews),1.420,2.650
+3,2:02,1,10,PHI 44,7,13,"Rex Grossman pass incomplete deep left intended for Donte Stallworth. Penalty on Trevor Laws: Roughing the Passer, 15 yards (no play)",2.650,3.640
+3,1:53,1,10,PHI 29,7,13,Evan Royster right guard for 3 yards (tackle by Juqua Parker),3.640,3.510
+3,1:06,2,7,PHI 26,7,13,Rex Grossman pass complete short right to Jabar Gaffney for 3 yards (tackle by Dominique Rodgers-Cromartie),3.510,3.200
+3,0:27,3,4,PHI 23,7,13,Rex Grossman pass complete short left to Brandon Banks for 10 yards (tackle by Jaiquawn Jarrett),3.200,4.710
+Quarter,Time,Down,ToGo,Location,WAS,PHI,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,PHI 13,7,13,Evan Royster up the middle for 4 yards (tackle by Jaiquawn Jarrett),4.710,4.770
+4,14:18,2,6,PHI 9,7,13,Roy Helu left end for no gain (tackle by Nnamdi Asomugha),4.770,3.880
+4,13:33,3,6,PHI 9,7,13,Rex Grossman pass incomplete short right intended for Logan Paulsen,3.880,2.850
+4,13:27,4,6,PHI 9,10,13,Graham Gano 27 yard field goal good,2.850,3.000
+4,13:24,,,WAS 35,10,13,"Graham Gano kicks off 65 yards, touchback",0.000,0.280
+4,13:24,1,10,PHI 20,10,13,Michael Vick pass incomplete short left intended for Ronnie Brown,0.280,-0.270
+4,13:18,2,10,PHI 20,10,13,Michael Vick pass complete short right to Brent Celek for 23 yards (tackle by Byron Westbrook),-0.270,1.800
+4,12:35,1,10,PHI 43,10,13,"Michael Vick pass complete short middle to Clay Harbor for 4 yards. Penalty on Evan Mathis: Ineligible Downfield Pass, 5 yards (no play)",1.800,1.470
+4,12:12,1,15,PHI 38,10,19,"Michael Vick pass complete deep left to DeSean Jackson for 62 yards, touchdown",1.470,7.000
+4,12:12,,,WAS 2,10,20,Alex Henery kicks extra point good,0.000,0.000
+4,12:01,,,PHI 35,10,20,"Alex Henery kicks off 65 yards, touchback",0.000,0.280
+4,12:01,1,10,WAS 20,10,20,Evan Royster up the middle for 15 yards (tackle by Nate Allen),0.280,1.270
+4,11:23,1,10,WAS 35,10,20,Rex Grossman pass incomplete short middle intended for Jabar Gaffney,1.270,0.720
+4,11:19,2,10,WAS 35,10,20,"Evan Royster up the middle for no gain (tackle by Nnamdi Asomugha). Penalty on Chris Chester: Offensive Holding, 10 yards (no play)",0.720,-0.630
+4,10:50,2,20,WAS 25,10,20,Rex Grossman pass incomplete deep left intended for Logan Paulsen,-0.630,-1.290
+4,10:43,3,20,WAS 25,10,20,Rex Grossman sacked by Trent Cole for -9 yards,-1.290,-2.390
+4,10:24,4,29,WAS 16,10,20,"Saverio Rocca punts 49 yards, returned by Chad Hall for 30 yards (tackle by Dejon Gomes)",-2.390,-3.250
+4,10:10,1,10,WAS 35,10,20,"Michael Vick pass incomplete deep middle intended for Brent Celek is intercepted by O.J. Atogwe at WAS-2 and returned for 16 yards, lateral to DeAngelo Hall for 12 yards (tackle by Brent Celek)",3.250,-0.940
+4,9:51,1,10,WAS 30,10,20,Evan Royster up the middle for 2 yards (tackle by Nate Allen),0.940,0.660
+4,9:15,2,8,WAS 32,10,20,Rex Grossman pass incomplete short left intended for Evan Royster,0.660,-0.030
+4,9:11,3,8,WAS 32,10,20,Rex Grossman pass incomplete short middle intended for Santana Moss,-0.030,-1.240
+,,,,,,,"PHI challenged the pass completion ruling, and the original play was overturned.",,
+4,9:08,4,8,WAS 32,10,20,Saverio Rocca punts 33 yards,-1.240,-1.270
+4,9:00,1,10,PHI 35,10,20,Michael Vick pass complete short left to Jason Avant for 6 yards (tackle by Byron Westbrook),1.270,1.530
+4,8:15,2,4,PHI 41,10,20,Dion Lewis up the middle for -1 yards (tackle by Rob Jackson),1.530,0.700
+4,7:37,3,5,PHI 40,10,20,Michael Vick pass complete deep middle to Jeremy Maclin for 29 yards (tackle by Reed Doughty),0.700,3.510
+,,,,,,,"WAS challenged the pass completion ruling, and the play was upheld.",,
+4,7:10,1,10,WAS 31,10,20,Michael Vick pass complete short right to DeSean Jackson for 7 yards,3.510,3.910
+4,6:37,2,3,WAS 24,10,20,Dion Lewis right end for 20 yards (tackle by Rob Jackson),3.910,6.280
+4,6:02,1,4,WAS 4,10,26,"Michael Vick pass complete short right to Brent Celek for 4 yards, touchdown",6.280,7.000
+4,6:02,,,WAS 2,10,27,Alex Henery kicks extra point good,0.000,0.000
+4,5:56,,,PHI 35,10,27,"Alex Henery kicks off 70 yards, returned by Brandon Banks for 38 yards (tackle by Keenan Clayton)",0.000,1.140
+4,5:47,1,10,WAS 33,10,27,Rex Grossman pass incomplete short right intended for Santana Moss (defended by Joselio Hanson),1.140,0.590
+4,5:43,2,10,WAS 33,10,27,Evan Royster up the middle for 7 yards (tackle by Keenan Clayton),0.590,0.830
+4,5:13,3,3,WAS 40,10,27,Rex Grossman pass incomplete short right intended for Logan Paulsen (defended by Keenan Clayton),0.830,-0.720
+4,5:10,4,3,WAS 40,10,27,Rex Grossman pass incomplete deep right intended for Terrence Austin,-0.720,-2.920
+4,5:06,1,10,WAS 40,10,27,Dion Lewis left end for 13 yards (tackle by Keyaron Fox and O.J. Atogwe),2.920,3.780
+4,4:22,1,10,WAS 27,10,27,Dion Lewis left end for 4 yards (tackle by Keyaron Fox),3.780,3.770
+4,3:37,2,6,WAS 23,10,27,Dion Lewis right guard for 7 yards (tackle by London Fletcher),3.770,4.510
+4,2:53,1,10,WAS 16,10,27,Dion Lewis right tackle for 2 yards (tackle by O.J. Atogwe),4.510,4.210
+4,2:10,2,8,WAS 14,10,27,Dion Lewis right guard for 5 yards (tackle by Adam Carriker),4.210,4.390
+4,2:00,3,3,WAS 9,10,33,"Dion Lewis right guard for 9 yards, touchdown. Penalty on Clay Harbor: Unnecessary Roughness, 15 yards",4.390,7.000
+4,2:00,,,WAS 2,10,34,Alex Henery kicks extra point good,0.000,0.000
+4,1:56,,,PHI 20,10,34,"Alex Henery kicks off 68 yards, returned by Brandon Banks for 19 yards (tackle by Riley Cooper). Brandon Banks fumbles (forced by Riley Cooper), recovered by Brandyn Thompson at WAS-27",0.000,0.740
+4,1:43,1,10,WAS 27,10,34,Rex Grossman pass incomplete short middle intended for Jabar Gaffney (defended by Curtis Marsh),0.740,0.200
+4,1:38,2,10,WAS 27,10,34,Rex Grossman pass incomplete right intended for Jabar Gaffney,0.200,-0.490
+4,1:31,3,10,WAS 27,10,34,"Penalty on Cullen Jenkins: Neutral Zone Infraction, 5 yards (no play)",-0.490,0.170
+4,1:23,3,5,WAS 32,10,34,Evan Royster left end for 9 yards (tackle by Keenan Clayton),0.170,1.660
+4,1:01,1,10,WAS 41,10,34,Rex Grossman pass complete short left to Evan Royster for 7 yards (tackle by Keenan Clayton and Brandon Hughes),1.660,2.070
+4,0:29,2,3,WAS 48,10,34,Rex Grossman pass complete short left to Evan Royster for 8 yards (tackle by Keenan Clayton),2.070,2.650
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

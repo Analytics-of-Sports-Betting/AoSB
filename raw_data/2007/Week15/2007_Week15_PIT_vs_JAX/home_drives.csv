@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,PIT 35,3,1:45,-8,Punt
+2,1,9:36,PIT 30,7,3:55,24,Punt
+3,1,2:52,JAX 50,3,1:14,8,Punt
+4,2,14:55,JAX 31,4,0:42,31,Touchdown
+5,2,12:33,PIT 8,5,3:25,3,Punt
+6,2,7:33,PIT 19,3,1:26,-2,Punt
+7,2,1:01,PIT 11,4,1:01,25,End of Half
+8,3,5:20,PIT 20,3,1:23,-4,Punt
+9,3,3:47,PIT 20,5,1:39,10,Punt
+10,4,14:03,JAX 12,3,0:52,12,Touchdown
+11,4,9:29,PIT 16,8,3:43,84,Touchdown
+12,4,1:57,PIT 41,7,1:16,20,Downs

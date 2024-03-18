@@ -1,0 +1,15 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,LAC 25,3,1:27,7,Punt
+2,1,9:43,LAC 4,2,0:50,-4,"Fumble, Safety"
+3,1,6:32,LAC 10,3,1:57,9,Punt
+4,1,2:16,LAC 23,8,4:15,77,Touchdown
+5,2,10:37,LAC 12,3,1:04,-2,Punt
+6,2,7:57,LAC 3,3,1:05,0,Punt
+7,2,5:49,LAC 20,3,1:32,7,Punt
+8,2,2:42,LAC 49,12,2:36,49,Field Goal
+9,3,13:35,NYG 49,5,2:39,35,Interception
+10,3,6:46,LAC 8,12,6:06,92,Touchdown
+11,4,13:31,LAC 25,4,2:31,7,Punt
+12,4,9:05,LAC 39,11,4:15,48,Field Goal
+13,4,3:46,NYG 11,3,0:48,11,Touchdown
+14,4,0:40,LAC 48,2,0:40,-3,End of Game

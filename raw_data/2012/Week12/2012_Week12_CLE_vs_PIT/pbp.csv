@@ -1,0 +1,182 @@
+Quarter,Time,Down,ToGo,Location,PIT,CLE,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Steelers won the coin toss and deferred, Browns to receive the opening kickoff.",,
+1,15:00,,,PIT 35,0,0,"Shaun Suisham kicks off 65 yards, touchback",0.000,0.280
+1,15:00,1,10,CLE 20,0,0,Brandon Weeden pass complete short right to Josh Gordon for 26 yards (tackle by Ike Taylor),0.280,1.990
+1,14:40,1,10,CLE 46,0,0,Trent Richardson left tackle for 3 yards (tackle by Larry Foote and Casey Hampton),1.990,1.860
+1,14:07,2,7,CLE 49,0,0,Brandon Weeden pass incomplete deep left intended for Travis Benjamin,1.860,1.160
+1,14:00,3,7,CLE 49,6,0,"Brandon Weeden pass incomplete short middle intended for Greg Little is intercepted by Lawrence Timmons at PIT-47 and returned for 53 yards, touchdown",1.160,-7.000
+1,,,,CLE 2,7,0,Shaun Suisham kicks extra point good,0.000,0.000
+1,13:49,,,PIT 35,7,0,"Shaun Suisham kicks off 65 yards, touchback",0.000,0.280
+1,13:49,1,10,CLE 20,7,0,Brandon Weeden sacked by James Harrison for -8 yards,0.280,-1.360
+1,13:20,2,18,CLE 12,7,0,Trent Richardson right tackle for 2 yards (tackle by Lawrence Timmons and Larry Foote),-1.360,-2.030
+1,12:38,3,16,CLE 14,7,0,Brandon Weeden pass incomplete deep left intended for Josh Gordon,-2.030,-2.470
+1,12:33,4,16,CLE 14,7,0,"Reggie Hodges punts 45 yards, fair catch by Emmanuel Sanders",-2.470,-1.660
+1,12:26,1,10,PIT 41,7,0,Rashard Mendenhall right guard for 2 yards (tackle by Frostee Rucker),1.660,1.390
+1,11:49,2,8,PIT 43,7,0,"Rashard Mendenhall left tackle for 3 yards (tackle by Ahtyba Rubin and Usama Young). Rashard Mendenhall fumbles (forced by Ahtyba Rubin), recovered by Usama Young at PIT-46 and returned for 2 yards",1.390,-2.650
+,,,,,,,"Replay Assistant challenged the runner was down by contact ruling, and the play was upheld.",,
+1,11:38,1,10,PIT 44,7,0,Trent Richardson right tackle for 6 yards (tackle by Ryan Clark),2.650,2.920
+1,11:10,2,4,PIT 38,7,0,Trent Richardson left guard for 7 yards (tackle by Lawrence Timmons),2.920,3.510
+1,10:31,1,10,PIT 31,7,0,Montario Hardesty left tackle for 13 yards (tackle by Ryan Clark and Will Allen),3.510,4.370
+1,9:51,1,10,PIT 18,7,0,Montario Hardesty right tackle for 1 yard (tackle by Cameron Heyward),4.370,3.940
+1,9:14,2,9,PIT 17,7,0,Brandon Weeden pass incomplete deep right intended for Josh Gordon,3.940,3.170
+1,9:10,3,9,PIT 17,7,0,Brandon Weeden pass complete short right to Mohamed Massaquoi for 6 yards (tackle by Cortez Allen),3.170,2.800
+1,9:10,4,3,PIT 11,7,3,Phil Dawson 28 yard field goal good,2.800,3.000
+1,8:25,,,CLE 35,7,3,"Phil Dawson kicks off 63 yards, returned by Chris Rainey for 19 yards (tackle by Johnson Bademosi)",0.000,0.340
+1,8:21,1,10,PIT 21,7,3,Jonathan Dwyer right guard for 4 yards (tackle by Sheldon Brown and Frostee Rucker),0.340,0.340
+1,7:37,2,6,PIT 25,7,3,Charlie Batch pass complete short right to Jonathan Dwyer for 7 yards (tackle by D'Qwell Jackson and T.J. Ward),0.340,1.070
+1,6:54,1,10,PIT 32,7,3,Jonathan Dwyer right tackle for 3 yards (tackle by D'Qwell Jackson and Sheldon Brown),1.070,0.930
+1,6:13,2,7,PIT 35,7,3,Jonathan Dwyer left guard for 4 yards (tackle by John Hughes),0.930,0.760
+1,5:33,3,3,PIT 39,7,3,Isaac Redman left guard for 2 yards (tackle by Kaluka Maiava),0.760,-0.650
+1,5:01,4,1,PIT 41,7,3,Drew Butler punts 41 yards,-0.650,-0.040
+1,4:52,1,10,CLE 18,7,3,Brandon Weeden pass complete short middle to Ben Watson for 11 yards (tackle by Larry Foote and Ryan Clark),0.040,0.870
+1,4:20,1,10,CLE 29,7,3,Brandon Weeden pass complete short left to Trent Richardson for 18 yards (tackle by Ryan Clark),0.870,2.060
+1,4:20,1,10,CLE 47,7,3,Trent Richardson left guard for 3 yards (tackle by Casey Hampton),2.060,1.920
+1,3:22,2,7,,7,3,Brandon Weeden pass incomplete short right intended for Alex Smith (defended by Jason Worilds),1.920,1.220
+1,3:13,3,7,,7,3,Brandon Weeden pass incomplete short right intended for Mohamed Massaquoi,1.220,-0.060
+1,3:09,4,7,,7,3,"Reggie Hodges punts 30 yards, fair catch by Emmanuel Sanders",-0.060,-0.280
+1,3:02,1,10,PIT 20,7,3,Charlie Batch pass incomplete deep middle intended for Heath Miller,0.280,-0.270
+1,2:57,2,10,PIT 20,7,3,Charlie Batch pass incomplete short left intended for Will Johnson (defended by Usama Young),-0.270,-0.960
+1,2:55,3,10,PIT 20,7,3,"Penalty on Emmanuel Sanders: False Start, 5 yards (no play)",-0.960,-1.860
+1,2:55,3,15,PIT 15,7,3,Charlie Batch pass complete short middle to Emmanuel Sanders for 11 yards (tackle by Buster Skrine and D'Qwell Jackson),-1.860,-1.630
+1,2:26,4,4,PIT 26,7,3,"Drew Butler punts 47 yards, returned by Josh Cribbs for 13 yards (tackle by Ryan Mundy)",-1.630,-1.600
+1,2:15,1,10,CLE 40,7,3,Trent Richardson left end for 4 yards,1.600,1.590
+1,1:38,2,6,CLE 44,7,3,Travis Benjamin left end for 1 yard (tackle by Keenan Lewis),1.590,1.030
+1,0:55,3,5,CLE 45,7,3,Brandon Weeden pass complete short left to Ben Watson for 2 yards,1.030,-0.260
+1,0:23,4,3,CLE 47,7,3,"Reggie Hodges punts 39 yards, fair catch by Emmanuel Sanders",-0.260,0.280
+1,0:16,1,10,PIT 14,7,3,Jonathan Dwyer right guard for 2 yards (tackle by Jabaal Sheard),-0.280,-0.510
+Quarter,Time,Down,ToGo,Location,PIT,CLE,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,8,PIT 16,7,3,"Jonathan Dwyer right tackle for 3 yards (tackle by John Hughes). Penalty on Ramon Foster: Offensive Holding, 8 yards (no play)",-0.510,-1.220
+2,14:39,2,16,PIT 8,7,3,Jonathan Dwyer right tackle for -3 yards (tackle by Sheldon Brown),-1.220,-2.470
+2,13:54,3,19,PIT 5,7,3,"Isaac Redman left guard for 5 yards (tackle by Juqua Parker). Isaac Redman fumbles (forced by Juqua Parker), recovered by Buster Skrine at PIT-10",-2.470,-4.910
+2,13:41,1,10,PIT 10,7,3,Trent Richardson left end for 3 yards (tackle by Lawrence Timmons and Evander Hood),4.910,4.760
+2,13:08,2,7,PIT 7,7,3,Trent Richardson right end for 2 yards (tackle by Jason Worilds),4.760,4.260
+2,12:25,3,5,PIT 5,7,9,"Brandon Weeden pass complete short right to Jordan Cameron for 5 yards, touchdown",4.260,7.000
+2,12:25,,,PIT 2,7,10,Phil Dawson kicks extra point good,0.000,0.000
+2,12:20,,,CLE 35,7,10,"Phil Dawson kicks off 72 yards, returned by Chris Rainey for 31 yards (tackle by Trevin Wade). Penalty on Stevenson Sylvester: Offensive Holding, 9 yards",0.000,-0.380
+2,12:15,1,10,PIT 9,7,10,Charlie Batch pass complete short left to Jonathan Dwyer for 2 yards (tackle by Joe Haden),-0.380,-0.630
+2,11:32,2,8,PIT 11,7,10,Jonathan Dwyer left guard for 1 yard (tackle by Jabaal Sheard),-0.630,-1.070
+2,10:47,3,7,PIT 12,7,10,Charlie Batch pass complete short left to Emmanuel Sanders for 10 yards (tackle by Sheldon Brown),-1.070,0.410
+2,10:00,1,10,PIT 22,7,10,Jonathan Dwyer right guard for 2 yards (tackle by James-Michael Johnson),0.410,0.140
+2,9:20,2,8,PIT 24,7,10,Charlie Batch pass incomplete short right intended for Heath Miller,0.140,-0.560
+2,9:15,3,8,PIT 24,7,10,Charlie Batch pass incomplete deep left intended for Mike Wallace,-0.560,-1.770
+2,9:07,4,8,PIT 24,7,10,Drew Butler punts 50 yards,-1.770,-1.730
+2,9:00,1,10,CLE 42,7,10,Brandon Weeden pass complete short left to Josh Gordon for 12 yards (tackle by Keenan Lewis and Lawrence Timmons),1.730,2.520
+2,8:27,1,10,PIT 46,7,10,Brandon Weeden right tackle for 4 yards (tackle by Will Allen),2.520,2.520
+2,7:48,2,6,PIT 42,7,10,Brandon Weeden pass complete short left to Josh Gordon for 7 yards (tackle by James Harrison),2.520,3.250
+2,7:05,1,10,PIT 35,7,10,Trent Richardson right guard for 5 yards (tackle by Ike Taylor),3.250,3.380
+2,6:31,2,5,PIT 30,7,10,Trent Richardson left guard for -3 yards (tackle by Steve McLendon),3.380,2.280
+2,5:49,3,8,PIT 33,7,10,Brandon Weeden pass complete short right to Ben Watson for 13 yards (tackle by Lawrence Timmons),2.280,4.240
+2,5:10,1,10,PIT 20,7,10,Trent Richardson right guard for 2 yards (tackle by Larry Foote),4.240,3.960
+2,4:27,2,8,PIT 18,7,10,Trent Richardson right tackle for no gain (tackle by Cortez Allen),3.960,3.220
+2,3:45,3,8,PIT 18,7,10,Brandon Weeden right guard for 4 yards (tackle by Lawrence Timmons). Penalty on Alex Mack: Offensive Holding (Declined),3.220,2.580
+2,3:45,4,4,PIT 14,7,13,Phil Dawson 32 yard field goal good,2.580,3.000
+2,3:26,,,CLE 35,7,13,"Phil Dawson kicks off 54 yards, returned by Chris Rainey for 15 yards (tackle by Tank Carder)",0.000,0.670
+2,3:22,1,10,PIT 26,7,13,"Jonathan Dwyer right tackle for 8 yards (tackle by T.J. Ward). Jonathan Dwyer fumbles (forced by T.J. Ward), recovered by D'Qwell Jackson at PIT-34 (tackle by Mike Adams)",0.670,-3.310
+2,3:12,1,10,PIT 34,7,13,Brandon Weeden sacked by Jason Worilds for -7 yards,3.310,1.830
+2,2:47,2,17,PIT 41,7,13,Trent Richardson left tackle for no gain (tackle by Ryan Clark),1.830,1.160
+2,2:04,3,17,PIT 41,7,13,Brandon Weeden pass incomplete short right intended for Greg Little (defended by Ike Taylor),1.160,0.530
+2,1:58,4,17,PIT 41,7,13,"Reggie Hodges punts 25 yards, fair catch by Emmanuel Sanders",0.530,0.140
+2,1:51,1,10,PIT 16,7,13,Chris Rainey right end for 6 yards (tackle by D'Qwell Jackson),-0.140,0.280
+2,1:16,2,4,PIT 22,7,13,Charlie Batch pass complete deep right to Emmanuel Sanders for 27 yards (tackle by T.J. Ward),0.280,0.000
+2,1:09,,,,7,13,Timeout #1 by Pittsburgh Steelers,0.000,2.190
+2,1:09,1,10,PIT 49,7,13,"Charlie Batch pass complete short left to Chris Rainey for 4 yards (tackle by Joe Haden). Chris Rainey fumbles (forced by Joe Haden), ball out of bounds at CLE-45",2.190,2.190
+2,0:56,2,6,CLE 47,7,13,Charlie Batch pass complete short right to Emmanuel Sanders for 10 yards (tackle by Billy Winn),2.190,3.120
+2,0:30,1,10,CLE 37,7,13,Charlie Batch pass incomplete short right intended for David Gilreath,3.120,2.570
+2,0:29,2,10,CLE 37,7,13,Charlie Batch pass complete short middle to Heath Miller for 11 yards (tackle by Craig Robertson),2.570,0.000
+2,0:22,,,,7,13,Timeout #2 by Pittsburgh Steelers,0.000,3.840
+2,0:22,1,10,CLE 26,7,13,Charlie Batch pass incomplete deep right intended for Plaxico Burress,3.840,3.300
+2,0:18,2,10,CLE 26,7,13,Charlie Batch pass incomplete deep left intended for Mike Wallace,3.300,2.610
+2,0:12,3,10,CLE 26,7,13,"Charlie Batch pass incomplete deep right intended for Plaxico Burress. Penalty on Sheldon Brown: Defensive Pass Interference, 25 yards (no play)",2.610,6.970
+2,0:07,1,1,CLE 1,13,13,"Chris Rainey left guard for 1 yard, touchdown",6.970,7.000
+2,0:01,,,,13,13,Timeout #1 by Cleveland Browns,0.000,0.000
+2,0:07,,,CLE 2,14,13,Shaun Suisham kicks extra point good,0.000,0.000
+2,0:01,,,PIT 35,14,13,"Shaun Suisham kicks off 23 yards, returned by Eric Hagg for 5 yards (tackle by Ryan Mundy)",0.000,1.270
+Quarter,Time,Down,ToGo,Location,PIT,CLE,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,CLE 35,14,13,"Phil Dawson kicks off 60 yards, returned by Chris Rainey for 16 yards (tackle by Trevin Wade)",0.000,0.340
+3,14:54,1,10,PIT 21,14,13,"Charlie Batch pass complete short right to Mike Wallace for 9 yards (tackle by T.J. Ward). Penalty on Mike Adams: Offensive Holding, 10 yards (no play)",0.340,-0.720
+3,14:28,1,20,PIT 11,14,13,"Charlie Batch pass complete short right to Heath Miller for 8 yards (tackle by Usama Young). Penalty on Frostee Rucker: Defensive Offside, 5 yards (no play)",-0.720,-0.220
+3,14:04,1,15,PIT 16,14,13,Charlie Batch pass complete short right to Chris Rainey for -1 yards (tackle by Craig Robertson),-0.220,-1.140
+3,13:19,2,16,PIT 15,14,13,Charlie Batch pass complete short right to Heath Miller for 2 yards (tackle by Buster Skrine),-1.140,-1.590
+3,13:19,3,14,PIT 17,14,13,"Penalty on Charlie Batch: Delay of Game, 5 yards (no play)",-1.590,-2.470
+3,12:10,3,19,PIT 12,14,13,Charlie Batch pass complete short left to Heath Miller for 9 yards (tackle by Joe Haden and Buster Skrine),-2.470,-1.960
+3,11:34,4,10,PIT 21,14,13,"Drew Butler punts 55 yards, returned by Josh Cribbs for no gain",-1.960,-0.540
+3,11:25,1,10,CLE 24,14,13,Brandon Weeden pass complete short right to Trent Richardson for 4 yards (tackle by James Harrison),0.540,0.540
+3,10:51,2,6,CLE 28,14,13,Trent Richardson right guard for 4 yards (tackle by Brett Keisel),0.540,0.370
+3,10:07,3,2,CLE 32,14,13,Brandon Weeden pass complete short left to Mohamed Massaquoi for 4 yards (tackle by Keenan Lewis),0.370,1.330
+3,9:31,1,10,CLE 36,14,13,Trent Richardson right guard for 7 yards (tackle by James Harrison and Larry Foote),1.330,1.740
+3,8:59,2,3,CLE 43,14,13,Trent Richardson left tackle for -2 yards (tackle by James Harrison),1.740,0.760
+3,8:16,3,5,CLE 41,14,13,Brandon Weeden pass incomplete short right intended for Greg Little (defended by Ike Taylor),0.760,-0.650
+3,8:11,4,5,CLE 41,14,13,"Reggie Hodges punts 46 yards, muffed catch by Emmanuel Sanders, ball out of bounds at PIT-15",-0.650,0.220
+3,8:03,1,10,PIT 15,14,13,Chris Rainey right tackle for 4 yards (tackle by D'Qwell Jackson and Kaluka Maiava),-0.220,-0.110
+3,7:18,2,6,PIT 19,14,13,Charlie Batch pass incomplete deep middle intended for Mike Wallace (defended by T.J. Ward),-0.110,-0.880
+3,7:10,3,6,PIT 19,14,13,Charlie Batch pass incomplete short right intended for Plaxico Burress is intercepted by Sheldon Brown at PIT-32 and returned for 1 yard,-0.880,-3.510
+3,7:05,1,10,PIT 31,14,13,Brandon Weeden pass complete short left to Trent Richardson for 4 yards (tackle by Lawrence Timmons),3.510,3.510
+3,6:27,2,6,PIT 27,14,13,Brandon Weeden pass complete deep left to Mohamed Massaquoi for 17 yards (tackle by Keenan Lewis),3.510,4.910
+3,6:27,1,10,PIT 10,14,13,"Penalty on Ben Watson: False Start, 5 yards (no play)",4.910,4.370
+3,5:25,1,15,PIT 15,14,19,"Trent Richardson left tackle for 15 yards, touchdown",4.370,7.000
+3,5:25,,,PIT 2,14,20,Phil Dawson kicks extra point good,0.000,0.000
+3,5:19,,,CLE 35,14,20,"Phil Dawson kicks off 47 yards, fair catch by Leonard Pope",0.000,0.040
+3,5:18,1,10,PIT 18,14,20,Rashard Mendenhall left guard for 1 yard (tackle by Frostee Rucker),0.040,-0.320
+3,4:40,2,9,PIT 19,14,20,Charlie Batch pass complete short middle to Heath Miller for 10 yards (tackle by James-Michael Johnson and D'Qwell Jackson),-0.320,0.870
+3,4:02,1,10,PIT 29,14,20,"Rashard Mendenhall right tackle for 8 yards (tackle by D'Qwell Jackson and Tashaun Gipson). Penalty on Heath Miller: Offensive Holding, 10 yards (no play)",0.870,0.110
+3,3:32,1,20,PIT 19,14,20,Charlie Batch sacked by Phil Taylor for -6 yards,0.110,-1.930
+3,3:10,2,26,PIT 13,14,20,"Charlie Batch pass complete deep middle to Heath Miller for 33 yards (tackle by D'Qwell Jackson). Penalty on Kelvin Beachum: Offensive Holding, 6 yards (no play)",-1.930,-2.390
+3,2:44,2,32,PIT 7,14,20,Charlie Batch pass incomplete deep middle intended for Emmanuel Sanders (defended by D'Qwell Jackson),-2.390,-3.990
+3,2:38,3,32,PIT 7,14,20,Charlie Batch pass complete short left to Isaac Redman for 15 yards (tackle by Eric Hagg),-3.990,-1.900
+3,2:01,4,17,PIT 22,14,20,"Drew Butler punts 48 yards, out of bounds. Penalty on L.J. Fort: Offensive Holding, 10 yards",-1.900,-0.280
+3,1:55,1,10,CLE 20,14,20,"Brandon Weeden pass complete short right to Jordan Cameron for 4 yards (tackle by Will Allen). Penalty on Shawn Lauvao: Offensive Holding, 10 yards (no play)",0.280,-0.760
+3,1:42,1,20,CLE 10,14,20,Trent Richardson right guard for 1 yard (tackle by Ryan Clark),-0.760,-1.440
+3,1:01,2,19,CLE 11,14,20,"Brandon Weeden pass complete short right to Travis Benjamin for 13 yards (tackle by Keenan Lewis). Penalty on Shawn Lauvao: Offensive Holding, 5 yards (no play)",-1.440,-1.800
+3,0:37,2,24,CLE 6,14,20,Brandon Weeden pass complete short right to Trent Richardson for 1 yard (tackle by Lawrence Timmons),-1.800,-2.940
+Quarter,Time,Down,ToGo,Location,PIT,CLE,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,23,CLE 7,14,20,Brandon Weeden pass complete short right to Greg Little for 6 yards (tackle by James Harrison),-2.940,-2.490
+4,14:25,4,17,CLE 13,14,20,"Reggie Hodges punts 39 yards, returned by Emmanuel Sanders for 8 yards (tackle by Johnson Bademosi)",-2.490,-2.650
+4,14:15,1,10,CLE 44,14,20,"Rashard Mendenhall left guard for no gain (tackle by Kaluka Maiava). Rashard Mendenhall fumbles (forced by Kaluka Maiava), recovered by Will Johnson at CLE-43",2.650,2.250
+4,13:32,2,9,CLE 43,14,20,Charlie Batch pass complete short left to Emmanuel Sanders for 15 yards (tackle by D'Qwell Jackson),2.250,3.710
+4,12:46,1,10,CLE 28,14,20,Jonathan Dwyer right guard for -2 yards (tackle by Billy Winn),3.710,2.900
+4,12:06,2,12,CLE 30,14,20,Charlie Batch pass incomplete short middle intended for Mike Wallace is intercepted by Billy Winn at CLE-26,2.900,-0.670
+4,12:00,1,10,CLE 26,14,20,"Trent Richardson left guard for 1 yard (tackle by Lawrence Timmons and Keenan Lewis). Penalty on Casey Hampton: Illegal Use of Hands, 5 yards",0.670,1.070
+4,11:47,1,10,CLE 32,14,20,Trent Richardson right tackle for 8 yards (tackle by Larry Foote),1.070,1.610
+4,11:12,2,2,CLE 40,14,20,"Trent Richardson right guard for 1 yard (tackle by Ryan Clark). Penalty on Alex Mack: Offensive Holding, 10 yards (no play)",1.610,0.260
+4,10:48,2,12,CLE 30,14,20,Brandon Weeden sacked by Brett Keisel for -9 yards,0.260,-1.620
+4,10:17,3,21,CLE 21,14,20,"Trent Richardson left guard for 4 yards (tackle by Lawrence Timmons). Penalty on John Greco: Offensive Holding, 10 yards",-1.620,-3.030
+4,9:58,3,27,CLE 15,14,20,Trent Richardson right guard for 4 yards (tackle by Cortez Allen),-3.030,-2.140
+4,9:20,4,23,CLE 19,14,20,"Reggie Hodges punts 46 yards, fair catch by Emmanuel Sanders",-2.140,-1.270
+4,9:19,1,10,PIT 35,14,20,Chris Rainey left guard for 7 yards (tackle by Ahtyba Rubin),1.270,1.670
+4,8:45,2,3,PIT 42,14,20,Chris Rainey right guard for -1 yards (tackle by James-Michael Johnson),1.670,0.830
+4,8:04,3,4,PIT 41,14,20,Charlie Batch pass incomplete short left intended for Mike Wallace,0.830,-0.650
+4,8:00,4,4,PIT 41,14,20,"Drew Butler punts 34 yards, returned by Josh Cribbs for 14 yards (tackle by Cortez Allen)",-0.650,-1.530
+4,7:51,1,10,CLE 39,14,20,Brandon Weeden sacked by Jason Worilds for -4 yards,1.530,0.450
+4,7:18,2,14,CLE 35,14,20,Brandon Weeden pass complete short middle to Josh Gordon for 15 yards (tackle by Will Allen and Ryan Clark),0.450,2.260
+4,6:39,1,10,,14,20,Brandon Weeden pass complete short left to Jordan Cameron for 7 yards (tackle by Ryan Clark),2.260,2.660
+4,6:01,2,3,PIT 43,14,20,Trent Richardson right guard for -1 yards (tackle by Brett Keisel and Ryan Clark),2.660,1.820
+4,5:24,3,4,PIT 44,14,20,Brandon Weeden pass incomplete short left intended for Josh Gordon,1.820,0.330
+4,5:20,4,4,PIT 44,14,20,"Reggie Hodges punts 29 yards, fair catch by Emmanuel Sanders",0.330,0.220
+4,5:13,1,10,PIT 15,14,20,Charlie Batch pass complete short middle to Heath Miller for 12 yards (tackle by James-Michael Johnson),-0.220,0.740
+4,4:38,1,10,PIT 27,14,20,Charlie Batch pass complete short middle to Heath Miller for 19 yards (tackle by Tashaun Gipson),0.740,1.990
+4,3:54,1,10,PIT 46,14,20,Charlie Batch pass complete short left to Chris Rainey for 1 yard (tackle by D'Qwell Jackson and Kaluka Maiava),1.990,1.590
+4,3:21,2,9,PIT 47,14,20,"Charlie Batch pass incomplete short left intended for Chris Rainey. Penalty on Doug Legursky: Offensive Holding, 10 yards (no play)",1.590,0.240
+4,3:16,2,19,PIT 37,14,20,"Charlie Batch pass complete short right to Will Johnson for 7 yards (tackle by Joe Haden and Buster Skrine). Penalty on Jabaal Sheard: Illegal Use of Hands, 5 yards (no play)",0.240,1.730
+4,3:09,1,10,PIT 42,14,20,Charlie Batch pass incomplete deep right intended for Mike Wallace is intercepted by Joe Haden at CLE-19,1.730,-0.150
+4,3:00,1,10,CLE 19,14,20,Trent Richardson right guard for 2 yards (tackle by Larry Foote),0.150,0.000
+4,2:55,,,,14,20,Timeout #1 by Pittsburgh Steelers,0.000,-0.060
+4,2:55,2,8,CLE 21,14,20,Trent Richardson right tackle for -2 yards (tackle by James Harrison),-0.060,0.000
+4,2:51,,,,14,20,Timeout #2 by Pittsburgh Steelers,0.000,-1.070
+4,2:51,3,10,CLE 19,14,20,Trent Richardson left tackle for 3 yards (tackle by Jason Worilds),-1.070,0.000
+4,2:47,,,,14,20,Timeout #3 by Pittsburgh Steelers,0.000,-1.900
+4,2:46,4,7,CLE 22,14,20,"Reggie Hodges punts 49 yards, returned by Emmanuel Sanders for -3 yards (tackle by Buster Skrine)",-1.900,-0.670
+4,2:36,1,10,PIT 26,14,20,"Charlie Batch pass complete short right to Chris Rainey for 11 yards (tackle by D'Qwell Jackson). Chris Rainey fumbles (forced by D'Qwell Jackson), recovered by Phil Taylor at PIT-40 (tackle by Ramon Foster)",0.670,-2.920
+4,2:25,1,10,PIT 40,14,20,Trent Richardson right guard for -1 yards (tackle by James Harrison),2.920,2.240
+4,2:00,2,11,PIT 41,14,20,Trent Richardson right tackle for 5 yards (tackle by Keenan Lewis),2.240,2.210
+4,1:15,3,6,PIT 36,14,20,Trent Richardson left guard for 3 yards (tackle by James Harrison),2.210,1.190
+4,1:15,4,3,PIT 33,14,20,"Penalty on Colt McCoy: Delay of Game, 5 yards (no play)",1.190,0.720
+4,0:28,4,8,PIT 38,14,20,"Reggie Hodges punts 35 yards, out of bounds",0.720,0.380
+,,,,,,,"Replay Assistant challenged the kick touched ruling, and the play was upheld.",,
+4,0:19,1,10,PIT 3,14,20,Charlie Batch pass complete short left to Will Johnson for 13 yards (tackle by Tashaun Gipson),-0.380,-0.140
+4,0:10,1,10,PIT 16,14,20,Charlie Batch pass incomplete short left intended for Will Johnson,-0.140,-0.660
+4,0:05,2,10,PIT 16,14,20,"Charlie Batch pass complete short left to Mike Wallace for 9 yards, lateral to Craig Robertson for 2 yards (tackle by Max Starks). Emmanuel Sanders fumbles (forced by T.J. Ward), recovered by Craig Robertson at PIT-27 and returned for 2 yards (tackle by Max Starks)",-0.660,-0.200
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

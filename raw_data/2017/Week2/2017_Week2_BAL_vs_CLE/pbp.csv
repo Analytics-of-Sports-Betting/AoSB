@@ -1,0 +1,193 @@
+Quarter,Time,Down,ToGo,Location,CLE,BAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Ravens won the coin toss and deferred, Browns to receive the opening kickoff.",,
+1,15:00,,,BAL 35,0,0,"Justin Tucker kicks off 65 yards, touchback",0.000,-0.610
+1,15:00,1,10,CLE 25,0,0,Isaiah Crowell left end for 3 yards (tackle by Lardarius Webb),0.610,0.470
+1,14:20,2,7,CLE 28,0,0,Isaiah Crowell right guard for no gain (tackle by Brandon Williams),0.470,-0.230
+1,13:48,3,7,CLE 28,0,0,"Penalty on DeShone Kizer: Delay of Game, 5 yards (no play)",-0.230,-0.890
+1,13:48,3,12,CLE 23,0,0,DeShone Kizer pass incomplete short right intended for Corey Coleman,-0.890,-1.830
+1,13:22,4,12,CLE 23,0,0,"Britton Colquitt punts 49 yards, fair catch by Lardarius Webb",-1.830,-0.810
+1,13:15,1,10,BAL 28,0,0,Terrance West left tackle for -1 yards (tackle by Jamie Collins),0.810,0.130
+1,12:41,2,11,BAL 27,0,0,Joe Flacco pass complete short middle to Jeremy Maclin for 19 yards (tackle by Jamar Taylor),0.130,1.990
+1,12:12,1,10,BAL 46,0,0,Joe Flacco pass complete short right to Ben Watson for 13 yards (tackle by Jamar Taylor),1.990,2.850
+1,11:30,1,10,CLE 41,0,0,Terrance West left end for 2 yards (tackle by Trevon Coley),2.850,2.580
+1,10:54,2,8,CLE 39,0,0,Joe Flacco pass incomplete short left intended for Breshad Perriman,2.580,1.880
+1,10:50,3,8,CLE 39,0,0,Joe Flacco sacked by Christian Kirksey for -7 yards,1.880,0.200
+1,10:14,4,15,CLE 46,0,0,"Sam Koch punts 37 yards, fair catch by Jabrill Peppers",0.200,0.380
+1,10:06,1,10,CLE 9,0,0,Isaiah Crowell right guard for 9 yards (tackle by Eric Weddle),-0.380,0.140
+1,9:32,2,1,CLE 18,0,0,Isaiah Crowell right guard for 2 yards (tackle by Brandon Williams and Michael Pierce),0.140,0.280
+1,8:49,1,10,CLE 20,0,0,DeShone Kizer pass complete deep right to Randall Telfer for 20 yards (tackle by Tony Jefferson),0.280,1.600
+1,8:17,1,10,CLE 40,0,0,DeShone Kizer pass complete short right to Kenny Britt for 2 yards (tackle by C.J. Mosley),1.600,1.320
+1,7:43,2,8,CLE 42,0,0,DeShone Kizer pass incomplete deep left intended for Corey Coleman,1.320,0.630
+1,7:38,3,8,CLE 42,0,0,"Penalty on Sammie Coates: False Start, 5 yards (no play)",0.630,-0.030
+1,7:38,3,13,CLE 37,0,0,DeShone Kizer sacked by Terrell Suggs for -5 yards. DeShone Kizer fumbles (forced by Terrell Suggs),-0.030,-3.380
+1,7:30,1,10,CLE 33,0,0,Joe Flacco pass complete short middle to Mike Wallace for 7 yards (tackle by Joe Schobert),3.380,3.780
+1,7:01,2,3,CLE 26,0,0,Joe Flacco pass complete short right to Ben Watson for 5 yards (tackle by Jamar Taylor),3.780,4.170
+1,6:25,1,10,CLE 21,0,0,Javorius Allen left guard for 3 yards (tackle by Christian Kirksey),4.170,4.040
+1,5:52,2,7,CLE 18,0,0,Joe Flacco pass complete short middle to Nick Boyle for 9 yards (tackle by Christian Kirksey),4.040,5.140
+1,5:17,1,9,CLE 9,0,0,Joe Flacco pass complete short right to Maxx Williams for -1 yards (tackle by Jamar Taylor),5.140,4.190
+1,4:34,2,10,CLE 10,0,0,"Terrance West left guard for 2 yards (tackle by Jamie Collins). Penalty on Christian Kirksey: Unnecessary Roughness, 4 yards",4.190,6.280
+1,4:02,1,4,CLE 4,0,6,"Terrance West left tackle for 4 yards, touchdown",6.280,7.000
+1,3:56,,,CLE 15,0,7,Justin Tucker kicks extra point good,0.000,0.000
+1,3:56,,,BAL 35,0,7,"Justin Tucker kicks off 65 yards, touchback",0.000,-0.610
+1,3:56,1,10,CLE 25,0,7,"DeShone Kizer pass complete short right to Kenny Britt for 13 yards (tackle by Brandon Carr). Penalty on Kenny Britt: Offensive Pass Interference, 10 yards (no play)",0.610,-0.410
+1,3:38,1,20,CLE 15,0,7,Isaiah Crowell left guard for 2 yards (tackle by C.J. Mosley and Kamalei Correa). Penalty on Seth Devalve: Illegal Formation (Declined),-0.410,-1.150
+1,3:09,2,18,CLE 17,0,7,DeShone Kizer pass incomplete deep right intended for Corey Coleman (defended by Brandon Carr),-1.150,-1.930
+1,3:01,3,18,CLE 17,0,7,DeShone Kizer pass complete deep middle to Rashard Higgins for 35 yards (tackle by Tony Jefferson),-1.930,2.390
+1,2:27,1,10,BAL 48,0,7,DeShone Kizer pass complete short right to Duke Johnson for 16 yards (tackle by C.J. Mosley),2.390,3.450
+1,1:51,1,10,BAL 32,0,7,Duke Johnson right guard for 3 yards (tackle by Tony Jefferson and C.J. Mosley),3.450,3.310
+1,1:15,2,7,BAL 29,0,7,DeShone Kizer pass complete short right to David Njoku for 3 yards (tackle by Tony Jefferson),3.310,3.010
+1,0:34,3,4,BAL 26,0,7,DeShone Kizer pass incomplete short left intended for Duke Johnson is intercepted by Eric Weddle at BAL-26 and returned for 2 yards,3.010,-0.810
+1,0:28,1,10,BAL 28,0,7,Javorius Allen right guard for 2 yards (tackle by Derrick Kindred and Joe Schobert),0.810,0.530
+Quarter,Time,Down,ToGo,Location,CLE,BAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,8,BAL 30,0,7,Michael Campanaro right end for 5 yards (tackle by Briean Boddy-Calhoun),0.530,0.500
+2,14:27,3,3,BAL 35,0,7,Joe Flacco pass complete short right to Maxx Williams for 3 yards (tackle by Christian Kirksey),0.500,1.470
+2,13:51,1,10,BAL 38,0,7,Joe Flacco pass incomplete deep left intended for Mike Wallace is intercepted by Jason McCourty at CLE-9,1.470,0.380
+2,13:41,1,10,CLE 9,0,7,Isaiah Crowell right tackle for -1 yards (tackle by Brent Urban),-0.380,-0.850
+2,13:07,2,11,CLE 8,0,7,DeShone Kizer left tackle for 13 yards (tackle by C.J. Mosley),-0.850,0.340
+2,12:28,1,10,CLE 21,0,7,"DeShone Kizer sacked by C.J. Mosley for -7 yards. Penalty on Jimmy Smith: Defensive Holding, 5 yards (no play)",0.340,0.670
+2,11:56,1,10,CLE 26,0,7,Duke Johnson left end for no gain (tackle by Patrick Onwuasor),0.670,0.130
+2,11:37,2,10,CLE 26,0,7,DeShone Kizer pass incomplete deep right intended for Kenny Britt (defended by Brandon Carr),0.130,-0.560
+2,11:29,3,10,CLE 26,0,7,DeShone Kizer pass complete short left to Rashard Higgins for 5 yards (tackle by C.J. Mosley),-0.560,-1.310
+2,10:51,4,5,CLE 31,0,7,"Britton Colquitt punts 38 yards, returned by Michael Campanaro for 5 yards (tackle by Sammie Coates)",-1.310,-1.330
+2,10:43,1,10,BAL 36,0,7,Terrance West left end for 12 yards (tackle by Jason McCourty),1.330,2.130
+2,10:04,1,10,BAL 48,0,7,Javorius Allen right guard for -4 yards (tackle by Derrick Kindred),2.130,1.040
+2,9:23,2,14,BAL 44,0,7,Joe Flacco pass complete deep right to Ben Watson for 20 yards (tackle by Jamar Taylor),1.040,3.180
+2,8:40,1,10,CLE 36,0,7,Joe Flacco pass complete short middle to Ben Watson for 23 yards (tackle by Jabrill Peppers),3.180,4.710
+2,7:58,1,10,CLE 13,0,7,Javorius Allen right guard for 4 yards (tackle by Trevon Coley),4.710,4.770
+2,7:24,2,6,CLE 9,0,13,"Joe Flacco pass complete short right to Javorius Allen for 9 yards, touchdown",4.770,7.000
+2,7:17,,,CLE 15,0,14,Justin Tucker kicks extra point good,0.000,0.000
+2,7:17,,,BAL 35,0,14,"Justin Tucker kicks off 66 yards, returned by Jabrill Peppers for 18 yards (tackle by Chuck Clark)",0.000,0.060
+2,7:12,1,10,CLE 17,0,14,Kevin Hogan pass incomplete short middle intended for Seth Devalve (defended by Brandon Carr),-0.060,-0.580
+2,7:05,2,10,CLE 17,0,14,Kevin Hogan pass complete deep right to Seth Devalve for 49 yards (tackle by C.J. Mosley),-0.580,3.310
+2,6:31,1,10,BAL 34,0,14,"Kevin Hogan pass incomplete deep left intended for Corey Coleman. Penalty on Carl Davis: Defensive 12 On-field, 5 yards (no play)",3.310,4.040
+,,,,,,,"CLE challenged the incomplete pass ruling, and the play was upheld.",,
+2,6:27,1,5,BAL 29,0,14,Kevin Hogan right end for 5 yards (tackle by Brent Urban and Brandon Williams),4.040,3.970
+2,5:45,1,10,BAL 24,0,14,Isaiah Crowell left guard for 1 yard (tackle by Brent Urban),3.970,3.570
+2,5:04,2,9,BAL 23,6,14,"Kevin Hogan pass complete deep right to David Njoku for 23 yards, touchdown",3.570,7.000
+2,4:56,,,BAL 15,7,14,Zane Gonzalez kicks extra point good,0.000,0.000
+2,4:56,,,CLE 35,7,14,"Zane Gonzalez kicks off 65 yards, touchback",0.000,-0.610
+2,4:56,1,10,BAL 25,7,14,Joe Flacco pass complete short middle to Terrance West for 15 yards (tackle by Jamie Collins),0.610,1.600
+2,4:21,1,10,BAL 40,7,14,Terrance West left guard for 1 yard (tackle by Jamie Collins),1.600,1.190
+2,3:41,2,9,BAL 41,7,14,Joe Flacco pass incomplete short right intended for Jeremy Maclin (defended by Jason McCourty),1.190,0.500
+2,3:35,3,9,BAL 41,7,14,Joe Flacco sacked by James Burgess for -9 yards,0.500,-1.240
+2,2:58,4,18,BAL 32,7,14,"Sam Koch punts 54 yards, returned by Jabrill Peppers for 8 yards (tackle by Anthony Levine). Penalty on David Njoku: Unnecessary Roughness, 7 yards",-1.240,0.380
+2,2:47,1,10,CLE 7,7,14,Kevin Hogan sacked by Tyus Bowser for -2 yards. Penalty on Shon Coleman: Offensive Holding (Declined),-0.380,-0.930
+2,2:27,2,12,CLE 5,7,14,Duke Johnson middle for 2 yards (tackle by Tyus Bowser),-0.930,-1.420
+2,2:00,3,10,CLE 7,7,14,Kevin Hogan pass incomplete deep middle intended for Rashard Higgins (defended by Lardarius Webb),-1.420,-2.490
+2,1:53,4,10,CLE 7,7,14,"Penalty on B.J. Bello: False Start, 4 yards (no play)",-2.490,-2.490
+2,1:53,4,14,CLE 3,7,14,"Britton Colquitt punts 55 yards, returned by Michael Campanaro for 11 yards (tackle by Matthew Dayes). Penalty on Patrick Onwuasor: Offensive Holding, 10 yards",-2.490,-1.070
+2,1:43,1,10,BAL 32,7,14,Joe Flacco pass complete short middle to Javorius Allen for 11 yards (tackle by Christian Kirksey and Jason McCourty),1.070,1.800
+2,1:21,1,10,BAL 43,7,14,Joe Flacco pass complete short middle to Ben Watson for 13 yards (tackle by Derrick Kindred),1.800,0.000
+2,1:16,,,,,,Timeout #1 by Baltimore Ravens,0.000,-2.650
+2,1:16,1,10,CLE 44,7,14,Joe Flacco pass incomplete short middle intended for Breshad Perriman,2.650,2.110
+2,1:11,2,10,CLE 44,7,14,Joe Flacco pass complete short middle to Javorius Allen for 4 yards (tackle by Jamie Collins),2.110,0.000
+2,1:07,,,,,,Timeout #2 by Baltimore Ravens,0.000,-1.950
+2,1:07,3,6,CLE 40,7,14,Joe Flacco pass incomplete short left intended for Breshad Perriman,1.950,0.590
+2,1:01,4,6,CLE 40,7,14,Justin Tucker 58 yard field goal no good,0.590,-2.130
+2,0:57,1,10,CLE 48,7,14,Kevin Hogan pass complete short left to Rashard Higgins for 8 yards (tackle by Jimmy Smith),2.130,2.660
+2,0:51,2,2,BAL 44,7,14,Kevin Hogan pass complete short right to Rashard Higgins for 4 yards (tackle by Lardarius Webb),2.660,2.920
+2,0:29,1,10,BAL 40,7,14,"Penalty on Shon Coleman: False Start, 5 yards (no play)",2.920,0.000
+2,0:29,,,,,,Timeout #2 by Cleveland Browns,0.000,-2.590
+2,0:29,1,15,BAL 45,7,14,Kevin Hogan pass incomplete short middle intended for Rashard Higgins is intercepted by Tyus Bowser at BAL-33 and returned for 27 yards,2.590,-2.920
+2,0:19,1,10,CLE 40,7,14,Joe Flacco pass complete short right to Jeremy Maclin for 1 yard (tackle by Jamar Taylor),2.920,2.510
+2,0:15,2,9,CLE 39,7,14,Javorius Allen left guard for 37 yards (tackle by Briean Boddy-Calhoun),2.510,0.000
+2,0:05,,,,,,Timeout #3 by Baltimore Ravens,0.000,-6.740
+2,0:05,1,2,CLE 2,7,20,"Joe Flacco pass complete short right to Jeremy Maclin for 2 yards, touchdown",6.740,7.000
+2,0:01,,,CLE 15,7,21,Justin Tucker kicks extra point good,0.000,0.000
+2,0:01,,,BAL 35,7,21,"Justin Tucker kicks onside 24 yards, recovered by Ibraheim Campbell",0.000,0.000
+2,,,,,7,21,--,0.000,0.000
+Quarter,Time,Down,ToGo,Location,CLE,BAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,CLE 35,7,21,"Zane Gonzalez kicks off 65 yards, touchback",0.000,-0.610
+3,15:00,1,10,BAL 25,7,21,Terrance West left guard for 2 yards (tackle by Trevon Coley),0.610,0.330
+3,14:29,2,8,BAL 27,7,21,Joe Flacco pass complete short middle to Maxx Williams for 13 yards (tackle by Jamie Collins),0.330,1.600
+3,13:46,1,10,BAL 40,7,21,Terrance West right guard for no gain (tackle by Jamie Collins),1.600,1.050
+3,13:06,2,10,BAL 40,7,21,Javorius Allen right guard for 4 yards (tackle by Trevon Coley),1.050,0.890
+3,12:31,3,6,BAL 44,7,21,Joe Flacco pass incomplete short middle intended for Mike Wallace,0.890,-0.460
+3,12:28,4,6,BAL 44,7,21,"Sam Koch punts 56 yards, touchback. Penalty on Ibraheim Campbell: Defensive Offside, 5 yards (no play)",-0.460,-0.130
+3,12:20,4,1,BAL 49,7,21,Sam Koch punts 33 yards,-0.130,-0.040
+3,12:09,1,10,CLE 18,7,21,Rashard Higgins right end for 4 yards (tackle by C.J. Mosley),0.040,0.140
+3,11:31,2,6,CLE 22,7,21,Kevin Hogan pass incomplete short middle intended for Corey Coleman,0.140,0.000
+3,11:28,,,,,,Timeout #1 by Cleveland Browns,0.000,0.660
+3,11:28,3,6,CLE 22,7,21,"Penalty on Matt Judon: Defensive Offside, 5 yards (no play)",-0.660,-0.020
+3,11:28,3,1,CLE 27,7,21,Kevin Hogan pass complete deep middle to Duke Johnson for 34 yards (tackle by Lardarius Webb),-0.020,2.980
+3,10:49,1,10,BAL 39,7,21,Isaiah Crowell right guard for 17 yards (tackle by Eric Weddle),2.980,4.110
+3,10:15,1,10,BAL 22,7,21,Isaiah Crowell left guard for 2 yards (tackle by Carl Davis),4.110,3.830
+3,9:35,2,8,BAL 20,7,21,Kevin Hogan pass incomplete deep right intended for Corey Coleman,3.830,3.140
+3,9:29,3,8,BAL 20,7,21,Kevin Hogan pass incomplete short middle intended for Seth Devalve,3.140,2.120
+3,9:24,4,8,BAL 20,10,21,Zane Gonzalez 38 yard field goal good,2.120,3.000
+3,9:21,,,CLE 35,10,21,"Zane Gonzalez kicks off 65 yards, touchback",0.000,-0.610
+3,9:21,1,10,BAL 25,10,21,Joe Flacco pass incomplete short left intended for Breshad Perriman,0.610,0.060
+3,9:12,2,10,BAL 25,10,21,Joe Flacco pass complete short right to Ben Watson for -2 yards (tackle by Jamar Taylor),0.060,-0.890
+3,8:32,3,12,BAL 23,10,21,Joe Flacco pass incomplete short middle intended for Javorius Allen (defended by Emmanuel Ogbah),-0.890,-1.830
+3,8:28,4,12,BAL 23,10,21,"Sam Koch punts 63 yards, out of bounds",-1.830,0.280
+3,8:19,1,10,CLE 14,10,21,Isaiah Crowell right guard for 2 yards (tackle by Carl Davis),-0.280,-0.510
+3,7:44,2,8,CLE 16,10,21,DeShone Kizer sacked by Patrick Onwuasor for -1 yards,-0.510,-1.280
+3,6:54,3,9,CLE 15,10,21,"Penalty on DeShone Kizer: Delay of Game, 5 yards (no play)",-1.280,-1.890
+3,6:33,3,14,CLE 10,10,21,DeShone Kizer pass incomplete deep right intended for Sammie Coates,-1.890,-2.490
+3,6:27,4,14,CLE 10,10,21,"Britton Colquitt punts 67 yards, returned by Michael Campanaro for 14 yards (tackle by Briean Boddy-Calhoun)",-2.490,-1.400
+3,6:15,1,10,BAL 37,10,21,Javorius Allen right tackle for -2 yards (tackle by Nate Orchard),1.400,0.590
+3,5:38,2,12,BAL 35,10,21,Joe Flacco pass complete short left to Javorius Allen for 7 yards (tackle by Jason McCourty),0.590,0.830
+3,4:56,3,5,BAL 42,10,21,Joe Flacco pass complete short middle to Terrance West for 8 yards (tackle by Christian Kirksey and Jamar Taylor),0.830,2.260
+3,4:16,1,10,,10,21,Alex Collins left tackle for 16 yards (tackle by Christian Kirksey),2.260,3.310
+3,3:34,1,10,CLE 34,10,21,Alex Collins left end for 4 yards (tackle by Christian Kirksey and Jamie Meder),3.310,3.310
+3,2:52,2,6,CLE 30,10,21,Alex Collins right guard for 1 yard (tackle by Jabrill Peppers),3.310,2.740
+3,2:13,3,5,CLE 29,10,21,Javorius Allen right tackle for 14 yards (tackle by Jabrill Peppers),2.740,4.580
+3,1:27,1,10,CLE 15,10,21,Javorius Allen left tackle for 1 yard (tackle by Nate Orchard),4.580,4.110
+3,0:43,2,9,CLE 14,10,21,Joe Flacco pass incomplete,4.110,3.240
+3,0:36,3,9,CLE 14,10,21,Joe Flacco pass complete short middle to Javorius Allen for 4 yards (tackle by Jabrill Peppers),3.240,2.810
+Quarter,Time,Down,ToGo,Location,CLE,BAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,4,5,CLE 10,10,24,Justin Tucker 28 yard field goal good,2.810,3.000
+4,14:56,,,BAL 35,10,24,"Justin Tucker kicks off 65 yards, touchback",0.000,-0.610
+4,14:56,1,10,CLE 25,10,24,DeShone Kizer right tackle for 3 yards (tackle by Tim Williams),0.610,0.470
+4,14:24,2,7,CLE 28,10,24,DeShone Kizer pass complete short right to Corey Coleman for 9 yards (tackle by Brandon Carr),0.470,1.400
+4,13:53,1,10,CLE 37,10,24,DeShone Kizer pass complete deep left to Rashard Higgins for 28 yards (tackle by Jimmy Smith),1.400,3.250
+4,13:29,1,10,BAL 35,10,24,DeShone Kizer pass incomplete short right intended for Isaiah Crowell,3.250,2.700
+4,13:24,2,10,BAL 35,10,24,"DeShone Kizer pass incomplete short middle intended for Kenny Britt. Penalty on Jimmy Smith: Illegal Use of Hands, 5 yards (no play)",2.700,3.580
+4,13:20,1,10,BAL 30,10,24,DeShone Kizer pass incomplete deep right intended for Corey Coleman (defended by Marlon Humphrey),3.580,3.030
+4,13:15,2,10,BAL 30,10,24,DeShone Kizer pass complete short middle to Rashard Higgins for 11 yards (tackle by C.J. Mosley),3.030,4.310
+4,12:40,1,10,BAL 19,10,24,Duke Johnson middle for 16 yards (tackle by Eric Weddle),4.310,0.000
+4,12:28,,,,,,Timeout #1 by Baltimore Ravens,0.000,-6.510
+4,12:28,1,3,BAL 3,10,24,DeShone Kizer right end for -4 yards (tackle by Tony Jefferson),6.510,4.760
+4,11:47,2,7,BAL 7,10,24,DeShone Kizer pass incomplete short middle intended for Rashard Higgins is intercepted by Lardarius Webb at BAL--4,4.760,-0.280
+4,11:41,1,10,BAL 20,10,24,Alex Collins right guard for 7 yards (tackle by Derrick Kindred),0.280,0.680
+4,11:01,2,3,BAL 27,10,24,Alex Collins right guard for 4 yards (tackle by Jabrill Peppers),0.680,1.000
+4,10:18,1,10,BAL 31,10,24,Joe Flacco pass complete short right to Jeremy Maclin for 9 yards (tackle by Jamar Taylor),1.000,1.680
+4,9:41,2,1,BAL 40,10,24,Maxx Williams right guard for 2 yards (tackle by Joe Schobert),1.680,1.730
+4,8:57,1,10,BAL 42,10,24,Javorius Allen right guard for -2 yards (tackle by Carl Nassib),1.730,0.920
+4,8:18,2,12,BAL 40,10,24,Joe Flacco pass complete short middle to Maxx Williams for 6 yards (tackle by Joe Schobert and Jamie Meder),0.920,1.030
+4,7:32,3,6,BAL 46,10,24,Joe Flacco pass complete short middle to Ben Watson for 7 yards (tackle by Christian Kirksey),1.030,2.460
+4,6:49,1,10,CLE 47,10,24,"Alex Collins right guard for 9 yards (tackle by Jason McCourty). Alex Collins fumbles (forced by Jason McCourty), recovered by Trevon Coley at CLE-38 and returned for 7 yards (tackle by Nick Boyle). Trevon Coley fumbles (forced by Nick Boyle), recovered by Nate Orchard at BAL-49 (tackle by Nick Boyle)",2.460,-2.320
+4,6:35,1,10,BAL 49,10,24,"Penalty on Terrell Suggs: Neutral Zone Infraction, 5 yards (no play)",2.320,3.050
+4,6:35,1,5,BAL 44,10,24,DeShone Kizer pass incomplete deep right intended for Sammie Coates,3.050,2.460
+4,6:23,2,5,BAL 44,10,24,DeShone Kizer pass incomplete short middle intended for Duke Johnson,2.460,1.750
+4,6:21,3,5,BAL 44,10,24,DeShone Kizer pass incomplete short middle intended for Rashard Higgins is intercepted by Brandon Carr at BAL-31 and returned for 4 yards,1.750,-1.270
+4,6:09,1,10,BAL 35,10,24,"Penalty on Carl Nassib: Encroachment, 5 yards (no play)",1.270,2.000
+4,6:09,1,5,BAL 40,10,24,Alex Collins right guard for 1 yard (tackle by Joe Schobert),2.000,1.530
+4,5:25,2,4,BAL 41,10,24,Joe Flacco pass complete short right to Ben Watson for 12 yards (tackle by James Burgess),1.530,2.460
+4,4:45,1,10,CLE 47,10,24,Javorius Allen right guard for -1 yards (tackle by Derrick Kindred),2.460,1.780
+4,4:05,2,11,CLE 48,10,24,Javorius Allen right guard for -2 yards (tackle by Derrick Kindred),1.780,0.000
+4,4:00,,,,,,Timeout #2 by Cleveland Browns,0.000,0.000
+4,4:00,,,,,,Timeout #2 by Baltimore Ravens,0.000,-0.830
+4,4:00,3,13,,10,24,"Javorius Allen left guard for 6 yards. Penalty on Tony Bergstrom: Offensive Holding, 10 yards",0.830,0.300
+4,3:55,3,17,BAL 46,10,24,Javorius Allen right guard for 6 yards (tackle by Derrick Kindred),0.300,0.000
+4,3:48,,,,,,Timeout #3 by Cleveland Browns,0.000,-0.070
+4,3:48,4,11,CLE 48,10,24,"Sam Koch punts 48 yards, touchback",0.070,-0.280
+4,3:40,1,10,CLE 20,10,24,DeShone Kizer pass complete short right to David Njoku for 1 yard (tackle by Matt Judon),0.280,-0.130
+4,3:10,2,9,CLE 21,10,24,DeShone Kizer right guard for 9 yards (tackle by Brandon Carr),-0.130,0.940
+4,2:40,1,10,CLE 30,10,24,DeShone Kizer pass complete short middle to Duke Johnson for 9 yards (tackle by Lardarius Webb),0.940,1.610
+4,2:14,2,1,CLE 39,10,24,DeShone Kizer pass complete short middle to Ricardo Louis for 24 yards (tackle by Eric Weddle),1.610,3.120
+4,2:00,1,10,BAL 37,10,24,DeShone Kizer pass incomplete short right intended for Sammie Coates,3.120,2.570
+4,1:55,2,10,BAL 37,10,24,"DeShone Kizer pass incomplete short left intended for Ricardo Louis. Penalty on Shon Coleman: Offensive Holding, 10 yards (no play)",2.570,1.220
+4,1:49,2,20,BAL 47,10,24,DeShone Kizer pass complete short right to Rashard Higgins for 4 yards (tackle by Brandon Carr),1.220,1.090
+4,1:42,3,16,BAL 43,10,24,DeShone Kizer right end for 5 yards (tackle by Marlon Humphrey),1.090,0.720
+4,1:35,4,11,BAL 38,10,24,DeShone Kizer pass complete short middle to Seth Devalve for 12 yards (tackle by C.J. Mosley),0.720,3.840
+4,1:09,1,10,BAL 26,10,24,DeShone Kizer pass complete short right to Ricardo Louis for 3 yards (tackle by Marlon Humphrey),3.840,3.700
+4,0:43,2,7,BAL 23,10,24,DeShone Kizer pass incomplete short middle intended for Duke Johnson,3.700,3.010
+4,0:37,3,7,BAL 23,10,24,DeShone Kizer pass incomplete short left intended for David Njoku,3.010,1.930
+4,0:32,4,7,BAL 23,10,24,DeShone Kizer pass incomplete short middle intended for Sammie Coates,1.930,-0.480
+4,0:28,1,10,BAL 23,10,24,Joe Flacco kneels for -1 yards,0.480,-0.200
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

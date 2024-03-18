@@ -1,0 +1,199 @@
+Quarter,Time,Down,ToGo,Location,NOR,MIN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Vikings won the coin toss and deferred, Saints to receive the opening kickoff.",,
+1,15:00,,,MIN 35,0,0,"Kai Forbath kicks off 65 yards, touchback",0.000,-0.610
+1,15:00,1,10,NOR 25,0,0,Mark Ingram right end for 5 yards (tackle by Linval Joseph),0.610,0.740
+1,14:22,2,5,NOR 30,0,0,Drew Brees pass incomplete short right intended for Alvin Kamara,0.740,0.040
+1,14:18,3,5,NOR 30,0,0,Drew Brees pass incomplete short left intended for Alvin Kamara,0.040,-1.370
+1,14:14,4,5,NOR 30,0,0,"Thomas Morstead punts 44 yards, returned by Marcus Sherels for 19 yards (tackle by Thomas Morstead)",-1.370,-1.930
+1,14:00,1,10,MIN 45,0,0,Latavius Murray left guard for 4 yards (tackle by Tyeler Davison and Craig Robertson),1.930,1.920
+1,13:35,2,6,MIN 49,0,0,Latavius Murray left tackle for 5 yards (tackle by Tyeler Davison and Sheldon Rankins),1.920,1.880
+1,12:48,3,1,NOR 46,0,0,Latavius Murray middle for 1 yard (tackle by Woodrow Hamilton and Manti Te'o),1.880,2.590
+1,12:05,1,10,NOR 45,0,0,Case Keenum pass complete short left to Latavius Murray for 4 yards (tackle by Craig Robertson),2.590,2.580
+1,11:41,2,6,NOR 41,0,0,Jerick McKinnon left tackle for 3 yards (tackle by Woodrow Hamilton),2.580,2.280
+1,10:59,3,3,NOR 38,0,0,Case Keenum pass complete deep right to Jarius Wright for 22 yards (tackle by Marcus Williams),2.280,4.510
+1,10:31,1,10,NOR 16,0,0,Latavius Murray right guard for 2 yards (tackle by David Onyemata and Trey Hendrickson),4.510,4.210
+1,9:51,2,8,NOR 14,0,6,"Jerick McKinnon left end for 14 yards, touchdown",4.210,7.000
+1,9:45,,,NOR 15,0,7,Kai Forbath kicks extra point good,0.000,0.000
+1,9:45,,,MIN 35,0,7,"Kai Forbath kicks off 65 yards, touchback",0.000,-0.610
+1,9:45,1,10,NOR 25,0,7,Alvin Kamara left end for 1 yard (tackle by Tom Johnson and Eric Kendricks),0.610,0.200
+1,9:07,2,9,NOR 26,0,7,Ted Ginn left end for 11 yards (tackle by Harrison Smith),0.200,1.400
+1,8:40,1,10,NOR 37,0,7,Drew Brees pass complete short middle to Mark Ingram for 3 yards (tackle by Eric Kendricks),1.400,1.260
+1,8:02,2,7,NOR 40,0,7,Mark Ingram right end for 4 yards (tackle by Danielle Hunter and Eric Kendricks),1.260,1.090
+1,7:24,3,3,NOR 44,0,7,Drew Brees pass incomplete deep middle intended for Josh Hill,1.090,-0.460
+1,7:18,4,3,NOR 44,0,7,"Thomas Morstead punts 56 yards, touchback",-0.460,-0.280
+1,7:09,1,10,MIN 20,0,7,Case Keenum pass incomplete short left intended for Stefon Diggs,0.280,-0.270
+1,7:04,2,10,MIN 20,0,7,Latavius Murray left end for 3 yards (tackle by Trey Hendrickson),-0.270,-0.560
+1,6:25,3,7,MIN 23,0,7,Case Keenum pass complete short middle to Stefon Diggs for 17 yards (tackle by Marcus Williams and Craig Robertson),-0.560,1.600
+1,5:48,1,10,MIN 40,0,7,"Case Keenum pass incomplete deep right intended for Laquon Treadwell. Penalty on Ken Crawley: Defensive Pass Interference, 20 yards (no play)",1.600,2.920
+1,5:43,1,10,NOR 40,0,7,"Case Keenum pass incomplete deep right intended for Stefon Diggs. Penalty on Ken Crawley: Defensive Pass Interference, 34 yards (no play)",2.920,5.830
+1,5:36,1,6,NOR 6,0,7,Case Keenum pass incomplete short right intended for Kyle Rudolph,5.830,4.950
+1,5:32,2,6,NOR 6,0,7,Latavius Murray left guard for 5 yards (tackle by P.J. Williams),4.950,5.170
+1,4:48,3,1,NOR 1,0,7,Case Keenum pass incomplete short left intended for Kyle Rudolph,5.170,3.550
+1,4:45,4,1,NOR 1,0,10,Kai Forbath 20 yard field goal good,3.550,3.000
+1,4:42,,,MIN 35,0,10,"Kai Forbath kicks off 66 yards, returned by Alvin Kamara for 20 yards (tackle by Jayron Kearse)",0.000,-0.150
+1,4:38,1,10,NOR 19,0,10,Drew Brees pass incomplete short left intended for Ted Ginn (defended by Trae Waynes),0.150,-0.390
+1,4:33,2,10,NOR 19,0,10,Mark Ingram middle for 9 yards (tackle by Andrew Sendejo),-0.390,0.100
+1,3:57,3,1,NOR 28,0,10,Mark Ingram right tackle for no gain (tackle by Eric Kendricks),0.100,-1.500
+1,3:22,4,1,NOR 28,0,10,"Thomas Morstead punts 38 yards, fair catch by Marcus Sherels",-1.500,-1.200
+1,3:15,1,10,MIN 34,0,10,Case Keenum pass complete short right to Jerick McKinnon for 1 yard (tackle by Marshon Lattimore),1.200,0.790
+1,2:39,2,9,MIN 35,0,10,Jerick McKinnon middle for 6 yards (tackle by Woodrow Hamilton),0.790,0.890
+1,2:07,3,3,MIN 41,0,10,Case Keenum pass complete short right to Jerick McKinnon for 2 yards (tackle by Ken Crawley),0.890,-0.520
+1,1:21,4,1,MIN 43,0,10,"Ryan Quigley punts 42 yards, fair catch by Tommylee Lewis",-0.520,0.220
+1,1:14,1,10,NOR 15,0,10,Drew Brees pass incomplete deep middle intended for Ted Ginn is intercepted by Andrew Sendejo at MIN-42,-0.220,-1.730
+1,1:06,1,10,MIN 42,0,10,Latavius Murray left tackle for 2 yards (tackle by Sheldon Rankins),1.730,1.460
+1,0:28,2,8,MIN 44,0,10,Case Keenum pass complete short middle to Adam Thielen for 15 yards (tackle by Vonn Bell),1.460,2.850
+Quarter,Time,Down,ToGo,Location,NOR,MIN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,NOR 41,0,10,Case Keenum pass complete short right to Adam Thielen for 9 yards (tackle by Marcus Williams),2.850,3.520
+2,14:16,2,1,NOR 32,0,10,Latavius Murray middle for 2 yards (tackle by Manti Te'o),3.520,3.580
+2,13:36,1,10,NOR 30,0,10,Latavius Murray middle for 2 yards (tackle by Vonn Bell and Manti Te'o),3.580,3.300
+2,12:51,2,8,NOR 28,0,10,Case Keenum pass incomplete short right intended for Stefon Diggs,3.300,2.610
+2,12:48,3,8,NOR 28,0,10,Case Keenum pass complete short left to Adam Thielen for 11 yards (tackle by Marshon Lattimore),2.610,4.440
+2,12:07,1,10,NOR 17,0,10,Latavius Murray left end for 4 yards (tackle by Manti Te'o),4.440,4.500
+2,11:46,2,6,NOR 13,0,10,"Latavius Murray left end for 13 yards. Penalty on Mike Remmers: Offensive Holding, 10 yards (no play)",4.500,3.080
+2,11:41,2,16,NOR 23,0,10,Case Keenum pass complete short left to Kyle Rudolph for 8 yards (tackle by Ken Crawley),3.080,3.340
+2,11:07,3,8,NOR 15,0,10,Case Keenum pass complete short middle to Stefon Diggs for 11 yards (tackle by Ken Crawley and Jonathan Freeny),3.340,6.280
+2,10:12,1,4,NOR 4,0,10,Case Keenum pass incomplete short right intended for Michael Floyd (defended by P.J. Williams),6.280,0.000
+2,10:08,,,,,,Timeout #1 by Minnesota Vikings,0.000,-5.340
+2,10:08,2,4,NOR 4,0,10,"Case Keenum pass incomplete short left intended for Stefon Diggs. Penalty on Marcus Williams: Defensive Pass Interference, 3 yards, Penalty on P.J. Williams: Defensive Holding (Declined) (no play)",5.340,6.970
+2,10:03,1,1,NOR 1,0,16,"Latavius Murray right guard for 1 yard, touchdown",6.970,7.000
+2,9:58,,,NOR 15,0,17,Kai Forbath kicks extra point good,0.000,0.000
+2,9:58,,,MIN 35,0,17,"Kai Forbath kicks off 65 yards, touchback",0.000,-0.610
+2,9:58,1,10,NOR 25,0,17,Drew Brees pass complete short left to Michael Thomas for 11 yards (tackle by Andrew Sendejo),0.610,1.330
+2,9:23,1,10,NOR 36,0,17,Alvin Kamara right tackle for 10 yards (tackle by Harrison Smith),1.330,1.990
+2,8:41,1,10,NOR 46,0,17,Mark Ingram right end for 2 yards (tackle by Linval Joseph),1.990,1.720
+2,8:09,2,8,NOR 48,0,17,Drew Brees pass complete short right to Josh Hill for 22 yards (tackle by Eric Kendricks),1.720,3.580
+2,7:26,1,10,MIN 30,0,17,Mark Ingram left guard for 1 yard (tackle by Brian Robison),3.580,3.170
+2,6:55,2,9,MIN 29,0,17,"Drew Brees pass complete deep left to Ted Ginn for 29 yards. Penalty on Ted Ginn: Illegal Shift, 5 yards (no play)",3.170,2.490
+2,6:50,2,14,MIN 34,0,17,Drew Brees pass complete short right to Alvin Kamara for 19 yards (tackle by Andrew Sendejo),2.490,4.580
+2,6:18,1,10,MIN 15,0,17,Mark Ingram right end for 1 yard (tackle by Eric Kendricks),4.580,4.110
+2,5:40,2,9,MIN 14,0,17,"Drew Brees pass incomplete short left intended for Michael Thomas is intercepted by Anthony Barr at MIN-10 and returned for 18 yards. Penalty on Terron Armstead: Horse Collar Tackle, 15 yards",4.110,-1.800
+2,5:32,1,10,MIN 43,0,17,Jerick McKinnon left end for 2 yards (tackle by Sheldon Rankins and Craig Robertson),1.800,1.520
+2,5:05,2,8,MIN 45,0,17,Case Keenum sacked by Manti Te'o for 0 yards,1.520,0.830
+2,4:19,3,8,MIN 45,0,17,Case Keenum pass complete short middle to Jarius Wright for 7 yards (tackle by Vonn Bell),0.830,0.070
+2,3:31,4,1,NOR 48,0,17,"Penalty on Case Keenum: Delay of Game, 5 yards (no play)",0.070,-0.260
+2,3:16,4,6,MIN 47,0,17,"Ryan Quigley punts 44 yards, fair catch by Tommylee Lewis",-0.260,0.380
+2,3:08,1,10,NOR 9,0,17,Drew Brees pass complete short right to Ted Ginn for 6 yards (tackle by Harrison Smith),-0.380,-0.280
+2,2:38,2,4,NOR 15,0,17,Alvin Kamara right tackle for 5 yards (tackle by Anthony Barr and Tom Johnson),-0.280,0.280
+2,2:06,1,10,NOR 20,0,17,Drew Brees pass incomplete short left intended for Ted Ginn (defended by Mackensie Alexander),0.280,-0.270
+2,1:59,2,10,NOR 20,0,17,Drew Brees pass complete short left to Ted Ginn for 13 yards,-0.270,1.140
+2,1:54,1,10,NOR 33,0,17,"Drew Brees sacked by Everson Griffen for -6 yards. Drew Brees fumbles (forced by Everson Griffen), recovered by Max Unger at NOR-27",1.140,-0.220
+2,1:42,2,16,NOR 27,0,17,Drew Brees pass complete short left to Alvin Kamara for 23 yards (tackle by Eric Kendricks),-0.220,0.000
+2,1:42,,,,,,Timeout #1 by New Orleans Saints,0.000,0.000
+2,1:28,,,,,,Timeout #2 by Minnesota Vikings,0.000,-2.260
+2,1:28,1,10,,0,17,Drew Brees pass incomplete short left intended for Josh Hill (defended by Andrew Sendejo),2.260,1.710
+2,1:23,2,10,,0,17,Drew Brees pass complete short middle to Michael Thomas for 20 yards (tackle by Emmanuel Lamur),1.710,3.580
+2,0:43,1,10,MIN 30,0,17,Drew Brees pass incomplete short right intended for Willie Snead,3.580,3.030
+2,0:39,2,10,MIN 30,0,17,Drew Brees pass incomplete short right intended for Josh Hill,3.030,2.340
+2,0:36,3,10,MIN 30,0,17,Drew Brees sacked by Harrison Smith for -10 yards,2.340,0.000
+2,0:26,,,,,,Timeout #3 by Minnesota Vikings,0.000,-0.590
+2,0:26,4,20,MIN 40,0,17,Wil Lutz 58 yard field goal no good,0.590,-2.130
+2,0:21,1,10,MIN 48,0,17,"Case Keenum pass incomplete short right intended for Stefon Diggs. Penalty on Trey Hendrickson: Roughing the Passer, 15 yards (no play)",2.130,3.120
+2,0:17,1,10,NOR 37,0,17,Case Keenum pass complete short left to Kyle Rudolph for 6 yards (tackle by Vonn Bell),3.120,3.380
+2,0:13,2,4,NOR 31,0,17,Case Keenum pass incomplete deep middle intended for Adam Thielen,3.380,2.680
+2,0:07,3,4,NOR 31,0,17,Kai Forbath 49 yard field goal no good,2.680,-1.530
+2,0:02,1,10,NOR 39,0,17,Drew Brees kneels for -1 yards,1.530,0.850
+Quarter,Time,Down,ToGo,Location,NOR,MIN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,NOR 35,0,17,"Wil Lutz kicks off 65 yards, touchback",0.000,-0.610
+3,15:00,1,10,MIN 25,0,17,Latavius Murray middle for -3 yards (tackle by Manti Te'o and Vonn Bell),0.610,-0.340
+3,14:21,2,13,MIN 22,0,17,Case Keenum pass complete short left to Latavius Murray for 13 yards (tackle by Ken Crawley),-0.340,1.270
+3,13:45,1,10,MIN 35,0,17,Case Keenum pass complete short right to Adam Thielen for 9 yards (tackle by Marshon Lattimore),1.270,1.940
+3,12:59,2,1,MIN 44,0,17,Latavius Murray right end for no gain (tackle by Craig Robertson),1.940,1.220
+3,12:19,3,1,MIN 44,0,17,C.J. Ham middle for 7 yards (tackle by Sheldon Rankins),1.220,2.320
+3,11:43,1,10,NOR 49,0,17,Case Keenum pass complete short right to Stefon Diggs for 7 yards (tackle by Ken Crawley),2.320,2.730
+3,11:18,2,3,NOR 42,0,17,Jerick McKinnon right tackle for 2 yards (tackle by Vonn Bell),2.730,2.280
+3,10:36,3,1,NOR 40,0,17,Case Keenum pass complete short right to Kyle Rudolph for 4 yards (tackle by Jonathan Freeny),2.280,3.180
+3,10:06,1,10,NOR 36,0,17,Latavius Murray left end for 7 yards (tackle by Craig Robertson),3.180,3.580
+3,9:31,2,3,NOR 29,0,17,Latavius Murray left tackle for -1 yards (tackle by Trey Hendrickson),3.580,2.740
+3,8:48,3,4,NOR 30,0,17,Case Keenum sacked by Sheldon Rankins for -10 yards,2.740,0.590
+3,8:07,4,14,NOR 40,0,17,"Ryan Quigley punts 40 yards, touchback",0.590,-0.280
+3,7:58,1,10,NOR 20,0,17,Alvin Kamara left end for 5 yards (tackle by Eric Kendricks),0.280,0.410
+3,7:22,2,5,NOR 25,0,17,Drew Brees pass complete short middle to Michael Thomas for 9 yards (tackle by Xavier Rhodes),0.410,1.200
+3,6:36,1,10,NOR 34,0,17,Drew Brees pass complete short left to Ted Ginn for 9 yards (tackle by Andrew Sendejo),1.200,1.870
+3,6:10,2,1,NOR 43,0,17,Mark Ingram right guard for no gain (tackle by Danielle Hunter),1.870,1.160
+3,5:39,3,1,NOR 43,0,17,Drew Brees middle for 2 yards (tackle by Tom Johnson and Ben Gedeon),1.160,1.930
+3,4:56,1,10,NOR 45,0,17,Alvin Kamara right tackle for 4 yards (tackle by Linval Joseph and Danielle Hunter),1.930,1.920
+3,4:14,2,6,NOR 49,0,17,Drew Brees pass complete short middle to Michael Thomas for 23 yards (tackle by Xavier Rhodes),1.920,3.710
+3,3:26,1,10,MIN 28,0,17,Alvin Kamara right guard for 5 yards (tackle by Harrison Smith and Eric Kendricks),3.710,3.840
+3,2:43,2,5,MIN 23,0,17,Alvin Kamara right end for 4 yards (tackle by Terence Newman),3.840,3.720
+3,2:06,3,1,MIN 19,0,17,Drew Brees pass complete short left to Willie Snead for 5 yards (tackle by Trae Waynes),3.720,4.650
+3,1:28,1,10,MIN 14,0,17,Drew Brees pass incomplete short left intended for Michael Thomas,4.650,4.000
+3,1:23,2,10,MIN 14,6,17,"Drew Brees pass complete short right to Michael Thomas for 14 yards, touchdown",4.000,7.000
+3,1:18,,,MIN 15,7,17,Wil Lutz kicks extra point good,0.000,0.000
+3,1:18,,,NOR 35,7,17,"Wil Lutz kicks off 65 yards, touchback",0.000,-0.610
+3,1:18,1,10,MIN 25,7,17,Case Keenum pass incomplete deep right intended for Stefon Diggs is intercepted by Marcus Williams at MIN-42 and returned for 12 yards,0.610,-3.580
+3,1:09,1,10,MIN 30,7,17,Mark Ingram middle for 1 yard (tackle by Tom Johnson),3.580,3.170
+3,0:24,2,9,MIN 29,7,17,Drew Brees pass complete short middle to Josh Hill for 14 yards (tackle by Anthony Harris),3.170,4.580
+Quarter,Time,Down,ToGo,Location,NOR,MIN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,MIN 15,7,17,Alvin Kamara right end for 7 yards (tackle by Eric Kendricks),4.580,5.220
+4,14:28,2,3,MIN 8,7,17,Drew Brees pass complete short left to Alvin Kamara for 6 yards (tackle by Anthony Harris),5.220,6.740
+4,13:56,1,2,MIN 2,7,17,Alvin Kamara left tackle for -1 yards (tackle by Anthony Barr),6.740,5.530
+4,13:12,2,3,MIN 3,13,17,"Drew Brees pass complete short middle to Michael Thomas for 3 yards, touchdown",5.530,7.000
+4,13:09,,,MIN 15,14,17,Wil Lutz kicks extra point good,0.000,0.000
+4,13:09,,,NOR 35,14,17,"Wil Lutz kicks off 65 yards, touchback",0.000,-0.610
+4,13:09,1,10,MIN 25,14,17,Latavius Murray left tackle for 14 yards (tackle by Marcus Williams),0.610,1.530
+4,12:31,1,10,MIN 39,14,17,Latavius Murray left tackle for no gain (tackle by Manti Te'o),1.530,0.990
+4,11:53,2,10,MIN 39,14,17,Case Keenum pass complete deep left to Jarius Wright for 27 yards (tackle by P.J. Williams),0.990,3.310
+,,,,,,,"NOR challenged the pass completion ruling, and the play was upheld.",,
+4,11:22,1,10,NOR 34,14,17,Case Keenum pass complete short right to Jerick McKinnon for 3 yards (tackle by P.J. Williams),3.310,3.180
+4,11:01,2,7,NOR 31,14,17,Jerick McKinnon right tackle for no gain (tackle by Manti Te'o and Tyeler Davison),3.180,2.480
+4,10:23,3,7,NOR 31,14,17,Case Keenum pass incomplete short right intended for Stefon Diggs,2.480,1.320
+,,,,,,,"NOR challenged the runner was not down by contact ruling, and the play was upheld.",,
+4,10:17,4,7,NOR 31,14,20,Kai Forbath 49 yard field goal good,1.320,3.000
+4,10:12,,,MIN 35,14,20,"Kai Forbath kicks off 68 yards, returned by Alvin Kamara for 30 yards (tackle by C.J. Ham)",0.000,-0.740
+4,10:07,1,10,NOR 27,14,20,Alvin Kamara left guard for 4 yards (tackle by Anthony Barr),0.740,0.740
+4,9:35,2,6,NOR 31,14,20,Drew Brees pass complete short right to Ted Ginn for 5 yards (tackle by Trae Waynes),0.740,0.700
+4,9:12,3,1,NOR 36,14,20,Willie Snead pass incomplete deep right intended for Alvin Kamara,0.700,-0.980
+4,9:06,4,1,NOR 36,14,20,"Thomas Morstead punts 54 yards, fair catch by Marcus Sherels",-0.980,0.380
+4,8:59,1,10,MIN 10,14,20,Latavius Murray left guard for 1 yard (tackle by Craig Robertson),-0.380,-0.710
+4,8:26,2,9,MIN 11,14,20,"Case Keenum pass incomplete. Penalty on Marshon Lattimore: Defensive Holding, 5 yards (no play)",-0.710,-0.140
+4,8:21,1,10,MIN 16,14,20,Case Keenum pass incomplete deep middle intended for Jarius Wright,-0.140,-0.660
+4,8:18,2,10,MIN 16,14,20,Jerick McKinnon left tackle for 5 yards (tackle by Craig Robertson and Marcus Williams),-0.660,-0.700
+4,7:45,3,5,MIN 21,14,20,Case Keenum pass complete short right to Stefon Diggs for 22 yards (tackle by Rafael Bush),-0.700,1.800
+4,7:14,1,10,MIN 43,14,20,Latavius Murray left tackle for 1 yard (tackle by David Onyemata),1.800,1.390
+4,6:35,2,9,MIN 44,14,20,"Case Keenum pass complete short left to Stefon Diggs for 11 yards (tackle by Marcus Williams). Penalty on Kyle Rudolph: Illegal Block Above the Waist, 10 yards (no play)",1.390,0.040
+4,6:14,2,19,MIN 34,14,20,Case Keenum pass complete short middle to Adam Thielen for 6 yards (tackle by Manti Te'o),0.040,0.170
+4,5:33,3,13,MIN 40,14,20,Case Keenum pass incomplete short left intended for Adam Thielen (defended by Marshon Lattimore),0.170,-0.720
+4,5:28,4,13,MIN 40,14,20,"Ryan Quigley punts 1 yard, returned by Gerald Hodges for 1 yard (tackle by Anthony Harris)",-0.720,-2.920
+4,5:21,1,10,MIN 40,14,20,Drew Brees pass complete short right to Ted Ginn for 15 yards (tackle by Harrison Smith),2.920,3.910
+4,4:34,1,10,MIN 25,14,20,Drew Brees pass complete short left to Ted Ginn for 9 yards (tackle by Trae Waynes),3.910,4.750
+4,3:54,2,1,MIN 16,14,20,Mark Ingram middle for 2 yards (tackle by Everson Griffen),4.750,4.650
+4,3:06,1,10,MIN 14,20,20,"Drew Brees pass complete short right to Alvin Kamara for 14 yards, touchdown",4.650,7.000
+4,3:01,,,MIN 15,21,20,Wil Lutz kicks extra point good,0.000,0.000
+4,3:01,,,NOR 35,21,20,"Wil Lutz kicks off 65 yards, touchback",0.000,-0.610
+4,3:01,1,10,MIN 25,21,20,Case Keenum pass complete short middle to Kyle Rudolph for 5 yards (tackle by Vonn Bell),0.610,0.740
+4,2:31,2,5,MIN 30,21,20,Case Keenum left end for 4 yards (tackle by Manti Te'o),0.740,0.560
+4,2:05,3,1,MIN 34,21,20,Jerick McKinnon left tackle for 2 yards (tackle by Vonn Bell and Cameron Jordan),0.560,1.330
+4,2:00,1,10,MIN 36,21,20,Case Keenum pass incomplete short right intended for Jarius Wright,1.330,0.790
+4,1:55,2,10,MIN 36,21,20,"Case Keenum pass complete deep right to Adam Thielen for 24 yards (tackle by Marshon Lattimore). Penalty on Marshon Lattimore: Defensive Holding (Declined), Penalty on Marshon Lattimore: Defensive Pass Interference (Declined)",0.790,2.920
+4,1:47,1,10,NOR 40,21,20,Case Keenum pass incomplete short right intended for Adam Thielen (defended by Marshon Lattimore),2.920,2.370
+4,1:44,2,10,NOR 40,21,20,Case Keenum pass complete short right to Kyle Rudolph for 5 yards (tackle by Craig Robertson),2.370,2.340
+4,1:40,3,5,NOR 35,21,20,Case Keenum pass incomplete deep right intended for Kyle Rudolph (defended by Marcus Williams),2.340,0.980
+4,1:34,4,5,NOR 35,21,23,Kai Forbath 53 yard field goal good,0.980,3.000
+4,1:29,,,MIN 35,21,23,"Kai Forbath kicks off 65 yards, touchback",0.000,-0.610
+4,1:29,1,10,NOR 25,21,23,Drew Brees pass incomplete deep left intended for Michael Thomas,0.610,0.060
+4,1:25,2,10,NOR 25,21,23,Drew Brees pass complete short middle to Josh Hill for 18 yards (tackle by Anthony Barr),0.060,1.800
+4,1:01,1,10,NOR 43,21,23,Drew Brees pass complete short right to Ted Ginn for 11 yards (tackle by Trae Waynes),1.800,2.520
+4,0:55,1,10,MIN 46,21,23,Drew Brees pass incomplete short middle intended for Michael Thomas (defended by Xavier Rhodes),2.520,1.980
+4,0:53,2,10,MIN 46,21,23,Drew Brees pass incomplete short right intended for Michael Thomas,1.980,1.290
+4,0:49,3,10,MIN 46,21,23,Drew Brees pass incomplete short right intended for Michael Thomas (defended by Xavier Rhodes),1.290,0.200
+4,0:45,4,10,MIN 46,21,23,Drew Brees pass complete short left to Willie Snead for 13 yards (tackle by Mackensie Alexander),0.200,3.380
+4,0:40,1,10,MIN 33,21,23,Drew Brees pass complete short right to Ted Ginn for 4 yards,3.380,3.380
+4,0:37,2,6,MIN 29,21,23,Drew Brees pass complete short right to Michael Thomas for 5 yards (tackle by Harrison Smith),3.380,0.000
+4,0:33,,,,,,Timeout #1 by Minnesota Vikings,0.000,-3.340
+4,0:33,3,1,MIN 24,21,23,Alvin Kamara middle for -1 yards (tackle by Brian Robison and Anthony Harris),3.340,0.000
+4,0:29,,,,,,Timeout #2 by Minnesota Vikings,0.000,-1.930
+4,0:29,4,2,MIN 25,24,23,Wil Lutz 43 yard field goal good,1.930,3.000
+4,0:25,,,NOR 35,24,23,"Wil Lutz kicks off 65 yards, touchback",0.000,-0.610
+4,0:25,1,10,MIN 25,24,23,"Penalty on Mike Remmers: False Start, 5 yards (no play)",0.610,0.280
+4,0:25,1,15,MIN 20,24,23,Case Keenum pass complete deep middle to Stefon Diggs for 19 yards (tackle by P.J. Williams and Ken Crawley),0.280,0.000
+4,0:18,,,,,,Timeout #3 by Minnesota Vikings,0.000,-1.530
+4,0:18,1,10,MIN 39,24,23,Case Keenum pass incomplete deep right intended for Jarius Wright,1.530,0.000
+4,0:14,,,,,,Timeout #3 by New Orleans Saints,0.000,-0.990
+4,0:14,2,10,MIN 39,24,23,Case Keenum pass incomplete short left intended for Jerick McKinnon,0.990,0.300
+4,0:10,3,10,MIN 39,24,29,"Case Keenum pass complete deep right to Stefon Diggs for 61 yards, touchdown",0.300,7.000
+4,0:00,,,NOR 2,24,29,"Two Point Attempt: Case Keenum kneels, conversion fails",0.000,-1.000
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,STL 8,5,3:05,11,Punt
+2,1,10:26,STL 13,6,2:15,72,Field Goal
+3,1,5:24,STL 11,3,2:05,8,Punt
+4,2,14:52,STL 30,7,3:33,34,Downs
+5,2,9:03,STL 20,12,6:20,66,Field Goal
+6,2,1:47,SFO 3,2,0:16,3,Touchdown
+7,2,0:29,STL 34,4,0:25,40,Field Goal
+8,3,9:37,STL 20,14,8:24,46,Missed FG
+9,4,12:39,STL 39,4,2:18,15,Punt
+10,4,4:28,STL 20,3,1:43,3,Punt
+11,4,1:32,STL 20,4,0:52,10,Punt
+12,5,12:03,STL 19,12,7:14,51,Blocked FG

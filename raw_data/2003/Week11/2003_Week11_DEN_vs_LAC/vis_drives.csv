@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,SDG 23,2,0:14,0,Fumble
+2,1,13:23,SDG 14,1,0:06,-3,Fumble
+3,1,13:06,SDG 20,3,1:45,1,Punt
+4,1,6:14,SDG 24,6,3:15,17,Punt
+5,2,9:46,SDG 13,3,1:21,-2,Punt
+6,2,8:25,SDG 23,3,2:12,4,Punt
+7,2,6:06,DEN 18,1,0:11,0,Interception
+8,2,1:47,SDG 20,3,0:25,0,Punt
+9,2,0:32,SDG 25,1,0:32,-2,End of Half
+10,3,7:45,SDG 42,3,1:33,4,Punt
+11,3,1:28,SDG 34,3,0:28,-6,Fumble
+12,4,13:11,SDG 33,8,2:59,67,Touchdown
+13,4,8:40,SDG 41,3,0:48,8,Punt

@@ -1,0 +1,191 @@
+Quarter,Time,Down,ToGo,Location,KAN,SFO,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"49ers won the coin toss, 49ers to receive the opening kickoff.",,
+1,15:00,,,KAN 35,0,0,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,SFO 25,0,0,Jeff Wilson left tackle for 7 yards (tackle by Willie Gay and Justin Reid),0.610,1.010
+1,14:27,2,3,SFO 32,0,0,Jimmy Garoppolo pass complete short right to George Kittle for 18 yards (tackle by Nick Bolton),1.010,2.260
+1,13:51,1,10,KAN 50,0,0,Jimmy Garoppolo pass incomplete short left intended for George Kittle,2.260,1.710
+1,13:45,2,10,KAN 50,0,0,Christian McCaffrey up the middle for 10 yards (tackle by Leo Chenal),1.710,2.920
+1,13:10,1,10,KAN 40,0,0,Christian McCaffrey up the middle for 9 yards (tackle by Juan Thornhill),2.920,3.590
+1,12:32,2,1,KAN 31,0,0,Jeff Wilson left guard for 12 yards (tackle by Juan Thornhill),3.590,4.310
+1,11:52,1,10,KAN 19,0,0,Jimmy Garoppolo pass complete short right to Brandon Aiyuk for 6 yards (tackle by Juan Thornhill),4.310,4.720
+1,11:15,2,4,KAN 13,0,0,Jimmy Garoppolo pass complete short left to Deebo Samuel for 1 yard (tackle by L'Jarius Sneed),4.720,4.190
+1,10:31,3,3,KAN 12,0,0,Jimmy Garoppolo pass incomplete short right intended for Brandon Aiyuk (defended by Joshua Williams),4.190,2.730
+1,10:26,4,3,KAN 12,0,3,Robbie Gould 30 yard field goal good,2.730,3.000
+1,10:22,,,SFO 35,0,3,"Robbie Gould kicks off 60 yards, returned by Isiah Pacheco for 20 yards (tackle by George Odum)",0.000,0.610
+1,10:17,1,10,KAN 25,0,3,Isiah Pacheco left tackle for 2 yards (tackle by Nick Bosa and Dre Greenlaw),0.610,0.330
+1,9:43,2,8,KAN 27,0,3,Patrick Mahomes pass complete short left to Mecole Hardman for 1 yard (tackle by Fred Warner),0.330,-0.230
+1,8:50,3,7,KAN 28,0,3,Patrick Mahomes pass short middle (defended by Tashaun Gipson) intended for Skyy Moore is intercepted by Talanoa Hufanga at KC-36 and returned for 2 yards (tackle by Marquez Valdes-Scantling),-0.230,-3.310
+1,8:43,1,10,KAN 34,0,3,Tyrion Davis-Price left end for 3 yards (tackle by Nick Bolton),3.310,3.180
+1,7:58,2,7,KAN 31,0,3,Jimmy Garoppolo pass complete deep left to Deebo Samuel for 22 yards (tackle by Jaylen Watson),3.180,5.140
+1,7:14,1,9,KAN 9,0,3,Tyrion Davis-Price left guard for 1 yard (tackle by Juan Thornhill),5.140,4.570
+1,6:36,2,8,KAN 8,0,9,"Jimmy Garoppolo pass complete short right to Ray-Ray McCloud for 8 yards, touchdown",4.570,7.000
+1,6:29,,,KAN 15,0,10,Robbie Gould kicks extra point good,0.000,0.000
+1,6:29,,,SFO 35,0,10,"Penalty on Taylor Stallworth: Roughing the Passer, 15 yards (accepted) (no play)",0.000,-2.260
+1,6:29,1,10,SFO 50,0,10,"Robbie Gould kicks off 46 yards, returned by Isiah Pacheco for 23 yards (tackle by Demetrius Flannigan-Fowles)",2.260,0.740
+1,6:24,1,10,KAN 27,0,10,Patrick Mahomes pass complete short left to Travis Kelce for 9 yards (tackle by Dre Greenlaw and Deommodore Lenoir),0.740,1.410
+1,5:46,2,1,KAN 36,0,10,Clyde Edwards-Helaire up the middle for no gain (tackle by Samson Ebukam and Talanoa Hufanga),1.410,0.700
+1,5:07,,,,,,Timeout #1 by Kansas City Chiefs,,
+1,5:07,3,1,KAN 36,0,10,Patrick Mahomes pass complete short right to Travis Kelce for 27 yards (tackle by Fred Warner),0.700,3.120
+1,4:29,1,10,SFO 37,0,10,Patrick Mahomes pass incomplete short left intended for Marquez Valdes-Scantling,3.120,2.570
+1,4:24,2,10,SFO 37,0,10,Patrick Mahomes pass complete deep left to Mecole Hardman for 18 yards (tackle by Tashaun Gipson),2.570,4.310
+1,3:42,1,10,SFO 19,0,10,Patrick Mahomes pass incomplete short left intended for JuJu Smith-Schuster,4.310,3.750
+1,3:35,2,10,SFO 19,0,10,Clyde Edwards-Helaire left tackle for 6 yards (tackle by Akeem Spence),3.750,3.960
+1,2:50,3,4,SFO 13,0,10,"Patrick Mahomes pass complete short middle to Travis Kelce for 13 yards, touchdown. Penalty on Nick Bosa: Defensive Offside, 5 yards (offset) . Penalty on Andrew Wylie: Illegal Use of Hands / Offense, 5 yards (offset) (no play)",3.960,3.960
+1,2:44,3,4,SFO 13,0,10,"Patrick Mahomes pass complete short left to JuJu Smith-Schuster for 5 yards (tackle by Deommodore Lenoir). Penalty on Nick Bosa: Defensive Offside, 5 yards (declined)",3.960,5.370
+1,2:14,1,8,SFO 8,6,10,"Patrick Mahomes pass complete short middle to Mecole Hardman for 8 yards, touchdown",5.370,7.000
+1,2:07,,,SFO 15,7,10,Harrison Butker kicks extra point good,0.000,0.000
+1,2:07,,,KAN 35,7,10,"Harrison Butker kicks off 65 yards, returned by Ray-Ray McCloud for 22 yards (tackle by Marcus Kemp and Deon Bush)",0.000,0.410
+1,2:00,1,10,SFO 22,7,10,Jimmy Garoppolo pass incomplete short left intended for Brandon Aiyuk,0.410,-0.130
+1,1:57,2,10,SFO 22,7,10,Deebo Samuel left end for 2 yards (tackle by L'Jarius Sneed and George Karlaftis),-0.130,-0.560
+1,1:18,3,8,SFO 24,7,10,Jimmy Garoppolo pass complete short middle to Brandon Aiyuk for 21 yards (tackle by Chris Lammons and Juan Thornhill),-0.560,1.930
+1,0:31,1,10,SFO 45,7,10,"Penalty on Jeff Wilson: False Start, 5 yards (accepted) (no play)",1.930,1.600
+1,0:06,1,15,SFO 40,7,10,Jeff Wilson right tackle for 8 yards (tackle by Nick Bolton),1.600,1.790
+Quarter,Time,Down,ToGo,Location,KAN,SFO,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,7,SFO 48,7,10,Jimmy Garoppolo pass complete short left to Christian McCaffrey for 13 yards (tackle by Nick Bolton),1.790,2.980
+2,14:26,1,10,KAN 39,7,10,Christian McCaffrey left end for 12 yards (tackle by Justin Reid),2.980,3.780
+2,13:39,1,10,KAN 27,7,10,Jimmy Garoppolo pass complete short right to George Kittle for 3 yards (tackle by L'Jarius Sneed),3.780,3.640
+2,12:58,2,7,KAN 24,7,10,Jimmy Garoppolo pass incomplete short left intended for Brandon Aiyuk (defended by George Karlaftis),3.640,2.870
+2,12:56,3,8,KAN 24,7,10,Jimmy Garoppolo sacked by Chris Jones for -8 yards,2.870,1.240
+2,12:15,4,16,KAN 32,7,13,Robbie Gould 50 yard field goal good,1.240,3.000
+2,12:11,,,SFO 35,7,13,"Robbie Gould kicks off 63 yards, returned by Isiah Pacheco for 18 yards (tackle by Jauan Jennings and Demetrius Flannigan-Fowles). Penalty on Jody Fortson: Defensive Holding, 10 yards (accepted)",0.000,-0.380
+2,12:02,1,10,KAN 10,7,13,Isiah Pacheco right end for 5 yards (tackle by Fred Warner and Charvarius Ward),-0.380,-0.350
+2,11:29,2,5,KAN 15,7,13,Patrick Mahomes pass complete short right to Jody Fortson for 8 yards (tackle by Talanoa Hufanga),-0.350,0.480
+2,11:03,1,10,KAN 23,7,13,"Patrick Mahomes pass complete deep left to Travis Kelce for 17 yards (tackle by Tarvarius Moore). Penalty on Jimmie Ward: Defensive Holding, 5 yards (declined)",0.480,1.600
+2,10:35,1,10,KAN 40,7,13,"Patrick Mahomes pass incomplete short middle intended for Jody Fortson. Penalty on Charvarius Ward: Illegal Contact, 5 yards (offset) . Penalty on Trey Smith: Offensive Holding, 10 yards (offset) (no play)",1.600,1.600
+2,10:31,1,10,KAN 40,7,13,Jerick McKinnon left guard for 9 yards (tackle by Tarvarius Moore),1.600,2.270
+2,9:57,2,1,KAN 49,7,13,Patrick Mahomes pass incomplete short middle intended for Jerick McKinnon,2.270,1.550
+2,9:54,3,1,KAN 49,7,13,"Patrick Mahomes pass incomplete short right intended for Marquez Valdes-Scantling. Penalty on Charles Omenihu: Defensive Offside, 5 yards (accepted) (no play)",1.550,2.520
+2,9:46,1,10,SFO 46,7,13,Isiah Pacheco right tackle for 4 yards (tackle by Kevin Givens and Dre Greenlaw),2.520,2.590
+2,9:11,2,5,SFO 42,7,13,Patrick Mahomes pass complete short right to JuJu Smith-Schuster for 6 yards (tackle by Charvarius Ward),2.590,3.180
+2,8:27,1,10,SFO 36,7,13,Isiah Pacheco left tackle for 1 yard (tackle by Samson Ebukam and Kerry Hyder),3.180,2.770
+2,7:54,2,9,SFO 35,7,13,Patrick Mahomes pass complete short right to Noah Gray for 10 yards (tackle by Jimmie Ward),2.770,3.910
+2,7:17,1,10,SFO 25,13,13,"Mecole Hardman right end for 25 yards, touchdown",3.910,7.000
+2,7:09,,,SFO 15,14,13,Harrison Butker kicks extra point good,0.000,0.000
+2,7:09,,,KAN 35,14,13,"Harrison Butker kicks off 63 yards, returned by Ray-Ray McCloud for 12 yards (tackle by Marcus Kemp)",0.000,-0.280
+2,7:05,1,10,SFO 14,14,13,Christian McCaffrey right guard for 2 yards (tackle by Willie Gay and Carlos Dunlap),-0.280,-0.510
+2,6:29,2,8,SFO 16,14,13,Jimmy Garoppolo pass complete short middle to George Kittle for 9 yards (tackle by Willie Gay),-0.510,0.610
+2,5:44,1,10,SFO 25,14,13,"Penalty on Danny Gray: False Start, 5 yards (accepted) (no play)",0.610,0.280
+2,5:30,1,15,SFO 20,14,13,Jimmy Garoppolo pass incomplete deep left intended for Danny Gray (defended by Juan Thornhill),0.280,-0.610
+2,5:18,2,15,SFO 20,14,13,Jimmy Garoppolo pass complete deep right to George Kittle for 34 yards (tackle by Justin Reid),-0.610,2.520
+2,4:37,1,10,KAN 46,14,13,Jimmy Garoppolo pass complete short middle to Brandon Aiyuk for 17 yards (tackle by Juan Thornhill),2.520,3.640
+2,3:50,1,10,KAN 29,14,13,"Deebo Samuel left end for no gain (tackle by Juan Thornhill). Penalty on Jauan Jennings: Offensive Holding, 10 yards (accepted) (no play)",3.640,2.980
+2,3:26,1,20,KAN 39,14,13,Christian McCaffrey right guard for 5 yards (tackle by Willie Gay and Nick Bolton),2.980,2.420
+2,2:44,2,15,KAN 34,14,13,Jimmy Garoppolo sacked by and Willie Gay for -4 yards and L'Jarius Sneed for -4 yards,2.420,1.220
+2,2:09,3,19,KAN 38,14,13,"Penalty on KAN: Defensive Too Many Men on Field, 5 yards (accepted) (no play)",1.220,1.880
+2,2:00,3,14,KAN 33,14,13,Jimmy Garoppolo pass incomplete short left intended for Kyle Juszczyk (defended by Carlos Dunlap),1.880,1.150
+2,1:55,4,14,KAN 33,14,13,"Penalty on Jaylon Moore: False Start, 5 yards (accepted) (no play)",1.150,0.720
+2,1:55,4,19,KAN 38,14,13,"Mitch Wishnowsky punts 29 yards, recovered by Samuel Womack at KC-12",0.720,4.780
+2,1:47,1,10,KAN 12,14,13,Christian McCaffrey up the middle for 1 yard (tackle by Derrick Nnadi and Nick Bolton),4.780,4.270
+2,1:39,,,,,,Timeout #2 by Kansas City Chiefs,,
+2,1:39,2,9,KAN 11,14,13,Jimmy Garoppolo pass complete short right to Deebo Samuel for 6 yards (tackle by Justin Reid),4.270,4.610
+2,1:34,3,3,KAN 5,14,13,Jimmy Garoppolo pass short left intended for George Kittle is intercepted by Joshua Williams in end zone and returned for 7 yards (tackle by Brandon Aiyuk),4.610,0.380
+2,1:28,1,10,KAN 6,14,13,Patrick Mahomes pass complete short left to Jerick McKinnon for 2 yards (tackle by Jimmie Ward),-0.380,-0.630
+2,1:21,,,,,,Timeout #3 by Kansas City Chiefs,,
+2,1:21,2,8,KAN 8,14,13,Patrick Mahomes pass complete short left to Travis Kelce for 22 yards (tackle by Tashaun Gipson),-0.630,0.940
+2,1:09,,,,,,Timeout #1 by San Francisco 49ers,,
+2,1:09,1,10,KAN 30,14,13,Patrick Mahomes pass complete deep middle to Marquez Valdes-Scantling for 40 yards (tackle by Tashaun Gipson),0.940,3.580
+2,0:44,1,10,SFO 30,14,13,Patrick Mahomes pass incomplete short right intended for Justin Watson,3.580,3.030
+2,0:43,2,10,SFO 30,14,13,Patrick Mahomes pass complete deep left to JuJu Smith-Schuster for 19 yards (tackle by Ambry Thomas),3.030,4.840
+2,0:38,1,10,SFO 11,14,13,Patrick Mahomes pass complete short middle to Travis Kelce for 5 yards (tackle by Fred Warner),4.840,5.080
+2,0:19,2,5,SFO 6,14,13,"Patrick Mahomes aborted snap, recovered by Patrick Mahomes at SF-6 Patrick Mahomes pass incomplete",5.080,4.210
+2,0:16,3,5,SFO 6,14,13,"Patrick Mahomes pass complete short right to JuJu Smith-Schuster for no gain, touchdown. Penalty on Jerick McKinnon: Chop Block, 15 yards (accepted) (no play)",4.210,2.280
+2,0:11,3,20,SFO 21,14,13,Harrison Butker 39 yard field goal no good,2.280,-0.870
+2,0:06,1,10,SFO 29,14,13,Jimmy Garoppolo kneels for -1 yards,0.870,0.190
+Quarter,Time,Down,ToGo,Location,KAN,SFO,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,SFO 35,14,13,"Robbie Gould kicks off 61 yards, returned by Isiah Pacheco for 48 yards (tackle by Oren Burks). Penalty on Jauan Jennings: Personal Foul / Offense, 15 yards (accepted)",0.000,3.380
+3,14:51,1,10,SFO 33,14,13,Clyde Edwards-Helaire left guard for 3 yards (tackle by Fred Warner and Hassan Ridgeway),3.380,3.240
+3,14:12,2,7,SFO 30,14,13,Patrick Mahomes pass complete short right to Marquez Valdes-Scantling for 14 yards (tackle by Charvarius Ward),3.240,4.510
+3,13:33,1,10,SFO 16,20,13,"Clyde Edwards-Helaire right end for 16 yards, touchdown",4.510,7.000
+3,13:28,,,SFO 15,21,13,Harrison Butker kicks extra point good,0.000,0.000
+3,13:28,,,KAN 35,21,13,"Harrison Butker kicks off 64 yards, returned by Ray-Ray McCloud for 16 yards (tackle by Bryan Cook)",0.000,-0.060
+3,13:25,1,10,SFO 17,21,13,Christian McCaffrey right tackle for no gain (tackle by Justin Reid),-0.060,-0.580
+3,12:45,2,10,SFO 17,21,13,Jimmy Garoppolo pass incomplete short right intended for Deebo Samuel,-0.580,-1.250
+3,12:42,3,10,SFO 17,21,13,Jimmy Garoppolo pass complete short right to Kyle Juszczyk for 17 yards (tackle by Juan Thornhill),-1.250,1.200
+3,11:58,1,10,SFO 34,21,13,Jeff Wilson up the middle for 15 yards (tackle by Juan Thornhill and George Karlaftis),1.200,2.190
+3,11:11,1,10,SFO 49,21,13,Jeff Wilson left guard for 3 yards (tackle by Derrick Nnadi and Chris Jones),2.190,2.050
+3,10:33,2,7,KAN 48,21,13,Jimmy Garoppolo pass complete short left to Deebo Samuel for 4 yards (tackle by Willie Gay and Malik Herring),2.050,1.880
+3,9:54,3,3,KAN 44,21,13,Jeff Wilson up the middle for 10 yards (tackle by Justin Reid and L'Jarius Sneed),1.880,3.310
+3,9:12,1,10,KAN 34,21,13,Jimmy Garoppolo pass complete short right to Brandon Aiyuk for 4 yards (tackle by Willie Gay and Jaylen Watson),3.310,3.310
+3,8:30,2,6,KAN 30,21,13,Jeff Wilson up the middle for -1 yards (tackle by Nick Bolton),3.310,2.480
+3,7:50,3,7,KAN 31,21,13,"Jimmy Garoppolo pass incomplete short left intended for George Kittle. Penalty on Trent Williams: Illegal Formation, 5 yards (declined)",2.480,1.320
+3,7:46,4,7,KAN 31,21,16,Robbie Gould 49 yard field goal good,1.320,3.000
+3,7:41,,,SFO 35,21,16,"Robbie Gould kicks off 65 yards, touchback.",0.000,0.610
+3,7:41,1,10,KAN 25,21,16,Clyde Edwards-Helaire right guard for 6 yards (tackle by Charvarius Ward),0.610,0.870
+3,7:04,2,4,KAN 31,21,16,Patrick Mahomes pass complete deep middle to Travis Kelce for 18 yards (tackle by Charvarius Ward),0.870,2.190
+3,6:21,1,10,KAN 49,21,16,Jerick McKinnon up the middle for 3 yards (tackle by Nick Bosa),2.190,2.050
+3,5:43,2,7,SFO 48,21,16,Patrick Mahomes pass complete short right to Mecole Hardman for 5 yards (tackle by Charvarius Ward),2.050,2.010
+3,5:13,3,2,SFO 43,21,16,Patrick Mahomes pass complete short left to JuJu Smith-Schuster for 15 yards (tackle by Tashaun Gipson),2.010,3.710
+3,4:35,1,10,SFO 28,21,16,"Patrick Mahomes pass incomplete deep right intended for Justin Watson. Penalty on Andrew Wylie: Offensive Holding, 10 yards (accepted) (no play)",3.710,3.050
+3,4:30,1,20,SFO 38,21,16,Patrick Mahomes pass incomplete short middle intended for Jody Fortson,3.050,1.820
+3,4:27,2,20,SFO 38,21,16,Patrick Mahomes pass incomplete short right,1.820,1.160
+3,4:21,3,20,SFO 38,21,16,Patrick Mahomes pass complete short left to Jerick McKinnon for 34 yards (tackle by Tashaun Gipson),1.160,6.280
+3,3:35,1,4,SFO 4,27,16,"Patrick Mahomes pass complete short left to Justin Watson for 4 yards, touchdown",6.280,7.000
+3,3:31,,,SFO 15,28,16,Harrison Butker kicks extra point good,0.000,0.000
+3,3:31,,,KAN 35,28,16,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+3,3:31,1,10,SFO 25,28,16,"Jimmy Garoppolo pass complete deep right to Brandon Aiyuk for no gain. Penalty on Mike McGlinchey: Offensive Holding, 10 yards (accepted) (no play)",0.610,-0.410
+3,3:05,1,20,SFO 15,28,16,Jimmy Garoppolo pass complete short middle to Brandon Aiyuk for 13 yards (tackle by L'Jarius Sneed),-0.410,0.470
+3,2:19,2,7,SFO 28,28,16,"Jimmy Garoppolo pass incomplete short right intended for George Kittle. Penalty on L'Jarius Sneed: Defensive Pass Interference, 14 yards (accepted) (no play)",0.470,1.730
+3,2:13,1,10,SFO 42,28,16,"Jeff Wilson up the middle for no gain (tackle by L'Jarius Sneed). Penalty on Deebo Samuel: Offensive Holding, 10 yards (accepted) . Penalty on Trent Williams: Offensive Holding, 10 yards (declined) (no play)",1.730,1.070
+3,1:52,1,20,SFO 32,28,16,Jimmy Garoppolo pass complete short right to Christian McCaffrey for 11 yards (tackle by Khalen Saunders),1.070,1.320
+3,1:07,2,9,SFO 43,28,16,Jimmy Garoppolo pass complete short right to Jauan Jennings for 11 yards (tackle by Khalen Saunders),1.320,2.520
+3,0:25,1,10,KAN 46,28,16,Jimmy Garoppolo pass complete short right to George Kittle for 19 yards (tackle by Jaylen Watson),2.520,3.780
+Quarter,Time,Down,ToGo,Location,KAN,SFO,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,KAN 27,28,16,Jimmy Garoppolo pass complete short right to Brandon Aiyuk for 12 yards (tackle by Willie Gay),3.780,4.580
+4,14:29,1,10,KAN 15,28,16,Jimmy Garoppolo pass incomplete short left intended for Brandon Aiyuk (defended by L'Jarius Sneed),4.580,3.950
+4,14:23,2,10,KAN 15,28,16,Jimmy Garoppolo pass incomplete short right intended for Jeff Wilson,3.950,3.100
+4,14:19,3,10,KAN 15,28,22,"Jimmy Garoppolo pass complete short middle to George Kittle for 15 yards, touchdown",3.100,7.000
+4,14:16,,,KAN 15,28,23,Robbie Gould kicks extra point good,0.000,0.000
+4,14:16,,,SFO 35,28,23,"Robbie Gould kicks off 62 yards, returned by Isiah Pacheco for 17 yards (tackle by Oren Burks)",0.000,0.280
+4,14:12,1,10,KAN 20,28,23,Patrick Mahomes sacked by Nick Bosa for -6 yards,0.280,-1.180
+4,13:34,2,16,KAN 14,28,23,Isiah Pacheco left tackle for 5 yards (tackle by Nick Bosa),-1.180,-1.140
+4,12:54,3,11,KAN 19,28,23,Patrick Mahomes pass complete deep right to Marquez Valdes-Scantling for 57 yards (tackle by Charvarius Ward),-1.140,3.970
+4,12:10,1,10,SFO 24,28,23,Clyde Edwards-Helaire right end for 1 yard (tackle by Talanoa Hufanga and Charvarius Ward),3.970,3.570
+4,11:28,2,9,SFO 23,28,23,Patrick Mahomes pass complete short middle to JuJu Smith-Schuster for 20 yards (tackle by Talanoa Hufanga and Fred Warner),3.570,6.510
+4,10:48,1,3,SFO 3,34,23,"Mecole Hardman left end for 3 yards, touchdown",6.510,7.000
+4,10:43,,,SFO 15,35,23,Harrison Butker kicks extra point good,0.000,0.000
+4,10:43,,,KAN 35,35,23,"Harrison Butker kicks off 69 yards, returned by Ray-Ray McCloud for 14 yards (tackle by Michael Burton). Penalty on Tyrion Davis-Price: Defensive Holding, 5 yards (accepted)",0.000,-0.380
+4,10:36,1,10,SFO 5,35,23,"Jimmy Garoppolo pass complete short left to George Kittle for no gain. Penalty on Frank Clark: Defensive Offside, 5 yards (accepted) (no play)",-0.380,-0.190
+4,10:06,1,5,SFO 10,35,23,Christian McCaffrey up the middle for -1 yards (tackle by Carlos Dunlap),-0.190,-0.490
+4,9:36,2,6,SFO 9,35,23,Jimmy Garoppolo sacked by and Frank Clark for -3 yards and Khalen Saunders for -3 yards,-0.490,-1.300
+4,8:55,3,9,SFO 6,37,23,"Jimmy Garoppolo sacked by Frank Clark for -6 yards, safety.",-1.300,-2.000
+4,8:49,,,SFO 20,37,23,"Mitch Wishnowsky kicks off 56 yards, returned by Mecole Hardman for 4 yards (tackle by Deommodore Lenoir and George Odum)",0.000,0.810
+4,8:42,1,10,KAN 28,37,23,Isiah Pacheco right tackle for 6 yards (tackle by Charvarius Ward and Drake Jackson),0.810,1.070
+4,8:03,2,4,KAN 34,37,23,Isiah Pacheco left end for 17 yards (tackle by Deommodore Lenoir),1.070,2.320
+4,7:24,1,10,SFO 49,37,23,"Isiah Pacheco left end for no gain (tackle by Drake Jackson). Penalty on Joe Thuney: Offensive Holding, 10 yards (accepted) (no play)",2.320,1.660
+4,6:59,1,20,KAN 41,37,23,Patrick Mahomes pass incomplete short right intended for Clyde Edwards-Helaire (defended by Drake Jackson),1.660,0.430
+4,6:55,2,20,KAN 41,37,23,Patrick Mahomes pass complete short right to JuJu Smith-Schuster for 14 yards (tackle by Charvarius Ward),0.430,1.620
+4,6:15,3,6,SFO 45,43,23,"Patrick Mahomes pass complete short middle to JuJu Smith-Schuster for 45 yards, touchdown",1.620,7.000
+4,6:05,,,SFO 15,44,23,Harrison Butker kicks extra point good,0.000,0.000
+4,6:05,,,KAN 35,44,23,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+4,6:05,1,10,SFO 25,44,23,Jimmy Garoppolo pass complete short left to Deebo Samuel for 9 yards (tackle by Jaylen Watson and Nick Bolton),0.610,1.280
+4,5:44,2,1,SFO 34,44,23,Jimmy Garoppolo pass incomplete right intended for Deebo Samuel (defended by Joshua Williams),1.280,0.560
+4,5:41,3,1,SFO 34,44,23,Jimmy Garoppolo up the middle for 3 yards (tackle by Nick Bolton),0.560,1.400
+4,5:26,1,10,SFO 37,44,23,Jimmy Garoppolo pass complete short middle to Kyle Juszczyk for 8 yards (tackle by Nick Bolton),1.400,1.940
+4,5:08,2,2,SFO 45,44,23,"Jimmy Garoppolo for no gain. Penalty on Mike McGlinchey: Offensive Holding, 10 yards (accepted) (no play)",1.940,0.590
+4,4:52,2,12,SFO 35,44,23,Jimmy Garoppolo pass complete short right to Kyle Juszczyk for 9 yards (tackle by Justin Reid),0.590,1.090
+4,4:32,3,3,SFO 44,44,23,Jimmy Garoppolo pass complete short left to Jauan Jennings for 13 yards (tackle by Jaylen Watson and Juan Thornhill),1.090,2.720
+4,4:08,1,10,KAN 43,44,23,"Jimmy Garoppolo sacked by Chris Jones for -5 yards. Jimmy Garoppolo fumbles (forced by Chris Jones), recovered by Malik Herring at KC-49",2.720,-2.190
+4,4:00,1,10,KAN 49,44,23,Chad Henne pass incomplete right intended for Travis Kelce (defended by Kerry Hyder),2.190,1.650
+4,3:56,2,10,KAN 49,44,23,Isiah Pacheco left end for 3 yards (tackle by Samson Ebukam),1.650,1.360
+4,3:50,,,,,,Timeout #1 by San Francisco 49ers,,
+4,3:50,,,,,,Timeout #1 by Kansas City Chiefs,,
+4,3:50,3,7,SFO 48,44,23,Chad Henne pass incomplete short middle intended for Travis Kelce,1.360,0.070
+4,3:46,4,7,SFO 48,44,23,"Tommy Townsend punts 33 yards, fair catch by Ray-Ray McCloud at SF-15",0.070,0.220
+4,3:39,1,10,SFO 15,44,23,Brock Purdy pass complete deep left to Ray-Ray McCloud for 20 yards (tackle by Jaylen Watson and Juan Thornhill),-0.220,1.270
+4,3:15,1,10,SFO 35,44,23,Brock Purdy pass incomplete short left intended for Tyrion Davis-Price,1.270,0.720
+4,3:11,2,10,SFO 35,44,23,Brock Purdy scrambles left end for 1 yard (tackle by Deon Bush),0.720,0.170
+4,2:43,3,9,SFO 36,44,23,Brock Purdy pass complete short left to Brandon Aiyuk for 9 yards (tackle by Chris Lammons and Dicaprio Bootle),0.170,1.930
+4,2:22,1,10,SFO 45,44,23,Brock Purdy pass incomplete short left intended for Jauan Jennings,1.930,1.380
+4,2:21,2,10,SFO 45,44,23,Brock Purdy pass incomplete short left intended for Tyrion Davis-Price,1.380,0.700
+4,2:15,3,10,SFO 45,44,23,Brock Purdy pass complete deep right to Ray-Ray McCloud for 22 yards (tackle by Juan Thornhill),0.700,3.380
+4,2:00,1,10,KAN 33,44,23,Brock Purdy pass incomplete deep right intended for Danny Gray,3.380,2.840
+4,1:55,2,10,KAN 33,44,23,Brock Purdy pass complete short middle to Ray-Ray McCloud for 15 yards (tackle by Joshua Williams),2.840,4.370
+4,1:37,1,10,KAN 18,44,23,Brock Purdy pass deep middle intended for Jauan Jennings is intercepted by Juan Thornhill in end zone and returned for no gain,4.370,-0.280
+4,1:30,1,10,KAN 20,44,23,Chad Henne kneels for -1 yards,0.280,-0.460
+4,0:50,2,11,KAN 19,44,23,Chad Henne kneels for -1 yards,-0.460,-1.330
+4,0:30,3,12,KAN 18,44,23,Chad Henne kneels for -1 yards,-1.330,-2.320
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,16 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,OAK 29,3,1:44,6,Punt
+2,1,10:23,OAK 31,3,1:25,6,Punt
+3,1,6:46,OAK 25,6,4:09,21,Punt
+4,1,1:32,BAL 6,1,0:07,6,Touchdown
+5,2,12:51,OAK 35,3,1:50,-8,Punt
+6,2,8:09,OAK 20,9,4:00,80,Touchdown
+7,2,3:05,OAK 43,3,1:28,3,Punt
+8,2,0:03,OAK 25,1,0:03,-1,End of Half
+9,3,10:38,OAK 23,3,0:57,0,Punt
+10,3,2:41,OAK 25,3,1:27,0,Punt
+11,4,14:48,BAL 29,6,3:37,29,Touchdown
+12,4,8:08,OAK 28,3,1:30,-4,Punt
+13,4,6:27,OAK 25,2,0:52,-8,Fumble
+14,4,3:36,OAK 34,6,1:24,66,Touchdown
+15,4,0:43,OAK 50,2,0:43,-1,End of Game

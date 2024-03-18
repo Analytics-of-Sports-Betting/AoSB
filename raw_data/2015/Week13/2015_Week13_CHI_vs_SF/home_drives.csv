@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:42,SFO 41,7,3:25,19,Field Goal
+2,1,8:51,CHI 47,6,2:52,20,Field Goal
+3,1,3:43,CHI 33,2,0:54,1,Interception
+4,1,2:49,CHI 20,8,4:12,80,Touchdown
+5,2,6:53,CHI 33,3,1:45,-6,Punt
+6,2,3:07,CHI 20,7,1:23,33,Punt
+7,3,15:00,CHI 20,15,6:17,58,Missed FG
+8,3,7:19,CHI 19,9,6:26,39,Punt
+9,4,14:18,SFO 46,3,1:28,-9,Punt
+10,4,11:11,CHI 41,3,1:39,-8,Punt
+11,4,7:25,CHI 17,6,3:53,83,Touchdown
+12,4,1:42,SFO 28,6,1:42,10,Missed FG
+13,5,14:29,CHI 15,3,1:28,2,Punt

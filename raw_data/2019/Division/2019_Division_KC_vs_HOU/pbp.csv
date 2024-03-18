@@ -1,0 +1,198 @@
+Quarter,Time,Down,ToGo,Location,HOU,KAN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Texans won the coin toss, Texans to receive the opening kickoff.",,
+1,15:00,,,KAN 35,0,0,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,HOU 25,0,0,Deshaun Watson pass complete short left to DeAndre Hopkins for 1 yard (tackle by Anthony Hitchens),0.610,0.200
+1,14:29,2,9,HOU 26,0,0,Carlos Hyde left guard for 2 yards (tackle by Damien Wilson),0.200,-0.230
+1,13:48,3,7,HOU 28,0,0,Deshaun Watson pass complete short middle to Will Fuller for 9 yards (tackle by Tyrann Mathieu),-0.230,1.400
+1,13:11,1,10,HOU 37,0,0,Deshaun Watson pass complete short right to Carlos Hyde for 2 yards (tackle by Reggie Ragland),1.400,1.130
+1,12:35,2,8,HOU 39,0,0,Carlos Hyde up the middle for 7 yards (tackle by Mike Pennel),1.130,1.360
+1,12:07,3,1,HOU 46,6,0,"Deshaun Watson pass complete deep left to Kenny Stills for 54 yards, touchdown",1.360,7.000
+1,11:59,,,KAN 15,7,0,Ka'imi Fairbairn kicks extra point good,0.000,0.000
+1,11:59,,,HOU 35,7,0,"Ka'imi Fairbairn kicks off 61 yards, returned by Mecole Hardman for 17 yards (tackle by Peter Kalambayi)",0.000,0.340
+1,11:54,1,10,KAN 21,7,0,Damien Williams left guard for 3 yards (tackle by D.J. Reader),0.340,0.210
+1,11:23,2,7,KAN 24,7,0,"Penalty on Eric Fisher: False Start, 5 yards (no play)",0.210,-0.530
+1,11:06,2,12,KAN 19,7,0,Patrick Mahomes pass complete short right to Mecole Hardman for 6 yards (tackle by Vernon Hargreaves),-0.530,-0.360
+1,10:19,,,,,,Timeout #1 by Kansas City Chiefs,,
+1,10:19,3,6,KAN 25,7,0,Patrick Mahomes pass incomplete short middle intended for Travis Kelce,-0.360,-1.700
+1,10:13,4,6,KAN 25,13,0,"Dustin Colquitt punts blocked by Barkevious Mingo, recovered by Lonnie Johnson, touchdown",-1.700,-7.000
+1,10:06,,,KAN 15,14,0,Ka'imi Fairbairn kicks extra point good,0.000,0.000
+1,10:06,,,HOU 35,14,0,"Ka'imi Fairbairn kicks off 63 yards, returned by Mecole Hardman for 16 yards (tackle by Buddy Howell)",0.000,0.040
+1,10:01,1,10,KAN 18,14,0,Patrick Mahomes pass complete short right to Tyreek Hill for 17 yards (tackle by Bradley Roby),0.040,1.270
+1,9:26,1,10,KAN 35,14,0,Damien Williams left tackle for no gain (tackle by Angelo Blackson),1.270,0.720
+1,8:49,2,10,KAN 35,14,0,Patrick Mahomes pass complete short left to Travis Kelce for 15 yards (tackle by Gareon Conley),0.720,2.260
+1,8:06,1,10,KAN 50,14,0,Patrick Mahomes pass incomplete short right intended for Damien Williams,2.260,1.710
+1,7:58,2,10,KAN 50,14,0,Patrick Mahomes pass complete short right to Travis Kelce for 5 yards (tackle by Lonnie Johnson),1.710,1.690
+1,7:20,3,5,HOU 45,14,0,Patrick Mahomes pass incomplete short right intended for Demarcus Robinson,1.690,0.270
+1,7:15,4,5,HOU 45,14,0,"Dustin Colquitt punts 30 yards, fair catch by DeAndre Carter at HOU-15",0.270,0.220
+1,7:08,1,10,HOU 15,14,0,Duke Johnson left end for 11 yards (tackle by Damien Wilson),-0.220,0.670
+1,6:23,1,10,HOU 26,14,0,Deshaun Watson left end for 7 yards (tackle by Tyrann Mathieu),0.670,1.070
+1,5:52,2,3,HOU 33,14,0,Carlos Hyde left end for 7 yards (tackle by Terrell Suggs and Daniel Sorensen),1.070,1.600
+1,5:18,1,10,HOU 40,14,0,Carlos Hyde up the middle for 5 yards (tackle by Bashaud Breeland),1.600,1.730
+1,4:37,2,5,HOU 45,14,0,Deshaun Watson pass complete short left to Will Fuller for 6 yards (tackle by Damien Wilson),1.730,2.320
+1,4:01,1,10,KAN 49,14,0,Deshaun Watson pass complete short right to Duke Johnson for -1 yards (tackle by Reggie Ragland),2.320,1.650
+1,3:13,2,11,HOU 50,14,0,Deshaun Watson pass incomplete deep right intended for Kenny Stills,1.650,0.960
+1,3:08,3,11,HOU 50,14,0,Deshaun Watson sacked by Frank Clark for -6 yards,0.960,-0.460
+1,2:20,4,17,HOU 44,14,0,"Bryan Anger punts 50 yards, muffed catch by Tyreek Hill, recovered by Keion Crossen at KC-6",-0.460,5.830
+1,2:09,1,6,KAN 6,14,0,Deshaun Watson right end for 2 yards (tackle by Tanoh Kpassagnon and Daniel Sorensen),5.830,5.340
+1,1:24,2,4,KAN 4,20,0,"Deshaun Watson pass complete short middle to Darren Fells for 4 yards, touchdown",5.340,7.000
+1,1:21,,,KAN 15,21,0,Ka'imi Fairbairn kicks extra point good,0.000,0.000
+1,1:21,,,HOU 35,21,0,"Ka'imi Fairbairn kicks off 64 yards, muffed catch by Mecole Hardman returned by Mecole Hardman for 15 yards (tackle by Taiwan Jones)",0.000,0.150
+1,1:14,1,10,KAN 19,21,0,Patrick Mahomes pass incomplete short right intended for Damien Williams,0.150,-0.390
+1,1:09,2,10,KAN 19,21,0,Patrick Mahomes pass incomplete short middle intended for Demarcus Robinson,-0.390,-1.070
+1,1:05,3,10,KAN 19,21,0,Patrick Mahomes pass incomplete deep right intended for Tyreek Hill (defended by Justin Reid),-1.070,-2.140
+1,1:00,4,10,KAN 19,21,0,"Dustin Colquitt punts 43 yards, returned by DeAndre Carter for 11 yards (tackle by Dorian O'Daniel)",-2.140,-2.190
+1,0:49,1,10,HOU 49,21,0,Carlos Hyde right guard for 7 yards (tackle by Bashaud Breeland and Anthony Hitchens),2.190,2.590
+1,0:10,2,3,KAN 44,21,0,Carlos Hyde left tackle for 2 yards (tackle by Derrick Nnadi and Damien Wilson),2.590,2.150
+Quarter,Time,Down,ToGo,Location,HOU,KAN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,1,KAN 42,21,0,"Deshaun Watson right end for 3 yards (tackle by Tyrann Mathieu). Penalty on Roderick Johnson: Offensive Holding, 10 yards (no play)",2.150,0.830
+2,14:31,3,11,HOU 48,21,0,Deshaun Watson pass complete short left to DeAndre Hopkins for 13 yards (tackle by Charvarius Ward),0.830,2.980
+2,13:47,1,10,KAN 39,21,0,Carlos Hyde left guard for 2 yards (tackle by Damien Wilson and Daniel Sorensen),2.980,2.710
+2,13:04,2,8,KAN 37,21,0,Deshaun Watson pass complete short middle to Kenny Stills for 15 yards (tackle by Kendall Fuller),2.710,4.110
+2,12:28,1,10,KAN 22,21,0,Carlos Hyde right tackle for 1 yard (tackle by Khalen Saunders),4.110,3.700
+2,11:53,2,9,KAN 21,21,0,Deshaun Watson pass incomplete short right intended for Darren Fells,3.700,3.010
+2,11:46,,,,,,Timeout #1 by Houston Texans,,
+2,11:46,3,9,KAN 21,21,0,Deshaun Watson pass complete short left to Duke Johnson for 8 yards (tackle by Charvarius Ward and Daniel Sorensen),3.010,2.720
+2,10:58,,,,,,Timeout #2 by Houston Texans,,
+2,10:58,4,1,KAN 13,24,0,Ka'imi Fairbairn 31 yard field goal good,2.720,3.000
+2,10:54,,,HOU 35,24,0,"Ka'imi Fairbairn kicks off 65 yards, returned by Mecole Hardman for 58 yards (tackle by Lonnie Johnson)",0.000,2.790
+2,10:46,1,10,HOU 42,24,0,Patrick Mahomes pass complete short right to Travis Kelce for 25 yards (tackle by Justin Reid),2.790,4.440
+2,10:00,1,10,HOU 17,24,6,"Patrick Mahomes pass complete short left to Damien Williams for 17 yards, touchdown",4.440,7.000
+2,9:55,,,HOU 15,24,7,Harrison Butker kicks extra point good,0.000,0.000
+2,9:55,,,KAN 35,24,7,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+2,9:55,1,10,HOU 25,24,7,Carlos Hyde up the middle for 5 yards (tackle by Xavier Williams and Damien Wilson),0.610,0.740
+2,9:16,2,5,HOU 30,24,7,Carlos Hyde up the middle for 1 yard (tackle by Damien Wilson),0.740,0.170
+2,8:35,3,4,HOU 31,24,7,Deshaun Watson pass incomplete short left intended for Will Fuller,0.170,-1.310
+2,8:32,4,4,HOU 31,24,7,Justin Reid right end for 2 yards (tackle by Daniel Sorensen),-1.310,-3.380
+2,8:28,1,10,HOU 33,24,7,Patrick Mahomes pass incomplete deep right intended for Mecole Hardman,3.380,2.840
+2,8:23,2,10,HOU 33,24,7,"Patrick Mahomes pass incomplete deep left intended for Travis Kelce. Penalty on Lonnie Johnson: Defensive Pass Interference, 28 yards (no play)",2.840,6.060
+2,8:17,1,5,HOU 5,24,7,Patrick Mahomes pass incomplete short right intended for Travis Kelce (defended by Vernon Hargreaves),6.060,5.150
+2,8:11,2,5,HOU 5,24,13,"Patrick Mahomes pass complete short right to Travis Kelce for 5 yards, touchdown",5.150,7.000
+2,8:05,,,HOU 15,24,14,Harrison Butker kicks extra point good,0.000,0.000
+2,8:05,,,KAN 35,24,14,"Harrison Butker kicks off 65 yards, returned by DeAndre Carter for 21 yards (tackle by Daniel Sorensen). DeAndre Carter fumbles (forced by Daniel Sorensen), recovered by Darwin Thompson at HOU-24 and returned for 18 yards (tackle by Keion Crossen)",0.000,-5.830
+2,7:56,1,6,HOU 6,24,14,Patrick Mahomes pass complete short right to Travis Kelce for 2 yards (tackle by Lonnie Johnson),5.830,5.340
+2,7:20,2,4,HOU 4,24,14,Damien Williams left end for -2 yards (tackle by Zach Cunningham),5.340,4.040
+2,6:37,3,6,HOU 6,24,20,"Patrick Mahomes pass complete short right to Travis Kelce for 6 yards, touchdown",4.040,7.000
+2,6:31,,,HOU 15,24,21,Harrison Butker kicks extra point good,0.000,0.000
+2,6:31,,,KAN 35,24,21,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+2,6:31,1,10,HOU 25,24,21,Deshaun Watson pass complete short left to DeAndre Hopkins for 9 yards (tackle by Daniel Sorensen),0.610,1.280
+2,5:51,2,1,HOU 34,24,21,Deshaun Watson left end for 10 yards (tackle by Daniel Sorensen),1.280,1.860
+2,5:04,1,10,HOU 44,24,21,Deshaun Watson pass complete short middle to Carlos Hyde for 10 yards (tackle by Damien Wilson),1.860,2.520
+2,4:28,1,10,KAN 46,24,21,Carlos Hyde right guard for no gain (tackle by Derrick Nnadi),2.520,1.980
+2,3:44,,,,,,Timeout #3 by Houston Texans,,
+2,3:44,2,10,KAN 46,24,21,"Deshaun Watson pass complete short left to DeAndre Hopkins for -2 yards. DeAndre Hopkins fumbles, recovered by Deshaun Watson at KC-48",1.980,1.030
+2,3:02,3,12,KAN 48,24,21,Deshaun Watson pass incomplete short middle intended for DeAndre Hopkins (defended by Tyrann Mathieu),1.030,0.070
+2,2:57,4,12,KAN 48,24,21,"Bryan Anger punts 39 yards, returned by Mecole Hardman for 1 yard (tackle by Keion Crossen)",0.070,0.380
+2,2:47,1,10,KAN 10,24,21,"Patrick Mahomes pass incomplete deep right intended for Travis Kelce. Penalty on Lonnie Johnson: Defensive Pass Interference, 15 yards (no play)",-0.380,0.610
+2,2:43,1,10,KAN 25,24,21,Patrick Mahomes pass complete short left to Tyreek Hill for 20 yards (tackle by Bradley Roby),0.610,1.930
+2,2:05,1,10,KAN 45,24,21,Patrick Mahomes right end for 21 yards (tackle by Gareon Conley),1.930,3.310
+2,1:55,1,10,HOU 34,24,21,Sammy Watkins sacked by Gareon Conley for -5 yards,3.310,2.090
+2,1:48,2,15,HOU 39,24,21,Patrick Mahomes pass complete deep right to Travis Kelce for 20 yards (tackle by Vernon Hargreaves),2.090,4.310
+2,1:05,1,10,HOU 19,24,21,Patrick Mahomes right end for 14 yards (tackle by Benardrick McKinney),4.310,6.060
+2,0:58,1,5,HOU 5,24,21,Patrick Mahomes pass incomplete short left intended for Damien Williams,6.060,5.150
+2,0:55,2,5,HOU 5,24,21,Patrick Mahomes pass incomplete short right intended for Demarcus Robinson,5.150,4.260
+2,0:50,3,5,HOU 5,24,27,"Patrick Mahomes pass complete short left to Travis Kelce for 5 yards, touchdown, touchdown",4.260,7.000
+2,0:44,,,HOU 15,24,28,Harrison Butker kicks extra point good,0.000,0.000
+2,0:44,,,KAN 35,24,28,"Harrison Butker kicks off 46 yards, returned by Cullen Gillaspia for 4 yards (tackle by Rashad Fenton)",0.000,0.480
+2,0:38,1,10,HOU 23,24,28,Deshaun Watson pass complete deep left to DeAndre Hopkins for 38 yards (tackle by Charvarius Ward),0.480,2.980
+2,0:20,1,10,KAN 39,24,28,Deshaun Watson spiked the ball,2.980,2.440
+2,0:19,2,10,KAN 39,24,28,Deshaun Watson pass incomplete short left intended for Duke Johnson,2.440,1.750
+2,0:11,3,10,KAN 39,24,28,Deshaun Watson left end for 6 yards (tackle by Ben Niemann),1.750,1.180
+2,0:03,4,4,KAN 33,24,28,Ka'imi Fairbairn 51 yard field goal no good,1.180,1.600
+Quarter,Time,Down,ToGo,Location,HOU,KAN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,HOU 35,24,28,"Ka'imi Fairbairn kicks off 62 yards, returned by Mecole Hardman for 12 yards (tackle by Taiwan Jones)",0.000,-0.220
+3,14:55,1,10,KAN 15,24,28,Patrick Mahomes pass complete short left to Deon Yelder for 11 yards (tackle by Mike Adams),-0.220,0.670
+3,14:19,1,10,KAN 26,24,28,Damien Williams right end for no gain (tackle by Brennan Scarlett),0.670,0.130
+3,13:37,2,10,KAN 26,24,28,Patrick Mahomes pass complete deep right to Sammy Watkins for 48 yards (tackle by Zach Cunningham). Penalty on Whitney Mercilus: Defensive Offside (Declined),0.130,3.840
+3,13:05,1,10,HOU 26,24,28,Patrick Mahomes right guard for 14 yards. Patrick Mahomes fumbles out of bounds,3.840,4.780
+3,12:28,1,10,HOU 12,24,28,Patrick Mahomes pass complete short right to Tyreek Hill for 4 yards (tackle by Benardrick McKinney),4.780,4.830
+3,11:57,2,6,HOU 8,24,28,Patrick Mahomes right end for 7 yards (tackle by Justin Reid),4.830,6.970
+3,11:28,1,1,HOU 1,24,34,"Damien Williams left guard for 1 yard, touchdown. Penalty on Damien Williams: Taunting, 15 yards",6.970,7.000
+3,11:24,,,HOU 15,24,34,Harrison Butker kicks extra point no good wide left,0.000,-1.000
+3,11:24,,,KAN 20,24,34,"Harrison Butker kicks off 80 yards, returned by DeAndre Carter for 26 yards (tackle by Byron Pringle)",0.000,0.670
+3,11:18,1,10,HOU 26,24,34,"Deshaun Watson left end for 8 yards (tackle by Tyrann Mathieu). Penalty on DeAndre Hopkins: Illegal Formation, 5 yards (no play)",0.670,0.340
+3,10:44,1,15,HOU 21,24,34,Deshaun Watson pass complete short left to DeAndre Hopkins for 9 yards (tackle by Charvarius Ward),0.340,0.670
+3,10:09,2,6,HOU 30,24,34,Carlos Hyde left guard for 1 yard (tackle by Mike Pennel),0.670,0.100
+3,9:28,3,5,HOU 31,24,34,Deshaun Watson sacked by Frank Clark for -2 yards,0.100,-1.440
+3,8:42,4,7,HOU 29,24,34,"Bryan Anger punts 48 yards, fair catch by Tyreek Hill at KC-23",-1.440,-0.480
+3,8:34,1,10,KAN 23,24,34,Patrick Mahomes pass complete deep right to Travis Kelce for 28 yards (tackle by Mike Adams),0.480,2.320
+3,7:48,1,10,HOU 49,24,34,"Penalty on Charles Omenihu: Neutral Zone Infraction, 5 yards (no play)",2.320,3.050
+3,7:30,1,5,HOU 44,24,34,Sammy Watkins right end for 14 yards (tackle by Bradley Roby),3.050,3.580
+3,6:47,1,10,HOU 30,24,34,Patrick Mahomes pass complete short left to Demarcus Robinson for 4 yards (tackle by Vernon Hargreaves),3.580,3.570
+3,6:09,2,6,HOU 26,24,34,"Patrick Mahomes pass incomplete deep right intended for Tyreek Hill. Penalty on Bradley Roby: Defensive Pass Interference, 19 yards (no play)",3.570,5.600
+3,6:03,1,7,HOU 7,24,34,Patrick Mahomes pass incomplete short right intended for Mecole Hardman (defended by Zach Cunningham),5.600,4.760
+3,5:56,2,7,HOU 7,24,34,Damien Williams up the middle for 2 yards (tackle by Benardrick McKinney and Zach Cunningham),4.760,4.260
+3,5:15,3,5,HOU 5,24,34,"Penalty on Mitchell Schwartz: False Start, 5 yards (no play)",4.260,3.130
+3,4:51,3,10,HOU 10,24,34,"Patrick Mahomes pass incomplete short right. Penalty on Zach Cunningham: Defensive Holding, 5 yards (no play)",3.130,6.060
+3,4:43,1,5,HOU 5,24,40,"Damien Williams up the middle for 5 yards, touchdown",6.060,7.000
+3,4:39,,,HOU 15,24,41,Harrison Butker kicks extra point good,0.000,0.000
+3,4:39,,,KAN 35,24,41,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+3,4:39,1,10,HOU 25,24,41,Deshaun Watson pass complete deep right to DeAndre Hopkins for 21 yards (tackle by Anthony Hitchens),0.610,1.990
+3,4:10,1,10,HOU 46,24,41,Deshaun Watson pass incomplete short left intended for Carlos Hyde,1.990,1.450
+3,4:02,2,10,HOU 46,24,41,Deshaun Watson pass complete short middle to Kenny Stills for 11 yards (tackle by Rashad Fenton),1.450,2.720
+3,3:19,1,10,KAN 43,24,41,Carlos Hyde left tackle for 4 yards (tackle by Frank Clark),2.720,2.720
+3,2:42,2,6,KAN 39,24,41,Deshaun Watson pass incomplete deep left,2.720,2.010
+3,2:34,3,6,KAN 39,24,41,Deshaun Watson pass complete short right to DeAndre Hopkins for 9 yards (tackle by Bashaud Breeland),2.010,3.580
+3,1:52,1,10,KAN 30,24,41,Kenny Stills sacked by Rashad Fenton for -14 yards,3.580,1.140
+3,1:10,2,24,KAN 44,24,41,Deshaun Watson pass complete deep left to Will Fuller for 39 yards (tackle by Rashad Fenton),1.140,6.060
+3,0:29,1,5,KAN 5,30,41,"Deshaun Watson left end for 5 yards, touchdown",6.060,7.000
+3,0:24,,,KAN 15,31,41,Ka'imi Fairbairn kicks extra point good,0.000,0.000
+3,0:24,,,HOU 35,31,41,"Ka'imi Fairbairn kicks off 61 yards, returned by Mecole Hardman for 24 yards (tackle by Brennan Scarlett)",0.000,0.810
+3,0:17,1,10,KAN 28,31,41,Patrick Mahomes pass complete short left to Travis Kelce for 23 yards (tackle by Zach Cunningham),0.810,2.320
+Quarter,Time,Down,ToGo,Location,HOU,KAN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,HOU 49,31,41,Patrick Mahomes pass complete short middle to Mecole Hardman for 13 yards (tackle by Gareon Conley),2.320,3.180
+4,14:22,1,10,HOU 36,31,41,Patrick Mahomes pass complete deep right to Sammy Watkins for 28 yards (tackle by Bradley Roby). Penalty on D.J. Reader: Defensive Offside (Declined),3.180,5.370
+4,13:56,1,8,HOU 8,31,47,"Patrick Mahomes pass complete short left to Blake Bell for 8 yards, touchdown",5.370,7.000
+4,13:52,,,HOU 15,31,48,Harrison Butker kicks extra point good,0.000,0.000
+4,13:52,,,KAN 35,31,48,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+4,13:52,1,10,HOU 25,31,48,Deshaun Watson pass complete short left to Jordan Thomas for 7 yards (tackle by Rashad Fenton),0.610,1.010
+4,13:19,2,3,HOU 32,31,48,Deshaun Watson pass complete deep right to DeAndre Hopkins for 20 yards (tackle by Bashaud Breeland),1.010,2.390
+4,12:34,1,10,KAN 48,31,48,Deshaun Watson pass complete short middle to Carlos Hyde for 6 yards (tackle by Tyrann Mathieu),2.390,2.660
+4,11:57,2,4,KAN 42,31,48,Deshaun Watson pass incomplete deep left intended for DeAndre Hopkins,2.660,1.950
+4,11:49,3,4,KAN 42,31,48,Deshaun Watson pass incomplete short right intended for Kenny Stills,1.950,0.460
+4,11:45,,,,,,Timeout #1 by Houston Texans,,
+4,11:45,4,4,KAN 42,31,48,Deshaun Watson pass incomplete short middle intended for DeAndre Hopkins,0.460,-1.730
+4,11:37,1,10,KAN 42,31,48,Patrick Mahomes pass complete short right to Blake Bell for 7 yards (tackle by Lonnie Johnson),1.730,2.130
+4,10:56,2,3,KAN 49,31,48,Damien Williams right end for 11 yards (tackle by Gareon Conley),2.130,2.920
+4,10:19,1,10,HOU 40,31,48,Damien Williams left end for 26 yards (tackle by Justin Reid),2.920,4.650
+4,9:40,1,10,HOU 14,31,48,Tyreek Hill right end for 4 yards (tackle by Zach Cunningham),4.650,4.710
+4,9:03,2,6,HOU 10,31,48,Patrick Mahomes pass incomplete short right intended for Damien Williams (defended by J.J. Watt),4.710,3.820
+4,8:59,3,6,HOU 10,31,48,Patrick Mahomes pass complete short left to Damien Williams for 4 yards (tackle by Zach Cunningham),3.820,3.010
+4,8:10,4,2,HOU 6,31,51,Harrison Butker 24 yard field goal good,3.010,3.000
+4,8:06,,,KAN 35,31,51,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+4,8:06,1,10,HOU 25,31,51,Deshaun Watson pass incomplete short right intended for Darren Fells (defended by Tyrann Mathieu),0.610,0.060
+4,8:03,2,10,HOU 25,31,51,Deshaun Watson right end for 7 yards (tackle by Bashaud Breeland),0.060,0.300
+4,7:27,3,3,HOU 32,31,51,Deshaun Watson pass incomplete short middle intended for Kenny Stills,0.300,-1.240
+4,7:22,4,3,HOU 32,31,51,Deshaun Watson pass complete short right to Duke Johnson for 6 yards (tackle by Ben Niemann),-1.240,1.470
+4,6:51,1,10,HOU 38,31,51,Deshaun Watson pass incomplete deep middle intended for Darren Fells,1.470,0.920
+4,6:46,2,10,HOU 38,31,51,"Deshaun Watson pass incomplete deep left intended for Will Fuller. Penalty on Tyrann Mathieu: Defensive Pass Interference, 12 yards (no play)",0.920,2.260
+4,6:42,1,10,HOU 50,31,51,Deshaun Watson pass incomplete short right intended for Darren Fells,2.260,1.710
+4,6:35,2,10,HOU 50,31,51,Deshaun Watson sacked by Dorian O'Daniel for -1 yards,1.710,0.890
+4,5:48,3,11,HOU 49,31,51,Deshaun Watson pass complete short left to Darren Fells for 9 yards (tackle by Dorian O'Daniel and Ben Niemann),0.890,0.460
+4,5:01,4,2,KAN 42,31,51,Deshaun Watson pass incomplete short middle intended for DeAndre Hopkins,0.460,-1.730
+4,4:53,1,10,KAN 42,31,51,Damien Williams up the middle for 3 yards (tackle by Zach Cunningham and Benardrick McKinney),1.730,1.590
+4,4:10,2,7,KAN 45,31,51,Damien Williams right end for -3 yards (tackle by Jacob Martin),1.590,0.500
+4,4:03,,,,,,Timeout #2 by Houston Texans,,
+4,4:03,3,10,KAN 42,31,51,Damien Williams left end for 1 yard (tackle by Whitney Mercilus),0.500,-0.520
+4,3:57,,,,,,Timeout #3 by Houston Texans,,
+4,3:57,4,9,KAN 43,31,51,Dustin Colquitt punts 50 yards downed by Byron Pringle,-0.520,0.380
+4,3:49,1,10,HOU 7,31,51,Deshaun Watson pass complete short left to Duke Johnson for 9 yards (tackle by Ben Niemann and Reggie Ragland),-0.380,-0.020
+4,3:23,2,1,HOU 16,31,51,Deshaun Watson pass incomplete deep right intended for Will Fuller (defended by Rashad Fenton),-0.020,-0.370
+4,3:16,3,1,HOU 16,31,51,Deshaun Watson pass complete short right to Will Fuller for 5 yards (tackle by Bashaud Breeland),-0.370,0.340
+4,2:48,1,10,HOU 21,31,51,Deshaun Watson pass incomplete short left intended for Duke Johnson,0.340,-0.200
+4,2:44,2,10,HOU 21,31,51,Deshaun Watson pass complete deep right to Will Fuller for 30 yards (tackle by Daniel Sorensen),-0.200,2.320
+4,2:38,1,10,KAN 49,31,51,Deshaun Watson pass complete short left to Duke Johnson for 1 yard (tackle by Rashad Fenton),2.320,1.920
+4,2:31,2,9,KAN 48,31,51,Deshaun Watson pass complete deep right to DeAndre Carter for 17 yards,1.920,3.510
+4,2:22,1,10,KAN 31,31,51,Deshaun Watson pass complete short right to Darren Fells for 9 yards (tackle by Bashaud Breeland),3.510,4.180
+4,2:02,2,1,KAN 22,31,51,Deshaun Watson pass complete short middle to Taiwan Jones for 14 yards (tackle by Reggie Ragland),4.180,5.370
+4,1:54,1,8,KAN 8,31,51,Deshaun Watson pass incomplete short left intended for Duke Johnson,5.370,4.570
+4,1:47,2,8,KAN 8,31,51,Deshaun Watson pass incomplete short left intended for DeAndre Hopkins (defended by Charvarius Ward),4.570,3.580
+4,1:43,3,8,KAN 8,31,51,Deshaun Watson pass incomplete short right intended for Will Fuller (defended by Bashaud Breeland),3.580,2.950
+4,1:40,4,8,KAN 8,31,51,Deshaun Watson sacked by Frank Clark for -17 yards,2.950,-0.610
+4,1:34,1,10,KAN 25,31,51,Patrick Mahomes kneels for -1 yards,0.610,-0.070
+4,0:52,2,11,KAN 24,31,51,Patrick Mahomes kneels for -1 yards,-0.070,-0.890
+4,0:30,3,12,KAN 23,31,51,Patrick Mahomes kneels for -1 yards,-0.890,-1.900
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

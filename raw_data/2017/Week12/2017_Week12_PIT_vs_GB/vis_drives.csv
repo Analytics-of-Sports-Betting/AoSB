@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,8:14,GNB 40,6,3:29,60,Touchdown
+2,1,2:12,GNB 45,3,0:50,55,Touchdown
+3,2,11:56,GNB 5,3,1:45,5,Punt
+4,2,7:20,GNB 17,6,3:45,19,Punt
+5,2,1:06,GNB 10,3,1:06,19,End of Half
+6,3,15:00,GNB 24,6,2:54,76,Touchdown
+7,3,7:42,PIT 45,7,3:27,6,Missed FG
+8,3,0:50,GNB 25,3,0:57,-6,Punt
+9,4,13:24,GNB 34,3,0:28,-15,Punt
+10,4,8:42,GNB 23,12,6:40,77,Touchdown
+11,4,1:20,GNB 18,3,1:03,1,Punt

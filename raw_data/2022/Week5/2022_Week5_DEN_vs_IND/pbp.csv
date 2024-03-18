@@ -1,0 +1,211 @@
+Quarter,Time,Down,ToGo,Location,IND,DEN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Broncos won the coin toss and deferred, Colts to receive the opening kickoff.",,
+1,15:00,,,DEN 35,0,0,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,IND 25,0,0,Matt Ryan pass incomplete short right intended for Nyheim Hines,0.610,0.060
+1,14:57,2,10,IND 25,0,0,Nyheim Hines left tackle for 3 yards (tackle by Bradley Chubb and Kareem Jackson),0.060,-0.230
+1,14:14,3,7,IND 28,0,0,Matt Ryan pass complete short left to Nyheim Hines for 5 yards (tackle by D.J. Jones and Nik Bonitto),-0.230,-1.180
+1,13:48,4,2,IND 33,0,0,Matt Haack punts 31 yards downed by Deon Jackson,-1.180,-1.330
+1,13:37,1,10,DEN 36,0,0,Melvin Gordon right guard for 3 yards (tackle by DeForest Buckner and E.J. Speed),1.330,1.200
+1,13:24,2,7,DEN 39,0,0,Russell Wilson pass complete short middle to Courtland Sutton for 5 yards (tackle by Rodney McLeod),1.200,1.160
+1,12:43,3,2,DEN 44,0,0,Russell Wilson pass complete short right to Jerry Jeudy for 11 yards (tackle by Kenny Moore),1.160,2.590
+1,12:03,1,10,IND 45,0,0,Russell Wilson pass complete short right to Melvin Gordon for 14 yards (tackle by Bobby Okereke),2.590,3.510
+1,11:28,1,10,IND 31,0,0,Melvin Gordon right guard for no gain (tackle by Byron Cowart),3.510,2.970
+1,10:57,2,10,IND 31,0,0,Russell Wilson scrambles left end for 18 yards (tackle by Rodney McLeod),2.970,4.710
+1,10:18,1,10,IND 13,0,0,Russell Wilson pass incomplete short middle intended for Courtland Sutton,4.710,4.050
+1,10:12,2,10,IND 13,0,0,Melvin Gordon right end for -2 yards (tackle by Kenny Moore),4.050,3.030
+1,9:37,3,12,IND 15,0,0,Russell Wilson pass incomplete short middle intended for Jerry Jeudy (defended by Zaire Franklin),3.030,2.440
+1,9:32,4,12,IND 15,0,3,Brandon McManus 33 yard field goal good,2.440,3.000
+1,9:28,,,DEN 35,0,3,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+1,9:28,1,10,IND 25,0,3,Matt Ryan pass complete short left to Deon Jackson for 21 yards (tackle by Mike Purcell),0.610,1.990
+1,8:44,1,10,IND 46,0,3,Deon Jackson right guard for 5 yards (tackle by Matt Henningsen and Josey Jewell),1.990,2.130
+1,7:59,2,5,DEN 49,0,3,Matt Ryan sacked by D.J. Jones for -6 yards,2.130,0.630
+1,7:16,3,11,IND 45,0,3,Matt Ryan pass complete short right to Deon Jackson for 4 yards (tackle by Josey Jewell and Patrick Surtain),0.630,-0.130
+1,6:33,4,7,IND 49,0,3,"Matt Haack punts 37 yards, fair catch by Montrell Washington at DEN-14",-0.130,0.280
+1,6:25,1,10,DEN 14,0,3,Melvin Gordon right tackle for no gain (tackle by Kenny Moore),-0.280,-0.750
+1,5:56,2,10,DEN 14,0,3,Russell Wilson pass incomplete short middle intended for Eric Saubert,-0.750,-1.400
+1,5:55,3,10,DEN 14,0,3,Russell Wilson sacked by Yannick Ngakoue for -4 yards,-1.400,-2.490
+1,5:23,4,14,DEN 10,0,3,"Corliss Waitman punts 50 yards, fair catch by Isaiah Rodgers at IND-40",-2.490,-1.600
+1,5:15,1,10,IND 40,0,3,Matt Ryan pass incomplete short right intended for Michael Pittman (defended by Caden Sterns),1.600,1.050
+1,5:09,2,10,IND 40,0,3,Deon Jackson left guard for 1 yard (tackle by Josey Jewell and Mike Purcell),1.050,0.500
+1,4:26,3,9,IND 41,0,3,"Matt Ryan pass incomplete short right intended for Kylen Granson. Penalty on Bernhard Raimann: Offensive Holding, 10 yards (declined)",0.500,-0.650
+1,4:22,4,9,IND 41,0,3,"Matt Haack punts 49 yards, returned by Montrell Washington for 3 yards (tackle by Ashton Dulin)",-0.650,0.320
+1,4:12,1,10,DEN 13,0,3,Mike Boone left tackle for 3 yards (tackle by Ben Banogu and DeForest Buckner),-0.320,-0.440
+1,3:34,2,7,DEN 16,0,3,Russell Wilson pass incomplete deep left intended for Jerry Jeudy (defended by Rodney Thomas),-0.440,-1.060
+1,3:25,3,7,DEN 16,0,3,Russell Wilson pass complete short middle to Eric Saubert for 2 yards (tackle by Isaiah Rodgers),-1.060,-2.240
+1,2:52,4,5,DEN 18,0,3,"Corliss Waitman punts 50 yards, recovered by Isaiah Rodgers at IND-32 (tackle by Tyrie Cleveland)",-2.240,-1.070
+1,2:41,1,10,IND 32,0,3,Phillip Lindsay right tackle for 6 yards (tackle by K'Waun Williams and Baron Browning),1.070,1.340
+1,2:06,2,4,IND 38,0,3,Phillip Lindsay left tackle for 2 yards (tackle by D.J. Jones and Jonas Griffith),1.340,0.890
+1,1:14,3,2,IND 40,0,3,"Matt Ryan pass complete short middle to Jelani Woods for no gain (tackle by Caden Sterns). Penalty on Bernhard Raimann: Offensive Holding, 10 yards (accepted) (no play)",0.890,-0.430
+1,0:53,3,12,IND 30,0,3,Matt Ryan sacked by Bradley Chubb for -9 yards,-0.430,-1.960
+1,0:21,4,21,IND 21,0,3,Matt Haack punts 45 yards out of bounds,-1.960,-1.200
+1,0:12,1,10,DEN 34,0,3,Russell Wilson scrambles for 6 yards (tackle by Dayo Odeyingbo),1.200,1.470
+Quarter,Time,Down,ToGo,Location,IND,DEN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,4,DEN 40,0,3,Russell Wilson pass complete short right to Courtland Sutton for 6 yards (tackle by Kenny Moore),1.470,1.990
+2,14:29,1,10,DEN 46,0,3,Russell Wilson pass complete short right to Melvin Gordon for 11 yards (tackle by Zaire Franklin),1.990,2.720
+2,14:01,1,10,IND 43,0,3,Russell Wilson pass complete short left to Albert Okwuegbunam for 5 yards (tackle by Stephon Gilmore),2.720,2.850
+2,13:26,2,5,IND 38,0,3,Melvin Gordon up the middle for 4 yards (tackle by Zaire Franklin and Ifeadi Odenigbo),2.850,2.680
+2,12:41,3,1,IND 34,0,3,Melvin Gordon left guard for 3 yards (tackle by Stephon Gilmore),2.680,3.510
+2,12:03,1,10,IND 31,0,3,"Penalty on Garett Bolles: False Start, 5 yards (accepted) (no play)",3.510,3.180
+2,11:50,1,15,IND 36,0,3,Russell Wilson pass incomplete deep left intended for Courtland Sutton,3.180,2.290
+2,11:46,2,15,IND 36,0,3,Russell Wilson pass incomplete deep left intended for Courtland Sutton,2.290,1.620
+2,11:42,3,15,IND 36,0,3,Russell Wilson pass complete short left to KJ Hamler for 10 yards (tackle by Isaiah Rodgers),1.620,1.790
+2,11:02,4,5,IND 26,0,6,Brandon McManus 44 yard field goal good,1.790,3.000
+2,10:58,,,DEN 35,0,6,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+2,10:58,1,10,IND 25,0,6,Phillip Lindsay left guard for 3 yards (tackle by Bradley Chubb),0.610,0.470
+2,10:27,2,7,IND 28,0,6,Phillip Lindsay left guard for 4 yards (tackle by Bradley Chubb),0.470,0.300
+2,9:49,3,3,IND 32,0,6,Matt Ryan pass complete short middle to Michael Pittman for 15 yards (tackle by Patrick Surtain and Jonas Griffith),0.300,2.060
+2,9:10,1,10,IND 47,0,6,Deon Jackson right guard for 2 yards (tackle by Jonas Griffith and Josey Jewell),2.060,1.790
+2,8:37,2,8,IND 49,0,6,"Matt Ryan pass incomplete deep left intended for Ashton Dulin. Penalty on Bernhard Raimann: Offensive Holding, 10 yards (accepted) (no play)",1.790,0.440
+2,8:24,2,18,IND 39,0,6,"Matt Ryan pass complete short middle to Alec Pierce for 12 yards. Alec Pierce fumbles (forced by Patrick Surtain), recovered by Parris Campbell at DEN-43 (tackle by Patrick Surtain)",0.440,2.720
+2,8:15,1,10,DEN 43,0,6,Phillip Lindsay up the middle for 4 yards (tackle by Matt Henningsen and Caden Sterns),2.720,2.720
+2,6:55,2,6,DEN 39,0,6,Phillip Lindsay right guard for 15 yards (tackle by Kareem Jackson),2.720,3.970
+2,6:30,1,10,DEN 24,0,6,Deon Jackson left guard for no gain (tackle by D.J. Jones),3.970,3.430
+2,5:53,2,10,DEN 24,0,6,Matt Ryan pass short middle intended for Kylen Granson is intercepted by Caden Sterns at DEN-15 and returned for 23 yards (tackle by Deon Jackson),3.430,-1.470
+2,5:39,1,10,DEN 38,0,6,Russell Wilson pass incomplete short left intended for Courtland Sutton (defended by Grover Stewart),1.470,0.920
+2,5:36,2,10,DEN 38,0,6,"Russell Wilson pass incomplete short left intended for Eric Saubert. Penalty on Rodney McLeod: Defensive Pass Interference, 14 yards (accepted) (no play)",0.920,2.390
+2,5:32,1,10,IND 48,0,6,Melvin Gordon right guard for 4 yards (tackle by Grover Stewart),2.390,2.390
+2,4:55,2,6,IND 44,0,6,"Melvin Gordon left end for no gain (tackle by E.J. Speed). Penalty on Andrew Beck: Offensive Holding, 10 yards (accepted) (no play)",2.390,1.040
+2,4:31,2,16,DEN 46,0,6,Russell Wilson pass incomplete short middle intended for Jerry Jeudy,1.040,0.370
+2,4:26,3,16,DEN 46,0,6,Russell Wilson pass complete short left to Mike Boone for 5 yards (tackle by Bobby Okereke),0.370,0.000
+2,3:59,4,11,IND 49,0,6,Corliss Waitman punts 34 yards downed by Jonas Griffith,0.000,0.220
+2,3:48,1,10,IND 15,0,6,Matt Ryan pass complete short middle to Michael Pittman for 10 yards (tackle by Ronald Darby),-0.220,0.610
+2,3:18,1,10,IND 25,0,6,Deon Jackson right guard for 2 yards (tackle by Eyioma Uwazurike and Josey Jewell),0.610,0.330
+2,2:38,2,8,IND 27,0,6,Matt Ryan pass incomplete short right,0.330,-0.360
+2,2:32,3,8,IND 27,0,6,"Matt Ryan pass complete short left to Alec Pierce for 6 yards (tackle by Ronald Darby) Replay Assistant challenged the first down ruling, and the original play was overturned. Matt Ryan pass complete short left to Alec Pierce for 8 yards (tackle by Ronald Darby)",-0.360,1.270
+2,2:12,1,10,IND 35,0,6,Matt Ryan pass complete short left to Phillip Lindsay for 7 yards (tackle by Patrick Surtain),1.270,1.670
+2,2:00,2,3,IND 42,0,6,"Penalty on Bernhard Raimann: False Start, 5 yards (accepted) (no play)",1.670,0.990
+2,2:00,2,8,IND 37,0,6,Matt Ryan pass complete short middle to Michael Pittman for 19 yards (tackle by K'Waun Williams),0.990,2.650
+2,1:39,1,10,DEN 44,0,6,Matt Ryan pass incomplete short left intended for Alec Pierce,2.650,2.110
+2,1:31,2,10,DEN 44,0,6,Matt Ryan pass incomplete short right intended for Parris Campbell (defended by Ronald Darby),2.110,1.420
+2,1:28,,,,,,Timeout #1 by Indianapolis Colts,,
+2,1:28,3,10,DEN 44,0,6,"Matt Ryan pass complete deep left to Ashton Dulin for 18 yards (tackle by Damarri Mathis). Penalty on Baron Browning: Defensive Offside, 5 yards (declined)",1.420,3.840
+2,1:20,1,10,DEN 26,0,6,Matt Ryan pass complete short left to Michael Pittman for 11 yards (tackle by Josey Jewell and Patrick Surtain),3.840,4.580
+2,0:53,1,10,DEN 15,0,6,"Matt Ryan sacked by and Josey Jewell for -18 yards and Dre'Mont Jones for -18 yards. Matt Ryan fumbles (forced by Josey Jewell), recovered by Quenton Nelson at DEN-33 (tackle by Josey Jewell) (tackle by Josey Jewell)",4.580,1.590
+2,0:30,,,,,,Timeout #2 by Indianapolis Colts,,
+2,0:30,2,28,DEN 33,0,6,Matt Ryan sacked by Baron Browning for -10 yards,1.590,-0.360
+2,0:21,,,,,,Timeout #3 by Indianapolis Colts,,
+2,0:21,3,38,DEN 43,0,6,Matt Ryan pass complete short left to Alec Pierce for 10 yards (tackle by Patrick Surtain),-0.360,1.150
+2,0:17,4,28,DEN 33,3,6,Chase McLaughlin 52 yard field goal good,1.150,3.000
+2,0:12,,,IND 35,3,6,"Penalty on E.J. Speed: Offside on Free Kick, 5 yards (accepted) (no play)",0.000,0.000
+2,0:12,,,IND 30,3,6,"Chase McLaughlin kicks off 77 yards, returned by Montrell Washington for 20 yards. Montrell Washington fumbles (forced by Dallis Flowers), recovered by Montrell Washington at DEN-13 (tackle by Dallis Flowers)",0.000,-0.320
+2,0:12,1,10,DEN 13,3,6,Russell Wilson kneels for -1 yards,-0.320,-0.850
+Quarter,Time,Down,ToGo,Location,IND,DEN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,IND 35,3,6,"Chase McLaughlin kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,DEN 25,3,6,Russell Wilson pass complete short right to Eric Saubert for 10 yards (tackle by Zaire Franklin),0.610,1.270
+3,14:18,1,10,DEN 35,3,6,Russell Wilson pass incomplete short right intended for Eric Tomlinson,1.270,0.720
+3,14:17,2,10,DEN 35,3,6,"Russell Wilson sacked by DeForest Buckner for -7 yards. Russell Wilson fumbles (forced by DeForest Buckner), recovered by Russell Wilson at DEN-28 and returned for 7 yards",0.720,-0.890
+3,13:36,3,17,DEN 28,3,6,Russell Wilson pass complete to Mike Boone for 8 yards (tackle by Bobby Okereke),-0.890,-0.980
+3,12:59,4,9,DEN 36,3,6,"Corliss Waitman punts 43 yards, returned by Isaiah Rodgers for 13 yards (tackle by Jacob Bobenmoyer)",-0.980,-1.200
+3,12:48,1,10,IND 34,3,6,Matt Ryan pass complete short left to Alec Pierce for 5 yards (tackle by Damarri Mathis),1.200,1.330
+3,12:15,2,5,IND 39,3,6,Phillip Lindsay left tackle for 2 yards (tackle by Alex Singleton),1.330,0.890
+3,11:38,3,3,IND 41,3,6,Matt Ryan pass complete short middle to Alec Pierce for 13 yards (tackle by Damarri Mathis),0.890,2.520
+3,10:58,1,10,DEN 46,3,6,Deon Jackson left guard for 2 yards (tackle by Jonas Griffith),2.520,2.250
+3,10:19,2,8,DEN 44,3,6,Deon Jackson right guard for 13 yards (tackle by Kareem Jackson and Alex Singleton),2.250,3.510
+3,9:43,1,10,DEN 31,3,6,Deon Jackson left tackle for -1 yards (tackle by DeShawn Williams),3.510,2.830
+3,9:09,2,11,DEN 32,3,6,Matt Ryan pass incomplete short left intended for Phillip Lindsay,2.830,2.150
+3,9:01,3,11,DEN 32,3,6,Matt Ryan pass incomplete short left,2.150,1.240
+3,8:56,4,11,DEN 32,6,6,Chase McLaughlin 51 yard field goal good,1.240,3.000
+3,8:51,,,IND 35,6,6,"Chase McLaughlin kicks off 65 yards, touchback.",0.000,0.610
+3,8:51,1,10,DEN 25,6,6,Devine Ozigbo up the middle for 2 yards (tackle by Isaiah Rodgers),0.610,0.330
+3,8:13,2,8,DEN 27,6,6,Russell Wilson pass complete deep middle to Courtland Sutton for 51 yards (tackle by Rodney Thomas),0.330,4.110
+3,7:18,1,10,IND 22,6,6,Montrell Washington left end for 9 yards (tackle by Bobby Okereke),4.110,5.060
+3,6:44,2,1,IND 13,6,6,Melvin Gordon left guard for 4 yards (tackle by Isaiah Rodgers),5.060,5.140
+3,6:03,1,9,IND 9,6,6,Melvin Gordon left tackle for -1 yards (tackle by Bobby Okereke),5.140,4.190
+3,5:25,2,10,IND 10,6,6,Russell Wilson sacked by DeForest Buckner for -6 yards,4.190,2.850
+3,4:46,3,16,IND 16,6,6,Russell Wilson pass incomplete deep left intended for Eric Saubert,2.850,2.380
+3,4:35,4,16,IND 16,6,6,Brandon McManus 34 yard field goal no good blocked by Grover Stewart,2.380,-0.540
+3,4:30,1,10,IND 24,6,6,Matt Ryan pass incomplete short right,0.540,0.000
+3,4:26,2,10,IND 24,6,6,Matt Ryan pass complete short right to Deon Jackson for -5 yards (tackle by Alex Singleton),0.000,-1.430
+3,4:04,3,15,IND 19,6,6,Matt Ryan pass short middle intended for Michael Pittman is intercepted by Caden Sterns at IND-29 and returned for 2 yards (tackle by Michael Pittman),-1.430,-3.780
+3,3:38,1,10,IND 27,6,6,Russell Wilson pass incomplete short left,3.780,3.230
+3,3:34,2,10,IND 27,6,6,Russell Wilson pass incomplete deep left intended for Andrew Beck (defended by Kenny Moore),3.230,2.540
+3,3:28,3,10,IND 27,6,6,Russell Wilson pass incomplete deep left intended for Jerry Jeudy,2.540,1.670
+3,3:23,4,10,IND 27,6,9,Brandon McManus 45 yard field goal good,1.670,3.000
+3,3:19,,,DEN 35,6,9,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+3,3:19,1,10,IND 25,6,9,Phillip Lindsay left guard for 2 yards (tackle by Alex Singleton and Kareem Jackson),0.610,0.330
+3,2:48,2,8,IND 27,6,9,Phillip Lindsay left tackle for 2 yards (tackle by K'Waun Williams),0.330,-0.100
+3,2:05,3,6,IND 29,6,9,Matt Ryan pass incomplete short middle intended for Michael Pittman (defended by K'Waun Williams),-0.100,-1.440
+3,2:00,4,6,IND 29,6,9,"Matt Haack punts 49 yards, fair catch by Montrell Washington at DEN-22",-1.440,-0.410
+3,1:52,1,10,DEN 22,6,9,Russell Wilson pass complete short middle to Eric Saubert for 7 yards (tackle by Grover Stewart and Zaire Franklin),0.410,0.810
+3,1:16,2,3,DEN 29,6,9,Russell Wilson pass complete short left to Jerry Jeudy for 5 yards (tackle by Stephon Gilmore and Rodney Thomas),0.810,1.200
+3,0:34,1,10,DEN 34,6,9,Russell Wilson pass incomplete short middle intended for Jerry Jeudy (defended by DeForest Buckner),1.200,0.660
+3,0:30,2,10,DEN 34,6,9,Russell Wilson pass complete short left to Mike Boone for 34 yards (tackle by Zaire Franklin),0.660,3.450
+Quarter,Time,Down,ToGo,Location,IND,DEN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,IND 32,6,9,"Penalty on Lloyd Cushenberry: False Start, 5 yards (accepted) (no play)",3.450,3.120
+4,15:00,1,15,IND 37,6,9,Russell Wilson pass incomplete short left intended for Courtland Sutton,3.120,2.230
+4,14:56,2,15,IND 37,6,9,Mike Boone right guard for 2 yards (tackle by Grover Stewart and Zaire Franklin),2.230,1.820
+4,14:17,3,13,IND 35,6,9,Russell Wilson pass deep left intended for KJ Hamler is intercepted by Rodney Thomas at IND-4 and returned for 35 yards (tackle by Jerry Jeudy),1.820,-1.530
+4,14:07,1,10,IND 39,6,9,Deon Jackson right guard for 12 yards (tackle by K'Waun Williams),1.530,2.320
+4,13:27,1,10,DEN 49,6,9,"Phillip Lindsay right tackle for no gain (tackle by Nik Bonitto). Penalty on Danny Pinter: Offensive Holding, 10 yards (accepted) (no play)",2.320,1.660
+4,12:59,1,20,IND 41,6,9,"Matt Ryan pass complete short right to Phillip Lindsay for 6 yards (tackle by Damarri Mathis). Penalty on Alex Singleton: Unnecessary Roughness / Defense, 15 yards (accepted)",1.660,3.050
+4,12:47,1,10,DEN 38,6,9,Deon Jackson left guard for 1 yard (tackle by Baron Browning and Eyioma Uwazurike),3.050,2.640
+4,12:17,2,9,DEN 37,6,9,Deon Jackson up the middle for -1 yards (tackle by Alex Singleton),2.640,1.820
+4,11:22,3,10,DEN 38,6,9,Matt Ryan sacked by and Bradley Chubb for -7 yards and Baron Browning for -7 yards,1.820,0.270
+4,10:52,4,17,DEN 45,6,9,"Matt Haack punts 45 yards, touchback.",0.270,-0.280
+4,10:44,1,10,DEN 20,6,9,Melvin Gordon right guard for 7 yards (tackle by Kenny Moore and Zaire Franklin),0.280,0.680
+4,10:01,2,3,DEN 27,6,9,Russell Wilson sacked by and Dayo Odeyingbo for -7 yards and Yannick Ngakoue for -7 yards,0.680,-0.960
+4,9:22,3,10,DEN 20,6,9,Russell Wilson pass complete short middle to Eric Saubert for 8 yards (tackle by Kenny Moore),-0.960,-1.500
+4,8:44,4,2,DEN 28,6,9,"Corliss Waitman punts 52 yards, returned by Dallis Flowers for 9 yards (tackle by Mike Boone)",-1.500,-0.870
+4,8:33,1,10,IND 29,6,9,"Matt Ryan pass incomplete short right intended for Mo Alie-Cox. Penalty on Baron Browning: Defensive Offside, 5 yards (accepted) (no play)",0.870,1.600
+4,8:27,1,5,IND 34,6,9,Phillip Lindsay left tackle for -2 yards (tackle by Baron Browning),1.600,0.730
+4,7:46,2,7,IND 32,6,9,"Matt Ryan pass incomplete short middle intended for Kylen Granson. Penalty on Braden Smith: Ineligible Downfield Pass, 5 yards (accepted) (no play)",0.730,0.060
+4,7:46,2,12,IND 27,6,9,Matt Ryan pass incomplete deep right intended for Jelani Woods,0.060,-0.630
+4,7:38,3,12,IND 27,6,9,Matt Ryan pass complete short right to Mo Alie-Cox for 7 yards (tackle by Damarri Mathis),-0.630,-1.110
+4,6:57,4,5,IND 34,6,9,"Matt Haack punts 54 yards, returned by Montrell Washington for 3 yards (tackle by Grant Stuard)",-1.110,0.220
+4,6:47,1,10,DEN 15,6,9,Melvin Gordon up the middle for 17 yards (tackle by Isaiah Rodgers and Rodney Thomas),-0.220,1.070
+4,6:04,1,10,DEN 32,6,9,Melvin Gordon left guard for 6 yards (tackle by Dayo Odeyingbo and DeForest Buckner),1.070,1.340
+4,5:24,2,4,DEN 38,6,9,Mike Boone right tackle for 7 yards (tackle by Rodney Thomas and Bobby Okereke),1.340,1.930
+4,4:43,1,10,DEN 45,6,9,Mike Boone right tackle for 18 yards (tackle by Bobby Okereke),1.930,3.120
+4,4:02,1,10,IND 37,6,9,"Penalty on Graham Glasgow: False Start, 5 yards (accepted) (no play)",3.120,2.790
+4,3:58,1,15,IND 42,6,9,Mike Boone left tackle for 3 yards (tackle by DeForest Buckner),2.790,2.300
+4,3:48,2,12,IND 39,6,9,Mike Boone right guard for 4 yards (tackle by DeForest Buckner and Rodney McLeod),2.300,2.150
+4,3:16,,,,,,Timeout #1 by Indianapolis Colts,,
+4,3:16,3,8,IND 35,6,9,Russell Wilson pass complete short right to Courtland Sutton for 7 yards (tackle by Stephon Gilmore),2.150,1.720
+4,3:10,4,1,IND 28,6,9,Russell Wilson pass complete short middle to Eric Saubert for 9 yards (tackle by Bobby Okereke and Zaire Franklin),1.720,4.310
+4,2:26,1,10,IND 19,6,9,Russell Wilson pass complete short left to Courtland Sutton for 5 yards (tackle by Stephon Gilmore),4.310,4.530
+4,2:21,,,,,,Timeout #2 by Indianapolis Colts,,
+4,2:21,2,5,IND 14,6,9,Mike Boone right guard for 1 yard (tackle by Rodney McLeod),4.530,3.960
+4,2:19,,,,,,Timeout #3 by Indianapolis Colts,,
+4,2:19,3,4,IND 13,6,9,Russell Wilson pass short middle intended for Tyrie Cleveland is intercepted by Stephon Gilmore in end zone and returned for no gain,3.960,-0.280
+4,2:13,1,10,IND 20,6,9,Matt Ryan pass complete short right to Alec Pierce for 11 yards (tackle by Alex Singleton),0.280,1.000
+4,2:00,1,10,IND 31,6,9,"Matt Ryan sacked by Bradley Chubb for -1 yards. Matt Ryan fumbles (forced by Bradley Chubb), recovered by Matt Ryan at IND-30",1.000,0.320
+4,1:25,2,11,IND 30,6,9,Matt Ryan pass complete deep right to Alec Pierce for 17 yards,0.320,2.060
+4,1:13,1,10,IND 47,6,9,Matt Ryan pass complete short middle to Parris Campbell for 10 yards (tackle by Essang Bassey and Alex Singleton),2.060,2.720
+4,1:08,,,,,,Timeout #1 by Denver Broncos,,
+4,1:08,1,10,DEN 43,6,9,Matt Ryan pass complete short left to Alec Pierce for 5 yards (tackle by Damarri Mathis),2.720,2.850
+4,0:52,2,5,DEN 38,6,9,"Matt Ryan pass complete short left to Kylen Granson for no gain. Penalty on Jonathan Kongbo: Defensive Offside, 4 yards (accepted) (no play)",2.850,3.390
+4,0:47,2,1,DEN 34,6,9,Deon Jackson up the middle for 17 yards (tackle by Caden Sterns and Kareem Jackson),3.390,4.440
+4,0:33,1,10,DEN 17,6,9,Matt Ryan pass complete short middle to Deon Jackson for 9 yards (tackle by Kareem Jackson),4.440,5.480
+4,0:14,2,1,DEN 8,6,9,Matt Ryan spiked the ball,5.480,4.800
+4,0:13,3,1,DEN 8,6,9,"Penalty on IND: Delay of Game, 5 yards (accepted) (no play)",4.800,3.680
+4,0:13,3,6,DEN 13,6,9,Matt Ryan pass incomplete short middle,3.680,2.590
+4,0:08,,,,,,Timeout #2 by Denver Broncos,,
+4,0:08,4,6,DEN 13,9,9,Chase McLaughlin 31 yard field goal good,2.590,3.000
+4,0:05,,,IND 35,9,9,"Chase McLaughlin kicks off 65 yards, touchback.",0.000,0.610
+4,0:05,1,10,DEN 25,9,9,Russell Wilson kneels for -1 yards,0.610,0.000
+Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime
+Quarter,Time,Down,ToGo,Location,IND,DEN,Detail,EPB,EPA
+,,,,,,,"Colts won the coin toss, Colts to receive the overtime kickoff.",,
+OT,10:00,,,DEN 35,9,9,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+OT,10:00,1,10,IND 25,9,9,Matt Ryan pass complete short right to Phillip Lindsay for 1 yard (tackle by Alex Singleton),0.610,0.200
+OT,9:25,2,9,IND 26,9,9,Matt Ryan pass complete short left to Kylen Granson for 16 yards (tackle by Kareem Jackson),0.200,1.730
+OT,8:49,1,10,IND 42,9,9,Deon Jackson up the middle for 9 yards (tackle by K'Waun Williams and Alex Singleton),1.730,2.400
+OT,8:10,2,1,DEN 49,9,9,Matt Ryan pass complete short right to Parris Campbell for 12 yards (tackle by Caden Sterns),2.400,3.120
+OT,7:37,1,10,DEN 37,9,9,Matt Ryan pass complete short left to Michael Pittman for 4 yards (tackle by Patrick Surtain),3.120,3.110
+OT,7:15,2,6,DEN 33,9,9,Phillip Lindsay right guard for 2 yards (tackle by Eyioma Uwazurike and Bradley Chubb),3.110,2.680
+OT,6:37,3,4,DEN 31,9,9,Matt Ryan scrambles up the middle for 1 yard (tackle by D.J. Jones),2.680,1.480
+OT,5:54,4,3,DEN 30,12,9,Chase McLaughlin 48 yard field goal good,1.480,3.000
+OT,5:50,,,IND 35,12,9,"Chase McLaughlin kicks off 65 yards, touchback.",0.000,0.610
+OT,5:50,1,10,DEN 25,12,9,Russell Wilson pass complete short middle to Melvin Gordon for 24 yards (tackle by Rodney Thomas),0.610,2.190
+OT,5:16,1,10,DEN 49,12,9,Russell Wilson pass complete deep right to Jerry Jeudy for 37 yards (tackle by Isaiah Rodgers),2.190,4.650
+OT,4:33,1,10,IND 14,12,9,Melvin Gordon right tackle for 3 yards (tackle by Zaire Franklin and Dayo Odeyingbo),4.650,4.520
+OT,3:55,2,7,IND 11,12,9,Melvin Gordon left guard for 5 yards (tackle by Rodney McLeod),4.520,4.730
+OT,3:17,3,2,IND 6,12,9,Melvin Gordon left guard for 1 yard (tackle by DeForest Buckner and Bobby Okereke),4.730,3.030
+OT,2:38,,,,,,Timeout #1 by Indianapolis Colts,,
+OT,2:38,,,,,,Timeout #1 by Denver Broncos,,
+OT,2:38,4,1,IND 5,12,9,Russell Wilson pass incomplete short middle intended for Courtland Sutton (defended by Stephon Gilmore),3.030,0.000
+End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime

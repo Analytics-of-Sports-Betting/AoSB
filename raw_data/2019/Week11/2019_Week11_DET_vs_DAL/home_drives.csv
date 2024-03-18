@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,14:49,DAL 28,5,2:16,28,Touchdown
+2,1,11:27,DET 30,3,1:38,6,Punt
+3,1,2:18,DET 25,3,0:57,4,Punt
+4,2,14:10,DET 25,3,1:41,-5,Punt
+5,2,11:03,DAL 45,6,3:17,45,Touchdown
+6,2,4:37,DET 15,4,2:49,16,Punt
+7,2,0:27,DET 15,1,0:27,-8,End of Half
+8,3,15:00,DET 25,10,5:45,75,Touchdown
+9,3,5:00,DET 18,12,6:23,39,Punt
+10,4,7:56,DET 25,5,2:07,75,Touchdown
+11,4,3:44,DET 14,5,1:46,33,Punt

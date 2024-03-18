@@ -1,0 +1,187 @@
+Quarter,Time,Down,ToGo,Location,MIA,DAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Cowboys won the coin toss and deferred, Dolphins to receive the opening kickoff.",,
+1,15:00,,,DAL 35,0,0,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,MIA 25,0,0,Josh Rosen pass complete short right to Allen Hurns for 6 yards (tackle by Chidobe Awuzie),0.610,0.870
+1,14:39,2,4,MIA 31,0,0,Josh Rosen pass incomplete short middle intended for Jakeem Grant,0.870,0.170
+1,14:36,3,4,MIA 31,0,0,Josh Rosen pass complete deep right to DeVante Parker for 40 yards (tackle by Chidobe Awuzie). Penalty on Chidobe Awuzie: Defensive Pass Interference (Declined),0.170,3.640
+1,14:14,1,10,DAL 29,0,0,Josh Rosen pass incomplete short left intended for Kenyan Drake,3.640,3.100
+1,14:09,2,10,DAL 29,0,0,Kenyan Drake up the middle for no gain (tackle by Leighton Vander Esch),3.100,2.410
+1,13:29,3,10,DAL 29,0,0,Josh Rosen pass incomplete deep left intended for Preston Williams,2.410,1.500
+1,13:25,4,10,DAL 29,0,0,Jason Sanders 47 yard field goal no good,1.500,-1.400
+1,13:20,1,10,DAL 37,0,0,Dak Prescott pass complete deep middle to Amari Cooper for 37 yards (tackle by Steven Parker),1.400,3.840
+1,12:49,1,10,MIA 26,0,0,Ezekiel Elliott up the middle for 3 yards (tackle by Samuel Eguavoen),3.840,3.700
+1,12:19,2,7,MIA 23,0,0,Dak Prescott pass complete short right to Amari Cooper for 5 yards,3.700,3.750
+1,11:50,3,2,MIA 18,0,0,Ezekiel Elliott left tackle for 7 yards (tackle by Steven Parker and Taco Charlton),3.750,4.840
+1,11:14,1,10,MIA 11,0,0,Ezekiel Elliott up the middle for 1 yard (tackle by Avery Moss and Christian Wilkins),4.840,4.320
+1,10:40,2,9,MIA 10,0,0,Dak Prescott pass incomplete short right intended for Devin Smith,4.320,3.300
+1,10:35,3,9,MIA 10,0,0,Dak Prescott pass incomplete short middle intended for Jason Witten (defended by Steven Parker),3.300,2.760
+1,10:31,4,9,MIA 10,0,3,Brett Maher 28 yard field goal good,2.760,3.000
+1,10:27,,,DAL 35,0,3,"Brett Maher kicks off 70 yards, returned by Jakeem Grant for 26 yards (tackle by Jamize Olawale)",0.000,0.340
+1,10:21,1,10,MIA 21,0,3,Josh Rosen pass incomplete deep right intended for Allen Hurns (defended by Jeff Heath),0.340,-0.200
+1,10:16,2,10,MIA 21,0,3,Kenyan Drake left end for 2 yards (tackle by Jaylon Smith),-0.200,-0.630
+1,9:36,3,8,MIA 23,0,3,Josh Rosen pass incomplete short left intended for Preston Williams,-0.630,-1.830
+1,9:31,4,8,MIA 23,0,3,"Matt Haack punts 31 yards, fair catch by Cedrick Wilson at DAL-46",-1.830,-1.990
+1,9:23,1,10,DAL 46,0,3,Ezekiel Elliott up the middle for 5 yards (tackle by Davon Godchaux),1.990,2.130
+1,8:50,2,5,MIA 49,0,3,Dak Prescott pass incomplete deep middle intended for Amari Cooper,2.130,1.420
+1,8:45,3,5,MIA 49,0,3,Dak Prescott pass complete short left to Devin Smith for 6 yards (tackle by Eric Rowe),1.420,2.720
+1,8:16,1,10,MIA 43,0,3,"Ezekiel Elliott left end for 12 yards (tackle by Bobby McCain). Penalty on Tyron Smith: Offensive Holding, 10 yards (no play)",2.720,2.060
+1,7:55,1,20,DAL 47,0,3,Dak Prescott pass incomplete deep right intended for Blake Jarwin,2.060,0.830
+1,7:50,2,20,DAL 47,0,3,Dak Prescott pass incomplete deep left intended for Cedrick Wilson,0.830,0.170
+1,7:44,3,20,DAL 47,0,3,Dak Prescott pass complete deep right to Jason Witten for 33 yards (tackle by Steven Parker),0.170,4.240
+1,7:17,1,10,MIA 20,0,3,Ezekiel Elliott left tackle for 13 yards (tackle by Bobby McCain),4.240,5.600
+1,6:35,1,7,MIA 7,0,3,Ezekiel Elliott left guard for 2 yards (tackle by Avery Moss),5.600,5.150
+1,6:02,2,5,MIA 5,0,9,"Dak Prescott pass complete short left to Amari Cooper for 5 yards, touchdown. Penalty on Xavien Howard: Defensive Holding (Declined)",5.150,7.000
+1,5:57,,,MIA 15,0,10,Brett Maher kicks extra point good,0.000,0.000
+1,5:57,,,DAL 35,0,10,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+1,5:57,1,10,MIA 25,0,10,Kenyan Drake right guard for 3 yards (tackle by Leighton Vander Esch),0.610,0.470
+1,5:23,2,7,MIA 28,0,10,Josh Rosen pass complete short middle to Jakeem Grant for 10 yards (tackle by Jourdan Lewis),0.470,1.470
+1,4:46,1,10,MIA 38,0,10,Josh Rosen pass complete short left to Nick O'Leary for 19 yards (tackle by Anthony Brown),1.470,2.720
+1,4:01,1,10,DAL 43,0,10,Josh Rosen pass complete deep right to Preston Williams for 24 yards,2.720,4.310
+1,3:31,1,10,DAL 19,0,10,Josh Rosen pass incomplete short left intended for Preston Williams,4.310,3.750
+1,3:28,2,10,DAL 19,0,10,Josh Rosen pass complete short middle to Preston Williams for 11 yards (tackle by Chidobe Awuzie),3.750,5.370
+1,2:51,1,8,DAL 8,0,10,Kalen Ballage up the middle for 5 yards (tackle by Jaylon Smith),5.370,5.530
+1,2:19,2,3,DAL 3,0,10,Kalen Ballage right guard for no gain (tackle by Leighton Vander Esch and Chidobe Awuzie),5.530,4.720
+1,1:40,3,3,DAL 3,0,10,Kalen Ballage up the middle for no gain (tackle by Darian Thompson),4.720,3.040
+1,0:58,4,3,DAL 3,3,10,Jason Sanders 22 yard field goal good,3.040,3.000
+1,0:53,,,MIA 35,3,10,"Jason Sanders kicks onside no gain, recovered by Ken Webster. Penalty on Ken Webster: Offside on Free Kick, 5 yards (no play)",0.000,0.000
+1,0:53,,,MIA 30,3,10,"Jason Sanders kicks off 70 yards, touchback.",0.000,0.610
+1,0:53,1,10,DAL 25,3,10,Ezekiel Elliott left guard for 5 yards (tackle by Samuel Eguavoen),0.610,0.740
+1,0:20,2,5,DAL 30,3,10,Dak Prescott pass complete short right to Tony Pollard for 8 yards (tackle by Jomal Wiltz),0.740,1.470
+Quarter,Time,Down,ToGo,Location,MIA,DAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,DAL 38,3,10,"Dak Prescott pass deep middle intended for Randall Cobb is intercepted by Bobby McCain at MIA-28 and returned for 21 yards. Bobby McCain fumbles, ball out of bounds at MIA-49 (forced by Randall Cobb)",1.470,-2.190
+2,14:44,1,10,MIA 49,3,10,Kenyan Drake right guard for 4 yards (tackle by Christian Covington),2.190,2.190
+2,14:09,2,6,DAL 47,3,10,Josh Rosen pass incomplete short right intended for Kenyan Drake,2.190,1.490
+2,14:03,3,6,DAL 47,3,10,Josh Rosen pass incomplete short left intended for Preston Williams,1.490,0.130
+2,13:58,4,6,DAL 47,3,10,"Matt Haack punts 39 yards, fair catch by Randall Cobb at DAL-8",0.130,0.380
+2,13:50,1,10,DAL 8,3,10,Ezekiel Elliott right guard for 4 yards (tackle by Vince Biegel and Walt Aikens),-0.380,-0.490
+2,13:14,2,6,DAL 12,3,10,Ezekiel Elliott left tackle for 4 yards (tackle by Davon Godchaux),-0.490,-0.480
+2,12:35,3,2,DAL 16,3,10,Dak Prescott pass complete short right to Amari Cooper for 4 yards (tackle by Xavien Howard),-0.480,0.280
+2,12:06,1,10,DAL 20,3,10,Dak Prescott pass incomplete deep middle intended for Devin Smith,0.280,-0.270
+2,11:58,2,10,DAL 20,3,10,Ezekiel Elliott right tackle for 3 yards (tackle by Samuel Eguavoen),-0.270,-0.560
+2,11:26,3,7,DAL 23,3,10,Dak Prescott pass complete short left to Blake Jarwin for 3 yards (tackle by Johnson Bademosi),-0.560,-1.630
+2,10:47,4,4,DAL 26,3,10,"Chris Jones punts 39 yards, returned by Jakeem Grant for 1 yard (tackle by Justin March-Lillard and Joe Thomas)",-1.630,-1.330
+2,10:33,1,10,MIA 36,3,10,Josh Rosen up the middle for 6 yards (tackle by Christian Covington),1.330,1.600
+2,9:56,2,4,MIA 42,3,10,Kenyan Drake right guard for 2 yards (tackle by Christian Covington and Leighton Vander Esch),1.600,1.160
+2,9:32,3,2,MIA 44,3,10,Kenyan Drake up the middle for 3 yards (tackle by Robert Quinn),1.160,2.060
+2,8:59,1,10,MIA 47,3,10,Kenyan Drake up the middle for 3 yards (tackle by Darian Thompson and Anthony Brown),2.060,1.920
+2,8:24,2,7,MIA 50,3,10,Ryan Fitzpatrick pass complete short right to Kenyan Drake for 4 yards (tackle by Chidobe Awuzie),1.920,1.750
+2,7:49,3,3,DAL 46,3,10,Ryan Fitzpatrick pass complete deep right to Preston Williams for 25 yards (tackle by Chidobe Awuzie),1.750,4.170
+2,7:16,1,10,DAL 21,3,10,Kalen Ballage right guard for no gain (tackle by Joe Thomas and Kerry Hyder),4.170,3.630
+2,6:39,2,10,DAL 21,3,10,Josh Rosen pass complete short right to Jakeem Grant for 6 yards (tackle by Chidobe Awuzie and Jeff Heath),3.630,3.810
+2,5:57,3,4,DAL 15,3,10,Josh Rosen pass incomplete short right intended for Preston Williams (defended by Chidobe Awuzie),3.810,2.520
+2,5:51,4,4,DAL 15,6,10,Jason Sanders 33 yard field goal good,2.520,3.000
+2,5:48,,,MIA 35,6,10,"Jason Sanders kicks off 65 yards, touchback.",0.000,0.610
+2,5:48,1,10,DAL 25,6,10,Dak Prescott pass complete short middle to Tony Pollard for 5 yards (tackle by Jerome Baker),0.610,0.740
+2,5:19,2,5,DAL 30,6,10,Tony Pollard up the middle for 6 yards (tackle by John Jenkins),0.740,1.330
+2,4:36,1,10,DAL 36,6,10,Tony Pollard right end for 6 yards (tackle by Samuel Eguavoen),1.330,1.600
+2,4:01,2,4,DAL 42,6,10,"Dak Prescott pass complete short middle to Randall Cobb for 20 yards (tackle by Samuel Eguavoen). Penalty on Jamize Olawale: Illegal Shift, 5 yards (no play)",1.600,0.930
+2,3:34,2,9,DAL 37,6,10,Dak Prescott pass incomplete short right,0.930,0.230
+2,3:27,3,9,DAL 37,6,10,Dak Prescott pass incomplete deep left intended for Devin Smith,0.230,-0.910
+2,3:18,4,9,DAL 37,6,10,Chris Jones punts 46 yards out of bounds,-0.910,0.060
+2,3:09,1,10,MIA 17,6,10,Josh Rosen pass complete short right to Kenyan Drake for 19 yards (tackle by Leighton Vander Esch and Darian Thompson),-0.060,1.330
+2,2:30,1,10,MIA 36,6,10,Josh Rosen pass complete short left to Mike Gesicki for 5 yards (tackle by Jeff Heath),1.330,1.470
+2,2:00,2,5,MIA 41,6,10,Kenyan Drake left tackle for 5 yards (tackle by Jaylon Smith),1.470,1.990
+2,1:26,1,10,MIA 46,6,10,Josh Rosen pass complete short middle to Jakeem Grant for 5 yards (tackle by Jaylon Smith),1.990,2.130
+2,0:56,2,5,DAL 49,6,10,Josh Rosen pass incomplete short right intended for Jakeem Grant (defended by Anthony Brown),2.130,1.420
+2,0:53,3,5,DAL 49,6,10,"Josh Rosen pass incomplete deep right intended for DeVante Parker. Penalty on Chidobe Awuzie: Defensive Pass Interference, 26 yards (no play)",1.420,4.040
+2,0:48,1,10,DAL 23,6,10,Josh Rosen pass complete short left to Kenyan Drake for 11 yards (tackle by Anthony Brown and Jaylon Smith),4.040,4.780
+2,0:40,,,,,,Timeout #1 by Miami Dolphins,,
+2,0:40,1,10,DAL 12,6,10,Josh Rosen pass incomplete short middle intended for DeVante Parker,4.780,4.100
+2,0:36,2,10,DAL 12,6,10,"Josh Rosen pass incomplete short middle intended for Durham Smythe (defended by Jaylon Smith). Penalty on Jaylon Smith: Defensive Holding, 5 yards (no play)",4.100,5.600
+2,0:31,1,7,DAL 7,6,10,"Kenyan Drake up the middle for no gain (tackle by Jaylon Smith). Kenyan Drake fumbles (forced by Jaylon Smith), recovered by DeMarcus Lawrence at DAL-9 (tackle by Michael Deiter)",5.600,0.380
+2,0:25,1,10,DAL 9,6,10,Ezekiel Elliott up the middle for 11 yards (tackle by Trent Harris),-0.380,0.280
+2,0:19,,,,,,Timeout #1 by Dallas Cowboys,,
+2,0:19,1,10,DAL 20,6,10,Ezekiel Elliott left guard for 14 yards (tackle by Bobby McCain and Samuel Eguavoen),0.280,1.200
+2,0:13,,,,,,Timeout #2 by Dallas Cowboys,,
+2,0:12,1,10,DAL 34,6,10,Dak Prescott pass incomplete short middle intended for Randall Cobb,1.200,0.660
+2,0:08,2,10,DAL 34,6,10,Ezekiel Elliott up the middle for 14 yards (tackle by Johnson Bademosi),0.660,2.130
+2,0:03,,,,,,Timeout #3 by Dallas Cowboys,,
+2,0:03,1,10,DAL 48,6,10,Dak Prescott pass incomplete deep right (defended by Chris Lammons),2.130,1.580
+Quarter,Time,Down,ToGo,Location,MIA,DAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,MIA 35,6,10,"Jason Sanders kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,DAL 25,6,10,Tony Pollard left guard for 1 yard (tackle by Christian Wilkins),0.610,0.200
+3,14:26,2,9,DAL 26,6,10,Dak Prescott pass complete deep left to Randall Cobb for 74 yards. Penalty on Connor Williams: Offensive Holding (Offsetting) (no play),0.200,0.200
+3,14:14,2,9,DAL 26,6,10,Dak Prescott pass complete deep right to Devin Smith for 33 yards (tackle by Johnson Bademosi and Chris Lammons),0.200,2.850
+3,13:36,1,10,MIA 41,6,10,Dak Prescott pass complete short right to Randall Cobb for 20 yards (tackle by Samuel Eguavoen),2.850,4.170
+3,13:08,1,10,MIA 21,6,10,Ezekiel Elliott right guard for 2 yards (tackle by Davon Godchaux),4.170,3.900
+3,12:33,2,8,MIA 19,6,16,"Dak Prescott pass complete deep middle to Amari Cooper for 19 yards, touchdown",3.900,7.000
+3,12:28,,,MIA 15,6,17,Brett Maher kicks extra point good,0.000,0.000
+3,12:28,,,DAL 35,6,17,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+3,12:28,1,10,MIA 25,6,17,Josh Rosen right end for 6 yards (tackle by Robert Quinn),0.610,0.870
+3,11:53,2,4,MIA 31,6,17,Josh Rosen pass complete short right to DeVante Parker for 5 yards (tackle by Chidobe Awuzie and Jaylon Smith),0.870,1.330
+3,11:20,1,10,MIA 36,6,17,Kalen Ballage up the middle for 5 yards (tackle by Jaylon Smith),1.330,1.470
+3,10:49,2,5,MIA 41,6,17,"Penalty on Daniel Kilgore: False Start, 5 yards (no play)",1.470,0.790
+3,10:31,2,10,MIA 36,6,17,Kalen Ballage right end for -2 yards (tackle by DeMarcus Lawrence and Anthony Brown),0.790,-0.160
+3,9:45,3,12,MIA 34,6,17,Josh Rosen sacked by Robert Quinn for -7 yards,-0.160,-1.570
+3,9:10,4,19,MIA 27,6,17,"Matt Haack punts 62 yards, returned by Cedrick Wilson for 13 yards (tackle by Durham Smythe and Samuel Eguavoen)",-1.570,-0.540
+3,8:58,1,10,DAL 24,6,17,Dak Prescott pass complete short right to Jason Witten for 8 yards (tackle by Walt Aikens),0.540,1.080
+3,8:32,2,2,DAL 32,6,17,"Ezekiel Elliott right end for 18 yards (tackle by Samuel Eguavoen). Penalty on La'el Collins: Offensive Holding, 10 yards (no play)",1.080,-0.270
+3,8:00,2,12,DAL 22,6,17,Dak Prescott pass complete short right to Jason Witten for 13 yards (tackle by Walt Aikens),-0.270,1.270
+3,7:13,1,10,DAL 35,6,17,Dak Prescott pass complete short right to Ezekiel Elliott for 2 yards (tackle by Samuel Eguavoen),1.270,0.990
+3,6:36,2,8,DAL 37,6,17,Tony Pollard right end for 12 yards (tackle by Christian Wilkins),0.990,2.190
+3,5:52,1,10,DAL 49,6,17,Tony Pollard right tackle for 2 yards (tackle by Christian Wilkins),2.190,1.920
+3,5:10,2,8,MIA 49,6,17,Dak Prescott pass complete short right to Ezekiel Elliott for 12 yards (tackle by Bobby McCain),1.920,3.120
+3,4:26,1,10,MIA 37,6,17,Dak Prescott pass complete short left to Amari Cooper for 18 yards (tackle by Xavien Howard),3.120,4.310
+3,4:03,1,10,MIA 19,6,17,Ezekiel Elliott up the middle for 11 yards (tackle by Walt Aikens),4.310,5.370
+3,3:36,1,8,MIA 8,6,23,"Dak Prescott right end for 8 yards, touchdown",5.370,7.000
+3,3:30,,,MIA 15,6,24,Brett Maher kicks extra point good,0.000,0.000
+3,3:30,,,DAL 35,6,24,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+3,3:30,1,10,MIA 25,6,24,Josh Rosen pass incomplete short left intended for Preston Williams (defended by Byron Jones) (defended by Chidobe Awuzie),0.610,0.060
+3,3:22,2,10,MIA 25,6,24,Josh Rosen pass complete short left to Jakeem Grant for 6 yards,0.060,0.170
+3,2:45,3,4,MIA 31,6,24,Josh Rosen up the middle for 1 yard (tackle by Jaylon Smith),0.170,-1.240
+3,2:00,4,3,MIA 32,6,24,"Matt Haack punts 48 yards, fair catch by Cedrick Wilson at DAL-20",-1.240,-0.280
+3,1:51,1,10,DAL 20,6,24,Tony Pollard left guard for 2 yards (tackle by Avery Moss),0.280,0.000
+3,1:14,2,8,DAL 22,6,24,Dak Prescott sacked by Taco Charlton for -5 yards,0.000,-1.510
+3,0:27,3,13,DAL 17,6,24,Dak Prescott pass complete short left to Tony Pollard for 12 yards (tackle by Jerome Baker),-1.510,-1.440
+Quarter,Time,Down,ToGo,Location,MIA,DAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,4,1,DAL 29,6,24,"Chris Jones punts 48 yards, muffed catch by Jakeem Grant",-1.440,-0.480
+4,14:49,1,10,MIA 23,6,24,Josh Rosen pass incomplete deep left intended for Jakeem Grant (defended by Anthony Brown),0.480,-0.070
+4,14:41,2,10,MIA 23,6,24,Kenyan Drake right tackle for 7 yards (tackle by Jaylon Smith),-0.070,0.170
+4,13:56,3,3,MIA 30,6,24,Josh Rosen sacked by Maliek Collins for -8 yards,0.170,-1.900
+4,13:18,4,11,MIA 22,6,24,"Matt Haack punts 51 yards, returned by Cedrick Wilson for 16 yards (tackle by Johnson Bademosi). Penalty on Anthony Brown: Roughing the Kicker, 15 yards (no play)",-1.900,1.400
+4,13:05,1,10,MIA 37,6,24,Josh Rosen pass incomplete short left intended for Kalen Ballage (defended by Joe Jackson),1.400,0.860
+4,13:00,2,10,MIA 37,6,24,Josh Rosen pass incomplete short left intended for Preston Williams (defended by Christian Covington),0.860,0.170
+4,12:56,3,10,MIA 37,6,24,"Penalty on Evan Boehm: False Start, 5 yards (no play)",0.170,-0.490
+4,12:56,3,15,MIA 32,6,24,Josh Rosen pass incomplete deep right intended for DeVante Parker (defended by Darian Thompson),-0.490,-1.240
+4,12:47,4,15,MIA 32,6,24,"Matt Haack punts 39 yards out of bounds. Penalty on Byron Jones: Face Mask (15 Yards), 14 yards",-1.240,0.220
+4,12:39,1,10,DAL 15,6,24,Ezekiel Elliott left tackle for 18 yards (tackle by Bobby McCain and Chris Lammons),-0.220,1.140
+4,12:04,1,10,DAL 33,6,24,Ezekiel Elliott right tackle for 6 yards (tackle by Charles Harris and Davon Godchaux),1.140,1.400
+4,11:23,2,4,DAL 39,6,24,Dak Prescott pass complete short left to Randall Cobb for 3 yards (tackle by Chris Lammons),1.400,1.090
+4,10:42,3,1,DAL 42,6,24,Ezekiel Elliott left end for 2 yards (tackle by Walt Aikens),1.090,1.860
+4,10:04,1,10,DAL 44,6,24,Tony Pollard left tackle for 6 yards (tackle by Raekwon McMillan),1.860,2.130
+4,9:24,2,4,DAL 50,6,24,Tony Pollard left guard for 28 yards (tackle by Bobby McCain),2.130,4.110
+4,8:42,1,10,MIA 22,6,24,Ezekiel Elliott right guard for no gain (tackle by Jerome Baker),4.110,3.560
+4,8:10,2,10,MIA 22,6,24,"Dak Prescott pass incomplete short left intended for Blake Jarwin. Penalty on Dalton Schultz: Unnecessary Roughness, 15 yards",3.560,0.890
+4,8:04,3,25,MIA 37,6,24,Dak Prescott pass incomplete short middle intended for Ezekiel Elliott (defended by Jerome Baker),0.890,0.790
+4,7:59,4,25,MIA 37,6,24,Brett Maher 55 yard field goal no good,0.790,-1.930
+4,7:54,1,10,MIA 45,6,24,Jakeem Grant left end for 4 yards (tackle by Anthony Brown),1.930,1.920
+4,7:15,2,6,MIA 49,6,24,Josh Rosen pass incomplete short middle intended for Durham Smythe (defended by Leighton Vander Esch),1.920,1.220
+4,7:12,3,6,MIA 49,6,24,Josh Rosen pass incomplete short left intended for Preston Williams,1.220,-0.130
+4,7:07,4,6,MIA 49,6,24,Josh Rosen pass complete short left to Preston Williams for 8 yards (tackle by Anthony Brown),-0.130,2.720
+4,6:37,1,10,DAL 43,6,24,Josh Rosen sacked by DeMarcus Lawrence for -3 yards,2.720,1.770
+4,6:07,2,13,DAL 46,6,24,Kenyan Drake up the middle for 8 yards (tackle by Joe Thomas),1.770,2.150
+4,5:39,3,5,DAL 38,6,24,Josh Rosen pass incomplete short left intended for Kenyan Drake,2.150,0.720
+4,5:35,4,5,DAL 38,6,24,Josh Rosen pass complete short left to Mike Gesicki for -1 yards (tackle by Leighton Vander Esch and Jeff Heath),0.720,-1.600
+4,5:27,1,10,DAL 40,6,24,Tony Pollard up the middle for 6 yards (tackle by Samuel Eguavoen),1.600,1.860
+4,4:55,2,4,DAL 46,6,24,Tony Pollard right end for 11 yards (tackle by Raekwon McMillan),1.860,2.720
+4,4:11,1,10,MIA 43,6,24,Tony Pollard left tackle for 1 yard (tackle by Raekwon McMillan),2.720,2.310
+4,4:05,,,,,,Timeout #1 by Miami Dolphins,,
+4,4:04,2,9,MIA 42,6,24,"Tony Pollard left tackle for no gain (tackle by Raekwon McMillan). Penalty on Taco Charlton: Defensive Offside, 5 yards (no play)",2.310,2.990
+4,4:00,2,4,MIA 37,6,24,"Tony Pollard up the middle for 6 yards (tackle by Christian Wilkins). Penalty on Xavien Howard: Disqualification, 15 yards",2.990,4.510
+4,3:50,1,10,MIA 16,6,30,"Tony Pollard left end for 16 yards, touchdown",4.510,7.000
+4,3:45,,,MIA 15,6,31,Brett Maher kicks extra point good,0.000,0.000
+4,3:45,,,DAL 35,6,31,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+4,3:45,1,10,MIA 25,6,31,Josh Rosen pass incomplete short middle intended for Kalen Ballage,0.610,0.060
+4,3:38,2,10,MIA 25,6,31,Josh Rosen pass complete short right to Kalen Ballage for 10 yards (tackle by Joe Thomas),0.060,1.270
+4,3:03,1,10,MIA 35,6,31,Kalen Ballage right guard for 6 yards (tackle by Kavon Frazier),1.270,1.530
+4,2:30,2,4,MIA 41,6,31,Josh Rosen pass complete short middle to DeVante Parker for 11 yards (tackle by Joe Thomas),1.530,2.390
+4,2:00,1,10,DAL 48,6,31,Kalen Ballage left tackle for 3 yards (tackle by Kavon Frazier),2.390,2.250
+4,1:27,2,7,DAL 45,6,31,Josh Rosen pass complete short left to Mike Gesicki for 5 yards (tackle by Joe Thomas),2.250,2.210
+4,0:49,3,2,DAL 40,6,31,Josh Rosen pass incomplete deep left intended for DeVante Parker,2.210,0.590
+4,0:43,4,2,DAL 40,6,31,Kenyan Drake up the middle for 1 yard (tackle by Joe Jackson),0.590,-1.530
+4,0:38,1,10,DAL 39,6,31,Dak Prescott kneels for -1 yards,1.530,0.850
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

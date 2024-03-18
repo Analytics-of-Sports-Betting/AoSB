@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,NYJ 23,11,6:20,77,Touchdown
+2,1,7:39,NYJ 6,3,1:25,4,Punt
+3,1,4:36,NYJ 23,7,4:05,32,Punt
+4,2,13:40,NYJ 35,3,1:56,0,Punt
+5,2,11:06,KAN 38,3,1:04,38,Touchdown
+6,2,8:23,NYJ 31,9,4:27,69,Touchdown
+7,2,2:32,KAN 35,4,1:17,35,Touchdown
+8,3,13:07,NYJ 21,3,1:38,4,Punt
+9,3,8:14,NYJ 10,6,4:08,90,Touchdown
+10,3,2:24,NYJ 10,3,1:36,5,Punt
+11,4,12:58,KAN 38,4,1:31,-7,Fumble
+12,4,9:27,NYJ 13,7,5:44,39,Punt
+13,4,3:37,NYJ 40,3,2:31,4,Punt

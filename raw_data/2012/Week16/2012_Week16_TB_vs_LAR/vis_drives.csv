@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,5:22,STL 20,2,0:39,-3,Fumble
+2,1,4:43,STL 5,11,5:33,64,Interception
+3,2,5:56,STL 20,3,1:02,0,Punt
+4,2,3:30,STL 35,9,2:58,65,Touchdown
+5,3,15:00,STL 20,1,0:14,80,Touchdown
+6,3,13:58,TAM 30,6,3:11,30,Touchdown
+7,3,8:50,STL 6,3,2:02,6,Punt
+8,3,1:37,STL 5,3,1:03,3,Punt
+9,3,0:07,STL 18,3,0:25,-1,Punt
+10,4,12:08,STL 3,5,2:54,34,Punt
+11,4,7:55,TAM 39,3,2:23,-7,Punt
+12,4,2:26,STL 24,3,0:34,7,Punt
+13,4,1:03,TAM 31,2,1:03,-1,End of Game

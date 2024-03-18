@@ -1,0 +1,178 @@
+Quarter,Time,Down,ToGo,Location,PHI,NOR,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Eagles won the coin toss, Eagles to receive the opening kickoff.",,
+1,15:00,,,NOR 35,0,0,"Thomas Morstead kicks off 65 yards, touchback",0.000,0.280
+1,15:00,1,10,PHI 20,0,0,Michael Vick pass incomplete deep right intended for DeSean Jackson,0.280,-0.270
+1,14:54,2,10,PHI 20,0,0,Michael Vick pass complete short right to DeSean Jackson for 18 yards (tackle by Jabari Greer),-0.270,1.470
+1,14:17,1,10,PHI 38,0,0,LeSean McCoy for no gain (tackle by Jonathan Casillas),1.470,0.920
+1,13:46,2,10,PHI 38,0,0,LeSean McCoy left tackle for 4 yards (tackle by Cameron Jordan and Sedrick Ellis),0.920,0.760
+1,13:04,3,6,PHI 42,0,0,Michael Vick pass complete short right to Clay Harbor for 6 yards (tackle by Curtis Lofton),0.760,2.130
+1,12:24,1,10,PHI 48,0,0,Michael Vick pass incomplete deep middle intended for Brent Celek,2.130,1.580
+1,12:16,2,10,PHI 48,0,0,Michael Vick pass incomplete short right intended for Jeremy Maclin,1.580,0.000
+1,12:11,,,,0,0,Timeout #1 by Philadelphia Eagles,0.000,0.890
+1,12:11,3,10,PHI 48,0,0,Michael Vick pass complete short middle to Jason Avant for 13 yards (tackle by Malcolm Jenkins),0.890,2.980
+,,,,,,,"NOR challenged the pass completion ruling, and the play was upheld.",,
+1,11:41,1,10,NOR 39,0,0,Bryce Brown left end for 1 yard (tackle by Malcolm Jenkins),2.980,2.580
+1,11:06,2,9,NOR 38,0,0,LeSean McCoy right guard for 2 yards (tackle by Cameron Jordan and Jonathan Casillas),2.580,2.150
+1,10:27,3,7,NOR 36,0,0,"Michael Vick sacked by Martez Wilson for -6 yards. Penalty on Martez Wilson: Roughing the Passer, 15 yards",2.150,3.780
+1,10:11,1,10,NOR 27,0,0,Michael Vick sacked by Brodrick Bunkley for -3 yards,3.780,2.830
+1,9:35,2,13,NOR 30,0,0,"Michael Vick sacked by Cameron Jordan for -12 yards. Michael Vick fumbles (forced by Cameron Jordan), recovered by Todd Herremans at PHI-48",2.830,-0.760
+1,8:45,3,35,PHI 48,0,0,LeSean McCoy up the middle for 6 yards (tackle by Roman Harper and Martez Wilson),-0.760,0.200
+1,8:04,4,29,NOR 46,0,0,"Mat McBriar punts 46 yards, touchback",0.200,-0.280
+1,7:55,1,10,NOR 20,0,0,Mark Ingram right guard for -3 yards (tackle by Trent Cole),0.280,-0.790
+1,7:22,2,13,NOR 17,0,0,"Penalty on David Thomas: False Start, 5 yards (no play)",-0.790,-1.360
+1,6:40,2,18,NOR 12,0,0,Drew Brees pass complete short right to Jimmy Graham for 9 yards (tackle by David Sims),-1.360,-0.820
+1,6:25,3,9,NOR 21,0,0,Drew Brees pass complete deep middle to Lance Moore for 38 yards (tackle by Brandon Boykin). Penalty on Brandon Boykin: Defensive Pass Interference (Declined),-0.820,2.850
+1,6:04,1,10,PHI 41,0,0,Drew Brees pass incomplete short left intended for Pierre Thomas,2.850,2.310
+1,6:00,2,10,PHI 41,0,0,Pierre Thomas up the middle for 7 yards (tackle by Phillip Hunt),2.310,2.540
+1,5:26,3,3,PHI 34,0,0,Drew Brees pass incomplete short middle intended for Jimmy Graham,2.540,1.090
+1,5:21,4,3,PHI 34,0,0,Garrett Hartley 52 yard field goal no good,1.090,-1.730
+1,5:16,1,10,PHI 42,0,0,Michael Vick pass complete short left to DeSean Jackson for 5 yards (tackle by Malcolm Jenkins),1.730,1.860
+1,4:52,2,5,PHI 47,0,0,LeSean McCoy right tackle for 8 yards (tackle by Curtis Lofton),1.860,2.590
+1,4:18,1,10,NOR 45,0,0,Bryce Brown left end for 40 yards (tackle by Malcolm Jenkins),2.590,6.060
+1,3:33,1,5,NOR 5,0,0,LeSean McCoy left end for -1 yards (tackle by Jonathan Vilma and Will Smith),6.060,4.950
+1,2:51,2,6,NOR 6,0,6,"Michael Vick pass incomplete short left intended for Brent Celek is intercepted by Patrick Robinson at NOR-1 and returned for 99 yards, touchdown. Penalty on Michael Vick: Low Block, 15 yards",4.950,-7.000
+1,,,,PHI 2,0,7,Garrett Hartley kicks extra point good,0.000,0.000
+1,2:36,,,,0,7,"Thomas Morstead kicks off 50 yards, touchback",0.000,0.280
+1,2:36,1,10,PHI 20,0,7,Michael Vick pass complete short right to Brent Celek for 5 yards (tackle by Jonathan Casillas and Roman Harper),0.280,0.410
+1,1:58,2,5,PHI 25,0,7,LeSean McCoy left end for 13 yards (tackle by Roman Harper and Jabari Greer),0.410,1.470
+1,1:30,1,10,PHI 38,0,7,"LeSean McCoy left tackle for 25 yards (tackle by Roman Harper). Penalty on Jeremy Maclin: Illegal Block Above the Waist, 10 yards",1.470,2.460
+1,1:01,1,10,NOR 47,0,7,Bryce Brown left end for 8 yards (tackle by Scott Shanle),2.460,2.990
+1,0:29,2,2,NOR 39,0,7,LeSean McCoy left tackle for -1 yards (tackle by Jonathan Vilma),2.990,2.150
+Quarter,Time,Down,ToGo,Location,PHI,NOR,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,3,NOR 40,0,7,Michael Vick pass complete short left to Clay Harbor for 2 yards (tackle by Jonathan Vilma),2.150,0.720
+2,14:17,4,1,NOR 38,0,7,LeSean McCoy right end for 34 yards (tackle by Martez Wilson and Malcolm Jenkins),0.720,6.280
+2,13:30,1,4,NOR 4,0,7,Bryce Brown right tackle for no gain (tackle by Akiem Hicks and Malcolm Jenkins),6.280,5.340
+2,12:51,2,4,NOR 4,0,7,Michael Vick pass complete short middle to LeSean McCoy for no gain,5.340,4.490
+2,12:10,3,4,NOR 4,0,7,Michael Vick pass incomplete short middle intended for DeSean Jackson,4.490,3.030
+2,12:07,4,4,NOR 4,3,7,Alex Henery 22 yard field goal good,3.030,3.000
+2,12:03,,,PHI 35,3,7,"Alex Henery kicks off 71 yards, returned by Travaris Cadet for 30 yards (tackle by Stanley Havili)",0.000,0.540
+2,11:56,1,10,NOR 24,3,7,Chris Ivory right end for 9 yards (tackle by Kurt Coleman and Mike Patterson),0.540,1.210
+2,11:18,2,1,NOR 33,3,7,Drew Brees pass incomplete deep right intended for Devery Henderson (defended by Nnamdi Asomugha),1.210,0.500
+2,11:10,3,1,NOR 33,3,7,Mark Ingram right guard for 5 yards (tackle by Akeem Jordan),0.500,1.470
+2,10:27,1,10,NOR 38,3,7,Mark Ingram right guard for 23 yards (tackle by Kurt Coleman and Jason Babin),1.470,2.980
+2,9:37,1,10,PHI 39,3,7,Drew Brees pass complete short right to Jimmy Graham for 9 yards (tackle by David Sims),2.980,3.660
+2,9:04,2,1,PHI 30,3,7,Drew Brees pass complete short right to Jimmy Graham for 8 yards (tackle by Mychal Kendricks),3.660,4.110
+2,8:40,1,10,PHI 22,3,13,"Chris Ivory right end for 22 yards, touchdown",4.110,7.000
+2,8:40,,,PHI 2,3,14,Garrett Hartley kicks extra point good,0.000,0.000
+2,8:33,,,NOR 35,3,14,"Thomas Morstead kicks off 65 yards, touchback",0.000,0.280
+2,8:33,1,10,PHI 20,3,14,LeSean McCoy right end for 5 yards (tackle by Curtis Lofton and Sedrick Ellis),0.280,0.410
+2,7:57,2,5,PHI 25,3,14,Michael Vick for 6 yards (tackle by Tom Johnson),0.410,1.000
+2,7:29,1,10,PHI 31,3,14,Michael Vick pass complete short middle to Clay Harbor for 12 yards (tackle by Malcolm Jenkins),1.000,1.800
+2,6:55,1,10,PHI 43,3,14,LeSean McCoy right guard for 7 yards (tackle by Malcolm Jenkins and Martez Wilson),1.800,2.200
+2,6:19,2,3,,3,14,"Bryce Brown left end for no gain (tackle by Jabari Greer). Penalty on Riley Cooper: Illegal Blindside Block, 15 yards (no play)",2.200,0.170
+2,5:57,2,18,PHI 35,3,14,Michael Vick pass complete short right to Stanley Havili for 7 yards (tackle by Corey White),0.170,0.430
+2,5:11,3,11,PHI 42,3,14,Michael Vick pass incomplete short right intended for Jason Avant,0.430,-0.590
+2,5:07,4,11,PHI 42,3,14,"Mat McBriar punts 32 yards, fair catch by Travaris Cadet",-0.590,-0.670
+2,4:59,1,10,NOR 26,3,14,Mark Ingram right end for 7 yards (tackle by DeMeco Ryans),0.670,1.070
+2,4:34,2,3,NOR 33,3,14,Drew Brees pass complete short middle to Jimmy Graham for 13 yards (tackle by David Sims),1.070,1.990
+2,4:02,1,10,NOR 46,3,14,"Drew Brees pass incomplete short right intended for Lance Moore. Penalty on Zach Strief: Offensive Holding (Offsetting), Penalty on Dominique Rodgers-Cromartie: Defensive Pass Interference (Offsetting) (no play)",1.990,1.990
+2,3:56,1,10,NOR 46,3,14,Chris Ivory right end for 8 yards (tackle by Jason Babin and Akeem Jordan),1.990,2.530
+2,3:18,2,2,PHI 46,3,14,Drew Brees pass complete short left to Jimmy Graham for 17 yards (tackle by Kurt Coleman),2.530,3.640
+2,2:36,1,10,PHI 29,3,14,Pierre Thomas left end for 19 yards (tackle by David Sims and Cullen Jenkins),3.640,4.910
+2,2:00,1,10,PHI 10,3,14,Pierre Thomas left guard for 9 yards (tackle by David Sims and Trent Cole),4.910,5.910
+2,1:18,2,1,PHI 1,3,20,"Drew Brees pass complete short right to Marques Colston for 1 yard, touchdown",5.910,7.000
+2,1:18,,,PHI 2,3,21,Garrett Hartley kicks extra point good,0.000,0.000
+2,1:13,,,NOR 35,3,21,"Thomas Morstead kicks off 73 yards, touchback",0.000,0.280
+2,1:13,1,10,PHI 20,3,21,Michael Vick pass incomplete short middle intended for Brent Celek (defended by Isa Abdul-Quddus),0.280,-0.270
+2,1:08,2,10,PHI 20,3,21,Michael Vick pass complete short right to Jason Avant for 4 yards (tackle by Jabari Greer),-0.270,0.000
+2,0:59,,,,3,21,Timeout #2 by New Orleans Saints,0.000,-0.430
+2,0:59,3,6,PHI 24,3,21,Michael Vick pass incomplete short left intended for Jason Avant,-0.430,-1.770
+2,0:55,4,6,PHI 24,3,21,"Mat McBriar punts 55 yards, returned by Lance Moore for 5 yards (tackle by Jamar Chaney)",-1.770,-0.670
+2,0:43,1,10,NOR 26,3,21,Drew Brees pass complete short middle to Marques Colston for 11 yards (tackle by Kurt Coleman),0.670,1.400
+2,0:23,1,10,NOR 37,3,21,Drew Brees pass incomplete short left intended for Devery Henderson,1.400,0.860
+2,0:18,2,10,NOR 37,3,21,Drew Brees pass complete short right to Pierre Thomas for 4 yards (tackle by Cullen Jenkins),0.860,0.700
+2,0:16,3,6,NOR 41,3,21,Drew Brees pass incomplete short left intended for Jimmy Graham,0.700,-0.650
+2,0:11,4,6,NOR 41,3,21,"Thomas Morstead punts 37 yards, out of bounds",-0.650,-0.410
+2,0:04,1,10,PHI 22,3,21,LeSean McCoy left tackle for -1 yards (tackle by Sedrick Ellis),0.410,-0.270
+Quarter,Time,Down,ToGo,Location,PHI,NOR,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PHI 35,3,21,"Alex Henery kicks off 70 yards, returned by Travaris Cadet for 27 yards (tackle by Jamar Chaney)",0.000,0.410
+3,14:54,1,10,NOR 22,3,21,Drew Brees pass complete short right to Chris Ivory for 2 yards (tackle by Jason Babin),0.410,0.140
+3,14:27,2,8,NOR 24,3,21,Mark Ingram left guard for 3 yards (tackle by Trent Cole),0.140,-0.160
+3,13:51,3,5,NOR 27,3,21,Drew Brees pass complete short right to Jimmy Graham for 9 yards (tackle by David Sims),-0.160,1.330
+3,13:13,1,10,NOR 36,3,21,Chris Ivory left guard for no gain (tackle by Phillip Hunt),1.330,0.790
+3,12:40,2,10,NOR 36,3,21,Drew Brees pass complete short left to Marques Colston for 13 yards (tackle by Kurt Coleman),0.790,2.190
+3,12:01,1,10,NOR 49,3,21,"Travaris Cadet left end for 5 yards (tackle by Curtis Marsh). Penalty on Marques Colston: Offensive Holding, 10 yards",2.190,1.860
+3,11:10,1,15,NOR 44,3,21,Drew Brees pass complete short left to Pierre Thomas for 22 yards (tackle by Mychal Kendricks),1.860,3.310
+3,10:51,1,10,PHI 34,3,21,Pierre Thomas left end for 4 yards (tackle by Trent Cole),3.310,3.310
+3,10:14,2,6,PHI 30,3,21,Drew Brees pass incomplete short left intended for Jimmy Graham (defended by David Sims),3.310,2.610
+3,10:08,3,6,PHI 30,3,21,Drew Brees pass complete short right to Marques Colston for 21 yards (tackle by David Sims),2.610,5.140
+3,9:39,1,9,PHI 9,3,21,"Drew Brees sacked by Brandon Graham for -8 yards. Drew Brees fumbles (forced by Brandon Graham), recovered by Brandon Graham at PHI-17 (tackle by Ben Grubbs)",5.140,0.060
+3,9:31,1,10,PHI 17,3,21,Michael Vick pass complete short right to Jeremy Maclin for 6 yards (tackle by Jabari Greer),-0.060,0.350
+3,8:56,2,4,PHI 23,9,21,"Michael Vick pass complete deep right to DeSean Jackson for 77 yards, touchdown",0.350,7.000
+3,8:56,,,NOR 2,10,21,Alex Henery kicks extra point good,0.000,0.000
+3,8:42,,,PHI 35,10,21,"Alex Henery kicks off 66 yards, returned by Travaris Cadet for 23 yards (tackle by Chris Polk). Travaris Cadet fumbles (forced by Chris Polk), recovered by Brandon Hughes at NOR-22 (tackle by Martez Wilson)",0.000,-4.110
+3,8:34,1,10,NOR 22,10,21,Michael Vick left end for 14 yards (tackle by Roman Harper),4.110,5.370
+3,7:52,1,8,NOR 8,10,21,Michael Vick pass incomplete,5.370,4.570
+3,7:45,2,8,NOR 8,10,21,Michael Vick sacked by Will Smith for -11 yards,4.570,2.490
+3,7:11,3,19,NOR 19,10,21,Michael Vick pass incomplete deep right intended for Jeremy Maclin,2.490,2.180
+3,7:04,4,19,NOR 19,13,21,Alex Henery 37 yard field goal good,2.180,3.000
+3,7:00,,,PHI 35,13,21,"Alex Henery kicks off 73 yards, returned by Pierre Thomas for 38 yards (tackle by Brandon Boykin)",0.000,0.940
+3,6:53,1,10,NOR 30,13,21,Chris Ivory right end for -2 yards (tackle by Nnamdi Asomugha and DeMeco Ryans),0.940,0.120
+3,6:19,2,12,NOR 28,13,21,Drew Brees pass complete short middle to Mark Ingram for 16 yards (tackle by DeMeco Ryans and Akeem Jordan),0.120,1.860
+3,5:42,1,10,NOR 44,13,21,Drew Brees pass complete short right to Devery Henderson for 8 yards (tackle by Dominique Rodgers-Cromartie),1.860,2.400
+3,5:16,2,2,PHI 48,13,21,Chris Ivory right tackle for -5 yards (tackle by David Sims),2.400,1.030
+3,4:34,3,7,NOR 47,13,21,Drew Brees pass complete deep middle to Lance Moore for 23 yards (tackle by Dominique Rodgers-Cromartie),1.030,3.580
+3,3:53,1,10,PHI 30,13,21,Mark Ingram right end for 7 yards (tackle by Dominique Rodgers-Cromartie),3.580,3.980
+3,3:15,2,3,PHI 23,13,21,Drew Brees pass complete short left to Mark Ingram for 7 yards (tackle by Akeem Jordan),3.980,4.510
+3,2:38,1,10,PHI 16,13,21,Pierre Thomas right guard for 3 yards (tackle by Brandon Graham and Cedric Thornton),4.510,4.390
+3,2:08,2,7,PHI 13,13,21,"Drew Brees pass incomplete short middle intended for Lance Moore. Penalty on Mychal Kendricks: Defensive Holding, 5 yards (no play)",4.390,5.370
+3,2:03,1,8,PHI 8,13,21,Pierre Thomas right guard for 2 yards (tackle by DeMeco Ryans and Trent Cole),5.370,4.950
+3,1:26,2,6,PHI 6,13,27,"Drew Brees pass complete short right to Jimmy Graham for 6 yards, touchdown",4.950,7.000
+3,1:26,,,PHI 2,13,28,Garrett Hartley kicks extra point good,0.000,0.000
+3,1:20,,,NOR 35,13,28,"Thomas Morstead kicks off 72 yards, returned by Brandon Boykin for 13 yards, lateral to Riley Cooper for no gain. Penalty on Brandon Boykin: Illegal Forward Pass, 3 yards",0.000,-0.380
+3,1:05,1,10,PHI 3,13,28,LeSean McCoy right guard for 2 yards (tackle by Malcolm Jenkins),-0.380,-0.630
+3,1:05,2,8,PHI 5,13,28,Michael Vick pass incomplete,-0.630,0.000
+3,0:25,,,,13,28,Timeout #1 by Philadelphia Eagles,0.000,-1.190
+3,0:25,3,8,PHI 5,13,28,Michael Vick pass complete deep left to Jeremy Maclin for 22 yards (tackle by Isa Abdul-Quddus),-1.190,0.740
+Quarter,Time,Down,ToGo,Location,PHI,NOR,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,PHI 27,13,28,LeSean McCoy right guard for 4 yards (tackle by Tom Johnson),0.740,0.740
+4,14:28,2,6,PHI 31,13,28,Michael Vick sacked by Cameron Jordan for -2 yards,0.740,-0.230
+4,13:51,3,8,PHI 29,13,28,Michael Vick pass complete short left to Jason Avant for 10 yards (tackle by Patrick Robinson),-0.230,1.530
+4,13:28,1,10,PHI 39,13,28,LeSean McCoy left guard for 5 yards (tackle by Johnny Patrick),1.530,1.660
+4,12:54,2,5,PHI 44,13,28,Michael Vick sacked by Will Smith for -5 yards,1.660,0.300
+4,12:21,3,10,PHI 39,13,28,Michael Vick pass incomplete deep middle intended for Riley Cooper (defended by Jabari Greer),0.300,-0.780
+4,12:15,4,10,PHI 39,13,28,"Mat McBriar punts 45 yards, fair catch by Lance Moore",-0.780,0.140
+4,12:08,1,10,NOR 16,13,28,Chris Ivory right end for 9 yards (tackle by Trent Cole and Fletcher Cox),-0.140,0.690
+4,11:28,2,1,NOR 25,13,28,Chris Ivory right tackle for 2 yards (tackle by Mychal Kendricks),0.690,0.740
+4,10:47,1,10,NOR 27,13,28,Drew Brees pass complete short right to Jed Collins for 1 yard (tackle by Mychal Kendricks),0.740,0.330
+4,10:07,2,9,NOR 28,13,28,Chris Ivory right guard for -1 yards (tackle by Fletcher Cox and Mychal Kendricks),0.330,-0.490
+4,9:32,3,10,NOR 27,13,28,"Drew Brees sacked by Jason Babin for -5 yards. Drew Brees fumbles (forced by Jason Babin), recovered by Pierre Thomas at NOR-28",-0.490,-1.500
+4,8:52,4,9,NOR 28,13,28,"Thomas Morstead punts 46 yards, fair catch by Damaris Johnson",-1.500,-0.670
+4,8:45,1,10,PHI 26,13,28,LeSean McCoy right guard for no gain (tackle by Tom Johnson),0.670,0.130
+4,8:16,2,10,PHI 26,13,28,Michael Vick right end for 8 yards (tackle by Corey White),0.130,0.500
+4,7:41,3,2,PHI 34,13,28,Michael Vick pass complete short left to Jason Avant for 8 yards (tackle by Malcolm Jenkins),0.500,1.730
+4,7:08,1,10,PHI 42,13,28,Michael Vick for 15 yards (tackle by Roman Harper),1.730,2.720
+4,6:48,1,10,NOR 43,13,28,Michael Vick pass complete short middle to LeSean McCoy for 14 yards (tackle by Isa Abdul-Quddus and Jabari Greer),2.720,3.640
+4,6:21,1,10,NOR 29,13,28,LeSean McCoy right tackle for 7 yards (tackle by Cameron Jordan and Malcolm Jenkins),3.640,4.050
+4,5:51,2,3,NOR 22,13,28,Michael Vick right tackle for 6 yards (tackle by Jonathan Casillas),4.050,4.510
+4,5:24,1,10,NOR 16,13,28,Michael Vick pass incomplete deep left intended for DeSean Jackson,4.510,3.900
+4,5:17,2,10,NOR 16,13,28,LeSean McCoy left end for no gain (tackle by Jonathan Casillas and Malcolm Jenkins),3.900,3.080
+4,4:36,3,10,NOR 16,13,28,"Penalty on Cameron Jordan: Neutral Zone Infraction, 5 yards (no play)",3.080,3.940
+4,4:36,3,5,NOR 11,13,28,Michael Vick pass complete short middle to Brent Celek for 6 yards (tackle by Corey White and Jonathan Casillas),3.940,6.060
+4,4:02,1,5,NOR 5,13,28,"Michael Vick pass complete short right to Clay Harbor for no gain. Penalty on Demetress Bell: Ineligible Downfield Pass, 5 yards (no play)",6.060,4.910
+4,3:53,1,10,NOR 10,13,28,Michael Vick pass incomplete short left intended for LeSean McCoy,4.910,4.190
+4,3:49,2,10,NOR 10,13,28,"Penalty on Demetress Bell: False Start, 5 yards (no play)",4.190,3.460
+4,3:49,2,15,NOR 15,13,28,Michael Vick sacked by Cameron Jordan for -7 yards,3.460,2.080
+4,3:13,3,22,NOR 22,13,28,"Michael Vick pass complete short right to Brent Celek for 14 yards (tackle by Curtis Lofton). Brent Celek fumbles (forced by Curtis Lofton), recovered by Isa Abdul-Quddus at NOR-7",2.080,0.380
+4,3:03,1,10,NOR 7,13,28,Mark Ingram left guard for 2 yards (tackle by Fletcher Cox),-0.380,0.000
+4,2:56,,,,13,28,Timeout #2 by Philadelphia Eagles,0.000,-0.630
+4,2:56,2,8,NOR 9,13,28,Drew Brees pass complete short right to Jimmy Graham for 1 yard (tackle by Akeem Jordan),-0.630,0.000
+4,2:47,,,,13,28,Timeout #3 by Philadelphia Eagles,0.000,-1.070
+4,2:47,3,7,NOR 10,13,28,Chris Ivory right end for 6 yards (tackle by DeMeco Ryans),-1.070,-2.390
+4,2:06,4,1,NOR 16,13,28,"Thomas Morstead punts 66 yards, returned by Damaris Johnson for 20 yards (tackle by Rafael Bush)",-2.390,-1.470
+4,1:54,1,10,PHI 38,13,28,Michael Vick pass complete short middle to Jason Avant for 9 yards (tackle by Curtis Lofton),1.470,2.140
+4,1:38,2,1,PHI 47,13,28,Michael Vick for 4 yards (tackle by Jabari Greer),2.140,2.320
+4,1:30,1,10,NOR 49,13,28,Michael Vick pass complete short middle to Brent Celek for 11 yards (tackle by Curtis Lofton),2.320,3.050
+4,1:09,1,10,NOR 38,13,28,Michael Vick pass complete short left to Jason Avant for 12 yards (tackle by Corey White),3.050,3.840
+4,0:48,1,10,NOR 26,13,28,Michael Vick pass incomplete deep left intended for DeSean Jackson,3.840,3.300
+4,0:41,2,10,NOR 26,13,28,Michael Vick pass complete short right to Brent Celek for 11 yards (tackle by Curtis Lofton and Malcolm Jenkins),3.300,4.580
+4,0:24,1,10,NOR 15,13,28,Michael Vick spiked the ball,4.580,3.950
+4,0:22,2,10,NOR 15,13,28,Michael Vick pass incomplete short right intended for Clay Harbor,3.950,3.100
+4,0:18,3,10,NOR 15,13,28,Michael Vick pass incomplete short left intended for Jason Avant,3.100,2.440
+4,0:14,4,10,NOR 15,13,28,Michael Vick pass incomplete short left intended for Brent Celek,2.440,0.220
+4,0:07,1,10,NOR 15,13,28,Drew Brees kneels for -1 yards,-0.220,-0.820
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

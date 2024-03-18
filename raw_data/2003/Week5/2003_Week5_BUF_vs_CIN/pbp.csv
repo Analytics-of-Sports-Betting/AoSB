@@ -1,0 +1,200 @@
+Quarter,Time,Down,ToGo,Location,CIN,BUF,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Bengals won the coin toss, Bengals to receive the opening kickoff.",,
+1,15:00,,,BUF 30,0,0,"Rian Lindell kicks off 68 yards, returned by Brandon Bennett for 25 yards (tackle by Pierson Prioleau)",0.000,0.740
+1,14:53,1,10,CIN 27,0,0,Jon Kitna pass complete to Chad Ochocinco for 11 yards (tackle by Nate Clements),0.740,1.470
+1,14:19,1,10,CIN 38,0,0,Brandon Bennett right tackle for no gain (tackle by Pat Williams and Sam Adams),1.470,0.920
+1,13:37,2,10,CIN 38,0,0,"Jeremi Johnson up the middle for 1 yard (tackle by Aaron Schobel and Jeff Posey). Penalty on Sam Adams: Defensive Offside, 5 yards (no play)",0.920,1.600
+1,13:17,2,5,CIN 43,0,0,Jon Kitna pass incomplete intended for Brandon Bennett,1.600,0.890
+1,13:12,3,5,CIN 43,0,0,Jon Kitna pass complete to Peter Warrick for 12 yards (tackle by Antoine Winfield),0.890,2.590
+1,12:37,,,,0,0,Timeout #1 by Buffalo Bills,0.000,2.590
+1,12:37,1,10,BUF 45,0,0,Rudi Johnson up the middle for 1 yard (tackle by Pat Williams and Takeo Spikes),2.590,2.180
+1,12:01,2,9,BUF 44,0,0,Jon Kitna pass complete to Tony Stewart for 8 yards (tackle by Kevin Thomas),2.180,2.540
+1,11:18,3,1,BUF 36,0,0,Rudi Johnson left guard for -3 yards (tackle by Pat Williams and Takeo Spikes),2.540,0.660
+1,10:41,4,4,BUF 39,0,0,Nick Harris punts 19 yards,0.660,-0.280
+1,10:32,1,10,BUF 20,0,0,Travis Henry up the middle for -5 yards (tackle by Tony Williams),0.280,-1.070
+1,10:05,2,15,BUF 15,0,0,Drew Bledsoe pass incomplete intended for Eric Moulds (defended by Tory James),-1.070,-1.860
+1,9:59,3,15,BUF 15,0,0,Drew Bledsoe pass incomplete intended for Bobby Shaw,-1.860,-2.440
+1,9:52,4,15,BUF 15,0,0,"Brian Moorman punts 44 yards, returned by Peter Warrick for 1 yard (tackle by Coy Wire). Penalty on Khalid Abdullah: Offensive Holding, 10 yards",-2.440,-1.000
+1,9:40,1,10,CIN 31,0,0,Brandon Bennett right tackle for -1 yards (tackle by Antoine Winfield and Pat Williams),1.000,0.320
+1,9:02,2,11,CIN 30,0,0,Jon Kitna pass incomplete intended for Chad Ochocinco,0.320,-0.360
+1,8:56,3,11,CIN 30,0,0,Jon Kitna pass incomplete intended for Tony Stewart,-0.360,-1.370
+1,8:52,4,11,CIN 30,0,0,"Nick Harris punts 38 yards, returned by Antonio Brown for 1 yard (tackle by Khalid Abdullah)",-1.370,-1.140
+1,8:41,1,10,BUF 33,0,0,Travis Henry right end for 3 yards (tackle by Jeff Burris and Brian Simmons),1.140,1.000
+1,8:11,2,7,BUF 36,0,0,Travis Henry up the middle for 4 yards (tackle by Tony Williams and Artrell Hawkins),1.000,0.830
+1,7:40,3,3,BUF 40,0,0,Drew Bledsoe pass incomplete intended for Eric Moulds (defended by Tory James),0.830,-0.720
+1,7:35,4,3,BUF 40,0,0,"Brian Moorman punts 60 yards, touchback",-0.720,-0.280
+1,7:24,1,10,CIN 20,0,0,Jon Kitna pass complete to Jeremi Johnson for 7 yards (tackle by Antoine Winfield),0.280,0.680
+1,6:47,2,3,CIN 27,0,0,Brandon Bennett left guard for -6 yards (tackle by Takeo Spikes and London Fletcher),0.680,-0.820
+1,6:03,3,9,CIN 21,0,0,Jon Kitna pass complete to Peter Warrick for 8 yards (tackle by Antoine Winfield),-0.820,-1.440
+1,5:44,4,1,CIN 29,0,0,"Nick Harris punts 33 yards, returned by Antonio Brown for no gain",-1.440,-1.470
+1,5:34,1,10,BUF 38,0,0,Drew Bledsoe pass complete to Sam Gash for 12 yards (tackle by Brian Simmons),1.470,2.260
+1,5:00,1,10,BUF 50,0,0,Travis Henry right tackle for 14 yards (tackle by Rogers Beckett),2.260,3.180
+1,4:24,1,10,CIN 36,0,0,Drew Bledsoe pass complete to Eric Moulds for 12 yards (tackle by Rogers Beckett),3.180,3.970
+1,3:47,1,10,CIN 24,0,0,Travis Henry left tackle for 1 yard (tackle by Adrian Ross),3.970,3.570
+1,3:09,2,9,CIN 23,0,0,"Travis Henry left guard for 2 yards (tackle by Duane Clemons). Travis Henry fumbles (forced by Duane Clemons), recovered by Eric Moulds at CIN-21 and returned for 4 yards",3.570,3.750
+1,2:19,3,3,CIN 17,0,0,Drew Bledsoe pass complete to Bobby Shaw for 6 yards (tackle by Artrell Hawkins),3.750,4.840
+1,1:39,1,10,CIN 11,0,0,Drew Bledsoe pass incomplete intended for Josh Reed,4.840,4.140
+1,1:36,2,10,CIN 11,0,0,Travis Henry right guard for 2 yards (tackle by Adrian Ross),4.140,3.530
+1,1:00,,,,0,0,Timeout #2 by Buffalo Bills,0.000,3.530
+1,1:00,3,8,CIN 9,0,0,Drew Bledsoe pass incomplete intended for Josh Reed,3.530,2.830
+1,0:54,4,8,CIN 9,0,3,Rian Lindell 27 yard field goal good,2.830,3.000
+1,,,,BUF 30,0,3,"Rian Lindell kicks off 64 yards, muffed by Brandon Bennett, recovered by Brandon Bennett at CIN-6, and returned for 8 yards",0.000,-0.280
+1,0:43,1,10,CIN 14,0,3,Rudi Johnson left tackle for 3 yards (tackle by Antoine Winfield),-0.280,-0.370
+Quarter,Time,Down,ToGo,Location,CIN,BUF,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,7,CIN 17,0,3,Jon Kitna pass complete to Peter Warrick for 9 yards (tackle by Antoine Winfield),-0.370,0.670
+2,14:27,1,10,CIN 26,0,3,Rudi Johnson left end for 6 yards (tackle by Nate Clements and Izell Reese),0.670,0.940
+2,13:47,2,4,CIN 32,0,3,Brandon Bennett left guard for -3 yards (tackle by Pat Williams),0.940,-0.160
+2,13:04,3,7,CIN 29,0,3,Jon Kitna pass complete to Peter Warrick for 10 yards (tackle by Izell Reese),-0.160,1.530
+2,12:26,1,10,CIN 39,0,3,"Brandon Bennett up the middle for 1 yard (tackle by Ron Edwards and Pat Williams). Brandon Bennett fumbles (forced by Ron Edwards), recovered by Kevin Thomas at CIN-40",1.530,-2.920
+,,,,,,,"CIN challenged the ruling, and the play was upheld.",,
+2,12:16,1,10,CIN 40,0,3,Drew Bledsoe pass incomplete intended for Eric Moulds,2.920,2.370
+2,12:12,2,10,CIN 40,0,3,Travis Henry right guard for 6 yards (tackle by Rogers Beckett and Kevin Hardy),2.370,2.480
+2,11:32,3,4,CIN 34,0,3,Drew Bledsoe pass incomplete intended for Mark Campbell,2.480,1.080
+2,11:25,4,4,CIN 34,0,3,Drew Bledsoe pass incomplete (defended by Kevin Hardy),1.080,-1.200
+2,11:22,1,10,CIN 34,0,3,Jon Kitna pass incomplete intended for Reggie Kelly,1.200,0.660
+2,11:17,2,10,CIN 34,0,3,"Penalty on Justin Bannan: Encroachment, 5 yards (no play)",0.660,1.330
+2,11:17,2,5,CIN 39,0,3,Brandon Bennett up the middle for 8 yards (tackle by Antoine Winfield and Lawyer Milloy),1.330,2.060
+2,10:43,1,10,CIN 47,0,3,Jon Kitna pass complete to Reggie Kelly for 8 yards (tackle by London Fletcher),2.060,2.600
+2,10:07,2,2,BUF 45,0,3,Jon Kitna pass complete to Tony Stewart for 5 yards (tackle by Josh Stamer),2.600,2.920
+2,9:31,1,10,BUF 40,0,3,"Jon Kitna pass incomplete intended for Tony Stewart. Penalty on Mike Goff: Offensive Holding, 10 yards (no play)",2.920,2.260
+2,9:25,1,20,BUF 50,0,3,Jon Kitna pass complete to Rudi Johnson for 10 yards (tackle by Nate Clements),2.260,2.370
+2,8:49,2,10,BUF 40,0,3,Jon Kitna pass complete to Chad Ochocinco for 12 yards,2.370,3.710
+2,8:30,1,10,BUF 28,0,3,Jon Kitna pass complete to Jeremi Johnson for 2 yards (tackle by Nate Clements),3.710,3.440
+2,7:51,2,8,BUF 26,0,3,Jon Kitna pass complete to Peter Warrick for 15 yards (tackle by Kevin Thomas),3.440,4.840
+2,7:13,1,10,BUF 11,0,3,Rudi Johnson up the middle for no gain (tackle by Pat Williams),4.840,4.140
+2,6:36,2,10,BUF 11,0,3,Jon Kitna pass incomplete intended for Peter Warrick,4.140,3.130
+2,6:30,3,10,BUF 11,0,3,"Penalty on Chad Ochocinco: False Start, 5 yards (no play)",3.130,2.890
+2,6:30,3,15,BUF 16,0,3,Jon Kitna pass incomplete intended for Peter Warrick,2.890,2.380
+2,6:30,4,15,BUF 16,0,3,"Penalty on Levi Jones: False Start, 5 yards (no play)",2.380,2.060
+2,6:24,4,20,BUF 21,3,3,Shayne Graham 39 yard field goal good,2.060,3.000
+2,,,,CIN 30,3,3,"Shayne Graham kicks off 70 yards, returned by Antonio Brown for 19 yards (tackle by Jeff Burris)",0.000,0.150
+2,6:14,1,10,BUF 19,3,3,Drew Bledsoe pass incomplete intended for Travis Henry,0.150,-0.390
+2,6:10,2,10,BUF 19,3,3,Travis Henry left tackle for 3 yards (tackle by Brian Simmons),-0.390,-0.680
+2,5:43,3,7,BUF 22,3,3,Drew Bledsoe pass incomplete intended for Eric Moulds,-0.680,-1.900
+2,5:36,4,7,BUF 22,3,3,"Brian Moorman punts 34 yards, muffed catch by Peter Warrick, ball out of bounds at CIN-49",-1.900,-2.190
+2,5:27,1,10,CIN 49,3,3,Rudi Johnson left guard for 3 yards (tackle by London Fletcher and Takeo Spikes),2.190,2.050
+2,4:51,2,7,BUF 48,3,3,Jon Kitna pass incomplete intended for Peter Warrick,2.050,1.360
+2,4:46,3,7,BUF 48,3,3,Jon Kitna pass incomplete intended for Chad Ochocinco,1.360,0.070
+2,4:37,4,7,BUF 48,3,3,"Penalty on Khalid Abdullah: False Start, 5 yards (no play)",0.070,-0.260
+2,4:37,4,12,CIN 47,3,3,"Nick Harris punts 40 yards, returned by Antonio Brown for 13 yards (tackle by Adrian Ross). Penalty on Nate Clements: Offensive Holding, 9 yards",-0.260,0.380
+2,4:27,1,10,BUF 9,3,3,Drew Bledsoe pass incomplete intended for Sam Gash (defended by Tory James),-0.380,-0.780
+2,4:20,2,10,BUF 9,3,3,"Travis Henry right tackle for 15 yards (tackle by Kevin Kaesviharn). Penalty on Jonas Jennings: Offensive Holding, 5 yards (no play)",-0.780,-1.150
+2,3:49,2,15,BUF 4,3,3,Drew Bledsoe pass complete to Eric Moulds for 9 yards (tackle by Duane Clemons),-1.150,-0.950
+2,3:10,3,6,BUF 13,3,3,"Drew Bledsoe pass incomplete. Drew Bledsoe fumbles, recovered by Drew Bledsoe at BUF-BUF",-0.950,-2.490
+2,3:03,4,6,BUF 13,3,3,Brian Moorman punts 43 yards,-2.490,-1.860
+2,2:55,1,10,CIN 44,3,3,Rudi Johnson up the middle for 6 yards (tackle by Izell Reese and Jeff Posey),1.860,2.130
+2,2:21,2,4,BUF 50,3,3,Jon Kitna pass complete to Peter Warrick for 20 yards,2.130,3.580
+2,2:00,1,10,BUF 30,3,3,Rudi Johnson up the middle for 2 yards (tackle by Aaron Schobel and Lawyer Milloy),3.580,3.300
+2,1:28,2,8,BUF 28,3,3,Jon Kitna pass complete to Chad Ochocinco for 9 yards (tackle by Nate Clements),3.300,4.310
+2,1:23,1,10,BUF 19,3,3,Jon Kitna pass incomplete intended for Chad Ochocinco (defended by Nate Clements),4.310,3.750
+2,1:18,2,10,BUF 19,3,3,Jon Kitna pass incomplete intended for Reggie Kelly (defended by London Fletcher),3.750,3.030
+2,1:12,3,10,BUF 19,3,3,Jon Kitna pass incomplete intended for Peter Warrick (defended by Lawyer Milloy),3.030,2.180
+2,1:04,4,10,BUF 19,6,3,Shayne Graham 37 yard field goal good,2.180,3.000
+2,,,,CIN 30,6,3,"Shayne Graham kicks off 55 yards, returned by Terrence McGee for 13 yards (tackle by Kevin Kaesviharn)",0.000,0.810
+2,0:55,1,10,BUF 28,6,3,Joe Burns right end for -5 yards (tackle by Brian Simmons),0.810,-0.410
+2,0:33,2,15,BUF 23,6,3,Drew Bledsoe pass complete to Eric Moulds for 6 yards (tackle by Artrell Hawkins),-0.410,-0.300
+2,0:24,,,,6,3,Timeout #2 by Cincinnati Bengals,0.000,-0.300
+2,0:24,3,9,BUF 29,6,3,Drew Bledsoe sacked by Duane Clemons for -10 yards,-0.300,-2.140
+2,0:15,,,,6,3,Timeout #3 by Cincinnati Bengals,0.000,-2.140
+2,0:15,4,19,BUF 19,6,3,Brian Moorman punts 24 yards,-2.140,-2.720
+2,0:08,1,10,BUF 43,6,3,Jon Kitna pass complete to Tony Stewart for 7 yards,2.720,3.120
+2,0:02,2,3,BUF 36,6,3,Shayne Graham 54 yard field goal no good,3.120,1.800
+Quarter,Time,Down,ToGo,Location,CIN,BUF,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,CIN 30,6,3,"Shayne Graham kicks off 58 yards, returned by Terrence McGee for 22 yards (tackle by Kevin Kaesviharn)",0.000,1.200
+3,14:51,1,10,BUF 34,6,3,Travis Henry up the middle for 5 yards (tackle by Justin Smith),1.200,1.330
+3,14:14,2,5,BUF 39,6,3,Drew Bledsoe pass complete to Josh Reed for 20 yards (tackle by Rogers Beckett),1.330,2.850
+3,13:50,1,10,CIN 41,6,3,Travis Henry up the middle for 3 yards (tackle by Justin Smith),2.850,2.710
+3,13:18,2,7,CIN 38,6,3,Drew Bledsoe pass complete to Sam Gash for 18 yards (tackle by Tory James),2.710,4.240
+3,12:48,1,10,CIN 20,6,3,Travis Henry right tackle for 8 yards (tackle by Brian Simmons),4.240,5.040
+3,12:17,2,2,CIN 12,6,3,"Drew Bledsoe for no gain. Drew Bledsoe fumbles, recovered by Travis Henry at CIN-20",5.040,3.010
+3,11:36,3,10,CIN 20,6,3,Drew Bledsoe pass incomplete intended for Mark Campbell (defended by Brian Simmons),3.010,2.120
+3,11:31,4,10,CIN 20,6,6,Rian Lindell 38 yard field goal good,2.120,3.000
+3,,,,BUF 30,6,6,"Rian Lindell kicks off 67 yards, returned by Brandon Bennett for 23 yards (tackle by Pierson Prioleau)",0.000,0.670
+3,11:18,1,10,CIN 26,6,6,Rudi Johnson right guard for 2 yards (tackle by Ryan Denney and Jeff Posey),0.670,0.400
+3,10:44,2,8,CIN 28,6,6,Jon Kitna pass incomplete intended for Chad Ochocinco,0.400,-0.300
+3,10:39,3,8,CIN 28,6,6,Jon Kitna pass complete to Chad Ochocinco for 11 yards,-0.300,1.530
+3,10:15,1,10,CIN 39,6,6,Rudi Johnson left guard for 6 yards (tackle by Izell Reese and Pat Williams),1.530,1.800
+3,9:39,2,4,CIN 45,6,6,Jon Kitna pass complete to Tony Stewart for 10 yards (tackle by Antoine Winfield),1.800,2.590
+3,8:55,1,10,BUF 45,6,6,Jon Kitna pass complete to Chad Ochocinco for 9 yards (tackle by Takeo Spikes),2.590,3.260
+3,8:17,2,1,BUF 36,6,6,Jon Kitna pass complete to Peter Warrick for 4 yards (tackle by Antoine Winfield),3.260,3.450
+3,7:45,1,10,BUF 32,6,6,Jon Kitna pass incomplete intended for Chad Ochocinco,3.450,2.900
+3,7:41,2,10,BUF 32,6,6,Jon Kitna pass complete to Brandon Bennett for 6 yards (tackle by Jeff Posey),2.900,3.010
+3,6:58,3,4,BUF 26,6,6,"Jon Kitna sacked by Lawyer Milloy and Jeff Posey for -11 yards. Jon Kitna fumbles (forced by Lawyer Milloy), recovered by Jon Kitna at BUF-39",3.010,0.660
+3,6:36,4,17,BUF 39,6,6,Nick Harris punts 38 yards,0.660,0.380
+3,6:25,1,10,BUF 1,6,6,Drew Bledsoe pass complete to Eric Moulds for 3 yards (tackle by Tory James),-0.380,-0.560
+3,5:47,2,7,BUF 4,6,6,Drew Bledsoe pass incomplete intended for Eric Moulds,-0.560,-1.070
+3,5:41,3,7,BUF 4,6,6,Drew Bledsoe pass complete to Eric Moulds for 8 yards (tackle by Tory James),-1.070,-0.350
+3,4:41,1,10,BUF 12,6,6,Drew Bledsoe pass complete to Sam Gash for 2 yards (tackle by Adrian Ross),-0.350,-0.610
+3,4:15,2,8,BUF 14,6,6,Travis Henry left end for -5 yards (tackle by Artrell Hawkins),-0.610,-1.770
+3,3:41,3,13,BUF 9,6,6,Drew Bledsoe sacked by Duane Clemons for -6 yards,-1.770,-2.490
+3,3:21,4,19,BUF 3,6,6,"Brian Moorman punts 51 yards, returned by Peter Warrick for 11 yards (tackle by Terrence McGee). Penalty on Rudi Johnson: Offensive Holding, 10 yards",-2.490,-1.330
+3,3:07,1,10,CIN 36,6,6,Jon Kitna pass incomplete is intercepted by Aaron Schobel at CIN-41 and returned for 6 yards (tackle by Peter Warrick),1.330,-3.250
+3,3:01,1,10,CIN 35,6,6,Travis Henry left tackle for 10 yards (tackle by Mark Roman),3.250,3.910
+3,2:36,1,10,CIN 25,6,6,Travis Henry left guard for 5 yards (tackle by Glen Steele),3.910,4.040
+3,2:00,2,5,CIN 20,6,6,Travis Henry left tackle for 9 yards (tackle by Artrell Hawkins),4.040,4.840
+3,1:22,1,10,CIN 11,6,6,Travis Henry right tackle for 2 yards (tackle by Kevin Kaesviharn),4.840,4.510
+3,0:49,2,8,CIN 9,6,12,"Drew Bledsoe pass complete to Travis Henry for 9 yards, touchdown",4.510,7.000
+3,,,,CIN 2,6,13,Rian Lindell kicks extra point good,0.000,0.000
+3,,,,BUF 30,6,13,"Rian Lindell kicks off 59 yards, returned by Brandon Bennett for 15 yards (tackle by Dominique Stevenson)",0.000,0.670
+3,0:36,1,10,CIN 26,6,13,Rudi Johnson up the middle for 4 yards (tackle by London Fletcher and Lawyer Milloy),0.670,0.670
+Quarter,Time,Down,ToGo,Location,CIN,BUF,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,6,CIN 30,6,13,Jon Kitna pass complete to Tony Stewart for 5 yards (tackle by London Fletcher),0.670,0.630
+4,14:18,3,1,CIN 35,6,13,Rudi Johnson up the middle for 3 yards (tackle by London Fletcher),0.630,1.470
+4,13:40,1,10,CIN 38,6,13,Jon Kitna pass complete to Jeremi Johnson for 2 yards (tackle by Takeo Spikes),1.470,1.190
+4,12:58,2,8,CIN 40,6,13,Jon Kitna pass incomplete intended for Rudi Johnson,1.190,0.500
+4,12:53,3,8,CIN 40,6,13,Jon Kitna pass incomplete intended for Chad Ochocinco,0.500,-0.720
+4,12:47,4,8,CIN 40,6,13,"Nick Harris punts 40 yards, returned by Antonio Brown for 7 yards (tackle by Tony Stewart). Penalty on Coy Wire: Roughing the Kicker, 15 yards (no play)",-0.720,2.590
+4,12:37,1,10,BUF 45,6,13,Rudi Johnson left tackle for 4 yards (tackle by Jeff Posey),2.590,2.580
+4,12:04,2,6,BUF 41,6,13,Jon Kitna pass incomplete intended for Chad Ochocinco (defended by Izell Reese),2.580,1.880
+4,11:57,3,6,BUF 41,6,13,Jon Kitna pass complete to Kelley Washington for 9 yards (tackle by Izell Reese),1.880,3.450
+4,11:16,1,10,BUF 32,6,13,Rudi Johnson left end for no gain (tackle by Ryan Denney and Nate Clements),3.450,2.900
+4,10:35,2,10,BUF 32,6,13,Rudi Johnson left guard for 7 yards (tackle by Lawyer Milloy),2.900,3.140
+4,10:00,3,3,BUF 25,6,13,Jon Kitna pass complete to Kelley Washington for 9 yards (tackle by Antoine Winfield),3.140,4.510
+4,9:22,1,10,BUF 16,12,13,"Rudi Johnson left tackle for 16 yards, touchdown",4.510,7.000
+4,,,,BUF 2,13,13,Shayne Graham kicks extra point good,0.000,0.000
+4,,,,CIN 30,13,13,"Shayne Graham kicks off 68 yards, returned by Terrence McGee for 18 yards (tackle by Khalid Abdullah)",0.000,0.280
+4,9:08,1,10,BUF 20,13,13,Travis Henry left tackle for 2 yards (tackle by Justin Smith and John Thornton),0.280,0.000
+4,8:34,2,8,BUF 22,13,13,Drew Bledsoe sacked by John Thornton for -8 yards,0.000,-2.030
+4,8:07,3,16,BUF 14,13,13,Drew Bledsoe sacked by Duane Clemons for -10 yards,-2.030,-2.490
+4,7:49,4,26,BUF 4,13,13,"Brian Moorman punts 46 yards, returned by Peter Warrick for 30 yards (tackle by Brian Moorman)",-2.490,-4.240
+4,7:34,1,10,BUF 20,13,13,Rudi Johnson up the middle for 2 yards (tackle by Ron Edwards),4.240,3.960
+4,6:57,2,8,BUF 18,13,13,Jon Kitna pass complete to Chad Ochocinco for 7 yards (tackle by Nate Clements),3.960,4.590
+4,6:18,3,1,BUF 11,13,13,Rudi Johnson left guard for -1 yards (tackle by Aaron Schobel and Ron Edwards),4.590,2.760
+4,5:38,4,2,BUF 12,16,13,Shayne Graham 30 yard field goal good,2.760,3.000
+4,,,,CIN 30,16,13,"Shayne Graham kicks off 65 yards, returned by Antonio Brown for 25 yards (tackle by Reggie Myles)",0.000,0.940
+4,5:27,1,10,BUF 30,16,13,Travis Henry left tackle for 5 yards (tackle by John Thornton and Mark Roman),0.940,1.070
+4,4:51,2,5,BUF 35,16,13,Drew Bledsoe pass complete to Eric Moulds for 6 yards (tackle by Tory James),1.070,1.660
+4,4:19,1,10,BUF 41,16,13,Drew Bledsoe pass incomplete intended for Josh Reed (defended by Artrell Hawkins),1.660,1.120
+4,4:12,2,10,BUF 41,16,13,Travis Henry right guard for -1 yards (tackle by Justin Smith and Tony Williams),1.120,0.300
+4,3:31,3,11,BUF 40,16,13,Drew Bledsoe pass complete to Bobby Shaw for 14 yards,0.300,2.520
+4,3:22,1,10,CIN 46,16,13,Travis Henry left tackle for 3 yards (tackle by Duane Clemons),2.520,2.380
+4,2:46,2,7,CIN 43,16,13,"Drew Bledsoe pass complete to Eric Moulds for 8 yards (tackle by Tory James). Penalty on Eric Moulds: Offensive Pass Interference, 10 yards (no play)",2.380,1.030
+4,2:41,2,17,BUF 47,16,13,Drew Bledsoe pass complete to Eric Moulds for 8 yards (tackle by Brian Simmons),1.030,1.420
+4,2:17,3,9,CIN 45,16,13,Drew Bledsoe pass complete to Bobby Shaw for 6 yards (tackle by Terrell Roberts),1.420,0.660
+4,2:00,4,3,CIN 39,16,13,Drew Bledsoe pass complete to Eric Moulds for 19 yards (tackle by Kevin Kaesviharn),0.660,4.240
+4,1:47,,,,16,13,Timeout #1 by Buffalo Bills,0.000,4.240
+4,1:47,1,10,CIN 20,16,13,Drew Bledsoe pass incomplete intended for Eric Moulds,4.240,3.690
+4,1:44,2,10,CIN 20,16,13,Travis Henry left guard for 4 yards (tackle by Justin Smith),3.690,3.520
+4,1:17,3,6,CIN 16,16,13,Drew Bledsoe pass complete to Travis Henry for 5 yards (tackle by Artrell Hawkins),3.520,2.850
+4,0:31,,,,16,13,Timeout #1 by Cincinnati Bengals,0.000,2.850
+4,0:31,4,1,CIN 11,16,16,Rian Lindell 29 yard field goal good,2.850,3.000
+4,,,,BUF 30,16,16,"Rian Lindell kicks off 55 yards, returned by Kenny Watson for 6 yards (tackle by DaShon Polk)",0.000,0.340
+4,0:23,1,10,CIN 21,16,16,Jon Kitna kneels for -1 yards,0.340,0.940
+Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime
+Quarter,Time,Down,ToGo,Location,CIN,BUF,Detail,EPB,EPA
+,,,,,,,"Bengals won the coin toss, Bengals to receive the overtime kickoff.",,
+OT,15:00,1,10,BUF 30,16,16,"Rian Lindell kicks off 73 yards, touchback",0.940,0.280
+OT,15:00,1,10,CIN 20,16,16,Rudi Johnson right tackle for 5 yards (tackle by Antoine Winfield and Ryan Denney),0.280,0.410
+OT,14:25,2,5,CIN 25,16,16,Rudi Johnson right guard for 3 yards (tackle by Ryan Denney and Takeo Spikes),0.410,0.100
+OT,13:45,3,2,CIN 28,16,16,Jon Kitna pass incomplete intended for Kelley Washington,0.100,-1.500
+OT,13:40,4,2,CIN 28,16,16,Nick Harris punts 29 yards,-1.500,-1.800
+OT,13:30,1,10,BUF 43,16,16,Travis Henry up the middle for 2 yards (tackle by John Thornton and Justin Smith),1.800,1.520
+OT,12:49,2,8,BUF 45,16,16,Drew Bledsoe pass complete to Mark Campbell for 20 yards (tackle by Mark Roman),1.520,3.250
+OT,12:06,1,10,CIN 35,16,16,"Drew Bledsoe pass complete to Eric Moulds for 28 yards (tackle by Kevin Kaesviharn). Penalty on CIN: Defensive 12 On-field (Declined), Penalty on Kevin Kaesviharn: Face Mask (15 Yards), 4 yards",3.250,6.510
+OT,11:54,1,3,CIN 3,16,16,Travis Henry left guard for 1 yard (tackle by Duane Clemons),6.510,5.720
+OT,11:12,2,2,CIN 2,16,22,"Travis Henry up the middle for 2 yards, touchdown",5.720,6.000
+End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime

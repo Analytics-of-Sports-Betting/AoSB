@@ -1,0 +1,16 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,MIA 20,5,2:16,20,Punt
+2,1,11:18,MIA 28,3,1:22,7,Punt
+3,1,6:28,MIA 13,3,1:31,-7,Punt
+4,1,1:40,MIA 39,10,2:26,41,Field Goal
+5,2,9:43,MIA 33,5,2:48,21,Punt
+6,2,5:54,DEN 40,6,3:13,22,Field Goal
+7,2,0:17,MIA 36,1,0:17,4,End of Half
+8,3,13:27,MIA 43,3,1:32,4,Punt
+9,3,9:11,MIA 42,3,1:41,4,Punt
+10,3,6:25,MIA 28,11,6:31,72,Touchdown
+11,4,12:39,MIA 25,9,5:05,50,Field Goal
+12,4,5:50,MIA 33,3,0:27,3,Punt
+13,4,0:17,MIA 20,1,0:17,-1,End of Half
+14,5,15:00,MIA 20,3,1:35,9,Punt
+15,5,11:48,MIA 15,5,2:18,21,Fumble

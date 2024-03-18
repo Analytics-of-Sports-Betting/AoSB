@@ -1,0 +1,177 @@
+Quarter,Time,Down,ToGo,Location,STL,CIN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Rams won the coin toss, Rams to receive the opening kickoff.",,
+1,15:00,,,CIN 35,0,0,"Mike Nugent kicks off 65 yards, touchback",0.000,-0.280
+1,15:00,1,10,STL 20,0,0,Todd Gurley left guard for 2 yards (tackle by Carlos Dunlap and Rey Maualuga),0.280,0.000
+1,14:26,2,8,STL 22,0,0,Nick Foles pass complete short right to Tavon Austin for 7 yards (tackle by Dre Kirkpatrick),0.000,0.230
+1,13:49,3,1,STL 29,0,0,Todd Gurley right end for -3 yards (tackle by George Iloka),0.230,-1.630
+1,13:19,4,4,STL 26,0,0,Johnny Hekker punts 37 yards,-1.630,-1.400
+1,13:06,1,10,CIN 37,0,0,Jeremy Hill left guard for 15 yards (tackle by Marcus Roberson and Rodney McLeod),1.400,2.390
+1,12:25,1,10,STL 48,0,0,Giovani Bernard right tackle for 2 yards (tackle by Akeem Ayers),2.390,2.120
+1,11:55,2,8,STL 46,0,0,Andy Dalton pass complete short middle to Tyler Eifert for 15 yards (tackle by T.J. McDonald),2.120,3.510
+1,11:24,1,10,STL 31,0,0,Jeremy Hill right tackle for 3 yards (tackle by Akeem Ayers),3.510,3.370
+1,10:50,2,7,STL 28,0,0,Andy Dalton pass complete short right to Marvin Jones for 4 yards (tackle by Marcus Roberson),3.370,3.370
+1,10:04,2,7,STL 28,0,0,Timeout #1 by Cincinnati Bengals,3.370,3.200
+1,10:04,3,3,STL 24,0,0,Andy Dalton pass complete short middle to A.J. Green for 14 yards (tackle by Marcus Roberson and James Laurinaitis),3.200,4.910
+1,9:23,1,10,STL 10,0,6,"Andy Dalton pass complete short left to A.J. Green for 10 yards, touchdown",4.910,7.000
+1,9:23,,,STL 10,0,7,Mike Nugent kicks extra point good,0.000,0.000
+1,9:23,,,CIN 35,0,7,"Mike Nugent kicks off 65 yards, touchback",0.000,-0.280
+1,9:18,1,10,STL 20,0,7,Nick Foles pass incomplete short right intended for Jared Cook,0.280,-0.270
+1,9:13,2,10,STL 20,0,7,Nick Foles pass incomplete short left intended for Kenny Britt,-0.270,-0.960
+1,9:09,3,10,STL 20,0,7,Nick Foles pass complete short middle to Jared Cook for 16 yards (tackle by Vincent Rey and George Iloka),-0.960,1.330
+1,8:34,1,10,STL 36,0,7,Tavon Austin right end for 2 yards (tackle by Dre Kirkpatrick),1.330,1.060
+1,8:01,2,8,STL 38,0,7,Nick Foles pass complete short left to Tavon Austin for 7 yards (tackle by Domata Peko),1.060,1.060
+1,7:27,2,8,STL 38,0,7,Timeout #2 by Cincinnati Bengals,1.060,1.290
+1,7:27,3,1,STL 45,0,7,Nick Foles right end for 2 yards (tackle by A.J. Hawk and Vontaze Burfict),1.290,2.060
+1,6:47,1,10,STL 47,0,7,Todd Gurley left end for 4 yards (tackle by Vontaze Burfict),2.060,2.060
+1,6:02,2,6,CIN 49,0,7,Todd Gurley middle for -2 yards (tackle by Geno Atkins),2.060,1.090
+1,5:23,3,8,STL 49,0,7,Nick Foles pass complete short middle to Brian Quick for 5 yards (tackle by Adam Jones). Penalty on Jared Cook: Illegal Motion (Declined),1.090,0.200
+1,5:06,4,3,CIN 46,0,7,"Penalty on Maurice Alexander: False Start, 5 yards (no play)",0.200,-0.130
+1,5:06,4,8,STL 49,0,7,"Penalty on C.B. Bryant: False Start, 5 yards (no play)",-0.130,-0.460
+1,4:51,4,13,STL 44,0,7,"Johnny Hekker punts 56 yards, touchback",-0.460,-0.280
+1,4:41,1,10,CIN 20,0,7,Andy Dalton pass complete short left to A.J. Green for 2 yards (tackle by Janoris Jenkins),0.280,0.000
+1,4:18,2,8,CIN 22,0,7,Jeremy Hill right guard for 3 yards (tackle by Mark Barron),0.000,-0.300
+1,3:35,3,5,CIN 25,0,7,Andy Dalton pass incomplete short right intended for Tyler Eifert (defended by Rodney McLeod),-0.300,-1.700
+1,3:29,4,5,CIN 25,0,7,"Kevin Huber punts 47 yards, returned by Tavon Austin for 9 yards (tackle by Shawn Williams). Penalty on Shawn Williams: Unnecessary Roughness, 15 yards",-1.700,-2.390
+1,3:15,1,10,CIN 48,0,7,Tre Mason right tackle for -2 yards (tackle by Geno Atkins),2.390,1.580
+1,2:37,2,12,,0,7,Nick Foles pass complete short right to Tre Mason for 3 yards (tackle by Dre Kirkpatrick),1.580,1.290
+1,2:13,3,9,CIN 47,0,7,Nick Foles pass incomplete short middle intended for Kenny Britt (defended by Dre Kirkpatrick),1.290,0.130
+1,2:08,4,9,CIN 47,0,7,"Johnny Hekker punts 35 yards, fair catch by Brandon Tate",0.130,0.350
+1,1:59,1,10,CIN 12,0,7,Andy Dalton pass incomplete short middle intended for A.J. Green (defended by Eugene Sims),-0.350,-0.780
+1,1:56,2,10,CIN 12,0,7,Giovani Bernard right guard for no gain (tackle by Michael Brockers and T.J. McDonald),-0.780,-1.420
+1,1:22,3,10,CIN 12,0,7,Andy Dalton pass complete short middle to Giovani Bernard for 6 yards (tackle by Mark Barron). Penalty on Kevin Zeitler: Illegal Block Above the Waist (Declined),-1.420,-2.240
+1,1:03,4,4,CIN 18,0,7,"Kevin Huber punts 51 yards, returned by Tavon Austin for -1 yards (tackle by Shawn Williams). Penalty on Chase Reynolds: Running Into the Kicker, 5 yards (no play)",-2.240,0.480
+1,0:48,1,10,CIN 23,0,7,Giovani Bernard right guard for 3 yards (tackle by James Laurinaitis),0.480,0.340
+1,0:18,2,7,CIN 26,0,7,Andy Dalton pass complete deep middle to Ryan Hewitt for 21 yards (tackle by Rodney McLeod),0.340,2.060
+Quarter,Time,Down,ToGo,Location,STL,CIN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,CIN 47,0,7,Andy Dalton pass complete short right to Mohamed Sanu for 8 yards (tackle by Akeem Ayers),2.060,2.600
+2,14:24,2,2,STL 45,0,7,Giovani Bernard left tackle for -1 yards (tackle by T.J. McDonald),2.600,1.750
+2,13:48,3,3,STL 46,0,7,Andy Dalton pass complete short right to Tyler Eifert for 3 yards (tackle by T.J. McDonald),1.750,2.720
+2,13:02,1,10,STL 43,0,7,Andy Dalton left end for 5 yards (tackle by Akeem Ayers),2.720,2.850
+2,12:25,2,5,STL 38,0,7,Marvin Jones left end for 30 yards (tackle by Mark Barron and Rodney McLeod),2.850,5.370
+2,11:39,1,8,STL 8,0,7,Giovani Bernard right guard for 2 yards (tackle by Akeem Ayers),5.370,4.950
+2,11:00,2,6,STL 6,0,7,Giovani Bernard right tackle for 3 yards (tackle by Rodney McLeod and Aaron Donald),4.950,4.950
+2,10:22,2,6,STL 6,0,7,Timeout #3 by Cincinnati Bengals,4.950,4.950
+2,10:22,2,6,STL 6,0,7,Timeout #1 by Los Angeles Rams,4.950,4.720
+2,10:22,3,3,STL 3,0,7,Andy Dalton pass incomplete short right intended for Jake Fisher (defended by Daren Bates). Penalty on Clint Boling: Offensive Holding (Declined),4.720,3.040
+2,10:14,4,3,STL 3,0,10,Mike Nugent 21 yard field goal good,3.040,3.000
+2,10:14,,,CIN 35,0,10,"Mike Nugent kicks off 65 yards, touchback",0.000,-0.280
+2,10:10,1,10,STL 20,0,10,Nick Foles pass complete short right to Jared Cook for 7 yards (tackle by Vontaze Burfict),0.280,0.680
+2,9:44,2,3,STL 27,0,10,Tavon Austin right end for 60 yards (tackle by Dre Kirkpatrick),0.680,4.710
+2,9:13,1,10,CIN 13,0,10,Todd Gurley right guard for 8 yards (tackle by Brandon Thompson and Domata Peko),4.710,5.540
+2,8:34,2,2,CIN 5,6,10,"Tavon Austin right end for 5 yards, touchdown",5.540,7.000
+2,8:34,,,CIN 5,7,10,Zach Hocker kicks extra point good,0.000,0.000
+2,8:34,,,STL 35,7,10,"Zach Hocker kicks off 65 yards, touchback",0.000,-0.280
+2,8:29,1,10,CIN 20,7,10,Andy Dalton pass incomplete deep left intended for A.J. Green,0.280,-0.270
+2,8:23,2,10,CIN 20,7,10,Andy Dalton pass complete short left to A.J. Green for 10 yards (tackle by Janoris Jenkins),-0.270,0.940
+2,7:54,1,10,CIN 30,7,10,Jeremy Hill right tackle for no gain (tackle by William Hayes and Aaron Donald),0.940,0.390
+2,7:17,2,10,CIN 30,7,10,Andy Dalton pass complete short middle to Jeremy Hill for 14 yards (tackle by James Laurinaitis),0.390,1.860
+2,6:40,1,10,CIN 44,7,10,Jeremy Hill right tackle for 3 yards (tackle by Chris Long and Nick Fairley),1.860,1.720
+2,6:03,2,7,CIN 47,7,10,Jeremy Hill right tackle for 12 yards (tackle by Rodney McLeod),1.720,2.850
+2,5:32,1,10,STL 41,7,10,Jeremy Hill left guard for 3 yards (tackle by Akeem Ayers and Mark Barron),2.850,2.710
+2,4:52,2,7,STL 38,7,10,Andy Dalton pass complete short right to A.J. Green for 7 yards (tackle by Janoris Jenkins),2.710,3.510
+2,4:17,1,10,STL 31,7,10,Andy Dalton pass complete short left to Marvin Jones for 9 yards (tackle by Marcus Roberson),3.510,4.180
+2,3:34,2,1,STL 22,7,16,"Andy Dalton pass complete deep right to Tyler Eifert for 22 yards, touchdown",4.180,7.000
+2,3:34,,,STL 22,7,17,Mike Nugent kicks extra point good,0.000,0.000
+2,3:34,,,CIN 35,7,17,"Mike Nugent kicks off 60 yards, returned by Benny Cunningham for 23 yards (tackle by Cedric Peerman)",0.000,-0.810
+2,3:20,1,10,STL 28,7,17,Nick Foles pass complete short left to Kenny Britt for -1 yards (tackle by Leon Hall and Wallace Gilberry),0.810,0.130
+2,2:42,2,11,STL 27,7,17,Todd Gurley middle for 3 yards (tackle by Wallace Gilberry and Carlos Dunlap),0.130,-0.160
+2,2:00,3,8,STL 30,7,17,"Nick Foles sacked by Carlos Dunlap for -11 yards. Penalty on Dre Kirkpatrick: Defensive Holding, 5 yards (no play)",-0.160,1.270
+2,1:45,1,10,STL 35,7,17,Nick Foles pass complete short left to Bradley Marquez for 7 yards,1.270,1.670
+2,1:37,2,3,STL 42,7,17,Nick Foles pass complete short left to Kenny Britt for 18 yards (tackle by Emmanuel Lamur),1.670,2.920
+2,1:29,1,10,CIN 40,7,17,Nick Foles pass complete short middle to Brian Quick for 3 yards (tackle by Vincent Rey),2.920,2.780
+2,1:11,2,7,CIN 37,7,17,Nick Foles pass incomplete deep left intended for Brian Quick,2.780,2.080
+2,1:05,3,7,CIN 37,7,17,Nick Foles pass complete short middle to Kenny Britt for 14 yards (tackle by Adam Jones),2.080,4.040
+2,0:44,1,10,CIN 23,7,17,Nick Foles pass incomplete deep middle intended for Jared Cook is intercepted by Reggie Nelson at CIN-5 and returned for 10 yards,4.040,0.220
+2,0:31,1,10,CIN 15,7,17,Andy Dalton kneels for -1 yards,-0.220,-0.820
+Quarter,Time,Down,ToGo,Location,STL,CIN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,STL 35,7,17,"Zach Hocker kicks off 65 yards, touchback",0.000,0.280
+3,15:00,1,10,CIN 20,7,17,Jeremy Hill left guard for 3 yards (tackle by Michael Brockers and Chris Long),0.280,0.140
+3,14:29,2,7,CIN 23,7,17,Jeremy Hill right tackle for 5 yards (tackle by James Laurinaitis),0.140,0.100
+3,13:56,3,2,CIN 28,7,17,Giovani Bernard right guard for 3 yards (tackle by Mark Barron),0.100,1.000
+3,13:27,1,10,CIN 31,7,17,Jeremy Hill middle for 8 yards (tackle by James Laurinaitis),1.000,1.540
+3,12:56,2,2,CIN 39,7,17,Jeremy Hill right guard for 5 yards (tackle by Chris Long),1.540,1.860
+3,12:25,1,10,CIN 44,7,17,Andy Dalton pass incomplete deep left intended for Marvin Jones is intercepted by Janoris Jenkins at STL-23,1.860,-0.480
+3,12:16,1,10,STL 23,7,17,Todd Gurley left end for 1 yard (tackle by Leon Hall),0.480,0.070
+3,11:41,2,9,STL 24,7,17,Nick Foles pass complete short right to Tavon Austin for 7 yards (tackle by George Iloka),0.070,0.300
+3,10:59,3,2,STL 31,7,17,Nick Foles pass complete short right to Cory Harkey for 2 yards (tackle by Leon Hall),0.300,1.140
+3,10:14,1,10,STL 33,7,17,Nick Foles sacked by Geno Atkins for -8 yards,1.140,-0.490
+3,9:30,2,18,STL 25,7,17,Nick Foles pass complete short middle to Jared Cook for 10 yards (tackle by Emmanuel Lamur),-0.490,0.170
+3,8:50,3,8,STL 35,7,17,Nick Foles pass incomplete short right intended for Brian Quick (defended by Dre Kirkpatrick),0.170,-1.040
+3,8:44,4,8,STL 35,7,17,"Johnny Hekker punts 50 yards, returned by Brandon Tate for 13 yards (tackle by Jake McQuaide)",-1.040,-0.810
+3,8:32,1,10,CIN 28,7,17,"Andy Dalton pass complete short middle to Giovani Bernard for 45 yards (tackle by Marcus Roberson). Giovani Bernard fumbles (forced by Marcus Roberson), recovered by Tyler Eifert at STL-20",0.810,4.240
+3,7:42,1,10,STL 20,7,17,Jeremy Hill middle for 2 yards (tackle by William Hayes),4.240,3.960
+3,7:07,2,8,STL 18,7,23,"Andy Dalton pass complete deep middle to A.J. Green for 18 yards, touchdown",3.960,7.000
+3,7:07,,,STL 18,7,24,Mike Nugent kicks extra point good,0.000,0.000
+3,7:07,,,CIN 35,7,24,"Mike Nugent kicks off 67 yards, returned by Benny Cunningham for 39 yards (tackle by Tyler Kroft). Penalty on Daren Bates: Offensive Holding, 10 yards",0.000,0.370
+3,6:52,1,10,STL 11,7,24,Tavon Austin right end for -4 yards (tackle by Carlos Dunlap),-0.370,-1.070
+3,6:08,2,14,STL 7,7,24,Nick Foles pass complete short left to Tavon Austin for 1 yard (tackle by Vontaze Burfict),-1.070,-1.770
+3,5:29,3,13,STL 8,7,30,"Nick Foles pass incomplete short middle intended for Bradley Marquez is intercepted by Leon Hall at STL-19 and returned for 19 yards, touchdown",-1.770,-7.000
+3,5:20,,,STL 8,7,31,Mike Nugent kicks extra point good,0.000,0.000
+3,5:20,,,CIN 35,7,31,"Mike Nugent kicks off 65 yards, touchback",0.000,-0.280
+3,5:20,1,10,STL 20,7,31,Todd Gurley left guard for 3 yards (tackle by George Iloka),0.280,0.140
+3,4:53,2,7,STL 23,7,31,Nick Foles pass complete short left to Kenny Britt for 5 yards (tackle by Adam Jones),0.140,0.100
+3,4:22,3,2,STL 28,7,31,Nick Foles pass incomplete short right intended for Todd Gurley,0.100,-1.500
+3,4:17,4,2,STL 28,7,31,"Johnny Hekker punts 47 yards, returned by Brandon Tate for 3 yards (tackle by Cory Harkey)",-1.500,-0.810
+3,4:07,1,10,CIN 28,7,31,Jeremy Hill left end for 4 yards (tackle by Mark Barron),0.810,0.800
+3,3:33,2,6,CIN 32,7,31,Jeremy Hill left guard for 4 yards (tackle by Chris Long),0.800,0.630
+3,3:01,3,2,CIN 36,7,31,Giovani Bernard left end for 1 yard (tackle by Eugene Sims and Mark Barron),0.630,-0.910
+3,2:18,4,1,CIN 37,7,31,"Kevin Huber punts 53 yards, returned by Tavon Austin for 6 yards (tackle by Cedric Peerman). Penalty on Cameron Lynch: Offensive Holding, 5 yards",-0.910,0.380
+3,2:05,1,10,STL 5,7,31,Nick Foles pass incomplete short middle intended for Brian Quick (defended by Dre Kirkpatrick),-0.380,-0.780
+3,2:00,2,10,STL 5,7,31,Nick Foles pass complete short middle to Tre Mason for 7 yards (tackle by Dre Kirkpatrick),-0.780,-0.600
+3,1:19,3,3,STL 12,7,31,Nick Foles pass complete short right to Kenny Britt for 15 yards (tackle by Dre Kirkpatrick),-0.600,0.740
+3,0:56,1,10,STL 27,7,31,Nick Foles pass complete short right to Tre Mason for 11 yards (tackle by Reggie Nelson),0.740,1.470
+3,0:22,1,10,STL 38,7,31,"Nick Foles pass complete short right to Tre Mason for -1 yards (tackle by Domata Peko). Penalty on Vontaze Burfict: Unnecessary Roughness, 15 yards",1.470,2.390
+Quarter,Time,Down,ToGo,Location,STL,CIN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,CIN 48,7,31,Benny Cunningham left tackle for 4 yards (tackle by Vontaze Burfict),2.390,2.390
+4,14:32,2,6,CIN 44,7,31,Nick Foles pass incomplete deep left intended for Kenny Britt is intercepted by George Iloka at CIN-18,2.390,-0.040
+4,14:24,1,10,CIN 18,7,31,Giovani Bernard right tackle for 1 yard (tackle by Matt Longacre and William Hayes),0.040,-0.320
+4,13:49,2,9,CIN 19,7,31,Andy Dalton pass incomplete short right intended for Giovani Bernard,-0.320,-1.040
+4,13:46,3,9,CIN 19,7,31,Andy Dalton pass complete short middle to Tyler Kroft for 4 yards (tackle by Matt Longacre),-1.040,-1.830
+4,13:12,4,5,CIN 23,7,31,"Kevin Huber punts 43 yards, fair catch by Tavon Austin",-1.830,-1.200
+4,13:04,1,10,STL 34,7,31,Nick Foles pass complete short middle to Todd Gurley for 11 yards (tackle by Vontaze Burfict),1.200,1.930
+4,12:34,1,10,STL 45,7,31,Nick Foles pass complete short middle to Jared Cook for 25 yards (tackle by Reggie Nelson). Penalty on Vincent Rey: Defensive Holding (Declined),1.930,3.580
+4,12:08,1,10,CIN 30,7,31,Todd Gurley left tackle for 3 yards (tackle by Vontaze Burfict),3.580,3.440
+4,11:38,2,7,CIN 27,7,31,Nick Foles pass complete short right to Tavon Austin for -1 yards (tackle by Carlos Dunlap and Dre Kirkpatrick),3.440,2.610
+4,11:02,3,8,CIN 28,7,31,"Nick Foles pass complete short right to Tavon Austin for 11 yards. Penalty on Greg Robinson: Offensive Holding, 10 yards (no play)",2.610,1.290
+4,10:33,3,18,CIN 38,7,31,Nick Foles pass complete short left to Tavon Austin for 12 yards (tackle by Adam Jones),1.290,1.760
+4,10:01,4,6,CIN 26,7,31,Nick Foles pass incomplete short middle intended for Kenny Britt,1.760,-0.670
+4,9:57,1,10,CIN 26,7,31,Andy Dalton pass complete short right to Ryan Hewitt for 8 yards (tackle by Akeem Ayers and T.J. McDonald),0.670,1.210
+4,9:28,2,2,CIN 34,7,31,Jeremy Hill left tackle for 11 yards (tackle by Mark Barron),1.210,1.930
+4,8:46,1,10,CIN 45,7,31,Andy Dalton pass complete short right to Marvin Jones for 12 yards (tackle by Marcus Roberson),1.930,2.720
+4,8:04,1,10,STL 43,7,31,Jeremy Hill left end for 5 yards (tackle by Aaron Donald and James Laurinaitis),2.720,2.850
+4,7:21,2,5,STL 38,7,31,Giovani Bernard right tackle for 2 yards (tackle by Mark Barron),2.850,2.410
+4,6:35,3,3,STL 36,7,31,Andy Dalton pass incomplete deep left intended for Marvin Jones,2.410,2.410
+4,6:31,3,3,STL 36,7,31,Timeout #1 by Cincinnati Bengals,2.410,0.890
+4,6:31,4,3,STL 36,7,31,Andy Dalton pass complete short left to Rex Burkhead for 1 yard (tackle by James Laurinaitis),0.890,-1.330
+4,6:25,1,10,STL 36,7,31,Benny Cunningham left guard for 8 yards (tackle by Dre Kirkpatrick),1.330,1.870
+4,6:06,2,2,STL 44,7,31,Nick Foles pass complete short right to Lance Kendricks for 4 yards (tackle by Vincent Rey),1.870,2.130
+4,5:44,1,10,STL 48,7,31,Nick Foles pass complete short right to Benny Cunningham for 5 yards (tackle by Vincent Rey and Wallace Gilberry),2.130,2.260
+4,5:16,2,5,CIN 47,7,31,Nick Foles pass incomplete short middle intended for Lance Kendricks,2.260,1.550
+4,5:14,3,5,CIN 47,7,31,Nick Foles pass complete short middle to Wes Welker for 6 yards (tackle by Leon Hall),1.550,2.850
+4,4:48,1,10,CIN 41,7,31,Nick Foles pass complete short left to Tre Mason for 1 yard (tackle by Rey Maualuga),2.850,2.440
+4,4:23,2,9,CIN 40,7,31,Nick Foles pass complete short middle to Tre Mason for 10 yards (tackle by Vincent Rey),2.440,3.580
+4,3:50,1,10,CIN 30,7,31,Nick Foles pass complete short middle to Kenny Britt for 12 yards (tackle by Josh Shaw),3.580,4.370
+4,3:27,1,10,CIN 18,7,31,Nick Foles pass incomplete deep left intended for Kenny Britt (defended by Josh Shaw),4.370,3.800
+4,3:20,2,10,CIN 18,7,31,Nick Foles pass incomplete short middle intended for Benny Cunningham,3.800,3.050
+4,3:15,3,10,CIN 18,7,31,Nick Foles pass incomplete short left intended for Benny Cunningham,3.050,2.250
+4,3:10,4,10,CIN 18,7,31,"Penalty on Nick Foles: Delay of Game, 5 yards (no play)",2.250,1.930
+4,3:10,4,15,CIN 23,7,31,Nick Foles pass incomplete deep middle intended for Wes Welker (defended by Leon Hall),1.930,-0.480
+4,3:02,1,10,CIN 23,7,31,Rex Burkhead left guard for 2 yards (tackle by Nick Fairley),0.480,0.200
+4,2:20,2,8,CIN 25,7,31,Rex Burkhead right tackle for 2 yards (tackle by James Laurinaitis and Akeem Ayers),0.200,-0.230
+4,2:00,3,6,CIN 27,7,31,A.J. McCarron pass complete short right to Rex Burkhead for 3 yards (tackle by James Laurinaitis),-0.230,-0.230
+4,1:52,3,6,CIN 27,7,31,Timeout #1 by Los Angeles Rams,-0.230,-1.370
+4,1:52,4,3,CIN 30,7,31,"Kevin Huber punts 50 yards, returned by Wes Welker for 13 yards (tackle by Brandon Tate)",-1.370,-1.140
+4,1:40,1,10,STL 33,7,31,Sean Mannion pass complete short middle to Tre Mason for 6 yards (tackle by Josh Shaw),1.140,1.400
+4,1:18,2,4,STL 39,7,31,Sean Mannion pass complete short middle to Lance Kendricks for 11 yards (tackle by Leon Hall and Vincent Rey),1.400,2.260
+4,0:54,1,10,,7,31,Sean Mannion pass complete short left to Lance Kendricks for 2 yards (tackle by Shawn Williams),2.260,2.260
+4,0:47,1,10,,7,31,Timeout #2 by Los Angeles Rams,2.260,1.980
+4,0:47,2,8,CIN 48,7,31,Sean Mannion pass incomplete short right intended for Bradley Marquez,1.980,1.290
+4,0:42,3,8,CIN 48,7,31,Sean Mannion pass complete short right to Bradley Marquez for 3 yards (tackle by Dre Kirkpatrick),1.290,0.270
+4,0:17,4,5,CIN 45,7,31,Sean Mannion pass complete short left to Wes Welker for 6 yards (tackle by Leon Hall),0.270,0.270
+4,0:08,4,5,CIN 45,7,31,Timeout #3 by Los Angeles Rams,0.270,2.980
+4,0:08,1,10,CIN 39,7,31,Sean Mannion pass complete short right to Bradley Marquez for 3 yards (tackle by Dre Kirkpatrick),2.980,2.850
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,18 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,BAL 20,3,1:50,8,Punt
+2,1,11:09,BAL 20,10,3:58,80,Touchdown
+3,1,3:39,BAL 10,8,3:54,21,Punt
+4,2,12:57,BAL 15,3,1:17,1,Interception
+5,2,11:35,BAL 20,7,3:27,40,Punt
+6,2,8:08,DEN 1,1,0:05,1,Touchdown
+7,2,5:34,BAL 20,3,1:27,-4,Punt
+8,2,3:19,BAL 16,13,3:12,77,Field Goal
+9,3,12:30,BAL 20,3,1:22,-6,Blocked Punt
+10,3,10:28,BAL 20,3,1:22,3,Punt
+11,3,6:37,BAL 20,3,1:42,9,Punt
+12,3,3:09,BAL 9,6,1:29,2,Punt
+13,3,0:55,BAL 12,4,1:09,14,Punt
+14,4,13:13,BAL 20,4,1:07,9,Interception
+15,4,12:06,BAL 20,5,1:38,80,Touchdown
+16,4,8:07,BAL 31,8,2:38,57,Field Goal
+17,4,4:30,BAL 20,5,2:11,7,Punt

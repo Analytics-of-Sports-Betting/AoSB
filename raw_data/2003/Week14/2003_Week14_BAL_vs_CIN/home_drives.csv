@@ -1,0 +1,16 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,BAL 26,3,1:23,6,Punt
+2,1,12:10,BAL 13,2,0:45,18,Fumble
+3,1,9:18,BAL 20,4,1:47,16,Punt
+4,1,7:31,CIN 27,6,3:03,27,Touchdown
+5,1,2:38,BAL 30,8,2:58,70,Touchdown
+6,2,13:00,BAL 44,3,1:21,-11,Punt
+7,2,9:55,BAL 22,3,1:14,8,Interception
+8,2,6:20,BAL 11,7,4:11,85,Field Goal
+9,2,0:37,BAL 30,1,0:37,-1,End of Half
+10,3,11:34,BAL 19,7,3:42,31,Punt
+11,3,6:25,CIN 17,3,0:54,17,Touchdown
+12,3,4:05,BAL 11,8,4:05,57,Interception
+13,4,12:28,CIN 21,2,0:40,21,Touchdown
+14,4,9:32,BAL 44,6,4:00,16,Punt
+15,4,2:16,BAL 44,4,2:16,14,End of Game

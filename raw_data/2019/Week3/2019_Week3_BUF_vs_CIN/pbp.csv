@@ -1,0 +1,184 @@
+Quarter,Time,Down,ToGo,Location,CIN,BUF,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Bengals won the coin toss and deferred, Bills to receive the opening kickoff.",,
+1,15:00,,,CIN 35,0,0,"Randy Bullock kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,BUF 25,0,0,Josh Allen pass incomplete short left intended for Lee Smith,0.610,0.060
+1,14:51,2,10,BUF 25,0,0,Josh Allen pass complete short left to Cole Beasley for 2 yards (tackle by Carlos Dunlap and Jessie Bates),0.060,-0.360
+1,14:10,3,8,BUF 27,0,0,Josh Allen sacked by Geno Atkins for -2 yards,-0.360,-1.700
+1,13:32,4,10,BUF 25,0,0,"Corey Bojorquez punts 42 yards, returned by Alex Erickson for 4 yards (tackle by Julian Stanford)",-1.700,-1.400
+1,13:20,1,10,CIN 37,0,0,Andy Dalton pass incomplete short right intended for John Ross,1.400,0.860
+1,13:16,2,10,CIN 37,0,0,Joe Mixon up the middle for 5 yards (tackle by Ed Oliver and Micah Hyde),0.860,0.830
+1,12:37,3,5,CIN 42,0,0,Andy Dalton pass incomplete short right intended for Auden Tate (defended by Jerry Hughes),0.830,-0.590
+1,12:33,4,5,CIN 42,0,0,"Kevin Huber punts 41 yards, fair catch by Andre Roberts at BUF-17",-0.590,0.060
+1,12:26,1,10,BUF 17,0,0,Frank Gore up the middle for 12 yards (tackle by Dre Kirkpatrick),-0.060,0.870
+1,11:47,1,10,BUF 29,0,0,Frank Gore right guard for 3 yards (tackle by Sam Hubbard),0.870,0.730
+1,11:12,2,7,BUF 32,0,0,Josh Allen pass complete short left to Cole Beasley for 10 yards (tackle by Tony McRae and William Jackson),0.730,1.730
+1,10:35,1,10,BUF 42,0,0,"Penalty on Dawson Knox: False Start, 5 yards (no play)",1.730,1.400
+1,10:12,1,15,BUF 37,0,0,T.J. Yeldon right guard for -2 yards (tackle by Andrew Billings),1.400,0.240
+1,9:34,2,17,BUF 35,0,0,Josh Allen pass incomplete short right intended for Tommy Sweeney,0.240,-0.430
+1,9:28,3,17,BUF 35,0,0,Josh Allen pass complete deep right to John Brown for 27 yards (tackle by Dre Kirkpatrick),-0.430,3.050
+1,8:38,1,10,CIN 38,0,0,Josh Allen pass complete short middle to Isaiah McKenzie for 9 yards (tackle by Shawn Williams),3.050,3.720
+1,8:03,2,1,CIN 29,0,0,Frank Gore right tackle for -1 yards (tackle by Andrew Billings),3.720,2.870
+1,7:19,3,2,CIN 30,0,0,"Josh Allen pass incomplete short right. Penalty on Josh Allen: Intentional Grounding, 22 yards",2.870,-0.190
+1,7:11,4,24,BUF 48,0,0,"Corey Bojorquez punts 33 yards, fair catch by Alex Erickson at CIN-19",-0.190,-0.150
+1,7:03,1,10,CIN 19,0,0,"Andy Dalton pass incomplete short left intended for Tyler Eifert. Penalty on Joe Mixon: Illegal Formation, 5 yards (no play)",0.150,-0.390
+1,7:00,1,15,CIN 14,0,0,Joe Mixon up the middle for 11 yards (tackle by Matt Milano),-0.390,0.480
+1,6:23,2,4,CIN 25,0,0,Andy Dalton pass incomplete short left intended for C.J. Uzomah (defended by Tremaine Edmunds),0.480,-0.290
+1,6:19,3,4,CIN 25,0,0,Andy Dalton pass incomplete short left intended for Auden Tate,-0.290,-1.700
+1,6:15,4,4,CIN 25,0,0,"Kevin Huber punts 48 yards, fair catch by Andre Roberts at BUF-27",-1.700,-0.740
+1,6:08,1,10,BUF 27,0,0,Josh Allen pass complete short right to Frank Gore for 13 yards (tackle by Nick Vigil),0.740,1.600
+1,5:33,1,10,BUF 40,0,0,Josh Allen pass complete short left to John Brown for 11 yards,1.600,2.320
+1,5:00,1,10,CIN 49,0,0,Frank Gore right tackle for no gain (tackle by Sam Hubbard),2.320,1.780
+1,4:20,2,10,CIN 49,0,0,John Brown right end for 4 yards (tackle by Shawn Williams and Sam Hubbard),1.780,1.620
+1,3:45,3,6,CIN 45,0,0,"Josh Allen pass complete short middle to Zay Jones for 23 yards (tackle by Jessie Bates). Penalty on Andrew Brown: Roughing the Passer, 11 yards",1.620,4.840
+1,3:27,1,10,CIN 11,0,0,"Josh Allen pass complete short left to Cole Beasley for 8 yards (tackle by Clayton Fejedelem). Penalty on Clayton Fejedelem: Face Mask (15 Yards), 2 yards",4.840,6.970
+1,3:07,1,1,CIN 1,0,6,"Josh Allen pass complete short right to Dawson Knox for 1 yard, touchdown",6.970,7.000
+1,3:03,,,CIN 15,0,6,"Penalty on CIN: Defensive Too Many Men on Field, 1 yard (no play)",1.000,1.000
+1,3:03,,,CIN 1,0,8,"Two Point Attempt: Josh Allen pass complete to Cole Beasley, conversion succeeds",1.000,1.000
+1,3:03,,,BUF 35,0,8,"Stephen Hauschka kicks off 57 yards, returned by Darius Phillips for 27 yards. Penalty on Auden Tate: Offensive Holding, 10 yards",0.000,0.610
+1,2:49,1,10,CIN 25,0,8,Joe Mixon up the middle for 3 yards (tackle by Matt Milano),0.610,0.470
+1,2:06,2,7,CIN 28,0,8,Joe Mixon right guard for -1 yards (tackle by Tremaine Edmunds),0.470,-0.360
+1,1:20,3,8,CIN 27,0,8,Andy Dalton pass incomplete short right intended for John Ross (defended by Lorenzo Alexander),-0.360,-1.570
+1,1:15,4,8,CIN 27,0,8,"Kevin Huber punts 39 yards, returned by Andre Roberts for 4 yards (tackle by Samaje Perine)",-1.570,-1.470
+1,1:06,1,10,BUF 38,0,8,"Josh Allen pass incomplete deep right intended for Dawson Knox (defended by Shawn Williams) Penalty on BUF: Illegal Formation, 5 yards (no play)",1.470,1.140
+1,1:00,1,15,BUF 33,0,8,T.J. Yeldon right end for 9 yards (tackle by Jessie Bates and Dre Kirkpatrick),1.140,1.460
+1,0:21,2,6,BUF 42,0,8,Dawson Knox left end for 9 yards (tackle by Shawn Williams),1.460,2.320
+Quarter,Time,Down,ToGo,Location,CIN,BUF,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,CIN 49,0,8,Frank Gore right tackle for 8 yards (tackle by Sam Hubbard),2.320,2.860
+2,14:23,2,2,CIN 41,0,8,Isaiah McKenzie right end for 8 yards (tackle by Jessie Bates),2.860,3.380
+2,13:44,1,10,CIN 33,0,8,"Josh Allen pass incomplete short right intended for John Brown (defended by Dre Kirkpatrick). Penalty on Dion Dawkins: Offensive Holding, 10 yards (no play)",3.380,2.720
+2,13:40,1,20,CIN 43,0,8,Josh Allen pass complete short left to T.J. Yeldon for 7 yards (tackle by Preston Brown and Andrew Billings),2.720,2.430
+2,12:51,2,13,CIN 36,0,8,Josh Allen pass complete short left to Dawson Knox for 17 yards (tackle by Clayton Fejedelem),2.430,4.310
+2,11:59,1,10,CIN 19,0,8,"Josh Allen for -128 yards. Josh Allen fumbles, recovered by Josh Allen at CIN-28 Josh Allen pass complete short middle to Tommy Sweeney for 3 yards (tackle by Preston Brown)",4.310,4.180
+2,11:17,2,7,CIN 16,0,8,Josh Allen up the middle for no gain (tackle by Preston Brown),4.180,3.410
+2,10:37,3,7,CIN 16,0,8,Josh Allen pass incomplete short middle intended for T.J. Yeldon,3.410,2.380
+2,10:33,4,7,CIN 16,0,11,Stephen Hauschka 34 yard field goal good,2.380,3.000
+2,10:29,,,BUF 35,0,11,"Stephen Hauschka kicks off 65 yards, touchback.",0.000,0.610
+2,10:29,1,10,CIN 25,0,11,"Andy Dalton pass complete short left to John Ross for 7 yards (tackle by Micah Hyde). John Ross fumbles (forced by Micah Hyde), recovered by Matt Milano at CIN-38 (tackle by Giovani Bernard)",0.610,-3.050
+2,10:20,1,10,CIN 38,0,11,Josh Allen left tackle for 4 yards (tackle by Shawn Williams and Geno Atkins),3.050,3.050
+2,9:39,2,6,CIN 34,0,11,T.J. Yeldon up the middle for 4 yards (tackle by Geno Atkins),3.050,2.870
+2,8:54,3,2,CIN 30,0,11,Josh Allen pass complete short right to Cole Beasley for 5 yards (tackle by Tony McRae),2.870,3.910
+2,8:10,1,10,CIN 25,0,11,Josh Allen pass incomplete deep right intended for Tommy Sweeney (defended by Dre Kirkpatrick),3.910,3.360
+2,8:04,,,,,,Timeout #1 by Buffalo Bills,,
+2,8:04,2,10,CIN 25,0,11,Josh Allen pass incomplete deep right intended for Dawson Knox,3.360,2.680
+2,7:58,3,10,CIN 25,0,11,Josh Allen pass complete short right to Zay Jones for 10 yards (tackle by Nick Vigil),2.680,4.580
+2,7:31,1,10,CIN 15,0,11,"T.J. Yeldon left end for 2 yards (tackle by Sam Hubbard). T.J. Yeldon fumbles (forced by Sam Hubbard), recovered by Preston Brown at CIN-11",4.580,0.370
+2,7:23,1,10,CIN 11,0,11,Andy Dalton pass complete short left to Tyler Boyd for -3 yards (tackle by Siran Neal),-0.370,-1.000
+2,6:42,2,13,CIN 8,0,11,Giovani Bernard left guard for 3 yards (tackle by Jordan Phillips and Tremaine Edmunds),-1.000,-1.420
+2,6:01,3,10,CIN 11,0,11,Andy Dalton pass complete short right to Auden Tate for 3 yards (tackle by Lorenzo Alexander),-1.420,-2.470
+2,5:16,4,7,CIN 14,0,11,Kevin Huber punts 30 yards downed by Samaje Perine,-2.470,-2.650
+2,5:05,1,10,CIN 44,0,11,Frank Gore up the middle for 1 yard (tackle by Josh Tupou),2.650,2.250
+2,4:26,2,9,CIN 43,0,11,Josh Allen pass complete short right to John Brown for 10 yards (tackle by Nick Vigil and Germaine Pratt),2.250,3.380
+2,3:42,1,10,CIN 33,0,11,Frank Gore up the middle for no gain (tackle by Andrew Billings and Andrew Brown),3.380,2.840
+2,3:05,2,10,CIN 33,0,11,Josh Allen pass complete short left to Cole Beasley for 6 yards (tackle by Dre Kirkpatrick),2.840,2.940
+2,2:19,3,4,CIN 27,0,11,Josh Allen pass incomplete short left intended for John Brown,2.940,1.750
+2,2:16,4,4,CIN 27,0,14,Stephen Hauschka 45 yard field goal good,1.750,3.000
+2,2:11,,,BUF 35,0,14,"Stephen Hauschka kicks off 65 yards, touchback.",0.000,0.610
+2,2:11,1,10,CIN 25,0,14,Andy Dalton pass incomplete short right intended for Tyler Boyd (defended by Trent Murphy),0.610,0.060
+2,2:06,2,10,CIN 25,0,14,Andy Dalton pass complete deep middle to Auden Tate for 24 yards (tackle by Kevin Johnson and Jordan Poyer),0.060,2.190
+2,1:57,1,10,CIN 49,0,14,Andy Dalton pass incomplete short right intended for Tyler Boyd,2.190,1.650
+2,1:51,2,10,CIN 49,0,14,Andy Dalton pass incomplete deep right intended for John Ross,1.650,0.960
+2,1:46,3,10,CIN 49,0,14,Andy Dalton sacked by Jordan Phillips for -8 yards,0.960,-0.650
+2,1:35,,,,,,Timeout #2 by Buffalo Bills,,
+2,1:35,4,18,CIN 41,0,14,"Kevin Huber punts 44 yards, returned by Andre Roberts for no gain (tackle by Preston Brown and Samaje Perine)",-0.650,0.220
+2,1:23,1,10,BUF 15,0,14,"Penalty on Andrew Brown: Encroachment, 5 yards (no play)",-0.220,0.680
+2,1:23,1,5,BUF 20,0,14,"Josh Allen left end for 7 yards (tackle by Brandon Wilson). Josh Allen fumbles, ball out of bounds at BUF-27 (forced by Brandon Wilson)",0.680,0.740
+2,1:03,1,10,BUF 27,0,14,Josh Allen pass complete short right to Cole Beasley for 6 yards (tackle by Jessie Bates),0.740,1.010
+2,0:39,2,4,BUF 33,0,14,Josh Allen up the middle for 11 yards (tackle by Nick Vigil),1.010,1.860
+2,0:23,1,10,BUF 44,0,14,Josh Allen spiked the ball,1.860,1.320
+2,0:22,2,10,BUF 44,0,14,Josh Allen pass complete short middle to T.J. Yeldon for 12 yards (tackle by Jessie Bates and Nick Vigil),1.320,2.650
+2,0:14,,,,,,Timeout #3 by Buffalo Bills,,
+2,0:14,1,10,CIN 44,0,14,Josh Allen pass incomplete deep right intended for Zay Jones,2.650,2.110
+2,0:07,2,10,CIN 44,0,14,Stephen Hauschka 62 yard field goal no good,2.110,-2.390
+2,0:02,1,10,BUF 48,0,14,"Penalty on Andre Smith: False Start, 5 yards (no play)",2.390,2.060
+2,0:02,1,15,CIN 47,0,14,"Andy Dalton pass complete deep right to Auden Tate for 32 yards (tackle by Tre'Davious White). Auden Tate fumbles (forced by Tre'Davious White), recovered by Jordan Poyer at BUF-20",2.060,0.000
+Quarter,Time,Down,ToGo,Location,CIN,BUF,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,BUF 35,0,14,"Stephen Hauschka kicks off 45 yards, returned by Darius Phillips for 10 yards (tackle by Jordan Poyer)",0.000,0.940
+3,14:57,1,10,CIN 30,0,14,Andy Dalton pass complete short left to Tyler Boyd for 11 yards (tackle by Jordan Poyer),0.940,1.660
+3,14:17,1,10,CIN 41,0,14,Joe Mixon up the middle for 4 yards (tackle by Jordan Poyer),1.660,1.660
+3,13:41,2,6,CIN 45,0,14,Andy Dalton pass incomplete short left,1.660,0.960
+3,13:36,3,6,CIN 45,0,14,Andy Dalton sacked by Kevin Johnson for -2 yards,0.960,-0.520
+3,13:01,4,8,CIN 43,0,14,"Kevin Huber punts 41 yards, returned by Andre Roberts for no gain (tackle by Preston Brown). Penalty on Maurice Alexander: Offensive Holding, 8 yards",-0.520,0.380
+3,12:50,1,10,BUF 8,0,14,Frank Gore up the middle for 3 yards (tackle by Shawn Williams),-0.380,-0.560
+3,12:17,2,7,BUF 11,0,14,Frank Gore up the middle for 15 yards (tackle by Jessie Bates and Shawn Williams),-0.560,0.670
+3,11:37,,,,,,Timeout #1 by Cincinnati Bengals,,
+3,11:37,1,10,BUF 26,0,14,Isaiah McKenzie left end for 5 yards (tackle by Carlos Dunlap),0.670,0.810
+3,10:59,2,5,BUF 31,0,14,T.J. Yeldon up the middle for 4 yards (tackle by Andrew Billings),0.810,0.630
+3,10:13,,,,,,Timeout #1 by Buffalo Bills,,
+3,10:13,3,1,BUF 35,0,14,Isaiah McKenzie right tackle for -3 yards (tackle by Tony McRae),0.630,-1.240
+3,9:31,4,4,BUF 32,0,14,"Corey Bojorquez punts 36 yards, returned by Alex Erickson for 4 yards (tackle by Siran Neal and Maurice Alexander)",-1.240,-1.330
+3,9:19,1,10,CIN 36,0,14,Joe Mixon right end for 10 yards (tackle by Jordan Poyer),1.330,1.990
+3,8:57,1,10,CIN 46,0,14,Joe Mixon up the middle for 1 yard (tackle by Siran Neal),1.990,1.590
+3,8:18,2,9,CIN 47,0,14,Andy Dalton pass short right intended for Tyler Boyd is intercepted by Tre'Davious White at BUF-39 and returned for 1 yard,1.590,-1.600
+3,8:11,1,10,BUF 40,0,14,Josh Allen pass incomplete short right,1.600,1.050
+3,8:04,2,10,BUF 40,0,14,Josh Allen pass complete short left to John Brown for 3 yards (tackle by William Jackson),1.050,0.760
+3,7:24,3,7,BUF 43,0,14,Josh Allen pass short right intended for Cole Beasley is intercepted by Darius Phillips at BUF-49 and returned for 27 yards,0.760,-4.110
+3,7:12,1,10,BUF 22,0,14,Joe Mixon right end for 3 yards (tackle by Levi Wallace),4.110,3.970
+3,6:30,2,7,BUF 19,0,14,Andy Dalton pass complete deep middle to Tyler Eifert for 18 yards (tackle by Jordan Poyer),3.970,6.970
+3,5:54,1,1,BUF 1,6,14,"Andy Dalton up the middle for 1 yard, touchdown",6.970,7.000
+3,5:50,,,BUF 15,7,14,Randy Bullock kicks extra point good,0.000,0.000
+3,5:50,,,CIN 35,7,14,"Randy Bullock kicks off 65 yards, touchback.",0.000,0.610
+3,5:50,1,10,BUF 25,7,14,Frank Gore up the middle for 22 yards (tackle by Jessie Bates),0.610,2.060
+3,5:27,1,10,BUF 47,7,14,T.J. Yeldon up the middle for 3 yards (tackle by Tony McRae),2.060,1.920
+3,4:49,2,7,BUF 50,7,14,T.J. Yeldon left tackle for 10 yards (tackle by Preston Brown),1.920,2.920
+3,4:06,1,10,CIN 40,7,14,Josh Allen pass incomplete deep middle intended for Robert Foster (defended by William Jackson),2.920,2.370
+3,3:58,2,10,CIN 40,7,14,Josh Allen pass complete short left to Frank Gore for no gain (tackle by Geno Atkins),2.370,1.680
+3,3:14,3,10,CIN 40,7,14,Josh Allen pass incomplete short middle intended for Cole Beasley,1.680,0.590
+3,3:08,4,10,CIN 40,7,14,"Corey Bojorquez punts 22 yards, fair catch by Alex Erickson at CIN-18",0.590,-0.040
+3,3:00,1,10,CIN 18,7,14,Joe Mixon right tackle for 14 yards (tackle by Jordan Poyer),0.040,1.070
+3,2:25,1,10,CIN 32,7,14,Andy Dalton pass complete short middle to Tyler Boyd for 15 yards (tackle by Jordan Poyer),1.070,2.060
+3,1:45,1,10,CIN 47,7,14,Joe Mixon right tackle for -1 yards (tackle by Shaq Lawson),2.060,1.380
+3,1:11,2,11,CIN 46,7,14,Andy Dalton pass complete short left to John Ross for 15 yards (tackle by Siran Neal),1.380,2.980
+3,0:35,1,10,BUF 39,7,14,Andy Dalton pass complete short left to Auden Tate for 7 yards (tackle by Levi Wallace),2.980,3.390
+3,0:03,2,3,BUF 32,7,14,Joe Mixon left guard for -1 yards (tackle by Jordan Phillips),3.390,2.540
+Quarter,Time,Down,ToGo,Location,CIN,BUF,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,4,BUF 33,7,14,Andy Dalton pass complete short left to Tyler Boyd for 11 yards (tackle by Jordan Poyer),2.540,4.110
+4,14:31,1,10,BUF 22,7,14,Andy Dalton pass complete short right to Tyler Boyd for 8 yards (tackle by Siran Neal),4.110,4.850
+4,14:00,2,2,BUF 14,7,14,Joe Mixon up the middle for 1 yard (tackle by Lorenzo Alexander),4.850,4.390
+4,13:19,3,1,BUF 13,7,14,Joe Mixon left end for 12 yards (tackle by Micah Hyde),4.390,6.970
+4,12:34,1,1,BUF 1,7,14,"Andy Dalton aborted snap, recovered by Tremaine Edmunds at BUF-2. Penalty on Jordan Phillips: Defensive Offside (no play)",6.970,6.970
+4,12:30,1,1,BUF 1,13,14,"Andy Dalton pass complete short right to Joe Mixon for 1 yard, touchdown",6.970,7.000
+4,12:27,,,BUF 15,14,14,Randy Bullock kicks extra point good,0.000,0.000
+4,12:27,,,CIN 35,14,14,"Randy Bullock kicks off 65 yards, touchback.",0.000,0.610
+4,12:27,1,10,BUF 25,14,14,Frank Gore left guard for 9 yards (tackle by Dre Kirkpatrick),0.610,1.280
+4,11:53,2,1,BUF 34,14,14,Frank Gore right tackle for 2 yards (tackle by Shawn Williams),1.280,1.330
+4,11:28,1,10,BUF 36,14,14,Frank Gore up the middle for 1 yard (tackle by Sam Hubbard and Geno Atkins),1.330,0.930
+4,10:48,2,9,BUF 37,14,14,Josh Allen pass complete short right to Cole Beasley for 4 yards (tackle by Shawn Williams),0.930,0.760
+4,10:06,3,5,BUF 41,14,14,Josh Allen left end for 4 yards (tackle by Geno Atkins),0.760,-0.390
+4,9:14,4,1,BUF 45,14,14,"Corey Bojorquez punts 40 yards, fair catch by Alex Erickson at CIN-15",-0.390,0.220
+4,9:06,1,10,CIN 15,14,14,Joe Mixon left guard for 1 yard (tackle by Star Lotulelei and Jerry Hughes),-0.220,-0.580
+4,8:32,2,9,CIN 16,14,14,Andy Dalton pass incomplete short left intended for John Ross,-0.580,-1.250
+4,8:28,3,9,CIN 16,14,14,Andy Dalton pass complete deep right to Tyler Boyd for 26 yards (tackle by Jordan Poyer),-1.250,1.730
+4,7:44,1,10,CIN 42,14,14,Joe Mixon right guard for -2 yards (tackle by Micah Hyde),1.730,0.920
+4,7:03,2,12,CIN 40,14,14,Andy Dalton pass complete short left to Joe Mixon for 33 yards (tackle by Jordan Poyer),0.920,3.780
+4,6:25,1,10,BUF 27,14,14,Giovani Bernard right end for 4 yards (tackle by Matt Milano),3.780,3.770
+4,5:43,2,6,BUF 23,14,14,Giovani Bernard up the middle for -2 yards (tackle by Tre'Davious White),3.770,2.810
+4,5:01,3,8,BUF 25,14,14,Andy Dalton pass incomplete short right intended for Tyler Boyd,2.810,1.800
+4,4:58,4,8,BUF 25,17,14,Randy Bullock 43 yard field goal good,1.800,3.000
+4,4:54,,,CIN 35,17,14,"Randy Bullock kicks off 66 yards, returned by Andre Roberts for 23 yards (tackle by Jordan Evans)",0.000,0.410
+4,4:48,1,10,BUF 22,17,14,Josh Allen pass complete short left to Cole Beasley for 7 yards (tackle by LaRoy Reynolds),0.410,0.810
+4,4:25,2,3,BUF 29,17,14,Josh Allen pass complete deep left to Dawson Knox for 49 yards (tackle by William Jackson),0.810,4.110
+4,3:43,1,10,CIN 22,17,14,Josh Allen right end for 6 yards (tackle by Dre Kirkpatrick),4.110,4.460
+4,3:09,2,4,CIN 16,17,14,Josh Allen left end for 8 yards (tackle by Sam Hubbard),4.460,5.370
+4,2:20,1,8,CIN 8,17,14,T.J. Yeldon up the middle for no gain (tackle by Andrew Brown),5.370,4.570
+4,2:00,2,8,CIN 8,17,14,Josh Allen right tackle for 7 yards (tackle by Andrew Brown and Shawn Williams),4.570,5.170
+4,1:54,,,,,,Timeout #2 by Cincinnati Bengals,,
+4,1:54,3,1,CIN 1,17,20,"Frank Gore left guard for 1 yard, touchdown",5.170,7.000
+4,1:50,,,CIN 15,17,21,Stephen Hauschka kicks extra point good,0.000,0.000
+4,1:50,,,BUF 35,17,21,"Stephen Hauschka kicks off 65 yards, touchback.",0.000,0.610
+4,1:50,1,10,CIN 25,17,21,Andy Dalton pass incomplete short middle intended for Auden Tate (defended by Lorenzo Alexander),0.610,0.060
+4,1:45,,,,,,Timeout #2 by Buffalo Bills,,
+4,1:45,2,10,CIN 25,17,21,Andy Dalton pass complete short left to Giovani Bernard for 2 yards (tackle by Matt Milano),0.060,-0.360
+4,1:39,3,8,CIN 27,17,21,"Andy Dalton pass complete short right to Auden Tate for 7 yards (tackle by Kevin Johnson). Penalty on Kevin Johnson: Defensive Holding, 5 yards (no play)",-0.360,1.070
+4,1:33,1,10,CIN 32,17,21,Andy Dalton pass complete short middle to Auden Tate for 12 yards (tackle by Matt Milano),1.070,1.860
+4,1:11,1,10,CIN 44,17,21,Andy Dalton pass complete short middle to Auden Tate for 10 yards (tackle by Tremaine Edmunds),1.860,2.520
+4,0:48,1,10,BUF 46,17,21,Andy Dalton pass incomplete short middle intended for Tyler Boyd,2.520,1.980
+4,0:45,2,10,BUF 46,17,21,Andy Dalton pass complete short right to Alex Erickson for 13 yards (tackle by Kevin Johnson),1.980,3.380
+4,0:38,1,10,BUF 33,17,21,Andy Dalton pass complete short right to Giovani Bernard for 5 yards (tackle by Micah Hyde),3.380,3.510
+4,0:21,2,5,BUF 28,17,21,Andy Dalton spiked the ball,3.510,2.810
+4,0:20,3,5,BUF 28,17,21,"Andy Dalton pass deep right intended for Auden Tate is intercepted by Tre'Davious White at BUF-10 and returned for no gain. Penalty on Bobby Hart: Disqualification, 15 yards",2.810,-0.610
+4,0:12,1,10,BUF 25,17,21,Josh Allen kneels for -1 yards,0.610,-0.070
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

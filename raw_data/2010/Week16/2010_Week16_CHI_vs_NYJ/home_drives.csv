@@ -1,0 +1,15 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,CHI 34,9,5:20,47,Field Goal
+2,1,6:47,NYJ 45,4,1:53,45,Touchdown
+3,2,14:56,CHI 25,2,1:04,-10,Interception
+4,2,13:52,CHI 40,3,1:14,2,Punt
+5,2,10:17,CHI 9,3,1:54,-7,Punt
+6,2,5:44,CHI 36,7,3:00,64,Touchdown
+7,2,0:12,CHI 39,1,0:12,3,End of Half
+8,3,13:28,NYJ 40,1,0:08,40,Touchdown
+9,3,12:06,NYJ 32,3,1:37,32,Touchdown
+10,3,8:36,NYJ 49,5,2:30,49,Touchdown
+11,4,14:52,CHI 34,8,3:26,49,Missed FG
+12,4,5:33,CHI 10,3,1:01,0,Punt
+13,4,3:02,CHI 5,5,1:59,13,Punt
+14,4,0:51,CHI 41,2,0:51,-2,End of Game

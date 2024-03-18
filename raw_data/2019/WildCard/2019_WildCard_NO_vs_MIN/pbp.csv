@@ -1,0 +1,188 @@
+Quarter,Time,Down,ToGo,Location,MIN,NOR,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Vikings won the coin toss, Vikings to receive the opening kickoff.",,
+1,15:00,,,NOR 35,0,0,"Wil Lutz kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,MIN 25,0,0,"Kirk Cousins pass incomplete short left intended for Stefon Diggs. Penalty on Janoris Jenkins: Defensive Holding, 5 yards (no play)",0.610,0.940
+1,14:56,1,10,MIN 30,0,0,Dalvin Cook left guard for 9 yards (tackle by Marcus Williams and Janoris Jenkins),0.940,1.610
+1,14:18,2,1,MIN 39,0,0,"Kirk Cousins pass complete short right to Adam Thielen for 3 yards (tackle by Janoris Jenkins). Adam Thielen fumbles (forced by Janoris Jenkins), recovered by Vonn Bell at MIN-43 and returned for 6 yards (tackle by Kyle Rudolph)",1.610,-3.120
+1,14:10,1,10,MIN 37,0,0,Alvin Kamara left guard for 4 yards (tackle by Linval Joseph and Eric Kendricks),3.120,3.110
+1,13:39,2,6,MIN 33,0,0,Latavius Murray left guard for 5 yards (tackle by Anthony Barr and Danielle Hunter),3.110,3.070
+1,13:06,3,1,MIN 28,0,0,Taysom Hill right tackle for 2 yards (tackle by Eric Wilson),3.070,3.840
+1,12:23,1,10,MIN 26,0,0,Drew Brees pass complete short left to Michael Thomas for 12 yards (tackle by Andrew Sendejo and Anthony Harris),3.840,4.650
+1,12:00,1,10,MIN 14,0,0,"Drew Brees pass incomplete short left intended for Alvin Kamara. Penalty on Everson Griffen: Illegal Use of Hands, 5 yards (no play)",4.650,5.140
+1,11:56,1,9,MIN 9,0,0,Latavius Murray left guard for 1 yard (tackle by Xavier Rhodes and Shamar Stephen),5.140,4.570
+1,11:12,2,8,MIN 8,0,0,Drew Brees pass complete short right to Jared Cook for 4 yards (tackle by Harrison Smith),4.570,4.490
+1,10:33,3,4,MIN 4,0,0,Drew Brees sacked by and Everson Griffen for -7 yards and Danielle Hunter for -7 yards,4.490,2.700
+1,9:56,4,11,MIN 11,0,3,Wil Lutz 29 yard field goal good,2.700,3.000
+1,9:52,,,NOR 35,0,3,"Wil Lutz kicks off 65 yards, touchback.",0.000,0.610
+1,9:52,1,10,MIN 25,0,3,Dalvin Cook right end for 7 yards (tackle by David Onyemata and Demario Davis),0.610,1.010
+1,9:15,2,3,MIN 32,0,3,Dalvin Cook left guard for 3 yards (tackle by David Onyemata),1.010,1.270
+1,8:41,1,10,MIN 35,0,3,Dalvin Cook left end for -1 yards (tackle by Shy Tuttle and Janoris Jenkins),1.270,0.590
+1,8:03,2,11,MIN 34,0,3,Kirk Cousins pass complete short right to Alexander Mattison for 10 yards (tackle by Chauncey Gardner-Johnson),0.590,1.220
+1,7:24,3,1,MIN 44,0,3,Dalvin Cook left end for 7 yards (tackle by Kiko Alonso),1.220,2.320
+1,6:42,1,10,NOR 49,0,3,Kirk Cousins pass complete short middle to Kyle Rudolph for 5 yards (tackle by Demario Davis),2.320,2.460
+1,6:06,2,5,NOR 44,0,3,Alexander Mattison right end for 16 yards (tackle by Marcus Williams),2.460,3.710
+1,5:40,1,10,NOR 28,0,3,Stefon Diggs sacked by and Malcom Brown for -6 yards and Janoris Jenkins for -6 yards,3.710,2.360
+1,4:52,2,16,NOR 34,0,3,Kirk Cousins pass incomplete deep middle intended for Kyle Rudolph (defended by Shy Tuttle),2.360,1.680
+1,4:47,3,16,NOR 34,0,3,Kirk Cousins pass complete short middle to Olabisi Johnson for 9 yards (tackle by Vonn Bell),1.680,1.800
+1,4:09,4,7,NOR 25,3,3,Dan Bailey 43 yard field goal good,1.800,3.000
+1,4:05,,,MIN 35,3,3,"Dan Bailey kicks off 63 yards, returned by Deonte Harris for 22 yards (tackle by Holton Hill). Penalty on Ricky Ortiz: Illegal Double-Team Block, 12 yards",0.000,-0.350
+1,3:58,1,10,NOR 12,3,3,Drew Brees pass complete short left to Michael Thomas for 5 yards (tackle by Xavier Rhodes),-0.350,-0.230
+1,3:24,2,5,NOR 17,3,3,Alvin Kamara right tackle for -1 yards (tackle by Anthony Barr),-0.230,-0.950
+1,2:49,3,6,NOR 16,3,3,Drew Brees pass incomplete short left intended for Alvin Kamara,-0.950,-2.390
+1,2:45,4,6,NOR 16,3,3,"Thomas Morstead punts 48 yards, fair catch by Marcus Sherels at MIN-36",-2.390,-1.330
+1,2:36,1,10,MIN 36,3,3,Dalvin Cook left end for 11 yards (tackle by Vonn Bell),1.330,2.060
+1,2:17,1,10,MIN 47,3,3,Dalvin Cook left end for 3 yards (tackle by David Onyemata),2.060,1.920
+1,1:43,2,7,MIN 50,3,3,"Alexander Mattison left end for 12 yards (tackle by David Onyemata). Penalty on Adam Thielen: Offensive Holding, 10 yards (no play)",1.920,0.570
+1,1:23,2,17,MIN 40,3,3,Kirk Cousins pass complete short right to Kyle Rudolph for 9 yards (tackle by Marshon Lattimore),0.570,1.090
+1,0:49,3,8,MIN 49,3,3,Kirk Cousins sacked by Trey Hendrickson for -6 yards,1.090,-0.520
+Quarter,Time,Down,ToGo,Location,MIN,NOR,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,4,14,MIN 43,3,3,"Britton Colquitt punts 57 yards, touchback.",-0.520,-0.280
+2,14:52,1,10,NOR 20,3,3,Drew Brees pass complete short left to Michael Thomas for 15 yards (tackle by Xavier Rhodes),0.280,1.270
+2,14:32,1,10,NOR 35,3,3,Drew Brees pass complete short right to Josh Hill for 1 yard (tackle by Eric Wilson),1.270,0.860
+2,14:00,2,9,NOR 36,3,3,Drew Brees pass incomplete short right intended for Josh Hill (defended by Danielle Hunter),0.860,0.170
+2,13:56,3,9,NOR 36,3,3,Drew Brees pass complete short right to Josh Hill for 2 yards (tackle by Anthony Barr),0.170,-0.850
+2,13:15,4,7,NOR 38,3,3,"Thomas Morstead punts 39 yards, returned by Marcus Sherels for 7 yards (tackle by Ricky Ortiz)",-0.850,-0.940
+2,13:04,1,10,MIN 30,3,3,Dalvin Cook left guard for 3 yards (tackle by Trey Hendrickson),0.940,0.800
+2,12:33,2,7,MIN 33,3,3,Adam Thielen right end for 3 yards (tackle by Chauncey Gardner-Johnson),0.800,0.500
+2,11:47,3,4,MIN 36,3,3,Kirk Cousins pass incomplete short right intended for Kyle Rudolph (defended by P.J. Williams),0.500,-0.980
+2,11:43,4,4,MIN 36,3,3,"Britton Colquitt punts 51 yards, returned by Deonte Harris for 17 yards (tackle by C.J. Ham)",-0.980,-0.940
+2,11:30,1,10,NOR 30,3,3,Alvin Kamara right tackle for 5 yards (tackle by Trae Waynes),0.940,1.070
+2,10:52,2,5,NOR 35,3,3,Taysom Hill right tackle for 11 yards (tackle by Eric Kendricks),1.070,1.990
+2,10:09,1,10,NOR 46,3,3,Taysom Hill pass complete deep middle to Deonte Harris for 50 yards (tackle by Harrison Smith),1.990,6.280
+2,9:23,1,4,MIN 4,3,9,"Alvin Kamara right end for 4 yards, touchdown",6.280,7.000
+2,9:18,,,MIN 15,3,10,Wil Lutz kicks extra point good,0.000,0.000
+2,9:18,,,NOR 35,3,10,"Wil Lutz kicks off 65 yards, touchback.",0.000,0.610
+2,9:18,1,10,MIN 25,3,10,Kirk Cousins pass incomplete deep middle intended for Adam Thielen,0.610,0.060
+2,9:11,2,10,MIN 25,3,10,Dalvin Cook right end for 3 yards (tackle by Kiko Alonso and Mario Edwards),0.060,-0.230
+2,8:27,3,7,MIN 28,3,10,Kirk Cousins pass complete short middle to Kyle Rudolph for 13 yards (tackle by Demario Davis),-0.230,1.660
+2,7:41,1,10,MIN 41,3,10,Dalvin Cook right end for 22 yards (tackle by Marcus Williams and Vonn Bell),1.660,3.120
+2,7:05,1,10,NOR 37,3,10,Alexander Mattison left tackle for 1 yard (tackle by Trey Hendrickson),3.120,2.710
+2,6:23,2,9,NOR 36,3,10,Dalvin Cook right tackle for 4 yards (tackle by A.J. Klein and Chauncey Gardner-Johnson),2.710,2.540
+2,5:40,3,5,NOR 32,3,10,Kirk Cousins pass complete short left to Adam Thielen for 8 yards (tackle by Marshon Lattimore),2.540,3.970
+2,5:04,1,10,NOR 24,3,10,Dalvin Cook left tackle for 2 yards (tackle by Taylor Stallworth),3.970,3.700
+2,4:25,2,8,NOR 22,3,10,Kirk Cousins pass complete short right to Dalvin Cook for 19 yards (tackle by Marcus Williams),3.700,6.510
+2,4:07,1,3,NOR 3,3,10,Alexander Mattison left guard for 2 yards (tackle by Vonn Bell),6.510,5.910
+2,3:39,2,1,NOR 1,3,10,Kirk Cousins pass incomplete short left intended for Tyler Conklin,5.910,5.170
+2,3:34,,,,,,Timeout #1 by Minnesota Vikings,,
+2,3:34,3,1,NOR 1,3,10,Dalvin Cook left end for -2 yards (tackle by Demario Davis),5.170,3.040
+2,2:58,4,3,NOR 3,6,10,Dan Bailey 21 yard field goal good,3.040,3.000
+2,2:54,,,MIN 35,6,10,"Dan Bailey kicks off 68 yards, returned by Deonte Harris for 27 yards (tackle by Holton Hill)",0.000,0.540
+2,2:49,1,10,NOR 24,6,10,Drew Brees pass incomplete deep middle intended for Tre'Quan Smith (defended by Andrew Sendejo),0.540,0.000
+2,2:44,2,10,NOR 24,6,10,Drew Brees pass complete short right to Alvin Kamara for 4 yards (tackle by Eric Kendricks and Danielle Hunter),0.000,-0.160
+2,2:18,3,6,NOR 28,6,10,Drew Brees pass deep middle intended for Ted Ginn is intercepted by Anthony Harris at MIN-25 and returned for 30 yards,-0.160,-2.590
+2,2:03,1,10,NOR 45,6,10,Dalvin Cook right guard for 2 yards (tackle by Trey Hendrickson),2.590,2.310
+2,1:58,2,8,NOR 43,6,10,Kirk Cousins pass complete deep middle to Adam Thielen for 19 yards (tackle by Vonn Bell),2.310,3.970
+2,1:26,1,10,NOR 24,6,10,Kirk Cousins pass incomplete short right intended for Dalvin Cook (defended by Demario Davis),3.970,3.430
+2,1:22,2,10,NOR 24,6,10,Dalvin Cook right guard for 6 yards (tackle by Marcus Williams and A.J. Klein),3.430,3.570
+2,1:17,,,,,,Timeout #1 by New Orleans Saints,,
+2,1:17,,,,,,Timeout #2 by Minnesota Vikings,,
+2,1:17,3,4,NOR 18,6,10,Kirk Cousins pass complete short left to Adam Thielen for 13 yards (tackle by Marcus Williams),3.570,6.060
+2,0:31,1,5,NOR 5,6,10,Kirk Cousins pass incomplete short left intended for Kyle Rudolph,6.060,5.150
+2,0:27,2,5,NOR 5,12,10,"Dalvin Cook right guard for 5 yards, touchdown",5.150,7.000
+2,0:23,,,NOR 15,13,10,Dan Bailey kicks extra point good,0.000,0.000
+2,0:23,,,MIN 35,13,10,"Dan Bailey kicks off 64 yards, returned by Deonte Harris for 54 yards (tackle by Dan Bailey)",0.000,2.590
+2,0:12,1,10,MIN 45,13,10,Drew Brees pass complete deep left to Michael Thomas for 20 yards (tackle by Harrison Smith),2.590,3.910
+2,0:05,,,,,,Timeout #2 by New Orleans Saints,,
+2,0:05,1,10,MIN 25,13,10,Wil Lutz 43 yard field goal no good,3.910,1.070
+Quarter,Time,Down,ToGo,Location,MIN,NOR,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,MIN 35,13,10,"Dan Bailey kicks off 57 yards, returned by Ricky Ortiz for 15 yards (tackle by Jayron Kearse)",0.000,0.480
+3,14:57,1,10,NOR 23,13,10,Alvin Kamara left guard for 3 yards (tackle by Shamar Stephen),0.480,0.340
+3,14:20,2,7,NOR 26,13,10,Drew Brees left end for 5 yards (tackle by Everson Griffen),0.340,0.300
+3,13:30,3,2,NOR 31,13,10,Drew Brees pass complete short right to Latavius Murray for 4 yards (tackle by Harrison Smith),0.300,1.270
+3,12:50,1,10,NOR 35,13,10,Drew Brees pass complete short left to Michael Thomas for 6 yards (tackle by Anthony Barr),1.270,1.530
+3,12:14,2,4,NOR 41,13,10,Latavius Murray right tackle for 3 yards (tackle by Linval Joseph and Andrew Sendejo),1.530,1.220
+3,11:33,3,1,NOR 44,13,10,Drew Brees pass complete short middle to Alvin Kamara for -6 yards (tackle by Jaleel Johnson),1.220,-0.850
+3,10:48,4,7,NOR 38,13,10,"Thomas Morstead punts 50 yards, fair catch by Marcus Sherels at MIN-12",-0.850,0.350
+3,10:40,1,10,MIN 12,13,10,"Dalvin Cook right guard for 11 yards (tackle by David Onyemata). Penalty on Brian O'Neill: Offensive Holding, 6 yards (no play)",-0.350,-0.610
+3,10:12,1,16,MIN 6,13,10,Alexander Mattison left tackle for 3 yards (tackle by A.J. Klein and Vonn Bell),-0.610,-1.000
+3,9:35,2,13,MIN 9,13,10,Kirk Cousins pass complete short middle to Dalvin Cook for 11 yards (tackle by Cameron Jordan),-1.000,-0.480
+3,8:52,3,2,MIN 20,13,10,Kirk Cousins pass incomplete short right intended for Olabisi Johnson,-0.480,-2.030
+3,8:48,4,2,MIN 20,13,10,"Britton Colquitt punts 46 yards, returned by Deonte Harris for no gain (tackle by Austin Cutting). Penalty on J.T. Gray: Illegal Blindside Block, 15 yards",-2.030,-0.150
+3,8:35,1,10,NOR 19,13,10,Drew Brees sacked by Everson Griffen for -10 yards,0.150,-1.510
+3,7:53,2,20,NOR 9,13,10,Drew Brees pass complete short left to Alvin Kamara for 9 yards (tackle by Anthony Barr),-1.510,-1.250
+3,7:14,3,11,NOR 18,13,10,Drew Brees pass incomplete short left intended for Michael Thomas (defended by Xavier Rhodes),-1.250,-2.240
+3,7:08,4,11,NOR 18,13,10,"Thomas Morstead punts 46 yards, fair catch by Marcus Sherels at MIN-36",-2.240,-1.330
+3,7:00,1,10,MIN 36,13,10,"Kirk Cousins pass incomplete short right intended for Irv Smith Jr.. Penalty on Chauncey Gardner-Johnson: Defensive Pass Interference, 10 yards (no play)",1.330,1.990
+3,6:55,1,10,MIN 46,13,10,Dalvin Cook left tackle for 1 yard (tackle by A.J. Klein),1.990,1.590
+3,6:20,2,9,MIN 47,13,10,Kirk Cousins pass incomplete short middle intended for Adam Thielen (defended by Shy Tuttle),1.590,0.890
+3,6:15,3,9,MIN 47,13,10,Kirk Cousins pass complete deep right to Adam Thielen for 34 yards (tackle by Marcus Williams),0.890,4.310
+3,5:50,1,10,NOR 19,13,10,Kirk Cousins pass complete short left to Olabisi Johnson for 8 yards (tackle by Demario Davis and Janoris Jenkins),4.310,5.140
+3,5:28,2,2,NOR 11,13,10,Dalvin Cook left guard for 1 yard (tackle by Demario Davis and Malcom Brown),5.140,4.690
+3,4:47,3,1,NOR 10,13,10,Kirk Cousins pass complete short right to Stefon Diggs for 9 yards (tackle by Marcus Williams),4.690,6.970
+3,4:08,1,1,NOR 1,13,10,Kirk Cousins up the middle for no gain (tackle by Craig Robertson and Shy Tuttle),6.970,5.910
+3,3:30,2,1,NOR 1,19,10,"Dalvin Cook right guard for 1 yard, touchdown",5.910,7.000
+3,3:23,,,NOR 15,20,10,Dan Bailey kicks extra point good,0.000,0.000
+3,3:23,,,MIN 35,20,10,"Dan Bailey kicks off 67 yards, returned by Deonte Harris for 30 yards (tackle by Ameer Abdullah)",0.000,0.810
+3,3:17,1,10,NOR 28,20,10,Drew Brees pass incomplete short left intended for Latavius Murray,0.810,0.260
+3,3:11,2,10,NOR 28,20,10,Alvin Kamara right guard for 4 yards (tackle by Anthony Barr),0.260,0.100
+3,2:36,3,6,NOR 32,20,10,Drew Brees pass complete short left to Alvin Kamara for 3 yards (tackle by Holton Hill),0.100,-1.040
+3,2:08,4,3,NOR 35,20,10,"Penalty on Josh Hill: False Start, 5 yards (no play)",-1.040,-1.370
+3,1:50,4,8,NOR 30,20,10,"Thomas Morstead punts 46 yards, returned by Marcus Sherels for 10 yards (tackle by Taysom Hill)",-1.370,-1.200
+3,1:41,1,10,MIN 34,20,10,Alexander Mattison right guard for -2 yards (tackle by Mario Edwards),1.200,0.390
+3,0:59,2,12,MIN 32,20,10,"Penalty on Riley Reiff: False Start, 5 yards (no play)",0.390,-0.290
+3,0:41,2,17,MIN 27,20,10,Kirk Cousins pass incomplete short right intended for Alexander Mattison (defended by Demario Davis),-0.290,-0.960
+3,0:31,3,17,MIN 27,20,10,Ameer Abdullah up the middle for 9 yards (tackle by A.J. Klein),-0.960,-0.980
+Quarter,Time,Down,ToGo,Location,MIN,NOR,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,4,8,MIN 36,20,10,Britton Colquitt punts 49 yards out of bounds,-0.980,0.220
+4,14:53,1,10,NOR 15,20,10,Drew Brees pass complete short left to Jared Cook for 14 yards (tackle by Harrison Smith and Eric Kendricks),-0.220,0.870
+4,14:17,1,10,NOR 29,20,10,Alvin Kamara left tackle for 2 yards (tackle by Stephen Weatherly),0.870,0.600
+4,13:42,2,8,NOR 31,20,10,Drew Brees pass complete short left to Alvin Kamara for 5 yards (tackle by Xavier Rhodes),0.600,0.560
+4,13:01,3,3,NOR 36,20,10,Drew Brees pass complete short right to Jared Cook for 14 yards (tackle by Anthony Harris),0.560,2.260
+4,12:21,1,10,NOR 50,20,10,Drew Brees pass complete deep right to Ted Ginn for 18 yards,2.260,3.450
+4,11:53,1,10,MIN 32,20,10,Latavius Murray left tackle for 4 yards (tackle by Eric Kendricks),3.450,3.440
+4,11:23,2,6,MIN 28,20,10,Latavius Murray left tackle for 8 yards (tackle by Danielle Hunter),3.440,4.240
+4,10:37,1,10,MIN 20,20,16,"Drew Brees pass complete deep left to Taysom Hill for 20 yards, touchdown",4.240,7.000
+4,10:31,,,MIN 15,20,17,Wil Lutz kicks extra point good,0.000,0.000
+4,10:31,,,NOR 35,20,17,"Wil Lutz kicks off 65 yards, touchback.",0.000,0.610
+4,10:31,1,10,MIN 25,20,17,Stefon Diggs left end for 6 yards (tackle by Shy Tuttle),0.610,0.870
+4,9:51,2,4,MIN 31,20,17,Dalvin Cook left guard for 3 yards (tackle by Craig Robertson),0.870,0.560
+4,9:10,3,1,MIN 34,20,17,C.J. Ham left guard for 3 yards (tackle by Demario Davis),0.560,1.400
+4,8:29,1,10,MIN 37,20,17,Stefon Diggs right end for 2 yards (tackle by Janoris Jenkins and Marcus Williams),1.400,1.130
+4,7:47,2,8,MIN 39,20,17,Dalvin Cook left end for no gain (tackle by Marshon Lattimore),1.130,0.430
+4,7:07,3,8,MIN 39,20,17,Kirk Cousins pass incomplete deep middle intended for Alexander Hollins (defended by Chauncey Gardner-Johnson),0.430,-0.780
+4,7:01,4,8,MIN 39,20,17,"Britton Colquitt punts 49 yards, returned by Deonte Harris for 17 yards (tackle by Tyler Conklin and Andrew Sendejo)",-0.780,-0.870
+4,6:49,1,10,NOR 29,20,17,Drew Brees pass complete short right to Taysom Hill for 5 yards (tackle by Trae Waynes),0.870,1.000
+4,6:16,2,5,NOR 34,20,17,Drew Brees pass complete short right to Alvin Kamara for 4 yards (tackle by Harrison Smith),1.000,0.830
+4,5:45,,,,,,Timeout #1 by New Orleans Saints,,
+4,5:45,3,1,NOR 38,20,17,Taysom Hill right tackle for 9 yards (tackle by Eric Wilson and Anthony Harris),0.830,2.060
+4,5:15,1,10,NOR 47,20,17,Drew Brees pass complete short left to Michael Thomas for 5 yards (tackle by Anthony Barr),2.060,2.190
+4,4:35,2,5,MIN 48,20,17,Taysom Hill left end for 28 yards (tackle by Harrison Smith),2.190,4.240
+4,4:26,1,10,MIN 20,20,17,"Drew Brees sacked by Danielle Hunter for -14 yards. Drew Brees fumbles (forced by Danielle Hunter), recovered by Jalyn Holmes at MIN-36 and returned for 1 yard (tackle by Ryan Ramczyk)",4.240,-1.400
+4,4:18,1,10,MIN 37,20,17,Dalvin Cook left guard for 1 yard (tackle by Craig Robertson and Vonn Bell),1.400,0.990
+4,3:39,2,9,MIN 38,20,17,Kirk Cousins pass incomplete deep left intended for Stefon Diggs,0.990,0.300
+4,3:33,3,9,MIN 38,20,17,Kirk Cousins pass complete short right to Adam Thielen for 9 yards (tackle by Marshon Lattimore),0.300,2.060
+4,3:27,1,10,MIN 47,20,17,Dalvin Cook left end for -7 yards (tackle by A.J. Klein),2.060,0.570
+4,3:01,2,17,MIN 40,20,17,Dalvin Cook left tackle for -2 yards (tackle by Trey Hendrickson),0.570,-0.360
+4,2:54,,,,,,Timeout #2 by New Orleans Saints,,
+4,2:54,3,19,MIN 38,20,17,Kirk Cousins sacked by Cameron Jordan for -4 yards,-0.360,-1.110
+4,2:10,4,23,MIN 34,20,17,"Britton Colquitt punts 46 yards, returned by Deonte Harris for 10 yards (tackle by Ameer Abdullah and Austin Cutting)",-1.110,-0.940
+4,1:55,1,10,NOR 30,20,17,Drew Brees pass complete short right to Alvin Kamara for 6 yards (tackle by Stephen Weatherly),0.940,1.200
+4,1:31,2,4,NOR 36,20,17,Drew Brees pass complete short right to Jared Cook for 8 yards (tackle by Harrison Smith),1.200,1.860
+4,1:26,1,10,NOR 44,20,17,Drew Brees pass complete short right to Alvin Kamara for 9 yards (tackle by Anthony Barr),1.860,2.530
+4,1:02,2,1,MIN 47,20,17,Drew Brees pass complete short middle to Michael Thomas for 7 yards (tackle by Harrison Smith),2.530,2.920
+4,0:44,1,10,MIN 40,20,17,Drew Brees pass complete short right to Jared Cook for 14 yards (tackle by Holton Hill and Harrison Smith),2.920,3.840
+4,0:21,1,10,MIN 26,20,17,"Drew Brees spiked the ball Penalty on NOR: False Start, 5 yards (no play)",3.840,3.510
+4,0:11,1,15,MIN 31,20,17,Drew Brees pass incomplete short right,3.510,2.620
+4,0:07,,,,,,Timeout #1 by Minnesota Vikings,,
+4,0:07,2,15,MIN 31,20,20,Wil Lutz 49 yard field goal good,2.620,3.000
+4,0:02,,,NOR 35,20,20,"Wil Lutz kicks off 43 yards, returned by Ameer Abdullah for 3 yards",0.000,0.610
+4,0:01,1,10,MIN 25,20,20,Kirk Cousins kneels for -1 yards,0.610,0.000
+Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime
+Quarter,Time,Down,ToGo,Location,MIN,NOR,Detail,EPB,EPA
+,,,,,,,"Vikings won the coin toss, Vikings to receive the overtime kickoff.",,
+OT,15:00,,,NOR 35,20,20,"Wil Lutz kicks off 65 yards, touchback.",0.000,0.610
+OT,15:00,1,10,MIN 25,20,20,Dalvin Cook left tackle for 3 yards (tackle by Cameron Jordan),0.610,0.470
+OT,14:25,2,7,MIN 28,20,20,Kirk Cousins pass complete short left to Dalvin Cook for 6 yards (tackle by Janoris Jenkins),0.470,0.560
+OT,13:45,3,1,MIN 34,20,20,Kirk Cousins pass complete short left to Stefon Diggs for 10 yards (tackle by Janoris Jenkins),0.560,1.860
+OT,13:24,1,10,MIN 44,20,20,Kirk Cousins pass incomplete short left intended for Dalvin Cook (defended by Trey Hendrickson),1.860,1.320
+OT,13:19,2,10,MIN 44,20,20,Dalvin Cook right tackle for 11 yards (tackle by A.J. Klein),1.320,2.590
+OT,12:42,1,10,NOR 45,20,20,Kirk Cousins pass complete deep right to Adam Thielen for 43 yards (tackle by Patrick Robinson),2.590,6.740
+OT,12:02,,,,,,Timeout #1 by Minnesota Vikings,,
+OT,12:02,1,2,NOR 2,20,20,Dalvin Cook left guard for 1 yard (tackle by A.J. Klein and Marcus Williams),6.740,5.910
+OT,11:26,2,1,NOR 1,20,20,Dalvin Cook left end for -3 yards (tackle by Craig Robertson),5.910,4.490
+OT,10:45,3,4,NOR 4,26,20,"Kirk Cousins pass complete short left to Kyle Rudolph for 4 yards, touchdown",4.490,6.000
+End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime

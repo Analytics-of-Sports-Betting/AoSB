@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,DET 23,9,4:46,77,Touchdown
+2,1,2:22,DET 20,3,1:45,-6,Punt
+3,2,12:56,DET 20,11,6:00,44,Missed FG
+4,2,5:24,DET 3,11,4:45,62,Downs
+5,2,0:11,CHI 38,3,0:11,-2,Field Goal
+6,3,9:03,DET 13,3,2:13,-5,Punt
+7,3,5:28,DET 28,8,4:21,72,Touchdown
+8,4,13:20,DET 20,8,4:34,80,Touchdown
+9,4,5:39,DET 4,4,2:04,8,Punt
+10,4,1:51,DET 33,6,1:51,7,End of Game

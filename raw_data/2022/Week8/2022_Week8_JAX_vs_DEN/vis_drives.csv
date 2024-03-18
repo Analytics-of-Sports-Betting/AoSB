@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,DEN 22,3,1:32,-3,Punt
+2,1,11:08,DEN 17,2,0:32,2,Interception
+3,1,7:40,DEN 25,4,2:36,7,Punt
+4,2,12:42,DEN 20,3,1:50,5,Punt
+5,2,8:43,DEN 25,11,5:59,75,Touchdown
+6,2,1:01,DEN 9,9,1:01,36,Downs
+7,3,9:29,DEN 2,9,4:22,98,Touchdown
+8,3,2:06,DEN 25,3,1:36,-6,Punt
+9,4,14:20,DEN 20,3,1:29,3,Punt
+10,4,8:18,DEN 7,3,1:12,0,Punt
+11,4,3:54,DEN 20,7,2:11,80,Touchdown
+12,4,1:36,JAX 35,4,1:36,10,End of Game

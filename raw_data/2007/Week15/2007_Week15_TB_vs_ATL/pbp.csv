@@ -1,0 +1,159 @@
+Quarter,Time,Down,ToGo,Location,ATL,TAM,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Falcons won the coin toss, Falcons to receive the opening kickoff.",,
+1,15:00,,,TAM 30,0,0,"Matt Bryant kicks off 71 yards, returned by Jerious Norwood for 19 yards (tackle by Quincy Black)",0.000,0.040
+1,14:54,1,10,ATL 18,0,0,Chris Redman pass incomplete short left intended for Ovie Mughelli,0.040,-0.490
+1,14:48,2,10,ATL 18,0,0,Warrick Dunn right guard for 4 yards (tackle by Kevin Carter),-0.490,-0.660
+1,14:11,3,6,ATL 22,0,6,"Chris Redman pass incomplete short right intended for Michael Jenkins is intercepted by Ronde Barber at ATL-29 and returned for 29 yards, touchdown",-0.660,-7.000
+1,,,,ATL 2,0,7,Matt Bryant kicks extra point good,0.000,0.000
+1,,,,TAM 30,0,7,"Matt Bryant kicks off 60 yards, returned by Jerious Norwood for 13 yards (tackle by Will Allen)",0.000,0.480
+1,13:54,1,10,ATL 23,0,7,Chris Redman pass complete short right to Michael Jenkins for 5 yards (tackle by Jermaine Phillips),0.480,0.610
+1,13:17,2,5,ATL 28,0,7,Jerious Norwood left end for -2 yards (tackle by Barrett Ruud),0.610,-0.360
+1,12:40,3,7,ATL 26,0,7,Chris Redman pass incomplete short left intended for Warrick Dunn,-0.360,-1.630
+1,12:32,4,7,ATL 26,0,7,"Michael Koenen punts 40 yards, returned by Ike Hilliard for 8 yards (tackle by Ovie Mughelli)",-1.630,-1.730
+1,12:20,1,10,TAM 42,0,7,Earnest Graham up the middle for 5 yards (tackle by Lawyer Milloy and Demorrio Williams),1.730,1.860
+1,11:40,2,5,TAM 47,0,7,Earnest Graham up the middle for 3 yards (tackle by Michael Boley),1.860,1.550
+1,11:03,3,2,,0,7,Jeff Garcia pass complete short left to Earnest Graham for 5 yards (tackle by Keith Brooking),1.550,2.590
+1,10:22,1,10,ATL 45,0,7,Jeff Garcia pass incomplete short right intended for Michael Clayton,2.590,2.040
+1,10:15,2,10,ATL 45,0,7,Jeff Garcia pass incomplete short right intended for Joey Galloway,2.040,1.360
+1,10:08,3,10,ATL 45,0,7,Jeff Garcia pass incomplete short middle intended for Ike Hilliard,1.360,0.270
+1,10:01,4,10,ATL 45,0,7,"Penalty on Quincy Black: False Start, 5 yards (no play)",0.270,-0.060
+1,10:01,4,15,,0,7,Josh Bidwell punts 24 yards,-0.060,-0.670
+1,9:56,1,10,ATL 26,0,7,Jerious Norwood right guard for 9 yards (tackle by Tanard Jackson),0.670,1.350
+1,9:26,2,1,ATL 35,0,7,Jerious Norwood left guard for 29 yards (tackle by Derrick Brooks),1.350,3.180
+1,9:05,1,10,TAM 36,0,7,Chris Redman pass complete short middle to Laurent Robinson for 18 yards (tackle by Gaines Adams),3.180,4.370
+1,8:28,1,10,TAM 18,0,7,Warrick Dunn up the middle for 3 yards (tackle by Jermaine Phillips),4.370,4.250
+1,7:57,2,7,TAM 15,0,7,Warrick Dunn left tackle for -1 yards (tackle by Barrett Ruud and Gaines Adams),4.250,3.300
+1,7:16,3,8,TAM 16,0,7,Chris Redman up the middle for 1 yard (tackle by Jovan Haye and Barrett Ruud),3.300,2.440
+1,6:38,4,7,TAM 15,3,7,Morten Andersen 33 yard field goal good,2.440,3.000
+1,,,,ATL 30,3,13,"Michael Koenen kicks off 60 yards, returned by Micheal Spurlock for 90 yards, touchdown",0.000,7.000
+1,,,,ATL 2,3,14,Matt Bryant kicks extra point good,0.000,0.000
+1,,,,TAM 30,3,14,"Matt Bryant kicks off 71 yards, returned by Adam Jennings for 28 yards (tackle by Kalvin Pearson)",0.000,0.740
+1,6:09,1,10,ATL 27,3,14,Warrick Dunn right guard for 15 yards (tackle by Gaines Adams),0.740,1.730
+1,5:46,1,10,ATL 42,3,14,Chris Redman pass incomplete deep left intended for Roddy White,1.730,1.190
+1,5:38,2,10,ATL 42,3,14,Ovie Mughelli up the middle for 1 yard (tackle by Kevin Carter),1.190,0.630
+1,5:02,3,9,ATL 43,3,14,Chris Redman pass incomplete short middle intended for Warrick Dunn,0.630,-0.520
+1,4:57,4,9,ATL 43,3,14,"Michael Koenen punts 36 yards, returned by Ike Hilliard for 7 yards (tackle by David Irons)",-0.520,-0.810
+1,4:48,1,10,TAM 28,3,14,Earnest Graham left guard for 8 yards (tackle by Michael Boley and Lawyer Milloy),0.810,1.340
+1,4:11,2,2,TAM 36,3,14,Earnest Graham right guard for 4 yards (tackle by Lawyer Milloy),1.340,1.600
+1,3:31,1,10,TAM 40,3,14,Michael Pittman up the middle for 2 yards (tackle by Demorrio Williams),1.600,1.320
+1,2:54,2,8,TAM 42,3,14,"Jeff Garcia pass incomplete deep middle intended for Joey Galloway. Penalty on Chris Crocker: Defensive Pass Interference, 19 yards (no play)",1.320,2.980
+1,2:43,1,10,ATL 39,3,14,Jeff Garcia sacked by Chauncey Davis for -5 yards,2.980,1.770
+1,2:10,2,15,ATL 44,3,14,Earnest Graham left end for 4 yards (tackle by DeAngelo Hall and Keith Brooking),1.770,1.620
+1,1:33,3,11,ATL 40,3,14,Jeff Garcia pass complete short right to Joey Galloway for 7 yards (tackle by DeAngelo Hall),1.620,1.180
+1,0:47,4,4,ATL 33,3,14,Jeff Garcia pass complete short right to Ike Hilliard for 9 yards (tackle by Chris Houston),1.180,3.970
+Quarter,Time,Down,ToGo,Location,ATL,TAM,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,ATL 24,3,14,Earnest Graham right tackle for 4 yards (tackle by Tim Anderson and Keith Brooking),3.970,3.970
+2,14:34,2,6,ATL 20,3,14,Michael Clayton right end for no gain (tackle by Chris Crocker),3.970,3.270
+2,14:05,3,6,ATL 20,3,14,Jeff Garcia pass complete short middle to Michael Pittman for 6 yards (tackle by Keith Brooking),3.270,4.650
+2,13:17,1,10,ATL 14,3,14,Earnest Graham up the middle for 4 yards (tackle by Jamaal Anderson),4.650,4.710
+2,12:54,2,6,ATL 10,3,14,Earnest Graham right tackle for 4 yards (tackle by Jamaal Anderson and Jonathan Babineaux),4.710,4.730
+2,12:09,3,2,ATL 6,3,14,Jeff Garcia sacked by John Abraham for -9 yards,4.730,2.440
+2,11:31,4,11,ATL 15,3,17,Matt Bryant 33 yard field goal good,2.440,3.000
+2,,,,TAM 30,3,17,"Matt Bryant kicks off 61 yards, returned by Adam Jennings for 25 yards (tackle by Will Allen). Penalty on ATL: Offensive Holding, 10 yards",0.000,0.280
+2,11:16,1,10,ATL 20,3,17,Jerious Norwood left guard for 12 yards (tackle by Jermaine Phillips),0.280,1.070
+2,10:42,1,10,ATL 32,3,17,Jerious Norwood up the middle for 5 yards (tackle by Barrett Ruud),1.070,1.200
+2,10:14,2,5,ATL 37,3,17,Jerious Norwood left end for 2 yards (tackle by Barrett Ruud),1.200,0.760
+2,9:34,3,3,ATL 39,3,17,Chris Redman pass incomplete short left intended for Roddy White,0.760,-0.780
+2,9:28,4,3,ATL 39,3,17,"Michael Koenen punts 41 yards, returned by Ike Hilliard for 8 yards (tackle by Tony Taylor)",-0.780,-0.810
+2,9:17,1,10,TAM 28,3,17,Earnest Graham right end for 4 yards (tackle by Stephen Nicholas),0.810,0.800
+2,8:39,2,6,TAM 32,3,17,Jeff Garcia pass incomplete short left intended for Alex Smith (defended by Lawyer Milloy),0.800,0.100
+2,8:30,3,6,TAM 32,3,17,Jeff Garcia pass complete short middle to Michael Clayton for 11 yards (tackle by Chris Houston),0.100,1.800
+2,7:49,1,10,TAM 43,3,17,Michael Pittman right tackle for -4 yards (tackle by Jonathan Babineaux),1.800,0.710
+2,7:10,2,14,TAM 39,3,17,Jeff Garcia pass complete short left to Earnest Graham for 12 yards (tackle by Lawyer Milloy),0.710,1.620
+2,6:22,3,2,ATL 49,3,17,Jeff Garcia pass incomplete short middle intended for Joey Galloway (defended by DeAngelo Hall),1.620,0.000
+2,6:17,4,2,ATL 49,3,17,"Josh Bidwell punts 34 yards, returned by Adam Jennings for no gain. Adam Jennings fumbles, recovered by Chris Houston at ATL-12 (tackle by Kalvin Pearson)",0.000,0.350
+2,6:05,1,10,ATL 12,3,17,Jerious Norwood left end for 1 yard (tackle by Jovan Haye),-0.350,-0.700
+2,5:30,2,9,ATL 13,3,17,Chris Redman pass incomplete short middle intended for Jerious Norwood (defended by Barrett Ruud),-0.700,-1.300
+2,5:22,3,9,ATL 13,3,17,"Chris Redman sacked by Gaines Adams for -8 yards. Chris Redman fumbles (forced by Gaines Adams), recovered by Jovan Haye at ATL-6 (tackle by D'Anthony Batiste)",-1.300,-5.830
+2,5:15,1,6,ATL 6,3,17,Earnest Graham right tackle for 1 yard (tackle by Keith Brooking),5.830,5.150
+2,4:34,2,5,ATL 5,3,17,"Earnest Graham up the middle for 3 yards (tackle by Montavious Stanley). Penalty on Jamaal Anderson: Unnecessary Roughness (Declined), Penalty on DeAngelo Hall: Unnecessary Roughness, 1 yards",5.150,6.970
+2,4:16,1,1,ATL 1,3,23,"Earnest Graham up the middle for 1 yard, touchdown",6.970,7.000
+2,,,,ATL 2,3,24,Matt Bryant kicks extra point good,0.000,0.000
+2,,,,TAM 30,3,24,"Matt Bryant kicks onside 14 yards, recovered by Kalvin Pearson (onside kick successful). Penalty on Patrick Chukwurah: Unnecessary Roughness (Offsetting), Penalty on Demorrio Williams: Unnecessary Roughness (Offsetting)",0.000,1.860
+2,4:05,1,10,TAM 44,3,24,Earnest Graham up the middle for 3 yards (tackle by Jonathan Babineaux and Keith Brooking),1.860,1.720
+2,3:22,2,7,TAM 47,3,24,"Jeff Garcia pass incomplete short right intended for Joey Galloway. Penalty on DeAngelo Hall: Defensive Pass Interference, 13 yards (no play)",1.720,2.920
+2,3:13,,,,3,24,Timeout #1 by Tampa Bay Buccaneers,0.000,2.920
+2,3:13,1,10,ATL 40,3,24,"Penalty on Jeff Garcia: Delay of Game, 5 yards (no play)",2.920,2.590
+2,3:13,1,15,ATL 45,3,24,Earnest Graham right end for 1 yard (tackle by Lawyer Milloy),2.590,1.830
+2,2:29,2,14,ATL 44,3,24,Jeff Garcia pass complete short left to Anthony Becht for 9 yards (tackle by Demorrio Williams),1.830,2.340
+2,2:00,3,5,ATL 35,3,24,Jeff Garcia pass complete short left to Michael Clayton for 11 yards (tackle by Jimmy F. Williams),2.340,3.970
+2,1:23,1,10,ATL 24,3,24,Jeff Garcia pass incomplete short right intended for Joey Galloway is intercepted by DeAngelo Hall at ATL-11,3.970,0.370
+2,1:14,1,10,ATL 11,3,24,"Warrick Dunn left tackle for no gain (tackle by Stylez G. White). Warrick Dunn fumbles (forced by Stylez G. White), recovered by Stylez G. White at ATL-11 (tackle by Quinn Ojinnaka). Penalty on TAM: Unsportsmanlike Conduct, 15 yards",-0.370,-3.840
+2,0:55,1,10,ATL 26,3,24,Michael Pittman up the middle for 2 yards (tackle by Michael Boley),3.840,3.570
+2,0:37,2,8,ATL 24,3,24,Jeff Garcia pass complete short middle to Michael Pittman for 13 yards (tackle by Michael Boley),3.570,4.840
+2,0:37,,,,3,24,Timeout #2 by Tampa Bay Buccaneers,0.000,4.840
+2,0:35,1,10,ATL 11,3,24,Jeff Garcia pass incomplete short right intended for Joey Galloway,4.840,4.140
+2,0:28,,,,3,24,Timeout #3 by Tampa Bay Buccaneers,0.000,4.140
+2,0:28,2,10,ATL 11,3,24,Jeff Garcia pass complete short right to Michael Pittman for 1 yard (tackle by Lawyer Milloy),4.140,3.300
+2,0:03,3,9,ATL 10,3,24,Jeff Garcia spiked the ball,3.300,2.760
+2,0:03,4,9,ATL 10,3,27,Matt Bryant 28 yard field goal good,2.760,3.000
+Quarter,Time,Down,ToGo,Location,ATL,TAM,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,ATL 30,3,27,"Michael Koenen kicks off 59 yards, returned by Micheal Spurlock for 8 yards (tackle by Ovie Mughelli)",0.000,0.150
+3,14:55,1,10,TAM 19,3,27,"Earnest Graham up the middle for 11 yards (tackle by Chris Crocker). Penalty on John Wade: Offensive Holding, 9 yards (no play)",0.150,-0.720
+3,14:20,1,19,TAM 10,3,27,Earnest Graham up the middle for 8 yards (tackle by Keith Brooking),-0.720,-0.560
+3,13:56,2,11,TAM 18,3,27,Earnest Graham right end for 7 yards (tackle by Keith Brooking),-0.560,-0.290
+3,13:11,3,4,TAM 25,3,27,Jeff Garcia pass complete short right to Earnest Graham for 13 yards (tackle by DeAngelo Hall),-0.290,1.470
+3,12:23,1,10,TAM 38,3,27,Michael Pittman left guard for 5 yards (tackle by Lawyer Milloy),1.470,1.600
+3,11:48,2,5,TAM 43,3,27,Michael Pittman up the middle for 8 yards (tackle by Michael Boley),1.600,2.320
+3,11:03,1,10,ATL 49,3,27,Michael Pittman left guard for 2 yards (tackle by Montavious Stanley and Keith Brooking),2.320,2.050
+3,10:35,2,8,ATL 47,3,27,Earnest Graham right guard for 6 yards (tackle by Lewis Sanders),2.050,2.150
+3,9:56,3,2,ATL 41,3,27,Earnest Graham up the middle for 4 yards (tackle by Keith Brooking),2.150,3.120
+3,9:13,1,10,ATL 37,3,27,Earnest Graham right guard for 1 yard (tackle by Lawyer Milloy and Chauncey Davis),3.120,2.710
+3,8:30,,,,3,27,Timeout #1 by Tampa Bay Buccaneers,0.000,2.710
+3,8:29,2,9,ATL 36,3,27,Jeff Garcia pass incomplete short left intended for Joey Galloway,2.710,2.010
+3,8:26,3,9,ATL 36,3,27,Jeff Garcia pass complete short left to Earnest Graham for 3 yards (tackle by Demorrio Williams). Penalty on Michael Pittman: Illegal Formation (Declined),2.010,1.160
+3,7:59,4,6,ATL 33,3,27,Josh Bidwell punts 25 yards,1.160,0.380
+3,7:47,1,10,ATL 8,3,27,Warrick Dunn left tackle for 3 yards (tackle by Barrett Ruud),-0.380,-0.560
+3,7:15,2,7,ATL 11,3,27,Jerious Norwood right end for 8 yards (tackle by Barrett Ruud and Chris Hovan),-0.560,0.150
+3,6:36,1,10,ATL 19,3,27,Chris Redman pass incomplete short middle intended for Jerious Norwood is intercepted by Jermaine Phillips at ATL-25 and returned for 2 yards (tackle by Jerious Norwood),0.150,-4.040
+3,6:28,1,10,ATL 23,3,27,Earnest Graham right end for -1 yards (tackle by Lewis Sanders and Demorrio Williams),4.040,3.360
+3,5:43,2,11,ATL 24,3,27,Jeff Garcia pass complete short middle to Earnest Graham for 7 yards (tackle by Keith Brooking),3.360,3.660
+3,5:01,3,4,ATL 17,3,27,Jeff Garcia pass complete short left to Byron Storer for 1 yard (tackle by Keith Brooking),3.660,2.480
+3,4:13,4,3,ATL 16,3,30,Matt Bryant 34 yard field goal good,2.480,3.000
+3,,,,TAM 30,3,30,"Matt Bryant kicks off 65 yards, returned by Adam Jennings for 13 yards (tackle by Will Allen)",0.000,0.040
+3,4:02,1,10,ATL 18,3,30,Chris Redman pass incomplete short middle intended for Alge Crumpler (defended by Chris Hovan),0.040,-0.490
+3,3:57,2,10,ATL 18,3,30,Chris Redman pass incomplete short right intended for Laurent Robinson (defended by Kevin Carter),-0.490,-1.170
+3,3:49,3,10,ATL 18,3,30,Chris Redman pass complete short left to Warrick Dunn for 7 yards (tackle by Derrick Brooks). Penalty on D'Anthony Batiste: Ineligible Downfield Pass (Declined),-1.170,-1.700
+3,3:37,4,3,ATL 25,3,30,"Michael Koenen punts 49 yards, returned by Ike Hilliard for 4 yards (tackle by Stephen Nicholas). Penalty on Ronde Barber: Illegal Block Above the Waist, 10 yards",-1.700,-0.280
+3,3:17,1,10,TAM 20,3,30,Earnest Graham up the middle for 3 yards (tackle by Demorrio Williams),0.280,0.140
+3,2:52,2,7,TAM 23,3,30,Earnest Graham up the middle for 2 yards (tackle by Lawyer Milloy),0.140,-0.300
+3,2:12,3,5,TAM 25,3,30,Michael Pittman left end for 5 yards (tackle by Lewis Sanders),-0.300,0.940
+3,1:24,1,10,TAM 30,3,30,Michael Pittman right guard for 7 yards (tackle by Kevin Huntley),0.940,1.340
+3,0:40,2,3,TAM 37,3,30,Michael Pittman left guard for 2 yards (tackle by Lawyer Milloy),1.340,0.890
+Quarter,Time,Down,ToGo,Location,ATL,TAM,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,1,TAM 39,3,30,Jeff Garcia pass incomplete short right intended for Michael Pittman,0.890,-0.780
+4,14:54,4,1,TAM 39,3,30,Josh Bidwell punts 54 yards,-0.780,0.380
+4,14:41,1,10,ATL 7,3,30,Chris Redman pass incomplete deep right intended for Roddy White,-0.380,-0.780
+4,14:34,2,10,ATL 7,3,30,Chris Redman pass complete short left to Roddy White for 4 yards (tackle by Tanard Jackson),-0.780,-0.950
+4,14:03,3,6,ATL 11,3,30,"Chris Redman up the middle for 6 yards (tackle by Barrett Ruud). Chris Redman fumbles (forced by Barrett Ruud), recovered by Alge Crumpler at ATL-17. Penalty on Quinn Ojinnaka: Offensive Holding, 5 yards (no play)",-0.950,-1.540
+4,13:35,3,11,ATL 6,3,30,Jerious Norwood up the middle for 9 yards (tackle by Cato June and Barrett Ruud),-1.540,-2.440
+4,13:00,4,2,ATL 15,3,30,"Michael Koenen punts 44 yards, returned by Ike Hilliard for 4 yards (tackle by Stephen Nicholas)",-2.440,-1.930
+4,12:50,1,10,TAM 45,3,30,Michael Bennett right end for 28 yards (tackle by Chris Crocker),1.930,3.780
+4,12:04,1,10,ATL 27,3,30,Michael Bennett up the middle for 11 yards (tackle by Chris Crocker),3.780,4.510
+4,11:20,1,10,ATL 16,3,30,Michael Bennett right guard for 6 yards (tackle by Chauncey Davis),4.510,4.970
+4,10:35,2,4,ATL 10,3,30,Michael Bennett up the middle for 2 yards (tackle by Jonathan Babineaux and Chauncey Davis),4.970,4.620
+4,9:55,3,2,ATL 8,3,30,Michael Bennett right tackle for 5 yards (tackle by Chris Crocker),4.620,6.510
+4,9:09,1,3,ATL 3,3,30,Michael Bennett up the middle for 2 yards (tackle by Jamaal Anderson and DeAngelo Hall),6.510,5.910
+4,8:28,2,1,ATL 1,3,30,Michael Pittman up the middle for no gain (tackle by Jonathan Babineaux),5.910,5.170
+4,7:48,3,1,ATL 1,3,36,"Jeff Garcia pass complete short right to Anthony Becht for 1 yard, touchdown",5.170,7.000
+4,,,,ATL 2,3,37,Matt Bryant kicks extra point good,0.000,0.000
+4,,,,TAM 30,3,37,"Matt Bryant kicks off 71 yards, returned by Adam Jennings for 31 yards (tackle by Quincy Black)",0.000,0.940
+4,7:35,1,10,ATL 30,3,37,Warrick Dunn left guard for no gain (tackle by Ryan Sims),0.940,0.390
+4,6:57,2,10,ATL 30,3,37,Warrick Dunn left guard for 8 yards (tackle by Ryan Nece),0.390,0.760
+4,6:19,3,2,ATL 38,3,37,Jason Snelling left tackle for -1 yards (tackle by Ryan Sims),0.760,-0.910
+4,5:43,4,3,ATL 37,3,37,"Michael Koenen punts 63 yards, touchback",-0.910,-0.280
+4,5:33,1,10,TAM 20,3,37,Michael Pittman up the middle for 2 yards (tackle by Jimmy F. Williams),0.280,0.000
+4,4:50,2,8,TAM 22,3,37,Michael Pittman right guard for 17 yards (tackle by Lawyer Milloy),0.000,1.530
+4,4:04,1,10,TAM 39,3,37,Michael Bennett up the middle for 5 yards (tackle by Lawyer Milloy),1.530,1.660
+4,3:20,2,5,TAM 44,3,37,Michael Bennett left guard for 1 yard (tackle by Jonathan Babineaux),1.660,1.090
+4,2:35,3,4,TAM 45,3,37,Michael Bennett right end for 3 yards (tackle by Keith Brooking),1.090,-0.190
+,,,,,,,"ATL challenged the first down ruling, and the original play was overturned.",,
+4,2:00,4,1,TAM 48,3,37,Michael Pittman up the middle for 2 yards (tackle by Keith Brooking),-0.190,2.260
+4,1:30,1,10,,3,37,Bruce Gradkowski kneels for -1 yards,2.260,1.580
+4,0:45,2,11,TAM 49,3,37,Bruce Gradkowski kneels for no gain,1.580,0.890
+4,0:12,3,11,TAM 49,3,37,Bruce Gradkowski kneels for -1 yards,0.890,-0.190
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

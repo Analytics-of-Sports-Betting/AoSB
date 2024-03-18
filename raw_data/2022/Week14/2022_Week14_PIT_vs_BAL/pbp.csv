@@ -1,0 +1,154 @@
+Quarter,Time,Down,ToGo,Location,BAL,PIT,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Steelers won the coin toss and deferred, Ravens to receive the opening kickoff.",,
+1,15:00,,,PIT 35,0,0,"Chris Boswell kicks off 59 yards, returned by Devin Duvernay for 19 yards (tackle by Miles Boykin and Damontae Kazee)",0.000,0.610
+1,14:56,1,10,BAL 25,0,0,J.K. Dobbins left end for no gain (tackle by Cameron Sutton),0.610,0.060
+1,14:20,2,10,BAL 25,0,0,Tyler Huntley pass incomplete short left intended for Mark Andrews (defended by Cameron Sutton),0.060,-0.620
+1,14:16,3,10,BAL 25,0,0,Tyler Huntley pass complete short right to Demarcus Robinson for 9 yards (tackle by Levi Wallace),-0.620,-1.110
+1,13:39,4,1,BAL 34,0,0,"Jordan Stout punts 43 yards, returned by Steven Sims for no gain (tackle by Kyle Hamilton)",-1.110,-0.480
+1,13:31,1,10,PIT 23,0,0,Kenny Pickett scrambles right tackle for 3 yards (tackle by Roquan Smith),0.480,0.340
+1,12:55,2,7,PIT 26,0,0,Kenny Pickett scrambles right end for 13 yards (tackle by Chuck Clark),0.340,1.530
+1,12:16,1,10,PIT 39,0,0,Najee Harris right tackle for 3 yards (tackle by Jason Pierre-Paul),1.530,1.390
+1,11:41,2,7,PIT 42,0,0,Najee Harris left guard for 3 yards (tackle by Calais Campbell),1.390,1.090
+1,11:05,3,4,PIT 45,0,0,Kenny Pickett sacked by Roquan Smith for -7 yards,1.090,-0.850
+1,10:33,4,11,PIT 38,0,0,"Pressley Harvin punts 46 yards, returned by Devin Duvernay for 9 yards (tackle by Marcus Allen)",-0.850,-0.610
+1,10:24,1,10,BAL 25,0,0,J.K. Dobbins right guard for 4 yards (tackle by Cameron Heyward and Larry Ogunjobi),0.610,0.600
+1,9:50,2,6,BAL 29,0,0,J.K. Dobbins left tackle for 4 yards (tackle by Alex Highsmith and Larry Ogunjobi),0.600,0.430
+1,9:05,3,2,BAL 33,0,0,"Tyler Huntley scrambles right end for 1 yard (tackle by T.J. Watt) BAL challenged the short of the line to gain ruling, and the play was upheld.",0.430,-1.110
+1,8:20,4,1,BAL 34,0,0,Tyler Huntley up the middle for 2 yards (tackle by Montravius Adams),-1.110,1.330
+1,7:42,1,10,BAL 36,0,0,Gus Edwards right tackle for 2 yards (tackle by Alex Highsmith and Minkah Fitzpatrick),1.330,1.060
+1,6:57,2,8,BAL 38,0,0,Tyler Huntley pass complete short left to Demarcus Robinson for 11 yards (tackle by Minkah Fitzpatrick and James Pierre),1.060,2.190
+1,6:16,1,10,BAL 49,0,0,Tyler Huntley pass complete short right to Demarcus Robinson for 23 yards (tackle by Terrell Edmunds and Devin Bush),2.190,3.710
+1,5:38,1,10,PIT 28,0,0,Gus Edwards up the middle for 4 yards (tackle by Jamir Jones and Terrell Edmunds),3.710,3.710
+1,4:59,2,6,PIT 24,0,0,Tyler Huntley pass incomplete short middle intended for Mark Andrews,3.710,3.010
+1,4:54,3,6,PIT 24,0,0,Tyler Huntley pass incomplete short right intended for Mark Andrews,3.010,1.890
+1,4:50,4,6,PIT 24,3,0,Justin Tucker 42 yard field goal good,1.890,3.000
+1,4:46,,,BAL 35,3,0,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+1,4:46,1,10,PIT 25,3,0,Najee Harris left guard for 5 yards (tackle by Roquan Smith and Patrick Queen),0.610,0.740
+1,4:13,2,5,PIT 30,3,0,Najee Harris right guard for 1 yard (tackle by Broderick Washington),0.740,0.170
+1,3:30,3,4,PIT 31,3,0,"Kenny Pickett pass incomplete short left intended for Jaylen Warren (defended by Broderick Washington). Penalty on Dan Moore: Offensive Holding, 10 yards (declined)",0.170,-1.310
+1,3:25,4,4,PIT 31,3,0,Pressley Harvin punts 17 yards downed by Marcus Allen,-1.310,-2.390
+1,3:16,1,10,PIT 48,3,0,J.K. Dobbins up the middle for 44 yards (tackle by Minkah Fitzpatrick),2.390,6.280
+1,2:36,1,4,PIT 4,9,0,"J.K. Dobbins right tackle for 4 yards, touchdown",6.280,7.000
+1,2:31,,,PIT 15,10,0,Justin Tucker kicks extra point good,0.000,0.000
+1,2:31,,,BAL 35,10,0,"Justin Tucker kicks off 58 yards, returned by Steven Sims for 29 yards (tackle by Ar'Darius Washington)",0.000,1.330
+1,2:26,1,10,PIT 36,10,0,Mitchell Trubisky pass incomplete short left intended for Zach Gentry,1.330,0.790
+1,2:21,2,10,PIT 36,10,0,Najee Harris up the middle for 1 yard (tackle by Odafe Oweh and Marcus Peters),0.790,0.230
+1,1:41,3,9,PIT 37,10,0,Mitchell Trubisky pass complete short middle to Pat Freiermuth for 14 yards (tackle by Tyus Bowser),0.230,2.320
+1,0:57,1,10,BAL 49,10,0,Mitchell Trubisky pass complete deep left to George Pickens for 42 yards (tackle by Marcus Williams and Marlon Humphrey),2.320,5.600
+1,0:21,1,7,BAL 7,10,0,"Mitchell Trubisky pass incomplete short left intended for George Pickens. Penalty on Marlon Humphrey: Defensive Pass Interference, 6 yards (accepted) (no play)",5.600,6.970
+1,0:17,1,1,BAL 1,10,6,"Najee Harris up the middle for 1 yard, touchdown",6.970,7.000
+1,0:13,,,BAL 15,10,7,Chris Boswell kicks extra point good,0.000,0.000
+1,0:13,,,PIT 35,10,7,"Chris Boswell kicks off 64 yards, returned by Justice Hill for 22 yards (tackle by Arthur Maulet)",0.000,0.480
+1,0:08,1,10,BAL 23,10,7,Tyler Huntley pass complete short left to DeSean Jackson for 9 yards (tackle by Arthur Maulet),0.480,1.150
+Quarter,Time,Down,ToGo,Location,BAL,PIT,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,1,BAL 32,10,7,Gus Edwards up the middle for 9 yards (tackle by Terrell Edmunds),1.150,1.660
+2,14:26,1,10,BAL 41,10,7,Gus Edwards right end for 16 yards (tackle by Terrell Edmunds and Minkah Fitzpatrick),1.660,2.720
+2,13:42,1,10,PIT 43,10,7,Tyler Huntley sacked by and Chris Wormley for -6 yards and Tyson Alualu for -6 yards,2.720,1.370
+2,12:58,2,16,PIT 49,10,7,Tyler Huntley scrambles right tackle for 11 yards (tackle by Damontae Kazee),1.370,2.150
+2,12:18,3,5,PIT 38,10,7,Tyler Huntley scrambles right end for 4 yards (tackle by Minkah Fitzpatrick),2.150,1.100
+2,11:40,4,1,PIT 34,10,7,"Tyler Huntley aborted snap, recovered by Tyler Huntley at PIT-37 and returned for -2 yards Tyler Huntley for no gain (tackle by Myles Jack)",1.100,-1.330
+2,11:37,1,10,PIT 36,10,7,Mitchell Trubisky pass complete short right to Diontae Johnson for 8 yards (tackle by Chuck Clark),1.330,1.870
+2,10:57,2,2,PIT 44,10,7,Najee Harris up the middle for 7 yards (tackle by Patrick Queen),1.870,2.320
+2,10:22,1,10,BAL 49,10,7,Najee Harris right guard for 8 yards (tackle by Jason Pierre-Paul),2.320,2.860
+2,9:45,2,2,BAL 41,10,7,Najee Harris right tackle for 1 yard (tackle by Travis Jones),2.860,2.280
+2,9:05,3,1,BAL 40,10,7,Mitchell Trubisky pass complete short right to Najee Harris for 7 yards (tackle by Patrick Queen),2.280,3.380
+2,8:27,1,10,BAL 33,10,7,Benny Snell up the middle for 1 yard (tackle by Roquan Smith and Calais Campbell),3.380,2.970
+2,7:47,2,9,BAL 32,10,7,"Penalty on Tyus Bowser: Neutral Zone Infraction, 5 yards (accepted) (no play)",2.970,3.650
+2,7:27,2,4,BAL 27,10,7,Benny Snell right guard for 3 yards (tackle by Roquan Smith and Calais Campbell),3.650,3.340
+2,6:45,3,1,BAL 24,10,7,"Penalty on Patrick Queen: Neutral Zone Infraction, 5 yards (accepted) (no play)",3.340,4.310
+2,6:27,1,10,BAL 19,10,7,Najee Harris left guard for 2 yards (tackle by Jason Pierre-Paul),4.310,4.030
+2,5:48,2,8,BAL 17,10,7,Mitchell Trubisky pass short middle intended for Pat Freiermuth is intercepted by Roquan Smith at BAL-10 and returned for 19 yards (tackle by Diontae Johnson),4.030,-0.870
+2,5:35,1,10,BAL 29,10,7,J.K. Dobbins right guard for 3 yards (tackle by Cameron Heyward),0.870,0.730
+2,4:51,2,7,BAL 32,10,7,Tyler Huntley pass complete short right to Kenyan Drake for no gain (tackle by Robert Spillane),0.730,0.040
+2,4:08,3,7,BAL 32,10,7,Tyler Huntley pass complete deep left to DeSean Jackson for 25 yards (tackle by James Pierre),0.040,2.720
+2,3:29,1,10,PIT 43,10,7,"J.K. Dobbins up the middle for 6 yards (tackle by Levi Wallace and T.J. Watt). Penalty on Montravius Adams: Defensive Holding, 5 yards (accepted)",2.720,3.450
+2,3:02,1,10,PIT 32,10,7,Tyler Huntley scrambles right end for 9 yards (tackle by Myles Jack),3.450,4.120
+2,2:29,2,1,PIT 23,10,7,Gus Edwards up the middle for 3 yards (tackle by Chris Wormley),4.120,4.240
+2,2:00,1,10,PIT 20,10,7,Tyler Huntley pass complete short right to Kenyan Drake for 1 yard (tackle by Myles Jack),4.240,3.820
+2,1:55,2,9,PIT 19,10,7,Tyler Huntley right tackle for 2 yards (tackle by Cameron Heyward),3.820,3.360
+2,1:13,3,7,PIT 17,10,7,Tyler Huntley pass incomplete short right intended for Mark Andrews,3.360,2.310
+2,1:06,4,7,PIT 17,13,7,Justin Tucker 35 yard field goal good,2.310,3.000
+2,1:03,,,BAL 35,13,7,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+2,1:03,1,10,PIT 25,13,7,Mitchell Trubisky pass complete short right to Diontae Johnson for 11 yards (tackle by Ar'Darius Washington),0.610,1.330
+2,0:43,1,10,PIT 36,13,7,Mitchell Trubisky pass complete deep left to George Pickens for 25 yards (tackle by Marlon Humphrey),1.330,2.980
+2,0:36,1,10,BAL 39,13,7,Mitchell Trubisky pass complete short right to Gunner Olszewski for 7 yards (tackle by Marcus Peters),2.980,3.390
+2,0:31,,,,,,Timeout #1 by Pittsburgh Steelers,,
+2,0:31,2,3,BAL 32,13,7,Mitchell Trubisky pass complete short left to Pat Freiermuth for 9 yards (tackle by Kyle Hamilton),3.390,4.040
+2,0:26,,,,,,Timeout #2 by Pittsburgh Steelers,,
+2,0:26,1,10,BAL 23,13,7,Mitchell Trubisky pass short middle intended for Pat Freiermuth is intercepted by Patrick Queen at BAL-8 and returned for no gain (tackle by Jaylen Warren),4.040,0.380
+2,0:21,1,10,BAL 8,13,7,Tyler Huntley kneels for -1 yards,-0.380,-0.850
+Quarter,Time,Down,ToGo,Location,BAL,PIT,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,BAL 35,13,7,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,PIT 25,13,7,Najee Harris right guard for no gain (tackle by Jason Pierre-Paul and Patrick Queen),0.610,0.060
+3,14:22,2,10,PIT 25,13,7,Mitchell Trubisky pass complete short left to Steven Sims for 6 yards (tackle by Kyle Hamilton),0.060,0.170
+3,13:39,3,4,PIT 31,13,7,Mitchell Trubisky pass complete short right to Diontae Johnson for 14 yards (tackle by Marcus Peters),0.170,1.930
+3,13:01,1,10,PIT 45,13,7,Jaylen Warren up the middle for 4 yards (tackle by Calais Campbell),1.930,1.920
+3,12:19,2,6,PIT 49,13,7,Mitchell Trubisky pass complete short right to Diontae Johnson for 1 yard (tackle by Broderick Washington),1.920,1.360
+3,11:35,3,5,PIT 50,13,7,Mitchell Trubisky pass complete short left to Steven Sims for 2 yards (tackle by Marcus Peters),1.360,0.070
+3,10:57,4,3,BAL 48,13,7,"Pressley Harvin punts 48 yards, touchback.",0.070,-0.280
+3,10:49,1,10,BAL 20,13,7,J.K. Dobbins left tackle for 9 yards (tackle by Minkah Fitzpatrick and Alex Highsmith),0.280,0.950
+3,10:18,2,1,BAL 29,13,7,J.K. Dobbins left guard for 6 yards (tackle by Myles Jack and Devin Bush),0.950,1.270
+3,9:53,1,10,BAL 35,13,7,Tyler Huntley pass complete short middle to Mark Andrews for 10 yards (tackle by Terrell Edmunds),1.270,1.930
+3,9:10,1,10,BAL 45,13,7,Gus Edwards left tackle for 5 yards (tackle by Devin Bush),1.930,2.060
+3,8:28,2,5,BAL 50,13,7,Gus Edwards right tackle for 1 yard (tackle by Terrell Edmunds and Myles Jack),2.060,1.490
+3,7:44,3,4,PIT 49,13,7,Tyler Huntley right guard for 3 yards (tackle by Montravius Adams and Minkah Fitzpatrick),1.490,0.200
+3,7:26,4,1,PIT 46,13,7,"Jordan Stout punts 35 yards, fair catch by Steven Sims at PIT-11",0.200,0.370
+3,7:18,1,10,PIT 11,13,7,Najee Harris up the middle for 1 yard (tackle by Patrick Queen),-0.370,-0.710
+3,6:40,2,9,PIT 12,13,7,Mitchell Trubisky pass complete short right to Steven Sims for 11 yards (tackle by Kyle Hamilton),-0.710,0.480
+3,5:59,1,10,PIT 23,13,7,Mitchell Trubisky pass complete short middle to Najee Harris for 10 yards (tackle by Marlon Humphrey),0.480,1.140
+3,5:16,1,10,PIT 33,13,7,Mitchell Trubisky pass complete short right to Steven Sims for 11 yards (tackle by Kyle Hamilton and Chuck Clark),1.140,1.860
+3,4:34,1,10,PIT 44,13,7,Jaylen Warren up the middle for -1 yards (tackle by Odafe Oweh and Justin Madubuike),1.860,1.180
+3,3:54,2,11,PIT 43,13,7,Mitchell Trubisky pass complete short left to Diontae Johnson for 11 yards (tackle by Marcus Williams),1.180,2.520
+3,3:03,1,10,BAL 46,13,7,"Mitchell Trubisky pass intended for Diontae Johnson is intercepted by Marcus Williams in end zone and returned for no gain Replay Assistant challenged the touchback ruling, and the original play was overturned. Mitchell Trubisky pass intended for Diontae Johnson is intercepted by Marcus Williams at BAL-1 and returned for no gain",2.520,0.380
+3,3:03,1,10,BAL 1,13,7,Anthony Brown pass complete short left to Demarcus Robinson for 3 yards (tackle by Cameron Sutton),-0.380,-0.560
+3,2:26,2,7,BAL 4,13,7,J.K. Dobbins for 11 yards (tackle by Terrell Edmunds and Cameron Heyward),-0.560,-0.220
+3,1:44,1,10,BAL 15,13,7,"Kenyan Drake for 1 yard. Kenyan Drake fumbles (forced by Chris Wormley) (tackle by Myles Jack), recovered by Ben Cleveland at BAL-16",-0.220,-0.580
+3,1:13,2,9,BAL 16,13,7,Anthony Brown pass incomplete deep left intended for Demarcus Robinson,-0.580,-1.250
+3,1:08,3,9,BAL 16,13,7,Anthony Brown sacked by T.J. Watt for -4 yards,-1.250,-2.490
+3,0:30,4,13,BAL 12,13,7,"Jordan Stout punts 46 yards, returned by Steven Sims for no gain (tackle by Kyle Hamilton). Penalty on James Pierre: Offensive Holding, 10 yards (accepted)",-2.490,-1.070
+3,0:21,1,10,PIT 32,13,7,Mitchell Trubisky pass complete short middle to George Pickens for 11 yards (tackle by Marlon Humphrey),1.070,1.800
+Quarter,Time,Down,ToGo,Location,BAL,PIT,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,PIT 43,13,7,Steven Sims left end for 1 yard (tackle by Marlon Humphrey),1.800,1.390
+4,14:17,2,9,PIT 44,13,7,Mitchell Trubisky pass incomplete short right intended for Gunner Olszewski (defended by Marcus Peters),1.390,0.690
+4,14:09,3,9,PIT 44,13,7,Mitchell Trubisky pass complete short right to Jaylen Warren for 14 yards (tackle by Chuck Clark),0.690,2.790
+4,13:19,1,10,BAL 42,13,7,"Jaylen Warren right end for 8 yards (tackle by Chuck Clark). Penalty on Marcus Peters: Unnecessary Roughness / Defense, 15 yards (accepted)",2.790,4.310
+4,12:58,1,10,BAL 19,13,7,Mitchell Trubisky pass complete short right to Jaylen Warren for 2 yards (tackle by Patrick Queen and Chuck Clark),4.310,4.030
+4,12:10,2,8,BAL 17,13,7,Mitchell Trubisky sacked by Tyus Bowser for -5 yards,4.030,2.680
+4,11:24,,,,,,Timeout #1 by Pittsburgh Steelers,,
+4,11:24,3,13,BAL 22,13,7,Mitchell Trubisky pass incomplete deep left intended for Diontae Johnson,2.680,1.990
+4,11:19,4,13,BAL 22,13,7,Chris Boswell 40 yard field goal no good blocked by Calais Campbell,1.990,-0.940
+4,11:14,1,10,BAL 30,13,7,J.K. Dobbins left guard for 5 yards (tackle by Devin Bush),0.940,1.070
+4,10:36,2,5,BAL 35,13,7,J.K. Dobbins right tackle for 4 yards (tackle by T.J. Watt),1.070,0.890
+4,9:55,3,1,BAL 39,13,7,Patrick Ricard up the middle for 2 yards (tackle by Myles Jack and T.J. Watt),0.890,1.660
+4,9:12,1,10,BAL 41,13,7,Anthony Brown pass incomplete short middle intended for Devin Duvernay,1.660,1.120
+4,9:07,2,10,BAL 41,13,7,Anthony Brown pass complete short right to Demarcus Robinson for 6 yards (tackle by Levi Wallace),1.120,1.220
+4,8:31,3,4,BAL 47,13,7,Anthony Brown pass complete short left to Mark Andrews for 7 yards (tackle by Minkah Fitzpatrick),1.220,2.520
+4,7:50,1,10,PIT 46,13,7,J.K. Dobbins right tackle for 14 yards (tackle by Minkah Fitzpatrick),2.520,3.450
+4,7:03,1,10,PIT 32,13,7,J.K. Dobbins right tackle for 6 yards (tackle by Damontae Kazee),3.450,3.710
+4,6:19,2,4,PIT 26,13,7,Gus Edwards right guard for 7 yards (tackle by Minkah Fitzpatrick),3.710,4.310
+4,5:36,1,10,PIT 19,13,7,Gus Edwards left guard for -1 yards (tackle by Devin Bush and Damontae Kazee),4.310,3.630
+4,4:53,2,11,PIT 20,13,7,Gus Edwards right guard for 7 yards (tackle by Devin Bush),3.630,3.960
+4,4:08,3,4,PIT 13,13,7,J.K. Dobbins left tackle for no gain (tackle by Robert Spillane and Terrell Edmunds),3.960,2.640
+4,3:22,4,4,PIT 13,16,7,Justin Tucker 30 yard field goal good,2.640,3.000
+4,3:19,,,BAL 35,16,7,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+4,3:19,1,10,PIT 25,16,7,Mitchell Trubisky pass incomplete short middle intended for Pat Freiermuth (defended by Roquan Smith),0.610,0.060
+4,3:17,2,10,PIT 25,16,7,"Mitchell Trubisky pass complete deep left to Diontae Johnson for 37 yards (tackle by Marlon Humphrey). Penalty on Justin Madubuike: Roughing the Passer, 15 yards (accepted)",0.060,4.040
+4,3:08,1,10,BAL 23,16,7,Mitchell Trubisky pass complete short middle to Connor Heyward for 13 yards (tackle by Marcus Williams),4.040,4.910
+4,2:45,1,10,BAL 10,16,7,Mitchell Trubisky pass incomplete short left intended for Najee Harris,4.910,4.190
+4,2:39,2,10,BAL 10,16,7,"Mitchell Trubisky pass incomplete intended for Diontae Johnson. Penalty on Diontae Johnson: Offensive Pass Interference, 10 yards (offset) . Penalty on Marlon Humphrey: Defensive Pass Interference, 15 yards (offset) (no play)",4.190,4.190
+4,2:34,2,10,BAL 10,16,13,"Mitchell Trubisky pass complete short middle to Pat Freiermuth for 10 yards, touchdown",4.190,7.000
+4,2:30,,,BAL 15,16,14,Chris Boswell kicks extra point good,0.000,0.000
+4,2:30,,,PIT 35,16,14,"Chris Boswell kicks off 61 yards, returned by Justice Hill for 17 yards (tackle by Arthur Maulet)",0.000,0.340
+4,2:24,1,10,BAL 21,16,14,Gus Edwards left tackle for 6 yards (tackle by Terrell Edmunds and Cameron Heyward),0.340,0.610
+4,2:18,,,,,,Timeout #2 by Pittsburgh Steelers,,
+4,2:18,2,4,BAL 27,16,14,Gus Edwards right guard for 1 yard (tackle by Montravius Adams and Cameron Heyward),0.610,0.040
+4,2:14,,,,,,Timeout #3 by Pittsburgh Steelers,,
+4,2:14,3,3,BAL 28,16,14,Gus Edwards right tackle for 6 yards (tackle by Minkah Fitzpatrick),0.040,1.200
+4,2:00,1,10,BAL 34,16,14,Anthony Brown kneels for -3 yards,1.200,0.250
+4,1:20,2,13,BAL 31,16,14,Anthony Brown kneels for -1 yards,0.250,-0.560
+4,0:38,3,14,BAL 30,16,14,Anthony Brown kneels for -1 yards,-0.560,-1.440
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

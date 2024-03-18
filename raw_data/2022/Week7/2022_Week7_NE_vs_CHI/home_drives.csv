@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,NWE 17,3,2:06,5,Punt
+2,1,9:02,NWE 21,3,2:33,5,Punt
+3,1,2:11,NWE 23,10,4:03,41,Interception
+4,2,11:55,NWE 45,4,2:12,55,Touchdown
+5,2,7:34,,3,1:30,50,Touchdown
+6,2,1:54,NWE 27,3,0:22,10,Fumble
+7,3,9:47,NWE 25,3,1:30,-4,Punt
+8,3,3:50,NWE 25,3,1:49,8,Punt
+9,4,12:13,NWE 18,8,4:23,28,Interception
+10,4,4:33,NWE 14,7,1:53,36,Interception
+11,4,0:25,NWE 3,1,0:25,-1,End of Game

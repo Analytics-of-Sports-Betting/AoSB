@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,4:15,GNB 26,5,2:47,8,Downs
+2,2,14:48,GNB 11,3,1:41,2,Blocked Punt
+3,2,11:11,GNB 3,3,1:30,5,Punt
+4,2,4:00,GNB 30,2,0:52,70,Touchdown
+5,2,2:36,GNB 46,3,0:17,0,Punt
+6,2,0:48,GNB 25,1,0:48,1,End of Half
+7,3,15:00,GNB 28,3,1:37,4,Interception
+8,3,8:30,GNB 26,3,1:07,5,Blocked Punt
+9,3,7:23,GNB 24,8,5:00,37,Punt
+10,4,15:00,GNB 41,9,3:40,45,Interception
+11,4,11:20,GNB 34,12,6:03,48,Downs
+12,4,1:05,GNB 28,2,1:05,10,End of Game

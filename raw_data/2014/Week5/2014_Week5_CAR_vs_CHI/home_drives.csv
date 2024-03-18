@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,CAR 20,4,1:42,17,Punt
+2,1,6:16,CAR 8,3,0:58,20,Fumble
+3,1,4:31,CAR 20,3,0:57,-2,Fumble
+4,1,2:13,CAR 25,3,1:02,3,Punt
+5,2,10:51,CAR 20,12,6:07,55,Interception
+6,2,1:51,CAR 25,7,1:39,75,Touchdown
+7,3,11:16,CAR 14,9,4:00,86,Touchdown
+8,3,2:38,CAR 19,5,2:45,38,Punt
+9,4,12:40,CAR 39,3,1:23,8,Punt
+10,4,8:39,CAR 18,3,1:55,-3,Punt
+11,4,5:56,CHI 32,4,1:27,6,Field Goal
+12,4,4:18,CHI 23,6,2:00,23,Touchdown
+13,4,1:06,CHI 28,2,1:06,-2,End of Game

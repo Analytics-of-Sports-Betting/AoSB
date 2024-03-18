@@ -1,0 +1,194 @@
+Quarter,Time,Down,ToGo,Location,PHI,DAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Cowboys won the coin toss and deferred, Eagles to receive the opening kickoff.",,
+1,15:00,,,DAL 35,0,0,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,PHI 25,0,0,Miles Sanders right tackle for 7 yards (tackle by Donovan Wilson),0.610,1.010
+1,14:24,2,3,PHI 32,0,0,Gardner Minshew pass complete short left to A.J. Brown for 9 yards (tackle by Trevon Diggs),1.010,1.660
+1,13:59,1,10,PHI 41,0,0,Gardner Minshew pass complete deep right to A.J. Brown for 48 yards (tackle by Jayron Kearse),1.660,4.840
+1,13:21,1,10,DAL 11,0,0,Miles Sanders right tackle for 1 yard (tackle by Osa Odighizuwa and Carlos Watkins),4.840,4.320
+1,12:41,2,9,DAL 10,0,0,Miles Sanders left guard for no gain (tackle by Donovan Wilson and Anthony Barr),4.320,3.300
+1,12:00,3,9,DAL 10,0,0,Gardner Minshew scrambles right end for 3 yards (tackle by Micah Parsons and Nahshon Wright),3.300,2.980
+1,11:18,4,6,DAL 7,3,0,Jake Elliott 25 yard field goal good,2.980,3.000
+1,11:16,,,PHI 35,3,0,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+1,11:16,1,10,DAL 25,3,0,Ezekiel Elliott up the middle for 1 yard (tackle by Reed Blankenship and Linval Joseph),0.610,0.200
+1,10:45,2,9,DAL 26,3,0,Ezekiel Elliott up the middle for 4 yards (tackle by Fletcher Cox),0.200,0.040
+1,10:21,3,5,DAL 30,3,0,Dak Prescott pass complete short left to Ezekiel Elliott for 6 yards (tackle by Reed Blankenship),0.040,1.330
+1,10:06,1,10,DAL 36,3,0,Dak Prescott pass complete short right to Tony Pollard for 11 yards (tackle by T.J. Edwards),1.330,2.060
+1,9:28,1,10,DAL 47,9,0,"Dak Prescott pass short left intended for Dalton Schultz is intercepted by Josh Sweat at DAL-42 and returned for 42 yards, touchdown",2.060,-7.000
+1,9:18,,,DAL 15,10,0,Jake Elliott kicks extra point good,0.000,0.000
+1,9:18,,,PHI 35,10,0,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+1,9:18,1,10,DAL 25,10,0,Ezekiel Elliott up the middle for no gain (tackle by Milton Williams),0.610,0.060
+1,8:45,2,10,DAL 25,10,0,Dak Prescott pass complete short right to CeeDee Lamb for 5 yards (tackle by Avonte Maddox),0.060,0.040
+1,8:21,3,5,DAL 30,10,0,Dak Prescott scrambles right end for 13 yards (tackle by Marcus Epps),0.040,1.800
+1,7:47,1,10,DAL 43,10,0,Tony Pollard up the middle for -1 yards (tackle by Avonte Maddox),1.800,1.120
+1,7:11,2,11,DAL 42,10,0,Dak Prescott pass complete short left to Dalton Schultz for 6 yards (tackle by T.J. Edwards),1.120,1.220
+1,6:41,3,5,DAL 48,10,0,Dak Prescott pass complete short left to Michael Gallup for 8 yards (tackle by Haason Reddick),1.220,2.650
+1,6:01,1,10,PHI 44,10,0,Dak Prescott pass complete short left to Tony Pollard for 9 yards (tackle by Kyzir White),2.650,3.260
+1,5:42,2,2,PHI 35,10,0,Ezekiel Elliott left tackle for 3 yards (tackle by T.J. Edwards and Jordan Davis),3.260,3.450
+1,5:11,1,10,PHI 32,10,0,Ezekiel Elliott up the middle for 1 yard (tackle by Ndamukong Suh),3.450,3.040
+1,4:35,2,9,PHI 31,10,0,Dak Prescott scrambles right end for 10 yards (tackle by Patrick Johnson),3.040,4.170
+1,3:53,1,10,PHI 21,10,0,Ezekiel Elliott right tackle for 3 yards (tackle by Brandon Graham),4.170,4.040
+1,3:17,2,7,PHI 18,10,0,Dak Prescott pass complete short left to Tony Pollard for 9 yards (tackle by Reed Blankenship),4.040,5.140
+1,2:41,1,9,PHI 9,10,0,Tony Pollard up the middle for 8 yards (tackle by Marcus Epps and Reed Blankenship),5.140,5.910
+1,1:54,2,1,PHI 1,10,6,"Ezekiel Elliott left tackle for 1 yard, touchdown",5.910,7.000
+1,1:52,,,PHI 15,10,7,Brett Maher kicks extra point good,0.000,0.000
+1,1:52,,,DAL 35,10,7,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+1,1:52,1,10,PHI 25,10,7,Miles Sanders up the middle for 7 yards (tackle by Damone Clark),0.610,1.010
+1,1:17,2,3,PHI 32,10,7,Miles Sanders right end for 13 yards (tackle by Trevon Diggs),1.010,1.930
+1,0:38,1,10,PHI 45,10,7,Miles Sanders left tackle for -2 yards (tackle by Donovan Wilson),1.930,1.110
+Quarter,Time,Down,ToGo,Location,PHI,DAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,12,PHI 43,10,7,Gardner Minshew pass short middle intended for Quez Watkins is intercepted by Jayron Kearse at PHI-49 and returned for 2 yards (tackle by Quez Watkins),1.110,-2.460
+2,14:52,1,10,PHI 47,10,7,Dak Prescott sacked by Avonte Maddox for -10 yards,2.460,0.560
+2,14:14,2,20,DAL 43,10,7,Dak Prescott pass complete short left to CeeDee Lamb for 5 yards (tackle by Darius Slay),0.560,0.560
+2,13:37,3,15,DAL 48,10,7,Dak Prescott pass complete short left to CeeDee Lamb for 7 yards (tackle by T.J. Edwards),0.560,0.270
+2,13:00,4,8,PHI 45,10,7,"Dak Prescott pass incomplete intended for T.Y. Hilton. Penalty on Darius Slay: Illegal Contact, 5 yards (accepted) (no play)",0.270,2.920
+2,12:52,1,10,PHI 40,10,7,Tony Pollard left tackle for -4 yards (tackle by Milton Williams),2.920,1.830
+2,12:14,2,14,PHI 44,10,7,Dak Prescott pass complete short right to Michael Gallup for 8 yards,1.830,2.210
+2,11:41,3,6,PHI 36,10,13,"Dak Prescott pass complete deep left to CeeDee Lamb for 36 yards, touchdown",2.210,7.000
+2,11:34,,,PHI 15,10,14,Brett Maher kicks extra point good,0.000,0.000
+2,11:34,,,DAL 35,10,14,"Brett Maher kicks off 68 yards, returned by Boston Scott for 29 yards (tackle by Israel Mukuamu)",0.000,0.670
+2,11:28,1,10,PHI 26,10,14,"Gardner Minshew pass complete deep right to Dallas Goedert for 25 yards (tackle by Malik Hooker). Penalty on DeMarcus Lawrence: Defensive Offside, 5 yards (declined)",0.670,2.320
+2,11:10,1,10,DAL 49,10,14,Gardner Minshew pass complete deep middle to Quez Watkins for 19 yards (tackle by Malik Hooker),2.320,3.580
+2,10:31,1,10,DAL 30,10,14,Gardner Minshew pass incomplete deep right intended for Quez Watkins,3.580,3.030
+2,10:23,2,10,DAL 30,10,14,Miles Sanders left tackle for 5 yards (tackle by Anthony Barr),3.030,3.010
+2,9:43,3,5,DAL 25,10,14,Gardner Minshew pass complete short middle to A.J. Brown for 7 yards (tackle by DaRon Bland and Damone Clark),3.010,4.370
+2,9:13,1,10,DAL 18,10,14,Kenneth Gainwell right guard for 11 yards (tackle by Malik Hooker),4.370,0.000
+2,8:48,1,8,DAL 7,10,14,Kenneth Gainwell up the middle for 4 yards (tackle by Malik Hooker and DeMarcus Lawrence),0.000,5.530
+2,8:12,2,3,DAL 3,10,14,Kenneth Gainwell up the middle for 2 yards (tackle by Jayron Kearse and Damone Clark),5.530,5.170
+2,7:56,3,1,DAL 1,10,14,Kenneth Gainwell up the middle for no gain (tackle by DeMarcus Lawrence and Donovan Wilson),5.170,3.550
+2,7:15,4,1,DAL 1,16,14,"Gardner Minshew up the middle for 1 yard, touchdown",3.550,7.000
+2,7:08,,,DAL 15,17,14,Jake Elliott kicks extra point good,0.000,0.000
+2,7:08,,,PHI 35,17,14,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+2,7:08,1,10,DAL 25,17,14,Tony Pollard left end for 3 yards (tackle by James Bradberry),0.610,0.470
+2,6:34,2,7,DAL 28,17,14,Dak Prescott pass complete short left to Michael Gallup for 8 yards (tackle by Darius Slay),0.470,1.330
+2,6:09,1,10,DAL 36,17,14,Ezekiel Elliott left tackle for 3 yards (tackle by Jordan Davis and Josh Sweat),1.330,1.130
+2,5:48,2,8,DAL 39,17,14,Ezekiel Elliott right guard for no gain (tackle by Linval Joseph),1.130,0.500
+2,5:20,3,7,DAL 39,17,14,"Dak Prescott pass complete deep middle to CeeDee Lamb for 26 yards (tackle by Marcus Epps). Penalty on Josh Sweat: Defensive Offside, 5 yards (declined)",0.500,3.250
+2,4:56,1,10,PHI 35,17,14,Ezekiel Elliott up the middle for 1 yard (tackle by Linval Joseph and Kyzir White),3.250,2.840
+2,4:20,2,9,PHI 34,17,14,Dak Prescott pass complete short middle to CeeDee Lamb for 6 yards (tackle by Kyzir White),2.840,2.940
+2,3:44,3,3,PHI 28,17,14,Dak Prescott pass complete short left to CeeDee Lamb for 4 yards (tackle by T.J. Edwards),2.940,3.970
+2,3:08,1,10,PHI 24,17,14,Dak Prescott pass complete short middle to CeeDee Lamb for 14 yards (tackle by Reed Blankenship),3.970,4.910
+2,2:29,1,10,PHI 10,17,14,Ezekiel Elliott right guard for 5 yards (tackle by T.J. Edwards and Reed Blankenship),4.910,5.150
+2,2:00,2,5,PHI 5,17,14,Ezekiel Elliott left tackle for 2 yards (tackle by Linval Joseph),5.150,4.720
+2,1:55,,,,,,Timeout #1 by Philadelphia Eagles,,
+2,1:55,3,3,PHI 3,17,14,Dak Prescott pass incomplete short left intended for Michael Gallup,4.720,3.040
+2,1:52,4,3,PHI 3,17,17,Brett Maher 21 yard field goal good,3.040,3.000
+2,1:49,,,DAL 35,17,17,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+2,1:49,1,10,PHI 25,17,17,"Gardner Minshew pass incomplete intended for Dallas Goedert. Penalty on Donovan Wilson: Defensive Pass Interference, 15 yards (accepted) (no play)",0.610,1.600
+2,1:45,1,10,PHI 40,17,17,Gardner Minshew pass complete short middle to Kenneth Gainwell for 6 yards (tackle by DaRon Bland),1.600,1.860
+2,1:21,2,4,PHI 46,17,17,Gardner Minshew pass incomplete short left intended for DeVonta Smith,1.860,1.160
+2,1:16,3,4,PHI 46,17,17,Gardner Minshew pass complete short middle to Dallas Goedert for 20 yards (tackle by Donovan Wilson),1.160,3.310
+2,0:51,1,10,DAL 34,17,17,Gardner Minshew pass complete short left to DeVonta Smith for 4 yards (tackle by Nahshon Wright),3.310,3.310
+2,0:47,,,,,,Timeout #2 by Philadelphia Eagles,,
+2,0:47,2,6,DAL 30,17,17,Gardner Minshew pass incomplete short left intended for Quez Watkins (defended by Nahshon Wright),3.310,2.610
+2,0:41,3,6,DAL 30,17,17,Gardner Minshew pass complete short left to DeVonta Smith for 6 yards (tackle by Nahshon Wright),2.610,3.970
+2,0:24,1,10,DAL 24,17,17,"Penalty on Dallas Goedert: False Start, 5 yards (accepted) (no play)",3.970,3.640
+2,0:24,,,,,,Timeout #3 by Philadelphia Eagles,,
+2,0:24,1,15,DAL 29,17,17,Gardner Minshew pass incomplete short left,3.640,2.760
+2,0:20,2,15,DAL 29,17,17,Gardner Minshew pass incomplete short left,2.760,2.080
+2,0:15,3,15,DAL 29,17,17,Gardner Minshew pass incomplete short left,2.080,1.500
+2,0:11,4,15,DAL 29,20,17,"Jake Elliott 47 yard field goal good. Penalty on C.J. Goodwin: Defensive Offside, 5 yards (declined)",1.500,3.000
+2,0:06,,,PHI 35,20,17,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+2,0:06,1,10,DAL 25,20,17,Dak Prescott kneels for -1 yards,0.610,-0.070
+Quarter,Time,Down,ToGo,Location,PHI,DAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PHI 35,20,17,"Jake Elliott kicks off 72 yards, returned by KaVontae Turpin for 31 yards (tackle by Marcus Epps). Penalty on Nahshon Wright: Offensive Holding, 10 yards (accepted)",0.000,-0.280
+3,14:53,1,10,DAL 14,20,17,Dak Prescott pass complete short right to Tony Pollard for 6 yards (tackle by Marcus Epps and T.J. Edwards),-0.280,0.150
+3,14:20,2,4,DAL 20,20,17,Tony Pollard right end for no gain (tackle by Linval Joseph),0.150,-0.680
+3,13:50,3,4,DAL 20,20,17,Dak Prescott pass incomplete short right intended for Michael Gallup,-0.680,-2.030
+3,13:45,4,4,DAL 20,20,17,"Bryan Anger punts 57 yards, fair catch by Britain Covey at PHI-23",-2.030,-0.480
+3,13:37,1,10,PHI 23,20,17,Gardner Minshew pass complete deep left to Dallas Goedert for 22 yards (tackle by Donovan Wilson),0.480,1.930
+3,13:06,1,10,PHI 45,20,17,Miles Sanders left tackle for 1 yard (tackle by Anthony Barr and Jayron Kearse),1.930,1.520
+3,12:29,2,9,PHI 46,20,17,Gardner Minshew pass incomplete short left intended for DeVonta Smith,1.520,0.830
+3,12:24,3,9,PHI 46,20,17,Gardner Minshew pass complete short right to Kenneth Gainwell for 20 yards (tackle by Donovan Wilson),0.830,3.310
+3,12:04,1,10,DAL 34,20,17,Gardner Minshew scrambles right end for 1 yard (tackle by DeMarcus Lawrence),3.310,2.910
+3,11:22,2,9,DAL 33,20,17,Gardner Minshew pass complete short middle to A.J. Brown for 12 yards (tackle by Mackensie Alexander),2.910,4.170
+3,10:43,1,10,DAL 21,20,17,Miles Sanders left tackle for 4 yards (tackle by Anthony Barr and Quinton Bohanna),4.170,4.200
+3,10:15,2,6,DAL 17,20,17,Miles Sanders right guard for 4 yards (tackle by Dorance Armstrong and Neville Gallimore),4.200,4.240
+3,9:55,3,2,DAL 13,20,17,Miles Sanders right end for -1 yards (tackle by Nahshon Wright),4.240,2.610
+3,9:05,4,3,DAL 14,26,17,"Gardner Minshew pass complete short left to DeVonta Smith for 14 yards, touchdown",2.610,7.000
+3,9:00,,,DAL 15,27,17,Jake Elliott kicks extra point good,0.000,0.000
+3,9:00,,,PHI 35,27,17,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+3,9:00,1,10,DAL 25,27,17,Ezekiel Elliott right tackle for 7 yards (tackle by Javon Hargrave),0.610,1.010
+3,8:27,2,3,DAL 32,27,17,Ezekiel Elliott up the middle for 1 yard (tackle by Haason Reddick),1.010,0.430
+3,8:08,3,2,DAL 33,27,17,Ezekiel Elliott up the middle for 1 yard (tackle by Fletcher Cox),0.430,-1.110
+3,7:25,4,1,DAL 34,27,17,Ezekiel Elliott right end for 22 yards (tackle by Marcus Epps),-1.110,2.650
+3,6:56,1,10,PHI 44,27,17,Dak Prescott pass complete short left to Tony Pollard for 13 yards (tackle by T.J. Edwards and Darius Slay),2.650,3.510
+3,6:14,1,10,PHI 31,27,17,Tony Pollard right guard for 5 yards (tackle by T.J. Edwards),3.510,3.640
+3,5:39,2,5,PHI 26,27,17,Tony Pollard left guard for no gain (tackle by Milton Williams),3.640,2.940
+3,5:12,3,5,PHI 26,27,17,Dak Prescott pass incomplete short right intended for Tony Pollard,2.940,1.790
+3,5:05,4,5,PHI 26,27,20,Brett Maher 44 yard field goal good,1.790,3.000
+3,5:01,,,DAL 35,27,20,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+3,5:01,1,10,PHI 25,27,20,Miles Sanders right end for 9 yards (tackle by Luke Gifford),0.610,1.280
+3,4:20,2,1,PHI 34,27,20,"Gardner Minshew pass incomplete intended for A.J. Brown. Penalty on DaRon Bland: Defensive Holding, 6 yards (accepted) (no play)",1.280,1.530
+3,4:15,1,10,PHI 39,27,20,"Gardner Minshew aborted snap, recovered by Jayron Kearse at PHI-37 and returned for 6 yards (tackle by Gardner Minshew)",1.530,-3.510
+3,4:11,1,10,PHI 31,27,20,Tony Pollard left tackle for 1 yard (tackle by T.J. Edwards),3.510,3.100
+3,3:40,2,9,PHI 30,27,20,Dak Prescott pass complete short middle to Dalton Schultz for 21 yards (tackle by Reed Blankenship and T.J. Edwards),3.100,5.140
+3,3:03,1,9,PHI 9,27,20,Dak Prescott pass incomplete short right intended for CeeDee Lamb (defended by Josiah Scott),5.140,4.380
+3,2:57,2,9,PHI 9,27,20,Dak Prescott sacked by and Brandon Graham for -3 yards and Ndamukong Suh for -3 yards,4.380,3.100
+3,2:19,3,12,PHI 12,27,26,"Dak Prescott pass complete short right to Michael Gallup for 12 yards, touchdown",3.100,7.000
+3,2:12,,,PHI 15,27,27,Brett Maher kicks extra point good,0.000,0.000
+3,2:12,,,DAL 35,27,27,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+3,2:12,1,10,PHI 25,27,27,Miles Sanders left end for 5 yards (tackle by Israel Mukuamu),0.610,0.740
+3,1:31,2,5,PHI 30,27,27,Miles Sanders right guard for 3 yards (tackle by Micah Parsons),0.740,0.430
+3,1:05,3,2,PHI 33,27,27,Miles Sanders right guard for 2 yards (tackle by Neville Gallimore),0.430,1.270
+3,0:25,1,10,PHI 35,27,27,Gardner Minshew pass complete short right to DeVonta Smith for 16 yards (tackle by DaRon Bland and Nahshon Wright),1.270,2.320
+Quarter,Time,Down,ToGo,Location,PHI,DAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,DAL 49,27,27,Gardner Minshew pass complete short left to Kenneth Gainwell for no gain (tackle by Anthony Barr),2.320,1.780
+4,14:17,2,10,DAL 49,27,27,Gardner Minshew pass incomplete short right intended for DeVonta Smith,1.780,1.090
+4,14:13,3,10,DAL 49,27,27,Gardner Minshew pass complete deep left to DeVonta Smith for 19 yards (tackle by Nahshon Wright),1.090,3.580
+4,13:27,1,10,DAL 30,27,27,Miles Sanders left guard for 4 yards (tackle by Damone Clark),3.580,3.570
+4,12:45,2,6,DAL 26,27,27,Miles Sanders left end for no gain (tackle by Anthony Barr),3.570,2.870
+4,12:01,3,6,DAL 26,27,27,Gardner Minshew pass complete short middle to A.J. Brown for 14 yards (tackle by Malik Hooker),2.870,4.780
+4,11:28,1,10,DAL 12,27,27,Miles Sanders right guard for 3 yards (tackle by Micah Parsons),4.780,4.510
+4,10:47,2,8,DAL 9,27,27,Miles Sanders left tackle for no gain (tackle by Anthony Barr),4.510,3.700
+4,10:03,3,7,DAL 9,33,27,"Gardner Minshew pass complete short right to DeVonta Smith for 9 yards, touchdown. Penalty on Jayron Kearse: Defensive Holding, 5 yards (declined)",3.700,7.000
+4,9:59,,,DAL 15,34,27,Jake Elliott kicks extra point good,0.000,0.000
+4,9:59,,,PHI 35,34,27,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+4,9:59,1,10,DAL 25,34,27,Dak Prescott pass complete short right to Jake Ferguson for 24 yards (tackle by James Bradberry),0.610,2.190
+4,9:19,1,10,DAL 49,34,27,"Dak Prescott sacked by Haason Reddick for -11 yards. Dak Prescott fumbles (forced by Haason Reddick), recovered by Tyler Biadasz at DAL-38 (tackle by Haason Reddick)",2.190,0.160
+4,8:42,2,21,DAL 38,34,27,Dak Prescott sacked by Josh Sweat for -9 yards,0.160,-1.680
+4,8:02,3,30,DAL 29,34,27,Dak Prescott pass complete deep left to T.Y. Hilton for 52 yards (tackle by Josiah Scott),-1.680,4.310
+4,7:20,1,10,PHI 19,34,27,Dak Prescott sacked by Haason Reddick for -1 yards,4.310,3.630
+4,6:38,2,11,PHI 20,34,27,Dak Prescott pass complete short middle to Tony Pollard for 13 yards (tackle by Marcus Epps),3.630,5.600
+4,5:57,1,7,PHI 7,34,27,Dak Prescott pass incomplete short right intended for Tony Pollard,5.600,4.760
+4,5:53,2,7,PHI 7,34,33,"Dak Prescott pass complete short right to CeeDee Lamb for 7 yards, touchdown",4.760,7.000
+4,5:49,,,PHI 15,34,34,Brett Maher kicks extra point good,0.000,0.000
+4,5:49,,,DAL 35,34,34,"Brett Maher kicks off 68 yards, returned by Boston Scott for 25 yards (tackle by Luke Gifford)",0.000,0.410
+4,5:43,1,10,PHI 22,34,34,Miles Sanders right tackle for 3 yards (tackle by DeMarcus Lawrence and Quinton Bohanna),0.410,0.270
+4,5:03,2,7,PHI 25,34,34,Gardner Minshew pass complete deep right to DeVonta Smith for 23 yards,0.270,2.130
+4,4:57,1,10,PHI 48,34,34,"Gardner Minshew for no gain. Gardner Minshew fumbles, recovered by Gardner Minshew at PHI-48 Gardner Minshew pass incomplete short right",2.130,1.580
+4,4:51,2,10,PHI 48,34,34,Gardner Minshew pass complete short middle to Miles Sanders for 6 yards (tackle by DaRon Bland),1.580,1.680
+4,4:28,3,4,DAL 46,34,34,Gardner Minshew pass short left intended for Quez Watkins is intercepted by DaRon Bland at DAL-40 and returned for no gain (tackle by Quez Watkins),1.680,-1.600
+4,4:19,1,10,DAL 40,34,34,Dak Prescott pass complete short middle to Dalton Schultz for 16 yards (tackle by Kyzir White),1.600,2.650
+4,3:45,1,10,PHI 44,34,34,Dak Prescott pass complete short middle to CeeDee Lamb for 10 yards (tackle by Josiah Scott),2.650,3.310
+4,3:06,1,10,PHI 34,34,34,Dak Prescott pass incomplete short middle intended for Noah Brown (defended by James Bradberry),3.310,2.770
+4,3:02,2,10,PHI 34,34,34,Dak Prescott pass complete short middle to Noah Brown for 5 yards (tackle by T.J. Edwards),2.770,2.740
+4,2:28,3,5,PHI 29,34,34,Dak Prescott pass incomplete short middle intended for Michael Gallup,2.740,1.540
+4,2:24,4,5,PHI 29,34,37,Brett Maher 48 yard field goal good,1.540,3.000
+4,2:19,,,DAL 35,34,37,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+4,2:19,1,10,PHI 25,34,37,"Miles Sanders for -3 yards. Miles Sanders fumbles (forced by Carlos Watkins), recovered by Anthony Barr at PHI-21 (tackle by Carlos Watkins)",0.610,-4.170
+4,2:07,1,10,PHI 21,34,37,Dak Prescott left end for 16 yards (tackle by Reed Blankenship),4.170,6.060
+4,2:01,1,5,PHI 5,34,37,Dak Prescott sacked by and Kyzir White for -9 yards and Josh Sweat for -9 yards,6.060,3.580
+4,1:56,2,14,PHI 14,34,37,Tony Pollard left end for 7 yards (tackle by Kyzir White and T.J. Edwards),3.580,3.810
+4,1:50,,,,,,Timeout #1 by Philadelphia Eagles,,
+4,1:50,3,7,PHI 7,34,37,Dak Prescott scrambles up the middle for 4 yards (tackle by T.J. Edwards),3.810,3.040
+4,1:43,,,,,,Timeout #2 by Philadelphia Eagles,,
+4,1:43,4,3,PHI 3,34,37,"Penalty on DAL: Delay of Game, 5 yards (accepted) (no play)",3.040,2.950
+4,1:44,4,8,PHI 8,34,40,Brett Maher 26 yard field goal good,2.950,3.000
+4,1:41,,,DAL 35,34,40,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+4,1:41,1,10,PHI 25,34,40,Gardner Minshew pass complete short left to Zach Pascal for 6 yards (tackle by Nahshon Wright),0.610,0.870
+4,1:19,2,4,PHI 31,34,40,Gardner Minshew pass complete short middle to Kenneth Gainwell for 15 yards (tackle by DaRon Bland),0.870,1.990
+4,0:59,1,10,PHI 46,34,40,Gardner Minshew pass complete short right to A.J. Brown for 13 yards,1.990,2.850
+4,0:51,,,,,,Timeout #1 by Dallas Cowboys,,
+4,0:51,1,10,DAL 41,34,40,Gardner Minshew pass incomplete short left intended for A.J. Brown (defended by Chauncey Golston),2.850,2.310
+4,0:48,2,10,DAL 41,34,40,Gardner Minshew pass complete deep middle to DeVonta Smith for 22 yards (tackle by Nahshon Wright),2.310,4.310
+4,0:34,1,10,DAL 19,34,40,Gardner Minshew spiked the ball,4.310,3.750
+4,0:33,2,10,DAL 19,34,40,Gardner Minshew pass incomplete deep right intended for DeVonta Smith (defended by Nahshon Wright),3.750,3.030
+4,0:27,3,10,DAL 19,34,40,Gardner Minshew pass incomplete short left,3.030,2.180
+4,0:20,,,,,,Timeout #2 by Dallas Cowboys,,
+4,0:20,4,10,DAL 19,34,40,Gardner Minshew pass incomplete short right intended for A.J. Brown,2.180,-0.150
+4,0:14,1,10,DAL 19,34,40,Dak Prescott kneels for -1 yards,0.150,-0.560
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

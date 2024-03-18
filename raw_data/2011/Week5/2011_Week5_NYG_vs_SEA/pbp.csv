@@ -1,0 +1,206 @@
+Quarter,Time,Down,ToGo,Location,SEA,NYG,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Seahawks won the coin toss, Seahawks to receive the opening kickoff.",,
+1,15:00,,,NYG 35,0,0,"Lawrence Tynes kicks off 65 yards, touchback",0.000,0.280
+1,15:00,1,10,SEA 20,0,0,Tarvaris Jackson pass complete short left to Ben Obomanu for 9 yards (tackle by Mathias Kiwanuka and Aaron Ross),0.280,0.950
+1,14:39,2,1,SEA 29,0,0,Tarvaris Jackson pass complete short left to Marshawn Lynch for 17 yards (tackle by Jason Pierre-Paul),0.950,1.990
+1,14:16,1,10,SEA 46,0,0,Tarvaris Jackson pass complete short middle to Ben Obomanu for 11 yards (tackle by Aaron Ross),1.990,2.720
+1,13:48,1,10,NYG 43,0,0,Justin Forsett right tackle for 4 yards (tackle by Jacquian Williams and Antrel Rolle),2.720,2.720
+1,13:23,2,6,NYG 39,0,0,Tarvaris Jackson pass complete short right to Sidney Rice for 16 yards (tackle by Corey Webster),2.720,4.040
+1,12:50,1,10,NYG 23,0,0,Tarvaris Jackson pass incomplete deep middle intended for Anthony McCoy (defended by Deon Grant),4.040,3.500
+1,12:43,2,10,NYG 23,0,0,"Tarvaris Jackson pass incomplete deep middle intended for Zach Miller. Penalty on Kenny Phillips: Unnecessary Roughness, 12 yards (no play)",3.500,4.840
+1,12:38,1,10,NYG 11,0,0,Tarvaris Jackson pass incomplete short middle intended for Marshawn Lynch,4.840,4.140
+1,12:34,2,10,NYG 11,6,0,"Tarvaris Jackson pass complete short left to Ben Obomanu for 11 yards, touchdown",4.140,7.000
+1,,,,NYG 2,7,0,Steven Hauschka kicks extra point good,0.000,0.000
+1,,,,SEA 35,7,0,"Steven Hauschka kicks off 65 yards, touchback",0.000,0.280
+1,12:28,1,10,NYG 20,7,0,Eli Manning right end for 2 yards (tackle by Brandon Mebane),0.280,0.000
+1,11:48,2,8,NYG 22,7,0,Ahmad Bradshaw right end for 13 yards (tackle by Brandon Browner and Walter Thurmond),0.000,1.270
+1,11:29,1,10,NYG 35,7,0,Ahmad Bradshaw left guard for 5 yards (tackle by K.J. Wright),1.270,1.400
+1,10:56,2,5,NYG 40,7,0,Eli Manning pass complete short right to Mario Manningham for 17 yards,1.400,2.720
+1,10:35,1,10,SEA 43,7,0,Eli Manning pass complete deep right to Jake Ballard for 28 yards (tackle by Kam Chancellor),2.720,4.580
+1,9:48,1,10,SEA 15,7,0,Victor Cruz right end for 3 yards (tackle by Red Bryant),4.580,4.450
+1,9:16,2,7,SEA 12,7,6,"Eli Manning pass complete short middle to Jake Ballard for 12 yards, touchdown",4.450,7.000
+1,,,,SEA 2,7,7,Lawrence Tynes kicks extra point good,0.000,0.000
+1,,,,NYG 35,7,7,"Lawrence Tynes kicks off 70 yards, returned by Leon Washington for 28 yards (tackle by Michael Coe)",0.000,0.480
+1,9:02,1,10,SEA 23,7,7,Marshawn Lynch right guard for 9 yards (tackle by Jason Pierre-Paul and Deon Grant),0.480,1.150
+1,8:38,2,1,SEA 32,7,7,Tarvaris Jackson pass complete short right to Marshawn Lynch for 6 yards (tackle by Jacquian Williams),1.150,1.470
+1,8:13,1,10,SEA 38,7,7,Tarvaris Jackson right end for 5 yards (tackle by Michael Boley),1.470,1.600
+1,7:41,2,5,SEA 43,7,7,Tarvaris Jackson pass incomplete deep left intended for Doug Baldwin (defended by Deon Grant),1.600,0.890
+1,7:33,3,5,SEA 43,7,7,"Penalty on James Carpenter: False Start, 5 yards (no play)",0.890,0.230
+1,7:33,3,10,SEA 38,7,7,Tarvaris Jackson sacked by Osi Umenyiora for -9 yards,0.230,-1.440
+1,7:14,4,19,SEA 29,7,7,"Jon Ryan punts 62 yards, returned by Aaron Ross for 5 yards (tackle by Jameson Konz)",-1.440,0.280
+1,6:59,1,10,NYG 14,7,7,Ahmad Bradshaw right tackle for 2 yards (tackle by Raheem Brock and Kam Chancellor),-0.280,-0.510
+1,6:21,2,8,NYG 16,7,7,Ahmad Bradshaw left tackle for 1 yard (tackle by Kam Chancellor and LeRoy Hill),-0.510,-1.040
+1,5:38,3,7,NYG 17,7,7,"Eli Manning sacked by Chris Clemons for -9 yards. Eli Manning fumbles (forced by Chris Clemons), recovered by Earl Thomas at NYG-11 (tackle by Ahmad Bradshaw)",-1.040,-4.840
+1,5:26,1,10,NYG 11,7,7,Tarvaris Jackson pass incomplete short middle intended for Marshawn Lynch (defended by Linval Joseph),4.840,4.140
+1,5:20,2,10,NYG 11,7,7,"Marshawn Lynch left tackle for -2 yards (tackle by Osi Umenyiora). Marshawn Lynch fumbles (forced by Osi Umenyiora), recovered by Michael Boley at NYG-13 (tackle by Marshawn Lynch)",4.140,0.320
+1,5:14,1,10,NYG 13,7,7,Eli Manning pass incomplete deep middle intended for Mario Manningham (defended by Walter Thurmond),-0.320,-0.770
+1,5:08,2,10,NYG 13,7,7,Ahmad Bradshaw right tackle for 1 yard (tackle by David Hawthorne and Red Bryant),-0.770,-1.300
+1,4:28,3,9,NYG 14,7,7,"Penalty on Anthony Hargrove: Neutral Zone Infraction, 5 yards (no play)",-1.300,-0.710
+1,4:00,3,4,NYG 19,7,7,"Penalty on Eli Manning: Delay of Game, 5 yards (no play)",-0.710,-1.300
+1,3:35,3,9,NYG 14,7,7,Eli Manning pass incomplete deep right intended for Hakeem Nicks,-1.300,-2.470
+1,3:27,4,9,NYG 14,7,7,Steve Weatherford punts 34 yards,-2.470,-2.390
+1,3:17,1,10,NYG 48,7,7,Marshawn Lynch right end for 47 yards (tackle by Kenny Phillips),2.390,6.970
+1,3:06,1,1,NYG 1,13,7,"Marshawn Lynch right guard for 1 yard, touchdown",6.970,7.000
+1,,,,NYG 2,14,7,Steven Hauschka kicks extra point good,0.000,0.000
+1,,,,SEA 35,14,7,"Steven Hauschka kicks off 69 yards, returned by Devin Thomas for 22 yards (tackle by Jeron Johnson)",0.000,0.040
+1,2:55,1,10,NYG 18,14,7,Eli Manning pass complete short middle to Victor Cruz for 9 yards (tackle by Brandon Browner),0.040,0.820
+1,2:13,2,1,NYG 27,14,7,Ahmad Bradshaw left tackle for 1 yard (tackle by David Hawthorne and K.J. Wright),0.820,0.810
+1,1:34,1,10,NYG 28,14,7,Eli Manning pass complete short middle to Ahmad Bradshaw for 12 yards (tackle by LeRoy Hill and David Hawthorne),0.810,1.600
+1,0:54,1,10,NYG 40,14,7,Ahmad Bradshaw left tackle for 1 yard (tackle by Kam Chancellor),1.600,1.190
+1,0:22,2,9,NYG 41,14,7,Ahmad Bradshaw right tackle for -2 yards (tackle by Raheem Brock and LeRoy Hill),1.190,0.230
+Quarter,Time,Down,ToGo,Location,SEA,NYG,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,11,NYG 39,14,7,Eli Manning pass complete short right to Victor Cruz for 10 yards (tackle by Richard Sherman),0.230,-0.130
+2,14:26,4,1,NYG 49,14,7,"Steve Weatherford punts 39 yards, returned by Leon Washington for 14 yards (tackle by Spencer Paysinger). Penalty on Brandon Browner: Offensive Holding (Declined), Penalty on Jameson Konz: Illegal Block Above the Waist, 10 yards",-0.130,0.320
+2,14:08,1,10,SEA 13,14,7,Justin Forsett up the middle for 3 yards (tackle by Linval Joseph and Osi Umenyiora),-0.320,-0.440
+2,13:38,2,7,SEA 16,14,7,Tarvaris Jackson pass incomplete short middle intended for Justin Forsett (defended by Linval Joseph),-0.440,-1.060
+2,13:32,3,7,SEA 16,14,7,Tarvaris Jackson pass complete deep left to Doug Baldwin for 21 yards,-1.060,1.400
+2,13:19,1,10,SEA 37,14,7,Tarvaris Jackson pass complete deep right to Doug Baldwin for 25 yards (tackle by Kenny Phillips),1.400,3.050
+2,12:48,1,10,NYG 38,14,7,Marshawn Lynch right tackle for 13 yards (tackle by Antrel Rolle),3.050,3.910
+2,12:33,1,10,NYG 25,14,7,Tarvaris Jackson pass complete short right to Marshawn Lynch for 6 yards (tackle by Jacquian Williams),3.910,4.200
+2,11:57,2,4,NYG 19,14,7,"Justin Forsett left tackle for 8 yards (tackle by Jacquian Williams and Deon Grant). Penalty on Paul McQuistan: Offensive Holding, 10 yards (no play)",4.200,2.820
+2,11:31,2,14,NYG 29,14,7,Tarvaris Jackson pass complete short right to Ben Obomanu for 6 yards (tackle by Aaron Ross),2.820,2.940
+2,10:57,3,8,NYG 23,14,7,Tarvaris Jackson pass complete short right to Ben Obomanu for 7 yards,2.940,2.530
+2,10:57,4,1,NYG 16,14,7,Tarvaris Jackson up the middle for 2 yards (tackle by Deon Grant),2.530,4.650
+2,10:08,1,10,NYG 14,14,7,Tarvaris Jackson pass complete short middle to Ben Obomanu for 7 yards (tackle by Michael Boley and Aaron Ross),4.650,5.280
+2,9:28,2,3,NYG 7,14,7,Michael Robinson up the middle for 2 yards (tackle by Deon Grant and Dave Tollefson),5.280,4.960
+2,8:54,3,1,NYG 5,14,7,Michael Robinson right guard for 3 yards (tackle by Greg Jones),4.960,6.740
+2,8:25,1,2,NYG 2,14,7,"Michael Robinson left guard for no gain (tackle by Rocky Bernard). Michael Robinson fumbles (forced by Rocky Bernard), recovered by Rocky Bernard at NYG-2 (tackle by Anthony McCoy)",6.740,0.380
+2,8:14,1,10,NYG 3,14,7,DJ Ware left guard for 2 yards (tackle by Brandon Mebane and LeRoy Hill),-0.380,-0.630
+2,7:37,2,8,NYG 5,14,7,"Eli Manning pass incomplete short left intended for Hakeem Nicks. Penalty on Brandon Browner: Defensive Holding, 5 yards (no play)",-0.630,-0.380
+2,7:28,1,10,NYG 10,14,7,Eli Manning for 3 yards (tackle by LeRoy Hill),-0.380,-0.560
+2,7:09,2,7,NYG 13,14,7,DJ Ware left tackle for 3 yards (tackle by David Hawthorne),-0.560,-0.720
+2,6:27,3,4,NYG 16,14,7,Eli Manning sacked by Chris Clemons for -13 yards,-0.720,-2.490
+2,6:04,4,17,NYG 3,14,7,"Steve Weatherford punts 57 yards, returned by Leon Washington for 9 yards (tackle by Zak DeOssie). Penalty on Brandon Browner: Offensive Holding, 10 yards",-2.490,-0.940
+2,5:47,1,10,SEA 30,14,7,"Penalty on Tarvaris Jackson: False Start, 5 yards (no play)",0.940,0.610
+2,5:47,1,15,SEA 25,14,7,Tarvaris Jackson sacked by Jason Pierre-Paul for -7 yards,0.610,-1.330
+2,5:18,2,22,SEA 18,14,7,Justin Forsett up the middle for 4 yards (tackle by Michael Boley),-1.330,-1.350
+2,4:38,3,18,SEA 22,14,7,Tarvaris Jackson pass complete short middle to Golden Tate for 14 yards (tackle by Jacquian Williams),-1.350,-0.980
+2,3:56,4,4,SEA 36,14,7,"Jon Ryan punts 43 yards, returned by Aaron Ross for 7 yards (tackle by Atari Bigby)",-0.980,-0.810
+2,3:42,1,10,NYG 28,14,7,Eli Manning pass incomplete deep right intended for Hakeem Nicks is intercepted by Earl Thomas at SEA-42 and returned for 8 yards (tackle by Ahmad Bradshaw),0.810,-2.260
+2,3:32,1,10,,14,7,Leon Washington left guard for 6 yards (tackle by Kenny Phillips),2.260,2.520
+2,3:16,2,4,NYG 44,14,7,"Penalty on Anthony McCoy: False Start, 5 yards (no play)",2.520,1.850
+2,2:57,2,9,NYG 49,14,7,Leon Washington right tackle for 1 yard (tackle by Jimmy Kennedy),1.850,1.290
+2,2:31,3,8,NYG 48,14,7,Tarvaris Jackson pass incomplete short right intended for Anthony McCoy (defended by Jacquian Williams),1.290,0.070
+2,2:24,4,8,NYG 48,14,7,"Jon Ryan punts 48 yards, touchback",0.070,-0.280
+2,2:16,1,10,NYG 20,14,7,Eli Manning pass incomplete short left intended for Ahmad Bradshaw,0.280,-0.270
+2,2:12,2,10,NYG 20,14,7,Eli Manning pass incomplete short left intended for Travis Beckum,-0.270,-0.960
+2,2:08,3,10,NYG 20,14,7,"Eli Manning for no gain. Eli Manning fumbles, recovered by Kevin Boothe at NYG-17",-0.960,-2.320
+2,2:00,4,13,NYG 17,14,7,"Steve Weatherford punts 60 yards, returned by Leon Washington for 21 yards (tackle by Greg Jones). Penalty on Justin Tryon: Player Out of Bounds on Punt, 5 yards",-2.320,-2.190
+2,1:49,1,10,SEA 49,14,7,Tarvaris Jackson pass complete short middle to Leon Washington for 6 yards (tackle by Michael Boley),2.190,2.460
+2,1:28,2,4,NYG 45,14,7,Tarvaris Jackson sacked by Jason Pierre-Paul for -1 yards,2.460,1.620
+2,0:58,3,5,NYG 46,14,7,Tarvaris Jackson pass incomplete short middle intended for Ben Obomanu is intercepted by Aaron Ross at NYG-41,1.620,-1.660
+2,0:51,1,10,NYG 41,14,7,Eli Manning pass complete short middle to Hakeem Nicks for 12 yards (tackle by Kam Chancellor),1.660,2.460
+2,0:29,1,10,SEA 47,14,7,Eli Manning pass complete short left to Mario Manningham for 10 yards (tackle by Brandon Browner),2.460,3.120
+2,0:23,1,10,SEA 37,14,7,Eli Manning pass complete deep right to Hakeem Nicks for 18 yards (tackle by Earl Thomas),3.120,4.310
+2,0:16,,,,14,7,Timeout #1 by New York Giants,0.000,4.310
+2,0:16,1,10,SEA 19,14,13,"Eli Manning pass complete deep right to Hakeem Nicks for 19 yards, touchdown",4.310,7.000
+2,,,,SEA 2,14,14,Lawrence Tynes kicks extra point good,0.000,0.000
+2,,,,NYG 35,,,"Lawrence Tynes kicks off 46 yards, returned by Leon Washington for 16 yards (tackle by Deon Grant)",,
+2,0:05,1,10,SEA 35,14,14,Tarvaris Jackson kneels for -1 yards,1.270,0.590
+Quarter,Time,Down,ToGo,Location,SEA,NYG,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,SEA 35,14,14,"Steven Hauschka kicks off 65 yards, touchback",0.000,0.280
+3,15:00,1,10,NYG 20,14,14,"Eli Manning pass complete short left to Ahmad Bradshaw for 6 yards (tackle by Earl Thomas). Penalty on William Beatty: Offensive Holding, 10 yards (no play)",0.280,-0.760
+3,14:39,1,20,NYG 10,14,14,Ahmad Bradshaw right tackle for no gain (tackle by K.J. Wright and Alan Branch),-0.760,-1.510
+3,13:52,2,20,NYG 10,14,14,Eli Manning sacked by Alan Branch for -6 yards,-1.510,-3.290
+3,13:25,3,26,NYG 4,14,14,Eli Manning pass complete short left to Mario Manningham for 15 yards (tackle by Brandon Browner),-3.290,-2.140
+3,13:07,4,11,NYG 19,14,14,"Steve Weatherford punts 60 yards, returned by Leon Washington for 14 yards (tackle by Derrick Martin)",-2.140,-1.270
+3,12:49,1,10,SEA 35,14,14,"Sidney Rice right end for no gain. Sidney Rice fumbles, recovered by Marshawn Lynch at SEA-34 and returned for 1 yards",1.270,0.720
+3,11:58,2,10,SEA 35,14,14,Tarvaris Jackson pass complete short left to Marshawn Lynch for 4 yards (tackle by Chris L. Canty),0.720,0.560
+3,11:36,3,6,SEA 39,14,14,Tarvaris Jackson sacked by Mathias Kiwanuka for -7 yards,0.560,-1.240
+3,11:16,4,13,SEA 32,14,14,Jon Ryan punts 38 yards,-1.240,-0.940
+3,11:07,1,10,NYG 30,14,14,Ahmad Bradshaw left tackle for -1 yards (tackle by David Hawthorne),0.940,0.260
+3,10:30,2,11,NYG 29,14,14,Ahmad Bradshaw left guard for 8 yards (tackle by LeRoy Hill and Raheem Brock),0.260,0.630
+3,9:48,3,3,NYG 37,14,14,Eli Manning pass incomplete short left intended for Hakeem Nicks (defended by Brandon Browner),0.630,-0.910
+3,9:35,4,3,NYG 37,14,14,"Steve Weatherford punts 53 yards, returned by Leon Washington for 19 yards (tackle by Mark Herzlich)",-0.910,-0.870
+3,9:22,1,10,SEA 29,14,14,Tarvaris Jackson left tackle for 11 yards (tackle by Dave Tollefson and Deon Grant),0.870,1.600
+3,9:04,1,10,SEA 40,14,14,Marshawn Lynch right tackle for 2 yards (tackle by Chris L. Canty),1.600,1.320
+3,8:39,2,8,SEA 42,14,14,"Charlie Whitehurst pass complete short left to Doug Baldwin for 3 yards (tackle by Antrel Rolle). Penalty on Ben Obomanu: Offensive Holding, 10 yards",1.320,0.380
+3,8:09,2,15,SEA 35,14,14,Charlie Whitehurst for 7 yards (tackle by Antrel Rolle),0.380,0.630
+3,7:54,3,8,SEA 42,14,14,"Penalty on Max Unger: False Start, 5 yards (no play)",0.630,-0.030
+3,7:54,3,13,SEA 37,14,14,Charlie Whitehurst pass complete short right to Doug Baldwin for 10 yards (tackle by Corey Webster),-0.030,-0.260
+3,7:22,4,3,SEA 47,14,14,Jon Ryan punts 48 yards,-0.260,0.380
+3,7:07,1,10,NYG 5,16,14,"DJ Ware for -5 yards, safety",-0.380,-2.000
+,,,,,,,"Replay Assistant challenged the runner broke the plane ruling, and the play was upheld.",,
+3,,,,NYG 20,16,14,"Steve Weatherford kicks off 62 yards, returned by Leon Washington for 27 yards (tackle by Tyler Sash)",0.000,1.930
+3,6:55,1,10,SEA 45,16,14,Marshawn Lynch right guard for no gain (tackle by Jacquian Williams),1.930,1.380
+3,6:34,2,10,SEA 45,16,14,Charlie Whitehurst pass complete short left to Golden Tate for 17 yards (tackle by Antrel Rolle),1.380,3.050
+3,6:07,1,10,NYG 38,16,14,Charlie Whitehurst pass complete short left to Sidney Rice for 2 yards (tackle by Antrel Rolle),3.050,2.780
+3,5:51,2,8,NYG 36,16,14,Justin Forsett right tackle for -2 yards (tackle by Michael Boley and Corey Webster),2.780,1.820
+3,5:05,3,10,NYG 38,16,14,Charlie Whitehurst sacked by Osi Umenyiora for -2 yards,1.820,0.590
+3,4:45,4,12,NYG 40,16,14,Jon Ryan punts 35 yards,0.590,0.380
+3,4:35,1,10,NYG 5,16,14,Eli Manning pass complete short left to Mario Manningham for 6 yards (tackle by LeRoy Hill),-0.380,-0.340
+3,4:00,2,4,NYG 11,16,14,Eli Manning pass complete short left to Hakeem Nicks for 16 yards (tackle by Brandon Browner),-0.340,0.740
+3,3:20,1,10,NYG 27,16,14,Eli Manning pass incomplete deep right intended for Mario Manningham,0.740,0.200
+3,3:12,2,10,NYG 27,16,14,Ahmad Bradshaw up the middle for 3 yards (tackle by Chris Clemons),0.200,-0.100
+3,2:33,3,7,NYG 30,16,14,Eli Manning pass incomplete short right intended for Victor Cruz (defended by Walter Thurmond),-0.100,-1.370
+3,2:25,4,7,NYG 30,16,14,"Steve Weatherford punts 50 yards, returned by Leon Washington for 14 yards (tackle by Michael Coe)",-1.370,-1.200
+3,2:13,1,10,SEA 34,16,14,Charlie Whitehurst pass incomplete deep right intended for Anthony McCoy,1.200,0.660
+3,2:06,2,10,SEA 34,16,14,Charlie Whitehurst pass complete short right to Sidney Rice for 9 yards (tackle by Corey Webster),0.660,1.160
+3,1:40,3,1,SEA 43,16,14,Charlie Whitehurst pass complete short middle to Sidney Rice for 11 yards (tackle by Corey Webster). Penalty on Antrel Rolle: Defensive Holding (Declined),1.160,2.520
+3,1:31,1,10,NYG 46,16,14,Charlie Whitehurst pass incomplete deep middle intended for Anthony McCoy,2.520,1.980
+3,1:24,2,10,NYG 46,16,14,Marshawn Lynch left tackle for 18 yards (tackle by Corey Webster),1.980,3.710
+3,0:58,1,10,NYG 28,16,14,Marshawn Lynch right tackle for 3 yards (tackle by Jacquian Williams and Linval Joseph),3.710,3.570
+3,0:21,2,7,NYG 25,16,14,Marshawn Lynch left guard for 2 yards (tackle by Jason Pierre-Paul and Chris L. Canty),3.570,3.140
+Quarter,Time,Down,ToGo,Location,SEA,NYG,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,5,NYG 23,16,14,Charlie Whitehurst sacked by Deon Grant for -10 yards,3.140,1.150
+4,14:36,4,15,NYG 33,19,14,Steven Hauschka 51 yard field goal good,1.150,3.000
+4,,,,SEA 35,19,14,"Steven Hauschka kicks off 67 yards, returned by Devin Thomas for 37 yards (tackle by Earl Thomas)",0.000,1.270
+4,14:23,1,10,NYG 35,19,14,Ahmad Bradshaw right end for 2 yards (tackle by LeRoy Hill),1.270,0.990
+4,14:05,2,8,NYG 37,19,14,"Eli Manning pass complete short left to Ahmad Bradshaw for 18 yards (tackle by Earl Thomas). Penalty on Hakeem Nicks: Offensive Pass Interference, 10 yards (no play)",0.990,-0.360
+4,13:37,2,18,NYG 27,19,14,Eli Manning pass complete short middle to Victor Cruz for 5 yards (tackle by Aaron Curry),-0.360,-0.360
+4,12:52,3,13,NYG 32,19,20,"Eli Manning pass complete deep right to Victor Cruz for 68 yards, touchdown",-0.360,7.000
+4,,,,,19,22,"Two Point Attempt: Ahmad Bradshaw left guard, conversion succeeds",1.000,1.000
+4,,,,NYG 35,19,22,"Lawrence Tynes kicks off 65 yards, touchback",0.000,0.280
+4,12:37,1,10,SEA 20,19,22,Charlie Whitehurst pass complete short left to Doug Baldwin for 20 yards (tackle by Aaron Ross),0.280,1.600
+4,12:20,1,10,SEA 40,19,22,Charlie Whitehurst pass incomplete short left intended for Ben Obomanu,1.600,1.050
+4,12:11,2,10,SEA 40,19,22,Marshawn Lynch left guard for 5 yards (tackle by Rocky Bernard and Jacquian Williams),1.050,1.030
+4,11:38,3,5,SEA 45,19,22,Charlie Whitehurst pass incomplete short left intended for Ben Obomanu,1.030,-0.390
+4,11:34,4,5,SEA 45,19,22,"Jon Ryan punts 38 yards, fair catch by Aaron Ross",-0.390,0.060
+4,11:25,1,10,NYG 17,19,22,Ahmad Bradshaw right guard for 3 yards (tackle by Aaron Curry),-0.060,-0.060
+4,10:57,2,7,NYG 20,19,22,Eli Manning pass incomplete short right intended for Jake Ballard,-0.060,-0.870
+4,10:49,3,7,NYG 20,19,22,"Eli Manning pass complete short middle to Victor Cruz for 5 yards (tackle by Walter Thurmond). Victor Cruz fumbles (forced by Walter Thurmond), recovered by Kam Chancellor at NYG-25 (tackle by Travis Beckum)",-0.870,-3.910
+4,10:39,1,10,NYG 25,19,22,Charlie Whitehurst pass incomplete short right intended for Golden Tate,3.910,3.360
+4,10:32,2,10,NYG 25,19,22,Charlie Whitehurst pass incomplete short right intended for Ben Obomanu (defended by Jason Pierre-Paul),3.360,2.680
+4,10:26,3,10,NYG 25,19,22,Charlie Whitehurst pass incomplete deep left intended for Sidney Rice,2.680,1.800
+4,10:20,4,10,NYG 25,22,22,Steven Hauschka 43 yard field goal good,1.800,3.000
+4,,,,SEA 35,22,22,"Steven Hauschka kicks off 73 yards, touchback",0.000,0.280
+4,10:15,1,10,NYG 20,22,22,Ahmad Bradshaw right tackle for 3 yards (tackle by Clinton McDonald),0.280,0.140
+4,9:43,2,7,NYG 23,22,22,Ahmad Bradshaw left tackle for 9 yards (tackle by Brandon Browner),0.140,1.070
+4,9:12,1,10,NYG 32,22,22,Eli Manning pass complete short middle to Bear Pascoe for 17 yards (tackle by Aaron Curry and David Hawthorne),1.070,2.190
+4,8:34,1,10,NYG 49,22,22,Eli Manning pass complete deep left to Jake Ballard for 32 yards (tackle by Aaron Curry and Earl Thomas),2.190,4.310
+4,7:42,1,10,SEA 19,22,22,Ahmad Bradshaw left end for 9 yards (tackle by K.J. Wright),4.310,5.360
+4,6:58,2,1,SEA 10,22,22,DJ Ware left end for 3 yards (tackle by David Hawthorne and Red Bryant),5.360,5.600
+4,6:17,1,7,SEA 7,22,22,"Penalty on Jake Ballard: False Start, 5 yards (no play)",5.600,4.640
+4,5:45,1,12,SEA 12,22,22,Eli Manning pass incomplete short left intended for Ahmad Bradshaw,4.640,3.860
+4,5:38,2,12,SEA 12,22,22,Eli Manning pass incomplete short middle intended for Ahmad Bradshaw,3.860,3.100
+4,5:33,3,12,SEA 12,22,22,Eli Manning pass complete short right to Victor Cruz for 4 yards (tackle by Richard Sherman),3.100,2.950
+4,4:58,4,8,SEA 8,22,25,Lawrence Tynes 26 yard field goal good,2.950,3.000
+4,,,,NYG 35,22,25,"Lawrence Tynes kicks off 65 yards, touchback",0.000,0.280
+4,4:49,1,10,SEA 20,22,25,Charlie Whitehurst pass complete deep middle to Doug Baldwin for 22 yards (tackle by Kenny Phillips),0.280,1.730
+4,4:29,1,10,SEA 42,22,25,Charlie Whitehurst pass incomplete short middle intended for Anthony McCoy,1.730,1.190
+4,4:24,2,10,SEA 42,22,25,Leon Washington left tackle for 3 yards (tackle by Michael Boley and Antrel Rolle),1.190,0.890
+4,4:03,3,7,SEA 45,22,25,Charlie Whitehurst pass complete short middle to Doug Baldwin for 8 yards (tackle by Jacquian Williams and Michael Boley),0.890,2.460
+4,3:40,1,10,NYG 47,22,25,Charlie Whitehurst pass complete deep middle to Anthony McCoy for 20 yards (tackle by Kenny Phillips),2.460,3.780
+4,3:14,1,10,NYG 27,22,25,Marshawn Lynch left guard for no gain (tackle by Antrel Rolle),3.780,3.230
+4,2:45,2,10,NYG 27,28,25,"Charlie Whitehurst pass complete deep left to Doug Baldwin for 27 yards, touchdown. Penalty on Osi Umenyiora: Defensive Offside (Declined)",3.230,7.000
+4,,,,NYG 2,29,25,Steven Hauschka kicks extra point good,0.000,0.000
+4,,,,SEA 35,29,25,"Steven Hauschka kicks off 65 yards, touchback",0.000,0.280
+4,2:37,1,10,NYG 20,29,25,Eli Manning pass complete short left to Ahmad Bradshaw for 15 yards (tackle by Alan Branch),0.280,1.270
+4,2:11,1,10,NYG 35,29,25,Eli Manning pass incomplete deep left intended for Mario Manningham,1.270,0.720
+4,2:05,2,10,NYG 35,29,25,Eli Manning pass complete deep right to Victor Cruz for 41 yards (tackle by Kam Chancellor),0.720,3.970
+4,1:55,1,10,SEA 24,29,25,Eli Manning pass complete short middle to Victor Cruz for 19 yards (tackle by Earl Thomas and Richard Sherman),3.970,6.060
+4,1:27,1,5,SEA 5,29,25,"Penalty on William Beatty: False Start, 5 yards (no play)",6.060,4.910
+4,1:25,1,10,SEA 10,35,25,"Eli Manning pass incomplete short left intended for Victor Cruz is intercepted by Brandon Browner at SEA-6 and returned for 94 yards, touchdown",4.910,-7.000
+4,,,,NYG 2,36,25,Steven Hauschka kicks extra point good,0.000,0.000
+4,,,,SEA 35,36,25,"Steven Hauschka kicks off 74 yards, returned by Devin Thomas for 23 yards (tackle by Jeron Johnson)",0.000,-0.280
+4,1:04,1,10,NYG 14,36,25,Eli Manning pass complete short right to DJ Ware for 22 yards (tackle by Earl Thomas),-0.280,1.330
+4,0:54,,,,36,25,Timeout #1 by New York Giants,0.000,1.330
+4,0:54,1,10,NYG 36,36,25,Eli Manning pass complete short left to Mario Manningham for 8 yards (tackle by Walter Thurmond),1.330,1.870
+4,0:33,2,2,NYG 44,36,25,Eli Manning pass incomplete deep left intended for Victor Cruz (defended by Brandon Browner),1.870,1.160
+4,0:24,3,2,NYG 44,36,25,Eli Manning pass incomplete deep left intended for Mario Manningham is intercepted by Kam Chancellor at SEA-33 and returned for 9 yards (tackle by Jake Ballard),1.160,-1.730
+4,0:15,1,10,SEA 42,36,25,Charlie Whitehurst kneels for -1 yards,1.730,1.050
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

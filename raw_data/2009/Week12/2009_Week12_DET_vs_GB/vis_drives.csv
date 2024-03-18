@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,,0,0:07,0,Fumble
+2,1,13:04,GNB 11,15,8:25,64,Missed FG
+3,1,1:20,GNB 26,4,1:26,74,Touchdown
+4,2,11:52,GNB 4,13,5:40,94,Field Goal
+5,2,4:42,GNB 46,10,3:43,47,Field Goal
+6,3,14:06,DET 38,4,1:32,1,Fumble
+7,3,11:06,GNB 10,8,4:28,90,Touchdown
+8,3,3:03,GNB 44,5,2:25,56,Touchdown
+9,4,14:44,GNB 31,3,2:19,1,Punt
+10,4,10:05,GNB 1,2,0:47,-1,Safety
+11,4,5:01,GNB 24,3,1:06,9,Punt
+12,4,2:16,DET 41,3,2:01,0,Punt

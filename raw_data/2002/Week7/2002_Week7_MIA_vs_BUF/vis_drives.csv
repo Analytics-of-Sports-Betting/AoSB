@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,BUF 20,3,2:34,-4,Punt
+2,1,8:30,BUF 20,5,1:22,11,Downs
+3,1,7:02,BUF 38,9,5:23,34,Field Goal
+4,2,13:27,BUF 24,2,0:47,76,Touchdown
+5,2,4:57,BUF 32,3,1:39,6,Punt
+6,2,1:02,BUF 1,8,1:02,35,End of Half
+7,3,12:40,BUF 8,7,2:59,32,Punt
+8,3,7:48,BUF 34,7,3:32,58,Field Goal
+9,3,0:36,BUF 33,3,2:01,4,Punt
+10,4,11:26,BUF 25,5,1:53,6,Punt
+11,4,6:48,BUF 35,3,0:31,0,Punt
+12,4,5:19,MIA 49,9,4:07,23,Field Goal
+13,4,0:56,MIA 18,2,0:56,-2,End of Game

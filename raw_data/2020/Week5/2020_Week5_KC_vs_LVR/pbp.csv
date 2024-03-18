@@ -1,0 +1,196 @@
+Quarter,Time,Down,ToGo,Location,LVR,KAN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Raiders won the coin toss and deferred, Chiefs to receive the opening kickoff.",,
+1,15:00,,,LVR 35,0,0,"Daniel Carlson kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,KAN 25,0,0,Clyde Edwards-Helaire right end for 8 yards (tackle by Johnathan Abram),0.610,1.140
+1,14:43,2,2,KAN 33,0,0,Clyde Edwards-Helaire right guard for 9 yards (tackle by Maxx Crosby and Johnathan Abram),1.140,1.730
+1,14:06,1,10,KAN 42,0,0,"Patrick Mahomes pass complete deep middle to Tyreek Hill for 58 yards. Penalty on Kelechi Osemele: Offensive Holding, 10 yards (no play)",1.730,1.070
+1,13:57,1,20,KAN 32,0,0,Patrick Mahomes pass incomplete short right intended for Clyde Edwards-Helaire,1.070,-0.160
+1,13:52,2,20,KAN 32,0,0,Patrick Mahomes left end for 5 yards (tackle by Arden Key),-0.160,-0.160
+1,13:28,3,15,KAN 37,0,0,Patrick Mahomes pass complete short right to Travis Kelce for 9 yards (tackle by Amik Robertson),-0.160,-0.320
+1,12:50,4,6,KAN 46,0,0,"Tommy Townsend punts 44 yards, fair catch by Hunter Renfrow at LV-10. Penalty on Hunter Renfrow: Delay of Game, 5 yards",-0.320,0.380
+1,12:34,1,10,LVR 5,0,0,Josh Jacobs right guard for 7 yards (tackle by Anthony Hitchens),-0.380,-0.270
+1,12:03,2,3,LVR 12,0,0,Josh Jacobs right end for 3 yards (tackle by Anthony Hitchens and Willie Gay),-0.270,-0.220
+1,11:21,1,10,LVR 15,0,0,Josh Jacobs right guard for 6 yards (tackle by Damien Wilson and Charvarius Ward),-0.220,0.210
+1,10:51,2,4,LVR 21,0,0,Derek Carr pass complete short left to Darren Waller for 9 yards (tackle by Daniel Sorensen),0.210,0.940
+1,10:18,1,10,LVR 30,0,0,Derek Carr sacked by Willie Gay for -1 yards,0.940,0.260
+1,9:36,2,11,LVR 29,0,0,Josh Jacobs right guard for 1 yard (tackle by Derrick Nnadi and Chris Jones),0.260,-0.300
+1,8:51,3,10,LVR 30,0,0,Derek Carr pass complete deep right to Henry Ruggs for 46 yards (tackle by Rashad Fenton),-0.300,3.970
+1,8:14,1,10,KAN 24,0,0,Josh Jacobs up the middle for 2 yards (tackle by Anthony Hitchens),3.970,3.700
+1,7:40,2,8,KAN 22,0,0,Derek Carr pass incomplete deep right intended for Rico Gafford,3.700,3.010
+1,7:34,3,8,KAN 22,0,0,"Penalty on Kolton Miller: False Start, 5 yards (no play)",3.010,2.350
+1,7:34,3,13,KAN 27,0,0,"Penalty on Trent Brown: False Start, 5 yards (no play)",2.350,1.690
+1,7:34,3,18,KAN 32,0,0,Derek Carr pass complete short right to Jalen Richard for 12 yards (tackle by Charvarius Ward),1.690,2.150
+1,6:49,4,6,KAN 20,3,0,Daniel Carlson 38 yard field goal good,2.150,3.000
+1,6:45,,,LVR 35,3,0,"Daniel Carlson kicks off 65 yards, returned by Mecole Hardman for 22 yards (tackle by Raekwon McMillan and Jeff Heath). Penalty on Dorian O'Daniel: Offensive Holding, 10 yards",0.000,-0.350
+1,6:38,1,10,KAN 12,3,0,Clyde Edwards-Helaire left guard for 6 yards (tackle by Chris Smith),-0.350,-0.070
+1,6:04,2,4,KAN 18,3,0,Patrick Mahomes sacked by Chris Smith for no gain,-0.070,-0.720
+1,5:21,3,4,KAN 18,3,0,Patrick Mahomes pass complete short right to Travis Kelce for 12 yards (tackle by Nicholas Morrow),-0.720,0.940
+1,4:42,1,10,KAN 30,3,0,Tyreek Hill right end for 6 yards (tackle by Jeff Heath),0.940,1.200
+1,4:07,2,4,KAN 36,3,0,Patrick Mahomes pass complete deep right to Tyreek Hill for 26 yards (tackle by Trayvon Mullen). Penalty on Kendal Vickers: Defensive Offside (Declined),1.200,3.050
+1,3:53,1,10,LVR 38,3,0,Patrick Mahomes pass incomplete short right intended for Clyde Edwards-Helaire,3.050,2.510
+1,3:46,2,10,LVR 38,3,0,Clyde Edwards-Helaire right end for 3 yards (tackle by Trayvon Mullen),2.510,2.210
+1,3:02,3,7,LVR 35,3,0,Patrick Mahomes pass complete short right to Travis Kelce for 32 yards (tackle by Cory Littleton),2.210,6.510
+1,2:12,1,3,LVR 3,3,6,"Patrick Mahomes left end for 3 yards, touchdown",6.510,7.000
+1,2:06,,,LVR 15,3,7,Harrison Butker kicks extra point good,0.000,0.000
+1,2:06,,,KAN 35,3,7,"Harrison Butker kicks off 65 yards, returned by Jalen Richard for 18 yards (tackle by Dorian O'Daniel). Penalty on Nicholas Morrow: Illegal Block Above the Waist, 9 yards",0.000,-0.380
+1,2:01,1,10,LVR 9,3,7,"Derek Carr pass incomplete deep right intended for Darren Waller. Penalty on Charvarius Ward: Defensive Pass Interference, 19 yards (no play)",-0.380,0.810
+1,1:57,1,10,LVR 28,3,7,Josh Jacobs right end for 5 yards (tackle by Damien Wilson and Tershawn Wharton),0.810,0.940
+1,1:21,2,5,LVR 33,3,7,Derek Carr pass complete short right to Darren Waller for 4 yards (tackle by Damien Wilson),0.940,0.760
+1,0:46,3,1,LVR 37,3,7,Derek Carr pass deep left intended for Darren Waller is intercepted by Bashaud Breeland at KC-43 and returned for 29 yards,0.760,-3.710
+1,0:34,1,10,LVR 28,3,7,Patrick Mahomes pass incomplete deep right,3.710,3.170
+1,0:25,2,10,LVR 28,3,7,Patrick Mahomes pass complete short left to Mecole Hardman for 13 yards (tackle by Nick Kwiatkoski),3.170,4.580
+Quarter,Time,Down,ToGo,Location,LVR,KAN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,LVR 15,3,7,Patrick Mahomes pass complete short left to Travis Kelce for 5 yards (tackle by Cory Littleton),4.580,4.840
+2,14:35,2,5,LVR 10,3,13,"Tyreek Hill right end for 10 yards, touchdown",4.840,7.000
+2,14:29,,,LVR 15,3,14,Harrison Butker kicks extra point good,0.000,0.000
+2,14:29,,,KAN 35,3,14,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+2,14:29,1,10,LVR 25,3,14,Devontae Booker right guard for 7 yards (tackle by Daniel Sorensen and Damien Wilson),0.610,1.010
+2,13:56,2,3,LVR 32,3,14,Devontae Booker right end for 2 yards (tackle by Daniel Sorensen),1.010,0.560
+2,13:20,3,1,LVR 34,3,14,Devontae Booker up the middle for 2 yards (tackle by Chris Jones),0.560,1.330
+2,12:43,1,10,LVR 36,3,14,Derek Carr pass complete short middle to Devontae Booker for 5 yards (tackle by Ben Niemann),1.330,1.470
+2,11:58,2,5,LVR 41,9,14,"Derek Carr pass complete deep right to Nelson Agholor for 59 yards, touchdown",1.470,7.000
+2,11:48,,,KAN 15,10,14,Daniel Carlson kicks extra point good,0.000,0.000
+2,11:48,,,LVR 35,10,14,"Daniel Carlson kicks off 65 yards, touchback.",0.000,0.610
+2,11:48,1,10,KAN 25,10,14,Clyde Edwards-Helaire left end for 8 yards (tackle by Erik Harris),0.610,1.140
+2,11:16,2,2,KAN 33,10,14,Patrick Mahomes pass complete deep left to Sammy Watkins for 16 yards (tackle by Nevin Lawson),1.140,2.190
+2,10:32,1,10,KAN 49,10,14,Patrick Mahomes right end for 5 yards (tackle by Kendal Vickers),2.190,2.320
+2,10:21,2,5,LVR 46,10,14,Patrick Mahomes pass complete deep left to Tyreek Hill for 37 yards (tackle by Trayvon Mullen),2.320,5.140
+2,9:56,1,9,LVR 9,10,14,Patrick Mahomes pass incomplete short left intended for Travis Kelce (defended by Erik Harris),5.140,4.380
+2,9:50,2,9,LVR 9,10,14,Patrick Mahomes left end for 1 yard (tackle by Clelin Ferrell),4.380,3.580
+2,9:12,3,8,LVR 8,10,20,"Patrick Mahomes pass complete short right to Sammy Watkins for 8 yards, touchdown",3.580,7.000
+2,9:04,,,LVR 15,10,21,Harrison Butker kicks extra point good,0.000,0.000
+2,9:04,,,KAN 35,10,21,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+2,9:04,1,10,LVR 25,10,21,Devontae Booker right guard for 43 yards (tackle by Juan Thornhill),0.610,3.450
+2,8:24,1,10,KAN 32,10,21,Josh Jacobs right end for 1 yard (tackle by Alex Okafor),3.450,3.040
+2,7:46,2,9,KAN 31,10,21,Derek Carr pass complete short right to Alec Ingold for 23 yards (tackle by Ben Niemann and Damien Wilson),3.040,5.370
+2,7:04,1,8,KAN 8,10,21,Josh Jacobs left guard for 3 yards (tackle by Mike Pennel),5.370,5.150
+2,6:28,2,5,KAN 5,16,21,"Derek Carr pass complete short middle to Darren Waller for 5 yards, touchdown",5.150,7.000
+2,6:24,,,KAN 15,17,21,Daniel Carlson kicks extra point good,0.000,0.000
+2,6:24,,,LVR 35,17,21,"Daniel Carlson kicks off 65 yards, touchback.",0.000,0.610
+2,6:24,1,10,KAN 25,17,21,Patrick Mahomes pass complete short right to Clyde Edwards-Helaire for 4 yards (tackle by Nick Kwiatkoski),0.610,0.600
+2,5:43,2,6,KAN 29,17,21,Patrick Mahomes pass incomplete short left intended for Clyde Edwards-Helaire (defended by Clelin Ferrell),0.600,-0.100
+2,5:37,3,6,KAN 29,17,21,Patrick Mahomes pass complete short right to Travis Kelce for 14 yards (tackle by Johnathan Abram),-0.100,1.800
+2,5:18,1,10,KAN 43,17,21,"Patrick Mahomes left end for 2 yards (tackle by Nicholas Morrow). Penalty on Mike Remmers: Offensive Holding, 10 yards (no play)",1.800,1.140
+2,4:51,1,20,KAN 33,17,21,Patrick Mahomes pass incomplete short left intended for Darrel Williams,1.140,-0.100
+2,4:47,2,20,KAN 33,17,21,Patrick Mahomes pass incomplete deep right intended for Tyreek Hill (defended by Johnathan Abram),-0.100,-0.760
+2,4:37,,,,,,Timeout #1 by Kansas City Chiefs,,
+2,4:37,3,20,KAN 33,17,21,Patrick Mahomes pass incomplete deep middle intended for Nick Keizer,-0.760,-1.180
+2,4:26,4,20,KAN 33,17,21,"Tommy Townsend punts 67 yards, touchback.",-1.180,-0.280
+2,4:16,1,10,LVR 20,17,21,Jalen Richard left end for 4 yards (tackle by Tyrann Mathieu),0.280,0.270
+2,3:33,2,6,LVR 24,17,21,Josh Jacobs right guard for 4 yards (tackle by Willie Gay),0.270,0.100
+2,2:50,3,2,LVR 28,23,21,"Derek Carr pass complete deep middle to Henry Ruggs for 72 yards, touchdown",0.100,7.000
+2,2:39,,,KAN 15,24,21,Daniel Carlson kicks extra point good,0.000,0.000
+2,2:39,,,LVR 35,24,21,"Daniel Carlson kicks off 60 yards, returned by Mecole Hardman for 23 yards (tackle by Raekwon McMillan)",0.000,0.810
+2,2:33,1,10,KAN 28,24,21,Patrick Mahomes pass incomplete deep left intended for Tyreek Hill,0.810,0.260
+2,2:27,2,10,KAN 28,24,21,Patrick Mahomes pass incomplete short middle intended for Mecole Hardman (defended by Nick Kwiatkoski),0.260,-0.430
+2,2:22,3,10,KAN 28,24,21,"Penalty on Demarcus Robinson: False Start, 5 yards (no play)",-0.430,-1.090
+2,2:22,,,,,,Timeout #2 by Las Vegas Raiders,,
+2,2:22,3,15,KAN 23,24,21,Patrick Mahomes pass complete deep middle to Travis Kelce for 23 yards (tackle by Johnathan Abram),-1.090,1.990
+2,2:00,1,10,KAN 46,24,21,Darrel Williams left guard for 4 yards (tackle by Datone Jones),1.990,1.990
+2,1:42,2,6,KAN 50,24,21,Patrick Mahomes pass complete short left to Tyreek Hill for 15 yards (tackle by Lamarcus Joyner),1.990,3.250
+2,1:20,1,10,LVR 35,24,21,Patrick Mahomes right end for 6 yards (tackle by Datone Jones),3.250,3.510
+2,1:12,2,4,LVR 29,24,21,Patrick Mahomes pass incomplete short right intended for Darrel Williams,3.510,2.810
+2,1:07,3,4,LVR 29,24,21,"Patrick Mahomes pass complete short left to Byron Pringle for 23 yards (tackle by Johnathan Abram). Penalty on Johnathan Abram: Face Mask (15 Yards), 3 yards",2.810,6.510
+2,0:59,1,3,LVR 3,24,21,Clyde Edwards-Helaire right end for -1 yards (tackle by Nicholas Morrow),6.510,5.340
+2,0:53,2,4,LVR 4,24,21,"Patrick Mahomes pass complete short left to Clyde Edwards-Helaire for 4 yards. Penalty on Travis Kelce: Offensive Pass Interference, 10 yards (no play)",5.340,3.580
+2,0:47,2,14,LVR 14,24,21,Patrick Mahomes pass incomplete short middle intended for Demarcus Robinson,3.580,3.000
+2,0:41,3,14,LVR 14,24,21,Patrick Mahomes pass incomplete short right intended for Tyreek Hill,3.000,2.510
+2,0:32,4,14,LVR 14,24,24,Harrison Butker 32 yard field goal good,2.510,3.000
+2,0:28,,,KAN 35,24,24,"Harrison Butker kicks off 51 yards, returned by Keisean Nixon for 18 yards (tackle by Antonio Hamilton)",0.000,1.070
+2,0:23,1,10,LVR 32,24,24,Derek Carr pass complete short right to Jalen Richard for 3 yards (tackle by Tanoh Kpassagnon),1.070,0.930
+2,0:17,,,,,,Timeout #3 by Las Vegas Raiders,,
+2,0:17,2,7,LVR 35,24,24,Derek Carr pass complete short middle to Nelson Agholor for 8 yards (tackle by Charvarius Ward),0.930,1.800
+Quarter,Time,Down,ToGo,Location,LVR,KAN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,KAN 35,24,24,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,LVR 25,24,24,Josh Jacobs left end for 2 yards (tackle by Willie Gay),0.610,0.330
+3,14:25,2,8,LVR 27,24,24,Josh Jacobs right guard for no gain (tackle by Anthony Hitchens),0.330,-0.360
+3,13:46,3,8,LVR 27,24,24,Derek Carr pass incomplete short right intended for Hunter Renfrow (defended by Tanoh Kpassagnon),-0.360,-1.570
+3,13:40,4,8,LVR 27,24,24,"AJ Cole punts 47 yards, returned by Mecole Hardman for no gain (tackle by Kyle Wilber). Penalty on Thakarius Keyes: Offensive Holding, 10 yards",-1.570,0.140
+3,13:31,1,10,KAN 16,24,24,Clyde Edwards-Helaire up the middle for 2 yards (tackle by Johnathan Hankins),-0.140,-0.350
+3,12:54,2,8,KAN 18,24,24,Patrick Mahomes pass complete short left to Travis Kelce for 6 yards (tackle by Nevin Lawson and Cory Littleton),-0.350,-0.320
+3,12:10,3,2,KAN 24,24,24,Tyreek Hill left end for -1 yards (tackle by Arden Key),-0.320,-1.830
+3,11:34,4,3,KAN 23,24,24,"Tommy Townsend punts 53 yards, fair catch by Hunter Renfrow at LV-24",-1.830,-0.540
+3,11:26,1,10,LVR 24,24,24,Derek Carr pass incomplete deep right intended for Alec Ingold (defended by Rashad Fenton),0.540,0.000
+3,11:20,2,10,LVR 24,24,24,Derek Carr pass complete short right to Jalen Richard for 10 yards (tackle by Damien Wilson),0.000,1.200
+3,10:41,1,10,LVR 34,24,24,Derek Carr pass complete short middle to Jalen Richard for 1 yard (tackle by Daniel Sorensen and Anthony Hitchens),1.200,0.790
+3,10:02,2,9,LVR 35,24,24,Derek Carr pass incomplete short left intended for Darren Waller (defended by Chris Jones),0.790,0.100
+3,9:57,,,,,,Timeout #1 by Las Vegas Raiders,,
+3,9:57,3,9,LVR 35,24,24,Derek Carr pass incomplete short right intended for Henry Ruggs,0.100,-1.040
+3,9:52,4,9,LVR 35,24,24,AJ Cole punts 59 yards out of bounds,-1.040,0.380
+3,9:43,1,10,KAN 6,24,24,Patrick Mahomes pass incomplete short right intended for Clyde Edwards-Helaire,-0.380,-0.780
+3,9:39,2,10,KAN 6,24,24,Patrick Mahomes pass complete short right to Clyde Edwards-Helaire for 16 yards (tackle by Erik Harris),-0.780,0.410
+3,8:51,1,10,KAN 22,24,24,Clyde Edwards-Helaire left end for 2 yards (tackle by Cory Littleton),0.410,0.140
+3,8:15,2,8,KAN 24,24,24,Patrick Mahomes sacked by Nevin Lawson for no gain,0.140,-0.560
+3,7:30,3,8,KAN 24,24,24,Patrick Mahomes pass incomplete short middle intended for Travis Kelce,-0.560,-1.770
+3,7:24,4,8,KAN 24,24,24,Tommy Townsend punts 47 yards downed by Antonio Hamilton,-1.770,-0.870
+3,7:15,1,10,LVR 29,24,24,Devontae Booker left guard for 2 yards (tackle by Derrick Nnadi),0.870,0.600
+3,6:35,2,8,LVR 31,24,24,"Derek Carr pass incomplete short right intended for Darren Waller (defended by Rashad Fenton). Penalty on Tyrann Mathieu: Defensive Holding, 5 yards (no play)",0.600,1.330
+3,6:27,1,10,LVR 36,24,24,Devontae Booker left guard for 4 yards (tackle by Frank Clark),1.330,1.330
+3,5:52,2,6,LVR 40,24,24,Derek Carr pass complete short right to Josh Jacobs for 4 yards (tackle by Tershawn Wharton and Damien Wilson),1.330,1.160
+3,5:08,3,2,LVR 44,24,24,Derek Carr pass complete short left to Alec Ingold for 2 yards (tackle by Bashaud Breeland),1.160,1.990
+3,4:34,,,,,,Timeout #1 by Kansas City Chiefs,,
+3,4:34,1,10,LVR 46,24,24,Devontae Booker up the middle for 2 yards (tackle by Derrick Nnadi),1.990,1.720
+3,3:55,2,8,LVR 48,24,24,Derek Carr pass complete short left to Josh Jacobs for 4 yards (tackle by Derrick Nnadi and Rashad Fenton),1.720,1.550
+3,3:10,3,4,KAN 48,24,24,Derek Carr pass complete short middle to Darren Waller for 23 yards (tackle by Daniel Sorensen),1.550,3.910
+3,2:32,1,10,KAN 25,24,24,Derek Carr pass complete short right to Darren Waller for 7 yards (tackle by Rashad Fenton),3.910,4.370
+3,1:53,2,3,KAN 18,24,24,Josh Jacobs right guard for 2 yards (tackle by Charvarius Ward and Anthony Hitchens),4.370,4.060
+3,1:13,3,1,KAN 16,24,24,Josh Jacobs right guard for no gain (tackle by Anthony Hitchens),4.060,2.530
+3,0:35,4,1,KAN 16,24,24,Derek Carr up the middle for 2 yards (tackle by Chris Jones),2.530,4.650
+Quarter,Time,Down,ToGo,Location,LVR,KAN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,KAN 14,24,24,Josh Jacobs left end for 7 yards (tackle by Daniel Sorensen),4.650,5.280
+4,14:21,2,3,KAN 7,30,24,"Josh Jacobs up the middle for 7 yards, touchdown",5.280,7.000
+4,14:14,,,KAN 15,30,24,Daniel Carlson kicks extra point no good wide left,0.000,-1.000
+4,14:14,,,LVR 35,30,24,"Daniel Carlson kicks off 65 yards, touchback.",0.000,0.610
+4,14:14,1,10,KAN 25,30,24,"Clyde Edwards-Helaire up the middle for 3 yards (tackle by Johnathan Hankins). Penalty on Johnathan Hankins: Face Mask (15 Yards), 15 yards",0.610,1.800
+4,13:56,1,10,KAN 43,30,24,Clyde Edwards-Helaire left guard for no gain (tackle by Clelin Ferrell),1.800,1.250
+4,13:18,2,10,KAN 43,30,24,Patrick Mahomes up the middle for 1 yard (tackle by Clelin Ferrell),1.250,0.690
+4,12:36,3,9,KAN 44,30,24,Patrick Mahomes sacked by Maxx Crosby for -7 yards,0.690,-0.910
+4,11:57,4,16,KAN 37,30,24,Tommy Townsend punts 33 yards out of bounds,-0.910,-0.940
+4,11:50,1,10,LVR 30,30,24,"Josh Jacobs up the middle for 15 yards (tackle by Juan Thornhill). Penalty on Denzelle Good: Offensive Holding, 10 yards (no play)",0.940,0.280
+4,11:20,1,20,LVR 20,30,24,Derek Carr pass incomplete short left intended for Josh Jacobs,0.280,-0.960
+4,11:15,2,20,LVR 20,30,24,Derek Carr pass complete short right to Jason Witten for 2 yards (tackle by Chris Jones),-0.960,-1.350
+4,10:33,3,18,LVR 22,30,24,Derek Carr pass complete deep right to Hunter Renfrow for 42 yards (tackle by Daniel Sorensen),-1.350,3.180
+4,9:45,1,10,KAN 36,30,24,Josh Jacobs right guard for 5 yards (tackle by Tershawn Wharton),3.180,3.310
+4,9:05,2,5,KAN 31,30,24,Josh Jacobs right end for 3 yards (tackle by Damien Wilson and Anthony Hitchens),3.310,3.010
+4,8:20,,,,,,Timeout #2 by Las Vegas Raiders,,
+4,8:20,3,2,KAN 28,30,24,Derek Carr pass complete short right to Jason Witten for 4 yards (tackle by Willie Gay),3.010,3.970
+4,7:34,1,10,KAN 24,30,24,Josh Jacobs left guard for -1 yards (tackle by Damien Wilson),3.970,3.300
+4,6:51,2,11,KAN 25,30,24,Derek Carr pass incomplete short right intended for Alec Ingold,3.300,2.610
+4,6:46,3,11,KAN 25,30,24,Derek Carr pass incomplete short right intended for Jalen Richard,2.610,1.800
+4,6:39,4,11,KAN 25,33,24,Daniel Carlson 43 yard field goal good,1.800,3.000
+4,6:34,,,LVR 35,33,24,"Daniel Carlson kicks off 65 yards, touchback.",0.000,0.610
+4,6:34,1,10,KAN 25,33,24,Patrick Mahomes pass incomplete short middle intended for Clyde Edwards-Helaire (defended by Nick Kwiatkoski),0.610,0.060
+4,6:30,2,10,KAN 25,33,24,Patrick Mahomes pass complete short middle to Demarcus Robinson for 3 yards (tackle by Nevin Lawson),0.060,-0.230
+4,5:55,3,7,KAN 28,33,24,Patrick Mahomes pass incomplete short middle intended for Travis Kelce (defended by Trayvon Mullen),-0.230,-1.500
+4,5:44,4,7,KAN 28,33,24,Patrick Mahomes pass deep middle intended for Travis Kelce is intercepted by Jeff Heath at KC-49 and returned for 47 yards,-1.500,-6.740
+4,5:31,1,2,KAN 2,39,24,"Josh Jacobs up the middle for 2 yards, touchdown",6.740,7.000
+4,5:26,,,KAN 15,40,24,Daniel Carlson kicks extra point good,0.000,0.000
+4,5:26,,,LVR 35,40,24,"Daniel Carlson kicks off 65 yards, touchback.",0.000,0.610
+4,5:26,1,10,KAN 25,40,24,Patrick Mahomes pass complete short left to Demarcus Robinson for -1 yards (tackle by Nevin Lawson),0.610,-0.070
+4,5:04,2,11,KAN 24,40,24,Patrick Mahomes pass complete short left to Clyde Edwards-Helaire for 20 yards (tackle by Nevin Lawson),-0.070,1.860
+4,4:55,1,10,KAN 44,40,24,"Patrick Mahomes pass complete deep right to Demarcus Robinson for 20 yards. Penalty on Mitchell Schwartz: Offensive Holding, 10 yards (no play)",1.860,1.200
+4,4:47,1,20,KAN 34,40,24,Patrick Mahomes pass incomplete short left intended for Darrel Williams,1.200,-0.030
+4,4:41,2,20,KAN 34,40,24,Patrick Mahomes pass incomplete deep right intended for Demarcus Robinson,-0.030,-0.690
+4,4:32,3,20,KAN 34,40,24,Patrick Mahomes pass complete short left to Darrel Williams for 15 yards (tackle by Isaiah Johnson and Cory Littleton),-0.690,-0.130
+4,4:25,4,5,KAN 49,40,24,Patrick Mahomes pass complete short middle to Mecole Hardman for 37 yards (tackle by Erik Harris),-0.130,4.650
+4,4:17,1,10,LVR 14,40,24,Patrick Mahomes pass incomplete short left intended for Darrel Williams,4.650,4.000
+4,4:12,2,10,LVR 14,40,24,"Patrick Mahomes pass incomplete short left intended for Demarcus Robinson. Penalty on Arden Key: Face Mask (15 Yards), 7 yards (no play)",4.000,5.600
+4,4:01,1,7,LVR 7,40,30,"Patrick Mahomes pass complete short left to Travis Kelce for 7 yards, touchdown",5.600,7.000
+4,3:57,,,LVR 2,40,32,"Two Point Attempt: Patrick Mahomes pass complete to Darrel Williams, conversion succeeds",1.000,1.000
+4,3:57,,,KAN 35,40,32,"Harrison Butker kicks off 44 yards, returned by Henry Ruggs for 9 yards (tackle by Anthony Sherman). Penalty on Tyreek Hill: Offside on Free Kick, 5 yards",0.000,1.270
+4,3:55,1,10,LVR 35,40,32,Josh Jacobs right end for 4 yards (tackle by Anthony Hitchens),1.270,1.260
+4,3:48,,,,,,Timeout #2 by Kansas City Chiefs,,
+4,3:48,2,6,LVR 39,40,32,Josh Jacobs right guard for 7 yards (tackle by Willie Gay),1.260,1.990
+4,3:41,,,,,,Timeout #3 by Kansas City Chiefs,,
+4,3:41,1,10,LVR 46,40,32,Josh Jacobs up the middle for 2 yards (tackle by Alex Okafor),1.990,1.720
+4,2:57,2,8,LVR 48,40,32,Josh Jacobs right guard for 5 yards (tackle by Anthony Hitchens),1.720,1.690
+4,2:11,,,,,,Timeout #3 by Las Vegas Raiders,,
+4,2:11,3,3,KAN 47,40,32,Derek Carr pass complete short left to Zay Jones for 2 yards (tackle by Bashaud Breeland),1.690,0.270
+4,2:00,4,1,KAN 45,40,32,Derek Carr up the middle for 1 yard (tackle by Derrick Nnadi),0.270,2.650
+4,1:18,1,10,KAN 44,40,32,Derek Carr kneels for -1 yards,2.650,1.980
+4,0:39,2,11,KAN 45,40,32,Derek Carr kneels for -1 yards,1.980,1.160
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,16 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,14:20,TEN 48,7,3:19,52,Touchdown
+2,1,9:20,TEN 24,16,9:03,76,Touchdown
+3,2,10:13,TEN 8,1,0:06,-3,Fumble
+4,2,9:29,TEN 17,2,0:49,-1,Interception
+5,2,6:47,TEN 8,11,5:12,46,Punt
+6,3,15:00,TEN 33,1,0:15,-2,Fumble
+7,3,14:37,TEN 37,8,5:00,63,Touchdown
+8,3,8:42,TEN 42,8,4:04,58,Touchdown
+9,3,2:50,PIT 44,3,0:58,-3,Punt
+10,4,13:24,TEN 35,3,1:08,-5,Punt
+11,4,10:09,TEN 24,1,0:15,0,Interception
+12,4,8:30,TEN 42,7,2:50,34,Field Goal
+13,4,2:43,TEN 11,3,0:35,4,Punt
+14,4,1:43,TEN 20,9,1:43,50,Missed FG
+15,5,15:00,TEN 31,5,2:15,61,Field Goal

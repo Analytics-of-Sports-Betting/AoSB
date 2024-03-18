@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,WAS 31,5,2:15,20,Punt
+2,1,11:15,STL 48,2,0:46,48,Touchdown
+3,1,7:13,WAS 24,3,1:00,1,Punt
+4,1,4:06,WAS 33,8,4:11,40,Missed FG
+5,2,13:35,WAS 36,3,1:30,5,Punt
+6,2,7:05,WAS 17,9,3:54,63,Field Goal
+7,2,1:33,WAS 12,3,1:33,18,End of Half
+8,3,12:48,WAS 10,10,7:21,46,Punt
+9,3,2:03,WAS 31,7,3:17,69,Touchdown
+10,4,11:59,WAS 6,1,0:04,-6,"Fumble, Safety"
+11,4,11:10,STL 45,9,5:20,45,Touchdown
+12,4,2:47,WAS 8,5,2:47,18,End of Game

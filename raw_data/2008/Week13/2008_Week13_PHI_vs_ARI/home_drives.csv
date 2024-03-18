@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,PHI 30,12,7:04,70,Touchdown
+2,1,5:03,ARI 41,4,1:36,41,Touchdown
+3,1,2:27,ARI 44,3,1:18,-3,Punt
+4,2,14:13,PHI 40,10,5:49,60,Touchdown
+5,2,2:58,PHI 33,12,2:57,43,Field Goal
+6,3,13:24,PHI 18,3,0:52,4,Punt
+7,3,11:43,PHI 32,11,5:26,68,Touchdown
+8,3,3:21,PHI 23,6,2:58,54,Field Goal
+9,4,14:15,PHI 44,3,1:30,-5,Punt
+10,4,12:23,ARI 19,5,1:56,19,Touchdown
+11,4,9:11,ARI 36,7,3:52,36,Touchdown
+12,4,4:15,ARI 45,6,4:15,7,End of Game

@@ -1,0 +1,17 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,ARI 20,3,1:30,8,Punt
+2,1,11:27,ARI 20,3,2:15,9,Punt
+3,1,5:21,ARI 20,6,3:10,17,Punt
+4,1,2:11,CAR 30,6,2:15,30,Touchdown
+5,2,12:01,ARI 33,3,1:44,-2,Punt
+6,2,6:54,ARI 2,3,1:02,1,Punt
+7,2,4:54,CAR 17,4,2:04,17,Touchdown
+8,2,0:15,ARI 42,1,0:15,0,End of Half
+9,3,7:29,ARI 8,3,1:39,0,Punt
+10,3,5:36,,0,0:08,0,Fumble
+11,3,4:04,ARI 20,3,1:51,2,Punt
+12,4,14:11,ARI 20,3,1:33,8,Punt
+13,4,11:53,CAR 8,1,0:05,0,Interception
+14,4,7:45,ARI 13,4,2:33,1,Punt
+15,4,2:41,CAR 47,3,0:47,26,Interception
+16,4,0:03,ARI 28,1,0:03,-19,End of Game

@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,ATL 10,3,1:24,7,Punt
+2,1,11:47,ATL 20,3,1:30,7,Punt
+3,1,8:51,ATL 45,9,4:35,30,Fumble
+4,2,14:53,ATL 20,5,3:12,11,Punt
+5,2,8:59,ATL 15,3,2:03,0,Punt
+6,2,2:38,ATL 13,3,1:39,-2,Punt
+7,2,0:59,BAL 37,4,0:22,-2,Missed FG
+8,3,11:28,ATL 20,8,4:00,36,Downs
+9,3,3:23,ATL 35,7,3:23,32,Downs
+10,4,9:57,ATL 10,10,2:45,90,Touchdown
+11,4,3:52,ATL 10,3,0:08,-10,Safety
+12,4,1:46,ATL 29,8,1:46,44,End of Game

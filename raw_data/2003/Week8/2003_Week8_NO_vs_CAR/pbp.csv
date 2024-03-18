@@ -1,0 +1,197 @@
+Quarter,Time,Down,ToGo,Location,CAR,NOR,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Saints won the coin toss, Saints to receive the opening kickoff.",,
+1,15:00,,,CAR 30,0,0,"John Kasay kicks off 57 yards, returned by Michael Lewis for 17 yards (tackle by Kemp Rasmussen)",0.000,0.940
+1,14:56,1,10,NOR 30,0,0,Deuce McAllister right guard for 3 yards (tackle by Mike Rucker),0.940,0.800
+1,14:28,2,7,NOR 33,0,0,Aaron Brooks pass complete to Joe Horn for 8 yards (tackle by Mike Minter),0.800,1.660
+1,13:56,1,10,NOR 41,0,0,Deuce McAllister right end for 1 yard (tackle by Julius Peppers),1.660,1.260
+1,13:25,2,9,NOR 42,0,0,Deuce McAllister for 5 yards (tackle by Mike Minter),1.260,1.220
+1,13:05,3,4,NOR 47,0,0,Aaron Brooks pass incomplete intended for Talman Gardner (defended by Dan Morgan),1.220,-0.260
+1,12:55,4,4,NOR 47,0,0,Mitch Berger punts 52 yards,-0.260,0.380
+1,12:45,1,10,CAR 1,0,0,Stephen Davis right guard for 1 yard (tackle by Johnathan Sullivan),-0.380,-0.710
+1,12:05,2,9,CAR 2,0,0,Jake Delhomme pass incomplete intended for Mike Seidman (defended by Charles Grant),-0.710,-1.300
+1,11:59,3,9,CAR 2,0,0,Stephen Davis left tackle for 17 yards (tackle by Tebucky Jones),-1.300,0.150
+1,11:18,1,10,CAR 19,0,0,Stephen Davis left end for 3 yards (tackle by Tebucky Jones and Fred Thomas),0.150,0.070
+1,10:40,2,7,CAR 22,0,0,Stephen Davis right end for 6 yards (tackle by Darrin Smith and Derrick Rodgers),0.070,0.100
+1,9:54,3,1,CAR 28,0,0,Stephen Davis left tackle for 3 yards (tackle by Kenny Smith and Orlando Ruff),0.100,1.000
+1,9:14,1,10,CAR 31,0,0,Stephen Davis left end for 4 yards (tackle by Darrin Smith),1.000,1.000
+1,8:29,2,6,CAR 35,0,0,DeShaun Foster left guard for -1 yards (tackle by Derrick Rodgers),1.000,0.170
+1,7:47,3,7,CAR 34,0,0,Jake Delhomme pass incomplete intended for Walter Young (defended by Charles Grant),0.170,-1.110
+1,7:40,4,7,CAR 34,0,0,"Todd Sauerbrun punts 44 yards. Penalty on Walter Rasby: Offensive Holding, 10 yards",-1.110,0.350
+1,7:34,1,10,NOR 12,0,0,Aaron Brooks pass incomplete intended for Joe Horn,-0.350,-0.780
+1,7:30,2,10,NOR 12,0,0,Deuce McAllister right guard for 1 yard (tackle by Dan Morgan),-0.780,-1.300
+1,6:51,3,9,NOR 13,0,0,Aaron Brooks pass incomplete intended for Joe Horn,-1.300,-2.490
+1,6:44,4,9,NOR 13,0,0,Mitch Berger punts 35 yards,-2.490,-2.460
+1,6:35,1,10,NOR 47,0,0,--,2.460,5.600
+1,6:11,1,7,NOR 7,0,0,Stephen Davis left guard for 1 yard (tackle by Willie Whitehead and Derrick Rodgers),5.600,4.950
+1,5:29,2,6,NOR 6,0,0,Jake Delhomme pass incomplete intended for Brad Hoover,4.950,4.040
+1,5:24,3,6,NOR 6,0,0,Jake Delhomme pass incomplete intended for Walter Young (defended by Fred Thomas),4.040,2.990
+1,5:19,4,6,NOR 6,3,0,John Kasay 24 yard field goal good,2.990,3.000
+1,,,,CAR 30,3,0,"John Kasay kicks off 67 yards, returned by Michael Lewis for 18 yards (tackle by Kemp Rasmussen)",0.000,0.340
+1,5:09,1,10,NOR 21,3,0,"Deuce McAllister right tackle for 2 yards (tackle by Dan Morgan). Penalty on Terrelle Smith: Chop Block, 11 yards (no play)",0.340,-0.800
+1,4:54,1,21,NOR 10,3,0,Deuce McAllister left tackle for 1 yard (tackle by Mike Rucker),-0.800,-1.510
+1,4:17,2,20,NOR 11,3,0,Aaron Brooks pass incomplete intended for Joe Horn,-1.510,-2.590
+1,4:12,3,20,NOR 11,3,0,Aaron Brooks pass incomplete intended for Talman Gardner,-2.590,-2.490
+1,4:05,4,20,NOR 11,3,0,"Mitch Berger punts 46 yards, returned by Steve Smith for 8 yards (tackle by Fakhir Brown)",-2.490,-2.320
+1,3:54,1,10,NOR 49,3,0,Stephen Davis right tackle for 3 yards (tackle by Willie Whitehead and Kenderick Allen),2.320,2.190
+1,3:17,2,7,NOR 46,3,0,Stephen Davis left guard for 2 yards (tackle by Kenderick Allen),2.190,1.750
+1,2:42,3,5,NOR 44,3,0,Jake Delhomme pass incomplete intended for Steve Smith (defended by Ashley Ambrose),1.750,0.330
+1,2:35,4,5,NOR 44,3,0,"Todd Sauerbrun punts 33 yards, fair catch by Michael Lewis",0.330,0.370
+1,2:27,1,10,NOR 11,3,0,Aaron Brooks pass complete to Ernie Conwell for 8 yards (tackle by Mike Minter),-0.370,0.170
+1,2:03,2,2,NOR 19,3,0,Deuce McAllister right guard for 2 yards (tackle by Will Witherspoon and Greg Favors),0.170,0.340
+1,1:21,1,10,NOR 21,3,0,"Aaron Brooks sacked for -8 yards. Aaron Brooks fumbles, recovered by Dan Morgan at NOR-25 (tackle by Jerry Fontenot)",0.340,-3.910
+,,,,,,,"NOR challenged the ruling, and the play was upheld.",,
+1,1:11,1,10,NOR 25,3,0,Stephen Davis right tackle for 1 yard (tackle by Jay Bellamy),3.910,3.500
+1,0:32,2,9,NOR 24,3,0,Stephen Davis right guard for 1 yard (tackle by Johnathan Sullivan),3.500,2.940
+Quarter,Time,Down,ToGo,Location,CAR,NOR,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,8,NOR 23,3,0,Jake Delhomme pass complete to Kris Mangum for 22 yards (tackle by Derrick Rodgers),2.940,6.970
+2,14:14,1,1,NOR 1,3,0,Stephen Davis right guard for no gain (tackle by Darrin Smith and Willie Whitehead),6.970,5.910
+2,13:35,2,1,NOR 1,9,0,"Stephen Davis right guard for 1 yard, touchdown",5.910,7.000
+2,,,,NOR 2,10,0,John Kasay kicks extra point good,0.000,0.000
+2,,,,CAR 30,10,0,"John Kasay kicks off 43 yards, returned by Fred McAfee for no gain",0.000,0.810
+2,13:26,1,10,NOR 28,10,0,Deuce McAllister right tackle for 1 yard (tackle by Kris Jenkins),0.810,0.400
+2,12:48,2,9,NOR 29,10,0,Aaron Brooks pass complete to Boo Williams for 8 yards (tackle by Al Wallace),0.400,0.760
+2,11:44,3,1,NOR 37,10,0,Deuce McAllister right guard for no gain (tackle by Dan Morgan and Julius Peppers),0.760,-0.910
+2,11:22,4,1,NOR 37,10,0,Aaron Brooks up the middle for 1 yard (tackle by Kris Jenkins),-0.910,1.470
+2,10:45,1,10,NOR 38,10,0,Aaron Brooks pass complete to Jerome Pathon for 4 yards (tackle by Will Witherspoon),1.470,1.460
+2,10:03,2,6,NOR 42,10,0,Aaron Brooks pass complete to Deuce McAllister for 7 yards (tackle by Reggie Howard),1.460,2.190
+2,9:32,1,10,NOR 49,10,0,Aaron Brooks pass complete to Ki-Jana Carter for 11 yards (tackle by Dan Morgan),2.190,2.920
+2,9:06,1,10,CAR 40,10,0,Joe Horn pass complete to Jerome Pathon for 14 yards (tackle by Reggie Howard),2.920,3.840
+,,,,,,,"CAR challenged the ruling, and the play was upheld.",,
+2,8:36,1,10,CAR 26,10,0,Aaron Brooks pass complete to Talman Gardner for 11 yards (tackle by Will Witherspoon),3.840,4.580
+2,7:55,1,10,CAR 15,10,0,Deuce McAllister right end for 1 yard (tackle by Dan Morgan and Greg Favors),4.580,4.110
+2,7:11,2,9,CAR 14,10,6,"Aaron Brooks pass complete to Joe Horn for 14 yards, touchdown",4.110,7.000
+2,,,,CAR 2,10,7,John Carney kicks extra point good,0.000,0.000
+2,,,,NOR 30,10,7,"John Carney kicks off 65 yards, returned by Rod Smart for 18 yards (tackle by Victor Green)",0.000,0.480
+2,6:58,1,10,CAR 23,10,7,Stephen Davis left tackle for no gain (tackle by Darrin Smith and Jay Bellamy),0.480,-0.070
+2,6:14,2,10,CAR 23,10,7,Jake Delhomme pass complete to Steve Smith for 10 yards (tackle by Dale Carter),-0.070,1.140
+2,5:52,1,10,CAR 33,10,7,Jake Delhomme pass incomplete intended for Kris Mangum,1.140,0.590
+2,5:47,2,10,CAR 33,10,7,"Stephen Davis left guard for 21 yards (tackle by Tebucky Jones and Ashley Ambrose). Penalty on Jordan Gross: Unnecessary Roughness, 15 yards",0.590,1.530
+2,4:47,1,25,CAR 39,10,7,DeShaun Foster right tackle for 10 yards (tackle by Fred Thomas and Kenny Smith),1.530,1.300
+2,4:47,2,15,CAR 49,10,7,"Stephen Davis right tackle for no gain (tackle by Dale Carter). Penalty on Kevin Donnalley: Offensive Holding, 10 yards (no play)",1.300,-0.050
+2,4:22,2,25,CAR 39,10,7,Jake Delhomme pass complete to Steve Smith for -1 yards (tackle by Orlando Ruff),-0.050,-0.820
+2,3:41,3,26,CAR 38,10,7,Stephen Davis right guard for 1 yard (tackle by Charles Grant),-0.820,-0.780
+2,3:08,4,25,CAR 39,10,7,"Todd Sauerbrun punts 51 yards (tackle by Lester Towns). Penalty on Jason Kyle: Ineligible Downfield Kick, 5 yards (no play)",-0.780,-1.110
+2,2:59,4,30,CAR 34,10,7,"Todd Sauerbrun punts 56 yards, returned by Michael Lewis for 26 yards (tackle by Mike Caldwell)",-1.110,-1.330
+2,2:50,1,10,NOR 36,10,7,Aaron Brooks pass complete to Joe Horn for 14 yards (tackle by Reggie Howard),1.330,2.260
+2,2:17,1,10,NOR 50,10,7,Deuce McAllister up the middle for 9 yards (tackle by Terry Cousin),2.260,2.930
+2,2:08,,,,10,7,Timeout #2 by New Orleans Saints,0.000,2.930
+2,2:08,2,1,CAR 41,10,7,Aaron Brooks pass complete to Joe Horn for 5 yards (tackle by Ricky Manning),2.930,3.180
+2,1:59,1,10,CAR 36,10,7,Deuce McAllister up the middle for 13 yards (tackle by Mike Minter and Ricky Manning),3.180,4.040
+2,1:33,1,10,CAR 23,10,7,Aaron Brooks pass incomplete intended for Joe Horn (defended by Will Witherspoon),4.040,3.500
+2,1:27,2,10,CAR 23,10,7,Aaron Brooks pass incomplete intended for Talman Gardner,3.500,2.810
+2,1:23,3,10,CAR 23,10,13,"Aaron Brooks pass complete to Joe Horn for 23 yards, touchdown",2.810,7.000
+2,,,,CAR 2,10,14,John Carney kicks extra point good,0.000,0.000
+2,,,,NOR 30,10,14,"John Carney kicks off 70 yards, touchback",0.000,0.280
+2,1:13,1,10,CAR 20,10,14,Stephen Davis right end for 3 yards (tackle by Jay Bellamy),0.280,0.140
+2,0:38,2,7,CAR 23,10,14,Jake Delhomme pass complete to Stephen Davis for 17 yards (tackle by Tebucky Jones),0.140,1.600
+2,0:28,,,,10,14,Timeout #2 by Carolina Panthers,0.000,1.600
+2,0:28,1,10,CAR 40,10,14,Jake Delhomme pass incomplete intended for Kris Mangum,1.600,1.050
+2,0:28,,,,10,14,Timeout #3 by Carolina Panthers,0.000,1.050
+2,0:23,2,10,CAR 40,10,14,Jake Delhomme pass incomplete intended for Steve Smith,1.050,0.370
+2,0:18,3,10,CAR 40,10,14,Jake Delhomme sacked by Charles Grant for -3 yards,0.370,-0.910
+2,0:09,,,,10,14,Timeout #3 by New Orleans Saints,0.000,-0.910
+2,0:09,4,13,CAR 37,10,14,Todd Sauerbrun punts no gain,-0.910,-3.640
+2,0:04,1,10,CAR 29,10,17,John Carney 46 yard field goal good,3.640,3.000
+Quarter,Time,Down,ToGo,Location,CAR,NOR,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,NOR 30,10,17,"John Carney kicks off 60 yards, returned by Rod Smart for 13 yards (tackle by Steve Gleason)",0.000,0.480
+3,14:55,1,10,CAR 23,10,17,Jake Delhomme pass complete to Steve Smith for 11 yards (tackle by Tebucky Jones),0.480,1.200
+3,14:25,1,10,CAR 34,10,17,Jake Delhomme pass complete to Steve Smith for 20 yards (tackle by Fred Thomas),1.200,2.520
+3,14:02,1,10,NOR 46,10,17,"Jake Delhomme pass complete to Mike Seidman for 3 yards (tackle by Johnathan Sullivan). Penalty on CAR: Illegal Shift, 5 yards (no play)",2.520,2.190
+3,13:32,1,15,CAR 49,10,17,Stephen Davis right guard for 7 yards (tackle by Charles Grant and Tebucky Jones),2.190,2.250
+3,12:47,2,8,NOR 44,10,17,Steve Smith left end for 10 yards (tackle by Willie Whitehead),2.250,3.310
+3,12:03,1,10,NOR 34,10,17,Jake Delhomme pass incomplete intended for Kris Mangum,3.310,2.770
+3,11:59,2,10,NOR 34,10,17,Stephen Davis right end for no gain (tackle by Fred Thomas). Penalty on CAR: Illegal Shift (Declined),2.770,2.080
+3,11:31,3,10,NOR 34,10,17,Jake Delhomme pass complete to Steve Smith for 17 yards (tackle by Dale Carter),2.080,4.440
+3,10:45,1,10,NOR 17,10,17,Brad Hoover right guard for 4 yards (tackle by Kenny Smith and Darrin Smith),4.440,4.500
+3,10:07,2,6,NOR 13,10,17,Stephen Davis left end for 2 yards (tackle by Jay Bellamy),4.500,4.100
+3,9:21,3,4,NOR 11,10,17,Jake Delhomme pass incomplete intended for Walter Young (defended by Fred Thomas),4.100,2.770
+3,9:18,4,4,NOR 11,13,17,John Kasay 29 yard field goal good,2.770,3.000
+3,,,,CAR 30,13,17,"John Kasay kicks off 70 yards, returned by Michael Lewis for 32 yards (tackle by Dante Wesley)",0.000,1.070
+3,9:06,1,10,NOR 32,13,17,Deuce McAllister left tackle for 6 yards (tackle by Mike Minter and Lester Towns),1.070,1.340
+3,8:30,2,4,NOR 38,13,17,Deuce McAllister left tackle for 12 yards (tackle by Reggie Howard and Mike Minter),1.340,2.260
+3,7:45,1,10,NOR 50,13,17,Ki-Jana Carter left guard for no gain (tackle by Mike Rucker),2.260,1.710
+3,7:05,2,10,NOR 50,13,17,Aaron Brooks pass complete to Terrelle Smith for 2 yards (tackle by Lester Towns),1.710,1.290
+3,6:19,3,8,CAR 48,13,17,Aaron Brooks pass incomplete intended for Joe Horn (defended by Ricky Manning),1.290,0.070
+3,6:13,4,8,CAR 48,13,17,"Mitch Berger punts 38 yards, muffed catch by Steve Smith, recovered by Steve Smith and returned for no gain",0.070,0.350
+3,6:03,1,10,CAR 12,13,17,Jake Delhomme pass incomplete intended for Walter Young (defended by Fred Thomas),-0.350,-0.780
+3,5:58,2,10,CAR 12,13,17,Stephen Davis right tackle for 4 yards (tackle by Willie Whitehead),-0.780,-0.950
+3,5:17,3,6,CAR 16,13,17,Jake Delhomme pass complete to Steve Smith for 5 yards (tackle by Dale Carter),-0.950,-1.960
+3,4:42,4,1,CAR 21,13,17,Todd Sauerbrun punts 32 yards,-1.960,-2.130
+3,4:35,1,10,NOR 48,13,17,--,2.130,2.800
+3,3:55,2,1,CAR 43,13,17,Aaron Brooks pass complete to Walter Rasby for 6 yards (tackle by Lester Towns),2.800,3.120
+3,3:16,1,10,CAR 37,13,17,Deuce McAllister left end for 2 yards (tackle by Lester Towns),3.120,2.840
+3,2:32,2,8,CAR 35,13,17,Deuce McAllister left tackle for 3 yards (tackle by Reggie Howard),2.840,2.540
+3,1:50,3,5,CAR 32,13,17,Aaron Brooks pass complete to Joe Horn for 10 yards,2.540,4.110
+3,1:17,1,10,CAR 22,13,17,Aaron Brooks pass incomplete intended for Boo Williams is intercepted by Will Witherspoon at CAR-7 and returned for 10 yards,4.110,-0.540
+3,1:06,1,10,CAR 24,13,17,Jake Delhomme left end for 5 yards (tackle by Charles Grant),0.540,0.670
+3,0:24,2,5,CAR 29,13,17,Jake Delhomme pass incomplete intended for Brad Hoover (defended by Darrin Smith),0.670,-0.030
+3,0:19,3,5,CAR 29,13,17,Jake Delhomme pass incomplete intended for Walter Young (defended by Tebucky Jones),-0.030,-1.440
+3,0:13,4,5,CAR 29,13,17,"Todd Sauerbrun punts 58 yards, returned by Michael Lewis for 19 yards (tackle by Kemp Rasmussen)",-1.440,-1.070
+3,0:01,1,10,NOR 32,13,17,Deuce McAllister right guard for 2 yards (tackle by Greg Favors),1.070,0.800
+Quarter,Time,Down,ToGo,Location,CAR,NOR,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,8,NOR 34,13,17,Aaron Brooks pass complete to Ernie Conwell for 11 yards (tackle by Greg Favors),0.800,1.930
+4,14:35,1,10,NOR 45,13,17,Deuce McAllister right guard for 1 yard (tackle by Kris Jenkins and Greg Favors),1.930,1.520
+4,13:56,2,9,NOR 46,13,17,Deuce McAllister left guard for 6 yards (tackle by Greg Favors),1.520,1.620
+4,13:12,3,3,CAR 48,13,17,Aaron Brooks pass incomplete intended for Jerome Pathon,1.620,0.070
+4,13:07,4,3,CAR 48,13,17,"Mitch Berger punts 33 yards, fair catch by Steve Smith",0.070,0.220
+4,12:59,1,10,CAR 15,13,17,Stephen Davis right tackle for no gain (tackle by Jay Bellamy),-0.220,-0.710
+4,12:16,2,10,CAR 15,13,17,Stephen Davis left tackle for 9 yards (tackle by Kenny Smith and Tebucky Jones),-0.710,-0.270
+4,11:30,3,1,CAR 24,13,17,Jake Delhomme right guard for 2 yards (tackle by Orlando Ruff and Kenny Smith),-0.270,0.670
+4,10:54,1,10,CAR 26,13,17,Stephen Davis right end for -1 yards (tackle by Charles Grant),0.670,-0.010
+4,10:14,2,11,CAR 25,13,17,Jake Delhomme pass incomplete intended for Steve Smith,-0.010,-0.690
+4,10:10,,,,13,17,Timeout #1 by Carolina Panthers,0.000,-0.690
+4,10:10,3,11,CAR 25,13,17,"Penalty on Walter Young: False Start, 5 yards (no play)",-0.690,-1.350
+4,10:10,3,16,CAR 20,13,17,Jake Delhomme pass complete to Steve Smith for 14 yards (tackle by Fred Thomas),-1.350,-1.110
+4,9:27,4,2,CAR 34,13,17,Todd Sauerbrun punts 46 yards,-1.110,-0.280
+4,9:19,1,10,NOR 20,13,17,Deuce McAllister right tackle for 8 yards (tackle by Shane Burton),0.280,0.810
+4,8:32,2,2,NOR 28,13,17,Deuce McAllister right guard for 5 yards (tackle by Mike Minter),0.810,1.140
+4,7:52,1,10,NOR 33,13,17,Deuce McAllister right guard for 1 yard (tackle by Shane Burton),1.140,0.730
+4,7:07,2,9,NOR 34,13,17,Aaron Brooks sacked by Mike Rucker for -7 yards,0.730,-0.890
+4,6:36,3,16,NOR 27,13,17,Aaron Brooks pass incomplete intended for Talman Gardner,-0.890,-1.570
+4,6:28,4,16,NOR 27,13,17,Mitch Berger punts 50 yards (tackle by Mitch Berger),-1.570,-1.730
+4,6:15,1,10,CAR 42,13,17,Stephen Davis right guard for 4 yards (tackle by Charles Grant and Kenny Smith),1.730,1.730
+4,5:39,2,6,CAR 46,13,17,"Jake Delhomme pass complete to Walter Young for 37 yards (tackle by Ashley Ambrose). Penalty on Walter Young: Offensive Pass Interference, 10 yards (no play)",1.730,0.380
+4,5:14,2,16,CAR 36,13,17,"Jake Delhomme pass complete to Ricky Proehl for 9 yards (tackle by Fred Thomas). Penalty on Derrick Rodgers: Roughing the Passer, 15 yards",0.380,2.920
+4,4:54,1,10,NOR 40,13,17,Jake Delhomme pass incomplete intended for DeShaun Foster,2.920,2.370
+4,4:48,2,10,NOR 40,13,17,DeShaun Foster left end for 16 yards (tackle by Fakhir Brown). Penalty on Charles Grant: Defensive Offside (Declined),2.370,3.970
+4,4:41,1,10,NOR 24,13,17,Jake Delhomme pass complete to Steve Smith for 16 yards (tackle by Tebucky Jones),3.970,5.370
+4,3:55,1,8,NOR 8,13,17,"Jake Delhomme pass incomplete intended for Walter Young. Penalty on Fred Thomas: Defensive Pass Interference, 7 yards (no play)",5.370,6.970
+4,3:50,1,1,NOR 1,19,17,"Stephen Davis right guard for 1 yard, touchdown",6.970,7.000
+4,,,,NOR 2,20,17,John Kasay kicks extra point good,0.000,0.000
+4,,,,CAR 30,20,17,"John Kasay kicks off 64 yards, returned by Michael Lewis for 25 yards (tackle by Mike Minter)",0.000,1.000
+4,3:41,1,10,NOR 31,20,17,Aaron Brooks pass complete to Ernie Conwell for 4 yards (tackle by Reggie Howard),1.000,1.000
+4,3:15,2,6,NOR 35,20,17,Aaron Brooks sacked by Mike Rucker for -4 yards,1.000,-0.230
+4,2:40,3,10,NOR 31,20,17,Aaron Brooks pass incomplete intended for Talman Gardner (defended by Kindal Moorehead),-0.230,-1.310
+4,2:35,4,10,NOR 31,20,17,Aaron Brooks pass complete to Jerome Pathon for 16 yards (tackle by Mike Minter),-1.310,2.060
+4,2:04,1,10,NOR 47,20,17,Deuce McAllister left tackle for 3 yards (tackle by Kris Jenkins),2.060,1.920
+4,1:58,2,7,NOR 50,20,17,Aaron Brooks pass complete to Deuce McAllister for 16 yards (tackle by Deon Grant),1.920,3.310
+4,1:44,,,,20,17,Timeout #1 by New Orleans Saints,0.000,3.310
+4,1:44,1,10,CAR 34,20,17,Aaron Brooks pass incomplete intended for Talman Gardner,3.310,2.770
+4,1:37,2,10,CAR 34,20,17,Aaron Brooks pass complete to Deuce McAllister for 9 yards (tackle by Deon Grant),2.770,3.270
+4,1:30,3,1,CAR 25,20,17,Aaron Brooks pass complete to Boo Williams for no gain,3.270,1.950
+4,0:41,,,,20,17,Timeout #2 by New Orleans Saints,0.000,0.000
+4,0:41,,,,20,17,Timeout #2 by Carolina Panthers,0.000,1.950
+4,0:41,4,1,CAR 25,20,20,John Carney 42 yard field goal good,1.950,3.000
+4,,,,NOR 30,20,20,"John Carney kicks off 63 yards, returned by Rod Smart for 17 yards (tackle by Michael Lewis)",0.000,0.540
+4,0:30,1,10,CAR 24,20,20,Stephen Davis left guard for 1 yard (tackle by Willie Whitehead),0.540,-0.940
+Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime
+Quarter,Time,Down,ToGo,Location,CAR,NOR,Detail,EPB,EPA
+,,,,,,,"Saints won the coin toss, Saints to receive the overtime kickoff.",,
+OT,15:00,1,10,CAR 30,20,20,"John Kasay kicks off 69 yards, returned by Michael Lewis for 53 yards (tackle by John Kasay)",0.940,2.520
+OT,14:52,1,10,CAR 46,20,20,Deuce McAllister left guard for 3 yards (tackle by Julius Peppers),2.520,2.380
+OT,14:11,2,7,CAR 43,20,20,Aaron Brooks for 2 yards (tackle by Greg Favors),2.380,1.950
+OT,13:41,3,5,CAR 41,20,20,Deuce McAllister right tackle for 4 yards (tackle by Greg Favors and Mike Minter),1.950,0.790
+OT,13:41,4,1,CAR 37,20,20,"Deuce McAllister right guard for -1 yards (tackle by Julius Peppers). Deuce McAllister fumbles (forced by Julius Peppers), recovered by Kris Jenkins at CAR-38 (tackle by Wayne Gandy)",0.790,-1.470
+OT,13:06,1,10,CAR 38,20,20,Stephen Davis left guard for 4 yards (tackle by Darrin Smith),1.470,1.460
+OT,12:29,2,6,CAR 42,20,20,Jake Delhomme pass complete to Steve Smith for 8 yards (tackle by Dale Carter),1.460,2.260
+OT,12:04,1,10,,20,20,Stephen Davis left tackle for 5 yards (tackle by Darrin Smith),2.260,2.390
+OT,11:20,2,5,NOR 45,20,20,Stephen Davis left guard for 34 yards (tackle by Tebucky Jones),2.390,4.840
+OT,10:53,2,5,NOR 45,20,20,Timeout #1 by Carolina Panthers,2.390,4.840
+OT,10:53,1,10,NOR 11,20,20,Jake Delhomme left guard for -1 yards (tackle by Derrick Rodgers),4.840,3.980
+OT,10:28,1,10,NOR 11,20,20,Timeout #1 by New Orleans Saints,4.840,3.980
+OT,10:28,2,11,NOR 12,23,20,John Kasay 31 yard field goal good,3.980,3.000
+End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime

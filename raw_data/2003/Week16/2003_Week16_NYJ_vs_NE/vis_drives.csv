@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,14:20,NYJ 35,1,0:08,35,Touchdown
+2,1,4:52,NWE 43,5,1:47,18,Punt
+3,1,1:02,NYJ 48,3,1:18,7,Punt
+4,2,11:53,NWE 9,11,6:58,56,Punt
+5,2,3:57,NYJ 43,5,2:02,18,Downs
+6,2,0:01,,0,0:01,0,End of Half
+7,3,15:00,NWE 40,7,4:07,60,Touchdown
+8,3,6:35,NWE 20,6,2:56,10,Punt
+9,4,12:11,NWE 42,3,2:39,7,Punt
+10,4,8:09,NWE 27,2,1:05,18,Interception
+11,4,5:57,NWE 33,6,3:45,23,Punt
+12,4,0:35,NWE 46,1,0:35,-1,End of Game

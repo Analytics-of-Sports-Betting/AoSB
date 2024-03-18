@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,LAR 40,6,2:12,14,Punt
+2,1,10:54,LAR 22,6,2:46,23,Punt
+3,1,1:47,LAR 25,9,3:49,75,Touchdown
+4,2,11:37,LAR 25,3,1:43,5,Punt
+5,2,1:57,LAR 25,2,0:41,-5,Interception
+6,2,0:16,LAR 23,1,0:16,-1,End of Half
+7,3,11:09,LAR 25,3,1:28,-10,Punt
+8,3,7:44,LAR 15,12,3:59,49,Downs
+9,4,14:56,LAR 25,3,1:17,-5,Punt
+10,4,6:40,LAR 25,12,3:23,75,Touchdown
+11,4,3:00,LAR 40,11,2:20,60,Touchdown

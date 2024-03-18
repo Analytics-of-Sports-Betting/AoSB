@@ -1,0 +1,179 @@
+Quarter,Time,Down,ToGo,Location,ARI,SEA,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Seahawks won the coin toss and deferred, Cardinals to receive the opening kickoff.",,
+1,15:00,,,SEA 35,0,0,"Sebastian Janikowski kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,ARI 25,0,0,Josh Rosen pass incomplete deep right intended for Darrell Daniels,0.610,0.060
+1,14:53,2,10,ARI 25,0,0,David Johnson left tackle for 9 yards (tackle by Delano Hill and Shaquill Griffin),0.060,0.560
+1,14:16,3,1,ARI 34,0,0,David Johnson right guard for no gain (tackle by K.J. Wright and Shaquill Griffin),0.560,-1.110
+1,13:34,4,1,ARI 34,0,0,"Andy Lee punts 47 yards, fair catch by Tyler Lockett at SEA-19",-1.110,-0.150
+1,13:28,1,10,SEA 19,0,0,Chris Carson up the middle for 5 yards (tackle by Haason Reddick and Gerald Hodges),0.150,0.340
+1,12:57,2,5,SEA 24,0,0,Chris Carson right tackle for 8 yards (tackle by Deone Bucannon and Gerald Hodges),0.340,1.070
+1,12:21,1,10,SEA 32,0,0,Mike Davis up the middle for 3 yards (tackle by Zach Moore and Corey Peters),1.070,0.930
+1,11:43,2,7,SEA 35,0,0,Russell Wilson pass incomplete deep right,0.930,0.230
+1,11:36,3,7,SEA 35,0,0,Ed Dickson left end for 9 yards (tackle by Haason Reddick and Budda Baker),0.230,1.860
+1,11:01,1,10,SEA 44,0,0,Russell Wilson pass complete short right to Jaron Brown for 7 yards (tackle by Budda Baker),1.860,2.260
+1,10:32,2,3,ARI 49,0,0,Chris Carson left end for no gain (tackle by Deone Bucannon and Vincent Valentine),2.260,1.550
+1,9:53,3,3,ARI 49,0,0,Russell Wilson pass short right intended for David Moore is intercepted by David Amerson at ARI-47 and returned for 25 yards,1.550,-3.710
+1,9:44,1,10,SEA 28,0,0,Josh Rosen pass incomplete deep left intended for Trent Sherfield,3.710,3.170
+1,9:38,2,10,SEA 28,0,0,David Johnson right guard for 3 yards (tackle by K.J. Wright and Bobby Wagner),3.170,2.870
+1,8:59,3,7,SEA 25,0,0,Josh Rosen pass complete short middle to Chad Williams for 9 yards (tackle by Tre Flowers),2.870,4.510
+1,8:15,1,10,SEA 16,0,0,Josh Rosen pass incomplete deep middle intended for Chad Williams,4.510,3.900
+1,8:11,2,10,SEA 16,0,0,David Johnson up the middle for -1 yards (tackle by Shaquill Griffin),3.900,3.020
+1,7:30,3,11,SEA 17,0,0,Josh Rosen pass incomplete deep right intended for Larry Fitzgerald,3.020,2.310
+1,7:25,4,11,SEA 17,3,0,Zane Gonzalez 36 yard field goal good,2.310,3.000
+1,7:22,,,ARI 35,3,0,"Zane Gonzalez kicks off 67 yards, returned by Tyler Lockett for no gain (tackle by Dennis Gardeck)",0.000,0.540
+1,7:17,1,10,SEA 24,3,0,Chris Carson up the middle for 4 yards (tackle by Chandler Jones),0.540,0.540
+1,6:46,2,6,SEA 28,3,0,Chris Carson right guard for no gain (tackle by Gerald Hodges),0.540,-0.160
+1,6:08,3,6,SEA 28,3,0,Russell Wilson sacked by Deone Bucannon for -8 yards,-0.160,-2.030
+1,5:35,4,14,SEA 20,3,0,"Michael Dickson punts 46 yards, returned by Pharoh Cooper for 5 yards (tackle by Barkevious Mingo and Tre Madden)",-2.030,-1.530
+1,5:25,1,10,ARI 39,3,0,David Johnson up the middle for 3 yards (tackle by Shaquill Griffin),1.530,1.390
+1,4:49,2,7,ARI 42,3,0,Josh Rosen pass incomplete short right intended for David Johnson,1.390,0.700
+1,4:45,3,7,ARI 42,3,0,Josh Rosen pass complete short middle to Chad Williams for 6 yards (tackle by Akeem King),0.700,-0.190
+1,3:57,4,1,ARI 48,3,0,Josh Rosen pass incomplete deep left intended for Larry Fitzgerald,-0.190,-2.460
+1,3:51,1,10,ARI 47,3,0,Russell Wilson pass complete short right to Nick Vannett for 6 yards (tackle by Deone Bucannon),2.460,2.720
+1,3:21,2,4,ARI 41,3,0,Chris Carson left end for 3 yards (tackle by Gerald Hodges),2.720,2.410
+1,2:53,3,1,ARI 38,3,0,Chris Carson up the middle for 2 yards (tackle by Zach Moore and Corey Peters),2.410,3.180
+1,2:17,1,10,ARI 36,3,0,Russell Wilson pass incomplete deep right intended for David Moore,3.180,2.640
+1,2:10,2,10,ARI 36,3,0,Mike Davis right guard for 7 yards (tackle by Haason Reddick),2.640,2.870
+1,1:31,3,3,ARI 29,3,6,"Russell Wilson pass complete deep right to Tyler Lockett for 29 yards, touchdown",2.870,7.000
+1,1:25,,,ARI 15,3,7,Sebastian Janikowski kicks extra point good,0.000,0.000
+1,1:25,,,SEA 35,3,7,"Sebastian Janikowski kicks off 65 yards, touchback.",0.000,0.610
+1,1:25,1,10,ARI 25,3,7,Chase Edmonds left tackle for 4 yards (tackle by Poona Ford),0.610,0.600
+1,0:49,2,6,ARI 29,3,7,Chase Edmonds left guard for 3 yards (tackle by Poona Ford and Bobby Wagner),0.600,0.300
+1,0:05,3,3,ARI 32,3,7,Josh Rosen pass complete short right to Larry Fitzgerald for 4 yards (tackle by Bobby Wagner),0.300,1.330
+Quarter,Time,Down,ToGo,Location,ARI,SEA,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,ARI 36,3,7,Josh Rosen pass complete short right to Larry Fitzgerald for 5 yards (tackle by Shaquill Griffin),1.330,1.470
+2,14:40,2,5,ARI 41,3,7,Chase Edmonds up the middle for no gain (tackle by Jacob Martin),1.470,0.760
+2,13:56,3,5,ARI 41,3,7,"Josh Rosen sacked by Jacob Martin for -7 yards. Josh Rosen fumbles (forced by Jacob Martin), recovered by Frank Clark at ARI-34 (tackle by Joe Barksdale)",0.760,-3.310
+2,13:51,1,10,ARI 34,3,7,"Chris Carson left end for no gain (tackle by Gerald Hodges). Penalty on Ethan Pocic: Offensive Holding, 10 yards (no play)",3.310,2.650
+2,13:36,1,20,ARI 44,3,7,Chris Carson left end for 10 yards (tackle by Haason Reddick),2.650,2.770
+2,12:55,2,10,ARI 34,3,7,Russell Wilson pass complete short right to Doug Baldwin for 10 yards (tackle by Budda Baker),2.770,3.970
+2,12:21,1,10,ARI 24,3,7,Russell Wilson pass complete short middle to Doug Baldwin for 17 yards (tackle by Antoine Bethea),3.970,5.600
+2,11:43,1,7,ARI 7,3,13,"Chris Carson up the middle for 7 yards, touchdown",5.600,7.000
+2,11:39,,,ARI 15,3,14,Sebastian Janikowski kicks extra point good,0.000,0.000
+2,11:39,,,SEA 35,3,14,"Sebastian Janikowski kicks off 65 yards, touchback.",0.000,0.610
+2,11:39,1,10,ARI 25,3,14,David Johnson right guard for 4 yards (tackle by Delano Hill),0.610,0.600
+2,10:58,2,6,ARI 29,3,14,Josh Rosen pass complete short middle to Chad Williams for 15 yards (tackle by Akeem King),0.600,1.860
+2,10:18,1,10,ARI 44,3,14,Josh Rosen pass incomplete deep right intended for Chad Williams,1.860,1.320
+2,10:12,2,10,ARI 44,3,14,Josh Rosen pass complete short right to David Johnson for 1 yard (tackle by Akeem King and Justin Coleman),1.320,0.760
+2,9:24,,,,,,Timeout #1 by Arizona Cardinals,,
+2,9:24,3,9,ARI 45,3,14,Josh Rosen pass incomplete short left intended for Larry Fitzgerald,0.760,-0.390
+2,9:20,4,9,ARI 45,3,14,"Andy Lee punts 42 yards, fair catch by Tyler Lockett at SEA-13",-0.390,0.320
+2,9:13,1,10,SEA 13,3,14,Rashaad Penny right guard for no gain (tackle by Chandler Jones and Rodney Gunter),-0.320,-0.770
+2,8:36,2,10,SEA 13,3,14,Rashaad Penny up the middle for 1 yard (tackle by Haason Reddick and Zach Moore),-0.770,-1.300
+2,7:57,3,9,SEA 14,3,14,Russell Wilson sacked by Antoine Bethea for -8 yards,-1.300,-2.490
+2,7:20,4,17,SEA 6,3,14,Michael Dickson punts 21 yards downed by Austin Calitro,-2.490,-3.780
+2,7:12,1,10,SEA 27,3,14,Chad Williams right end for 9 yards (tackle by Akeem King),3.780,4.530
+2,6:27,2,1,SEA 18,3,14,David Johnson up the middle for 3 yards (tackle by K.J. Wright),4.530,4.580
+2,5:48,1,10,SEA 15,9,14,"Josh Rosen pass complete short right to Larry Fitzgerald for 15 yards, touchdown",4.580,7.000
+2,5:44,,,SEA 15,10,14,Zane Gonzalez kicks extra point good,0.000,0.000
+2,5:44,,,ARI 35,10,14,"Zane Gonzalez kicks off 64 yards, returned by Tyler Lockett for no gain (tackle by Joe Walker)",0.000,-0.140
+2,5:38,1,10,SEA 16,10,14,Chris Carson left end for 1 yard (tackle by Corey Peters),-0.140,-0.510
+2,4:59,2,9,SEA 17,10,14,Tyler Lockett right end for 3 yards (tackle by Gerald Hodges),-0.510,-0.820
+2,4:17,3,6,SEA 20,10,14,Russell Wilson sacked by Rodney Gunter for -8 yards,-0.820,-2.490
+2,3:43,4,14,SEA 12,10,14,"Michael Dickson punts 54 yards, returned by Pharoh Cooper for 45 yards (tackle by Barkevious Mingo)",-2.490,-4.170
+2,3:25,1,10,SEA 21,10,14,David Johnson right tackle for no gain (tackle by Bobby Wagner),4.170,3.630
+2,2:41,2,10,SEA 21,10,14,Josh Rosen pass complete short right to David Johnson for -5 yards (tackle by K.J. Wright),3.630,2.280
+2,2:00,3,15,SEA 26,10,14,Josh Rosen sacked by Frank Clark for -6 yards,2.280,1.240
+2,1:18,4,21,SEA 32,13,14,Zane Gonzalez 50 yard field goal good,1.240,3.000
+2,1:12,,,ARI 35,13,14,"Zane Gonzalez kicks off 65 yards, touchback.",0.000,0.610
+2,1:12,1,10,SEA 25,13,14,Russell Wilson pass incomplete short right intended for Mike Davis,0.610,0.060
+2,1:08,2,10,SEA 25,13,14,Russell Wilson pass complete short left to Mike Davis for 7 yards (tackle by Budda Baker),0.060,0.300
+2,1:03,3,3,SEA 32,13,14,Russell Wilson sacked by Chandler Jones for -7 yards,0.300,-1.700
+2,0:57,,,,,,Timeout #2 by Arizona Cardinals,,
+2,0:57,4,10,SEA 25,13,14,"Michael Dickson punts 42 yards, returned by Pharoh Cooper for 3 yards (tackle by Maurice Alexander)",-1.700,-1.330
+2,0:47,1,10,ARI 36,13,14,Josh Rosen pass complete short middle to John Phillips for 5 yards (tackle by Bobby Wagner),1.330,1.470
+2,0:31,2,5,ARI 41,13,14,Josh Rosen pass incomplete short right intended for Larry Fitzgerald (defended by Justin Coleman),1.470,0.760
+2,0:27,3,5,ARI 41,13,14,Josh Rosen pass complete deep middle to John Phillips for 24 yards (tackle by Bradley McDougald),0.760,3.250
+2,0:21,,,,,,Timeout #3 by Arizona Cardinals,,
+2,0:21,1,10,SEA 35,13,14,Josh Rosen pass complete short right to Trent Sherfield for 5 yards,3.250,3.380
+2,0:15,2,5,SEA 30,13,14,Josh Rosen pass incomplete deep left intended for Chad Williams,3.380,2.680
+2,0:11,3,5,SEA 30,13,14,Josh Rosen sacked by Jarran Reed for -3 yards,2.680,1.150
+Quarter,Time,Down,ToGo,Location,ARI,SEA,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,ARI 35,13,14,"Zane Gonzalez kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,SEA 25,13,14,Chris Carson left end for 2 yards (tackle by Budda Baker),0.610,0.330
+3,14:31,2,8,SEA 27,13,14,Russell Wilson pass incomplete short middle intended for Jaron Brown (defended by Vontarrius Dora),0.330,-0.360
+3,14:26,3,8,SEA 27,13,14,Russell Wilson pass complete short right to David Moore for 4 yards (tackle by Budda Baker),-0.360,-1.310
+3,13:54,4,4,SEA 31,13,14,"Michael Dickson punts 44 yards, returned by Pharoh Cooper for -6 yards (tackle by Maurice Alexander)",-1.310,-0.150
+3,13:43,1,10,ARI 19,13,14,David Johnson right guard for 3 yards (tackle by Quinton Jefferson and K.J. Wright),0.150,0.070
+3,13:04,2,7,ARI 22,13,14,"Penalty on Joe Barksdale: False Start, 5 yards (no play)",0.070,-0.720
+3,12:45,2,12,ARI 17,13,14,Josh Rosen pass complete short left to David Johnson for 10 yards (tackle by Bobby Wagner),-0.720,-0.030
+3,11:58,3,2,ARI 27,13,14,Josh Rosen pass incomplete short left,-0.030,-1.570
+3,11:50,4,2,ARI 27,13,14,"Andy Lee punts 50 yards, fair catch by Tyler Lockett at SEA-23",-1.570,-0.480
+3,11:43,1,10,SEA 23,13,14,Russell Wilson pass incomplete short left intended for Doug Baldwin,0.480,-0.070
+3,11:37,2,10,SEA 23,13,14,Russell Wilson pass incomplete short right intended for Doug Baldwin,-0.070,-0.760
+3,11:29,3,10,SEA 23,13,14,Russell Wilson sacked by Rodney Gunter for -8 yards,-0.760,-2.440
+3,10:47,4,18,SEA 15,13,14,"Michael Dickson punts 65 yards, muffed catch by Pharoh Cooper, recovered by Pharoh Cooper at ARI-20, returned by Pharoh Cooper for 19 yards (tackle by Shalom Luani)",-2.440,-1.530
+3,10:34,1,10,ARI 39,13,14,Chase Edmonds up the middle for 4 yards (tackle by K.J. Wright and Poona Ford),1.530,1.530
+3,9:54,2,6,ARI 43,13,14,Josh Rosen pass complete short middle to Larry Fitzgerald for 12 yards (tackle by Bradley McDougald),1.530,2.590
+3,9:11,1,10,SEA 45,13,14,Chase Edmonds right tackle for 1 yard (tackle by Shamar Stephen and Poona Ford),2.590,2.180
+3,8:29,2,9,SEA 44,13,14,Josh Rosen pass complete short left to Chase Edmonds for -4 yards (tackle by Bobby Wagner),2.180,0.960
+3,7:43,3,13,SEA 48,13,14,Josh Rosen pass incomplete deep right intended for Chad Williams,0.960,0.070
+3,7:38,4,13,SEA 48,13,14,Andy Lee punts 46 yards downed by Derrick Coleman,0.070,0.380
+3,7:28,1,10,SEA 2,13,14,Chris Carson up the middle for no gain (tackle by Corey Peters and Deone Bucannon),-0.380,-0.780
+3,6:56,,,,,,Timeout #1 by Seattle Seahawks,,
+3,6:56,2,10,SEA 2,13,14,Chris Carson left guard for 4 yards (tackle by Budda Baker and Cameron Malveaux),-0.780,-0.950
+3,6:13,3,6,SEA 6,13,14,"Russell Wilson sacked by Chandler Jones for no gain. Russell Wilson fumbles (forced by Chandler Jones), recovered by Patrick Peterson at SEA-3. Penalty on Haason Reddick: Defensive Holding, 5 yards (no play)",-0.950,-0.370
+3,6:06,1,10,SEA 11,13,14,Chris Carson right guard for 61 yards (tackle by Budda Baker),-0.370,3.710
+3,5:19,1,10,ARI 28,13,14,Russell Wilson pass complete short right to Nick Vannett for 11 yards (tackle by Budda Baker),3.710,4.440
+3,4:40,1,10,ARI 17,13,20,"Mike Davis right tackle for 17 yards, touchdown",4.440,7.000
+3,4:34,,,ARI 15,13,21,Sebastian Janikowski kicks extra point good,0.000,0.000
+3,4:34,,,SEA 35,13,21,"Sebastian Janikowski kicks off 53 yards, returned by Chase Edmonds for no gain (tackle by Austin Calitro)",0.000,0.940
+3,4:27,1,10,ARI 30,13,21,Josh Rosen pass incomplete deep left intended for Larry Fitzgerald,0.940,0.390
+3,4:21,2,10,ARI 30,13,21,Josh Rosen pass incomplete short right intended for Chad Williams,0.390,-0.300
+3,4:17,3,10,ARI 30,13,21,Josh Rosen pass complete short middle to Chad Williams for 9 yards (tackle by Neiko Thorpe),-0.300,-0.780
+3,3:48,4,1,ARI 39,13,21,David Johnson up the middle for 5 yards (tackle by Bobby Wagner),-0.780,1.860
+3,3:11,1,10,ARI 44,13,21,Josh Rosen pass incomplete short right intended for Chad Williams,1.860,1.320
+3,3:06,2,10,ARI 44,13,21,David Johnson right tackle for 2 yards (tackle by Delano Hill),1.320,0.890
+3,2:25,3,8,ARI 46,13,21,Josh Rosen sacked by Quinton Jefferson for -8 yards,0.890,-0.850
+3,1:54,4,16,ARI 38,13,21,"Andy Lee punts 62 yards, touchback.",-0.850,-0.280
+3,1:45,1,10,SEA 20,13,21,Rashaad Penny right guard for 3 yards (tackle by Chandler Jones),0.280,0.140
+3,1:07,2,7,SEA 23,13,21,Rashaad Penny left guard for 2 yards (tackle by Deone Bucannon),0.140,-0.300
+3,0:24,3,5,SEA 25,13,21,Russell Wilson pass incomplete short right intended for Nick Vannett,-0.300,-1.700
+3,0:21,4,5,SEA 25,19,21,"Michael Dickson punts blocked by Cameron Malveaux, recovered by Dennis Gardeck, touchdown",-1.700,-7.000
+3,0:11,,,ARI 35,21,21,"Zane Gonzalez kicks off 65 yards, returned by Tyler Lockett for no gain (tackle by Chase Edmonds)",0.000,0.410
+3,0:06,1,10,SEA 22,21,21,Chris Carson left guard for 4 yards (tackle by Budda Baker),0.410,0.410
+Quarter,Time,Down,ToGo,Location,ARI,SEA,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,6,SEA 26,21,21,Russell Wilson pass complete short right to Chris Carson for 7 yards (tackle by Rodney Gunter),0.410,1.140
+4,14:28,1,10,SEA 33,21,21,Mike Davis up the middle for 7 yards (tackle by Antoine Bethea),1.140,1.540
+4,13:59,2,3,SEA 40,21,21,Mike Davis left guard for 2 yards (tackle by Pasoni Tasini and Vontarrius Dora),1.540,1.090
+4,13:16,3,1,SEA 42,21,21,Chris Carson up the middle for no gain (tackle by Haason Reddick),1.090,-0.590
+4,12:35,4,1,SEA 42,21,21,"Michael Dickson punts 58 yards, touchback.",-0.590,-0.280
+4,12:27,1,10,ARI 20,21,21,David Johnson right guard for 5 yards (tackle by Bobby Wagner),0.280,0.410
+4,11:48,2,5,ARI 25,21,21,David Johnson left end for 15 yards (tackle by Delano Hill),0.410,1.600
+4,11:08,1,10,ARI 40,21,21,Chase Edmonds right tackle for 2 yards (tackle by Quinton Jefferson and Poona Ford),1.600,1.320
+4,10:28,2,8,ARI 42,21,21,"Josh Rosen right end for no gain. Penalty on Oday Aboushi: Offensive Holding, 10 yards (no play)",1.320,-0.030
+4,10:02,2,18,ARI 32,21,21,Josh Rosen pass complete short right to Chase Edmonds for 8 yards (tackle by Bobby Wagner),-0.030,0.370
+4,9:15,3,10,ARI 40,21,21,"Josh Rosen sacked by. Josh Rosen fumbles, recovered by Quinton Jefferson at ARI-31 (tackle by Colby Gossett)",0.370,-3.510
+4,8:58,1,10,ARI 31,21,21,Chris Carson up the middle for -2 yards (tackle by Corey Peters and Budda Baker),3.510,2.700
+4,8:17,2,12,ARI 33,21,21,Russell Wilson pass complete short right to David Moore for 12 yards (tackle by Patrick Peterson and Deone Bucannon),2.700,4.170
+4,7:38,1,10,ARI 21,21,21,Russell Wilson pass incomplete deep right intended for Doug Baldwin,4.170,3.630
+4,7:32,2,10,ARI 21,21,21,Russell Wilson right end for 1 yard (tackle by Tre Boston),3.630,3.070
+4,6:59,3,9,ARI 20,21,21,Russell Wilson sacked by Zach Moore and Corey Peters for -4 yards,3.070,1.870
+4,6:25,4,13,ARI 24,21,24,Sebastian Janikowski 42 yard field goal good,1.870,3.000
+4,6:20,,,SEA 35,21,24,"Sebastian Janikowski kicks off 65 yards, touchback.",0.000,0.610
+4,6:20,1,10,ARI 25,21,24,Josh Rosen pass complete short middle to Trent Sherfield for 18 yards (tackle by Tre Flowers),0.610,1.800
+4,5:42,1,10,ARI 43,21,24,Josh Rosen pass complete short middle to Chad Williams for 12 yards (tackle by Tre Flowers),1.800,2.590
+4,5:06,1,10,SEA 45,21,24,David Johnson up the middle for 5 yards (tackle by Bobby Wagner and Nazair Jones),2.590,2.720
+4,4:24,2,5,SEA 40,21,24,David Johnson right tackle for 4 yards (tackle by K.J. Wright and Delano Hill),2.720,2.540
+4,3:44,3,1,SEA 36,21,24,David Johnson up the middle for 1 yard (tackle by Bobby Wagner),2.540,3.250
+4,3:03,1,10,SEA 35,21,24,David Johnson right tackle for 1 yard (tackle by Jarran Reed),3.250,2.840
+4,2:27,2,9,SEA 34,21,24,Josh Rosen sacked by Jarran Reed for -3 yards,2.840,1.750
+4,2:00,3,12,SEA 37,21,24,Josh Rosen pass incomplete deep middle intended for Trent Sherfield,1.750,0.790
+4,1:54,4,12,SEA 37,24,24,Zane Gonzalez 55 yard field goal good,0.790,3.000
+4,1:49,,,ARI 35,24,24,"Zane Gonzalez kicks off 65 yards, touchback.",0.000,0.610
+4,1:49,1,10,SEA 25,24,24,Mike Davis right tackle for 4 yards (tackle by Rodney Gunter),0.610,0.600
+4,1:29,2,6,SEA 29,24,24,Russell Wilson pass complete short left to Mike Davis for 5 yards (tackle by Budda Baker),0.600,0.560
+4,1:24,3,1,SEA 34,24,24,Mike Davis left tackle for 4 yards (tackle by Corey Peters),0.560,1.470
+4,1:02,1,10,SEA 38,24,24,Russell Wilson pass complete deep right to Tyler Lockett for 37 yards (tackle by Tre Boston),1.470,3.910
+4,0:56,1,10,ARI 25,24,24,Chris Carson left tackle for 2 yards (tackle by Antoine Bethea),3.910,3.630
+4,0:16,2,8,ARI 23,24,24,Chris Carson right end for 11 yards (tackle by Haason Reddick),3.630,4.780
+4,0:08,,,,,,Timeout #2 by Seattle Seahawks,,
+4,0:08,1,10,ARI 12,24,24,Russell Wilson kneels for -3 yards,4.780,3.660
+4,0:03,,,,,,Timeout #3 by Seattle Seahawks,,
+4,0:03,,,,,,Timeout #2 by Arizona Cardinals,,
+4,0:03,2,13,ARI 15,24,27,Sebastian Janikowski 33 yard field goal good,3.660,3.000
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

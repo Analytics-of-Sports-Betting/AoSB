@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,NYG 25,5,2:15,27,Fumble
+2,1,10:55,NYG 33,14,7:39,67,Touchdown
+3,2,14:52,NYG 25,4,1:51,25,Fumble
+4,2,9:26,NYG 25,3,1:33,5,Punt
+5,2,7:18,NYG 25,8,3:17,44,Field Goal
+6,2,2:52,NYG 14,3,0:18,0,Interception
+7,2,1:13,NYG 25,9,1:13,48,Missed FG
+8,3,11:34,NYG 19,6,3:37,0,Punt
+9,3,6:27,NYG 25,3,1:33,9,Blocked Punt
+10,3,3:28,NYG 25,3,2:05,9,Punt
+11,4,12:33,NYG 28,6,3:00,72,Touchdown
+12,4,2:53,NYG 25,3,0:47,4,Punt
+13,4,0:22,LAR 43,1,0:22,-1,End of Game

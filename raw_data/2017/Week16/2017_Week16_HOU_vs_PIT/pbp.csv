@@ -1,0 +1,158 @@
+Quarter,Time,Down,ToGo,Location,PIT,HOU,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Texans won the coin toss and deferred, Steelers to receive the opening kickoff.",,
+1,15:00,,,HOU 35,0,0,"Ka'imi Fairbairn kicks off 65 yards, touchback",0.000,-0.610
+1,15:00,1,10,PIT 25,0,0,Ben Roethlisberger pass complete short left to Martavis Bryant for 12 yards (tackle by Joel Heath and Marcus Gilchrist),0.610,1.400
+1,14:21,1,10,PIT 37,0,0,Ben Roethlisberger pass complete short middle to Vance McDonald for 14 yards (tackle by Zach Cunningham),1.400,2.320
+1,13:37,1,10,HOU 49,0,0,Ben Roethlisberger pass complete short left to Vance McDonald for 20 yards (tackle by Zach Cunningham),2.320,3.640
+1,12:56,1,10,HOU 29,0,0,Le'Veon Bell middle for 11 yards (tackle by Johnathan Joseph and Andre Hal),3.640,4.370
+1,12:14,1,10,HOU 18,0,0,Le'Veon Bell left end for 1 yard (tackle by Kareem Jackson and Benardrick McKinney),4.370,3.940
+1,11:33,2,9,HOU 17,0,0,Le'Veon Bell right guard for 1 yard (tackle by Angelo Blackson),3.940,3.300
+1,10:49,3,8,HOU 16,0,0,Ben Roethlisberger pass incomplete short left intended for Eli Rogers,3.300,2.380
+1,10:44,4,8,HOU 16,3,0,Chris Boswell 34 yard field goal good,2.380,3.000
+1,10:40,,,PIT 35,3,0,"Chris Boswell kicks off 65 yards, returned by Jordan Todman for 27 yards (tackle by Darrius Heyward-Bey). Penalty on Brian Peters: Offensive Holding, 10 yards",0.000,0.220
+1,10:35,1,10,HOU 15,3,0,T.J. Yates pass incomplete short right intended for Will Fuller,-0.220,-0.710
+1,10:30,2,10,HOU 15,3,0,Lamar Miller middle for 1 yard (tackle by Bud Dupree),-0.710,-1.250
+1,9:46,3,9,HOU 16,3,0,T.J. Yates sacked by Mike Hilton for -6 yards,-1.250,-2.490
+1,9:12,4,15,HOU 10,3,0,"Shane Lechler punts 44 yards, fair catch by Eli Rogers",-2.490,-1.990
+1,9:03,1,10,PIT 46,3,0,Le'Veon Bell middle for 5 yards (tackle by Andre Hal and Benardrick McKinney),1.990,2.130
+1,8:30,2,5,HOU 49,3,0,Le'Veon Bell middle for 2 yards (tackle by Benardrick McKinney),2.130,1.690
+1,7:48,3,3,HOU 47,3,0,Ben Roethlisberger pass complete deep right to Martavis Bryant for 36 yards,1.690,4.840
+1,7:40,1,10,HOU 11,3,0,Ben Roethlisberger pass complete short left to Eli Rogers for 6 yards (tackle by Kareem Jackson),4.840,5.280
+1,7:10,2,4,HOU 5,3,0,Ben Roethlisberger pass incomplete short left intended for Vance McDonald,5.280,4.440
+1,7:06,3,4,HOU 5,9,0,"Ben Roethlisberger pass complete short left to Justin Hunter for 5 yards, touchdown",4.440,7.000
+1,6:59,,,HOU 15,10,0,Chris Boswell kicks extra point good,0.000,0.000
+1,6:59,,,PIT 35,10,0,"Chris Boswell kicks off 66 yards, returned by Jordan Todman for 16 yards (tackle by L.J. Fort)",0.000,0.220
+1,6:54,1,10,HOU 15,10,0,Lamar Miller left tackle for 12 yards (tackle by Sean Davis),-0.220,0.740
+1,6:22,1,10,HOU 27,10,0,Lamar Miller left guard for 5 yards (tackle by Vince Williams),0.740,0.870
+1,5:44,2,5,HOU 32,10,0,T.J. Yates sacked by Cameron Heyward for -1 yards,0.870,0.040
+1,4:59,3,6,HOU 31,10,0,"Penalty on T.J. Watt: Neutral Zone Infraction, 5 yards (no play)",0.040,0.700
+1,4:51,3,1,HOU 36,10,0,Alfred Blue middle for 11 yards (tackle by Robert Golden and Artie Burns),0.700,2.060
+1,4:14,1,10,HOU 47,10,0,Alfred Blue middle for 2 yards (tackle by Bud Dupree),2.060,1.790
+1,3:38,2,8,HOU 49,10,0,T.J. Yates pass incomplete short left intended for DeAndre Hopkins (defended by Joe Haden),1.790,1.090
+1,3:34,3,8,HOU 49,10,0,T.J. Yates pass incomplete deep right intended for DeAndre Hopkins,1.090,-0.130
+1,3:28,4,8,HOU 49,10,0,"Shane Lechler punts 44 yards, fair catch by Eli Rogers",-0.130,0.380
+1,3:20,1,10,PIT 7,10,0,Le'Veon Bell middle for 3 yards (tackle by Zach Cunningham and Brian Cushing),-0.380,-0.560
+1,2:37,2,7,PIT 10,10,0,Le'Veon Bell right guard for 1 yard (tackle by Kevin Johnson and Joel Heath),-0.560,-0.950
+1,1:52,3,6,PIT 11,10,0,Ben Roethlisberger pass complete short right to Vance McDonald for 13 yards (tackle by Johnathan Joseph),-0.950,0.540
+1,1:24,1,10,PIT 24,10,0,Ben Roethlisberger pass complete short left to JuJu Smith-Schuster for -2 yards (tackle by Zach Cunningham and Kevin Johnson),0.540,-0.270
+1,0:46,2,12,PIT 22,10,0,Ben Roethlisberger pass incomplete short middle intended for JuJu Smith-Schuster (defended by Zach Cunningham),-0.270,-0.960
+,,,,,,,"HOU challenged the pass completion ruling, and the original play was overturned.",,
+1,0:42,3,12,PIT 22,10,0,Ben Roethlisberger pass complete short right to Vance McDonald for 5 yards (tackle by Zach Cunningham),-0.960,-1.570
+Quarter,Time,Down,ToGo,Location,PIT,HOU,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,4,7,PIT 27,10,0,"Jordan Berry punts 39 yards, fair catch by Braxton Miller",-1.570,-1.200
+2,14:52,1,10,HOU 34,10,0,Alfred Blue right guard for 48 yards (tackle by Joe Haden),1.200,4.370
+2,14:15,1,10,PIT 18,10,0,Alfred Blue left end for 3 yards (tackle by Joe Haden),4.370,4.250
+2,13:33,2,7,PIT 15,10,0,"T.J. Yates pass incomplete short left intended for DeAndre Hopkins. Penalty on Julie'n Davenport: Face Mask (15 Yards), 15 yards (no play)",4.250,2.210
+2,13:27,2,22,PIT 30,10,0,Lamar Miller middle for 13 yards (tackle by Mike Mitchell and Cameron Heyward),2.210,3.170
+2,12:42,3,9,PIT 17,10,0,T.J. Yates middle for 11 yards (tackle by Mike Hilton),3.170,5.830
+2,11:55,1,6,PIT 6,10,0,T.J. Yates pass complete short left to Braxton Miller for 5 yards (tackle by Sean Spence),5.830,5.910
+2,11:21,2,1,PIT 1,10,0,Alfred Blue middle for no gain (tackle by Sean Spence),5.910,5.170
+2,10:32,3,1,PIT 1,10,0,T.J. Yates pass incomplete short right intended for Braxton Miller,5.170,3.550
+2,10:28,4,1,PIT 1,10,0,T.J. Yates pass incomplete short middle intended for Will Fuller is intercepted by Artie Burns at PIT-0,3.550,-0.280
+2,10:21,1,10,PIT 20,10,0,Ben Roethlisberger pass incomplete short left intended for Le'Veon Bell (defended by Kareem Jackson),0.280,-0.270
+2,10:16,2,10,PIT 20,10,0,Ben Roethlisberger pass complete short left to Le'Veon Bell for 4 yards (tackle by Zach Cunningham),-0.270,-0.430
+2,9:37,3,6,PIT 24,10,0,Ben Roethlisberger pass complete short left to Le'Veon Bell for 7 yards (tackle by Eddie Pleasant),-0.430,1.000
+2,8:52,1,10,PIT 31,10,0,Stevan Ridley middle for 3 yards (tackle by Dylan Cole),1.000,0.870
+2,8:13,2,7,PIT 34,10,0,Le'Veon Bell right end for 22 yards (tackle by Kareem Jackson),0.870,2.650
+2,7:35,1,10,HOU 44,10,0,Stevan Ridley left end for 4 yards (tackle by Zach Cunningham and Kareem Jackson),2.650,2.650
+2,6:49,2,6,HOU 40,10,0,Ben Roethlisberger pass complete short middle to Le'Veon Bell for 10 yards (tackle by Chunky Clements),2.650,3.580
+2,6:04,1,10,HOU 30,10,0,Le'Veon Bell middle for -2 yards (tackle by Jadeveon Clowney),3.580,2.760
+2,5:19,2,12,HOU 32,10,0,Ben Roethlisberger pass incomplete deep middle intended for Martavis Bryant (defended by Dylan Cole),2.760,2.080
+2,5:13,3,12,HOU 32,10,0,Ben Roethlisberger pass complete short left to Martavis Bryant for 12 yards (tackle by Zach Cunningham and Benardrick McKinney),2.080,4.240
+2,4:28,1,10,HOU 20,10,0,"Ben Roethlisberger pass incomplete deep middle intended for Eli Rogers (defended by Marcus Gilchrist). Penalty on Marcus Gilchrist: Defensive Pass Interference, 19 yards (no play)",4.240,6.970
+2,4:18,1,1,HOU 1,16,0,"Roosevelt Nix middle for 1 yard, touchdown",6.970,7.000
+2,4:14,,,HOU 15,17,0,"Chris Boswell kicks extra point good. Penalty on Brandon Dunn: Unnecessary Roughness, 15 yards",0.000,0.000
+2,4:14,,,,17,0,"Chris Boswell kicks off 50 yards, touchback",0.000,-0.610
+2,4:14,1,10,HOU 25,17,0,Lamar Miller middle for 2 yards (tackle by Vince Williams and Javon Hargrave),0.610,0.330
+2,3:38,2,8,HOU 27,17,0,T.J. Yates pass complete short right to Ryan Malleck for 3 yards (tackle by Artie Burns),0.330,0.040
+2,2:55,3,5,HOU 30,17,0,"T.J. Yates sacked by Cameron Heyward for -5 yards. T.J. Yates fumbles (forced by Cameron Heyward), recovered by Bud Dupree at HOU-28 (tackle by T.J. Yates)",0.040,-3.710
+2,2:45,1,10,HOU 28,17,0,Ben Roethlisberger pass complete short left to Le'Veon Bell for 9 yards (tackle by Kevin Johnson),3.710,4.420
+2,2:00,2,1,HOU 19,17,0,Le'Veon Bell right guard for 3 yards (tackle by Andre Hal),4.420,4.510
+2,1:24,1,10,HOU 16,17,0,Ben Roethlisberger pass incomplete deep left intended for Jesse James (defended by Zach Cunningham),4.510,3.900
+2,1:18,2,10,HOU 16,17,0,Ben Roethlisberger pass complete short left to Le'Veon Bell for -2 yards (tackle by Zach Cunningham and Dylan Cole),3.900,0.000
+2,1:04,,,,,,Timeout #1 by Pittsburgh Steelers,0.000,-2.940
+2,1:04,3,12,HOU 18,17,0,Ben Roethlisberger pass incomplete short left intended for Le'Veon Bell. Penalty on Maurkice Pouncey: Offensive Holding (Declined),2.940,2.250
+2,0:57,4,12,HOU 18,20,0,Chris Boswell 36 yard field goal good,2.250,3.000
+2,0:53,,,PIT 35,20,0,"Chris Boswell kicks off 65 yards, touchback",0.000,-0.610
+2,0:53,1,10,HOU 25,20,0,Alfred Blue right guard for 3 yards (tackle by Bud Dupree),0.610,0.470
+2,0:29,2,7,HOU 28,20,0,"T.J. Yates sacked by Mike Hilton for -6 yards. T.J. Yates fumbles (forced by Mike Hilton), recovered by T.J. Yates at HOU-22",0.470,0.000
+2,0:20,,,,,,Timeout #1 by Houston Texans,0.000,1.020
+2,0:20,3,13,HOU 22,20,0,Alfred Blue right guard for 4 yards (tackle by Sean Spence and Stephon Tuitt),-1.020,0.000
+2,0:16,,,,,,Timeout #2 by Pittsburgh Steelers,0.000,1.630
+2,0:16,4,9,HOU 26,20,0,"Shane Lechler punts 59 yards, returned by Eli Rogers for 16 yards (tackle by Alfred Blue)",-1.630,-1.000
+2,0:03,1,10,PIT 31,20,0,Ben Roethlisberger kneels for -1 yards,1.000,0.320
+Quarter,Time,Down,ToGo,Location,PIT,HOU,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PIT 35,20,0,"Chris Boswell kicks off 65 yards, touchback",0.000,-0.610
+3,15:00,1,10,HOU 25,20,0,Alfred Blue right tackle for 9 yards (tackle by Sean Spence),0.610,1.280
+3,14:23,2,1,HOU 34,20,0,Alfred Blue left tackle for -3 yards (tackle by Bud Dupree and T.J. Watt),1.280,0.170
+3,13:36,3,4,HOU 31,20,0,Taylor Heinicke pass complete short left to Will Fuller for 10 yards (tackle by Bud Dupree),0.170,1.660
+3,12:52,1,10,HOU 41,20,0,Alfred Blue left tackle for 7 yards (tackle by Vince Williams and T.J. Watt),1.660,2.070
+3,12:11,2,3,HOU 48,20,0,Alfred Blue left tackle for 6 yards (tackle by Sean Davis and Vince Williams),2.070,2.520
+3,11:30,1,10,PIT 46,20,0,Lamar Miller left tackle for 1 yard (tackle by Sean Spence),2.520,2.110
+3,10:44,2,9,PIT 45,20,0,Taylor Heinicke right end for 2 yards (tackle by Vince Williams),2.110,1.680
+3,9:56,3,7,PIT 43,20,0,Taylor Heinicke sacked by Mike Hilton for -16 yards,1.680,-0.650
+3,9:16,4,23,HOU 41,20,0,"Shane Lechler punts 38 yards, returned by Eli Rogers for 15 yards (tackle by Jon Weeks)",-0.650,-1.330
+3,9:02,1,10,PIT 36,20,0,Le'Veon Bell right guard for 2 yards (tackle by Andre Hal),1.330,1.060
+3,8:23,2,8,PIT 38,20,0,Le'Veon Bell middle for 5 yards (tackle by Andre Hal),1.060,1.030
+3,7:37,3,3,PIT 43,20,0,Ben Roethlisberger pass incomplete short left intended for Eli Rogers,1.030,-0.520
+3,7:32,4,3,PIT 43,20,0,"Jordan Berry punts 47 yards, fair catch by Braxton Miller",-0.520,0.380
+3,7:23,1,10,HOU 10,20,0,Alfred Blue left guard for 3 yards (tackle by Sean Spence),-0.380,-0.560
+3,6:46,2,7,HOU 13,20,0,Alfred Blue right tackle for 4 yards (tackle by Sean Davis),-0.560,-0.600
+3,6:03,3,3,HOU 17,20,0,T.J. Yates pass incomplete short right intended for Will Fuller,-0.600,-2.320
+3,5:58,4,3,HOU 17,20,0,"Shane Lechler punts 52 yards, returned by Eli Rogers for 27 yards (tackle by Corey Moore)",-2.320,-2.790
+3,5:43,1,10,HOU 42,20,0,Ben Roethlisberger pass complete short middle to JuJu Smith-Schuster for -2 yards (tackle by Corey Moore),2.790,1.970
+3,5:10,2,12,HOU 44,20,0,Martavis Bryant right end for 8 yards (tackle by Corey Moore),1.970,2.340
+3,4:35,3,4,HOU 36,20,0,Ben Roethlisberger pass complete short left to JuJu Smith-Schuster for 9 yards (tackle by Kevin Johnson),2.340,3.780
+3,3:50,1,10,HOU 27,20,0,Stevan Ridley middle for 3 yards (tackle by Jadeveon Clowney and Carlos Watkins),3.780,3.640
+3,3:03,2,7,HOU 24,20,0,Ben Roethlisberger pass incomplete short right intended for Le'Veon Bell (defended by Zach Cunningham),3.640,0.000
+3,2:58,,,,,,Timeout #1 by Pittsburgh Steelers,0.000,-2.940
+3,2:58,3,7,HOU 24,20,0,"Ben Roethlisberger sacked by Jadeveon Clowney for -10 yards. Penalty on Jadeveon Clowney: Face Mask (15 Yards), 12 yards (no play)",2.940,4.780
+3,2:36,1,10,HOU 12,20,0,Stevan Ridley left end for 2 yards (tackle by Angelo Blackson and Dylan Cole),4.780,4.450
+3,1:53,2,8,HOU 10,26,0,"Le'Veon Bell middle for 10 yards, touchdown",4.450,7.000
+3,1:48,,,HOU 15,27,0,Chris Boswell kicks extra point good,0.000,0.000
+3,1:48,,,PIT 35,27,0,"Chris Boswell kicks off 65 yards, touchback",0.000,-0.610
+3,1:48,1,10,HOU 25,27,0,Lamar Miller left guard for 16 yards (tackle by Sean Spence and Mike Mitchell),0.610,1.660
+3,1:10,1,10,HOU 41,27,0,Lamar Miller middle for 1 yard (tackle by Tyson Alualu),1.660,1.260
+3,0:32,2,9,HOU 42,27,0,T.J. Yates pass complete short left to DeAndre Hopkins for 38 yards (tackle by Sean Davis),1.260,4.240
+Quarter,Time,Down,ToGo,Location,PIT,HOU,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,PIT 20,27,0,Lamar Miller left guard for 1 yard (tackle by Mike Hilton),4.240,3.820
+4,14:14,2,9,PIT 19,27,0,T.J. Yates pass complete short left to Lamar Miller for 10 yards (tackle by Mike Mitchell and Tyson Alualu),3.820,5.140
+4,13:29,1,9,PIT 9,27,0,Lamar Miller left tackle for 3 yards (tackle by Vince Williams),5.140,4.950
+4,12:42,2,6,PIT 6,27,0,"T.J. Yates pass incomplete short right intended for DeAndre Hopkins. Penalty on Joe Haden: Defensive Holding, 3 yards (no play)",4.950,6.510
+4,12:36,1,3,PIT 3,27,6,"T.J. Yates pass complete short left to DeAndre Hopkins for 3 yards, touchdown. Penalty on Cameron Heyward: Illegal Use of Hands (Declined)",6.510,7.000
+4,12:30,,,PIT 2,27,6,"Ka'imi Fairbairn kicks extra point no good, blocked by Joe Haden. Penalty on Joe Haden: Defensive Offside, 1 yards (no play)",0.000,-1.000
+4,12:30,,,PIT 1,27,6,"Two Point Attempt: T.J. Yates pass incomplete intended for DeAndre Hopkins, conversion fails. Penalty on Vince Williams: Taunting, 15 yards",0.000,-1.000
+4,12:30,,,,27,6,Ka'imi Fairbairn kicks off 29 yards,0.000,-0.340
+4,12:28,1,10,PIT 21,27,6,Le'Veon Bell right tackle for 5 yards (tackle by Benardrick McKinney),0.340,0.480
+4,11:44,2,5,PIT 26,27,6,"Penalty on Brandon Dunn: Encroachment, 4 yards (no play)",0.480,1.020
+4,11:33,2,1,PIT 30,27,6,Ben Roethlisberger pass complete short left to JuJu Smith-Schuster for 49 yards (tackle by Kareem Jackson),1.020,4.170
+4,10:55,1,10,HOU 21,27,6,Ben Roethlisberger pass complete short right to JuJu Smith-Schuster for 3 yards (tackle by Andre Hal and Treston Decoud),4.170,4.040
+4,10:16,2,7,HOU 18,27,6,Stevan Ridley right end for no gain (tackle by Treston Decoud),4.040,3.310
+4,9:31,3,7,HOU 18,33,6,"Ben Roethlisberger pass complete deep middle to JuJu Smith-Schuster for 18 yards, touchdown",3.310,7.000
+4,9:26,,,HOU 15,34,6,Chris Boswell kicks extra point good,0.000,0.000
+4,9:26,,,PIT 35,34,6,"Chris Boswell kicks off 65 yards, touchback",0.000,-0.610
+4,9:26,1,10,HOU 25,34,6,Alfred Blue left end for no gain (tackle by Bud Dupree),0.610,0.060
+4,8:43,2,10,HOU 25,34,6,T.J. Yates pass complete short right to DeAndre Hopkins for 13 yards,0.060,1.470
+4,8:14,1,10,HOU 38,34,6,T.J. Yates sacked by Sean Spence for -4 yards,1.470,0.380
+4,7:39,2,14,HOU 34,34,6,T.J. Yates pass complete short right to DeAndre Hopkins for 11 yards (tackle by Mike Mitchell),0.380,1.160
+4,7:07,3,3,HOU 45,34,6,T.J. Yates pass incomplete,1.160,-0.390
+4,6:58,4,3,HOU 45,34,6,"Shane Lechler punts 45 yards, returned by Eli Rogers for 3 yards (tackle by Chris Thompson)",-0.390,0.320
+4,6:48,1,10,PIT 13,34,6,Stevan Ridley middle for 1 yard (tackle by Treston Decoud),-0.320,-0.680
+4,6:08,2,9,PIT 14,34,6,Stevan Ridley middle for 4 yards (tackle by Zach Cunningham),-0.680,-0.830
+4,5:27,3,5,PIT 18,34,6,Landry Jones pass incomplete short left intended for Eli Rogers,-0.830,-2.240
+4,5:23,4,5,PIT 18,34,6,"Jordan Berry punts 57 yards, returned by Braxton Miller for 7 yards (tackle by Robert Golden)",-2.240,-1.070
+4,5:10,1,10,HOU 32,34,6,Alfred Blue right tackle for 8 yards (tackle by Vince Williams),1.070,1.610
+4,4:32,2,2,HOU 40,34,6,Alfred Blue right tackle for 3 yards (tackle by Vince Williams),1.610,1.800
+4,3:52,1,10,HOU 43,34,6,"T.J. Yates sacked by Stephon Tuitt for -7 yards. T.J. Yates fumbles (forced by Stephon Tuitt), recovered by T.J. Yates at HOU-36",1.800,0.310
+4,3:10,2,17,HOU 36,34,6,T.J. Yates pass incomplete short left intended for Will Fuller (defended by T.J. Watt),0.310,-0.360
+4,3:06,3,17,HOU 36,34,6,T.J. Yates pass incomplete short middle intended for Stephen Anderson (defended by L.J. Fort),-0.360,-0.980
+4,3:01,4,17,HOU 36,34,6,"Shane Lechler punts 60 yards, returned by Eli Rogers for 21 yards (tackle by Chris Thompson). Penalty on Treston Decoud: Illegal Shift, 5 yards",-0.980,-0.940
+4,2:46,1,10,PIT 30,34,6,Stevan Ridley right end for 4 yards (tackle by Andre Hal and Dylan Cole),0.940,0.930
+4,2:00,2,6,PIT 34,34,6,Stevan Ridley left tackle for 7 yards (tackle by Kurtis Drummond and Dylan Cole),0.930,1.660
+4,1:19,1,10,PIT 41,34,6,Landry Jones kneels for no gain,1.660,1.120
+4,0:37,2,10,PIT 41,34,6,Landry Jones kneels for -1 yards,1.120,0.300
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

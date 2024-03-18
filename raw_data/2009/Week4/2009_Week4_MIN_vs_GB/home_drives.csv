@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,9:22,MIN 33,12,6:02,67,Touchdown
+2,1,2:16,MIN 18,3,1:19,-4,Punt
+3,2,11:42,MIN 23,10,6:43,77,Touchdown
+4,2,3:30,MIN 44,1,0:12,-2,Fumble
+5,2,3:18,MIN 16,6,2:48,84,Touchdown
+6,3,15:00,MIN 20,8,4:20,80,Touchdown
+7,3,2:12,MIN 1,11,4:19,41,Punt
+8,4,11:03,MIN 49,3,2:14,9,Punt
+9,4,7:21,MIN 40,3,2:22,6,Punt
+10,4,3:40,GNB 45,3,0:30,0,Punt
+11,4,0:55,GNB 39,2,0:55,-2,End of Game

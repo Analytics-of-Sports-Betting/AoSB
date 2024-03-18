@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,DET 25,10,5:38,68,Field Goal
+2,1,5:39,DET 26,7,2:34,74,Touchdown
+3,2,14:12,DET 25,5,2:55,6,Punt
+4,2,10:13,DET 16,3,2:03,5,Punt
+5,2,4:13,DET 21,8,3:10,50,Field Goal
+7,3,14:51,KAN 36,6,2:48,30,Fumble
+8,3,9:55,KAN 28,3,0:47,27,Fumble
+9,3,9:08,DET 25,7,2:49,40,Field Goal
+10,3,4:50,KAN 45,8,3:40,45,Touchdown
+11,4,12:09,DET 25,6,2:53,9,Punt
+12,4,6:42,DET 21,9,4:16,79,Touchdown
+13,4,0:20,DET 25,4,0:20,31,End of Game

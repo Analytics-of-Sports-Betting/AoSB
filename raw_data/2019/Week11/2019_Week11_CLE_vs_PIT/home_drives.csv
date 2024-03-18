@@ -1,0 +1,16 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:19,CLE 35,5,2:12,65,Touchdown
+2,1,7:47,CLE 34,7,3:42,23,Punt
+3,1,1:26,CLE 23,3,0:57,6,Punt
+4,2,13:58,CLE 23,7,4:03,77,Touchdown
+5,2,6:37,CLE 46,3,1:05,6,Punt
+6,2,3:29,PIT 30,4,0:58,3,Missed FG
+7,2,0:52,CLE 7,2,0:52,8,End of Half
+8,3,15:00,CLE 27,5,3:49,14,Punt
+9,3,9:44,PIT 49,3,1:33,4,Punt
+10,3,5:39,CLE 26,12,5:39,43,Missed FG
+11,4,13:25,CLE 33,3,2:12,5,Punt
+12,4,10:12,CLE 27,7,3:40,25,Punt
+13,4,6:22,PIT 4,3,0:57,4,Touchdown
+14,4,3:54,CLE 49,5,2:14,12,Punt
+15,4,0:05,PIT 24,1,0:05,-1,End of Game

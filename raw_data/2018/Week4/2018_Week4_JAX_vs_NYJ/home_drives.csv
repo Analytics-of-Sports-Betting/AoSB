@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,12:19,JAX 6,15,8:38,80,Field Goal
+2,1,1:24,JAX 23,12,6:59,73,Field Goal
+3,2,4:46,JAX 22,7,2:59,78,Touchdown
+4,2,1:00,JAX 35,5,0:31,29,Field Goal
+5,3,15:00,JAX 25,4,2:33,19,Punt
+6,3,12:22,JAX 22,5,3:08,14,Punt
+7,3,7:44,JAX 20,3,0:46,-2,Interception
+8,3,4:58,JAX 25,3,1:18,75,Touchdown
+9,3,2:03,JAX 38,4,1:30,9,Punt
+10,4,12:53,JAX 25,1,0:09,4,Fumble
+11,4,11:18,JAX 32,3,2:00,9,Punt
+12,4,8:50,JAX 41,6,3:07,43,Fumble
+13,4,4:22,JAX 35,9,3:57,65,Touchdown

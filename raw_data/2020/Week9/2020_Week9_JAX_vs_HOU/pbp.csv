@@ -1,0 +1,183 @@
+Quarter,Time,Down,ToGo,Location,HOU,JAX,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Jaguars won the coin toss, Jaguars to receive the opening kickoff.",,
+1,15:00,,,HOU 35,0,0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,JAX 25,0,0,James Robinson left end for 2 yards (tackle by Zach Cunningham),0.610,0.330
+1,14:24,2,8,JAX 27,0,0,Jake Luton pass incomplete short left intended for James Robinson (defended by Carlos Watkins),0.330,-0.360
+1,14:19,3,8,JAX 27,0,6,"Jake Luton pass complete deep left to DJ Chark for 73 yards, touchdown",-0.360,7.000
+1,14:08,,,HOU 15,0,7,Josh Lambo kicks extra point good,0.000,0.000
+1,14:08,,,JAX 35,0,7,"Logan Cooke kicks off 65 yards, touchback.",0.000,0.610
+1,14:08,1,10,HOU 25,0,7,David Johnson up the middle for 18 yards (tackle by Myles Jack),0.610,1.800
+1,13:44,1,10,HOU 43,6,7,"Deshaun Watson pass complete short left to Brandin Cooks for 57 yards, touchdown",1.800,7.000
+1,13:33,,,JAX 15,7,7,Ka'imi Fairbairn kicks extra point good,0.000,0.000
+1,13:33,,,HOU 35,7,7,"Ka'imi Fairbairn kicks off 55 yards, returned by Chris Claybrooks for 18 yards (tackle by Cullen Gillaspia and Nate Hall)",0.000,0.810
+1,13:30,1,10,JAX 28,7,7,James Robinson up the middle for 2 yards (tackle by P.J. Hall and Brandon Dunn),0.810,0.530
+1,12:54,2,8,JAX 30,7,7,Jake Luton pass incomplete short right intended for Tyler Eifert (defended by Zach Cunningham),0.530,-0.160
+1,12:51,3,8,JAX 30,7,7,Jake Luton pass incomplete deep right intended for DJ Chark,-0.160,-1.370
+1,12:44,4,8,JAX 30,7,7,Logan Cooke punts 51 yards downed by Chris Claybrooks,-1.370,-0.150
+1,12:33,1,10,HOU 19,7,7,Deshaun Watson pass complete short left to Darren Fells for 19 yards (tackle by Sidney Jones),0.150,1.470
+1,12:05,1,10,HOU 38,7,7,Deshaun Watson pass complete deep left to Brandin Cooks for 19 yards (tackle by C.J. Henderson),1.470,2.720
+1,11:24,1,10,JAX 43,7,7,Deshaun Watson pass complete short right to Jordan Akins for 9 yards (tackle by Josh Jones),2.720,3.390
+1,10:45,2,1,JAX 34,7,7,David Johnson right end for -2 yards (tackle by Myles Jack),3.390,2.410
+1,9:58,3,3,JAX 36,7,7,Deshaun Watson pass incomplete short right intended for David Johnson (defended by Myles Jack),2.410,0.890
+1,9:52,4,3,JAX 36,10,7,Ka'imi Fairbairn 54 yard field goal good,0.890,3.000
+1,9:48,,,HOU 35,10,7,"Ka'imi Fairbairn kicks off 64 yards, returned by Chris Claybrooks for 21 yards (tackle by John Reid)",0.000,0.410
+1,9:43,1,10,JAX 22,10,7,Jake Luton pass complete short left to Laviska Shenault for -1 yards (tackle by Lonnie Johnson),0.410,-0.270
+1,9:00,2,11,JAX 21,10,7,Jake Luton pass complete short right to Tyler Eifert for 7 yards (tackle by Justin Reid and Tyrell Adams),-0.270,-0.030
+1,8:19,3,4,JAX 28,10,7,Jake Luton pass complete short right to Chris Thompson for 4 yards (tackle by Michael Thomas and Brennan Scarlett),-0.030,1.070
+1,7:51,1,10,JAX 32,10,7,James Robinson up the middle for 12 yards (tackle by Eric Murray and Tyrell Adams),1.070,1.860
+1,7:15,1,10,JAX 44,10,7,James Robinson up the middle for 1 yard (tackle by Tyrell Adams),1.860,1.450
+1,6:36,2,9,JAX 45,10,7,Jake Luton pass incomplete short right intended for James Robinson,1.450,0.760
+1,6:31,3,9,JAX 45,10,7,Jake Luton pass incomplete short left intended for DJ Chark,0.760,-0.390
+1,6:25,4,9,JAX 45,10,7,Logan Cooke punts 49 yards downed by Joe Giles-Harris,-0.390,0.380
+1,6:13,1,10,HOU 6,10,7,Deshaun Watson pass incomplete short middle intended for Brandin Cooks (defended by Sidney Jones),-0.380,-0.780
+1,6:10,2,10,HOU 6,10,7,Deshaun Watson pass incomplete short right,-0.780,-1.420
+1,6:05,3,10,HOU 6,10,7,Deshaun Watson pass complete short right to Randall Cobb for 5 yards (tackle by Jarrod Wilson),-1.420,-2.490
+1,5:24,4,5,HOU 11,10,7,"Bryan Anger punts 50 yards, returned by Chris Claybrooks for -1 yards (tackle by Brennan Scarlett)",-2.490,-1.470
+1,5:11,1,10,JAX 38,10,7,James Robinson up the middle for 2 yards (tackle by Brennan Scarlett),1.470,1.190
+1,4:33,2,8,JAX 40,10,7,Jake Luton pass complete short right to DJ Chark for no gain (tackle by Eric Murray),1.190,0.500
+1,3:48,3,8,JAX 40,10,7,Jake Luton pass incomplete deep left intended for Keelan Cole,0.500,-0.720
+1,3:39,4,8,JAX 40,10,7,Logan Cooke punts 30 yards downed by Ross Matiscik,-0.720,-0.940
+1,3:28,1,10,HOU 30,10,7,Deshaun Watson pass complete short left to Darren Fells for 7 yards (tackle by Joe Schobert),0.940,1.340
+1,2:53,2,3,HOU 37,10,7,Duke Johnson right end for 5 yards (tackle by Joe Schobert),1.340,1.730
+1,2:10,1,10,HOU 42,10,7,Duke Johnson right end for 8 yards (tackle by Jarrod Wilson),1.730,2.270
+1,1:31,2,2,HOU 50,10,7,Deshaun Watson pass incomplete short right intended for Brandin Cooks (defended by C.J. Henderson),2.270,1.550
+1,1:27,3,2,HOU 50,10,7,Duke Johnson up the middle for 4 yards (tackle by Myles Jack and DaVon Hamilton),1.550,2.520
+1,0:58,1,10,JAX 46,10,7,Deshaun Watson pass incomplete deep left intended for Jordan Akins,2.520,1.980
+1,0:54,2,10,JAX 46,10,7,Deshaun Watson pass complete short middle to Randall Cobb for 11 yards (tackle by Chris Claybrooks),1.980,3.250
+1,0:10,1,10,JAX 35,10,7,Deshaun Watson sacked by and Joe Schobert for -6 yards and Josh Allen for -6 yards,3.250,1.890
+Quarter,Time,Down,ToGo,Location,HOU,JAX,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,16,JAX 41,10,7,Deshaun Watson pass complete short left to Randall Cobb for 5 yards (tackle by Tre Herndon),1.890,1.880
+2,14:25,,,,,,Timeout #1 by Jacksonville Jaguars,,
+2,14:25,3,11,JAX 36,10,7,"Deshaun Watson right end for 10 yards (tackle by C.J. Henderson). Penalty on Joe Schobert: Unnecessary Roughness, 13 yards",1.880,4.710
+2,14:02,1,10,JAX 13,10,7,Duke Johnson right end for -2 yards (tackle by Adam Gotsis),4.710,3.760
+2,13:19,2,12,JAX 15,10,7,Deshaun Watson pass incomplete short right intended for Jordan Akins,3.760,3.030
+2,13:15,3,12,JAX 15,10,7,Deshaun Watson pass complete short middle to Duke Johnson for 4 yards (tackle by Myles Jack),3.030,2.700
+2,12:30,4,8,JAX 11,13,7,Ka'imi Fairbairn 30 yard field goal good,2.700,3.000
+2,12:27,,,HOU 35,13,7,"Ka'imi Fairbairn kicks off 56 yards, returned by Chris Claybrooks for 16 yards (tackle by Nate Hall and Cullen Gillaspia)",0.000,0.610
+2,12:22,1,10,JAX 25,13,7,Jake Luton pass complete short right to DJ Chark for 5 yards (tackle by Phillip Gaines),0.610,0.740
+2,11:45,2,5,JAX 30,13,7,James Robinson up the middle for 12 yards (tackle by Tyrell Adams),0.740,1.730
+2,11:03,1,10,JAX 42,13,7,James Robinson up the middle for 3 yards (tackle by Ross Blacklock),1.730,1.590
+2,10:25,2,7,JAX 45,13,7,Jake Luton pass complete deep left to Tyler Eifert for 17 yards (tackle by Lonnie Johnson),1.590,3.050
+2,9:46,1,10,HOU 38,13,7,James Robinson left end for 6 yards (tackle by J.J. Watt),3.050,3.320
+2,9:04,2,4,HOU 32,13,7,Jake Luton pass incomplete short middle intended for Collin Johnson,3.320,2.610
+2,8:57,3,4,HOU 32,13,7,Jake Luton pass complete short right to Chris Conley for 6 yards (tackle by Vernon Hargreaves),2.610,3.840
+2,8:20,1,10,HOU 26,13,7,James Robinson up the middle for 8 yards (tackle by Justin Reid),3.840,4.450
+2,7:50,2,2,HOU 18,13,7,James Robinson left end for 3 yards (tackle by Tyrell Adams and Brandon Dunn),4.450,4.580
+2,7:07,1,10,HOU 15,13,7,James Robinson right guard for 3 yards (tackle by Zach Cunningham),4.580,4.450
+2,6:30,2,7,HOU 12,13,7,James Robinson left end for 11 yards (tackle by Lonnie Johnson),4.450,6.970
+2,5:45,1,1,HOU 1,13,13,"James Robinson up the middle for 1 yard, touchdown",6.970,7.000
+2,5:42,,,HOU 15,13,13,Josh Lambo kicks extra point no good wide right,0.000,-1.000
+2,5:42,,,JAX 35,13,13,"Logan Cooke kicks off 65 yards, touchback.",0.000,0.610
+2,5:42,1,10,HOU 25,13,13,Duke Johnson up the middle for 2 yards (tackle by Josh Jones and Doug Costin),0.610,0.330
+2,5:06,2,8,HOU 27,13,13,Deshaun Watson pass complete short left to Will Fuller for 6 yards (tackle by Sidney Jones),0.330,0.430
+2,4:38,3,2,HOU 33,13,13,Deshaun Watson pass complete short middle to Jordan Akins for 10 yards (tackle by Josh Jones),0.430,1.800
+2,3:56,1,10,HOU 43,13,13,"Duke Johnson up the middle for no gain (tackle by Myles Jack). Duke Johnson fumbles (forced by Myles Jack), recovered by DaVon Hamilton at HOU-43",1.800,-2.720
+2,3:45,1,10,HOU 43,13,13,James Robinson up the middle for no gain (tackle by Zach Cunningham),2.720,2.180
+2,3:09,2,10,HOU 43,13,13,Jake Luton sacked by Zach Cunningham for -7 yards,2.180,0.560
+2,2:23,3,17,JAX 50,13,13,Jake Luton pass incomplete deep right intended for Chris Conley,0.560,-0.060
+2,2:19,4,17,JAX 50,13,13,Logan Cooke punts 48 yards downed by Chris Claybrooks,-0.060,0.380
+2,2:11,1,10,HOU 2,13,13,"Duke Johnson up the middle for no gain (tackle by Josh Jones). Penalty on Myles Jack: Defensive Offside, 5 yards (no play)",-0.380,-0.190
+2,2:00,1,5,HOU 7,13,13,Deshaun Watson pass incomplete deep right intended for Brandin Cooks,-0.190,-0.420
+2,1:55,2,5,HOU 7,13,13,Deshaun Watson pass complete short right to Will Fuller for 7 yards (tackle by Myles Jack and C.J. Henderson),-0.420,-0.280
+2,1:30,1,10,HOU 14,13,13,"Deshaun Watson pass incomplete deep right intended for Will Fuller. Penalty on C.J. Henderson: Defensive Pass Interference, 50 yards (no play)",-0.280,3.180
+2,1:24,1,10,JAX 36,13,13,Deshaun Watson left end for 9 yards (tackle by Tre Herndon),3.180,3.850
+2,0:58,2,1,JAX 27,13,13,Deshaun Watson pass complete short middle to Duke Johnson for 10 yards (tackle by Myles Jack),3.850,4.440
+2,0:51,,,,,,Timeout #1 by Houston Texans,,
+2,0:51,1,10,JAX 17,13,13,Deshaun Watson up the middle for 16 yards (tackle by Josh Jones),4.440,6.970
+2,0:31,1,1,JAX 1,19,13,"Duke Johnson up the middle for 1 yard, touchdown",6.970,7.000
+2,0:27,,,JAX 15,20,13,Ka'imi Fairbairn kicks extra point good,0.000,0.000
+2,0:27,,,HOU 35,20,13,"Ka'imi Fairbairn kicks off 63 yards, returned by Chris Claybrooks for 39 yards (tackle by Pharaoh Brown)",0.000,1.660
+2,0:20,1,10,JAX 41,20,13,Jake Luton pass complete short right to Chris Thompson for 12 yards (tackle by Justin Reid),1.660,2.460
+2,0:13,,,,,,Timeout #2 by Jacksonville Jaguars,,
+2,0:13,1,10,HOU 47,20,13,Jake Luton pass complete short middle to Chris Thompson for 6 yards (tackle by Michael Thomas),2.460,2.720
+2,0:03,,,,,,Timeout #3 by Jacksonville Jaguars,,
+2,0:03,2,4,HOU 41,20,16,Josh Lambo 59 yard field goal good,2.720,3.000
+Quarter,Time,Down,ToGo,Location,HOU,JAX,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,JAX 35,20,16,"Logan Cooke kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,HOU 25,20,16,Duke Johnson left end for -2 yards (tackle by Tre Herndon),0.610,-0.210
+3,14:21,2,12,HOU 23,20,16,"Penalty on Brent Qvale: False Start, 5 yards (no play)",-0.210,-0.980
+3,14:11,2,17,HOU 18,20,16,Deshaun Watson pass complete short left to Duke Johnson for 12 yards (tackle by Myles Jack and Doug Costin),-0.980,0.040
+3,13:26,3,5,HOU 30,20,16,Deshaun Watson pass incomplete deep right,0.040,-1.370
+3,13:16,4,5,HOU 30,20,16,"Bryan Anger punts 61 yards, fair catch by Chris Claybrooks at JAC-9",-1.370,0.380
+3,13:10,1,10,JAX 9,20,16,James Robinson up the middle for no gain (tackle by Jonathan Greenard and Tyrell Adams),-0.380,-0.780
+3,12:28,2,10,JAX 9,20,16,Jake Luton pass complete short middle to James O'Shaughnessy for 9 yards (tackle by Zach Cunningham and Tyrell Adams),-0.780,-0.370
+3,11:50,3,1,JAX 18,20,16,James Robinson up the middle for 2 yards (tackle by Justin Reid),-0.370,0.280
+3,11:03,1,10,JAX 20,20,16,"James Robinson left end for 6 yards (tackle by Lonnie Johnson). Penalty on Keelan Cole: Illegal Block Above the Waist, 10 yards",0.280,-0.210
+3,10:44,1,14,JAX 16,20,16,Jake Luton pass complete short left to DJ Chark for 5 yards (tackle by Vernon Hargreaves and Tyrell Adams),-0.210,-0.130
+3,10:04,2,9,JAX 21,20,16,Jake Luton pass complete short right to Chris Conley for 7 yards (tackle by Jonathan Greenard),-0.130,0.100
+3,9:25,3,2,JAX 28,20,16,Jake Luton pass complete deep left to DJ Chark for 27 yards (tackle by Lonnie Johnson). Penalty on Vernon Hargreaves: Defensive Holding (Declined),0.100,2.590
+3,8:52,1,10,HOU 45,20,16,James Robinson right tackle for 2 yards (tackle by Phillip Gaines),2.590,2.310
+3,8:11,2,8,HOU 43,20,16,Chris Thompson left end for 3 yards (tackle by Justin Reid),2.310,2.010
+3,7:32,3,5,HOU 40,20,16,Jake Luton pass deep left intended for James O'Shaughnessy is intercepted by Vernon Hargreaves at HOU-19 and returned for no gain,2.010,-0.150
+3,7:26,1,10,HOU 19,20,16,Duke Johnson up the middle for 1 yard (tackle by Josh Allen and Daniel Ekuale),0.150,-0.200
+3,6:53,2,9,HOU 20,20,16,Deshaun Watson right end for 3 yards (tackle by Josh Allen),-0.200,-0.550
+3,6:16,3,6,HOU 23,26,16,"Deshaun Watson pass complete deep right to Will Fuller for 77 yards, touchdown",-0.550,7.000
+3,6:05,,,JAX 15,27,16,Ka'imi Fairbairn kicks extra point good,0.000,0.000
+3,6:05,,,HOU 35,27,16,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.000,0.610
+3,6:05,1,10,JAX 25,27,16,James Robinson up the middle for 11 yards (tackle by Phillip Gaines),0.610,1.330
+3,5:29,1,10,JAX 36,27,16,Jake Luton pass complete short right to DJ Chark for 16 yards,1.330,2.390
+3,4:52,1,10,HOU 48,27,16,James Robinson up the middle for 4 yards (tackle by Jonathan Greenard and P.J. Hall),2.390,2.390
+3,4:17,2,6,HOU 44,27,16,Jake Luton pass complete short left to Chris Conley for 4 yards (tackle by Vernon Hargreaves),2.390,2.210
+3,3:42,3,2,HOU 40,27,16,Jake Luton pass complete short right to Chris Conley for 21 yards (tackle by Tyrell Adams),2.210,4.310
+3,3:13,1,10,HOU 19,27,16,James Robinson up the middle for 5 yards (tackle by Carlos Watkins),4.310,4.530
+3,2:37,2,5,HOU 14,27,16,James Robinson up the middle for 3 yards (tackle by Zach Cunningham),4.530,4.430
+3,1:54,3,2,HOU 11,27,16,Jake Luton pass complete short right to Chris Conley for -1 yards (tackle by Phillip Gaines and Keion Crossen),4.430,2.730
+3,1:14,4,3,HOU 12,27,19,Josh Lambo 30 yard field goal good,2.730,3.000
+3,1:11,,,JAX 35,27,19,"Logan Cooke kicks off 63 yards, returned by DeAndre Carter for 20 yards (tackle by Daniel Thomas)",0.000,0.410
+3,1:06,1,10,HOU 22,27,19,Duke Johnson right end for 2 yards (tackle by Josh Allen and Dawuane Smoot),0.410,0.140
+3,0:31,2,8,HOU 24,27,19,Deshaun Watson pass complete short left to Duke Johnson for 6 yards (tackle by Joe Schobert),0.140,0.230
+Quarter,Time,Down,ToGo,Location,HOU,JAX,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,2,HOU 30,27,19,Deshaun Watson left end for 4 yards (tackle by Joe Schobert),0.230,1.200
+4,14:19,1,10,HOU 34,27,19,Duke Johnson up the middle for 7 yards (tackle by Myles Jack and Jarrod Wilson),1.200,1.600
+4,13:34,2,3,HOU 41,27,19,Deshaun Watson pass incomplete deep right intended for Pharaoh Brown,1.600,0.890
+4,13:29,3,3,HOU 41,27,19,Deshaun Watson pass complete short right to Will Fuller for 3 yards (tackle by C.J. Henderson),0.890,1.860
+4,12:46,1,10,HOU 44,27,19,"Deshaun Watson aborted snap, recovered by Deshaun Watson at HOU-40 and returned for -4 yards",1.860,0.780
+4,12:03,2,14,HOU 40,27,19,Deshaun Watson pass complete short right to Brandin Cooks for 7 yards,0.780,1.030
+4,11:45,3,7,HOU 47,27,19,Deshaun Watson sacked by Tre Herndon for -8 yards,1.030,-0.780
+4,10:59,4,15,HOU 39,27,19,"Bryan Anger punts 46 yards, returned by Keelan Cole for 4 yards (tackle by Keion Crossen)",-0.780,-0.150
+4,10:51,1,10,JAX 19,27,19,Jake Luton pass complete short right to Chris Conley for 5 yards (tackle by Phillip Gaines),0.150,0.340
+4,10:12,2,5,JAX 24,27,19,Jake Luton pass incomplete short right intended for DJ Chark,0.340,-0.420
+4,10:10,3,5,JAX 24,27,19,"Jake Luton pass incomplete short right intended for Chris Thompson. Penalty on Michael Thomas: Defensive Pass Interference, 8 yards (no play)",-0.420,1.070
+4,10:04,1,10,JAX 32,27,19,James Robinson up the middle for no gain (tackle by Tyrell Adams),1.070,0.530
+4,9:27,2,10,JAX 32,27,19,Jake Luton pass complete short left to Collin Johnson for 9 yards (tackle by Keion Crossen),0.530,1.030
+4,8:41,3,1,JAX 41,27,19,James Robinson up the middle for no gain (tackle by Tyrell Adams),1.030,-0.650
+4,8:02,4,1,JAX 41,27,19,James Robinson up the middle for no gain (tackle by Justin Reid),-0.650,-2.850
+4,7:56,1,10,JAX 41,27,19,Deshaun Watson pass incomplete deep left intended for Brandin Cooks,2.850,2.310
+4,7:50,2,10,JAX 41,27,19,Duke Johnson up the middle for 2 yards (tackle by Myles Jack),2.310,1.880
+4,7:10,3,8,JAX 39,27,19,Deshaun Watson pass incomplete short right,1.880,0.660
+4,7:04,4,8,JAX 39,27,19,Bryan Anger punts 23 yards downed by Zach Cunningham,0.660,0.140
+4,6:55,1,10,JAX 16,27,19,Jake Luton pass incomplete short right intended for DJ Chark,-0.140,-0.660
+4,6:52,2,10,JAX 16,27,19,Jake Luton pass complete short middle to Keelan Cole for 6 yards (tackle by Tyrell Adams),-0.660,-0.570
+4,6:29,3,4,JAX 22,27,19,"Jake Luton sacked by J.J. Watt for -9 yards. Jake Luton fumbles (forced by J.J. Watt), recovered by Cam Robinson at JAC-13",-0.570,-2.490
+4,5:56,4,13,JAX 13,27,19,Logan Cooke punts 56 yards downed by Chris Claybrooks,-2.490,-1.000
+4,5:44,1,10,HOU 31,27,19,Duke Johnson right tackle for 4 yards (tackle by Joe Schobert),1.000,1.000
+4,4:58,2,6,HOU 35,27,19,Deshaun Watson pass complete short left to Will Fuller for 7 yards (tackle by Sidney Jones),1.000,1.730
+4,4:15,1,10,HOU 42,27,19,Deshaun Watson pass incomplete short middle intended for Brandin Cooks,1.730,1.190
+4,4:12,2,10,HOU 42,27,19,Duke Johnson right end for 5 yards (tackle by Josh Jones and Kamalei Correa),1.190,1.160
+4,4:07,,,,,,Timeout #1 by Jacksonville Jaguars,,
+4,4:07,3,5,HOU 47,27,19,Deshaun Watson up the middle for 11 yards (tackle by Sidney Jones),1.160,2.790
+4,3:18,1,10,JAX 42,27,19,Duke Johnson up the middle for 4 yards (tackle by Taven Bryan),2.790,2.780
+4,3:13,,,,,,Timeout #2 by Jacksonville Jaguars,,
+4,3:13,2,6,JAX 38,27,19,Duke Johnson up the middle for no gain (tackle by Taven Bryan and Myles Jack),2.780,2.080
+4,3:08,,,,,,Timeout #3 by Jacksonville Jaguars,,
+4,3:08,3,6,JAX 38,27,19,Deshaun Watson pass incomplete deep left intended for Brandin Cooks,2.080,0.720
+4,3:04,4,6,JAX 38,27,19,"Penalty on Deshaun Watson: Delay of Game, 5 yards (no play)",0.720,0.400
+4,3:03,4,11,JAX 43,27,19,"Bryan Anger punts 43 yards, touchback.",0.400,-0.280
+4,2:57,1,10,JAX 20,27,19,Jake Luton pass complete short right to Chris Conley for 10 yards,0.280,0.940
+4,2:52,1,10,JAX 30,27,19,Jake Luton pass complete short right to Chris Thompson for 13 yards (tackle by Phillip Gaines and Zach Cunningham),0.940,1.800
+4,2:31,1,10,JAX 43,27,19,Jake Luton pass incomplete deep right intended for DJ Chark,1.800,1.250
+4,2:26,2,10,JAX 43,27,19,Jake Luton pass complete short middle to Tyler Eifert for 12 yards (tackle by Michael Thomas and Tyrell Adams),1.250,2.590
+4,2:07,1,10,HOU 45,27,19,Jake Luton pass complete deep right to DJ Chark for 20 yards (tackle by Lonnie Johnson),2.590,3.910
+4,2:00,1,10,HOU 25,27,19,Jake Luton pass complete short left to Tyler Eifert for 12 yards (tackle by Eric Murray),3.910,4.710
+4,1:39,1,10,HOU 13,27,25,"Jake Luton left end for 13 yards, touchdown",4.710,7.000
+4,1:30,,,HOU 2,27,25,"Two Point Attempt: Jake Luton pass incomplete intended for DJ Chark, conversion fails",1.000,-1.000
+4,1:30,,,,,,Timeout #1 by Houston Texans,,
+4,1:30,,,JAX 35,27,25,"Josh Lambo kicks onside 12 yards, returned by Keion Crossen for no gain",0.000,2.460
+4,1:29,1,10,JAX 47,27,25,Deshaun Watson kneels for -1 yards,2.460,1.780
+4,0:49,2,11,JAX 48,27,25,Deshaun Watson kneels for -1 yards,1.780,0.960
+4,0:23,3,12,JAX 49,27,25,Deshaun Watson kneels for -1 yards,0.960,-0.060
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

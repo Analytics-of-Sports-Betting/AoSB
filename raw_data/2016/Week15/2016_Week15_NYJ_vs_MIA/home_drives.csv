@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,NYJ 25,7,3:28,75,Touchdown
+2,1,8:33,NYJ 46,7,4:18,29,Fumble
+3,1,2:41,NYJ 25,3,2:21,-4,Punt
+4,2,10:57,NYJ 25,6,2:53,48,Interception
+5,2,6:22,NYJ 32,4,2:33,21,Downs
+6,2,1:58,NYJ 22,11,1:40,48,Field Goal
+7,3,12:44,NYJ 30,5,2:14,11,Blocked Punt
+8,3,10:30,NYJ 19,1,0:15,0,Interception
+9,3,7:43,NYJ 20,3,1:07,4,Punt
+10,3,6:26,NYJ 25,4,1:44,29,Punt
+11,3,2:18,NYJ 43,9,4:52,52,Downs
+12,4,9:51,NYJ 45,9,4:08,37,Field Goal
+13,4,0:59,MIA 48,5,0:59,32,Interception

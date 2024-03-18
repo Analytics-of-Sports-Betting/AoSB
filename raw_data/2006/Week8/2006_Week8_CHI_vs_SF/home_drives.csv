@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,CHI 34,8,2:55,41,Field Goal
+2,1,11:57,SFO 15,3,1:18,15,Touchdown
+3,1,8:27,CHI 26,4,2:20,27,Punt
+4,1,4:45,SFO 41,6,2:50,41,Touchdown
+5,1,1:42,SFO 13,2,0:40,13,Touchdown
+6,2,14:27,SFO 24,7,3:54,24,Touchdown
+7,2,8:31,CHI 28,9,5:16,54,Field Goal
+8,2,1:12,CHI 30,4,1:02,70,Touchdown
+9,3,10:28,CHI 11,16,9:00,88,Downs
+10,4,11:35,CHI 32,3,1:38,-3,Punt
+11,4,6:49,CHI 31,6,4:50,13,Punt
+12,4,1:22,SFO 9,2,1:22,-2,End of Game

@@ -1,0 +1,174 @@
+Quarter,Time,Down,ToGo,Location,CIN,KAN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Chiefs won the coin toss and deferred, Bengals to receive the opening kickoff.",,
+1,15:00,,,KAN 35,0,0,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,CIN 25,0,0,Joe Mixon up the middle for 5 yards (tackle by Derrick Nnadi),0.610,0.740
+1,14:29,2,5,CIN 30,0,0,Andy Dalton pass incomplete short right intended for A.J. Green (defended by Orlando Scandrick),0.740,0.040
+1,14:25,3,5,CIN 30,0,0,Andy Dalton pass complete short right to Joe Mixon for 2 yards (tackle by Terrance Smith and Orlando Scandrick),0.040,-1.240
+1,13:43,4,3,CIN 32,0,0,"Kevin Huber punts 60 yards, returned by Tyreek Hill for 2 yards. Penalty on Josh Shaw: Offensive Holding, 5 yards",-1.240,0.380
+1,13:26,1,10,KAN 5,0,0,Patrick Mahomes pass complete short left to Tyreek Hill for 27 yards (tackle by Tony McRae),-0.380,1.070
+1,12:48,1,10,KAN 32,0,0,Tyreek Hill right end for 2 yards (tackle by Shawn Williams),1.070,0.800
+1,12:17,2,8,KAN 34,0,0,Patrick Mahomes pass complete short left to Demarcus Robinson for 9 yards (tackle by Jessie Bates),0.800,1.800
+1,11:34,1,10,KAN 43,0,0,Patrick Mahomes pass complete short middle to Kareem Hunt for 13 yards (tackle by Shawn Williams and Jessie Bates),1.800,2.650
+1,10:54,1,10,CIN 44,0,0,Patrick Mahomes pass complete short middle to Tyreek Hill for no gain (tackle by Shawn Williams),2.650,2.110
+1,10:10,2,10,CIN 44,0,0,Kareem Hunt up the middle for 8 yards (tackle by Carlos Dunlap and Jessie Bates),2.110,2.480
+1,9:28,,,,,,Timeout #1 by Kansas City Chiefs,,
+1,9:28,3,2,CIN 36,0,0,Patrick Mahomes right end for 9 yards,2.480,3.780
+1,8:59,1,10,CIN 27,0,0,Patrick Mahomes pass incomplete deep middle,3.780,3.230
+1,8:53,2,10,CIN 27,0,0,Kareem Hunt right tackle for 21 yards (tackle by Shawn Williams and Carl Lawson),3.230,5.830
+1,8:15,1,6,CIN 6,0,6,"Patrick Mahomes pass complete short right to Kareem Hunt for 6 yards, touchdown",5.830,7.000
+1,8:08,,,CIN 15,0,7,Harrison Butker kicks extra point good,0.000,0.000
+1,8:08,,,KAN 35,0,7,"Harrison Butker kicks off 64 yards, returned by Alex Erickson for 17 yards (tackle by Terrance Smith and Charvarius Ward). Penalty on Brandon Wilson: Unnecessary Roughness, 9 yards",0.000,-0.380
+1,8:03,1,10,CIN 9,0,7,Andy Dalton pass complete short right to A.J. Green for 8 yards (tackle by Orlando Scandrick),-0.380,-0.020
+1,7:29,2,2,CIN 17,0,7,Andy Dalton pass incomplete short middle intended for Tyler Boyd (defended by Kendall Fuller),-0.020,-0.480
+1,7:24,3,2,CIN 17,0,7,Joe Mixon up the middle for 3 yards (tackle by Jordan Lucas and Breeland Speaks),-0.480,0.280
+1,6:44,1,10,CIN 20,0,7,Andy Dalton pass incomplete short right intended for Matt Lengel,0.280,-0.270
+1,6:39,2,10,CIN 20,0,7,"Penalty on C.J. Uzomah: False Start, 5 yards (no play)",-0.270,-1.070
+1,6:39,2,15,CIN 15,0,7,Andy Dalton pass complete short left to A.J. Green for 30 yards (tackle by Ron Parker),-1.070,1.930
+1,5:58,1,10,CIN 45,0,7,Joe Mixon up the middle for 3 yards (tackle by Derrick Nnadi),1.930,1.790
+1,5:22,2,7,CIN 48,0,7,Andy Dalton pass complete short middle to Alex Erickson for -1 yards (tackle by Chris Jones),1.790,0.960
+1,4:44,3,8,CIN 47,0,7,"Andy Dalton sacked by Dee Ford for no gain. Penalty on Chris Jones: Defensive Offside, 5 yards (no play)",0.960,1.620
+1,4:30,3,3,KAN 48,0,7,"Andy Dalton sacked by Dee Ford for -2 yards. Andy Dalton fumbles (forced by Dee Ford), recovered by Andy Dalton at KC-48",1.620,-0.060
+1,3:42,4,5,CIN 50,0,7,"Kevin Huber punts 37 yards, returned by Tyreek Hill for 9 yards",-0.060,-0.410
+1,3:35,1,10,KAN 22,0,7,Kareem Hunt left guard for 1 yard (tackle by Andrew Billings),0.410,0.000
+1,2:57,2,9,KAN 23,0,7,Patrick Mahomes pass complete short right to Chris Conley for 6 yards (tackle by Jordan Willis),0.000,0.100
+1,2:17,3,3,KAN 29,0,7,Patrick Mahomes pass complete short left to Travis Kelce for 43 yards (tackle by Shawn Williams),0.100,3.710
+1,1:41,1,10,CIN 28,0,7,Patrick Mahomes pass incomplete short left intended for Sammy Watkins (defended by William Jackson),3.710,3.170
+1,1:36,2,10,CIN 28,0,7,"Penalty on Cameron Erving: False Start, 5 yards (no play)",3.170,2.490
+1,1:36,2,15,CIN 33,0,7,Patrick Mahomes pass complete short left to Spencer Ware for -2 yards (tackle by Vontaze Burfict),2.490,1.550
+1,0:51,3,17,CIN 35,0,7,Patrick Mahomes pass incomplete deep left intended for Sammy Watkins (defended by William Jackson),1.550,0.970
+1,0:44,4,17,CIN 35,0,7,Harrison Butker 53 yard field goal no good,0.970,-1.800
+1,0:39,1,10,CIN 43,0,7,Andy Dalton pass incomplete deep right intended for John Ross,1.800,1.250
+1,0:32,2,10,CIN 43,0,7,Joe Mixon left tackle for 6 yards (tackle by Chris Jones),1.250,1.350
+Quarter,Time,Down,ToGo,Location,CIN,KAN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,4,CIN 49,0,7,"Penalty on Bobby Hart: False Start, 5 yards (no play)",1.350,0.690
+2,15:00,3,9,CIN 44,0,7,Andy Dalton pass incomplete short right intended for Joe Mixon,0.690,-0.460
+2,14:56,4,9,CIN 44,0,7,"Clayton Fejedelem aborted snap, recovered by Clayton Fejedelem at CIN-33 and returned for -11 yards",-0.460,-3.450
+2,14:51,1,10,CIN 32,0,7,Patrick Mahomes pass incomplete deep left intended for Demetrius Harris,3.450,2.900
+2,14:45,2,10,CIN 32,0,7,Kareem Hunt right guard for 1 yard (tackle by Geno Atkins and Jordan Evans),2.900,2.340
+2,14:01,3,9,CIN 31,0,7,Patrick Mahomes pass complete short middle to Tyreek Hill for 16 yards,2.340,4.580
+2,13:28,1,10,CIN 15,0,13,"Patrick Mahomes pass complete short right to Kareem Hunt for 15 yards, touchdown",4.580,7.000
+2,13:18,,,CIN 15,0,14,Harrison Butker kicks extra point good,0.000,0.000
+2,13:18,,,KAN 35,0,14,"Harrison Butker kicks off 62 yards, returned by Alex Erickson for 20 yards",0.000,0.480
+2,13:12,1,10,CIN 23,0,14,Joe Mixon right tackle for no gain (tackle by Anthony Hitchens),0.480,-0.070
+2,12:35,2,10,CIN 23,0,14,"Andy Dalton pass incomplete short left intended for Mason Schreck. Penalty on Orlando Scandrick: Defensive Holding, 5 yards (no play)",-0.070,0.810
+2,12:28,1,10,CIN 28,0,14,"Penalty on KAN: Defensive Too Many Men on Field, 5 yards (no play)",0.810,1.540
+2,12:28,1,5,CIN 33,0,14,"Joe Mixon right guard for 3 yards (tackle by Anthony Hitchens). Penalty on Clint Boling: Illegal Block Above the Waist, 10 yards",1.540,0.670
+2,12:06,1,12,CIN 26,0,14,Andy Dalton pass complete short middle to A.J. Green for 12 yards (tackle by Orlando Scandrick),0.670,1.470
+2,11:30,1,10,CIN 38,0,14,Andy Dalton pass complete short middle to A.J. Green for 9 yards (tackle by Kendall Fuller),1.470,2.140
+2,10:52,2,1,CIN 47,0,14,Joe Mixon left guard for no gain (tackle by Allen Bailey and Reggie Ragland),2.140,1.420
+2,10:12,3,1,CIN 47,0,14,Joe Mixon right guard for 3 yards (tackle by Reggie Ragland),1.420,2.260
+2,9:26,1,10,CIN 50,0,14,Andy Dalton pass complete deep left to A.J. Green for 20 yards (tackle by Jordan Lucas),2.260,3.580
+2,9:01,1,10,KAN 30,0,14,"Penalty on KAN: Defensive Too Many Men on Field, 5 yards (no play)",3.580,4.310
+2,8:43,1,5,KAN 25,0,14,"Mark Walton up the middle for no gain (tackle by Xavier Williams). Penalty on Alex Redmond: Offensive Holding, 10 yards (no play)",4.310,3.250
+2,8:24,1,15,KAN 35,0,14,Andy Dalton pass complete deep right to A.J. Green for 31 yards (tackle by Orlando Scandrick),3.250,6.280
+2,7:39,1,4,KAN 4,0,14,Andy Dalton pass incomplete short right intended for Joe Mixon,6.280,5.340
+2,7:33,2,4,KAN 4,0,14,Andy Dalton pass incomplete short left intended for A.J. Green,5.340,4.490
+2,7:29,3,4,KAN 4,6,14,"Andy Dalton pass complete short right to C.J. Uzomah for 4 yards, touchdown",4.490,7.000
+2,7:25,,,KAN 15,7,14,Randy Bullock kicks extra point good,0.000,0.000
+2,7:25,,,CIN 35,7,14,"Randy Bullock kicks off 65 yards, (tackle by Malik Jefferson)",0.000,0.480
+2,7:21,1,10,KAN 23,7,14,Patrick Mahomes pass complete short right to Kareem Hunt for 13 yards (tackle by Preston Brown and Jessie Bates),0.480,1.330
+2,6:34,1,10,KAN 36,7,14,Patrick Mahomes pass complete short left to Sammy Watkins for 4 yards (tackle by Darius Phillips),1.330,1.330
+2,5:59,2,6,KAN 40,7,14,Kareem Hunt left tackle for no gain (tackle by Vontaze Burfict),1.330,0.630
+2,5:20,3,6,KAN 40,7,14,Patrick Mahomes pass complete short right to Spencer Ware for 10 yards (tackle by Jordan Evans and Dre Kirkpatrick),0.630,2.260
+2,4:43,1,10,KAN 50,7,14,Patrick Mahomes pass complete short left to Tyreek Hill for 8 yards (tackle by Darius Phillips),2.260,2.790
+2,4:16,2,2,CIN 42,7,14,Kareem Hunt up the middle for 11 yards (tackle by Jordan Evans),2.790,3.510
+2,3:36,1,10,CIN 31,7,14,Patrick Mahomes right tackle for 10 yards (tackle by Jessie Bates),3.510,4.170
+2,2:53,1,10,CIN 21,7,14,Spencer Ware right end for 3 yards (tackle by Shawn Williams),4.170,4.040
+2,2:28,2,7,CIN 18,7,14,Patrick Mahomes sacked by Andrew Billings for -4 yards,4.040,2.810
+2,2:00,3,11,CIN 22,7,14,"Penalty on Carlos Dunlap: Neutral Zone Infraction, 5 yards (no play)",2.810,3.460
+2,2:00,3,6,CIN 17,7,20,"Patrick Mahomes pass complete deep right to Demetrius Harris for 17 yards, touchdown",3.460,7.000
+2,1:55,,,CIN 15,7,21,Harrison Butker kicks extra point good,0.000,0.000
+2,1:55,,,KAN 35,7,21,"Harrison Butker kicks off 25 yards, out of bounds",0.000,1.600
+2,1:55,1,10,CIN 40,7,21,Andy Dalton pass complete short left to Joe Mixon for 3 yards (tackle by Kendall Fuller),1.600,1.460
+2,1:33,2,7,CIN 43,7,21,Andy Dalton pass incomplete short right intended for A.J. Green,1.460,0.760
+2,1:27,3,7,CIN 43,7,21,Andy Dalton pass incomplete short left intended for A.J. Green (defended by Steven Nelson),0.760,-0.520
+2,1:23,4,7,CIN 43,7,21,"Kevin Huber punts 57 yards, touchback.",-0.520,-0.280
+2,1:13,1,10,KAN 20,7,21,Patrick Mahomes pass complete short middle to Travis Kelce for 13 yards (tackle by Shawn Williams),0.280,1.140
+2,1:06,1,10,KAN 33,7,21,Patrick Mahomes pass complete short middle to Travis Kelce for 13 yards (tackle by Jordan Evans),1.140,1.990
+2,0:58,,,,,,Timeout #2 by Kansas City Chiefs,,
+2,0:58,1,10,KAN 46,7,21,Patrick Mahomes right end for 23 yards,1.990,3.510
+2,0:48,1,10,CIN 31,7,21,Patrick Mahomes pass complete deep middle to Spencer Ware for 22 yards (tackle by Jessie Bates),3.510,5.140
+2,0:27,,,,,,Timeout #1 by Cincinnati Bengals,,
+2,0:27,1,9,CIN 9,7,21,Patrick Mahomes pass incomplete short right intended for Sammy Watkins,5.140,4.380
+2,0:23,,,,,,Timeout #2 by Cincinnati Bengals,,
+2,0:23,2,9,CIN 9,7,21,Patrick Mahomes pass incomplete short right,4.380,3.360
+2,0:16,3,9,CIN 9,7,21,Patrick Mahomes pass complete short right to Tyreek Hill for 1 yard (tackle by Jessie Bates),3.360,2.950
+2,0:11,4,8,CIN 8,7,24,Harrison Butker 26 yard field goal good,2.950,3.000
+2,0:08,,,KAN 35,7,24,"Harrison Butker kicks off 60 yards, returned by Alex Erickson for 28 yards",0.000,1.270
+Quarter,Time,Down,ToGo,Location,CIN,KAN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,CIN 35,7,24,"Randy Bullock kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,KAN 25,7,24,Patrick Mahomes pass complete deep middle to Sammy Watkins for 50 yards,0.610,3.910
+3,14:23,1,10,CIN 25,7,24,Kareem Hunt left end for 5 yards (tackle by Shawn Williams and William Jackson),3.910,4.040
+3,13:42,2,5,CIN 20,7,24,Patrick Mahomes pass incomplete short middle intended for Kareem Hunt,4.040,3.340
+3,13:36,3,5,CIN 20,7,24,Patrick Mahomes pass complete short middle to Travis Kelce for 6 yards (tackle by Jordan Evans),3.340,4.650
+3,12:53,1,10,CIN 14,7,24,Patrick Mahomes pass complete short left to Kareem Hunt for 8 yards (tackle by Jessie Bates),4.650,5.470
+3,12:09,2,2,CIN 6,7,24,Kareem Hunt up the middle for 4 yards (tackle by Jessie Bates and Preston Brown),5.470,6.740
+3,11:26,1,2,CIN 2,7,30,"Kareem Hunt up the middle for 2 yards, touchdown",6.740,7.000
+3,11:19,,,CIN 15,7,31,Harrison Butker kicks extra point good,0.000,0.000
+3,11:19,,,KAN 35,7,31,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+3,11:19,1,10,CIN 25,7,37,"Andy Dalton pass short left intended for A.J. Green is intercepted by Ron Parker at CIN-33 and returned for 33 yards, touchdown",0.610,-7.000
+3,11:10,,,KAN 35,7,38,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+3,11:10,1,10,CIN 25,7,38,Joe Mixon left guard for 20 yards (tackle by Kendall Fuller),0.610,1.930
+3,10:33,1,10,CIN 45,7,38,Joe Mixon right guard for 1 yard (tackle by Anthony Hitchens),1.930,1.520
+3,9:57,2,9,CIN 46,7,38,Andy Dalton pass complete short left to Tyler Boyd for 9 yards (tackle by Orlando Scandrick),1.520,2.590
+3,9:17,1,10,KAN 45,7,38,Andy Dalton pass complete short left to Tyler Boyd for 5 yards (tackle by Jordan Lucas),2.590,2.720
+3,8:44,2,5,KAN 40,7,38,Joe Mixon right end for no gain (tackle by Reggie Ragland),2.720,2.010
+3,7:58,,,,,,Timeout #1 by Cincinnati Bengals,,
+3,7:58,3,5,KAN 40,7,38,"Andy Dalton pass incomplete short right intended for C.J. Uzomah. Penalty on Jordan Lucas: Defensive Pass Interference, 10 yards (no play)",2.010,3.580
+3,7:53,1,10,KAN 30,7,38,Andy Dalton pass complete short left to Tyler Boyd for 13 yards (tackle by Steven Nelson),3.580,4.440
+3,7:13,1,10,KAN 17,7,38,Andy Dalton pass incomplete deep right,4.440,3.850
+3,7:05,2,10,KAN 17,7,38,Joe Mixon up the middle for 2 yards (tackle by Allen Bailey),3.850,3.340
+3,6:25,3,8,KAN 15,7,38,Andy Dalton pass incomplete short left intended for Alex Erickson,3.340,2.440
+3,6:20,4,8,KAN 15,10,38,Randy Bullock 33 yard field goal good,2.440,3.000
+3,6:16,,,CIN 35,10,38,"Randy Bullock kicks off 65 yards, touchback.",0.000,0.610
+3,6:16,1,10,KAN 25,10,38,Kareem Hunt right end for 2 yards (tackle by Preston Brown),0.610,0.330
+3,5:33,2,8,KAN 27,10,38,Patrick Mahomes pass deep middle intended for Tyreek Hill is intercepted by Shawn Williams at CIN-27 and returned for 21 yards,0.330,-2.130
+3,5:20,1,10,CIN 48,10,38,Joe Mixon left tackle for 4 yards (tackle by Dorian O'Daniel),2.130,2.120
+3,4:42,2,6,KAN 48,10,38,Andy Dalton pass complete short left to Joe Mixon for -4 yards (tackle by Dorian O'Daniel),2.120,0.890
+3,4:00,3,10,CIN 48,10,38,Andy Dalton sacked by Chris Jones for -11 yards,0.890,-0.910
+3,3:11,4,21,CIN 37,10,38,"Kevin Huber punts 55 yards, returned by Tyreek Hill for 10 yards",-0.910,-0.040
+3,2:59,1,10,KAN 18,10,38,Kareem Hunt right end for 2 yards (tackle by Jordan Willis),0.040,-0.130
+3,2:22,2,8,KAN 20,10,38,"Patrick Mahomes for no gain. Patrick Mahomes fumbles, recovered by Patrick Mahomes at KC-15 Patrick Mahomes pass incomplete short middle intended for Tyreek Hill",-0.130,-0.910
+3,2:17,3,8,KAN 20,10,38,Patrick Mahomes pass complete short right to Tyreek Hill for 13 yards (tackle by Dre Kirkpatrick),-0.910,1.140
+3,1:32,1,10,KAN 33,10,38,Patrick Mahomes pass incomplete short right,1.140,0.590
+3,1:25,2,10,KAN 33,10,38,Patrick Mahomes pass complete short left to Sammy Watkins for 9 yards (tackle by Jessie Bates),0.590,1.090
+3,0:42,3,1,KAN 42,10,38,Patrick Mahomes up the middle for 3 yards (tackle by Preston Brown),1.090,1.930
+Quarter,Time,Down,ToGo,Location,CIN,KAN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,KAN 45,10,38,Patrick Mahomes pass complete short right to Travis Kelce for 20 yards (tackle by Dre Kirkpatrick),1.930,3.250
+4,14:21,1,10,CIN 35,10,38,Patrick Mahomes pass incomplete deep left intended for Tyreek Hill,3.250,2.700
+4,14:14,2,10,CIN 35,10,38,Kareem Hunt left end for 16 yards (tackle by William Jackson),2.700,4.310
+4,13:39,1,10,CIN 19,10,38,"Patrick Mahomes sacked by Carlos Dunlap for -1 yards. Penalty on Carlos Dunlap: Unnecessary Roughness, 10 yards",4.310,4.910
+4,13:20,1,10,CIN 10,10,38,"Kareem Hunt right end for 3 yards (tackle by Jordan Evans). Penalty on Shawn Williams: Unnecessary Roughness, 4 yards",4.910,6.510
+4,12:56,1,3,CIN 3,10,44,"Patrick Mahomes for 3 yards. Patrick Mahomes fumbles, recovered by Patrick Mahomes at CIN-8 Patrick Mahomes pass complete short left to Tyreek Hill for 3 yards, touchdown",6.510,7.000
+4,12:50,,,CIN 15,10,44,Harrison Butker kicks extra point good,0.000,0.000
+4,12:50,,,KAN 35,10,45,"Harrison Butker kicks off 65 yards, touchback.",0.000,0.610
+4,12:50,1,10,CIN 25,10,45,Andy Dalton pass incomplete short left intended for A.J. Green (defended by Steven Nelson),0.610,0.060
+4,12:45,2,10,CIN 25,10,45,Andy Dalton pass complete short right to A.J. Green for 7 yards (tackle by Orlando Scandrick),0.060,0.300
+4,12:10,3,3,CIN 32,10,45,Andy Dalton pass incomplete short right intended for A.J. Green,0.300,-1.240
+4,12:01,4,3,CIN 32,10,45,"Kevin Huber punts 49 yards, returned by Demarcus Robinson for no gain (tackle by Malik Jefferson). Penalty on Josh Shaw: Illegal Block Above the Waist, 9 yards",-1.240,0.380
+4,11:49,1,10,KAN 10,10,45,Kareem Hunt up the middle for 1 yard (tackle by Andrew Billings),-0.380,-0.710
+4,11:08,2,9,KAN 11,10,45,Patrick Mahomes pass complete short right to Sammy Watkins for 11 yards (tackle by Shawn Williams),-0.710,0.410
+4,10:24,1,10,KAN 22,10,45,Tyreek Hill right end for 6 yards (tackle by Shawn Williams),0.410,0.680
+4,9:38,2,4,KAN 28,10,45,Kareem Hunt up the middle for 9 yards (tackle by Preston Brown),0.680,1.400
+4,8:56,1,10,KAN 37,10,45,Spencer Ware up the middle for 12 yards (tackle by Jessie Bates and Dre Kirkpatrick),1.400,2.190
+4,8:10,1,10,KAN 49,10,45,Patrick Mahomes pass complete short left to Demarcus Robinson for 4 yards (tackle by Jessie Bates),2.190,2.190
+4,7:27,2,6,CIN 47,10,45,Spencer Ware up the middle for 2 yards (tackle by Andrew Billings),2.190,1.750
+4,6:46,3,4,CIN 45,10,45,Spencer Ware left end for 34 yards (tackle by Sam Hubbard),1.750,4.840
+4,5:53,1,10,CIN 11,10,45,Spencer Ware right guard for 4 yards (tackle by Shawn Williams),4.840,4.890
+4,5:10,2,6,CIN 7,10,45,Spencer Ware up the middle for no gain (tackle by Andrew Billings),4.890,3.980
+4,4:27,3,6,CIN 7,10,45,Spencer Ware left end for 2 yards (tackle by Shawn Williams),3.980,3.010
+4,4:21,4,4,CIN 5,10,45,Spencer Ware left end for 2 yards (tackle by Shawn Williams),3.010,0.380
+4,4:14,1,10,CIN 3,10,45,Mark Walton up the middle for 3 yards (tackle by Xavier Williams),-0.380,-0.560
+4,3:38,2,7,CIN 6,10,45,Jeff Driskel right end for 5 yards (tackle by Dorian O'Daniel),-0.560,-0.480
+4,3:30,3,2,CIN 11,10,45,Jeff Driskel pass complete short left to Cody Core for 7 yards (tackle by Josh Shaw),-0.480,0.040
+4,2:56,1,10,CIN 18,10,45,Mark Walton up the middle for 2 yards (tackle by Derrick Nnadi),0.040,-0.130
+4,2:21,2,8,CIN 20,10,45,Jeff Driskel pass complete short middle to Cody Core for 18 yards (tackle by Charvarius Ward),-0.130,1.470
+4,2:00,1,10,CIN 38,10,45,Jeff Driskel pass complete short left to C.J. Uzomah for 9 yards (tackle by Josh Shaw),1.470,2.140
+4,1:25,2,1,CIN 47,10,45,Mark Walton left tackle for 3 yards (tackle by Xavier Williams),2.140,2.260
+4,0:47,1,10,CIN 50,10,45,Jeff Driskel pass complete short left to Cody Core for 5 yards (tackle by Dorian O'Daniel),2.260,2.390
+4,0:21,2,5,KAN 45,10,45,Mark Walton up the middle for 2 yards (tackle by Breeland Speaks),2.390,1.950
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

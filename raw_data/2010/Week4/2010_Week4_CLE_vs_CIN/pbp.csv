@@ -1,0 +1,181 @@
+Quarter,Time,Down,ToGo,Location,CIN,CLE,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Bengals won the coin toss, Bengals to receive the opening kickoff.",,
+1,15:00,,,CLE 30,0,0,"Phil Dawson kicks off 57 yards, returned by Bernard Scott for 11 yards (tackle by T.J. Ward)",0.000,0.540
+1,14:54,1,10,CIN 24,0,0,Cedric Benson right tackle for 3 yards (tackle by Eric Barton),0.540,0.400
+1,14:19,2,7,CIN 27,0,0,Cedric Benson left guard for -1 yards (tackle by Matt Roth),0.400,-0.430
+1,13:40,3,8,CIN 26,0,0,Carson Palmer pass complete short right to Jermaine Gresham for 12 yards (tackle by Abram Elam and T.J. Ward),-0.430,1.470
+1,12:57,1,10,CIN 38,0,0,Carson Palmer pass complete short right to Jermaine Gresham for 5 yards (tackle by Eric Wright),1.470,1.600
+1,12:16,2,5,CIN 43,0,0,Carson Palmer pass complete short right to Chad Johnson for 3 yards (tackle by Joe Haden),1.600,1.290
+1,11:32,,,,0,0,Timeout #1 by Cleveland Browns,0.000,1.290
+1,11:32,3,2,CIN 46,0,0,Carson Palmer pass complete short right to Andre Caldwell for 4 yards (tackle by Mike Adams),1.290,2.260
+1,10:56,1,10,,0,0,Cedric Benson left tackle for 4 yards (tackle by Robaire Smith),2.260,2.250
+1,10:20,2,6,CLE 46,0,0,Cedric Benson right guard for 4 yards (tackle by Kenyon Coleman),2.250,2.080
+1,9:40,3,2,CLE 42,0,0,Carson Palmer pass incomplete short right intended for Terrell Owens (defended by David Bowens),2.080,0.460
+1,9:37,4,2,CLE 42,0,0,"Kevin Huber punts 32 yards, fair catch by Josh Cribbs",0.460,0.380
+1,9:29,1,10,CLE 10,0,0,Seneca Wallace pass complete short middle to Ben Watson for 9 yards (tackle by Keith Rivers and Dhani Jones),-0.380,0.240
+1,8:55,2,1,CLE 19,0,0,Peyton Hillis right tackle for 4 yards (tackle by Keith Rivers and Robert Geathers),0.240,0.480
+1,8:23,1,10,CLE 23,0,0,Peyton Hillis left guard for 5 yards (tackle by Dhani Jones),0.480,0.610
+1,7:51,2,5,CLE 28,0,0,Josh Cribbs left end for 3 yards (tackle by Antwan Odom),0.610,0.300
+1,7:13,3,2,CLE 31,0,0,Seneca Wallace pass incomplete short left intended for Mohamed Massaquoi (defended by Adam Jones),0.300,-1.310
+1,7:08,4,2,CLE 31,0,0,"Penalty on Joe Haden: False Start, 5 yards (no play)",-1.310,-1.630
+1,7:08,4,7,CLE 26,0,0,"Reggie Hodges punts 46 yards, returned by Quan Cosby for 1 yard (tackle by Sam Aiken)",-1.630,-0.870
+1,6:58,1,10,CIN 29,0,0,Carson Palmer pass complete deep middle to Terrell Owens for 17 yards (tackle by Sheldon Brown),0.870,1.990
+1,6:17,1,10,CIN 46,0,0,Carson Palmer pass complete short left to Jermaine Gresham for 7 yards (tackle by T.J. Ward),1.990,2.400
+1,5:53,2,3,CLE 47,0,0,"Carson Palmer for no gain. Carson Palmer fumbles, recovered by Kenyon Coleman at CLE-48 (tackle by Dennis Roland)",2.400,-2.130
+1,5:48,1,10,CLE 48,0,0,Seneca Wallace pass complete short left to Ben Watson for 11 yards,2.130,2.850
+1,5:29,1,10,CIN 41,0,0,Peyton Hillis left guard for -2 yards (tackle by Roy Williams),2.850,2.040
+1,4:59,2,12,CIN 43,0,0,Seneca Wallace pass complete short right to Peyton Hillis for 4 yards (tackle by Robert Geathers and Domata Peko),2.040,1.880
+1,4:18,3,8,CIN 39,0,0,Seneca Wallace pass complete short left to Chansi Stuckey for 9 yards (tackle by Chris Crocker),1.880,3.580
+1,3:46,1,10,CIN 30,0,0,Seneca Wallace pass complete short right to Chansi Stuckey for 14 yards (tackle by Chris Crocker),3.580,4.510
+1,3:25,1,10,CIN 16,0,0,Seneca Wallace pass incomplete deep right intended for Ben Watson,4.510,3.900
+,,,,,,,"CLE challenged the incomplete pass ruling, and the play was upheld.",,
+1,3:18,2,10,CIN 16,0,0,Josh Cribbs right tackle for 3 yards (tackle by Roy Williams and Rey Maualuga),3.900,3.540
+1,2:36,3,7,CIN 13,0,0,Seneca Wallace pass incomplete short right intended for Josh Cribbs,3.540,2.570
+1,2:31,4,7,CIN 13,0,3,Phil Dawson 30 yard field goal good,2.570,3.000
+1,,,,CLE 30,0,3,"Phil Dawson kicks off 46 yards, returned by Reggie Kelly for 8 yards (tackle by Joe Haden)",0.000,1.070
+1,2:24,1,10,CIN 32,0,3,Cedric Benson left tackle for 2 yards (tackle by Matt Roth),1.070,0.800
+1,1:47,2,8,CIN 34,0,3,Carson Palmer sacked by Kenyon Coleman for -2 yards,0.800,-0.160
+1,1:10,3,10,CIN 32,0,3,"Carson Palmer pass incomplete short left intended for Chad Johnson (defended by Sheldon Brown). Penalty on Shaun Rogers: Defensive Offside, 5 yards (no play)",-0.160,0.500
+1,1:06,3,5,CIN 37,0,3,Carson Palmer pass incomplete short left intended for Brian Leonard,0.500,-0.910
+1,1:01,4,5,CIN 37,0,3,Kevin Huber punts 50 yards,-0.910,0.320
+1,0:49,1,10,CLE 13,0,3,"Peyton Hillis left tackle for no gain (tackle by Pat Sims and Domata Peko). Penalty on Michael Johnson: Defensive Offside, 5 yards (no play)",-0.320,0.400
+1,0:30,1,5,CLE 18,0,3,Peyton Hillis right guard for 2 yards (tackle by Dhani Jones),0.400,0.220
+Quarter,Time,Down,ToGo,Location,CIN,CLE,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,3,CLE 20,0,3,Peyton Hillis right guard for 2 yards (tackle by Rey Maualuga),0.220,-0.350
+2,14:28,3,1,CLE 22,0,3,Peyton Hillis left tackle for 7 yards (tackle by Pat Sims and Roy Williams),-0.350,0.870
+2,13:45,1,10,CLE 29,0,3,Seneca Wallace pass complete short right to Josh Cribbs for 15 yards (tackle by Roy Williams),0.870,1.860
+2,12:58,1,10,CLE 44,0,3,"Seneca Wallace pass complete short right to Chansi Stuckey for 16 yards (tackle by Chris Crocker). Chansi Stuckey fumbles (forced by Chris Crocker), recovered by Floyd Womack at CIN-40",1.860,2.920
+2,12:21,1,10,CIN 40,0,3,Peyton Hillis left tackle for 12 yards (tackle by Leon Hall and Roy Williams),2.920,3.710
+2,11:46,1,10,CIN 28,0,3,Peyton Hillis right tackle for 4 yards (tackle by Tank Johnson and Pat Sims),3.710,3.710
+2,11:10,2,6,CIN 24,0,9,"Seneca Wallace pass complete deep middle to Evan Moore for 24 yards, touchdown. Penalty on Ben Watson: Unsportsmanlike Conduct, 15 yards",3.710,7.000
+2,,,,CIN 2,0,10,Phil Dawson kicks extra point good,0.000,0.000
+2,,,,CLE 15,0,10,"Phil Dawson kicks off 61 yards, returned by Adam Jones for 9 yards (tackle by Nick Sorensen)",0.000,1.140
+2,10:57,1,10,CIN 33,0,10,Carson Palmer pass complete deep right to Chad Johnson for 42 yards (tackle by Eric Wright),1.140,3.910
+2,10:28,1,10,CLE 25,0,10,Carson Palmer pass incomplete deep left intended for Terrell Owens,3.910,3.360
+2,10:22,2,10,CLE 25,0,10,Carson Palmer pass complete short left to Jermaine Gresham for 4 yards (tackle by Scott Fujita and Matt Roth),3.360,3.200
+2,9:35,3,6,CLE 21,0,10,Carson Palmer pass complete short right to Terrell Owens for 8 yards (tackle by T.J. Ward),3.200,4.710
+2,8:52,1,10,CLE 13,0,10,Bernard Scott right tackle for 5 yards (tackle by Joe Haden),4.710,4.960
+2,8:05,2,5,CLE 8,0,10,Bernard Scott left guard for 2 yards (tackle by Scott Fujita),4.960,4.560
+2,7:25,3,3,CLE 6,0,10,Carson Palmer pass incomplete short right intended for Terrell Owens (defended by Eric Wright),4.560,3.010
+2,7:19,4,3,CLE 6,3,10,Mike Nugent 24 yard field goal good,3.010,3.000
+2,,,,CIN 30,3,10,"Mike Nugent kicks off 64 yards, returned by Josh Cribbs for 16 yards (tackle by Morgan Trent)",0.000,0.410
+2,7:10,1,10,CLE 22,3,10,Peyton Hillis left guard for 3 yards (tackle by Domata Peko and Keith Rivers),0.410,0.270
+2,6:39,2,7,CLE 25,3,10,Seneca Wallace pass complete short right to Josh Cribbs for 9 yards (tackle by Dhani Jones),0.270,1.200
+2,6:03,1,10,CLE 34,3,10,Seneca Wallace sacked by Keith Rivers for -5 yards,1.200,-0.020
+2,5:29,2,15,CLE 29,3,10,Seneca Wallace pass complete short right to Sam Aiken for 7 yards (tackle by Dhani Jones and Johnathan Joseph),-0.020,0.230
+2,4:45,3,8,CLE 36,3,10,Seneca Wallace pass incomplete short right intended for Ben Watson,0.230,-0.980
+2,4:40,4,8,CLE 36,3,10,"Reggie Hodges punts 44 yards, returned by Quan Cosby for 5 yards (tackle by Nick Sorensen)",-0.980,-0.610
+2,4:29,1,10,CIN 25,3,10,Carson Palmer pass complete short left to Jermaine Gresham for 7 yards (tackle by Ahtyba Rubin),0.610,1.010
+2,3:48,2,3,CIN 32,3,10,"Carson Palmer pass incomplete short right intended for Cedric Benson. Penalty on Andrew Whitworth: Offensive Holding, 10 yards (no play)",1.010,-0.340
+2,3:41,2,13,CIN 22,9,10,"Carson Palmer pass complete deep left to Terrell Owens for 78 yards, touchdown",-0.340,7.000
+2,,,,CLE 2,10,10,Mike Nugent kicks extra point good,0.000,0.000
+2,,,,CIN 30,10,10,"Mike Nugent kicks off 58 yards, returned by Josh Cribbs for 20 yards (tackle by Reggie Nelson)",0.000,1.070
+2,3:24,1,10,CLE 32,10,10,Peyton Hillis right end for no gain (tackle by Johnathan Joseph and Frostee Rucker),1.070,0.530
+2,2:46,2,10,CLE 32,10,10,Seneca Wallace pass incomplete short right intended for Peyton Hillis,0.530,-0.160
+2,2:42,3,10,CLE 32,10,10,"Seneca Wallace pass incomplete short left intended for Chansi Stuckey is intercepted by Leon Hall at CLE-37 and returned for -3 yards. Penalty on Morgan Trent: Low Block, 15 yards",-0.160,-1.930
+2,2:32,1,10,CIN 45,10,10,Cedric Benson left guard for 4 yards (tackle by Eric Barton and Sheldon Brown),1.930,1.920
+2,2:00,2,6,CIN 49,10,10,Carson Palmer pass complete short right to Terrell Owens for 25 yards (tackle by Joe Haden),1.920,3.840
+2,1:52,1,10,CLE 26,10,10,Carson Palmer pass incomplete short right intended for Jermaine Gresham (defended by Joe Haden),3.840,3.300
+2,1:50,2,10,CLE 26,10,10,Carson Palmer pass incomplete short right intended for Chad Johnson,3.300,2.610
+2,1:45,3,10,CLE 26,10,10,Carson Palmer pass incomplete short left intended for Jordan Shipley,2.610,1.740
+2,1:39,4,10,CLE 26,10,10,"Mike Nugent 44 yard field goal no good, blocked by Scott Fujita",1.740,-1.200
+2,1:31,1,10,CLE 34,10,10,Seneca Wallace pass complete short right to Chansi Stuckey for 9 yards (tackle by Nedu Ndukwe),1.200,1.870
+2,1:14,2,1,CLE 43,10,10,Peyton Hillis right guard for no gain (tackle by Geno Atkins and Nedu Ndukwe),1.870,1.160
+2,1:03,3,1,CLE 43,10,10,Seneca Wallace middle for 2 yards (tackle by Michael Johnson),1.160,1.930
+2,0:39,1,10,CLE 45,10,10,Seneca Wallace pass complete short right to Ben Watson for 2 yards (tackle by Adam Jones and Brandon Johnson),1.930,1.650
+2,0:20,2,8,CLE 47,10,10,"Seneca Wallace pass complete deep middle to Ben Watson for 21 yards (tackle by Nedu Ndukwe). Penalty on Nedu Ndukwe: Unnecessary Roughness, 15 yards",1.650,4.440
+2,0:14,1,10,CIN 17,10,10,Seneca Wallace pass complete short middle to Peyton Hillis for 4 yards (tackle by Morgan Trent),4.440,4.500
+2,0:08,,,,10,10,Timeout #3 by Cleveland Browns,0.000,0.000
+2,0:08,,,,10,10,Timeout #1 by Cincinnati Bengals,0.000,4.500
+2,0:08,2,6,CIN 13,10,10,Seneca Wallace pass incomplete short right intended for Josh Cribbs,4.500,3.680
+2,0:04,3,6,CIN 13,10,13,Phil Dawson 31 yard field goal good,3.680,3.000
+Quarter,Time,Down,ToGo,Location,CIN,CLE,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,CIN 30,10,13,"Mike Nugent kicks off 53 yards, returned by Josh Cribbs for 19 yards (tackle by Nedu Ndukwe)",0.000,1.330
+3,14:56,1,10,CLE 36,10,13,Peyton Hillis left tackle for -1 yards (tackle by Chris Crocker),1.330,0.660
+3,14:22,2,11,CLE 35,10,13,Seneca Wallace pass complete short left to Mohamed Massaquoi for 5 yards,0.660,0.630
+3,14:01,3,6,CLE 40,10,13,"Seneca Wallace pass incomplete short middle intended for Evan Moore. Penalty on Dhani Jones: Defensive Pass Interfere, 14 yards (no play)",0.630,2.520
+3,13:58,,,,10,13,Timeout #1 by Cincinnati Bengals,0.000,2.520
+3,13:58,1,10,CIN 46,10,13,Seneca Wallace pass complete short left to Ben Watson for 11 yards (tackle by Dhani Jones),2.520,3.250
+3,13:36,1,10,CIN 35,10,13,Peyton Hillis right guard for 1 yard (tackle by Dhani Jones),3.250,2.840
+3,13:00,2,9,CIN 34,10,13,Seneca Wallace pass complete short right to Ben Watson for 6 yards (tackle by Nedu Ndukwe),2.840,2.940
+3,12:17,,,,10,13,Timeout #1 by Cleveland Browns,0.000,2.940
+3,12:17,3,3,CIN 28,10,13,Seneca Wallace pass complete short right to Chansi Stuckey for 8 yards (tackle by Morgan Trent),2.940,4.240
+3,11:44,1,10,CIN 20,10,13,Peyton Hillis left tackle for 8 yards (tackle by Keith Rivers and Tank Johnson),4.240,5.040
+3,10:58,2,2,CIN 12,10,13,Peyton Hillis left guard for 1 yard (tackle by Rey Maualuga),5.040,4.590
+3,10:21,3,1,CIN 11,10,13,Peyton Hillis right guard for 7 yards (tackle by Keith Rivers and Adam Jones),4.590,6.280
+3,9:42,1,4,CIN 4,10,13,Josh Cribbs right guard for 3 yards (tackle by Pat Sims and Chris Crocker),6.280,5.910
+3,8:58,2,1,CIN 1,10,19,"Peyton Hillis left tackle for 1 yard, touchdown",5.910,7.000
+3,,,,CIN 2,10,20,Phil Dawson kicks extra point good,0.000,0.000
+3,,,,CLE 30,10,20,"Phil Dawson kicks off 60 yards, returned by Bernard Scott for 16 yards (tackle by Titus Brown)",0.000,0.670
+3,8:49,1,10,CIN 26,10,20,Cedric Benson right guard for no gain (tackle by Kenyon Coleman and Eric Wright),0.670,0.130
+3,8:11,2,10,CIN 26,10,20,"Carson Palmer sacked by Scott Fujita for -7 yards. Carson Palmer fumbles (forced by Scott Fujita), recovered by Kenyon Coleman at CIN-13 (tackle by Andre Smith)",0.130,-4.710
+3,8:04,1,10,CIN 13,10,20,Peyton Hillis left tackle for 2 yards (tackle by Nedu Ndukwe and Dhani Jones),4.710,4.390
+3,7:28,2,8,CIN 11,10,20,Seneca Wallace pass incomplete short right intended for Ben Watson (defended by Nedu Ndukwe),4.390,3.450
+3,7:23,3,8,CIN 11,10,20,Seneca Wallace middle for 6 yards (tackle by Chris Crocker),3.450,3.030
+3,6:36,4,2,CIN 5,10,23,Phil Dawson 22 yard field goal good,3.030,3.000
+3,,,,CLE 30,10,23,"Phil Dawson kicks off 56 yards, returned by Bernard Scott for 3 yards (tackle by Mike Adams)",0.000,-0.060
+3,6:27,1,10,CIN 17,10,23,Carson Palmer pass complete short right to Terrell Owens for 18 yards (tackle by Abram Elam),-0.060,1.270
+3,5:54,1,10,CIN 35,10,23,Cedric Benson right tackle for 4 yards (tackle by Matt Roth),1.270,1.260
+3,5:25,2,6,CIN 39,10,23,"Penalty on Shaun Rogers: Neutral Zone Infraction, 5 yards (no play)",1.260,1.940
+3,5:07,2,1,CIN 44,10,23,Carson Palmer pass complete short left to Jordan Shipley for 9 yards (tackle by Eric Wright and Marcus Benard),1.940,2.460
+3,4:37,1,10,CLE 47,10,23,Cedric Benson left tackle for 12 yards (tackle by Marcus Benard),2.460,3.250
+3,4:02,1,10,CLE 35,10,23,Carson Palmer pass incomplete short left intended for Terrell Owens,3.250,2.700
+3,4:02,2,10,CLE 35,10,23,"Penalty on Derreck Robinson: Encroachment, 5 yards (no play)",2.700,3.380
+3,3:57,2,5,CLE 30,10,23,Carson Palmer pass complete deep left to Terrell Owens for 19 yards (tackle by Abram Elam and T.J. Ward),3.380,4.840
+3,3:15,1,10,CLE 11,10,23,Carson Palmer sacked by Matt Roth for -6 yards,4.840,3.330
+3,2:43,2,16,CLE 17,10,23,Cedric Benson left tackle for 2 yards (tackle by Scott Fujita and Derreck Robinson),3.330,2.970
+3,2:00,3,14,CLE 15,10,23,Carson Palmer pass complete short left to Brian Leonard for 8 yards (tackle by Mike Adams and T.J. Ward),2.970,2.980
+3,1:18,4,6,CLE 7,13,23,Mike Nugent 25 yard field goal good,2.980,3.000
+3,,,,CIN 30,13,23,"Mike Nugent kicks off 51 yards, returned by Josh Cribbs for 25 yards (tackle by Nedu Ndukwe)",0.000,1.860
+3,1:09,1,10,CLE 44,13,23,Peyton Hillis right guard for 5 yards (tackle by Keith Rivers),1.860,1.990
+3,0:38,2,5,CLE 49,13,23,Peyton Hillis left tackle for 1 yard (tackle by Chris Crocker),1.990,1.420
+Quarter,Time,Down,ToGo,Location,CIN,CLE,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,4,,13,23,Seneca Wallace pass incomplete short middle intended for Mohamed Massaquoi,1.420,-0.060
+4,14:57,4,4,,13,23,"Reggie Hodges punts 50 yards, touchback",-0.060,-0.280
+4,14:49,1,10,CIN 20,13,23,Carson Palmer pass complete deep middle to Terrell Owens for 27 yards (tackle by T.J. Ward),0.280,2.060
+4,14:07,1,10,CIN 47,13,23,Carson Palmer pass incomplete short right intended for Terrell Owens,2.060,1.520
+4,14:02,2,10,CIN 47,13,23,"Carson Palmer pass incomplete deep middle intended for Jordan Shipley. Penalty on Eric Wright: Defensive Holding, 5 yards (no play)",1.520,2.390
+4,13:57,1,10,CLE 48,13,23,Cedric Benson right guard for 3 yards (tackle by Brian Schaefering),2.390,2.250
+4,13:29,2,7,CLE 45,13,23,Cedric Benson left guard for 4 yards (tackle by Shaun Rogers),2.250,2.080
+4,12:47,3,3,CLE 41,13,23,Carson Palmer pass complete short left to Terrell Owens for 17 yards (tackle by Joe Haden),2.080,3.970
+4,12:23,1,10,CLE 24,13,23,Carson Palmer pass complete short left to Jordan Shipley for 20 yards (tackle by Eric Wright),3.970,6.280
+4,11:38,1,4,CLE 4,13,23,Carson Palmer pass incomplete short right intended for Chad Johnson,6.280,5.340
+4,11:34,2,4,CLE 4,13,23,Cedric Benson left tackle for -3 yards (tackle by Abram Elam),5.340,3.810
+4,10:54,3,7,CLE 7,13,23,"Carson Palmer pass incomplete short middle intended for Jordan Shipley. Penalty on T.J. Ward: Personal Foul, 4 yards (no play)",3.810,6.510
+4,10:50,1,3,CLE 3,19,23,"Carson Palmer pass complete short middle to Brian Leonard for 3 yards, touchdown",6.510,7.000
+4,,,,CLE 2,20,23,Mike Nugent kicks extra point good,0.000,0.000
+4,,,,CIN 30,20,23,"Mike Nugent kicks off 64 yards, returned by Josh Cribbs for 27 yards (tackle by Leon Hall)",0.000,1.140
+4,10:36,1,10,CLE 33,20,23,Seneca Wallace pass incomplete short left intended for Ben Watson,1.140,0.590
+4,10:32,2,10,CLE 33,20,23,Peyton Hillis left end for 2 yards (tackle by Rey Maualuga),0.590,0.170
+4,9:48,,,,20,23,Timeout #2 by Cleveland Browns,0.000,0.170
+4,9:48,3,8,CLE 35,20,23,Seneca Wallace pass incomplete short right intended for Evan Moore,0.170,-1.040
+4,9:43,4,8,CLE 35,20,23,"Reggie Hodges punts 47 yards, returned by Adam Jones for -4 yards (tackle by Joe Haden)",-1.040,0.280
+4,9:34,1,10,CIN 14,20,23,Carson Palmer pass complete short left to Chad Johnson for 14 yards (tackle by Abram Elam),-0.280,0.810
+4,9:12,1,10,CIN 28,20,23,Cedric Benson left tackle for 12 yards (tackle by Chris Gocong),0.810,1.600
+4,8:40,1,10,CIN 40,20,23,"Penalty on Carson Palmer: False Start, 5 yards (no play)",1.600,1.270
+4,8:20,1,15,CIN 35,20,23,Carson Palmer pass complete short right to Andre Caldwell for 4 yards (tackle by Eric Wright),1.270,0.920
+4,7:48,2,11,CIN 39,20,23,Carson Palmer pass complete short right to Terrell Owens for 6 yards (tackle by T.J. Ward),0.920,1.030
+4,7:13,3,5,CIN 45,20,23,Carson Palmer pass complete short right to Terrell Owens for 7 yards (tackle by T.J. Ward),1.030,2.390
+4,6:32,1,10,CLE 48,20,23,Cedric Benson right tackle for 10 yards (tackle by Scott Fujita),2.390,3.050
+4,6:07,1,10,CLE 38,20,23,Carson Palmer pass incomplete deep middle intended for Andre Caldwell,3.050,2.510
+4,6:03,2,10,CLE 38,20,23,Carson Palmer pass complete short middle to Andre Caldwell for 7 yards (tackle by Marcus Benard),2.510,2.740
+4,5:20,3,3,CLE 31,20,23,"Carson Palmer pass incomplete short right intended for Chad Johnson. Penalty on Chad Johnson: Offensive Pass Interfere, 10 yards (no play)",2.740,1.420
+4,5:14,3,13,CLE 41,20,23,Carson Palmer sacked by Matt Roth for -4 yards,1.420,0.270
+4,4:48,4,17,CLE 45,20,23,"Kevin Huber punts 34 yards, fair catch by Josh Cribbs",0.270,0.370
+4,4:41,1,10,CLE 11,20,23,Seneca Wallace pass incomplete short right intended for Chansi Stuckey,-0.370,-0.780
+4,4:36,2,10,CLE 11,20,23,"Peyton Hillis left guard for 1 yard (tackle by Keith Rivers). Penalty on Pat Sims: Defensive Holding, 5 yards",-0.780,-0.060
+4,4:31,1,10,CLE 17,20,23,Peyton Hillis right guard for 4 yards (tackle by Dhani Jones and Rey Maualuga),-0.060,0.080
+4,3:47,2,6,CLE 21,20,23,Peyton Hillis left tackle for 5 yards (tackle by Nedu Ndukwe),0.080,-0.120
+4,3:07,3,1,CLE 26,20,23,Peyton Hillis right guard for 1 yard (tackle by Nedu Ndukwe),-0.120,0.740
+4,2:49,,,,20,23,Timeout #2 by Cincinnati Bengals,0.000,0.740
+4,2:49,1,10,CLE 27,20,23,Peyton Hillis left guard for 3 yards (tackle by Keith Rivers and Robert Geathers),0.740,0.600
+4,2:46,,,,20,23,Timeout #3 by Cincinnati Bengals,0.000,0.600
+4,2:46,2,7,CLE 30,20,23,Peyton Hillis right tackle for 24 yards (tackle by Chris Crocker),0.600,2.520
+4,2:00,1,10,CIN 46,20,23,Seneca Wallace kneels for -1 yards,2.520,1.840
+4,1:19,2,11,CIN 47,20,23,Seneca Wallace kneels for -1 yards,1.840,1.030
+4,0:38,3,12,CIN 48,20,23,Seneca Wallace kneels for -1 yards,1.030,0.000
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

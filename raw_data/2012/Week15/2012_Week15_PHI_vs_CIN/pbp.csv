@@ -1,0 +1,192 @@
+Quarter,Time,Down,ToGo,Location,CIN,PHI,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Eagles won the coin toss, Eagles to receive the opening kickoff.",,
+1,15:00,,,CIN 35,0,0,"Josh Brown kicks off 68 yards, returned by Brandon Boykin for 22 yards (tackle by Pacman Jones)",0.000,0.150
+1,14:53,1,10,PHI 19,0,0,Nick Foles pass complete short left to Riley Cooper for 9 yards (tackle by Pacman Jones),0.150,0.880
+1,14:21,2,1,PHI 28,0,0,"Nick Foles pass complete short right to Jeremy Maclin for 6 yards (tackle by Carlos Dunlap). Jeremy Maclin fumbles (forced by Carlos Dunlap), recovered by Domata Peko at PHI-44 (tackle by Riley Cooper). Penalty on Jake Scott: Illegal Block Above the Waist (Declined)",0.880,-2.650
+1,14:11,1,10,PHI 44,0,0,BenJarvus Green-Ellis right end for 29 yards (tackle by Colt Anderson),2.650,4.580
+1,13:30,1,10,PHI 15,0,0,Andy Dalton pass complete short right to A.J. Green for 8 yards (tackle by Jamar Chaney),4.580,5.410
+1,13:01,2,2,PHI 7,0,0,BenJarvus Green-Ellis up the middle for 5 yards (tackle by DeMeco Ryans),5.410,6.740
+1,12:14,1,2,PHI 2,0,0,BenJarvus Green-Ellis up the middle for no gain (tackle by Colt Anderson),6.740,5.720
+1,11:48,2,2,PHI 2,0,0,BenJarvus Green-Ellis right guard for 1 yard (tackle by Jamar Chaney),5.720,5.170
+1,11:13,3,1,PHI 1,6,0,"BenJarvus Green-Ellis up the middle for 1 yard, touchdown",5.170,7.000
+1,11:13,,,PHI 2,7,0,Josh Brown kicks extra point good,0.000,0.000
+1,11:10,,,CIN 35,7,0,"Josh Brown kicks off 70 yards, returned by Brandon Boykin for 30 yards (tackle by Ryan Whalen)",0.000,0.610
+1,11:04,1,10,PHI 25,7,0,Bryce Brown up the middle for 3 yards (tackle by Robert Geathers),0.610,0.470
+1,10:31,2,7,PHI 28,7,0,Nick Foles pass complete short left to Jeremy Maclin for 4 yards,0.470,0.300
+1,10:05,3,3,PHI 32,7,0,Nick Foles pass incomplete deep left intended for Clay Harbor,0.300,-1.240
+1,9:59,4,3,PHI 32,7,0,(tackle by Marvin McNutt),-1.240,-4.840
+1,9:50,1,10,PHI 11,7,0,BenJarvus Green-Ellis left tackle for 4 yards (tackle by Jamar Chaney),4.840,4.890
+1,9:13,2,6,PHI 7,7,0,Andy Dalton sacked by Brandon Graham for -5 yards,4.890,3.110
+1,8:36,3,11,PHI 12,7,0,Andy Dalton pass complete short right to Jermaine Gresham for 6 yards (tackle by Mychal Kendricks and Nate Allen),3.110,2.990
+1,7:55,4,5,PHI 6,10,0,Josh Brown 24 yard field goal good,2.990,3.000
+1,7:51,,,CIN 35,10,0,"Josh Brown kicks off 60 yards, returned by Brandon Boykin for 16 yards (tackle by Nate Clements)",0.000,0.340
+1,7:44,1,10,PHI 21,10,0,Bryce Brown for 3 yards (tackle by Wallace Gilberry),0.340,0.210
+1,7:15,2,7,PHI 24,10,0,Bryce Brown left end for 2 yards (tackle by Manny Lawson),0.210,-0.230
+1,6:34,3,5,PHI 26,10,0,Nick Foles pass complete deep left to Jason Avant for 25 yards (tackle by Leon Hall). Penalty on Michael Johnson: Defensive Offside (Declined),-0.230,2.320
+1,6:12,1,10,CIN 49,10,0,Bryce Brown left end for 4 yards (tackle by Robert Geathers),2.320,2.320
+1,5:38,2,6,CIN 45,10,0,Nick Foles pass incomplete,2.320,1.620
+1,5:31,3,6,CIN 45,10,0,Nick Foles pass incomplete short left intended for Riley Cooper (defended by Pacman Jones),1.620,0.270
+1,5:26,4,6,CIN 45,10,0,"Mat McBriar punts 32 yards, fair catch by Brandon Tate",0.270,0.320
+1,5:18,1,10,CIN 13,10,0,Andy Dalton pass complete short right to A.J. Green for 8 yards,-0.320,0.350
+1,4:47,2,2,CIN 21,10,0,BenJarvus Green-Ellis right end for 5 yards (tackle by DeMeco Ryans),0.350,0.670
+1,4:06,1,10,CIN 26,10,0,Andy Dalton pass incomplete deep right intended for Marvin Jones,0.670,0.130
+1,3:59,2,10,CIN 26,10,0,Andy Dalton pass complete short left to Jermaine Gresham for 19 yards (tackle by Nate Allen),0.130,1.930
+1,3:24,1,10,CIN 45,10,0,BenJarvus Green-Ellis left guard for 1 yard (tackle by Colt Anderson),1.930,1.520
+1,2:57,2,9,CIN 46,10,0,"Penalty on Brandon Graham: Neutral Zone Infraction, 5 yards (no play)",1.520,2.190
+1,2:39,2,4,PHI 49,10,0,Marvin Jones right end for 10 yards (tackle by Colt Anderson and DeMeco Ryans),2.190,2.980
+1,1:55,1,10,PHI 39,10,0,Andy Dalton pass incomplete deep left intended for A.J. Green (defended by Colt Anderson),2.980,2.440
+1,1:46,2,10,PHI 39,10,0,Andy Dalton pass incomplete short left intended for Marvin Jones,2.440,1.750
+1,1:39,3,10,PHI 39,10,0,Andy Dalton pass incomplete short left intended for Marvin Jones (defended by DeMeco Ryans),1.750,0.660
+1,1:34,4,10,PHI 39,10,0,"Kevin Huber punts 39 yards, touchback",0.660,-0.280
+1,1:25,1,10,PHI 20,10,0,Nick Foles pass incomplete deep left intended for Riley Cooper,0.280,-0.270
+1,1:20,2,10,PHI 20,10,0,Bryce Brown left end for 1 yard (tackle by Manny Lawson),-0.270,-0.820
+1,0:51,3,9,PHI 21,10,0,Nick Foles pass complete short left to Jason Avant for 16 yards. Penalty on Carlos Dunlap: Defensive Offside (Declined),-0.820,1.400
+1,0:27,1,10,PHI 37,10,0,Nick Foles pass incomplete deep left intended for Jeremy Maclin,1.400,0.860
+1,0:21,2,10,PHI 37,10,0,Bryce Brown right end for -1 yards (tackle by Carlos Dunlap),0.860,0.040
+Quarter,Time,Down,ToGo,Location,CIN,PHI,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,11,PHI 36,10,0,Nick Foles pass complete short left to Riley Cooper for no gain,0.040,-0.980
+2,14:29,4,11,PHI 36,10,0,"Mat McBriar punts 44 yards, returned by Pacman Jones for 17 yards (tackle by Curtis Marsh)",-0.980,-1.400
+2,14:15,1,10,CIN 37,10,0,BenJarvus Green-Ellis left tackle for 4 yards (tackle by DeMeco Ryans and Brandon Graham),1.400,1.400
+2,13:38,2,6,CIN 41,10,0,Andy Dalton pass incomplete short right intended for Jermaine Gresham,1.400,0.700
+2,13:34,3,6,CIN 41,10,0,Andy Dalton pass incomplete short right intended for Marvin Jones (defended by Nnamdi Asomugha),0.700,-0.650
+2,13:27,4,6,CIN 41,10,0,Kevin Huber punts 23 yards,-0.650,-1.330
+2,13:18,1,10,PHI 36,10,0,Bryce Brown up the middle for 2 yards (tackle by Rey Maualuga),1.330,1.060
+2,12:43,2,8,PHI 38,10,0,"Nick Foles pass incomplete (defended by Manny Lawson). Penalty on Manny Lawson: Defensive Offside, 5 yards (no play)",1.060,1.740
+2,12:39,2,3,PHI 43,10,0,Nick Foles pass complete deep right to Jeremy Maclin for 46 yards (tackle by Chris Crocker),1.740,4.840
+2,11:50,1,10,CIN 11,10,0,Nick Foles pass incomplete short right intended for Jeremy Maclin,4.840,4.140
+2,11:46,2,10,CIN 11,10,6,"Nick Foles pass complete short middle to Riley Cooper for 11 yards, touchdown",4.140,7.000
+2,11:46,,,CIN 2,10,7,Alex Henery kicks extra point good,0.000,0.000
+2,,,,PHI 35,,,"Alex Henery kicks off 63 yards, returned by Brandon Tate for 33 yards",,
+2,11:31,1,10,CIN 35,10,7,BenJarvus Green-Ellis left tackle for -1 yards (tackle by Cedric Thornton),1.270,0.590
+2,10:58,2,11,CIN 34,10,7,Andy Dalton pass complete short middle to Brian Leonard for 7 yards (tackle by Trent Cole),0.590,0.830
+2,10:18,3,4,CIN 41,10,7,"Penalty on Marvin Jones: False Start, 5 yards (no play)",0.830,0.170
+2,9:50,3,9,CIN 36,10,7,"Andy Dalton sacked by Brandon Graham for -9 yards. Andy Dalton fumbles (forced by Brandon Graham), recovered by Trent Cole at CIN-29 (tackle by Andrew Whitworth)",0.170,-3.640
+,,,,,,,"Replay Assistant challenged the fumble ruling, and the play was upheld.",,
+2,9:41,1,10,CIN 29,10,7,Nick Foles pass complete short right to Bryce Brown for 11 yards (tackle by Domata Peko),3.640,0.000
+2,9:19,,,,10,7,Timeout #1 by Philadelphia Eagles,0.000,4.370
+2,9:18,1,10,CIN 18,10,7,Bryce Brown left end for -2 yards (tackle by Emmanuel Lamur),4.370,3.560
+2,8:51,2,12,CIN 20,10,7,"Nick Foles for 5 yards. Penalty on Vontaze Burfict: Defensive Holding, 5 yards",3.560,4.910
+2,8:25,1,10,CIN 10,10,7,"Dion Lewis right guard for 3 yards (tackle by Vontaze Burfict). Penalty on Pacman Jones: Unnecessary Roughness, 4 yards",4.910,0.000
+2,7:53,,,,10,7,Timeout #1 by Cincinnati Bengals,0.000,6.510
+2,7:53,1,3,CIN 3,10,7,Nick Foles pass incomplete short right intended for Bryce Brown,6.510,5.530
+2,7:48,2,3,CIN 3,10,7,Nick Foles pass incomplete short right intended for Clay Harbor,5.530,4.720
+2,7:45,3,3,CIN 3,10,7,Nick Foles pass incomplete short left intended for Clay Harbor,4.720,3.040
+2,7:40,4,3,CIN 3,10,10,Alex Henery 22 yard field goal good,3.040,3.000
+2,7:37,,,PHI 35,10,10,"Alex Henery kicks off 60 yards, returned by Brandon Tate for 15 yards (tackle by Brandon Boykin)",0.000,0.280
+2,7:30,1,10,CIN 20,10,10,"BenJarvus Green-Ellis for 3 yards (tackle by Dominique Rodgers-Cromartie). Penalty on Jermaine Gresham: Offensive Holding, 10 yards (no play)",0.280,-0.760
+2,7:06,1,20,CIN 10,10,10,Andy Dalton pass complete short right to A.J. Green for 13 yards (tackle by Mychal Kendricks),-0.760,0.140
+2,6:36,2,7,CIN 23,10,10,Andy Dalton pass incomplete short left intended for A.J. Green,0.140,-0.560
+2,6:32,3,7,CIN 23,10,10,Andy Dalton sacked by Trent Cole for -9 yards,-0.560,-2.470
+2,6:00,4,16,CIN 14,10,10,"Kevin Huber punts 41 yards, fair catch by Damaris Johnson",-2.470,-1.930
+2,5:51,1,10,PHI 45,10,10,"Nick Foles pass incomplete. Penalty on Nick Foles: Intentional Grounding, 10 yards",1.930,0.030
+2,5:45,2,20,PHI 35,10,10,Bryce Brown right end for 3 yards (tackle by Emmanuel Lamur),0.030,-0.230
+2,5:05,3,17,PHI 38,10,10,Nick Foles pass complete short middle to Stanley Havili for 8 yards (tackle by Terence Newman),-0.230,-0.320
+2,4:28,4,9,PHI 46,10,10,"Mat McBriar punts 53 yards, returned by Brandon Tate for 9 yards (tackle by Casey Matthews)",-0.320,0.380
+2,4:18,1,10,CIN 10,10,10,Andy Dalton pass complete short left to A.J. Green for 12 yards (tackle by Dominique Rodgers-Cromartie),-0.380,0.410
+2,3:44,1,10,CIN 22,10,10,BenJarvus Green-Ellis up the middle for 6 yards (tackle by DeMeco Ryans),0.410,0.680
+2,3:00,2,4,CIN 28,10,10,Andy Dalton pass complete short right to Jermaine Gresham for 3 yards (tackle by Colt Anderson),0.680,0.370
+2,2:40,3,1,CIN 31,10,10,Andy Dalton up the middle for 1 yard (tackle by DeMeco Ryans),0.370,1.070
+2,2:08,1,10,CIN 32,10,10,"Andy Dalton left end for 9 yards (tackle by DeMeco Ryans). Penalty on Andre Smith: Offensive Holding, 10 yards (no play)",1.070,0.410
+2,2:00,1,20,CIN 22,10,10,"Andy Dalton sacked by Cullen Jenkins for -8 yards. Andy Dalton fumbles (forced by Cullen Jenkins), recovered by Darryl Tapp at CIN-16 and returned for 4 yards (tackle by Andre Smith)",0.410,-4.780
+,,,,,,,"Replay Assistant challenged the fumble ruling, and the play was upheld.",,
+2,1:52,1,10,CIN 12,10,10,Nick Foles pass complete short right to Jason Avant for 3 yards (tackle by Carlos Dunlap),4.780,4.640
+2,1:17,2,7,CIN 9,10,10,Bryce Brown left tackle for 6 yards (tackle by Chris Crocker),4.640,5.060
+2,0:42,3,1,CIN 3,10,10,Bryce Brown left tackle for 1 yard (tackle by Chris Crocker),5.060,0.000
+2,0:39,,,,10,10,Timeout #2 by Philadelphia Eagles,0.000,6.740
+2,0:39,1,2,CIN 2,10,10,"Penalty on Dallas Reynolds: False Start, 5 yards (no play)",6.740,5.600
+2,0:28,1,7,CIN 7,10,10,Nick Foles pass complete short right to Clay Harbor for 6 yards (tackle by Terence Newman),5.600,0.000
+2,0:28,,,,10,10,Timeout #3 by Philadelphia Eagles,0.000,5.910
+2,0:28,2,1,CIN 1,10,10,Nick Foles pass incomplete short right intended for Matt Tennant (defended by Rey Maualuga),5.910,5.170
+2,0:23,3,1,CIN 1,10,10,Nick Foles pass incomplete short right intended for Jeremy Maclin,5.170,3.550
+2,0:20,4,1,CIN 1,10,13,Alex Henery 20 yard field goal good,3.550,3.000
+2,0:17,,,PHI 35,10,13,"Alex Henery kicks off 53 yards, returned by Orson Charles for 7 yards (tackle by David Sims)",0.000,0.150
+2,0:13,1,10,CIN 19,10,13,Andy Dalton kneels for -1 yards,0.150,-0.560
+Quarter,Time,Down,ToGo,Location,CIN,PHI,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PHI 35,10,13,"Alex Henery kicks off 56 yards, returned by Brandon Tate for 14 yards (tackle by Brandon Hughes)",0.000,0.480
+3,14:55,1,10,CIN 23,10,13,BenJarvus Green-Ellis left end for 2 yards (tackle by Trent Cole),0.480,0.200
+3,14:15,2,8,CIN 25,10,13,Andy Dalton left end for 2 yards (tackle by Brandon Graham),0.200,-0.230
+3,13:33,3,6,CIN 27,10,13,Andy Dalton pass incomplete deep middle intended for Jermaine Gresham (defended by Mychal Kendricks),-0.230,-1.570
+3,13:27,4,6,CIN 27,10,13,"Kevin Huber punts 42 yards, fair catch by Damaris Johnson",-1.570,-1.000
+3,13:20,1,10,PHI 31,10,13,Bryce Brown right end for -1 yards (tackle by Vontaze Burfict),1.000,0.320
+3,12:42,2,11,PHI 30,10,13,"Penalty on Carlos Dunlap: Unnecessary Roughness, 15 yards, Penalty on CIN: Neutral Zone Infraction (Declined) (no play)",0.320,1.930
+3,12:19,1,10,PHI 45,10,13,"Penalty on Jake Scott: Offensive Holding, 10 yards (no play)",1.930,1.270
+3,11:49,1,20,PHI 35,10,13,Bryce Brown right tackle for 6 yards (tackle by Rey Maualuga),1.270,0.840
+3,11:10,2,14,PHI 41,10,13,Nick Foles pass complete short right to Jeremy Maclin for 17 yards (tackle by Vontaze Burfict),0.840,2.790
+3,10:25,1,10,CIN 42,10,13,Bryce Brown left end for 8 yards (tackle by Chris Crocker),2.790,3.320
+3,9:46,2,2,CIN 34,10,13,"Dion Lewis up the middle for 8 yards (tackle by Chris Crocker). Penalty on Emil Igwenagu: Offensive Holding, 10 yards (no play)",3.320,1.970
+3,9:17,2,12,CIN 44,10,13,Nick Foles pass complete short left to Dion Lewis for -4 yards (tackle by Vontaze Burfict),1.970,0.000
+3,8:29,,,,10,13,Timeout #1 by Philadelphia Eagles,0.000,0.760
+3,8:29,3,16,CIN 48,10,13,"Penalty on Jason Avant: False Start, 5 yards (no play)",0.760,0.100
+3,8:29,3,21,PHI 47,10,13,Bryce Brown left end for -2 yards (tackle by Vontaze Burfict),0.100,-0.390
+3,7:57,4,23,PHI 45,10,13,"Mat McBriar punts 40 yards, fair catch by Brandon Tate",-0.390,0.220
+3,7:49,1,10,CIN 15,10,13,BenJarvus Green-Ellis up the middle for 3 yards (tackle by Trent Cole),-0.220,-0.280
+3,7:13,2,7,CIN 18,10,13,Andy Dalton sacked by Fletcher Cox for -7 yards,-0.280,-1.890
+3,6:39,3,14,CIN 11,10,13,Andy Dalton sacked by Fletcher Cox and Brandon Graham for -1 yards,-1.890,-2.490
+3,6:09,4,15,CIN 10,10,13,"Kevin Huber punts 49 yards, returned by Damaris Johnson for 6 yards (tackle by Jeromy Miles)",-2.490,-2.060
+3,5:58,1,10,PHI 47,10,13,Nick Foles pass incomplete deep left intended for Jeremy Maclin is intercepted by Leon Hall at CIN-16 and returned for 44 yards (tackle by Nick Foles),2.060,-2.920
+3,5:44,1,10,PHI 40,10,13,"Andy Dalton pass incomplete short right intended for Jermaine Gresham. Penalty on Dennis Roland: Offensive Holding, 10 yards (no play)",2.920,2.260
+3,5:37,1,20,,10,13,BenJarvus Green-Ellis left tackle for 16 yards (tackle by Nate Allen),2.260,3.180
+3,5:11,2,4,PHI 34,10,13,BenJarvus Green-Ellis right guard for 4 yards (tackle by Cedric Thornton),3.180,3.580
+3,4:30,1,10,PHI 30,10,13,BenJarvus Green-Ellis left end for 1 yard (tackle by Fletcher Cox),3.580,3.170
+3,3:51,2,9,PHI 29,10,13,Andy Dalton pass incomplete short left intended for Brian Leonard,3.170,2.480
+3,3:46,3,9,PHI 29,10,13,Andy Dalton pass complete short right to A.J. Green for 11 yards (tackle by Dominique Rodgers-Cromartie),2.480,4.370
+3,3:11,1,10,PHI 18,10,13,BenJarvus Green-Ellis right guard for 4 yards (tackle by Trent Cole),4.370,4.430
+3,2:31,2,6,PHI 14,10,13,Andy Dalton for 8 yards,4.430,5.830
+3,1:45,1,6,PHI 6,10,13,"Penalty on Andy Dalton: Delay of Game, 5 yards (no play)",5.830,4.770
+3,1:16,1,11,PHI 11,16,13,"Andy Dalton up the middle for 11 yards, touchdown",4.770,7.000
+3,1:16,,,PHI 2,17,13,Josh Brown kicks extra point good,0.000,0.000
+3,1:10,,,CIN 35,17,13,"Josh Brown kicks off 67 yards, returned by Brandon Boykin for 25 yards (tackle by Pacman Jones)",0.000,0.480
+3,1:05,1,10,PHI 23,17,13,Nick Foles pass complete short middle to Clay Harbor for 8 yards (tackle by Vontaze Burfict),0.480,1.010
+3,0:30,2,2,PHI 31,23,13,"Nick Foles for no gain. Nick Foles fumbles, recovered by Wallace Gilberry at PHI-25 and returned for 25 yards, touchdown",1.010,-7.000
+3,,,,PHI 2,24,13,,0.000,0.000
+3,0:21,,,CIN 35,24,13,"Josh Brown kicks off 68 yards, returned by Brandon Boykin for 21 yards (tackle by Dan Herron). Penalty on Casey Matthews: Offensive Holding, 9 yards",0.000,-0.380
+3,0:21,1,10,PHI 9,24,13,"Nick Foles pass complete to Clay Harbor for 16 yards. Clay Harbor fumbles, recovered by Chris Crocker at PHI-25 and returned for 12 yards (tackle by Riley Cooper)",-0.380,-4.710
+3,0:05,1,10,PHI 13,24,13,"BenJarvus Green-Ellis for no gain. Penalty on Kevin Zeitler: Offensive Holding, 10 yards (no play)",4.710,4.040
+Quarter,Time,Down,ToGo,Location,CIN,PHI,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,20,PHI 23,24,13,Andy Dalton pass incomplete (defended by Trent Cole),4.040,2.810
+4,14:54,2,20,PHI 23,24,13,Andrew Hawkins for 9 yards (tackle by DeMeco Ryans),2.810,3.080
+4,14:22,3,11,PHI 14,24,13,Andy Dalton pass incomplete short right intended for A.J. Green (defended by Dominique Rodgers-Cromartie),3.080,2.510
+4,14:16,4,11,PHI 14,27,13,Josh Brown 32 yard field goal good,2.510,3.000
+4,14:12,,,CIN 35,27,13,"Josh Brown kicks off 39 yards, muffed catch by Cedric Thornton, recovered by Taylor Mays and returned for no gain",0.000,3.380
+4,14:05,1,10,PHI 33,27,13,Andy Dalton pass incomplete intended for Andrew Hawkins,3.380,2.840
+4,14:05,2,10,PHI 33,27,13,BenJarvus Green-Ellis left tackle for 7 yards (tackle by DeMeco Ryans),2.840,3.070
+4,13:34,3,3,PHI 26,27,13,Andy Dalton pass incomplete short left intended for A.J. Green,3.070,1.840
+4,13:30,4,3,PHI 26,27,13,"Penalty on PHI: Unsportsmanlike Conduct, 13 yards (no play)",1.840,4.710
+4,13:30,1,10,PHI 13,27,13,BenJarvus Green-Ellis right end for 8 yards (tackle by DeMeco Ryans and Jamar Chaney),4.710,5.540
+4,12:50,2,2,PHI 5,33,13,"Andy Dalton pass complete short right to A.J. Green for 5 yards, touchdown",5.540,7.000
+4,12:50,,,PHI 2,34,13,Josh Brown kicks extra point good,0.000,0.000
+4,12:47,,,CIN 35,34,13,"Josh Brown kicks off 63 yards, returned by Brandon Boykin for 16 yards. Penalty on Jamar Chaney: Offensive Holding, 9 yards",0.000,-0.380
+4,12:12,1,10,PHI 9,34,13,Nick Foles sacked by Wallace Gilberry for -3 yards,-0.380,-1.000
+4,11:48,2,13,PHI 6,34,13,Bryce Brown left tackle for 1 yard (tackle by Terence Newman),-1.000,-1.650
+4,11:48,3,12,PHI 7,34,13,Nick Foles pass incomplete deep right intended for Jeremy Maclin (defended by Terence Newman),-1.650,-2.490
+4,11:35,4,12,PHI 7,34,13,"Mat McBriar punts 47 yards, returned by Pacman Jones for 8 yards (tackle by Casey Matthews)",-2.490,-2.520
+4,11:32,1,10,PHI 46,34,13,BenJarvus Green-Ellis left tackle for -2 yards (tackle by Cedric Thornton),2.520,1.710
+4,10:48,2,12,PHI 48,34,13,BenJarvus Green-Ellis left end for no gain (tackle by Vinny Curry),1.710,1.030
+4,10:06,3,12,PHI 48,34,13,Andy Dalton pass complete short right to Jermaine Gresham for 14 yards (tackle by Cullen Jenkins),1.030,3.310
+4,9:18,1,10,PHI 34,34,13,BenJarvus Green-Ellis right guard for 2 yards (tackle by Cedric Thornton),3.310,3.040
+4,8:36,2,8,PHI 32,34,13,BenJarvus Green-Ellis up the middle for 3 yards (tackle by Phillip Hunt),3.040,2.740
+4,7:55,3,5,PHI 29,34,13,Brian Leonard left guard for 7 yards (tackle by Nate Allen),2.740,4.110
+4,7:07,1,10,PHI 22,34,13,BenJarvus Green-Ellis right tackle for 1 yard (tackle by Brandon Graham),4.110,3.700
+4,6:26,2,9,PHI 21,34,13,Andy Dalton pass complete short right to Jermaine Gresham for 8 yards (tackle by Nate Allen),3.700,4.390
+4,5:51,3,1,PHI 13,34,13,BenJarvus Green-Ellis up the middle for 2 yards (tackle by Fletcher Cox),4.390,4.840
+4,5:05,1,10,PHI 11,34,13,Brian Leonard right end for -1 yards (tackle by Mychal Kendricks),4.840,0.000
+4,5:01,,,,34,13,Timeout #2 by Philadelphia Eagles,0.000,3.980
+4,5:01,2,11,PHI 12,34,13,Brandon Tate right end for no gain (tackle by Jamar Chaney),3.980,0.000
+4,4:54,,,,34,13,Timeout #3 by Philadelphia Eagles,0.000,3.110
+4,4:54,3,11,PHI 12,34,13,Dan Herron right end for 6 yards (tackle by Jamar Chaney),3.110,2.990
+4,4:07,4,5,PHI 6,34,13,Andy Dalton pass incomplete short right intended for Jermaine Gresham (defended by Nate Allen),2.990,0.380
+4,4:03,1,10,PHI 6,34,13,Nick Foles pass incomplete short left intended for Riley Cooper,-0.380,-0.780
+4,3:59,2,10,PHI 6,34,13,Nick Foles pass incomplete deep left intended for Riley Cooper,-0.780,-1.420
+4,3:50,3,10,PHI 6,34,13,Nick Foles pass incomplete deep middle intended for Jason Avant,-1.420,-2.490
+4,3:44,4,10,PHI 6,34,13,"Mat McBriar punts 42 yards. Penalty on Emmanuel Lamur: Illegal Blindside Block, 15 yards, Penalty on Dan Herron: Illegal Blindside Block (Declined)",-2.490,-1.930
+4,3:30,1,10,CIN 45,34,13,Dan Herron right tackle for 2 yards (tackle by Mychal Kendricks),1.930,1.650
+4,2:51,2,8,CIN 47,34,13,Dan Herron right end for no gain (tackle by Jamar Chaney),1.650,0.960
+4,2:07,3,8,CIN 47,34,13,Andy Dalton pass complete short right to Jermaine Gresham for 13 yards (tackle by Jamar Chaney),0.960,2.920
+4,1:59,1,10,PHI 40,34,13,Andy Dalton kneels for -1 yards,2.920,2.240
+4,1:19,2,11,PHI 41,34,13,Andy Dalton kneels for -1 yards,2.240,1.420
+4,0:38,3,12,PHI 42,34,13,Andy Dalton kneels for -1 yards,1.420,0.400
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

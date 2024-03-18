@@ -1,0 +1,181 @@
+Quarter,Time,Down,ToGo,Location,CAR,LAR,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Panthers won the coin toss and deferred, Rams to receive the opening kickoff.",,
+1,15:00,,,CAR 35,0,0,"Graham Gano kicks off 65 yards, touchback",0.000,-0.610
+1,15:00,1,10,LAR 25,0,0,Case Keenum pass complete short right to Lance Kendricks for 15 yards (tackle by James Bradberry),0.610,1.600
+1,14:33,1,10,LAR 40,0,0,Todd Gurley right guard for 2 yards (tackle by Thomas Davis),1.600,1.320
+1,13:57,2,8,LAR 42,0,0,Todd Gurley left guard for no gain (tackle by Kawann Short),1.320,0.630
+1,13:21,3,8,LAR 42,0,0,Case Keenum pass complete short middle to Kenny Britt for 15 yards (tackle by Tre Boston),0.630,2.720
+1,12:43,1,10,CAR 43,0,0,Benny Cunningham middle for 4 yards (tackle by Michael Griffin),2.720,2.720
+1,12:05,2,6,CAR 39,0,0,Todd Gurley left end for 2 yards (tackle by Tre Boston),2.720,2.280
+1,11:28,3,4,CAR 37,0,0,Case Keenum pass incomplete short middle intended for Lance Kendricks (defended by Kawann Short),2.280,0.790
+1,11:22,4,4,CAR 37,0,0,Greg Zuerlein 55 yard field goal no good,0.790,-1.930
+1,11:16,1,10,CAR 45,0,0,Cam Newton pass incomplete short right intended for Devin Funchess (defended by Josh Forrest),1.930,1.380
+1,11:12,2,10,CAR 45,0,0,Cam Newton pass complete short left to Greg Olsen for 7 yards (tackle by Alec Ogletree),1.380,1.620
+1,10:36,3,3,LAR 48,0,0,Cam Newton sacked by Cam Thomas for -5 yards,1.620,-0.260
+1,9:59,4,8,CAR 47,0,0,"Andy Lee punts 52 yards, returned by Tavon Austin for 2 yards (tackle by Corey Brown)",-0.260,0.380
+1,9:48,1,10,LAR 3,0,0,Todd Gurley middle for 2 yards (tackle by Kawann Short),-0.380,-0.630
+1,9:13,2,8,LAR 5,0,0,Case Keenum pass incomplete short right intended for Lance Kendricks (defended by Charles Johnson),-0.630,-1.190
+1,9:09,3,8,LAR 5,0,0,Case Keenum pass incomplete short left intended for Benny Cunningham (defended by Mario Addison),-1.190,-2.490
+1,9:03,4,8,LAR 5,0,0,Johnny Hekker punts 48 yards,-2.490,-2.060
+1,8:51,1,10,CAR 47,0,0,Jonathan Stewart right guard for 4 yards (tackle by Alec Ogletree and Dominique Easley),2.060,2.060
+1,8:06,2,6,LAR 49,0,0,Cam Newton pass complete short right to Ted Ginn for 12 yards (tackle by Trumaine Johnson),2.060,3.120
+1,7:24,1,10,LAR 37,0,0,Cam Newton pass complete short middle to Ed Dickson for 11 yards (tackle by Lamarcus Joyner),3.120,3.840
+1,6:43,1,10,LAR 26,0,0,Jonathan Stewart middle for no gain (tackle by Dominique Easley),3.840,3.300
+1,6:08,2,10,LAR 26,0,0,Cam Newton pass complete short right to Kelvin Benjamin for 6 yards (tackle by Trumaine Johnson),3.300,3.400
+1,5:26,3,4,LAR 20,0,0,Cam Newton middle for 6 yards (tackle by Aaron Donald),3.400,4.650
+1,4:40,1,10,LAR 14,0,0,Cam Newton pass incomplete short middle intended for Devin Funchess (defended by E.J. Gaines),4.650,4.000
+1,4:34,2,10,LAR 14,0,0,Jonathan Stewart right guard for 5 yards (tackle by William Hayes),4.000,4.050
+1,3:49,3,5,LAR 9,6,0,"Cam Newton pass complete short middle to Greg Olsen for 9 yards, touchdown",4.050,7.000
+1,3:44,,,LAR 15,7,0,Graham Gano kicks extra point good,0.000,0.000
+1,3:44,,,CAR 35,7,0,--,0.000,0.380
+1,3:36,1,10,LAR 9,7,0,Todd Gurley left guard for 5 yards (tackle by Kony Ealy),-0.380,-0.390
+1,3:02,2,5,LAR 14,7,0,Case Keenum pass incomplete short right intended for Tyler Higbee,-0.390,-0.840
+1,2:56,3,5,LAR 14,7,0,Case Keenum sacked by Mario Addison for -2 yards,-0.840,-2.490
+1,2:22,4,7,LAR 12,7,0,Johnny Hekker punts 75 yards,-2.490,0.320
+1,2:07,1,10,CAR 13,7,0,Jonathan Stewart middle for -2 yards (tackle by William Hayes),-0.320,-0.930
+1,1:30,2,12,CAR 11,7,0,Jonathan Stewart left tackle for no gain (tackle by Alec Ogletree),-0.930,-1.650
+1,0:45,3,12,CAR 11,7,0,"Cam Newton pass incomplete deep right intended for Devin Funchess (defended by Lamarcus Joyner). Penalty on Lamarcus Joyner: Defensive Pass Interference, 29 yards (no play)",-1.650,1.600
+1,0:37,1,10,CAR 40,7,0,Cam Newton pass incomplete short right intended for Kelvin Benjamin,1.600,1.050
+1,0:33,2,10,CAR 40,7,0,Jonathan Stewart right guard for -2 yards (tackle by Aaron Donald),1.050,0.100
+Quarter,Time,Down,ToGo,Location,CAR,LAR,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,12,CAR 38,7,0,Cam Newton pass incomplete short left intended for Ted Ginn,0.100,-0.850
+2,14:54,4,12,CAR 38,7,0,"Andy Lee punts 58 yards, returned by Tavon Austin for 14 yards (tackle by Jeremy Cash)",-0.850,-0.040
+2,14:42,1,10,LAR 18,7,0,Case Keenum pass complete deep left to Tyler Higbee for 31 yards (tackle by A.J. Klein),0.040,2.190
+2,13:59,1,10,LAR 49,7,0,Todd Gurley right end for 3 yards (tackle by Michael Griffin),2.190,2.050
+2,13:20,2,7,CAR 48,7,0,Case Keenum pass incomplete short right intended for Lance Kendricks,2.050,1.360
+2,13:14,3,7,CAR 48,7,0,Case Keenum pass incomplete deep right intended for Brian Quick,1.360,0.070
+2,13:01,4,7,CAR 48,7,0,"Johnny Hekker punts 37 yards, fair catch by Ted Ginn. Penalty on Charles Johnson: Offensive Holding, 5 yards",0.070,0.380
+2,12:54,1,10,CAR 6,7,0,Jonathan Stewart middle for no gain (tackle by Mark Barron),-0.380,-0.780
+2,12:11,2,10,CAR 6,7,0,Jonathan Stewart right guard for 5 yards (tackle by Alec Ogletree),-0.780,-0.840
+2,11:24,3,5,CAR 11,7,0,Cam Newton pass incomplete short right intended for Ted Ginn,-0.840,-2.490
+2,11:19,4,5,CAR 11,7,0,"Andy Lee punts 48 yards, returned by Tavon Austin for 5 yards (tackle by Michael Griffin)",-2.490,-1.990
+2,11:06,1,10,LAR 46,7,0,Case Keenum pass complete short left to Benny Cunningham for 6 yards (tackle by Thomas Davis),1.990,2.260
+2,10:23,2,4,CAR 48,7,0,Benny Cunningham left end for 3 yards (tackle by Luke Kuechly),2.260,1.950
+2,9:46,3,1,CAR 45,7,0,Todd Gurley middle for 3 yards (tackle by Leonard Johnson),1.950,2.790
+2,9:10,1,10,CAR 42,7,0,"Case Keenum pass complete short right to Pharoh Cooper for 3 yards. Penalty on Brian Quick: Offensive Holding, 10 yards",2.790,2.320
+2,8:41,1,17,CAR 49,7,0,Todd Gurley middle for 1 yard (tackle by Wes Horton and Thomas Davis),2.320,1.430
+2,8:03,2,16,CAR 48,7,0,Case Keenum pass complete short right to Lance Kendricks for 12 yards (tackle by Thomas Davis),1.430,2.340
+2,7:23,3,4,CAR 36,7,0,"Case Keenum sacked by Thomas Davis for -9 yards. Case Keenum fumbles (forced by Thomas Davis), recovered by Benny Cunningham at CAR-45 and returned for 5 yards",2.340,0.000
+2,6:39,,,,7,0,Timeout #1 by Carolina Panthers,0.000,-0.590
+2,6:39,4,8,CAR 40,7,0,"Johnny Hekker punts 40 yards, touchback. Penalty on Luke Kuechly: Unsportsmanlike Conduct (Offsetting), Penalty on Benny Cunningham: Unsportsmanlike Conduct (Offsetting)",0.590,-0.280
+2,6:34,1,10,CAR 20,7,0,Cam Newton pass incomplete short middle intended for Greg Olsen,0.280,-0.270
+2,6:29,2,10,CAR 20,7,0,Cam Newton sacked by Eugene Sims for -8 yards,-0.270,-2.360
+2,5:43,3,18,CAR 12,7,0,Cam Newton pass complete short middle to Kelvin Benjamin for 16 yards (tackle by Maurice Alexander),-2.360,-1.500
+2,5:06,4,2,CAR 28,7,0,"Andy Lee punts 46 yards, returned by Tavon Austin for 22 yards (tackle by A.J. Klein). Penalty on Chase Reynolds: Illegal Block Above the Waist, 10 yards",-1.500,-1.270
+2,4:48,1,10,LAR 35,7,0,Todd Gurley middle for 18 yards (tackle by Kurt Coleman),1.270,2.460
+2,4:10,1,10,CAR 47,7,0,Case Keenum pass incomplete deep right intended for Tyler Higbee,2.460,1.910
+2,4:02,2,10,CAR 47,7,0,Case Keenum pass incomplete short left intended for Bradley Marquez,1.910,1.220
+2,3:57,3,10,CAR 47,7,0,Case Keenum pass complete short left to Brian Quick for 9 yards (tackle by Leonard Johnson),1.220,0.720
+2,3:15,4,1,CAR 38,7,0,Todd Gurley middle for -1 yards (tackle by A.J. Klein and Luke Kuechly),0.720,-1.530
+2,3:08,1,10,CAR 39,7,0,Cam Newton pass complete deep middle to Greg Olsen for 18 yards (tackle by Trumaine Johnson),1.530,2.720
+2,2:34,1,10,LAR 43,7,0,Jonathan Stewart left end for -2 yards (tackle by Eugene Sims),2.720,1.910
+2,2:00,2,12,LAR 45,7,0,Cam Newton pass complete short middle to Kelvin Benjamin for 24 yards (tackle by E.J. Gaines and Lamarcus Joyner),1.910,4.170
+2,1:28,1,10,LAR 21,7,0,Fozzy Whittaker middle for no gain (tackle by William Hayes),4.170,3.630
+2,0:56,2,10,LAR 21,7,0,"Cam Newton pass incomplete deep middle intended for Kelvin Benjamin. Penalty on Mike Remmers: Offensive Holding, 10 yards (no play)",3.630,2.280
+2,0:47,2,20,LAR 31,7,0,Cam Newton pass incomplete short middle intended for Ed Dickson,2.280,0.000
+2,0:42,,,,7,0,Timeout #2 by Carolina Panthers,0.000,-1.620
+2,0:42,3,20,LAR 31,7,0,Cam Newton pass incomplete short right intended for Greg Olsen,1.620,1.320
+2,0:34,4,20,LAR 31,7,0,Graham Gano 48 yard field goal no good,1.320,-1.530
+2,0:29,1,10,LAR 39,7,0,Case Keenum pass incomplete deep middle intended for Kenny Britt (defended by Daryl Worley),1.530,0.990
+2,0:23,2,10,LAR 39,7,0,Case Keenum pass complete short left to Kenny Britt for 13 yards (tackle by Daryl Worley),0.990,2.390
+2,0:13,1,10,CAR 48,7,0,Case Keenum pass incomplete short left intended for Todd Gurley,2.390,1.850
+2,0:11,2,10,CAR 48,7,0,Case Keenum pass complete short left to Brian Quick for 11 yards (tackle by Thomas Davis and Daryl Worley),1.850,0.000
+2,0:04,,,,7,0,Timeout #1 by Los Angeles Rams,0.000,-3.120
+2,0:04,1,10,CAR 37,7,0,Greg Zuerlein 55 yard field goal no good,3.120,1.860
+Quarter,Time,Down,ToGo,Location,CAR,LAR,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,LAR 35,7,0,"Greg Zuerlein kicks off 63 yards, muffed catch by Joe Webb, recovered by Joe Webb at CAR-4, and returned for 8 yards",0.000,0.350
+3,14:54,1,10,CAR 12,7,0,Cam Newton pass complete short right to Greg Olsen for 11 yards (tackle by Mark Barron),-0.350,0.480
+3,14:22,1,10,CAR 23,7,0,Cam Newton middle for 3 yards (tackle by Eugene Sims),0.480,0.340
+3,13:39,2,7,CAR 26,7,0,Mike Tolbert middle for 2 yards (tackle by Alec Ogletree),0.340,-0.100
+3,12:57,3,5,CAR 28,7,0,Cam Newton pass complete short middle to Devin Funchess for 28 yards (tackle by Lamarcus Joyner),-0.100,2.650
+3,12:15,1,10,LAR 44,7,0,Cam Newton pass incomplete deep left intended for Devin Funchess,2.650,2.110
+3,12:08,2,10,LAR 44,7,0,Cam Newton left guard for 2 yards (tackle by Alec Ogletree),2.110,1.690
+3,11:23,3,8,LAR 42,7,0,Cam Newton pass complete short right to Corey Brown for 11 yards (tackle by Lamarcus Joyner),1.690,3.510
+3,11:02,1,10,LAR 31,7,0,Cam Newton right tackle for 1 yard (tackle by E.J. Gaines),3.510,3.100
+3,10:18,2,9,LAR 30,7,0,Cam Newton pass incomplete short right intended for Devin Funchess,3.100,0.000
+3,10:14,,,,7,0,Timeout #1 by Carolina Panthers,0.000,-2.410
+3,10:14,3,9,LAR 30,7,0,Cam Newton sacked by Aaron Donald for -10 yards,2.410,0.000
+3,9:36,,,,7,0,Timeout #1 by Los Angeles Rams,0.000,-0.590
+3,9:36,4,19,LAR 40,7,0,"Andy Lee punts 40 yards, touchback",0.590,-0.280
+3,9:29,1,10,LAR 20,7,0,Case Keenum pass complete short left to Todd Gurley for 5 yards (tackle by Thomas Davis),0.280,0.410
+3,9:03,2,5,LAR 25,7,0,Malcolm Brown middle for no gain (tackle by Luke Kuechly),0.410,-0.300
+3,8:25,3,5,LAR 25,7,0,Case Keenum sacked by Mario Addison for -6 yards,-0.300,-2.140
+3,7:46,4,11,LAR 19,7,0,"Johnny Hekker punts 43 yards, fair catch by Ted Ginn",-2.140,-1.470
+3,7:37,1,10,CAR 38,7,0,"Cam Newton pass complete short left to Fozzy Whittaker for 1 yard (tackle by Mark Barron). Penalty on Gino Gradkowski: Illegal Block Above the Waist, 10 yards",1.470,0.870
+3,7:16,1,19,CAR 29,7,0,Cam Newton pass complete short right to Ted Ginn for 8 yards (tackle by Alec Ogletree),0.870,0.790
+3,6:40,2,11,CAR 37,7,0,Cam Newton pass complete short middle to Ed Dickson for 6 yards (tackle by Alec Ogletree),0.790,0.890
+3,6:01,3,5,CAR 43,7,0,Cam Newton pass complete short right to Greg Olsen for 7 yards (tackle by T.J. McDonald),0.890,2.260
+3,5:20,1,10,,7,0,Jonathan Stewart right tackle for 1 yard (tackle by Mark Barron),2.260,1.850
+3,4:39,2,9,LAR 49,7,0,Cam Newton sacked by Mark Barron for -8 yards,1.850,0.100
+3,3:54,3,17,CAR 43,7,0,Cam Newton pass complete short left to Ted Ginn for 7 yards (tackle by E.J. Gaines),0.100,-0.060
+3,3:27,4,10,,7,0,"Andy Lee punts 38 yards, fair catch by Tavon Austin",-0.060,0.350
+3,3:19,1,10,LAR 12,7,0,Case Keenum pass complete short right to Todd Gurley for 5 yards,-0.350,-0.230
+3,2:48,2,5,LAR 17,7,0,Case Keenum pass complete short left to Lance Kendricks for 8 yards (tackle by Kurt Coleman),-0.230,0.610
+3,2:22,1,10,LAR 25,7,0,Todd Gurley right tackle for 3 yards (tackle by Luke Kuechly and Kony Ealy),0.610,0.470
+3,1:48,2,7,LAR 28,7,0,"Case Keenum pass complete short left to Todd Gurley for 5 yards (tackle by Kurt Coleman). Penalty on Kenny Britt: Offensive Holding, 10 yards",0.470,-0.210
+3,1:17,2,12,LAR 23,7,0,Case Keenum pass complete short right to Tavon Austin for 17 yards,-0.210,1.600
+3,0:46,1,10,LAR 40,7,0,Benny Cunningham middle for 3 yards (tackle by Thomas Davis),1.600,1.460
+3,0:13,2,7,LAR 43,7,0,Case Keenum pass incomplete short left intended for Tyler Higbee is intercepted by Thomas Davis at CAR-45,1.460,-1.930
+3,0:05,1,10,CAR 45,7,0,"Penalty on Cam Thomas: Encroachment, 5 yards (no play)",1.930,2.660
+3,0:05,1,5,,7,0,Cam Newton pass incomplete short middle intended for Corey Brown,2.660,2.060
+3,0:01,2,5,,7,0,Cam Newton pass complete short right to Ted Ginn for 4 yards (tackle by Mark Barron),2.060,1.880
+Quarter,Time,Down,ToGo,Location,CAR,LAR,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,1,LAR 46,7,0,Cam Newton middle for 1 yard,1.880,2.590
+4,14:30,1,10,LAR 45,7,0,Cam Newton pass complete short left to Ted Ginn for 9 yards (tackle by E.J. Gaines),2.590,3.260
+4,13:53,2,1,LAR 36,7,0,Jonathan Stewart middle for 17 yards (tackle by Alec Ogletree and Trumaine Johnson),3.260,4.310
+4,13:16,1,10,LAR 19,7,0,Jonathan Stewart left tackle for 2 yards (tackle by Mark Barron),4.310,4.030
+4,12:40,2,8,LAR 17,7,0,Jonathan Stewart right guard for 6 yards (tackle by Mark Barron),4.030,4.430
+4,11:59,3,2,LAR 11,7,0,Cam Newton sacked by Aaron Donald for -9 yards,4.430,2.120
+4,11:17,4,11,LAR 20,10,0,Graham Gano 38 yard field goal good,2.120,3.000
+4,11:12,,,CAR 35,10,0,"Graham Gano kicks off 65 yards, touchback",0.000,-0.610
+4,11:12,1,10,LAR 25,10,0,Tavon Austin for 1 yard (tackle by Kurt Coleman),0.610,0.200
+4,10:46,2,9,LAR 26,10,0,Case Keenum pass complete short left to Lance Kendricks for 12 yards (tackle by Michael Griffin),0.200,1.470
+4,10:21,1,10,LAR 38,10,0,Case Keenum pass complete short left to Lance Kendricks for 9 yards (tackle by Michael Griffin),1.470,2.140
+4,9:58,2,1,LAR 47,10,0,Case Keenum pass complete short middle to Todd Gurley for 11 yards (tackle by Luke Kuechly),2.140,0.000
+4,9:35,,,,10,0,Timeout #2 by Carolina Panthers,0.000,-2.790
+4,9:35,1,10,CAR 42,10,0,Case Keenum pass complete deep middle to Lance Kendricks for 25 yards (tackle by Kurt Coleman),2.790,4.440
+4,9:00,1,10,CAR 17,10,0,Todd Gurley left tackle for 10 yards (tackle by Kurt Coleman),4.440,5.600
+4,8:21,1,7,CAR 7,10,0,Case Keenum pass incomplete short middle intended for Lance Kendricks,5.600,4.760
+4,8:16,2,7,CAR 7,10,0,Case Keenum pass incomplete short left intended for Tyler Higbee,4.760,3.810
+4,8:11,3,7,CAR 7,10,0,Case Keenum pass incomplete short left intended for Lance Kendricks,3.810,2.970
+4,8:06,4,7,CAR 7,10,3,Greg Zuerlein 25 yard field goal good,2.970,3.000
+4,8:01,,,LAR 35,10,3,"Greg Zuerlein kicks off 65 yards, touchback",0.000,-0.610
+4,8:01,1,10,CAR 25,10,3,Cam Newton pass complete short left to Kelvin Benjamin for 15 yards (tackle by E.J. Gaines),0.610,1.600
+4,7:24,1,10,CAR 40,10,3,"Penalty on Robert Quinn: Neutral Zone Infraction, 5 yards (no play)",1.600,2.330
+4,7:12,1,5,CAR 45,10,3,"Penalty on Trai Turner: False Start, 5 yards (no play)",2.330,1.600
+4,6:50,1,10,CAR 40,10,3,Jonathan Stewart left guard for 6 yards (tackle by William Hayes),1.600,1.860
+4,6:13,2,4,CAR 46,10,3,Cam Newton pass complete short left to Kelvin Benjamin for 15 yards (tackle by E.J. Gaines),1.860,2.980
+4,5:30,1,10,LAR 39,10,3,"Jonathan Stewart right tackle for 2 yards (tackle by William Hayes). Penalty on William Hayes: Horse Collar Tackle, 15 yards",2.980,4.110
+4,4:59,1,10,LAR 22,10,3,Mike Tolbert middle for -1 yards (tackle by Mark Barron),4.110,0.000
+4,4:13,,,,10,3,Timeout #3 by Carolina Panthers,0.000,-3.430
+4,4:13,2,11,LAR 23,10,3,Cam Newton right end for 4 yards (tackle by T.J. McDonald),3.430,3.260
+4,3:28,3,7,LAR 19,10,3,Cam Newton pass incomplete deep right intended for Kelvin Benjamin,3.260,2.180
+4,3:23,4,7,LAR 19,13,3,Graham Gano 37 yard field goal good,2.180,3.000
+4,3:18,,,CAR 35,13,3,"Graham Gano kicks off 65 yards, touchback",0.000,-0.610
+4,3:18,1,10,LAR 25,13,3,"Case Keenum pass incomplete short right intended for Tyler Higbee. Penalty on Rob Havenstein: Offensive Holding, 10 yards (no play)",0.610,-0.410
+4,3:11,1,20,LAR 15,13,3,Case Keenum pass incomplete short right intended for Tyler Higbee,-0.410,-1.430
+4,3:07,2,20,LAR 15,13,3,Case Keenum pass complete short left to Kenny Britt for 11 yards (tackle by Daryl Worley),-1.430,-0.490
+4,2:44,3,9,LAR 26,13,3,Case Keenum pass incomplete short middle intended for Tyler Higbee (defended by Tre Boston),-0.490,-1.630
+4,2:39,4,9,LAR 26,13,3,Case Keenum pass complete short middle to Benny Cunningham for 11 yards (tackle by Thomas Davis),-1.630,1.400
+4,2:14,1,10,LAR 37,13,3,Case Keenum pass complete short middle to Benny Cunningham for 2 yards (tackle by Luke Kuechly),1.400,1.130
+4,2:00,2,8,LAR 39,13,3,Case Keenum pass incomplete deep right intended for Tavon Austin (defended by James Bradberry),1.130,0.430
+4,1:52,3,8,LAR 39,13,3,Case Keenum pass complete short left to Lance Kendricks for 9 yards (tackle by Thomas Davis),0.430,2.130
+4,1:44,1,10,LAR 48,13,3,"Penalty on Mario Addison: Neutral Zone Infraction, 5 yards (no play)",2.130,2.860
+4,1:44,1,5,CAR 47,13,3,Case Keenum pass complete short left to Benny Cunningham for 7 yards (tackle by Thomas Davis),2.860,2.920
+4,1:37,1,10,CAR 40,13,3,Case Keenum pass incomplete deep right intended for Brian Quick,2.920,2.370
+4,1:30,2,10,CAR 40,13,3,Case Keenum pass complete short left to Benny Cunningham for 6 yards (tackle by Charles Johnson),2.370,0.000
+4,1:14,,,,13,3,Timeout #2 by Los Angeles Rams,0.000,-2.480
+4,1:14,3,4,CAR 34,13,3,Case Keenum pass complete deep middle to Brian Quick for 27 yards (tackle by Daryl Worley),2.480,5.600
+4,0:51,1,7,CAR 7,13,3,Case Keenum pass complete short left to Brian Quick for 1 yard (tackle by Daryl Worley and Kurt Coleman),5.600,4.950
+4,0:48,2,6,CAR 6,13,3,Case Keenum pass incomplete short right intended for Kenny Britt (defended by James Bradberry),4.950,4.040
+4,0:44,3,6,CAR 6,13,3,Case Keenum sacked by Kony Ealy for -4 yards,4.040,0.000
+4,0:38,,,,13,3,Timeout #3 by Los Angeles Rams,0.000,-2.760
+4,0:38,4,10,CAR 10,13,9,"Case Keenum pass complete short right to Kenny Britt for 10 yards, touchdown",2.760,7.000
+4,0:34,,,CAR 15,13,10,Greg Zuerlein kicks extra point good,0.000,0.000
+4,0:34,,,LAR 35,13,10,"Greg Zuerlein kicks onside 46 yards, recovered by Ted Ginn. Penalty on LAR: Illegal Formation, 5 yards",0.000,-0.540
+4,0:31,1,10,CAR 24,13,10,Cam Newton kneels for -1 yards,0.540,-0.140
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

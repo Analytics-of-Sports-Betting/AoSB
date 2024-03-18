@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,12:33,SEA 37,5,2:36,12,Punt
+2,1,8:01,SEA 48,7,3:47,52,Touchdown
+3,2,15:00,SEA 24,4,1:37,21,Interception
+4,2,10:31,SEA 17,3,1:32,0,Fumble
+5,2,8:04,SEA 36,9,5:00,32,Downs
+6,2,1:50,SEA 20,2,0:24,-10,Interception
+7,3,15:00,SEA 24,2,0:49,3,Interception
+8,3,14:11,SEA 32,9,3:47,61,Interception
+9,3,8:15,SEA 29,3,1:02,-1,Punt
+10,3,3:32,,0,0:14,0,Touchdown
+11,3,1:21,SEA 48,7,3:05,19,Downs
+12,4,11:02,SEA 18,6,2:03,57,Missed FG
+13,4,5:06,SEA 20,9,3:11,80,Touchdown

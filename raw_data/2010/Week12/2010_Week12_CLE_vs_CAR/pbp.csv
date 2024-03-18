@@ -1,0 +1,184 @@
+Quarter,Time,Down,ToGo,Location,CAR,CLE,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Panthers won the coin toss, Panthers to receive the opening kickoff.",,
+1,15:00,,,CLE 30,0,0,"Phil Dawson kicks off 58 yards, returned by David Gettis for 7 yards (tackle by Eric Alexander)",0.000,0.150
+1,14:56,1,10,CAR 19,0,0,Mike Goodson left guard for 7 yards (tackle by Abram Elam),0.150,0.610
+1,14:23,2,3,CAR 26,0,0,Mike Goodson right tackle for 5 yards (tackle by T.J. Ward),0.610,1.000
+1,13:56,1,10,CAR 31,0,0,Jimmy Clausen pass complete short left to Mike Goodson for 3 yards (tackle by Matt Roth),1.000,0.870
+1,13:17,2,7,CAR 34,0,0,Mike Goodson left guard for 5 yards (tackle by Brian Schaefering),0.870,0.830
+1,12:44,3,2,CAR 39,0,0,Jonathan Stewart right guard for 6 yards (tackle by Ahtyba Rubin),0.830,1.930
+1,12:11,1,10,CAR 45,0,0,"Jimmy Clausen pass incomplete short left intended for Jeff King. Penalty on Jimmy Clausen: Intentional Grounding, 13 yards",1.930,-0.370
+1,12:11,2,23,CAR 32,0,0,Jonathan Stewart right tackle for 12 yards (tackle by David Bowens and Abram Elam),-0.370,0.560
+1,11:17,3,11,CAR 44,0,0,"Jimmy Clausen pass complete short middle to Steve Smith for 15 yards (tackle by Abram Elam). Penalty on Shaun Rogers: Roughing the Passer, 15 yards",0.560,3.840
+1,10:36,1,10,CLE 26,6,0,"Mike Goodson right tackle for 26 yards, touchdown",3.840,7.000
+1,,,,CLE 2,7,0,John Kasay kicks extra point good,0.000,0.000
+1,,,,CAR 30,7,0,"Rhys Lloyd kicks off 63 yards, returned by Josh Cribbs for 16 yards (tackle by C.J. Wilson)",0.000,0.480
+1,10:31,1,10,CLE 23,7,0,Jake Delhomme pass complete short right to Ben Watson for 8 yards (tackle by Captain Munnerlyn),0.480,1.010
+1,10:03,2,2,CLE 31,7,0,Jake Delhomme pass complete short left to Brian Robiskie for 5 yards (tackle by Richard Marshall),1.010,1.330
+1,9:29,1,10,CLE 36,7,0,Jake Delhomme pass complete short left to Ben Watson for 21 yards (tackle by Captain Munnerlyn),1.330,2.720
+1,8:49,1,10,CAR 43,7,0,Peyton Hillis left guard for 6 yards (tackle by Charles Godfrey and Derek Landri),2.720,2.990
+1,8:14,2,4,CAR 37,7,0,Jake Delhomme pass complete short left to Brian Robiskie for 5 yards (tackle by Sherrod Martin),2.990,3.450
+1,7:36,1,10,CAR 32,7,0,Jake Delhomme pass complete short left to Chansi Stuckey for 24 yards (tackle by Charles Godfrey),3.450,5.370
+1,7:13,,,,7,0,Timeout #1 by Carolina Panthers,0.000,5.370
+1,7:13,1,8,CAR 8,7,0,Peyton Hillis pass incomplete short middle intended for Ben Watson,5.370,4.570
+1,7:08,2,8,CAR 8,7,0,"Jake Delhomme pass incomplete. Penalty on Jake Delhomme: Intentional Grounding, 11 yards",4.570,2.490
+1,7:01,3,19,CAR 19,7,0,"Jake Delhomme pass incomplete deep middle intended for Evan Moore (defended by Sherrod Martin). Penalty on Sherrod Martin: Unnecessary Roughness, 10 yards, Penalty on Richard Marshall: Illegal Contact (Declined) (no play)",2.490,5.140
+1,6:55,1,9,CAR 9,7,6,"Peyton Hillis left tackle for 9 yards, touchdown",5.140,7.000
+1,,,,CAR 2,7,7,Phil Dawson kicks extra point good,0.000,0.000
+1,,,,CLE 30,7,7,"Phil Dawson kicks off 64 yards, returned by David Gettis for 19 yards (tackle by Jason Trusnik)",0.000,0.610
+1,6:44,1,10,CAR 25,7,7,Mike Goodson right guard for 1 yard (tackle by Matt Roth and Sheldon Brown),0.610,0.200
+1,6:10,2,9,CAR 26,7,7,Jimmy Clausen pass incomplete,0.200,-0.490
+1,6:10,3,9,CAR 26,7,7,Jimmy Clausen pass incomplete short right intended for Brandon LaFell,-0.490,-1.630
+1,5:48,4,9,CAR 26,7,7,"Jason Baker punts 47 yards, returned by Josh Cribbs for 9 yards (tackle by Jordan Senn)",-1.630,-1.330
+1,5:48,1,10,CLE 36,7,7,Peyton Hillis right guard for 4 yards (tackle by Charles Johnson),1.330,1.330
+1,5:10,2,6,CLE 40,7,7,Jake Delhomme pass incomplete deep right intended for Mohamed Massaquoi,1.330,0.630
+1,5:06,3,6,CLE 40,7,7,"Jake Delhomme pass incomplete. Penalty on Chris Gamble: Defensive Holding, 5 yards (no play)",0.630,1.930
+1,4:59,1,10,CLE 45,7,7,Jake Delhomme pass incomplete short left intended for Lawrence Vickers (defended by Jamar Williams),1.930,1.380
+1,4:56,2,10,CLE 45,7,7,Peyton Hillis left guard for 7 yards (tackle by Nick Hayden),1.380,1.620
+1,4:14,3,3,CAR 48,7,7,"Jake Delhomme pass incomplete short right intended for Brian Robiskie. Penalty on Charles Johnson: Roughing the Passer, 15 yards (no play)",1.620,3.380
+1,4:09,1,10,CAR 33,7,7,Jake Delhomme pass complete short right to Mohamed Massaquoi for 19 yards (tackle by Richard Marshall),3.380,4.650
+1,3:34,1,10,CAR 14,7,7,Peyton Hillis left tackle for 9 yards (tackle by Jamar Williams),4.650,5.670
+1,2:44,2,1,CAR 5,7,13,"Peyton Hillis right guard for 5 yards, touchdown",5.670,7.000
+1,,,,CAR 2,7,14,Phil Dawson kicks extra point good,0.000,0.000
+1,,,,CLE 30,,,"Phil Dawson kicks off 64 yards, returned by David Gettis for 26 yards. Penalty on Tony Fiammetta: Offensive Holding, 10 yards",,
+1,2:38,1,10,CAR 13,7,14,Mike Goodson left tackle for 2 yards (tackle by Matt Roth and Sheldon Brown),-0.320,-0.570
+1,2:00,2,8,CAR 15,7,14,Mike Goodson right guard for -4 yards (tackle by T.J. Ward),-0.570,-1.650
+1,1:17,3,12,CAR 11,7,14,Dante Rosario left guard for -2 yards (tackle by Shaun Rogers),-1.650,-2.490
+1,0:26,4,14,CAR 9,7,14,"Jason Baker punts 56 yards, returned by Josh Cribbs for 16 yards (tackle by Nic Harris)",-2.490,-2.320
+1,0:26,1,10,CAR 49,7,14,Jake Delhomme pass complete short right to Peyton Hillis for 21 yards (tackle by James Anderson),2.320,3.710
+1,0:03,1,10,CAR 28,7,14,Carlton Mitchell left tackle for 9 yards (tackle by Sherrod Martin and Nick Hayden),3.710,4.420
+Quarter,Time,Down,ToGo,Location,CAR,CLE,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,1,CAR 19,7,14,Peyton Hillis left guard for no gain (tackle by Derek Landri),4.420,3.720
+2,14:21,3,1,CAR 19,7,14,Jake Delhomme middle for 2 yards (tackle by Nick Hayden),3.720,4.440
+2,13:41,1,10,CAR 17,7,14,Jake Delhomme pass incomplete short right intended for Peyton Hillis,4.440,3.850
+2,13:38,2,10,CAR 17,7,14,Jake Delhomme pass complete short left to Ben Watson for 9 yards (tackle by Sherrod Martin),3.850,4.800
+2,13:03,3,1,CAR 8,7,14,"Jake Delhomme pass complete short right to Evan Moore for 5 yards (tackle by Jamar Williams). Evan Moore fumbles (forced by Jamar Williams), recovered by Jamar Williams at CAR-3 and returned for 7 yards (tackle by Brian Robiskie)",4.800,0.380
+2,12:54,1,10,CAR 10,7,14,Jonathan Stewart right tackle for 5 yards (tackle by David Bowens),-0.380,-0.350
+2,12:18,2,5,CAR 15,7,14,Jonathan Stewart left guard for 2 yards (tackle by David Bowens),-0.350,-0.600
+2,11:38,3,3,CAR 17,7,14,Jimmy Clausen pass incomplete short left intended for Dante Rosario (defended by Sheldon Brown),-0.600,-2.320
+2,11:33,4,3,CAR 17,7,14,Jason Baker punts 43 yards,-2.320,-1.600
+2,11:25,1,10,CLE 40,7,14,Peyton Hillis left tackle for 6 yards (tackle by Captain Munnerlyn),1.600,1.860
+2,11:01,2,4,CLE 46,7,14,Jake Delhomme pass incomplete short right intended for Carlton Mitchell (defended by Charles Godfrey),1.860,1.160
+2,10:54,3,4,CLE 46,7,14,Jake Delhomme pass complete short middle to Brian Robiskie for 15 yards (tackle by Captain Munnerlyn),1.160,2.980
+2,10:12,1,10,CAR 39,7,14,Jake Delhomme pass complete short right to Mohamed Massaquoi for 15 yards (tackle by Jamar Williams),2.980,3.970
+2,9:45,1,10,CAR 24,7,14,Peyton Hillis left tackle for 18 yards (tackle by James Anderson),3.970,5.830
+2,9:16,1,6,CAR 6,7,20,"Peyton Hillis right guard for 6 yards, touchdown",5.830,7.000
+2,,,,CAR 2,7,21,Phil Dawson kicks extra point good,0.000,0.000
+2,,,,CLE 30,7,21,"Phil Dawson kicks off 62 yards, returned by David Gettis for 18 yards (tackle by Eric Alexander)",0.000,0.670
+2,9:06,1,10,CAR 26,7,21,Jimmy Clausen pass complete short left to Mike Goodson for 6 yards (tackle by Sheldon Brown and Eric Barton),0.670,0.940
+2,8:41,2,4,CAR 32,7,21,Mike Goodson right tackle for 1 yard (tackle by Matt Roth),0.940,0.370
+2,7:56,3,3,CAR 33,7,21,Jimmy Clausen pass complete short right to Mike Goodson for 17 yards (tackle by Sheldon Brown),0.370,2.260
+2,7:13,1,10,,7,21,Jimmy Clausen pass complete short left to Tony Fiammetta for 11 yards (tackle by Sheldon Brown),2.260,2.980
+2,6:34,1,10,CLE 39,7,21,Jonathan Stewart right guard for 9 yards (tackle by Joe Haden),2.980,3.660
+2,5:54,2,1,CLE 30,7,21,Jonathan Stewart left tackle for 5 yards (tackle by Sheldon Brown),3.660,3.910
+2,5:20,1,10,CLE 25,7,21,Jimmy Clausen sacked by Abram Elam for -12 yards,3.910,1.740
+2,4:42,2,22,CLE 37,7,21,Jonathan Stewart right tackle for 3 yards (tackle by Joe Haden),1.740,1.490
+2,4:42,3,19,CLE 34,7,21,Jimmy Clausen pass complete short right to Brandon LaFell for 9 yards (tackle by Mike Adams and Joe Haden),1.490,1.800
+2,3:24,4,10,CLE 25,10,21,John Kasay 43 yard field goal good,1.800,3.000
+2,,,,CAR 30,10,21,"Rhys Lloyd kicks off 73 yards, returned by Josh Cribbs for 27 yards (tackle by Eric Norwood)",0.000,0.540
+2,3:12,1,10,CLE 24,10,21,Jake Delhomme pass incomplete short left intended for Peyton Hillis,0.540,0.000
+2,3:09,2,10,CLE 24,10,21,Peyton Hillis left guard for 4 yards (tackle by Tyler Brayton and Jamar Williams),0.000,-0.160
+2,2:26,3,6,CLE 28,10,21,Jake Delhomme pass complete short right to Ben Watson for 2 yards (tackle by Jon Beason),-0.160,-1.370
+2,2:00,4,4,CLE 30,10,21,"Reggie Hodges punts 44 yards, returned by Captain Munnerlyn for 32 yards (tackle by T.J. Ward)",-1.370,-2.790
+2,1:46,1,10,CLE 42,10,21,"Mike Goodson right tackle for 3 yards (tackle by Matt Roth). Penalty on David Gettis: Illegal Formation, 5 yards (no play)",2.790,2.460
+2,1:41,1,15,CLE 47,10,21,Jimmy Clausen pass complete short left to Steve Smith for 18 yards (tackle by Chris Gocong),2.460,3.640
+2,1:05,1,10,CLE 29,10,21,Jimmy Clausen pass incomplete short middle intended for Mike Goodson,3.640,3.100
+2,1:02,2,10,CLE 29,10,21,Mike Goodson left tackle for no gain (tackle by Chris Gocong and Derreck Robinson),3.100,2.410
+2,0:54,,,,10,21,Timeout #2 by Carolina Panthers,0.000,2.410
+2,0:54,3,10,CLE 29,10,21,"Penalty on Derreck Robinson: Neutral Zone Infraction, 5 yards (no play)",2.410,3.070
+2,0:54,3,5,CLE 24,10,21,Jimmy Clausen pass incomplete short left intended for Steve Smith,3.070,1.920
+2,0:51,4,5,CLE 24,13,21,John Kasay 42 yard field goal good,1.920,3.000
+2,,,,CAR 30,13,21,"Rhys Lloyd kicks off 70 yards, returned by Josh Cribbs for 29 yards (tackle by C.J. Wilson)",0.000,0.870
+2,0:40,1,10,CLE 29,13,21,"Jake Delhomme sacked by Charles Johnson for -10 yards. Jake Delhomme fumbles (forced by Charles Johnson), recovered by John St. Clair at CLE-16",0.870,-1.080
+Quarter,Time,Down,ToGo,Location,CAR,CLE,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,CAR 30,13,21,"Rhys Lloyd kicks off 59 yards, returned by Josh Cribbs for 17 yards (tackle by Robert McClain)",0.000,0.810
+3,14:54,1,10,CLE 28,13,21,Jake Delhomme pass incomplete is intercepted by Jon Beason at CLE-39 and returned for 7 yards,0.810,-3.450
+3,14:42,1,10,CLE 32,13,21,Mike Goodson right guard for 2 yards (tackle by Eric Barton and David Bowens),3.450,3.170
+3,13:59,2,8,CLE 30,13,21,Jonathan Stewart middle for 2 yards (tackle by Kenyon Coleman and Matt Roth),3.170,2.740
+3,13:23,3,6,CLE 28,13,21,Jimmy Clausen pass incomplete short right intended for Brandon LaFell,2.740,1.610
+,,,,,,,"CAR challenged the incomplete pass ruling, and the original play was overturned.",,
+3,13:23,4,6,CLE 28,13,21,John Kasay 46 yard field goal no good,1.610,-1.330
+3,13:08,1,10,CLE 36,13,21,Peyton Hillis middle for 1 yard (tackle by Charles Johnson and Jon Beason),1.330,0.930
+3,12:29,2,9,CLE 37,19,21,"Jake Delhomme pass incomplete short right intended for Mohamed Massaquoi is intercepted by Captain Munnerlyn at CLE-37 and returned for 37 yards, touchdown",0.930,-7.000
+3,,,,CLE 2,20,21,John Kasay kicks extra point good,0.000,0.000
+3,,,,CAR 30,20,21,"Rhys Lloyd kicks off 70 yards, returned by Clifton Smith for 28 yards (tackle by Sherrod Martin). Clifton Smith fumbles (forced by Sherrod Martin), recovered by Clifton Smith at CLE-21",0.000,0.340
+3,12:08,1,10,CLE 21,20,21,Peyton Hillis right guard for 10 yards (tackle by Sherrod Martin),0.340,1.000
+3,11:43,1,10,CLE 31,20,21,Peyton Hillis right guard for 9 yards (tackle by Charles Godfrey),1.000,1.680
+3,11:03,2,1,CLE 40,20,21,Mike Bell left guard for 6 yards (tackle by James Anderson and Edward Johnson),1.680,1.990
+3,10:27,1,10,CLE 46,20,21,Chansi Stuckey right end for -4 yards (tackle by Charles Godfrey),1.990,0.910
+3,10:01,2,14,CLE 42,20,21,Jake Delhomme pass complete short right to Evan Moore for 11 yards (tackle by Charles Godfrey),0.910,1.690
+3,9:20,3,3,CAR 47,20,21,Jake Delhomme pass complete short right to Mohamed Massaquoi for 5 yards,1.690,2.790
+3,8:53,1,10,CAR 42,20,21,Jake Delhomme pass incomplete short right intended for Lawrence Vickers,2.790,2.240
+3,8:48,2,10,CAR 42,20,21,"Peyton Hillis left tackle for 4 yards (tackle by Everette Brown). Penalty on Mohamed Massaquoi: Offensive Holding, 10 yards",2.240,1.430
+3,8:17,2,16,CAR 48,20,21,Jake Delhomme pass complete short left to Peyton Hillis for 4 yards (tackle by Jon Beason),1.430,1.290
+3,7:28,3,12,CAR 44,20,21,Jake Delhomme pass incomplete,1.290,0.330
+3,7:27,4,12,CAR 44,20,21,"Reggie Hodges punts 34 yards, fair catch by Captain Munnerlyn",0.330,0.380
+3,7:20,1,10,CAR 10,20,21,Jimmy Clausen pass complete short right to Mike Goodson for -4 yards (tackle by Kenyon Coleman),-0.380,-1.070
+3,6:41,2,14,CAR 6,20,21,Jonathan Stewart left guard for 9 yards (tackle by T.J. Ward),-1.070,-0.840
+3,6:00,3,5,CAR 15,20,21,Jimmy Clausen pass complete short left to Mike Goodson for 16 yards (tackle by Abram Elam),-0.840,1.000
+3,5:25,1,10,CAR 31,20,21,Mike Goodson left guard for 4 yards (tackle by Ahtyba Rubin),1.000,1.000
+3,4:45,2,6,CAR 35,20,21,Jimmy Clausen sacked by Matt Roth for -4 yards,1.000,-0.230
+3,4:11,3,10,CAR 31,20,21,Jimmy Clausen pass complete short right to Dante Rosario for 9 yards (tackle by Titus Brown),-0.230,-0.720
+3,3:32,4,1,CAR 40,20,21,"Jason Baker punts 43 yards, returned by Josh Cribbs for no gain",-0.720,0.060
+3,3:27,1,10,CLE 17,20,21,Peyton Hillis left tackle for 7 yards (tackle by Everette Brown),-0.060,0.480
+3,2:50,2,3,CLE 24,20,21,Peyton Hillis right tackle for 9 yards (tackle by Jamar Williams and Charles Godfrey),0.480,1.140
+3,2:13,1,10,CLE 33,20,21,Peyton Hillis left tackle for 4 yards (tackle by Sherrod Martin),1.140,1.130
+3,1:35,2,6,CLE 37,20,21,Jake Delhomme pass complete short left to Peyton Hillis for no gain,1.130,0.430
+3,0:51,3,6,CLE 37,20,21,Jake Delhomme pass complete short right to Brian Robiskie for 3 yards (tackle by Richard Marshall),0.430,-0.720
+3,0:16,4,3,CLE 40,20,21,"Reggie Hodges punts 37 yards. Penalty on Eric Norwood: Running Into the Kicker, 5 yards (no play)",-0.720,1.930
+3,0:06,1,10,CLE 45,20,21,Mike Bell right guard for 8 yards (tackle by Jamar Williams and Charles Godfrey),1.930,2.460
+Quarter,Time,Down,ToGo,Location,CAR,CLE,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,2,CAR 47,20,21,Peyton Hillis left guard for 3 yards (tackle by James Anderson and Jamar Williams),2.460,2.650
+4,14:27,1,10,CAR 44,20,21,Jake Delhomme pass complete short left to Brian Robiskie for 6 yards (tackle by Richard Marshall),2.650,2.920
+4,13:54,2,4,CAR 38,20,21,Peyton Hillis left tackle for 4 yards (tackle by Jon Beason),2.920,3.310
+4,13:08,1,10,CAR 34,20,21,Jake Delhomme sacked by Charles Johnson for -5 yards,3.310,2.090
+4,12:34,2,15,CAR 39,20,21,Jake Delhomme pass incomplete deep middle intended for Evan Moore (defended by Jon Beason),2.090,1.420
+4,12:29,3,15,CAR 39,20,21,Jake Delhomme pass complete short middle to Peyton Hillis for 14 yards (tackle by Jon Beason and James Anderson),1.420,1.950
+4,11:40,,,,20,21,Timeout #1 by Cleveland Browns,0.000,1.950
+4,11:40,4,1,CAR 25,20,21,Peyton Hillis left guard for no gain (tackle by Sherrod Martin and Tyler Brayton),1.950,-0.610
+4,11:33,1,10,CAR 25,20,21,"Penalty on Garry Williams: False Start, 5 yards (no play)",0.610,0.280
+4,11:33,1,15,CAR 20,20,21,Jonathan Stewart left tackle for 7 yards (tackle by Sheldon Brown and Eric Barton),0.280,0.330
+4,10:59,2,8,CAR 27,20,21,Jimmy Clausen sacked by Abram Elam for -4 yards,0.330,-0.890
+4,10:23,3,12,CAR 23,20,21,Jimmy Clausen pass complete short right to Dante Rosario for 14 yards (tackle by T.J. Ward),-0.890,1.400
+4,9:43,1,10,CAR 37,20,21,Jonathan Stewart right tackle for 7 yards (tackle by David Bowens and Brian Schaefering),1.400,1.800
+4,9:10,2,3,CAR 44,20,21,Jonathan Stewart left guard for 31 yards (tackle by Abram Elam),1.800,3.910
+4,8:28,1,10,CLE 25,20,21,Mike Goodson left guard for no gain (tackle by Kenyon Coleman and T.J. Ward),3.910,3.360
+4,7:53,2,10,CLE 25,20,21,Mike Goodson right tackle for 1 yard (tackle by Kenyon Coleman and Matt Roth),3.360,2.810
+4,7:11,3,9,CLE 24,20,21,Jimmy Clausen pass incomplete short right intended for Mike Goodson,2.810,1.870
+4,7:04,4,9,CLE 24,23,21,John Kasay 43 yard field goal good,1.870,3.000
+4,,,,CAR 30,23,21,"Rhys Lloyd kicks off 66 yards, returned by Clifton Smith for 26 yards (tackle by Greg Hardy)",0.000,0.940
+4,6:54,1,10,CLE 30,23,21,Jake Delhomme pass complete short middle to Peyton Hillis for 12 yards (tackle by James Anderson),0.940,1.730
+4,6:14,1,10,CLE 42,23,21,Peyton Hillis right guard for -2 yards (tackle by Charles Godfrey),1.730,0.920
+4,5:39,2,12,CLE 40,23,21,"Penalty on Floyd Womack: False Start, 5 yards (no play)",0.920,0.240
+4,5:25,2,17,CLE 35,23,21,Jake Delhomme pass complete short left to Brian Robiskie for 7 yards (tackle by Captain Munnerlyn),0.240,0.500
+4,4:51,3,10,CLE 42,23,21,Jake Delhomme pass complete short middle to Peyton Hillis for 12 yards (tackle by James Anderson and Richard Marshall),0.500,2.520
+4,4:09,1,10,CAR 46,23,21,Jake Delhomme pass complete short middle to Mohamed Massaquoi for 13 yards (tackle by Richard Marshall),2.520,3.380
+4,3:33,1,10,CAR 33,23,21,Jake Delhomme pass complete short left to Brian Robiskie for 9 yards (tackle by Captain Munnerlyn). Penalty on Tyler Brayton: Defensive Offside (Declined),3.380,4.050
+4,3:29,2,1,CAR 24,23,21,Peyton Hillis left guard for no gain (tackle by James Anderson),4.050,3.340
+4,3:06,3,1,CAR 24,23,21,Jake Delhomme middle for no gain (tackle by Edward Johnson),3.340,2.020
+4,2:47,4,1,CAR 24,23,24,Phil Dawson 41 yard field goal good,2.020,3.000
+4,,,,CLE 30,23,24,"Phil Dawson kicks off 60 yards, returned by David Gettis for 21 yards (tackle by T.J. Ward)",0.000,1.000
+4,2:38,1,10,CAR 31,23,24,Jimmy Clausen pass complete short left to Mike Goodson for no gain,1.000,0.460
+4,2:05,2,10,CAR 31,23,24,Mike Goodson right guard for 5 yards (tackle by Shaun Rogers and David Bowens),0.460,0.430
+4,2:00,3,5,CAR 36,23,24,Jimmy Clausen pass complete short right to Dante Rosario for 10 yards (tackle by Raymond Ventrone),0.430,1.990
+4,1:36,1,10,CAR 46,23,24,Jimmy Clausen pass incomplete short right intended for Dante Rosario is intercepted by Joe Haden at CLE-44 and returned for 12 yards,1.990,-2.650
+4,1:28,1,10,CAR 44,23,24,Peyton Hillis left tackle for 3 yards (tackle by Jon Beason and Sherrod Martin),2.650,2.520
+4,1:19,,,,23,24,Timeout #1 by Carolina Panthers,0.000,2.520
+4,1:19,2,7,CAR 41,23,24,Peyton Hillis right guard for 1 yard (tackle by James Anderson and Nick Hayden),2.520,1.950
+4,1:15,,,,23,24,Timeout #2 by Carolina Panthers,0.000,1.950
+4,1:15,3,6,CAR 40,23,24,Peyton Hillis left guard for 4 yards (tackle by Charles Johnson and Sherrod Martin),1.950,0.890
+4,1:08,,,,23,24,Timeout #3 by Carolina Panthers,0.000,0.890
+4,1:07,4,2,CAR 36,23,24,Reggie Hodges punts 31 yards,0.890,0.380
+4,0:59,1,10,CAR 5,23,24,Jimmy Clausen pass complete short left to Mike Goodson for 11 yards (tackle by Sheldon Brown),-0.380,-0.140
+4,0:53,1,10,CAR 16,23,24,Jimmy Clausen pass incomplete short right intended for Steve Smith,-0.140,-0.660
+4,0:47,2,10,CAR 16,23,24,Jimmy Clausen pass incomplete deep right intended for Steve Smith,-0.660,-1.320
+4,0:41,3,10,CAR 16,23,24,Jimmy Clausen pass complete short left to Mike Goodson for 32 yards (tackle by Raymond Ventrone),-1.320,2.130
+4,0:12,1,10,CAR 48,23,24,Jimmy Clausen spiked the ball,2.130,1.580
+4,0:12,,,,23,24,Timeout #2 by Cleveland Browns,0.000,1.580
+4,0:12,2,10,CAR 48,23,24,Jimmy Clausen pass complete deep left to Brandon LaFell for 28 yards (tackle by Sheldon Brown),1.580,3.970
+,,,,,,,"Replay Assistant challenged the pass completion ruling, and the play was upheld.",,
+4,0:04,1,10,CLE 24,23,24,John Kasay 42 yard field goal no good,3.970,1.000
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

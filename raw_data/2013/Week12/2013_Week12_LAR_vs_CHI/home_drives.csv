@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,STL 19,3,1:30,81,Touchdown
+2,1,13:19,CHI 7,3,0:43,7,Touchdown
+3,1,6:14,STL 20,9,4:47,80,Touchdown
+4,2,12:51,STL 12,3,1:34,5,Punt
+5,2,5:19,STL 20,10,4:08,69,Field Goal
+6,2,0:16,STL 43,3,0:16,4,End of Half
+7,3,8:16,STL 5,11,4:17,73,Field Goal
+8,3,0:40,STL 18,3,1:01,-2,Punt
+9,4,7:15,STL 20,7,4:10,80,Touchdown
+10,4,1:25,CHI 43,3,1:25,-3,End of Game

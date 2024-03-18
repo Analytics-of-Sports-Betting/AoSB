@@ -1,0 +1,176 @@
+Quarter,Time,Down,ToGo,Location,CIN,ARI,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Bengals won the coin toss, Bengals to receive the opening kickoff.",,
+1,15:00,,,ARI 30,0,0,--,0.000,-0.320
+1,14:54,1,10,CIN 13,0,0,Jon Kitna pass complete to Tony Stewart for 7 yards (tackle by Levar Fisher),-0.320,0.220
+1,14:24,2,3,CIN 20,0,0,Corey Dillon left end for 1 yard (tackle by David Barrett),0.220,-0.470
+1,13:53,3,2,CIN 21,0,0,"Penalty on Mike Goff: False Start, 5 yards (no play)",-0.470,-1.060
+1,13:34,3,7,CIN 16,0,0,"Penalty on Mike Goff: False Start, 5 yards (no play)",-1.060,-1.650
+1,13:06,,,,0,0,Timeout #1 by Cincinnati Bengals,0.000,-1.650
+1,13:06,3,12,CIN 11,0,0,Jon Kitna pass complete to Matt Schobel for 9 yards (tackle by Renaldo Hill),-1.650,-2.030
+1,12:31,4,3,CIN 20,0,0,"Kyle Richardson punts 35 yards, returned by Anquan Boldin for 8 yards (tackle by Tony Stewart). Penalty on Dwayne Levels: Ineligible Downfield Kick (Declined)",-2.030,-2.460
+1,12:22,1,10,CIN 47,0,0,Marcel Shipp left tackle for 4 yards (tackle by Justin Smith),2.460,2.450
+1,11:42,2,6,CIN 43,0,0,Marcel Shipp left end for no gain (tackle by Tory James),2.450,1.750
+1,10:55,3,6,CIN 43,0,0,"Jeff Blake pass incomplete intended for Freddie Jones (defended by Brian Simmons). Penalty on Brian Simmons: Defensive Holding, 5 yards (no play)",1.750,3.050
+1,10:50,1,10,CIN 38,0,0,Jeff Blake pass incomplete intended for Bryan Gilmore,3.050,2.510
+1,10:44,2,10,CIN 38,0,0,Jeff Blake pass complete to James Hodgins for 6 yards (tackle by Adrian Ross),2.510,2.610
+1,10:04,3,4,CIN 32,0,0,Jeff Blake pass complete to Anquan Boldin for 17 yards (tackle by Kevin Kaesviharn). Penalty on CIN: Defensive Holding (Declined),2.610,4.580
+1,9:38,1,10,CIN 15,0,0,Marcel Shipp left end for 11 yards (tackle by Rogers Beckett),4.580,6.280
+1,9:13,1,4,CIN 4,0,0,Marcel Shipp up the middle for 3 yards (tackle by Justin Smith),6.280,5.910
+1,8:30,2,1,CIN 1,0,6,"Jeff Blake pass complete to Freddie Jones for 1 yard, touchdown",5.910,7.000
+1,,,,,0,7,"Penalty on Cameron Spikes: False Start, 5 yards (no play)",0.000,0.000
+1,,,,CIN 2,0,7,--,0.000,0.000
+1,,,,ARI 30,0,7,--,0.000,0.870
+1,8:19,1,10,CIN 29,0,7,Corey Dillon up the middle for 1 yard (tackle by Dennis Johnson),0.870,0.460
+1,7:48,2,9,CIN 30,0,7,Peter Warrick left end for 2 yards (tackle by Calvin Pace),0.460,0.040
+1,7:06,3,7,CIN 32,0,7,"Jon Kitna sacked by Renaldo Hill for 0 yards. Jon Kitna fumbles (forced by Renaldo Hill), recovered by Eric Steinbach at CIN-30",0.040,-1.370
+1,6:16,4,9,CIN 30,0,7,"Kyle Richardson punts 45 yards, returned by Anquan Boldin for 2 yards (tackle by Kevin Walter). Penalty on Coby Rhinehart: Illegal Block Above the Waist, 10 yards",-1.370,0.350
+1,6:05,1,10,ARI 12,0,7,Marcel Shipp right tackle for 36 yards (tackle by Rogers Beckett),-0.350,2.130
+1,5:26,1,10,ARI 48,0,7,"Marcel Shipp right tackle for -8 yards (tackle by Adrian Ross). Marcel Shipp fumbles (forced by Adrian Ross), recovered by Tony Williams at ARI-40 (tackle by James Hodgins)",2.130,-2.850
+1,5:19,1,10,ARI 41,0,7,Corey Dillon left tackle for no gain (tackle by Levar Fisher),2.850,2.310
+1,4:42,2,10,ARI 41,0,7,Jon Kitna pass complete to Corey Dillon for 8 yards (tackle by Ronald McKinnon),2.310,2.680
+1,4:02,3,2,ARI 33,0,7,Jon Kitna pass complete to Peter Warrick for 7 yards (tackle by Justin Lucas),2.680,3.840
+1,3:26,1,10,ARI 26,0,7,Corey Dillon up the middle for 1 yard (tackle by Adrian Wilson),3.840,3.430
+1,2:50,2,9,ARI 25,0,7,Jon Kitna pass complete to Tony Stewart for 16 yards (tackle by David Barrett),3.430,5.140
+1,2:38,1,9,ARI 9,0,7,Jon Kitna pass incomplete intended for Corey Dillon,5.140,4.380
+1,2:07,2,9,ARI 9,0,7,Jon Kitna pass complete to Peter Warrick for 5 yards (tackle by Dexter Jackson),4.380,4.490
+1,1:40,3,4,ARI 4,0,7,"Jon Kitna pass incomplete intended for Peter Warrick is intercepted by Renaldo Hill at ARI-0 and returned for 59 yards (tackle by Corey Dillon). Penalty on Raynoch Thompson: Roughing the Passer, 2 yards (no play)",4.490,6.740
+1,1:24,1,2,ARI 2,0,7,Jon Kitna pass incomplete intended for Levi Jones,6.740,5.720
+1,1:18,2,2,ARI 2,6,7,"Rudi Johnson left tackle for 2 yards, touchdown",5.720,7.000
+1,,,,ARI 2,7,7,Shayne Graham kicks extra point good,0.000,0.000
+1,,,,CIN 30,7,7,"Shayne Graham kicks off 70 yards, returned by Josh Scobey for 16 yards (tackle by Reggie Myles)",0.000,-0.140
+1,1:09,1,10,ARI 16,7,7,Marcel Shipp right end for 2 yards (tackle by Duane Clemons),-0.140,-0.350
+1,0:29,2,8,ARI 18,7,7,Marcel Shipp left tackle for 1 yard (tackle by Tony Williams and Carl Powell),-0.350,-0.950
+Quarter,Time,Down,ToGo,Location,CIN,ARI,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,7,ARI 19,7,7,Jeff Blake pass incomplete intended for Freddie Jones (defended by Tory James),-0.950,-2.140
+2,14:51,4,7,ARI 19,7,7,"Scott Player punts 51 yards, returned by Peter Warrick for 15 yards (tackle by Kevin Kasper)",-2.140,-1.930
+2,14:36,1,10,CIN 45,7,7,Jon Kitna pass complete to Chad Ochocinco for 41 yards,1.930,4.650
+,,,,,,,"ARI challenged the ruling, and the play was upheld.",,
+2,14:25,1,10,ARI 14,7,7,Corey Dillon left end for -1 yards (tackle by Ronald McKinnon and David Barrett),4.650,3.850
+2,13:44,2,11,ARI 15,13,7,"Jon Kitna pass complete to Peter Warrick for 15 yards, touchdown",3.850,7.000
+2,,,,ARI 2,14,7,Shayne Graham kicks extra point good,0.000,0.000
+2,,,,CIN 30,14,7,"Shayne Graham kicks off 60 yards, returned by Josh Scobey for 19 yards (tackle by Jeff Burris). Penalty on Justin Lucas: Offensive Holding, 10 yards",0.000,0.150
+2,13:33,1,10,ARI 19,14,7,Jeff Blake sacked by Rogers Beckett and Glen Steele for -11 yards,0.150,-1.580
+2,12:56,2,21,ARI 8,14,7,Jeff Blake pass complete to Marcel Shipp for 15 yards (tackle by Kevin Kaesviharn),-1.580,-0.550
+2,12:12,3,6,ARI 23,14,7,Jeff Blake up the middle for 9 yards (tackle by Brian Simmons),-0.550,1.070
+2,11:25,1,10,ARI 32,14,7,Jeff Blake pass complete to Steve Bush for 2 yards (tackle by Rogers Beckett),1.070,0.800
+2,10:45,2,8,ARI 34,14,7,Jeff Blake pass incomplete intended for Bryan Gilmore,0.800,0.100
+2,10:39,3,8,ARI 34,14,7,Jeff Blake pass incomplete intended for Bryan Gilmore,0.100,-1.110
+2,10:30,4,8,ARI 34,14,7,Scott Player punts 62 yards,-1.110,0.380
+2,10:21,1,10,CIN 4,14,7,Jon Kitna pass complete to Chad Ochocinco for 11 yards (tackle by Dexter Jackson),-0.380,-0.220
+2,9:45,1,10,CIN 15,14,7,Corey Dillon up the middle for 4 yards (tackle by Dennis Johnson),-0.220,-0.110
+2,9:12,2,6,CIN 19,14,7,Corey Dillon left end for -1 yards (tackle by Wendell Bryant),-0.110,-1.000
+2,8:22,3,7,CIN 18,14,7,Jon Kitna pass incomplete intended for Peter Warrick,-1.000,-2.240
+2,8:17,4,7,CIN 18,14,7,"Kyle Richardson punts 37 yards, returned by Anquan Boldin for 8 yards (tackle by Marquand Manuel)",-2.240,-2.460
+2,8:05,1,10,CIN 47,14,7,Marcel Shipp up the middle for 14 yards (tackle by Artrell Hawkins),2.460,3.380
+2,7:33,1,10,CIN 33,14,7,Marcel Shipp up the middle for 1 yard (tackle by Brian Simmons),3.380,2.970
+2,6:52,2,9,CIN 32,14,7,Jeff Blake pass complete to Steve Bush for 5 yards (tackle by Kevin Hardy),2.970,2.940
+2,6:03,3,4,CIN 27,14,7,Jeff Blake pass complete to Anquan Boldin for 6 yards (tackle by Reggie Myles),2.940,4.170
+2,5:39,1,10,CIN 21,14,7,Marcel Shipp left tackle for 4 yards (tackle by Justin Smith and Adrian Ross),4.170,4.200
+2,5:04,2,6,CIN 17,14,7,Marcel Shipp up the middle for 4 yards (tackle by Rogers Beckett),4.200,4.240
+2,4:25,3,2,CIN 13,14,7,Jeff Blake pass incomplete intended for Anquan Boldin (defended by Artrell Hawkins),4.240,2.690
+2,4:18,4,2,CIN 13,14,10,--,2.690,3.000
+2,,,,ARI 30,14,10,--,0.000,-0.380
+2,4:14,1,10,CIN 2,14,10,Rudi Johnson up the middle for 12 yards (tackle by Dexter Jackson and Emmanuel McDaniel),-0.380,-0.280
+2,3:43,1,10,CIN 14,14,10,"Jon Kitna pass complete to Chad Ochocinco for 7 yards (tackle by Dexter Jackson). Penalty on David Barrett: Face Mask (5 Yards), 5 yards",-0.280,0.670
+2,3:16,1,10,CIN 26,14,10,Jon Kitna up the middle for 2 yards (tackle by Levar Fisher),0.670,0.400
+2,2:31,,,,14,10,Timeout #2 by Cincinnati Bengals,0.000,0.400
+2,2:30,2,8,CIN 28,14,10,Jon Kitna pass incomplete intended for Tony Stewart (defended by Raynoch Thompson),0.400,-0.300
+2,2:27,3,8,CIN 28,14,10,Jon Kitna pass incomplete intended for Kelley Washington (defended by Emmanuel McDaniel),-0.300,-1.500
+2,2:22,4,8,CIN 28,14,10,Kyle Richardson punts 40 yards,-1.500,-1.330
+2,2:14,1,10,ARI 36,14,10,"Jeff Blake pass incomplete intended for Bryant Johnson. Penalty on Artrell Hawkins: Defensive Pass Interference, 23 yards (no play)",1.330,2.850
+2,2:09,1,10,CIN 41,14,10,Jeff Blake sacked by John Thornton for -12 yards,2.850,0.690
+2,2:00,2,22,ARI 47,14,10,Jeff Blake pass complete to Marcel Shipp for 9 yards (tackle by Artrell Hawkins),0.690,1.220
+2,1:53,3,13,CIN 44,14,10,Jeff Blake pass incomplete intended for Anquan Boldin,1.220,0.330
+2,1:49,4,13,CIN 44,14,10,"Scott Player punts 44 yards, touchback",0.330,-0.280
+2,1:39,1,10,CIN 20,14,10,Rudi Johnson up the middle for 9 yards (tackle by Dexter Jackson),0.280,0.950
+2,1:10,2,1,CIN 29,14,10,Rudi Johnson right tackle for 3 yards (tackle by Raynoch Thompson and Dennis Johnson),0.950,1.070
+2,0:36,1,10,CIN 32,14,10,Jon Kitna pass complete to Peter Warrick for 10 yards (tackle by Dexter Jackson),1.070,1.730
+2,0:22,1,10,CIN 42,14,10,Jon Kitna spiked the ball,1.730,1.190
+2,0:20,2,10,CIN 42,14,10,Jon Kitna pass complete to Matt Schobel for 6 yards (tackle by David Barrett),1.190,1.290
+Quarter,Time,Down,ToGo,Location,CIN,ARI,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,CIN 30,14,10,"Shayne Graham kicks off 63 yards, returned by Josh Scobey for 32 yards (tackle by Shayne Graham). Penalty on Justin Lucas: Offensive Holding, 10 yards",0.000,0.280
+3,14:54,1,10,ARI 20,14,10,Marcel Shipp up the middle for 8 yards (tackle by Artrell Hawkins),0.280,0.810
+3,14:20,2,2,ARI 28,14,10,Marcel Shipp left tackle for 9 yards (tackle by Rogers Beckett),0.810,1.400
+3,13:44,1,10,ARI 37,14,10,Marcel Shipp right end for 1 yard (tackle by Dwayne Levels),1.400,0.990
+3,13:01,2,9,ARI 38,14,10,Jeff Blake pass complete to Freddie Jones for 4 yards (tackle by Tory James),0.990,0.830
+3,12:22,3,5,ARI 42,14,10,Jeff Blake pass complete to Anquan Boldin for 13 yards (tackle by Brian Simmons),0.830,2.590
+3,11:43,1,10,CIN 45,14,10,Jeff Blake pass incomplete intended for Bryan Gilmore,2.590,2.040
+3,11:37,2,10,CIN 45,14,10,Marcel Shipp right end for -2 yards (tackle by Rogers Beckett),2.040,1.090
+3,11:06,3,12,CIN 47,14,10,Jeff Blake pass complete to Freddie Jones for 17 yards (tackle by Kevin Hardy),1.090,3.580
+3,10:22,1,10,CIN 30,14,10,Marcel Shipp up the middle for 3 yards (tackle by Artrell Hawkins),3.580,3.440
+3,9:45,2,7,CIN 27,14,10,Marcel Shipp right tackle for 19 yards (tackle by Rogers Beckett),3.440,5.370
+3,9:01,1,8,CIN 8,14,10,Damien Anderson up the middle for 1 yard (tackle by Kevin Hardy),5.370,4.760
+3,8:21,2,7,CIN 7,14,10,Jeff Blake pass incomplete intended for Anquan Boldin,4.760,3.810
+3,8:16,3,7,CIN 7,14,16,"Jeff Blake pass complete to Anquan Boldin for 7 yards, touchdown",3.810,7.000
+3,,,,CIN 2,14,17,--,0.000,0.000
+3,,,,ARI 30,14,17,--,0.000,0.810
+3,8:05,1,10,CIN 28,14,17,Rudi Johnson up the middle for 2 yards (tackle by Adrian Wilson),0.810,0.530
+3,7:28,2,8,CIN 30,14,17,"Peter Warrick right end for 5 yards (tackle by Ronald McKinnon). Penalty on Renaldo Hill: Tripping, 10 yards",0.530,1.930
+3,7:09,1,10,CIN 45,14,17,Jon Kitna pass incomplete intended for Peter Warrick is intercepted by Renaldo Hill at ARI-35 and returned for 7 yards (tackle by Peter Warrick),1.930,-1.730
+3,7:01,1,10,ARI 42,14,17,Marcel Shipp right tackle for -1 yards (tackle by Duane Clemons and Adrian Ross),1.730,1.050
+3,6:23,2,11,ARI 41,14,17,Marcel Shipp left tackle for 7 yards (tackle by John Thornton),1.050,1.290
+3,5:35,3,4,ARI 48,14,17,Jeff Blake pass incomplete intended for Bryant Johnson,1.290,-0.190
+3,5:31,4,4,ARI 48,14,17,"Scott Player punts 52 yards, touchback",-0.190,-0.280
+3,5:22,1,10,CIN 20,14,17,Rudi Johnson left tackle for 6 yards (tackle by Kenny King),0.280,0.540
+3,4:46,2,4,CIN 26,14,17,"Penalty on Levi Jones: False Start, 5 yards (no play)",0.540,-0.130
+3,4:30,2,9,CIN 21,14,17,"Jon Kitna sacked by Raynoch Thompson for -1 yards. Jon Kitna fumbles (forced by Raynoch Thompson), ball out of bounds at CIN-20",-0.130,-0.960
+3,3:48,3,10,CIN 20,14,17,Jon Kitna pass incomplete intended for Chad Ochocinco,-0.960,-2.030
+3,3:43,4,10,CIN 20,14,17,Kyle Richardson punts 52 yards,-2.030,-0.870
+3,3:29,1,10,ARI 29,14,17,Jeff Blake pass complete to Bryan Gilmore for 21 yards (tackle by Tory James),0.870,2.260
+3,2:51,1,10,ARI 50,14,17,Marcel Shipp up the middle for 4 yards (tackle by Oliver Gibson),2.260,2.250
+3,2:12,2,6,CIN 46,14,17,Damien Anderson up the middle for 2 yards (tackle by Kevin Hardy and Brian Simmons),2.250,1.820
+3,1:30,3,4,CIN 44,14,17,Jeff Blake pass complete to Anquan Boldin for 6 yards (tackle by Artrell Hawkins),1.820,3.050
+3,0:48,1,10,CIN 38,14,17,Damien Anderson left tackle for -4 yards (tackle by John Thornton),3.050,1.970
+3,0:07,2,14,CIN 42,14,17,Jeff Blake pass complete to Freddie Jones for 7 yards (tackle by Artrell Hawkins),1.970,2.210
+Quarter,Time,Down,ToGo,Location,CIN,ARI,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,7,CIN 35,14,17,Jeff Blake pass complete to Freddie Jones for 9 yards (tackle by Brian Simmons). Penalty on Brian Simmons: Defensive Holding (Declined),2.210,3.840
+4,14:41,1,10,CIN 26,14,17,Marcel Shipp up the middle for 7 yards (tackle by Rogers Beckett and Brian Simmons),3.840,4.270
+4,13:58,2,3,CIN 19,14,17,Marcel Shipp up the middle for no gain (tackle by Adrian Ross),4.270,3.570
+4,13:16,3,3,CIN 19,14,17,Jeff Blake pass complete to Anquan Boldin for 2 yards (tackle by Kevin Kaesviharn),3.570,2.460
+4,13:16,4,1,CIN 17,14,17,--,2.460,-0.540
+4,12:31,1,10,CIN 24,14,17,Jon Kitna pass complete to Peter Warrick for 5 yards (tackle by Adrian Wilson),0.540,0.670
+4,11:59,2,5,CIN 29,14,17,Jon Kitna pass incomplete intended for Chad Ochocinco (defended by Renaldo Hill),0.670,-0.030
+4,11:55,3,5,CIN 29,14,17,Jon Kitna pass complete to Kelley Washington for 8 yards (tackle by David Barrett),-0.030,1.400
+4,11:26,1,10,CIN 37,14,17,Jon Kitna pass complete to Tony Stewart for 9 yards (tackle by Ronald McKinnon),1.400,2.070
+4,10:42,2,1,CIN 46,14,17,Rudi Johnson right tackle for 3 yards (tackle by Adrian Wilson),2.070,2.190
+4,10:06,1,10,CIN 49,14,17,Jon Kitna pass incomplete intended for Chad Ochocinco,2.190,1.650
+4,10:00,2,10,CIN 49,14,17,Rudi Johnson left tackle for -3 yards (tackle by Russell Davis),1.650,0.560
+4,9:22,3,13,CIN 46,14,17,Jon Kitna pass incomplete intended for Chad Ochocinco (defended by Dexter Jackson),0.560,-0.320
+4,9:16,4,13,CIN 46,14,17,"Kyle Richardson punts 54 yards, touchback",-0.320,-0.280
+4,9:05,1,10,ARI 20,14,17,Marcel Shipp up the middle for 3 yards (tackle by Kevin Kaesviharn and Tony Williams),0.280,0.140
+4,8:23,2,7,ARI 23,14,17,Jeff Blake pass complete to Bryan Gilmore for 19 yards (tackle by Artrell Hawkins),0.140,1.730
+4,7:37,1,10,ARI 42,14,17,Marcel Shipp right tackle for 2 yards (tackle by Tony Williams),1.730,1.460
+4,6:52,2,8,ARI 44,14,17,Marcel Shipp up the middle for 11 yards (tackle by Rogers Beckett),1.460,2.590
+4,6:06,1,10,CIN 45,14,17,Damien Anderson right end for 10 yards (tackle by Rogers Beckett),2.590,3.250
+4,5:36,1,10,CIN 35,14,17,Damien Anderson up the middle for 2 yards (tackle by Brian Simmons),3.250,2.970
+4,4:52,2,8,CIN 33,14,17,Damien Anderson right tackle for -2 yards (tackle by Artrell Hawkins),2.970,2.010
+4,4:04,3,10,CIN 35,14,17,Jeff Blake pass incomplete intended for Bryant Johnson,2.010,0.970
+4,4:04,4,10,CIN 35,14,17,"Penalty on Nathan Hodel: False Start, 5 yards (no play)",0.970,0.590
+4,3:58,4,15,CIN 40,14,17,Scott Player punts 33 yards,0.590,0.380
+4,3:49,1,10,CIN 7,14,17,Jon Kitna pass complete to Kelley Washington for 9 yards (tackle by Raynoch Thompson),-0.380,-0.020
+4,3:22,2,1,CIN 16,14,17,Jon Kitna pass complete to Tony Stewart for 8 yards (tackle by Dennis Johnson),-0.020,0.540
+4,2:50,1,10,CIN 24,14,17,Jon Kitna pass incomplete intended for Chad Ochocinco (defended by Emmanuel McDaniel),0.540,0.000
+4,2:46,2,10,CIN 24,14,17,Jon Kitna pass complete to Matt Schobel for 8 yards (tackle by David Barrett),0.000,0.370
+4,2:12,3,2,CIN 32,14,17,Jon Kitna pass complete to Peter Warrick for 5 yards (tackle by Raynoch Thompson),0.370,1.400
+4,2:00,1,10,CIN 37,14,17,Jon Kitna pass incomplete intended for Chad Ochocinco is intercepted by Dexter Jackson at ARI-49 and returned for 14 yards (tackle by Rudi Johnson),1.400,-3.120
+,,,,,,,"Replay Assistant challenged the ruling, and the play was upheld.",,
+4,1:49,1,10,CIN 37,14,17,Marcel Shipp right end for -2 yards (tackle by Adrian Ross),3.120,2.300
+4,1:44,,,,14,17,Timeout #1 by Cincinnati Bengals,0.000,2.300
+4,1:44,2,12,CIN 39,14,17,Jeff Blake left end for 2 yards (tackle by Tory James),2.300,1.880
+4,1:35,,,,14,17,Timeout #2 by Cincinnati Bengals,0.000,1.880
+4,1:35,3,10,CIN 37,14,17,Marcel Shipp right tackle for 1 yard (tackle by Rogers Beckett),1.880,0.880
+4,1:30,,,,14,17,Timeout #3 by Cincinnati Bengals,0.000,0.880
+4,1:29,4,9,CIN 36,14,17,"Scott Player punts 29 yards, fair catch by Peter Warrick",0.880,0.380
+4,1:23,1,10,CIN 7,14,17,Jon Kitna pass incomplete intended for Rudi Johnson,-0.380,-0.780
+4,1:18,2,10,CIN 7,14,17,Jon Kitna pass complete to Chad Ochocinco for 16 yards (tackle by David Barrett),-0.780,0.480
+4,1:09,1,10,CIN 23,14,17,Jon Kitna pass incomplete intended for Peter Warrick,0.480,-0.070
+,,,,,,,"Replay Assistant challenged the ruling, and the play was upheld.",,
+4,1:00,2,10,CIN 23,14,17,Jon Kitna pass incomplete intended for Peter Warrick,-0.070,-0.760
+4,0:54,3,10,CIN 23,14,17,Jon Kitna pass incomplete intended for Kelley Washington,-0.760,-1.830
+4,0:49,4,10,CIN 23,14,17,Jon Kitna pass complete to Peter Warrick for 8 yards (tackle by Raynoch Thompson),-1.830,-3.510
+4,0:39,1,10,CIN 31,14,17,Marcel Shipp kneels for -1 yards,3.510,2.830
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,187 @@
+Quarter,Time,Down,ToGo,Location,PIT,BAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Steelers won the coin toss and deferred, Ravens to receive the opening kickoff.",,
+1,15:00,,,PIT 35,0,0,"Chris Boswell kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,BAL 25,0,0,Joe Flacco pass incomplete short right intended for John Brown,0.610,0.060
+1,14:55,2,10,BAL 25,0,0,Alex Collins right tackle for 1 yard (tackle by Javon Hargrave),0.060,-0.490
+1,14:18,3,9,BAL 26,0,0,Joe Flacco pass complete short right to Mark Andrews for 20 yards (tackle by Morgan Burnett),-0.490,1.990
+1,13:56,1,10,BAL 46,0,0,Gus Edwards right guard for 10 yards (tackle by Sean Davis),1.990,2.650
+1,13:27,1,10,PIT 44,0,0,"Lamar Jackson aborted snap, recovered by Gus Edwards at PIT-47 (tackle by Vince Williams)",2.650,1.710
+1,12:46,2,13,PIT 47,0,0,"Joe Flacco sacked by Stephon Tuitt for no gain. Penalty on Stephon Tuitt: Defensive Offside, 5 yards (no play)",1.710,2.380
+1,12:25,2,8,PIT 42,0,0,Joe Flacco pass incomplete short middle,2.380,1.690
+1,12:20,3,8,PIT 42,0,0,Joe Flacco pass incomplete short left intended for Michael Crabtree,1.690,0.460
+1,12:16,4,8,PIT 42,0,0,"Sam Koch punts 42 yards, touchback.",0.460,-0.280
+1,12:07,1,10,PIT 20,0,0,Ben Roethlisberger pass complete short left to James Conner for 5 yards (tackle by Patrick Onwuasor and Jimmy Smith),0.280,0.410
+1,11:35,2,5,PIT 25,0,0,James Conner right guard for 8 yards (tackle by Eric Weddle),0.410,1.140
+1,11:01,1,10,PIT 33,0,0,James Conner right end for 25 yards (tackle by Za'Darius Smith),1.140,2.790
+1,10:23,1,10,BAL 42,0,0,Ben Roethlisberger pass incomplete short middle intended for Vance McDonald (defended by Za'Darius Smith),2.790,2.240
+1,10:19,2,10,BAL 42,0,0,Ben Roethlisberger pass incomplete deep right,2.240,1.550
+1,10:11,3,10,BAL 42,0,0,James Conner up the middle for 4 yards (tackle by C.J. Mosley),1.550,0.720
+1,9:30,4,6,BAL 38,0,0,"Ben Roethlisberger punts 27 yards, returned by Eric Weddle for 18 yards (tackle by James Washington)",0.720,-0.870
+1,9:22,1,10,BAL 29,0,0,Alex Collins right tackle for 3 yards (tackle by Jonathan Bostic),0.870,0.730
+1,8:45,2,7,BAL 32,0,0,Joe Flacco pass complete short right to Michael Crabtree for 13 yards (tackle by Vince Williams),0.730,1.930
+1,8:12,1,10,BAL 45,0,0,Joe Flacco pass complete deep middle to Chris Moore for 30 yards (tackle by Morgan Burnett),1.930,3.910
+1,7:38,1,10,PIT 25,0,0,Lamar Jackson right tackle for no gain (tackle by T.J. Watt),3.910,3.360
+1,7:02,2,10,PIT 25,0,0,Javorius Allen up the middle for 6 yards (tackle by Vince Williams),3.360,3.490
+1,6:27,3,4,PIT 19,0,0,Alex Collins right guard for 9 yards (tackle by Sean Davis),3.490,4.910
+1,5:46,1,10,PIT 10,0,0,Joe Flacco pass incomplete short left intended for Mark Andrews (defended by Mike Hilton),4.910,4.190
+1,5:41,2,10,PIT 10,0,0,Alex Collins right guard for 5 yards (tackle by T.J. Watt),4.190,4.260
+1,5:09,,,,,,Timeout #1 by Baltimore Ravens,,
+1,5:09,3,5,PIT 5,0,0,Joe Flacco pass incomplete short middle intended for John Brown,4.260,3.010
+1,5:05,4,5,PIT 5,0,3,Justin Tucker 23 yard field goal good,3.010,3.000
+1,5:02,,,BAL 35,0,3,"Justin Tucker kicks off 57 yards, returned by Ryan Switzer for no gain (tackle by Chris Moore)",0.000,1.530
+1,4:56,1,10,PIT 39,0,3,Ben Roethlisberger pass incomplete short right intended for James Washington,1.530,0.990
+1,4:53,2,10,PIT 39,0,3,Ben Roethlisberger pass complete short left to Antonio Brown for 11 yards,0.990,2.260
+1,4:23,1,10,PIT 50,0,3,Ben Roethlisberger pass complete short middle to JuJu Smith-Schuster for 9 yards (tackle by Kenny Young),2.260,2.930
+1,3:44,2,1,BAL 41,0,3,Ben Roethlisberger pass complete short middle to JuJu Smith-Schuster for 18 yards (tackle by Eric Weddle),2.930,4.040
+1,3:11,1,10,BAL 23,0,3,Ben Roethlisberger pass complete short left to James Washington for 8 yards (tackle by Brandon Carr),4.040,4.750
+1,2:42,2,2,BAL 15,0,3,James Conner left guard for 3 yards (tackle by Eric Weddle),4.750,4.780
+1,2:00,1,10,BAL 12,0,3,Ben Roethlisberger pass incomplete short middle intended for Jesse James (defended by C.J. Mosley),4.780,4.100
+1,1:53,2,10,BAL 12,0,3,Ben Roethlisberger pass complete short middle to James Conner for 5 yards (tackle by Tony Jefferson),4.100,4.160
+1,1:09,3,5,BAL 7,6,3,"Ben Roethlisberger pass complete short middle to James Conner for 7 yards, touchdown",4.160,7.000
+1,1:03,,,BAL 15,7,3,Chris Boswell kicks extra point good,0.000,0.000
+1,1:03,,,PIT 35,7,3,"Chris Boswell kicks off 65 yards, touchback.",0.000,0.610
+1,1:03,1,10,BAL 25,7,3,Alex Collins right guard for 7 yards (tackle by Joe Haden),0.610,1.010
+1,0:27,2,3,BAL 32,7,3,Joe Flacco pass complete short middle to Alex Collins for 4 yards (tackle by Sean Davis and Jonathan Bostic),1.010,1.330
+Quarter,Time,Down,ToGo,Location,PIT,BAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,BAL 36,7,3,Alex Collins left guard for -2 yards (tackle by Mike Hilton),1.330,0.520
+2,14:27,2,12,BAL 34,7,3,Lamar Jackson left tackle for 2 yards (tackle by Terrell Edmunds and Anthony Chickillo),0.520,0.100
+2,13:47,3,10,BAL 36,7,3,Joe Flacco pass complete short middle to John Brown for 5 yards (tackle by Sean Davis),0.100,-0.650
+2,13:11,4,5,BAL 41,7,3,"Sam Koch punts 43 yards, returned by Ryan Switzer for 9 yards (tackle by Javorius Allen)",-0.650,-0.610
+2,13:04,1,10,PIT 25,7,3,Ben Roethlisberger pass incomplete short middle intended for Vance McDonald (defended by Chris Wormley),0.610,0.060
+2,12:59,2,10,PIT 25,7,3,Ben Roethlisberger pass complete short left to Vance McDonald for 13 yards (tackle by Jimmy Smith),0.060,1.470
+2,12:17,1,10,PIT 38,7,3,Ben Roethlisberger pass incomplete short left,1.470,0.920
+2,12:12,2,10,PIT 38,7,3,Ben Roethlisberger pass complete short right to James Washington for 9 yards (tackle by Marlon Humphrey),0.920,1.420
+2,11:37,3,1,PIT 47,7,3,James Conner up the middle for 3 yards (tackle by Brent Urban and Michael Pierce),1.420,2.260
+2,10:59,1,10,PIT 50,7,3,James Conner right tackle for 1 yard (tackle by Kenny Young),2.260,1.850
+2,10:23,2,9,BAL 49,7,3,Ben Roethlisberger pass complete short right to James Conner for 8 yards (tackle by Matt Judon),1.850,2.210
+2,9:39,3,1,BAL 41,7,3,Ben Roethlisberger pass incomplete short left intended for Ryan Switzer,2.210,0.530
+2,9:34,,,,,,Timeout #1 by Pittsburgh Steelers,,
+2,9:34,4,1,BAL 41,7,3,Ben Roethlisberger pass complete short middle to JuJu Smith-Schuster for 6 yards (tackle by Jimmy Smith),0.530,3.250
+2,8:57,1,10,BAL 35,7,3,James Conner left tackle for 12 yards (tackle by Terrell Suggs),3.250,4.040
+2,8:09,1,10,BAL 23,7,3,Ben Roethlisberger pass complete short middle to James Conner for 17 yards (tackle by Kenny Young),4.040,5.830
+2,7:23,1,6,BAL 6,13,3,"Ben Roethlisberger pass complete short right to Antonio Brown for 6 yards, touchdown",5.830,7.000
+2,7:18,,,BAL 15,14,3,Chris Boswell kicks extra point good,0.000,0.000
+2,7:18,,,PIT 35,14,3,"Chris Boswell kicks off 59 yards, returned by Chris Moore for no gain (tackle by Anthony Chickillo)",0.000,1.400
+2,7:12,1,10,BAL 37,14,3,"Joe Flacco pass incomplete deep right intended for John Brown. Penalty on Terrell Edmunds: Defensive Pass Interference, 33 yards (no play)",1.400,3.580
+2,7:05,1,10,PIT 30,14,3,Joe Flacco pass complete short right to Mark Andrews for 9 yards (tackle by Joe Haden),3.580,4.250
+2,6:39,2,1,PIT 21,14,3,Lamar Jackson right guard for 9 yards (tackle by Terrell Edmunds and Javon Hargrave),4.250,4.780
+2,6:03,1,10,PIT 12,14,3,Joe Flacco pass incomplete short left intended for Michael Crabtree,4.780,4.100
+2,5:57,2,10,PIT 12,14,3,Alex Collins right guard for 8 yards (tackle by Jonathan Bostic),4.100,4.840
+2,5:20,3,2,PIT 4,14,3,Lamar Jackson right end for -1 yards (tackle by Mike Hilton),4.840,3.020
+2,4:40,4,3,PIT 5,14,6,Justin Tucker 23 yard field goal good,3.020,3.000
+2,4:37,,,BAL 35,14,6,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+2,4:37,1,10,PIT 25,14,6,Ben Roethlisberger pass incomplete short right intended for Antonio Brown,0.610,0.060
+2,4:33,2,10,PIT 25,14,6,Ben Roethlisberger pass complete short middle to Antonio Brown for 8 yards (tackle by Eric Weddle),0.060,0.430
+2,3:50,3,2,PIT 33,14,6,Ben Roethlisberger pass complete short right to Ryan Switzer for 5 yards (tackle by Tavon Young),0.430,1.470
+2,3:19,1,10,PIT 38,14,6,Ben Roethlisberger pass complete short right to Ryan Switzer for 3 yards (tackle by Za'Darius Smith),1.470,1.330
+2,2:42,2,7,PIT 41,14,6,"Ben Roethlisberger pass incomplete deep right intended for Antonio Brown. Penalty on Anthony Levine: Defensive Holding, 5 yards (no play)",1.330,1.990
+2,2:35,1,10,PIT 46,14,6,Ben Roethlisberger right end for 3 yards (tackle by Matt Judon),1.990,1.860
+2,2:00,2,7,PIT 49,14,6,Ben Roethlisberger pass incomplete short middle intended for JuJu Smith-Schuster,1.860,1.160
+2,1:54,3,7,PIT 49,14,6,Ben Roethlisberger pass incomplete short middle intended for James Washington,1.160,-0.130
+2,1:48,4,7,PIT 49,14,6,"Jordan Berry punts 36 yards, fair catch by Cyrus Jones at BAL-15",-0.130,0.220
+2,1:41,1,10,BAL 15,14,6,Joe Flacco pass complete short middle to Willie Snead for 26 yards (tackle by Sean Davis),-0.220,1.660
+2,1:18,1,10,BAL 41,14,6,Joe Flacco pass incomplete short middle intended for John Brown,1.660,1.120
+2,1:13,2,10,BAL 41,14,6,"Penalty on Jermaine Eluemunor: False Start, 5 yards (no play)",1.120,0.450
+2,1:13,2,15,BAL 36,14,6,Joe Flacco pass complete short right to Javorius Allen for 3 yards (tackle by Joe Haden),0.450,0.170
+2,1:08,3,12,BAL 39,14,6,Joe Flacco pass complete short middle to Javorius Allen for 2 yards (tackle by Sean Davis). Penalty on Jermaine Eluemunor: Offensive Holding (Declined),0.170,-0.650
+2,1:00,4,10,BAL 41,14,6,"Sam Koch punts 52 yards, returned by Ryan Switzer for 8 yards (tackle by Anthony Levine)",-0.650,0.220
+2,0:49,1,10,PIT 15,14,6,Ben Roethlisberger pass complete short right to Vance McDonald for 1 yard (tackle by Tavon Young),-0.220,-0.580
+2,0:30,2,9,PIT 16,14,6,Ben Roethlisberger pass incomplete short middle intended for James Conner,-0.580,-1.250
+2,0:25,3,9,PIT 16,14,6,James Conner right tackle for 9 yards (tackle by Brandon Carr),-1.250,0.610
+2,0:19,1,10,PIT 25,14,6,Ben Roethlisberger pass incomplete short middle intended for Vance McDonald,0.610,0.060
+2,0:15,2,10,PIT 25,14,6,James Conner right guard for 5 yards (tackle by C.J. Mosley and Eric Weddle),0.060,0.040
+Quarter,Time,Down,ToGo,Location,PIT,BAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,BAL 35,14,6,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,PIT 25,14,6,James Conner right guard for 4 yards (tackle by Za'Darius Smith and Patrick Onwuasor),0.610,0.600
+3,14:17,2,6,PIT 29,14,6,Ben Roethlisberger pass complete deep middle to JuJu Smith-Schuster for 23 yards (tackle by Eric Weddle). Penalty on Jesse James: Offensive Holding (Offsetting) (no play),0.600,0.600
+3,13:51,2,6,PIT 29,14,6,Ben Roethlisberger pass incomplete short middle intended for Antonio Brown,0.600,-0.100
+3,13:45,3,6,PIT 29,14,6,Ben Roethlisberger pass complete short middle to Ryan Switzer for 13 yards (tackle by Anthony Levine),-0.100,1.730
+3,13:05,1,10,PIT 42,14,6,James Conner left guard for 3 yards (tackle by Michael Pierce and C.J. Mosley),1.730,1.590
+3,12:24,2,7,PIT 45,14,6,Ben Roethlisberger pass incomplete short left intended for James Conner (defended by Matt Judon),1.590,0.890
+3,12:21,,,,,,Timeout #1 by Pittsburgh Steelers,,
+3,12:21,3,7,PIT 45,14,6,Ben Roethlisberger pass complete short middle to Antonio Brown for 9 yards (tackle by Marlon Humphrey and Tony Jefferson),0.890,2.520
+3,11:44,1,10,BAL 46,14,6,James Conner left guard for 5 yards (tackle by Brandon Carr),2.520,2.650
+3,11:03,2,5,BAL 41,14,6,James Conner right guard for 5 yards (tackle by Tavon Young),2.650,3.180
+3,10:21,1,10,BAL 36,14,6,Ben Roethlisberger pass complete short right to Vance McDonald for 11 yards (tackle by Brandon Carr),3.180,3.910
+3,9:46,1,10,BAL 25,14,6,Ben Roethlisberger pass complete short middle to James Conner for 4 yards (tackle by Zach Sieler and Brandon Carr),3.910,3.900
+3,9:00,2,6,BAL 21,14,6,Ben Roethlisberger pass incomplete deep left intended for Antonio Brown (defended by Tavon Young),3.900,3.200
+3,8:54,3,6,BAL 21,14,6,Ben Roethlisberger pass complete short left to JuJu Smith-Schuster for 7 yards (tackle by Tavon Young),3.200,4.650
+3,8:17,1,10,BAL 14,14,6,James Conner right end for 3 yards (tackle by Marlon Humphrey),4.650,4.520
+3,7:35,2,7,BAL 11,14,6,Ben Roethlisberger pass complete short middle to James Conner for 10 yards (tackle by Tony Jefferson),4.520,6.970
+3,6:50,1,1,BAL 1,20,6,"Ben Roethlisberger up the middle for 1 yard, touchdown",6.970,7.000
+3,6:46,,,BAL 15,20,6,Chris Boswell kicks extra point no good wide right,0.000,-1.000
+3,6:46,,,PIT 35,20,6,"Chris Boswell kicks off 65 yards, touchback.",0.000,0.610
+3,6:46,1,10,BAL 25,20,6,Joe Flacco pass complete short middle to Hayden Hurst for 21 yards (tackle by Jonathan Bostic and Terrell Edmunds),0.610,1.990
+3,6:19,1,10,BAL 46,20,6,Joe Flacco pass complete short right to Willie Snead for 6 yards (tackle by T.J. Watt),1.990,2.260
+3,5:53,2,4,PIT 48,20,6,Joe Flacco pass complete short middle to Willie Snead for 6 yards (tackle by Jonathan Bostic and T.J. Watt),2.260,2.790
+3,5:24,1,10,PIT 42,20,6,Joe Flacco pass complete short right to Willie Snead for 2 yards (tackle by Mike Hilton),2.790,2.510
+3,4:56,2,8,PIT 40,20,6,Lamar Jackson pass complete short right to Michael Crabtree for 12 yards (tackle by T.J. Watt),2.510,3.710
+3,4:32,1,10,PIT 28,20,6,Joe Flacco pass complete short left to Willie Snead for 5 yards (tackle by Mike Hilton),3.710,3.840
+3,3:55,2,5,PIT 23,20,6,Joe Flacco pass incomplete short middle intended for Michael Crabtree,3.840,3.140
+3,3:51,3,5,PIT 23,20,6,Joe Flacco pass complete short right to John Brown for 6 yards (tackle by Joe Haden). Penalty on Cameron Heyward: Illegal Use of Hands (Declined),3.140,4.440
+3,3:15,1,10,PIT 17,20,6,Joe Flacco pass incomplete short right intended for Lamar Jackson,4.440,3.850
+3,3:12,2,10,PIT 17,20,6,Joe Flacco pass incomplete deep left intended for Mark Andrews (defended by Terrell Edmunds),3.850,3.070
+3,3:07,3,10,PIT 17,20,6,"Joe Flacco pass incomplete deep right intended for Mark Andrews (defended by Morgan Burnett). Penalty on Morgan Burnett: Defensive Pass Interference, 16 yards (no play)",3.070,6.970
+3,3:01,1,1,PIT 1,20,12,"Alex Collins right end for 1 yard, touchdown",6.970,7.000
+3,2:56,,,PIT 15,20,13,Justin Tucker kicks extra point good,0.000,0.000
+3,2:56,,,BAL 35,20,13,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+3,2:56,1,10,PIT 25,20,13,Jaylen Samuels up the middle for 2 yards (tackle by Michael Pierce),0.610,0.330
+3,2:18,2,8,PIT 27,20,13,Ben Roethlisberger pass complete short right to Jesse James for 2 yards (tackle by Tony Jefferson and Kenny Young),0.330,-0.100
+3,1:36,3,6,PIT 29,20,13,Ben Roethlisberger pass incomplete deep left intended for James Washington,-0.100,-1.440
+3,1:31,4,6,PIT 29,20,13,"Jordan Berry punts 42 yards, fair catch by Cyrus Jones at BAL-29",-1.440,-0.870
+3,1:24,1,10,BAL 29,20,13,"Joe Flacco pass complete short middle to Alex Collins for 16 yards (tackle by Terrell Edmunds). Penalty on Orlando Brown: Offensive Holding, 10 yards (no play)",0.870,0.110
+3,1:09,1,20,BAL 19,20,13,Joe Flacco sacked by Bud Dupree and Vince Williams for -7 yards,0.110,-2.020
+3,0:33,2,27,BAL 12,20,13,Joe Flacco pass complete short left to Javorius Allen for 4 yards (tackle by Cameron Heyward and Morgan Burnett),-2.020,-2.510
+Quarter,Time,Down,ToGo,Location,PIT,BAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,23,BAL 16,20,13,Joe Flacco pass complete short middle to Willie Snead for 7 yards (tackle by Morgan Burnett),-2.510,-1.830
+4,14:26,4,16,BAL 23,20,13,"Sam Koch punts 52 yards, returned by Ryan Switzer for no gain (tackle by Chuck Clark and Patrick Onwuasor). Penalty on Darrius Heyward-Bey: Offensive Holding, 10 yards",-1.830,0.220
+4,14:15,1,10,PIT 15,20,13,James Conner left guard for 5 yards (tackle by Matt Judon),-0.220,0.080
+4,13:29,2,5,PIT 20,20,13,"Ben Roethlisberger pass complete short left to Antonio Brown for 12 yards (tackle by Jimmy Smith). Penalty on Antonio Brown: Offensive Pass Interference, 10 yards (no play)",0.080,-1.150
+4,13:00,2,15,PIT 10,20,13,"Ben Roethlisberger right end for no gain (tackle by Za'Darius Smith). Penalty on Alejandro Villanueva: Offensive Holding, 5 yards (no play)",-1.150,-1.510
+4,12:39,2,20,PIT 5,20,13,Joshua Dobbs pass complete deep middle to JuJu Smith-Schuster for 22 yards (tackle by Eric Weddle),-1.510,0.740
+4,11:56,1,10,PIT 27,20,13,James Conner right guard for 1 yard (tackle by Terrell Suggs and C.J. Mosley),0.740,0.330
+4,11:17,2,9,PIT 28,20,13,Ben Roethlisberger pass complete deep right to Jesse James for 51 yards (tackle by Brandon Carr),0.330,4.170
+4,10:31,1,10,BAL 21,20,13,James Conner right end for 2 yards (tackle by Patrick Onwuasor),4.170,3.900
+4,9:55,2,8,BAL 19,20,13,Ben Roethlisberger pass incomplete deep right intended for Antonio Brown,3.900,3.180
+4,9:50,3,8,BAL 19,20,13,Ben Roethlisberger pass complete short middle to JuJu Smith-Schuster for 9 yards (tackle by Eric Weddle),3.180,4.910
+4,9:20,1,10,BAL 10,20,13,Ben Roethlisberger pass incomplete short middle intended for JuJu Smith-Schuster (defended by Jimmy Smith),4.910,4.190
+4,9:15,2,10,BAL 10,20,13,James Conner left tackle for -1 yards (tackle by C.J. Mosley),4.190,3.120
+4,8:32,3,11,BAL 11,20,13,Ben Roethlisberger pass incomplete short middle intended for Antonio Brown (defended by Jimmy Smith),3.120,2.700
+4,8:29,4,11,BAL 11,23,13,Chris Boswell 29 yard field goal good,2.700,3.000
+4,8:26,,,PIT 35,23,13,"Chris Boswell kicks off 65 yards, touchback.",0.000,0.610
+4,8:26,1,10,BAL 25,23,13,Joe Flacco pass incomplete short left intended for Willie Snead,0.610,0.060
+4,8:22,2,10,BAL 25,23,13,"Joe Flacco pass incomplete deep left intended for Michael Crabtree. Penalty on Coty Sensabaugh: Defensive Pass Interference, 19 yards (no play)",0.060,1.860
+4,8:17,1,10,BAL 44,23,13,Joe Flacco pass complete short left to Javorius Allen for 8 yards (tackle by Terrell Edmunds),1.860,2.400
+4,7:50,2,2,PIT 48,23,13,Joe Flacco pass incomplete short right intended for Hayden Hurst,2.400,1.690
+4,7:44,3,2,PIT 48,23,13,Alex Collins left guard for 3 yards (tackle by Morgan Burnett and Anthony Chickillo),1.690,2.590
+4,7:14,1,10,PIT 45,23,13,Joe Flacco pass complete deep middle to Mark Andrews for 21 yards (tackle by Sean Davis),2.590,3.970
+4,6:45,1,10,PIT 24,23,13,Joe Flacco pass incomplete deep middle intended for Mark Andrews,3.970,3.430
+4,6:29,2,10,PIT 24,23,13,Joe Flacco pass complete short middle to Willie Snead for 6 yards (tackle by Sean Davis),3.430,3.570
+4,6:08,3,4,PIT 18,23,13,Joe Flacco pass complete short middle to Javorius Allen for -1 yards (tackle by Anthony Chickillo),3.570,2.240
+4,5:27,4,5,PIT 19,23,16,Justin Tucker 37 yard field goal good,2.240,3.000
+4,5:23,,,BAL 35,23,16,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+4,5:23,1,10,PIT 25,23,16,James Conner right end for 4 yards (tackle by Brent Urban and Tony Jefferson),0.610,0.600
+4,4:52,2,6,PIT 29,23,16,James Conner left guard for 1 yard (tackle by Brent Urban and Za'Darius Smith),0.600,0.040
+4,4:07,3,5,PIT 30,23,16,Ben Roethlisberger pass complete short middle to Antonio Brown for 8 yards (tackle by Jimmy Smith),0.040,1.470
+4,3:22,1,10,PIT 38,23,16,James Conner left guard for 2 yards (tackle by C.J. Mosley),1.470,1.190
+4,2:38,2,8,PIT 40,23,16,James Conner right guard for 4 yards (tackle by Brandon Williams and Chris Wormley),1.190,1.020
+4,2:00,3,4,PIT 44,23,16,Ben Roethlisberger pass complete short middle to JuJu Smith-Schuster for 7 yards (tackle by Anthony Levine),1.020,2.320
+4,1:55,,,,,,Timeout #1 by Baltimore Ravens,,
+4,1:55,1,10,BAL 49,23,16,James Conner left guard for no gain (tackle by Matt Judon),2.320,1.780
+4,1:50,,,,,,Timeout #2 by Baltimore Ravens,,
+4,1:50,2,10,BAL 49,23,16,James Conner left tackle for -1 yards (tackle by Jimmy Smith),1.780,0.960
+4,1:45,,,,,,Timeout #3 by Baltimore Ravens,,
+4,1:45,3,11,PIT 50,23,16,Ben Roethlisberger sacked by Matt Judon for -10 yards,0.960,-0.720
+4,0:57,,,,,,Timeout #2 by Pittsburgh Steelers,,
+4,0:57,4,21,PIT 40,23,16,"Jordan Berry punts 45 yards, returned by Cyrus Jones for 9 yards (tackle by Sean Davis)",-0.720,-0.540
+4,0:44,1,10,BAL 24,23,16,Joe Flacco pass incomplete deep right intended for Michael Crabtree (defended by Coty Sensabaugh),0.540,0.000
+4,0:37,2,10,BAL 24,23,16,Joe Flacco sacked by Stephon Tuitt for -7 yards,0.000,-1.850
+4,0:14,3,17,BAL 17,23,16,"Penalty on Bud Dupree: Defensive Offside, 5 yards (no play)",-1.850,-0.960
+4,0:13,3,12,BAL 22,23,16,"Penalty on Alex Lewis: False Start, 5 yards (no play)",-0.960,-1.850
+4,0:13,3,17,BAL 17,23,16,Joe Flacco pass complete short right to John Brown for 6 yards,-1.850,-1.830
+4,0:08,4,11,BAL 23,23,16,"Joe Flacco pass complete short middle to Michael Crabtree for 7 yards, lateral to Javorius Allen for -8 yards, lateral to John Brown for -2 yards. Penalty on John Brown: Illegal Forward Pass",-1.830,0.670
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

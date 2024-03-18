@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,MIN 20,6,2:56,9,Punt
+2,1,9:30,ARI 47,6,2:51,47,Touchdown
+3,1,5:57,ARI 23,6,3:14,23,Touchdown
+4,1,1:29,MIN 48,4,1:41,43,Fumble
+5,2,9:14,MIN 9,12,7:06,91,Touchdown
+6,2,1:12,MIN 1,2,1:12,2,End of Half
+7,3,13:43,MIN 20,5,2:38,25,Punt
+8,3,9:37,MIN 20,11,5:10,64,Blocked FG
+9,3,4:27,MIN 20,7,4:10,80,Touchdown
+10,4,7:43,MIN 15,3,1:50,-1,Punt
+11,4,4:06,MIN 24,3,1:46,9,Punt

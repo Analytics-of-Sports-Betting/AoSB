@@ -1,0 +1,181 @@
+Quarter,Time,Down,ToGo,Location,TAM,ATL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Falcons won the coin toss, Falcons to receive the opening kickoff.",,
+1,15:00,,,TAM 30,0,0,"Matt Bryant kicks off 74 yards, returned by Allen Rossum for 23 yards (tackle by Will Allen)",0.000,0.150
+1,14:55,1,10,ATL 19,0,0,Michael Vick middle for 6 yards (tackle by Will Allen),0.150,0.480
+1,14:15,2,4,ATL 25,0,0,Michael Vick pass complete short right to Michael Jenkins for 5 yards (tackle by Juran Bolden),0.480,0.940
+1,13:39,1,10,ATL 30,0,0,Warrick Dunn for 1 yard (tackle by Chris Hovan),0.940,0.530
+1,13:02,2,9,ATL 31,0,0,Warrick Dunn left tackle for no gain (tackle by Greg Spires),0.530,-0.160
+1,12:20,3,9,ATL 31,0,0,Michael Vick for 12 yards (tackle by Ronde Barber),-0.160,1.800
+1,11:49,1,10,ATL 43,0,0,Michael Vick left end for 16 yards (tackle by Shelton Quarles),1.800,2.850
+1,10:57,,,,0,0,Timeout #1 by Atlanta Falcons,0.000,2.850
+1,10:57,1,10,TAM 41,0,0,Michael Vick pass incomplete deep right intended for Michael Jenkins,2.850,2.310
+1,10:49,2,10,TAM 41,0,0,Warrick Dunn left end for 2 yards (tackle by Derrick Brooks),2.310,1.880
+1,10:04,3,8,TAM 39,0,0,"Michael Vick pass complete deep left to Roddy White for 18 yards (tackle by Jermaine Phillips and Torrie Cox). Roddy White fumbles (forced by Jermaine Phillips), recovered by Jermaine Phillips at TAM-13 (tackle by Alge Crumpler)",1.880,-0.940
+1,9:51,1,10,TAM 30,0,0,Cadillac Williams left tackle for 2 yards (tackle by Demorrio Williams and Keith Brooking),0.940,0.660
+1,9:15,2,8,TAM 32,0,0,Cadillac Williams middle for 4 yards (tackle by Keith Brooking),0.660,0.500
+1,8:38,3,4,TAM 36,0,0,Cadillac Williams middle for 4 yards (tackle by Keith Brooking),0.500,1.600
+1,7:58,1,10,TAM 40,0,0,Chris Simms pass incomplete short right intended for Cadillac Williams,1.600,1.050
+1,7:55,2,10,TAM 40,0,0,Chris Simms pass complete short left to Joey Galloway for 26 yards (tackle by Chris Crocker),1.050,3.310
+1,7:31,1,10,ATL 34,0,0,Cadillac Williams left tackle for 5 yards (tackle by Chauncey Davis),3.310,3.450
+1,6:54,2,5,ATL 29,0,0,Cadillac Williams left tackle for 2 yards (tackle by Demorrio Williams),3.450,3.010
+1,6:16,3,3,ATL 27,0,0,Chris Simms pass incomplete short right intended for Mike Alstott,3.010,1.770
+1,6:10,4,3,ATL 27,0,0,Matt Bryant 45 yard field goal no good,1.770,-1.270
+1,6:06,1,10,ATL 35,0,0,Warrick Dunn middle for 7 yards (tackle by Jermaine Phillips),1.270,1.670
+1,5:29,2,3,ATL 42,0,0,Michael Vick for 14 yards (tackle by Shelton Quarles),1.670,2.650
+1,5:00,1,10,TAM 44,0,0,"Michael Vick pass incomplete. Penalty on Ronde Barber: Defensive Pass Interfere, 34 yards (no play)",2.650,4.910
+1,4:53,1,10,TAM 10,0,0,Warrick Dunn for 9 yards (tackle by Jermaine Phillips),4.910,5.910
+1,4:21,2,1,TAM 1,0,0,Michael Vick pass incomplete short right intended for Michael Jenkins,5.910,5.170
+1,4:17,3,1,TAM 1,0,6,"Michael Vick left end for 1 yard, touchdown",5.170,7.000
+1,,,,TAM 2,0,7,Michael Koenen kicks extra point good,0.000,0.000
+1,,,,ATL 30,0,7,"Michael Koenen kicks off 68 yards, returned by Michael Pittman for 17 yards (tackle by Jordan Beck)",0.000,0.150
+1,4:07,1,10,TAM 19,0,7,Cadillac Williams left end for no gain (tackle by Michael Boley and Jimmy Williams),0.150,-0.390
+1,3:31,2,10,TAM 19,0,7,Chris Simms pass complete deep right to Joey Galloway for 28 yards (tackle by Chris Crocker),-0.390,2.060
+1,3:08,1,10,TAM 47,0,7,Cadillac Williams middle for 2 yards (tackle by Paul Carrington),2.060,1.790
+1,2:29,2,8,TAM 49,0,7,Chris Simms pass incomplete short right intended for Mike Alstott (defended by Darrell Shropshire),1.790,1.090
+1,2:24,,,,0,7,Timeout #1 by Tampa Bay Buccaneers,0.000,1.090
+1,2:24,3,8,TAM 49,0,7,"Penalty on Darrell Shropshire: Encroachment, 5 yards (no play)",1.090,1.750
+1,2:24,3,3,ATL 46,0,7,Chris Simms pass incomplete deep right intended for Joey Galloway (defended by Roderick Coleman),1.750,0.200
+1,2:19,4,3,ATL 46,0,7,"Josh Bidwell punts 35 yards, fair catch by Allen Rossum",0.200,0.370
+1,2:11,1,10,ATL 11,0,7,"Warrick Dunn left tackle for 4 yards (tackle by Shelton Quarles and Chris Hovan). Warrick Dunn fumbles (forced by Shelton Quarles), recovered by Warrick Dunn at ATL-15",-0.370,-0.430
+1,1:24,2,6,ATL 15,0,7,Warrick Dunn left tackle for 4 yards (tackle by Jermaine Phillips and Shelton Quarles),-0.430,-0.480
+1,0:43,3,2,ATL 19,0,7,Warrick Dunn right tackle for 14 yards (tackle by Torrie Cox),-0.480,1.140
+Quarter,Time,Down,ToGo,Location,TAM,ATL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,ATL 33,0,7,Michael Vick pass complete short left to Michael Jenkins for 9 yards (tackle by Ronde Barber),1.140,1.810
+2,14:21,2,1,ATL 42,0,7,Warrick Dunn left end for no gain (tackle by Derrick Brooks),1.810,1.090
+2,13:53,3,1,ATL 42,0,7,Michael Vick middle for 1 yard (tackle by Greg Spires),1.090,1.800
+2,13:16,1,10,ATL 43,0,7,Michael Vick pass complete short right to Ashley Lelie for 14 yards (tackle by Jermaine Phillips),1.800,2.720
+2,12:30,1,10,TAM 43,0,7,Warrick Dunn middle for 13 yards (tackle by Will Allen),2.720,3.580
+2,11:47,1,10,TAM 30,0,7,Michael Vick for 16 yards (tackle by Juran Bolden),3.580,4.650
+2,11:17,1,10,TAM 14,0,7,Jerious Norwood left tackle for -3 yards (tackle by Chris Hovan),4.650,3.590
+2,10:40,,,,0,7,Timeout #2 by Atlanta Falcons,0.000,3.590
+2,10:40,2,13,TAM 17,0,7,Michael Vick sacked by Ryan Nece for -6 yards,3.590,2.210
+2,10:12,3,19,TAM 23,0,7,Warrick Dunn middle for 11 yards (tackle by Will Allen and Shelton Quarles),2.210,2.630
+2,9:35,4,8,TAM 12,0,7,"Michael Koenen 30 yard field goal no good, blocked by Jermaine Phillips",2.630,-0.280
+2,9:31,1,10,TAM 20,0,7,Chris Simms pass incomplete short left intended for Michael Clayton is intercepted by DeAngelo Hall at TAM-30 and returned for 18 yards,0.280,-4.780
+2,9:19,1,10,TAM 12,0,7,Jerious Norwood right end for 5 yards (tackle by Juran Bolden),4.780,5.020
+2,8:50,2,5,TAM 7,0,7,Michael Vick left end for 3 yards (tackle by Derrick Brooks),5.020,4.840
+2,8:30,3,2,TAM 4,0,13,"Michael Vick pass complete short right to Fred McCrary for 4 yards, touchdown",4.840,7.000
+2,,,,TAM 2,0,14,Michael Koenen kicks extra point good,0.000,0.000
+2,,,,ATL 30,0,14,"Michael Koenen kicks off 72 yards, returned by Michael Pittman for 18 yards (tackle by John Leake)",0.000,-0.140
+2,8:20,1,10,TAM 16,0,14,Cadillac Williams left tackle for -2 yards (tackle by Grady Jackson),-0.140,-0.890
+2,7:40,2,12,TAM 14,0,14,Chris Simms middle for 3 yards (tackle by Keith Brooking),-0.890,-1.200
+2,6:58,3,9,TAM 17,0,14,Chris Simms pass incomplete short right intended for Michael Clayton (defended by Darrell Shropshire),-1.200,-2.320
+2,6:54,4,9,TAM 17,0,14,"Josh Bidwell punts 53 yards, fair catch by Allen Rossum. Penalty on Todd McClure: Defensive Holding, 10 yards",-2.320,-0.280
+2,6:46,1,10,ATL 20,0,14,Michael Vick pass complete short middle to Alge Crumpler for 22 yards (tackle by Jermaine Phillips),0.280,1.730
+2,6:06,1,10,ATL 42,0,14,Michael Vick left end for 2 yards (tackle by Derrick Brooks),1.730,1.460
+2,5:34,2,8,ATL 44,0,14,Warrick Dunn middle for 30 yards (tackle by Ronde Barber),1.460,3.840
+2,5:05,1,10,TAM 26,0,14,Jerious Norwood pass incomplete,3.840,3.300
+2,4:58,2,10,TAM 26,0,14,Michael Vick pass complete short left to Ashley Lelie for 2 yards (tackle by Torrie Cox and Jermaine Phillips),3.300,2.870
+2,4:17,3,8,TAM 24,0,14,Michael Vick pass complete short right to Ashley Lelie for 6 yards (tackle by Derrick Brooks),2.870,2.370
+2,3:36,4,2,TAM 18,0,14,Michael Koenen 36 yard field goal no good,2.370,-0.670
+2,3:32,1,10,TAM 26,0,14,Cadillac Williams left tackle for 5 yards (tackle by Michael Boley),0.670,0.810
+2,2:57,2,5,TAM 31,0,14,Chris Simms pass complete short left to Mike Alstott for 1 yard (tackle by Michael Boley),0.810,0.230
+2,2:21,3,4,TAM 32,0,14,Chris Simms pass complete short left to Ike Hilliard for 11 yards,0.230,1.800
+2,2:00,1,10,TAM 43,0,14,Chris Simms pass complete short left to Michael Pittman for 7 yards (tackle by DeAngelo Hall),1.800,2.200
+2,1:16,2,3,,0,14,Chris Simms pass complete deep right to Michael Clayton for 19 yards (tackle by Kevin Mathis),2.200,3.510
+2,0:44,1,10,ATL 31,0,14,Chris Simms pass complete short right to Michael Pittman for 6 yards,3.510,3.780
+2,0:40,2,4,ATL 25,0,14,Chris Simms pass complete short right to Ike Hilliard for 5 yards (tackle by DeAngelo Hall),3.780,4.240
+2,0:34,1,10,ATL 20,0,14,Chris Simms pass incomplete short right intended for Joey Galloway (defended by Chris Crocker),4.240,3.690
+2,0:30,2,10,ATL 20,0,14,Chris Simms pass complete short middle to Joey Galloway for 11 yards (tackle by Demorrio Williams),3.690,5.140
+2,0:23,,,,0,14,Timeout #2 by Tampa Bay Buccaneers,0.000,5.140
+2,0:23,1,9,ATL 9,0,14,Chris Simms pass incomplete,5.140,4.380
+2,0:17,2,9,ATL 9,0,14,Chris Simms pass incomplete short middle intended for Michael Pittman,4.380,3.360
+2,0:13,3,9,ATL 9,0,14,"Chris Simms pass incomplete short middle intended for Ike Hilliard. Penalty on Chris Crocker: Illegal Contact, 5 yards (no play)",3.360,6.280
+2,0:07,,,,0,14,Timeout #3 by Atlanta Falcons,0.000,6.280
+2,0:07,1,4,ATL 4,0,14,Chris Simms pass incomplete short left intended for Michael Clayton,6.280,5.340
+2,0:01,2,4,ATL 4,3,14,Matt Bryant 22 yard field goal good,5.340,3.000
+Quarter,Time,Down,ToGo,Location,TAM,ATL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,ATL 30,3,14,"Michael Koenen kicks off 70 yards, touchback",0.000,0.280
+3,15:00,1,10,TAM 20,3,14,Cadillac Williams middle for 4 yards (tackle by Michael Boley),0.280,0.270
+3,14:20,2,6,TAM 24,3,14,Cadillac Williams middle for 2 yards (tackle by Grady Jackson),0.270,-0.160
+3,13:45,3,4,TAM 26,3,14,Chris Simms pass complete short middle to Michael Clayton for 10 yards (tackle by Kevin Mathis),-0.160,1.330
+3,13:06,1,10,TAM 36,3,14,Chris Simms pass complete deep left to Joey Galloway for 55 yards (tackle by Lawyer Milloy),1.330,5.140
+3,12:18,1,9,ATL 9,3,14,Cadillac Williams left tackle for 3 yards (tackle by Paul Carrington),5.140,4.950
+3,11:38,2,6,ATL 6,3,14,Cadillac Williams middle for 3 yards (tackle by Michael Boley and Keith Brooking),4.950,4.720
+3,10:59,3,3,ATL 3,3,14,Chris Simms pass incomplete short left intended for Alex Smith is intercepted by Jason Webster at ATL-1 and returned for 3 yards,4.720,0.380
+3,10:53,1,10,ATL 4,3,14,Warrick Dunn for 6 yards (tackle by Ronde Barber),-0.380,-0.340
+3,10:27,2,4,ATL 10,3,14,Warrick Dunn right tackle for 9 yards (tackle by Ryan Nece),-0.340,0.150
+3,9:50,1,10,ATL 19,3,14,"Michael Vick right end for 8 yards (tackle by Earnest Graham). Penalty on Ashley Lelie: Offensive Holding, 10 yards",0.150,-0.080
+3,9:24,1,12,ATL 17,3,14,Michael Vick pass incomplete deep left intended for Ashley Lelie,-0.080,-0.720
+3,9:19,2,12,ATL 17,3,14,Michael Vick right end for 22 yards (tackle by Ronde Barber),-0.720,1.530
+3,8:34,1,10,ATL 39,3,14,Michael Vick sacked by Juran Bolden for 0 yards,1.530,0.990
+3,7:51,2,10,ATL 39,3,14,Warrick Dunn middle for 12 yards (tackle by Jermaine Phillips),0.990,2.320
+3,7:19,1,10,TAM 49,3,14,"Michael Vick pass complete to DeAngelo Hall for no gain. DeAngelo Hall fumbles (forced by Jermaine Phillips), recovered by Michael Jenkins at TAM-49",2.320,1.780
+,,,,,,,"Replay Assistant challenged the ruling, and the play was upheld.",,
+3,6:37,2,10,TAM 49,3,14,Warrick Dunn middle for -3 yards (tackle by Chris Hovan),1.780,0.700
+3,5:56,3,13,ATL 48,3,14,"Michael Vick pass incomplete short middle intended for Alge Crumpler is intercepted by Derrick Brooks at TAM-37 and returned for 21 yards. Penalty on Ryan Nece: Illegal Block Above the , 10 yards",0.700,-2.130
+3,5:43,1,10,TAM 48,3,14,"Chris Simms pass complete short left to Joey Galloway for no gain. Penalty on Michael Pittman: Illegal Block Above the , 10 yards",2.130,1.470
+3,5:24,1,20,TAM 38,3,14,"Chris Simms pass incomplete deep right intended for Alex Smith. Penalty on Darrell Shropshire: Roughing the Passer (Declined), Penalty on Chris Crocker: Defensive Pass Interfere, 18 yards (no play)",1.470,2.650
+3,5:16,1,10,ATL 44,3,14,Cadillac Williams middle for 4 yards (tackle by Lawyer Milloy),2.650,2.650
+3,4:37,2,6,ATL 40,3,14,Chris Simms pass complete short right to Mike Alstott for 1 yard (tackle by Jimmy Williams and Michael Boley),2.650,2.080
+3,3:55,3,5,ATL 39,3,14,Chris Simms pass complete short right to Joey Galloway for 7 yards (tackle by Keith Brooking),2.080,3.450
+3,3:18,1,10,ATL 32,3,14,"Cadillac Williams right tackle for 5 yards. Penalty on Kenyatta Walker: Offensive Holding, 10 yards (no play)",3.450,2.790
+3,2:59,1,20,ATL 42,3,14,Chris Simms pass complete short left to Michael Clayton for 12 yards (tackle by Jason Webster),2.790,3.170
+3,2:20,2,8,ATL 30,3,14,Chris Simms pass incomplete deep right intended for Joey Galloway (defended by Jimmy Williams),3.170,2.480
+3,2:14,3,8,ATL 30,3,14,Chris Simms pass complete short left to Anthony Becht for 5 yards (tackle by Demorrio Williams),2.480,1.900
+3,1:32,4,3,ATL 25,3,14,Matt Bryant 43 yard field goal no good,1.900,-1.140
+3,1:26,1,10,ATL 33,3,14,Warrick Dunn middle for 6 yards (tackle by Jermaine Phillips),1.140,1.400
+3,0:53,2,4,ATL 39,3,14,Warrick Dunn left tackle for 1 yard (tackle by Jermaine Phillips),1.400,0.830
+3,0:16,3,3,ATL 40,3,14,Michael Vick pass incomplete deep left intended for Ashley Lelie (defended by Ronde Barber),0.830,-0.720
+3,0:04,4,3,ATL 40,3,14,"Michael Koenen punts 55 yards, returned by Mark Jones for 10 yards (tackle by Omare Lowe)",-0.720,0.220
+Quarter,Time,Down,ToGo,Location,TAM,ATL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,TAM 15,3,14,Chris Simms pass complete deep right to Joey Galloway for 18 yards (tackle by DeAngelo Hall),-0.220,1.140
+4,14:23,1,10,TAM 33,3,14,Cadillac Williams middle for -1 yards (tackle by Jonathan Babineaux),1.140,0.460
+4,13:49,2,11,TAM 32,3,14,Chris Simms pass incomplete short left intended for Anthony Becht (defended by Michael Boley),0.460,-0.230
+4,13:42,3,11,TAM 32,3,14,Chris Simms pass incomplete deep middle intended for Joey Galloway,-0.230,-1.240
+,,,,,,,"TAM challenged the ruling, and the original play was overturned.",,
+4,13:38,4,11,TAM 32,3,14,"Josh Bidwell punts 48 yards, returned by Allen Rossum for 15 yards (tackle by Blue Adams). Penalty on Dewayne White: Personal Foul, 15 yards",-1.240,-2.260
+4,13:27,1,10,,3,14,Michael Vick for 18 yards (tackle by Will Allen),2.260,3.450
+4,13:00,1,10,TAM 32,3,14,Jerious Norwood middle for 3 yards (tackle by Chris Hovan),3.450,3.310
+4,12:29,2,7,TAM 29,3,14,Michael Vick pass complete short left to Jerious Norwood for 12 yards (tackle by Simeon Rice),3.310,4.440
+4,11:58,1,10,TAM 17,3,14,"Penalty on Todd Weiner: False Start, 5 yards (no play)",4.440,4.110
+4,11:42,1,15,TAM 22,3,14,Michael Vick left end for -6 yards (tackle by Ronde Barber),4.110,2.410
+4,11:13,2,21,TAM 28,3,14,Jerious Norwood left tackle for 10 yards (tackle by Jermaine Phillips),2.410,3.000
+4,10:31,3,11,TAM 18,3,14,Jerious Norwood right tackle for 6 yards (tackle by Derrick Brooks and Will Allen),3.000,2.680
+4,9:49,4,5,TAM 12,3,14,"Michael Koenen 30 yard field goal no good, blocked by Dewayne White",2.680,-0.340
+4,9:43,1,10,TAM 21,3,14,Chris Simms pass complete to Joey Galloway for 10 yards,0.340,1.000
+4,9:34,1,10,TAM 31,3,14,Chris Simms pass incomplete intended for Joey Galloway (defended by DeAngelo Hall),1.000,0.460
+4,9:28,2,10,TAM 31,3,14,Chris Simms pass incomplete short left intended for Joey Galloway (defended by Patrick Kerney),0.460,-0.230
+4,9:23,3,10,TAM 31,3,14,Chris Simms pass incomplete short right intended for Michael Clayton,-0.230,-1.310
+4,9:20,4,10,TAM 31,3,14,"Josh Bidwell punts 34 yards. Penalty on Antoine Cash: Offensive Holding, 10 yards",-1.310,-1.930
+4,9:11,1,10,ATL 45,3,14,Jerious Norwood left tackle for 23 yards (tackle by Will Allen),1.930,3.450
+4,8:38,1,10,TAM 32,3,14,Michael Vick left end for 14 yards (tackle by Juran Bolden),3.450,4.370
+4,8:07,1,10,TAM 18,3,14,Jerious Norwood left tackle for -2 yards (tackle by Ryan Nece),4.370,3.560
+4,7:29,2,12,TAM 20,3,14,"Michael Vick pass incomplete short left intended for Michael Jenkins. Penalty on Torrie Cox: Illegal Contact, 5 yards (no play)",3.560,4.580
+4,7:23,1,10,TAM 15,3,14,Jerious Norwood left tackle for 4 yards (tackle by Jermaine Phillips),4.580,4.640
+4,6:37,2,6,TAM 11,3,14,Jerious Norwood right end for -1 yards (tackle by Shelton Quarles),4.640,3.580
+4,5:53,3,7,TAM 12,3,14,Michael Vick sacked by Dewayne White for -10 yards,3.580,1.990
+4,5:21,4,17,TAM 22,3,14,Michael Koenen 40 yard field goal no good,1.990,-0.940
+4,5:17,1,10,TAM 30,3,14,Chris Simms pass complete short left to Anthony Becht for 5 yards (tackle by Lawyer Milloy and Demorrio Williams),0.940,1.070
+4,4:50,2,5,TAM 35,3,14,Chris Simms sacked by Roderick Coleman for -2 yards,1.070,0.100
+4,4:24,3,7,TAM 33,3,14,"Chris Simms pass complete to Mike Alstott for 8 yards (tackle by Kevin Mathis and Jason Webster). Penalty on Josh Mallard: Roughing the Passer, 15 yards",0.100,2.650
+4,4:06,1,10,ATL 44,3,14,Chris Simms pass incomplete deep middle intended for Joey Galloway is intercepted by DeAngelo Hall and returned for 60 yards,2.650,-2.390
+4,3:45,1,10,TAM 48,3,14,Warrick Dunn right tackle for 4 yards (tackle by Greg Spires),2.390,2.390
+4,3:45,2,6,TAM 44,3,14,Warrick Dunn left tackle for 1 yard (tackle by Shelton Quarles),2.390,1.820
+4,2:54,,,,3,14,Timeout #1 by Tampa Bay Buccaneers,0.000,1.820
+4,2:54,3,5,TAM 43,3,14,Warrick Dunn middle for 3 yards (tackle by Ellis Wyms and Shelton Quarles),1.820,0.590
+4,2:42,,,,3,14,Timeout #2 by Tampa Bay Buccaneers,0.000,0.590
+4,2:49,4,2,TAM 40,3,14,Michael Koenen punts 30 yards,0.590,0.380
+4,2:42,1,10,TAM 10,3,14,Chris Simms pass complete short middle to Michael Pittman for 4 yards (tackle by Keith Brooking),-0.380,-0.460
+4,2:20,2,6,TAM 14,3,14,Chris Simms pass complete to Michael Clayton for 11 yards (tackle by Keith Brooking),-0.460,0.610
+4,2:00,1,10,TAM 25,3,14,Chris Simms pass incomplete short left intended for Michael Pittman,0.610,0.060
+4,1:53,2,10,TAM 25,3,14,Chris Simms pass complete short left to Joey Galloway for 6 yards (tackle by Keith Brooking),0.060,0.170
+4,1:33,3,4,TAM 31,3,14,"Chris Simms pass incomplete short left intended for Michael Pittman. Penalty on Roderick Coleman: Roughing the Passer, 15 yards (no play)",0.170,1.990
+4,1:27,1,10,TAM 46,3,14,Chris Simms pass complete short left to Ike Hilliard for 4 yards,1.990,1.990
+4,1:21,2,6,,3,14,Chris Simms pass incomplete short left intended for Michael Pittman (defended by DeAngelo Hall),1.990,1.290
+4,1:15,3,6,,3,14,Chris Simms pass complete short left to Ike Hilliard for 9 yards (tackle by DeAngelo Hall),1.290,2.850
+4,1:06,1,10,ATL 41,3,14,Chris Simms pass complete short left to Ike Hilliard for 12 yards (tackle by Keith Brooking),2.850,3.640
+4,0:48,1,10,ATL 29,3,14,Chris Simms pass incomplete short middle intended for Michael Pittman,3.640,3.100
+4,0:43,2,10,ATL 29,3,14,Chris Simms pass incomplete short left intended for Ike Hilliard,3.100,2.410
+4,0:36,3,10,ATL 29,3,14,Chris Simms pass complete short left to Ike Hilliard for 12 yards (tackle by Chris Crocker),2.410,4.440
+4,0:28,,,,3,14,Timeout #3 by Tampa Bay Buccaneers,0.000,4.440
+4,0:28,1,10,ATL 17,3,14,Chris Simms pass incomplete short right intended for Mike Alstott (defended by Kevin Mathis),4.440,3.850
+4,0:22,2,10,ATL 17,3,14,Chris Simms pass complete short middle to Michael Clayton for 10 yards (tackle by Keith Brooking),3.850,5.600
+4,0:05,1,7,ATL 7,3,14,Chris Simms spiked the ball,5.600,4.760
+4,0:04,2,7,ATL 7,3,14,"Penalty on Joey Galloway: False Start, 5 yards (no play)",4.760,3.860
+4,0:04,2,12,ATL 12,3,14,Chris Simms pass incomplete short left intended for Joey Galloway,3.860,3.100
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

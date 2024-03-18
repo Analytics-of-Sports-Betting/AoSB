@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,DEN 20,6,2:22,29,Punt
+2,1,10:30,DEN 33,6,2:48,34,Fumble
+3,1,4:23,DEN 20,5,3:01,28,Punt
+4,2,15:00,PIT 36,5,2:53,5,Field Goal
+5,2,9:19,DEN 11,6,2:45,15,Punt
+6,2,6:23,DEN 25,5,1:42,35,Missed FG
+7,2,2:09,DEN 20,1,0:11,0,Interception
+8,2,0:39,DEN 25,4,0:32,7,Punt
+9,3,11:50,PIT 41,10,3:50,31,Field Goal
+10,3,3:54,DEN 35,6,2:47,65,Touchdown
+11,4,11:26,DEN 13,4,1:25,-13,Safety
+12,4,9:41,DEN 46,6,1:58,54,Touchdown
+13,4,6:08,DEN 18,11,4:17,56,Downs

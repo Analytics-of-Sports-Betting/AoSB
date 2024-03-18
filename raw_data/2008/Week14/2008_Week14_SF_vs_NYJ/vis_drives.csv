@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,SFO 46,3,1:18,8,Punt
+2,1,8:47,NYJ 17,3,2:03,9,Punt
+3,1,2:16,NYJ 25,5,2:25,22,Punt
+4,2,12:38,NYJ 39,9,5:21,61,Touchdown
+5,2,0:46,NYJ 17,3,0:46,5,End of Half
+6,3,12:48,NYJ 8,3,1:11,9,Punt
+7,3,7:21,SFO 45,4,1:57,45,Touchdown
+8,4,14:44,NYJ 30,3,2:04,-2,Punt
+9,4,6:05,NYJ 1,4,1:46,7,Punt
+10,4,2:28,NYJ 22,5,0:36,16,Interception
+11,4,0:44,NYJ 30,4,0:44,-8,Downs

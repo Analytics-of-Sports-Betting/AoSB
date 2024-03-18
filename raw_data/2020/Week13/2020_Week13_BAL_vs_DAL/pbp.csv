@@ -1,0 +1,184 @@
+Quarter,Time,Down,ToGo,Location,DAL,BAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Ravens won the coin toss and deferred, Cowboys to receive the opening kickoff.",,
+1,15:00,,,BAL 35,0,0,"Justin Tucker kicks off 61 yards, returned by Tony Pollard for 15 yards (tackle by Chris Board)",0.000,0.150
+1,14:54,1,10,DAL 19,0,0,Ezekiel Elliott right tackle for 1 yard (tackle by Calais Campbell),0.150,-0.200
+1,14:22,2,9,DAL 20,0,0,Ezekiel Elliott left tackle for 7 yards (tackle by DeShon Elliott),-0.200,-0.030
+1,13:44,3,2,DAL 27,0,0,Andy Dalton pass complete short left to CeeDee Lamb for 4 yards (tackle by Marlon Humphrey),-0.030,1.000
+1,13:17,1,10,DAL 31,0,0,Andy Dalton pass complete short middle to CeeDee Lamb for 9 yards (tackle by Davontae Harris),1.000,1.680
+1,12:43,2,1,DAL 40,0,0,Ezekiel Elliott right tackle for 2 yards (tackle by Justin Ellis and Derek Wolfe),1.680,1.730
+1,12:09,1,10,DAL 42,0,0,"Andy Dalton pass complete short right to Tony Pollard for 11 yards (tackle by Patrick Queen). Penalty on Connor Williams: Offensive Holding, 10 yards (no play)",1.730,1.070
+1,11:40,1,20,DAL 32,0,0,Andy Dalton pass complete short right to Ezekiel Elliott for -4 yards (tackle by L.J. Fort),1.070,-0.700
+1,11:01,2,24,DAL 28,0,0,Andy Dalton pass complete short right to CeeDee Lamb for no gain (tackle by Marcus Peters),-0.700,-1.350
+1,10:26,3,24,DAL 28,0,0,Ezekiel Elliott right end for 9 yards (tackle by Yannick Ngakoue),-1.350,-0.910
+1,10:04,4,15,DAL 37,0,0,"Hunter Niswander punts 47 yards, fair catch by James Proche at BAL-16",-0.910,0.140
+1,9:57,1,10,BAL 16,0,0,Mark Ingram right guard for 3 yards (tackle by Neville Gallimore and Leighton Vander Esch),-0.140,-0.180
+1,9:22,2,7,BAL 19,0,0,Lamar Jackson right end for 10 yards (tackle by Jaylon Smith),-0.180,0.870
+1,8:42,1,10,BAL 29,0,0,Lamar Jackson pass complete short left to Mark Ingram for 1 yard (tackle by Leighton Vander Esch),0.870,0.460
+1,7:55,2,9,BAL 30,0,0,Lamar Jackson pass complete short middle to Marquise Brown for 3 yards (tackle by Jaylon Smith),0.460,0.170
+1,7:11,3,6,BAL 33,0,0,Lamar Jackson pass short middle intended for Marquise Brown is intercepted by Darian Thompson at BAL-37 and returned for 3 yards,0.170,-3.310
+1,7:03,1,10,BAL 34,0,0,Ezekiel Elliott right guard for 2 yards (tackle by Pernell McPhee),3.310,3.040
+1,6:17,2,8,BAL 32,0,0,Ezekiel Elliott right guard for 13 yards (tackle by Chuck Clark),3.040,4.310
+1,5:42,1,10,BAL 19,0,0,Andy Dalton pass complete short right to Blake Bell for 2 yards (tackle by Malik Harrison),4.310,4.030
+1,5:06,2,8,BAL 17,0,0,Ezekiel Elliott right guard for 4 yards (tackle by Patrick Queen),4.030,3.960
+1,4:29,3,4,BAL 13,0,0,Andy Dalton pass incomplete short left intended for Michael Gallup,3.960,2.640
+1,4:24,4,4,BAL 13,3,0,Greg Zuerlein 31 yard field goal good,2.640,3.000
+1,4:21,,,DAL 35,3,0,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+1,4:21,1,10,BAL 25,3,0,Gus Edwards left guard for 7 yards (tackle by Jaylon Smith),0.610,1.010
+1,3:47,2,3,BAL 32,3,0,Lamar Jackson right end for 5 yards (tackle by Chidobe Awuzie),1.010,1.400
+1,3:01,1,10,BAL 37,3,0,J.K. Dobbins right end for 18 yards (tackle by Darian Thompson),1.400,2.590
+1,2:25,1,10,DAL 45,3,0,"Lamar Jackson aborted snap, recovered by J.K. Dobbins at BAL-47",2.590,0.960
+1,1:42,2,18,BAL 47,3,0,Lamar Jackson pass complete short right to Marquise Brown for 4 yards (tackle by Jourdan Lewis),0.960,0.830
+1,1:15,3,14,DAL 49,3,0,Lamar Jackson pass complete short middle to Luke Willson for 12 yards (tackle by Xavier Woods and Jaylon Smith),0.830,0.790
+1,0:32,4,2,DAL 37,3,6,"Lamar Jackson up the middle for 37 yards, touchdown",0.790,7.000
+1,0:25,,,DAL 15,3,7,Justin Tucker kicks extra point good,0.000,0.000
+1,0:25,,,BAL 35,3,7,"Justin Tucker kicks off 59 yards, returned by Tony Pollard for 66 yards (tackle by Kristian Welch and L.J. Fort)",0.000,3.710
+1,0:13,1,10,BAL 28,3,7,Andy Dalton pass complete short left to CeeDee Lamb for 14 yards (tackle by DeShon Elliott),3.710,4.650
+Quarter,Time,Down,ToGo,Location,DAL,BAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,BAL 14,3,7,Tony Pollard left guard for 1 yard (tackle by Marlon Humphrey),4.650,4.160
+2,14:25,2,9,BAL 13,9,7,"Andy Dalton pass complete short left to Michael Gallup for 13 yards, touchdown. Penalty on Marlon Humphrey: Defensive Pass Interference (Declined)",4.160,7.000
+2,14:19,,,BAL 15,10,7,Greg Zuerlein kicks extra point good,0.000,0.000
+2,14:19,,,DAL 35,10,7,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+2,14:19,1,10,BAL 25,10,7,Lamar Jackson right tackle for 1 yard (tackle by Justin Hamilton),0.610,0.200
+2,13:42,2,9,BAL 26,10,7,Lamar Jackson pass complete short middle to Marquise Brown for 8 yards (tackle by Jourdan Lewis),0.200,0.560
+2,13:08,3,1,BAL 34,10,7,Gus Edwards left guard for 36 yards (tackle by Darian Thompson),0.560,3.580
+2,12:26,1,10,DAL 30,10,7,J.K. Dobbins left tackle for 4 yards (tackle by Dorance Armstrong and Jaylon Smith),3.580,3.570
+2,11:48,2,6,DAL 26,10,7,Mark Ingram right guard for 7 yards (tackle by Justin Hamilton),3.570,4.310
+2,11:14,1,10,DAL 19,10,7,Gus Edwards left guard for 2 yards (tackle by Darian Thompson and Jaylon Smith),4.310,4.030
+2,10:40,2,8,DAL 17,10,7,J.K. Dobbins right end for no gain (tackle by Jourdan Lewis),4.030,3.260
+2,9:53,3,8,DAL 17,10,7,Lamar Jackson pass complete short right to Justice Hill for 4 yards (tackle by Chidobe Awuzie),3.260,2.640
+2,9:11,4,4,DAL 13,10,7,"Penalty on Bradley Bozeman: False Start, 5 yards (no play)",2.640,2.250
+2,8:57,4,9,DAL 18,10,7,Justin Tucker 36 yard field goal no good,2.250,-0.670
+2,8:53,1,10,DAL 26,10,7,Andy Dalton pass complete short left to Amari Cooper for 11 yards (tackle by Davontae Harris),0.670,1.400
+2,8:20,1,10,DAL 37,10,7,Andy Dalton pass short middle (defended by Brandon Williams) intended for Amari Cooper is intercepted by Patrick Queen at DAL-38 and returned for no gain,1.400,-3.050
+2,8:15,1,10,DAL 38,10,13,"Lamar Jackson pass complete deep right to Miles Boykin for 38 yards, touchdown",3.050,7.000
+2,8:08,,,DAL 15,10,14,Justin Tucker kicks extra point good,0.000,0.000
+2,8:08,,,BAL 35,10,14,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+2,8:08,1,10,DAL 25,10,14,Ezekiel Elliott right tackle for 2 yards (tackle by Derek Wolfe),0.610,0.330
+2,7:31,2,8,DAL 27,10,14,Andy Dalton pass complete short middle to CeeDee Lamb for 13 yards (tackle by DeShon Elliott),0.330,1.600
+2,6:57,1,10,DAL 40,10,14,Amari Cooper left end for 10 yards (tackle by DeShon Elliott),1.600,2.260
+2,6:23,1,10,DAL 50,10,14,Ezekiel Elliott left guard for 3 yards (tackle by Chuck Clark and Patrick Queen),2.260,2.120
+2,5:45,2,7,BAL 47,10,14,Andy Dalton pass incomplete deep right intended for Amari Cooper,2.120,1.420
+2,5:37,3,7,BAL 47,10,14,Andy Dalton pass complete short right to Noah Brown for 12 yards (tackle by Marcus Peters),1.420,3.250
+2,5:06,1,10,BAL 35,10,14,Tony Pollard left guard for -1 yards (tackle by Derek Wolfe),3.250,2.570
+2,4:25,2,11,BAL 36,10,14,Andy Dalton pass complete short middle to Michael Gallup for 13 yards (tackle by Patrick Queen),2.570,4.040
+2,3:43,1,10,BAL 23,10,14,Tony Pollard left guard for no gain (tackle by Pernell McPhee),4.040,3.500
+2,3:10,2,10,BAL 23,10,14,Andy Dalton pass incomplete deep left intended for Michael Gallup,3.500,2.810
+2,3:06,3,10,BAL 23,10,14,Andy Dalton pass complete short middle to Tony Pollard for 6 yards (tackle by Marcus Peters),2.810,2.390
+2,2:27,4,4,BAL 17,10,14,"Penalty on DAL: Delay of Game, 5 yards (no play)",2.390,1.990
+2,2:06,4,9,BAL 22,10,14,Greg Zuerlein 40 yard field goal no good,1.990,-0.940
+2,2:02,1,10,BAL 30,10,14,Lamar Jackson left end for 2 yards (tackle by Jourdan Lewis),0.940,0.660
+2,1:57,2,8,BAL 32,10,14,"Lamar Jackson pass incomplete deep middle intended for Luke Willson. Penalty on Xavier Woods: Defensive Pass Interference, 18 yards (no play)",0.660,2.260
+2,1:53,1,10,BAL 50,10,14,J.K. Dobbins left end for 30 yards (tackle by Darian Thompson),2.260,4.240
+2,1:46,1,10,DAL 20,10,14,J.K. Dobbins right end for -1 yards (tackle by Jourdan Lewis),4.240,3.560
+2,1:02,2,11,DAL 21,10,14,Lamar Jackson pass complete short left to Marquise Brown for 4 yards,3.560,3.360
+2,0:54,3,7,DAL 17,10,14,Lamar Jackson pass incomplete short right intended for Marquise Brown Penalty on BAL: Illegal Formation (Declined),3.360,2.310
+2,0:50,4,7,DAL 17,10,17,Justin Tucker 35 yard field goal good,2.310,3.000
+2,0:46,,,BAL 35,10,17,"Justin Tucker kicks off 68 yards, returned by Tony Pollard for 23 yards (tackle by Davontae Harris). Penalty on Justin March-Lillard: Offensive Holding, 10 yards",0.000,-0.380
+2,0:42,1,10,DAL 10,10,17,Ezekiel Elliott right end for 10 yards (tackle by Marcus Peters),-0.380,0.280
+2,0:36,1,10,DAL 20,10,17,Andy Dalton pass complete short left to CeeDee Lamb for 6 yards (tackle by Marlon Humphrey),0.280,0.540
+2,0:30,2,4,DAL 26,10,17,Andy Dalton pass complete short middle to Dalton Schultz for 15 yards (tackle by Anthony Averett),0.540,1.660
+2,0:23,,,,,,Timeout #1 by Dallas Cowboys,,
+2,0:23,1,10,DAL 41,10,17,Andy Dalton pass complete short middle to Amari Cooper for 9 yards (tackle by Anthony Averett),1.660,2.340
+2,0:17,,,,,,Timeout #2 by Dallas Cowboys,,
+2,0:17,2,1,DAL 50,10,17,Andy Dalton pass incomplete short left intended for CeeDee Lamb,2.340,1.620
+2,0:13,3,1,DAL 50,10,17,"Penalty on Amari Cooper: False Start, 5 yards (no play)",1.620,0.960
+2,0:13,3,6,DAL 45,10,17,Andy Dalton pass incomplete deep left intended for CeeDee Lamb,0.960,-0.390
+2,0:07,,,,,,Timeout #3 by Dallas Cowboys,,
+2,0:07,,,,,,Timeout #1 by Baltimore Ravens,,
+2,0:07,4,6,DAL 45,10,17,Andy Dalton pass incomplete deep middle,-0.390,1.930
+Quarter,Time,Down,ToGo,Location,DAL,BAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DAL 35,10,17,"Greg Zuerlein kicks off 61 yards, returned by Devin Duvernay for 28 yards (tackle by Joe Thomas)",0.000,1.070
+3,14:54,1,10,BAL 32,10,17,Gus Edwards left guard for 4 yards (tackle by Antwaun Woods and Leighton Vander Esch),1.070,1.070
+3,14:19,2,6,BAL 36,10,17,Lamar Jackson pass complete short right to Devin Duvernay for 2 yards (tackle by Chidobe Awuzie),1.070,0.630
+3,13:34,3,4,BAL 38,10,17,Lamar Jackson pass incomplete short middle intended for Miles Boykin,0.630,-0.850
+3,13:29,4,4,BAL 38,10,17,"Sam Koch punts 34 yards, fair catch by CeeDee Lamb at DAL-28. Penalty on Chris Board: Offensive Holding, 10 yards",-0.850,-1.470
+3,13:22,1,10,DAL 38,10,17,Ezekiel Elliott right tackle for 14 yards (tackle by Anthony Averett and Chuck Clark),1.470,2.390
+3,12:41,1,10,BAL 48,10,17,Ezekiel Elliott right tackle for 3 yards (tackle by Patrick Queen and Derek Wolfe),2.390,2.250
+3,12:06,2,7,BAL 45,10,17,Andy Dalton pass complete short right to Dalton Schultz for 4 yards (tackle by Patrick Queen),2.250,2.080
+3,11:23,3,3,BAL 41,10,17,Tony Pollard left tackle for 2 yards (tackle by Tyus Bowser and Derek Wolfe),2.080,0.660
+3,10:43,4,1,BAL 39,10,17,Andy Dalton up the middle for 2 yards (tackle by Pernell McPhee),0.660,3.120
+3,10:01,1,10,BAL 37,10,17,Tony Pollard right end for 2 yards (tackle by Justin Ellis and L.J. Fort),3.120,2.840
+3,9:26,2,8,BAL 35,10,17,Andy Dalton pass incomplete short left,2.840,2.150
+3,9:16,3,8,BAL 35,10,17,Andy Dalton pass incomplete deep left intended for Michael Gallup,2.150,0.970
+3,9:11,4,8,BAL 35,10,17,Greg Zuerlein 53 yard field goal no good,0.970,-1.800
+3,9:07,1,10,BAL 43,10,17,Mark Ingram right guard for 2 yards (tackle by Neville Gallimore),1.800,1.520
+3,8:41,2,8,BAL 45,10,17,Lamar Jackson right guard for 2 yards (tackle by DeMarcus Lawrence),1.520,1.090
+3,8:00,3,6,BAL 47,10,17,Lamar Jackson right end for 7 yards (tackle by Xavier Woods),1.090,2.520
+3,7:23,1,10,DAL 46,10,17,J.K. Dobbins up the middle for 7 yards (tackle by Jaylon Smith),2.520,2.920
+3,6:47,2,3,DAL 39,10,17,J.K. Dobbins right end for 5 yards (tackle by Jaylon Smith and Neville Gallimore),2.920,3.310
+3,6:07,1,10,DAL 34,10,17,J.K. Dobbins left guard for 5 yards (tackle by Jaylon Smith),3.310,3.450
+3,5:31,2,5,DAL 29,10,17,Lamar Jackson pass incomplete short middle intended for Marquise Brown,3.450,2.740
+3,5:28,3,5,DAL 29,10,17,"Penalty on Justice Hill: False Start, 5 yards (no play)",2.740,2.080
+3,5:28,3,10,DAL 34,10,17,Lamar Jackson right tackle for 14 yards (tackle by Leighton Vander Esch),2.080,4.240
+3,4:47,1,10,DAL 20,10,23,"Lamar Jackson pass complete deep left to Marquise Brown for 20 yards, touchdown",4.240,7.000
+3,4:40,,,DAL 15,10,24,Justin Tucker kicks extra point good,0.000,0.000
+3,4:40,,,BAL 35,10,24,"Justin Tucker kicks off 65 yards, returned by Tony Pollard for 22 yards (tackle by Justice Hill)",0.000,0.410
+3,4:36,1,10,DAL 22,10,24,Ezekiel Elliott right end for 3 yards (tackle by Jaylon Ferguson),0.410,0.270
+3,3:59,2,7,DAL 25,10,24,Andy Dalton pass complete short right to Ezekiel Elliott for 6 yards (tackle by Marcus Peters),0.270,0.370
+3,3:33,3,1,DAL 31,10,24,Ezekiel Elliott left guard for 2 yards (tackle by Pernell McPhee and Tyus Bowser),0.370,1.140
+3,2:59,1,10,DAL 33,10,24,Andy Dalton pass complete short right to Michael Gallup for 13 yards (tackle by Chuck Clark and Malik Harrison),1.140,1.990
+3,2:27,,,,,,Timeout #1 by Baltimore Ravens,,
+3,2:27,1,10,DAL 46,10,24,Andy Dalton pass complete short left to Amari Cooper for 13 yards (tackle by Anthony Averett),1.990,2.850
+3,1:48,1,10,BAL 41,10,24,Andy Dalton pass incomplete short left,2.850,2.310
+3,1:43,2,10,BAL 41,10,24,Ezekiel Elliott left end for 3 yards (tackle by Derek Wolfe and Brandon Williams),2.310,2.020
+3,1:05,3,7,BAL 38,10,24,Andy Dalton pass complete short middle to Noah Brown for 9 yards (tackle by Pernell McPhee),2.020,3.640
+3,0:25,1,10,BAL 29,10,24,Andy Dalton pass incomplete short right intended for Ezekiel Elliott (defended by L.J. Fort),3.640,3.100
+3,0:20,2,10,BAL 29,10,24,Tony Pollard right end for 3 yards (tackle by Calais Campbell and L.J. Fort),3.100,2.810
+Quarter,Time,Down,ToGo,Location,DAL,BAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,7,BAL 26,10,24,Andy Dalton sacked by Jihad Ward for -8 yards,2.810,1.060
+4,14:18,4,15,BAL 34,10,24,Greg Zuerlein 52 yard field goal no good,1.060,-1.730
+4,14:14,1,10,BAL 42,10,24,Lamar Jackson pass complete short right to Patrick Ricard for 9 yards (tackle by Xavier Woods),1.730,2.400
+4,13:47,2,1,DAL 49,10,24,Gus Edwards right end for 21 yards (tackle by Jaylon Smith),2.400,3.710
+4,13:11,1,10,DAL 28,10,24,Lamar Jackson left end for 9 yards (tackle by Rashard Robinson and Xavier Woods),3.710,4.420
+4,12:36,2,1,DAL 19,10,24,J.K. Dobbins left end for -2 yards (tackle by Dorance Armstrong and Rashard Robinson),4.420,3.400
+4,11:58,3,3,DAL 21,10,24,Lamar Jackson left end for 4 yards (tackle by Jaylon Smith),3.400,4.440
+4,11:21,1,10,DAL 17,10,24,Mark Ingram right end for 6 yards (tackle by Chidobe Awuzie),4.440,4.890
+4,10:40,2,4,DAL 11,10,24,Mark Ingram right end for 5 yards (tackle by Jaylon Smith and Chidobe Awuzie),4.890,5.830
+4,9:54,1,6,DAL 6,10,24,Lamar Jackson pass complete short left to Patrick Ricard for 2 yards (tackle by Darian Thompson),5.830,5.340
+4,9:09,2,4,DAL 4,10,24,J.K. Dobbins right guard for no gain (tackle by Neville Gallimore),5.340,4.490
+4,8:25,3,4,DAL 4,10,24,Lamar Jackson pass incomplete short middle intended for Miles Boykin,4.490,3.030
+4,8:18,4,4,DAL 4,10,27,Justin Tucker 22 yard field goal good,3.030,3.000
+4,8:15,,,BAL 35,10,27,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+4,8:15,1,10,DAL 25,10,27,Andy Dalton pass complete short left to Michael Gallup for 11 yards,0.610,1.330
+4,7:52,1,10,DAL 36,10,27,Andy Dalton pass incomplete short middle intended for Ezekiel Elliott,1.330,0.790
+4,7:48,2,10,DAL 36,10,27,Andy Dalton pass complete short left to Dalton Schultz for 6 yards (tackle by Tyus Bowser),0.790,0.890
+4,7:34,3,4,DAL 42,10,27,Andy Dalton pass complete short middle to Ezekiel Elliott for 4 yards (tackle by Marlon Humphrey),0.890,1.990
+4,7:05,1,10,DAL 46,10,27,Andy Dalton pass complete short left to Noah Brown for 19 yards (tackle by Anthony Averett),1.990,3.250
+4,6:39,1,10,BAL 35,10,27,Andy Dalton pass complete short left to Dalton Schultz for 19 yards (tackle by DeShon Elliott),3.250,4.510
+4,6:07,1,10,BAL 16,10,27,Andy Dalton pass complete short left to Ezekiel Elliott for 12 yards (tackle by DeShon Elliott),4.510,6.280
+4,5:38,1,4,BAL 4,10,27,Andy Dalton pass incomplete short left intended for Amari Cooper (defended by Anthony Averett),6.280,5.340
+4,5:31,2,4,BAL 4,10,27,"Andy Dalton pass incomplete short middle intended for Cedrick Wilson (defended by Chuck Clark). Penalty on Chuck Clark: Defensive Pass Interference, 3 yards (no play)",5.340,6.970
+4,5:27,1,1,BAL 1,10,27,Ezekiel Elliott left guard for no gain (tackle by L.J. Fort and Derek Wolfe),6.970,5.910
+4,5:05,2,1,BAL 1,10,27,Ezekiel Elliott right guard for -1 yards (tackle by L.J. Fort and Derek Wolfe),5.910,4.950
+4,4:35,3,2,BAL 2,10,27,Ezekiel Elliott right guard for no gain (tackle by Chuck Clark and Brandon Williams),4.950,3.250
+4,4:04,4,2,BAL 2,16,27,"Andy Dalton pass complete short middle to Amari Cooper for 2 yards, touchdown",3.250,7.000
+4,3:59,,,BAL 15,17,27,Greg Zuerlein kicks extra point good,0.000,0.000
+4,3:59,,,DAL 35,17,27,"Greg Zuerlein kicks onside 9 yards, returned by James Proche for no gain",0.000,2.650
+4,3:58,1,10,DAL 44,17,27,Gus Edwards right guard for 7 yards (tackle by Dorance Armstrong),2.650,3.060
+4,3:53,,,,,,Timeout #1 by Dallas Cowboys,,
+4,3:53,2,3,DAL 37,17,27,Lamar Jackson left tackle for no gain (tackle by Dorance Armstrong),3.060,2.350
+4,3:45,,,,,,Timeout #2 by Dallas Cowboys,,
+4,3:45,3,3,DAL 37,17,27,Mark Ingram right end for 5 yards (tackle by Leighton Vander Esch and Darian Thompson),2.350,3.450
+4,3:40,,,,,,Timeout #3 by Dallas Cowboys,,
+4,3:40,1,10,DAL 32,17,27,Gus Edwards right end for 24 yards (tackle by Darian Thompson),3.450,5.370
+4,2:58,1,8,DAL 8,17,27,Lamar Jackson left end for 3 yards (tackle by Rashard Robinson),5.370,5.150
+4,2:12,2,5,DAL 5,17,33,"J.K. Dobbins right tackle for 5 yards, touchdown",5.150,7.000
+4,2:08,,,DAL 15,17,34,"Justin Tucker kicks extra point good. Penalty on C.J. Goodwin: Defensive Offside, 5 yards",0.000,0.000
+4,2:08,,,BAL 40,17,34,"Justin Tucker kicks off 60 yards, touchback.",0.000,0.610
+4,2:08,1,10,DAL 25,17,34,Tony Pollard left tackle for 3 yards (tackle by Derek Wolfe and Tyus Bowser),0.610,0.470
+4,2:00,2,7,DAL 28,17,34,Andy Dalton pass complete short middle to Amari Cooper for 8 yards (tackle by Chris Board),0.470,1.330
+4,1:37,1,10,DAL 36,17,34,Andy Dalton pass complete short left to Michael Gallup for 12 yards (tackle by Anthony Averett),1.330,2.130
+4,1:32,1,10,DAL 48,17,34,"Penalty on Dalton Schultz: False Start, 5 yards (no play)",2.130,1.800
+4,1:32,1,15,DAL 43,17,34,Andy Dalton pass incomplete short middle intended for Amari Cooper,1.800,0.910
+4,1:30,2,15,DAL 43,17,34,Andy Dalton pass incomplete short right intended for Michael Gallup,0.910,0.230
+4,1:24,3,15,DAL 43,17,34,Andy Dalton pass complete short left to Michael Gallup for -4 yards (tackle by Jaylon Ferguson),0.230,-0.780
+4,0:38,4,19,DAL 39,17,34,Andy Dalton pass complete deep middle to Michael Gallup for 28 yards (tackle by DeShon Elliott),-0.780,3.380
+4,0:19,1,10,BAL 33,17,34,Andy Dalton pass incomplete deep right intended for CeeDee Lamb,3.380,2.840
+4,0:13,,,,,,Timeout #2 by Baltimore Ravens,,
+4,0:13,2,10,BAL 33,17,34,Andy Dalton pass incomplete deep left intended for Noah Brown,2.840,2.150
+4,0:08,3,10,BAL 33,17,34,Tony Pollard right guard for 12 yards (tackle by Anthony Levine),2.150,2.590
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

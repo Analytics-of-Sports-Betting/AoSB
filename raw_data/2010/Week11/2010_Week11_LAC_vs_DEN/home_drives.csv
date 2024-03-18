@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,12:05,SDG 32,3,1:46,7,Punt
+2,1,8:40,SDG 30,12,6:26,70,Touchdown
+3,2,14:10,DEN 40,4,0:56,6,Missed FG
+4,2,10:36,SDG 13,6,2:38,87,Touchdown
+5,2,5:57,SDG 48,3,1:28,-8,Interception
+6,2,2:59,SDG 46,2,0:54,54,Touchdown
+7,2,0:11,SDG 29,1,0:11,-1,End of Half
+8,3,15:00,SDG 28,5,2:24,72,Touchdown
+9,3,10:57,SDG 45,6,3:09,20,Punt
+10,3,5:45,SDG 47,11,6:29,53,Touchdown
+11,4,13:02,SDG 22,3,1:35,3,Punt
+12,4,8:48,SDG 20,6,4:04,33,Punt
+13,4,2:19,SDG 45,4,2:19,10,End of Game

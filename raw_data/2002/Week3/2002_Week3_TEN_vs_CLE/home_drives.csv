@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,10:55,TEN 26,3,2:20,9,Punt
+2,1,7:03,CLE 34,11,5:23,34,Touchdown
+3,2,14:52,TEN 27,3,2:02,7,Punt
+4,2,12:37,CLE 43,7,3:42,43,Touchdown
+5,2,4:36,TEN 43,3,1:26,6,Punt
+6,2,0:34,TEN 6,1,0:34,-1,End of Half
+7,3,15:00,TEN 23,3,2:09,9,Punt
+8,3,11:59,CLE 49,6,2:28,9,Punt
+9,3,5:31,TEN 20,5,4:06,17,Punt
+10,3,1:25,TEN 20,3,1:00,1,Punt
+11,4,12:55,TEN 17,9,6:11,46,Punt
+12,4,6:44,CLE 9,3,1:38,9,Touchdown
+13,4,0:12,TEN 10,1,0:12,-1,End of Half

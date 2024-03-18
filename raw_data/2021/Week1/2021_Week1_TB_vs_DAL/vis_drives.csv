@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:18,DAL 2,9,3:46,54,Punt
+2,1,5:23,DAL 25,7,3:48,75,Touchdown
+3,2,14:42,DAL 5,3,2:01,2,Punt
+4,2,9:48,DAL 25,7,3:12,62,Missed FG
+5,2,6:28,TAM 27,5,2:08,27,Touchdown
+6,2,4:08,TAM 21,4,0:52,4,Field Goal
+7,2,2:38,DAL 25,8,2:23,33,Missed FG
+8,3,15:00,DAL 25,13,5:45,72,Field Goal
+9,3,8:44,DAL 25,1,0:13,0,Interception
+10,3,6:23,DAL 25,10,5:50,75,Touchdown
+11,4,11:53,DAL 6,3,0:59,2,Punt
+12,4,4:52,DAL 10,11,3:28,60,Field Goal
+13,4,0:02,DAL 25,1,0:02,11,End of Game

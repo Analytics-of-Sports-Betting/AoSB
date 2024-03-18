@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,CHI 20,8,4:03,80,Touchdown
+2,1,10:01,CHI 6,8,3:41,30,Punt
+3,1,3:30,CHI 12,6,3:42,15,Punt
+4,2,11:10,CHI 8,4,2:53,17,Fumble
+5,2,7:12,CHI 20,7,3:42,80,Touchdown
+6,2,3:18,OAK 15,6,1:52,14,Field Goal
+7,2,0:21,CHI 36,1,0:21,-5,End of Half
+8,3,13:30,CHI 46,1,0:09,0,Fumble
+9,3,10:53,CHI 20,9,2:58,23,Punt
+10,3,3:02,CHI 10,10,5:01,54,Field Goal
+11,4,9:38,OAK 42,6,2:57,19,Interception
+12,4,2:05,CHI 20,12,2:03,48,Field Goal

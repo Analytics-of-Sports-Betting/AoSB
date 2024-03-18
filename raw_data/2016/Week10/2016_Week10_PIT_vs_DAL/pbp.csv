@@ -1,0 +1,191 @@
+Quarter,Time,Down,ToGo,Location,DAL,PIT,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Steelers won the coin toss and deferred, Cowboys to receive the opening kickoff.",,
+1,15:00,,,PIT 35,0,0,"Chris Boswell kicks off 65 yards, touchback",0.000,-0.610
+1,15:00,1,10,DAL 25,0,0,Ezekiel Elliott right guard for 6 yards (tackle by Robert Golden and Mike Mitchell),0.610,0.870
+1,14:25,2,4,DAL 31,0,0,Dak Prescott pass complete deep left to Dez Bryant for 19 yards (tackle by Artie Burns),0.870,2.260
+1,13:55,1,10,,0,0,"Dak Prescott sacked by Anthony Chickillo for -7 yards. Dak Prescott fumbles (forced by Anthony Chickillo), recovered by Ryan Shazier at DAL-38 (tackle by Zack Martin)",2.260,-3.050
+1,13:45,1,10,DAL 38,0,0,Ben Roethlisberger pass complete short middle to Jesse James for 8 yards (tackle by Anthony Hitchens),3.050,3.590
+1,13:11,2,2,DAL 30,0,0,Le'Veon Bell right guard for 4 yards (tackle by Anthony Hitchens),3.590,3.840
+1,12:39,1,10,DAL 26,0,0,Ben Roethlisberger pass complete short right to Le'Veon Bell for 12 yards (tackle by Orlando Scandrick and Sean Lee),3.840,4.650
+1,12:08,1,10,DAL 14,0,0,Le'Veon Bell left guard for 8 yards (tackle by Byron Jones and Terrell McClain),4.650,5.470
+1,11:25,2,2,DAL 6,0,0,Ben Roethlisberger pass complete short right to David Johnson for 2 yards (tackle by J.J. Wilcox),5.470,6.280
+1,10:43,1,4,DAL 4,0,0,Le'Veon Bell right tackle for 2 yards (tackle by Jack Crawford),6.280,5.720
+1,10:01,2,2,DAL 2,0,0,Ben Roethlisberger pass incomplete short left intended for Le'Veon Bell,5.720,4.950
+1,9:54,3,2,DAL 2,0,6,"Ben Roethlisberger pass complete short right to Le'Veon Bell for 2 yards, touchdown",4.950,7.000
+1,9:54,,,DAL 2,0,6,"Two Point Attempt: Ben Roethlisberger pass incomplete intended for Ladarius Green, conversion fails",0.000,-1.000
+1,9:54,,,PIT 35,0,6,"Chris Boswell kicks off 59 yards, out of bounds",0.000,-1.600
+1,9:54,1,10,DAL 40,0,6,Ezekiel Elliott middle for 3 yards (tackle by Vince Williams and Anthony Chickillo),1.600,1.460
+1,9:16,2,7,DAL 43,0,6,Ezekiel Elliott right end for 8 yards (tackle by Sean Davis),1.460,2.320
+1,8:44,1,10,PIT 49,0,6,Dak Prescott pass complete short left to Dez Bryant for 14 yards (tackle by Artie Burns),2.320,3.250
+1,8:09,1,10,PIT 35,0,6,Ezekiel Elliott middle for 6 yards (tackle by Sean Davis and Mike Mitchell),3.250,3.510
+1,7:35,2,4,PIT 29,0,6,"Penalty on Ronald Leary: False Start, 5 yards (no play)",3.510,2.840
+1,7:19,2,9,PIT 34,0,6,Ezekiel Elliott left guard for 7 yards (tackle by Sean Davis),2.840,3.070
+1,6:41,3,2,PIT 27,0,6,Ezekiel Elliott middle for 4 yards (tackle by Jarvis Jones),3.070,4.040
+1,6:07,1,10,PIT 23,0,6,Dak Prescott pass incomplete short right intended for Dez Bryant,4.040,3.500
+1,6:05,2,10,PIT 23,0,6,Dak Prescott pass incomplete short left intended for Jason Witten,3.500,2.810
+1,6:01,3,10,PIT 23,0,6,Dak Prescott pass complete short left to Terrance Williams for 5 yards (tackle by Ryan Shazier and Anthony Chickillo),2.810,2.300
+1,5:20,4,5,PIT 18,3,6,Dan Bailey 37 yard field goal good,2.300,3.000
+1,5:17,,,DAL 35,3,6,"Dan Bailey kicks off 65 yards, touchback",0.000,-0.610
+1,5:17,1,10,PIT 25,3,6,Ben Roethlisberger pass complete short right to Antonio Brown for 5 yards (tackle by Anthony Brown),0.610,0.740
+1,4:45,2,5,PIT 30,3,6,Ben Roethlisberger pass complete deep middle to Eli Rogers for 22 yards (tackle by J.J. Wilcox). Penalty on Orlando Scandrick: Defensive Offside (Declined),0.740,2.390
+1,4:17,1,10,DAL 48,3,6,Ben Roethlisberger pass complete short right to Jesse James for 17 yards (tackle by Anthony Hitchens),2.390,3.510
+1,3:45,1,10,DAL 31,3,6,Le'Veon Bell middle for 1 yard (tackle by Demarcus Lawrence),3.510,3.100
+1,3:11,2,9,DAL 30,3,6,"Ben Roethlisberger pass incomplete deep right intended for Cobi Hamilton. Penalty on Ryan Davis: Defensive Offside, 5 yards (no play)",3.100,3.780
+1,3:04,2,4,DAL 25,3,6,Le'Veon Bell middle for 16 yards (tackle by Byron Jones and Anthony Hitchens),3.780,5.140
+1,2:26,1,9,DAL 9,3,6,Le'Veon Bell middle for 8 yards (tackle by Terrell McClain),5.140,5.910
+1,2:02,2,1,DAL 1,3,6,Le'Veon Bell right guard for -2 yards (tackle by Byron Jones),5.910,4.720
+1,1:18,3,3,DAL 3,3,12,"Ben Roethlisberger pass complete short left to Eli Rogers for 3 yards, touchdown",4.720,7.000
+1,1:13,,,DAL 2,3,12,"Two Point Attempt: Ben Roethlisberger pass incomplete intended for Jesse James, conversion fails",0.000,-1.000
+1,1:13,,,PIT 35,3,12,"Chris Boswell kicks off 65 yards, touchback",0.000,-0.610
+1,1:13,1,10,DAL 25,3,12,--,0.610,0.280
+1,1:13,1,15,DAL 20,3,12,"Ezekiel Elliott right guard for 6 yards (tackle by Mike Mitchell and Lawrence Timmons). Penalty on Zack Martin: Offensive Holding, 10 yards (no play)",0.280,-0.950
+1,0:44,1,25,DAL 10,3,12,Dak Prescott pass complete short left to Cole Beasley for 7 yards (tackle by Ryan Shazier and Artie Burns),-0.950,-1.150
+1,0:27,2,18,DAL 17,9,12,"Dak Prescott pass complete short right to Ezekiel Elliott for 83 yards, touchdown",-1.150,7.000
+1,0:12,,,PIT 15,10,12,Dan Bailey kicks extra point good,0.000,0.000
+1,0:12,,,DAL 35,10,12,"Dan Bailey kicks off 61 yards, returned by Fitzgerald Toussaint for 17 yards (tackle by Kavon Frazier)",0.000,-0.340
+1,0:07,1,10,PIT 21,10,12,Ben Roethlisberger pass incomplete short right intended for Xavier Grimble (defended by J.J. Wilcox),0.340,-0.200
+1,0:03,2,10,PIT 21,10,12,Ben Roethlisberger pass complete short left to Antonio Brown for 9 yards (tackle by Brandon Carr),-0.200,0.300
+Quarter,Time,Down,ToGo,Location,DAL,PIT,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,1,PIT 30,10,12,"Le'Veon Bell right end for -2 yards (tackle by Demarcus Lawrence). Le'Veon Bell fumbles (forced by Demarcus Lawrence), ball out of bounds at PIT-21",0.300,-1.960
+2,14:38,4,10,PIT 21,10,12,"Jordan Berry punts 44 yards, returned by Lucky Whitehead for 5 yards (tackle by Tyler Matakevich)",-1.960,-1.600
+2,14:28,1,10,DAL 40,10,12,Alfred Morris left guard for 2 yards (tackle by Anthony Chickillo and Jarvis Jones),1.600,1.320
+2,13:53,2,8,DAL 42,10,12,Dak Prescott pass complete deep left to Dez Bryant for 16 yards. Penalty on William Gay: Illegal Contact (Declined),1.320,2.790
+2,13:29,1,10,PIT 42,10,12,"Alfred Morris middle for 2 yards (tackle by Sean Davis and Ross Cockrell). Penalty on Cameron Heyward: Defensive Offside, 5 yards (no play)",2.790,3.520
+2,13:09,1,5,PIT 37,10,12,"Alfred Morris left guard for 3 yards (tackle by Jarvis Jones and Ryan Shazier). Penalty on Doug Free: Offensive Holding, 10 yards (no play)",3.520,2.460
+2,12:46,1,15,PIT 47,10,12,Dak Prescott pass complete short left to Alfred Morris for 6 yards (tackle by Jarvis Jones),2.460,2.380
+2,12:02,2,9,PIT 41,10,12,Alfred Morris left tackle for 6 yards (tackle by Jarvis Jones),2.380,2.480
+2,11:15,3,3,PIT 35,10,12,Dak Prescott pass incomplete short right intended for Cole Beasley,2.480,0.990
+2,11:09,4,3,PIT 35,13,12,Dan Bailey 53 yard field goal good,0.990,3.000
+2,11:04,,,DAL 35,13,12,"Dan Bailey kicks off 65 yards, touchback",0.000,-0.610
+2,11:04,1,10,PIT 25,13,12,Ben Roethlisberger pass complete short right to Antonio Brown for 9 yards (tackle by J.J. Wilcox),0.610,1.280
+2,10:29,2,1,PIT 34,13,12,Ben Roethlisberger pass complete short left to Antonio Brown for 2 yards (tackle by Byron Jones),1.280,1.330
+2,9:54,1,10,PIT 36,13,12,Le'Veon Bell left guard for 11 yards (tackle by J.J. Wilcox and Byron Jones),1.330,2.060
+2,9:06,1,10,PIT 47,13,12,"Ben Roethlisberger pass incomplete short left intended for Cobi Hamilton. Penalty on Justin Durant: Roughing the Passer, 15 yards (no play)",2.060,3.050
+2,9:01,1,10,DAL 38,13,12,Le'Veon Bell middle for no gain (tackle by Damien Wilson),3.050,2.510
+2,8:19,2,10,DAL 38,13,12,"Penalty on David DeCastro: False Start, 5 yards (no play)",2.510,1.830
+2,8:00,2,15,DAL 43,13,12,"Penalty on Terrell McClain: Encroachment, 5 yards (no play)",1.830,2.510
+2,7:38,2,10,DAL 38,13,12,Ben Roethlisberger pass complete short right to Antonio Brown for no gain,2.510,1.820
+2,7:00,3,10,DAL 38,13,12,Ben Roethlisberger pass complete short right to Antonio Brown for 13 yards (tackle by Anthony Brown),1.820,3.910
+2,6:13,1,10,DAL 25,13,12,Ben Roethlisberger pass incomplete deep middle intended for Ladarius Green,3.910,3.360
+2,6:09,2,10,DAL 25,13,12,Le'Veon Bell left guard for -1 yards (tackle by Sean Lee),3.360,2.540
+2,5:26,3,11,DAL 26,13,12,Ben Roethlisberger pass complete short left to Xavier Grimble for 5 yards (tackle by J.J. Wilcox),2.540,2.080
+2,4:47,4,6,DAL 21,13,15,Chris Boswell 39 yard field goal good,2.080,3.000
+2,4:43,,,PIT 35,13,15,"Chris Boswell kicks off 65 yards, touchback",0.000,-0.610
+2,4:43,1,10,DAL 25,13,15,Dak Prescott pass complete short left to Cole Beasley for 8 yards (tackle by Robert Golden),0.610,1.140
+2,4:03,2,2,DAL 33,13,15,Ezekiel Elliott left tackle for no gain (tackle by James Harrison),1.140,0.430
+2,3:22,3,2,DAL 33,13,15,Dak Prescott pass incomplete deep right intended for Dez Bryant,0.430,-1.180
+2,3:17,4,2,DAL 33,13,15,"Chris Jones punts 49 yards, out of bounds",-1.180,-0.040
+2,3:10,1,10,PIT 18,13,15,Le'Veon Bell right end for 1 yard (tackle by Sean Lee),0.040,-0.320
+2,2:41,2,9,PIT 19,13,15,Ben Roethlisberger pass complete short middle to Eli Rogers for 13 yards (tackle by Orlando Scandrick),-0.320,1.070
+2,2:10,1,10,PIT 32,13,15,Ben Roethlisberger pass complete short left to Le'Veon Bell for 15 yards (tackle by Orlando Scandrick),1.070,2.060
+2,2:00,1,10,PIT 47,13,15,Ben Roethlisberger pass complete short middle to Eli Rogers for 4 yards (tackle by Orlando Scandrick),2.060,2.060
+2,1:43,2,6,DAL 49,13,15,Ben Roethlisberger pass complete short left to Antonio Brown for 9 yards (tackle by Orlando Scandrick),2.060,2.920
+2,1:16,1,10,DAL 40,13,15,Ben Roethlisberger pass incomplete deep right intended for Sammie Coates,2.920,2.370
+2,1:10,2,10,DAL 40,13,15,Ben Roethlisberger pass incomplete deep left intended for Antonio Brown,2.370,1.680
+2,1:04,3,10,DAL 40,13,15,Ben Roethlisberger pass complete short left to Le'Veon Bell for -3 yards (tackle by Sean Lee and David Irving),1.680,0.000
+2,0:52,,,,13,15,Timeout #1 by Dallas Cowboys,0.000,-0.400
+2,0:51,4,13,DAL 43,13,15,"Jordan Berry punts 27 yards, fair catch by Cole Beasley",0.400,0.140
+2,0:45,1,10,DAL 16,13,15,Dak Prescott pass incomplete short right intended for Cole Beasley (defended by William Gay),-0.140,-0.660
+2,0:39,2,10,DAL 16,13,15,Dak Prescott pass incomplete short right intended for Lance Dunbar,-0.660,-1.320
+2,0:33,3,10,DAL 16,13,15,Dak Prescott pass incomplete short right intended for Cole Beasley (defended by Ross Cockrell),-1.320,-2.390
+2,0:27,4,10,DAL 16,13,15,"Chris Jones punts 48 yards, fair catch by Antonio Brown",-2.390,-1.330
+2,0:20,1,10,PIT 36,13,15,Ben Roethlisberger pass complete short right to Le'Veon Bell for 13 yards (tackle by Anthony Brown),1.330,2.190
+2,0:13,1,10,PIT 49,13,15,Ben Roethlisberger pass complete short middle to Ladarius Green for 9 yards (tackle by Byron Jones),2.190,0.000
+2,0:08,,,,13,15,Timeout #1 by Pittsburgh Steelers,0.000,-2.860
+2,0:02,2,1,DAL 42,13,15,"Ben Roethlisberger pass incomplete deep right intended for Eli Rogers (defended by Orlando Scandrick). Penalty on Orlando Scandrick: Defensive Holding, 5 yards (no play)",2.860,3.120
+2,0:02,1,10,DAL 37,13,15,Chris Boswell 55 yard field goal no good,3.120,1.860
+Quarter,Time,Down,ToGo,Location,DAL,PIT,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DAL 35,13,15,"Dan Bailey kicks off 65 yards, touchback",0.000,-0.610
+3,15:00,1,10,PIT 25,13,15,Ben Roethlisberger pass complete deep left to Cobi Hamilton for 39 yards (tackle by Brandon Carr),0.610,3.180
+3,14:16,1,10,DAL 36,13,15,Ben Roethlisberger middle for 1 yard (tackle by Sean Lee),3.180,2.770
+3,13:37,2,9,DAL 35,13,15,Ben Roethlisberger pass incomplete deep right intended for Antonio Brown,2.770,2.080
+3,13:29,3,9,DAL 35,13,15,"Ben Roethlisberger pass incomplete deep right intended for Cobi Hamilton. Penalty on Anthony Brown: Defensive Pass Interference, 28 yards (no play)",2.080,5.600
+3,13:24,1,7,DAL 7,13,15,Ben Roethlisberger pass incomplete short right intended for Antonio Brown,5.600,4.760
+3,13:21,2,7,DAL 7,13,15,Ben Roethlisberger pass incomplete short middle intended for Eli Rogers,4.760,3.810
+3,13:17,3,7,DAL 7,13,15,Ben Roethlisberger pass incomplete short middle intended for Antonio Brown,3.810,2.970
+3,13:14,4,7,DAL 7,13,18,Chris Boswell 25 yard field goal good,2.970,3.000
+3,13:10,,,PIT 35,13,18,"Chris Boswell kicks off 69 yards, returned by Lucky Whitehead for 30 yards (tackle by Tyler Matakevich)",0.000,-0.670
+3,13:05,1,10,DAL 26,13,18,Ezekiel Elliott middle for 6 yards (tackle by Ross Cockrell and Lawrence Timmons),0.670,0.940
+3,12:38,2,4,DAL 32,13,18,Ezekiel Elliott left end for 3 yards (tackle by Javon Hargrave and Cameron Heyward),0.940,0.630
+3,11:55,3,1,DAL 35,13,18,Ezekiel Elliott right guard for 3 yards (tackle by Lawrence Timmons),0.630,1.470
+3,11:15,1,10,DAL 38,13,18,Dak Prescott pass complete short right to Jason Witten for 11 yards (tackle by Ryan Shazier),1.470,2.190
+3,10:39,1,10,DAL 49,13,18,Ezekiel Elliott middle for 6 yards (tackle by Mike Mitchell and Ryan Shazier),2.190,2.460
+3,9:59,2,4,PIT 45,13,18,Ezekiel Elliott middle for 3 yards (tackle by Ross Cockrell and Mike Mitchell),2.460,2.150
+3,9:14,3,1,PIT 42,13,18,Ezekiel Elliott right guard for 6 yards (tackle by Daniel McCullers and Mike Mitchell),2.150,3.180
+3,8:37,1,10,PIT 36,13,18,Dak Prescott pass incomplete deep middle intended for Dez Bryant,3.180,2.640
+3,8:32,2,10,PIT 36,13,18,Alfred Morris middle for 3 yards (tackle by James Harrison and Ryan Shazier),2.640,0.000
+3,7:50,,,,13,18,Timeout #1 by Pittsburgh Steelers,0.000,-2.350
+3,7:50,3,7,PIT 33,13,18,Dak Prescott pass complete short left to Dez Bryant for 12 yards (tackle by Artie Burns),2.350,4.170
+3,7:12,1,10,PIT 21,13,18,Dak Prescott pass incomplete short right intended for Cole Beasley,4.170,3.630
+3,7:08,2,10,PIT 21,13,18,Dak Prescott pass complete short left to Dez Bryant for 5 yards (tackle by Artie Burns),3.630,3.630
+3,6:22,3,5,PIT 16,13,18,Dak Prescott sacked by Stephon Tuitt for -12 yards,3.630,1.590
+3,5:39,4,17,PIT 28,16,18,Dan Bailey 46 yard field goal good,1.590,3.000
+3,5:35,,,DAL 35,16,18,"Dan Bailey kicks off 66 yards, returned by Fitzgerald Toussaint for 33 yards",0.000,-1.070
+3,5:27,1,10,PIT 32,16,18,Le'Veon Bell left end for 4 yards (tackle by Sean Lee),1.070,1.070
+3,4:54,2,6,PIT 36,16,18,Le'Veon Bell left tackle for 3 yards (tackle by Anthony Hitchens and J.J. Wilcox),1.070,0.760
+3,4:12,3,3,PIT 39,16,18,Ben Roethlisberger sacked by Demarcus Lawrence for -8 yards,0.760,-1.310
+3,3:41,4,11,PIT 31,16,18,"Jordan Berry punts 57 yards, returned by Lucky Whitehead for 39 yards (tackle by Roosevelt Nix)",-1.310,-2.320
+3,3:23,1,10,PIT 49,16,18,Ezekiel Elliott left tackle for 7 yards (tackle by Stephon Tuitt and Ryan Shazier),2.320,2.730
+3,2:46,2,3,PIT 42,16,18,Alfred Morris middle for 2 yards (tackle by Cameron Heyward),2.730,2.280
+3,2:10,3,1,PIT 40,16,18,"Ezekiel Elliott left guard for 3 yards (tackle by Sean Davis). Penalty on Ronald Leary: Offensive Holding, 10 yards (no play)",2.280,0.960
+3,1:43,3,11,,22,18,"Dak Prescott pass complete deep left to Dez Bryant for 50 yards, touchdown",0.960,7.000
+3,1:35,,,PIT 15,23,18,Dan Bailey kicks extra point good,0.000,0.000
+3,1:35,,,DAL 35,23,18,"Dan Bailey kicks off 65 yards, touchback",0.000,-0.610
+3,1:35,1,10,PIT 25,23,18,Ben Roethlisberger pass complete short right to Le'Veon Bell for 3 yards (tackle by Terrell McClain and Sean Lee),0.610,0.470
+3,0:50,2,7,PIT 28,23,18,Ben Roethlisberger pass complete short right to Le'Veon Bell for 6 yards (tackle by Damien Wilson),0.470,0.560
+3,0:08,3,1,PIT 34,23,18,Le'Veon Bell right guard for 2 yards (tackle by Byron Jones),0.560,1.330
+Quarter,Time,Down,ToGo,Location,DAL,PIT,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,PIT 36,23,18,Antonio Brown middle for -10 yards (tackle by Demarcus Lawrence),1.330,-0.560
+4,14:18,2,20,PIT 26,23,18,Ben Roethlisberger pass complete short middle to Ladarius Green for 11 yards (tackle by Sean Lee),-0.560,0.230
+4,13:39,3,9,PIT 37,23,18,Ben Roethlisberger pass complete short left to Le'Veon Bell for 6 yards (tackle by Byron Jones and J.J. Wilcox). Penalty on Marcus Gilbert: Illegal Use of Hands (Declined),0.230,-0.520
+4,13:17,4,3,PIT 43,23,18,"Jordan Berry punts 46 yards, out of bounds",-0.520,0.370
+4,13:13,1,10,DAL 11,23,18,Ezekiel Elliott right guard for 2 yards (tackle by James Harrison and Artie Burns),-0.370,-0.630
+4,12:37,2,8,DAL 13,23,18,Dak Prescott pass complete short left to Jason Witten for 7 yards (tackle by Lawrence Timmons),-0.630,-0.370
+4,11:53,3,1,DAL 20,23,18,Ezekiel Elliott left guard for no gain (tackle by Sean Davis and Lawrence Timmons),-0.370,-2.030
+4,11:09,4,1,DAL 20,23,18,"Chris Jones punts 48 yards, returned by Antonio Brown for 22 yards (tackle by Chris Jones)",-2.030,-2.520
+4,10:56,1,10,DAL 46,23,18,Le'Veon Bell left tackle for 1 yard (tackle by Justin Durant),2.520,2.110
+4,10:22,2,9,DAL 45,23,18,Ben Roethlisberger pass complete short right to Antonio Brown for 12 yards (tackle by Byron Jones),2.110,3.380
+4,9:48,1,10,DAL 33,23,18,Ben Roethlisberger pass complete short left to Antonio Brown for 2 yards (tackle by Brandon Carr),3.380,3.110
+4,9:15,2,8,DAL 31,23,18,Ben Roethlisberger pass complete deep right to Antonio Brown for 20 yards (tackle by Byron Jones),3.110,4.840
+4,8:39,1,10,DAL 11,23,18,Ben Roethlisberger pass complete short left to Jesse James for 10 yards (tackle by Justin Durant),4.840,6.970
+4,7:56,1,1,DAL 1,23,24,"Le'Veon Bell right tackle for 1 yard, touchdown",6.970,7.000
+4,7:51,,,DAL 2,23,24,"Two Point Attempt: Ben Roethlisberger pass incomplete intended for Fitzgerald Toussaint, conversion fails",0.000,-1.000
+4,7:51,,,PIT 35,23,24,"Chris Boswell kicks off 65 yards, touchback",0.000,-0.610
+4,7:50,1,10,DAL 25,23,24,"Dak Prescott pass complete short right to Lucky Whitehead for 5 yards (tackle by Arthur Moats). Penalty on Ross Cockrell: Unnecessary Roughness, 15 yards",0.610,1.930
+4,7:19,1,10,DAL 45,23,24,Ezekiel Elliott middle for 2 yards (tackle by Lawrence Timmons and James Harrison),1.930,1.650
+4,6:40,2,8,DAL 47,23,24,Dak Prescott pass complete short left to Ezekiel Elliott for 12 yards (tackle by Ryan Shazier and William Gay),1.650,2.850
+4,5:56,1,10,PIT 41,23,24,Dak Prescott pass complete short right to Cole Beasley for no gain,2.850,2.310
+4,5:16,2,10,PIT 41,23,24,Dak Prescott pass complete short right to Jason Witten for 9 yards (tackle by Ross Cockrell),2.310,2.810
+4,4:49,3,1,PIT 32,23,24,Ezekiel Elliott middle for 2 yards (tackle by Daniel McCullers and James Harrison),2.810,3.580
+4,4:07,1,10,PIT 30,23,24,Dak Prescott pass complete short middle to Cole Beasley for 8 yards (tackle by Lawrence Timmons),3.580,4.110
+4,3:33,2,2,PIT 22,23,24,Ezekiel Elliott left tackle for -6 yards (tackle by Ryan Shazier),4.110,2.610
+4,2:50,3,8,PIT 28,23,24,Dak Prescott pass complete short right to Jason Witten for 14 yards (tackle by Ross Cockrell and Sean Davis),2.610,4.650
+4,2:00,1,10,PIT 14,29,24,"Ezekiel Elliott right tackle for 14 yards, touchdown",4.650,7.000
+4,1:55,,,PIT 2,29,24,"Two Point Attempt: Dak Prescott pass incomplete intended for Dez Bryant, conversion fails",0.000,-1.000
+4,1:55,,,DAL 35,29,24,"Dan Bailey kicks off 65 yards, touchback",0.000,-0.610
+4,1:55,1,10,PIT 25,29,24,Ben Roethlisberger pass complete short right to Antonio Brown for 3 yards (tackle by Leon McFadden and Sean Lee),0.610,0.470
+4,1:34,2,7,PIT 28,29,24,Ben Roethlisberger pass complete short middle to Ladarius Green for 10 yards (tackle by Byron Jones),0.470,1.470
+4,1:13,1,10,PIT 38,29,24,Ben Roethlisberger pass complete short right to Le'Veon Bell for 23 yards (tackle by Jeff Heath and J.J. Wilcox),1.470,0.000
+4,1:04,,,,29,24,Timeout #2 by Pittsburgh Steelers,0.000,-2.980
+4,1:04,1,10,DAL 39,29,24,Ben Roethlisberger pass complete short right to Jesse James for 24 yards (tackle by Jeff Heath),2.980,4.580
+4,0:43,1,10,DAL 15,29,30,"Ben Roethlisberger pass complete short right to Antonio Brown for 15 yards, touchdown",4.580,7.000
+4,0:42,,,DAL 2,29,30,"Two Point Attempt: Ben Roethlisberger pass incomplete intended for Antonio Brown is intercepted by Brandon Carr, conversion fails",0.000,-1.000
+4,0:42,,,PIT 35,29,30,"Chris Boswell kicks off 65 yards, touchback",0.000,-0.610
+4,0:42,1,10,DAL 25,29,30,Dak Prescott pass incomplete short right intended for Jason Witten,0.610,0.060
+4,0:37,2,10,DAL 25,29,30,Dak Prescott pass complete short right to Cole Beasley for 10 yards (tackle by William Gay),0.060,0.000
+4,0:31,,,,29,30,Timeout #1 by Dallas Cowboys,0.000,-1.270
+4,0:31,1,10,DAL 35,29,30,Dak Prescott pass complete short right to Jason Witten for 13 yards (tackle by Ryan Shazier and Stephon Tuitt),1.270,2.130
+4,0:23,1,10,DAL 48,29,30,"Dak Prescott pass complete short right to Jason Witten for 5 yards (tackle by Ross Cockrell). Penalty on Sean Davis: Face Mask (15 Yards), 15 yards",2.130,0.000
+4,0:23,,,,29,30,Timeout #2 by Dallas Cowboys,0.000,-3.450
+4,0:15,1,10,PIT 32,35,30,"Ezekiel Elliott middle for 32 yards, touchdown",3.450,7.000
+4,0:09,,,,35,30,Timeout #2 by Dallas Cowboys,0.000,0.000
+4,0:09,,,PIT 2,35,30,"Two Point Attempt: Dak Prescott pass incomplete intended for Dez Bryant, conversion fails",0.000,-1.000
+4,0:09,,,DAL 35,35,30,"Dan Bailey kicks off 65 yards, touchback",0.000,-0.610
+4,0:09,1,10,PIT 25,35,30,Ben Roethlisberger pass complete short middle to Antonio Brown for 11 yards (tackle by Anthony Brown),0.610,0.000
+4,0:02,,,,35,30,Timeout #3 by Pittsburgh Steelers,0.000,-1.330
+4,0:02,1,10,PIT 36,35,30,Ben Roethlisberger pass complete short right to Antonio Brown for 44 yards (tackle by Byron Jones),1.330,4.240
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

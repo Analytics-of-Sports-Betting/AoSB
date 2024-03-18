@@ -1,0 +1,194 @@
+Quarter,Time,Down,ToGo,Location,IND,BAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Colts won the coin toss, Colts to receive the opening kickoff.",,
+1,15:00,,,BAL 35,0,0,"Justin Tucker kicks off 74 yards, touchback",0.000,0.280
+1,15:00,1,10,IND 20,0,0,Donnie Avery right end for 15 yards (tackle by Corey Graham),0.280,1.270
+1,14:18,1,10,IND 35,0,0,Andrew Luck pass incomplete short right intended for Coby Fleener,1.270,0.720
+1,14:14,2,10,IND 35,0,0,Andrew Luck pass complete short left to T.Y. Hilton for 1 yard (tackle by Paul Kruger),0.720,0.170
+1,13:30,3,9,IND 36,0,0,Andrew Luck pass incomplete short left intended for Donnie Avery (defended by Ed Reed),0.170,-0.980
+1,13:26,4,9,IND 36,0,0,"Pat McAfee punts 50 yards, returned by Jacoby Jones for 34 yards (tackle by Mewelde Moore)",-0.980,-2.130
+1,13:12,1,10,BAL 48,0,0,Ray Rice right guard for 3 yards (tackle by Pat Angerer),2.130,1.990
+1,12:43,2,7,IND 49,0,0,Joe Flacco pass complete short right to Ed Dickson for 24 yards (tackle by Antoine Bethea),1.990,3.910
+1,12:05,1,10,IND 25,0,0,Ray Rice left guard for 4 yards (tackle by Jerrell Freeman and Pat Angerer),3.910,3.900
+1,11:38,2,6,IND 21,0,0,"Joe Flacco pass incomplete short right intended for Torrey Smith (defended by Cassius Vaughn). Penalty on Cassius Vaughn: Defensive Pass Interference, 6 yards (no play)",3.900,4.580
+1,11:34,1,10,IND 15,0,0,Ray Rice right guard for 4 yards (tackle by Robert Mathis),4.580,4.640
+1,11:02,2,6,IND 11,0,0,"Ray Rice right guard for no gain (tackle by Cory Redding). Ray Rice fumbles (forced by Cory Redding), recovered by Lawrence Guy at IND-11 (tackle by Marshall Yanda)",4.640,0.370
+1,10:55,1,10,IND 11,0,0,Vick Ballard up the middle for 4 yards (tackle by Terrence Cody),-0.370,-0.430
+1,10:20,2,6,IND 15,0,0,Vick Ballard left end for -1 yards (tackle by Ray Lewis),-0.430,-1.070
+1,9:37,3,7,IND 14,0,0,Andrew Luck up the middle for 8 yards (tackle by Dannell Ellerbe),-1.070,0.410
+1,8:48,1,10,IND 22,0,0,Andrew Luck pass incomplete deep middle intended for Reggie Wayne,0.410,-0.130
+1,8:41,2,10,IND 22,0,0,"Andrew Luck pass incomplete deep right intended for T.Y. Hilton. Penalty on Chykie Brown: Illegal Contact, 5 yards (no play)",-0.130,0.740
+1,8:35,1,10,IND 27,0,0,Vick Ballard left tackle for 4 yards (tackle by Cary Williams),0.740,0.740
+1,7:58,2,6,IND 31,0,0,Andrew Luck pass complete short left to T.Y. Hilton for 7 yards (tackle by Cary Williams),0.740,1.470
+1,7:19,1,10,IND 38,0,0,Vick Ballard right guard for 6 yards (tackle by Courtney Upshaw and Ray Lewis),1.470,1.730
+1,6:41,2,4,IND 44,0,0,Andrew Luck pass incomplete short left intended for Coby Fleener (defended by Ed Reed),1.730,1.020
+1,6:33,3,4,IND 44,0,0,Andrew Luck pass complete short left to Reggie Wayne for 9 yards (tackle by Cary Williams),1.020,2.460
+1,5:56,1,10,BAL 47,0,0,Vick Ballard right tackle for 7 yards (tackle by Dannell Ellerbe),2.460,2.860
+1,5:22,2,3,BAL 40,0,0,Vick Ballard left tackle for 5 yards (tackle by Chykie Brown),2.860,3.250
+1,4:44,1,10,BAL 35,0,0,Andrew Luck pass incomplete deep right intended for Reggie Wayne,3.250,2.700
+1,4:36,2,10,BAL 35,0,0,Mewelde Moore right tackle for 5 yards (tackle by Dannell Ellerbe),2.700,2.680
+1,3:52,3,5,BAL 30,0,0,"Andrew Luck sacked by Paul Kruger for -7 yards. Andrew Luck fumbles (forced by Paul Kruger), recovered by Pernell McPhee at BAL-37 (tackle by Winston Justice)",2.680,-1.400
+1,3:45,1,10,BAL 37,0,0,Joe Flacco pass incomplete short left intended for Anquan Boldin (defended by Vontae Davis),1.400,0.860
+1,3:41,2,10,BAL 37,0,0,Ray Rice left end for 4 yards (tackle by Jerrell Freeman and Robert Mathis),0.860,0.700
+1,3:05,3,6,BAL 41,0,0,Joe Flacco pass incomplete short right intended for Torrey Smith (defended by Vontae Davis),0.700,-0.650
+1,2:57,4,6,BAL 41,0,0,"Sam Koch punts 36 yards, out of bounds",-0.650,-0.480
+1,2:49,1,10,IND 23,0,0,Vick Ballard left tackle for 7 yards (tackle by Dannell Ellerbe and Ray Lewis),0.480,0.880
+1,2:16,2,3,IND 30,0,0,Andrew Luck pass complete short right to Coby Fleener for 6 yards (tackle by Bernard Pollard),0.880,1.330
+1,1:36,1,10,IND 36,0,0,Vick Ballard left tackle for 3 yards (tackle by Haloti Ngata),1.330,1.200
+1,0:56,2,7,IND 39,0,0,Andrew Luck pass incomplete deep right intended for T.Y. Hilton,1.200,0.500
+1,0:50,3,7,IND 39,0,0,Andrew Luck up the middle for 3 yards (tackle by Ray Lewis and Terrell Suggs),0.500,-0.590
+1,0:23,4,4,IND 42,0,0,"Pat McAfee punts 41 yards, returned by Jacoby Jones for 12 yards (tackle by Joe Lefeged)",-0.590,-0.870
+1,0:14,1,10,BAL 29,0,0,Bernard Pierce left guard for 6 yards (tackle by Cory Redding),0.870,1.140
+Quarter,Time,Down,ToGo,Location,IND,BAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,4,BAL 35,0,0,Bernard Pierce left guard for 5 yards (tackle by Pat Angerer and Lawrence Guy),1.140,1.600
+2,14:30,1,10,BAL 40,0,0,Joe Flacco pass complete deep middle to Torrey Smith for 22 yards (tackle by Cassius Vaughn),1.600,3.050
+2,13:49,1,10,IND 38,0,0,Bernard Pierce left guard for 5 yards (tackle by Lawrence Guy),3.050,3.180
+2,13:11,2,5,IND 33,0,0,Joe Flacco pass complete short right to Dennis Pitta for 7 yards (tackle by Antonio Johnson and Pat Angerer),3.180,3.840
+2,12:30,1,10,IND 26,0,0,Bernard Pierce right tackle for 18 yards (tackle by Antoine Bethea),3.840,5.370
+2,12:14,1,8,IND 8,0,0,Bernard Pierce right tackle for 3 yards (tackle by Pat Angerer and Antoine Bethea),5.370,5.150
+2,11:33,2,5,IND 5,0,0,Joe Flacco pass incomplete short middle intended for Tandon Doss (defended by Vontae Davis),5.150,4.260
+2,11:28,3,5,IND 5,0,0,Joe Flacco pass incomplete short middle intended for Tandon Doss,4.260,3.010
+2,11:23,4,5,IND 5,0,3,Justin Tucker 23 yard field goal good,3.010,3.000
+2,11:18,,,BAL 35,0,3,"Justin Tucker kicks off 73 yards, touchback",0.000,0.280
+2,11:18,1,10,IND 20,0,3,Andrew Luck pass incomplete short middle intended for Donnie Avery,0.280,-0.270
+2,11:10,2,10,IND 20,0,3,Andrew Luck pass complete short left to T.Y. Hilton for 8 yards (tackle by Cary Williams),-0.270,0.100
+2,10:32,3,2,IND 28,0,3,Andrew Luck pass incomplete short right intended for T.Y. Hilton (defended by Bernard Pollard),0.100,-1.500
+2,10:26,4,2,IND 28,0,3,"Pat McAfee punts 53 yards, returned by Jacoby Jones for 17 yards (tackle by Sergio Brown). Penalty on Chykie Brown: Offensive Holding, 10 yards",-1.500,-0.280
+2,10:14,1,10,BAL 20,0,3,Ray Rice left tackle for 5 yards (tackle by Antonio Johnson),0.280,0.410
+2,9:39,2,5,BAL 25,0,3,Ray Rice up the middle for 13 yards (tackle by Joe Lefeged),0.410,1.470
+2,9:07,1,10,BAL 38,0,3,Joe Flacco pass incomplete deep right intended for Anquan Boldin,1.470,0.920
+2,9:01,2,10,BAL 38,0,3,Ray Rice right guard for 2 yards (tackle by Antoine Bethea),0.920,0.500
+2,8:25,3,8,BAL 40,0,3,Joe Flacco pass incomplete short left intended for Jacoby Jones,0.500,-0.720
+2,8:19,4,8,BAL 40,0,3,"Sam Koch punts 60 yards, touchback. Penalty on David Reed: Illegal Touch Kick",-0.720,-0.280
+2,8:09,1,10,IND 20,0,3,Vick Ballard right guard for 2 yards (tackle by Courtney Upshaw and Terrell Suggs),0.280,0.000
+2,7:34,2,8,IND 22,0,3,Vick Ballard left tackle for 3 yards (tackle by Haloti Ngata and Cary Williams),0.000,-0.300
+2,6:52,3,5,IND 25,0,3,Andrew Luck pass complete short middle to Reggie Wayne for 8 yards (tackle by Cary Williams),-0.300,1.140
+2,6:24,1,10,IND 33,0,3,Andrew Luck pass complete short middle to Dwayne Allen for 22 yards (tackle by Cary Williams and Ray Lewis),1.140,2.590
+2,5:45,1,10,BAL 45,0,3,Vick Ballard right tackle for no gain (tackle by Courtney Upshaw and Ray Lewis),2.590,2.040
+2,5:02,2,10,BAL 45,0,3,Andrew Luck pass complete short left to Dwayne Allen for 13 yards (tackle by James Ihedigbo),2.040,3.450
+2,4:28,1,10,BAL 32,0,3,Vick Ballard right guard for 2 yards (tackle by Haloti Ngata),3.450,3.170
+2,3:47,2,8,BAL 30,0,3,Andrew Luck sacked by Corey Graham and Paul Kruger for -6 yards,3.170,1.690
+2,3:07,3,14,BAL 36,0,3,Andrew Luck pass complete short middle to Coby Fleener for 7 yards (tackle by Ray Lewis),1.690,1.500
+2,2:31,4,7,BAL 29,3,3,Adam Vinatieri 47 yard field goal good,1.500,3.000
+2,2:25,,,IND 35,3,3,"Pat McAfee kicks off 65 yards, returned by Jacoby Jones for 37 yards (tackle by Josh Gordy)",0.000,1.400
+2,2:18,1,10,BAL 37,3,3,Ray Rice right end for 4 yards (tackle by Jerrell Freeman),1.400,1.400
+2,2:00,2,6,BAL 41,3,3,Ray Rice left guard for 2 yards (tackle by Moise Fokou and Jerrell Freeman),1.400,0.960
+2,1:34,3,4,BAL 43,3,3,Joe Flacco pass complete short middle to Jacoby Jones for 8 yards (tackle by Cassius Vaughn),0.960,2.320
+2,1:14,1,10,IND 49,3,3,Joe Flacco pass incomplete short middle intended for Ray Rice (defended by Moise Fokou),2.320,1.780
+2,1:08,2,10,IND 49,3,3,Joe Flacco pass complete short right to Ray Rice for 47 yards (tackle by Moise Fokou),1.780,6.740
+2,0:55,1,2,IND 2,3,9,"Vonta Leach left tackle for 2 yards, touchdown",6.740,7.000
+2,0:55,,,IND 2,3,10,Justin Tucker kicks extra point good,0.000,0.000
+2,0:50,,,BAL 35,3,10,"Justin Tucker kicks off 74 yards, touchback",0.000,0.280
+2,0:50,1,10,IND 20,3,10,Andrew Luck pass complete short left to T.Y. Hilton for 4 yards (tackle by Corey Graham),0.280,0.270
+2,0:45,2,6,IND 24,3,10,Andrew Luck pass complete short middle to Reggie Wayne for 13 yards (tackle by Bernard Pollard),0.270,0.000
+2,0:38,,,,3,10,Timeout #1 by Indianapolis Colts,0.000,1.400
+2,0:38,1,10,IND 37,3,10,Andrew Luck pass complete short left to Reggie Wayne for 20 yards (tackle by Ed Reed),1.400,0.000
+2,0:31,,,,3,10,Timeout #2 by Indianapolis Colts,0.000,2.720
+2,0:31,1,10,BAL 43,3,10,Andrew Luck pass incomplete short left intended for Donnie Avery (defended by Paul Kruger),2.720,2.180
+2,0:29,2,10,BAL 43,3,10,"Andrew Luck pass incomplete short right intended for Reggie Wayne. Penalty on Andrew Luck: Intentional Grounding, 16 yards",2.180,0.000
+2,0:12,,,,3,10,Timeout #1 by Baltimore Ravens,0.000,-0.630
+2,0:12,3,26,IND 41,3,10,Andrew Luck pass complete deep middle to T.Y. Hilton for 25 yards (tackle by Ed Reed),-0.630,1.100
+2,0:03,4,1,BAL 34,6,10,Adam Vinatieri 52 yard field goal good,1.100,3.000
+Quarter,Time,Down,ToGo,Location,IND,BAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,IND 35,6,10,"Pat McAfee kicks off 70 yards, returned by Jacoby Jones for 23 yards (tackle by Mario Harvey)",0.000,0.040
+3,14:56,1,10,BAL 18,6,10,Bernard Pierce left tackle for 4 yards (tackle by Cory Redding),0.040,0.140
+3,14:31,2,6,BAL 22,6,10,Joe Flacco sacked by Robert Mathis for -13 yards,0.140,-2.470
+3,13:54,3,19,BAL 9,6,10,Joe Flacco pass complete deep right to Anquan Boldin for 50 yards (tackle by Antoine Bethea). Penalty on Cassius Vaughn: Defensive Pass Interference (Declined),-2.470,2.850
+3,13:21,1,10,IND 41,6,10,Bernard Pierce right tackle for 2 yards (tackle by Antoine Bethea),2.850,2.580
+3,12:55,2,8,IND 39,6,10,"Joe Flacco pass complete deep right to Anquan Boldin for no gain. Penalty on Anquan Boldin: Offensive Pass Interference, 10 yards (no play)",2.580,1.230
+3,12:48,2,18,IND 49,6,10,Joe Flacco pass incomplete short middle intended for Ray Rice (defended by Ricardo Mathews),1.230,0.560
+3,12:43,3,18,IND 49,6,10,Joe Flacco pass incomplete deep left intended for Tandon Doss,0.560,0.000
+3,12:36,4,18,IND 49,6,10,"Sam Koch punts 49 yards, touchback",0.000,-0.280
+3,12:27,1,10,IND 20,6,10,"Penalty on Coby Fleener: False Start, 5 yards (no play)",0.280,-0.310
+3,12:27,1,15,IND 15,6,10,Vick Ballard up the middle for 3 yards (tackle by Ray Lewis),-0.310,-0.630
+3,11:50,2,12,IND 18,6,10,Andrew Luck pass complete short middle to Reggie Wayne for 15 yards (tackle by Dannell Ellerbe),-0.630,1.140
+3,11:11,1,10,IND 33,6,10,Vick Ballard left tackle for no gain (tackle by Dannell Ellerbe),1.140,0.590
+3,10:27,2,10,IND 33,6,10,Andrew Luck pass incomplete short right intended for Dwayne Allen,0.590,-0.100
+3,10:23,3,10,IND 33,6,10,Andrew Luck sacked by Paul Kruger for -8 yards,-0.100,-1.700
+3,9:57,4,18,IND 25,6,10,Pat McAfee punts 50 yards,-1.700,-0.610
+3,9:49,1,10,BAL 25,6,10,Joe Flacco pass complete short left to Anquan Boldin for 10 yards (tackle by Jerry Hughes),0.610,1.270
+3,9:33,1,10,BAL 35,6,10,Ray Rice right tackle for 4 yards (tackle by Lawrence Guy and Antoine Bethea),1.270,1.260
+3,9:04,2,6,BAL 39,6,10,Joe Flacco pass complete deep right to Anquan Boldin for 46 yards (tackle by Cassius Vaughn),1.260,4.580
+3,8:38,1,10,IND 15,6,10,Joe Flacco pass incomplete short right intended for Torrey Smith,4.580,3.950
+3,8:38,2,10,IND 15,6,10,"Penalty on Michael Oher: False Start, 5 yards (no play)",3.950,3.350
+3,8:33,2,15,IND 20,6,16,"Joe Flacco pass complete short right to Dennis Pitta for 20 yards, touchdown",3.350,7.000
+3,8:33,,,IND 2,6,17,Justin Tucker kicks extra point good,0.000,0.000
+3,8:26,,,BAL 35,6,17,"Justin Tucker kicks off 74 yards, touchback",0.000,0.280
+3,8:26,1,10,IND 20,6,17,Andrew Luck pass incomplete short right intended for Donnie Avery (defended by Cary Williams),0.280,-0.270
+3,8:20,2,10,IND 20,6,17,Vick Ballard right guard for 6 yards (tackle by Ray Lewis and Ma'ake Kemoeatu),-0.270,-0.160
+3,7:39,3,4,IND 26,6,17,Andrew Luck pass complete short middle to LaVon Brazill for 17 yards (tackle by Chykie Brown),-0.160,1.800
+3,7:12,1,10,IND 43,6,17,Andrew Luck pass complete short left to Donnie Avery for 5 yards (tackle by Cary Williams),1.800,1.930
+3,6:51,2,5,IND 48,6,17,"Penalty on Anthony Castonzo: False Start, 5 yards (no play)",1.930,1.250
+3,6:30,2,10,IND 43,6,17,Vick Ballard left tackle for 8 yards (tackle by Cary Williams and Dannell Ellerbe),1.250,1.620
+3,5:47,3,2,BAL 49,6,17,Andrew Luck up the middle for 6 yards (tackle by Ed Reed),1.620,2.720
+3,5:09,1,10,BAL 43,6,17,Vick Ballard left tackle for 2 yards (tackle by Arthur Jones),2.720,2.450
+3,4:31,2,8,BAL 41,6,17,Andrew Luck pass complete short right to T.Y. Hilton for 6 yards (tackle by Corey Graham and Chykie Brown),2.450,2.540
+3,3:51,3,2,BAL 35,6,17,Andrew Luck pass complete short right to Vick Ballard for 3 yards (tackle by Bernard Pollard),2.540,3.450
+3,3:20,1,10,BAL 32,6,17,Vick Ballard left tackle for -2 yards (tackle by Dannell Ellerbe),3.450,2.630
+3,2:53,2,12,BAL 34,6,17,Andrew Luck pass complete deep middle to Reggie Wayne for 20 yards (tackle by Ed Reed),2.630,4.650
+3,2:11,1,10,BAL 14,6,17,Mewelde Moore left tackle for 6 yards (tackle by Ray Lewis),4.650,5.090
+3,1:31,2,4,BAL 8,6,17,Mewelde Moore left guard for no gain (tackle by Arthur Jones),5.090,4.280
+3,0:48,3,4,BAL 8,6,17,Andrew Luck pass incomplete short middle intended for Reggie Wayne,4.280,2.980
+3,0:44,4,4,BAL 8,9,17,Adam Vinatieri 26 yard field goal good,2.980,3.000
+3,0:40,,,IND 35,9,17,"Pat McAfee kicks off 74 yards, touchback",0.000,0.280
+3,0:40,1,10,BAL 20,9,17,Ray Rice right tackle for 1 yard (tackle by Cory Redding),0.280,-0.130
+Quarter,Time,Down,ToGo,Location,IND,BAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,9,BAL 21,9,17,Joe Flacco pass complete deep right to Anquan Boldin for 21 yards (tackle by Cassius Vaughn and Antoine Bethea),-0.130,1.730
+4,14:27,1,10,BAL 42,9,17,"Ray Rice left end for 18 yards (tackle by Joe Lefeged). Ray Rice fumbles (forced by Joe Lefeged), recovered by Pat Angerer at IND-29 (tackle by Matt Birk)",1.730,-0.870
+4,14:15,1,10,IND 29,9,17,Vick Ballard left end for 5 yards (tackle by Corey Graham and Arthur Jones),0.870,1.000
+4,13:46,2,5,IND 34,9,17,Andrew Luck pass complete short right to Reggie Wayne for 19 yards (tackle by Corey Graham),1.000,2.460
+4,13:21,1,10,BAL 47,9,17,Vick Ballard for 24 yards (tackle by Ed Reed),2.460,4.040
+4,13:03,1,10,BAL 23,9,17,"Vick Ballard right guard for -1 yards (tackle by Courtney Upshaw and Deangelo Tyson). Penalty on Terrence Cody: Defensive 12 On-field, 5 yards (no play)",4.040,4.860
+4,12:52,1,5,BAL 18,9,17,"Penalty on Mike McGlynn: False Start, 5 yards (no play)",4.860,4.040
+4,12:40,1,10,BAL 23,9,17,Andrew Luck pass incomplete deep left intended for Reggie Wayne,4.040,3.500
+4,12:34,2,10,BAL 23,9,17,Vick Ballard right tackle for 1 yard (tackle by Haloti Ngata and Pernell McPhee),3.500,2.940
+4,11:53,3,9,BAL 22,9,17,Andrew Luck pass incomplete short right intended for Donnie Avery,2.940,1.990
+4,11:49,4,9,BAL 22,9,17,Adam Vinatieri 40 yard field goal no good,1.990,-0.940
+4,11:44,1,10,BAL 30,9,17,Joe Flacco pass complete short right to Torrey Smith for 9 yards (tackle by Darius Butler),0.940,1.610
+4,11:12,2,1,BAL 39,9,17,Bernard Pierce right tackle for no gain (tackle by Robert Mathis and Cory Redding),1.610,0.000
+4,10:33,,,,9,17,Timeout #1 by Baltimore Ravens,0.000,0.890
+4,10:33,3,1,BAL 39,9,17,Bernard Pierce right end for 43 yards (tackle by Darius Butler and Antoine Bethea),0.890,4.370
+4,9:59,1,10,IND 18,9,17,Bernard Pierce left end for no gain (tackle by Darius Butler),4.370,3.800
+4,9:22,2,10,IND 18,9,23,"Joe Flacco pass complete deep right to Anquan Boldin for 18 yards, touchdown",3.800,7.000
+4,9:22,,,IND 2,9,24,Justin Tucker kicks extra point good,0.000,0.000
+4,9:14,,,BAL 35,9,24,"Justin Tucker kicks off 70 yards, touchback",0.000,0.280
+4,9:14,1,10,IND 20,9,24,Andrew Luck pass complete short right to Dwayne Allen for 9 yards (tackle by Ray Lewis),0.280,0.950
+4,8:45,2,1,IND 29,9,24,Andrew Luck pass complete short left to Dwayne Allen for 7 yards (tackle by Corey Graham),0.950,1.330
+4,8:20,1,10,IND 36,9,24,Andrew Luck pass incomplete short right intended for T.Y. Hilton,1.330,0.790
+4,8:20,2,10,IND 36,9,24,"Penalty on Paul Kruger: Neutral Zone Infraction, 5 yards (no play)",0.790,1.470
+4,8:15,2,5,IND 41,9,24,Vick Ballard left guard for 2 yards (tackle by Dannell Ellerbe and Cary Williams),1.470,1.030
+4,7:48,3,3,IND 43,9,24,Andrew Luck pass complete short middle to Donnie Avery for 7 yards (tackle by Ray Lewis),1.030,2.260
+4,7:23,1,10,IND 50,9,24,Andrew Luck pass complete short right to Reggie Wayne for 5 yards (tackle by Chykie Brown),2.260,2.390
+4,6:54,2,5,BAL 45,9,24,Andrew Luck pass incomplete short right intended for Donnie Avery,2.390,1.690
+,,,,,,,"IND challenged the incomplete pass ruling, and the play was upheld.",,
+4,6:34,3,5,BAL 45,9,24,Andrew Luck for 18 yards (tackle by Brendon Ayanbadejo),1.690,3.780
+4,6:17,1,10,BAL 27,9,24,Andrew Luck pass incomplete short right intended for Reggie Wayne,3.780,3.230
+4,6:11,2,10,BAL 27,9,24,Andrew Luck pass complete short left to T.Y. Hilton for 9 yards (tackle by Brendon Ayanbadejo),3.230,3.840
+4,5:39,3,1,BAL 18,9,24,Andrew Luck pass incomplete short left intended for Dwayne Allen,3.840,2.400
+4,5:35,4,1,BAL 18,9,24,Andrew Luck pass incomplete short left intended for Reggie Wayne is intercepted by Cary Williams at BAL-15 and returned for 41 yards (tackle by Andrew Luck),2.400,-2.650
+4,5:24,1,10,IND 44,9,24,Ray Rice right end for 5 yards (tackle by Darius Butler),2.650,2.780
+4,4:40,2,5,IND 39,9,24,Ray Rice right guard for 1 yard (tackle by Cory Redding),2.780,2.210
+4,4:00,3,4,IND 38,9,24,Joe Flacco pass incomplete short right intended for Ray Rice,2.210,0.720
+4,3:56,4,4,IND 38,9,24,Sam Koch punts 28 yards,0.720,0.380
+4,3:46,1,10,IND 10,9,24,"Andrew Luck pass incomplete deep right intended for Reggie Wayne (defended by Bernard Pollard). Penalty on Bernard Pollard: Unnecessary Roughness, 15 yards (no play)",-0.380,0.610
+4,3:37,1,10,IND 25,9,24,Andrew Luck pass incomplete short right intended for Reggie Wayne,0.610,0.060
+4,3:33,2,10,IND 25,9,24,"Andrew Luck pass incomplete deep right intended for T.Y. Hilton. Penalty on Bernard Pollard: Taunting, 15 yards",0.060,1.600
+4,3:33,1,10,IND 40,9,24,Andrew Luck pass complete short left to T.Y. Hilton for 6 yards,1.600,1.860
+4,3:17,2,4,IND 46,9,24,Andrew Luck pass incomplete short right intended for T.Y. Hilton,1.860,1.160
+4,3:12,3,4,IND 46,9,24,Andrew Luck pass complete short middle to Coby Fleener for 12 yards (tackle by Ray Lewis),1.160,2.790
+4,2:52,1,10,BAL 42,9,24,Andrew Luck pass incomplete short right intended for Reggie Wayne (defended by Corey Graham),2.790,2.240
+4,2:47,2,10,BAL 42,9,24,Andrew Luck pass complete short right to Reggie Wayne for 5 yards (tackle by Bernard Pollard),2.240,2.210
+4,2:20,3,5,BAL 37,9,24,Andrew Luck pass incomplete deep left intended for LaVon Brazill,2.210,0.790
+4,2:14,4,5,BAL 37,9,24,Andrew Luck pass incomplete short right intended for Vick Ballard,0.790,-1.400
+4,2:10,1,10,BAL 37,9,24,Bernard Pierce left tackle for 3 yards (tackle by Cory Redding and Robert Mathis),1.400,0.000
+4,2:03,,,,9,24,Timeout #2 by Indianapolis Colts,0.000,1.260
+4,2:03,2,7,BAL 40,9,24,Bernard Pierce left tackle for 1 yard (tackle by Antoine Bethea and Lawrence Guy),1.260,0.700
+4,1:57,3,6,BAL 41,9,24,Bernard Pierce right end for 13 yards (tackle by Pat Angerer),0.700,0.000
+4,1:36,,,,9,24,Timeout #3 by Indianapolis Colts,0.000,2.520
+4,1:36,1,10,IND 46,9,24,Joe Flacco kneels for -1 yards,2.520,1.840
+4,0:56,2,11,IND 47,9,24,Joe Flacco kneels for -1 yards,1.840,1.030
+4,0:31,3,12,IND 48,9,24,Joe Flacco kneels for -1 yards,1.030,0.000
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

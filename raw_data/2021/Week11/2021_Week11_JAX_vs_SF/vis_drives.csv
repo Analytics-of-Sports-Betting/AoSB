@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,SFO 11,20,13:05,87,Field Goal
+2,1,0:20,SFO 20,7,3:56,80,Touchdown
+3,2,11:16,JAX 35,7,2:51,35,Touchdown
+4,2,1:53,SFO 25,7,1:53,45,Field Goal
+5,3,14:34,SFO 23,11,5:45,77,Touchdown
+6,3,5:04,SFO 9,4,2:22,17,Punt
+7,4,10:59,SFO 15,3,2:26,-2,Punt
+8,4,8:33,JAX 44,5,3:00,17,Field Goal
+9,4,3:04,SFO 25,5,3:04,9,End of Game

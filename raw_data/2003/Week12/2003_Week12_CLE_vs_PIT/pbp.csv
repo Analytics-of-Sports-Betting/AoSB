@@ -1,0 +1,190 @@
+Quarter,Time,Down,ToGo,Location,PIT,CLE,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Steelers won the coin toss, Steelers to receive the opening kickoff.",,
+1,15:00,,,CLE 30,0,0,"Phil Dawson kicks off 58 yards, returned by Antwaan Randle El for 17 yards (tackle by Barry Gardner)",0.000,0.870
+1,14:55,1,10,PIT 29,0,0,Tommy Maddox pass incomplete intended for Plaxico Burress (defended by Anthony Henry),0.870,0.330
+1,14:49,2,10,PIT 29,0,0,Jerome Bettis left guard for 3 yards (tackle by Brant Boyer),0.330,0.040
+1,14:11,3,7,PIT 32,0,0,Tommy Maddox sacked by Mark Word for -7 yards,0.040,-1.700
+1,13:55,4,14,PIT 25,0,0,"Josh Miller punts 48 yards, returned by Dennis Northcutt for 9 yards (tackle by Clark Haggans)",-1.700,-1.330
+1,13:43,1,10,CLE 36,0,0,"Penalty on PIT: Neutral Zone Infraction, 5 yards (no play)",1.330,2.060
+1,13:43,1,5,CLE 41,0,0,Kelly Holcomb pass complete to Dennis Northcutt for 7 yards (tackle by Casey Hampton),2.060,2.130
+1,13:09,1,10,CLE 48,0,0,Kelly Holcomb pass complete to James Jackson for 7 yards (tackle by Brent Alexander),2.130,2.530
+1,12:27,2,3,PIT 45,0,0,James Jackson left guard for 2 yards (tackle by Mike Logan),2.530,2.080
+1,11:43,3,1,PIT 43,0,0,James Jackson right guard for 13 yards (tackle by Brent Alexander),2.080,3.580
+1,11:43,1,10,PIT 30,0,0,"Penalty on Casey Hampton: Encroachment, 5 yards (no play)",3.580,4.310
+1,10:47,1,5,PIT 25,0,0,Kelly Holcomb pass complete to Andra Davis for 18 yards (tackle by Chad Scott),4.310,5.600
+1,10:06,1,7,PIT 7,0,0,James Jackson left guard for -3 yards (tackle by Kendrell Bell and Troy Polamalu),5.600,4.190
+1,9:31,2,10,PIT 10,0,0,James Jackson right guard for no gain (tackle by Chris Hope),4.190,3.130
+1,8:53,3,10,PIT 10,0,0,Kelly Holcomb pass incomplete intended for Andra Davis,3.130,2.760
+1,8:47,4,10,PIT 10,0,3,Phil Dawson 27 yard field goal good,2.760,3.000
+1,,,,CLE 30,0,3,"Phil Dawson kicks off 54 yards, returned by Antwaan Randle El for 24 yards (tackle by Phil Dawson). Penalty on Troy Polamalu: Offensive Holding, 10 yards",0.000,-0.320
+1,8:36,1,10,PIT 13,0,3,Jerome Bettis left guard for 7 yards (tackle by Gerard Warren and Courtney Brown),-0.320,0.220
+1,8:01,2,3,PIT 20,0,3,Jerome Bettis right guard for 1 yard (tackle by Andra Davis and Courtney Brown),0.220,-0.470
+1,7:19,3,2,PIT 21,0,3,Amos Zereoue right tackle for -2 yards (tackle by Andra Davis and Gerard Warren),-0.470,-2.140
+1,6:42,4,4,PIT 19,0,3,"Josh Miller punts 55 yards, returned by Dennis Northcutt for 74 yards. Penalty on CLE: Offensive Holding, 10 yards",-2.140,-0.670
+1,6:25,1,10,CLE 26,0,3,Kelly Holcomb pass complete to James Jackson for 13 yards (tackle by Brent Alexander),0.670,1.530
+1,5:45,1,10,CLE 39,0,3,James Jackson right tackle for 4 yards (tackle by Jason Gildon),1.530,1.530
+1,5:07,2,6,CLE 43,0,3,James Jackson left tackle for 5 yards (tackle by Chris Hope),1.530,1.490
+1,4:29,3,1,CLE 48,0,3,Kelly Holcomb pass incomplete intended for Andra Davis,1.490,-0.190
+1,4:23,4,1,CLE 48,0,3,Chris Gardocki punts 31 yards,-0.190,-0.340
+1,4:16,1,10,PIT 21,0,3,Tommy Maddox pass incomplete intended for Jerome Bettis,0.340,-0.200
+1,4:11,2,10,PIT 21,0,3,Tommy Maddox pass incomplete intended for Hines Ward (defended by Daylon McCutcheon),-0.200,-0.890
+1,4:05,3,10,PIT 21,0,3,Tommy Maddox pass incomplete intended for Hines Ward,-0.890,-1.960
+1,4:01,4,10,PIT 21,0,3,Josh Miller punts 29 yards,-1.960,-2.260
+1,3:49,1,10,CLE 50,0,3,James Jackson right end for 6 yards (tackle by Chad Scott),2.260,2.520
+1,3:06,2,4,PIT 44,0,3,James Jackson left tackle for 12 yards (tackle by Mike Logan),2.520,3.450
+1,2:40,1,10,PIT 32,0,3,James Jackson left guard for no gain,3.450,2.900
+1,2:04,2,10,PIT 32,0,3,Kelly Holcomb pass complete to Chad Mustard for 5 yards (tackle by James Farrior),2.900,2.870
+1,1:16,3,5,PIT 27,0,3,"Penalty on Kelly Holcomb: Delay of Game, 5 yards (no play)",2.870,2.210
+1,0:52,3,10,PIT 32,0,3,Kelly Holcomb pass complete to Quincy Morgan for 16 yards (tackle by Chad Scott),2.210,4.510
+1,0:10,1,10,PIT 16,0,3,Kelly Holcomb pass incomplete intended for Quincy Morgan (defended by Deshea Townsend),4.510,3.900
+1,0:05,2,10,PIT 16,0,3,"Kelly Holcomb sacked by Jason Gildon for -11 yards. Kelly Holcomb fumbles (forced by Jason Gildon), recovered by Ryan Tucker at PIT-27 and returned for 8 yards",3.900,2.850
+Quarter,Time,Down,ToGo,Location,PIT,CLE,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,13,PIT 19,0,3,"Penalty on PIT: Defensive Offside, 5 yards (no play)",2.850,3.370
+2,15:00,3,8,PIT 14,0,3,Kelly Holcomb pass incomplete intended for Dennis Northcutt (defended by Deshea Townsend),3.370,2.510
+2,14:55,4,8,PIT 14,0,6,Phil Dawson 31 yard field goal good,2.510,3.000
+2,,,,CLE 30,0,6,"Phil Dawson kicks off 63 yards, returned by Ike Taylor for 23 yards (tackle by Brant Boyer)",0.000,0.940
+2,14:45,1,10,PIT 30,0,6,Tommy Maddox pass complete to Plaxico Burress for 6 yards (tackle by Anthony Henry),0.940,1.200
+2,14:12,2,4,PIT 36,0,6,Tommy Maddox pass complete to Hines Ward for 13 yards (tackle by Daylon McCutcheon),1.200,2.190
+2,13:54,1,10,PIT 49,0,6,Amos Zereoue left tackle for 5 yards (tackle by Brant Boyer and Chris Crocker),2.190,2.320
+2,13:24,2,5,CLE 46,0,6,"Tommy Maddox pass incomplete intended for Plaxico Burress. Penalty on Anthony Henry: Defensive Pass Interference, 5 yards (no play)",2.320,2.850
+2,13:19,1,10,CLE 41,0,6,Tommy Maddox pass complete to Jerame Tuman for 6 yards (tackle by Chris Crocker),2.850,3.120
+2,12:51,2,4,CLE 35,0,6,Tommy Maddox pass complete to Antwaan Randle El for 7 yards (tackle by Chris Crocker),3.120,3.710
+2,12:24,1,10,CLE 28,0,6,Tommy Maddox pass incomplete intended for Plaxico Burress,3.710,3.170
+2,12:18,2,10,CLE 28,0,6,Tommy Maddox sacked by Gerard Warren for -7 yards,3.170,1.550
+2,11:40,,,,0,6,Timeout #1 by Pittsburgh Steelers,0.000,1.550
+2,11:40,3,17,CLE 35,0,6,"Penalty on Plaxico Burress: False Start, 5 yards (no play)",1.550,0.890
+2,11:40,3,22,CLE 40,0,6,"Penalty on Kendall Simmons: False Start, 5 yards (no play)",0.890,0.230
+2,11:40,3,27,CLE 45,0,6,Tommy Maddox pass incomplete intended for Hines Ward (defended by Chris Crocker),0.230,0.270
+2,11:35,4,27,CLE 45,0,6,Josh Miller punts 40 yards,0.270,0.380
+2,11:24,1,10,CLE 5,0,6,James Jackson right guard for 6 yards (tackle by Aaron Smith),-0.380,-0.340
+2,10:49,2,4,CLE 11,0,6,James Jackson right tackle for -1 yards (tackle by Aaron Smith and James Farrior),-0.340,-0.840
+2,10:08,3,5,CLE 10,0,6,Kelly Holcomb pass complete to Dennis Northcutt for 6 yards (tackle by Deshea Townsend),-0.840,-0.140
+2,9:45,1,10,CLE 16,0,6,Kelly Holcomb pass incomplete intended for Andra Davis (defended by Mike Logan),-0.140,-0.660
+2,9:37,2,10,CLE 16,0,6,"James Jackson for no gain. James Jackson fumbles, recovered by James Farrior at CLE-17",-0.660,-4.440
+2,9:32,1,10,CLE 17,0,6,Jerome Bettis right tackle for 2 yards (tackle by Andra Davis),4.440,4.150
+2,8:53,2,8,CLE 15,0,6,Tommy Maddox pass complete to Jerome Bettis for 9 yards (tackle by Brant Boyer),4.150,5.830
+2,8:06,1,6,CLE 6,0,6,Jerome Bettis left end for 3 yards (tackle by Kevin Bentley and Michael Myers),5.830,5.530
+2,7:24,2,3,CLE 3,0,6,Jerome Bettis left tackle for no gain (tackle by Andra Davis and Robert Griffith),5.530,4.720
+2,6:40,3,3,CLE 3,0,6,"Tommy Maddox pass incomplete intended for Amos Zereoue. Penalty on Kenard Lang: Defensive Offside, 2 yards (no play)",4.720,5.170
+2,6:33,3,1,CLE 1,6,6,"Tommy Maddox pass complete to Mark Bruener for 1 yard, touchdown",5.170,7.000
+2,,,,CLE 2,7,6,Jeff Reed kicks extra point good,0.000,0.000
+2,,,,PIT 30,7,6,"Jeff Reed kicks off 54 yards, returned by Lee Suggs for 1 yard (tackle by Dewayne Washington)",0.000,-0.060
+2,6:23,1,10,CLE 17,7,6,James Jackson for 1 yard (tackle by James Farrior),-0.060,-0.420
+2,5:49,2,9,CLE 18,7,6,Kelly Holcomb pass incomplete intended for Dennis Northcutt (defended by Aaron Smith),-0.420,-1.130
+2,5:43,3,9,CLE 18,7,6,Kelly Holcomb sacked for -8 yards,-1.130,-2.490
+2,5:24,4,17,CLE 10,7,6,"Chris Gardocki punts 39 yards, returned by Antwaan Randle El for 9 yards (tackle by Kevin Bentley)",-2.490,-2.920
+2,5:13,1,10,CLE 40,7,6,Jerome Bettis for 13 yards (tackle by Barry Gardner),2.920,3.780
+2,4:52,1,10,CLE 27,7,6,Tommy Maddox pass incomplete intended for Jerome Bettis,3.780,3.230
+2,4:46,2,10,CLE 27,7,6,Tommy Maddox pass incomplete intended for Plaxico Burress,3.230,2.540
+2,4:40,3,10,CLE 27,7,6,Tommy Maddox pass incomplete intended for Antwaan Randle El,2.540,1.670
+2,4:35,4,10,CLE 27,7,6,Jeff Reed 45 yard field goal no good,1.670,-1.330
+2,4:30,1,10,CLE 36,7,6,"Jamel White for -12 yards. Jamel White fumbles, recovered by Brent Alexander at CLE-24 and returned for 2 yards (tackle by Kelly Holcomb)",1.330,-4.110
+2,4:23,1,10,CLE 22,7,6,Jerome Bettis left tackle for 3 yards (tackle by Tyrone Rogers and Kevin Bentley),4.110,3.970
+2,3:44,2,7,CLE 19,7,6,Tommy Maddox pass complete to Dan Kreider for 6 yards (tackle by Kevin Bentley),3.970,4.390
+2,3:10,3,1,CLE 13,7,6,Jerome Bettis up the middle for 9 yards (tackle by Barry Gardner),4.390,6.280
+2,2:26,1,4,CLE 4,7,6,Tommy Maddox pass incomplete intended for Jerame Tuman,6.280,5.340
+2,2:21,2,4,CLE 4,7,6,Tommy Maddox pass incomplete intended for Dan Kreider,5.340,4.490
+2,2:18,3,4,CLE 4,7,6,Tommy Maddox pass incomplete intended for Jerome Bettis,4.490,3.030
+2,2:13,4,4,CLE 4,10,6,Jeff Reed 23 yard field goal good,3.030,3.000
+2,,,,PIT 30,10,6,"Jeff Reed kicks off 62 yards, returned by Lee Suggs for 25 yards (tackle by Brent Alexander)",0.000,1.140
+2,2:03,1,10,CLE 33,10,6,Kelly Holcomb pass complete to Jamel White for no gain,1.140,0.590
+2,1:56,2,10,CLE 33,10,6,Kelly Holcomb pass incomplete intended for Dennis Northcutt,0.590,-0.100
+2,1:51,3,10,CLE 33,10,6,Kelly Holcomb pass complete to Jamel White for 9 yards (tackle by Deshea Townsend),-0.100,-0.590
+2,1:31,4,1,CLE 42,10,6,Chris Gardocki punts 46 yards,-0.590,0.350
+2,1:24,1,10,PIT 12,10,6,Jerome Bettis left guard for 4 yards (tackle by Courtney Brown and Andra Davis),-0.350,-0.370
+2,0:44,2,6,PIT 16,10,6,Jerome Bettis left tackle for -3 yards (tackle by Courtney Brown),-0.370,-1.300
+2,0:38,,,,10,6,Timeout #1 by Cleveland Browns,0.000,-1.300
+2,0:38,3,9,PIT 13,10,6,Amos Zereoue left end for no gain (tackle by James Jackson and Brant Boyer),-1.300,-2.490
+2,0:31,,,,10,6,Timeout #2 by Cleveland Browns,0.000,-2.490
+2,0:31,4,9,PIT 13,10,6,Josh Miller punts 55 yards,-2.490,-1.330
+2,0:18,1,10,CLE 36,10,6,Kelly Holcomb pass incomplete intended for Quincy Morgan (defended by Joey Porter),1.330,0.790
+2,0:13,2,10,CLE 36,10,6,Kelly Holcomb pass complete to Jamel White for 7 yards (tackle by James Farrior),0.790,1.030
+2,0:02,3,3,CLE 43,10,6,Kelly Holcomb pass incomplete intended for Jamel White,1.030,-0.520
+Quarter,Time,Down,ToGo,Location,PIT,CLE,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PIT 30,10,6,"Jeff Reed kicks off 71 yards, returned by Lee Suggs for 24 yards (tackle by Troy Polamalu)",0.000,0.480
+3,14:55,1,10,CLE 23,10,6,Kelly Holcomb pass incomplete intended for Quincy Morgan,0.480,-0.070
+3,14:50,2,10,CLE 23,10,6,James Jackson left end for 18 yards,-0.070,1.660
+3,14:03,1,10,CLE 41,10,6,"Kelly Holcomb pass incomplete intended for Quincy Morgan (defended by Chad Scott). Penalty on Quincy Morgan: Offensive Pass Interference, 10 yards (no play)",1.660,1.000
+3,13:56,1,20,CLE 31,10,6,Kelly Holcomb pass complete to Dennis Northcutt for 11 yards (tackle by Mike Logan),1.000,1.260
+3,13:13,2,9,CLE 42,10,6,Kelly Holcomb pass complete to Chad Mustard for 7 yards (tackle by Mike Logan),1.260,1.490
+3,12:29,3,2,CLE 49,10,6,Dennis Northcutt left end for 8 yards (tackle by Troy Polamalu),1.490,2.720
+3,12:00,1,10,PIT 43,10,6,James Jackson left tackle for 4 yards (tackle by Casey Hampton and James Farrior),2.720,2.720
+3,11:21,2,6,PIT 39,10,6,Kelly Holcomb pass incomplete intended for James Jackson (defended by Aaron Smith),2.720,2.010
+3,11:16,3,6,PIT 39,10,6,"Kelly Holcomb pass complete to Jamel White for 2 yards (tackle by James Farrior). Penalty on Troy Polamalu: Defensive Holding, 5 yards (no play)",2.010,3.310
+3,10:50,1,10,PIT 34,10,6,Kelly Holcomb pass complete to Darnell Sanders for 7 yards (tackle by Ike Taylor),3.310,3.720
+3,10:10,2,3,PIT 27,10,6,James Jackson left guard for 5 yards (tackle by Mike Logan),3.720,4.110
+3,9:31,1,10,PIT 22,10,6,Kelly Holcomb pass incomplete intended for Chad Mustard,4.110,3.560
+3,9:24,2,10,PIT 22,10,6,Kelly Holcomb pass incomplete intended for Quincy Morgan,3.560,2.870
+3,9:20,3,10,PIT 22,10,6,Kelly Holcomb pass complete to Andra Davis for 16 yards (tackle by Chris Hope),2.870,5.830
+3,8:35,1,6,PIT 6,10,6,James Jackson left tackle for 5 yards (tackle by James Farrior),5.830,5.910
+3,7:56,2,1,PIT 1,10,6,James Jackson right guard for no gain (tackle by Kendrell Bell),5.910,5.170
+3,7:26,3,1,PIT 1,10,6,James Jackson right tackle for no gain (tackle by Kendrell Bell),5.170,3.550
+3,6:43,4,1,PIT 1,10,6,Dennis Northcutt left guard for no gain (tackle by Chad Scott),3.550,0.380
+,,,,,,,"CLE challenged the ruling, and the play was upheld.",,
+3,6:36,1,10,PIT 1,10,6,Tommy Maddox pass incomplete intended for Dan Kreider,-0.380,-0.780
+3,6:32,2,10,PIT 1,10,6,Jerome Bettis up the middle for 1 yard (tackle by Kenard Lang and Gerard Warren),-0.780,-1.300
+3,5:50,3,9,PIT 2,10,6,Jerome Bettis right guard for 4 yards (tackle by Gerard Warren and Brant Boyer),-1.300,-2.490
+3,5:14,4,5,PIT 6,10,6,"Josh Miller punts 46 yards, returned by Dennis Northcutt for 11 yards (tackle by Troy Polamalu)",-2.490,-2.850
+3,5:02,1,10,PIT 41,10,6,Kelly Holcomb pass complete to James Jackson for 16 yards (tackle by Kendrell Bell),2.850,3.910
+3,4:23,1,10,PIT 25,10,6,James Jackson right guard for 5 yards (tackle by Kendrell Bell),3.910,4.040
+3,3:39,2,5,PIT 20,10,6,Kelly Holcomb pass complete to Andra Davis for 14 yards (tackle by Chad Scott),4.040,5.830
+,,,,,,,"PIT challenged the ruling, and the play was upheld.",,
+3,3:21,1,6,PIT 6,10,6,James Jackson right tackle for -1 yards (tackle by James Farrior),5.830,4.760
+3,2:43,2,7,PIT 7,10,6,Kelly Holcomb pass incomplete intended for Andra Davis,4.760,3.810
+3,2:38,3,7,PIT 7,10,6,Kelly Holcomb pass incomplete intended for Andra Davis is intercepted by Brent Alexander and returned for 34 yards (tackle by Barry Stokes),3.810,-1.070
+3,2:27,1,10,PIT 32,10,6,Jerome Bettis right guard for 3 yards (tackle by Orpheus Roye and Courtney Brown),1.070,0.930
+3,1:54,2,7,PIT 35,10,6,Jerome Bettis left tackle for 1 yard (tackle by Kenard Lang and Brant Boyer),0.930,0.370
+3,1:13,3,6,PIT 36,10,6,Tommy Maddox pass incomplete intended for Chris Doering,0.370,-0.980
+3,1:07,4,6,PIT 36,10,6,"Josh Miller punts 41 yards, returned by Dennis Northcutt for 9 yards (tackle by Ike Taylor)",-0.980,-1.070
+3,0:55,1,10,CLE 32,10,6,James Jackson left tackle for 11 yards (tackle by James Farrior),1.070,1.800
+3,0:21,1,10,CLE 43,10,6,Kelly Holcomb pass complete to Darnell Sanders for 9 yards (tackle by James Farrior),1.800,2.470
+Quarter,Time,Down,ToGo,Location,PIT,CLE,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,1,PIT 48,10,6,James Jackson left tackle for -2 yards (tackle by Kendrell Bell),2.470,1.490
+4,14:21,3,3,CLE 50,10,6,Kelly Holcomb pass complete to Jamel White for 22 yards (tackle by Ike Taylor),1.490,3.710
+4,13:39,1,10,PIT 28,10,6,"James Jackson left guard for 2 yards (tackle by Mike Logan). James Jackson fumbles (forced by Mike Logan), recovered by Kendrick Clancy at PIT-26 (tackle by Paul Zukauskas)",3.710,-0.670
+4,13:32,1,10,PIT 26,10,6,Jerome Bettis right guard for 21 yards (tackle by Kevin Bentley),0.670,2.060
+4,12:53,1,10,PIT 47,10,6,Jerome Bettis right tackle for 1 yard (tackle by Kevin Bentley and Robert Griffith),2.060,1.650
+4,12:13,2,9,PIT 48,10,6,Tommy Maddox pass complete to Plaxico Burress for 10 yards (tackle by Brant Boyer),1.650,2.790
+4,11:32,1,10,CLE 42,10,6,Amos Zereoue left tackle for 5 yards (tackle by Courtney Brown),2.790,2.920
+4,10:49,2,5,CLE 37,10,6,Amos Zereoue left tackle for 6 yards (tackle by Gerard Warren and Kevin Bentley),2.920,3.510
+4,10:04,1,10,CLE 31,10,6,Jerome Bettis left tackle for 1 yard (tackle by Andra Davis),3.510,3.100
+4,9:26,2,9,CLE 30,10,6,Jerome Bettis right tackle for 3 yards (tackle by Orpheus Roye and Brant Boyer),3.100,2.810
+4,8:45,3,6,CLE 27,10,6,Tommy Maddox pass incomplete intended for Verron Haynes,2.810,1.700
+4,8:41,4,6,CLE 27,13,6,Jeff Reed 46 yard field goal good,1.700,3.000
+4,,,,PIT 30,13,6,"Jeff Reed kicks off 69 yards, returned by Lee Suggs for 20 yards (tackle by Clint Kriewaldt)",0.000,0.340
+4,8:31,1,10,CLE 21,13,6,Kelly Holcomb pass complete to James Jackson for 9 yards (tackle by James Farrior),0.340,1.020
+4,7:59,2,1,CLE 30,13,6,James Jackson right guard for 2 yards (tackle by Kendrell Bell),1.020,1.070
+4,7:23,1,10,CLE 32,13,6,Kelly Holcomb pass complete to James Jackson for 4 yards (tackle by James Farrior),1.070,1.070
+4,6:47,2,6,CLE 36,13,6,Kelly Holcomb pass incomplete intended for Quincy Morgan,1.070,0.370
+4,6:43,,,,13,6,Timeout #2 by Cleveland Browns,0.000,0.370
+4,6:43,3,6,CLE 36,13,6,Kelly Holcomb sacked by Rodney Bailey for -10 yards,0.370,-1.630
+4,6:22,4,16,CLE 26,13,6,"Chris Gardocki punts 33 yards, returned by Antwaan Randle El for no gain",-1.630,-1.660
+4,6:13,1,10,PIT 41,13,6,Jerome Bettis left tackle for 6 yards (tackle by Kenard Lang),1.660,1.930
+4,5:34,2,4,PIT 47,13,6,Tommy Maddox pass complete to Dan Kreider for 15 yards (tackle by Earl Little),1.930,3.050
+4,4:48,1,10,CLE 38,13,6,Jerome Bettis right tackle for 4 yards (tackle by Tyrone Rogers),3.050,3.050
+4,4:04,2,6,CLE 34,13,6,Amos Zereoue for 4 yards (tackle by Earl Little),3.050,2.870
+4,3:58,,,,13,6,Timeout #2 by Pittsburgh Steelers,0.000,2.870
+4,3:58,3,2,CLE 30,13,6,"Penalty on Oliver Ross: False Start, 5 yards (no play)",2.870,2.210
+4,3:58,3,7,CLE 35,13,6,"Penalty on Alan Faneca: False Start, 5 yards (no play)",2.210,1.550
+4,3:58,3,12,CLE 40,13,6,Verron Haynes left tackle for -2 yards (tackle by Courtney Brown),1.550,0.460
+4,3:58,4,14,CLE 42,13,6,"Penalty on Josh Miller: Delay of Game, 5 yards (no play)",0.460,0.130
+4,3:13,4,19,CLE 47,13,6,"Josh Miller punts 47 yards, touchback",0.130,-0.280
+4,3:05,1,10,CLE 20,13,6,Kelly Holcomb pass incomplete intended for Andra Davis (defended by Deshea Townsend),0.280,-0.270
+4,3:00,2,10,CLE 20,13,6,Kelly Holcomb pass complete to Jamel White for 5 yards (tackle by Troy Polamalu),-0.270,-0.300
+4,2:43,3,5,CLE 25,13,6,Kelly Holcomb pass complete to Andre King for 6 yards (tackle by Chad Scott),-0.300,1.000
+4,2:25,1,10,CLE 31,13,6,Kelly Holcomb pass complete to Jamel White for 9 yards (tackle by Chad Scott),1.000,1.680
+4,2:19,2,1,CLE 40,13,6,Kelly Holcomb pass incomplete intended for Andra Davis,1.680,0.960
+4,2:15,3,1,CLE 40,13,6,Kelly Holcomb pass complete to Andre King for 6 yards (tackle by Deshea Townsend),0.960,1.990
+4,2:00,1,10,CLE 46,13,6,Kelly Holcomb pass complete to Jamel White for 5 yards,1.990,2.130
+4,1:44,2,5,PIT 49,13,6,Kelly Holcomb pass incomplete intended for Andre King is intercepted by Chad Scott at PIT-39,2.130,-1.530
+4,1:41,1,10,PIT 39,13,6,Jerome Bettis right guard for 1 yard (tackle by Andra Davis and Michael Myers),1.530,1.120
+4,1:34,,,,13,6,Timeout #3 by Cleveland Browns,0.000,1.120
+4,1:34,2,9,PIT 40,13,6,Jerome Bettis right tackle for 6 yards (tackle by Orpheus Roye),1.120,1.220
+4,0:50,3,3,PIT 46,13,6,Jerome Bettis left tackle for -1 yards (tackle by Robert Griffith and Brant Boyer),1.220,-0.390
+4,0:05,,,,13,6,Timeout #3 by Pittsburgh Steelers,0.000,-0.390
+4,0:05,4,4,PIT 45,13,6,"Josh Miller punts 53 yards, returned by Dennis Northcutt for 4 yards (tackle by Troy Polamalu)",-0.390,1.930
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

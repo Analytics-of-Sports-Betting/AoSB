@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,JAX 32,3,2:04,68,Touchdown
+2,1,8:58,JAX 10,6,3:43,25,Punt
+3,1,2:41,JAX 20,3,1:00,3,Punt
+4,2,13:35,JAX 36,3,2:16,8,Punt
+5,2,5:31,JAX 22,2,0:47,-7,Fumble
+6,2,4:44,JAX 32,4,2:16,68,Touchdown
+7,2,1:10,JAX 31,4,1:03,11,Punt
+8,3,11:44,JAX 36,4,1:29,64,Touchdown
+9,3,5:27,JAX 20,7,3:51,25,Punt
+10,3,0:40,JAX 42,10,5:51,58,Touchdown
+11,4,9:35,JAX 43,6,4:06,14,Punt
+12,4,3:40,JAX 10,3,1:08,5,Punt
+13,4,1:08,GNB 43,2,1:08,-2,End of Game

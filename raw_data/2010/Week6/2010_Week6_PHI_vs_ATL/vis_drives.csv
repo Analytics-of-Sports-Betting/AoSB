@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,ATL 20,3,2:01,-1,Punt
+2,1,12:09,ATL 25,7,2:51,52,Missed FG
+3,1,6:50,ATL 20,3,2:11,5,Punt
+4,1,2:27,ATL 12,3,1:25,8,Punt
+5,2,12:22,ATL 27,3,1:49,4,Punt
+6,2,7:34,ATL 26,11,4:36,52,Interception
+7,2,0:52,PHI 31,4,0:38,31,Touchdown
+8,3,13:25,ATL 27,14,6:26,65,Field Goal
+9,3,6:11,ATL 22,5,1:37,26,Punt
+10,4,14:11,ATL 37,3,0:25,0,Punt
+11,4,7:21,ATL 27,7,1:41,73,Touchdown
+12,4,3:01,ATL 20,3,0:17,16,Fumble

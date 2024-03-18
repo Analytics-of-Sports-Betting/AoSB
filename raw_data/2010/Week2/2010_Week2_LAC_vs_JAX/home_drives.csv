@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,SDG 26,6,3:18,74,Touchdown
+2,1,9:44,SDG 27,3,1:42,16,Fumble
+3,1,5:29,SDG 20,10,5:35,73,Interception
+4,2,13:42,JAX 30,5,2:10,30,Touchdown
+5,2,10:04,SDG 25,2,0:48,1,Interception
+6,2,8:31,SDG 29,5,2:54,24,Blocked Punt
+7,2,1:55,SDG 13,8,1:45,87,Touchdown
+8,3,9:16,SDG 33,9,4:21,44,Field Goal
+9,3,0:36,SDG 42,5,2:18,58,Touchdown
+10,4,10:14,SDG 37,4,2:08,63,Touchdown
+11,4,5:11,SDG 12,3,2:00,7,Punt
+12,4,0:37,SDG 16,1,0:37,-1,End of Game

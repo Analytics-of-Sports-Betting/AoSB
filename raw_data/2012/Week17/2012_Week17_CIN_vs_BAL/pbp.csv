@@ -1,0 +1,195 @@
+Quarter,Time,Down,ToGo,Location,BAL,CIN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Bengals won the coin toss and deferred, Ravens to receive the opening kickoff.",,
+1,15:00,,,CIN 35,0,0,"Josh Brown kicks off 68 yards, returned by Jacoby Jones for 23 yards (tackle by Vincent Rey)",0.000,0.280
+1,14:55,1,10,BAL 20,0,0,Ray Rice left tackle for no gain (tackle by Geno Atkins),0.280,-0.270
+1,14:26,2,10,BAL 20,0,0,Joe Flacco pass complete short right to Vonta Leach for 2 yards (tackle by Reggie Nelson),-0.270,-0.690
+1,13:53,3,8,BAL 22,0,0,Joe Flacco pass complete deep middle to Jacoby Jones for 24 yards (tackle by Chris Crocker),-0.690,1.990
+1,13:28,1,10,BAL 46,0,0,Joe Flacco pass complete short middle to Jacoby Jones for 4 yards (tackle by Pacman Jones),1.990,1.990
+1,13:01,2,6,,0,0,Ray Rice right tackle for 3 yards (tackle by Domata Peko),1.990,1.690
+1,12:27,3,3,CIN 47,0,0,Joe Flacco pass incomplete short right intended for Torrey Smith,1.690,0.130
+1,12:21,4,3,CIN 47,0,0,"Penalty on Dan Herron: Neutral Zone Infraction, 5 yards (no play)",0.130,2.790
+1,12:21,1,10,CIN 42,0,0,Joe Flacco pass complete short middle to Bernard Pierce for 4 yards (tackle by Rey Maualuga),2.790,2.780
+1,11:55,2,6,CIN 38,0,0,Bernard Pierce left end for 5 yards (tackle by Pat Sims),2.780,2.740
+1,11:17,3,1,CIN 33,0,0,Joe Flacco pass incomplete deep right intended for Ed Dickson,2.740,1.210
+1,11:09,4,1,CIN 33,0,0,Bernard Pierce right guard for 3 yards (tackle by Rey Maualuga and Vontaze Burfict),1.210,3.580
+1,10:33,1,10,CIN 30,0,0,Torrey Smith right end for -4 yards (tackle by Domata Peko),3.580,2.490
+1,9:52,2,14,CIN 34,0,0,Ray Rice left guard for 2 yards (tackle by Vontaze Burfict),2.490,2.080
+1,9:15,3,12,CIN 32,0,0,"Joe Flacco pass incomplete short left intended for Dennis Pitta. Penalty on Ray Rice: Personal Foul, 15 yards",2.080,0.130
+1,9:10,4,27,CIN 47,0,0,"Sam Koch punts 35 yards, fair catch by Brandon Tate",0.130,0.350
+1,9:02,1,10,CIN 12,0,0,Andy Dalton pass complete short right to Marvin Jones for 7 yards (tackle by Josh Bynes),-0.350,0.100
+1,8:28,2,3,CIN 19,0,0,Andy Dalton pass incomplete short right intended for Jermaine Gresham,0.100,-0.600
+1,8:22,3,3,CIN 19,0,0,Andy Dalton pass complete short left to Andrew Hawkins for 4 yards (tackle by Cary Williams and Corey Graham),-0.600,0.480
+1,7:43,1,10,CIN 23,0,0,Cedric Peerman left end for 2 yards (tackle by Arthur Jones),0.480,0.200
+1,7:03,2,8,CIN 25,0,0,Andy Dalton pass incomplete short right intended for Marvin Jones,0.200,-0.490
+1,6:59,3,8,CIN 25,0,0,Andy Dalton pass incomplete short right intended for Marvin Jones (defended by Chykie Brown),-0.490,-1.700
+1,6:53,4,8,CIN 25,0,0,"Kevin Huber punts 55 yards, returned by Jacoby Jones for 6 yards (tackle by Jeromy Miles)",-1.700,-0.670
+1,6:42,1,10,BAL 26,0,0,Joe Flacco pass incomplete short right intended for Dennis Pitta,0.670,0.130
+1,6:37,2,10,BAL 26,0,0,Bernard Pierce left tackle for no gain (tackle by Vontaze Burfict),0.130,-0.560
+1,5:59,3,10,BAL 26,0,0,Joe Flacco sacked by Michael Johnson for -7 yards,-0.560,-2.140
+1,5:30,4,17,BAL 19,0,0,"Sam Koch punts 43 yards, returned by Pacman Jones for 5 yards (tackle by David Reed)",-2.140,-1.800
+1,5:19,1,10,CIN 43,0,0,Cedric Peerman left end for 3 yards (tackle by Josh Bynes and Arthur Jones),1.800,1.660
+1,4:39,2,7,CIN 46,0,0,Andy Dalton right end for 1 yard (tackle by Corey Graham),1.660,1.090
+1,4:04,3,6,CIN 47,0,0,Andy Dalton pass incomplete,1.090,-0.260
+,,,,,,,"Replay Assistant challenged the fumble ruling, and the original play was overturned.",,
+1,4:01,4,6,CIN 47,0,0,"Kevin Huber punts 53 yards, touchback",-0.260,-0.280
+1,3:52,1,10,BAL 20,0,0,Bernard Pierce right tackle for 7 yards (tackle by Vontaze Burfict),0.280,0.680
+1,3:21,2,3,BAL 27,0,0,Bernard Pierce left guard for 14 yards (tackle by Reggie Nelson),0.680,1.660
+1,2:47,1,10,BAL 41,0,0,Tyrod Taylor left end for 28 yards (tackle by Manny Lawson),1.660,3.510
+1,2:16,1,10,CIN 31,0,0,"Penalty on Kelechi Osemele: False Start, 5 yards (no play)",3.510,3.180
+1,2:05,1,15,CIN 36,0,0,"Bernard Pierce right guard for 9 yards (tackle by Vontaze Burfict and Taylor Mays). Penalty on Domata Peko: Illegal Use of Hands, 5 yards",3.180,4.110
+1,1:43,1,10,CIN 22,0,0,Anthony Allen up the middle for no gain (tackle by Geno Atkins),4.110,3.560
+1,1:08,2,10,CIN 22,0,0,Anthony Allen right end for 20 yards (tackle by Taylor Mays and Dan Skuta),3.560,6.740
+1,0:22,1,2,CIN 2,6,0,"Anthony Allen left tackle for 2 yards, touchdown",6.740,7.000
+1,0:22,,,CIN 2,7,0,Justin Tucker kicks extra point good,0.000,0.000
+1,0:17,,,BAL 35,7,0,"Justin Tucker kicks off 70 yards, returned by Brandon Tate for 28 yards (tackle by Jimmy Smith)",0.000,0.480
+1,0:11,1,10,CIN 23,7,0,Brian Leonard left guard for 4 yards (tackle by Deangelo Tyson and Dannell Ellerbe),0.480,0.470
+Quarter,Time,Down,ToGo,Location,BAL,CIN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,6,CIN 27,7,0,Brian Leonard left guard for 9 yards (tackle by Sean Considine and Dannell Ellerbe),0.470,1.330
+2,14:25,1,10,CIN 36,7,0,Andy Dalton pass complete short middle to Marvin Jones for 14 yards (tackle by Sean Considine),1.330,2.260
+2,13:54,1,10,,7,0,Brian Leonard left guard for 4 yards (tackle by Deangelo Tyson and Arthur Jones),2.260,2.250
+2,13:18,2,6,BAL 46,7,0,Andy Dalton pass complete short left to Brian Leonard for 3 yards (tackle by Josh Bynes),2.250,1.950
+2,12:53,3,3,BAL 43,7,0,Brian Leonard left end for no gain (tackle by Dannell Ellerbe),1.950,0.400
+2,12:32,4,3,BAL 43,7,0,"Kevin Huber punts 35 yards, fair catch by Jacoby Jones",0.400,0.380
+2,12:24,1,10,BAL 8,7,0,"Penalty on Bryant McKinnie: False Start, 4 yards (no play)",-0.380,-0.530
+2,12:24,1,14,BAL 4,7,0,Bernard Pierce right end for 9 yards (tackle by Taylor Mays and Nate Clements),-0.530,-0.410
+2,11:50,2,5,BAL 13,7,0,Bernard Pierce up the middle for 9 yards (tackle by Vontaze Burfict),-0.410,0.410
+2,11:20,1,10,BAL 22,7,0,Tyrod Taylor pass incomplete,0.410,-0.130
+2,11:13,2,10,BAL 22,7,0,Bernard Pierce right guard for 2 yards (tackle by Vontaze Burfict),-0.130,-0.560
+2,10:36,3,8,BAL 24,7,0,Tyrod Taylor pass complete short middle to Deonte Thompson for 4 yards (tackle by Vontaze Burfict),-0.560,-1.500
+2,9:56,4,4,BAL 28,7,0,Sam Koch punts 37 yards (tackle by Brendon Ayanbadejo),-1.500,-1.330
+2,9:47,1,10,CIN 36,7,0,Andy Dalton up the middle for 3 yards (tackle by Deangelo Tyson),1.330,1.200
+2,9:10,2,7,CIN 39,7,0,Brian Leonard left tackle for 2 yards (tackle by Arthur Jones),1.200,0.760
+2,8:26,3,5,CIN 41,7,0,Andy Dalton pass incomplete deep right intended for Ryan Whalen,0.760,-0.650
+2,8:20,4,5,CIN 41,7,0,"Kevin Huber punts 45 yards, fair catch by Jacoby Jones",-0.650,0.280
+2,8:11,1,10,BAL 14,7,0,Tyrod Taylor pass complete short right to Ed Dickson for 12 yards (tackle by Rey Maualuga),-0.280,0.670
+2,7:39,1,10,BAL 26,7,0,Tyrod Taylor right end for 5 yards (tackle by Vontaze Burfict),0.670,0.810
+2,7:08,2,5,BAL 31,7,0,Tyrod Taylor pass complete short middle to Deonte Thompson for 7 yards (tackle by Manny Lawson),0.810,1.470
+2,6:36,1,10,BAL 38,7,0,"Penalty on Bobbie Williams: False Start, 5 yards (no play)",1.470,1.140
+2,6:20,1,15,BAL 33,7,0,Bernard Pierce left end for 2 yards (tackle by Leon Hall),1.140,0.520
+2,5:56,2,13,BAL 35,7,0,"Bernard Pierce left guard for 1 yard (tackle by Vontaze Burfict and Taylor Mays). Penalty on Bobbie Williams: Unsportsmanlike Conduct, 15 yards",0.520,-2.010
+2,5:30,3,27,BAL 21,7,0,Tyrod Taylor pass complete short left to Anthony Allen for 7 yards (tackle by Pacman Jones and Vontaze Burfict),-2.010,-1.500
+2,5:09,4,20,BAL 28,7,0,"Sam Koch punts 42 yards, fair catch by Brandon Tate",-1.500,-0.940
+2,5:01,1,10,CIN 30,7,0,Andy Dalton sacked by Paul Kruger for 0 yards,0.940,0.390
+2,4:32,2,10,CIN 30,7,0,Andy Dalton pass complete short left to Andrew Hawkins for 8 yards (tackle by Chykie Brown and Omar Brown),0.390,0.760
+2,3:52,3,2,CIN 38,7,0,Andy Dalton sacked by Ma'ake Kemoeatu for -1 yards,0.760,-0.910
+2,3:16,4,3,CIN 37,7,0,Kevin Huber punts 58 yards,-0.910,0.380
+2,3:01,1,10,BAL 5,7,0,"Penalty on BAL: Illegal Substitution, 2 yards (no play)",-0.380,-0.460
+2,3:01,1,12,BAL 3,7,0,Bernard Pierce right guard for 2 yards (tackle by Domata Peko),-0.460,-0.780
+2,2:29,2,10,BAL 5,7,0,Bernard Pierce left guard for 3 yards (tackle by Vontaze Burfict and Domata Peko),-0.780,0.000
+2,2:22,,,,7,0,Timeout #1 by Cincinnati Bengals,0.000,-1.070
+2,2:22,3,7,BAL 8,7,0,Tyrod Taylor sacked by Michael Johnson for -7 yards,-1.070,0.000
+2,2:14,,,,7,0,Timeout #2 by Cincinnati Bengals,0.000,-2.490
+2,2:14,4,14,BAL 1,7,0,"Sam Koch punts 41 yards, out of bounds",-2.490,-2.790
+2,2:07,1,10,BAL 42,7,0,Andy Dalton pass complete short right to Marvin Jones for 7 yards (tackle by Chris Johnson),2.790,3.190
+2,2:00,2,3,BAL 35,7,0,Andy Dalton pass complete short right to Brian Leonard for -2 yards (tackle by Dannell Ellerbe),3.190,2.210
+2,1:19,3,5,BAL 37,7,0,Andy Dalton pass complete short middle to A.J. Green for 17 yards (tackle by Omar Brown),2.210,4.240
+2,0:51,1,10,BAL 20,7,0,Andy Dalton pass complete short right to A.J. Green for 9 yards (tackle by Chris Johnson),4.240,5.260
+2,0:45,2,1,BAL 11,7,6,"Andy Dalton pass complete short left to Marvin Jones for 11 yards, touchdown",5.260,7.000
+2,0:45,,,BAL 2,7,7,Josh Brown kicks extra point good,0.000,0.000
+2,0:39,,,CIN 35,7,7,"Josh Brown kicks off 68 yards, returned by Jacoby Jones for 19 yards (tackle by Dan Herron)",0.000,-0.140
+2,0:33,1,10,BAL 16,7,7,Tyrod Taylor pass incomplete short right intended for Jacoby Jones,-0.140,-0.660
+2,0:28,2,10,BAL 16,7,7,Tyrod Taylor pass complete short right to David Reed for 13 yards (tackle by Nate Clements and Rey Maualuga),-0.660,0.000
+2,0:22,,,,7,7,Timeout #1 by Baltimore Ravens,0.000,0.870
+2,0:22,1,10,BAL 29,7,7,Tyrod Taylor pass complete short right to Ed Dickson for 12 yards (tackle by Rey Maualuga and Vontaze Burfict),0.870,0.000
+2,0:16,,,,7,7,Timeout #2 by Baltimore Ravens,0.000,1.660
+2,0:16,1,10,BAL 41,7,7,Tyrod Taylor pass complete short right to Ed Dickson for 6 yards (tackle by Nate Clements),1.660,1.930
+2,0:10,2,4,BAL 47,7,7,Tyrod Taylor pass incomplete,1.930,1.220
+Quarter,Time,Down,ToGo,Location,BAL,CIN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,BAL 35,7,7,"Justin Tucker kicks off 68 yards, returned by Brandon Tate for 28 yards (tackle by Jimmy Smith)",0.000,0.610
+3,14:55,1,10,CIN 25,7,7,Brian Leonard left guard for 5 yards (tackle by Josh Bynes and Brendon Ayanbadejo),0.610,0.740
+3,14:12,2,5,CIN 30,7,7,Brian Leonard left tackle for 4 yards (tackle by Brendon Ayanbadejo and Josh Bynes),0.740,0.560
+3,13:33,3,1,CIN 34,7,7,Brian Leonard left end for 3 yards (tackle by Brendon Ayanbadejo),0.560,1.400
+3,12:56,1,10,CIN 37,7,7,Bruce Gradkowski pass complete short left to Marvin Jones for 6 yards (tackle by Jimmy Smith),1.400,0.000
+3,12:09,,,,7,7,Timeout #1 by Cincinnati Bengals,0.000,1.670
+3,12:09,2,4,CIN 43,7,7,Brian Leonard left tackle for 3 yards (tackle by Brendon Ayanbadejo and Josh Bynes),1.670,1.360
+3,11:25,3,1,CIN 46,7,7,Brian Leonard left guard for no gain (tackle by Ma'ake Kemoeatu and Josh Bynes),1.360,-0.320
+3,10:39,4,1,CIN 46,7,7,Kevin Huber punts 51 yards,-0.320,0.380
+3,10:23,1,10,BAL 3,7,7,Bernard Pierce left guard for 7 yards (tackle by Vontaze Burfict),-0.380,-0.270
+3,9:51,2,3,BAL 10,7,7,Bernard Pierce left guard for 2 yards (tackle by Robert Geathers and Domata Peko),-0.270,-0.370
+3,9:12,3,1,BAL 12,7,7,Tyrod Taylor up the middle for 3 yards (tackle by Reggie Nelson),-0.370,-0.220
+3,8:39,1,10,BAL 15,7,7,Tyrod Taylor pass incomplete short right intended for Billy Bajema (defended by Domata Peko),-0.220,-0.710
+3,8:34,2,10,BAL 15,7,7,Tyrod Taylor left tackle for 2 yards (tackle by Vontaze Burfict),-0.710,-1.120
+3,7:55,3,8,BAL 17,7,7,Tyrod Taylor pass incomplete short left intended for Bernard Pierce (defended by Reggie Nelson),-1.120,-2.320
+3,7:50,4,8,BAL 17,7,7,"Sam Koch punts 35 yards, out of bounds",-2.320,-2.130
+3,7:50,1,10,CIN 48,7,7,"Bruce Gradkowski pass incomplete deep middle intended for Brandon Tate (defended by Jimmy Smith). Penalty on Terrence Cody: Roughing the Passer, 15 yards (no play)",2.130,3.120
+3,7:41,1,10,BAL 37,7,7,Cedric Peerman right guard for 7 yards (tackle by Josh Bynes),3.120,3.520
+3,7:01,2,3,BAL 30,7,7,Cedric Peerman right guard for 1 yard (tackle by Josh Bynes and Arthur Jones),3.520,2.940
+3,6:25,3,2,BAL 29,7,7,Bruce Gradkowski pass incomplete short right intended for John Conner,2.940,1.600
+3,6:20,4,2,BAL 29,7,10,Josh Brown 47 yard field goal good,1.600,3.000
+3,6:15,,,CIN 35,7,10,"Josh Brown kicks off 64 yards, returned by Jacoby Jones for 21 yards (tackle by Dan Skuta)",0.000,0.410
+3,6:10,1,10,BAL 22,7,10,Bernard Pierce right tackle for -3 yards (tackle by Wallace Gilberry),0.410,-0.600
+3,5:49,2,13,BAL 19,7,10,Anthony Allen right tackle for 4 yards (tackle by Pat Sims),-0.600,-0.690
+3,5:12,3,9,BAL 23,7,10,Tyrod Taylor sacked by Carlos Dunlap for -13 yards,-0.690,-2.490
+3,4:44,4,22,BAL 10,7,10,Sam Koch punts 30 yards,-2.490,-2.920
+3,4:36,1,10,BAL 40,7,10,Dan Herron right tackle for -3 yards (tackle by Ma'ake Kemoeatu),2.920,1.970
+3,3:58,2,13,BAL 43,7,10,Bruce Gradkowski pass complete short left to Brandon Tate for 7 yards (tackle by Jimmy Smith),1.970,2.210
+3,3:28,3,6,BAL 36,7,10,"Bruce Gradkowski pass incomplete deep left intended for Marvin Jones (defended by Jimmy Smith). Penalty on Jimmy Smith: Defensive Pass Interference, 21 yards (no play)",2.210,4.580
+3,3:21,1,10,BAL 15,7,10,Bruce Gradkowski pass incomplete short left intended for Marvin Jones,4.580,3.950
+3,3:16,2,10,BAL 15,7,10,Bruce Gradkowski pass incomplete short left intended for Dan Herron,3.950,0.000
+3,3:12,,,,7,10,Timeout #2 by Cincinnati Bengals,0.000,3.100
+3,3:12,3,10,BAL 15,7,10,"Penalty on Brian Leonard: False Start, 5 yards (no play)",3.100,2.680
+3,3:12,3,15,BAL 20,7,10,Bruce Gradkowski pass complete short middle to Andrew Hawkins for 6 yards (tackle by Chykie Brown),2.680,2.510
+3,2:29,4,9,BAL 14,7,13,Josh Brown 32 yard field goal good,2.510,3.000
+3,2:24,,,CIN 35,7,13,"Josh Brown kicks off 68 yards, returned by Jacoby Jones for 22 yards (tackle by Dan Herron)",0.000,0.150
+3,2:19,1,10,BAL 19,7,13,Tyrod Taylor pass incomplete short right intended for Bernard Pierce (defended by Dan Skuta),0.150,-0.390
+3,2:13,2,10,BAL 19,7,13,Bernard Pierce left end for 3 yards (tackle by Chris Lewis-Harris),-0.390,-0.680
+3,1:42,3,7,BAL 22,7,13,"Tyrod Taylor pass incomplete deep right intended for Jacoby Jones. Penalty on Nate Clements: Defensive Pass Interference, 25 yards (no play)",-0.680,2.060
+3,1:35,1,10,BAL 47,7,13,Tyrod Taylor pass complete short middle to David Reed for 8 yards (tackle by Chris Lewis-Harris),2.060,2.600
+3,1:04,2,2,CIN 45,7,13,Bernard Pierce left guard for 6 yards (tackle by Dan Skuta),2.600,2.980
+3,0:35,1,10,CIN 39,7,13,Bernard Pierce right end for -2 yards (tackle by Dan Skuta and Carlos Dunlap),2.980,2.170
+3,0:02,2,12,CIN 41,7,13,Anthony Allen up the middle for 1 yard (tackle by Pat Sims),2.170,1.620
+Quarter,Time,Down,ToGo,Location,BAL,CIN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,11,CIN 40,7,13,Tyrod Taylor pass complete short right to Ed Dickson for 15 yards (tackle by Emmanuel Lamur),1.620,3.910
+4,14:29,1,10,CIN 25,7,13,Anthony Allen left guard for 7 yards (tackle by Emmanuel Lamur and Dan Skuta),3.910,4.370
+4,13:53,2,3,CIN 18,7,13,Tyrod Taylor left end for 15 yards (tackle by Jeromy Miles),4.370,6.510
+4,13:28,1,3,CIN 3,7,13,Anthony Allen right tackle for 2 yards (tackle by Domata Peko and Pat Sims),6.510,5.910
+4,12:58,2,1,CIN 1,13,13,"Tyrod Taylor left end for 1 yard, touchdown",5.910,7.000
+4,12:58,,,CIN 2,14,13,Justin Tucker kicks extra point good,0.000,0.000
+4,12:50,,,BAL 35,14,13,"Justin Tucker kicks off 72 yards, touchback",0.000,0.280
+4,12:50,1,10,CIN 20,14,13,Bruce Gradkowski pass complete short left to Brandon Tate for 2 yards (tackle by Dannell Ellerbe),0.280,0.000
+4,12:18,2,8,CIN 22,14,13,Bruce Gradkowski pass incomplete deep right intended for Brandon Tate,0.000,-0.690
+4,12:10,3,8,CIN 22,14,13,"Bruce Gradkowski for no gain. Trevor Robinson fumbles, recovered by Trevor Robinson at CIN-CIN",-0.690,-2.390
+4,11:45,4,14,CIN 16,14,13,Kevin Huber punts 33 yards,-2.390,-2.320
+4,11:36,1,10,CIN 49,14,13,"Bernard Pierce left tackle for 4 yards (tackle by Chris Lewis-Harris). Penalty on Gino Gradkowski: Offensive Holding, 10 yards (no play)",2.320,1.660
+4,11:18,1,20,BAL 41,14,13,Bernard Pierce right guard for 4 yards (tackle by Rey Maualuga),1.660,0.970
+4,10:42,2,16,BAL 45,14,13,Tyrod Taylor pass complete short left to David Reed for 23 yards (tackle by Taylor Mays),0.970,3.450
+4,10:12,1,10,CIN 32,14,13,Anthony Allen left tackle for 3 yards (tackle by Jeromy Miles),3.450,3.310
+4,9:42,2,7,CIN 29,14,13,Anthony Allen right tackle for 2 yards (tackle by Wallace Gilberry and Rey Maualuga),3.310,2.870
+4,9:05,3,5,CIN 27,14,13,Tyrod Taylor pass incomplete deep left intended for David Reed,2.870,1.720
+4,8:59,4,5,CIN 27,14,13,Justin Tucker 45 yard field goal no good,1.720,-1.270
+4,8:54,1,10,CIN 35,14,13,Bruce Gradkowski pass complete deep right to Brandon Tate for 44 yards (tackle by Chykie Brown),1.270,4.170
+4,8:17,1,10,BAL 21,14,13,Cedric Peerman left guard for 1 yard (tackle by Ma'ake Kemoeatu),4.170,3.760
+4,7:31,2,9,BAL 20,14,13,Bruce Gradkowski pass incomplete short right intended for Orson Charles (defended by James Ihedigbo),3.760,3.070
+4,7:24,3,9,BAL 20,14,13,Bruce Gradkowski pass incomplete short middle intended for Brandon Tate (defended by Paul Kruger),3.070,2.120
+4,7:20,4,9,BAL 20,14,16,Josh Brown 38 yard field goal good,2.120,3.000
+4,7:16,,,CIN 35,14,16,"Josh Brown kicks off 71 yards, returned by Jacoby Jones for 26 yards (tackle by Dan Herron)",0.000,0.280
+4,7:11,1,10,BAL 20,14,16,Bernard Pierce left guard for 1 yard (tackle by Jeromy Miles),0.280,-0.130
+4,6:43,2,9,BAL 21,14,16,Tyrod Taylor left end for 2 yards (tackle by Rey Maualuga),-0.130,-0.560
+4,6:13,3,7,BAL 23,14,22,"Tyrod Taylor pass incomplete short middle intended for Ed Dickson is intercepted by Carlos Dunlap at BAL-14 and returned for 14 yards, touchdown",-0.560,-7.000
+4,,,,BAL 2,14,23,Josh Brown kicks extra point good,0.000,0.000
+4,6:06,,,CIN 35,14,23,"Josh Brown kicks off 72 yards, returned by Jacoby Jones for 30 yards (tackle by Cedric Peerman)",0.000,0.480
+4,6:01,1,10,BAL 23,14,23,Bernard Pierce right tackle for 5 yards (tackle by Jeromy Miles),0.480,0.610
+4,5:23,2,5,BAL 28,14,23,Tyrod Taylor pass incomplete short right intended for Bernard Pierce,0.610,-0.100
+4,5:18,3,5,BAL 28,14,23,Tyrod Taylor pass complete short middle to Deonte Thompson for 4 yards (tackle by Rey Maualuga and Vontaze Burfict),-0.100,-1.240
+4,4:37,4,1,BAL 32,14,23,Sam Koch for 10 yards (tackle by Brian Leonard),-1.240,1.730
+4,4:28,1,10,BAL 42,14,23,Tyrod Taylor pass complete short middle to Jacoby Jones for 8 yards (tackle by Nate Clements),1.730,2.270
+4,4:00,2,2,,14,23,"Tyrod Taylor up the middle for 2 yards (tackle by Pat Sims). Penalty on Bobbie Williams: Offensive Holding, 10 yards (no play)",2.270,0.920
+4,3:55,2,12,BAL 40,14,23,Tyrod Taylor pass complete short middle to Deonte Thompson for 11 yards (tackle by Leon Hall and Vontaze Burfict),0.920,1.690
+4,3:10,3,1,CIN 49,14,23,Tyrod Taylor for 3 yards (tackle by Leon Hall),1.690,2.520
+4,3:01,1,10,CIN 46,14,23,Tyrod Taylor for 6 yards (tackle by Vontaze Burfict),2.520,2.790
+4,2:51,2,4,CIN 40,14,23,Anthony Allen left guard for no gain (tackle by Geno Atkins),2.790,2.080
+4,2:16,3,4,CIN 40,14,23,Tyrod Taylor pass complete short middle to Ed Dickson for 5 yards (tackle by Reggie Nelson),2.080,3.250
+4,2:00,1,10,CIN 35,14,23,Tyrod Taylor sacked by Wallace Gilberry for -10 yards,3.250,0.000
+4,1:51,,,,14,23,Timeout #1 by Baltimore Ravens,0.000,1.350
+4,1:51,2,20,CIN 45,14,23,Tyrod Taylor pass complete short middle to Ed Dickson for 14 yards (tackle by Rey Maualuga and Reggie Nelson),1.350,2.540
+4,1:33,3,6,CIN 31,14,23,Tyrod Taylor pass incomplete deep right intended for Jacoby Jones,2.540,0.000
+4,1:26,,,,14,23,Timeout #2 by Baltimore Ravens,0.000,1.340
+4,1:26,4,6,CIN 31,17,23,Justin Tucker 49 yard field goal good,1.340,3.000
+4,1:21,,,BAL 35,17,23,"Justin Tucker kicks onside 10 yards, recovered by Ryan Whalen",0.000,2.590
+4,1:20,1,10,BAL 45,17,23,Bruce Gradkowski kneels for -1 yards,2.590,1.910
+4,0:39,2,11,BAL 46,17,23,Bruce Gradkowski kneels for -1 yards,1.910,1.090
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

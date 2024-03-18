@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,SFO 31,3,1:10,3,Punt
+2,1,8:17,SFO 27,3,1:32,-6,Fumble
+3,1,4:07,SFO 39,3,2:12,9,Punt
+4,2,8:31,SFO 1,3,2:30,4,Punt
+5,2,5:17,SFO 34,3,1:54,2,Punt
+6,2,1:49,SEA 31,2,0:36,-8,Fumble
+7,2,0:07,SFO 44,1,0:07,45,End of Half
+8,3,14:00,SFO 38,5,2:24,12,Punt
+9,3,11:22,SEA 23,5,1:37,21,Downs
+10,3,8:24,SEA 41,5,2:17,18,Downs
+11,4,14:55,SFO 20,3,0:56,6,Punt
+12,4,8:03,SFO 8,6,2:02,23,Punt
+13,4,2:49,SFO 20,5,0:49,7,Downs

@@ -1,0 +1,201 @@
+Quarter,Time,Down,ToGo,Location,ARI,LAR,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Cardinals won the coin toss and deferred, Rams to receive the opening kickoff.",,
+1,15:00,,,ARI 35,0,0,"Zane Gonzalez kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,LAR 25,0,0,Todd Gurley right tackle for -2 yards (tackle by Joe Walker),0.610,-0.210
+1,14:24,2,12,LAR 23,0,0,Todd Gurley up the middle for 4 yards (tackle by Joe Walker),-0.210,-0.360
+1,13:43,3,8,LAR 27,0,0,Jared Goff pass complete short middle to Cooper Kupp for 9 yards (tackle by Jordan Hicks and Corey Peters),-0.360,1.330
+1,12:57,1,10,LAR 36,0,0,Todd Gurley up the middle for -3 yards (tackle by Cassius Marsh),1.330,0.390
+1,12:28,2,13,LAR 33,0,0,Jared Goff pass incomplete short right intended for Robert Woods (defended by Patrick Peterson),0.390,-0.300
+1,12:23,3,13,LAR 33,0,0,Jared Goff pass complete short right to Brandin Cooks for 14 yards (tackle by Chris Jones),-0.300,2.060
+1,11:37,1,10,LAR 47,0,0,Jared Goff pass incomplete deep left intended for Robert Woods,2.060,1.520
+1,11:31,2,10,LAR 47,0,0,Jared Goff pass complete short middle to Cooper Kupp for 24 yards (tackle by Jalen Thompson),1.520,3.640
+1,10:40,1,10,ARI 29,0,0,Todd Gurley left guard for 4 yards (tackle by Cassius Marsh and Jalen Thompson),3.640,3.640
+1,10:02,2,6,ARI 25,0,0,Todd Gurley left tackle for -4 yards (tackle by Chandler Jones and Budda Baker),3.640,2.410
+1,9:21,3,10,ARI 29,0,0,Jared Goff pass incomplete short right intended for Tyler Higbee (defended by Chandler Jones),2.410,1.500
+1,9:17,4,10,ARI 29,0,3,Greg Zuerlein 47 yard field goal good,1.500,3.000
+1,9:12,,,LAR 35,0,3,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+1,9:12,1,10,ARI 25,0,3,Kyler Murray pass complete short middle to Kenyan Drake for 11 yards (tackle by Michael Brockers and Eric Weddle),0.610,1.330
+1,8:41,1,10,ARI 36,0,3,Kenyan Drake right guard for 2 yards (tackle by Sebastian Joseph and Aaron Donald),1.330,1.060
+1,8:09,2,8,ARI 38,0,3,Kyler Murray pass complete short left to Larry Fitzgerald for 5 yards (tackle by Troy Reeder),1.060,1.030
+1,7:22,3,3,ARI 43,0,3,"Kyler Murray pass complete short left to Pharoh Cooper for 13 yards (tackle by Travin Howard). Penalty on Dan Arnold: Offensive Pass Interference, 10 yards (no play)",1.030,-0.300
+1,6:56,3,13,ARI 33,0,3,Kyler Murray pass complete short right to Christian Kirk for 9 yards (tackle by Travin Howard and David Long),-0.300,-0.590
+1,6:17,4,4,ARI 42,0,3,"Andy Lee punts 44 yards, fair catch by Nsimba Webster at LA-14",-0.590,0.280
+1,6:08,1,10,LAR 14,0,3,Todd Gurley right tackle for -4 yards (tackle by Haason Reddick),-0.280,-1.070
+1,5:33,2,14,LAR 10,0,3,Jared Goff pass complete short left to Todd Gurley for 7 yards (tackle by Byron Murphy and Jordan Hicks),-1.070,-1.040
+1,4:51,3,7,LAR 17,0,3,Jared Goff pass incomplete short right intended for Brandin Cooks (defended by Chris Jones),-1.040,-2.320
+1,4:45,4,7,LAR 17,0,3,Nick Scott left end for 6 yards (tackle by Dennis Gardeck and Kylie Fitts),-2.320,-4.110
+1,4:38,1,10,LAR 22,0,3,Chase Edmonds right end for -1 yards (tackle by Eric Weddle and Nickell Robey-Coleman),4.110,3.430
+1,4:00,2,11,LAR 23,6,3,"Kyler Murray pass complete deep middle to Dan Arnold for 23 yards, touchdown",3.430,7.000
+1,3:54,,,LAR 15,7,3,Zane Gonzalez kicks extra point good,0.000,0.000
+1,3:54,,,ARI 35,7,3,"Zane Gonzalez kicks off 64 yards, returned by Nsimba Webster for 30 yards (tackle by Chris Jones)",0.000,1.000
+1,3:48,1,10,LAR 31,7,3,Jared Goff pass complete deep left to Tyler Higbee for 18 yards (tackle by Byron Murphy),1.000,2.190
+1,3:14,1,10,LAR 49,7,3,Jared Goff pass incomplete deep left intended for Robert Woods (defended by Patrick Peterson),2.190,1.650
+1,3:06,2,10,LAR 49,7,3,Malcolm Brown up the middle for 2 yards (tackle by Joe Walker and Miles Brown),1.650,1.220
+1,2:28,3,8,ARI 49,7,3,Jared Goff pass complete short left to Robert Woods for 4 yards (tackle by Byron Murphy and Chris Banjo),1.220,0.270
+1,1:43,4,4,ARI 45,7,3,"Johnny Hekker punts 36 yards, fair catch by Pharoh Cooper at ARI-9",0.270,0.380
+1,1:35,1,10,ARI 9,7,3,Kyler Murray pass incomplete deep right intended for Christian Kirk,-0.380,-0.780
+1,1:29,2,10,ARI 9,7,3,Kenyan Drake up the middle for 1 yard (tackle by Dante Fowler),-0.780,-1.300
+1,0:46,3,9,ARI 10,7,3,Kyler Murray pass incomplete deep right intended for Christian Kirk (defended by David Long),-1.300,-2.490
+1,0:39,4,9,ARI 10,7,3,"Andy Lee punts 54 yards, returned by Nsimba Webster for 14 yards (tackle by Dennis Gardeck)",-2.490,-2.260
+1,0:28,1,10,LAR 50,7,3,Todd Gurley up the middle for 1 yard (tackle by Joe Walker and Jordan Hicks),2.260,1.850
+Quarter,Time,Down,ToGo,Location,ARI,LAR,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,9,ARI 49,7,3,Jared Goff pass complete short left to Tyler Higbee for 14 yards (tackle by Budda Baker and Jordan Hicks),1.850,3.250
+2,14:17,1,10,ARI 35,7,3,Jared Goff pass complete short middle to Todd Gurley for 14 yards (tackle by Jordan Hicks),3.250,4.170
+2,13:38,1,10,ARI 21,7,3,Todd Gurley up the middle for 1 yard (tackle by Budda Baker and Joe Walker),4.170,3.760
+2,12:59,2,9,ARI 20,7,3,Todd Gurley left tackle for 8 yards (tackle by Chris Jones and Joe Walker),3.760,4.490
+2,12:16,3,1,ARI 12,7,3,Todd Gurley up the middle for 6 yards (tackle by Patrick Peterson),4.490,5.830
+2,11:59,1,6,ARI 6,7,3,Todd Gurley left tackle for no gain (tackle by Zach Kerr),5.830,4.950
+2,11:22,2,6,ARI 6,7,3,Jared Goff pass incomplete short left intended for Cooper Kupp,4.950,4.040
+2,11:17,3,6,ARI 6,7,3,"Jared Goff pass incomplete short left intended for Brandin Cooks. Penalty on Chris Jones: Defensive Holding, 3 yards (no play)",4.040,6.510
+2,11:12,1,3,ARI 3,7,3,Jared Goff pass incomplete short middle,6.510,5.530
+2,11:07,2,3,ARI 3,7,3,Jared Goff pass incomplete short right intended for Tyler Higbee,5.530,4.720
+2,10:59,3,3,ARI 3,7,9,"Malcolm Brown up the middle for 3 yards, touchdown",4.720,7.000
+2,10:54,,,ARI 15,7,10,Greg Zuerlein kicks extra point good,0.000,0.000
+2,10:54,,,LAR 35,7,10,"Greg Zuerlein kicks off 58 yards, returned by Pharoh Cooper for 26 yards (tackle by Troy Reeder)",0.000,1.140
+2,10:48,1,10,ARI 33,7,10,Kyler Murray pass incomplete short left intended for Christian Kirk (defended by Dante Fowler),1.140,0.590
+2,10:43,2,10,ARI 33,7,10,Kyler Murray sacked by Cory Littleton for -3 yards,0.590,-0.490
+2,10:02,3,13,ARI 30,7,10,"Penalty on Clay Matthews: Neutral Zone Infraction, 5 yards (no play)",-0.490,0.170
+2,9:34,3,8,ARI 35,7,10,Kyler Murray pass complete short left to Damiere Byrd for 5 yards (tackle by David Long and Eric Weddle),0.170,-0.720
+2,8:55,4,3,ARI 40,7,10,"Andy Lee punts 53 yards, returned by Nsimba Webster for 4 yards (tackle by Dennis Gardeck)",-0.720,0.370
+2,8:41,1,10,LAR 11,7,10,Jared Goff pass complete short left to Cooper Kupp for 14 yards (tackle by Jordan Hicks and Byron Murphy). Penalty on Byron Murphy: Defensive Holding (Declined),-0.370,0.610
+2,8:12,1,10,LAR 25,7,10,Jared Goff pass incomplete deep right intended for Robert Woods,0.610,0.060
+2,8:06,2,10,LAR 25,7,10,Jared Goff pass complete deep left to Brandin Cooks for 22 yards (tackle by Chris Jones),0.060,2.060
+2,7:38,1,10,LAR 47,7,10,Jared Goff sacked by and Budda Baker for -8 yards and Cassius Marsh for -8 yards,2.060,0.440
+2,6:57,2,18,LAR 39,7,10,Jared Goff pass complete short left to Robert Woods for -6 yards (tackle by Byron Murphy),0.440,-1.020
+2,6:25,3,24,LAR 33,7,10,Todd Gurley up the middle for 12 yards (tackle by Jordan Hicks),-1.020,-0.390
+2,5:42,4,12,LAR 45,7,10,"Johnny Hekker punts 39 yards, fair catch by Pharoh Cooper at ARI-16",-0.390,0.140
+2,5:33,1,10,ARI 16,7,10,"Kyler Murray aborted snap, recovered by Taylor Rapp at ARI-8 (tackle by Kenyan Drake)",-0.140,-5.370
+2,5:28,1,8,ARI 8,7,10,"Robert Woods left end for 4 yards (tackle by Byron Murphy). Penalty on Andrew Whitworth: Offensive Holding, 10 yards (no play)",5.370,4.240
+2,5:06,1,18,ARI 18,7,10,Todd Gurley right end for 5 yards (tackle by Patrick Peterson),4.240,3.720
+2,4:33,2,13,ARI 13,7,10,Jared Goff pass complete short right to Tyler Higbee for 7 yards (tackle by Jalen Thompson and Joe Walker),3.720,4.040
+2,3:55,3,6,ARI 6,7,16,"Jared Goff pass complete short right to Cooper Kupp for 6 yards, touchdown",4.040,7.000
+2,3:49,,,ARI 15,7,17,Greg Zuerlein kicks extra point good,0.000,0.000
+2,3:49,,,LAR 35,7,17,"Greg Zuerlein kicks off 67 yards, returned by Pharoh Cooper for 24 yards (tackle by Kenny Young)",0.000,0.410
+2,3:43,1,10,ARI 22,7,17,Kyler Murray pass incomplete short left,0.410,-0.130
+2,3:36,2,10,ARI 22,7,17,Kyler Murray pass incomplete short middle intended for Larry Fitzgerald (defended by Nickell Robey-Coleman),-0.130,-0.820
+2,3:32,3,10,ARI 22,7,17,Kyler Murray pass complete deep right to Christian Kirk for 16 yards (tackle by Cory Littleton),-0.820,1.470
+2,3:07,1,10,ARI 38,7,17,Kyler Murray pass complete deep right to Larry Fitzgerald for 23 yards (tackle by Taylor Rapp),1.470,2.980
+2,2:38,1,10,LAR 39,7,17,Kyler Murray pass incomplete short left,2.980,2.440
+2,2:32,2,10,LAR 39,7,17,"Kyler Murray aborted snap, recovered by Cory Littleton at LA-41 (tackle by Kenyan Drake)",2.440,-1.660
+2,2:27,1,10,LAR 41,7,17,"Malcolm Brown right end for 5 yards (tackle by Jalen Thompson and Byron Murphy). Penalty on Cooper Kupp: Offensive Holding, 10 yards (no play)",1.660,1.000
+2,2:05,1,20,LAR 31,7,17,Jared Goff pass complete short right to Malcolm Brown for 6 yards (tackle by Jordan Hicks and Byron Murphy),1.000,0.580
+2,1:59,2,14,LAR 37,7,17,"Jared Goff pass complete short middle to Cooper Kupp for 13 yards (tackle by Budda Baker). Penalty on Michael Dogbe: Roughing the Passer, 15 yards",0.580,3.250
+2,1:50,1,10,ARI 35,7,17,Jared Goff pass complete short right to Tyler Higbee for 8 yards (tackle by Jordan Hicks and Budda Baker),3.250,3.780
+2,1:14,2,2,ARI 27,7,17,Malcolm Brown up the middle for -2 yards (tackle by Cassius Marsh and Budda Baker),3.780,2.810
+2,1:09,,,,,,Timeout #1 by Los Angeles Rams,,
+2,1:09,3,4,ARI 29,7,17,Jared Goff pass incomplete short right intended for Robert Woods,2.810,1.560
+2,1:05,4,4,ARI 29,7,17,Greg Zuerlein 47 yard field goal no good,1.560,-1.400
+2,1:00,1,10,ARI 37,7,17,Kyler Murray pass complete short right to Christian Kirk for 8 yards (tackle by Marqui Christian),1.400,1.940
+2,0:54,2,2,ARI 45,7,17,Kenyan Drake left end for 2 yards (tackle by Cory Littleton),1.940,2.060
+2,0:49,1,10,ARI 47,7,17,"Kyler Murray pass complete deep left to Damiere Byrd for 33 yards (tackle by David Long). Penalty on Damiere Byrd: Offensive Pass Interference, 10 yards (no play)",2.060,1.400
+2,0:42,1,20,ARI 37,7,17,Kyler Murray pass complete short right to Larry Fitzgerald for 12 yards (tackle by Aaron Donald),1.400,1.790
+2,0:38,,,,,,Timeout #1 by Arizona Cardinals,,
+2,0:38,2,8,ARI 49,7,17,Kyler Murray pass complete deep left to Damiere Byrd for 33 yards (tackle by David Long),1.790,4.370
+2,0:33,1,10,LAR 18,7,17,Kyler Murray pass incomplete deep right intended for Pharoh Cooper,4.370,3.800
+2,0:26,2,10,LAR 18,7,17,"Kyler Murray pass incomplete deep right intended for Christian Kirk. Penalty on Darious Williams: Defensive Holding, 5 yards (no play)",3.800,4.710
+2,0:21,1,10,LAR 13,7,17,Kyler Murray pass incomplete short middle intended for Dan Arnold,4.710,4.050
+2,0:16,2,10,LAR 13,7,17,Kyler Murray pass incomplete short right intended for Kenyan Drake,4.050,3.120
+2,0:13,,,,,,Timeout #2 by Los Angeles Rams,,
+2,0:13,3,10,LAR 13,7,17,Kyler Murray pass incomplete short left intended for Dan Arnold,3.120,2.570
+2,0:07,4,10,LAR 13,10,17,Zane Gonzalez 31 yard field goal good,2.570,3.000
+2,0:04,,,ARI 35,10,17,"Zane Gonzalez kicks off 65 yards, touchback.",0.000,0.610
+2,0:04,1,10,LAR 25,10,17,Jared Goff kneels for -1 yards,0.610,-0.070
+Quarter,Time,Down,ToGo,Location,ARI,LAR,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,LAR 35,10,17,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,ARI 25,10,17,Kenyan Drake up the middle for 3 yards (tackle by Sebastian Joseph),0.610,0.470
+3,14:43,2,7,ARI 28,10,17,Kyler Murray pass complete short right to Dan Arnold for 2 yards (tackle by Taylor Rapp),0.470,0.040
+3,14:03,3,5,ARI 30,10,17,Kyler Murray pass complete deep right to Dan Arnold for 37 yards (tackle by Travin Howard),0.040,3.380
+3,13:28,1,10,LAR 33,10,17,Kyler Murray pass deep right (defended by Travin Howard) intended for Larry Fitzgerald is intercepted by Darious Williams at LA-11 and returned for no gain,3.380,0.370
+3,13:21,1,10,LAR 11,10,17,Todd Gurley up the middle for 5 yards (tackle by Joe Walker and Jordan Hicks),-0.370,-0.300
+3,12:55,2,5,LAR 16,10,17,Jared Goff pass complete short left to Tyler Higbee for 22 yards (tackle by Jordan Hicks),-0.300,1.470
+3,12:24,1,10,LAR 38,10,17,Jared Goff right end for 5 yards (tackle by Budda Baker),1.470,1.600
+3,11:40,2,5,LAR 43,10,17,"Penalty on Cooper Kupp: False Start, 5 yards (no play)",1.600,0.920
+3,11:24,2,10,LAR 38,10,17,Jared Goff pass incomplete short left intended for Brandin Cooks (defended by Chandler Jones),0.920,0.230
+3,11:19,3,10,LAR 38,10,17,Jared Goff pass complete short right to Robert Woods for 15 yards (tackle by Chandler Jones and Chris Jones),0.230,2.460
+3,10:33,1,10,ARI 47,10,17,Todd Gurley left end for -1 yards (tackle by Patrick Peterson),2.460,1.780
+3,9:46,2,11,ARI 48,10,17,Jared Goff pass incomplete short right intended for Tyler Higbee (defended by Jalen Thompson),1.780,1.090
+3,9:41,3,11,ARI 48,10,17,Jared Goff pass incomplete short middle intended for Cooper Kupp (defended by Byron Murphy),1.090,0.070
+3,9:36,4,11,ARI 48,10,17,"Johnny Hekker punts 36 yards, fair catch by Pharoh Cooper at ARI-12",0.070,0.350
+3,9:28,1,10,ARI 12,10,17,Kyler Murray pass complete short middle to Dan Arnold for 14 yards (tackle by Taylor Rapp and Troy Reeder),-0.350,0.670
+3,9:05,1,10,ARI 26,10,17,Kenyan Drake up the middle for 4 yards (tackle by Travin Howard),0.670,0.670
+3,8:35,2,6,ARI 30,10,17,Kyler Murray pass complete deep right to Christian Kirk for 15 yards,0.670,1.930
+3,8:25,1,10,ARI 45,10,17,Kyler Murray pass complete short left to Christian Kirk for 6 yards (tackle by Clay Matthews and Michael Brockers),1.930,2.190
+3,7:44,2,4,LAR 49,10,17,Kenyan Drake up the middle for -2 yards (tackle by Morgan Fox),2.190,1.220
+3,7:03,3,6,ARI 49,10,17,"Kyler Murray pass incomplete deep right intended for Dan Arnold. Penalty on Travin Howard: Illegal Contact, 6 yards (no play)",1.220,2.590
+3,6:58,1,10,LAR 45,10,17,"Kenyan Drake right end for -3 yards (tackle by Morgan Fox and Taylor Rapp). Penalty on Taylor Rapp: Lowering the Head to Initiate Contact, 15 yards (no play)",2.590,3.580
+3,6:29,,,,,,Timeout #1 by Arizona Cardinals,,
+3,6:29,1,10,LAR 30,10,17,Kyler Murray pass incomplete short right intended for Maxx Williams (defended by Samson Ebukam),3.580,3.030
+3,6:23,2,10,LAR 30,10,17,Kyler Murray pass complete short left to Maxx Williams for 23 yards (tackle by Darious Williams),3.030,5.600
+3,5:48,1,7,LAR 7,10,17,Kyler Murray pass complete short left to Kenyan Drake for 5 yards (tackle by Samson Ebukam),5.600,5.720
+3,5:27,2,2,LAR 2,10,17,Kenyan Drake up the middle for -1 yards (tackle by Travin Howard and Sebastian Joseph),5.720,4.720
+3,4:47,3,3,LAR 3,16,17,"Kyler Murray pass complete short left to Damiere Byrd for 3 yards, touchdown",4.720,7.000
+3,4:43,,,LAR 15,17,17,Zane Gonzalez kicks extra point good,0.000,0.000
+3,4:43,,,ARI 35,17,17,"Zane Gonzalez kicks off 65 yards, touchback.",0.000,0.610
+3,4:43,1,10,LAR 25,17,17,Malcolm Brown right end for 7 yards (tackle by Patrick Peterson),0.610,1.010
+3,4:07,2,3,LAR 32,17,17,Jared Goff pass incomplete deep middle intended for Tyler Higbee,1.010,0.300
+3,4:02,3,3,LAR 32,17,17,Jared Goff pass complete deep left to Cooper Kupp for 24 yards (tackle by Byron Murphy),0.300,2.650
+3,3:18,1,10,ARI 44,17,17,Jared Goff pass incomplete deep right intended for Josh Reynolds,2.650,2.110
+3,3:13,2,10,ARI 44,17,17,Jared Goff pass complete short left to Tyler Higbee for 6 yards (tackle by Joe Walker),2.110,2.210
+3,2:35,3,4,ARI 38,17,17,Jared Goff pass complete short right to Brandin Cooks for 4 yards (tackle by Haason Reddick),2.210,3.310
+3,1:52,1,10,ARI 34,17,17,Todd Gurley up the middle for 14 yards (tackle by Budda Baker),3.310,4.240
+3,1:10,1,10,ARI 20,17,17,Jared Goff pass complete short right to Robert Woods for 1 yard (tackle by Patrick Peterson),4.240,3.820
+3,0:31,2,9,ARI 19,17,17,Jared Goff pass complete short middle to Tyler Higbee for 5 yards (tackle by Jalen Thompson),3.820,3.890
+3,0:00,3,4,ARI 14,17,17,"Penalty on Byron Murphy: Neutral Zone Infraction, 5 yards (no play)",3.890,5.140
+Quarter,Time,Down,ToGo,Location,ARI,LAR,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,9,ARI 9,17,17,Todd Gurley up the middle for 5 yards (tackle by Budda Baker),5.140,5.340
+4,14:20,2,4,ARI 4,17,17,Todd Gurley up the middle for no gain (tackle by Cassius Marsh),5.340,4.490
+4,13:37,3,4,ARI 4,17,23,"Jared Goff pass complete short middle to Tyler Higbee for 4 yards, touchdown",4.490,7.000
+4,13:34,,,ARI 15,17,24,Greg Zuerlein kicks extra point good,0.000,0.000
+4,13:34,,,LAR 35,17,24,"Greg Zuerlein kicks off 61 yards, returned by Pharoh Cooper for 18 yards (tackle by Donte Deayon)",0.000,0.410
+4,13:28,1,10,ARI 22,17,24,Kyler Murray pass incomplete deep middle intended for Damiere Byrd (defended by Darious Williams),0.410,-0.130
+4,13:21,2,10,ARI 22,17,24,Kenyan Drake left tackle for 24 yards (tackle by Taylor Rapp),-0.130,1.990
+4,12:39,1,10,ARI 46,17,24,Kyler Murray pass complete short left to Damiere Byrd for 11 yards (tackle by Darious Williams),1.990,2.720
+4,12:04,1,10,LAR 43,17,24,Kyler Murray pass complete short right to Christian Kirk for 6 yards,2.720,2.990
+4,11:41,2,4,LAR 37,17,24,Kyler Murray pass incomplete short right,2.990,2.280
+4,11:36,3,4,LAR 37,17,24,"Penalty on ARI: Delay of Game, 5 yards (no play)",2.280,1.620
+4,11:36,3,9,LAR 42,17,24,"Kyler Murray pass deep middle intended for Larry Fitzgerald is intercepted by Taylor Rapp at LA-16 and returned for 23 yards. Penalty on Dante Fowler: Illegal Block Above the Waist, 10 yards",1.620,-0.870
+4,11:26,1,10,LAR 29,17,24,Jared Goff pass incomplete short middle intended for Cooper Kupp,0.870,0.330
+4,11:22,2,10,LAR 29,17,24,Todd Gurley up the middle for 8 yards (tackle by Corey Peters),0.330,0.700
+4,10:42,3,2,LAR 37,17,24,Jared Goff pass complete deep left to Robert Woods for 37 yards (tackle by Jalen Thompson),0.700,3.840
+4,10:12,1,10,ARI 26,17,24,Jared Goff pass complete short right to Johnny Mundt for 2 yards (tackle by Jordan Hicks),3.840,3.570
+4,9:26,,,,,,Timeout #1 by Los Angeles Rams,,
+4,9:26,2,8,ARI 24,17,24,"Jared Goff pass complete short left to Robert Woods for 5 yards. Penalty on Andrew Whitworth: Offensive Holding, 10 yards",3.570,2.890
+4,9:19,2,13,ARI 29,17,24,Todd Gurley left tackle for 9 yards (tackle by Jordan Hicks and Patrick Peterson),2.890,3.400
+4,8:37,3,4,ARI 20,17,24,Jared Goff pass complete short middle to Cooper Kupp for 9 yards (tackle by Patrick Peterson),3.400,4.840
+4,7:58,1,10,ARI 11,17,30,"Jared Goff pass complete short left to Robert Woods for 11 yards, touchdown",4.840,7.000
+4,7:52,,,ARI 15,17,31,Greg Zuerlein kicks extra point good,0.000,0.000
+4,7:52,,,LAR 35,17,31,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+4,7:52,1,10,ARI 25,17,31,Kyler Murray pass complete short left to Damiere Byrd for 9 yards (tackle by Darious Williams),0.610,1.280
+4,7:35,2,1,ARI 34,17,31,Kenyan Drake left end for 13 yards (tackle by Tanzel Smart),1.280,2.060
+4,7:10,1,10,ARI 47,17,31,Kyler Murray pass complete short left to Damiere Byrd for 12 yards (tackle by Eric Weddle and Travin Howard),2.060,2.850
+4,6:39,1,10,LAR 41,17,31,Kenyan Drake left tackle for 1 yard (tackle by Dante Fowler),2.850,2.440
+4,5:59,2,9,LAR 40,17,31,"Kyler Murray pass incomplete short left intended for Larry Fitzgerald (defended by Darious Williams). Penalty on Clay Matthews: Roughing the Passer, 15 yards (no play)",2.440,3.910
+4,5:54,1,10,LAR 25,17,31,Christian Kirk left end for 6 yards (tackle by Eric Weddle and Troy Reeder),3.910,4.200
+4,5:25,2,4,LAR 19,17,31,Kenyan Drake up the middle for 12 yards (tackle by Eric Weddle and Taylor Rapp),4.200,5.600
+4,4:48,1,7,LAR 7,17,31,Brett Hundley pass complete short right to Christian Kirk for no gain (tackle by Taylor Rapp),5.600,4.760
+4,4:43,2,7,LAR 7,17,31,Brett Hundley up the middle for 6 yards (tackle by Nickell Robey-Coleman),4.760,5.170
+4,3:59,3,1,LAR 1,23,31,"Kenyan Drake up the middle for 1 yard, touchdown",5.170,7.000
+4,3:53,,,LAR 15,24,31,Zane Gonzalez kicks extra point good,0.000,0.000
+4,3:53,,,ARI 35,24,31,"Zane Gonzalez kicks off 65 yards, touchback.",0.000,0.610
+4,3:53,1,10,LAR 25,24,31,Malcolm Brown right tackle for no gain (tackle by Budda Baker),0.610,0.060
+4,3:09,2,10,LAR 25,24,31,"Jared Goff pass incomplete deep right intended for Cooper Kupp. Penalty on Byron Murphy: Defensive Holding, 5 yards (no play)",0.060,0.940
+4,3:04,1,10,LAR 30,24,31,Malcolm Brown up the middle for 5 yards (tackle by Joe Walker and Caraun Reid),0.940,1.070
+4,2:59,,,,,,Timeout #2 by Arizona Cardinals,,
+4,2:59,2,5,LAR 35,24,31,Malcolm Brown right guard for 15 yards (tackle by Budda Baker and Jalen Thompson),1.070,2.260
+4,2:13,1,10,LAR 50,24,31,Malcolm Brown left tackle for -3 yards (tackle by Budda Baker and Corey Peters),2.260,1.310
+4,2:00,2,13,LAR 47,24,31,Robert Woods right end for 9 yards (tackle by Joe Walker),1.310,1.820
+4,1:54,,,,,,Timeout #2 by Los Angeles Rams,,
+4,1:54,3,4,ARI 44,24,31,Malcolm Brown up the middle for -1 yards (tackle by Zach Kerr and Caraun Reid),1.820,0.270
+4,1:09,4,5,ARI 45,24,31,"Johnny Hekker punts 45 yards, touchback.",0.270,-0.280
+4,1:00,1,10,ARI 20,24,31,Kyler Murray pass complete short right to Larry Fitzgerald for 5 yards (tackle by Marqui Christian),0.280,0.410
+4,0:45,2,5,ARI 25,24,31,"Kyler Murray pass incomplete short left intended for Larry Fitzgerald. Penalty on J.R. Sweezy: Offensive Holding, 10 yards (no play)",0.410,-1.070
+4,0:38,2,15,ARI 15,24,31,Kyler Murray pass complete short middle to Kenyan Drake for 7 yards (tackle by Troy Reeder),-1.070,-0.690
+4,0:20,3,8,ARI 22,24,31,Kyler Murray pass complete deep middle to Pharoh Cooper for 24 yards (tackle by Eric Weddle),-0.690,1.990
+4,0:04,1,10,ARI 46,24,31,Kyler Murray spiked the ball,1.990,1.450
+4,0:02,,,,,,Timeout #3 by Los Angeles Rams,,
+4,0:02,2,10,ARI 46,24,31,"Kyler Murray pass complete short left to Damiere Byrd for 1 yard (tackle by Troy Reeder). Damiere Byrd fumbles (forced by Troy Reeder), recovered by Samson Ebukam at ARI-41 (tackle by Justin Pugh)",1.450,0.000
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

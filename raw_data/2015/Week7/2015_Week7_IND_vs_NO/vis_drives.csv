@@ -1,0 +1,18 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,NOR 20,3,2:07,1,Punt
+2,1,11:18,NOR 20,9,4:04,26,Punt
+3,1,6:02,NOR 22,10,3:31,78,Touchdown
+4,1,2:16,IND 23,5,2:20,23,Touchdown
+5,2,14:47,IND 27,3,1:11,27,Touchdown
+6,2,11:56,NOR 10,4,2:42,28,Punt
+7,2,6:42,NOR 20,8,3:20,72,Interception
+8,2,1:44,NOR 28,3,0:45,-5,Punt
+9,2,0:02,NOR 19,1,0:02,-1,End of Half
+10,3,13:23,NOR 18,6,2:57,82,Touchdown
+11,3,6:39,NOR 30,5,2:37,16,Punt
+12,3,3:42,NOR 20,5,2:17,9,Punt
+13,3,0:01,NOR 20,3,1:43,8,Punt
+14,4,12:28,NOR 39,3,1:54,-2,Punt
+15,4,9:26,NOR 1,6,2:46,44,Punt
+16,4,5:01,NOR 43,3,1:02,-1,Punt
+17,4,3:05,NOR 47,6,3:05,23,End of Game

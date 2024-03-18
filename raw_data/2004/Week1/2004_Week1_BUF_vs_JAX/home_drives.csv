@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:21,BUF 32,5,3:09,11,Punt
+2,1,8:29,BUF 11,5,2:55,14,Punt
+3,1,3:34,JAX 18,2,0:46,18,Touchdown
+4,2,14:06,BUF 20,13,6:37,56,Missed FG
+5,2,6:20,BUF 20,3,1:34,9,Punt
+6,2,0:17,BUF 21,1,0:17,-1,End of Half
+7,3,15:00,BUF 17,3,2:02,8,Punt
+8,3,11:03,BUF 18,10,4:13,32,Fumble
+9,3,4:32,BUF 20,12,5:23,68,Fumble
+10,4,12:06,JAX 3,4,1:51,-4,Field Goal
+11,4,7:13,BUF 43,7,5:06,19,Punt

@@ -1,0 +1,15 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,ARI 29,5,3:00,30,Interception
+2,1,8:51,ARI 35,5,3:01,11,Punt
+3,1,0:46,ARI 43,7,2:20,24,Missed FG
+4,2,11:47,ARI 29,4,2:02,8,Punt
+5,2,7:44,ARI 40,3,2:34,8,Punt
+6,2,2:50,SEA 26,5,1:46,26,Touchdown
+7,2,0:02,SEA 45,1,0:02,0,Interception
+8,3,12:12,ARI 12,7,2:29,29,Punt
+9,3,7:40,ARI 17,13,6:43,83,Touchdown
+10,3,0:57,ARI 42,1,0:08,0,Interception
+11,4,10:42,ARI 27,4,1:17,-27,Safety
+12,4,6:55,ARI 25,4,1:26,44,Interception
+13,4,5:29,ARI 30,6,3:02,70,Touchdown
+14,4,1:45,ARI 28,3,0:47,29,Interception

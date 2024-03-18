@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,12:48,MIA 33,3,1:52,19,Punt
+2,1,5:01,MIA 35,3,2:00,-9,Punt
+3,1,0:57,MIA 9,6,2:58,15,Punt
+4,2,7:17,MIA 25,3,1:00,-2,Punt
+5,2,4:06,MIA 15,3,1:44,-8,Punt
+6,2,1:42,MIA 17,5,1:23,19,Punt
+7,3,15:00,MIA 25,3,1:06,-5,Punt
+8,3,9:48,MIA 25,4,1:15,3,Interception
+9,3,1:35,MIA 25,11,3:09,54,Downs
+10,4,10:32,MIA 10,6,2:57,52,Downs
+11,4,6:40,MIA 45,7,2:13,26,Interception
+12,4,2:15,MIA 20,8,2:15,80,Touchdown

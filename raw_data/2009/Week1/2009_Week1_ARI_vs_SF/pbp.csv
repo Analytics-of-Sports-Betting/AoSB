@@ -1,0 +1,189 @@
+Quarter,Time,Down,ToGo,Location,SFO,ARI,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Cardinals won the coin toss, Cardinals to receive the opening kickoff.",,
+1,15:00,,,SFO 30,0,0,"Joe Nedney kicks off 70 yards, touchback",0.000,0.280
+1,15:00,1,10,ARI 20,0,0,Kurt Warner pass incomplete short left intended for Stephen Spach,0.280,-0.270
+1,14:57,2,10,ARI 20,0,0,Tim Hightower middle for 4 yards (tackle by Michael Lewis),-0.270,-0.430
+1,14:18,3,6,ARI 24,0,0,"Kurt Warner pass incomplete short right intended for Lance Long (defended by Shawntae Spencer). Penalty on Justin Smith: Defensive Holding, 5 yards (no play)",-0.430,0.870
+1,14:13,1,10,ARI 29,0,0,Kurt Warner pass incomplete short right intended for Anthony Becht (defended by Isaac Sopoaga),0.870,0.330
+1,14:09,2,10,ARI 29,0,0,Tim Hightower left end for 2 yards (tackle by Dashon Goldson and Michael Lewis),0.330,-0.100
+1,13:23,3,8,ARI 31,0,0,Kurt Warner pass complete short left to Tim Hightower for 4 yards (tackle by Patrick Willis),-0.100,-1.040
+1,12:47,4,4,ARI 35,0,0,"Ben Graham punts 52 yards, returned by Allen Rossum for 13 yards (tackle by Jason Wright)",-1.040,-0.670
+1,12:36,1,10,SFO 26,0,0,Frank Gore right tackle for -2 yards (tackle by Gerald Hayes),0.670,-0.140
+1,11:55,2,12,SFO 24,0,0,Frank Gore middle for -3 yards (tackle by Gerald Hayes),-0.140,-1.220
+1,11:16,3,15,SFO 21,0,0,Shaun Hill pass complete short right to Josh Morgan for 13 yards (tackle by Dominique Rodgers-Cromartie and Chike Okeafor),-1.220,-1.110
+1,10:37,4,2,SFO 34,0,0,"Andy Lee punts 45 yards, returned by Antrel Rolle for 8 yards (tackle by Brian Jennings)",-1.110,-0.870
+1,10:25,1,10,ARI 29,0,0,Tim Hightower middle for 1 yard (tackle by Manny Lawson),0.870,0.460
+1,9:43,2,9,ARI 30,0,0,"Kurt Warner pass complete short left to Larry Fitzgerald for 21 yards (tackle by Dashon Goldson). Penalty on Larry Fitzgerald: Offensive Pass Interfere, 10 yards (no play)",0.460,-0.890
+1,9:13,2,19,ARI 20,0,0,"Penalty on Mike Gandy: False Start, 5 yards (no play)",-0.890,-1.710
+1,8:54,2,24,ARI 15,0,0,Tim Hightower middle for 6 yards (tackle by Ray McDonald),-1.710,-1.420
+1,8:14,3,18,ARI 21,0,0,Kurt Warner pass incomplete deep right intended for Jerheme Urban is intercepted by Patrick Willis at ARI-40 and returned for 4 yards,-1.420,-3.180
+1,8:04,1,10,ARI 36,0,0,Shaun Hill pass complete short left to Frank Gore for 8 yards (tackle by Bryant McFadden),3.180,3.720
+1,7:23,2,2,ARI 28,0,0,"Penalty on Adrian Wilson: Defensive Offside, 5 yards (no play)",3.720,4.040
+1,7:05,1,10,ARI 23,0,0,Frank Gore right tackle for 3 yards (tackle by Karlos Dansby),4.040,3.900
+1,6:26,2,7,ARI 20,0,0,Frank Gore middle for 1 yard (tackle by Clark Haggans),3.900,3.340
+1,5:44,3,6,ARI 19,0,0,Shaun Hill pass incomplete deep left intended for Josh Morgan (defended by Bryant McFadden),3.340,2.210
+1,5:34,4,6,ARI 19,3,0,Joe Nedney 37 yard field goal good,2.210,3.000
+1,,,,SFO 30,3,0,"Joe Nedney kicks off 72 yards, returned by LaRod Stephens-Howling for 22 yards (tackle by Scott McKillop). Penalty on Rashad Johnson: Low Block, 8 yards",0.000,-0.380
+1,5:29,1,10,ARI 8,3,0,Tim Hightower right end for 1 yard (tackle by Nate Clements),-0.380,-0.710
+1,4:47,2,9,ARI 9,3,0,Kurt Warner pass incomplete short right intended for Larry Fitzgerald,-0.710,-1.300
+1,4:35,3,9,ARI 9,3,0,Kurt Warner pass complete short left to Tim Hightower for 5 yards (tackle by Patrick Willis and Shawntae Spencer),-1.300,-2.470
+1,3:56,4,4,ARI 14,3,0,"Ben Graham punts 45 yards, returned by Allen Rossum for -4 yards, lateral to Nate Clements for 19 yards (tackle by Matt Ware). Penalty on SFO: Defensive 12 On-field, 5 yards (no play)",-2.470,-1.860
+,,,,,,,"SFO challenged the too many players on field ruling, and the original play was overturned.",,
+1,3:44,1,10,SFO 44,3,0,Shaun Hill pass complete short left to Delanie Walker for 17 yards (tackle by Bryant McFadden),1.860,2.980
+1,2:55,1,10,ARI 39,3,0,"Shaun Hill pass incomplete deep left intended for Vernon Davis (defended by Adrian Wilson). Penalty on Adrian Wilson: Unnecessary Roughness, 15 yards (no play)",2.980,3.970
+1,2:49,1,10,ARI 24,3,0,Frank Gore middle for no gain (tackle by Calais Campbell and Clark Haggans),3.970,3.430
+1,2:02,2,10,ARI 24,3,0,Shaun Hill pass incomplete short left intended for Josh Morgan,3.430,2.740
+1,1:57,3,10,ARI 24,3,0,Shaun Hill sacked by Chike Okeafor for -8 yards,2.740,1.240
+1,1:28,4,18,ARI 32,6,0,Joe Nedney 50 yard field goal good,1.240,3.000
+1,,,,SFO 30,6,0,"Joe Nedney kicks off 72 yards, returned by LaRod Stephens-Howling for 24 yards (tackle by Allen Rossum)",0.000,0.410
+1,1:17,1,10,ARI 22,6,0,Kurt Warner pass complete deep left to Jerheme Urban for 40 yards (tackle by Nate Clements),0.410,3.050
+1,0:38,,,,6,0,Timeout #1 by Arizona Cardinals,0.000,3.050
+1,0:38,1,10,SFO 38,6,0,"Penalty on Anthony Becht: False Start, 5 yards (no play)",3.050,2.720
+1,0:38,1,15,SFO 43,6,0,Kurt Warner pass complete short left to Tim Hightower for 15 yards (tackle by Nate Clements),2.720,3.710
+1,0:08,1,10,SFO 28,6,0,Kurt Warner left end for -5 yards (tackle by Parys Haralson),3.710,2.490
+Quarter,Time,Down,ToGo,Location,SFO,ARI,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,15,SFO 33,6,0,Kurt Warner pass complete short right to Tim Hightower for 7 yards (tackle by Patrick Willis),2.490,2.740
+2,14:13,3,8,SFO 26,6,0,Kurt Warner pass incomplete short left intended for Anquan Boldin (defended by Dre' Bly),2.740,1.740
+2,14:08,4,8,SFO 26,6,3,Neil Rackers 44 yard field goal good,1.740,3.000
+2,,,,ARI 30,6,3,"Neil Rackers kicks off 67 yards, returned by Allen Rossum for 19 yards (tackle by Neil Rackers)",0.000,0.410
+2,13:59,1,10,SFO 22,6,3,Shaun Hill pass complete short right to Vernon Davis for 5 yards (tackle by Gerald Hayes),0.410,0.540
+2,13:20,2,5,SFO 27,6,3,Frank Gore right tackle for no gain (tackle by Clark Haggans),0.540,-0.160
+2,12:36,3,5,SFO 27,6,3,Shaun Hill pass complete short right to Josh Morgan for 14 yards (tackle by Dominique Rodgers-Cromartie),-0.160,1.660
+2,12:14,1,10,SFO 41,6,3,"Shaun Hill middle for -6 yards (tackle by Darnell Dockett). Penalty on Darnell Dockett: Defensive Offside, 5 yards (no play)",1.660,2.390
+2,11:54,1,5,SFO 46,6,3,Isaac Bruce left end for -8 yards (tackle by Karlos Dansby),2.390,0.720
+2,11:06,2,13,SFO 38,6,3,Shaun Hill pass complete short left to Josh Morgan for 11 yards (tackle by Bryant McFadden),0.720,1.490
+2,10:35,3,2,SFO 49,6,3,Shaun Hill pass incomplete short left intended for Frank Gore (defended by Calais Campbell),1.490,-0.130
+2,10:31,4,2,SFO 49,6,3,"Andy Lee punts 40 yards, fair catch by Antrel Rolle",-0.130,0.370
+2,10:24,1,10,ARI 11,6,3,Beanie Wells right tackle for no gain (tackle by Kentwan Balmer),-0.370,-0.780
+2,9:39,2,10,ARI 11,6,3,Kurt Warner sacked by Parys Haralson for -6 yards,-0.780,-2.120
+2,9:00,,,,6,3,Timeout #2 by Arizona Cardinals,0.000,-2.120
+2,9:00,3,16,ARI 5,6,3,Kurt Warner pass complete short middle to Tim Hightower for 9 yards (tackle by Patrick Willis and Manny Lawson),-2.120,-2.470
+2,8:31,4,7,ARI 14,6,3,"Ben Graham punts 56 yards, returned by Allen Rossum for 7 yards (tackle by Michael Adams). Penalty on Dashon Goldson: Illegal Block Above the , 10 yards",-2.470,-0.740
+2,8:19,1,10,SFO 27,6,3,Glen Coffee right tackle for -3 yards (tackle by Darnell Dockett),0.740,-0.210
+2,7:37,2,13,SFO 24,6,3,Shaun Hill pass incomplete deep middle intended for Vernon Davis,-0.210,-0.890
+2,7:33,3,13,SFO 24,6,3,Shaun Hill pass complete short left to Arnaz Battle for 12 yards (tackle by Rashad Johnson),-0.890,-0.980
+2,7:08,4,1,SFO 36,6,3,Andy Lee punts 41 yards,-0.980,-0.480
+2,7:00,1,10,ARI 23,6,3,Tim Hightower middle for 3 yards (tackle by Aubrayo Franklin),0.480,0.340
+2,6:23,2,7,ARI 26,6,3,Kurt Warner pass complete short left to Anquan Boldin for 5 yards (tackle by Dashon Goldson),0.340,0.300
+2,5:41,3,2,ARI 31,6,3,Kurt Warner pass incomplete short right intended for Lance Long (defended by Tarell Brown),0.300,-1.310
+2,5:36,4,2,ARI 31,6,3,"Penalty on Ali Highsmith: False Start, 5 yards (no play)",-1.310,-1.630
+2,5:36,4,7,ARI 26,6,3,"Ben Graham punts 56 yards, returned by Allen Rossum for 14 yards (tackle by LaRod Stephens-Howling)",-1.630,-1.070
+2,5:26,1,10,SFO 32,6,3,Frank Gore right tackle for 3 yards (tackle by Chike Okeafor and Gerald Hayes),1.070,0.930
+2,4:49,2,7,SFO 35,6,3,Frank Gore left tackle for 2 yards (tackle by Calais Campbell and Chike Okeafor),0.930,0.500
+2,4:06,3,5,SFO 37,6,3,Shaun Hill pass complete short middle to Frank Gore for 7 yards (tackle by Gerald Hayes),0.500,1.860
+2,3:21,1,10,SFO 44,6,3,Shaun Hill pass incomplete deep right intended for Delanie Walker,1.860,1.320
+2,3:15,2,10,SFO 44,6,3,Shaun Hill pass incomplete deep right intended for Delanie Walker,1.320,0.630
+2,3:11,3,10,SFO 44,6,3,Shaun Hill pass complete deep left to Isaac Bruce for 50 yards (tackle by Bryant McFadden),0.630,5.830
+2,2:28,1,6,ARI 6,12,3,"Frank Gore middle for 6 yards, touchdown",5.830,7.000
+2,,,,ARI 2,13,3,Joe Nedney kicks extra point good,0.000,0.000
+2,,,,SFO 30,13,3,"Joe Nedney kicks off 70 yards, touchback",0.000,0.280
+2,2:23,1,10,ARI 20,13,3,Kurt Warner pass incomplete deep right intended for Anquan Boldin is intercepted by Nate Clements at ARI-42 and returned for 8 yards,0.280,-3.310
+2,2:13,1,10,ARI 34,13,3,Frank Gore middle for 4 yards (tackle by Calais Campbell and Chike Okeafor),3.310,3.310
+2,2:00,2,6,ARI 30,13,3,Shaun Hill sacked by Darnell Dockett for -14 yards,3.310,0.760
+2,1:19,3,20,ARI 44,13,3,"Shaun Hill sacked by Antrel Rolle for -9 yards. Shaun Hill fumbles (forced by Antrel Rolle), recovered by Bertrand Berry at ARI-40",0.760,-1.600
+,,,,,,,"Replay Assistant challenged the incomplete pass ruling, and the original play was overturned.",,
+2,1:15,1,10,ARI 40,13,3,Kurt Warner pass complete short right to Tim Hightower for 14 yards (tackle by Patrick Willis and Nate Clements),1.600,2.520
+2,0:48,1,10,SFO 46,13,3,Kurt Warner pass complete short left to Tim Hightower for 13 yards (tackle by Shawntae Spencer),2.520,3.380
+2,0:41,1,10,SFO 33,13,3,Kurt Warner sacked by Ray McDonald for -5 yards,3.380,2.160
+2,0:34,,,,13,3,Timeout #3 by Arizona Cardinals,0.000,2.160
+2,0:34,2,15,SFO 38,13,3,Kurt Warner pass complete short right to Jerheme Urban for 6 yards (tackle by Tarell Brown),2.160,2.280
+2,0:29,3,9,SFO 32,13,3,Kurt Warner pass complete short left to Larry Fitzgerald for 10 yards (tackle by Dre' Bly),2.280,4.110
+2,0:11,1,10,SFO 22,13,3,Kurt Warner spiked the ball,4.110,3.560
+2,0:11,2,10,SFO 22,13,3,"Penalty on Justin Smith: Unsportsmanlike Conduct, 11 yards (no play)",3.560,4.840
+2,0:11,1,10,SFO 11,13,3,Kurt Warner pass incomplete short right intended for Larry Fitzgerald (defended by Nate Clements),4.840,4.140
+2,0:05,2,10,SFO 11,13,6,Neil Rackers 29 yard field goal good,4.140,3.000
+Quarter,Time,Down,ToGo,Location,SFO,ARI,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,ARI 30,13,6,"Neil Rackers kicks off 70 yards, touchback",0.000,0.280
+3,15:00,1,10,SFO 20,13,6,Frank Gore middle for 4 yards (tackle by Gerald Hayes),0.280,0.270
+3,14:24,2,6,SFO 24,13,6,Frank Gore left tackle for no gain (tackle by Adrian Wilson and Bryan Robinson),0.270,-0.430
+3,13:44,3,6,SFO 24,13,6,Shaun Hill pass incomplete short right intended for Frank Gore,-0.430,-1.770
+3,13:39,4,6,SFO 24,13,6,"Andy Lee punts 54 yards, returned by Antrel Rolle for 12 yards (tackle by Parys Haralson)",-1.770,-1.200
+3,13:26,1,10,ARI 34,13,6,Kurt Warner pass complete short left to Dan Kreider for 3 yards (tackle by Patrick Willis),1.200,1.060
+3,12:50,2,7,ARI 37,13,6,Tim Hightower right end for -2 yards (tackle by Nate Clements),1.060,0.100
+3,12:06,3,9,ARI 35,13,6,Kurt Warner pass complete short right to Tim Hightower for 10 yards (tackle by Mark Roman),0.100,1.930
+3,11:23,1,10,ARI 45,13,6,Tim Hightower right tackle for no gain (tackle by Patrick Willis),1.930,1.380
+3,10:48,2,10,ARI 45,13,6,Kurt Warner pass incomplete short left intended for Anquan Boldin (defended by Dre' Bly),1.380,0.700
+3,10:43,3,10,ARI 45,13,6,Kurt Warner pass incomplete short left intended for Larry Fitzgerald,0.700,-0.390
+3,10:38,4,10,ARI 45,13,6,"Ben Graham punts 55 yards, touchback",-0.390,-0.280
+3,10:29,1,10,SFO 20,13,6,Frank Gore middle for 2 yards (tackle by Bryan Robinson and Gerald Hayes),0.280,0.000
+3,9:51,2,8,SFO 22,13,6,Frank Gore left tackle for -1 yards (tackle by Gerald Hayes),0.000,-0.820
+3,9:12,3,9,SFO 21,13,6,Frank Gore middle for 4 yards (tackle by Karlos Dansby),-0.820,-1.700
+3,8:28,4,5,SFO 25,13,6,"Andy Lee punts 44 yards, fair catch by Antrel Rolle",-1.700,-1.000
+3,8:21,1,10,ARI 31,13,6,Kurt Warner pass complete short right to Larry Fitzgerald for 18 yards (tackle by Michael Lewis),1.000,2.190
+3,7:54,1,10,ARI 49,13,6,Beanie Wells right tackle for 15 yards (tackle by Mark Roman),2.190,3.180
+3,7:09,1,10,SFO 36,13,6,Beanie Wells right tackle for 8 yards (tackle by Isaac Sopoaga),3.180,3.720
+3,6:29,2,2,SFO 28,13,6,Kurt Warner middle for 1 yard,3.720,3.140
+3,5:46,3,1,SFO 27,13,6,Kurt Warner pass complete short right to Tim Hightower for 23 yards (tackle by Patrick Willis),3.140,6.280
+3,5:00,,,,13,6,Timeout #1 by Arizona Cardinals,0.000,6.280
+3,5:00,1,4,SFO 4,13,6,Beanie Wells left end for -1 yards (tackle by Dre' Bly and Patrick Willis),6.280,5.150
+3,4:18,2,5,SFO 5,13,12,"Kurt Warner pass complete short right to Larry Fitzgerald for 5 yards, touchdown",5.150,7.000
+3,,,,SFO 2,13,13,Neil Rackers kicks extra point good,0.000,0.000
+3,,,,ARI 30,13,13,"Neil Rackers kicks off 73 yards, returned by Allen Rossum for 21 yards (tackle by Will Davis)",0.000,0.040
+3,4:06,1,10,SFO 18,13,13,Shaun Hill pass incomplete short left intended for Moran Norris,0.040,-0.490
+3,4:00,2,10,SFO 18,13,13,Shaun Hill pass incomplete deep left intended for Isaac Bruce (defended by Bryant McFadden),-0.490,-1.170
+3,3:54,3,10,SFO 18,13,13,Shaun Hill sacked by Bertrand Berry for -5 yards,-1.170,-2.490
+3,3:26,4,15,SFO 13,13,13,"Andy Lee punts 51 yards, returned by Antrel Rolle for 3 yards (tackle by Marcus Hudson)",-2.490,-1.530
+3,3:12,1,10,ARI 39,13,13,Kurt Warner pass complete short middle to Jerheme Urban for 10 yards (tackle by Dre' Bly and Patrick Willis),1.530,2.190
+3,2:36,1,10,ARI 49,13,13,Kurt Warner pass complete short right to Anquan Boldin for 14 yards (tackle by Dashon Goldson),2.190,3.120
+3,1:57,1,10,SFO 37,13,13,Beanie Wells left tackle for 6 yards (tackle by Marques Harris),3.120,3.380
+3,1:32,,,,13,13,Timeout #1 by San Francisco 49ers,0.000,3.380
+3,1:32,2,4,SFO 31,13,13,"Penalty on Kurt Warner: Delay of Game, 5 yards (no play)",3.380,2.710
+3,1:32,2,9,SFO 36,13,13,Kurt Warner pass complete short right to Tim Hightower for 5 yards (tackle by Patrick Willis),2.710,2.680
+3,1:32,3,4,SFO 31,13,13,"Penalty on Parys Haralson: Neutral Zone Infraction, 5 yards (no play)",2.680,3.840
+3,0:49,1,10,SFO 26,13,13,Beanie Wells right tackle for 3 yards (tackle by Patrick Willis),3.840,3.700
+3,0:10,2,7,SFO 23,13,13,Beanie Wells middle for -2 yards (tackle by Aubrayo Franklin),3.700,2.740
+Quarter,Time,Down,ToGo,Location,SFO,ARI,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,9,SFO 25,13,13,Kurt Warner pass incomplete short left intended for Tim Hightower,2.740,1.800
+4,14:57,4,9,SFO 25,13,16,Neil Rackers 43 yard field goal good,1.800,3.000
+4,,,,ARI 30,13,16,"Neil Rackers kicks off 70 yards, touchback",0.000,0.280
+4,14:52,1,10,SFO 20,13,16,Shaun Hill pass incomplete short right intended for Isaac Bruce,0.280,-0.270
+4,14:50,2,10,SFO 20,13,16,Shaun Hill pass complete short left to Isaac Bruce for 6 yards (tackle by Adrian Wilson),-0.270,-0.160
+4,14:11,3,4,SFO 26,13,16,Shaun Hill pass complete short middle to Vernon Davis for 19 yards (tackle by Rashad Johnson),-0.160,1.930
+4,13:29,1,10,SFO 45,13,16,Shaun Hill pass incomplete deep right intended for Isaac Bruce (defended by Dominique Rodgers-Cromartie),1.930,1.380
+4,13:23,2,10,SFO 45,13,16,Shaun Hill pass complete short right to Vernon Davis for 5 yards (tackle by Karlos Dansby),1.380,1.360
+4,12:42,3,5,,13,16,Shaun Hill pass complete short left to Isaac Bruce for 5 yards (tackle by Karlos Dansby),1.360,2.590
+4,11:59,1,10,ARI 45,13,16,Shaun Hill pass incomplete short left intended for Vernon Davis,2.590,2.040
+4,11:52,2,10,ARI 45,13,16,Frank Gore left tackle for 3 yards (tackle by Gerald Hayes),2.040,1.750
+4,11:07,3,7,ARI 42,13,16,Shaun Hill pass complete short left to Isaac Bruce for 13 yards (tackle by Bryant McFadden),1.750,3.640
+4,10:37,1,10,ARI 29,13,16,Shaun Hill pass complete short right to Arnaz Battle for 10 yards (tackle by Karlos Dansby),3.640,4.310
+4,9:55,1,10,ARI 19,13,16,Shaun Hill pass complete short left to Vernon Davis for -1 yards (tackle by Chike Okeafor),4.310,3.630
+4,9:10,2,11,ARI 20,13,16,Shaun Hill pass complete short left to Vernon Davis for 12 yards (tackle by Chike Okeafor),3.630,5.370
+4,8:30,1,8,ARI 8,13,16,"Frank Gore middle for 1 yard (tackle by Adrian Wilson). Frank Gore fumbles (forced by Adrian Wilson), recovered by Moran Norris at ARI-7",5.370,4.760
+4,7:39,2,7,ARI 7,13,16,"Shaun Hill pass incomplete short right intended for Delanie Walker (defended by Adrian Wilson). Penalty on Darnell Dockett: Defensive Offside, 4 yards (no play)",4.760,5.530
+4,7:34,2,3,ARI 3,13,16,Shaun Hill pass incomplete short left intended for Isaac Bruce (defended by Karlos Dansby),5.530,4.720
+4,7:29,,,,13,16,Timeout #2 by San Francisco 49ers,0.000,4.720
+4,7:29,3,3,ARI 3,19,16,"Shaun Hill pass complete short right to Frank Gore for 3 yards, touchdown",4.720,7.000
+4,,,,ARI 2,20,16,Joe Nedney kicks extra point good,0.000,0.000
+4,,,,SFO 30,20,16,"Joe Nedney kicks off 74 yards, returned by LaRod Stephens-Howling for 20 yards (tackle by Michael Robinson)",0.000,-0.140
+4,7:21,1,10,ARI 16,20,16,Kurt Warner pass complete short right to Larry Fitzgerald for 7 yards (tackle by Tarell Brown),-0.140,0.420
+4,6:53,2,3,ARI 23,20,16,Kurt Warner pass complete short middle to Larry Fitzgerald for 6 yards (tackle by Shawntae Spencer),0.420,0.870
+4,6:28,1,10,ARI 29,20,16,Kurt Warner pass incomplete short left intended for Larry Fitzgerald (defended by Dre' Bly),0.870,0.330
+4,6:23,2,10,ARI 29,20,16,Kurt Warner pass complete short left to Jerheme Urban for 5 yards (tackle by Mark Roman),0.330,0.300
+4,5:46,3,5,ARI 34,20,16,Kurt Warner pass incomplete short left intended for Larry Fitzgerald,0.300,-1.110
+4,5:42,4,5,ARI 34,20,16,Ben Graham punts 64 yards,-1.110,0.380
+4,5:31,1,10,SFO 2,20,16,Moran Norris middle for 2 yards (tackle by Calais Campbell),-0.380,-0.630
+4,4:52,2,8,SFO 4,20,16,Frank Gore right tackle for 1 yard (tackle by Bryan Robinson),-0.630,-1.070
+4,4:08,3,7,SFO 5,20,16,Frank Gore middle for -4 yards (tackle by Calais Campbell),-1.070,-2.490
+4,3:26,4,11,SFO 1,20,16,"Andy Lee punts 64 yards, returned by Antrel Rolle for 27 yards (tackle by Glen Coffee)",-2.490,-3.050
+4,3:11,1,10,SFO 38,20,16,"Penalty on Stephen Spach: False Start, 5 yards (no play)",3.050,2.720
+4,3:11,1,15,SFO 43,20,16,"Kurt Warner pass incomplete short left intended for Jerheme Urban. Penalty on Mike Gandy: Offensive Holding, 10 yards (no play)",2.720,2.060
+4,3:06,1,25,ARI 47,20,16,Kurt Warner pass complete short right to Tim Hightower for 7 yards (tackle by Shawntae Spencer),2.060,1.430
+4,2:34,2,18,SFO 46,20,16,Kurt Warner pass complete short middle to Jerheme Urban for 13 yards (tackle by Shawntae Spencer),1.430,2.480
+4,2:01,3,5,SFO 33,20,16,Kurt Warner pass incomplete deep right intended for Jerheme Urban,2.480,1.170
+4,1:55,4,5,SFO 33,20,16,Kurt Warner pass incomplete short left intended for Tim Hightower,1.170,-1.140
+4,1:51,1,10,SFO 33,20,16,Frank Gore right tackle for 5 yards (tackle by Rashad Johnson),1.140,1.270
+4,1:44,,,,20,16,Timeout #2 by Arizona Cardinals,0.000,1.270
+4,1:44,2,5,SFO 38,20,16,Frank Gore middle for 3 yards (tackle by Gabe Watson),1.270,0.960
+4,1:40,,,,20,16,Timeout #3 by Arizona Cardinals,0.000,0.960
+4,1:40,3,2,SFO 41,20,16,Frank Gore right tackle for -2 yards (tackle by Gerald Hayes),0.960,-0.780
+4,0:56,4,4,SFO 39,20,16,"Andy Lee punts 54 yards, returned by Antrel Rolle for 5 yards (tackle by Michael Robinson)",-0.780,0.350
+4,0:43,1,10,ARI 12,20,16,Kurt Warner pass complete short left to Tim Hightower for 9 yards (tackle by Patrick Willis),-0.350,0.420
+4,0:23,2,1,ARI 21,20,16,Kurt Warner spiked the ball,0.420,-0.370
+4,0:23,3,1,ARI 21,20,16,Kurt Warner pass complete deep left to Larry Fitzgerald for 25 yards (tackle by Patrick Willis),-0.370,1.990
+4,0:08,1,10,ARI 46,20,16,Kurt Warner spiked the ball,1.990,1.450
+4,0:08,2,10,ARI 46,20,16,"Kurt Warner sacked by Justin Smith for -13 yards. Kurt Warner fumbles (forced by Justin Smith), ball out of bounds at ARI-28",1.450,-0.960
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

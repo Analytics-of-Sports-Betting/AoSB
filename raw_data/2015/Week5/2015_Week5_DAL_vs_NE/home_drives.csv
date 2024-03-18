@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,DAL 20,3,1:02,2,Punt
+2,1,12:38,DAL 13,3,2:15,-2,Punt
+3,1,8:19,DAL 20,10,6:33,47,Field Goal
+4,2,14:06,DAL 20,3,1:30,9,Punt
+5,2,8:39,DAL 13,3,2:42,5,Punt
+6,2,3:39,DAL 14,3,1:39,5,Punt
+7,2,1:12,DAL 13,3,0:19,-1,Punt
+8,2,0:03,DAL 20,1,0:03,-1,End of Half
+9,3,9:48,DAL 20,15,8:31,75,Field Goal
+10,4,12:58,DAL 20,4,1:55,23,Fumble
+11,4,9:42,DAL 27,7,3:22,28,Interception
+12,4,4:41,DAL 20,13,3:21,74,Downs

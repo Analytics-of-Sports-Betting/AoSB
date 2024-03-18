@@ -1,0 +1,216 @@
+Quarter,Time,Down,ToGo,Location,IND,DET,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Lions won the coin toss, Lions to receive the opening kickoff.",,
+1,15:00,,,IND 35,0,0,"Pat McAfee kicks off 65 yards, touchback",0.000,0.280
+1,15:00,1,10,DET 20,0,0,Matthew Stafford pass complete short right to Calvin Johnson for 11 yards (tackle by Cassius Vaughn),0.280,1.000
+1,14:22,1,10,DET 31,0,0,Mikel Leshoure right tackle for 3 yards (tackle by Cory Redding),1.000,0.870
+1,13:49,2,7,DET 34,0,0,Matthew Stafford pass incomplete short left intended for Mikel Leshoure,0.870,0.170
+1,13:44,3,7,DET 34,0,0,Matthew Stafford pass incomplete short right intended for Tony Scheffler (defended by Jerrell Freeman),0.170,-1.110
+1,13:40,4,7,DET 34,0,0,"Nick Harris punts 50 yards, fair catch by T.Y. Hilton",-1.110,0.140
+1,13:32,1,10,IND 16,0,0,Andrew Luck sacked by Ndamukong Suh for -7 yards,-0.140,-1.290
+1,13:01,2,17,IND 9,0,0,Andrew Luck pass incomplete short right intended for Donnie Avery,-1.290,-2.240
+1,12:55,3,17,IND 9,0,0,Andrew Luck pass complete short left to Vick Ballard for 8 yards (tackle by Cliff Avril),-2.240,-2.320
+1,12:45,4,9,IND 17,0,0,"Pat McAfee punts 50 yards, returned by Stefan Logan for 9 yards (tackle by Sergio Brown)",-2.320,-1.730
+1,12:34,1,10,DET 42,0,0,Mikel Leshoure right tackle for 1 yard (tackle by Ricardo Mathews),1.730,1.320
+1,11:57,2,9,DET 43,0,0,Matthew Stafford pass complete short middle to Calvin Johnson for 2 yards (tackle by Antoine Bethea),1.320,0.890
+1,11:18,3,7,DET 45,0,0,"Penalty on Robert Mathis: Neutral Zone Infraction, 5 yards (no play)",0.890,1.550
+1,10:59,3,2,,0,0,Matthew Stafford pass complete short right to Calvin Johnson for 14 yards (tackle by Joe Lefeged),1.550,3.180
+1,10:22,1,10,IND 36,0,0,Matthew Stafford pass complete short left to Ryan Broyles for 3 yards (tackle by Vontae Davis),3.180,3.040
+1,9:42,2,7,IND 33,0,0,Mikel Leshoure up the middle for 4 yards (tackle by Kavell Conner),3.040,2.870
+1,8:59,3,3,IND 29,0,0,Matthew Stafford pass incomplete short left intended for Calvin Johnson,2.870,1.580
+1,8:54,4,3,IND 29,0,3,Jason Hanson 48 yard field goal good,1.580,3.000
+1,8:49,,,DET 35,0,3,"Jason Hanson kicks off 72 yards, touchback",0.000,0.280
+1,8:49,1,10,IND 20,0,3,Vick Ballard right tackle for 4 yards (tackle by Justin Durant),0.280,0.270
+1,8:19,2,6,IND 24,0,3,Andrew Luck pass incomplete short left intended for Donnie Avery (defended by Ndamukong Suh),0.270,-0.430
+1,8:14,3,6,IND 24,0,3,Andrew Luck pass complete deep middle to T.Y. Hilton for 60 yards (tackle by DeAndre Levy),-0.430,4.510
+1,7:23,1,10,DET 16,0,3,Andrew Luck pass incomplete deep left intended for Coby Fleener,4.510,3.900
+1,7:18,2,10,DET 16,0,3,Vick Ballard left end for -1 yards (tackle by Stephen Tulloch and Corey Williams),3.900,3.020
+1,6:35,3,11,DET 17,6,3,"Andrew Luck pass complete short middle to Donnie Avery for 17 yards, touchdown. Penalty on Don Carey: Defensive Pass Interference (Declined)",3.020,7.000
+1,6:35,,,DET 2,7,3,Adam Vinatieri kicks extra point good,0.000,0.000
+1,6:29,,,IND 35,7,3,"Pat McAfee kicks off 73 yards, returned by Stefan Logan for 21 yards (tackle by Jerry Hughes)",0.000,-0.320
+1,6:24,1,10,DET 13,7,3,Mikel Leshoure left end for 4 yards (tackle by Vontae Davis),-0.320,-0.300
+1,5:44,2,6,DET 17,7,3,Matthew Stafford pass complete short right to Joique Bell for 15 yards (tackle by Moise Fokou),-0.300,1.070
+1,4:52,1,10,DET 32,7,3,Matthew Stafford pass complete deep right to Tony Scheffler for 39 yards (tackle by Antoine Bethea),1.070,3.640
+1,4:36,1,10,IND 29,7,3,Mikel Leshoure right tackle for -3 yards (tackle by Justin Hickman),3.640,2.700
+1,3:57,2,13,IND 32,7,3,Matthew Stafford pass complete short right to Calvin Johnson for 7 yards (tackle by Kavell Conner and Cassius Vaughn),2.700,2.940
+1,3:16,3,6,IND 25,7,3,Matthew Stafford pass complete short right to Tony Scheffler for 6 yards (tackle by Darius Butler),2.940,4.310
+1,2:35,1,10,IND 19,7,3,Mikel Leshoure left tackle for 3 yards (tackle by Antonio Johnson and Joe Lefeged),4.310,4.180
+1,1:54,2,7,IND 16,7,9,"Matthew Stafford pass complete deep right to Brandon Pettigrew for 16 yards, touchdown",4.180,7.000
+1,1:54,,,IND 2,7,10,Jason Hanson kicks extra point good,0.000,0.000
+1,1:48,,,DET 35,7,10,"Jason Hanson kicks off 68 yards, touchback",0.000,0.280
+1,1:48,1,10,IND 20,7,10,Andrew Luck pass complete short right to Reggie Wayne for 6 yards (tackle by Chris Houston),0.280,0.540
+1,1:18,2,4,IND 26,7,10,Donald Brown up the middle for -3 yards (tackle by Kyle Vanden Bosch),0.540,-0.560
+1,0:35,3,7,IND 23,7,10,Andrew Luck pass incomplete deep middle intended for Donnie Avery (defended by Justin Durant),-0.560,-1.830
+1,0:29,4,7,IND 23,7,10,"Pat McAfee punts 61 yards, returned by Stefan Logan for 9 yards (tackle by Kavell Conner)",-1.830,-0.610
+1,0:17,1,10,DET 25,7,10,Matthew Stafford pass complete short right to Brandon Pettigrew for 10 yards (tackle by Moise Fokou),0.610,1.270
+Quarter,Time,Down,ToGo,Location,IND,DET,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,DET 35,7,10,Matthew Stafford pass complete short right to Calvin Johnson for 5 yards (tackle by Cassius Vaughn),1.270,1.400
+2,14:27,2,5,DET 40,7,10,Joique Bell left tackle for 4 yards (tackle by Moise Fokou and Antonio Johnson),1.400,1.220
+2,13:45,3,1,DET 44,7,10,Mikel Leshoure up the middle for 1 yard (tackle by Antonio Johnson),1.220,1.930
+2,13:03,1,10,DET 45,7,10,Matthew Stafford pass complete short right to Brandon Pettigrew for 17 yards (tackle by Joe Lefeged),1.930,3.050
+2,12:19,1,10,IND 38,7,10,Matthew Stafford pass complete deep right to Calvin Johnson for 32 yards (tackle by Cassius Vaughn),3.050,5.830
+2,11:38,1,6,IND 6,7,10,Matthew Stafford pass incomplete short left intended for Mike Thomas (defended by Vontae Davis),5.830,4.950
+2,11:32,2,6,IND 6,7,16,"Mikel Leshoure up the middle for 6 yards, touchdown",4.950,7.000
+2,11:32,,,IND 2,7,17,Jason Hanson kicks extra point good,0.000,0.000
+2,11:27,,,DET 35,7,17,"Jason Hanson kicks off 73 yards, touchback",0.000,0.280
+2,11:27,1,10,IND 20,7,17,Andrew Luck pass complete short middle to Dwayne Allen for 40 yards (tackle by Don Carey),0.280,2.920
+2,11:08,1,10,DET 40,7,17,"Penalty on Corey Williams: Encroachment, 5 yards (no play)",2.920,3.650
+2,10:39,1,5,DET 35,7,17,"Andrew Luck pass incomplete short left intended for Reggie Wayne. Penalty on Drayton Florence: Defensive Holding, 5 yards (no play)",3.650,3.580
+2,10:33,1,10,DET 30,7,17,Vick Ballard left tackle for 4 yards (tackle by Sammie Lee Hill),3.580,3.570
+2,9:55,2,6,DET 26,13,17,"Andrew Luck pass complete deep left to Coby Fleener for 26 yards, touchdown",3.570,7.000
+2,9:55,,,DET 2,14,17,Adam Vinatieri kicks extra point good,0.000,0.000
+2,9:47,,,IND 35,14,17,"Pat McAfee kicks off 71 yards, returned by Stefan Logan for 22 yards (tackle by Jerry Hughes)",0.000,-0.140
+2,9:42,1,10,DET 16,14,17,Mikel Leshoure left tackle for 1 yard (tackle by Antonio Johnson),-0.140,-0.510
+2,8:59,2,9,DET 17,14,17,Matthew Stafford pass incomplete short right intended for Mike Thomas (defended by Cassius Vaughn),-0.510,-1.200
+2,8:55,3,9,DET 17,14,17,Matthew Stafford pass incomplete deep right intended for Calvin Johnson (defended by Darius Butler),-1.200,-2.320
+2,8:46,4,9,DET 17,14,17,Nick Harris punts 56 yards,-2.320,-0.740
+2,8:32,1,10,IND 27,14,17,"Andrew Luck pass incomplete is intercepted by Stephen Tulloch at IND-23. Penalty on Kyle Vanden Bosch: Defensive Offside, 5 yards (no play)",0.740,1.470
+2,8:25,1,5,IND 32,14,17,"Andrew Luck pass incomplete short middle intended for T.Y. Hilton is intercepted by Drayton Florence at IND-39 and returned for 29 yards (tackle by Andrew Luck). Penalty on Jacob Lacey: Illegal Block Above the Waist, 10 yards",1.470,-4.240
+2,8:16,1,10,IND 20,14,17,Matthew Stafford pass incomplete short middle intended for Brandon Pettigrew (defended by Antoine Bethea),4.240,3.690
+2,8:08,2,10,IND 20,14,17,Mikel Leshoure up the middle for 5 yards (tackle by Jerrell Freeman),3.690,3.700
+2,7:27,3,5,IND 15,14,17,Matthew Stafford pass incomplete short left intended for Tony Scheffler,3.700,2.490
+2,7:22,4,5,IND 15,14,20,Jason Hanson 33 yard field goal good,2.490,3.000
+2,7:17,,,DET 35,14,20,"Jason Hanson kicks off 65 yards, touchback",0.000,0.280
+2,7:17,1,10,IND 20,14,20,Andrew Luck pass incomplete short right intended for Donnie Avery,0.280,-0.270
+2,7:14,2,10,IND 20,14,20,Vick Ballard up the middle for -4 yards (tackle by Ndamukong Suh and Nick Fairley),-0.270,-1.690
+2,6:33,3,14,IND 16,14,20,Andrew Luck pass incomplete short left intended for Dwayne Allen,-1.690,-2.390
+2,6:21,4,14,IND 16,14,20,"Pat McAfee punts 48 yards, fair catch by Stefan Logan",-2.390,-1.330
+2,6:15,1,10,DET 36,14,20,Matthew Stafford pass complete short left to Calvin Johnson for 6 yards (tackle by Vontae Davis),1.330,1.600
+2,5:38,2,4,DET 42,14,20,Matthew Stafford pass complete short left to Calvin Johnson for 7 yards (tackle by Vontae Davis). Penalty on Vontae Davis: Defensive Holding (Declined),1.600,2.190
+2,5:15,1,10,DET 49,14,20,Matthew Stafford pass complete short right to Mikel Leshoure for 13 yards (tackle by Cassius Vaughn),2.190,3.050
+2,4:38,1,10,IND 38,14,20,Mikel Leshoure up the middle for 5 yards (tackle by Kavell Conner),3.050,3.180
+2,4:00,2,5,IND 33,14,20,Matthew Stafford pass incomplete deep left intended for Calvin Johnson (defended by Darius Butler),3.180,2.480
+2,3:54,3,5,IND 33,14,20,Matthew Stafford pass incomplete short right intended for Brandon Pettigrew (defended by Antoine Bethea),2.480,1.170
+2,3:50,4,5,IND 33,14,23,Jason Hanson 52 yard field goal good,1.170,3.000
+2,3:46,,,DET 35,14,23,"Jason Hanson kicks off 70 yards, touchback",0.000,0.280
+2,3:46,1,10,IND 20,14,23,Andrew Luck pass complete short left to T.Y. Hilton for 4 yards (tackle by Ricardo Silva),0.280,0.270
+2,3:19,2,6,IND 24,14,23,Andrew Luck pass complete short left to Donald Brown for 5 yards (tackle by Nick Fairley),0.270,0.230
+2,2:55,3,1,IND 29,14,23,"Andrew Luck up the middle for 1 yard. Penalty on Nick Fairley: Defensive Offside, 6 yards (no play)",0.230,1.270
+2,2:44,1,10,IND 35,14,23,Donald Brown left tackle for 7 yards (tackle by Jacob Lacey and Don Carey),1.270,1.670
+2,2:20,2,3,IND 42,14,23,Donald Brown left end for 7 yards (tackle by Stephen Tulloch),1.670,2.190
+2,2:00,1,10,IND 49,14,23,Andrew Luck pass incomplete deep right intended for LaVon Brazill is intercepted by Don Carey at DET-20 and returned for 23 yards (tackle by Donnie Avery),2.190,-1.800
+2,1:50,1,10,DET 43,14,23,Joique Bell up the middle for 6 yards (tackle by Moise Fokou and Antoine Bethea),1.800,2.060
+2,1:27,2,4,DET 49,14,23,Matthew Stafford pass complete short middle to Tony Scheffler for 10 yards (tackle by Moise Fokou),2.060,0.000
+2,1:10,,,,14,23,Timeout #1 by Detroit Lions,0.000,2.850
+2,1:10,1,10,IND 41,14,23,Matthew Stafford pass incomplete short right intended for Brandon Pettigrew is intercepted by Robert Mathis at IND-36 and returned for 1 yard (tackle by Brandon Pettigrew),2.850,-1.400
+2,1:05,1,10,IND 37,14,23,Andrew Luck pass incomplete short right intended for Reggie Wayne,1.400,0.860
+2,1:00,2,10,IND 37,14,23,Andrew Luck pass complete short right to Reggie Wayne for 8 yards (tackle by Jacob Lacey),0.860,1.220
+2,0:55,3,2,IND 45,14,23,Andrew Luck pass incomplete short left intended for T.Y. Hilton,1.220,-0.390
+2,0:51,4,2,IND 45,14,23,"Pat McAfee punts 45 yards, fair catch by Stefan Logan",-0.390,0.380
+2,0:44,1,10,DET 10,14,23,Joique Bell right tackle for 3 yards (tackle by Robert Mathis),-0.380,-0.560
+Quarter,Time,Down,ToGo,Location,IND,DET,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DET 35,14,23,"Jason Hanson kicks off 69 yards, touchback",0.000,0.280
+3,15:00,1,10,IND 20,14,23,Vick Ballard right tackle for 3 yards (tackle by Kyle Vanden Bosch),0.280,0.140
+3,14:29,2,7,IND 23,14,23,Vick Ballard right tackle for 13 yards (tackle by Don Carey),0.140,1.330
+3,13:49,1,10,IND 36,14,23,Andrew Luck pass complete deep right to Donnie Avery for 42 yards (tackle by Chris Houston). Penalty on Chris Houston: Defensive Pass Interference (Declined),1.330,4.110
+3,13:26,1,10,DET 22,14,23,Vick Ballard left tackle for 7 yards (tackle by Don Carey and Louis Delmas),4.110,4.650
+3,12:55,2,3,DET 15,14,23,Vick Ballard up the middle for 4 yards (tackle by Ndamukong Suh and Don Carey),4.650,4.840
+3,12:14,1,10,DET 11,14,23,Andrew Luck pass incomplete short left intended for Donnie Avery,4.840,4.140
+3,12:11,2,10,DET 11,20,23,"Vick Ballard left tackle for 11 yards, touchdown",4.140,7.000
+3,12:11,,,DET 2,21,23,Adam Vinatieri kicks extra point good,0.000,0.000
+3,12:05,,,IND 35,21,23,"Pat McAfee kicks off 73 yards, touchback",0.000,0.280
+3,12:05,1,10,DET 20,21,23,Matthew Stafford pass complete short right to Calvin Johnson for 9 yards (tackle by Antoine Bethea),0.280,0.000
+3,11:29,,,,21,23,Timeout #1 by Detroit Lions,0.000,0.950
+3,11:29,2,1,DET 29,21,23,Mikel Leshoure up the middle for 4 yards (tackle by Ricardo Mathews),0.950,1.140
+3,10:49,1,10,DET 33,21,23,Matthew Stafford pass complete short left to Mikel Leshoure for 3 yards (tackle by Jerrell Freeman),1.140,1.000
+3,10:05,2,7,DET 36,21,23,Matthew Stafford pass complete short left to Joique Bell for 3 yards (tackle by Vontae Davis),1.000,0.700
+3,9:21,3,4,DET 39,21,23,Matthew Stafford pass complete short right to Calvin Johnson for 13 yards (tackle by Cassius Vaughn),0.700,2.390
+3,8:39,1,10,IND 48,21,23,Mikel Leshoure left tackle for 2 yards (tackle by Moise Fokou),2.390,2.120
+3,7:59,2,8,IND 46,21,23,Matthew Stafford pass incomplete short right intended for Brandon Pettigrew (defended by Kavell Conner),2.120,1.420
+3,7:54,3,8,IND 46,21,23,Matthew Stafford pass complete short left to Mike Thomas for -1 yards (tackle by Vontae Davis),1.420,0.130
+3,7:26,4,9,IND 47,21,23,"Nick Harris punts 47 yards, touchback",0.130,-0.280
+3,7:17,1,10,IND 20,21,23,"Penalty on Anthony Castonzo: False Start, 5 yards (no play)",0.280,-0.310
+3,7:17,1,15,IND 15,21,23,Donald Brown left tackle for -2 yards (tackle by Ndamukong Suh),-0.310,-1.280
+3,6:41,2,17,IND 13,21,23,Andrew Luck pass complete short right to T.Y. Hilton for 12 yards (tackle by Chris Houston),-1.280,-0.300
+3,6:07,3,5,IND 25,21,23,Andrew Luck pass incomplete deep left intended for T.Y. Hilton,-0.300,-1.700
+,,,,,,,"IND challenged the incomplete pass ruling, and the play was upheld.",,
+3,6:00,4,5,IND 25,21,23,"Pat McAfee punts 45 yards, returned by Stefan Logan for 12 yards (tackle by Joe Lefeged)",-1.700,-1.730
+3,5:50,1,10,DET 42,21,23,Matthew Stafford pass incomplete short right intended for Mike Thomas,1.730,1.190
+3,5:45,2,10,DET 42,21,23,Matthew Stafford pass complete short middle to Joique Bell for 3 yards (tackle by Antonio Johnson and Moise Fokou),1.190,0.890
+3,5:04,3,7,DET 45,21,23,Matthew Stafford pass incomplete short right intended for Calvin Johnson,0.890,-0.390
+3,4:59,4,7,DET 45,21,23,"Nick Harris punts 43 yards, returned by T.Y. Hilton for 2 yards (tackle by John Wendling)",-0.390,0.280
+3,4:50,1,10,IND 14,21,23,Andrew Luck pass complete short right to T.Y. Hilton for 4 yards (tackle by Chris Houston and Don Carey),-0.280,-0.210
+3,4:18,2,6,IND 18,21,23,Andrew Luck pass incomplete short left intended for Donnie Avery (defended by Sammie Lee Hill),-0.210,-0.920
+3,4:13,3,6,IND 18,21,23,Andrew Luck pass incomplete short right intended for Vick Ballard,-0.920,-2.240
+3,4:07,4,6,IND 18,21,23,"Pat McAfee punts 49 yards, returned by Stefan Logan for 9 yards (tackle by Joe Lefeged)",-2.240,-1.730
+3,3:56,1,10,DET 42,21,23,Mikel Leshoure right end for 4 yards (tackle by Antoine Bethea),1.730,1.730
+3,3:15,2,6,DET 46,21,23,Mikel Leshoure up the middle for -1 yards (tackle by Pat Angerer and Martin Tevaseu),1.730,0.890
+3,2:34,3,7,DET 45,21,23,Matthew Stafford pass complete short right to Calvin Johnson for 11 yards (tackle by Cassius Vaughn),0.890,2.650
+3,1:50,1,10,IND 44,21,23,"Matthew Stafford for no gain. Matthew Stafford fumbles, recovered by Matthew Stafford at IND-46",2.650,1.840
+3,1:15,2,12,IND 46,21,23,"Penalty on Gosder Cherilus: False Start, 5 yards (no play)",1.840,1.170
+3,0:55,2,17,DET 49,21,23,Matthew Stafford pass complete short right to Will Heller for 5 yards (tackle by Jerrell Freeman),1.170,1.160
+3,0:12,3,12,IND 46,21,29,"Matthew Stafford pass complete deep right to Calvin Johnson for 46 yards, touchdown",1.160,7.000
+3,0:12,,,IND 2,21,30,"Jason Hanson kicks extra point good. Penalty on Joe Lefeged: Defensive Offside, 5 yards",0.000,0.000
+3,0:02,,,DET 40,21,30,"Jason Hanson kicks off 60 yards, touchback",0.000,0.280
+3,0:02,1,10,IND 20,21,30,Andrew Luck pass complete short left to T.Y. Hilton for 7 yards (tackle by Ricardo Silva),0.280,0.680
+Quarter,Time,Down,ToGo,Location,IND,DET,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,3,IND 27,21,30,Donald Brown right tackle for 7 yards (tackle by Don Carey),0.680,1.200
+4,14:25,1,10,IND 34,21,30,Andrew Luck pass incomplete deep middle intended for T.Y. Hilton,1.200,0.660
+4,14:20,2,10,IND 34,21,30,Donald Brown left end for -3 yards (tackle by Drayton Florence),0.660,-0.430
+4,13:38,3,13,IND 31,21,30,Andrew Luck pass incomplete short right intended for Dwayne Allen,-0.430,-1.310
+4,13:33,4,13,IND 31,21,30,"Pat McAfee punts 44 yards, fair catch by Stefan Logan",-1.310,-0.610
+4,13:25,1,10,DET 25,21,30,Mikel Leshoure up the middle for no gain (tackle by Kavell Conner),0.610,0.060
+4,12:43,2,10,DET 25,21,30,Matthew Stafford pass complete short middle to Calvin Johnson for 8 yards (tackle by Cassius Vaughn),0.060,0.430
+4,11:57,3,2,DET 33,21,30,Matthew Stafford pass incomplete deep left intended for Calvin Johnson,0.430,-1.180
+4,11:51,4,2,DET 33,21,30,"Nick Harris punts 43 yards, fair catch by T.Y. Hilton",-1.180,-0.540
+4,11:44,1,10,IND 24,21,30,Andrew Luck pass incomplete short middle intended for Reggie Wayne (defended by Drayton Florence),0.540,0.000
+4,11:40,2,10,IND 24,21,30,"Andrew Luck sacked by Cliff Avril for -8 yards. Andrew Luck fumbles (forced by Cliff Avril), recovered by Andrew Luck at IND-12",0.000,-2.820
+4,11:04,3,22,IND 12,21,30,Andrew Luck pass incomplete deep right intended for LaVon Brazill,-2.820,-2.490
+4,10:58,4,22,IND 12,21,30,"Pat McAfee punts 58 yards, fair catch by Stefan Logan",-2.490,-0.940
+4,10:50,1,10,DET 30,21,30,"Joique Bell left end for -2 yards (tackle by Robert Mathis). Penalty on Rob Sims: Offensive Holding, 10 yards (no play)",0.940,0.280
+4,10:28,1,20,DET 20,21,30,Joique Bell right tackle for 67 yards (tackle by Cassius Vaughn),0.280,4.710
+4,9:36,1,10,IND 13,21,30,Matthew Stafford pass incomplete short right intended for Calvin Johnson (defended by Cassius Vaughn),4.710,4.050
+4,9:31,2,10,IND 13,21,30,Joique Bell up the middle for no gain (tackle by Cory Redding),4.050,3.120
+4,8:51,3,10,IND 13,21,30,Matthew Stafford pass incomplete short right intended for Kevin Smith,3.120,2.570
+4,8:45,4,10,IND 13,21,33,Jason Hanson 31 yard field goal good,2.570,3.000
+4,8:41,,,DET 35,21,33,"Jason Hanson kicks off 70 yards, touchback",0.000,0.280
+4,8:41,1,10,IND 20,21,33,Andrew Luck pass complete short left to Reggie Wayne for 11 yards (tackle by Louis Delmas),0.280,1.000
+4,8:15,1,10,IND 31,21,33,Andrew Luck pass complete short right to T.Y. Hilton for 13 yards (tackle by Chris Houston),1.000,1.860
+4,7:50,1,10,IND 44,21,33,Andrew Luck pass complete short right to Vick Ballard for 6 yards (tackle by Justin Durant and Jacob Lacey),1.860,2.130
+4,7:24,2,4,,21,33,Andrew Luck pass complete short left to Donnie Avery for 10 yards (tackle by Drayton Florence),2.130,2.920
+4,6:59,1,10,DET 40,21,33,Andrew Luck pass incomplete short left intended for Dwayne Allen (defended by Drayton Florence),2.920,2.370
+4,6:54,2,10,DET 40,21,33,Andrew Luck pass incomplete short left intended for Donnie Avery,2.370,1.680
+4,6:49,3,10,DET 40,21,33,Andrew Luck pass incomplete deep right intended for T.Y. Hilton is intercepted by Don Carey at DET-17 and returned for 28 yards (tackle by Reggie Wayne),1.680,-1.930
+4,6:40,1,10,DET 45,21,33,Mikel Leshoure right end for 7 yards (tackle by Lawrence Guy),1.930,2.330
+4,5:48,2,3,IND 48,21,33,Mikel Leshoure left tackle for 3 yards (tackle by Lawrence Guy and Jerrell Freeman),2.330,2.590
+4,5:06,1,10,IND 45,21,33,Mikel Leshoure left tackle for no gain (tackle by Antonio Johnson),2.590,2.040
+4,4:24,2,10,IND 45,21,33,Matthew Stafford pass incomplete short right intended for Brandon Pettigrew,2.040,1.360
+4,4:18,3,10,IND 45,21,33,Matthew Stafford pass incomplete short right intended for Calvin Johnson,1.360,0.270
+4,4:13,4,10,IND 45,21,33,"Nick Harris punts 34 yards, returned by T.Y. Hilton for 4 yards (tackle by Kassim Osgood)",0.270,0.220
+4,4:02,1,10,IND 15,21,33,Andrew Luck pass incomplete deep middle intended for LaVon Brazill,-0.220,-0.710
+4,3:58,2,10,IND 15,21,33,Andrew Luck pass complete short right to Donnie Avery for 8 yards (tackle by Chris Houston),-0.710,-0.390
+4,3:33,3,2,IND 23,21,33,Andrew Luck pass incomplete short middle intended for Reggie Wayne,-0.390,-1.830
+4,3:29,4,2,IND 23,21,33,"Andrew Luck up the middle for 8 yards (tackle by Nick Fairley). Penalty on Nick Fairley: Horse Collar Tackle, 15 yards",-1.830,1.990
+4,3:22,1,10,IND 46,21,33,Andrew Luck pass complete short middle to Donald Brown for 5 yards (tackle by DeAndre Levy),1.990,2.130
+4,3:16,2,5,DET 49,21,33,Andrew Luck pass incomplete short left intended for T.Y. Hilton (defended by Drayton Florence),2.130,1.420
+4,3:12,3,5,DET 49,21,33,Andrew Luck pass complete short right to Vick Ballard for 7 yards (tackle by DeAndre Levy and Stephen Tulloch),1.420,2.790
+4,2:47,1,10,DET 42,27,33,"Andrew Luck pass complete deep left to LaVon Brazill for 42 yards, touchdown",2.790,7.000
+,,,,,,,"Replay Assistant challenged the pass completion ruling, and the play was upheld.",,
+4,2:47,,,DET 2,28,33,Adam Vinatieri kicks extra point good,0.000,0.000
+4,2:39,,,IND 35,28,33,"Pat McAfee kicks off 65 yards, touchback",0.000,0.280
+4,2:39,1,10,DET 20,28,33,Joique Bell left end for 3 yards (tackle by Jerrell Freeman),0.280,0.000
+4,2:34,,,,28,33,Timeout #2 by Indianapolis Colts,0.000,0.140
+4,2:34,2,7,DET 23,28,33,"Matthew Stafford pass incomplete deep right intended for Calvin Johnson. Penalty on Cassius Vaughn: Defensive Pass Interference, 21 yards (no play)",0.140,1.860
+4,2:29,1,10,DET 44,28,33,Joique Bell left tackle for -2 yards (tackle by Cory Redding),1.860,0.000
+4,2:26,,,,28,33,Timeout #3 by Indianapolis Colts,0.000,1.050
+4,2:26,2,12,DET 42,28,33,Mikel Leshoure right end for 7 yards (tackle by Antoine Bethea),1.050,1.290
+4,2:00,3,5,DET 49,28,33,Mikel Leshoure left end for 1 yard (tackle by Ricardo Mathews and Jerrell Freeman),1.290,0.000
+4,1:14,,,,28,33,Timeout #2 by Detroit Lions,0.000,-0.060
+4,1:14,4,4,,28,33,"Nick Harris punts 25 yards, out of bounds",-0.060,-0.610
+4,1:07,1,10,IND 25,28,33,Andrew Luck up the middle for 9 yards (tackle by Ndamukong Suh),0.610,1.280
+4,0:54,2,1,IND 34,28,33,Andrew Luck spiked the ball,1.280,0.560
+4,0:52,3,1,IND 34,28,33,Andrew Luck pass complete deep left to Reggie Wayne for 26 yards (tackle by Louis Delmas),0.560,2.920
+4,0:38,1,10,DET 40,28,33,Andrew Luck spiked the ball,2.920,2.370
+4,0:37,2,10,DET 40,28,33,Andrew Luck for 16 yards (tackle by Jacob Lacey),2.370,3.970
+4,0:29,1,10,DET 24,28,33,Andrew Luck pass incomplete short right intended for Donnie Avery,3.970,3.430
+4,0:24,2,10,DET 24,28,33,Andrew Luck pass complete short left to Dwayne Allen for 10 yards (tackle by Jacob Lacey),3.430,4.650
+4,0:18,1,10,DET 14,28,33,Andrew Luck pass incomplete short middle intended for Reggie Wayne (defended by Don Carey),4.650,4.000
+4,0:14,2,10,DET 14,28,33,Andrew Luck pass incomplete short middle intended for Reggie Wayne (defended by Jacob Lacey),4.000,0.000
+4,0:08,,,,28,33,Timeout #3 by Detroit Lions,0.000,3.110
+4,0:08,3,10,DET 14,28,33,Andrew Luck pass incomplete short right intended for Donnie Avery,3.110,2.510
+4,0:03,4,10,DET 14,34,33,"Andrew Luck pass complete short right to Donnie Avery for 14 yards, touchdown",2.510,7.000
+4,0:03,,,DET 2,35,33,Adam Vinatieri kicks extra point good,0.000,0.000
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,PIT 25,3,2:09,8,Punt
+2,1,12:42,NWE 45,4,2:24,29,Interception
+3,1,2:55,PIT 28,3,2:11,1,Punt
+4,2,10:58,PIT 29,5,1:56,71,Touchdown
+5,2,8:10,PIT 47,7,3:28,29,Missed FG
+6,2,1:47,PIT 20,10,1:45,66,Field Goal
+7,3,13:33,PIT 24,9,4:49,48,Field Goal
+8,3,6:19,PIT 32,12,6:35,42,Field Goal
+9,4,11:44,PIT 25,3,1:07,3,Punt
+10,4,10:37,NWE 43,4,1:37,7,Missed FG
+11,4,6:57,PIT 20,3,1:38,-3,Punt
+12,4,3:02,PIT 26,11,2:50,29,Downs

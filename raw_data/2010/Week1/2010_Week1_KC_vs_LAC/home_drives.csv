@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,KAN 28,3,0:59,2,Punt
+2,1,8:22,KAN 20,3,1:45,-4,Punt
+3,1,1:52,KAN 31,3,1:15,69,Touchdown
+4,2,13:21,SDG 32,3,2:01,0,Punt
+5,2,8:59,KAN 41,3,1:27,2,Punt
+6,2,7:21,SDG 12,3,1:26,12,Touchdown
+7,2,4:33,KAN 33,3,1:05,6,Punt
+8,2,1:15,KAN 29,8,1:13,40,Downs
+9,3,12:38,KAN 20,3,1:29,6,Punt
+10,3,8:49,KAN 20,5,3:35,19,Punt
+11,3,2:23,KAN 30,8,3:33,29,Punt
+12,4,7:03,KAN 32,3,2:11,7,Punt
+13,4,0:33,KAN 6,1,0:33,-1,End of Game

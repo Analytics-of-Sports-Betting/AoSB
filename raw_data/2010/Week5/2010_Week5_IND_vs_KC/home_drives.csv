@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,KAN 37,9,4:56,35,Field Goal
+2,1,2:04,IND 8,16,7:50,86,Field Goal
+3,2,6:53,IND 24,4,2:59,18,Punt
+4,2,1:00,IND 34,5,0:42,28,Downs
+5,2,0:02,,0,0:02,0,End of Half
+6,3,12:41,IND 20,10,4:10,51,Field Goal
+7,3,4:35,IND 23,3,0:51,-3,Interception
+8,3,3:26,IND 16,12,3:46,60,Field Goal
+9,4,13:33,IND 21,6,2:24,16,Punt
+10,4,9:35,IND 29,12,5:33,71,Touchdown
+11,4,1:12,IND 41,3,1:12,-3,End of Game

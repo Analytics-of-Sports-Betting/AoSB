@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,WAS 20,4,2:10,4,Punt
+2,1,11:47,WAS 24,7,3:35,76,Touchdown
+3,1,6:54,WAS 25,3,2:42,14,Punt
+4,1,2:49,WAS 34,7,3:31,66,Touchdown
+5,2,12:38,WAS 8,10,5:10,92,Touchdown
+6,2,5:23,WAS 15,3,2:08,23,Punt
+7,2,1:40,WAS 20,10,1:40,42,Downs
+8,3,12:51,JAX 30,10,4:21,13,Field Goal
+9,3,6:54,WAS 38,3,1:13,8,Punt
+10,3,3:52,WAS 35,11,4:40,65,Touchdown
+11,4,13:12,JAX 29,6,2:32,5,Field Goal
+12,4,6:50,JAX 41,8,4:58,41,Touchdown
+13,4,0:21,JAX 24,1,0:21,-1,End of Game

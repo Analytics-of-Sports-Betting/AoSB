@@ -1,0 +1,151 @@
+Quarter,Time,Down,ToGo,Location,SEA,PIT,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Seahawks won the coin toss, Seahawks to receive the opening kickoff.",,
+1,15:00,,,PIT 30,0,0,"Jeff Reed kicks off 70 yards, touchback",0.000,0.280
+1,15:00,1,10,SEA 20,0,0,Matt Hasselbeck pass complete short right to Shaun Alexander for 1 yard (tackle by Clark Haggans),0.280,-0.130
+1,14:21,2,9,SEA 21,0,0,Matt Hasselbeck pass complete short right to Deion Branch for 7 yards,-0.130,0.100
+1,13:56,3,2,SEA 28,0,0,Matt Hasselbeck pass complete short right to Leonard Weaver for 3 yards (tackle by Ike Taylor),0.100,1.000
+1,13:17,1,10,SEA 31,0,0,Matt Hasselbeck pass incomplete deep right intended for Maurice Morris,1.000,0.460
+1,13:12,2,10,SEA 31,0,0,Shaun Alexander right tackle for 6 yards (tackle by Ryan Clark and Clark Haggans),0.460,0.560
+1,12:28,3,4,SEA 37,0,0,Matt Hasselbeck pass incomplete short left intended for Nate Burleson,0.560,-0.910
+1,12:23,4,4,SEA 37,0,0,"Ryan Plackemeier punts 39 yards, returned by Allen Rossum for 9 yards (tackle by Lance Laury)",-0.910,-1.140
+1,12:12,1,10,PIT 33,0,0,Ben Roethlisberger pass complete short left to Nate Washington for 14 yards (tackle by Deon Grant),1.140,2.060
+1,11:35,1,10,PIT 47,0,0,Willie Parker right guard for 2 yards (tackle by LeRoy Hill and Lofa Tatupu),2.060,1.790
+1,10:57,2,8,PIT 49,0,0,Willie Parker left tackle for -4 yards (tackle by Julian Peterson),1.790,0.560
+1,10:15,3,12,PIT 45,0,0,Ben Roethlisberger pass complete short left to Najeh Davenport for 7 yards (tackle by Kelly Jennings),0.560,0.070
+1,9:38,4,5,SEA 48,0,0,"Daniel Sepulveda punts 33 yards, fair catch by Nate Burleson",0.070,0.220
+1,9:29,1,10,SEA 15,0,0,Shaun Alexander right tackle for 1 yard (tackle by Brett Keisel and James Harrison),-0.220,-0.580
+1,8:58,2,9,SEA 16,0,0,Matt Hasselbeck pass incomplete short right intended for Mack Strong,-0.580,-1.250
+1,8:52,3,9,SEA 16,0,0,Matt Hasselbeck pass complete short middle to Bobby Engram for 14 yards (tackle by Ryan Clark),-1.250,0.940
+1,8:14,1,10,SEA 30,0,0,Shaun Alexander left tackle for 3 yards (tackle by James Harrison and Chris Hoke),0.940,0.800
+1,7:37,2,7,SEA 33,0,0,Matt Hasselbeck pass incomplete deep right intended for Deion Branch (defended by Ike Taylor),0.800,0.100
+1,7:37,3,7,SEA 33,0,0,Matt Hasselbeck pass incomplete deep middle intended for Bobby Engram,0.100,-1.180
+1,7:24,4,7,SEA 33,0,0,Ryan Plackemeier punts 30 yards,-1.180,-1.400
+1,7:17,1,10,PIT 37,0,0,Ben Roethlisberger pass incomplete deep left intended for Heath Miller,1.400,0.860
+1,7:11,2,10,PIT 37,0,0,Willie Parker right tackle for 6 yards (tackle by Craig Terrill and Lofa Tatupu),0.860,0.960
+1,6:26,3,4,PIT 43,0,0,Ben Roethlisberger pass incomplete deep right intended for Cedrick Wilson (defended by Marcus Trufant),0.960,-0.520
+1,6:21,4,4,PIT 43,0,0,"Daniel Sepulveda punts 49 yards, returned by Nate Burleson for 15 yards (tackle by Najeh Davenport)",-0.520,-0.480
+1,6:10,1,10,SEA 23,0,0,Matt Hasselbeck pass complete short right to Nate Burleson for 7 yards (tackle by Tyrone Carter),0.480,0.880
+1,5:42,2,3,SEA 30,0,0,Shaun Alexander left guard for 4 yards (tackle by Ryan Clark and Aaron Smith),0.880,1.200
+1,5:14,1,10,SEA 34,0,0,Shaun Alexander left guard for no gain (tackle by Aaron Smith),1.200,0.660
+1,4:39,2,10,SEA 34,0,0,Matt Hasselbeck pass complete short left to Leonard Weaver for no gain,0.660,-0.030
+1,4:13,3,10,SEA 34,0,0,"Penalty on Sean Locklear: False Start, 5 yards (no play)",-0.030,-0.690
+1,3:56,3,15,SEA 29,0,0,Matt Hasselbeck pass incomplete short right intended for Leonard Weaver,-0.690,-1.440
+1,3:47,4,15,SEA 29,0,0,"Ryan Plackemeier punts 52 yards, returned by Allen Rossum for no gain. Penalty on Willie Reid: Illegal Block Above the Waist, 9 yards",-1.440,0.380
+1,3:37,1,10,PIT 10,0,0,Willie Parker left tackle for 1 yard (tackle by Lofa Tatupu and Darryl Tapp),-0.380,-0.710
+1,3:00,2,9,PIT 11,0,0,Willie Parker up the middle for 1 yard (tackle by Niko Koutouvides and Rocky Bernard),-0.710,-1.190
+1,2:15,3,8,PIT 12,0,0,Ben Roethlisberger pass incomplete short right intended for Willie Reid,-1.190,-2.490
+1,2:09,4,8,PIT 12,0,0,"Daniel Sepulveda punts 56 yards, returned by Nate Burleson for 22 yards (tackle by Daniel Sepulveda)",-2.490,-2.520
+1,1:54,1,10,PIT 46,0,0,Matt Hasselbeck pass complete short right to Deion Branch for 7 yards (tackle by Ike Taylor),2.520,2.920
+1,1:25,2,3,PIT 39,0,0,Shaun Alexander right guard for 2 yards (tackle by James Harrison and Aaron Smith),2.920,2.480
+1,0:54,3,1,PIT 37,0,0,Leonard Weaver up the middle for 2 yards (tackle by Clark Haggans),2.480,3.250
+1,0:19,1,10,PIT 35,0,0,"Penalty on Deion Branch: False Start, 5 yards (no play)",3.250,2.920
+Quarter,Time,Down,ToGo,Location,SEA,PIT,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,15,PIT 40,0,0,Matt Hasselbeck pass incomplete deep right intended for Ben Obomanu (defended by Ike Taylor),2.920,2.030
+2,14:52,2,15,PIT 40,0,0,Shaun Alexander right tackle for 2 yards (tackle by Deshea Townsend),2.030,1.620
+2,14:17,3,13,PIT 38,0,0,Matt Hasselbeck sacked by James Farrior for -7 yards,1.620,0.270
+2,13:53,4,20,PIT 45,0,0,Ryan Plackemeier punts 44 yards,0.270,0.380
+2,13:37,1,10,PIT 1,0,0,Willie Parker up the middle for 4 yards (tackle by Patrick Kerney and Julian Peterson),-0.380,-0.490
+2,13:00,2,6,PIT 5,0,0,Ben Roethlisberger pass complete short right to Nate Washington for 3 yards (tackle by Lofa Tatupu),-0.490,-0.600
+2,12:15,3,3,PIT 8,0,0,Ben Roethlisberger pass complete short left to Willie Reid for 25 yards (tackle by Jordan Babineaux),-0.600,1.140
+2,11:29,1,10,PIT 33,0,0,Ben Roethlisberger pass complete short middle to Cedrick Wilson for 8 yards (tackle by Chartric Darby),1.140,1.670
+2,10:51,2,2,PIT 41,0,0,Willie Parker up the middle for 1 yard (tackle by Deon Grant and LeRoy Hill),1.670,1.090
+2,10:18,3,1,PIT 42,0,0,Ben Roethlisberger up the middle for 1 yard (tackle by Baraka Atkins and Lofa Tatupu),1.090,1.800
+2,9:34,1,10,PIT 43,0,0,Ben Roethlisberger sacked by Julian Peterson for -9 yards,1.800,0.040
+2,8:59,2,19,PIT 34,0,0,Ben Roethlisberger pass incomplete short right intended for Cedrick Wilson,0.040,-0.620
+2,8:54,3,19,PIT 34,0,0,Ben Roethlisberger pass complete short middle to Najeh Davenport for 6 yards (tackle by Julian Peterson),-0.620,-0.720
+2,8:54,4,13,PIT 40,0,0,"Daniel Sepulveda punts 42 yards, returned by Nate Burleson for 1 yard (tackle by Tyrone Carter)",-0.720,-0.150
+2,8:07,1,10,SEA 19,0,0,Matt Hasselbeck pass complete short right to Ben Obomanu for 8 yards (tackle by Ike Taylor),0.150,0.750
+2,7:41,2,2,SEA 27,0,0,Shaun Alexander right end for -3 yards (tackle by Aaron Smith),0.750,-0.420
+2,7:02,3,5,SEA 24,0,0,Matt Hasselbeck pass incomplete short middle intended for Seneca Wallace,-0.420,-1.770
+2,7:02,4,5,SEA 24,0,0,"Ryan Plackemeier punts 48 yards, returned by Allen Rossum for 4 yards (tackle by Derek Rackley)",-1.770,-1.070
+2,6:45,1,10,PIT 32,0,0,Willie Parker up the middle for 4 yards (tackle by Patrick Kerney),1.070,1.070
+2,6:10,2,6,PIT 36,0,0,Willie Parker right end for -1 yards (tackle by Baraka Atkins and Craig Terrill),1.070,0.230
+2,5:26,3,7,PIT 35,0,0,Ben Roethlisberger pass complete short middle to Heath Miller for 8 yards (tackle by Deon Grant),0.230,1.800
+2,4:40,1,10,PIT 43,0,0,Ben Roethlisberger sacked by Lofa Tatupu for -8 yards,1.800,0.170
+2,4:04,2,18,PIT 35,0,0,Najeh Davenport right guard for 45 yards (tackle by Brian Russell),0.170,4.240
+2,3:24,1,10,SEA 20,0,0,Willie Parker left guard for 3 yards (tackle by Craig Terrill),4.240,4.120
+2,2:43,2,7,SEA 17,0,0,Ben Roethlisberger pass complete short right to Carey Davis for 4 yards (tackle by Marcus Trufant),4.120,4.100
+2,2:00,3,3,SEA 13,0,6,"Ben Roethlisberger pass complete short middle to Heath Miller for 13 yards, touchdown",4.100,7.000
+2,,,,SEA 2,0,7,Jeff Reed kicks extra point good,0.000,0.000
+2,,,,PIT 30,0,7,"Jeff Reed kicks off 73 yards, returned by Ben Obomanu for 20 yards (tackle by Lawrence Timmons)",0.000,-0.060
+2,1:52,1,10,SEA 17,0,7,Matt Hasselbeck pass complete short left to Shaun Alexander for 3 yards (tackle by James Harrison),-0.060,-0.060
+2,1:24,2,7,SEA 20,0,7,Matt Hasselbeck pass complete short middle to Shaun Alexander for 3 yards (tackle by James Harrison),-0.060,-0.490
+2,0:47,3,4,SEA 23,0,7,Matt Hasselbeck pass complete deep left to Ben Obomanu for 30 yards (tackle by Aaron Smith),-0.490,2.460
+2,0:40,1,10,PIT 47,0,7,Matt Hasselbeck sacked by Tyrone Carter and James Farrior for -4 yards,2.460,1.370
+2,0:17,2,14,SEA 49,0,7,"Matt Hasselbeck pass complete short middle to Marcus Pollard for 22 yards (tackle by Tyrone Carter). Penalty on Aaron Smith: Roughing the Passer, 15 yards",1.370,4.650
+2,0:12,1,10,PIT 14,0,7,Matt Hasselbeck pass incomplete short right intended for Ben Obomanu,4.650,4.000
+2,0:07,2,10,PIT 14,0,7,Matt Hasselbeck pass incomplete short right intended for Ben Obomanu is intercepted by Ike Taylor at PIT-0 and returned for 3 yards (tackle by Bobby Engram),4.000,0.000
+Quarter,Time,Down,ToGo,Location,SEA,PIT,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,SEA 30,0,7,"Josh Brown kicks off 70 yards, touchback",0.000,0.280
+3,15:00,1,10,PIT 20,0,7,Willie Parker left guard for 8 yards (tackle by Deon Grant),0.280,0.810
+3,14:21,2,2,PIT 28,0,7,Willie Parker left guard for 4 yards (tackle by Rocky Bernard),0.810,1.070
+3,13:41,1,10,PIT 32,0,7,Ben Roethlisberger pass complete short left to Nate Washington for 9 yards (tackle by Kelly Jennings),1.070,1.740
+3,13:15,2,1,PIT 41,0,7,"Willie Parker for 11 yards (tackle by Michael Green). Penalty on Cedrick Wilson: Offensive Holding, 10 yards",1.740,1.730
+3,12:08,1,10,PIT 42,0,7,Najeh Davenport right guard for 2 yards (tackle by Brandon Mebane and Julian Peterson),1.730,1.460
+3,12:08,2,8,PIT 44,0,7,Willie Parker right tackle for -3 yards (tackle by LeRoy Hill),1.460,0.370
+3,12:08,3,11,PIT 41,0,7,"Ben Roethlisberger pass complete short right to Najeh Davenport for 8 yards (tackle by Jordan Babineaux). Penalty on Heath Miller: Offensive Holding, 10 yards",0.370,0.100
+3,10:53,3,13,PIT 39,0,7,Ben Roethlisberger pass complete short right to Cedrick Wilson for 15 yards (tackle by Marcus Trufant),0.100,2.520
+3,10:10,1,10,SEA 46,0,7,"Ben Roethlisberger pass incomplete deep right intended for Cedrick Wilson. Penalty on Willie Colon: Offensive Holding, 10 yards (no play)",2.520,1.860
+3,10:02,1,20,PIT 44,0,7,Willie Parker left guard for 2 yards (tackle by Ellis Wyms and Craig Terrill),1.860,0.900
+3,9:20,2,18,PIT 46,0,7,Ben Roethlisberger pass complete short left to Cedrick Wilson for 11 yards (tackle by Kelly Jennings),0.900,1.680
+3,8:32,,,,0,7,Timeout #1 by Pittsburgh Steelers,0.000,1.680
+3,8:32,3,7,SEA 43,0,7,Ben Roethlisberger pass complete short right to Heath Miller for 13 yards (tackle by Jordan Babineaux),1.680,3.580
+3,7:50,1,10,SEA 30,0,7,Willie Parker up the middle for 3 yards (tackle by Deon Grant and Patrick Kerney),3.580,3.440
+3,7:10,2,7,SEA 27,0,7,Ben Roethlisberger sacked by Ellis Wyms for -10 yards,3.440,1.420
+3,6:29,3,17,SEA 37,0,7,Ben Roethlisberger pass complete deep right to Cedrick Wilson for 17 yards (tackle by Brian Russell),1.420,4.240
+3,5:43,1,10,SEA 20,0,7,Willie Parker left end for 19 yards (tackle by Michael Green),4.240,6.970
+,,,,,,,"SEA challenged the runner was down by contact ruling, and the original play was overturned.",,
+3,5:22,1,1,SEA 1,0,7,Najeh Davenport up the middle for no gain (tackle by Julian Peterson and LeRoy Hill),6.970,5.910
+3,4:47,2,1,SEA 1,0,13,"Najeh Davenport left guard for 1 yard, touchdown",5.910,7.000
+3,,,,SEA 2,0,14,Jeff Reed kicks extra point good,0.000,0.000
+3,,,,PIT 30,0,14,"Jeff Reed kicks off 73 yards, returned by Ben Obomanu for 25 yards (tackle by William Gay)",0.000,0.410
+3,4:39,1,10,SEA 22,0,14,"Penalty on Chris Spencer: False Start, 5 yards (no play)",0.410,-0.120
+3,4:39,1,15,SEA 17,0,14,Shaun Alexander right tackle for 1 yard (tackle by James Farrior and Ike Taylor),-0.120,-0.770
+3,3:57,2,14,SEA 18,0,14,Matt Hasselbeck pass complete short right to Bobby Engram for 11 yards (tackle by Deshea Townsend),-0.770,0.100
+3,3:25,3,3,SEA 29,0,14,Matt Hasselbeck pass incomplete short middle intended for Ben Obomanu (defended by Ryan Clark),0.100,-1.440
+3,3:21,4,3,SEA 29,0,14,"Ryan Plackemeier punts 46 yards, muffed catch by Allen Rossum, ball out of bounds at PIT-25. Penalty on Ike Taylor: Illegal Block Above the Waist, 10 yards",-1.440,0.220
+3,3:12,1,10,PIT 15,0,14,Willie Parker right tackle for 2 yards (tackle by Deon Grant and Baraka Atkins),-0.220,-0.440
+3,2:33,2,8,PIT 17,0,14,Ben Roethlisberger pass complete short left to Heath Miller for 10 yards (tackle by Kevin Bentley),-0.440,0.740
+3,1:53,1,10,PIT 27,0,14,Willie Parker up the middle for 2 yards (tackle by Rocky Bernard),0.740,0.470
+3,1:08,2,8,PIT 29,0,14,Willie Parker right tackle for 9 yards (tackle by Julian Peterson),0.470,1.470
+3,0:26,1,10,PIT 38,0,14,Najeh Davenport right guard for 1 yard (tackle by Rocky Bernard and Brandon Mebane),1.470,1.060
+Quarter,Time,Down,ToGo,Location,SEA,PIT,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,9,PIT 39,0,14,Ben Roethlisberger pass complete deep right to Cedrick Wilson for 18 yards (tackle by Brian Russell),1.060,2.720
+4,14:24,1,10,SEA 43,0,14,Willie Parker left tackle for 4 yards (tackle by Julian Peterson),2.720,2.720
+4,13:41,2,6,SEA 39,0,14,Willie Parker left guard for 3 yards (tackle by Deon Grant and Brian Russell),2.720,2.410
+4,12:56,3,3,SEA 36,0,14,Ben Roethlisberger pass complete short left to Najeh Davenport for 17 yards (tackle by Deon Grant),2.410,4.310
+4,12:12,1,10,SEA 19,0,14,Willie Parker right tackle for 9 yards (tackle by Marcus Trufant and Kevin Bentley),4.310,5.360
+4,11:29,2,1,SEA 10,0,14,Willie Parker right guard for 5 yards (tackle by Patrick Kerney),5.360,6.060
+4,10:51,1,5,SEA 5,0,14,Willie Parker left tackle for no gain (tackle by Niko Koutouvides and Lofa Tatupu),6.060,5.150
+4,10:11,2,5,SEA 5,0,20,"Najeh Davenport right end for 5 yards, touchdown",5.150,7.000
+4,,,,SEA 2,0,21,Jeff Reed kicks extra point good,0.000,0.000
+4,,,,PIT 30,0,21,"Jeff Reed kicks off 57 yards, returned by Ben Obomanu for 21 yards (tackle by James Harrison)",0.000,1.200
+4,10:01,1,10,SEA 34,0,21,Matt Hasselbeck pass incomplete short left intended for Shaun Alexander,1.200,0.660
+4,9:57,2,10,SEA 34,0,21,Matt Hasselbeck pass incomplete short right intended for Nate Burleson,0.660,-0.030
+4,9:51,3,10,SEA 34,0,21,Matt Hasselbeck pass incomplete short right intended for Nate Burleson (defended by Ike Taylor),-0.030,-1.110
+4,9:41,4,10,SEA 34,0,21,"Ryan Plackemeier punts 51 yards, returned by Allen Rossum for 7 yards (tackle by Kevin Hobbs). Allen Rossum fumbles, recovered by Andre Frazier at PIT-22 (tackle by Niko Koutouvides)",-1.110,-0.410
+4,9:28,1,10,PIT 22,0,21,Willie Parker up the middle for 7 yards (tackle by Baraka Atkins and Deon Grant),0.410,0.810
+4,8:47,2,3,PIT 29,0,21,Willie Parker right end for -2 yards (tackle by Julian Peterson),0.810,-0.160
+4,8:03,3,5,PIT 27,0,21,Najeh Davenport right tackle for 4 yards (tackle by Marcus Trufant and LeRoy Hill),-0.160,-1.310
+4,7:21,4,1,PIT 31,0,21,Daniel Sepulveda punts 47 yards,-1.310,-0.410
+4,7:10,1,10,SEA 22,0,21,Shaun Alexander right tackle for 1 yard (tackle by Aaron Smith),0.410,0.000
+4,6:33,2,9,SEA 23,0,21,Seneca Wallace pass complete short right to Marcus Pollard for 6 yards (tackle by James Farrior),0.000,0.100
+4,5:50,3,3,SEA 29,0,21,Seneca Wallace pass incomplete short right intended for Bobby Engram,0.100,-1.440
+4,5:42,4,3,SEA 29,0,21,"Ryan Plackemeier punts 57 yards, returned by Allen Rossum for 13 yards (tackle by Will Herring)",-1.440,-0.740
+4,5:29,1,10,PIT 27,0,21,Willie Parker left tackle for 2 yards (tackle by LeRoy Hill),0.740,0.470
+4,4:46,2,8,PIT 29,0,21,Carey Davis up the middle for -1 yards (tackle by Chartric Darby),0.470,-0.360
+4,4:03,3,9,PIT 28,0,21,Carey Davis up the middle for 2 yards (tackle by Patrick Kerney and Craig Terrill),-0.360,-1.370
+4,3:18,4,7,PIT 30,0,21,"Daniel Sepulveda punts 55 yards, returned by Nate Burleson for 2 yards (tackle by Ricardo Colclough)",-1.370,0.060
+4,3:07,1,10,SEA 17,0,21,Seneca Wallace up the middle for 11 yards (tackle by Tyrone Carter),-0.060,0.810
+4,2:26,1,10,SEA 28,0,21,Seneca Wallace sacked by James Farrior and Clark Haggans for -5 yards. Penalty on Leonard Weaver: Illegal Use of Hands (Declined),0.810,-0.410
+4,2:17,2,15,SEA 23,0,21,Shaun Alexander left tackle for 8 yards (tackle by Tyrone Carter),-0.410,-0.030
+4,2:00,3,7,SEA 31,0,21,Seneca Wallace pass incomplete short middle intended for Will Heller,-0.030,-1.310
+4,1:56,4,7,SEA 31,0,21,"Ryan Plackemeier punts 28 yards. Penalty on Lance Laury: Offensive Holding, 10 yards",-1.310,-2.320
+4,1:50,1,10,SEA 49,0,21,Dan Kreider left tackle for 2 yards (tackle by Darryl Tapp and LeRoy Hill),2.320,2.050
+4,1:06,2,8,SEA 47,0,21,Charlie Batch kneels for -1 yards,2.050,1.220
+4,1:06,3,9,SEA 48,0,21,Charlie Batch kneels for no gain,1.220,0.070
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

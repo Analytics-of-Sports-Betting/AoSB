@@ -1,0 +1,184 @@
+Quarter,Time,Down,ToGo,Location,ARI,BAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Ravens won the coin toss and deferred, Cardinals to receive the opening kickoff.",,
+1,15:00,,,BAL 35,0,0,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,ARI 25,0,0,Kyler Murray right end for 7 yards (tackle by Cyrus Jones),0.610,1.010
+1,14:37,2,3,ARI 32,0,0,David Johnson left guard for 3 yards (tackle by Matt Judon),1.010,1.270
+1,14:07,1,10,ARI 35,0,0,Kyler Murray pass complete short middle to Larry Fitzgerald for no gain (tackle by Brandon Carr),1.270,0.720
+1,13:29,2,10,ARI 35,0,0,Kyler Murray pass complete short middle to David Johnson for no gain (tackle by Michael Pierce and Patrick Onwuasor),0.720,0.040
+1,12:47,3,10,ARI 35,0,0,Kyler Murray pass complete short right to Michael Crabtree for 9 yards (tackle by Marlon Humphrey),0.040,-0.460
+1,12:12,4,1,ARI 44,0,0,Andy Lee punts 50 yards downed by Charles Washington,-0.460,0.380
+1,12:02,1,10,BAL 6,0,0,Lamar Jackson pass complete short middle to Nick Boyle for 14 yards (tackle by Byron Murphy and Haason Reddick),-0.380,0.280
+1,11:22,1,10,BAL 20,0,0,Mark Ingram right guard for 1 yard (tackle by Budda Baker and Jordan Hicks),0.280,-0.130
+1,10:42,2,9,BAL 21,0,0,Lamar Jackson pass complete deep middle to Marquise Brown for 18 yards (tackle by D.J. Swearinger and Byron Murphy),-0.130,1.530
+1,10:01,1,10,BAL 39,0,0,Lamar Jackson left end for 19 yards (tackle by D.J. Swearinger),1.530,2.790
+1,9:23,1,10,ARI 42,0,0,Lamar Jackson pass complete short left to Marquise Brown for 6 yards,2.790,3.050
+1,8:55,2,4,ARI 36,0,0,Lamar Jackson pass complete short right to Marquise Brown for 9 yards (tackle by D.J. Swearinger and Byron Murphy),3.050,3.780
+1,8:12,1,10,ARI 27,0,6,"Lamar Jackson pass complete deep right to Mark Andrews for 27 yards, touchdown",3.780,7.000
+1,8:06,,,ARI 15,0,7,Justin Tucker kicks extra point good,0.000,0.000
+1,8:06,,,BAL 35,0,7,"Justin Tucker kicks off 65 yards, returned by Damiere Byrd for 23 yards (tackle by Chuck Clark)",0.000,0.480
+1,8:01,1,10,ARI 23,0,7,Kyler Murray pass incomplete deep right,0.480,-0.070
+1,7:54,2,10,ARI 23,0,7,David Johnson right guard for 2 yards (tackle by Marlon Humphrey),-0.070,-0.490
+1,7:15,3,8,ARI 25,0,7,"Kyler Murray aborted snap, recovered by Kyler Murray at ARI-20 and returned for -5 yards",-0.490,-2.030
+1,6:43,4,13,ARI 20,0,7,"Andy Lee punts 45 yards, fair catch by Cyrus Jones at BAL-35. Penalty on Charles Washington: Fair Catch Interference, 15 yards",-2.030,-2.260
+1,6:32,1,10,BAL 50,0,7,Mark Ingram up the middle for 2 yards (tackle by Chandler Jones and Rodney Gunter),2.260,1.980
+1,5:56,2,8,ARI 48,0,7,Lamar Jackson pass complete short right to Marquise Brown for 6 yards (tackle by Tramaine Brock),1.980,2.080
+1,5:17,3,2,ARI 42,0,7,Lamar Jackson left guard for -1 yards (tackle by Corey Peters and Jordan Hicks),2.080,0.400
+1,4:39,4,3,ARI 43,0,7,Lamar Jackson pass incomplete deep right intended for Marquise Brown,0.400,-1.800
+1,4:34,1,10,ARI 43,0,7,Kyler Murray pass complete short left to Larry Fitzgerald for 8 yards (tackle by Brandon Carr),1.800,2.330
+1,4:03,2,2,BAL 49,0,7,Kyler Murray pass complete short left to Larry Fitzgerald for 2 yards (tackle by Brandon Carr),2.330,2.460
+1,3:47,1,10,BAL 47,0,7,Kyler Murray pass complete deep right to Christian Kirk for 34 yards (tackle by Anthony Averett),2.460,4.710
+1,3:32,1,10,BAL 13,0,7,David Johnson right guard for 2 yards (tackle by Tim Williams and Tony Jefferson),4.710,4.390
+1,3:32,2,8,BAL 11,0,7,Kyler Murray pass complete short left to Damiere Byrd for 7 yards (tackle by Tony Jefferson and Brandon Carr),4.390,5.010
+1,2:27,3,1,BAL 4,0,7,Kyler Murray pass incomplete short right,5.010,3.040
+1,2:21,4,1,BAL 4,3,7,Zane Gonzalez 22 yard field goal good,3.040,3.000
+1,2:18,,,ARI 35,3,7,"Zane Gonzalez kicks off 65 yards, touchback.",0.000,0.610
+1,2:18,1,10,BAL 25,3,7,Lamar Jackson pass incomplete deep left intended for Marquise Brown,0.610,0.060
+1,2:12,2,10,BAL 25,3,7,Lamar Jackson sacked by Cassius Marsh for -7 yards. Penalty on Orlando Brown: Offensive Holding (Declined),0.060,-1.720
+1,1:53,3,17,BAL 18,3,7,"Lamar Jackson pass complete deep middle to Mark Andrews for 28 yards (tackle by Budda Baker and D.J. Swearinger). Mark Andrews fumbles (forced by D.J. Swearinger), recovered by Mark Andrews at BAL-46",-1.720,1.990
+1,1:28,1,10,BAL 46,3,7,Mark Ingram right guard for 16 yards (tackle by D.J. Swearinger),1.990,3.050
+1,0:51,1,10,ARI 38,3,7,Lamar Jackson left end for 16 yards (tackle by D.J. Swearinger),3.050,4.110
+1,0:18,1,10,ARI 22,3,7,Mark Ingram up the middle for -1 yards (tackle by Rodney Gunter),4.110,3.430
+Quarter,Time,Down,ToGo,Location,ARI,BAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,11,ARI 23,3,7,Lamar Jackson pass incomplete deep middle intended for Justice Hill (defended by Haason Reddick),3.430,2.740
+2,14:54,3,11,ARI 23,3,7,Lamar Jackson pass complete short middle to Mark Andrews for 8 yards (tackle by Jordan Hicks and Haason Reddick),2.740,2.540
+2,14:11,4,3,ARI 15,3,10,Justin Tucker 33 yard field goal good,2.540,3.000
+2,14:07,,,BAL 35,3,10,"Justin Tucker kicks off 66 yards, returned by Damiere Byrd for 15 yards (tackle by Justin Bethel)",0.000,-0.280
+2,14:02,1,10,ARI 14,3,10,Kyler Murray pass complete short left to Chase Edmonds for 5 yards (tackle by Patrick Onwuasor and Tony Jefferson),-0.280,-0.040
+2,13:40,2,5,ARI 19,3,10,Kyler Murray pass complete short middle to Christian Kirk for 26 yards,-0.040,1.930
+2,13:20,1,10,ARI 45,3,10,Kyler Murray sacked by Matt Judon for -6 yards,1.930,0.570
+2,12:43,2,16,ARI 39,3,10,Kyler Murray pass complete short left to Damiere Byrd for 6 yards (tackle by Patrick Ricard),0.570,0.700
+2,12:20,3,10,ARI 45,3,10,Kyler Murray pass complete short left to Damiere Byrd for 8 yards (tackle by Tyus Bowser),0.700,0.130
+2,12:16,,,,,,Timeout #2 by Arizona Cardinals,,
+2,12:16,4,2,BAL 47,3,10,Kyler Murray pass complete short left to Damiere Byrd for 5 yards (tackle by Anthony Averett),0.130,2.790
+2,11:55,1,10,BAL 42,3,10,Kyler Murray pass complete short right to Christian Kirk for 4 yards (tackle by Brandon Carr),2.790,2.780
+2,11:28,2,6,BAL 38,3,10,Kyler Murray right end for -3 yards (tackle by Marlon Humphrey),2.780,1.680
+2,10:57,3,9,BAL 41,3,10,Kyler Murray pass complete deep right to KeeSean Johnson for 31 yards (tackle by Brandon Carr),1.680,4.910
+2,10:14,1,10,BAL 10,3,10,Chase Edmonds left guard for 2 yards (tackle by Tim Williams),4.910,4.570
+2,9:38,2,8,BAL 8,3,10,"Penalty on Justin Murray: False Start, 5 yards (no play)",4.570,3.720
+2,9:15,2,13,BAL 13,3,10,Kyler Murray pass complete short right to Chase Edmonds for 10 yards (tackle by Patrick Onwuasor),3.720,4.720
+2,8:38,3,3,BAL 3,3,10,Kyler Murray pass incomplete short left intended for Larry Fitzgerald,4.720,3.040
+2,8:34,4,3,BAL 3,6,10,Zane Gonzalez 21 yard field goal good,3.040,3.000
+2,8:31,,,ARI 35,6,10,"Zane Gonzalez kicks off 60 yards, returned by Justice Hill for 20 yards (tackle by Dennis Gardeck). Penalty on Chuck Clark: Offensive Holding, 10 yards",0.000,-0.220
+2,8:26,1,10,BAL 15,6,10,Lamar Jackson right end for 6 yards (tackle by Jordan Hicks),-0.220,0.210
+2,7:50,2,4,BAL 21,6,10,Lamar Jackson pass incomplete deep left intended for Marquise Brown,0.210,-0.630
+2,7:45,3,4,BAL 21,6,10,Lamar Jackson up the middle for 5 yards (tackle by Terrell Suggs),-0.630,0.670
+2,7:04,1,10,BAL 26,6,10,Lamar Jackson left end for 18 yards (tackle by Jordan Hicks),0.670,1.860
+2,6:18,1,10,BAL 44,6,10,Lamar Jackson pass complete short middle to Mark Andrews for 24 yards (tackle by Budda Baker),1.860,3.450
+2,5:43,1,10,ARI 32,6,10,Lamar Jackson pass complete deep right to Mark Ingram for 20 yards (tackle by D.J. Swearinger),3.450,4.780
+2,5:09,1,10,ARI 12,6,10,Lamar Jackson right guard for 1 yard (tackle by Budda Baker),4.780,4.270
+2,4:29,2,9,ARI 11,6,10,Lamar Jackson pass complete short right to Justice Hill for 10 yards (tackle by Jordan Hicks),4.270,6.970
+2,3:53,,,,,,Timeout #1 by Baltimore Ravens,,
+2,3:53,1,1,ARI 1,6,16,"Lamar Jackson pass complete short middle to Hayden Hurst for 1 yard, touchdown",6.970,7.000
+2,3:49,,,ARI 15,6,17,"Justin Tucker kicks extra point good. Penalty on Clinton McDonald: Unnecessary Roughness, 15 yards",0.000,0.000
+2,3:49,,,BAL 50,6,17,"Justin Tucker kicks off 44 yards, returned by Damiere Byrd for no gain",0.000,-0.380
+2,3:49,1,10,ARI 6,6,17,David Johnson right tackle for 4 yards (tackle by Michael Pierce),-0.380,-0.490
+2,3:28,2,6,ARI 10,6,17,Kyler Murray pass incomplete short right intended for Larry Fitzgerald (defended by Brandon Carr),-0.490,-0.950
+2,3:23,3,6,ARI 10,6,17,Kyler Murray pass complete short left to Damiere Byrd for 13 yards (tackle by Cyrus Jones),-0.950,0.480
+2,3:05,1,10,ARI 23,6,17,Kyler Murray pass incomplete short right intended for KeeSean Johnson,0.480,-0.070
+2,3:01,2,10,ARI 23,6,17,Kyler Murray pass incomplete short middle intended for Larry Fitzgerald,-0.070,-0.760
+2,2:58,3,10,ARI 23,6,17,Kyler Murray pass incomplete short middle intended for Christian Kirk,-0.760,-1.830
+2,2:54,4,10,ARI 23,6,17,"Andy Lee punts 57 yards, returned by Cyrus Jones for 25 yards (tackle by Aaron Brewer)",-1.830,-1.930
+2,2:43,1,10,BAL 45,6,17,Mark Ingram right guard for 2 yards (tackle by Haason Reddick),1.930,1.650
+2,2:03,2,8,BAL 47,6,17,"Penalty on Corey Peters: Neutral Zone Infraction, 5 yards (no play)",1.650,2.330
+2,2:00,2,3,ARI 48,6,17,"Justice Hill right tackle for 10 yards (tackle by D.J. Swearinger). Penalty on Orlando Brown: Offensive Holding, 9 yards (no play)",2.330,1.110
+2,1:54,2,12,BAL 43,6,17,Lamar Jackson sacked by Corey Peters for -7 yards,1.110,-0.490
+2,1:10,3,19,BAL 36,6,17,"Matt Skura aborted snap, recovered by Marshal Yanda at BAL-34 (tackle by Rodney Gunter)",-0.490,-1.110
+2,1:06,,,,,,Timeout #3 by Arizona Cardinals,,
+2,1:06,4,21,BAL 34,6,17,"Sam Koch punts 49 yards, fair catch by Christian Kirk at ARI-17",-1.110,0.060
+2,0:59,1,10,ARI 17,6,17,Kyler Murray pass incomplete short middle intended for Michael Crabtree,-0.060,-0.580
+2,0:56,2,10,ARI 17,6,17,Kyler Murray pass complete deep right to Christian Kirk for 24 yards (tackle by Anthony Averett),-0.580,1.660
+2,0:41,1,10,ARI 41,6,17,Kyler Murray spiked the ball,1.660,1.120
+2,0:39,2,10,ARI 41,6,17,Kyler Murray sacked by Pernell McPhee for -7 yards,1.120,-0.490
+Quarter,Time,Down,ToGo,Location,ARI,BAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,ARI 35,6,17,"Zane Gonzalez kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,BAL 25,6,17,Lamar Jackson pass incomplete deep left intended for Miles Boykin,0.610,0.060
+3,14:54,2,10,BAL 25,6,17,"Lamar Jackson pass complete short right to Nick Boyle for 7 yards (tackle by Haason Reddick). Penalty on Matt Skura: Ineligible Downfield Pass, 5 yards (no play)",0.060,-0.610
+3,14:29,2,15,BAL 20,6,17,Lamar Jackson up the middle for 11 yards (tackle by Terrell Suggs and Budda Baker),-0.610,0.170
+3,13:41,3,4,BAL 31,6,17,Lamar Jackson pass complete short left to Mark Andrews for -2 yards (tackle by Haason Reddick),0.170,-1.440
+3,13:03,4,6,BAL 29,6,17,"Sam Koch punts 44 yards, returned by Christian Kirk for no gain (tackle by Sam Koch). Penalty on Cassius Marsh: Illegal Block Above the Waist, 10 yards",-1.440,0.060
+3,12:48,1,10,ARI 17,6,17,David Johnson right guard for 3 yards (tackle by Matt Judon and Pernell McPhee),-0.060,-0.060
+3,12:28,2,7,ARI 20,6,17,Kyler Murray pass complete deep right to Larry Fitzgerald for 40 yards (tackle by Earl Thomas and Marlon Humphrey),-0.060,2.920
+3,11:45,1,10,BAL 40,6,17,David Johnson right guard for -1 yards (tackle by Pernell McPhee),2.920,2.240
+3,11:09,2,11,BAL 41,6,17,Kyler Murray pass complete deep middle to Maxx Williams for 21 yards (tackle by Marlon Humphrey),2.240,4.240
+3,10:35,1,10,BAL 20,6,17,"Penalty on Tim Williams: Defensive Too Many Men on Field, 5 yards (no play)",4.240,5.190
+3,10:28,1,5,BAL 15,6,17,Kyler Murray pass complete short right to Charles Clay for 6 yards (tackle by Chris Board),5.190,5.140
+3,9:52,1,9,BAL 9,6,17,Kyler Murray pass complete short middle to Michael Crabtree for 4 yards (tackle by Marlon Humphrey),5.140,5.150
+3,9:11,2,5,BAL 5,6,17,Kyler Murray pass incomplete short left intended for Larry Fitzgerald,5.150,4.260
+3,9:06,,,,,,Timeout #1 by Arizona Cardinals,,
+3,9:06,3,5,BAL 5,6,17,Kyler Murray pass incomplete short left intended for Larry Fitzgerald,4.260,3.010
+3,9:02,4,5,BAL 5,6,17,"Penalty on BAL: Defensive Too Many Men on Field, 3 yards (no play)",3.010,3.250
+3,9:02,4,2,BAL 2,9,17,Zane Gonzalez 21 yard field goal good,3.250,3.000
+3,9:00,,,ARI 35,9,17,"Zane Gonzalez kicks off 61 yards, returned by Justice Hill for 26 yards. Penalty on Anthony Levine: Offensive Holding, 10 yards",0.000,0.280
+3,8:52,1,10,BAL 20,9,17,Mark Ingram left guard for 1 yard (tackle by Terrell Suggs and Budda Baker),0.280,-0.130
+3,8:16,2,9,BAL 21,9,17,Lamar Jackson pass complete short right to Patrick Ricard for 3 yards (tackle by Budda Baker),-0.130,-0.430
+3,7:28,,,,,,Timeout #1 by Baltimore Ravens,,
+3,7:28,3,6,BAL 24,9,17,Lamar Jackson pass complete short right to Mark Ingram for 10 yards (tackle by Byron Murphy),-0.430,1.200
+3,6:45,1,10,BAL 34,9,17,Mark Ingram right guard for 3 yards (tackle by Haason Reddick),1.200,1.060
+3,6:04,2,7,BAL 37,9,17,"Lamar Jackson sacked by Cassius Marsh for no gain. Penalty on Orlando Brown: Illegal Formation (Declined) . Penalty on Cassius Marsh: Horse Collar Tackle, 14 yards (no play)",1.060,2.320
+3,5:41,1,10,ARI 49,9,17,Lamar Jackson pass complete short left to Marquise Brown for 3 yards (tackle by Byron Murphy),2.320,2.190
+3,4:56,2,7,ARI 46,9,17,Lamar Jackson pass incomplete deep right,2.190,1.490
+3,4:48,3,7,ARI 46,9,17,Lamar Jackson pass complete short middle to Mark Andrews for 9 yards (tackle by Haason Reddick),1.490,3.120
+3,4:08,1,10,ARI 37,9,17,Lamar Jackson right end for 9 yards (tackle by D.J. Swearinger),3.120,3.790
+3,3:34,2,1,ARI 28,9,17,Lamar Jackson pass complete short right to Marquise Brown for 3 yards (tackle by Tramaine Brock),3.790,3.910
+3,2:49,1,10,ARI 25,9,17,Mark Ingram left guard for 3 yards (tackle by Joe Walker and Budda Baker),3.910,3.770
+3,2:09,2,7,ARI 22,9,17,Lamar Jackson pass incomplete short middle intended for Miles Boykin,3.770,3.070
+3,2:07,3,7,ARI 22,9,17,Lamar Jackson pass complete short middle to Mark Andrews for 8 yards (tackle by Jordan Hicks),3.070,4.650
+3,1:28,1,10,ARI 14,9,17,"Mark Ingram right tackle for no gain (tackle by Joe Walker and Jordan Hicks). Penalty on Nick Boyle: Offensive Holding, 10 yards (no play)",4.650,3.970
+3,1:05,1,20,ARI 24,9,17,Lamar Jackson pass incomplete short middle intended for Nick Boyle (defended by Chandler Jones),3.970,2.740
+3,1:01,2,20,ARI 24,9,17,Lamar Jackson pass incomplete deep middle intended for Nick Boyle (defended by Jordan Hicks),2.740,2.080
+3,0:56,3,20,ARI 24,9,17,Lamar Jackson up the middle for 19 yards (tackle by Jordan Hicks),2.080,3.030
+3,0:03,4,1,ARI 5,9,17,"Penalty on BAL: Delay of Game, 5 yards (no play)",3.030,2.790
+Quarter,Time,Down,ToGo,Location,ARI,BAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,4,6,ARI 10,9,20,Justin Tucker 28 yard field goal good,2.790,3.000
+4,14:56,,,BAL 35,9,20,"Justin Tucker kicks off 65 yards, returned by Damiere Byrd for 21 yards (tackle by Cyrus Jones and Justin Bethel)",0.000,0.340
+4,14:50,1,10,ARI 21,9,20,Kyler Murray pass complete deep right to Larry Fitzgerald for 54 yards (tackle by Tony Jefferson),0.340,3.910
+4,14:14,1,10,BAL 25,9,20,Kyler Murray pass complete short left to Damiere Byrd for 6 yards (tackle by Anthony Averett),3.910,4.200
+4,13:47,2,4,BAL 19,9,20,Kyler Murray pass complete short right to Christian Kirk for 18 yards (tackle by Matt Judon),4.200,6.970
+4,12:59,1,1,BAL 1,9,20,Kyler Murray pass incomplete short left intended for Damiere Byrd. Penalty on Anthony Averett: Defensive Pass Interference (no play),6.970,6.970
+4,12:54,1,1,BAL 1,15,20,"David Johnson up the middle for 1 yard, touchdown",6.970,7.000
+4,12:52,,,BAL 2,17,20,"Two Point Attempt: Kyler Murray pass complete to KeeSean Johnson, conversion succeeds",1.000,1.000
+4,12:52,,,ARI 35,17,20,"Zane Gonzalez kicks off 65 yards, touchback.",0.000,0.610
+4,12:52,1,10,BAL 25,17,20,Mark Ingram right guard for 2 yards (tackle by Cassius Marsh),0.610,0.330
+4,12:16,2,8,BAL 27,17,20,Lamar Jackson pass complete short left to Mark Andrews for 10 yards (tackle by Jordan Hicks),0.330,1.400
+4,11:43,1,10,BAL 37,17,20,Lamar Jackson pass complete short left to Miles Boykin for 11 yards (tackle by Byron Murphy),1.400,2.130
+4,11:07,1,10,BAL 48,17,20,Justice Hill left guard for 4 yards (tackle by Clinton McDonald),2.130,2.120
+4,10:30,2,6,ARI 48,17,20,Lamar Jackson left end for 10 yards (tackle by Chris Jones),2.120,3.050
+4,9:55,1,10,ARI 38,17,20,Lamar Jackson pass incomplete short middle intended for Mark Andrews,3.050,2.510
+4,9:50,2,10,ARI 38,17,20,Lamar Jackson pass incomplete short right,2.510,1.820
+4,9:46,3,10,ARI 38,17,20,Lamar Jackson pass complete short middle to Willie Snead for 5 yards (tackle by Byron Murphy),1.820,1.170
+4,9:02,4,5,ARI 33,17,23,Justin Tucker 51 yard field goal good,1.170,3.000
+4,8:56,,,BAL 35,17,23,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+4,8:56,1,10,ARI 25,17,23,Kyler Murray sacked by Brandon Carr for -7 yards,0.610,-0.980
+4,8:26,2,17,ARI 18,17,23,Kyler Murray pass incomplete short middle intended for Charles Clay (defended by Marlon Humphrey),-0.980,-1.720
+4,8:20,3,17,ARI 18,17,23,Kyler Murray pass complete short right to Christian Kirk for 8 yards (tackle by Patrick Onwuasor),-1.720,-1.630
+4,7:40,4,9,ARI 26,17,23,"Andy Lee punts 56 yards, returned by Cyrus Jones for 13 yards (tackle by Dennis Gardeck)",-1.630,-1.000
+4,7:30,1,10,BAL 31,17,23,Lamar Jackson pass incomplete short middle intended for Marquise Brown (defended by Byron Murphy),1.000,0.460
+4,7:25,2,10,BAL 31,17,23,Lamar Jackson left end for 14 yards (tackle by Jordan Hicks),0.460,1.930
+4,6:49,1,10,BAL 45,17,23,Gus Edwards left guard for 4 yards (tackle by Haason Reddick),1.930,1.920
+4,6:10,2,6,BAL 49,17,23,Mark Ingram up the middle for 7 yards (tackle by Corey Peters and Haason Reddick),1.920,2.650
+4,5:30,1,10,ARI 44,17,23,Mark Ingram right guard for -1 yards (tackle by Tramaine Brock),2.650,1.980
+4,4:48,2,11,ARI 45,17,23,Lamar Jackson pass complete short left to Marquise Brown for no gain (tackle by Budda Baker),1.980,1.290
+4,4:00,3,11,ARI 45,17,23,Lamar Jackson pass incomplete short middle intended for Marquise Brown (defended by Byron Murphy),1.290,0.270
+4,3:55,4,11,ARI 45,17,23,"Sam Koch punts 36 yards, fair catch by Christian Kirk at ARI-9",0.270,0.380
+4,3:48,1,10,ARI 9,17,23,Kyler Murray pass incomplete short middle intended for Christian Kirk,-0.380,-0.780
+4,3:42,2,10,ARI 9,17,23,"David Johnson left guard for 74 yards (tackle by Tim Williams and Anthony Averett). Penalty on J.R. Sweezy: Offensive Holding, 4 yards (no play)",-0.780,-1.070
+4,3:36,2,14,ARI 5,17,23,Kyler Murray pass incomplete short left intended for Damiere Byrd,-1.070,-1.890
+4,3:29,3,14,ARI 5,17,23,"Penalty on D.J. Humphries: False Start, 2 yards (no play)",-1.890,-2.120
+4,3:29,3,16,ARI 3,17,23,Kyler Murray pass incomplete deep right intended for Larry Fitzgerald,-2.120,-2.490
+4,3:24,4,16,ARI 3,17,23,"Andy Lee punts 59 yards, returned by Cyrus Jones for 7 yards (tackle by Zeke Turner)",-2.490,-1.930
+4,3:13,1,10,BAL 45,17,23,Lamar Jackson up the middle for -5 yards (tackle by Zach Allen),1.930,0.710
+4,3:08,,,,,,Timeout #2 by Arizona Cardinals,,
+4,3:07,2,15,BAL 40,17,23,Gus Edwards left guard for 4 yards (tackle by Budda Baker),0.710,0.560
+4,3:05,,,,,,Timeout #3 by Arizona Cardinals,,
+4,3:05,3,11,BAL 44,17,23,Lamar Jackson pass complete deep right to Marquise Brown for 41 yards (tackle by Tramaine Brock),0.560,4.580
+4,2:57,1,10,ARI 15,17,23,"Gus Edwards left guard for 6 yards (tackle by Rodney Gunter). Penalty on Ronnie Stanley: Illegal Formation, 5 yards (no play)",4.580,4.240
+4,2:52,1,15,ARI 20,17,23,Gus Edwards left guard for 3 yards (tackle by Tramaine Brock and Zach Allen),4.240,3.680
+4,2:08,2,12,ARI 17,17,23,Mark Ingram left guard for 11 yards (tackle by Chris Jones and Jordan Hicks),3.680,4.900
+4,2:00,3,1,ARI 6,17,23,Mark Ingram left guard for 1 yard (tackle by Miles Brown),4.900,6.060
+4,1:21,1,5,ARI 5,17,23,Lamar Jackson kneels for -1 yards,6.060,4.950
+4,0:30,2,6,ARI 6,17,23,Lamar Jackson kneels for -1 yards,4.950,3.810
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

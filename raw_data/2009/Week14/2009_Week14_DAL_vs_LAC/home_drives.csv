@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,DAL 46,10,6:24,41,Field Goal
+2,1,4:30,DAL 20,3,2:14,6,Punt
+3,2,10:18,DAL 27,15,8:05,72,Downs
+4,2,1:46,SDG 27,4,1:04,3,Missed FG
+5,2,0:04,DAL 20,1,0:04,-1,End of Half
+6,3,10:37,DAL 4,3,1:08,4,Punt
+7,3,7:19,DAL 1,11,7:19,99,Touchdown
+8,4,10:56,DAL 14,4,1:43,21,Punt
+9,4,1:56,DAL 14,9,1:54,86,Touchdown

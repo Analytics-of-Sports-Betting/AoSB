@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,CLE 20,3,2:02,3,Punt
+2,1,12:05,CLE 20,8,3:41,80,Touchdown
+3,1,3:38,CLE 20,7,3:33,14,Punt
+4,2,14:03,CLE 47,9,3:55,53,Touchdown
+5,2,8:27,CLE 39,2,0:33,-1,Fumble
+6,2,6:37,CLE 12,3,1:29,9,Punt
+7,2,3:06,CLE 23,4,2:05,-2,Punt
+8,2,0:09,CLE 43,2,0:09,5,End of Half
+9,3,8:43,CLE 20,5,2:53,29,Punt
+10,3,5:50,BAL 11,2,0:39,11,Touchdown
+11,3,1:48,CLE 8,3,2:01,7,Punt
+12,4,12:09,CLE 20,6,1:20,46,Punt
+13,4,6:44,CLE 29,15,6:30,67,Field Goal

@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,DAL 50,3,0:30,0,Punt
+2,1,12:21,KAN 46,6,2:49,54,Touchdown
+3,1,6:41,KAN 20,8,4:25,41,Punt
+4,2,8:00,KAN 41,5,2:41,59,Touchdown
+5,2,3:55,KAN 14,9,2:53,71,Fumble
+6,2,0:40,KAN 18,3,0:40,4,Punt
+7,3,13:27,KAN 12,9,4:48,88,Touchdown
+8,3,6:56,KAN 6,7,3:59,40,Punt
+9,4,13:07,KAN 27,3,0:59,-1,Punt
+10,4,8:01,KAN 20,7,4:06,80,Touchdown
+11,4,0:22,KAN 28,3,0:22,48,Missed FG

@@ -1,0 +1,181 @@
+Quarter,Time,Down,ToGo,Location,PHI,DAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Eagles won the coin toss, Eagles to receive the opening kickoff.",,
+1,15:00,,,DAL 35,0,0,"Dan Bailey kicks off 65 yards, touchback",0.000,-0.280
+1,15:00,1,10,PHI 20,0,0,Nick Foles pass incomplete,0.280,-0.270
+1,14:53,2,10,PHI 20,0,0,Bryce Brown right end for -2 yards (tackle by Danny McCray),-0.270,-1.330
+1,14:22,3,12,PHI 18,0,0,Nick Foles pass complete short middle to Riley Cooper for 16 yards (tackle by Morris Claiborne),-1.330,1.200
+1,13:46,1,10,PHI 34,0,0,Nick Foles pass incomplete short middle intended for Riley Cooper,1.200,0.660
+1,13:40,2,10,PHI 34,0,0,Bryce Brown left end for no gain (tackle by Anthony Spencer),0.660,-0.030
+1,13:11,3,10,PHI 34,0,0,Nick Foles pass complete short left to Brent Celek for 10 yards (tackle by Danny McCray),-0.030,1.860
+1,12:28,1,10,PHI 44,0,0,Bryce Brown right tackle for 5 yards (tackle by Ernie Sims),1.860,1.990
+1,11:50,2,5,PHI 49,0,0,Bryce Brown left end for -6 yards (tackle by Anthony Spencer),1.990,0.500
+1,11:19,3,11,PHI 43,0,0,Nick Foles pass complete short left to Bryce Brown for 8 yards (tackle by Danny McCray),0.500,0.000
+1,10:37,4,3,DAL 49,0,0,"Mat McBriar punts 35 yards, fair catch by Dwayne Harris",0.000,0.280
+1,10:29,1,10,DAL 14,0,0,DeMarco Murray left end for 14 yards (tackle by Kurt Coleman),-0.280,0.810
+1,10:03,1,10,DAL 28,0,0,DeMarco Murray left tackle for 8 yards (tackle by Nnamdi Asomugha),0.810,1.340
+1,9:27,2,2,DAL 36,0,0,DeMarco Murray right guard for -1 yards (tackle by Cullen Jenkins),1.340,0.500
+1,8:48,3,3,DAL 35,0,0,Tony Romo sacked by Brandon Graham for -6 yards,0.500,-1.440
+1,8:21,4,9,DAL 29,0,0,"Brian Moorman punts 37 yards, out of bounds",-1.440,-1.200
+1,8:13,1,10,PHI 34,0,0,Bryce Brown left guard for 24 yards (tackle by Mike Jenkins),1.200,2.790
+1,7:47,1,10,DAL 42,0,0,Bryce Brown left guard for 3 yards (tackle by Sean Lissemore),2.790,2.650
+1,7:10,2,7,DAL 39,0,0,Nick Foles pass complete short right to Brent Celek for 16 yards (tackle by Danny McCray and Kyle Wilber),2.650,4.040
+1,6:29,1,10,DAL 23,0,0,Nick Foles pass complete short left to Damaris Johnson for 13 yards (tackle by Gerald Sensabaugh and Anthony Spencer),4.040,4.910
+1,5:44,1,10,DAL 10,6,0,"Bryce Brown left end for 10 yards, touchdown",4.910,7.000
+1,5:44,,,DAL 2,7,0,Alex Henery kicks extra point good,0.000,0.000
+1,5:44,,,PHI 35,7,0,"Alex Henery kicks off 72 yards, touchback",0.000,-0.280
+1,5:38,1,10,DAL 20,7,0,Tony Romo pass complete short middle to DeMarco Murray for 6 yards (tackle by DeMeco Ryans),0.280,0.540
+1,5:00,2,4,DAL 26,7,0,DeMarco Murray middle for 7 yards (tackle by Brandon Boykin),0.540,1.140
+1,4:22,1,10,DAL 33,7,0,Tony Romo pass incomplete deep middle intended for Kevin Ogletree (defended by Dominique Rodgers-Cromartie),1.140,0.590
+1,4:15,2,10,DAL 33,7,0,Tony Romo pass incomplete short left intended for Felix Jones,0.590,-0.100
+1,4:07,3,10,DAL 33,7,0,Tony Romo pass complete short right to Jason Witten for 11 yards (tackle by Mychal Kendricks),-0.100,1.860
+1,3:28,1,10,DAL 44,7,0,Felix Jones right guard for 2 yards (tackle by DeMeco Ryans),1.860,1.590
+1,2:50,2,8,DAL 46,7,0,Tony Romo pass complete short right to Cole Beasley for 13 yards (tackle by Curtis Marsh),1.590,2.850
+1,2:03,1,10,PHI 41,7,0,Tony Romo pass complete short right to DeMarco Murray for -1 yards (tackle by Nnamdi Asomugha),2.850,2.170
+1,1:31,2,11,PHI 42,7,0,DeMarco Murray middle for 3 yards (tackle by Kurt Coleman),2.170,1.880
+1,0:47,3,8,PHI 39,7,0,Tony Romo middle for 15 yards (tackle by Kurt Coleman),1.880,3.970
+1,0:02,1,10,PHI 24,7,0,Tony Romo pass complete short left to DeMarco Murray for 11 yards (tackle by Dominique Rodgers-Cromartie),3.970,4.710
+Quarter,Time,Down,ToGo,Location,PHI,DAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,PHI 13,7,0,"Tony Romo pass incomplete short right intended for Kevin Ogletree. Penalty on Doug Free: Offensive Holding (Offsetting), Penalty on Dominique Rodgers-Cromartie: Defensive Pass Interference (Offsetting) (no play)",4.710,4.710
+2,14:48,1,10,PHI 13,7,0,DeMarco Murray middle for 5 yards (tackle by Mike Patterson and Derek Landri),4.710,4.960
+2,14:16,2,5,PHI 8,7,0,"DeMarco Murray middle for 3 yards (tackle by Darryl Tapp). Penalty on Mackenzy Bernadeau: Offensive Holding, 10 yards (no play)",4.960,3.400
+2,13:57,2,15,PHI 18,7,0,Tony Romo pass incomplete short left intended for Cole Beasley,3.400,2.790
+2,13:52,3,15,PHI 18,7,0,Tony Romo sacked by Brandon Graham and Trent Cole for -3 yards,2.790,2.060
+2,13:39,4,18,PHI 21,7,3,Dan Bailey 39 yard field goal good,2.060,3.000
+2,13:39,,,DAL 35,7,3,"Dan Bailey kicks off 70 yards, returned by Brandon Boykin for 21 yards (tackle by Phillip Tanner)",0.000,0.140
+2,13:28,1,10,PHI 16,7,3,Nick Foles pass complete short middle to Brent Celek for 19 yards (tackle by Danny McCray),-0.140,1.270
+2,12:50,1,10,PHI 35,7,3,Nick Foles pass incomplete,1.270,0.720
+2,12:45,2,10,PHI 35,7,3,Bryce Brown left end for -1 yards (tackle by Dan Connor and Marcus Spears),0.720,-0.100
+2,12:03,3,11,PHI 34,7,3,Nick Foles pass incomplete short right intended for Bryce Brown,-0.100,-1.110
+2,11:57,4,11,PHI 34,7,3,"Mat McBriar punts 43 yards, out of bounds",-1.110,-0.480
+2,11:50,1,10,DAL 23,7,3,Tony Romo pass complete short right to John Phillips for no gain,0.480,-0.070
+2,11:15,2,10,DAL 23,7,3,Felix Jones middle for 5 yards (tackle by Nate Allen),-0.070,-0.100
+2,10:34,3,5,DAL 28,7,3,"Penalty on Ryan Cook: False Start, 5 yards (no play)",-0.100,-0.760
+2,10:10,3,10,DAL 23,7,3,Tony Romo pass incomplete short right intended for Jason Witten,-0.760,-1.830
+,,,,,,,"PHI challenged the pass completion ruling, and the original play was overturned.",,
+2,10:06,4,10,DAL 23,7,3,"Brian Moorman punts 56 yards, returned by Damaris Johnson for 6 yards (tackle by Phillip Tanner)",-1.830,-0.740
+2,9:54,1,10,PHI 27,7,3,Nick Foles pass complete short right to Bryce Brown for -3 yards (tackle by DeMarcus Ware),0.740,-0.210
+2,9:17,2,13,PHI 24,7,3,Bryce Brown right end for 39 yards (tackle by Gerald Sensabaugh),-0.210,3.120
+2,8:41,1,10,DAL 37,7,3,Dion Lewis right guard for 3 yards (tackle by Dan Connor and Marcus Spears),3.120,2.980
+2,8:00,2,7,DAL 34,7,3,Bryce Brown right guard for 1 yard (tackle by Anthony Spencer),2.980,2.410
+2,7:20,3,6,DAL 33,7,3,Nick Foles pass complete short middle to Jeremy Maclin for 21 yards (tackle by Gerald Sensabaugh),2.410,4.780
+2,6:38,1,10,DAL 12,7,3,Nick Foles pass complete short left to Brent Celek for 7 yards (tackle by Danny McCray),4.780,5.410
+2,6:11,2,3,DAL 5,13,3,"Bryce Brown right guard for 5 yards, touchdown",5.410,7.000
+2,6:11,,,DAL 2,14,3,Alex Henery kicks extra point good,0.000,0.000
+2,6:11,,,PHI 35,14,3,"Alex Henery kicks off 65 yards, touchback. Penalty on Stanley Havili: Offside on Free Kick, 5 yards",0.000,-0.610
+2,6:07,1,10,DAL 25,14,3,DeMarco Murray right tackle for 1 yard (tackle by Phillip Hunt),0.610,0.200
+2,5:31,2,9,DAL 26,14,3,"Tony Romo pass complete short right to Lawrence Vickers for 1 yard (tackle by Mychal Kendricks). Penalty on Doug Free: Offensive Holding, 10 yards (no play)",0.200,-1.290
+2,5:01,2,19,DAL 16,14,3,Tony Romo pass complete short left to Jason Witten for 15 yards (tackle by Mychal Kendricks),-1.290,0.170
+2,4:20,3,4,DAL 31,14,3,Tony Romo pass complete short right to Jason Witten for 5 yards (tackle by Nate Allen),0.170,1.330
+2,3:38,1,10,DAL 36,14,3,"Tony Romo for no gain. Tony Romo fumbles, recovered by Kevin Ogletree at DAL-26 and returned for 2 yards",1.330,-0.290
+2,2:58,2,18,DAL 28,14,3,Tony Romo pass complete short right to Jason Witten for 13 yards (tackle by Nate Allen),-0.290,0.760
+2,2:14,3,5,DAL 41,14,3,Tony Romo pass complete short left to Dez Bryant for 14 yards (tackle by Dominique Rodgers-Cromartie),0.760,2.590
+2,2:02,1,10,PHI 45,14,3,Tony Romo pass incomplete short right intended for Jason Witten,2.590,2.040
+2,1:56,2,10,PHI 45,14,3,DeMarco Murray left end for -3 yards (tackle by DeMeco Ryans),2.040,0.960
+2,1:11,3,13,PHI 48,14,3,Tony Romo pass complete short left to Miles Austin for 19 yards (tackle by Kurt Coleman),0.960,3.640
+2,1:04,1,10,PHI 29,14,3,Tony Romo pass complete deep middle to Jason Witten for 28 yards (tackle by Nnamdi Asomugha),3.640,3.640
+2,0:45,1,10,PHI 29,14,3,Timeout #1 by Dallas Cowboys,3.640,6.970
+2,0:45,1,1,PHI 1,14,9,"DeMarco Murray middle for 1 yard, touchdown",6.970,7.000
+2,0:45,,,PHI 2,14,10,Dan Bailey kicks extra point good,0.000,0.000
+2,0:45,,,DAL 35,14,10,"Dan Bailey kicks off 70 yards, returned by Brandon Boykin for 22 yards (tackle by Alex Albright)",0.000,0.060
+2,0:35,1,10,PHI 17,14,10,Bryce Brown left end for 20 yards (tackle by Gerald Sensabaugh),-0.060,-0.060
+2,0:28,1,10,PHI 17,14,10,Timeout #1 by Philadelphia Eagles,-0.060,1.400
+2,0:28,1,10,PHI 37,14,10,Nick Foles pass incomplete deep right intended for Jeremy Maclin,1.400,0.860
+2,0:20,2,10,PHI 37,14,10,Nick Foles pass complete deep left to Jason Avant for 29 yards (tackle by Eric Frampton),0.860,3.310
+2,0:14,1,10,DAL 34,14,10,Bryce Brown middle for 3 yards (tackle by Jason Hatcher),3.310,3.310
+2,0:10,1,10,DAL 34,14,10,Timeout #2 by Philadelphia Eagles,3.310,3.180
+2,0:10,2,7,DAL 31,14,10,Bryce Brown right guard for 6 yards (tackle by Sean Lissemore and DeMarcus Ware),3.180,3.180
+2,0:03,2,7,DAL 31,14,10,Timeout #3 by Philadelphia Eagles,3.180,3.270
+2,0:03,3,1,DAL 25,17,10,Alex Henery 43 yard field goal good,3.270,3.000
+Quarter,Time,Down,ToGo,Location,PHI,DAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PHI 35,17,10,"Alex Henery kicks off 65 yards, touchback",0.000,-0.280
+3,15:00,1,10,DAL 20,17,10,DeMarco Murray middle for 13 yards (tackle by Mychal Kendricks),0.280,1.140
+3,14:25,1,10,DAL 33,17,10,DeMarco Murray left guard for 4 yards (tackle by Akeem Jordan),1.140,1.130
+3,13:38,2,6,DAL 37,17,10,Tony Romo pass complete short left to Dez Bryant for 5 yards (tackle by Nnamdi Asomugha),1.130,1.090
+3,13:11,3,1,DAL 42,17,10,DeMarco Murray for 27 yards (tackle by Casey Matthews),1.090,3.510
+3,12:42,1,10,PHI 31,17,10,Felix Jones middle for 7 yards (tackle by Nate Allen),3.510,3.910
+3,12:10,2,3,PHI 24,17,10,Felix Jones right guard for 1 yard (tackle by Cedric Thornton),3.910,3.340
+3,11:30,3,2,PHI 23,17,16,"Tony Romo pass complete short middle to Dez Bryant for 23 yards, touchdown",3.340,7.000
+3,11:30,,,PHI 2,17,17,Dan Bailey kicks extra point good,0.000,0.000
+3,11:30,,,DAL 35,17,17,"Dan Bailey kicks off 65 yards, out of bounds",0.000,-0.280
+3,11:18,1,10,PHI 20,17,17,Nick Foles pass complete short right to Clay Harbor for 3 yards (tackle by Anthony Spencer),0.280,0.140
+3,10:43,2,7,PHI 23,17,17,Nick Foles pass complete short left to Jeremy Maclin for 14 yards (tackle by Morris Claiborne),0.140,1.400
+3,10:17,1,10,PHI 37,17,17,Bryce Brown left guard for 4 yards (tackle by Danny McCray and Anthony Spencer),1.400,1.400
+3,9:41,2,6,PHI 41,17,17,Nick Foles pass complete short right to Brent Celek for 4 yards (tackle by Ernie Sims),1.400,1.220
+3,9:07,3,2,PHI 45,17,17,Bryce Brown right tackle for 2 yards (tackle by Tyrone Crawford and DeMarcus Ware),1.220,2.060
+3,8:30,1,10,PHI 47,17,17,Bryce Brown right guard for 3 yards (tackle by Dan Connor and Anthony Spencer),2.060,1.920
+3,7:51,2,7,DAL 50,17,17,Bryce Brown middle for 17 yards (tackle by Ernie Sims),1.920,3.380
+3,7:08,1,10,DAL 33,17,17,Dion Lewis left end for 11 yards (tackle by Sean Lissemore),3.380,4.110
+3,6:24,1,10,DAL 22,17,17,Nick Foles pass incomplete short left intended for Riley Cooper,4.110,3.560
+3,6:19,2,10,DAL 22,17,17,Nick Foles pass complete short middle to Bryce Brown for 7 yards (tackle by Brandon Carr),3.560,3.930
+3,5:34,3,3,DAL 15,23,17,"Nick Foles pass complete short right to Riley Cooper for 15 yards, touchdown",3.930,7.000
+3,5:34,,,DAL 2,24,17,Alex Henery kicks extra point good,0.000,0.000
+3,5:34,,,PHI 35,24,17,"Alex Henery kicks off 74 yards, touchback",0.000,-0.280
+3,5:27,1,10,DAL 20,24,17,Tony Romo pass complete short right to Kevin Ogletree for 8 yards (tackle by Brandon Graham),0.280,0.810
+3,4:54,2,2,DAL 28,24,17,DeMarco Murray middle for 2 yards (tackle by Nnamdi Asomugha),0.810,0.940
+3,4:08,1,10,DAL 30,24,17,DeMarco Murray middle for 4 yards (tackle by Vinny Curry),0.940,0.930
+3,3:29,2,6,DAL 34,24,17,Tony Romo pass complete short middle to DeMarco Murray for 3 yards (tackle by Mychal Kendricks),0.930,0.630
+3,2:46,3,3,DAL 37,24,17,Tony Romo pass complete short left to Dez Bryant for 15 yards (tackle by Nnamdi Asomugha),0.630,2.390
+3,2:13,1,10,PHI 48,24,17,DeMarco Murray left tackle for 7 yards (tackle by Nnamdi Asomugha),2.390,2.790
+3,1:40,2,3,PHI 41,24,17,DeMarco Murray left guard for 1 yard (tackle by Nnamdi Asomugha and Trent Cole),2.790,2.790
+3,0:56,2,3,PHI 41,24,17,Timeout #1 by Dallas Cowboys,2.790,2.210
+3,0:56,3,2,PHI 40,24,17,DeMarco Murray middle for 1 yard (tackle by Mychal Kendricks),2.210,0.660
+3,0:29,4,1,PHI 39,24,17,DeMarco Murray middle for 1 yard (tackle by Cedric Thornton and DeMeco Ryans),0.660,3.050
+,,,,,,,"DAL challenged the first down ruling, and the original play was overturned.",,
+Quarter,Time,Down,ToGo,Location,PHI,DAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,PHI 38,24,17,DeMarco Murray left tackle for no gain (tackle by Brandon Graham),3.050,2.510
+4,14:26,2,10,PHI 38,24,17,Tony Romo pass complete short left to Dwayne Harris for 11 yards (tackle by Nate Allen),2.510,3.780
+4,13:48,1,10,PHI 27,24,23,"Tony Romo pass complete short middle to Miles Austin for 27 yards, touchdown",3.780,7.000
+4,13:48,,,PHI 2,24,24,Dan Bailey kicks extra point good,0.000,0.000
+4,13:48,,,DAL 35,24,24,"Dan Bailey kicks off 65 yards, returned by Brandon Boykin for 22 yards (tackle by Gerald Sensabaugh)",0.000,-0.410
+4,13:35,1,10,PHI 22,24,24,Nick Foles pass complete short right to Jason Avant for 8 yards (tackle by Dan Connor),0.410,0.950
+4,12:58,2,2,PHI 30,24,24,Bryce Brown right tackle for 6 yards (tackle by Ernie Sims and Dan Connor),0.950,1.330
+4,12:21,1,10,PHI 36,24,24,Nick Foles pass incomplete deep middle intended for Riley Cooper,1.330,0.790
+4,12:16,2,10,PHI 36,24,24,Bryce Brown right end for 10 yards (tackle by Dan Connor),0.790,1.990
+4,11:44,1,10,PHI 46,24,24,Nick Foles pass incomplete short middle intended for Brent Celek (defended by Anthony Spencer),1.990,1.450
+4,11:40,2,10,PHI 46,24,24,Nick Foles pass complete short middle to Jason Avant for 23 yards (tackle by Gerald Sensabaugh and Danny McCray),1.450,3.510
+4,10:51,1,10,DAL 31,24,24,Nick Foles pass incomplete deep right intended for Jason Avant,3.510,2.970
+4,10:44,2,10,DAL 31,24,24,Nick Foles pass complete short right to Brent Celek for 7 yards (tackle by Victor Butler),2.970,3.200
+4,10:04,3,3,DAL 24,24,24,Nick Foles pass incomplete deep left intended for Clay Harbor,3.200,1.970
+4,9:56,4,3,DAL 24,27,24,Alex Henery 43 yard field goal good,1.970,3.000
+4,9:56,,,PHI 35,27,24,"Alex Henery kicks off 63 yards, returned by Dwayne Harris for 22 yards (tackle by Brandon Hughes). Penalty on Eric Frampton: Offensive Holding, 10 yards, Penalty on Phillip Tanner: Offensive Holding (Declined)",0.000,0.280
+4,9:41,1,10,DAL 14,27,24,Felix Jones right tackle for 2 yards (tackle by Brandon Graham and Akeem Jordan),-0.280,-0.510
+4,9:02,2,8,DAL 16,27,24,Felix Jones right guard for 6 yards (tackle by Cullen Jenkins),-0.510,-0.440
+4,8:22,3,2,DAL 22,27,24,Tony Romo pass complete deep right to Dez Bryant for 35 yards (tackle by Dominique Rodgers-Cromartie),-0.440,2.720
+4,7:37,1,10,PHI 43,27,24,Felix Jones right tackle for 3 yards (tackle by Darryl Tapp),2.720,2.580
+4,6:59,2,7,PHI 40,27,24,Tony Romo pass complete deep middle to Jason Witten for 36 yards (tackle by Kurt Coleman and Nate Allen),2.580,6.280
+4,6:23,1,4,PHI 4,27,24,DeMarco Murray middle for -2 yards (tackle by Derek Landri),6.280,4.950
+4,5:40,2,6,PHI 6,27,30,"Tony Romo pass complete short right to Dez Bryant for 6 yards, touchdown",4.950,7.000
+4,5:40,,,PHI 2,27,30,"Dan Bailey kicks extra point good. Penalty on Jermey Parnell: False Start, 5 yards (no play)",0.000,-1.000
+4,5:40,,,PHI 2,27,31,Dan Bailey kicks extra point good,0.000,0.000
+4,5:40,,,DAL 35,27,31,"Dan Bailey kicks off 65 yards, touchback",0.000,-0.280
+4,5:35,1,10,PHI 20,27,31,Bryce Brown middle for 2 yards (tackle by Josh Brent),0.280,0.000
+4,4:59,2,8,PHI 22,27,31,Nick Foles pass incomplete,0.000,0.000
+4,4:51,2,8,PHI 22,27,31,Timeout #1 by Philadelphia Eagles,0.000,-0.690
+4,4:51,3,8,PHI 22,27,31,Nick Foles pass complete deep left to Jason Avant for 19 yards (tackle by Danny McCray),-0.690,1.660
+4,4:09,1,10,PHI 41,27,31,Nick Foles pass complete short right to Jeremy Maclin for 3 yards,1.660,1.530
+4,4:03,2,7,PHI 44,27,37,"Bryce Brown left tackle for 4 yards (tackle by Josh Brent). Bryce Brown fumbles (forced by Josh Brent), recovered by Morris Claiborne at PHI-50 and returned for 50 yards, touchdown",1.530,-7.000
+4,3:50,,,PHI 2,27,38,Dan Bailey kicks extra point good,0.000,0.000
+4,3:50,,,DAL 35,27,38,"Dan Bailey kicks off 65 yards, touchback",0.000,-0.280
+4,3:50,1,10,PHI 20,27,38,Nick Foles pass incomplete short right intended for Jeremy Maclin (defended by Danny McCray),0.280,-0.270
+4,3:44,2,10,PHI 20,27,38,Bryce Brown left end for 13 yards (tackle by Eric Frampton and Danny McCray),-0.270,1.140
+4,3:17,1,10,PHI 33,27,38,"Nick Foles pass incomplete short middle intended for Bryce Brown. Penalty on Anthony Spencer: Roughing the Passer, 15 yards (no play)",1.140,2.130
+4,3:15,1,10,PHI 48,27,38,Nick Foles pass complete short right to Bryce Brown for 2 yards,2.130,1.850
+4,3:08,2,8,DAL 50,27,38,"Nick Foles sacked by Victor Butler for -10 yards. Nick Foles fumbles (forced by Victor Butler), recovered by King Dunlap at PHI-39",1.850,-0.290
+4,2:33,3,19,PHI 39,27,38,Bryce Brown middle for 1 yard (tackle by Anthony Spencer),-0.290,-0.720
+4,2:00,4,18,PHI 40,27,38,"Penalty on DeMarcus Ware: Defensive Offside, 5 yards (no play)",-0.720,-0.390
+4,2:00,4,13,PHI 45,27,38,Nick Foles pass complete short right to Brent Celek for 10 yards (tackle by Morris Claiborne and Sterling Moore),-0.390,-1.930
+4,1:52,1,10,DAL 45,27,38,DeMarco Murray right tackle for 1 yard (tackle by Akeem Jordan),1.930,1.930
+4,1:47,1,10,DAL 45,27,38,Timeout #2 by Philadelphia Eagles,1.930,1.520
+4,1:47,2,9,DAL 46,27,38,DeMarco Murray left guard for no gain (tackle by Mychal Kendricks),1.520,1.520
+4,1:42,2,9,DAL 46,27,38,Timeout #3 by Philadelphia Eagles,1.520,0.830
+4,1:42,3,9,DAL 46,27,38,DeMarco Murray right end for -11 yards (tackle by Akeem Jordan),0.830,0.830
+4,0:53,3,9,DAL 46,27,38,Timeout #2 by Dallas Cowboys,0.830,-1.040
+4,0:53,4,20,DAL 35,33,38,"Brian Moorman punts 63 yards, returned by Damaris Johnson for 98 yards, touchdown",-1.040,-7.000
+4,0:31,,,,33,38,"Two Point Attempt: Nick Foles pass incomplete intended for Jason Avant, conversion fails",0.000,-1.000
+4,0:31,,,PHI 35,33,38,"Alex Henery kicks onside 9 yards, recovered by Jason Witten",0.000,-2.650
+4,0:31,1,10,PHI 44,33,38,Tony Romo kneels for -1 yards,2.650,1.980
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,184 @@
+Quarter,Time,Down,ToGo,Location,PHI,GNB,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Eagles won the coin toss, Eagles to receive the opening kickoff.",,
+1,15:00,,,GNB 30,0,0,"Mason Crosby kicks off 69 yards, returned by J.R. Reed for 26 yards (tackle by John Kuhn)",0.000,0.740
+1,14:55,1,10,PHI 27,0,0,Donovan McNabb pass incomplete short right intended for L.J. Smith,0.740,0.200
+1,14:50,2,10,PHI 27,0,0,"Donovan McNabb pass incomplete. Penalty on Donovan McNabb: Intentional Grounding, 10 yards",0.200,-2.100
+1,14:44,3,20,PHI 17,0,0,Donovan McNabb pass complete short right to Brian Westbrook for 12 yards (tackle by A.J. Hawk). Penalty on Kevin Curtis: Illegal Formation (Declined),-2.100,-1.440
+1,14:27,4,8,PHI 29,0,0,"Saverio Rocca punts 46 yards, returned by Charles Woodson for 15 yards (tackle by Omar Gaither)",-1.440,-1.600
+1,14:15,1,10,GNB 40,0,0,Brandon Jackson left tackle for no gain (tackle by Takeo Spikes and Trent Cole),1.600,1.050
+1,13:39,2,10,GNB 40,0,0,Brett Favre pass incomplete deep middle intended for Donald Driver,1.050,0.370
+1,13:34,3,10,GNB 40,0,0,Brett Favre pass incomplete deep left intended for Ruvell Martin,0.370,-0.720
+1,13:27,4,10,GNB 40,0,6,"Jon Ryan punts 39 yards, muffed catch by Greg Lewis, recovered by Tracy White and returned for no gain, touchdown",-0.720,7.000
+1,13:10,,,PHI 2,0,7,Mason Crosby kicks extra point good,0.000,0.000
+1,13:10,,,GNB 30,0,7,"Mason Crosby kicks off 70 yards, touchback",0.000,0.280
+1,13:10,1,10,PHI 20,0,7,Brian Westbrook right guard for 9 yards (tackle by Atari Bigby),0.280,0.950
+1,12:34,2,1,PHI 29,0,7,Brian Westbrook left tackle for 3 yards (tackle by Nick Collins and Cullen Jenkins),0.950,1.070
+1,11:57,1,10,PHI 32,0,7,Brian Westbrook left end for 4 yards (tackle by Nick Barnett),1.070,1.070
+1,11:20,2,6,PHI 36,0,7,"Donovan McNabb pass incomplete short right intended for Brian Westbrook. Penalty on Shawn Andrews: Offensive Holding, 10 yards (no play)",1.070,-0.280
+1,11:14,2,6,PHI 36,0,7,Timeout #1 by Philadelphia Eagles,1.070,-0.280
+1,11:14,2,16,PHI 26,0,7,Donovan McNabb pass complete short right to Brian Westbrook for 3 yards (tackle by Charles Woodson),-0.280,-0.560
+1,10:41,3,13,PHI 29,0,7,Donovan McNabb pass incomplete short middle intended for Brian Westbrook is intercepted by Nick Barnett at PHI-36 and returned for 2 yards (tackle by Brian Westbrook). Penalty on Shawn Andrews: Offensive Holding (Declined),-0.560,-3.310
+1,10:34,1,10,PHI 34,0,7,Brett Favre pass incomplete short right intended for Brandon Jackson,3.310,2.770
+1,10:34,2,10,PHI 34,0,7,"Penalty on Daryn Colledge: False Start, 5 yards (no play)",2.770,2.090
+1,10:30,2,15,PHI 39,0,7,Brett Favre pass complete short right to Donald Driver for 4 yards (tackle by Sheldon Brown),2.090,1.950
+1,9:45,3,11,PHI 35,0,7,Brett Favre pass incomplete short middle intended for Donald Driver,1.950,0.970
+1,9:39,4,11,PHI 35,0,10,Mason Crosby 53 yard field goal good,0.970,3.000
+1,9:39,,,GNB 30,0,10,"Mason Crosby kicks off 71 yards, returned by J.R. Reed for 30 yards (tackle by Desmond Bishop). Penalty on Montae Reagor: Face Mask (15 Yards), 11 yards",0.000,-0.370
+1,9:29,1,10,PHI 11,0,10,Brian Westbrook up the middle for 2 yards (tackle by Ryan Pickett and Cullen Jenkins),-0.370,-0.630
+1,8:51,2,8,PHI 13,0,10,Correll Buckhalter left tackle for 3 yards (tackle by Cullen Jenkins),-0.630,-0.840
+1,8:10,3,5,PHI 16,0,10,Donovan McNabb pass complete short right to L.J. Smith for 4 yards (tackle by Brady Poppinga and Atari Bigby),-0.840,-2.030
+1,7:23,4,1,PHI 20,0,10,"Saverio Rocca punts 40 yards, returned by Charles Woodson for -2 yards (tackle by Quintin Mikell)",-2.030,-1.470
+1,7:13,1,10,GNB 38,0,10,Brett Favre pass complete short right to James Jones for 8 yards (tackle by Sheldon Brown),1.470,2.000
+1,6:49,2,2,GNB 46,0,10,Brett Favre pass complete short right to James Jones for 8 yards (tackle by Lito Sheppard),2.000,2.520
+1,6:04,2,2,GNB 46,0,10,Timeout #1 by Green Bay Packers,2.000,2.520
+1,6:03,1,10,PHI 46,0,10,Brandon Jackson up the middle for 6 yards (tackle by Chris Gocong and Mike Patterson),2.520,2.790
+1,5:26,2,4,PHI 40,0,10,Brandon Jackson right tackle for 2 yards (tackle by Mike Patterson and Omar Gaither),2.790,2.350
+1,4:52,3,2,PHI 38,0,10,Brett Favre pass incomplete deep middle intended for Bubba Franks is intercepted by Sheldon Brown at PHI-20 and returned for 3 yards (tackle by Bubba Franks),2.350,-0.480
+1,4:46,1,10,PHI 23,0,10,Brian Westbrook left tackle for 6 yards (tackle by Brady Poppinga and Nick Barnett),0.480,0.740
+1,4:11,2,4,PHI 29,0,10,Brian Westbrook left guard for 3 yards (tackle by Johnny Jolly and Aaron Kampman),0.740,0.430
+1,3:33,3,1,PHI 32,0,10,Thomas Tapeh right tackle for 4 yards (tackle by Nick Barnett and Atari Bigby),0.430,1.330
+1,2:55,1,10,PHI 36,0,10,Donovan McNabb for 4 yards (tackle by A.J. Hawk),1.330,1.330
+1,2:23,2,6,PHI 40,0,10,Correll Buckhalter right guard for 5 yards (tackle by Nick Barnett and Aaron Kampman),1.330,1.290
+1,1:45,3,1,PHI 45,0,10,Brian Westbrook left end for 11 yards (tackle by Nick Collins),1.290,2.650
+1,1:02,1,10,GNB 44,0,10,Donovan McNabb pass incomplete short left intended for Brian Westbrook (defended by Johnny Jolly),2.650,2.110
+1,0:59,2,10,GNB 44,0,10,Correll Buckhalter left tackle for 1 yard (tackle by Nick Barnett),2.110,1.550
+1,0:16,3,9,GNB 43,0,10,Donovan McNabb pass complete deep right to Kevin Curtis for 37 yards (tackle by Atari Bigby),1.550,5.830
+Quarter,Time,Down,ToGo,Location,PHI,GNB,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,6,GNB 6,0,10,Brian Westbrook up the middle for 1 yard (tackle by Brady Poppinga and A.J. Hawk),5.830,5.150
+2,14:22,2,5,GNB 5,0,10,Donovan McNabb pass incomplete short left intended for Brian Westbrook,5.150,4.260
+2,14:18,3,5,GNB 5,0,10,Donovan McNabb pass complete short right to Brian Westbrook for no gain,4.260,3.010
+2,13:37,4,5,GNB 5,0,10,"David Akers 23 yard field goal good. Penalty on Matt Schobel: Offensive Holding, 10 yards (no play)",3.010,2.440
+2,13:34,4,15,GNB 15,3,10,David Akers 33 yard field goal good,2.440,3.000
+2,13:34,,,PHI 30,3,10,"David Akers kicks off 75 yards, returned by Tramon Williams for 27 yards (tackle by Joselio Hanson)",0.000,0.410
+2,13:24,1,10,GNB 22,3,10,Brandon Jackson left end for -1 yards (tackle by Chris Gocong),0.410,-0.270
+2,12:38,2,11,GNB 21,3,10,Brett Favre pass complete short middle to Bubba Franks for 5 yards (tackle by Takeo Spikes),-0.270,-0.290
+2,12:38,3,6,GNB 26,3,10,"Penalty on DeShawn Wynn: False Start, 5 yards (no play)",-0.290,-0.960
+2,11:33,3,11,GNB 21,3,10,DeShawn Wynn left tackle for 8 yards (tackle by Sean Considine),-0.960,-1.440
+2,10:58,4,3,GNB 29,3,10,"Jon Ryan punts 43 yards, returned by Greg Lewis for 5 yards (tackle by Atari Bigby)",-1.440,-1.140
+2,10:49,1,10,PHI 33,3,10,Brian Westbrook left guard for 6 yards (tackle by Aaron Kampman),1.140,1.400
+2,10:15,2,4,PHI 39,3,10,Donovan McNabb pass incomplete deep left intended for Kevin Curtis,1.400,0.700
+2,10:09,3,4,PHI 39,3,10,Donovan McNabb pass complete short middle to L.J. Smith for 10 yards (tackle by Jarrett Bush),0.700,2.190
+2,9:30,1,10,PHI 49,3,10,Donovan McNabb for 1 yard (tackle by Kabeer Gbaja-Biamila),2.190,1.780
+2,9:01,2,9,,3,10,Brian Westbrook right tackle for 5 yards (tackle by Nick Barnett),1.780,1.750
+2,8:18,3,4,GNB 45,3,10,Donovan McNabb pass complete short right to Jason Avant for 14 yards (tackle by Atari Bigby),1.750,3.510
+2,7:34,1,10,GNB 31,3,10,Donovan McNabb pass complete short right to Brian Westbrook for 6 yards (tackle by Cullen Jenkins),3.510,3.780
+2,6:49,2,4,GNB 25,3,10,Donovan McNabb pass complete short middle to Brian Westbrook for 16 yards (tackle by Atari Bigby and Charles Woodson),3.780,5.140
+2,6:06,1,9,GNB 9,9,10,"Donovan McNabb pass complete short middle to Jason Avant for 9 yards, touchdown",5.140,7.000
+2,6:06,,,GNB 2,10,10,David Akers kicks extra point good,0.000,0.000
+2,6:06,,,PHI 30,10,10,"David Akers kicks off 67 yards, returned by Tramon Williams for 19 yards (tackle by Hank Baskett)",0.000,0.410
+2,5:54,1,10,GNB 22,10,10,Brett Favre pass incomplete short right intended for Brandon Jackson (defended by Takeo Spikes),0.410,-0.130
+2,5:46,2,10,GNB 22,10,10,Brett Favre pass complete short right to Donald Driver for 10 yards (tackle by Sheldon Brown),-0.130,1.070
+2,5:03,1,10,GNB 32,10,10,Brett Favre pass incomplete deep right intended for Bubba Franks,1.070,0.530
+2,4:57,2,10,GNB 32,10,10,Brandon Jackson left end for 6 yards (tackle by Lito Sheppard),0.530,0.630
+2,4:12,3,4,GNB 38,10,10,Brett Favre sacked by Trent Cole and Jevon Kearse for -6 yards,0.630,-1.240
+2,3:46,4,10,GNB 32,10,10,"Jon Ryan punts 33 yards, returned by Greg Lewis for -1 yards (tackle by Jarrett Bush)",-1.240,-1.200
+2,3:38,1,10,PHI 34,10,10,Brian Westbrook left guard for -1 yards (tackle by Cullen Jenkins),1.200,0.520
+2,2:55,2,11,PHI 33,10,10,Donovan McNabb left tackle for 3 yards (tackle by Kabeer Gbaja-Biamila),0.520,0.230
+2,2:08,3,8,PHI 36,10,10,Donovan McNabb pass incomplete deep right intended for Reggie Brown,0.230,-0.980
+2,2:01,4,8,PHI 36,10,10,Saverio Rocca punts 47 yards,-0.980,0.060
+2,1:50,1,10,GNB 17,10,10,Brett Favre pass incomplete deep right intended for Ruvell Martin (defended by Sean Considine),-0.060,-0.580
+2,1:43,2,10,GNB 17,10,10,"Penalty on Brett Favre: Delay of Game, 5 yards (no play)",-0.580,-1.150
+2,1:43,2,15,GNB 12,10,10,Brett Favre pass complete short right to Brandon Jackson for 6 yards (tackle by Takeo Spikes and Darren Howard),-1.150,-1.130
+2,1:31,2,15,GNB 12,10,10,Timeout #2 by Philadelphia Eagles,-1.150,-1.130
+2,1:31,3,9,GNB 18,10,10,Brett Favre pass complete short middle to Donald Driver for 15 yards (tackle by Sheldon Brown),-1.130,1.140
+2,1:09,1,10,GNB 33,10,10,Brett Favre pass complete short middle to Brandon Jackson for 13 yards (tackle by Sean Considine),1.140,1.990
+2,0:47,1,10,GNB 46,10,10,Brett Favre pass incomplete short right intended for James Jones,1.990,1.450
+2,0:43,2,10,GNB 46,10,10,Brett Favre pass complete short middle to James Jones for 6 yards (tackle by Brian Dawkins),1.450,1.550
+2,0:36,2,10,GNB 46,10,10,Timeout #2 by Green Bay Packers,1.450,1.550
+2,0:36,3,4,PHI 48,10,10,Brett Favre pass complete short left to Ruvell Martin for 10 yards,1.550,3.050
+2,0:17,1,10,PHI 38,10,10,Brett Favre sacked by Montae Reagor for -9 yards,3.050,1.290
+2,0:11,1,10,PHI 38,10,10,Timeout #3 by Green Bay Packers,3.050,1.290
+2,0:11,2,19,PHI 47,10,10,Brett Favre pass complete short middle to Brandon Jackson for 15 yards (tackle by Takeo Spikes),1.290,2.610
+Quarter,Time,Down,ToGo,Location,PHI,GNB,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PHI 30,10,10,"David Akers kicks off no gain, returned by Tramon Williams for 30 yards (tackle by Stewart Bradley)",0.000,0.940
+3,14:53,1,10,GNB 30,10,10,Brandon Jackson left tackle for 2 yards (tackle by Mike Patterson and Takeo Spikes),0.940,0.660
+3,14:15,2,8,GNB 32,10,10,Brett Favre pass incomplete short middle intended for Bubba Franks,0.660,-0.030
+3,14:09,3,8,GNB 32,10,10,Brett Favre pass complete short right to Bubba Franks for 12 yards (tackle by Brian Dawkins),-0.030,1.860
+3,13:30,1,10,GNB 44,10,10,Brandon Jackson left tackle for 1 yard (tackle by Omar Gaither),1.860,1.450
+3,12:53,2,9,GNB 45,10,10,Brett Favre pass complete short left to Donald Driver for 5 yards (tackle by Sheldon Brown),1.450,1.420
+3,12:10,3,4,GNB 50,10,10,Brett Favre pass incomplete short right intended for James Jones,1.420,-0.060
+3,12:04,4,4,GNB 50,10,10,"Jon Ryan punts 39 yards, fair catch by Greg Lewis",-0.060,0.350
+3,11:56,1,10,PHI 12,10,10,Brian Westbrook right guard for 3 yards (tackle by Ryan Pickett and Atari Bigby),-0.350,-0.500
+3,11:18,2,7,PHI 15,10,10,Donovan McNabb pass incomplete short right intended for Brian Westbrook,-0.500,-1.070
+3,11:13,3,7,PHI 15,10,10,Donovan McNabb pass complete short middle to Jason Avant for 31 yards (tackle by Nick Barnett),-1.070,1.990
+3,10:30,1,10,PHI 46,10,10,Donovan McNabb pass incomplete short right intended for Brian Westbrook,1.990,1.450
+3,10:26,2,10,PHI 46,10,10,Brian Westbrook right end for 4 yards (tackle by Atari Bigby),1.450,1.290
+3,9:42,3,6,,10,10,Donovan McNabb pass complete short right to Kevin Curtis for 16 yards (tackle by Charles Woodson),1.290,3.310
+3,9:10,1,10,GNB 34,10,10,Brian Westbrook up the middle for 5 yards (tackle by Ryan Pickett),3.310,3.450
+3,8:33,2,5,GNB 29,10,10,Donovan McNabb pass incomplete short left intended for Reggie Brown (defended by Johnny Jolly),3.450,2.740
+3,8:28,3,5,GNB 29,10,10,Donovan McNabb pass incomplete deep right intended for Kevin Curtis (defended by Al Harris),2.740,1.540
+3,8:20,4,5,GNB 29,13,10,David Akers 47 yard field goal good,1.540,3.000
+3,8:20,,,PHI 30,13,10,"David Akers kicks off 64 yards, returned by Tramon Williams for 24 yards (tackle by Stewart Bradley)",0.000,0.940
+3,8:10,1,10,GNB 30,13,10,Brett Favre pass complete short right to Brandon Jackson for 1 yard (tackle by Takeo Spikes),0.940,0.530
+3,7:31,2,9,GNB 31,13,10,Brett Favre pass complete short right to Donald Lee for 5 yards (tackle by Takeo Spikes),0.530,0.500
+3,6:47,3,4,GNB 36,13,10,Brett Favre pass complete deep middle to Donald Driver for 22 yards,0.500,2.790
+3,5:58,1,10,PHI 42,13,10,Brett Favre pass incomplete short right intended for Donald Driver,2.790,2.240
+3,5:53,2,10,PHI 42,13,10,"Brett Favre pass incomplete short right intended for Donald Driver. Penalty on Donald Driver: Offensive Pass Interference, 10 yards (no play)",2.240,0.890
+3,5:47,2,20,GNB 48,13,10,Brett Favre pass complete short middle to Donald Driver for 10 yards (tackle by Joselio Hanson),0.890,1.550
+3,5:01,3,10,PHI 42,13,10,Brett Favre pass complete short middle to DeShawn Wynn for 18 yards (tackle by Trent Cole),1.550,3.970
+3,4:12,1,10,PHI 24,13,10,Brandon Jackson left end for no gain (tackle by Mike Patterson),3.970,3.430
+3,3:30,2,10,PHI 24,13,10,Brett Favre pass complete short right to Donald Lee for 6 yards (tackle by Mike Patterson),3.430,3.570
+3,2:49,2,10,PHI 24,13,10,Timeout #1 by Philadelphia Eagles,3.430,3.570
+3,2:49,3,4,PHI 18,13,10,Brett Favre pass complete short middle to Ruvell Martin for 4 yards (tackle by Sheldon Brown),3.570,4.650
+3,2:17,1,10,PHI 14,13,10,Brandon Jackson left end for 3 yards (tackle by Mike Patterson),4.650,4.520
+3,1:37,2,7,PHI 11,13,10,Brett Favre sacked by Mike Patterson for -8 yards,4.520,2.730
+3,0:54,3,15,PHI 19,13,10,Brett Favre pass incomplete short right intended for James Jones,2.730,2.180
+3,0:49,4,15,PHI 19,13,13,Mason Crosby 37 yard field goal good,2.180,3.000
+3,0:49,,,GNB 30,13,13,"Mason Crosby kicks off 63 yards, returned by J.R. Reed for 17 yards (tackle by John Kuhn)",0.000,0.540
+3,0:41,1,10,PHI 24,13,13,Donovan McNabb pass incomplete short left intended for Correll Buckhalter,0.540,0.000
+3,0:34,2,10,PHI 24,13,13,Brian Westbrook right tackle for 2 yards (tackle by Aaron Kampman),0.000,-0.430
+Quarter,Time,Down,ToGo,Location,PHI,GNB,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,8,PHI 26,13,13,"Donovan McNabb sacked by Cullen Jenkins for -12 yards. Penalty on Charles Woodson: Illegal Contact, 5 yards (no play)",-0.430,1.000
+4,14:32,1,10,PHI 31,13,13,Donovan McNabb pass incomplete short middle intended for Reggie Brown,1.000,0.460
+4,14:28,2,10,PHI 31,13,13,Donovan McNabb pass complete short left to Reggie Brown for 14 yards (tackle by Nick Collins),0.460,1.930
+4,13:48,1,10,PHI 45,13,13,Donovan McNabb pass incomplete deep right intended for Reggie Brown,1.930,1.380
+4,13:41,2,10,PHI 45,13,13,Donovan McNabb pass complete short right to Brian Westbrook for 9 yards (tackle by Johnny Jolly and Nick Barnett),1.380,1.880
+4,12:54,3,1,GNB 46,13,13,Donovan McNabb sacked by Corey Williams for -4 yards,1.880,-0.060
+4,12:29,4,5,,13,13,"Saverio Rocca punts 37 yards, fair catch by Charles Woodson. Penalty on PHI: Illegal Formation, 5 yards",-0.060,-0.040
+4,12:23,1,10,GNB 18,13,13,Brett Favre pass incomplete short middle intended for Donald Driver,0.040,-0.490
+4,12:19,2,10,GNB 18,13,13,Brandon Jackson up the middle for -1 yards (tackle by Trent Cole and Mike Patterson),-0.490,-1.340
+4,12:19,3,11,GNB 17,13,13,"Penalty on Daryn Colledge: False Start, 5 yards (no play)",-1.340,-2.120
+4,11:17,3,16,GNB 12,13,13,Brett Favre pass complete short right to James Jones for 7 yards,-2.120,-2.140
+4,10:42,4,9,GNB 19,13,13,"Jon Ryan punts 47 yards, returned by Greg Lewis for no gain",-2.140,-1.200
+4,10:31,1,10,PHI 34,13,13,Donovan McNabb pass incomplete short right intended for Reggie Brown,1.200,0.660
+4,10:28,2,10,PHI 34,13,13,Brian Westbrook left guard for 9 yards (tackle by A.J. Hawk and Nick Barnett),0.660,1.160
+4,9:49,3,1,PHI 43,13,13,Brian Westbrook left end for 4 yards (tackle by Nick Barnett),1.160,2.060
+4,9:13,1,10,PHI 47,13,13,Brian Westbrook up the middle for 2 yards (tackle by A.J. Hawk),2.060,1.790
+4,8:32,1,10,PHI 47,13,13,Timeout #2 by Philadelphia Eagles,2.060,1.790
+4,8:32,2,8,PHI 49,13,13,Donovan McNabb right end for 1 yard (tackle by Aaron Kampman),1.790,1.220
+4,7:48,3,7,,13,13,Donovan McNabb pass incomplete short left intended for Jason Avant (defended by Nick Collins),1.220,-0.060
+4,7:42,4,7,,13,13,"Saverio Rocca punts 50 yards, touchback",-0.060,-0.280
+4,7:36,1,10,GNB 20,13,13,Brett Favre pass incomplete short right intended for Donald Driver,0.280,-0.270
+4,7:32,2,10,GNB 20,13,13,Brett Favre pass complete short middle to Donald Lee for 9 yards (tackle by Takeo Spikes),-0.270,0.170
+4,6:52,3,2,GNB 29,13,13,Brett Favre pass incomplete deep right intended for James Jones,0.170,-1.440
+4,6:46,4,2,GNB 29,13,13,"Jon Ryan punts 56 yards, returned by J.R. Reed for 8 yards (tackle by Jason Hunter)",-1.440,-0.480
+4,6:34,1,10,PHI 23,13,13,Brian Westbrook right end for 5 yards (tackle by Aaron Kampman and Jarrett Bush),0.480,0.610
+4,5:57,2,5,PHI 28,13,13,Donovan McNabb pass incomplete left intended for Brian Westbrook (defended by Johnny Jolly),0.610,-0.100
+4,5:53,3,5,PHI 28,13,13,Donovan McNabb pass complete short middle to Correll Buckhalter for 3 yards (tackle by Jarrett Bush),-0.100,-1.310
+4,5:20,4,2,PHI 31,13,13,"Saverio Rocca punts 35 yards. Penalty on Jason Avant: Unnecessary Roughness, 15 yards",-1.310,-2.190
+4,5:08,1,10,GNB 49,13,13,Brandon Jackson right tackle for 3 yards (tackle by Mike Patterson and Brodrick Bunkley),2.190,2.050
+4,4:30,2,7,PHI 48,13,13,Brett Favre pass incomplete short middle intended for Bubba Franks,2.050,1.360
+4,4:26,3,7,PHI 48,13,13,"Brett Favre sacked by Trent Cole for -9 yards. Brett Favre fumbles (forced by Trent Cole), recovered by Jevon Kearse at GNB-38 (tackle by Chad Clifton)",1.360,-3.050
+4,4:18,1,10,GNB 38,13,13,Correll Buckhalter up the middle for -4 yards (tackle by Nick Barnett),3.050,1.970
+4,3:36,2,14,GNB 42,13,13,Brian Westbrook left tackle for 2 yards (tackle by Nick Barnett and Ryan Pickett),1.970,1.550
+4,2:53,3,12,GNB 40,13,13,"Donovan McNabb up the middle for 2 yards (tackle by Kabeer Gbaja-Biamila). Penalty on Todd Herremans: Offensive Holding, 10 yards (no play)",1.550,0.230
+4,2:47,3,22,,13,13,Donovan McNabb pass incomplete deep left intended for Kevin Curtis,0.230,-0.060
+4,2:38,4,22,,13,13,"Saverio Rocca punts 28 yards, out of bounds",-0.060,-0.410
+4,2:32,1,10,GNB 22,13,13,Brandon Jackson right guard for 9 yards (tackle by Brian Dawkins),0.410,1.080
+4,2:04,2,1,GNB 31,13,13,Brandon Jackson up the middle for 2 yards (tackle by Omar Gaither),1.080,1.140
+4,1:59,1,10,GNB 33,13,13,Brett Favre pass complete short right to Donald Lee for 7 yards,1.140,1.540
+4,1:19,2,3,GNB 40,13,13,Brett Favre pass incomplete deep left intended for Ruvell Martin,1.540,0.830
+4,1:13,3,3,GNB 40,13,13,Brett Favre pass incomplete short right intended for Donald Driver (defended by Quintin Mikell),0.830,-0.720
+4,1:09,4,3,GNB 40,13,13,"Jon Ryan punts 29 yards, muffed catch by J.R. Reed, recovered by Jarrett Bush and returned for no gain",-0.720,3.510
+4,0:59,1,10,PHI 31,13,13,Brandon Jackson up the middle for 1 yard (tackle by Mike Patterson and Sean Considine),3.510,3.100
+4,0:52,1,10,PHI 31,13,13,Timeout #3 by Philadelphia Eagles,3.510,3.100
+4,0:51,2,9,PHI 30,13,13,Brandon Jackson right tackle for 7 yards (tackle by Sheldon Brown and Chris Gocong),3.100,3.340
+4,0:15,3,2,PHI 23,13,13,Brett Favre kneels for -2 yards,3.340,1.880
+4,0:06,3,2,PHI 23,13,13,Timeout #1 by Green Bay Packers,3.340,1.880
+4,0:06,4,4,PHI 25,13,16,Mason Crosby 42 yard field goal good,1.880,3.000
+4,0:06,4,4,PHI 25,13,16,--,1.880,0.610
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

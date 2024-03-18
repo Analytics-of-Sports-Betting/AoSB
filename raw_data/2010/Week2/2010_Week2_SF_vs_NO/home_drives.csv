@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,SFO 10,3,1:32,-10,"Fumble, Safety"
+2,1,9:33,SFO 28,3,2:07,8,Punt
+3,1,5:24,SFO 46,4,1:55,27,Interception
+4,1,0:35,SFO 18,12,5:43,82,Touchdown
+5,2,6:42,SFO 17,10,5:42,75,Fumble
+6,3,10:27,SFO 14,6,3:36,86,Touchdown
+7,3,1:43,SFO 18,3,1:43,9,Punt
+8,4,13:31,SFO 20,5,2:22,58,Interception
+9,4,8:45,SFO 31,4,1:47,14,Punt
+10,4,2:12,SFO 18,8,0:53,82,Touchdown

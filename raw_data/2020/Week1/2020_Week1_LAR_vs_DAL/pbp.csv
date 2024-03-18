@@ -1,0 +1,193 @@
+Quarter,Time,Down,ToGo,Location,DAL,LAR,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Cowboys won the coin toss and deferred, Rams to receive the opening kickoff.",,
+1,15:00,,,DAL 35,0,0,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,LAR 25,0,0,"Penalty on DeMarcus Lawrence: Neutral Zone Infraction, 5 yards (no play)",0.610,1.340
+1,15:00,1,5,LAR 30,0,0,Jared Goff pass complete short left to Robert Woods for 20 yards (tackle by Jaylon Smith),1.340,2.260
+1,14:25,1,10,LAR 50,0,0,Cam Akers left tackle for 4 yards (tackle by Trysten Hill and Aldon Smith),2.260,2.250
+1,13:40,2,6,DAL 46,0,0,Jared Goff pass complete short left to Robert Woods for 31 yards (tackle by Darian Thompson),2.250,4.580
+1,13:14,1,10,DAL 15,0,0,Jared Goff pass complete short right to Robert Woods for 9 yards (tackle by Chidobe Awuzie),4.580,5.600
+1,13:01,2,1,DAL 6,0,0,Cam Akers left end for no gain (tackle by Dontari Poe),5.600,4.900
+1,12:16,,,,,,Timeout #1 by Los Angeles Rams,,
+1,12:16,3,1,DAL 6,0,0,Malcolm Brown up the middle for 5 yards (tackle by Leighton Vander Esch and Jaylon Smith),4.900,6.970
+1,11:41,1,1,DAL 1,0,6,"Malcolm Brown up the middle for 1 yard, touchdown",6.970,7.000
+1,11:37,,,DAL 15,0,7,Sam Sloman kicks extra point good,0.000,0.000
+1,11:37,,,LAR 35,0,7,"Sam Sloman kicks off 65 yards, touchback.",0.000,0.610
+1,11:37,1,10,DAL 25,0,7,Dak Prescott pass complete short left to Amari Cooper for 9 yards (tackle by Jalen Ramsey),0.610,1.280
+1,11:11,2,1,DAL 34,0,7,Ezekiel Elliott up the middle for 10 yards (tackle by John Johnson and Jordan Fuller),1.280,1.860
+1,10:44,1,10,DAL 44,0,7,Dak Prescott pass complete short left to Ezekiel Elliott for 10 yards (tackle by Micah Kiser),1.860,2.520
+1,10:25,1,10,LAR 46,0,7,Ezekiel Elliott right end for 1 yard (tackle by Micah Kiser),2.520,2.110
+1,9:54,2,9,LAR 45,0,7,Dak Prescott sacked by Aaron Donald for -7 yards,2.110,0.500
+1,9:12,3,16,DAL 48,0,7,Dak Prescott pass incomplete short left intended for Tony Pollard,0.500,-0.190
+1,9:07,4,16,DAL 48,0,7,"Chris Jones punts 35 yards, fair catch by Cooper Kupp at LA-17",-0.190,0.060
+1,8:59,1,10,LAR 17,0,7,Cam Akers up the middle for 3 yards (tackle by Jaylon Smith),-0.060,-0.060
+1,8:16,2,7,LAR 20,0,7,"Penalty on Everson Griffen: Neutral Zone Infraction, 5 yards (no play)",-0.060,0.620
+1,7:51,2,2,LAR 25,0,7,Cam Akers right end for no gain (tackle by Xavier Woods and Aldon Smith),0.620,-0.240
+1,7:09,3,2,LAR 25,0,7,Malcolm Brown up the middle for 7 yards (tackle by Darian Thompson),-0.240,1.070
+1,6:43,1,10,LAR 32,0,7,Jared Goff pass complete short left to Malcolm Brown for 18 yards (tackle by Leighton Vander Esch),1.070,2.260
+1,6:19,1,10,LAR 50,0,7,Jared Goff pass incomplete short right intended for Robert Woods (defended by DeMarcus Lawrence),2.260,1.710
+1,6:15,2,10,LAR 50,0,7,Malcolm Brown right tackle for 3 yards (tackle by Dorance Armstrong),1.710,1.420
+1,5:36,3,7,DAL 47,0,7,Jared Goff pass complete short right to Malcolm Brown for 6 yards (tackle by DeMarcus Lawrence),1.420,0.530
+1,5:14,4,1,DAL 41,0,7,Malcolm Brown up the middle for 2 yards (tackle by Xavier Woods and Leighton Vander Esch),0.530,2.980
+1,4:38,1,10,DAL 39,0,7,Jared Goff pass complete short left to Cam Akers for 4 yards (tackle by Darian Thompson),2.980,2.980
+1,4:10,2,6,DAL 35,0,7,Jared Goff pass complete short right to Cooper Kupp for 8 yards (tackle by Anthony Brown),2.980,3.780
+1,3:35,1,10,DAL 27,0,7,Jared Goff pass complete short right to Tyler Higbee for 4 yards (tackle by Xavier Woods),3.780,3.770
+1,3:02,2,6,DAL 23,0,7,Cam Akers left tackle for 4 yards (tackle by Jaylon Smith and Dontari Poe),3.770,3.640
+1,2:19,3,2,DAL 19,0,7,Darrell Henderson right guard for 3 yards (tackle by Everson Griffen),3.640,4.510
+1,1:32,1,10,DAL 16,0,7,Darrell Henderson right end for no gain (tackle by Aldon Smith and Jaylon Smith),4.510,3.900
+1,0:50,2,10,DAL 16,0,7,Jared Goff pass complete short left to Robert Woods for 5 yards (tackle by Aldon Smith),3.900,3.940
+1,0:12,3,5,DAL 11,0,7,Jared Goff pass incomplete short right,3.940,2.750
+1,0:05,4,5,DAL 11,0,7,Sam Sloman 29 yard field goal no good,2.750,-0.280
+1,0:02,1,10,DAL 20,0,7,Ezekiel Elliott left tackle for no gain (tackle by Sebastian Joseph),0.280,-0.270
+Quarter,Time,Down,ToGo,Location,DAL,LAR,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,10,DAL 20,0,7,"Dak Prescott pass complete short left to Michael Gallup for 24 yards (tackle by Jordan Fuller). Penalty on CeeDee Lamb: Illegal Block Above the Waist, 10 yards",-0.270,1.200
+2,14:42,1,10,DAL 34,0,7,Dak Prescott pass complete short middle to Tony Pollard for 4 yards (tackle by Samson Ebukam and Kenny Young),1.200,1.200
+2,14:06,2,6,DAL 38,0,7,Dak Prescott pass complete short left to Amari Cooper for 5 yards (tackle by Jalen Ramsey),1.200,1.160
+2,14:03,3,1,DAL 43,0,7,Ezekiel Elliott up the middle for 4 yards (tackle by Samson Ebukam and Micah Kiser),1.160,2.060
+2,13:30,1,10,DAL 47,0,7,Dak Prescott pass complete deep right to CeeDee Lamb for 33 yards (tackle by John Johnson),2.060,4.240
+2,13:10,1,10,LAR 20,0,7,Dak Prescott pass complete short right to Amari Cooper for 6 yards,4.240,4.640
+2,12:45,2,4,LAR 14,0,7,"Penalty on Tyron Smith: False Start, 5 yards (no play)",4.640,3.820
+2,12:33,2,9,LAR 19,6,7,"Dak Prescott pass complete short right to Ezekiel Elliott for 19 yards, touchdown",3.820,7.000
+2,12:24,,,LAR 15,7,7,Greg Zuerlein kicks extra point good,0.000,0.000
+2,12:24,,,DAL 35,7,7,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+2,12:24,1,10,LAR 25,7,7,Malcolm Brown left guard for 11 yards (tackle by Darian Thompson),0.610,1.330
+2,11:59,1,10,LAR 36,7,7,Robert Woods left end for 14 yards (tackle by Joe Thomas and Tyrone Crawford),1.330,2.260
+2,11:30,1,10,LAR 50,7,7,Jared Goff pass incomplete short right intended for Gerald Everett,2.260,1.710
+2,11:26,2,10,LAR 50,7,7,Jared Goff pass complete short middle to Tyler Higbee for 21 yards (tackle by Darian Thompson),1.710,3.640
+2,10:45,1,10,DAL 29,7,7,Malcolm Brown left tackle for 6 yards (tackle by Darian Thompson),3.640,3.910
+2,10:22,2,4,DAL 23,7,7,Malcolm Brown left tackle for no gain (tackle by Everson Griffen),3.910,3.200
+2,9:39,3,4,DAL 23,7,7,Jared Goff pass complete short right to Cooper Kupp for 11 yards (tackle by Chidobe Awuzie),3.200,4.780
+2,9:00,1,10,DAL 12,7,7,"Jared Goff pass incomplete short middle. Penalty on Jared Goff: Intentional Grounding, 10 yards",4.780,2.870
+2,8:54,2,20,DAL 22,7,7,"Penalty on Everson Griffen: Neutral Zone Infraction, 5 yards (no play)",2.870,3.420
+2,8:54,2,15,DAL 17,7,7,Jared Goff pass incomplete short right intended for Malcolm Brown,3.420,2.840
+2,8:50,3,15,DAL 17,7,7,Jared Goff pass incomplete short left intended for Cooper Kupp (defended by Everson Griffen),2.840,2.310
+2,8:46,4,15,DAL 17,7,10,Sam Sloman 35 yard field goal good,2.310,3.000
+2,8:42,,,LAR 35,7,10,"Sam Sloman kicks off 65 yards, touchback.",0.000,0.610
+2,8:42,1,10,DAL 25,7,10,Ezekiel Elliott left end for 4 yards (tackle by Samson Ebukam),0.610,0.600
+2,8:18,2,6,DAL 29,7,10,Dak Prescott pass complete short right to CeeDee Lamb for 3 yards (tackle by Troy Hill),0.600,0.300
+2,7:43,3,3,DAL 32,7,10,Dak Prescott up the middle for 6 yards (tackle by Michael Brockers),0.300,1.470
+2,7:09,1,10,DAL 38,7,10,Tony Pollard up the middle for 6 yards (tackle by Jordan Fuller),1.470,1.730
+2,6:35,2,4,DAL 44,7,10,Dak Prescott pass complete short left to Tony Pollard for 18 yards (tackle by Jalen Ramsey),1.730,3.050
+2,6:11,1,10,LAR 38,7,10,Dak Prescott pass incomplete short middle intended for Ezekiel Elliott (defended by Micah Kiser),3.050,2.510
+2,6:04,2,10,LAR 38,7,10,Ezekiel Elliott up the middle for 3 yards (tackle by Samson Ebukam and Aaron Donald),2.510,2.210
+2,5:22,3,7,LAR 35,7,10,Dak Prescott pass incomplete short right intended for CeeDee Lamb,2.210,0.970
+2,5:17,4,7,LAR 35,7,10,Greg Zuerlein 53 yard field goal no good,0.970,-1.800
+2,5:12,1,10,LAR 43,7,10,Cam Akers right tackle for 4 yards (tackle by Everson Griffen and Xavier Woods),1.800,1.790
+2,4:36,2,6,LAR 47,7,10,Cam Akers up the middle for 1 yard (tackle by Trysten Hill and Aldon Smith),1.790,1.220
+2,3:52,3,5,LAR 48,7,10,Jared Goff pass complete deep left to Van Jefferson for 31 yards (tackle by Trevon Diggs),1.220,4.170
+2,3:09,1,10,DAL 21,7,10,Cam Akers right end for 6 yards (tackle by Dontari Poe),4.170,4.550
+2,2:45,2,4,DAL 15,7,10,Jared Goff pass incomplete short left,4.550,3.810
+2,2:39,3,4,DAL 15,7,10,Malcolm Brown right tackle for 2 yards (tackle by Joe Thomas and Daryl Worley),3.810,2.690
+2,2:00,4,2,DAL 13,7,13,Sam Sloman 31 yard field goal good,2.690,3.000
+2,1:56,,,LAR 35,7,13,"Sam Sloman kicks off 59 yards, returned by Tony Pollard for 21 yards (tackle by Troy Reeder)",0.000,0.740
+2,1:52,1,10,DAL 27,7,13,Dak Prescott pass complete short left to Amari Cooper for 9 yards (tackle by Darious Williams),0.740,1.410
+2,1:46,2,1,DAL 36,7,13,Dak Prescott pass complete short left to Blake Jarwin for 12 yards (tackle by Jordan Fuller),1.410,2.130
+2,1:41,1,10,DAL 48,7,13,Dak Prescott pass complete short middle to CeeDee Lamb for 12 yards (tackle by Jordan Fuller),2.130,2.920
+2,1:23,1,10,LAR 40,7,13,Dak Prescott pass complete short middle to Michael Gallup for 14 yards (tackle by Darious Williams),2.920,3.840
+2,1:07,,,,,,Timeout #1 by Dallas Cowboys,,
+2,1:07,1,10,LAR 26,7,13,Ezekiel Elliott left end for 14 yards (tackle by Darious Williams),3.840,4.780
+2,1:02,1,10,LAR 12,7,13,"Dak Prescott pass complete short right to Ezekiel Elliott for 12 yards. Penalty on Dalton Schultz: Offensive Pass Interference, 10 yards (no play)",4.780,4.110
+2,0:54,1,20,LAR 22,7,13,Dak Prescott pass complete short middle to CeeDee Lamb for 9 yards (tackle by Troy Hill),4.110,3.940
+2,0:46,,,,,,Timeout #2 by Los Angeles Rams,,
+2,0:46,2,11,LAR 13,7,13,Dak Prescott up the middle for 12 yards (tackle by Jordan Fuller and John Johnson),3.940,6.970
+2,0:27,1,1,LAR 1,7,13,Ezekiel Elliott up the middle for no gain (tackle by Micah Kiser),6.970,5.910
+2,0:21,,,,,,Timeout #2 by Dallas Cowboys,,
+2,0:21,2,1,LAR 1,13,13,"Ezekiel Elliott up the middle for 1 yard, touchdown",5.910,7.000
+2,0:17,,,LAR 15,14,13,Greg Zuerlein kicks extra point good,0.000,0.000
+2,0:17,,,DAL 35,14,13,"Greg Zuerlein kicks off 57 yards, returned by Nsimba Webster for 20 yards (tackle by C.J. Goodwin)",0.000,0.810
+2,0:12,1,10,LAR 28,14,13,Malcolm Brown right tackle for 12 yards (tackle by Aldon Smith),0.810,1.600
+Quarter,Time,Down,ToGo,Location,DAL,LAR,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,LAR 35,14,13,"Sam Sloman kicks off 60 yards, returned by Tony Pollard for 27 yards (tackle by Xavier Jones and Taylor Rapp)",0.000,1.070
+3,14:53,1,10,DAL 32,14,13,Ezekiel Elliott left tackle for 12 yards (tackle by Troy Hill),1.070,1.860
+3,14:23,1,10,DAL 44,14,13,Ezekiel Elliott left tackle for no gain (tackle by Aaron Donald and Kenny Young),1.860,1.320
+3,13:41,2,10,DAL 44,14,13,Dak Prescott pass incomplete short right,1.320,0.630
+3,13:34,3,10,DAL 44,14,13,Dak Prescott pass complete short middle to Dalton Schultz for 11 yards (tackle by Troy Hill),0.630,2.590
+3,13:11,1,10,LAR 45,14,13,Ezekiel Elliott left tackle for 3 yards (tackle by Micah Kiser),2.590,2.450
+3,12:41,2,7,LAR 42,14,13,Ezekiel Elliott left guard for 3 yards (tackle by Aaron Donald and Sebastian Joseph),2.450,2.150
+3,12:08,3,4,LAR 39,14,13,Dak Prescott sacked by Michael Brockers for -8 yards,2.150,0.130
+3,11:31,4,12,LAR 47,14,13,"Chris Jones punts 32 yards, fair catch by Cooper Kupp at LA-15",0.130,0.220
+3,11:24,1,10,LAR 15,14,13,Cam Akers right tackle for 1 yard (tackle by Joe Thomas),-0.220,-0.580
+3,10:39,2,9,LAR 16,14,13,Cam Akers up the middle for 4 yards (tackle by Trysten Hill and Joe Thomas),-0.580,-0.760
+3,10:00,3,5,LAR 20,14,13,Jared Goff pass complete short left to Robert Woods for 10 yards (tackle by Anthony Brown),-0.760,0.940
+3,9:49,1,10,LAR 30,14,13,"Jared Goff pass complete short right to Gerald Everett for 14 yards (tackle by Joe Thomas). Penalty on Andrew Whitworth: Ineligible Downfield Pass, 5 yards (no play)",0.940,0.610
+3,9:24,1,15,LAR 25,14,13,Jared Goff pass complete short left to Gerald Everett for 7 yards (tackle by Darian Thompson),0.610,0.660
+3,8:48,2,8,LAR 32,14,13,Malcolm Brown right tackle for 4 yards (tackle by Jaylon Smith),0.660,0.500
+3,8:26,3,4,LAR 36,14,13,Jared Goff right end for 8 yards (tackle by Xavier Woods),0.500,1.860
+3,8:08,1,10,LAR 44,14,13,Jared Goff pass complete deep right to Robert Woods for 30 yards (tackle by Xavier Woods and Darian Thompson),1.860,3.840
+3,7:20,,,,,,Timeout #1 by Los Angeles Rams,,
+3,7:20,1,10,DAL 26,14,13,Cam Akers left tackle for 1 yard (tackle by Aldon Smith and Trysten Hill),3.840,3.430
+3,6:40,2,9,DAL 25,14,13,Jared Goff pass complete short left to Cooper Kupp for 6 yards (tackle by Darian Thompson and Jaylon Smith),3.430,3.570
+3,5:59,3,3,DAL 19,14,13,Jared Goff pass complete short left to Josh Reynolds for 17 yards (tackle by Xavier Woods),3.570,6.740
+3,5:38,1,2,DAL 2,14,19,"Malcolm Brown left end for 2 yards, touchdown",6.740,7.000
+3,5:33,,,DAL 15,14,20,Sam Sloman kicks extra point good,0.000,0.000
+3,5:33,,,LAR 35,14,20,"Sam Sloman kicks off 65 yards, touchback.",0.000,0.610
+3,5:33,1,10,DAL 25,14,20,Dak Prescott pass complete short right to Michael Gallup for 12 yards (tackle by Troy Hill),0.610,1.400
+3,5:11,1,10,DAL 37,14,20,Ezekiel Elliott up the middle for 1 yard (tackle by Morgan Fox and Leonard Floyd),1.400,0.990
+3,4:39,2,9,DAL 38,14,20,Dak Prescott pass incomplete short right intended for Amari Cooper (defended by Morgan Fox),0.990,0.300
+3,4:35,3,9,DAL 38,14,20,Dak Prescott pass incomplete short left intended for Michael Gallup (defended by Micah Kiser),0.300,-0.850
+3,4:29,4,9,DAL 38,14,20,"Chris Jones punts 35 yards, fair catch by Cooper Kupp at LA-27",-0.850,-0.740
+3,4:22,1,10,LAR 27,14,20,Darrell Henderson up the middle for 3 yards (tackle by Antwaun Woods and Anthony Brown),0.740,0.600
+3,4:02,2,7,LAR 30,14,20,Jared Goff pass incomplete deep right intended for Tyler Higbee,0.600,-0.100
+3,3:58,3,7,LAR 30,14,20,Jared Goff pass short right intended for Van Jefferson is intercepted by Chidobe Awuzie at LA-39 and returned for no gain,-0.100,-2.980
+3,3:43,1,10,LAR 39,14,20,Ezekiel Elliott up the middle for 5 yards (tackle by Kenny Young),2.980,3.120
+3,3:11,2,5,LAR 34,14,20,"Dak Prescott pass incomplete short middle intended for Amari Cooper. Penalty on Micah Kiser: Defensive Pass Interference, 4 yards (no play)",3.120,3.580
+3,3:05,1,10,LAR 30,14,20,Dak Prescott pass complete short right to Amari Cooper for 11 yards (tackle by John Johnson),3.580,4.310
+3,2:33,1,10,LAR 19,14,20,Ezekiel Elliott up the middle for 4 yards (tackle by Micah Kiser),4.310,4.350
+3,2:02,2,6,LAR 15,14,20,Dak Prescott pass incomplete short right intended for Dalton Schultz,4.350,3.580
+3,1:58,3,6,LAR 15,14,20,Dak Prescott pass incomplete short middle intended for Amari Cooper,3.580,2.470
+3,1:54,4,6,LAR 15,17,20,Greg Zuerlein 33 yard field goal good,2.470,3.000
+3,1:50,,,DAL 35,17,20,"Greg Zuerlein kicks off 65 yards, touchback.",0.000,0.610
+3,1:50,1,10,LAR 25,17,20,Jared Goff left end for 4 yards (tackle by Jaylon Smith),0.610,0.600
+3,1:21,2,6,LAR 29,17,20,Cam Akers up the middle for 3 yards (tackle by Aldon Smith and Trevon Diggs),0.600,0.300
+3,0:38,3,3,LAR 32,17,20,Jared Goff pass incomplete short right intended for Robert Woods (defended by Jaylon Smith),0.300,-1.240
+3,0:31,4,3,LAR 32,17,20,"Penalty on Justin Hollins: False Start, 5 yards (no play)",-1.240,-1.570
+3,0:31,4,8,LAR 27,17,20,"Johnny Hekker punts 58 yards, returned by CeeDee Lamb for 20 yards (tackle by Nsimba Webster)",-1.570,-1.270
+3,0:16,1,10,DAL 35,17,20,Ezekiel Elliott up the middle for 9 yards (tackle by Kenny Young),1.270,1.940
+Quarter,Time,Down,ToGo,Location,DAL,LAR,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,1,DAL 44,17,20,Ezekiel Elliott up the middle for 6 yards (tackle by Morgan Fox and Kenny Young),1.940,2.320
+4,14:39,1,10,LAR 49,17,20,Ezekiel Elliott up the middle for 6 yards (tackle by Morgan Fox),2.320,2.590
+4,14:19,2,4,LAR 43,17,20,Dak Prescott pass complete short right to Amari Cooper for 11 yards (tackle by Jordan Fuller and Leonard Floyd),2.590,3.450
+4,13:43,1,10,LAR 32,17,20,Dak Prescott pass complete short left to Amari Cooper for 14 yards (tackle by Jalen Ramsey),3.450,4.370
+4,13:06,1,10,LAR 18,17,20,Tony Pollard right tackle for 4 yards (tackle by Marquise Copeland),4.370,4.430
+4,12:30,2,6,LAR 14,17,20,Dak Prescott pass incomplete short middle intended for Dalton Schultz,4.430,3.630
+4,12:26,3,6,LAR 14,17,20,Ezekiel Elliott up the middle for 3 yards (tackle by Ogbonnia Okoronkwo),3.630,2.800
+4,11:46,4,3,LAR 11,17,20,Dak Prescott pass complete short right to CeeDee Lamb for 2 yards (tackle by Jordan Fuller),2.800,0.380
+4,11:40,1,10,LAR 9,17,20,Jared Goff pass complete short right to Malcolm Brown for 7 yards (tackle by Xavier Woods and Jaylon Smith),-0.380,-0.160
+4,10:58,2,3,LAR 16,17,20,Jared Goff pass complete short middle to Cooper Kupp for 15 yards (tackle by Anthony Brown),-0.160,1.000
+4,10:19,1,10,LAR 31,17,20,Malcolm Brown right end for 6 yards (tackle by Darian Thompson),1.000,1.270
+4,9:50,2,4,LAR 37,17,20,Jared Goff pass incomplete deep left intended for Van Jefferson,1.270,0.560
+4,9:44,3,4,LAR 37,17,20,Jared Goff pass complete short left to Tyler Higbee for 15 yards (tackle by Daryl Worley),0.560,2.390
+4,9:03,1,10,DAL 48,17,20,Cam Akers up the middle for 4 yards (tackle by Anthony Brown),2.390,2.390
+4,8:18,2,6,DAL 44,17,20,Cam Akers right tackle for 4 yards (tackle by Aldon Smith),2.390,2.210
+4,7:41,3,2,DAL 40,17,20,"Malcolm Brown right guard for 2 yards (tackle by Jaylon Smith). Penalty on Robert Woods: Illegal Block Above the Waist, 10 yards",2.210,1.160
+4,7:13,3,10,DAL 48,17,20,Jared Goff sacked by Aldon Smith for -6 yards,1.160,-0.320
+4,6:29,4,16,LAR 46,17,20,"Johnny Hekker punts 42 yards, fair catch by CeeDee Lamb at DAL-12",-0.320,0.350
+4,6:22,1,10,DAL 12,17,20,Ezekiel Elliott right guard for 3 yards (tackle by Sebastian Joseph),-0.350,-0.500
+4,5:49,2,7,DAL 15,17,20,Dak Prescott pass complete short middle to Ezekiel Elliott for 2 yards (tackle by Micah Kiser),-0.500,-0.840
+4,5:14,3,5,DAL 17,17,20,Dak Prescott pass incomplete short right intended for Amari Cooper (defended by Jalen Ramsey),-0.840,-2.320
+4,5:10,4,5,DAL 17,17,20,"Chris Jones punts 54 yards, fair catch by Cooper Kupp at LA-29",-2.320,-0.870
+4,5:03,1,10,LAR 29,17,20,Malcolm Brown right tackle for 8 yards (tackle by Anthony Brown),0.870,1.410
+4,4:18,2,2,LAR 37,17,20,Malcolm Brown right tackle for 3 yards (tackle by Joe Thomas),1.410,1.600
+4,3:34,1,10,LAR 40,17,20,Jared Goff left end for 4 yards (tackle by Xavier Woods),1.600,1.590
+4,3:25,,,,,,Timeout #1 by Dallas Cowboys,,
+4,3:25,2,6,LAR 44,17,20,Malcolm Brown right tackle for 3 yards (tackle by Aldon Smith),1.590,1.290
+4,3:20,,,,,,Timeout #2 by Dallas Cowboys,,
+4,3:20,3,3,LAR 47,17,20,Malcolm Brown left end for 2 yards (tackle by Trevon Diggs),1.290,-0.130
+4,2:35,4,1,LAR 49,17,20,"Johnny Hekker punts 42 yards, fair catch by Cedrick Wilson at DAL-9",-0.130,0.380
+4,2:28,1,10,DAL 9,17,20,Dak Prescott pass complete short right to Amari Cooper for 5 yards (tackle by Jalen Ramsey),-0.380,-0.390
+4,2:08,2,5,DAL 14,17,20,Dak Prescott pass complete short right to Amari Cooper for 7 yards (tackle by Jalen Ramsey),-0.390,0.340
+4,2:00,1,10,DAL 21,17,20,Dak Prescott pass complete short left to Amari Cooper for 4 yards (tackle by Darious Williams),0.340,0.340
+4,1:42,2,6,DAL 25,17,20,Dak Prescott sacked by Leonard Floyd for -7 yards,0.340,-1.410
+4,1:22,3,13,DAL 18,17,20,Dak Prescott up the middle for 12 yards (tackle by Taylor Rapp),-1.410,-1.370
+4,0:56,4,1,DAL 30,17,20,Ezekiel Elliott up the middle for 4 yards (tackle by Leonard Floyd),-1.370,1.200
+4,0:41,1,10,DAL 34,17,20,Dak Prescott pass incomplete short left intended for Dalton Schultz,1.200,0.660
+4,0:37,2,10,DAL 34,17,20,Dak Prescott pass incomplete deep right,0.660,-0.030
+4,0:31,3,10,DAL 34,17,20,"Dak Prescott pass complete deep left to Michael Gallup for 47 yards (tackle by Jalen Ramsey). Penalty on Michael Gallup: Offensive Pass Interference, 10 yards (no play)",-0.030,-1.350
+4,0:21,3,20,DAL 24,17,20,Dak Prescott pass incomplete deep right intended for Amari Cooper,-1.350,-1.770
+4,0:13,,,,,,Timeout #2 by Los Angeles Rams,,
+4,0:13,4,20,DAL 24,17,20,Dak Prescott pass incomplete deep left intended for Michael Gallup,-1.770,-3.970
+4,0:06,1,10,DAL 24,17,20,Jared Goff kneels for -1 yards,3.970,3.300
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

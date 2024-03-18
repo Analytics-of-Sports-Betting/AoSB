@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,LVR 25,6,3:06,75,Touchdown
+2,1,6:49,LVR 25,8,4:09,43,Field Goal
+3,1,0:24,DEN 49,6,2:13,24,Missed FG
+4,2,11:39,LVR 15,4,1:28,19,Punt
+5,2,4:31,LVR 25,3,1:55,4,Punt
+6,2,1:01,LVR 18,5,0:31,82,Touchdown
+7,3,13:20,LVR 44,4,1:53,56,Touchdown
+8,3,6:38,LVR 25,3,1:32,8,Punt
+9,3,2:19,DEN 42,5,2:12,42,Touchdown
+10,4,11:16,LVR 25,7,3:19,64,Field Goal
+11,4,6:48,DEN 45,3,2:45,-6,Punt
+12,4,0:24,DEN 49,1,0:24,-1,End of Game

@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,DET 26,3,1:22,6,Punt
+2,1,12:42,DET 23,3,1:21,7,Punt
+3,1,9:41,DET 30,3,1:38,4,Punt
+4,1,5:48,CHI 49,7,3:55,44,Field Goal
+5,2,11:28,DET 30,4,1:24,8,Downs
+6,2,7:46,DET 38,11,5:06,55,Field Goal
+7,2,1:03,DET 5,2,1:03,9,End of Half
+8,3,13:21,DET 27,3,1:34,-9,Punt
+9,3,7:52,DET 39,10,5:03,49,Field Goal
+10,4,12:03,DET 32,6,4:17,29,Punt
+11,4,5:07,DET 28,3,1:02,8,Punt
+12,4,2:27,DET 35,7,1:48,35,Field Goal
+13,4,0:27,DET 37,2,0:27,-2,End of Game

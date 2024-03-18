@@ -1,0 +1,15 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,WAS 20,3,1:18,5,Punt
+2,1,10:02,WAS 20,6,1:52,19,Punt
+3,1,6:19,WAS 24,7,3:48,28,Punt
+4,2,14:44,WAS 40,5,2:52,15,Punt
+5,2,7:22,WAS 5,16,7:03,95,Touchdown
+6,3,12:56,DEN 19,3,1:22,19,Touchdown
+7,3,7:48,WAS 20,5,2:53,32,Punt
+8,4,14:56,WAS 20,3,0:27,0,Punt
+9,4,14:19,WAS 20,3,1:04,5,Fumble
+10,4,11:14,WAS 20,3,1:26,0,Punt
+11,4,7:54,WAS 22,2,0:45,-4,Interception
+12,4,6:35,WAS 20,4,0:52,24,Interception
+13,4,4:11,WAS 36,8,2:04,39,Interception
+14,4,2:07,WAS 20,2,0:14,10,Interception

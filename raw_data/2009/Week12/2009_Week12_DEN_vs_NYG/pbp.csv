@@ -1,0 +1,180 @@
+Quarter,Time,Down,ToGo,Location,NYG,DEN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Giants won the coin toss, Giants to receive the opening kickoff.",,
+1,15:00,,,DEN 30,0,0,"Matt Prater kicks off 70 yards, touchback",0.000,0.280
+1,15:00,1,10,NYG 20,0,0,Eli Manning pass complete short right to Hakeem Nicks for 6 yards (tackle by Brian Dawkins),0.280,0.540
+1,14:28,,,,0,0,Timeout #1 by New York Giants,0.000,0.540
+1,14:28,2,4,NYG 26,0,0,Brandon Jacobs left guard for -2 yards (tackle by Andra Davis),0.540,-0.430
+1,13:48,3,6,NYG 24,0,0,Eli Manning pass complete short middle to Steve Smith for 8 yards (tackle by Brian Dawkins and Ty Law),-0.430,1.070
+1,13:06,1,10,NYG 32,0,0,Brandon Jacobs right tackle for 3 yards (tackle by Brian Dawkins),1.070,0.930
+1,12:26,2,7,NYG 35,0,0,Eli Manning pass incomplete deep middle intended for Steve Smith (defended by Andre' Goodman),0.930,0.230
+1,12:20,3,7,NYG 35,0,0,Eli Manning pass complete short middle to Domenik Hixon for 5 yards (tackle by Vonnie Holliday),0.230,-0.720
+1,11:46,4,2,NYG 40,0,0,"Jeff Feagles punts 48 yards, returned by Eddie Royal for 2 yards (tackle by Derek Hagan)",-0.720,0.280
+1,11:37,1,10,DEN 14,0,0,Kyle Orton sacked by Danny Clark for -10 yards,-0.280,-1.510
+1,11:04,2,20,DEN 4,0,0,Kyle Orton pass complete short right to Knowshon Moreno for 11 yards (tackle by Bruce Johnson),-1.510,-1.280
+1,10:27,3,9,DEN 15,0,0,Kyle Orton pass complete short middle to Correll Buckhalter for 5 yards (tackle by Michael Boley). Penalty on Casey Wiegmann: Ineligible Downfield Pas (Declined),-1.280,-2.030
+1,9:57,4,4,DEN 20,0,0,"Mitch Berger punts 57 yards, returned by Domenik Hixon for 14 yards (tackle by Spencer Larsen)",-2.030,-1.400
+1,9:47,1,10,NYG 37,0,0,Brandon Jacobs right guard for 2 yards (tackle by Andra Davis and Kenny Peterson),1.400,1.130
+1,9:09,2,8,NYG 39,0,0,Eli Manning pass incomplete short left intended for Mario Manningham,1.130,0.430
+1,9:05,3,8,NYG 39,0,0,Eli Manning pass incomplete short middle intended for Mario Manningham (defended by Champ Bailey),0.430,-0.780
+1,8:56,4,8,NYG 39,0,0,Jeff Feagles punts 45 yards,-0.780,0.140
+1,8:47,1,10,DEN 16,0,0,Correll Buckhalter left tackle for 2 yards (tackle by Michael Johnson),-0.140,-0.350
+1,8:13,2,8,DEN 18,0,0,Kyle Orton pass complete deep right to Jabar Gaffney for 28 yards,-0.350,1.990
+1,7:50,1,10,DEN 46,0,0,Correll Buckhalter left end for 5 yards (tackle by Terrell Thomas),1.990,2.130
+1,7:16,2,5,NYG 49,0,0,Correll Buckhalter left end for 7 yards (tackle by Terrell Thomas and Aaron Rouse),2.130,2.790
+1,6:37,1,10,NYG 42,0,0,Kyle Orton pass complete short left to Tony Scheffler for 13 yards (tackle by Michael Johnson),2.790,3.640
+1,6:07,1,10,NYG 29,0,0,Knowshon Moreno left tackle for 5 yards (tackle by Corey Webster),3.640,3.780
+1,5:35,2,5,NYG 24,0,0,"Knowshon Moreno left end for 14 yards (tackle by Michael Johnson). Penalty on Daniel Graham: Offensive Holding, 10 yards (no play)",3.780,2.420
+1,5:05,2,15,NYG 34,0,0,Kyle Orton pass complete short right to Daniel Graham for 17 yards (tackle by Michael Boley),2.420,4.440
+1,4:34,1,10,NYG 17,0,0,Correll Buckhalter right guard for 4 yards (tackle by Justin Tuck),4.440,4.500
+1,3:58,2,6,NYG 13,0,0,Knowshon Moreno left guard for 6 yards (tackle by Michael Johnson and Terrell Thomas),4.500,5.600
+1,3:14,1,7,NYG 7,0,0,Kyle Orton pass incomplete short middle intended for Brandon Marshall (defended by Michael Boley),5.600,4.760
+1,3:10,2,7,NYG 7,0,0,Knowshon Moreno middle for -1 yards (tackle by Aaron Rouse),4.760,3.580
+1,2:36,3,8,NYG 8,0,0,Kyle Orton pass incomplete short middle intended for Brandon Marshall,3.580,2.950
+1,2:31,4,8,NYG 8,0,3,Matt Prater 26 yard field goal good,2.950,3.000
+1,,,,DEN 30,0,3,"Matt Prater kicks off 70 yards, touchback. Penalty on Darrell Reid: Unnecessary Roughness, 15 yards",0.000,1.270
+1,2:28,1,10,NYG 35,0,3,"Eli Manning pass complete short right to Darcy Johnson for -8 yards (tackle by Brian Dawkins). Darcy Johnson fumbles (forced by Brian Dawkins), ball out of bounds at NYG-27",1.270,-0.360
+1,1:57,2,18,NYG 27,0,3,Eli Manning pass complete short right to Brandon Jacobs for 7 yards (tackle by Marcus Thomas),-0.360,-0.100
+1,1:20,3,11,NYG 34,0,3,Eli Manning pass incomplete short right intended for Mario Manningham (defended by D.J. Williams),-0.100,-1.110
+1,1:15,4,11,NYG 34,0,3,"Jeff Feagles punts 48 yards, returned by Eddie Royal for 11 yards (tackle by Domenik Hixon)",-1.110,-0.870
+1,1:01,1,10,DEN 29,0,3,"Kyle Orton pass incomplete deep middle intended for Brandon Marshall (defended by Corey Webster). Penalty on Michael Johnson: Illegal Contact (Declined), Penalty on Corey Webster: Unnecessary Roughness, 15 yards (no play)",0.870,1.860
+1,0:51,1,10,DEN 44,0,3,Knowshon Moreno left tackle for 1 yard (tackle by Terrell Thomas),1.860,1.450
+1,0:15,2,9,DEN 45,0,3,Kyle Orton pass complete short right to Tony Scheffler for 10 yards (tackle by Michael Johnson),1.450,2.590
+Quarter,Time,Down,ToGo,Location,NYG,DEN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,NYG 45,0,3,Kyle Orton pass incomplete short left intended for Jabar Gaffney,2.590,2.040
+2,14:54,2,10,NYG 45,0,3,Knowshon Moreno left guard for 11 yards (tackle by Michael Johnson),2.040,3.310
+2,14:20,1,10,NYG 34,0,3,Knowshon Moreno middle for 5 yards (tackle by Chase Blackburn),3.310,3.450
+2,13:48,2,5,NYG 29,0,3,Correll Buckhalter middle for no gain (tackle by Chase Blackburn),3.450,2.740
+2,13:10,3,5,NYG 29,0,3,Kyle Orton pass incomplete short right intended for Brandon Stokley (defended by Justin Tuck),2.740,1.540
+2,13:05,4,5,NYG 29,0,3,Kyle Orton pass complete short middle to Tony Scheffler for 22 yards (tackle by Corey Webster),1.540,5.600
+2,12:26,1,7,NYG 7,0,3,"Penalty on Daniel Graham: False Start, 5 yards (no play)",5.600,4.640
+2,12:21,1,12,NYG 12,0,3,"Penalty on Ryan Clady: False Start, 6 yards (no play)",4.640,4.240
+2,11:58,1,18,NYG 18,0,3,Kyle Orton pass incomplete short left intended for Correll Buckhalter,4.240,3.150
+2,11:54,2,18,NYG 18,0,3,Kyle Orton pass complete short left to Brandon Marshall for 9 yards (tackle by Aaron Rouse and C.C. Brown),3.150,3.360
+2,11:14,3,9,NYG 9,0,3,"Penalty on Casey Wiegmann: False Start, 5 yards (no play)",3.360,3.000
+2,10:54,3,14,NYG 14,0,3,Kyle Orton pass incomplete short middle intended for Tony Scheffler,3.000,2.510
+2,10:50,4,14,NYG 14,0,6,Matt Prater 32 yard field goal good,2.510,3.000
+2,,,,DEN 30,0,6,"Matt Prater kicks off 70 yards, touchback",0.000,0.280
+2,10:46,1,10,NYG 20,0,6,Danny Ware middle for 3 yards (tackle by Kenny Peterson),0.280,0.140
+2,10:12,2,7,NYG 23,0,6,Danny Ware middle for 2 yards (tackle by Brian Dawkins),0.140,-0.300
+2,9:32,3,5,NYG 25,0,6,"Eli Manning pass incomplete short middle intended for Mario Manningham. Penalty on D.J. Williams: Defensive Offside, 5 yards (no play)",-0.300,0.940
+2,9:26,1,10,NYG 30,0,6,"Danny Ware right tackle for 8 yards (tackle by Mario Haggan). Danny Ware fumbles (forced by Mario Haggan), recovered by Brian Dawkins at NYG-38 (tackle by Danny Ware)",0.940,-3.050
+2,9:17,1,10,NYG 38,0,6,Kyle Orton pass complete deep right to Brandon Marshall for 28 yards (tackle by Michael Johnson),3.050,4.910
+2,8:37,1,10,NYG 10,0,6,Knowshon Moreno middle for 1 yard (tackle by Chase Blackburn and Danny Clark),4.910,4.380
+2,7:58,2,9,NYG 9,0,6,Kyle Orton pass complete short left to Knowshon Moreno for 8 yards (tackle by Aaron Rouse),4.380,5.170
+2,7:21,3,1,NYG 1,0,12,"Knowshon Moreno right tackle for 1 yard, touchdown",5.170,7.000
+2,,,,NYG 2,0,13,Matt Prater kicks extra point good,0.000,0.000
+2,,,,DEN 30,0,13,"Matt Prater kicks off 70 yards, returned by Domenik Hixon for 20 yards (tackle by Darcel McBath)",0.000,0.280
+2,7:10,1,10,NYG 20,0,13,Eli Manning sacked by D.J. Williams for -9 yards,0.280,-1.440
+2,6:34,2,19,NYG 11,0,13,Eli Manning pass incomplete short left intended for Brandon Jacobs,-1.440,-2.470
+2,6:29,3,19,NYG 11,0,13,Eli Manning pass incomplete short left intended for Hakeem Nicks,-2.470,-2.490
+2,6:23,4,19,NYG 11,0,13,"Jeff Feagles punts 55 yards, returned by Eddie Royal for 15 yards (tackle by Chase Blackburn)",-2.490,-2.190
+2,6:10,1,10,DEN 49,0,13,Correll Buckhalter right tackle for 2 yards (tackle by Fred Robbins),2.190,1.920
+2,5:31,2,8,NYG 49,0,13,"Kyle Orton pass complete short right to Jabar Gaffney for 8 yards (tackle by Corey Webster). Penalty on Corey Webster: Face Mask (15 Yards), 15 yards",1.920,3.840
+2,5:03,1,10,NYG 26,0,13,Correll Buckhalter left tackle for -3 yards (tackle by Chase Blackburn),3.840,2.890
+2,4:27,2,13,NYG 29,0,13,Kyle Orton pass incomplete deep left intended for Tony Scheffler,2.890,2.210
+2,4:20,3,13,NYG 29,0,13,Kyle Orton pass complete short right to Brandon Marshall for no gain,2.210,1.500
+2,3:34,4,13,NYG 29,0,16,Matt Prater 47 yard field goal good,1.500,3.000
+2,,,,DEN 30,0,16,"Matt Prater kicks off 70 yards, touchback",0.000,0.280
+2,3:28,1,10,NYG 20,0,16,Brandon Jacobs left guard for 7 yards (tackle by Vonnie Holliday),0.280,0.680
+2,3:01,2,3,NYG 27,0,16,Eli Manning pass complete short middle to Brandon Jacobs for 10 yards (tackle by Mario Haggan and Kenny Peterson),0.680,1.400
+2,2:28,1,10,NYG 37,0,16,Eli Manning pass incomplete short middle intended for Steve Smith,1.400,0.860
+2,2:24,2,10,NYG 37,0,16,Brandon Jacobs right tackle for 6 yards (tackle by Alphonso Smith),0.860,0.960
+2,2:00,3,4,NYG 43,0,16,Eli Manning sacked by Elvis Dumervil for -10 yards,0.960,-1.180
+2,1:53,,,,0,16,Timeout #1 by Denver Broncos,0.000,-1.180
+2,1:53,4,14,NYG 33,0,16,"Jeff Feagles punts 55 yards, returned by Alphonso Smith for -1 yards (tackle by Bryan Kehl)",-1.180,0.370
+2,1:41,1,10,DEN 11,0,16,Correll Buckhalter left guard for 5 yards (tackle by Justin Tuck and Michael Boley),-0.370,-0.300
+2,1:03,2,5,DEN 16,0,16,Knowshon Moreno left end for 11 yards (tackle by C.C. Brown),-0.300,0.740
+2,0:56,1,10,DEN 27,0,16,"Knowshon Moreno right tackle for 20 yards (tackle by Aaron Rouse). Penalty on Daniel Graham: Offensive Holding, 10 yards (no play)",0.740,-0.170
+2,0:49,1,20,DEN 17,0,16,Correll Buckhalter middle for 3 yards (tackle by Justin Tuck and Danny Clark),-0.170,-0.750
+2,0:05,2,17,DEN 20,0,16,Kyle Orton kneels for -1 yards,-0.750,-1.650
+Quarter,Time,Down,ToGo,Location,NYG,DEN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,NYG 30,0,16,"Lawrence Tynes kicks off 70 yards, returned by Correll Buckhalter for 21 yards (tackle by C.C. Brown)",0.000,0.340
+3,14:54,1,10,DEN 21,0,16,Knowshon Moreno left tackle for 10 yards (tackle by Aaron Rouse),0.340,1.000
+3,14:17,1,10,DEN 31,0,16,Kyle Orton pass complete deep left to Brandon Marshall for 33 yards (tackle by Aaron Rouse),1.000,3.180
+3,13:46,1,10,NYG 36,0,16,Knowshon Moreno right tackle for 1 yard (tackle by Fred Robbins),3.180,2.770
+3,13:05,2,9,NYG 35,0,16,Kyle Orton pass complete short right to Brandon Marshall for 6 yards (tackle by Michael Boley),2.770,2.870
+3,12:22,3,3,NYG 29,0,16,Kyle Orton pass incomplete short left intended for Brandon Stokley is intercepted by Terrell Thomas at NYG-16 and returned for 24 yards,2.870,-1.600
+3,12:13,1,10,NYG 40,0,16,Brandon Jacobs right tackle for 5 yards (tackle by Mario Haggan),1.600,1.730
+3,11:37,2,5,NYG 45,0,16,Eli Manning pass complete short right to Mario Manningham for 13 yards (tackle by Andre' Goodman),1.730,2.790
+3,10:58,1,10,DEN 42,0,16,Brandon Jacobs right tackle for -2 yards (tackle by Mario Haggan),2.790,1.970
+3,10:20,2,12,DEN 44,0,16,Eli Manning pass complete short left to Kevin Boss for 10 yards (tackle by Brian Dawkins),1.970,2.610
+3,9:34,3,2,DEN 34,0,16,Eli Manning pass complete short left to Mario Manningham for 10 yards,2.610,3.970
+,,,,,,,"DEN challenged the pass completion ruling, and the play was upheld.",,
+3,9:25,1,10,DEN 24,0,16,Brandon Jacobs left tackle for -3 yards (tackle by Mario Haggan and Kenny Peterson),3.970,3.030
+3,8:45,2,13,DEN 27,0,16,Eli Manning pass incomplete short left intended for Brandon Jacobs,3.030,2.350
+3,8:40,3,13,DEN 27,0,16,Eli Manning pass complete short right to Steve Smith for 6 yards (tackle by Wesley Woodyard),2.350,2.060
+3,8:00,4,7,DEN 21,3,16,Lawrence Tynes 39 yard field goal good,2.060,3.000
+3,,,,NYG 30,3,16,"Lawrence Tynes kicks off 70 yards, returned by Correll Buckhalter for 25 yards (tackle by Domenik Hixon)",0.000,0.610
+3,7:49,1,10,DEN 25,3,16,Knowshon Moreno left tackle for 2 yards (tackle by Barry Cofield),0.610,0.330
+3,7:12,2,8,DEN 27,3,16,Kyle Orton pass complete short middle to Brandon Marshall for 10 yards (tackle by Corey Webster),0.330,1.400
+3,6:36,1,10,DEN 37,3,16,Correll Buckhalter right tackle for 2 yards (tackle by Mathias Kiwanuka and Chase Blackburn),1.400,1.130
+3,6:03,2,8,DEN 39,3,16,Correll Buckhalter left end for 2 yards (tackle by C.C. Brown),1.130,0.700
+3,5:31,3,6,DEN 41,3,16,Kyle Orton pass incomplete short left intended for Knowshon Moreno,0.700,-0.650
+3,5:27,4,6,DEN 41,3,16,"Mitch Berger punts 51 yards, returned by Domenik Hixon for 6 yards (tackle by David Bruton)",-0.650,0.280
+3,5:18,1,10,NYG 14,3,16,Eli Manning pass complete short right to Steve Smith for 7 yards (tackle by Brian Dawkins),-0.280,0.280
+3,4:44,2,3,NYG 21,3,16,Brandon Jacobs middle for 2 yards (tackle by Ronald Fields),0.280,-0.320
+3,3:59,3,1,NYG 23,3,16,Danny Ware right end for 14 yards (tackle by Brian Dawkins),-0.320,1.400
+3,3:19,1,10,NYG 37,3,16,Eli Manning pass incomplete short left intended for Steve Smith (defended by Brian Dawkins),1.400,0.860
+3,3:10,2,10,NYG 37,3,16,Eli Manning pass complete deep left to Steve Smith for 30 yards (tackle by Alphonso Smith),0.860,3.380
+3,2:28,1,10,DEN 33,3,16,Eli Manning pass incomplete short right intended for Domenik Hixon,3.380,2.840
+3,2:24,2,10,DEN 33,3,16,Eli Manning pass complete short left to Brandon Jacobs for 13 yards (tackle by Renaldo Hill),2.840,4.240
+3,1:42,1,10,DEN 20,3,16,Eli Manning pass incomplete short right intended for Domenik Hixon,4.240,3.690
+3,1:32,2,10,DEN 20,3,16,"Brandon Jacobs right tackle for -1 yards (tackle by Elvis Dumervil and Wesley Woodyard). Penalty on Kevin Boss: Offensive Holding, 10 yards (no play)",3.690,2.340
+3,1:02,2,20,DEN 30,3,16,Eli Manning pass complete short right to Danny Ware for -4 yards (tackle by Champ Bailey). Penalty on Steve Smith: Offensive Pass Interfere (Declined),2.340,1.160
+3,0:42,3,24,DEN 34,3,16,Eli Manning pass incomplete short left intended for Steve Smith (defended by Brian Dawkins),1.160,1.060
+3,0:36,4,24,DEN 34,6,16,Lawrence Tynes 52 yard field goal good,1.060,3.000
+3,,,,NYG 30,6,16,"Lawrence Tynes kicks off 75 yards, returned by Correll Buckhalter for 41 yards (tackle by C.C. Brown)",0.000,1.330
+3,0:25,1,10,DEN 36,6,16,Knowshon Moreno right tackle for 5 yards (tackle by Chris Canty and C.C. Brown),1.330,1.470
+Quarter,Time,Down,ToGo,Location,NYG,DEN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,5,DEN 41,6,16,Knowshon Moreno left end for 11 yards (tackle by Chris Canty),1.470,2.390
+4,14:24,1,10,NYG 48,6,16,Knowshon Moreno right end for 12 yards (tackle by Corey Webster),2.390,3.180
+4,13:42,1,10,NYG 36,6,16,Correll Buckhalter middle for 4 yards (tackle by Justin Tuck),3.180,3.180
+4,13:09,2,6,NYG 32,6,16,Correll Buckhalter left end for 1 yard (tackle by Aaron Rouse),3.180,2.610
+4,12:32,3,5,NYG 31,6,16,Kyle Orton pass complete short left to Jabar Gaffney for 12 yards (tackle by Corey Webster),2.610,4.310
+4,11:51,1,10,NYG 19,6,16,Knowshon Moreno left tackle for 3 yards (tackle by Justin Tuck),4.310,4.180
+4,11:12,2,7,NYG 16,6,16,Knowshon Moreno left tackle for -1 yards (tackle by Terrell Thomas),4.180,3.260
+4,10:20,3,8,NYG 17,6,22,"Kyle Orton pass complete short middle to Brandon Stokley for 17 yards, touchdown. Penalty on C.C. Brown: Defensive Holding (Declined)",3.260,7.000
+4,,,,NYG 2,6,23,Matt Prater kicks extra point good,0.000,0.000
+4,,,,DEN 30,6,23,"Matt Prater kicks off 74 yards, returned by Domenik Hixon for 20 yards (tackle by David Bruton)",0.000,-0.140
+4,10:11,,,,6,23,Timeout #2 by Denver Broncos,0.000,-0.140
+4,10:11,1,10,NYG 16,6,23,Brandon Jacobs left end for 5 yards (tackle by Elvis Dumervil),-0.140,0.150
+4,9:39,2,5,NYG 21,6,23,Eli Manning pass complete short right to Hakeem Nicks for 11 yards (tackle by Champ Bailey),0.150,1.070
+4,9:08,1,10,NYG 32,6,23,"Eli Manning sacked by Elvis Dumervil for -5 yards. Eli Manning fumbles (forced by Elvis Dumervil), recovered by D.J. Williams at NYG-31 (tackle by Shaun O'Hara). Penalty on DEN: Defensive Delay of Game, 5 yards",1.070,-3.180
+4,9:01,1,10,NYG 36,6,23,Knowshon Moreno right tackle for 6 yards (tackle by C.C. Brown),3.180,3.450
+4,8:23,2,4,NYG 30,6,23,Correll Buckhalter left end for 10 yards (tackle by C.C. Brown),3.450,4.240
+4,7:51,1,10,NYG 20,6,23,Correll Buckhalter left guard for 1 yard (tackle by Chase Blackburn),4.240,3.820
+4,7:12,2,9,NYG 19,6,23,Kyle Orton pass complete short right to Tony Scheffler for 8 yards (tackle by Aaron Rouse),3.820,4.590
+4,6:31,3,1,NYG 11,6,23,Correll Buckhalter left end for 2 yards (tackle by Danny Clark),4.590,5.140
+4,5:52,1,9,NYG 9,6,23,Correll Buckhalter middle for -1 yards (tackle by Mathias Kiwanuka),5.140,4.190
+4,5:16,2,10,NYG 10,6,23,Kyle Orton pass incomplete short right intended for Brandon Marshall (defended by Corey Webster),4.190,3.130
+4,5:10,3,10,NYG 10,6,23,"Penalty on Mathias Kiwanuka: Defensive Offside, 5 yards (no play)",3.130,4.260
+4,5:10,3,5,NYG 5,6,23,Correll Buckhalter middle for -1 yards (tackle by Mathias Kiwanuka),4.260,2.990
+4,5:05,,,,6,23,Timeout #1 by New York Giants,0.000,2.990
+4,5:05,4,6,NYG 6,6,26,Matt Prater 24 yard field goal good,2.990,3.000
+4,,,,DEN 30,6,26,"Matt Prater kicks off 70 yards, touchback",0.000,0.280
+4,5:02,1,10,NYG 20,6,26,Eli Manning pass complete short right to Mario Manningham for 11 yards (tackle by Champ Bailey),0.280,1.000
+4,4:55,1,10,NYG 31,6,26,Brandon Jacobs right tackle for 4 yards (tackle by Robert Ayers),1.000,1.000
+4,4:27,2,6,NYG 35,6,26,Eli Manning pass complete short left to Steve Smith for 5 yards (tackle by Andre' Goodman),1.000,0.960
+4,3:55,3,1,NYG 40,6,26,Eli Manning pass incomplete short left intended for Mario Manningham,0.960,-0.720
+4,3:49,4,1,NYG 40,6,26,Eli Manning middle for 3 yards (tackle by Vonnie Holliday),-0.720,1.800
+4,3:21,1,10,NYG 43,6,26,Eli Manning pass complete short middle to Steve Smith for 6 yards (tackle by D.J. Williams),1.800,2.060
+4,2:56,2,4,NYG 49,6,26,Eli Manning pass incomplete deep left intended for Mario Manningham,2.060,1.350
+4,2:50,3,4,NYG 49,6,26,Eli Manning pass incomplete short left intended for Hakeem Nicks is intercepted by Andre' Goodman at DEN-46 and returned for 6 yards,1.350,-2.390
+4,2:43,1,10,NYG 48,6,26,Knowshon Moreno left tackle for -1 yards (tackle by Justin Tuck),2.390,1.710
+4,2:00,2,11,NYG 49,6,26,Correll Buckhalter middle for 6 yards (tackle by Chase Blackburn),1.710,1.820
+4,1:55,,,,6,26,Timeout #2 by New York Giants,0.000,1.820
+4,1:55,3,5,NYG 43,6,26,Correll Buckhalter right tackle for no gain (tackle by Rocky Bernard and Michael Boley),1.820,0.400
+4,1:50,,,,6,26,Timeout #3 by New York Giants,0.000,0.400
+4,1:50,4,5,NYG 43,6,26,Mitch Berger punts 37 yards,0.400,0.380
+4,1:39,1,10,NYG 7,6,26,Eli Manning pass complete short left to Hakeem Nicks for 13 yards (tackle by Andre' Goodman),-0.380,0.280
+4,1:34,1,10,NYG 20,6,26,Eli Manning pass complete short left to Mario Manningham for 7 yards,0.280,0.680
+4,1:27,2,3,NYG 27,6,26,Eli Manning pass complete deep middle to Hakeem Nicks for 36 yards (tackle by Darcel McBath),0.680,3.120
+4,1:16,1,10,DEN 37,6,26,Eli Manning pass incomplete deep left intended for Mario Manningham (defended by Andre' Goodman),3.120,2.570
+4,1:10,2,10,DEN 37,6,26,Eli Manning pass complete short right to Kevin Boss for 12 yards (tackle by Champ Bailey),2.570,3.910
+4,0:43,1,10,DEN 25,6,26,Eli Manning pass complete short middle to Steve Smith for 9 yards (tackle by Ty Law),3.910,4.750
+4,0:14,2,1,DEN 16,6,26,Eli Manning pass complete short left to Mario Manningham for 7 yards (tackle by Andre' Goodman),4.750,4.040
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

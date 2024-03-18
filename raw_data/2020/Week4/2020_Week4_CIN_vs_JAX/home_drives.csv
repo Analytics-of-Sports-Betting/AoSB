@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,12:58,JAX 43,3,1:28,3,Punt
+2,1,6:38,CIN 38,9,3:57,45,Field Goal
+3,1,0:21,CIN 11,12,6:00,88,Interception
+4,2,3:45,CIN 25,9,2:49,75,Touchdown
+5,2,0:03,CIN 25,1,0:03,-1,End of Half
+6,3,15:00,CIN 25,5,2:31,75,Touchdown
+7,3,11:37,CIN 39,7,3:09,61,Touchdown
+8,3,6:54,CIN 41,8,3:25,37,Field Goal
+9,4,14:33,CIN 25,10,5:13,47,Field Goal
+10,4,6:14,CIN 22,10,4:28,66,Field Goal
+11,4,0:08,JAX 45,1,0:08,-1,End of Game

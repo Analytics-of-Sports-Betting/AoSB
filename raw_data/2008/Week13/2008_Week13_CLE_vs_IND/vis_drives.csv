@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,IND 33,1,0:24,5,Fumble
+2,1,9:04,IND 23,12,7:06,65,Field Goal
+3,2,7:35,IND 33,12,6:31,66,Downs
+4,2,0:03,CLE 47,1,0:03,0,Interception
+5,3,13:28,IND 16,1,0:07,0,Interception
+6,3,9:55,IND 25,12,5:48,47,Missed FG
+7,3,1:04,IND 4,6,3:20,21,Punt
+8,4,5:32,IND 20,5,3:42,18,Punt
+9,4,0:45,IND 36,2,0:45,-2,End of Game

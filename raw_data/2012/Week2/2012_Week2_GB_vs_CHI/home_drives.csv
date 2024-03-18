@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,GNB 17,3,1:23,9,Punt
+2,1,11:26,GNB 29,6,3:29,22,Punt
+3,1,6:31,GNB 34,5,1:54,9,Punt
+4,1,2:35,GNB 21,10,4:39,50,Field Goal
+5,2,7:54,GNB 20,12,6:04,80,Touchdown
+6,2,1:07,CHI 48,6,1:07,31,Field Goal
+7,3,8:49,GNB 20,3,2:00,9,Punt
+8,3,3:11,GNB 47,5,2:18,34,Fumble
+9,4,15:00,GNB 43,6,3:22,21,Field Goal
+10,4,11:22,CHI 26,1,0:05,26,Touchdown
+11,4,8:14,GNB 30,1,0:10,0,Interception
+12,4,6:49,GNB 20,6,2:40,24,Punt
+13,4,3:00,CHI 30,5,3:00,6,End of Game

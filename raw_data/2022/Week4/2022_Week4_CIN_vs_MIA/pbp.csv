@@ -1,0 +1,178 @@
+Quarter,Time,Down,ToGo,Location,MIA,CIN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Dolphins won the coin toss and deferred, Bengals to receive the opening kickoff.",,
+1,15:00,,,MIA 35,0,0,"Jason Sanders kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,CIN 25,0,0,Joe Mixon right guard for 1 yard (tackle by Christian Wilkins and Xavien Howard),0.610,0.200
+1,14:28,2,9,CIN 26,0,0,Joe Burrow pass complete short right to Ja'Marr Chase for 8 yards (tackle by Keion Crossen),0.200,0.560
+1,13:47,3,1,CIN 34,0,0,Joe Burrow pass complete short left to Hayden Hurst for 19 yards (tackle by Elandon Roberts and Jevon Holland),0.560,2.460
+1,13:05,1,10,MIA 47,0,0,Joe Burrow pass complete short left to Tee Higgins for 10 yards (tackle by Jerome Baker),2.460,3.120
+1,12:35,1,10,MIA 37,0,0,Joe Mixon left guard for 2 yards (tackle by Brandon Jones and Trey Flowers),3.120,2.840
+1,11:47,2,8,MIA 35,0,0,"Joe Burrow pass complete short right to Hayden Hurst for 6 yards (tackle by Kader Kohou). Penalty on Keion Crossen: Unnecessary Roughness / Defense, 15 yards (accepted)",2.840,4.650
+1,11:26,1,10,MIA 14,0,0,"Penalty on Zach Sieler: Neutral Zone Infraction, 5 yards (accepted) (no play)",4.650,5.800
+1,11:16,1,5,MIA 9,0,0,Joe Burrow pass incomplete short right intended for Tyler Boyd,5.800,4.900
+1,11:12,2,5,MIA 9,0,0,Joe Mixon right tackle for 4 yards (tackle by Eric Rowe),4.900,4.960
+1,10:26,,,,,,Timeout #1 by Cincinnati Bengals,,
+1,10:26,3,1,MIA 5,0,6,"Joe Mixon up the middle for 5 yards, touchdown",4.960,7.000
+1,10:19,,,MIA 15,0,7,Evan McPherson kicks extra point good,0.000,0.000
+1,10:19,,,CIN 35,0,7,"Evan McPherson kicks off 65 yards, touchback.",0.000,0.610
+1,10:19,1,10,MIA 25,0,7,Raheem Mostert left tackle for 7 yards (tackle by Germaine Pratt and B.J. Hill),0.610,1.010
+1,9:37,2,3,MIA 32,0,7,Tua Tagovailoa pass complete short middle to Tyreek Hill for 26 yards (tackle by Jessie Bates),1.010,2.790
+1,9:00,1,10,CIN 42,0,7,Tua Tagovailoa pass complete short middle to Jaylen Waddle for 20 yards (tackle by Jessie Bates),2.790,4.110
+1,8:20,1,10,CIN 22,0,7,Tua Tagovailoa pass incomplete short right intended for Mike Gesicki (defended by B.J. Hill),4.110,3.560
+1,8:15,2,10,CIN 22,0,7,Tua Tagovailoa pass complete short left to Trent Sherfield for 11 yards (tackle by Vonn Bell),3.560,4.840
+1,7:38,1,10,CIN 11,0,7,Tyreek Hill right end for -1 yards (tackle by Sam Hubbard),4.840,3.980
+1,6:56,2,11,CIN 12,0,7,Tua Tagovailoa pass complete short middle to Chase Edmonds for 7 yards (tackle by Germaine Pratt),3.980,4.440
+1,6:15,3,4,CIN 5,0,7,Tua Tagovailoa pass incomplete short right intended for Chase Edmonds,4.440,3.010
+1,6:09,4,4,CIN 5,3,7,Jason Sanders 23 yard field goal good,3.010,3.000
+1,6:05,,,MIA 35,3,7,"Jason Sanders kicks off 65 yards, touchback.",0.000,0.610
+1,6:05,1,10,CIN 25,3,7,Joe Burrow pass incomplete short middle intended for Ja'Marr Chase,0.610,0.060
+1,6:01,2,10,CIN 25,3,7,Joe Burrow pass complete short middle to Joe Mixon for 9 yards (tackle by Duke Riley),0.060,0.560
+1,5:17,3,1,CIN 34,3,7,Joe Mixon left end for 3 yards (tackle by Brandon Jones and Keion Crossen),0.560,1.400
+1,4:36,1,10,CIN 37,3,7,Joe Mixon right tackle for 2 yards (tackle by Elandon Roberts),1.400,1.130
+1,3:53,2,8,CIN 39,3,7,Joe Burrow pass incomplete short right intended for Hayden Hurst,1.130,0.430
+1,3:47,3,8,CIN 39,3,7,Joe Burrow pass incomplete short left intended for Samaje Perine,0.430,-0.780
+1,3:43,4,8,CIN 39,3,7,"Kevin Huber punts 48 yards, fair catch by Tyreek Hill at MIA-13",-0.780,0.320
+1,3:36,1,10,MIA 13,3,7,"Raheem Mostert for no gain. Penalty on Tyreek Hill: Offensive Holding, 6 yards (accepted) (no play)",-0.320,-0.610
+1,3:12,,,,,,Timeout #1 by Miami Dolphins,,
+1,3:12,1,16,MIA 7,3,7,Tua Tagovailoa pass complete short right to Tyreek Hill for 3 yards (tackle by Vonn Bell),-0.610,-1.000
+1,2:29,,,,,,Timeout #2 by Miami Dolphins,,
+1,2:29,2,13,MIA 10,3,7,Tua Tagovailoa pass complete deep left to Mike Gesicki for 21 yards (tackle by Jessie Bates),-1.000,1.000
+1,1:52,1,10,MIA 31,3,7,Raheem Mostert right guard for 2 yards (tackle by Logan Wilson),1.000,0.730
+1,1:15,2,8,MIA 33,3,7,Tua Tagovailoa pass deep middle intended for Tyreek Hill is intercepted by Vonn Bell at CIN-29 and returned for no gain (tackle by Tyreek Hill),0.730,-0.870
+1,1:06,1,10,CIN 29,3,7,Joe Mixon right tackle for 7 yards (tackle by Eric Rowe),0.870,1.270
+1,0:32,2,3,CIN 36,3,7,Joe Mixon right guard for 2 yards (tackle by Raekwon Davis and Christian Wilkins),1.270,0.830
+Quarter,Time,Down,ToGo,Location,MIA,CIN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,1,CIN 38,3,7,Joe Burrow pass complete short middle to Mitchell Wilcox for 18 yards (tackle by Jevon Holland),0.830,2.650
+2,14:19,1,10,MIA 44,3,7,Joe Mixon up the middle for 5 yards (tackle by Jerome Baker),2.650,2.780
+2,13:43,2,5,MIA 39,3,7,Joe Mixon left tackle for 4 yards (tackle by John Jenkins and Elandon Roberts),2.780,2.610
+2,13:01,3,1,MIA 35,3,7,Joe Mixon left guard for 2 yards (tackle by John Jenkins),2.610,3.380
+2,12:18,1,10,MIA 33,3,7,Joe Burrow pass incomplete deep right intended for Devin Asiasi,3.380,2.840
+2,12:12,2,10,MIA 33,3,7,Joe Burrow scrambles right end for 5 yards (tackle by Kader Kohou),2.840,2.810
+2,11:35,3,5,MIA 28,3,7,Joe Burrow scrambles up the middle for 4 yards (tackle by Jerome Baker and Nik Needham),2.810,2.020
+2,10:46,4,1,MIA 24,3,7,Joe Mixon right end for no gain (tackle by Eric Rowe and Jevon Holland),2.020,-0.540
+2,10:39,1,10,MIA 24,3,7,"Tua Tagovailoa pass incomplete intended for Jaylen Waddle. Penalty on Robert Hunt: Ineligible Downfield Pass, 5 yards (accepted) (no play)",0.540,0.130
+2,10:37,1,15,MIA 19,3,7,Chase Edmonds right guard for 4 yards (tackle by Mike Hilton),0.130,-0.140
+2,10:01,2,11,MIA 23,3,7,Tua Tagovailoa pass complete short middle to Tyreek Hill for 17 yards (tackle by Jessie Bates),-0.140,1.600
+2,9:20,1,10,MIA 40,3,7,Chase Edmonds right end for 1 yard (tackle by Logan Wilson),1.600,1.190
+2,8:36,2,9,MIA 41,3,7,Tua Tagovailoa pass complete short left to Tyreek Hill for 5 yards (tackle by Chidobe Awuzie),1.190,1.160
+2,7:56,3,4,MIA 46,3,7,"Tua Tagovailoa pass incomplete intended for Tyreek Hill. Penalty on Chidobe Awuzie: Defensive Pass Interference, 24 yards (accepted) . Penalty on Chidobe Awuzie: Illegal Use of Hands / Defense, 5 yards (declined) (no play)",1.160,3.580
+2,7:52,1,10,CIN 30,3,7,Tua Tagovailoa pass incomplete short middle intended for Jaylen Waddle,3.580,3.030
+2,7:48,2,10,CIN 30,3,7,Tua Tagovailoa pass incomplete short middle intended for Jaylen Waddle (defended by Akeem Davis-Gaither),3.030,2.340
+2,7:43,3,10,CIN 30,3,7,Tua Tagovailoa pass incomplete deep middle intended for Tyreek Hill,2.340,1.410
+2,7:36,4,10,CIN 30,6,7,Jason Sanders 48 yard field goal good,1.410,3.000
+2,7:31,,,MIA 35,6,7,"Jason Sanders kicks off 65 yards, touchback.",0.000,0.610
+2,7:31,1,10,CIN 25,6,7,Joe Burrow pass complete short right to Joe Mixon for 5 yards (tackle by Brandon Jones),0.610,0.740
+2,6:57,2,5,CIN 30,6,7,Joe Burrow pass incomplete short right intended for Tyler Boyd,0.740,0.040
+2,6:52,3,5,CIN 30,6,7,Joe Burrow pass incomplete short left intended for Tee Higgins,0.040,-1.370
+2,6:47,4,5,CIN 30,6,7,Kevin Huber punts 28 yards downed by Cal Adomitis,-1.370,-1.730
+2,6:38,1,10,MIA 42,6,7,"Tua Tagovailoa pass incomplete deep right intended for Tyreek Hill. Penalty on Joseph Ossai: Roughing the Passer, 15 yards (accepted) (no play)",1.730,2.720
+2,6:31,1,10,CIN 43,6,7,Raheem Mostert right tackle for 3 yards (tackle by B.J. Hill and Germaine Pratt),2.720,2.580
+2,5:57,2,7,CIN 40,6,7,Tua Tagovailoa sacked by Josh Tupou for -10 yards,2.580,0.560
+2,5:15,3,17,CIN 50,6,7,Teddy Bridgewater pass complete deep right to Trent Sherfield for 16 yards (tackle by Jessie Bates),0.560,1.100
+2,4:27,4,1,CIN 34,6,7,Jason Sanders 52 yard field goal no good blocked by Jeff Gunter,1.100,-1.730
+2,4:22,1,10,CIN 42,6,7,Joe Mixon left tackle for 1 yard (tackle by Christian Wilkins),1.730,1.320
+2,3:44,2,9,CIN 43,6,7,Joe Burrow pass complete short left to Joe Mixon for -2 yards (tackle by Duke Riley),1.320,0.370
+2,2:58,3,11,CIN 41,6,13,"Joe Burrow pass complete deep left to Tee Higgins for 59 yards, touchdown",0.370,7.000
+2,2:50,,,MIA 15,6,14,Evan McPherson kicks extra point good,0.000,0.000
+2,2:50,,,CIN 35,6,14,"Evan McPherson kicks off 65 yards, touchback.",0.000,0.610
+2,2:50,1,10,MIA 25,6,14,Raheem Mostert left tackle for 2 yards (tackle by Sam Hubbard),0.610,0.330
+2,2:05,2,8,MIA 27,6,14,"Raheem Mostert left tackle for 4 yards (tackle by Zachary Carter and B.J. Hill). Penalty on Sam Hubbard: Unnecessary Roughness / Defense, 15 yards (accepted)",0.330,1.990
+2,2:00,1,10,MIA 46,6,14,Teddy Bridgewater pass complete short middle to Jaylen Waddle for 19 yards (tackle by Vonn Bell),1.990,3.250
+2,1:22,1,10,CIN 35,6,14,Teddy Bridgewater pass incomplete short left intended for Trent Sherfield,3.250,2.700
+2,1:15,2,10,CIN 35,6,14,Teddy Bridgewater pass complete short left to Tyreek Hill for 11 yards (tackle by Vonn Bell),2.700,3.970
+2,1:09,1,10,CIN 24,6,14,Teddy Bridgewater pass complete short left to Raheem Mostert for 6 yards (tackle by Germaine Pratt),3.970,4.290
+2,1:05,2,4,CIN 18,6,14,"Penalty on MIA: Delay of Game, 5 yards (accepted) (no play)",4.290,3.570
+2,1:05,2,9,CIN 23,6,14,Raheem Mostert right guard for 4 yards (tackle by Akeem Davis-Gaither and Logan Wilson),3.570,3.410
+2,0:23,3,5,CIN 19,6,14,Teddy Bridgewater pass complete short right to Trent Sherfield for 12 yards (tackle by Mike Hilton),3.410,5.600
+2,0:15,1,7,CIN 7,12,14,"Teddy Bridgewater pass complete short middle to Chase Edmonds for 7 yards, touchdown",5.600,7.000
+2,0:09,,,CIN 15,12,14,Jason Sanders kicks extra point no good,0.000,-1.000
+2,0:09,,,MIA 35,12,14,"Jason Sanders kicks off 65 yards, touchback.",0.000,0.610
+2,0:09,1,10,CIN 25,12,14,Joe Burrow kneels for -1 yards,0.610,-0.070
+Quarter,Time,Down,ToGo,Location,MIA,CIN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,CIN 35,12,14,"Evan McPherson kicks off 59 yards, returned by Raheem Mostert for 18 yards (tackle by Markus Bailey)",0.000,0.540
+3,14:57,1,10,MIA 24,12,14,Chase Edmonds left end for no gain (tackle by Mike Hilton and B.J. Hill),0.540,0.000
+3,14:14,2,10,MIA 24,12,14,"Penalty on Terron Armstead: False Start, 5 yards (accepted) (no play)",0.000,-0.740
+3,13:50,2,15,MIA 19,12,14,Teddy Bridgewater pass incomplete deep right intended for Trent Sherfield,-0.740,-1.430
+3,13:42,3,15,MIA 19,12,14,Teddy Bridgewater pass incomplete deep left intended for River Cracraft,-1.430,-2.140
+3,13:37,4,15,MIA 19,12,14,"Thomas Morstead punts 45 yards, fair catch by Trent Taylor at CIN-36",-2.140,-1.330
+3,13:30,1,10,CIN 36,12,14,Joe Burrow pass complete short left to Tee Higgins for 8 yards (tackle by Jerome Baker),1.330,1.870
+3,12:54,2,2,CIN 44,12,14,Joe Mixon right tackle for 2 yards (tackle by Raekwon Davis),1.870,1.990
+3,12:18,1,10,CIN 46,12,14,Joe Mixon right guard for 3 yards (tackle by Zach Sieler),1.990,1.860
+3,11:40,2,7,CIN 49,12,14,Joe Burrow pass complete short left to Joe Mixon for 1 yard (tackle by Jerome Baker and Duke Riley),1.860,1.290
+3,11:00,3,6,CIN 50,12,14,"Joe Burrow sacked by Jaelan Phillips for -6 yards. Penalty on Cordell Volson: Offensive Holding, 10 yards (declined)",1.290,-0.460
+3,10:22,4,12,CIN 44,12,14,"Kevin Huber punts 48 yards, returned by Jevon Holland for 6 yards (tackle by Tre Flowers)",-0.460,0.280
+3,10:11,1,10,MIA 14,12,14,Raheem Mostert right tackle for 5 yards (tackle by Eli Apple and Sam Hubbard),-0.280,-0.040
+3,9:32,2,5,MIA 19,12,14,Raheem Mostert right guard for 1 yard (tackle by Germaine Pratt and Logan Wilson),-0.040,-0.680
+3,8:54,3,4,MIA 20,12,14,Teddy Bridgewater pass complete short left to Mike Gesicki for 2 yards (tackle by Mike Hilton),-0.680,-1.900
+3,8:19,4,2,MIA 22,12,14,"Thomas Morstead punts 66 yards, returned by Trent Taylor for 23 yards (tackle by Durham Smythe and Duke Riley)",-1.900,-1.270
+3,8:01,1,10,CIN 35,12,14,Joe Burrow pass complete short middle to Tee Higgins for 16 yards (tackle by Xavien Howard),1.270,2.320
+3,7:25,1,10,MIA 49,12,14,Joe Mixon left end for 4 yards (tackle by Jerome Baker),2.320,2.320
+3,6:40,2,6,MIA 45,12,14,Joe Burrow pass incomplete deep right intended for Ja'Marr Chase (defended by Nik Needham),2.320,1.620
+3,6:29,3,6,MIA 45,12,14,Joe Burrow pass incomplete intended for Chris Evans,1.620,0.270
+3,6:22,4,6,MIA 45,12,14,"Kevin Huber punts 35 yards, fair catch by Jevon Holland at MIA-10",0.270,0.380
+3,6:18,1,10,MIA 10,12,14,Raheem Mostert left end for 5 yards (tackle by Germaine Pratt and Joseph Ossai),-0.380,-0.350
+3,5:36,2,5,MIA 15,12,14,Teddy Bridgewater pass complete short middle to Trent Sherfield for 16 yards (tackle by Germaine Pratt),-0.350,1.000
+3,4:57,1,10,MIA 31,12,14,Teddy Bridgewater pass complete deep middle to Tyreek Hill for 64 yards (tackle by Chidobe Awuzie),1.000,6.060
+3,4:11,1,5,CIN 5,12,14,Raheem Mostert right guard for 3 yards (tackle by Josh Tupou),6.060,5.720
+3,3:36,2,2,CIN 2,12,14,Raheem Mostert right guard for no gain (tackle by Logan Wilson and Sam Hubbard),5.720,4.950
+3,2:53,3,2,CIN 2,12,14,Teddy Bridgewater pass incomplete short left intended for Tyreek Hill (defended by Jessie Bates),4.950,3.250
+3,2:43,4,2,CIN 2,15,14,Jason Sanders 20 yard field goal good,3.250,3.000
+3,2:40,,,MIA 35,15,14,"Jason Sanders kicks off 65 yards, touchback.",0.000,0.610
+3,2:40,1,10,CIN 25,15,14,"Joe Burrow pass complete short middle to Hayden Hurst for no gain (tackle by Eric Rowe and Jevon Holland). Penalty on La'el Collins: Offensive Holding, 10 yards (accepted) (no play)",0.610,-0.410
+3,2:13,1,20,CIN 15,15,14,Joe Burrow pass complete short right to Tee Higgins for 9 yards (tackle by Duke Riley and Eric Rowe),-0.410,-0.070
+3,1:37,2,11,CIN 24,15,14,Samaje Perine left tackle for no gain (tackle by Duke Riley and Christian Wilkins),-0.070,-0.760
+3,0:57,3,11,CIN 24,15,14,Tyler Boyd pass complete deep right to Ja'Marr Chase for 23 yards (tackle by Jevon Holland),-0.760,2.060
+3,0:21,1,10,CIN 47,15,14,Joe Burrow pass complete short left to Tyler Boyd for 4 yards (tackle by Kader Kohou),2.060,2.060
+Quarter,Time,Down,ToGo,Location,MIA,CIN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,6,MIA 49,15,14,Joe Burrow pass complete deep left to Tyler Boyd for 43 yards (tackle by Kader Kohou),2.060,5.830
+4,14:14,1,6,MIA 6,15,14,Joe Mixon right tackle for 3 yards (tackle by Eric Rowe),5.830,5.530
+4,13:34,,,,,,Timeout #1 by Cincinnati Bengals,,
+4,13:34,2,3,MIA 3,15,14,Joe Mixon up the middle for 2 yards (tackle by Jerome Baker and Elandon Roberts),5.530,5.170
+4,12:50,3,1,MIA 1,15,14,Joe Mixon left guard for no gain (tackle by Andrew Van Ginkel),5.170,3.550
+4,12:03,4,1,MIA 1,15,17,Evan McPherson 19 yard field goal good,3.550,3.000
+4,12:00,,,CIN 35,15,17,"Evan McPherson kicks off 65 yards, touchback.",0.000,0.610
+4,12:00,1,10,MIA 25,15,17,Teddy Bridgewater pass complete to Tyreek Hill for 7 yards (tackle by Eli Apple),0.610,1.010
+4,11:24,2,3,MIA 32,15,17,Chase Edmonds right tackle for 2 yards (tackle by Josh Tupou),1.010,0.560
+4,10:45,3,1,MIA 34,15,17,Chase Edmonds right guard for -1 yards (tackle by Logan Wilson),0.560,-1.180
+4,9:56,4,2,MIA 33,15,17,Thomas Morstead punts 39 yards downed by Justin Bethel,-1.180,-0.810
+4,9:49,1,10,CIN 28,15,17,Joe Burrow pass complete short right to Tee Higgins for no gain (tackle by Jaelan Phillips and Jevon Holland),0.810,0.260
+4,9:16,2,10,CIN 28,15,17,Joe Burrow pass complete deep middle to Tee Higgins for 22 yards (tackle by Kader Kohou),0.260,2.260
+4,8:35,1,10,CIN 50,15,17,Joe Mixon right tackle for no gain (tackle by Melvin Ingram),2.260,1.710
+4,7:56,2,10,CIN 50,15,17,Joe Burrow pass complete short left to Ja'Marr Chase for 14 yards,1.710,3.180
+4,7:11,1,10,MIA 36,15,17,Joe Mixon right tackle for 2 yards (tackle by Zach Sieler),3.180,2.910
+4,6:27,2,8,MIA 34,15,17,Joe Burrow pass incomplete deep right intended for Tee Higgins,2.910,2.210
+4,6:20,3,8,MIA 34,15,17,"Penalty on Jonah Williams: False Start, 5 yards (accepted) (no play)",2.210,1.550
+4,6:20,3,13,MIA 39,15,17,Joe Burrow pass incomplete short middle intended for Tyler Boyd (defended by Kader Kohou),1.550,0.660
+4,6:17,4,13,MIA 39,15,20,Evan McPherson 57 yard field goal good,0.660,3.000
+4,6:13,,,CIN 35,15,20,"Evan McPherson kicks off 67 yards, returned by Raheem Mostert for 24 yards (tackle by Markus Bailey)",0.000,0.410
+4,6:07,1,10,MIA 22,15,20,Raheem Mostert right end for 25 yards (tackle by Jessie Bates),0.410,2.060
+4,5:33,1,10,MIA 47,15,20,Raheem Mostert right tackle for -3 yards (tackle by Sam Hubbard),2.060,1.110
+4,5:00,2,13,MIA 44,15,20,Teddy Bridgewater pass complete short right to Tyreek Hill for 3 yards (tackle by Germaine Pratt),1.110,0.830
+4,4:18,3,10,MIA 47,15,20,"Teddy Bridgewater scrambles left end for 11 yards (tackle by Chidobe Awuzie). Penalty on Eli Apple: Illegal Contact, 5 yards (accepted)",0.830,3.120
+4,4:15,1,10,CIN 37,15,20,Raheem Mostert right end for 8 yards (tackle by Cameron Sample),3.120,3.650
+4,3:45,2,2,CIN 29,15,20,Raheem Mostert right guard for 3 yards (tackle by Germaine Pratt),3.650,3.840
+4,3:29,1,10,CIN 26,15,20,Teddy Bridgewater pass incomplete deep left intended for Jaylen Waddle,3.840,3.300
+4,3:17,2,10,CIN 26,15,20,Teddy Bridgewater pass deep middle intended for Mike Gesicki is intercepted by Vonn Bell at CIN-9 and returned for 46 yards (tackle by River Cracraft),3.300,-2.590
+4,3:05,1,10,MIA 45,15,20,Joe Mixon right tackle for 3 yards (tackle by Kader Kohou),2.590,2.450
+4,2:58,,,,,,Timeout #1 by Miami Dolphins,,
+4,2:58,2,7,MIA 42,15,20,Joe Burrow pass complete deep left to Ja'Marr Chase for 36 yards (tackle by Keion Crossen),2.450,5.830
+4,2:13,1,6,MIA 6,15,20,Joe Mixon left guard for 4 yards (tackle by Raekwon Davis),5.830,5.720
+4,2:00,2,2,MIA 2,15,20,Joe Mixon right tackle for no gain (tackle by Nik Needham and Christian Wilkins),5.720,4.950
+4,1:56,,,,,,Timeout #2 by Miami Dolphins,,
+4,1:56,3,2,MIA 2,15,26,"Joe Burrow pass complete to Hayden Hurst for 2 yards, touchdown. Penalty on Duke Riley: Defensive Holding, 5 yards (declined)",4.950,7.000
+4,1:52,,,MIA 15,15,27,Evan McPherson kicks extra point good,0.000,0.000
+4,1:52,,,CIN 35,15,27,"Evan McPherson kicks off 65 yards, touchback.",0.000,0.610
+4,1:52,1,10,MIA 25,15,27,Teddy Bridgewater pass complete short middle to Tyreek Hill for 10 yards (tackle by Logan Wilson),0.610,1.270
+4,1:33,1,10,MIA 35,15,27,Teddy Bridgewater pass complete short middle to Tyreek Hill for 14 yards (tackle by Chidobe Awuzie),1.270,2.190
+4,1:23,1,10,MIA 49,15,27,Teddy Bridgewater pass incomplete short left intended for Raheem Mostert,2.190,1.650
+4,1:18,2,10,MIA 49,15,27,Teddy Bridgewater pass incomplete short right,1.650,0.960
+4,1:13,3,10,MIA 49,15,27,Teddy Bridgewater pass complete short left to Raheem Mostert for 6 yards (tackle by Tre Flowers),0.960,0.270
+4,0:57,,,,,,Timeout #3 by Miami Dolphins,,
+4,0:57,,,,,,Timeout #2 by Cincinnati Bengals,,
+4,0:57,4,4,CIN 45,15,27,Teddy Bridgewater pass incomplete short right intended for Tyreek Hill,0.270,-1.930
+4,0:53,1,10,CIN 45,15,27,Joe Burrow kneels for -1 yards,1.930,1.250
+4,0:31,2,11,CIN 44,15,27,Joe Burrow kneels for -1 yards,1.250,0.430
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,171 @@
+Quarter,Time,Down,ToGo,Location,CIN,BAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Ravens won the coin toss and deferred, Bengals to receive the opening kickoff.",,
+1,15:00,,,BAL 35,0,0,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,CIN 25,0,0,Joe Burrow pass complete short left to Ja'Marr Chase for 11 yards (tackle by Odafe Oweh),0.610,1.330
+1,14:22,1,10,CIN 36,0,0,Joe Burrow pass complete short right to Ja'Marr Chase for no gain (tackle by Marcus Peters),1.330,0.790
+1,13:45,2,10,CIN 36,0,0,Joe Burrow pass complete short right to Joe Mixon for 6 yards (tackle by Patrick Queen),0.790,0.890
+1,13:09,3,4,CIN 42,0,0,Joe Burrow pass incomplete short right intended for Ja'Marr Chase,0.890,-0.590
+1,13:03,4,4,CIN 42,0,0,Kevin Huber punts 28 yards out of bounds,-0.590,-0.940
+1,12:57,1,10,BAL 30,0,0,Lamar Jackson pass complete short left to Mark Andrews for 7 yards (tackle by Logan Wilson and Jessie Bates),0.940,1.340
+1,12:08,2,3,BAL 37,0,0,J.K. Dobbins left guard for 3 yards (tackle by B.J. Hill and Germaine Pratt),1.340,1.600
+1,11:18,1,10,BAL 40,0,0,"Tyler Linderbaum aborted snap, recovered by Devin Duvernay at BAL-40 Devin Duvernay right end for no gain (tackle by Logan Wilson)",1.600,2.390
+1,10:44,1,10,CIN 48,0,0,Lamar Jackson pass complete short left to Devin Duvernay for 9 yards (tackle by Chidobe Awuzie),2.390,3.060
+1,10:22,2,1,CIN 39,0,0,J.K. Dobbins left tackle for 6 yards (tackle by Vonn Bell and Chidobe Awuzie),3.060,3.380
+1,9:41,1,10,CIN 33,0,0,Devin Duvernay left end for 12 yards (tackle by Logan Wilson),3.380,4.170
+1,8:55,1,10,CIN 21,0,0,Lamar Jackson pass incomplete short right,4.170,3.630
+1,8:49,2,10,CIN 21,0,0,Lamar Jackson pass incomplete short middle intended for James Proche,3.630,2.940
+1,8:46,3,10,CIN 21,0,0,Lamar Jackson pass complete short middle to Isaiah Likely for 2 yards (tackle by Daxton Hill),2.940,2.180
+1,8:07,4,8,CIN 19,0,3,Justin Tucker 37 yard field goal good,2.180,3.000
+1,8:03,,,BAL 35,0,3,"Justin Tucker kicks off 63 yards, returned by Chris Evans for 29 yards (tackle by Kristian Welch and Daryl Worley)",0.000,1.000
+1,7:57,1,10,CIN 31,0,3,Joe Mixon left end for -2 yards (tackle by Odafe Oweh and Jason Pierre-Paul),1.000,0.190
+1,7:21,2,12,CIN 29,0,3,Ja'Marr Chase right end for no gain (tackle by Marcus Peters),0.190,-0.490
+1,6:45,3,12,CIN 29,0,3,Joe Burrow sacked by Jason Pierre-Paul for -8 yards,-0.490,-1.960
+1,6:09,4,20,CIN 21,0,3,"Kevin Huber punts 51 yards, returned by Devin Duvernay for 4 yards (tackle by Stanley Morgan)",-1.960,-1.070
+1,5:55,1,10,BAL 32,0,3,J.K. Dobbins left guard for 17 yards (tackle by Jessie Bates),1.070,2.190
+1,5:13,1,10,BAL 49,0,3,Lamar Jackson pass incomplete deep right,2.190,1.650
+1,5:05,2,10,BAL 49,0,3,Lamar Jackson pass incomplete short middle intended for Mark Andrews (defended by Germaine Pratt),1.650,0.960
+1,4:54,3,10,BAL 49,0,3,"Lamar Jackson sacked by Sam Hubbard for no gain. Penalty on Chidobe Awuzie: Defensive Holding, 5 yards (accepted) (no play)",0.960,2.520
+1,4:46,1,10,CIN 46,0,3,"Lamar Jackson right end for no gain (tackle by Eli Apple). Penalty on Patrick Mekari: Offensive Holding, 10 yards (accepted) (no play)",2.520,1.860
+1,4:19,1,20,BAL 44,0,3,Lamar Jackson pass incomplete short right,1.860,0.630
+1,4:12,2,20,BAL 44,0,3,Lamar Jackson pass complete short right to Devin Duvernay for 5 yards (tackle by Logan Wilson),0.630,0.630
+1,3:40,3,15,BAL 49,0,3,Lamar Jackson scrambles up the middle for 4 yards (tackle by Trey Hendrickson),0.630,0.130
+1,3:01,4,11,CIN 47,0,3,"Jordan Stout punts 38 yards, fair catch by Trent Taylor at CIN-9",0.130,0.380
+1,2:51,1,10,CIN 9,0,3,Joe Burrow up the middle for 2 yards (tackle by Brandon Stephens and Brent Urban),-0.380,-0.630
+1,2:12,2,8,CIN 11,0,3,Joe Burrow pass incomplete short left intended for Ja'Marr Chase,-0.630,-1.190
+1,2:08,3,8,CIN 11,0,3,Joe Burrow pass complete short right to Hayden Hurst for 5 yards (tackle by Marcus Peters),-1.190,-2.390
+1,1:27,4,3,CIN 16,0,3,Kevin Huber punts 34 yards,-2.390,-2.260
+1,1:21,1,10,BAL 50,0,3,Lamar Jackson pass complete deep left to Devin Duvernay for 21 yards (tackle by Jessie Bates),2.260,3.640
+1,0:39,1,10,CIN 29,0,3,Lamar Jackson pass complete short right to Demarcus Robinson for 8 yards (tackle by Eli Apple),3.640,4.180
+1,0:12,2,2,CIN 21,0,3,J.K. Dobbins right guard for no gain (tackle by Mike Hilton and Josh Tupou),4.180,3.470
+Quarter,Time,Down,ToGo,Location,CIN,BAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,2,CIN 21,0,3,Devin Duvernay left end for 7 yards (tackle by Logan Wilson),3.470,4.650
+2,14:20,1,10,CIN 14,0,3,Mike Davis right end for 3 yards (tackle by Logan Wilson),4.650,4.520
+2,13:38,2,7,CIN 11,0,3,Lamar Jackson pass incomplete short right,4.520,3.620
+2,13:31,3,7,CIN 11,0,9,"Lamar Jackson pass complete short left to Mark Andrews for 11 yards, touchdown",3.620,7.000
+2,13:26,,,CIN 15,0,10,Justin Tucker kicks extra point good,0.000,0.000
+2,13:26,,,BAL 35,0,10,"Justin Tucker kicks off 68 yards, returned by Chris Evans for 25 yards (tackle by Kevon Seymour)",0.000,0.410
+2,13:22,1,10,CIN 22,0,10,Joe Mixon right guard for 3 yards (tackle by Chuck Clark and Malik Harrison),0.410,0.270
+2,12:49,2,7,CIN 25,0,10,Joe Burrow sacked by Josh Bynes for -7 yards,0.270,-1.490
+2,12:06,3,14,CIN 18,0,10,Joe Burrow pass complete short right to Hayden Hurst for 12 yards (tackle by Damarion Williams),-1.490,-1.370
+2,11:24,4,2,CIN 30,0,10,"Kevin Huber punts 41 yards, fair catch by Devin Duvernay at BAL-29",-1.370,-0.870
+2,11:15,1,10,BAL 29,0,10,Lamar Jackson right end for 12 yards (tackle by Vonn Bell),0.870,1.660
+2,10:38,1,10,BAL 41,0,10,Kenyan Drake left guard for 14 yards (tackle by Jessie Bates),1.660,2.590
+2,10:07,1,10,CIN 45,0,10,Kenyan Drake left guard for 2 yards (tackle by Sam Hubbard and Germaine Pratt),2.590,2.310
+2,9:30,2,8,CIN 43,0,10,Lamar Jackson pass deep right intended for Demarcus Robinson is intercepted by Vonn Bell at CIN-17 and returned for no gain (tackle by Demarcus Robinson),2.310,0.060
+2,9:18,1,10,CIN 17,0,10,Joe Mixon left guard for 9 yards (tackle by Josh Bynes and Odafe Oweh),-0.060,0.750
+2,8:40,2,1,CIN 26,0,10,Joe Mixon up the middle for 3 yards (tackle by Broderick Washington and Josh Bynes),0.750,0.870
+2,8:00,,,,,,Timeout #1 by Cincinnati Bengals,,
+2,8:00,1,10,CIN 29,0,10,Joe Mixon left tackle for 12 yards (tackle by Marcus Williams),0.870,1.660
+2,7:23,,,,,,Timeout #1 by Baltimore Ravens,,
+2,7:23,1,10,CIN 41,0,10,"Joe Burrow pass complete short right to Ja'Marr Chase for no gain. Penalty on La'el Collins: Ineligible Downfield Pass, 5 yards (accepted) (no play)",1.660,1.330
+2,7:02,1,15,CIN 36,0,10,Joe Burrow pass complete short right to Mike Thomas for 33 yards (tackle by Chuck Clark),1.330,3.510
+2,6:20,1,10,BAL 31,0,10,Joe Mixon up the middle for 9 yards (tackle by Patrick Queen),3.510,4.180
+2,5:42,2,1,BAL 22,0,10,Joe Burrow up the middle for 3 yards (tackle by Josh Bynes),4.180,4.310
+2,5:02,1,10,BAL 19,6,10,"Joe Burrow pass complete short middle to Hayden Hurst for 19 yards, touchdown",4.310,7.000
+2,4:54,,,BAL 15,7,10,Evan McPherson kicks extra point good,0.000,0.000
+2,4:54,,,CIN 35,7,10,"Evan McPherson kicks off 65 yards, touchback.",0.000,0.610
+2,4:54,1,10,BAL 25,7,10,Lamar Jackson pass complete short right to Devin Duvernay for 9 yards (tackle by Jessie Bates),0.610,1.280
+2,4:19,2,1,BAL 34,7,10,J.K. Dobbins left guard for 3 yards (tackle by Sam Hubbard),1.280,1.400
+2,3:51,1,10,BAL 37,7,10,Lamar Jackson pass complete short middle to James Proche for 7 yards (tackle by Mike Hilton),1.400,1.800
+2,3:08,2,3,BAL 44,7,10,"Penalty on BAL: Illegal Shift, 5 yards (accepted) (no play)",1.800,1.130
+2,3:08,2,8,BAL 39,7,10,Lamar Jackson sacked by Germaine Pratt for -4 yards,1.130,-0.100
+2,2:07,3,12,BAL 35,7,10,Lamar Jackson pass complete short right to Tylan Wallace for 8 yards (tackle by Eli Apple),-0.100,-0.520
+2,2:00,4,4,BAL 43,7,10,"Jordan Stout punts 41 yards, fair catch by Trent Taylor at CIN-16",-0.520,0.140
+2,1:54,1,10,CIN 16,7,10,Joe Burrow pass incomplete short right intended for Tyler Boyd (defended by Jason Pierre-Paul),-0.140,-0.660
+2,1:50,2,10,CIN 16,7,10,Joe Burrow pass incomplete short middle intended for Ja'Marr Chase (defended by Jason Pierre-Paul),-0.660,-1.320
+2,1:47,3,10,CIN 16,7,10,Joe Burrow pass complete short left to Samaje Perine for 15 yards (tackle by Marcus Williams),-1.320,1.000
+2,1:22,1,10,CIN 31,7,10,Joe Burrow pass complete to Samaje Perine for 8 yards (tackle by Patrick Queen),1.000,1.540
+2,1:09,,,,,,Timeout #2 by Cincinnati Bengals,,
+2,1:09,2,2,CIN 39,7,10,Samaje Perine up the middle for 9 yards (tackle by Patrick Queen and Chuck Clark),1.540,2.130
+2,0:55,1,10,CIN 48,7,10,Joe Burrow pass complete short left to Samaje Perine for 9 yards (tackle by Patrick Queen),2.130,2.800
+2,0:31,2,1,BAL 43,7,10,Joe Burrow pass complete short middle to Tyler Boyd for 18 yards (tackle by Patrick Queen),2.800,3.910
+2,0:23,,,,,,Timeout #3 by Cincinnati Bengals,,
+2,0:23,1,10,BAL 25,7,10,Joe Burrow pass incomplete deep right intended for Mike Thomas (defended by Marcus Peters),3.910,3.360
+2,0:18,2,10,BAL 25,7,10,Joe Burrow pass complete short left to Hayden Hurst for 3 yards (tackle by Marlon Humphrey),3.360,3.070
+2,0:13,,,,,,Timeout #2 by Baltimore Ravens,,
+2,0:13,3,7,BAL 22,7,10,Joe Burrow pass incomplete short left,3.070,1.990
+2,0:08,4,7,BAL 22,10,10,Evan McPherson 40 yard field goal good,1.990,3.000
+2,0:04,,,CIN 35,10,10,"Evan McPherson kicks off 56 yards, returned by Devin Duvernay for 15 yards (tackle by Samaje Perine)",0.000,0.540
+2,0:01,1,10,BAL 24,10,10,Lamar Jackson kneels for -1 yards,0.540,-0.140
+Quarter,Time,Down,ToGo,Location,CIN,BAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,CIN 35,10,10,"Evan McPherson kicks off 53 yards, out of bounds",0.000,1.600
+3,15:00,1,10,BAL 40,10,10,Lamar Jackson pass incomplete short right,1.600,1.050
+3,14:51,2,10,BAL 40,10,10,J.K. Dobbins left guard for 12 yards (tackle by Josh Tupou and Chidobe Awuzie),1.050,2.390
+3,14:08,1,10,CIN 48,10,10,J.K. Dobbins right guard for -1 yards (tackle by Cameron Sample and Mike Hilton),2.390,1.710
+3,13:29,2,11,CIN 49,10,10,Lamar Jackson pass incomplete deep middle intended for Devin Duvernay,1.710,1.030
+3,13:21,3,11,CIN 49,10,10,Lamar Jackson pass complete short middle to Mark Andrews for 8 yards (tackle by Chidobe Awuzie),1.030,0.530
+3,12:37,4,3,CIN 41,10,10,Lamar Jackson pass incomplete deep right intended for Tylan Wallace,0.530,-1.660
+3,12:31,1,10,CIN 41,10,10,Joe Burrow pass deep middle intended for Ja'Marr Chase is intercepted by Patrick Queen at BAL-43 and returned for 11 yards (tackle by Joe Mixon),1.660,-2.520
+3,12:24,1,10,CIN 46,10,10,Lamar Jackson pass incomplete deep middle intended for Devin Duvernay,2.520,1.980
+3,12:18,2,10,CIN 46,10,10,Devin Duvernay left end for 5 yards (tackle by Vonn Bell),1.980,1.950
+3,11:39,3,5,CIN 41,10,10,Lamar Jackson pass complete short right to Kenyan Drake for 1 yard (tackle by Vonn Bell),1.950,0.590
+3,10:54,4,4,CIN 40,10,13,Justin Tucker 58 yard field goal good,0.590,3.000
+3,10:49,,,BAL 35,10,13,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+3,10:49,1,10,CIN 25,10,13,Joe Mixon right guard for 4 yards (tackle by Broderick Washington and Brandon Copeland),0.610,0.600
+3,10:15,2,6,CIN 29,10,13,Joe Burrow pass complete short right to Hayden Hurst for 8 yards (tackle by Marcus Peters),0.600,1.400
+3,9:39,1,10,CIN 37,10,13,Joe Mixon left guard for 1 yard (tackle by Broderick Washington),1.400,0.990
+3,8:58,2,9,CIN 38,10,13,Joe Burrow pass complete short right to Tyler Boyd for 6 yards (tackle by Damarion Williams),0.990,1.090
+3,8:13,3,3,CIN 44,10,13,"Joe Burrow pass incomplete deep right intended for Ja'Marr Chase. Penalty on Marcus Peters: Defensive Pass Interference, 18 yards (accepted) (no play)",1.090,3.050
+3,8:08,1,10,BAL 38,10,13,Joe Burrow pass complete short right to Joe Mixon for 4 yards (tackle by Malik Harrison),3.050,3.050
+3,7:31,2,6,BAL 34,10,13,Joe Mixon left guard for 10 yards (tackle by Chuck Clark and Brandon Copeland),3.050,3.970
+3,6:52,1,10,BAL 24,10,13,Joe Burrow pass incomplete short right intended for Ja'Marr Chase,3.970,3.430
+3,6:46,2,10,BAL 24,10,13,Samaje Perine right guard for 4 yards (tackle by Brent Urban),3.430,3.270
+3,6:08,3,6,BAL 20,10,13,"Joe Burrow pass complete short middle to Samaje Perine for 7 yards (tackle by Malik Harrison). Penalty on Marcus Peters: Illegal Use of Hands / Defense, 5 yards (declined)",3.270,4.710
+3,5:48,1,10,BAL 13,10,13,Joe Burrow pass complete short left to Ja'Marr Chase for -1 yards (tackle by Damarion Williams),4.710,3.900
+3,5:11,2,11,BAL 14,10,13,Joe Burrow pass complete short left to Hayden Hurst for 6 yards,3.900,4.100
+3,4:26,3,5,BAL 8,10,13,"Joe Burrow pass incomplete intended for Hayden Hurst. Penalty on Kyle Hamilton: Defensive Pass Interference, 6 yards (accepted) (no play)",4.100,6.740
+3,4:21,1,2,BAL 2,10,13,Joe Burrow pass incomplete short left intended for Hayden Hurst,6.740,5.720
+3,4:18,2,2,BAL 2,10,13,Tyler Boyd sacked by Marcus Peters for -12 yards,5.720,3.000
+3,3:31,3,14,BAL 14,10,13,Joe Burrow pass complete short middle to Ja'Marr Chase for 12 yards (tackle by Chuck Clark and Damarion Williams),3.000,3.250
+3,2:50,4,2,BAL 2,10,13,Joe Burrow pass incomplete short middle intended for Stanley Morgan,3.250,0.380
+3,2:45,1,10,BAL 2,10,13,J.K. Dobbins left tackle for 4 yards (tackle by Germaine Pratt and Sam Hubbard),-0.380,-0.490
+3,2:05,2,6,BAL 6,10,13,Lamar Jackson pass incomplete short middle intended for Mark Andrews,-0.490,-0.950
+3,1:58,3,6,BAL 6,10,13,Lamar Jackson pass complete short middle to Mark Andrews for 20 yards (tackle by Chidobe Awuzie and Vonn Bell),-0.950,0.670
+3,1:12,1,10,BAL 26,10,13,Lamar Jackson right tackle for 7 yards (tackle by Josh Tupou and Germaine Pratt),0.670,1.070
+3,0:30,2,3,BAL 33,10,13,Lamar Jackson right end for 3 yards (tackle by Jessie Bates),1.070,1.330
+Quarter,Time,Down,ToGo,Location,CIN,BAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,BAL 36,10,13,Lamar Jackson pass complete deep left to Mark Andrews for 19 yards (tackle by Eli Apple),1.330,2.590
+4,14:29,1,10,CIN 45,10,13,Lamar Jackson scrambles up the middle for 1 yard (tackle by Zachary Carter),2.590,2.180
+4,13:44,2,9,CIN 44,10,13,Lamar Jackson right end for 2 yards (tackle by B.J. Hill and Germaine Pratt),2.180,1.750
+4,13:06,3,7,CIN 42,10,13,Lamar Jackson pass complete short middle to Mark Andrews for 9 yards (tackle by Tre Flowers),1.750,3.380
+4,12:27,1,10,CIN 33,10,13,Lamar Jackson pass complete short right to Devin Duvernay for 10 yards,3.380,4.040
+4,11:23,1,10,CIN 23,10,13,"Kenyan Drake left tackle for 6 yards (tackle by Vonn Bell). Penalty on Zachary Carter: Defensive Holding, 5 yards (accepted)",4.040,4.780
+4,11:24,1,10,CIN 12,10,13,Lamar Jackson pass incomplete short right intended for Josh Oliver (defended by Germaine Pratt),4.780,4.100
+4,11:19,2,10,CIN 12,10,13,Lamar Jackson left tackle for 4 yards (tackle by Trey Hendrickson),4.100,3.930
+4,10:37,3,6,CIN 8,10,13,Lamar Jackson pass complete to Isaiah Likely for 5 yards (tackle by Logan Wilson and Chidobe Awuzie),3.930,3.060
+4,9:46,4,1,CIN 3,10,13,"Penalty on BAL: Delay of Game, 4 yards (accepted) (no play)",3.060,2.980
+4,9:46,4,5,CIN 7,10,16,Justin Tucker 25 yard field goal good,2.980,3.000
+4,9:42,,,BAL 35,10,16,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+4,9:42,1,10,CIN 25,10,16,Joe Mixon right tackle for 7 yards (tackle by Chuck Clark),0.610,1.010
+4,9:00,2,3,CIN 32,10,16,Joe Mixon left end for 10 yards (tackle by Geno Stone),1.010,1.730
+4,8:17,1,10,CIN 42,10,16,Joe Burrow pass incomplete short middle intended for Mike Thomas (defended by Brent Urban),1.730,1.190
+4,8:12,2,10,CIN 42,10,16,"Joe Burrow pass incomplete deep left intended for Ja'Marr Chase. Penalty on Damarion Williams: Defensive Holding, 5 yards (accepted) (no play)",1.190,2.060
+4,8:08,1,10,CIN 47,10,16,Samaje Perine left guard for 4 yards (tackle by Josh Bynes),2.060,2.060
+4,7:33,2,6,BAL 49,10,16,Joe Burrow pass complete short left to Ja'Marr Chase for 9 yards (tackle by Geno Stone),2.060,2.920
+4,6:52,1,10,BAL 40,10,16,Joe Mixon left tackle for 3 yards (tackle by Patrick Queen and Calais Campbell),2.920,2.780
+4,6:15,2,7,BAL 37,10,16,Joe Burrow pass complete short left to Ja'Marr Chase for 6 yards (tackle by Marlon Humphrey),2.780,2.870
+4,5:27,3,1,BAL 31,10,16,Joe Burrow pass complete short left to Tyler Boyd for 8 yards (tackle by Josh Bynes),2.870,4.040
+4,4:46,1,10,BAL 23,10,16,Joe Mixon left tackle for 5 yards (tackle by Brent Urban),4.040,4.210
+4,4:04,2,5,BAL 18,10,16,Joe Burrow pass complete short middle to Joe Mixon for no gain (tackle by Malik Harrison),4.210,3.490
+4,3:25,3,5,BAL 18,10,16,Joe Burrow pass complete short left to Ja'Marr Chase for 13 yards (tackle by Marlon Humphrey),3.490,6.060
+4,2:47,1,5,BAL 5,10,16,Joe Mixon left guard for 4 yards (tackle by Chuck Clark and Odafe Oweh),6.060,5.910
+4,2:00,2,1,BAL 1,16,16,"Joe Burrow right guard for 1 yard, touchdown",5.910,7.000
+4,1:58,,,BAL 15,17,16,Evan McPherson kicks extra point good,0.000,0.000
+4,1:58,,,CIN 35,17,16,"Evan McPherson kicks off 65 yards, touchback.",0.000,0.610
+4,1:58,1,10,BAL 25,17,16,Lamar Jackson pass complete short middle to Mark Andrews for 7 yards (tackle by Mike Hilton),0.610,1.010
+4,1:39,2,3,BAL 32,17,16,Lamar Jackson pass complete short right to Mark Andrews for 8 yards (tackle by Vonn Bell and Germaine Pratt),1.010,1.600
+4,1:15,1,10,BAL 40,17,16,Lamar Jackson up the middle for 5 yards (tackle by Logan Wilson) (no play),1.600,2.330
+4,1:10,1,5,BAL 45,17,16,Lamar Jackson up the middle for 19 yards (tackle by Sam Hubbard),2.330,3.180
+4,0:56,,,,,,Timeout #1 by Cincinnati Bengals,,
+4,0:56,1,10,CIN 36,17,16,Kenyan Drake left tackle for 4 yards (tackle by Germaine Pratt),3.180,3.180
+4,0:52,,,,,,Timeout #2 by Cincinnati Bengals,,
+4,0:52,2,6,CIN 32,17,16,Lamar Jackson up the middle for 4 yards (tackle by Josh Tupou and B.J. Hill),3.180,3.010
+4,0:46,,,,,,Timeout #3 by Cincinnati Bengals,,
+4,0:46,3,2,CIN 28,17,16,Lamar Jackson up the middle for 3 yards (tackle by Cameron Sample),3.010,3.910
+4,0:03,,,,,,Timeout #1 by Baltimore Ravens,,
+4,0:03,1,10,CIN 25,17,19,Justin Tucker 43 yard field goal good,3.910,3.000
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

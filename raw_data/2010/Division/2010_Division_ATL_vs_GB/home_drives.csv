@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,ATL 22,9,4:59,34,Punt
+2,1,8:55,GNB 48,7,3:55,48,Touchdown
+3,2,12:04,,0,0:14,0,Touchdown
+4,2,6:06,ATL 35,7,3:46,39,Interception
+5,2,0:42,ATL 35,4,0:42,30,Interception
+6,3,8:28,ATL 27,3,0:59,2,Punt
+7,3,2:41,ATL 27,7,3:20,73,Touchdown
+8,4,12:55,ATL 40,4,1:16,4,Fumble
+9,4,6:29,ATL 21,4,0:57,12,Fumble
+10,4,1:56,ATL 27,3,1:33,-4,Punt

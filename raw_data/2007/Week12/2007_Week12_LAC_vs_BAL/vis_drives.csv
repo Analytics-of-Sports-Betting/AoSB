@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,BAL 26,3,1:33,8,Punt
+2,1,11:31,BAL 20,9,4:09,44,Punt
+3,1,5:08,BAL 11,5,2:26,10,Punt
+4,2,13:11,SDG 37,6,3:12,37,Touchdown
+5,2,7:16,BAL 31,3,1:24,-1,Fumble
+6,2,5:09,BAL 20,3,1:22,-9,Punt
+7,2,0:03,,0,0:03,0,End of Half
+8,3,11:30,BAL 31,11,5:51,69,Touchdown
+9,3,4:07,BAL 21,6,4:15,27,Punt
+10,4,8:41,BAL 15,3,1:34,-9,Punt
+11,4,2:16,BAL 16,9,2:16,63,Downs

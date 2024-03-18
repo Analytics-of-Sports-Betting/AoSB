@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,12:10,CLE 15,6,2:41,85,Touchdown
+2,1,7:21,CLE 10,8,4:29,30,Punt
+3,2,14:05,CLE 25,10,4:20,70,Field Goal
+4,2,4:10,CLE 24,3,1:45,6,Punt
+5,2,1:07,CLE 35,4,1:07,-6,Downs
+6,3,15:00,CLE 25,6,3:40,15,Punt
+7,3,8:29,CLE 24,8,4:41,76,Touchdown
+8,3,1:31,PIT 20,4,1:34,20,Touchdown
+9,4,10:07,CLE 27,10,6:30,38,Downs
+10,4,1:23,,4,1:23,10,End of Game

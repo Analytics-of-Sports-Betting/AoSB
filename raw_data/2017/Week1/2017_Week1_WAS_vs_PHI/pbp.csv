@@ -1,0 +1,179 @@
+Quarter,Time,Down,ToGo,Location,PHI,WAS,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Eagles won the coin toss and deferred, Redskins to receive the opening kickoff.",,
+1,15:00,,,PHI 35,0,0,"Caleb Sturgis kicks off 63 yards, returned by Bashaud Breeland for 14 yards (tackle by Corey Clement)",0.000,0.140
+1,14:56,1,10,WAS 16,0,0,Kirk Cousins pass incomplete deep middle intended for Terrelle Pryor,-0.140,-0.660
+1,14:50,2,10,WAS 16,0,0,Chris Thompson left tackle for -1 yards (tackle by Brandon Graham),-0.660,-1.470
+1,14:12,3,11,WAS 15,0,0,Kirk Cousins pass complete short middle to Terrelle Pryor for 12 yards (tackle by Jalen Mills and Jordan Hicks),-1.470,0.740
+1,13:31,1,10,WAS 27,0,0,Robert Kelley right end for -1 yards (tackle by Brandon Graham and Timmy Jernigan),0.740,0.060
+1,12:52,2,11,WAS 26,0,0,Kirk Cousins pass incomplete short left intended for Ryan Grant,0.060,-0.620
+1,12:49,3,11,WAS 26,0,0,Kirk Cousins pass incomplete deep right intended for Terrelle Pryor (defended by Nigel Bradham),-0.620,-1.630
+1,12:43,4,11,WAS 26,0,0,"Tress Way punts 30 yards, out of bounds",-1.630,-1.860
+1,12:35,1,10,PHI 44,0,0,Carson Wentz pass incomplete deep middle intended for Torrey Smith (defended by Josh Norman),1.860,1.320
+1,12:27,2,10,PHI 44,0,0,Carson Wentz sacked by Preston Smith for -2 yards,1.320,0.370
+1,11:43,3,12,PHI 42,6,0,"Carson Wentz pass complete deep left to Nelson Agholor for 58 yards, touchdown",0.370,7.000
+1,11:28,,,WAS 15,7,0,Caleb Sturgis kicks extra point good,0.000,0.000
+1,11:28,,,PHI 35,7,0,"Caleb Sturgis kicks off 65 yards, touchback",0.000,-0.610
+1,11:28,1,10,WAS 25,7,0,Kirk Cousins pass incomplete deep middle intended for Jamison Crowder,0.610,0.060
+1,11:23,2,10,WAS 25,7,0,Kirk Cousins pass complete short left to Ryan Grant for 34 yards (tackle by Rodney McLeod),0.060,2.850
+1,10:50,1,10,PHI 41,7,0,Robert Kelley right tackle for 4 yards (tackle by Malcolm Jenkins and Vinny Curry),2.850,2.850
+1,10:10,2,6,PHI 37,7,0,Kirk Cousins pass incomplete short left intended for Vernon Davis,2.850,2.150
+1,10:06,3,6,PHI 37,7,0,"Kirk Cousins sacked by Fletcher Cox for -11 yards. Kirk Cousins fumbles (forced by Fletcher Cox), recovered by Jordan Hicks at WAS-48 (tackle by Brandon Scherff)",2.150,-2.390
+1,9:58,1,10,WAS 48,7,0,"Carson Wentz pass complete short left to Darren Sproles for 1 yard (tackle by Mason Foster). Penalty on Jason Peters: Illegal Block Above the Waist, 10 yards",2.390,1.800
+1,9:16,1,19,PHI 43,7,0,LeGarrette Blount right end for 6 yards (tackle by Mason Foster and Kendall Fuller),1.800,1.440
+1,8:33,2,13,PHI 49,7,0,Carson Wentz pass complete short right to Darren Sproles for 6 yards (tackle by Preston Smith),1.440,1.550
+1,7:57,3,7,WAS 45,7,0,Carson Wentz pass complete short left to Nelson Agholor for 10 yards (tackle by Kendall Fuller),1.550,3.250
+1,7:16,1,10,WAS 35,7,0,Wendell Smallwood left end for 1 yard (tackle by Terrell McClain),3.250,2.840
+1,6:37,2,9,WAS 34,7,0,"Carson Wentz for no gain. Carson Wentz fumbles, recovered by Mason Foster (tackle by Carson Wentz)",2.840,-2.260
+1,6:29,1,10,,7,0,"Kirk Cousins pass incomplete deep left intended for Terrelle Pryor. Penalty on Jordan Reed: Offensive Holding, 10 yards (no play)",2.260,1.600
+1,6:21,1,20,WAS 40,7,0,Robert Kelley left end for 4 yards (tackle by Rodney McLeod),1.600,0.900
+1,5:43,2,16,WAS 44,7,0,Kirk Cousins middle for 10 yards (tackle by Ronald Darby),0.900,1.550
+1,5:02,3,6,PHI 46,7,0,Kirk Cousins pass incomplete deep right intended for Jamison Crowder,1.550,0.200
+1,4:57,4,6,PHI 46,7,0,"Tress Way punts 33 yards, fair catch by Darren Sproles",0.200,0.320
+1,4:49,1,10,PHI 13,7,0,LeGarrette Blount right end for 4 yards (tackle by Zach Brown and Deshazor Everett),-0.320,-0.300
+1,4:14,2,6,PHI 17,7,0,LeGarrette Blount left guard for 5 yards (tackle by Jonathan Allen and Zach Brown),-0.300,-0.350
+1,3:31,3,1,PHI 22,7,0,LeGarrette Blount left end for -2 yards (tackle by Zach Brown),-0.350,-2.030
+1,2:55,4,3,PHI 20,7,0,"Donnie Jones punts 40 yards, muffed catch by Jamison Crowder, recovered by Trey Burton and returned for no gain",-2.030,2.980
+1,2:43,1,10,WAS 39,7,0,Carson Wentz pass complete short right to Zach Ertz for 7 yards,2.980,3.390
+1,1:57,2,3,WAS 32,7,0,LeGarrette Blount middle for 4 yards (tackle by Zach Brown and Deshazor Everett),3.390,3.710
+1,1:11,1,10,WAS 28,7,0,Carson Wentz pass complete short left to Zach Ertz for 14 yards (tackle by D.J. Swearinger),3.710,4.650
+1,0:27,1,10,WAS 14,7,0,LeGarrette Blount right tackle for 6 yards (tackle by D.J. Swearinger),4.650,5.090
+Quarter,Time,Down,ToGo,Location,PHI,WAS,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,4,WAS 8,7,0,Carson Wentz pass complete short right to Nelson Agholor for 5 yards (tackle by D.J. Swearinger),5.090,6.510
+2,14:16,1,3,WAS 3,7,0,LeGarrette Blount right guard for 2 yards (tackle by Jonathan Allen and Zach Brown),6.510,5.910
+2,13:33,2,1,WAS 1,7,0,Carson Wentz pass incomplete short middle intended for Brent Celek,5.910,5.170
+2,13:28,3,1,WAS 1,13,0,"Carson Wentz pass complete short right to LeGarrette Blount for 1 yard, touchdown. Penalty on D.J. Swearinger: Defensive Offside (Declined)",5.170,7.000
+2,13:23,,,WAS 15,13,0,Caleb Sturgis kicks extra point no good,0.000,-1.000
+2,13:23,,,PHI 35,13,0,"Caleb Sturgis kicks off 65 yards, returned by Bashaud Breeland for 24 yards (tackle by Najee Goode)",0.000,-0.540
+2,13:18,1,10,WAS 24,13,0,Robert Kelley left end for 6 yards (tackle by Mychal Kendricks),0.540,0.810
+2,12:40,2,4,WAS 30,13,0,Robert Kelley left end for 2 yards (tackle by Nigel Bradham),0.810,0.370
+2,12:06,3,2,WAS 32,13,0,Kirk Cousins right end for 4 yards (tackle by Malcolm Jenkins),0.370,1.330
+2,11:35,1,10,WAS 36,13,0,Robert Kelley left guard for -1 yards (tackle by Derek Barnett and Jordan Hicks),1.330,0.660
+2,11:00,2,11,WAS 35,13,0,Chris Thompson right end for 1 yard (tackle by Patrick Robinson),0.660,0.100
+2,10:20,3,10,WAS 36,13,0,Kirk Cousins pass complete short left to Jordan Reed for 9 yards (tackle by Jordan Hicks and Nigel Bradham),0.100,-0.390
+2,9:37,4,1,WAS 45,13,0,Tress Way punts 49 yards,-0.390,0.380
+2,9:26,1,10,PHI 6,13,0,Carson Wentz pass complete short right to Alshon Jeffery for 14 yards (tackle by Josh Norman and Deshazor Everett),-0.380,0.280
+2,8:43,1,10,PHI 20,13,0,Carson Wentz pass incomplete short middle intended for Nelson Agholor,0.280,-0.270
+2,8:39,2,10,PHI 20,13,6,"Carson Wentz pass incomplete short right intended for Darren Sproles is intercepted by Ryan Kerrigan at PHI-24 and returned for 24 yards, touchdown",-0.270,-7.000
+2,,,,PHI 15,13,7,Dustin Hopkins kicks extra point good,,
+2,8:30,,,WAS 35,13,7,"Dustin Hopkins kicks off 65 yards, touchback",0.000,-0.610
+2,8:30,1,10,PHI 25,13,7,LeGarrette Blount left end for 7 yards (tackle by Kendall Fuller),0.610,1.010
+2,7:51,2,3,PHI 32,13,7,"Wendell Smallwood left end for 2 yards (tackle by Deshazor Everett and Zach Brown). Penalty on Brent Celek: False Start, 5 yards (no play)",1.010,0.330
+2,7:21,2,8,PHI 27,13,7,Carson Wentz pass complete short middle to Zach Ertz for 10 yards (tackle by Mason Foster and Zach Brown),0.330,1.400
+2,6:37,1,10,PHI 37,13,7,Wendell Smallwood left end for 2 yards (tackle by Preston Smith),1.400,1.130
+2,5:51,2,8,PHI 39,13,7,"Carson Wentz sacked by Zach Brown for -6 yards. Penalty on Wendell Smallwood: Chop Block, 15 yards (no play)",1.130,-0.900
+2,5:23,2,23,PHI 24,13,7,Carson Wentz pass complete short right to Darren Sproles for 15 yards (tackle by Josh Norman),-0.900,0.430
+2,4:35,3,8,PHI 39,13,7,Carson Wentz sacked by Matthew Ioannidis and Ryan Kerrigan for -7 yards,0.430,-1.240
+2,4:03,4,15,PHI 32,13,7,"Donnie Jones punts 37 yards, fair catch by Jamison Crowder",-1.240,-1.000
+2,3:56,1,10,WAS 31,13,7,Kirk Cousins pass incomplete short right intended for Robert Kelley,1.000,0.460
+2,3:52,2,10,WAS 31,13,7,Kirk Cousins pass complete short left to Terrelle Pryor for 12 yards (tackle by Jalen Mills),0.460,1.800
+2,3:15,1,10,WAS 43,13,7,Robert Kelley right tackle for 4 yards (tackle by Patrick Robinson),1.800,1.790
+2,2:40,2,6,WAS 47,13,7,Kirk Cousins pass complete short left to Ryan Grant for 10 yards (tackle by Corey Graham),1.790,2.720
+2,2:11,1,10,PHI 43,13,7,Kirk Cousins pass complete short middle to Jordan Reed for 5 yards (tackle by Jordan Hicks and Corey Graham),2.720,2.850
+2,2:00,2,5,PHI 38,13,7,Kirk Cousins pass complete short middle to Chris Thompson for 5 yards (tackle by Jordan Hicks),2.850,3.380
+2,1:34,1,10,PHI 33,13,7,Chris Thompson right tackle for 4 yards (tackle by Destiny Vaeao and Rodney McLeod),3.380,0.000
+2,1:26,,,,,,Timeout #1 by Washington Redskins,0.000,-3.380
+2,1:26,2,6,PHI 29,13,13,"Kirk Cousins pass complete short middle to Chris Thompson for 29 yards, touchdown",3.380,7.000
+2,1:17,,,PHI 15,13,14,Dustin Hopkins kicks extra point good,0.000,0.000
+2,1:17,,,WAS 35,13,14,"Dustin Hopkins kicks off 65 yards, touchback",0.000,-0.610
+2,1:17,1,10,PHI 25,13,14,Carson Wentz pass incomplete deep middle intended for Nelson Agholor (defended by Kendall Fuller),0.610,0.060
+2,1:11,2,10,PHI 25,13,14,Darren Sproles right tackle for no gain (tackle by Ryan Kerrigan),0.060,0.000
+2,1:04,,,,,,Timeout #2 by Washington Redskins,0.000,0.620
+2,1:04,3,10,PHI 25,13,14,Carson Wentz pass complete short middle to Zach Ertz for 12 yards (tackle by D.J. Swearinger),-0.620,0.000
+2,0:56,,,,,,Timeout #1 by Philadelphia Eagles,0.000,-1.400
+2,0:56,1,10,PHI 37,13,14,Carson Wentz pass incomplete deep middle intended for Alshon Jeffery (defended by Josh Norman),1.400,0.860
+2,0:50,2,10,PHI 37,13,14,Carson Wentz middle for 4 yards (tackle by Zach Brown),0.860,0.000
+2,0:41,,,,,,Timeout #2 by Philadelphia Eagles,0.000,-0.700
+2,0:41,3,6,PHI 41,13,14,Carson Wentz pass complete short middle to Nelson Agholor for 10 yards (tackle by Mason Foster),0.700,2.320
+2,0:22,1,10,WAS 49,13,14,Carson Wentz pass complete short middle to Darren Sproles for 8 yards (tackle by Mason Foster),2.320,2.860
+2,0:15,2,2,WAS 41,13,14,Carson Wentz pass complete short left to Zach Ertz for 9 yards (tackle by Deshazor Everett),2.860,0.000
+2,0:15,,,,,,Timeout #3 by Philadelphia Eagles,0.000,-3.450
+2,0:10,1,10,WAS 32,13,14,Carson Wentz pass incomplete deep left intended for Alshon Jeffery (defended by Bashaud Breeland),3.450,2.900
+2,0:04,2,10,WAS 32,16,14,Caleb Sturgis 50 yard field goal good,2.900,3.000
+Quarter,Time,Down,ToGo,Location,PHI,WAS,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,WAS 35,16,14,"Dustin Hopkins kicks off 65 yards, touchback",0.000,-0.610
+3,15:00,1,10,PHI 25,16,14,Carson Wentz pass complete short right to Brent Celek for 11 yards (tackle by Josh Norman),0.610,1.330
+3,14:26,1,10,PHI 36,16,14,LeGarrette Blount right guard for no gain (tackle by Deshazor Everett and Zach Brown),1.330,0.790
+3,13:43,2,10,PHI 36,16,14,Carson Wentz pass incomplete short left intended for Darren Sproles,0.790,0.100
+3,13:35,3,10,PHI 36,16,14,Carson Wentz pass complete short left to Torrey Smith for 30 yards (tackle by Bashaud Breeland),0.100,3.310
+3,12:58,1,10,WAS 34,16,14,Carson Wentz pass complete short left to Zach Ertz for 7 yards (tackle by Mason Foster),3.310,3.720
+3,12:32,2,3,WAS 27,16,14,"Carson Wentz sacked by Junior Galette for -6 yards. Penalty on Ryan Anderson: Defensive Offside, 5 yards (no play)",3.720,4.110
+3,12:32,1,10,WAS 22,16,14,"Penalty on Carson Wentz: Delay of Game, 5 yards (no play)",4.110,3.780
+3,11:39,1,15,WAS 27,16,14,Carson Wentz right end for 3 yards,3.780,3.290
+3,10:53,2,12,WAS 24,16,14,Carson Wentz pass incomplete short middle intended for Alshon Jeffery,3.290,2.610
+3,10:49,3,12,WAS 24,16,14,Carson Wentz pass incomplete short right intended for Darren Sproles (defended by Josh Norman),2.610,1.870
+3,10:42,4,12,WAS 24,19,14,Caleb Sturgis 42 yard field goal good,1.870,3.000
+3,10:38,,,PHI 35,19,14,"Caleb Sturgis kicks off 67 yards, returned by Bashaud Breeland for 21 yards (tackle by Rodney McLeod)",0.000,-0.150
+3,10:33,1,10,WAS 19,19,14,Kirk Cousins sacked by Timmy Jernigan for -6 yards,0.150,-1.210
+3,9:53,2,16,WAS 13,19,14,Kirk Cousins pass complete short right to Jamison Crowder for 5 yards (tackle by Patrick Robinson),-1.210,-1.250
+3,9:23,3,11,WAS 18,19,14,"Kirk Cousins sacked by Jordan Hicks for -4 yards. Penalty on Nigel Bradham: Defensive Holding, 5 yards (no play)",-1.250,0.480
+3,9:03,1,10,WAS 23,19,14,Robert Kelley left end for 4 yards (tackle by Jalen Mills and Mychal Kendricks),0.480,0.470
+3,8:14,2,6,WAS 27,19,14,Kirk Cousins pass complete short middle to Jordan Reed for 9 yards (tackle by Malcolm Jenkins),0.470,1.330
+3,7:40,1,10,WAS 36,19,14,Kirk Cousins pass complete short left to Terrelle Pryor for 4 yards (tackle by Jalen Mills),1.330,1.330
+3,6:59,2,6,WAS 40,19,14,Kirk Cousins middle for 7 yards (tackle by Nigel Bradham and Destiny Vaeao),1.330,2.060
+3,6:14,1,10,WAS 47,19,14,"Penalty on Fletcher Cox: Encroachment, 5 yards (no play)",2.060,2.790
+3,5:54,1,5,PHI 48,19,14,Kirk Cousins right end for 9 yards (tackle by Malcolm Jenkins),2.790,2.980
+3,5:15,1,10,PHI 39,19,14,Kirk Cousins pass incomplete deep right intended for Terrelle Pryor,2.980,2.440
+3,5:08,2,10,PHI 39,19,14,Kirk Cousins pass incomplete short middle intended for Jordan Reed,2.440,1.750
+3,5:05,3,10,PHI 39,19,14,Kirk Cousins pass complete short middle to Brian Quick for 11 yards (tackle by Jaylen Watkins),1.750,3.710
+3,4:17,1,10,PHI 28,19,14,Robert Kelley left guard for 6 yards (tackle by Chris Long),3.710,3.980
+3,3:34,2,4,PHI 22,19,14,Kirk Cousins pass complete short left to Terrelle Pryor for 6 yards (tackle by Jalen Mills),3.980,4.510
+3,3:05,1,10,PHI 16,19,14,Kirk Cousins pass complete short right to Ryan Grant for 1 yard (tackle by Patrick Robinson),4.510,4.050
+3,2:23,2,9,PHI 15,19,14,Kirk Cousins pass incomplete short left intended for Terrelle Pryor (defended by Jalen Mills),4.050,0.000
+3,2:18,,,,,,Timeout #1 by Washington Redskins,0.000,-3.220
+3,2:18,3,9,PHI 15,19,14,Kirk Cousins pass incomplete short left intended for Jamison Crowder,3.220,2.440
+3,2:11,4,9,PHI 15,19,17,Dustin Hopkins 33 yard field goal good,2.440,3.000
+3,2:06,,,WAS 35,19,17,"Dustin Hopkins kicks off 47 yards, returned by Brent Celek for 8 yards (tackle by Martrell Spaight)",0.000,-0.670
+3,2:00,1,10,PHI 26,19,17,Carson Wentz pass complete short middle to Zach Ertz for 11 yards (tackle by D.J. Swearinger),0.670,1.400
+3,1:28,1,10,PHI 37,19,17,Carson Wentz pass complete short middle to Darren Sproles for 13 yards (tackle by Preston Smith),1.400,2.260
+3,1:01,1,10,,19,17,"Carson Wentz pass incomplete. Penalty on Carson Wentz: Intentional Grounding, 16 yards",2.260,-0.450
+3,0:52,2,26,PHI 34,19,17,LeGarrette Blount right tackle for 5 yards (tackle by Zach Brown),-0.450,-0.430
+3,0:10,3,21,PHI 39,19,17,Carson Wentz pass incomplete deep left intended for Alshon Jeffery (defended by D.J. Swearinger),-0.430,-0.780
+Quarter,Time,Down,ToGo,Location,PHI,WAS,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,4,21,PHI 39,19,17,"Donnie Jones punts 43 yards, returned by Jamison Crowder for 3 yards (tackle by Mack Hollins). Penalty on Joe Walker: Unnecessary Roughness, 15 yards",-0.780,-1.330
+4,14:51,1,10,WAS 36,19,17,Kirk Cousins pass incomplete short middle intended for Ryan Grant,1.330,0.790
+4,14:46,2,10,WAS 36,19,17,Kirk Cousins pass complete deep left to Ryan Grant for 16 yards (tackle by Jalen Mills),0.790,2.390
+4,14:31,1,10,PHI 48,19,17,Robert Kelley right tackle for 2 yards (tackle by Derek Barnett and Mychal Kendricks),2.390,2.120
+4,13:49,2,8,PHI 46,19,17,Kirk Cousins pass complete short middle to Terrelle Pryor for 28 yards (tackle by Jaylen Watkins),2.120,4.370
+4,13:06,1,10,PHI 18,19,17,Kirk Cousins pass complete short left to Terrelle Pryor for 4 yards (tackle by Jalen Mills),4.370,4.430
+4,12:34,2,6,PHI 14,19,17,Kirk Cousins pass incomplete short middle intended for Jordan Reed (defended by Malcolm Jenkins),4.430,3.630
+4,12:30,3,6,PHI 14,19,17,Kirk Cousins pass incomplete short middle intended for Jamison Crowder is intercepted by Jalen Mills at PHI-0 and returned for 15 yards,3.630,0.220
+4,12:21,1,10,PHI 15,19,17,Darren Sproles left guard for 2 yards (tackle by Ryan Kerrigan),-0.220,-0.440
+4,11:42,2,8,PHI 17,19,17,Carson Wentz pass complete short right to Nelson Agholor for 4 yards (tackle by Mason Foster),-0.440,-0.630
+4,10:59,3,4,PHI 21,19,17,Carson Wentz pass complete short right to Wendell Smallwood for 5 yards (tackle by Zach Brown),-0.630,0.670
+4,10:17,1,10,PHI 26,19,17,LeGarrette Blount right tackle for no gain (tackle by Mason Foster and Deshazor Everett),0.670,0.130
+4,9:33,2,10,PHI 26,19,17,Carson Wentz pass incomplete deep middle intended for Torrey Smith,0.130,-0.560
+4,9:27,3,10,PHI 26,19,17,Carson Wentz pass complete deep left to Zach Ertz for 23 yards (tackle by Deshazor Everett),-0.560,2.190
+4,8:40,1,10,PHI 49,19,17,Wendell Smallwood left end for 3 yards (tackle by Jonathan Allen),2.190,2.050
+4,8:07,2,7,WAS 48,19,17,Wendell Smallwood left end for -2 yards (tackle by Zach Brown),2.050,1.090
+4,7:22,3,9,,19,17,Carson Wentz pass complete short right to Nelson Agholor for -1 yards (tackle by Kendall Fuller),1.090,-0.130
+4,6:51,4,10,PHI 49,19,17,Donnie Jones punts 50 yards,-0.130,0.380
+4,6:43,1,10,WAS 1,19,17,Kirk Cousins pass incomplete short middle intended for Terrelle Pryor,-0.380,-0.780
+4,6:39,2,10,WAS 1,19,17,Kirk Cousins pass complete short right to Jamison Crowder for 2 yards (tackle by Jaylen Watkins),-0.780,-1.190
+4,5:59,3,8,WAS 3,19,17,Kirk Cousins pass incomplete deep right intended for Chris Thompson. Penalty on Jordan Reed: Offensive Pass Interference (Declined),-1.190,-2.490
+4,5:53,4,8,WAS 3,19,17,"Tress Way punts 50 yards, fair catch by Darren Sproles",-2.490,-2.060
+4,5:46,1,10,PHI 47,19,17,Carson Wentz pass complete short right to Alshon Jeffery for no gain,2.060,1.520
+4,5:06,2,10,PHI 47,19,17,Carson Wentz pass complete short left to Alshon Jeffery for 24 yards (tackle by Bashaud Breeland and Mason Foster),1.520,3.640
+4,4:17,1,10,WAS 29,19,17,LeGarrette Blount middle for 3 yards (tackle by Jonathan Allen),3.640,3.510
+4,3:33,2,7,WAS 26,19,17,LeGarrette Blount right guard for 4 yards (tackle by Stacy McGee),3.510,3.340
+4,2:49,3,3,WAS 22,19,17,LeGarrette Blount left tackle for 2 yards (tackle by Terrell McClain and Zach Brown),3.340,0.000
+4,2:02,,,,,,Timeout #1 by Philadelphia Eagles,0.000,-2.270
+4,2:02,4,1,WAS 20,22,17,Caleb Sturgis 37 yard field goal good,2.270,3.000
+4,1:59,,,PHI 35,22,17,"Caleb Sturgis kicks off 65 yards, touchback",0.000,-0.610
+4,1:59,1,10,WAS 25,22,17,Kirk Cousins pass complete short right to Jordan Reed for 7 yards (tackle by Jordan Hicks),0.610,1.010
+4,1:38,2,3,WAS 32,28,17,"Kirk Cousins sacked by Brandon Graham for -8 yards. Kirk Cousins fumbles (forced by Brandon Graham), recovered by Fletcher Cox at WAS-20 and returned for 20 yards, touchdown",1.010,-7.000
+4,,,,,30,17,"Two Point Attempt: Carson Wentz pass complete to Alshon Jeffery, conversion succeeds",,
+4,1:29,,,PHI 35,30,17,"Caleb Sturgis kicks off 49 yards, returned by Chris Thompson for 18 yards (tackle by Kamu Grugier-Hill)",0.000,-1.200
+4,1:24,1,10,WAS 34,30,17,Kirk Cousins pass complete short right to Jordan Reed for 6 yards (tackle by Jordan Hicks),1.200,1.470
+4,1:00,2,4,WAS 40,30,17,Kirk Cousins pass complete short middle to Chris Thompson for 10 yards (tackle by Nigel Bradham),1.470,0.000
+4,0:52,,,,,,Timeout #2 by Washington Redskins,0.000,-2.260
+4,0:52,1,10,,30,17,Kirk Cousins sacked by Brandon Graham for -7 yards,2.260,0.000
+4,0:40,,,,,,Timeout #3 by Washington Redskins,0.000,-0.770
+4,0:40,2,17,WAS 43,30,17,Kirk Cousins pass complete short left to Jamison Crowder for 7 yards (tackle by Jalen Mills),0.770,1.030
+4,0:35,3,10,,30,17,Kirk Cousins pass complete short left to Chris Thompson for 8 yards (tackle by Jalen Mills),1.030,0.460
+4,0:30,4,2,PHI 42,30,17,Kirk Cousins pass incomplete short right intended for Jordan Reed,0.460,-1.730
+4,0:25,1,10,PHI 42,30,17,Carson Wentz kneels for -1 yards,1.730,1.050
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,PHI 25,5,2:11,23,Punt
+2,1,10:31,PHI 25,6,3:29,28,Punt
+3,2,14:01,GNB 34,5,2:13,34,Touchdown
+4,2,8:24,PHI 40,11,5:39,60,Touchdown
+5,2,1:53,GNB 17,4,0:54,17,Touchdown
+6,2,0:09,PHI 25,1,0:09,-1,End of Half
+7,3,12:55,PHI 24,8,3:43,76,Touchdown
+8,3,7:50,PHI 16,3,1:00,5,Punt
+9,3,3:16,PHI 25,8,4:03,75,Touchdown
+10,4,9:00,PHI 1,8,3:58,50,Punt
+11,4,0:20,PHI 21,1,0:20,-1,End of Game

@@ -1,0 +1,17 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,MIN 20,6,3:34,20,Punt
+2,1,10:42,MIN 30,3,1:49,-4,Punt
+3,1,8:04,MIN 16,5,2:21,22,Punt
+4,1,2:41,MIN 5,4,2:08,15,Punt
+5,2,14:27,MIN 35,5,1:42,60,Field Goal
+6,2,10:15,MIN 4,3,1:25,4,Punt
+7,2,4:59,MIN 1,1,0:11,99,Touchdown
+8,2,2:36,MIN 14,8,1:48,86,Touchdown
+9,3,10:53,MIN 11,3,1:18,6,Interception
+10,3,8:53,CHI 46,3,1:40,5,Punt
+11,3,7:03,CHI 35,5,2:36,35,Touchdown
+12,3,3:00,,3,1:30,7,Punt
+13,4,14:46,MIN 14,3,2:05,7,Punt
+14,4,11:58,CHI 22,6,3:33,22,Touchdown
+15,4,8:04,CHI 20,7,3:46,11,Field Goal
+16,4,2:38,MIN 34,3,2:19,-2,Punt

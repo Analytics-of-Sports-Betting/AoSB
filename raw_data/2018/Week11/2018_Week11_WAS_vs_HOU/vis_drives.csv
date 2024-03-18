@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,14:10,HOU 27,10,4:38,68,Field Goal
+2,1,6:28,HOU 31,6,3:13,69,Touchdown
+3,2,14:14,HOU 25,3,1:20,-1,Interception
+4,2,11:29,HOU 4,4,2:08,26,Punt
+5,2,1:19,WAS 22,4,0:48,-4,Missed FG
+6,3,15:00,HOU 25,6,3:14,40,Fumble
+7,3,7:31,HOU 13,4,1:58,14,Interception
+8,3,4:47,HOU 25,8,3:28,60,Field Goal
+9,4,11:57,HOU 27,8,4:27,37,Field Goal
+10,4,4:38,HOU 42,9,3:46,31,Missed FG
+11,4,0:03,WAS 47,1,0:03,-1,End of Game

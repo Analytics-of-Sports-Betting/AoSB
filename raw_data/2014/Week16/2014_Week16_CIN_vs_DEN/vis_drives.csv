@@ -1,0 +1,15 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:04,DEN 20,4,2:21,26,Punt
+2,1,10:09,DEN 22,5,2:43,19,Punt
+3,1,3:03,DEN 18,3,2:17,0,Punt
+4,2,10:23,DEN 20,2,0:33,5,Interception
+5,2,7:56,DEN 20,6,3:26,16,Punt
+6,2,1:03,DEN 20,7,1:03,49,Missed FG
+7,3,15:00,CIN 21,3,0:48,21,Touchdown
+8,3,12:35,DEN 21,9,3:27,79,Touchdown
+9,3,5:00,DEN 9,8,3:31,91,Touchdown
+10,4,14:10,DEN 21,2,0:59,-1,Interception
+11,4,12:09,DEN 10,3,2:26,7,Punt
+12,4,7:49,DEN 20,3,1:51,-14,Punt
+13,4,4:04,DEN 20,3,1:23,9,Interception
+14,4,2:41,DEN 20,8,1:34,61,Interception

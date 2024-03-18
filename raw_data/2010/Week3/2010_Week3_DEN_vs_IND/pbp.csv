@@ -1,0 +1,193 @@
+Quarter,Time,Down,ToGo,Location,IND,DEN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Colts won the coin toss, Colts to receive the opening kickoff.",,
+1,15:00,,,DEN 30,0,0,"Matt Prater kicks off 70 yards, touchback",0.000,0.280
+1,15:00,1,10,IND 20,0,0,Peyton Manning pass incomplete deep right intended for Reggie Wayne (defended by Champ Bailey),0.280,-0.270
+1,14:54,2,10,IND 20,0,0,Peyton Manning pass complete short left to Austin Collie for 3 yards (tackle by Champ Bailey),-0.270,-0.560
+1,14:17,3,7,IND 23,0,0,Peyton Manning pass complete short left to Reggie Wayne for 14 yards (tackle by Champ Bailey),-0.560,1.400
+1,13:44,1,10,IND 37,0,0,Joseph Addai right guard for -1 yards (tackle by Mario Haggan),1.400,0.720
+1,13:10,2,11,IND 36,0,0,Peyton Manning pass incomplete short left intended for Joseph Addai,0.720,0.040
+1,13:06,3,11,IND 36,0,0,Peyton Manning pass complete short middle to Dallas Clark for 19 yards (tackle by Darcel McBath),0.040,2.590
+1,12:33,1,10,DEN 45,0,0,Joseph Addai left tackle for 3 yards (tackle by Mario Haggan and Marcus Thomas),2.590,2.450
+1,11:50,2,7,DEN 42,0,0,Peyton Manning pass incomplete short left intended for Reggie Wayne (defended by Champ Bailey),2.450,1.750
+1,11:46,3,7,DEN 42,0,0,Peyton Manning pass incomplete short left intended for Dallas Clark,1.750,0.460
+1,11:41,4,7,DEN 42,0,0,"Pat McAfee punts 42 yards, touchback",0.460,-0.280
+1,11:33,1,10,DEN 20,0,0,Kyle Orton pass incomplete short right intended for Daniel Graham,0.280,-0.270
+1,11:29,2,10,DEN 20,0,0,Laurence Maroney left end for 5 yards (tackle by Jacob Lacey and Gary Brackett),-0.270,-0.300
+1,10:58,3,5,DEN 25,0,0,Kyle Orton pass incomplete short right intended for Eddie Royal (defended by Jerraud Powers),-0.300,-1.700
+1,10:54,4,5,DEN 25,0,0,"Britton Colquitt punts 39 yards, fair catch by Jerraud Powers",-1.700,-1.330
+1,10:46,1,10,IND 36,0,0,"Peyton Manning for no gain. Peyton Manning fumbles, recovered by Peyton Manning at IND-34",1.330,0.520
+1,10:21,2,12,IND 34,0,0,Peyton Manning pass complete short middle to Dallas Clark for 13 yards (tackle by Renaldo Hill),0.520,2.060
+1,9:48,1,10,IND 47,0,0,Joseph Addai left guard for 2 yards (tackle by Mario Haggan and Ryan McBean),2.060,1.790
+1,9:07,2,8,IND 49,0,0,Peyton Manning pass complete deep left to Reggie Wayne for 31 yards (tackle by Champ Bailey),1.790,4.240
+1,8:36,1,10,DEN 20,0,0,Joseph Addai left tackle for no gain (tackle by Renaldo Hill),4.240,3.690
+1,7:52,2,10,DEN 20,0,0,Peyton Manning pass incomplete deep left intended for Austin Collie,3.690,3.010
+1,7:45,3,10,DEN 20,0,0,Peyton Manning pass incomplete deep right intended for Dallas Clark,3.010,2.120
+1,7:40,4,10,DEN 20,3,0,Adam Vinatieri 38 yard field goal good,2.120,3.000
+1,,,,IND 30,3,0,"Pat McAfee kicks off 70 yards, touchback",0.000,0.280
+1,7:35,1,10,DEN 20,3,0,Kyle Orton pass complete deep left to Brandon Lloyd for 16 yards (tackle by Jerraud Powers),0.280,1.330
+1,6:59,1,10,DEN 36,3,0,Laurence Maroney right guard for -1 yards (tackle by Philip Wheeler),1.330,0.660
+1,6:22,2,11,DEN 35,3,0,Kyle Orton pass complete short left to Eddie Royal for -1 yards (tackle by Jacob Lacey and Gary Brackett),0.660,-0.160
+1,5:40,3,12,DEN 34,3,0,Correll Buckhalter right guard for 7 yards (tackle by Eric Foster),-0.160,-0.650
+1,5:01,4,5,DEN 41,3,0,"Britton Colquitt punts 49 yards, fair catch by Jerraud Powers",-0.650,0.380
+1,4:51,1,10,IND 10,3,0,Peyton Manning pass complete short left to Austin Collie for 5 yards (tackle by Renaldo Hill),-0.380,-0.350
+1,4:08,2,5,IND 15,3,0,Peyton Manning pass complete short right to Austin Collie for 14 yards (tackle by Darcel McBath),-0.350,0.870
+1,3:36,1,10,IND 29,3,0,Donald Brown right guard for 5 yards (tackle by Robert Ayers),0.870,1.000
+1,3:04,2,5,IND 34,3,0,Donald Brown right tackle for -1 yards (tackle by Robert Ayers),1.000,0.170
+1,2:45,3,6,IND 33,3,0,Peyton Manning pass incomplete deep right intended for Blair White,0.170,-1.180
+1,2:41,4,6,IND 33,3,0,"Pat McAfee punts 49 yards, muffed catch by Perrish Cox, recovered by Justin Tryon and returned for no gain",-1.180,4.650
+1,2:31,1,10,DEN 14,3,0,Donald Brown right tackle for -1 yards (tackle by Mario Haggan),4.650,3.850
+1,1:53,2,11,DEN 15,3,0,Peyton Manning pass incomplete short left intended for Reggie Wayne,3.850,3.060
+1,1:48,3,11,DEN 15,3,0,Peyton Manning pass incomplete short right intended for Donald Brown,3.060,2.440
+1,1:42,4,11,DEN 15,6,0,"Adam Vinatieri 33 yard field goal good. Penalty on D.J. Williams: Unnecessary Roughness, 15 yards",2.440,3.000
+1,,,,IND 45,6,0,"Pat McAfee kicks off 55 yards, touchback",0.000,0.280
+1,1:37,1,10,DEN 20,6,0,Laurence Maroney left tackle for 3 yards (tackle by Antonio Johnson),0.280,0.140
+1,0:59,2,7,DEN 23,6,0,Kyle Orton pass complete short right to Jabar Gaffney for 17 yards (tackle by Kelvin Hayden and Gary Brackett),0.140,1.600
+1,0:22,1,10,DEN 40,6,0,Kyle Orton pass complete deep left to Brandon Lloyd for 20 yards (tackle by Jerraud Powers),1.600,2.920
+Quarter,Time,Down,ToGo,Location,IND,DEN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,IND 40,6,0,Laurence Maroney left tackle for 4 yards (tackle by Antoine Bethea),2.920,2.910
+2,14:26,2,6,IND 36,6,0,Laurence Maroney left tackle for 1 yard (tackle by Gary Brackett),2.910,2.340
+2,13:48,3,5,IND 35,6,0,Kyle Orton pass incomplete short left intended for Eddie Royal is intercepted by Jacob Lacey at IND-30 and returned for 44 yards,2.340,-3.840
+2,13:37,1,10,DEN 26,6,0,Joseph Addai middle for 1 yard (tackle by Jamal Williams),3.840,3.430
+2,13:24,2,9,DEN 25,6,0,Peyton Manning pass complete short right to Blair White for 10 yards (tackle by Perrish Cox),3.430,4.580
+2,12:51,1,10,DEN 15,6,0,Joseph Addai middle for 2 yards (tackle by D.J. Williams),4.580,4.280
+2,12:15,2,8,DEN 13,6,0,Peyton Manning pass complete short right to Joseph Addai for 4 yards (tackle by Renaldo Hill),4.280,4.220
+2,11:32,3,4,DEN 9,6,0,Joseph Addai left tackle for 4 yards (tackle by Robert Ayers and Jamal Williams),4.220,6.060
+2,10:47,1,5,DEN 5,6,0,Peyton Manning pass incomplete short right intended for Blair White (defended by Perrish Cox),6.060,5.150
+2,10:42,2,5,DEN 5,12,0,"Peyton Manning pass complete short middle to Austin Collie for 5 yards, touchdown",5.150,7.000
+2,,,,DEN 2,13,0,Adam Vinatieri kicks extra point good,0.000,0.000
+2,,,,IND 30,13,0,"Pat McAfee kicks off 70 yards, touchback",0.000,0.280
+2,10:37,1,10,DEN 20,13,0,Kyle Orton pass complete short left to Daniel Graham for 7 yards (tackle by Philip Wheeler),0.280,0.680
+2,10:08,2,3,DEN 27,13,0,"Laurence Maroney right tackle for 3 yards (tackle by Gary Brackett). Penalty on J.D. Walton: Offensive Holding, 10 yards (no play)",0.680,-0.790
+2,9:44,2,13,DEN 17,13,0,Kyle Orton pass complete deep right to Jabar Gaffney for 17 yards (tackle by Antoine Bethea),-0.790,1.200
+2,9:07,1,10,DEN 34,13,0,Kyle Orton pass incomplete short middle intended for Laurence Maroney (defended by Gary Brackett),1.200,0.660
+2,9:02,2,10,DEN 34,13,0,Correll Buckhalter middle for 1 yard (tackle by Keyunta Dawson and Gary Brackett),0.660,0.100
+2,8:24,3,9,DEN 35,13,0,Kyle Orton pass complete short left to Jabar Gaffney for 26 yards (tackle by Jerraud Powers),0.100,2.980
+2,7:40,1,10,IND 39,13,0,"Kyle Orton pass complete deep right to Demaryius Thomas for 27 yards. Demaryius Thomas fumbles, recovered by Demaryius Thomas at IND-12",2.980,4.780
+2,6:54,1,10,IND 12,13,0,Laurence Maroney left tackle for 3 yards (tackle by Daniel Muir),4.780,4.640
+2,6:12,2,7,IND 9,13,0,"Kyle Orton pass complete short right to Daniel Graham for 6 yards (tackle by Kelvin Hayden). Penalty on Cody Glenn: Face Mask (15 Yards), 2 yards",4.640,6.970
+2,5:47,1,1,IND 1,13,0,Laurence Maroney right tackle for no gain (tackle by Philip Wheeler),6.970,5.910
+2,5:13,2,1,IND 1,13,0,Laurence Maroney right tackle for no gain (tackle by Gary Brackett),5.910,5.170
+2,4:36,,,,13,0,Timeout #1 by Indianapolis Colts,0.000,5.170
+2,4:36,3,1,IND 1,13,0,Kyle Orton pass incomplete short right intended for Demaryius Thomas,5.170,3.550
+2,4:32,4,1,IND 1,13,0,Laurence Maroney left tackle for no gain (tackle by Gary Brackett),3.550,0.380
+,,,,,,,"IND challenged the runner broke the plane ruling, and the original play was overturned.",,
+2,4:26,1,10,IND 1,13,0,Peyton Manning pass complete short right to Brody Eldridge for 8 yards (tackle by Nate Jones),-0.380,-0.200
+2,3:56,2,2,IND 9,13,0,Donald Brown right tackle for 2 yards (tackle by Mario Haggan and Brian Dawkins),-0.200,-0.370
+2,3:22,1,10,IND 11,13,0,Donald Brown left tackle for 1 yard (tackle by Ryan McBean and D.J. Williams),-0.370,-0.710
+2,2:43,2,9,IND 12,13,0,Peyton Manning pass incomplete deep right intended for Austin Collie (defended by Perrish Cox),-0.710,-1.300
+2,2:36,3,9,IND 12,13,0,Peyton Manning pass complete short right to Blair White for 8 yards (tackle by Perrish Cox),-1.300,-2.030
+2,2:00,4,1,IND 20,13,0,"Pat McAfee punts 41 yards, returned by Eddie Royal for 10 yards (tackle by Brody Eldridge). Penalty on Wesley Woodyard: Offensive Holding, 10 yards",-2.030,-1.530
+2,1:49,1,10,DEN 39,13,0,Kyle Orton pass complete short middle to Jabar Gaffney for 8 yards (tackle by Antoine Bethea),1.530,2.070
+2,1:30,2,2,DEN 47,13,0,Correll Buckhalter middle for 1 yard (tackle by Eric Foster and Robert Mathis),2.070,1.490
+2,1:12,3,1,DEN 48,13,0,Kyle Orton middle for 2 yards (tackle by Keyunta Dawson),1.490,2.260
+2,1:10,,,,13,0,Timeout #1 by Denver Broncos,0.000,2.260
+2,1:10,1,10,,13,0,Kyle Orton pass incomplete short right intended for Correll Buckhalter,2.260,1.710
+2,1:05,2,10,,13,0,Kyle Orton pass complete short middle to Jabar Gaffney for 20 yards (tackle by Antoine Bethea),1.710,3.580
+2,0:55,,,,13,0,Timeout #2 by Denver Broncos,0.000,3.580
+2,0:55,1,10,IND 30,13,0,Kyle Orton pass complete short right to Correll Buckhalter for 9 yards (tackle by Deshea Townsend),3.580,4.250
+2,0:34,2,1,IND 21,13,0,Kyle Orton pass complete short left to Eddie Royal for 5 yards (tackle by Jacob Lacey),4.250,4.510
+2,0:28,,,,13,0,Timeout #3 by Denver Broncos,0.000,4.510
+2,0:28,1,10,IND 16,13,0,Kyle Orton pass complete short left to Jabar Gaffney for 9 yards,4.510,5.540
+2,0:24,2,1,IND 7,13,0,Kyle Orton pass incomplete short left intended for Jabar Gaffney (defended by Jacob Lacey),5.540,4.850
+2,0:20,3,1,IND 7,13,0,Kyle Orton pass incomplete short left intended for Jabar Gaffney. Penalty on Eddie Royal: Illegal Shift (Declined),4.850,3.010
+2,0:17,4,1,IND 7,13,3,Matt Prater 25 yard field goal good,3.010,3.000
+2,,,,DEN 30,13,3,"Matt Prater kicks off 63 yards, returned by Devin Moore for 16 yards (tackle by Darcel McBath)",0.000,0.480
+2,0:05,1,10,IND 23,13,3,Peyton Manning kneels for -1 yards,0.480,-0.200
+Quarter,Time,Down,ToGo,Location,IND,DEN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,IND 30,13,3,"Pat McAfee kicks off 70 yards, touchback",0.000,0.280
+3,15:00,1,10,DEN 20,13,3,Kyle Orton sacked by Robert Mathis for -4 yards,0.280,-0.940
+3,14:29,2,14,DEN 16,13,3,Kyle Orton pass complete deep left to Brandon Lloyd for 17 yards (tackle by Jacob Lacey),-0.940,1.140
+3,13:53,1,10,DEN 33,13,3,Laurence Maroney left tackle for 1 yard (tackle by Antoine Bethea and Eric Foster),1.140,0.730
+3,13:16,2,9,DEN 34,13,3,Kyle Orton pass complete short right to Dan Gronkowski for 2 yards (tackle by Cody Glenn and Philip Wheeler),0.730,0.300
+3,12:34,3,7,DEN 36,13,3,Kyle Orton pass complete short middle to Demaryius Thomas for 16 yards (tackle by Antoine Bethea),0.300,2.390
+3,11:50,1,10,IND 48,13,9,"Kyle Orton pass complete deep middle to Brandon Lloyd for 48 yards, touchdown",2.390,7.000
+3,,,,IND 2,13,10,Matt Prater kicks extra point good,0.000,0.000
+3,,,,DEN 30,13,10,"Matt Prater kicks off 70 yards, touchback",0.000,0.280
+3,11:40,1,10,IND 20,13,10,Joseph Addai middle for 3 yards (tackle by Jamal Williams and Justin Bannan),0.280,0.140
+3,10:55,2,7,IND 23,13,10,Peyton Manning pass incomplete short right intended for Blair White (defended by Perrish Cox),0.140,-0.560
+3,10:51,3,7,IND 23,13,10,Peyton Manning pass complete short middle to Joseph Addai for 6 yards (tackle by D.J. Williams),-0.560,-1.440
+3,10:13,4,1,IND 29,13,10,"Pat McAfee punts 61 yards, returned by Eddie Royal for 38 yards (tackle by Pat McAfee). Penalty on Matt Willis: Offensive Holding, 10 yards",-1.440,-0.810
+3,9:59,1,10,DEN 28,13,10,Kyle Orton pass incomplete short left intended for Brandon Lloyd,0.810,0.260
+3,9:53,2,10,DEN 28,13,10,Kyle Orton pass incomplete short left intended for Dan Gronkowski (defended by Jerraud Powers),0.260,-0.430
+3,9:47,3,10,DEN 28,13,10,Kyle Orton pass incomplete short right intended for Brandon Lloyd (defended by Antoine Bethea),-0.430,-1.500
+3,9:41,4,10,DEN 28,13,10,"Britton Colquitt punts 55 yards, returned by Jerraud Powers for 4 yards (tackle by Cassius Vaughn)",-1.500,-0.340
+3,9:31,1,10,IND 21,13,10,Peyton Manning pass complete short middle to Austin Collie for 22 yards (tackle by Brian Dawkins),0.340,1.800
+3,9:04,1,10,IND 43,13,10,"Peyton Manning pass incomplete deep left intended for Austin Collie (defended by Champ Bailey). Penalty on Jamey Richard: Offensive Holding, 10 yards (no play)",1.800,1.140
+3,8:58,1,20,IND 33,13,10,Peyton Manning pass complete short right to Austin Collie for 27 yards (tackle by Darcel McBath),1.140,2.920
+3,8:14,1,10,DEN 40,13,10,Peyton Manning pass incomplete deep middle intended for Brody Eldridge,2.920,2.370
+3,8:09,2,10,DEN 40,13,10,Peyton Manning pass complete short left to Dallas Clark for 4 yards (tackle by Nate Jones),2.370,2.210
+3,7:27,3,6,DEN 36,13,10,Peyton Manning pass complete short right to Austin Collie for 8 yards (tackle by Nate Jones),2.210,3.710
+3,6:54,1,10,DEN 28,13,10,Joseph Addai right guard for 1 yard (tackle by Robert Ayers and Kevin Vickerson),3.710,3.300
+3,6:14,2,9,DEN 27,13,10,Peyton Manning pass incomplete short middle intended for Joseph Addai (defended by Kevin Vickerson),3.300,2.610
+3,6:08,3,9,DEN 27,13,10,Peyton Manning pass complete short left to Reggie Wayne for 13 yards (tackle by Champ Bailey),2.610,4.650
+3,5:29,1,10,DEN 14,13,10,Peyton Manning pass complete short right to Austin Collie for 5 yards (tackle by Renaldo Hill),4.650,4.900
+3,4:57,2,5,DEN 9,19,10,"Peyton Manning pass complete short right to Blair White for 9 yards, touchdown",4.900,7.000
+3,,,,DEN 2,20,10,Adam Vinatieri kicks extra point good,0.000,0.000
+3,,,,IND 30,20,10,"Pat McAfee kicks off 70 yards, touchback",0.000,0.280
+3,4:51,1,10,DEN 20,20,10,Laurence Maroney right end for 2 yards (tackle by Philip Wheeler),0.280,0.000
+3,4:16,2,8,DEN 22,20,10,Kyle Orton pass complete deep right to Brandon Lloyd for 61 yards (tackle by Jacob Lacey),0.000,4.440
+3,3:21,1,10,IND 17,20,10,Kyle Orton pass incomplete short right intended for Demaryius Thomas,4.440,3.850
+3,3:17,2,10,IND 17,20,10,Kyle Orton pass incomplete short left intended for Eddie Royal,3.850,3.070
+3,3:13,3,10,IND 17,20,10,Kyle Orton pass complete short middle to Eddie Royal for 1 yard (tackle by Gary Brackett),3.070,2.380
+3,2:30,4,9,IND 16,20,13,Matt Prater 34 yard field goal good,2.380,3.000
+3,,,,DEN 30,20,13,"Matt Prater kicks off 70 yards, touchback",0.000,0.280
+3,2:24,1,10,IND 20,20,13,"Joseph Addai middle for 4 yards (tackle by D.J. Williams). Penalty on Jeff Saturday: Offensive Holding, 10 yards (no play)",0.280,-0.760
+3,2:00,1,20,IND 10,20,13,Peyton Manning pass complete short right to Austin Collie for 10 yards (tackle by Mario Haggan),-0.760,-0.270
+3,1:16,2,10,IND 20,20,13,Peyton Manning pass complete short left to Reggie Wayne for 7 yards (tackle by Brian Dawkins),-0.270,-0.030
+3,0:31,3,3,IND 27,20,13,Peyton Manning pass complete short right to Austin Collie for 1 yard (tackle by Nate Jones),-0.030,-1.500
+Quarter,Time,Down,ToGo,Location,IND,DEN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,4,2,IND 28,20,13,"Pat McAfee punts 47 yards, returned by Eddie Royal for 3 yards (tackle by Jacob Tamme)",-1.500,-0.810
+4,14:48,1,10,DEN 28,20,13,Kyle Orton pass incomplete short right intended for Brandon Lloyd,0.810,0.260
+4,14:44,2,10,DEN 28,20,13,Laurence Maroney right tackle for 6 yards (tackle by Dwight Freeney),0.260,0.370
+4,14:09,3,4,DEN 34,20,13,Kyle Orton pass complete short right to Brandon Lloyd for 7 yards (tackle by Kelvin Hayden),0.370,1.660
+4,13:29,1,10,DEN 41,20,13,"Kyle Orton pass incomplete deep right intended for Demaryius Thomas. Penalty on J.D. Walton: Offensive Holding, 10 yards (no play)",1.660,1.000
+4,13:22,1,20,DEN 31,20,13,Kyle Orton pass complete short middle to Correll Buckhalter for 5 yards (tackle by Philip Wheeler),1.000,0.450
+4,12:45,2,15,DEN 36,20,13,Kyle Orton pass complete short right to Correll Buckhalter for 8 yards (tackle by Eric Foster),0.450,0.830
+4,12:08,3,7,DEN 44,20,13,Kyle Orton right end for 9 yards (tackle by Melvin Bullitt),0.830,2.460
+4,11:20,1,10,IND 47,20,13,Kyle Orton pass complete short right to Jabar Gaffney for no gain,2.460,1.910
+4,10:40,2,10,IND 47,20,13,Kyle Orton pass complete short left to Laurence Maroney for 28 yards (tackle by Antoine Bethea),1.910,4.310
+4,10:03,1,10,IND 19,20,13,Correll Buckhalter right tackle for 3 yards (tackle by Dwight Freeney),4.310,4.180
+4,9:28,2,7,IND 16,20,13,Kyle Orton pass incomplete short left intended for Demaryius Thomas,4.180,3.410
+4,9:23,3,7,IND 16,20,13,Kyle Orton pass complete short right to Jabar Gaffney for 4 yards (tackle by Kelvin Hayden),3.410,2.730
+4,8:46,4,3,IND 12,20,13,Kyle Orton pass incomplete short right intended for Brandon Lloyd,2.730,0.350
+4,8:42,1,10,IND 12,20,13,Joseph Addai middle for 3 yards (tackle by Brian Dawkins),-0.350,-0.500
+4,8:12,2,7,IND 15,20,13,Peyton Manning pass complete short left to Dallas Clark for 7 yards (tackle by Darcel McBath),-0.500,0.410
+4,7:45,1,10,IND 22,20,13,Peyton Manning pass incomplete deep right intended for Austin Collie (defended by Perrish Cox),0.410,-0.130
+4,7:39,2,10,IND 22,20,13,Peyton Manning pass incomplete deep left intended for Austin Collie,-0.130,-0.820
+4,7:32,3,10,IND 22,20,13,"Penalty on Ryan Diem: False Start, 5 yards (no play)",-0.820,-1.680
+4,7:32,3,15,IND 17,20,13,Peyton Manning pass complete deep right to Austin Collie for 48 yards (tackle by Darcel McBath and Nate Jones),-1.680,3.250
+4,6:48,1,10,DEN 35,20,13,Peyton Manning pass complete short left to Dallas Clark for 1 yard (tackle by Nate Jones),3.250,2.840
+4,6:03,2,9,DEN 34,20,13,Joseph Addai right tackle for 10 yards (tackle by Nate Jones),2.840,3.970
+4,5:18,1,10,DEN 24,20,13,Joseph Addai right tackle for 1 yard (tackle by Kevin Vickerson),3.970,3.570
+4,4:34,2,9,DEN 23,26,13,"Peyton Manning pass complete deep right to Austin Collie for 23 yards, touchdown",3.570,7.000
+4,,,,DEN 2,27,13,Adam Vinatieri kicks extra point good,0.000,0.000
+4,,,,IND 30,27,13,"Pat McAfee kicks off 70 yards, touchback",0.000,0.280
+4,4:26,1,10,DEN 20,27,13,Kyle Orton pass complete short right to Jabar Gaffney for 6 yards (tackle by Kelvin Hayden),0.280,0.540
+4,4:09,2,4,DEN 26,27,13,Kyle Orton pass complete short right to Jabar Gaffney for 5 yards (tackle by Kelvin Hayden),0.540,1.000
+4,3:53,1,10,DEN 31,27,13,Kyle Orton pass complete short right to Correll Buckhalter for 4 yards (tackle by Kelvin Hayden),1.000,1.000
+4,3:31,2,6,DEN 35,27,13,Kyle Orton pass complete deep left to Eddie Royal for 18 yards (tackle by Gary Brackett),1.000,2.460
+4,3:09,1,10,IND 47,27,13,"Kyle Orton pass complete short right to Daniel Graham for -4 yards (tackle by Kelvin Hayden). Daniel Graham fumbles (forced by Kelvin Hayden), ball out of bounds at DEN-49",2.460,1.370
+4,3:01,2,14,DEN 49,27,13,Kyle Orton pass incomplete short left intended for Eddie Royal (defended by Jerraud Powers),1.370,0.700
+4,2:57,3,14,DEN 49,27,13,Kyle Orton pass complete short right to Correll Buckhalter for 5 yards (tackle by Kelvin Hayden),0.700,0.200
+4,2:49,4,9,IND 46,27,13,Kyle Orton pass complete deep left to Matt Willis for 17 yards (tackle by Jacob Lacey),0.200,3.640
+4,2:24,1,10,IND 29,27,13,Kyle Orton pass complete short left to Laurence Maroney for 12 yards (tackle by Jerraud Powers),3.640,4.440
+4,2:01,1,10,IND 17,27,13,Kyle Orton pass incomplete deep left intended for Matt Willis,4.440,3.850
+4,1:58,2,10,IND 17,27,13,Kyle Orton pass incomplete deep right intended for Eddie Royal (defended by Jerraud Powers),3.850,3.070
+4,1:53,3,10,IND 17,27,13,"Penalty on Ryan Clady: False Start, 5 yards (no play)",3.070,2.540
+4,1:53,3,15,IND 22,27,13,Kyle Orton pass complete short left to Correll Buckhalter for 2 yards (tackle by Jacob Lacey and Deshea Townsend),2.540,2.120
+4,1:43,,,,27,13,Timeout #1 by Denver Broncos,0.000,2.120
+4,1:43,4,13,IND 20,27,13,Kyle Orton pass incomplete deep right intended for Demaryius Thomas (defended by Kelvin Hayden),2.120,-0.280
+4,1:37,1,10,IND 20,27,13,Donald Brown middle for 6 yards (tackle by D.J. Williams),0.280,0.540
+4,1:31,,,,27,13,Timeout #2 by Denver Broncos,0.000,0.540
+4,1:31,2,4,IND 26,27,13,Donald Brown middle for no gain (tackle by Mario Haggan and Justin Bannan),0.540,-0.160
+4,1:26,,,,27,13,Timeout #3 by Denver Broncos,0.000,-0.160
+4,1:26,3,4,IND 26,27,13,Joseph Addai right end for no gain (tackle by D.J. Williams and Jason Hunter),-0.160,-1.630
+4,0:38,,,,27,13,Timeout #1 by Indianapolis Colts,0.000,-1.630
+4,0:38,4,4,IND 26,27,13,"Pat McAfee punts 43 yards, returned by Eddie Royal for 16 yards (tackle by Jacob Tamme)",-1.630,-2.060
+4,0:22,1,10,DEN 47,27,13,Kyle Orton pass complete short middle to Jabar Gaffney for 14 yards (tackle by Deshea Townsend),2.060,2.980
+4,0:04,1,10,IND 39,27,13,Kyle Orton pass complete short middle to Jabar Gaffney for 14 yards (tackle by Deshea Townsend),2.980,2.060
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

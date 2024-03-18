@@ -1,0 +1,188 @@
+Quarter,Time,Down,ToGo,Location,MIN,DET,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Vikings won the coin toss, Vikings to receive the opening kickoff.",,
+1,15:00,,,DET 35,0,0,"Jack Fox kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,MIN 25,0,0,Kirk Cousins pass complete short middle to C.J. Ham for 14 yards (tackle by Jahlani Tavai and Tracy Walker),0.610,1.530
+1,14:29,1,10,MIN 39,0,0,"Kirk Cousins pass complete short right to Adam Thielen for 5 yards (tackle by Jahlani Tavai). Penalty on Dakota Dozier: Offensive Holding, 10 yards (no play)",1.530,0.870
+1,14:07,1,20,MIN 29,0,0,Alexander Mattison up the middle for 5 yards (tackle by Jahlani Tavai),0.870,0.310
+1,13:31,2,15,MIN 34,0,0,Kirk Cousins pass incomplete short right intended for Chad Beebe (defended by Nick Williams),0.310,-0.360
+1,13:26,3,15,MIN 34,0,0,Kirk Cousins pass incomplete short middle intended for Tyler Conklin (defended by Reggie Ragland),-0.360,-1.110
+1,13:22,4,15,MIN 34,0,0,"Britton Colquitt punts 49 yards, returned by Jamal Agnew for 10 yards (tackle by Andrew DePaola)",-1.110,-0.740
+1,13:09,1,10,DET 27,0,0,D'Andre Swift right end for 4 yards (tackle by D.J. Wonnum),0.740,0.740
+1,12:35,2,6,DET 31,0,0,Matthew Stafford pass complete short right to D'Andre Swift for -1 yards (tackle by Eric Wilson),0.740,-0.100
+1,11:56,3,7,DET 30,0,0,Matthew Stafford pass incomplete deep middle intended for Danny Amendola (defended by Anthony Harris),-0.100,-1.370
+1,11:50,4,7,DET 30,0,0,"Jack Fox punts 58 yards, returned by Chad Beebe for 13 yards (tackle by Jahlani Tavai and Christian Jones)",-1.370,-0.610
+1,11:37,1,10,MIN 25,0,0,Alexander Mattison right end for 2 yards (tackle by Jahlani Tavai and Jarrad Davis),0.610,0.330
+1,11:01,2,8,MIN 27,0,0,Alexander Mattison up the middle for 1 yard (tackle by Kevin Strong),0.330,-0.230
+1,10:20,3,7,MIN 28,0,0,Kirk Cousins pass complete short left to Ameer Abdullah for 6 yards (tackle by Duron Harmon),-0.230,-1.110
+1,9:37,4,1,MIN 34,0,0,"Britton Colquitt punts 50 yards, returned by Jamal Agnew for 12 yards (tackle by Hardy Nickerson). Jamal Agnew fumbles (forced by Hardy Nickerson), recovered by Andrew DePaola at DET-42. Penalty on Justin Coleman: Illegal Block Above the Waist (Declined)",-1.110,2.790
+1,9:23,1,10,DET 42,0,0,Kirk Cousins pass incomplete short right intended for Tyler Conklin,2.790,2.240
+1,9:18,2,10,DET 42,0,0,Kirk Cousins sacked by Romeo Okwara for -6 yards,2.240,0.760
+1,8:35,3,16,DET 48,0,0,Kirk Cousins pass incomplete short middle intended for Justin Jefferson (defended by Will Harris),0.760,0.070
+1,8:29,4,16,DET 48,0,0,"Britton Colquitt punts 38 yards, fair catch by Jamal Agnew at DET-10",0.070,0.380
+1,8:21,1,10,DET 10,0,0,Matthew Stafford pass complete short left to T.J. Hockenson for 9 yards (tackle by Anthony Harris and Harrison Smith),-0.380,0.240
+1,7:48,2,1,DET 19,0,0,D'Andre Swift left tackle for 3 yards (tackle by D.J. Wonnum and Harrison Hand),0.240,0.410
+1,7:13,1,10,DET 22,0,0,Matthew Stafford pass complete deep left to Marvin Jones for 23 yards (tackle by Harrison Smith),0.410,1.930
+1,6:35,1,10,DET 45,0,0,D'Andre Swift right tackle for 4 yards (tackle by Harrison Smith),1.930,1.920
+1,6:00,2,6,DET 49,0,0,D'Andre Swift up the middle for 5 yards (tackle by D.J. Wonnum and Troy Dye),1.920,1.880
+1,5:25,3,1,MIN 46,0,0,Mohamed Sanu up the middle for 3 yards (tackle by Eric Wilson),1.880,2.720
+1,4:53,1,10,MIN 43,0,6,"Matthew Stafford pass complete deep right to Marvin Jones for 43 yards, touchdown",2.720,7.000
+1,4:45,,,MIN 15,0,6,Matt Prater kicks extra point no good wide left,0.000,-1.000
+1,4:45,,,DET 35,0,6,"Jack Fox kicks off 64 yards, returned by Ameer Abdullah for 29 yards (tackle by Tracy Walker)",0.000,0.940
+1,4:39,1,10,MIN 30,0,6,Alexander Mattison right tackle for 6 yards (tackle by Christian Jones),0.940,1.200
+1,4:03,2,4,MIN 36,0,6,Kirk Cousins pass incomplete short right intended for Justin Jefferson,1.200,0.500
+1,3:57,3,4,MIN 36,0,6,Kirk Cousins pass complete short middle to Justin Jefferson for 13 yards (tackle by Amani Oruwariye),0.500,2.190
+1,3:17,1,10,MIN 49,0,6,Kirk Cousins pass complete short middle to Alexander Mattison for 15 yards (tackle by Justin Coleman),2.190,3.180
+1,2:40,1,10,DET 36,0,6,Alexander Mattison left end for 4 yards (tackle by Christian Jones and Reggie Ragland),3.180,3.180
+1,2:04,2,6,DET 32,0,6,Kirk Cousins sacked by Tracy Walker for -7 yards,3.180,1.550
+1,1:24,3,13,DET 39,0,6,"Kirk Cousins pass complete short left to Justin Jefferson for 9 yards (tackle by Jahlani Tavai). Justin Jefferson fumbles (forced by Jahlani Tavai), recovered by Garrett Bradbury at DET-30 and returned for 2 yards (tackle by Tracy Walker)",1.550,1.700
+1,0:43,4,2,DET 28,6,6,"Kirk Cousins pass complete short right to Alexander Mattison for 28 yards, touchdown",1.700,7.000
+1,0:34,,,DET 15,7,6,Dan Bailey kicks extra point good,0.000,0.000
+1,0:34,,,MIN 35,7,6,"Dan Bailey kicks off 65 yards, touchback.",0.000,0.610
+1,0:34,1,10,DET 25,7,6,Matthew Stafford pass complete short right to Marvin Jones for 3 yards (tackle by Cordrea Tankersley),0.610,0.470
+Quarter,Time,Down,ToGo,Location,MIN,DET,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,7,DET 28,7,6,Adrian Peterson up the middle for 38 yards (tackle by Anthony Harris),0.470,3.310
+2,14:26,1,10,MIN 34,7,6,"Matthew Stafford for -6 yards. Matthew Stafford fumbles, recovered by Matthew Stafford at MIN-40 Matthew Stafford pass incomplete short right. Penalty on Frank Ragnow: Ineligible Downfield Pass, 5 yards (no play)",3.310,2.980
+2,14:21,1,15,MIN 39,7,6,Matthew Stafford pass complete short left to T.J. Hockenson for 15 yards (tackle by Harrison Smith),2.980,3.970
+2,13:44,1,10,MIN 24,7,6,Adrian Peterson left tackle for 4 yards (tackle by Eric Wilson and Troy Dye),3.970,3.970
+2,13:24,2,6,MIN 20,7,12,"Matthew Stafford pass complete deep left to Quintez Cephus for 20 yards, touchdown",3.970,7.000
+2,13:19,,,MIN 15,7,13,Matt Prater kicks extra point good,0.000,0.000
+2,13:19,,,DET 35,7,13,"Jack Fox kicks off 61 yards, returned by Ameer Abdullah for 17 yards (tackle by Jason Cabinda)",0.000,0.340
+2,13:13,1,10,MIN 21,7,13,Kirk Cousins pass complete deep middle to Irv Smith for 25 yards (tackle by Duron Harmon),0.340,1.990
+2,12:35,1,10,MIN 46,7,13,Kirk Cousins pass complete short right to Tyler Conklin for 11 yards (tackle by Tracy Walker),1.990,2.720
+2,11:52,1,10,DET 43,7,13,Alexander Mattison right tackle for 1 yard (tackle by Jahlani Tavai and Tracy Walker),2.720,2.310
+2,11:07,2,9,DET 42,7,13,Kirk Cousins pass complete short left to Tyler Conklin for 19 yards (tackle by Tracy Walker),2.310,4.040
+2,10:24,1,10,DET 23,7,13,Kirk Cousins pass complete short right to Adam Thielen for 14 yards (tackle by Duron Harmon),4.040,5.140
+2,9:44,1,9,DET 9,7,13,Alexander Mattison left tackle for 5 yards (tackle by Danny Shelton),5.140,5.340
+2,9:01,2,4,DET 4,7,13,Kirk Cousins pass incomplete short middle intended for Adam Thielen (defended by Darryl Roberts),5.340,4.490
+2,8:56,3,4,DET 4,13,13,"Kirk Cousins pass complete short right to Ameer Abdullah for 4 yards, touchdown",4.490,7.000
+2,8:51,,,DET 15,14,13,Dan Bailey kicks extra point good,0.000,0.000
+2,8:51,,,MIN 35,14,13,"Dan Bailey kicks off 65 yards, touchback.",0.000,0.610
+2,8:51,1,10,DET 25,14,13,Matthew Stafford pass complete deep right to Marvin Jones for 38 yards (tackle by Jeff Gladney),0.610,3.120
+2,8:08,1,10,MIN 37,14,13,Matthew Stafford pass incomplete deep right intended for Mohamed Sanu,3.120,2.570
+2,8:04,2,10,MIN 37,14,13,D'Andre Swift left end for 1 yard (tackle by Eddie Yarbrough and Todd Davis),2.570,2.010
+2,7:21,3,9,MIN 36,14,13,Matthew Stafford pass incomplete short middle intended for Mohamed Sanu (defended by Blake Lynch),2.010,0.880
+2,7:18,4,9,MIN 36,14,16,Matt Prater 54 yard field goal good,0.880,3.000
+2,7:13,,,DET 35,14,16,"Jack Fox kicks off 67 yards, returned by Ameer Abdullah for 33 yards (tackle by Mike Ford)",0.000,1.000
+2,7:05,1,10,MIN 31,14,16,Kirk Cousins pass complete deep right to Adam Thielen for 20 yards (tackle by Amani Oruwariye),1.000,2.320
+2,6:31,1,10,DET 49,14,16,Kirk Cousins pass complete short left to Adam Thielen for 9 yards (tackle by Darryl Roberts),2.320,3.000
+2,5:57,2,1,DET 40,14,16,Alexander Mattison up the middle for 5 yards (tackle by Nick Williams),3.000,3.250
+2,5:25,1,10,DET 35,14,16,Alexander Mattison up the middle for 20 yards (tackle by Duron Harmon and Darryl Roberts),3.250,4.580
+2,4:44,1,10,DET 15,14,16,Kirk Cousins pass incomplete short right intended for C.J. Ham,4.580,3.950
+2,4:40,2,10,DET 15,14,16,Alexander Mattison up the middle for 1 yard (tackle by Reggie Ragland),3.950,3.240
+2,4:00,3,9,DET 14,14,16,"Penalty on Brian O'Neill: False Start, 5 yards (no play)",3.240,2.790
+2,3:43,3,14,DET 19,14,16,Kirk Cousins sacked by Kevin Strong for -9 yards,2.790,1.590
+2,2:58,4,23,DET 28,14,16,Dan Bailey 46 yard field goal no good,1.590,-1.330
+2,2:53,1,10,DET 36,14,16,Adrian Peterson right tackle for 6 yards (tackle by Anthony Harris),1.330,1.600
+2,2:18,2,4,DET 42,14,16,Matthew Stafford pass complete short right to Jesse James for 2 yards (tackle by Jeff Gladney),1.600,1.160
+2,2:00,3,2,DET 44,14,16,Matthew Stafford right end for 4 yards,1.160,2.130
+2,1:25,1,10,DET 48,14,16,Matthew Stafford pass incomplete short left intended for Kerryon Johnson (defended by Jeff Gladney),2.130,1.580
+2,1:18,2,10,DET 48,14,16,Matthew Stafford pass incomplete deep middle intended for Mohamed Sanu (defended by Anthony Harris),1.580,0.890
+2,1:10,3,10,DET 48,14,16,Matthew Stafford sacked by Hercules Mata'afa for -5 yards,0.890,-0.520
+2,1:04,,,,,,Timeout #1 by Minnesota Vikings,,
+2,1:04,4,15,DET 43,14,16,"Jack Fox punts 43 yards, returned by Chad Beebe for 7 yards (tackle by Mike Ford)",-0.520,-0.340
+2,0:55,1,10,MIN 21,14,16,Kirk Cousins pass complete short right to Justin Jefferson for 8 yards (tackle by Jahlani Tavai),0.340,0.880
+2,0:44,,,,,,Timeout #1 by Detroit Lions,,
+2,0:44,2,2,MIN 29,14,16,Kirk Cousins pass complete short left to Chad Beebe for 4 yards,0.880,1.140
+2,0:39,1,10,MIN 33,14,16,Kirk Cousins pass complete short right to Ameer Abdullah for -3 yards (tackle by Jahlani Tavai),1.140,0.190
+2,0:35,,,,,,Timeout #2 by Minnesota Vikings,,
+2,0:35,2,13,MIN 30,14,16,Kirk Cousins pass complete short left to Adam Thielen for 14 yards (tackle by Darryl Roberts),0.190,1.860
+2,0:28,,,,,,Timeout #3 by Minnesota Vikings,,
+2,0:28,1,10,MIN 44,14,16,"Kirk Cousins pass complete short left to Tyler Conklin for 10 yards (tackle by Jahlani Tavai). Tyler Conklin fumbles, ball out of bounds at DET-46 (forced by Jahlani Tavai)",1.860,2.520
+2,0:14,1,10,DET 46,14,16,"Kirk Cousins pass incomplete deep left intended for Justin Jefferson. Penalty on Everson Griffen: Defensive Offside, 6 yards (no play)",2.520,3.400
+2,0:11,,,,,,Timeout #2 by Detroit Lions,,
+2,0:11,1,4,DET 40,20,16,"Kirk Cousins pass complete deep left to Chad Beebe for 40 yards, touchdown",3.400,7.000
+2,0:04,,,DET 15,21,16,Dan Bailey kicks extra point good,0.000,0.000
+2,0:04,,,MIN 35,21,16,"Dan Bailey kicks off 40 yards, returned by Mohamed Sanu for 15 yards (tackle by Dan Chisena)",0.000,1.270
+Quarter,Time,Down,ToGo,Location,MIN,DET,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,MIN 35,21,16,"Dan Bailey kicks off 68 yards, returned by Jamal Agnew for 70 yards (tackle by Dan Chisena)",0.000,3.380
+3,14:49,1,10,MIN 33,21,16,Matthew Stafford pass complete short right to Mohamed Sanu for 7 yards (tackle by Jeff Gladney),3.380,3.780
+3,14:15,2,3,MIN 26,21,22,"Matthew Stafford pass complete short right to Marvin Jones for 26 yards, touchdown",3.780,7.000
+3,14:09,,,MIN 15,21,23,Matt Prater kicks extra point good,0.000,0.000
+3,14:09,,,DET 35,21,23,"Jack Fox kicks off 62 yards, returned by Ameer Abdullah for 28 yards (tackle by Tracy Walker)",0.000,1.000
+3,14:02,1,10,MIN 31,21,23,Kirk Cousins pass complete short right to Justin Jefferson for 15 yards (tackle by Amani Oruwariye),1.000,1.990
+3,13:29,1,10,MIN 46,21,23,Alexander Mattison left tackle for 2 yards (tackle by John Penisini),1.990,1.720
+3,12:51,2,8,MIN 48,21,23,"Kirk Cousins pass complete short middle to Justin Jefferson for 38 yards (tackle by Jahlani Tavai). Penalty on Romeo Okwara: Roughing the Passer, 7 yards",1.720,5.600
+3,12:24,1,7,DET 7,21,23,Kirk Cousins pass incomplete short right,5.600,4.760
+3,12:18,2,7,DET 7,21,23,Alexander Mattison up the middle for 5 yards (tackle by Tracy Walker and Darryl Roberts),4.760,4.950
+3,11:38,3,2,DET 2,27,23,"Alexander Mattison right tackle for 2 yards, touchdown",4.950,7.000
+3,11:35,,,DET 15,28,23,Dan Bailey kicks extra point good,0.000,0.000
+3,11:35,,,MIN 35,28,23,"Dan Bailey kicks off 69 yards, returned by Jamal Agnew for 24 yards (tackle by Ryan Connelly)",0.000,0.280
+3,11:29,1,10,DET 20,28,23,D'Andre Swift up the middle for 6 yards (tackle by Todd Davis),0.280,0.540
+3,10:53,2,4,DET 26,28,23,"Penalty on Jesse James: False Start, 5 yards (no play)",0.540,-0.130
+3,10:33,2,9,DET 21,28,23,D'Andre Swift right tackle for -1 yards (tackle by Eric Wilson),-0.130,-0.960
+3,9:49,3,10,DET 20,28,23,Matthew Stafford pass short middle intended for Marvin Jones is intercepted by Harrison Smith at DET-32 and returned for 9 yards,-0.960,-4.040
+3,9:41,1,10,DET 23,28,23,Kirk Cousins pass incomplete deep middle intended for Irv Smith (defended by Duron Harmon),4.040,3.500
+3,9:35,2,10,DET 23,28,23,Kirk Cousins pass complete short left to Justin Jefferson for 15 yards (tackle by Christian Jones),3.500,5.370
+3,8:57,1,8,DET 8,28,23,Kirk Cousins pass incomplete short right intended for Justin Jefferson,5.370,4.570
+3,8:52,2,8,DET 8,28,23,Kirk Cousins left end for 4 yards (tackle by Duron Harmon),4.570,4.490
+3,8:08,3,4,DET 4,28,23,Kirk Cousins pass incomplete short right,4.490,3.030
+3,7:59,4,4,DET 4,31,23,Dan Bailey 23 yard field goal good,3.030,3.000
+3,7:55,,,MIN 35,31,23,"Dan Bailey kicks off 65 yards, touchback.",0.000,0.610
+3,7:55,1,10,DET 25,31,23,Adrian Peterson up the middle for 5 yards (tackle by Eric Wilson and Shamar Stephen),0.610,0.740
+3,7:16,2,5,DET 30,31,23,Matthew Stafford pass incomplete deep left intended for Quintez Cephus,0.740,0.040
+3,7:09,3,5,DET 30,31,23,Matthew Stafford pass complete short middle to Danny Amendola for 6 yards (tackle by Harrison Smith),0.040,1.330
+3,6:34,1,10,DET 36,31,23,Matthew Stafford pass incomplete deep left intended for Mohamed Sanu,1.330,0.790
+3,6:28,2,10,DET 36,31,23,Adrian Peterson left end for 4 yards (tackle by Harrison Hand),0.790,0.630
+3,5:40,3,6,DET 40,31,23,Matthew Stafford pass complete deep right to Quintez Cephus for 31 yards (tackle by Anthony Harris),0.630,3.640
+3,5:01,1,10,MIN 29,31,23,D'Andre Swift right end for 6 yards (tackle by Anthony Harris),3.640,3.910
+3,4:19,2,4,MIN 23,31,23,Matthew Stafford pass complete short left to D'Andre Swift for 18 yards (tackle by Harrison Smith),3.910,6.060
+3,3:49,1,5,MIN 5,31,23,D'Andre Swift left end for 3 yards (tackle by Anthony Harris),6.060,5.720
+3,3:08,2,2,MIN 2,31,29,"Adrian Peterson left tackle for 2 yards, touchdown",5.720,7.000
+3,3:02,,,MIN 2,31,29,"Two Point Attempt: Matthew Stafford pass incomplete intended for Marvin Jones, conversion fails",1.000,-1.000
+3,3:02,,,DET 35,31,29,"Jack Fox kicks off 65 yards, touchback.",0.000,0.610
+3,3:02,1,10,MIN 25,31,29,Alexander Mattison up the middle for 1 yard (tackle by Tracy Walker),0.610,0.200
+3,2:29,2,9,MIN 26,31,29,Kirk Cousins pass complete short left to Alexander Mattison for 7 yards (tackle by Darryl Roberts),0.200,0.430
+3,1:59,3,2,MIN 33,31,29,Alexander Mattison right tackle for 4 yards (tackle by Julian Okwara and Jahlani Tavai),0.430,1.400
+3,1:19,1,10,MIN 37,31,29,"Kirk Cousins pass incomplete deep middle intended for Justin Jefferson. Penalty on Amani Oruwariye: Defensive Pass Interference, 18 yards (no play)",1.400,2.590
+3,1:13,1,10,DET 45,31,29,Kirk Cousins pass incomplete short right intended for Tyler Conklin,2.590,2.040
+3,1:09,2,10,DET 45,31,29,Kirk Cousins pass complete short left to Justin Jefferson for 14 yards,2.040,3.510
+3,0:42,1,10,DET 31,31,29,Alexander Mattison right tackle for 7 yards (tackle by Reggie Ragland),3.510,3.910
+3,0:12,2,3,DET 24,31,29,Alexander Mattison up the middle for 4 yards (tackle by Tracy Walker),3.910,4.240
+Quarter,Time,Down,ToGo,Location,MIN,DET,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,DET 20,31,29,"Alexander Mattison right end for 4 yards (tackle by Reggie Ragland). Penalty on Ezra Cleveland: Offensive Holding, 10 yards (no play)",4.240,3.580
+4,14:32,1,20,DET 30,31,29,Mike Boone right tackle for 19 yards (tackle by Duron Harmon),3.580,5.260
+4,13:52,2,1,DET 11,31,29,Mike Boone left end for 5 yards (tackle by Tracy Walker),5.260,5.830
+4,13:15,1,6,DET 6,31,29,Mike Boone up the middle for 4 yards (tackle by Duron Harmon),5.830,5.720
+4,12:40,,,,,,Timeout #1 by Detroit Lions,,
+4,12:40,2,2,DET 2,31,29,Mike Boone left tackle for 1 yard (tackle by Christian Jones),5.720,5.170
+4,11:59,3,1,DET 1,31,29,Mike Boone right end for no gain (tackle by Reggie Ragland and Kevin Strong),5.170,3.550
+4,11:18,4,1,DET 1,31,29,Kirk Cousins sacked by Tracy Walker for no gain. Penalty on Tracy Walker: Roughing the Passer (no play),3.550,6.970
+4,11:15,1,1,DET 1,31,29,Alexander Mattison up the middle for no gain (tackle by Tracy Walker),6.970,5.910
+4,10:36,2,1,DET 1,37,29,"Kirk Cousins up the middle for 1 yard, touchdown",5.910,7.000
+4,10:32,,,DET 15,37,29,Dan Bailey kicks extra point no good wide left,0.000,-1.000
+4,10:32,,,MIN 35,37,29,"Dan Bailey kicks off 65 yards, touchback.",0.000,0.610
+4,10:32,1,10,DET 25,37,29,"Matthew Stafford pass incomplete deep left intended for D'Andre Swift. Penalty on T.J. Hockenson: Offensive Holding, 10 yards (no play)",0.610,-0.410
+4,10:22,1,20,DET 15,37,29,Matthew Stafford pass complete deep middle to Marvin Jones for 21 yards (tackle by Troy Dye),-0.410,1.330
+4,9:40,1,10,DET 36,37,29,D'Andre Swift right tackle for 13 yards (tackle by Eric Wilson and Harrison Smith),1.330,2.190
+4,9:02,1,10,DET 49,37,29,D'Andre Swift left end for 8 yards (tackle by Harrison Smith),2.190,2.730
+4,8:27,2,2,MIN 43,37,29,Matthew Stafford pass complete short right to T.J. Hockenson for 1 yard (tackle by Anthony Harris),2.730,2.150
+4,7:44,3,1,MIN 42,37,29,Matthew Stafford pass incomplete short right intended for Marvin Jones (defended by Todd Davis),2.150,0.460
+4,7:39,4,1,MIN 42,37,29,Adrian Peterson right tackle for 4 yards (tackle by Eric Wilson and Troy Dye),0.460,3.050
+4,6:58,1,10,MIN 38,37,29,Matthew Stafford pass incomplete deep middle intended for Marvin Jones,3.050,2.510
+4,6:52,2,10,MIN 38,37,29,Matthew Stafford pass complete short right to D'Andre Swift for -1 yards (tackle by Todd Davis),2.510,1.680
+4,6:08,3,11,MIN 39,37,29,Matthew Stafford pass complete deep left to Marvin Jones for 16 yards,1.680,4.040
+4,5:55,1,10,MIN 23,37,29,Matthew Stafford pass complete short right to Mohamed Sanu for 6 yards (tackle by Dylan Mabin),4.040,4.380
+4,5:29,2,4,MIN 17,37,29,Matthew Stafford right end for 5 yards (tackle by Harrison Smith),4.380,4.780
+4,4:56,1,10,MIN 12,37,29,Matthew Stafford pass incomplete short middle intended for Hunter Bryant (defended by Troy Dye),4.780,4.100
+4,4:51,2,10,MIN 12,37,29,Matthew Stafford pass complete short right to Marvin Jones for 10 yards (tackle by Anthony Harris and Dylan Mabin),4.100,6.740
+4,4:30,1,2,MIN 2,37,35,"D'Andre Swift up the middle for 2 yards, touchdown",6.740,7.000
+4,4:26,,,MIN 2,37,35,"Two Point Attempt: Matthew Stafford pass incomplete intended for Quintez Cephus, conversion fails",1.000,-1.000
+4,4:26,,,DET 35,37,35,"Jack Fox kicks off 65 yards, touchback.",0.000,0.610
+4,4:26,1,10,MIN 25,37,35,Kirk Cousins pass complete short right to C.J. Ham for 30 yards (tackle by Duron Harmon),0.610,2.590
+4,4:16,1,10,DET 45,37,35,"Alexander Mattison right end for 10 yards (tackle by Tracy Walker). Penalty on Olabisi Johnson: Offensive Holding, 10 yards (no play)",2.590,1.930
+4,4:08,1,20,MIN 45,37,35,Kirk Cousins pass complete short left to Justin Jefferson for 13 yards (tackle by Jahlani Tavai),1.930,2.450
+4,3:29,2,7,DET 42,37,35,Kirk Cousins pass complete short left to Justin Jefferson for 8 yards,2.450,3.310
+4,3:25,1,10,DET 34,37,35,Alexander Mattison right tackle for 5 yards (tackle by Everson Griffen and Dan Skipper),3.310,3.450
+4,2:41,2,5,DET 29,37,35,Alexander Mattison left tackle for -1 yards (tackle by Everson Griffen and Jarrad Davis),3.450,2.610
+4,2:34,,,,,,Timeout #2 by Detroit Lions,,
+4,2:34,3,6,DET 30,37,35,Kirk Cousins pass complete short left to Irv Smith for 5 yards (tackle by Will Harris),2.610,1.950
+4,2:28,,,,,,Timeout #3 by Detroit Lions,,
+4,2:28,4,1,DET 25,37,35,Alexander Mattison right end for 16 yards (tackle by Duron Harmon),1.950,5.140
+4,2:00,1,9,DET 9,37,35,Kirk Cousins kneels for -1 yards,5.140,4.190
+4,1:17,2,10,DET 10,37,35,Kirk Cousins kneels for -2 yards,4.190,3.100
+4,0:38,3,12,DET 12,37,35,Kirk Cousins kneels for -1 yards,3.100,2.570
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

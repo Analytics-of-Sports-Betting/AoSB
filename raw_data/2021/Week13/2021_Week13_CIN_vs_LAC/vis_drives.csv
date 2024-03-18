@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,LAC 45,9,3:29,55,Touchdown
+2,1,8:47,CIN 29,4,2:19,4,Field Goal
+3,1,4:29,LAC 27,5,2:55,73,Touchdown
+4,2,14:42,CIN 42,3,1:03,3,Punt
+5,2,11:37,LAC 42,3,1:25,58,Touchdown
+6,2,7:39,LAC 21,7,3:30,43,Fumble
+7,2,2:40,LAC 27,6,1:21,9,Interception
+8,3,9:53,LAC 25,2,0:53,6,Fumble
+9,3,7:10,LAC 25,6,3:46,-1,Punt
+10,3,1:41,LAC 15,3,1:03,-3,Punt
+11,4,12:52,LAC 47,4,2:03,53,Touchdown
+12,4,8:00,LAC 20,4,1:10,23,Punt
+13,4,4:59,CIN 40,7,3:49,15,Field Goal

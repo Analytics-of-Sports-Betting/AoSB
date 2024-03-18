@@ -1,0 +1,208 @@
+Quarter,Time,Down,ToGo,Location,NWE,BAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Ravens won the coin toss and deferred, Patriots to receive the opening kickoff.",,
+1,15:00,,,BAL 35,0,0,"Justin Tucker kicks off 74 yards, touchback",0.000,0.280
+1,15:00,1,10,NWE 20,0,0,Tom Brady pass complete short left to Brandon Lloyd for 12 yards (tackle by Cary Williams),0.280,1.070
+1,14:30,1,10,NWE 32,0,0,Tom Brady pass complete short left to Julian Edelman for -1 yards (tackle by Ed Reed),1.070,0.390
+1,14:02,2,11,NWE 31,0,0,"Tom Brady for no gain. Tom Brady fumbles, recovered by Tom Brady at NWE-28",0.390,-0.690
+1,13:21,3,14,NWE 28,0,0,Tom Brady sacked by Dannell Ellerbe for -9 yards,-0.690,-2.140
+1,12:53,4,23,NWE 19,0,0,"Zoltan Mesko punts 56 yards, returned by Jacoby Jones for 19 yards (tackle by Brandon Bolden)",-2.140,-1.860
+1,12:40,1,10,BAL 44,0,0,Ray Rice left end for 3 yards (tackle by Kyle Arrington and Chandler Jones),1.860,1.720
+1,12:11,2,7,BAL 47,0,0,Ray Rice left guard for 1 yard (tackle by Vince Wilfork),1.720,1.160
+1,11:39,3,6,BAL 48,0,0,Joe Flacco pass complete short middle to Anquan Boldin for 5 yards (tackle by Kyle Arrington),1.160,0.130
+1,10:57,4,1,NWE 47,0,0,Sam Koch punts 37 yards,0.130,0.380
+1,10:49,1,10,NWE 10,0,0,Tom Brady pass complete short left to Julian Edelman for 7 yards (tackle by Ray Lewis),-0.380,-0.090
+1,10:26,2,3,NWE 17,0,0,Danny Woodhead right end for 2 yards (tackle by Haloti Ngata and Ed Reed),-0.090,-0.370
+1,10:01,3,1,NWE 19,0,0,Danny Woodhead right tackle for 2 yards (tackle by Paul Kruger and Ray Lewis),-0.370,0.340
+1,9:32,1,10,NWE 21,0,0,Tom Brady pass complete deep left to Wes Welker for 59 yards (tackle by Bernard Pollard),0.340,4.240
+1,9:21,1,10,BAL 20,0,0,Stevan Ridley right tackle for no gain (tackle by Paul Kruger and Terrence Cody),4.240,3.690
+1,8:40,2,10,BAL 20,0,0,Stevan Ridley left guard for 1 yard (tackle by Dannell Ellerbe),3.690,3.100
+1,7:58,3,9,BAL 19,0,0,Tom Brady pass incomplete deep middle intended for Julian Edelman (defended by Ed Reed),3.100,2.180
+1,7:52,4,9,BAL 19,3,0,Stephen Gostkowski 37 yard field goal good,2.180,3.000
+1,7:48,,,NWE 35,3,0,"Stephen Gostkowski kicks off 64 yards, returned by Deonte Thompson for 23 yards (tackle by Marquice Cole)",0.000,0.540
+1,7:42,1,10,BAL 24,3,0,Joe Flacco pass incomplete deep middle intended for Dennis Pitta is intercepted by Steve Gregory at BAL-42 and returned for 36 yards (tackle by Ray Rice),0.540,-5.830
+1,7:31,1,6,BAL 6,3,0,Tom Brady pass incomplete short right intended for Brandon Lloyd,5.830,4.950
+1,7:28,2,6,BAL 6,3,0,Tom Brady pass complete short left to Michael Hoomanawanui for 4 yards (tackle by Ed Reed),4.950,4.950
+1,7:14,3,2,BAL 2,9,0,"Brandon Bolden up the middle for 2 yards, touchdown",4.950,7.000
+1,7:14,,,BAL 2,10,0,Stephen Gostkowski kicks extra point good,0.000,0.000
+1,7:09,,,NWE 35,10,0,"Stephen Gostkowski kicks off 68 yards, returned by Deonte Thompson for 36 yards (tackle by Brandon Bolden)",0.000,1.140
+1,7:01,1,10,BAL 33,10,0,Joe Flacco pass complete short right to Ed Dickson for 2 yards (tackle by Kyle Arrington),1.140,0.860
+1,6:30,2,8,BAL 35,10,0,Ray Rice right guard for 3 yards (tackle by Rob Ninkovich and Jerod Mayo),0.860,0.560
+1,5:55,3,5,BAL 38,10,0,Joe Flacco pass complete short right to Ed Dickson for 3 yards (tackle by Tavon Wilson),0.560,-0.650
+1,5:14,4,2,BAL 41,10,0,"Sam Koch punts 52 yards, returned by Julian Edelman for 11 yards (tackle by Dannell Ellerbe). Penalty on Niko Koutouvides: Illegal Block Above the Waist, 9 yards",-0.650,0.380
+1,5:02,1,10,NWE 9,10,0,Tom Brady pass incomplete short right intended for Wes Welker,-0.380,-0.780
+1,4:56,2,10,NWE 9,10,0,Stevan Ridley left guard for 4 yards (tackle by Haloti Ngata),-0.780,-0.950
+1,4:26,3,6,NWE 13,10,0,Tom Brady pass complete short left to Brandon Lloyd for 11 yards (tackle by Cary Williams),-0.950,0.540
+1,3:54,1,10,NWE 24,10,0,Danny Woodhead left guard for 3 yards (tackle by Terrence Cody),0.540,0.400
+1,3:26,2,7,NWE 27,10,0,Tom Brady pass complete short left to Brandon Lloyd for 22 yards (tackle by Cary Williams),0.400,0.000
+1,3:10,,,,10,0,Timeout #1 by Baltimore Ravens,0.000,2.190
+1,3:10,1,10,NWE 49,10,0,"Tom Brady left end for 7 yards (tackle by Haloti Ngata). Penalty on Courtney Upshaw: Personal Foul, 15 yards",2.190,3.640
+1,2:41,1,10,BAL 29,10,0,Stevan Ridley right tackle for 2 yards,3.640,3.370
+1,2:14,2,8,BAL 27,10,0,"Stevan Ridley right tackle for 7 yards (tackle by Ray Lewis). Penalty on Rob Gronkowski: Offensive Holding, 10 yards",3.370,2.970
+1,1:52,2,11,BAL 30,10,0,Tom Brady pass incomplete short left intended for Wes Welker,2.970,2.280
+1,1:48,3,11,BAL 30,10,0,"Tom Brady pass complete deep left to Julian Edelman for 19 yards (tackle by Cary Williams). Penalty on Julian Edelman: Offensive Pass Interference, 10 yards (no play)",2.280,0.960
+1,1:22,3,21,BAL 40,10,0,Tom Brady pass complete short right to Wes Welker for 9 yards (tackle by Haloti Ngata),0.960,1.320
+1,1:22,4,12,BAL 31,13,0,Stephen Gostkowski 49 yard field goal good,1.320,3.000
+1,0:38,,,NWE 35,13,0,"Stephen Gostkowski kicks off 69 yards, returned by Deonte Thompson for 22 yards (tackle by Tavon Wilson)",0.000,0.040
+1,0:30,1,10,BAL 18,13,0,Joe Flacco pass incomplete deep right intended for Torrey Smith (defended by Devin McCourty),0.040,-0.490
+1,0:22,2,10,BAL 18,13,0,Ray Rice left tackle for 4 yards (tackle by Jerod Mayo and Chandler Jones),-0.490,-0.660
+Quarter,Time,Down,ToGo,Location,NWE,BAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,6,BAL 22,13,0,"Joe Flacco pass incomplete short left intended for Ray Rice. Penalty on Jerod Mayo: Defensive Pass Interference, 2 yards (no play)",-0.660,0.540
+2,14:54,1,10,BAL 24,13,0,Joe Flacco pass complete short right to Ray Rice for 4 yards (tackle by Brandon Spikes and Jerod Mayo),0.540,0.540
+2,14:20,2,6,BAL 28,13,0,"Ray Rice right tackle for 9 yards (tackle by Steve Gregory). Penalty on Anquan Boldin: Offensive Holding, 10 yards",0.540,0.400
+2,13:45,2,7,BAL 27,13,0,Joe Flacco pass complete short right to Bernard Pierce for 10 yards (tackle by Devin McCourty),0.400,1.400
+2,13:24,1,10,BAL 37,13,0,Bernard Pierce right end for 8 yards (tackle by Devin McCourty),1.400,1.940
+2,12:31,2,2,BAL 45,13,0,Joe Flacco pass complete short right to Vonta Leach for 6 yards (tackle by Devin McCourty),1.940,2.320
+2,12:11,1,10,NWE 49,13,0,"Penalty on Marshall Yanda: False Start, 5 yards (no play)",2.320,1.990
+2,11:51,1,15,BAL 46,13,0,Ray Rice left guard for 2 yards (tackle by Vince Wilfork),1.990,1.380
+2,11:30,2,13,BAL 48,13,0,Joe Flacco pass incomplete short right intended for Anquan Boldin,1.380,0.700
+2,11:28,3,13,BAL 48,13,0,Joe Flacco pass complete short right to Anquan Boldin for 14 yards (tackle by Devin McCourty),0.700,3.050
+,,,,,,,"BAL challenged the runner was down by contact ruling, and the original play was overturned.",,
+2,10:53,1,10,NWE 38,13,0,Ray Rice left guard for 8 yards (tackle by Devin McCourty),3.050,3.590
+2,10:27,2,2,NWE 30,13,0,Ray Rice left guard for 5 yards (tackle by Brandon Spikes),3.590,3.910
+2,9:53,1,10,NWE 25,13,6,"Joe Flacco pass complete deep left to Torrey Smith for 25 yards, touchdown",3.910,7.000
+2,9:53,,,NWE 2,13,7,Justin Tucker kicks extra point good,0.000,0.000
+2,9:45,,,BAL 35,13,7,"Justin Tucker kicks off 74 yards, touchback",0.000,0.280
+2,9:45,1,10,NWE 20,13,7,"Penalty on Julian Edelman: False Start, 5 yards (no play)",0.280,-0.310
+2,9:45,1,15,NWE 15,13,7,Tom Brady pass complete short left to Rob Gronkowski for 9 yards (tackle by Ed Reed and Jameel McClain),-0.310,0.270
+2,9:25,2,6,NWE 24,13,7,Julian Edelman left end for 8 yards (tackle by Bernard Pollard and Ed Reed),0.270,1.070
+2,8:50,1,10,NWE 32,13,7,Tom Brady pass complete short middle to Julian Edelman for 15 yards (tackle by Cary Williams),1.070,2.060
+2,8:24,1,10,NWE 47,13,7,Danny Woodhead left tackle for 4 yards (tackle by Ray Lewis),2.060,2.060
+2,7:48,2,6,BAL 49,13,7,Julian Edelman left end for -13 yards (tackle by Courtney Upshaw),2.060,-0.360
+2,7:06,3,19,NWE 38,13,7,Danny Woodhead right tackle for 4 yards,-0.360,-0.590
+2,6:41,4,15,NWE 42,13,7,"Zoltan Mesko punts 50 yards, fair catch by Jacoby Jones",-0.590,0.380
+2,6:36,1,10,BAL 8,13,7,Joe Flacco pass complete short right to Vonta Leach for 1 yard (tackle by Dont'a Hightower),-0.380,-0.710
+2,5:58,2,9,BAL 9,13,7,Bernard Pierce left end for 5 yards (tackle by Dont'a Hightower and Brandon Spikes),-0.710,-0.720
+2,5:24,3,4,BAL 14,13,7,Joe Flacco up the middle for 5 yards (tackle by Jermaine Cunningham),-0.720,0.150
+2,4:49,1,10,BAL 19,13,7,Ray Rice right tackle for 3 yards (tackle by Jerod Mayo),0.150,0.070
+2,4:24,2,7,BAL 22,13,7,Joe Flacco pass complete deep middle to Jacoby Jones for 41 yards (tackle by Kyle Arrington and Patrick Chung),0.070,3.120
+2,3:44,1,10,NWE 37,13,7,Joe Flacco pass complete short right to Anquan Boldin for 5 yards (tackle by Devin McCourty),3.120,3.250
+2,3:06,2,5,NWE 32,13,7,Ray Rice right tackle for 6 yards (tackle by Jerod Mayo and Brandon Spikes),3.250,3.840
+2,2:30,1,10,NWE 26,13,7,Ray Rice left guard for 6 yards (tackle by Jerod Mayo),3.840,4.110
+2,2:00,2,4,NWE 20,13,7,Joe Flacco pass incomplete deep right intended for Anquan Boldin,4.110,3.400
+2,1:53,3,4,NWE 20,13,13,"Joe Flacco pass complete short right to Dennis Pitta for 20 yards, touchdown",3.400,7.000
+2,1:53,,,NWE 2,13,14,Justin Tucker kicks extra point good,0.000,0.000
+2,1:47,,,BAL 35,13,14,"Justin Tucker kicks off 70 yards, returned by Devin McCourty for 24 yards (tackle by Corey Graham)",0.000,0.150
+2,1:41,1,10,NWE 19,13,14,Tom Brady pass incomplete short right intended for Julian Edelman (defended by Jimmy Smith),0.150,-0.390
+2,1:37,2,10,NWE 19,13,14,Tom Brady pass complete short right to Rob Gronkowski for 12 yards (tackle by Dannell Ellerbe and Bernard Pollard),-0.390,1.000
+2,1:14,1,10,NWE 31,13,14,"Tom Brady pass complete short left to Danny Woodhead for 5 yards (tackle by Ray Lewis). Penalty on Dannell Ellerbe: Defensive Holding, 5 yards (no play)",1.000,1.330
+2,1:07,1,10,NWE 36,13,14,Danny Woodhead right guard for 4 yards (tackle by Haloti Ngata),1.330,0.000
+2,1:01,,,,13,14,Timeout #1 by New England Patriots,0.000,1.330
+2,1:01,2,6,NWE 40,13,14,Tom Brady pass incomplete deep left intended for Brandon Lloyd,1.330,0.630
+2,0:57,3,6,NWE 40,13,14,Tom Brady pass complete short middle to Danny Woodhead for 9 yards (tackle by Jimmy Smith),0.630,2.190
+2,0:35,1,10,NWE 49,13,14,"Tom Brady pass incomplete deep left intended for Brandon Lloyd. Penalty on Cary Williams: Illegal Contact, 5 yards (no play)",2.190,2.520
+2,0:28,1,10,BAL 46,13,14,Tom Brady pass complete short left to Deion Branch for 11 yards (tackle by Ed Reed),2.520,3.250
+2,0:23,1,10,BAL 35,13,14,Tom Brady pass complete short middle to Wes Welker for 28 yards (tackle by Ed Reed),3.250,0.000
+2,0:13,,,,13,14,Timeout #2 by New England Patriots,0.000,5.600
+2,0:13,1,7,BAL 7,13,14,Tom Brady pass incomplete short right intended for Julian Edelman,5.600,0.000
+2,0:07,,,,13,14,Timeout #2 by Baltimore Ravens,0.000,4.760
+2,0:07,2,7,BAL 7,19,14,"Tom Brady pass complete short middle to Julian Edelman for 7 yards, touchdown",4.760,7.000
+2,0:07,,,BAL 2,20,14,"Stephen Gostkowski kicks extra point good. Penalty on Courtney Upshaw: Personal Foul, 15 yards",0.000,0.000
+2,0:02,,,,20,14,"Stephen Gostkowski kicks off 26 yards, returned by Dennis Pitta for no gain",0.000,2.260
+Quarter,Time,Down,ToGo,Location,NWE,BAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,NWE 35,20,14,"Stephen Gostkowski kicks off 74 yards, touchback",0.000,0.280
+3,15:00,1,10,BAL 20,20,14,Ray Rice left tackle for 15 yards (tackle by Kyle Arrington),0.280,1.270
+3,14:35,1,10,BAL 35,20,14,Ray Rice right tackle for 2 yards (tackle by Vince Wilfork),1.270,0.990
+3,14:06,2,8,BAL 37,20,14,"Joe Flacco pass incomplete deep middle intended for Anquan Boldin. Penalty on Kyle Arrington: Defensive Holding, 5 yards (no play)",0.990,1.730
+3,13:58,1,10,BAL 42,20,14,Joe Flacco pass complete short right to Ray Rice for 4 yards (tackle by Jerod Mayo),1.730,1.730
+3,13:26,2,6,BAL 46,20,14,Ray Rice right guard for 4 yards (tackle by Jerod Mayo),1.730,1.550
+3,12:49,3,2,BAL 50,20,14,Joe Flacco pass complete short middle to Torrey Smith for 11 yards (tackle by Steve Gregory),1.550,2.980
+3,12:26,1,10,NWE 39,20,14,Joe Flacco pass incomplete deep right intended for Jacoby Jones (defended by Devin McCourty),2.980,2.440
+3,12:18,2,10,NWE 39,20,14,Joe Flacco pass complete deep middle to Torrey Smith for 32 yards (tackle by Steve Gregory and Devin McCourty),2.440,5.600
+3,11:42,1,7,NWE 7,20,20,"Ray Rice left guard for 7 yards, touchdown",5.600,7.000
+3,11:42,,,NWE 2,20,21,Justin Tucker kicks extra point good,0.000,0.000
+3,11:36,,,BAL 35,20,21,"Justin Tucker kicks off 74 yards, touchback",0.000,0.280
+3,11:36,1,10,NWE 20,20,21,Tom Brady pass complete short middle to Brandon Lloyd for 11 yards (tackle by Cary Williams),0.280,1.000
+3,11:07,1,10,NWE 31,20,21,Stevan Ridley right guard for 5 yards (tackle by Ray Lewis and Ma'ake Kemoeatu),1.000,1.140
+3,10:36,2,5,NWE 36,20,21,Tom Brady pass incomplete short right intended for Kellen Winslow Jr. (defended by Lardarius Webb),1.140,0.430
+3,10:30,3,5,NWE 36,20,21,Tom Brady pass complete short left to Wes Welker for 11 yards (tackle by Cary Williams),0.430,2.060
+3,9:56,1,10,NWE 47,20,21,Danny Woodhead left guard for 3 yards (tackle by Ray Lewis),2.060,1.920
+3,9:32,2,7,NWE 50,20,21,Danny Woodhead left guard for 1 yard (tackle by Courtney Upshaw and Haloti Ngata),1.920,1.360
+3,8:56,3,6,BAL 49,20,21,Tom Brady pass complete short left to Brandon Lloyd for 10 yards (tackle by Cary Williams),1.360,2.980
+3,8:49,1,10,BAL 39,20,21,"Danny Woodhead left end for 3 yards (tackle by Dannell Ellerbe). Penalty on Bernard Pollard: Personal Foul, 15 yards",2.980,4.170
+3,8:22,1,10,BAL 21,20,21,Danny Woodhead right guard for 3 yards (tackle by Dannell Ellerbe),4.170,4.040
+3,7:42,2,7,BAL 18,20,21,Tom Brady pass complete short left to Brandon Lloyd for 9 yards (tackle by Cary Williams),4.040,5.140
+3,7:16,1,9,BAL 9,20,21,Danny Woodhead right guard for 6 yards (tackle by Dannell Ellerbe and Ray Lewis),5.140,5.530
+3,6:52,2,3,BAL 3,26,21,"Danny Woodhead right tackle for 3 yards, touchdown",5.530,7.000
+3,6:52,,,BAL 2,27,21,Stephen Gostkowski kicks extra point good,0.000,0.000
+3,6:48,,,NWE 35,27,21,"Stephen Gostkowski kicks off 74 yards, touchback",0.000,0.280
+3,6:48,1,10,BAL 20,27,21,"Penalty on Torrey Smith: False Start, 5 yards (no play)",0.280,-0.310
+3,6:48,1,15,BAL 15,27,21,Joe Flacco pass incomplete short right intended for Torrey Smith,-0.310,-1.070
+3,6:43,2,15,BAL 15,27,21,Joe Flacco pass complete deep left to Torrey Smith for 38 yards (tackle by Patrick Chung). Penalty on Sterling Moore: Defensive Holding (Declined),-1.070,2.460
+3,6:22,1,10,NWE 47,27,21,Bernard Pierce left guard for 5 yards (tackle by Jerod Mayo),2.460,2.590
+3,5:54,2,5,NWE 42,27,21,"Joe Flacco pass complete short middle to Dennis Pitta for 9 yards (tackle by Ras-I Dowling). Penalty on Marshall Yanda: Offensive Holding, 10 yards (no play)",2.590,1.240
+3,5:29,2,15,BAL 48,27,21,Joe Flacco pass incomplete short left intended for Vonta Leach,1.240,0.560
+3,5:21,3,15,BAL 48,27,21,Joe Flacco pass incomplete deep right intended for Torrey Smith (defended by Devin McCourty),0.560,-0.190
+3,5:15,4,15,BAL 48,27,21,"Sam Koch punts 41 yards, returned by Wes Welker for 7 yards (tackle by Chykie Brown). Penalty on Niko Koutouvides: Defensive Offside, 5 yards (no play)",-0.190,0.130
+3,5:04,4,10,NWE 47,27,21,"Sam Koch punts 47 yards, touchback",0.130,-0.280
+3,4:57,1,10,NWE 20,27,21,Tom Brady pass complete short right to Kellen Winslow Jr. for 12 yards (tackle by Jimmy Smith),0.280,1.070
+3,4:34,1,10,NWE 32,27,21,Stevan Ridley up the middle for -1 yards (tackle by Haloti Ngata),1.070,0.390
+3,4:07,2,11,NWE 31,27,21,Tom Brady pass complete short right to Brandon Lloyd for 10 yards (tackle by Ed Reed),0.390,1.030
+3,3:41,3,1,NWE 41,27,21,Stevan Ridley right tackle for 4 yards (tackle by Pernell McPhee and Ray Lewis),1.030,1.930
+3,2:59,1,10,NWE 45,27,21,Tom Brady pass complete short right to Brandon Lloyd for 10 yards (tackle by Jimmy Smith),1.930,2.590
+3,2:53,1,10,BAL 45,27,21,"Tom Brady pass incomplete short middle intended for Deion Branch. Penalty on Jimmy Smith: Defensive Holding, 5 yards (no play)",2.590,2.920
+3,2:46,1,10,BAL 40,27,21,Danny Woodhead right end for no gain (tackle by Courtney Upshaw),2.920,2.370
+3,2:08,2,10,BAL 40,27,21,Tom Brady pass complete short left to Wes Welker for 7 yards (tackle by Cary Williams),2.370,2.610
+3,1:28,3,3,BAL 33,27,21,"Tom Brady pass incomplete short left intended for Deion Branch. Penalty on Ed Reed: Unnecessary Roughness, 15 yards",2.610,4.370
+3,1:20,1,10,BAL 18,27,21,Stevan Ridley left tackle for 14 yards (tackle by Ed Reed and Jimmy Smith),4.370,6.280
+3,0:40,1,4,BAL 4,27,21,Stevan Ridley up the middle for -4 yards (tackle by Bernard Pollard),6.280,4.570
+Quarter,Time,Down,ToGo,Location,NWE,BAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,8,BAL 8,27,21,Danny Woodhead right guard for no gain (tackle by Lardarius Webb and Pernell McPhee),4.570,3.580
+4,14:19,3,8,BAL 8,27,21,Tom Brady pass complete short left to Wes Welker for 6 yards (tackle by Lardarius Webb),3.580,3.250
+4,14:19,4,2,BAL 2,30,21,Stephen Gostkowski 20 yard field goal good,3.250,3.000
+4,14:10,,,NWE 35,30,21,"Stephen Gostkowski kicks off 74 yards, touchback",0.000,0.280
+4,14:10,1,10,BAL 20,30,21,Joe Flacco pass complete short right to Dennis Pitta for 5 yards (tackle by Dont'a Hightower),0.280,0.410
+4,13:39,2,5,BAL 25,30,21,Ray Rice left guard for 9 yards (tackle by Trevor Scott),0.410,1.200
+4,13:13,1,10,BAL 34,30,21,Joe Flacco pass incomplete deep left intended for Torrey Smith (defended by Devin McCourty),1.200,0.660
+4,13:05,2,10,BAL 34,30,21,Joe Flacco pass complete deep left to Anquan Boldin for 24 yards (tackle by Kyle Arrington),0.660,2.790
+4,12:43,1,10,NWE 42,30,21,Ray Rice left guard for 1 yard (tackle by Vince Wilfork),2.790,2.380
+4,12:14,2,9,NWE 41,30,21,Ray Rice left guard for 6 yards (tackle by Dont'a Hightower),2.380,2.480
+4,11:43,3,3,NWE 35,30,21,Joe Flacco pass complete short middle to Ray Rice for 2 yards (tackle by Jerod Mayo),2.480,1.210
+4,10:56,4,1,NWE 33,30,21,Bernard Pierce left guard for -1 yards (tackle by Patrick Chung),1.210,-1.200
+4,10:50,1,10,NWE 34,30,21,Tom Brady pass complete short left to Brandon Lloyd for 13 yards (tackle by Cary Williams),1.200,2.060
+4,10:16,1,10,NWE 47,30,21,Brandon Bolden left end for 2 yards (tackle by Haloti Ngata),2.060,1.790
+4,9:36,2,8,NWE 49,30,21,Tom Brady pass complete short middle to Wes Welker for 11 yards (tackle by Bernard Pollard),1.790,2.920
+4,9:02,1,10,BAL 40,30,21,Danny Woodhead left end for -4 yards (tackle by Dannell Ellerbe),2.920,1.830
+4,8:28,2,14,BAL 44,30,21,Tom Brady pass complete short right to Deion Branch for no gain,1.830,1.160
+4,7:44,3,14,BAL 44,30,21,Tom Brady pass incomplete short right intended for Danny Woodhead,1.160,0.330
+4,7:44,4,14,BAL 44,30,21,"Zoltan Mesko punts 36 yards, fair catch by Lardarius Webb",0.330,0.380
+4,7:29,1,10,BAL 8,30,21,Joe Flacco pass complete short middle to Ray Rice for 12 yards (tackle by Jerod Mayo),-0.380,0.280
+4,6:55,1,10,BAL 20,30,21,"Joe Flacco pass incomplete deep right intended for Torrey Smith. Penalty on Marshall Yanda: Offensive Holding, 10 yards (no play)",0.280,-0.760
+4,6:50,1,20,BAL 10,30,21,Ray Rice left guard for 6 yards (tackle by Dont'a Hightower),-0.760,-0.940
+4,6:18,2,14,BAL 16,30,21,"Joe Flacco pass incomplete deep right intended for Torrey Smith. Penalty on Devin McCourty: Defensive Holding, 5 yards (no play)",-0.940,0.340
+4,6:11,1,10,BAL 21,30,21,Joe Flacco pass complete short middle to Jacoby Jones for 21 yards (tackle by Steve Gregory),0.340,1.730
+4,5:40,1,10,BAL 42,30,21,Joe Flacco pass complete short right to Torrey Smith for 16 yards,1.730,2.790
+4,5:20,1,10,NWE 42,30,21,Joe Flacco pass complete short left to Dennis Pitta for 5 yards (tackle by Sterling Moore),2.790,2.920
+4,4:48,2,5,NWE 37,30,21,Joe Flacco pass complete short right to Ray Rice for 27 yards (tackle by Kyle Arrington),2.920,4.910
+4,4:21,1,10,NWE 10,30,21,Joe Flacco pass incomplete short left intended for Dennis Pitta,4.910,4.190
+4,4:15,2,10,NWE 10,30,21,"Joe Flacco sacked by Chandler Jones and Kyle Love for -12 yards. Penalty on Brandon Spikes: Defensive Holding, 5 yards (no play)",4.190,6.060
+4,4:08,1,5,NWE 5,30,27,"Joe Flacco pass complete short right to Torrey Smith for 5 yards, touchdown",6.060,7.000
+4,4:08,,,NWE 2,30,28,Justin Tucker kicks extra point good,0.000,0.000
+4,4:01,,,BAL 35,30,28,"Justin Tucker kicks off 74 yards, touchback",0.000,0.280
+4,4:01,1,10,NWE 20,30,28,Tom Brady pass incomplete short right intended for Stevan Ridley,0.280,-0.270
+4,3:57,2,10,NWE 20,30,28,Tom Brady pass complete short right to Wes Welker for 11 yards (tackle by Bernard Pollard),-0.270,1.000
+4,3:15,1,10,NWE 31,30,28,Stevan Ridley left end for 1 yard (tackle by Ray Lewis and Courtney Upshaw),1.000,0.600
+4,2:32,2,9,NWE 32,30,28,Tom Brady pass incomplete short left intended for Brandon Lloyd,0.600,-0.100
+4,2:28,3,9,NWE 32,30,28,"Tom Brady pass incomplete short right intended for Wes Welker is intercepted by Lardarius Webb at NWE-40. Penalty on Lardarius Webb: Illegal Contact, 5 yards (no play)",-0.100,1.400
+4,2:23,1,10,NWE 37,30,28,"Stevan Ridley left guard for 3 yards (tackle by Albert McClellan). Penalty on BAL: Unsportsmanlike Conduct, 15 yards",1.400,2.590
+4,2:18,1,10,BAL 45,30,28,Stevan Ridley right tackle for 1 yard (tackle by Ray Lewis and Jameel McClain),2.590,0.000
+4,2:12,,,,30,28,Timeout #1 by Baltimore Ravens,0.000,0.000
+4,2:12,,,,30,28,Timeout #1 by New England Patriots,0.000,2.180
+4,2:12,2,9,BAL 44,30,28,Tom Brady sacked by Dannell Ellerbe and Haloti Ngata for -7 yards,2.180,0.000
+4,2:06,,,,30,28,Timeout #2 by Baltimore Ravens,0.000,0.560
+4,2:06,3,16,NWE 49,30,28,Tom Brady pass incomplete short right intended for Rob Gronkowski (defended by Bernard Pollard),0.560,-0.130
+4,2:01,4,16,NWE 49,30,28,"Zoltan Mesko punts 30 yards, muffed catch by Jacoby Jones, recovered by Jacoby Jones and returned for no gain",-0.130,-0.340
+4,1:55,1,10,BAL 21,30,28,Joe Flacco pass complete deep right to Jacoby Jones for 24 yards (tackle by Patrick Chung),0.340,1.930
+4,1:31,1,10,BAL 45,30,28,Joe Flacco pass complete short right to Dennis Pitta for 3 yards (tackle by Tavon Wilson),1.930,1.790
+4,1:26,2,7,BAL 48,30,28,Joe Flacco pass complete deep right to Dennis Pitta for 17 yards (tackle by Patrick Chung),1.790,3.250
+4,1:21,1,10,NWE 35,30,28,Ray Rice up the middle for 1 yard (tackle by Jermaine Cunningham and Rob Ninkovich),3.250,2.840
+4,0:55,2,9,NWE 34,30,28,Joe Flacco pass incomplete deep left intended for Anquan Boldin,2.840,2.150
+4,0:52,3,9,NWE 34,30,28,"Joe Flacco pass incomplete deep right intended for Jacoby Jones. Penalty on Devin McCourty: Defensive Pass Interference, 27 yards (no play)",2.150,5.600
+4,0:52,1,7,NWE 7,30,28,Joe Flacco kneels for -2 yards,5.600,0.000
+4,0:02,,,,30,28,Timeout #3 by Baltimore Ravens,0.000,0.000
+4,0:02,,,,30,28,Timeout #2 by New England Patriots,0.000,4.380
+4,0:02,2,9,NWE 9,30,31,Justin Tucker 27 yard field goal good,4.380,3.000
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

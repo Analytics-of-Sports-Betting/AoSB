@@ -1,0 +1,186 @@
+Quarter,Time,Down,ToGo,Location,ATL,DEN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Broncos won the coin toss and deferred, Falcons to receive the opening kickoff.",,
+1,15:00,,,DEN 35,0,0,"Brandon McManus kicks off 65 yards, touchback",0.000,-0.610
+1,15:00,1,10,ATL 25,0,0,Devonta Freeman left guard for 3 yards (tackle by Todd Davis and Jared Crick),0.610,0.470
+1,14:25,2,7,ATL 28,0,0,Matt Ryan pass incomplete short middle intended for Julio Jones (defended by Aqib Talib),0.470,-0.230
+1,14:20,3,7,ATL 28,0,0,Matt Ryan pass complete short right to Mohamed Sanu for 9 yards (tackle by Chris Harris). Penalty on Shane Ray: Defensive Offside (Declined),-0.230,1.400
+1,13:58,1,10,ATL 37,0,0,Matt Ryan pass complete short middle to Tevin Coleman for 48 yards (tackle by Darian Stewart),1.400,4.580
+1,13:16,1,10,DEN 15,0,0,Matt Ryan pass complete short left to Devonta Freeman for 14 yards (tackle by Darian Stewart and Brandon Marshall),4.580,6.970
+1,12:47,1,1,DEN 1,0,0,Devonta Freeman middle for -1 yards (tackle by Von Miller and Billy Winn),6.970,5.720
+1,12:05,2,2,DEN 2,0,0,Matt Ryan pass incomplete short right intended for Devonta Freeman,5.720,4.950
+1,12:00,3,2,DEN 2,0,0,Matt Ryan pass complete short left to Jacob Tamme for 1 yard (tackle by Todd Davis),4.950,3.550
+1,11:22,4,1,DEN 1,6,0,"Devonta Freeman left guard for 1 yard, touchdown",3.550,7.000
+1,11:22,,,DEN 1,7,0,Matt Bryant kicks extra point good,0.000,0.000
+1,11:22,,,ATL 35,7,0,"Matthew Bosher kicks off 65 yards, touchback",0.000,-0.610
+1,11:18,1,10,DEN 25,7,0,C.J. Anderson left guard for 1 yard (tackle by Brooks Reed),0.610,0.200
+1,10:45,2,9,DEN 26,7,0,C.J. Anderson left guard for 4 yards (tackle by Keanu Neal),0.200,0.040
+1,10:13,3,5,DEN 30,7,0,Paxton Lynch pass complete short right to Emmanuel Sanders for 14 yards (tackle by Desmond Trufant),0.040,1.860
+1,9:42,1,10,DEN 44,7,0,Devontae Booker right tackle for 4 yards (tackle by Grady Jarrett and Kemal Ishmael),1.860,1.860
+1,9:03,2,6,DEN 48,7,0,Paxton Lynch pass incomplete short right intended for Andy Janovich,1.860,1.160
+1,8:58,3,6,DEN 48,7,0,Paxton Lynch pass incomplete short right intended for Jordan Norwood,1.160,-0.190
+1,8:54,4,6,DEN 48,7,0,"Riley Dixon punts 39 yards, fair catch by Eric Weems. Penalty on Zaire Anderson: Face Mask (15 Yards), 15 yards",-0.190,-0.810
+1,8:46,1,10,ATL 28,7,0,Tevin Coleman right guard for 3 yards (tackle by Jared Crick),0.810,0.670
+1,8:12,2,7,ATL 31,7,0,Tevin Coleman right tackle for 8 yards (tackle by Brandon Marshall),0.670,1.530
+1,7:31,1,10,ATL 39,7,0,Matt Ryan pass complete short left to Patrick DiMarco for 13 yards (tackle by Todd Davis),1.530,2.390
+1,6:55,1,10,DEN 48,7,0,Devonta Freeman middle for 15 yards (tackle by Chris Harris and T.J. Ward),2.390,3.380
+1,6:17,1,10,DEN 33,7,0,Matt Ryan pass incomplete short right intended for Mohamed Sanu (defended by Aqib Talib),3.380,2.840
+1,6:12,2,10,DEN 33,7,0,Devonta Freeman middle for 2 yards (tackle by Shaquil Barrett),2.840,2.410
+1,5:30,3,8,DEN 31,7,0,"Matt Ryan pass complete short right to Julio Jones for 19 yards (tackle by Darian Stewart). Penalty on Julio Jones: Offensive Pass Interference, 10 yards (no play)",2.410,2.410
+1,5:10,3,8,DEN 31,7,0,Timeout #1 by Atlanta Falcons,2.410,1.090
+1,5:10,3,18,DEN 41,7,0,Matt Ryan pass complete short middle to Devonta Freeman for 13 yards (tackle by T.J. Ward),1.090,1.630
+1,4:28,4,5,DEN 28,10,0,Matt Bryant 46 yard field goal good,1.630,3.000
+1,4:28,,,ATL 35,10,0,"Matthew Bosher kicks off 65 yards, touchback",0.000,-0.610
+1,4:23,1,10,DEN 25,10,0,Paxton Lynch sacked by Vic Beasley for -5 yards,0.610,-0.610
+1,3:50,2,15,DEN 20,10,0,C.J. Anderson middle for 4 yards (tackle by Philip Wheeler and Brian Poole),-0.610,-0.760
+1,3:14,3,11,DEN 24,10,0,"Paxton Lynch right end for 12 yards (tackle by Philip Wheeler). Penalty on Michael Schofield: Illegal Use of Hands, 10 yards (no play)",-0.760,-2.550
+1,2:51,3,21,DEN 14,10,0,Paxton Lynch pass complete short middle to Demaryius Thomas for 14 yards (tackle by Philip Wheeler),-2.550,-1.500
+1,2:15,4,7,DEN 28,10,0,"Riley Dixon punts 42 yards, returned by Eric Weems for 7 yards (tackle by Shiloh Keo)",-1.500,-1.400
+1,2:04,1,10,ATL 37,10,0,"Tevin Coleman right tackle for 6 yards (tackle by Aqib Talib). Penalty on Ryan Schraeder: Offensive Holding, 10 yards (no play)",1.400,0.740
+1,1:42,1,20,ATL 27,10,0,Matt Ryan pass incomplete short middle intended for Mohamed Sanu,0.740,-0.490
+1,1:37,2,20,ATL 27,10,0,Matt Ryan sacked by Shane Ray and Derek Wolfe for -11 yards,-0.490,-3.240
+1,0:49,3,31,ATL 16,10,0,Matt Ryan pass incomplete short left intended for Tevin Coleman,-3.240,-2.390
+1,0:46,4,31,ATL 16,10,0,"Matthew Bosher punts 58 yards, returned by Jordan Norwood for 17 yards (tackle by Levine Toilolo)",-2.390,-1.800
+1,0:33,1,10,DEN 43,10,0,Paxton Lynch pass complete deep right to Emmanuel Sanders for 17 yards,1.800,2.920
+1,0:07,1,10,ATL 40,10,0,C.J. Anderson left guard for 6 yards (tackle by LaRoy Reynolds),2.920,3.180
+Quarter,Time,Down,ToGo,Location,ATL,DEN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,4,ATL 34,10,0,C.J. Anderson left tackle for 3 yards (tackle by Kemal Ishmael and Courtney Upshaw),3.180,2.870
+2,14:24,3,1,ATL 31,10,0,C.J. Anderson left guard for no gain (tackle by Grady Jarrett and Tyson Jackson),2.870,2.870
+2,13:46,3,1,ATL 31,10,0,Timeout #2 by Atlanta Falcons,2.870,1.410
+2,13:40,4,1,ATL 31,10,0,Andy Janovich middle for 2 yards (tackle by Kemal Ishmael and Keanu Neal),1.410,3.640
+2,13:06,1,10,ATL 29,10,0,Paxton Lynch right end for 3 yards (tackle by Brooks Reed),3.640,3.510
+2,12:32,2,7,ATL 26,10,0,"Paxton Lynch pass incomplete short right intended for Demaryius Thomas (defended by Robert Alford). Penalty on Robert Alford: Defensive Pass Interference, 8 yards (no play)",3.510,4.370
+2,12:27,1,10,ATL 18,10,0,Paxton Lynch pass incomplete short middle intended for Devontae Booker,4.370,3.800
+2,12:23,2,10,ATL 18,10,0,Devontae Booker right tackle for 1 yard (tackle by Kemal Ishmael),3.800,3.170
+2,11:48,3,9,ATL 17,10,0,Paxton Lynch pass incomplete deep right intended for Emmanuel Sanders,3.170,2.310
+2,11:43,4,9,ATL 17,10,3,Brandon McManus 35 yard field goal good,2.310,3.000
+2,11:43,,,DEN 35,10,3,"Brandon McManus kicks off 61 yards, returned by Eric Weems for 17 yards (tackle by Will Parks)",0.000,-0.340
+2,11:34,1,10,ATL 21,10,3,Matt Ryan pass incomplete deep left intended for Julio Jones,0.340,-0.200
+2,11:27,2,10,ATL 21,10,3,Matt Ryan pass incomplete short left intended for Aldrick Robinson (defended by Chris Harris),-0.200,-0.890
+2,11:22,3,10,ATL 21,10,3,Matt Ryan pass incomplete deep right intended for Julio Jones,-0.890,-1.960
+2,11:17,4,10,ATL 21,10,3,"Matthew Bosher punts 59 yards, fair catch by Jordan Norwood",-1.960,-0.280
+2,11:08,1,10,DEN 20,10,3,"Paxton Lynch sacked by Ben Garland for -8 yards. Penalty on Robert Alford: Illegal Use of Hands (Declined), Penalty on Tyson Jackson: Face Mask (15 Yards), 15 yards (no play)",0.280,1.270
+2,10:47,1,10,DEN 35,10,3,Devontae Booker left guard for 4 yards (tackle by LaRoy Reynolds),1.270,1.260
+2,10:08,2,6,DEN 39,10,3,Devontae Booker right guard for 5 yards (tackle by Adrian Clayborn),1.260,1.220
+2,9:27,3,1,DEN 44,10,3,C.J. Anderson middle for no gain (tackle by Dwight Freeney),1.220,-0.460
+2,8:55,4,1,DEN 44,10,3,"Riley Dixon punts 48 yards, fair catch by Eric Weems",-0.460,0.380
+2,8:48,1,10,ATL 8,10,3,Tevin Coleman left guard for 3 yards (tackle by Todd Davis and Derek Wolfe),-0.380,-0.560
+2,8:14,2,7,ATL 11,10,3,Tevin Coleman right end for 16 yards (tackle by Darian Stewart),-0.560,0.740
+2,7:48,1,10,ATL 27,10,3,Devonta Freeman middle for 2 yards (tackle by Brandon Marshall),0.740,0.470
+2,7:26,2,8,ATL 29,10,3,Matt Ryan pass complete short middle to Devonta Freeman for 8 yards (tackle by Shaquil Barrett),0.470,1.400
+2,6:59,1,10,ATL 37,10,3,Devonta Freeman left tackle for 7 yards (tackle by Chris Harris),1.400,1.800
+2,6:29,2,3,ATL 44,10,3,Devonta Freeman left guard for 4 yards (tackle by Shane Ray),1.800,2.130
+2,6:03,1,10,ATL 48,10,3,Devonta Freeman right guard for 4 yards (tackle by Darius Kilgo and Billy Winn),2.130,2.120
+2,5:39,2,6,DEN 48,10,3,Devonta Freeman middle for 1 yard (tackle by Von Miller),2.120,1.550
+2,4:56,3,5,DEN 47,10,3,"Matt Ryan pass incomplete short right intended for Devonta Freeman. Penalty on Corey Nelson: Defensive Pass Interference, 2 yards (no play)",1.550,2.590
+2,4:52,1,10,DEN 45,10,3,Devonta Freeman left guard for 9 yards (tackle by Todd Davis),2.590,3.260
+2,4:24,2,1,DEN 36,10,3,Matt Ryan pass incomplete short right intended for Levine Toilolo,3.260,2.540
+2,4:19,3,1,DEN 36,10,3,Tevin Coleman middle for no gain (tackle by Shane Ray),2.540,0.890
+,,,,,,,"ATL challenged the short of the line to gain ruling, and the play was upheld.",,
+2,3:32,4,1,DEN 36,10,3,Matt Ryan middle for 2 yards (tackle by Todd Davis),0.890,3.310
+2,2:54,1,10,DEN 34,10,3,Matt Ryan pass complete short right to Austin Hooper for 14 yards (tackle by Aqib Talib),3.310,4.240
+2,2:20,1,10,DEN 20,10,3,Matt Ryan pass incomplete deep left intended for Tevin Coleman,4.240,3.690
+2,2:14,2,10,DEN 20,10,3,Devonta Freeman left tackle for 1 yard (tackle by Shane Ray),3.690,3.100
+2,2:00,3,9,DEN 19,10,3,Matt Ryan pass complete short right to Tevin Coleman for 4 yards (tackle by Bradley Roby),3.100,2.490
+2,1:52,4,5,DEN 15,13,3,Matt Bryant 33 yard field goal good,2.490,3.000
+2,1:52,,,ATL 35,13,3,"Matthew Bosher kicks off 69 yards, returned by Cody Latimer for 20 yards (tackle by Eric Weems)",0.000,0.140
+2,1:43,1,10,DEN 16,13,3,Paxton Lynch pass incomplete short right intended for Emmanuel Sanders (defended by Desmond Trufant),-0.140,-0.660
+2,1:38,2,10,DEN 16,13,3,"Paxton Lynch sacked by Vic Beasley for -8 yards. Paxton Lynch fumbles (forced by Vic Beasley), recovered by Paxton Lynch at DEN-8",-0.660,-2.360
+2,0:55,3,18,DEN 8,13,3,C.J. Anderson middle for 7 yards (tackle by Kemal Ishmael and Philip Wheeler),-2.360,-2.360
+2,0:08,3,18,DEN 8,13,3,Timeout #1 by Denver Broncos,-2.360,-2.440
+2,0:08,4,11,DEN 15,13,3,Riley Dixon punts 62 yards,-2.440,-0.220
+Quarter,Time,Down,ToGo,Location,ATL,DEN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,ATL 35,13,3,"Matthew Bosher kicks off 68 yards, returned by Cody Latimer for 22 yards (tackle by Robenson Therezie)",0.000,0.150
+3,14:56,1,10,DEN 19,13,3,Paxton Lynch pass complete deep left to Emmanuel Sanders for 26 yards (tackle by Vic Beasley),0.150,1.930
+3,14:26,1,10,DEN 45,13,3,"Paxton Lynch pass incomplete short right intended for Emmanuel Sanders (defended by Philip Wheeler). Penalty on Emmanuel Sanders: Offensive Pass Interference, 10 yards (no play)",1.930,1.270
+3,14:21,1,20,DEN 35,13,3,Paxton Lynch pass complete short right to Emmanuel Sanders for 4 yards (tackle by Desmond Trufant and Brian Poole),1.270,0.570
+3,13:49,2,16,DEN 39,13,3,Paxton Lynch pass incomplete short right intended for John Phillips,0.570,-0.100
+3,13:45,3,16,DEN 39,13,3,Paxton Lynch pass complete short right to Bennie Fowler for 6 yards (tackle by Keanu Neal),-0.100,-0.390
+3,13:11,4,10,DEN 45,13,3,"Riley Dixon punts 55 yards, touchback",-0.390,-0.280
+3,13:02,1,10,ATL 20,13,3,Matt Ryan pass complete short middle to Julio Jones for 9 yards (tackle by Chris Harris),0.280,0.950
+3,12:30,2,1,ATL 29,13,3,Devonta Freeman right tackle for 6 yards (tackle by Von Miller and Aqib Talib),0.950,1.270
+3,12:06,1,10,ATL 35,13,3,Devonta Freeman left end for no gain (tackle by Shane Ray),1.270,0.720
+3,11:37,2,10,ATL 35,13,3,Matt Ryan middle for 2 yards (tackle by Shane Ray),0.720,0.300
+3,10:51,3,8,ATL 37,13,3,Matt Ryan sacked by Von Miller for -6 yards,0.300,-1.310
+3,10:15,4,14,ATL 31,13,3,Matthew Bosher punts 68 yards. Penalty on Lorenzo Doss: Offensive Holding,-1.310,0.380
+3,10:02,1,10,DEN 1,13,3,Paxton Lynch pass incomplete deep left intended for Demaryius Thomas is intercepted by Ricardo Allen at DEN-42,-0.380,-2.790
+3,9:54,1,10,DEN 42,13,3,Matt Ryan pass complete short left to Julio Jones for 20 yards (tackle by T.J. Ward),2.790,4.110
+3,9:07,1,10,DEN 22,13,3,"Matt Ryan pass complete short middle to Aldrick Robinson for 4 yards (tackle by Chris Harris). Penalty on Levine Toilolo: Offensive Pass Interference, 10 yards (no play)",4.110,3.450
+3,8:38,1,20,DEN 32,13,3,Tevin Coleman right guard for 1 yard (tackle by Todd Davis and Shaquil Barrett),3.450,2.350
+3,8:00,2,19,DEN 31,19,3,"Matt Ryan pass complete deep middle to Tevin Coleman for 31 yards, touchdown",2.350,7.000
+3,8:00,,,DEN 31,20,3,Matt Bryant kicks extra point good,0.000,0.000
+3,8:00,,,ATL 35,20,3,"Matthew Bosher kicks off 65 yards, touchback",0.000,-0.610
+3,7:53,1,10,DEN 25,20,3,"Paxton Lynch sacked by Vic Beasley for -10 yards. Paxton Lynch fumbles (forced by Vic Beasley), recovered by Devontae Booker at DEN-15",0.610,-1.430
+3,7:15,2,20,DEN 15,20,3,Paxton Lynch middle for 6 yards (tackle by Philip Wheeler),-1.430,-1.150
+3,6:33,3,14,DEN 21,20,3,Paxton Lynch pass complete short middle to Demaryius Thomas for 13 yards (tackle by Kemal Ishmael and Philip Wheeler),-1.150,-1.110
+3,5:51,4,1,DEN 34,20,3,Paxton Lynch middle for 3 yards (tackle by Vic Beasley),-1.110,1.400
+3,5:23,1,10,DEN 37,20,3,C.J. Anderson right tackle for 1 yard (tackle by Derrick Shelby),1.400,0.990
+3,4:47,2,9,DEN 38,20,3,"Paxton Lynch pass incomplete short middle intended for Demaryius Thomas (defended by Keanu Neal). Penalty on Ty Sambrailo: Offensive Holding, 10 yards (no play)",0.990,-0.360
+3,4:42,2,19,DEN 28,20,3,Paxton Lynch pass complete short left to Devontae Booker for 7 yards (tackle by Tyson Jackson),-0.360,-0.100
+3,3:59,3,12,DEN 35,20,3,Paxton Lynch middle for 1 yard (tackle by Vic Beasley),-0.100,-0.980
+3,3:16,4,11,DEN 36,20,3,"Riley Dixon punts 44 yards, fair catch by Eric Weems",-0.980,-0.280
+3,3:07,1,10,ATL 20,20,3,Devonta Freeman left end for 5 yards (tackle by Jared Crick),0.280,0.410
+3,2:32,2,5,ATL 25,20,3,Devonta Freeman middle for no gain (tackle by Jared Crick),0.410,-0.300
+3,1:51,3,5,ATL 25,20,3,Matt Ryan pass complete deep left to Mohamed Sanu for 22 yards (tackle by Bradley Roby),-0.300,2.060
+3,1:14,1,10,ATL 47,20,3,Devonta Freeman middle for 1 yard (tackle by T.J. Ward),2.060,1.650
+3,0:39,2,9,ATL 48,20,3,"Tevin Coleman left guard for 7 yards (tackle by Chris Harris). Penalty on Alex Mack: Offensive Holding, 10 yards (no play)",1.650,0.300
+3,0:13,2,19,ATL 38,20,3,Matt Ryan pass incomplete short middle intended for Julio Jones,0.300,-0.360
+3,0:07,3,19,ATL 38,20,3,"Matt Ryan pass complete short middle to Mohamed Sanu for 12 yards (tackle by T.J. Ward). Mohamed Sanu fumbles (forced by T.J. Ward), recovered by T.J. Ward (tackle by Andy Levitre)",-0.360,-2.260
+Quarter,Time,Down,ToGo,Location,ATL,DEN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,,20,3,Paxton Lynch pass complete short right to Demaryius Thomas for 7 yards (tackle by Keanu Neal and Kemal Ishmael),2.260,2.660
+4,14:35,2,3,ATL 43,20,3,Paxton Lynch pass complete short right to Bennie Fowler for 7 yards (tackle by Kemal Ishmael),2.660,3.180
+4,14:03,1,10,ATL 36,20,3,Paxton Lynch right guard for 3 yards (tackle by Courtney Upshaw),3.180,3.040
+4,13:27,2,7,ATL 33,20,3,C.J. Anderson left guard for 10 yards (tackle by Kemal Ishmael),3.040,4.040
+4,12:50,1,10,ATL 23,20,3,"Penalty on Michael Schofield: False Start, 5 yards (no play)",4.040,3.710
+4,12:34,1,15,ATL 28,20,3,Paxton Lynch sacked by Vic Beasley and Dwight Freeney for -6 yards,3.710,2.010
+4,11:52,2,21,ATL 34,20,3,Paxton Lynch pass complete short middle to C.J. Anderson for 6 yards (tackle by LaRoy Reynolds),2.010,2.150
+4,11:12,3,15,ATL 28,20,3,Paxton Lynch pass incomplete short middle intended for C.J. Anderson,2.150,1.590
+4,11:06,4,15,ATL 28,20,6,Brandon McManus 46 yard field goal good,1.590,3.000
+4,11:06,,,DEN 35,20,6,"Brandon McManus kicks off 65 yards, touchback",0.000,-0.610
+4,11:01,1,10,ATL 25,20,6,Matt Ryan pass complete deep right to Tevin Coleman for 49 yards (tackle by T.J. Ward),0.610,3.840
+4,10:29,1,10,DEN 26,20,6,Devonta Freeman right tackle for 11 yards (tackle by T.J. Ward),3.840,4.580
+4,9:50,1,10,DEN 15,20,6,Devonta Freeman right tackle for 4 yards (tackle by Zaire Anderson),4.580,4.640
+4,9:11,2,6,DEN 11,20,6,Devonta Freeman left tackle for 4 yards (tackle by Jared Crick and Corey Nelson),4.640,4.680
+4,8:26,3,2,DEN 7,20,6,Matt Ryan pass incomplete short left intended for Mohamed Sanu,4.680,3.000
+,,,,,,,"DEN challenged the pass completion ruling, and the original play was overturned.",,
+4,8:24,4,2,DEN 7,23,6,Matt Bryant 25 yard field goal good,3.000,3.000
+4,8:24,,,ATL 35,23,6,"Matthew Bosher kicks off 66 yards, returned by Cody Latimer for 23 yards (tackle by Brooks Reed)",0.000,-0.410
+4,8:15,1,10,DEN 22,23,6,Paxton Lynch pass incomplete deep right intended for Demaryius Thomas,0.410,-0.130
+4,8:08,2,10,DEN 22,23,6,Paxton Lynch pass complete short left to Jordan Norwood for 7 yards,-0.130,0.100
+4,7:44,3,3,DEN 29,23,6,Paxton Lynch middle for 2 yards (tackle by Vic Beasley),0.100,-1.310
+4,6:59,4,1,DEN 31,23,6,Devontae Booker middle for 1 yard (tackle by Philip Wheeler),-1.310,1.070
+4,6:30,1,10,DEN 32,23,6,Paxton Lynch pass incomplete short middle intended for Devontae Booker (defended by Kemal Ishmael),1.070,0.530
+4,6:24,2,10,DEN 32,23,6,Devontae Booker right tackle for 8 yards (tackle by Philip Wheeler and Jonathan Babineaux),0.530,0.890
+4,5:49,3,2,DEN 40,23,6,Paxton Lynch pass complete short right to Demaryius Thomas for 12 yards,0.890,2.390
+4,5:24,1,10,ATL 48,23,6,Paxton Lynch pass complete short middle to Devontae Booker for 9 yards (tackle by Robert Alford),2.390,3.060
+4,4:59,2,1,ATL 39,23,6,Paxton Lynch pass incomplete deep middle intended for Jeff Heuerman,3.060,2.340
+4,4:53,3,1,ATL 39,23,6,C.J. Anderson right guard for 5 yards (tackle by Desmond Trufant and LaRoy Reynolds),2.340,3.310
+4,4:25,1,10,ATL 34,23,6,Paxton Lynch pass complete short middle to Jordan Norwood for 17 yards (tackle by Ricardo Allen),3.310,4.440
+4,3:58,1,10,ATL 17,23,6,Paxton Lynch pass complete short right to Emmanuel Sanders for 5 yards,4.440,4.690
+4,3:54,2,5,ATL 12,23,6,Paxton Lynch pass complete short middle to C.J. Anderson for 6 yards (tackle by Ra'Shede Hageman),4.690,5.830
+4,3:27,1,6,ATL 6,23,6,Paxton Lynch sacked by Adrian Clayborn and Dwight Freeney for -6 yards,5.830,3.860
+4,2:53,2,12,ATL 12,23,6,Paxton Lynch pass complete short middle to C.J. Anderson for 9 yards (tackle by Kemal Ishmael and LaRoy Reynolds),3.860,3.860
+4,2:43,2,12,ATL 12,23,6,Timeout #1 by Denver Broncos,3.860,4.720
+4,2:43,3,3,ATL 3,23,12,"Paxton Lynch pass complete short right to Demaryius Thomas for 3 yards, touchdown",4.720,7.000
+4,2:43,,,ATL 3,23,13,Brandon McManus kicks extra point good,0.000,0.000
+4,2:43,,,DEN 35,23,13,"Brandon McManus kicks onside 25 yards, recovered by Corey Nelson (onside kick successful). Penalty on Dekoda Watson: Offside on Free Kick, 5 yards (no play)",0.000,0.000
+4,2:43,,,DEN 30,23,13,"Brandon McManus kicks onside 8 yards, recovered by Austin Hooper",0.000,-3.050
+4,2:36,1,10,DEN 38,23,13,Devonta Freeman middle for 6 yards (tackle by Derek Wolfe),3.050,3.050
+4,2:32,1,10,DEN 38,23,13,Timeout #2 by Denver Broncos,3.050,3.320
+4,2:32,2,4,DEN 32,23,13,Devonta Freeman left end for -4 yards (tackle by Shane Ray),3.320,3.320
+4,2:27,2,4,DEN 32,23,13,Timeout #3 by Denver Broncos,3.320,2.080
+4,2:27,3,8,DEN 36,23,13,Devonta Freeman left tackle for 7 yards (tackle by Chris Harris and T.J. Ward),2.080,1.620
+4,2:00,4,1,DEN 29,23,13,Matt Ryan pass incomplete short right intended for Devonta Freeman (defended by Von Miller),1.620,-0.870
+4,1:56,1,10,DEN 29,23,13,"Paxton Lynch pass complete short right to Emmanuel Sanders for 8 yards (tackle by Keanu Neal). Emmanuel Sanders fumbles (forced by Keanu Neal), recovered by Emmanuel Sanders at DEN-37",0.870,1.410
+4,1:31,2,2,DEN 37,23,13,Paxton Lynch pass complete short middle to Devontae Booker for 9 yards (tackle by Keanu Neal),1.410,1.990
+4,1:15,1,10,DEN 46,23,13,Paxton Lynch spiked the ball,1.990,1.450
+4,1:14,2,10,DEN 46,23,13,Paxton Lynch sacked by Grady Jarrett for -5 yards,1.450,0.100
+4,0:46,3,15,DEN 41,23,13,Paxton Lynch pass complete short middle to Devontae Booker for 11 yards (tackle by Keanu Neal),0.100,0.070
+4,0:25,4,4,ATL 48,23,13,"Paxton Lynch pass complete short left to Emmanuel Sanders for 6 yards (tackle by Robert Alford). Penalty on Robert Alford: Unnecessary Roughness, 15 yards",0.070,3.780
+4,0:19,1,10,ATL 27,23,16,Brandon McManus 45 yard field goal good,3.780,3.000
+4,0:19,,,DEN 35,23,16,"Brandon McManus kicks onside 9 yards, recovered by Levine Toilolo",0.000,-2.650
+4,0:13,1,10,DEN 44,23,16,Matt Ryan kneels for -1 yards,2.650,1.980
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

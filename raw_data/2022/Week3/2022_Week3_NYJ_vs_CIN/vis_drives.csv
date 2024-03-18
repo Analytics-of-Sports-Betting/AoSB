@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,CIN 25,11,5:25,75,Touchdown
+2,1,5:04,CIN 25,3,1:19,16,Fumble
+3,1,1:49,CIN 25,5,1:49,75,Touchdown
+4,2,10:13,CIN 25,7,2:25,71,Field Goal
+5,2,6:26,NYJ 25,4,0:58,0,Field Goal
+6,2,4:33,CIN 34,3,1:33,1,Punt
+7,2,0:52,CIN 12,3,0:22,-7,Punt
+8,3,14:08,NYJ 24,4,2:06,24,Touchdown
+9,3,10:16,CIN 41,11,6:03,39,Downs
+10,3,0:41,CIN 25,3,1:41,-5,Punt
+11,4,10:03,CIN 25,13,7:48,52,Missed FG
+12,4,0:55,CIN 4,2,0:55,-1,End of Game

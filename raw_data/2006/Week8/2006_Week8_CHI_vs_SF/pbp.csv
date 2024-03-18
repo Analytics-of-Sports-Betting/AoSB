@@ -1,0 +1,166 @@
+Quarter,Time,Down,ToGo,Location,SFO,CHI,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Bears won the coin toss, Bears to receive the opening kickoff.",,
+1,15:00,,,SFO 30,0,0,"Joe Nedney kicks off 57 yards, returned by Rashied Davis for 21 yards (tackle by T.J. Slaughter)",0.000,1.200
+1,14:55,1,10,CHI 34,0,0,Thomas Jones left guard for 9 yards (tackle by Derek Smith and Manny Lawson),1.200,1.870
+1,14:17,2,1,CHI 43,0,0,Rex Grossman pass complete short right to Thomas Jones for 7 yards (tackle by Manny Lawson),1.870,2.260
+1,13:57,1,10,CHI 50,0,0,Thomas Jones left guard for 9 yards (tackle by Jeff Ulbrich),2.260,2.930
+1,13:23,2,1,SFO 41,0,0,Rex Grossman pass complete short left to Bernard Berrian for 9 yards (tackle by Walt Harris),2.930,3.450
+1,13:01,1,10,SFO 32,0,0,Thomas Jones right guard for 7 yards (tackle by Walt Harris and Mike Adams),3.450,3.850
+1,12:22,2,3,SFO 25,0,0,Rex Grossman pass incomplete short right intended for Bernard Berrian,3.850,3.140
+1,12:14,3,3,SFO 25,0,0,Rex Grossman pass incomplete short left intended for Desmond Clark,3.140,1.900
+1,12:10,4,3,SFO 25,0,3,Robbie Gould 43 yard field goal good,1.900,3.000
+1,,,,CHI 30,0,3,"Robbie Gould kicks off 72 yards, returned by Maurice Hicks for 17 yards (tackle by Brendon Ayanbadejo). Maurice Hicks fumbles (forced by Brendon Ayanbadejo), recovered by Cameron Worrell at SFO-15",0.000,-4.580
+1,11:57,1,10,SFO 15,0,3,Thomas Jones left end for 8 yards (tackle by Mark Roman),4.580,5.410
+1,11:20,2,2,SFO 7,0,3,Thomas Jones right tackle for no gain (tackle by Bryant Young),5.410,4.680
+1,10:46,,,,0,3,Timeout #1 by San Francisco 49ers,0.000,4.680
+1,10:46,3,2,SFO 7,0,9,"Thomas Jones right tackle for 7 yards, touchdown",4.680,7.000
+1,,,,SFO 2,0,10,Robbie Gould kicks extra point good,0.000,0.000
+1,,,,CHI 30,0,10,"Robbie Gould kicks off 62 yards, returned by Maurice Hicks for 21 yards (tackle by Adrian Peterson)",0.000,0.870
+1,10:34,1,10,SFO 29,0,10,Frank Gore right tackle for 6 yards (tackle by Todd Johnson),0.870,1.140
+1,9:56,2,4,SFO 35,0,10,Arnaz Battle left end for -3 yards (tackle by Charles Tillman),1.140,0.040
+1,9:12,3,7,SFO 32,0,10,Alex Smith pass complete short right to Eric Johnson for 3 yards (tackle by Ricky Manning),0.040,-1.040
+1,8:34,4,4,SFO 35,0,10,"Andy Lee punts 39 yards, fair catch by Devin Hester",-1.040,-0.670
+1,8:27,1,10,CHI 26,0,10,Rex Grossman pass complete deep right to Muhsin Muhammad for 19 yards (tackle by Mike Adams). Penalty on Derek Smith: Illegal Contact (Declined),0.670,1.930
+1,8:05,1,10,CHI 45,0,10,Thomas Jones right guard for 6 yards (tackle by Marques Douglas),1.930,2.190
+1,7:31,2,4,SFO 49,0,10,Thomas Jones right tackle for -1 yards (tackle by Shawntae Spencer and Bryant Young),2.190,1.360
+1,6:52,3,5,CHI 50,0,10,Rex Grossman pass complete short left to Bernard Berrian for 3 yards (tackle by Keith Lewis),1.360,0.130
+1,6:16,4,2,SFO 47,0,10,"Brad Maynard punts 47 yards, touchback",0.130,-0.280
+1,6:07,1,10,SFO 20,0,10,Frank Gore left tackle for 18 yards (tackle by Tank Johnson),0.280,1.470
+1,5:32,1,10,SFO 38,0,10,Frank Gore right guard for 2 yards (tackle by Alex Brown),1.470,1.190
+1,4:51,2,8,SFO 40,0,10,Alex Smith pass incomplete is intercepted by Brian Urlacher at SFO-41,1.190,-2.850
+1,4:45,1,10,SFO 41,0,10,"Rex Grossman pass complete short left to Bernard Berrian for 13 yards (tackle by Walt Harris). Bernard Berrian fumbles (forced by Walt Harris), ball out of bounds at SFO-28",2.850,3.710
+1,4:30,1,10,SFO 28,0,10,Cedric Benson right tackle for 1 yard (tackle by Shawntae Spencer),3.710,3.300
+1,3:54,2,9,SFO 27,0,10,Rex Grossman pass complete deep left to Desmond Clark for 17 yards (tackle by Mike Adams),3.300,4.910
+1,3:27,1,10,SFO 10,0,10,Cedric Benson right tackle for 2 yards (tackle by Melvin Oliver),4.910,4.570
+1,2:47,2,8,SFO 8,0,10,Rex Grossman pass complete short right to Jason McKie for 3 yards (tackle by Jeff Ulbrich),4.570,4.260
+1,2:01,3,5,SFO 5,0,16,"Rex Grossman pass complete short middle to Muhsin Muhammad for 5 yards, touchdown",4.260,7.000
+1,,,,SFO 2,0,17,Robbie Gould kicks extra point good,0.000,0.000
+1,,,,CHI 30,0,17,"Robbie Gould kicks off 70 yards, touchback",0.000,0.280
+1,1:55,1,10,SFO 20,0,17,"Alex Smith for 3 yards (tackle by Lance Briggs). Alex Smith fumbles (forced by Lance Briggs), recovered by Tommie Harris at SFO-30 (tackle by Eric Heitmann)",0.280,-4.710
+1,1:42,1,10,SFO 13,0,17,Rex Grossman pass complete short middle to Desmond Clark for 12 yards (tackle by Jeff Ulbrich),4.710,6.970
+1,1:06,1,1,SFO 1,0,23,"Cedric Benson left guard for 1 yard, touchdown",6.970,7.000
+1,,,,SFO 2,0,24,Robbie Gould kicks extra point good,0.000,0.000
+1,,,,CHI 30,0,24,"Robbie Gould kicks off 66 yards, returned by Maurice Hicks for 23 yards (tackle by Brendon Ayanbadejo)",0.000,0.740
+1,0:54,1,10,SFO 27,0,24,Frank Gore right tackle for 1 yard (tackle by Lance Briggs),0.740,0.330
+1,0:17,2,9,SFO 28,0,24,Frank Gore right guard for 5 yards (tackle by Lance Briggs),0.330,0.300
+Quarter,Time,Down,ToGo,Location,SFO,CHI,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,4,SFO 33,0,24,Alex Smith sacked by Adewale Ogunleye for -6 yards,0.300,-1.570
+2,14:40,4,10,SFO 27,0,24,"Andy Lee punts 39 yards, returned by Devin Hester for 42 yards (tackle by Andy Lee)",-1.570,-3.970
+2,14:27,1,10,SFO 24,0,24,Thomas Jones left tackle for 4 yards (tackle by Derek Smith and Jeff Ulbrich),3.970,3.970
+2,13:48,2,6,SFO 20,0,24,Thomas Jones left guard for 4 yards (tackle by Bryant Young),3.970,3.950
+2,13:08,3,2,SFO 16,0,24,Rex Grossman pass complete short right to Desmond Clark for 12 yards (tackle by Walt Harris),3.950,6.280
+2,12:25,1,4,SFO 4,0,24,"Thomas Jones right end for 2 yards (tackle by Mark Roman). Penalty on John Gilmore: Offensive Holding, 9 yards (no play)",6.280,4.530
+2,12:00,1,13,SFO 13,0,24,Thomas Jones right guard for 6 yards (tackle by Keith Lewis),4.530,4.760
+2,11:25,2,7,SFO 7,0,24,Rex Grossman pass incomplete short middle intended for Desmond Clark (defended by Brandon Moore),4.760,3.810
+2,11:21,3,7,SFO 7,0,24,Rex Grossman pass complete short right to Muhsin Muhammad for 6 yards (tackle by Mark Roman),3.810,3.550
+2,10:37,4,1,SFO 1,0,30,"Rex Grossman pass complete short left to Desmond Clark for 1 yard, touchdown",3.550,7.000
+2,,,,SFO 2,0,31,Robbie Gould kicks extra point good,0.000,0.000
+2,,,,CHI 30,0,31,"Robbie Gould kicks off 70 yards, touchback",0.000,0.280
+2,10:33,1,10,SFO 20,0,31,"Alex Smith pass complete short right to Arnaz Battle for 11 yards (tackle by Charles Tillman). Penalty on Arnaz Battle: Offensive Pass Interfere, 10 yards (no play)",0.280,-0.760
+2,10:08,1,20,SFO 10,0,31,Frank Gore right guard for 1 yard (tackle by Lance Briggs),-0.760,-1.440
+2,9:24,2,19,SFO 11,0,31,Alex Smith pass complete short right to Antonio Bryant for 11 yards (tackle by Charles Tillman),-1.440,-0.690
+2,8:43,3,8,SFO 22,0,31,Alex Smith pass incomplete short right intended for Frank Gore,-0.690,-1.900
+2,8:39,4,8,SFO 22,0,31,Andy Lee punts 50 yards,-1.900,-0.810
+2,8:31,1,10,CHI 28,0,31,"Rex Grossman pass complete short right to Thomas Jones for 5 yards (tackle by Shawntae Spencer). Penalty on Derek Smith: Illegal Contact, 5 yards (no play)",0.810,1.140
+2,8:03,1,10,CHI 33,0,31,Thomas Jones right guard for 4 yards (tackle by Manny Lawson),1.140,1.130
+2,7:26,,,,0,31,Timeout #2 by San Francisco 49ers,0.000,1.130
+2,7:26,2,6,CHI 37,0,31,Rex Grossman pass complete deep middle to Muhsin Muhammad for 27 yards (tackle by Manny Lawson),1.130,3.180
+2,6:43,1,10,SFO 36,0,31,Thomas Jones right guard for 1 yard (tackle by Bryant Young),3.180,2.770
+2,6:02,2,9,SFO 35,0,31,Rex Grossman pass complete short right to Muhsin Muhammad for 8 yards (tackle by Shawntae Spencer),2.770,3.140
+2,5:26,3,1,SFO 27,0,31,Thomas Jones right tackle for 2 yards (tackle by Ronald Fields and Marques Douglas),3.140,3.910
+2,4:45,1,10,SFO 25,0,31,Rex Grossman pass complete short left to Bernard Berrian for 1 yard (tackle by Manny Lawson),3.910,3.500
+2,4:07,2,9,SFO 24,0,31,Rex Grossman pass complete short left to Thomas Jones for 6 yards (tackle by Melvin Oliver),3.500,3.660
+2,3:26,3,3,SFO 18,0,31,Rex Grossman pass incomplete short right intended for Muhsin Muhammad,3.660,2.350
+2,3:20,4,3,SFO 18,0,34,Robbie Gould 36 yard field goal good,2.350,3.000
+2,,,,CHI 30,0,34,"Robbie Gould kicks off 67 yards, returned by Maurice Hicks for 24 yards (tackle by Rod Wilson)",0.000,0.740
+2,3:09,1,10,SFO 27,0,34,Alex Smith pass complete deep middle to Eric Johnson for 25 yards (tackle by Danieal Manning and Hunter Hillenmeyer),0.740,2.390
+2,2:26,1,10,CHI 48,0,34,Alex Smith pass incomplete deep right intended for Bryan Gilmore,2.390,1.850
+2,2:21,2,10,CHI 48,0,34,Alex Smith pass complete short left to Antonio Bryant for 1 yard (tackle by Nathan Vasher),1.850,1.290
+2,2:00,3,9,CHI 47,0,34,Alex Smith pass complete short right to Arnaz Battle for 8 yards (tackle by Charles Tillman and Tommie Harris),1.290,0.660
+2,1:32,,,,0,34,Timeout #3 by San Francisco 49ers,0.000,0.660
+2,1:32,4,1,CHI 39,0,34,"Alex Smith pass complete deep left to Frank Gore for 24 yards (tackle by Danieal Manning). Penalty on Frank Gore: Illegal Touch Pass, 5 yards (no play)",0.660,0.330
+2,1:20,,,,0,34,Timeout #1 by Chicago Bears,0.000,0.330
+2,1:20,4,6,CHI 44,0,34,Alex Smith pass incomplete short middle intended for Antonio Bryant is intercepted by Ricky Manning at CHI-30,0.330,-0.940
+2,1:12,1,10,CHI 30,0,34,Cedric Benson right tackle for 11 yards (tackle by Keith Lewis),0.940,1.660
+2,1:06,1,10,CHI 41,0,34,Cedric Benson right end for 6 yards (tackle by Manny Lawson),1.660,1.930
+2,0:26,2,4,CHI 47,0,34,Rex Grossman pass complete to Jason McKie for 26 yards (tackle by Mark Roman),1.930,3.780
+2,0:16,1,10,SFO 27,0,40,"Rex Grossman pass complete deep right to Desmond Clark for 27 yards, touchdown",3.780,7.000
+2,,,,SFO 2,0,41,Robbie Gould kicks extra point good,0.000,0.000
+2,,,,CHI 30,0,41,"Robbie Gould kicks off 73 yards, returned by Maurice Hicks for 20 yards (tackle by Cameron Worrell)",0.000,-0.060
+2,0:05,1,10,SFO 17,0,41,Alex Smith kneels for -1 yards,-0.060,-0.730
+Quarter,Time,Down,ToGo,Location,SFO,CHI,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,CHI 30,0,41,"Robbie Gould kicks off 64 yards, returned by Maurice Hicks for 21 yards (tackle by Brendon Ayanbadejo)",0.000,0.740
+3,14:55,1,10,SFO 27,0,41,Frank Gore left tackle for no gain (tackle by Tank Johnson),0.740,0.200
+3,14:18,2,10,SFO 27,0,41,"Alex Smith pass complete short right to Frank Gore for 3 yards (tackle by Todd Johnson). Penalty on Adewale Ogunleye: Roughing the Passer, 15 yards",0.200,1.930
+3,13:54,1,10,SFO 45,0,41,Alex Smith pass complete to Eric Johnson for 12 yards (tackle by Lance Briggs). Penalty on Adewale Ogunleye: Defensive Holding (Declined),1.930,2.720
+3,13:27,1,10,CHI 43,0,41,Michael Robinson left tackle for -4 yards (tackle by Charles Tillman),2.720,1.640
+3,12:38,2,14,CHI 47,0,41,Alex Smith pass complete short left to Arnaz Battle for 8 yards (tackle by Lance Briggs),1.640,2.010
+3,11:49,3,6,CHI 39,0,41,Alex Smith pass complete short middle to Antonio Bryant for 16 yards (tackle by Charles Tillman),2.010,4.040
+3,10:55,1,10,CHI 23,0,41,Alex Smith pass incomplete deep right intended for Antonio Bryant,4.040,3.500
+3,10:52,2,10,CHI 23,0,41,Alex Smith pass incomplete short left intended for Bryan Gilmore,3.500,2.810
+3,10:47,3,10,CHI 23,0,41,"Alex Smith pass incomplete short left intended for Antonio Bryant. Penalty on Kwame Harris: Face Mask (15 Yards), 15 yards (no play)",2.810,0.830
+3,10:42,3,25,CHI 38,0,41,Alex Smith pass incomplete short middle intended for Frank Gore,0.830,0.720
+3,10:38,4,25,CHI 38,0,41,Andy Lee punts 28 yards,0.720,0.370
+3,10:28,1,10,CHI 11,0,41,Thomas Jones right end for 8 yards (tackle by Mark Roman),-0.370,0.170
+3,9:52,2,2,CHI 19,0,41,Thomas Jones right guard for 8 yards (tackle by Mike Adams),0.170,0.740
+3,9:15,1,10,CHI 27,0,41,"Rex Grossman pass incomplete deep right intended for John Gilmore. Penalty on Fred Miller: Illegal Use of Hands, 10 yards (no play)",0.740,-0.170
+3,9:10,1,20,CHI 17,0,41,Thomas Jones right guard for 5 yards (tackle by Ronald Fields and T.J. Slaughter),-0.170,-0.480
+3,8:35,2,15,CHI 22,0,41,Rex Grossman pass complete short right to Thomas Jones for 4 yards (tackle by Shawntae Spencer),-0.480,-0.620
+3,7:56,3,11,CHI 26,0,41,Rex Grossman pass complete short right to Desmond Clark for 17 yards (tackle by Chad Williams),-0.620,1.800
+3,7:11,1,10,CHI 43,0,41,Thomas Jones right end for 2 yards (tackle by Ronald Fields),1.800,1.520
+3,6:26,2,8,CHI 45,0,41,Rex Grossman pass complete short left to Thomas Jones for 6 yards (tackle by Jeff Ulbrich),1.520,1.620
+3,5:41,,,,0,41,Timeout #1 by San Francisco 49ers,0.000,1.620
+3,5:41,3,2,SFO 49,0,41,Rex Grossman pass complete short left to Jason McKie for 8 yards (tackle by Mike Adams),1.620,2.850
+3,5:10,1,10,SFO 41,0,41,Thomas Jones right tackle for no gain (tackle by Ronald Fields and Derek Smith),2.850,2.310
+3,4:37,2,10,SFO 41,0,41,Rex Grossman pass complete short left to Bernard Berrian for 15 yards (tackle by Mike Adams),2.310,3.840
+3,3:58,1,10,SFO 26,0,41,Thomas Jones left tackle for 4 yards (tackle by Marques Douglas),3.840,3.840
+3,3:16,2,6,SFO 22,0,41,"Rex Grossman pass incomplete short middle intended for Desmond Clark. Penalty on Shawntae Spencer: Defensive Pass Interfere, 3 yards (no play)",3.840,4.310
+3,3:12,1,10,SFO 19,0,41,Thomas Jones left end for 12 yards (tackle by Derek Smith),4.310,5.600
+3,2:28,1,7,SFO 7,0,41,Thomas Jones left tackle for 5 yards (tackle by Mike Adams and Mark Roman),5.600,5.720
+3,1:44,,,,0,41,Timeout #1 by Chicago Bears,0.000,5.720
+3,1:44,2,2,SFO 2,0,41,"Rex Grossman pass incomplete. Rex Grossman fumbles, recovered by Rex Grossman at SFO-7",5.720,4.950
+3,1:38,3,2,SFO 2,0,41,Rex Grossman pass incomplete short right intended for Gabe Reid (defended by Walt Harris),4.950,3.250
+3,1:33,4,2,SFO 2,0,41,Thomas Jones left guard for 1 yard (tackle by Manny Lawson),3.250,0.380
+3,1:28,1,10,SFO 1,0,41,Frank Gore left guard for 4 yards (tackle by Charles Tillman),-0.380,-0.490
+3,0:47,2,6,SFO 5,0,41,"Alex Smith pass incomplete short left intended for Antonio Bryant (defended by Nathan Vasher). Penalty on Alex Brown: Defensive Offside, 5 yards (no play)",-0.490,-0.120
+3,0:43,2,1,SFO 10,0,41,Frank Gore right guard for no gain (tackle by Brian Urlacher),-0.120,-0.370
+Quarter,Time,Down,ToGo,Location,SFO,CHI,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,1,SFO 10,0,41,Alex Smith right end for 9 yards (tackle by Charles Tillman),-0.370,0.150
+4,14:38,1,10,SFO 19,0,41,Alex Smith pass complete deep left to Arnaz Battle for 19 yards (tackle by Charles Tillman),0.150,1.470
+4,14:08,1,10,SFO 38,0,41,Frank Gore left end for 53 yards (tackle by Danieal Manning),1.470,5.140
+4,13:15,1,9,CHI 9,0,41,Alex Smith pass complete short right to Michael Robinson for 4 yards (tackle by Todd Johnson),5.140,5.150
+4,12:29,2,5,CHI 5,0,41,Frank Gore left guard for no gain (tackle by Hunter Hillenmeyer and Alex Brown),5.150,4.260
+4,11:46,3,5,CHI 5,0,41,Alex Smith pass incomplete short right intended for Arnaz Battle (defended by Nathan Vasher). Penalty on Michael Robinson: Offensive Holding (Declined),4.260,3.010
+4,11:40,4,5,CHI 5,3,41,Joe Nedney 23 yard field goal good,3.010,3.000
+4,,,,SFO 30,3,41,"Joe Nedney kicks off 62 yards, returned by Rashied Davis for 24 yards (tackle by T.J. Slaughter)",0.000,1.070
+4,11:25,1,10,CHI 32,3,41,Brian Griese pass incomplete short left intended for Gabe Reid,1.070,0.530
+4,11:22,2,10,CHI 32,3,41,Cedric Benson right tackle for 3 yards (tackle by Derek Smith),0.530,0.230
+4,10:46,3,7,CHI 35,3,41,Brian Griese sacked by Anthony Adams and Brandon Moore for -6 yards,0.230,-1.440
+4,10:13,4,13,CHI 29,3,41,"Brad Maynard punts 55 yards, returned by Brandon Williams for 21 yards (tackle by Adrian Peterson)",-1.440,-1.400
+4,9:57,1,10,SFO 37,3,41,Alex Smith right end for 3 yards (tackle by Israel Idonije),1.400,1.260
+4,9:13,2,7,SFO 40,3,41,Alex Smith pass incomplete deep right intended for Bryan Gilmore,1.260,0.560
+4,9:04,3,7,SFO 40,3,41,Alex Smith for 9 yards,0.560,2.190
+4,8:34,1,10,SFO 49,3,41,Frank Gore right tackle for 21 yards (tackle by Danieal Manning),2.190,3.580
+4,7:50,1,10,CHI 30,3,41,Alex Smith pass incomplete deep right intended for Antonio Bryant,3.580,3.030
+4,7:44,2,10,CHI 30,3,41,"Alex Smith pass complete short left to Frank Gore for 6 yards (tackle by Todd Johnson). Frank Gore fumbles (forced by Todd Johnson), recovered by Justin Smiley at CHI-16",3.030,4.510
+4,6:54,1,10,CHI 16,9,41,"Alex Smith pass complete deep right to Antonio Bryant for 16 yards, touchdown",4.510,7.000
+4,,,,CHI 2,10,41,Joe Nedney kicks extra point good,0.000,0.000
+4,,,,SFO 30,10,41,"Joe Nedney kicks off 67 yards, returned by Rashied Davis for 28 yards (tackle by Mike Adams)",0.000,1.000
+4,6:41,1,10,CHI 31,10,41,Cedric Benson right end for no gain (tackle by Anthony Adams),1.000,0.460
+4,6:04,2,10,CHI 31,10,41,Brian Griese pass complete short left to Cedric Benson for 3 yards (tackle by Walt Harris),0.460,0.170
+4,5:20,3,7,CHI 34,10,41,Adrian Peterson left end for 10 yards (tackle by Chad Williams),0.170,1.860
+4,4:33,1,10,CHI 44,10,41,Cedric Benson left guard for 2 yards (tackle by Anthony Adams),1.860,1.590
+4,3:49,2,8,CHI 46,10,41,Jason McKie right guard for no gain (tackle by Anthony Adams),1.590,0.890
+4,3:05,3,8,CHI 46,10,41,"Brian Griese pass complete short right to Rashied Davis for 21 yards (tackle by Mark Roman). Penalty on Gabe Reid: Offensive Pass Interfere, 10 yards (no play)",0.890,-0.430
+4,2:55,3,18,CHI 36,10,41,Brian Griese pass complete short left to Adrian Peterson for 8 yards (tackle by Parys Haralson),-0.430,-0.460
+4,2:08,4,10,CHI 44,10,41,"Brad Maynard punts 52 yards, returned by Brandon Williams for 10 yards (tackle by Brendon Ayanbadejo)",-0.460,0.280
+4,1:59,1,10,SFO 14,10,41,Alex Smith pass complete short right to Michael Robinson for 3 yards (tackle by Leon Joe and Israel Idonije),-0.280,-0.370
+4,1:32,2,7,SFO 17,10,41,Alex Smith pass incomplete short middle intended for Michael Robinson,-0.370,-1.040
+4,1:27,3,7,SFO 17,10,41,"Alex Smith sacked by Mark Anderson for -8 yards. Alex Smith fumbles (forced by Mark Anderson), recovered by Israel Idonije at SFO-9 (tackle by Justin Smiley)",-1.040,-5.140
+4,1:22,1,9,SFO 9,10,41,Brian Griese kneels for -1 yards,5.140,4.190
+4,0:39,2,10,SFO 10,10,41,Brian Griese kneels for -1 yards,4.190,3.120
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

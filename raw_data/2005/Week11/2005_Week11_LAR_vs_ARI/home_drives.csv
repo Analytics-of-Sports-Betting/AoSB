@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,STL 25,6,3:53,27,Punt
+2,1,8:54,ARI 34,4,1:19,5,Field Goal
+3,1,1:22,STL 20,6,2:15,80,Touchdown
+4,2,8:53,STL 20,12,7:03,55,Fumble
+5,2,0:26,STL 40,3,0:26,19,End of Half
+6,3,11:09,STL 28,6,3:31,72,Touchdown
+7,3,4:52,STL 30,3,1:38,7,Punt
+8,3,0:37,STL 11,3,1:27,6,Punt
+9,4,8:11,STL 31,10,4:36,55,Field Goal
+10,4,3:11,STL 28,1,0:13,-9,Fumble
+11,4,1:54,STL 40,4,1:19,60,Touchdown
+12,4,0:35,STL 48,4,0:35,11,End of Game

@@ -1,0 +1,198 @@
+Quarter,Time,Down,ToGo,Location,SFO,CHI,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Bears won the coin toss and deferred, 49ers to receive the opening kickoff.",,
+1,15:00,,,CHI 35,0,0,"Robbie Gould kicks off 65 yards, touchback",0.000,-0.280
+1,15:00,1,10,SFO 20,0,0,Shaun Draughn right guard for no gain (tackle by Mitch Unrein),0.280,-0.270
+1,14:31,2,10,SFO 20,0,0,Blaine Gabbert pass incomplete short left intended for Anquan Boldin (defended by Kyle Fuller),-0.270,-0.960
+1,14:26,3,10,SFO 20,0,0,Blaine Gabbert pass complete short left to Shaun Draughn for -3 yards (tackle by Jonathan Anderson),-0.960,-2.320
+1,14:00,4,13,SFO 17,0,0,"Bradley Pinion punts 48 yards, returned by Bryce Callahan for 65 yards. Penalty on LaRoy Reynolds: Offensive Holding, 10 yards",-2.320,-2.850
+1,13:42,1,10,SFO 41,0,0,Matt Forte left guard for 2 yards (tackle by Quinton Dial),2.850,2.580
+1,13:00,2,8,SFO 39,0,0,Jay Cutler pass complete short left to Martellus Bennett for 7 yards (tackle by NaVorro Bowman),2.580,2.810
+1,12:31,3,1,SFO 32,0,0,Matt Forte left guard for 2 yards (tackle by NaVorro Bowman),2.810,3.580
+1,11:51,1,10,SFO 30,0,0,Jay Cutler pass incomplete deep right intended for Josh Bellamy (defended by Tramaine Brock),3.580,3.030
+1,11:44,2,10,SFO 30,0,0,Matt Forte right guard for 7 yards (tackle by Ahmad Brooks),3.030,3.270
+1,11:02,3,3,SFO 23,0,0,Jay Cutler pass complete short right to Martellus Bennett for 1 yard (tackle by Jimmie Ward),3.270,2.120
+1,10:22,4,2,SFO 22,0,3,Robbie Gould 40 yard field goal good,2.120,3.000
+1,10:22,,,CHI 35,0,3,"Robbie Gould kicks off 55 yards, returned by Quinton Patton for 23 yards (tackle by Chris Prosinski). Penalty on Tony Jerod-Eddie: Offensive Holding, 10 yards",0.000,-0.040
+1,10:09,1,10,SFO 18,0,3,Shaun Draughn left end for 4 yards (tackle by Jarvis Jenkins),0.040,0.140
+1,9:41,2,6,SFO 22,0,3,Blaine Gabbert pass incomplete short right intended for Anquan Boldin,0.140,-0.660
+1,9:38,3,6,SFO 22,0,3,Blaine Gabbert sacked by Jarvis Jenkins and Willie Young for -6 yards,-0.660,-2.390
+1,9:02,4,12,SFO 16,0,3,"Bradley Pinion punts 46 yards, returned by Marc Mariani for 9 yards (tackle by Nick Bellore)",-2.390,-2.060
+1,8:51,1,10,CHI 47,0,3,Jeremy Langford left guard for 6 yards (tackle by Aaron Lynch),2.060,2.330
+1,8:21,2,4,SFO 47,0,3,Jeremy Langford left guard for 6 yards (tackle by NaVorro Bowman),2.330,2.850
+1,7:38,1,10,SFO 41,0,3,Jeremy Langford left guard for 2 yards (tackle by Ian Williams),2.850,2.580
+1,6:56,2,8,SFO 39,0,3,Jay Cutler pass complete short middle to Zach Miller for 6 yards (tackle by NaVorro Bowman),2.580,2.680
+1,6:08,3,2,SFO 33,0,3,Jay Cutler pass incomplete short right intended for Jeremy Langford,2.680,1.200
+1,6:04,4,2,SFO 33,0,6,Robbie Gould 51 yard field goal good,1.200,3.000
+1,6:04,,,CHI 35,0,6,"Robbie Gould kicks off 69 yards, returned by Bruce Ellington for 21 yards (tackle by Christian Jones)",0.000,0.060
+1,5:54,1,10,SFO 17,0,6,Shaun Draughn right end for no gain (tackle by Will Sutton),-0.060,-0.580
+1,5:31,2,10,SFO 17,0,6,Blaine Gabbert pass complete short middle to Shaun Draughn for 4 yards (tackle by Shea McClellin),-0.580,-0.750
+1,4:54,3,6,SFO 21,0,6,"Shaun Draughn right tackle for 8 yards (tackle by Chris Prosinski). Penalty on Erik Pears: Offensive Holding, 10 yards (no play)",-0.750,-2.120
+1,4:31,3,16,SFO 11,0,6,Blaine Gabbert pass complete short right to Vance McDonald for 6 yards (tackle by Bryce Callahan),-2.120,-2.320
+1,3:56,4,10,SFO 17,0,6,"Bradley Pinion punts 62 yards, returned by Marc Mariani for 12 yards (tackle by Nick Bellore)",-2.320,-1.140
+1,3:43,1,10,CHI 33,0,6,Matt Forte left tackle for 1 yard (tackle by Jaquiski Tartt),1.140,0.730
+1,2:58,2,9,CHI 34,6,6,"Jay Cutler pass incomplete short right intended for Alshon Jeffery is intercepted by Jimmie Ward at CHI-29 and returned for 29 yards, touchdown",0.730,-7.000
+1,2:49,,,CHI 34,6,6,"Phil Dawson kicks extra point no good, blocked by Eddie Goldman",0.000,-1.000
+1,2:49,,,SFO 35,6,6,"Bradley Pinion kicks off 65 yards, touchback",0.000,-0.280
+1,2:49,1,10,CHI 20,6,6,Matt Forte left tackle for -2 yards (tackle by Gerald Hodges),0.280,-0.630
+1,2:14,2,12,CHI 18,6,6,Jay Cutler pass complete deep middle to Alshon Jeffery for 31 yards (tackle by Kenneth Acker),-0.630,2.190
+1,1:32,1,10,CHI 49,6,6,Matt Forte left tackle for 8 yards (tackle by NaVorro Bowman),2.190,2.730
+1,0:59,2,2,SFO 43,6,6,Matt Forte left guard for 7 yards (tackle by NaVorro Bowman),2.730,3.180
+1,0:23,1,10,SFO 36,6,6,Matt Forte right guard for 3 yards (tackle by Quinton Dial),3.180,3.040
+Quarter,Time,Down,ToGo,Location,SFO,CHI,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,7,SFO 33,6,6,Jay Cutler pass complete short right to Matt Forte for 14 yards (tackle by Tramaine Brock),3.040,4.310
+2,14:11,1,10,SFO 19,6,6,Matt Forte left guard for 14 yards (tackle by Eric Reid),4.310,6.060
+2,13:42,1,5,SFO 5,6,12,"Matt Forte left guard for 5 yards, touchdown",6.060,7.000
+2,13:42,,,SFO 5,6,13,Robbie Gould kicks extra point good,0.000,0.000
+2,13:42,,,CHI 35,6,13,"Robbie Gould kicks off 65 yards, returned by Bruce Ellington for 19 yards (tackle by Harold Jones-Quartey)",0.000,-0.150
+2,13:32,1,10,SFO 19,6,13,Blaine Gabbert pass complete short right to Anquan Boldin for 4 yards (tackle by Bryce Callahan),0.150,0.210
+2,13:00,2,6,SFO 23,6,13,Blaine Gabbert left end for 8 yards (tackle by Bryce Callahan),0.210,1.000
+2,12:32,1,10,SFO 31,6,13,Blaine Gabbert right end for 1 yard (tackle by Shea McClellin),1.000,0.600
+2,12:01,2,9,SFO 32,6,13,Blaine Gabbert pass complete short left to Anquan Boldin for 8 yards (tackle by Kyle Fuller),0.600,0.960
+2,11:22,3,1,SFO 40,6,13,Bruce Miller left guard for 4 yards (tackle by Shea McClellin),0.960,1.860
+2,10:51,1,10,SFO 44,6,13,Blaine Gabbert pass incomplete deep left intended for Vance McDonald,1.860,1.320
+2,10:46,2,10,SFO 44,6,13,Shaun Draughn right guard for 1 yard (tackle by Willie Young),1.320,0.760
+2,10:10,3,9,SFO 45,6,13,Blaine Gabbert pass complete short middle to Vance McDonald for 12 yards (tackle by Adrian Amos),0.760,2.720
+2,9:44,1,10,CHI 43,6,13,Blaine Gabbert pass complete short right to Travaris Cadet for 6 yards (tackle by Shea McClellin),2.720,2.990
+2,9:10,2,4,CHI 37,6,13,Shaun Draughn left guard for 4 yards (tackle by Will Sutton),2.990,3.380
+2,8:34,1,10,CHI 33,6,13,Shaun Draughn left tackle for 7 yards (tackle by Chris Prosinski),3.380,3.780
+2,8:13,2,3,CHI 26,6,13,Blaine Gabbert pass complete short right to Shaun Draughn for 11 yards (tackle by Shea McClellin),3.780,4.580
+2,7:59,1,10,CHI 15,6,13,Travaris Cadet left guard for 3 yards (tackle by Lamarr Houston),4.580,4.450
+2,7:38,2,7,CHI 12,6,13,Blaine Gabbert pass incomplete short right intended for Blake Bell (defended by Pernell McPhee),4.450,3.580
+2,7:36,3,7,CHI 12,6,13,Blaine Gabbert pass complete short right to Anquan Boldin for 11 yards (tackle by Tracy Porter),3.580,6.970
+2,6:56,1,1,CHI 1,12,13,"Shaun Draughn right guard for 1 yard, touchdown",6.970,7.000
+2,6:56,,,CHI 1,13,13,Phil Dawson kicks extra point good,0.000,0.000
+2,6:56,,,SFO 35,13,13,"Bradley Pinion kicks off 65 yards, returned by Deonte Thompson for 18 yards (tackle by Dontae Johnson). Penalty on Ray-Ray Armstrong: Unnecessary Roughness, 15 yards",0.000,-1.140
+2,6:46,1,10,CHI 33,13,13,Ka'Deem Carey left tackle for 2 yards (tackle by Gerald Hodges),1.140,0.860
+2,6:03,2,8,CHI 35,13,13,"Jay Cutler pass incomplete deep right intended for Zach Miller. Penalty on Ka'Deem Carey: Offensive Holding, 10 yards (no play)",0.860,-0.490
+2,5:57,2,18,CHI 25,13,13,Jay Cutler pass complete short left to Jeremy Langford for 2 yards (tackle by Quinton Dial),-0.490,-0.890
+2,5:25,3,16,CHI 27,13,13,Jay Cutler pass incomplete deep left intended for Alshon Jeffery (defended by Kenneth Acker),-0.890,-1.570
+2,5:17,4,16,CHI 27,13,13,"Pat O'Donnell punts 43 yards, returned by Bruce Ellington for -1 yards (tackle by Sherrick McManis)",-1.570,-0.870
+2,5:08,1,10,SFO 29,13,13,Blaine Gabbert pass complete short right to Torrey Smith for 5 yards (tackle by Mitch Unrein),0.870,1.000
+2,4:31,2,5,SFO 34,13,13,Blaine Gabbert pass incomplete short right intended for Anquan Boldin,1.000,0.300
+2,4:27,3,5,SFO 34,13,13,Blaine Gabbert pass complete short middle to Shaun Draughn for 26 yards (tackle by Tracy Porter),0.300,2.920
+2,3:54,1,10,CHI 40,13,13,Travaris Cadet left guard for 2 yards (tackle by Will Sutton),2.920,2.640
+2,3:33,2,8,CHI 38,13,13,Blaine Gabbert pass incomplete short middle intended for Travaris Cadet (defended by Shea McClellin),2.640,1.950
+2,3:27,3,8,CHI 38,13,13,Blaine Gabbert pass incomplete short left intended for Shaun Draughn,1.950,0.720
+2,3:22,4,8,CHI 38,13,13,"Bradley Pinion punts 38 yards, touchback",0.720,-0.280
+,,,,,,,"SFO challenged the touchback ruling, and the play was upheld.",,
+2,3:07,1,10,CHI 20,13,13,Matt Forte right end for 2 yards (tackle by Nick Bellore),0.280,0.280
+2,3:01,1,10,CHI 20,13,13,Timeout #2 by San Francisco 49ers,0.280,0.000
+2,3:01,2,8,CHI 22,13,13,Jay Cutler pass incomplete short left intended for Josh Bellamy,0.000,-0.690
+2,2:56,3,8,CHI 22,13,13,"Penalty on Ahmad Brooks: Neutral Zone Infraction, 5 yards (no play)",-0.690,-0.030
+2,2:56,3,3,CHI 27,13,13,Jay Cutler pass complete short right to Matt Forte for 8 yards (tackle by Dontae Johnson),-0.030,1.270
+2,2:35,1,10,CHI 35,13,13,Jay Cutler pass complete short left to Alshon Jeffery for 14 yards,1.270,2.190
+2,2:13,1,10,CHI 49,13,13,Jay Cutler pass incomplete deep left intended for Alshon Jeffery,2.190,1.650
+2,2:07,2,10,CHI 49,13,13,Matt Forte right end for 4 yards (tackle by Jaquiski Tartt),1.650,1.650
+2,2:00,2,10,CHI 49,13,13,Timeout #1 by Chicago Bears,1.650,1.490
+2,2:00,3,6,SFO 47,13,13,Jay Cutler pass incomplete short right intended for Alshon Jeffery (defended by Tramaine Brock),1.490,0.130
+2,1:56,4,6,SFO 47,13,13,Pat O'Donnell punts 41 yards,0.130,0.380
+2,1:44,1,10,SFO 6,13,13,Shaun Draughn left guard for 6 yards (tackle by Bryce Callahan),-0.380,-0.340
+2,1:00,2,4,SFO 12,13,13,Shaun Draughn right guard for 1 yard (tackle by Christian Jones),-0.340,-0.340
+2,0:52,2,4,SFO 12,13,13,Timeout #2 by Chicago Bears,-0.340,-0.600
+2,0:52,3,3,SFO 13,13,13,Shaun Draughn left guard for 4 yards (tackle by Will Sutton),-0.600,-0.060
+2,0:13,1,10,SFO 17,13,13,Shaun Draughn right guard for no gain (tackle by Pernell McPhee),-0.060,-0.580
+Quarter,Time,Down,ToGo,Location,SFO,CHI,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,SFO 35,13,13,"Bradley Pinion kicks off 65 yards, touchback",0.000,-0.280
+3,15:00,1,10,CHI 20,13,13,Jay Cutler pass complete short middle to Matt Forte for 5 yards (tackle by Gerald Hodges),0.280,0.410
+3,14:32,2,5,CHI 25,13,13,Matt Forte left guard for 4 yards (tackle by Quinton Dial),0.410,0.230
+3,14:07,3,1,CHI 29,13,13,Jay Cutler right guard for 2 yards (tackle by NaVorro Bowman),0.230,1.000
+3,13:39,1,10,CHI 31,13,13,"Jay Cutler pass complete short left to Martellus Bennett for 6 yards. Martellus Bennett fumbles, recovered by Marc Mariani at CHI-41 and returned for 7 yards. Penalty on Josh Bellamy: Offensive Holding, 10 yards",1.000,0.740
+3,13:06,1,14,CHI 27,13,13,Jay Cutler left end for 9 yards (tackle by NaVorro Bowman),0.740,1.140
+3,12:44,2,5,CHI 36,13,13,Matt Forte left guard for 4 yards (tackle by Ian Williams),1.140,0.960
+3,12:09,3,1,CHI 40,13,13,Matt Forte left guard for 3 yards (tackle by Quinton Dial),0.960,1.800
+3,11:22,1,10,CHI 43,13,13,Jay Cutler pass incomplete short right intended for Alshon Jeffery,1.800,1.250
+3,11:17,2,10,CHI 43,13,13,Jeremy Langford right guard for 14 yards (tackle by Jaquiski Tartt),1.250,2.720
+3,10:51,1,10,SFO 43,13,13,Jeremy Langford right guard for 9 yards (tackle by Aaron Lynch),2.720,3.390
+3,10:31,2,1,SFO 34,13,13,Jeremy Langford left guard for 4 yards (tackle by NaVorro Bowman),3.390,3.580
+3,10:09,1,10,SFO 30,13,13,Jeremy Langford left guard for 5 yards (tackle by Gerald Hodges),3.580,3.710
+3,9:39,2,5,SFO 25,13,13,Matt Forte right guard for 1 yard (tackle by Quinton Dial),3.710,3.140
+3,9:18,3,4,SFO 24,13,13,Matt Forte right guard for 2 yards (tackle by Aaron Lynch),3.140,2.120
+3,8:48,4,2,SFO 22,13,13,Robbie Gould 40 yard field goal no good,2.120,-0.940
+3,8:43,1,10,SFO 30,13,13,Blaine Gabbert sacked by Eddie Goldman for -8 yards,0.940,-0.690
+3,8:10,2,18,SFO 22,13,13,Blaine Gabbert pass complete short left to Shaun Draughn for 12 yards (tackle by Shea McClellin),-0.690,0.230
+3,7:37,3,6,SFO 34,13,13,Blaine Gabbert pass incomplete short right intended for Blake Bell,0.230,-1.110
+3,7:32,4,6,SFO 34,13,13,"Bradley Pinion punts 59 yards, returned by Marc Mariani for 12 yards (tackle by Eric Reid)",-1.110,-0.150
+3,7:19,1,10,CHI 19,13,13,Jeremy Langford right guard for 4 yards (tackle by NaVorro Bowman),0.150,0.210
+3,6:57,2,6,CHI 23,13,13,"Jeremy Langford left guard for no gain. Penalty on Charles Leno: Illegal Formation, 5 yards (no play)",0.210,-0.560
+3,6:37,2,11,CHI 18,13,13,Jeremy Langford right tackle for 2 yards (tackle by NaVorro Bowman and Quinton Dial),-0.560,-0.940
+3,5:55,3,9,CHI 20,13,13,Jay Cutler pass complete short middle to Josh Bellamy for 16 yards (tackle by Kenneth Acker),-0.940,1.330
+3,5:15,1,10,CHI 36,13,13,Jeremy Langford right guard for 2 yards (tackle by Ian Williams),1.330,1.060
+3,4:46,2,8,CHI 38,13,13,Jeremy Langford right guard for 5 yards (tackle by NaVorro Bowman),1.060,1.030
+3,4:07,3,3,CHI 43,13,13,Jay Cutler pass complete short left to Marc Mariani for 7 yards (tackle by Kenneth Acker),1.030,2.260
+3,3:28,1,10,,13,13,Jay Cutler left end for no gain (tackle by Jaquiski Tartt),2.260,1.710
+3,2:53,2,10,,13,13,"Penalty on Zach Miller: False Start, 5 yards (no play)",1.710,1.040
+3,2:26,2,15,CHI 45,13,13,Jay Cutler pass complete short right to Matt Forte for 3 yards (tackle by NaVorro Bowman),1.040,0.760
+3,1:48,3,12,CHI 48,13,13,Jay Cutler pass complete short right to Alshon Jeffery for 10 yards (tackle by Tramaine Brock),0.760,0.460
+3,1:01,4,2,SFO 42,13,13,"Pat O'Donnell punts 27 yards, fair catch by Bruce Ellington",0.460,0.220
+3,0:53,1,10,SFO 15,13,13,Blaine Gabbert pass complete short left to Bruce Ellington for no gain,-0.220,-0.710
+3,0:22,2,10,SFO 15,13,13,Shaun Draughn left guard for 1 yard (tackle by Eddie Goldman),-0.710,-1.250
+Quarter,Time,Down,ToGo,Location,SFO,CHI,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,9,SFO 16,13,13,"Penalty on Andrew Tiller: False Start, 5 yards (no play)",-1.250,-1.890
+4,15:00,3,14,SFO 11,13,13,Blaine Gabbert sacked by Eddie Goldman for -6 yards,-1.890,-2.490
+4,14:26,4,20,SFO 5,13,13,"Bradley Pinion punts 41 yards, fair catch by Marc Mariani",-2.490,-2.520
+4,14:18,1,10,SFO 46,13,13,Matt Forte right guard for 1 yard (tackle by Ian Williams),2.520,2.110
+4,13:41,2,9,SFO 45,13,13,"Matt Forte right guard for 26 yards (tackle by Gerald Hodges). Penalty on Patrick Omameh: Offensive Holding, 10 yards, Penalty on Martellus Bennett: Offensive Holding (Declined) (no play)",2.110,0.760
+4,13:09,2,19,CHI 45,13,13,Jay Cutler pass incomplete short left intended for Martellus Bennett (defended by Quinton Dial),0.760,0.100
+4,13:04,3,19,CHI 45,13,13,Jay Cutler pass incomplete deep right intended for Alshon Jeffery,0.100,-0.390
+4,12:58,4,19,CHI 45,13,13,"Pat O'Donnell punts 45 yards, fair catch by Bruce Ellington",-0.390,0.380
+4,12:50,1,10,SFO 10,13,13,Blaine Gabbert pass incomplete short right intended for Torrey Smith,-0.380,-0.780
+4,12:44,2,10,SFO 10,13,13,"Blaine Gabbert pass complete short right to Torrey Smith for 8 yards (tackle by Tracy Porter). Penalty on SFO: Illegal Shift, 5 yards (no play)",-0.780,-1.150
+4,12:24,2,15,SFO 5,13,13,Blaine Gabbert pass complete short middle to Blake Bell for 5 yards (tackle by Shea McClellin),-1.150,-1.420
+4,11:43,3,10,SFO 10,13,13,Blaine Gabbert left end for 6 yards (tackle by Shea McClellin),-1.420,-2.390
+4,11:21,4,4,SFO 16,13,13,"Bradley Pinion punts 42 yards, returned by Marc Mariani for -1 yards (tackle by Jimmie Ward)",-2.390,-1.660
+4,11:11,1,10,CHI 41,13,13,Jay Cutler pass incomplete deep right intended for Josh Bellamy,1.660,1.120
+4,11:05,2,10,CHI 41,13,13,Jeremy Langford right tackle for no gain (tackle by Mike Purcell),1.120,0.430
+4,10:26,3,10,CHI 41,13,13,Jay Cutler sacked by Jaquiski Tartt for -8 yards,0.430,-1.180
+4,9:45,4,18,CHI 33,13,13,"Pat O'Donnell punts 47 yards, returned by Bruce Ellington for 1 yard (tackle by Chris Prosinski)",-1.180,-0.340
+4,9:32,1,10,SFO 21,13,13,Shaun Draughn left end for 7 yards (tackle by Kyle Fuller),0.340,0.750
+4,9:02,2,3,SFO 28,13,13,Blaine Gabbert pass complete short right to Bruce Miller for 4 yards (tackle by Kyle Fuller),0.750,1.070
+4,8:33,1,10,SFO 32,13,13,Travaris Cadet left guard for 1 yard (tackle by Adrian Amos),1.070,0.660
+4,8:01,2,9,SFO 33,13,13,Blaine Gabbert pass complete short right to Anquan Boldin for 4 yards,0.660,0.500
+4,7:39,3,5,SFO 37,13,13,Blaine Gabbert pass incomplete deep left intended for Anquan Boldin,0.500,-0.910
+4,7:34,4,5,SFO 37,13,13,"Bradley Pinion punts 52 yards, returned by Marc Mariani for 6 yards (tackle by Kendall Gaskins)",-0.910,0.060
+4,7:25,1,10,CHI 17,13,13,Matt Forte left guard for 15 yards (tackle by Jaquiski Tartt and Ian Williams),-0.060,1.070
+4,6:34,1,10,CHI 32,13,13,Matt Forte left end for 1 yard (tackle by Kenneth Acker),1.070,0.660
+4,5:51,2,9,CHI 33,13,13,Jay Cutler pass complete short left to Jeremy Langford for 7 yards (tackle by Gerald Hodges and Quinton Dial),0.660,0.890
+4,5:03,3,2,CHI 40,13,13,Jay Cutler pass complete deep right to Alshon Jeffery for 30 yards,0.890,3.580
+4,4:33,1,10,SFO 30,13,13,Jay Cutler pass complete short right to Marc Mariani for 26 yards (tackle by Tramaine Brock),3.580,6.280
+4,3:39,1,4,SFO 4,13,19,"Ka'Deem Carey left end for 4 yards, touchdown",6.280,7.000
+4,3:39,,,SFO 4,13,20,Robbie Gould kicks extra point good,0.000,0.000
+4,3:39,,,CHI 35,13,20,"Robbie Gould kicks off 62 yards, returned by Bruce Ellington for 18 yards (tackle by Sherrick McManis). Penalty on Josh Bellamy: Low Block, 15 yards",0.000,-1.330
+4,3:27,1,10,SFO 36,13,20,Blaine Gabbert sacked by Willie Young for -6 yards,1.330,-0.020
+4,2:57,2,16,SFO 30,13,20,Blaine Gabbert pass complete short right to Anquan Boldin for 10 yards (tackle by Kyle Fuller),-0.020,0.630
+4,2:22,3,6,SFO 40,13,20,Blaine Gabbert left tackle for 9 yards,0.630,2.190
+4,2:00,1,10,SFO 49,13,20,Blaine Gabbert pass incomplete short middle intended for Anquan Boldin (defended by Bryce Callahan),2.190,1.650
+4,1:58,2,10,SFO 49,13,20,Blaine Gabbert left end for 7 yards (tackle by Shea McClellin),1.650,1.880
+4,1:52,3,3,CHI 44,19,20,"Blaine Gabbert right tackle for 44 yards, touchdown",1.880,7.000
+4,1:52,,,CHI 44,20,20,Phil Dawson kicks extra point good,0.000,0.000
+4,1:52,,,SFO 35,20,20,"Bradley Pinion kicks off 67 yards, returned by Deonte Thompson for 74 yards (tackle by Dontae Johnson)",0.000,-3.710
+4,1:32,1,10,SFO 28,20,20,Ka'Deem Carey left guard for no gain (tackle by Gerald Hodges),3.710,3.710
+4,1:28,1,10,SFO 28,20,20,Timeout #1 by San Francisco 49ers,3.710,3.170
+4,1:28,2,10,SFO 28,20,20,Matt Forte left guard for no gain (tackle by Ahmad Brooks and Jaquiski Tartt),3.170,3.170
+4,1:23,2,10,SFO 28,20,20,Timeout #2 by San Francisco 49ers,3.170,2.480
+4,1:23,3,10,SFO 28,20,20,Ka'Deem Carey left tackle for 11 yards (tackle by Kenneth Acker),2.480,2.480
+4,1:16,3,10,SFO 28,20,20,Timeout #3 by San Francisco 49ers,2.480,4.440
+4,1:16,1,10,SFO 17,20,20,Ka'Deem Carey right tackle for no gain (tackle by NaVorro Bowman),4.440,4.440
+4,0:30,1,10,SFO 17,20,20,Timeout #1 by Chicago Bears,4.440,3.850
+4,0:30,2,10,SFO 17,20,20,Jay Cutler left guard for -1 yards,3.850,3.850
+4,0:02,2,10,SFO 17,20,20,Timeout #2 by Chicago Bears,3.850,3.000
+4,0:02,3,11,SFO 18,20,20,Robbie Gould 36 yard field goal no good,3.000,0.000
+Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime
+Quarter,Time,Down,ToGo,Location,SFO,CHI,Detail,EPB,EPA
+,,,,,,,"49ers won the coin toss, 49ers to receive the overtime kickoff.",,
+OT,15:00,,,CHI 35,20,20,"Robbie Gould kicks off 65 yards, returned by Bruce Ellington for 40 yards (tackle by Harold Jones-Quartey)",0.000,-1.600
+OT,14:53,1,10,SFO 40,20,20,Blaine Gabbert pass incomplete short right intended for Anquan Boldin,1.600,1.050
+OT,14:49,2,10,SFO 40,20,20,Blaine Gabbert pass incomplete short right intended for Anquan Boldin,1.050,0.370
+OT,14:42,3,10,SFO 40,20,20,Blaine Gabbert pass incomplete short left intended for Anquan Boldin,0.370,-0.720
+OT,14:37,4,10,SFO 40,20,20,"Bradley Pinion punts 45 yards, fair catch by Marc Mariani",-0.720,0.220
+OT,14:29,1,10,CHI 15,20,20,"Matt Forte right guard for 1 yard (tackle by Mike Purcell). Penalty on Patrick Omameh: Offensive Holding, 7 yards (no play)",-0.220,-0.650
+OT,14:04,1,17,CHI 8,20,20,Jay Cutler pass incomplete short left intended for Alshon Jeffery,-0.650,-1.290
+OT,13:59,2,17,CHI 8,20,20,Jay Cutler pass complete short right to Matt Forte for 9 yards (tackle by Quinton Dial),-1.290,-1.120
+OT,13:20,3,8,CHI 17,20,20,Jay Cutler pass incomplete short left intended for Alshon Jeffery (defended by Tony Jerod-Eddie),-1.120,-2.320
+OT,13:13,4,8,CHI 17,20,20,"Pat O'Donnell punts 54 yards, returned by Bruce Ellington for no gain",-2.320,-0.870
+OT,13:01,1,10,SFO 29,26,20,"Blaine Gabbert pass complete deep left to Torrey Smith for 71 yards, touchdown",0.870,7.000
+End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime

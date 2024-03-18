@@ -1,0 +1,187 @@
+Quarter,Time,Down,ToGo,Location,STL,GNB,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Packers won the coin toss, Packers to receive the opening kickoff.",,
+1,15:00,,,STL 30,0,0,"Jeff Wilkins kicks off 69 yards, returned by Koren Robinson for 22 yards (tackle by Anthony Hargrove)",0.000,0.480
+1,14:54,1,10,GNB 23,0,0,Brett Favre pass complete short right to Vernand Morency for 5 yards (tackle by Brandon Chillar),0.480,0.610
+1,14:21,2,5,GNB 28,0,0,Brett Favre pass complete short right to Vernand Morency for 4 yards (tackle by Tye Hill),0.610,0.430
+1,13:41,3,1,GNB 32,0,0,Vernand Morency left tackle for 3 yards (tackle by Jimmy Kennedy),0.430,1.270
+1,12:57,1,10,GNB 35,0,0,"Vernand Morency right guard for 2 yards (tackle by Brandon Chillar). Vernand Morency fumbles (forced by Brandon Chillar), recovered by Victor Adeyanju at GNB-37",1.270,-3.120
+1,12:50,1,10,GNB 37,0,0,Steven Jackson right end for 2 yards (tackle by Nick Barnett and Brady Poppinga),3.120,2.840
+1,12:12,2,8,GNB 35,0,0,Marc Bulger right guard for 12 yards (tackle by Kabeer Gbaja-Biamila),2.840,4.040
+1,11:33,1,10,GNB 23,0,0,Steven Jackson right guard for no gain (tackle by Brady Poppinga and Kabeer Gbaja-Biamila),4.040,3.500
+1,10:56,2,10,GNB 23,0,0,Steven Jackson right guard for 7 yards (tackle by A.J. Hawk and Nick Barnett),3.500,3.850
+1,10:16,3,3,GNB 16,0,0,Marc Bulger pass complete short right to Kevin Curtis for 10 yards (tackle by Patrick Dendy),3.850,5.830
+1,9:54,1,6,GNB 6,6,0,"Marc Bulger pass complete short middle to Torry Holt for 6 yards, touchdown",5.830,7.000
+1,9:54,,,GNB 2,7,0,Jeff Wilkins kicks extra point good,0.000,0.000
+1,9:49,,,STL 30,7,0,"Jeff Wilkins kicks off 70 yards, touchback",0.000,0.280
+1,9:49,1,10,GNB 20,7,0,Vernand Morency left end for 7 yards (tackle by Pisa Tinoisamoa),0.280,0.680
+1,9:11,2,3,GNB 27,7,0,Vernand Morency left guard for -2 yards (tackle by Jimmy Kennedy),0.680,-0.300
+1,8:27,3,5,GNB 25,7,0,Brett Favre pass complete short middle to Bubba Franks for 7 yards (tackle by Corey Chavous),-0.300,1.070
+1,7:49,1,10,GNB 32,7,0,Brett Favre pass complete short left to Bubba Franks for 9 yards (tackle by Travis Fisher),1.070,1.740
+1,7:03,2,1,GNB 41,7,0,Vernand Morency left end for 2 yards (tackle by Jason Fisk),1.740,1.800
+1,6:18,1,10,GNB 43,7,0,Brett Favre pass incomplete deep right intended for Donald Driver (defended by Travis Fisher),1.800,1.250
+1,6:13,2,10,GNB 43,7,0,Noah Herron left tackle for 6 yards (tackle by Jason Fisk),1.250,1.350
+1,5:28,3,4,GNB 49,7,0,Brett Favre pass complete short right to Koren Robinson for 7 yards,1.350,2.650
+1,4:59,1,10,STL 44,7,0,Brett Favre pass incomplete deep left intended for Donald Driver,2.650,2.110
+1,4:54,2,10,STL 44,7,0,"Brett Favre pass incomplete deep right intended for Greg Jennings (defended by Tye Hill). Penalty on Victor Adeyanju: Defensive Offside, 5 yards (no play)",2.110,2.780
+1,4:49,2,5,STL 39,7,0,Noah Herron right end for 2 yards (tackle by Jimmy Kennedy),2.780,2.350
+1,4:12,3,3,STL 37,7,0,"Brett Favre pass incomplete short middle intended for Donald Driver. Penalty on La'Roi Glover: Defensive Offside, 5 yards (no play)",2.350,3.450
+1,4:07,1,10,STL 32,7,0,Noah Herron left tackle for 9 yards (tackle by Brandon Chillar and Will Witherspoon),3.450,4.120
+1,3:28,2,1,STL 23,7,0,Noah Herron left end for 11 yards (tackle by Tye Hill),4.120,4.780
+1,3:09,1,10,STL 12,7,0,Noah Herron left end for 7 yards (tackle by O.J. Atogwe and Pisa Tinoisamoa),4.780,5.410
+1,2:31,2,3,STL 5,7,0,Noah Herron left tackle for 2 yards (tackle by La'Roi Glover and Pisa Tinoisamoa),5.410,5.060
+1,1:49,3,1,STL 3,7,0,"Brett Favre pass incomplete short right intended for David Martin. Penalty on Travis Fisher: Defensive Holding, 2 yards (no play)",5.060,6.970
+1,1:41,1,1,STL 1,7,6,"Noah Herron left tackle for 1 yard, touchdown",6.970,7.000
+1,1:41,,,STL 2,7,7,Dave Rayner kicks extra point good,0.000,0.000
+1,1:38,,,GNB 30,7,7,"Dave Rayner kicks off 62 yards, returned by J.R. Reed for 8 yards (tackle by Jarrett Bush)",0.000,-0.140
+1,1:34,1,10,STL 16,7,7,Marc Bulger pass complete short right to Steven Jackson for -2 yards (tackle by Nick Barnett),-0.140,-0.890
+1,0:57,2,12,STL 14,7,7,Steven Jackson middle for 1 yard (tackle by Corey Williams and Brady Poppinga),-0.890,-1.470
+1,0:16,3,11,STL 15,7,7,Marc Bulger pass incomplete deep right intended for Kevin Curtis,-1.470,-2.440
+1,0:11,4,11,STL 15,7,7,"Matt Turk punts 55 yards, returned by Charles Woodson for 12 yards (tackle by Will Witherspoon)",-2.440,-1.730
+Quarter,Time,Down,ToGo,Location,STL,GNB,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,GNB 42,7,7,"Brett Favre pass complete deep right to Greg Jennings for 38 yards (tackle by O.J. Atogwe). Penalty on O.J. Atogwe: Personal Foul, 10 yards",1.730,4.910
+2,14:33,1,10,STL 10,7,7,Noah Herron right tackle for 2 yards (tackle by La'Roi Glover),4.910,4.570
+2,13:48,2,8,STL 8,7,7,Brett Favre pass incomplete short middle intended for David Martin (defended by Will Witherspoon),4.570,3.580
+2,13:44,3,8,STL 8,7,7,Brett Favre sacked by Leonard Little for -1 yards,3.580,2.830
+2,13:15,4,9,STL 9,7,10,Dave Rayner 27 yard field goal good,2.830,3.000
+2,13:12,,,GNB 30,7,10,"Dave Rayner kicks off 70 yards, touchback",0.000,0.280
+2,13:12,1,10,STL 20,7,10,"Steven Jackson left tackle for 4 yards (tackle by Nick Barnett and Ryan Pickett). Penalty on Richie Incognito: Offensive Holding, 10 yards (no play)",0.280,-0.760
+2,12:51,1,20,STL 10,7,10,Marc Bulger pass complete short left to Isaac Bruce for 5 yards (tackle by Charles Woodson),-0.760,-1.070
+2,12:10,2,15,STL 15,7,10,Marc Bulger pass incomplete short middle intended for Joe Klopfenstein (defended by A.J. Hawk). Penalty on STL: Illegal Shift (Declined),-1.070,-1.860
+2,12:05,,,,7,10,Timeout #1 by St. Louis Rams,0.000,-1.860
+2,12:05,3,15,STL 15,7,10,"Marc Bulger pass complete short right to Tony Fisher for 15 yards (tackle by Marquand Manuel and Charles Woodson). Penalty on Todd Steussie: Offensive Holding, 7 yards (no play)",-1.860,-2.820
+2,11:34,3,22,STL 8,7,10,"Penalty on Kevin Curtis: False Start, 4 yards (no play)",-2.820,-3.290
+2,11:11,3,26,STL 4,7,10,Marc Bulger pass complete short left to Tony Fisher for 11 yards (tackle by Nick Collins and A.J. Hawk),-3.290,-2.440
+2,10:25,4,15,STL 15,7,10,"Matt Turk punts 44 yards, returned by Charles Woodson for 9 yards (tackle by Chris Massey)",-2.440,-2.260
+2,10:25,1,10,STL 50,7,10,Noah Herron left tackle for 7 yards (tackle by Claude Wroten),2.260,2.660
+2,9:47,2,3,STL 43,7,10,Brett Favre pass incomplete short right intended for Greg Jennings (defended by Ronald Bartell),2.660,1.950
+2,9:39,3,3,STL 43,7,10,Brett Favre pass complete to Greg Jennings for 10 yards (tackle by Tye Hill),1.950,3.380
+2,9:27,,,,7,10,Timeout #2 by St. Louis Rams,0.000,3.380
+2,9:27,1,10,STL 33,7,10,Brett Favre pass incomplete deep middle intended for Greg Jennings (defended by Corey Chavous),3.380,2.840
+2,9:20,2,10,STL 33,7,10,Noah Herron middle for 6 yards (tackle by Jerome Carter),2.840,2.940
+2,8:38,3,4,STL 27,7,10,Brett Favre pass incomplete deep right intended for Koren Robinson,2.940,1.750
+2,8:33,4,4,STL 27,7,10,Dave Rayner 45 yard field goal no good,1.750,-1.330
+2,8:28,1,10,STL 36,7,10,Steven Jackson left end for 2 yards (tackle by A.J. Hawk and Kabeer Gbaja-Biamila),1.330,1.060
+2,7:47,2,8,STL 38,7,10,Marc Bulger pass complete short right to Torry Holt for 12 yards (tackle by Charles Woodson). Penalty on Al Harris: Illegal Contact (Declined),1.060,2.260
+2,7:29,1,10,GNB 50,7,10,"Marc Bulger pass incomplete deep left intended for Isaac Bruce. Penalty on Charles Woodson: Defensive Pass Interfere, 15 yards (no play)",2.260,3.250
+2,7:24,1,10,GNB 35,7,10,Steven Jackson right tackle for 6 yards (tackle by Brady Poppinga and Mike Montgomery),3.250,3.510
+2,6:49,2,4,GNB 29,7,10,Steven Jackson for 5 yards (tackle by A.J. Hawk),3.510,3.970
+2,6:20,1,10,GNB 24,7,10,Steven Jackson right end for 4 yards (tackle by Marquand Manuel and Aaron Kampman),3.970,3.970
+2,5:40,2,6,GNB 20,7,10,Marc Bulger pass complete short middle to Stephen Davis for 10 yards (tackle by Corey Williams),3.970,4.910
+2,4:54,1,10,GNB 10,7,10,Stephen Davis left end for 2 yards (tackle by Marquand Manuel),4.910,4.570
+2,4:12,2,8,GNB 8,7,10,Marc Bulger pass complete short right to Steven Jackson for 5 yards (tackle by Nick Barnett),4.570,4.720
+2,3:33,,,,7,10,Timeout #2 by Green Bay Packers,0.000,4.720
+2,3:33,3,3,GNB 3,13,10,"Marc Bulger pass complete short middle to Kevin Curtis for 3 yards, touchdown",4.720,7.000
+2,3:33,,,GNB 2,14,10,Jeff Wilkins kicks extra point good,0.000,0.000
+2,3:27,,,STL 30,14,10,"Jeff Wilkins kicks off 48 yards, out of bounds",0.000,1.600
+2,3:27,1,10,GNB 40,14,10,Noah Herron left end for 6 yards (tackle by Victor Adeyanju),1.600,1.860
+2,2:53,2,4,GNB 46,14,10,"Noah Herron middle for 16 yards (tackle by O.J. Atogwe). Penalty on Jason Spitz: Offensive Holding, 10 yards (no play)",1.860,0.510
+2,2:25,2,14,GNB 36,14,10,Brett Favre pass complete short right to Koren Robinson for 13 yards (tackle by Jerome Carter),0.510,1.550
+2,2:00,3,1,GNB 49,14,10,Noah Herron right tackle for 9 yards (tackle by Corey Chavous),1.550,2.790
+2,1:22,1,10,STL 42,14,10,Brett Favre pass incomplete deep left intended for Koren Robinson,2.790,2.240
+2,1:17,2,10,STL 42,14,10,Noah Herron right end for 5 yards (tackle by Jerome Carter),2.240,2.210
+2,0:37,3,5,STL 37,14,10,Brett Favre pass complete short middle to Koren Robinson for 14 yards (tackle by O.J. Atogwe). Penalty on Corey Chavous: Defensive Holding (Declined),2.210,4.040
+2,0:32,1,10,STL 23,14,10,Brett Favre pass complete short middle to Noah Herron for 3 yards (tackle by Will Witherspoon),4.040,3.900
+2,0:23,,,,14,10,Timeout #3 by Green Bay Packers,0.000,3.900
+2,0:23,2,7,STL 20,14,10,Brett Favre pass complete short left to Noah Herron for 6 yards (tackle by Ronald Bartell and Will Witherspoon),3.900,4.280
+2,0:05,3,1,STL 14,14,10,Brett Favre spiked the ball,4.280,2.660
+2,0:03,4,1,STL 14,14,13,Dave Rayner 32 yard field goal good,2.660,3.000
+Quarter,Time,Down,ToGo,Location,STL,GNB,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,GNB 30,14,13,"Dave Rayner kicks off 55 yards, returned by J.R. Reed for 9 yards (tackle by Patrick Dendy)",0.000,0.540
+3,14:55,1,10,STL 24,14,13,Steven Jackson left end for 3 yards (tackle by A.J. Hawk and Nick Barnett),0.540,0.400
+3,14:18,2,7,STL 27,14,13,Steven Jackson right end for 6 yards (tackle by Marquand Manuel),0.400,0.500
+3,13:35,3,1,STL 33,14,13,Marc Bulger pass complete short right to Madison Hedgecock for 1 yard (tackle by Nick Barnett),0.500,1.200
+,,,,,,,"GNB challenged the ruling, and the play was upheld.",,
+3,13:05,1,10,STL 34,14,13,Marc Bulger pass incomplete short left intended for Torry Holt (defended by Al Harris),1.200,0.660
+3,12:59,2,10,STL 34,14,13,Marc Bulger pass incomplete deep middle intended for Torry Holt,0.660,-0.030
+3,12:55,,,,14,13,Timeout #1 by St. Louis Rams,0.000,-0.030
+3,12:55,3,10,STL 34,14,13,Marc Bulger pass complete short right to Isaac Bruce for 18 yards (tackle by Marquand Manuel). Penalty on Al Harris: Defensive Holding (Declined),-0.030,2.390
+3,12:33,1,10,GNB 48,14,13,Steven Jackson left tackle for 6 yards (tackle by Corey Williams and Nick Barnett),2.390,2.660
+3,11:53,2,4,GNB 42,14,13,Marc Bulger sacked by Kabeer Gbaja-Biamila and Mike Montgomery for -5 yards,2.660,1.290
+3,11:16,3,9,GNB 47,14,13,"Penalty on Torry Holt: False Start, 5 yards (no play)",1.290,0.630
+3,10:51,3,14,STL 48,14,13,Marc Bulger pass incomplete deep left intended for Torry Holt,0.630,-0.190
+3,10:46,4,14,STL 48,14,13,Matt Turk punts 41 yards,-0.190,0.350
+3,10:35,1,10,GNB 12,14,13,Noah Herron left end for 1 yard (tackle by Jimmy Kennedy),-0.350,-0.700
+3,9:52,2,9,GNB 13,14,13,"Brett Favre pass complete short right to Donald Driver for 18 yards (tackle by Corey Chavous). Penalty on Scott Wells: Offensive Holding, 6 yards (no play)",-0.700,-1.150
+3,9:24,2,15,GNB 7,14,13,Noah Herron left end for 19 yards (tackle by O.J. Atogwe),-1.150,0.670
+3,8:45,1,10,GNB 26,14,13,Noah Herron left end for -2 yards (tackle by Ronald Bartell),0.670,-0.140
+3,8:02,2,12,GNB 24,14,13,Brett Favre pass complete short middle to Donald Driver for 11 yards (tackle by Jerome Carter),-0.140,0.630
+3,7:26,3,1,GNB 35,14,13,Noah Herron left end for -1 yards (tackle by Jimmy Kennedy and Victor Adeyanju),0.630,-1.110
+3,6:49,4,2,GNB 34,14,13,"Jon Ryan punts 39 yards, returned by Shaun McDonald for 28 yards (tackle by Tory Humphrey)",-1.110,-2.590
+3,6:38,1,10,GNB 45,14,13,Steven Jackson middle for 14 yards (tackle by Marquand Manuel),2.590,3.510
+3,5:59,1,10,GNB 31,14,13,Steven Jackson right end for 10 yards (tackle by Nick Collins),3.510,4.170
+3,5:17,1,10,GNB 21,14,13,Marc Bulger pass complete short right to Shaun McDonald for 9 yards (tackle by Nick Collins),4.170,5.160
+3,4:55,2,1,GNB 12,14,13,Steven Jackson right tackle for 3 yards (tackle by Corey Williams and Ryan Pickett),5.160,5.140
+3,4:14,1,9,GNB 9,14,13,Stephen Davis right guard for 2 yards (tackle by Aaron Kampman),5.140,4.760
+3,3:34,2,7,GNB 7,14,13,Marc Bulger pass incomplete short right intended for Tony Fisher,4.760,3.810
+3,3:28,3,7,GNB 7,14,13,Marc Bulger sacked by Aaron Kampman for -6 yards,3.810,2.570
+3,3:08,4,13,GNB 13,17,13,Jeff Wilkins 31 yard field goal good,2.570,3.000
+3,3:04,,,STL 30,17,13,"Jeff Wilkins kicks off 70 yards, touchback",0.000,0.280
+3,3:04,1,10,GNB 20,17,13,Brett Favre pass incomplete short left intended for Greg Jennings,0.280,-0.270
+3,3:01,2,10,GNB 20,17,13,Noah Herron left end for 2 yards (tackle by Jason Fisk),-0.270,-0.690
+3,2:20,3,8,GNB 22,17,13,Brett Favre pass incomplete short right intended for Bubba Franks,-0.690,-1.900
+3,2:14,4,8,GNB 22,17,13,"Jon Ryan punts 37 yards, returned by Shaun McDonald for no gain. Penalty on Ruvell Martin: Offensive Holding, 10 yards",-1.900,-2.320
+3,2:06,1,10,GNB 49,17,13,Marc Bulger pass complete short right to Torry Holt for 22 yards (tackle by Nick Barnett),2.320,3.780
+3,1:25,1,10,GNB 27,17,13,Steven Jackson right guard for 7 yards (tackle by Marquand Manuel and A.J. Hawk),3.780,4.180
+3,0:47,2,3,GNB 20,17,13,Kevin Curtis right end for 6 yards (tackle by A.J. Hawk),4.180,4.650
+3,0:25,1,10,GNB 14,17,13,Marc Bulger pass incomplete short left intended for Torry Holt (defended by Al Harris),4.650,4.000
+3,0:21,2,10,GNB 14,17,13,Steven Jackson middle for 6 yards (tackle by Aaron Kampman),4.000,4.280
+Quarter,Time,Down,ToGo,Location,STL,GNB,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,4,GNB 8,17,13,Marc Bulger pass incomplete short right intended for Kevin Curtis,4.280,2.980
+4,14:57,4,4,GNB 8,20,13,Jeff Wilkins 26 yard field goal good,2.980,3.000
+4,14:53,,,STL 30,20,13,"Jeff Wilkins kicks off 43 yards, returned by William Henderson for 4 yards (tackle by Tony Fisher)",0.000,1.000
+4,14:50,1,10,GNB 31,20,13,Vernand Morency left tackle for 3 yards (tackle by Leonard Little),1.000,0.870
+4,14:08,2,7,GNB 34,20,13,Brett Favre pass incomplete short middle intended for Bubba Franks (defended by Will Witherspoon),0.870,0.170
+4,14:05,3,7,GNB 34,20,13,Brett Favre pass incomplete deep right intended for Donald Driver,0.170,-1.110
+4,13:59,4,7,GNB 34,20,13,"Jon Ryan punts 66 yards, touchback",-1.110,-0.280
+4,13:50,1,10,STL 20,20,13,Steven Jackson middle for 3 yards (tackle by A.J. Hawk and Aaron Kampman),0.280,0.140
+4,13:13,,,,20,13,Timeout #2 by St. Louis Rams,0.000,0.140
+4,13:13,2,7,STL 23,20,13,Marc Bulger pass complete deep middle to Joe Klopfenstein for 24 yards (tackle by Marquand Manuel),0.140,2.060
+4,12:37,1,10,STL 47,20,13,Steven Jackson right guard for 4 yards (tackle by Marquand Manuel and Ryan Pickett),2.060,2.060
+4,12:00,2,6,GNB 49,20,13,Steven Jackson right guard for 1 yard (tackle by Nick Barnett and Colin Cole),2.060,1.490
+4,11:20,3,5,GNB 48,20,13,Marc Bulger pass complete short right to Tony Fisher for 40 yards (tackle by Tyrone Culver),1.490,5.370
+4,10:56,1,8,GNB 8,20,13,Steven Jackson right end for 7 yards (tackle by Charles Woodson),5.370,5.910
+4,10:29,2,1,GNB 1,20,13,Steven Jackson left end for no gain (tackle by Mike Montgomery and Nick Barnett),5.910,5.170
+4,9:53,3,1,GNB 1,20,13,Marc Bulger right guard for -1 yards (tackle by A.J. Hawk and Marquand Manuel),5.170,3.250
+4,9:27,4,2,GNB 2,23,13,Jeff Wilkins 20 yard field goal good,3.250,3.000
+4,9:25,,,STL 30,23,13,"Jeff Wilkins kicks off 52 yards, returned by Koren Robinson for 18 yards (tackle by Anthony Hargrove)",0.000,1.330
+4,9:20,1,10,GNB 36,23,13,Brett Favre pass complete short middle to Noah Herron for 6 yards (tackle by Corey Chavous and Pisa Tinoisamoa),1.330,1.600
+4,8:41,2,4,GNB 42,23,13,Brett Favre pass complete short left to Greg Jennings for 2 yards (tackle by Pisa Tinoisamoa),1.600,1.160
+4,7:59,3,2,GNB 44,23,13,Brett Favre pass complete short left to Noah Herron for 5 yards (tackle by Corey Chavous),1.160,2.190
+4,7:26,1,10,GNB 49,23,13,Brett Favre pass complete short right to Donald Driver for 5 yards (tackle by Tye Hill),2.190,2.320
+4,6:48,2,5,STL 46,23,19,"Brett Favre pass complete deep right to Greg Jennings for 46 yards, touchdown",2.320,7.000
+4,6:48,,,STL 2,23,20,Dave Rayner kicks extra point good,0.000,0.000
+4,6:42,,,GNB 30,23,20,"Dave Rayner kicks off 73 yards, returned by J.R. Reed for 23 yards (tackle by Jarrett Bush)",0.000,0.280
+4,6:42,1,10,STL 20,23,20,"Penalty on Alex Barron: False Start, 5 yards (no play)",0.280,-0.310
+4,6:36,1,15,STL 15,23,20,Marc Bulger pass complete deep middle to Shaun McDonald for 21 yards (tackle by Marquand Manuel and Nick Collins),-0.310,1.330
+4,6:07,1,10,STL 36,23,20,Marc Bulger pass complete short right to Steven Jackson for 17 yards (tackle by Tyrone Culver). Penalty on GNB: Defensive 12 On-field (Declined),1.330,2.460
+4,5:38,1,10,GNB 47,23,20,Stephen Davis right guard for no gain (tackle by Brady Poppinga and Aaron Kampman),2.460,1.910
+4,4:59,2,10,GNB 47,23,20,Marc Bulger pass complete short right to Kevin Curtis for 8 yards (tackle by Nick Barnett),1.910,2.280
+4,4:18,3,2,GNB 39,23,20,Steven Jackson left end for -2 yards (tackle by Charles Woodson),2.280,0.530
+4,4:11,4,4,GNB 41,23,20,"Matt Turk punts 41 yards, touchback",0.530,-0.280
+4,4:03,1,10,GNB 20,23,20,Brett Favre pass complete short right to Noah Herron for no gain,0.280,-0.270
+4,3:29,2,10,GNB 20,23,20,Brett Favre pass incomplete deep left intended for Koren Robinson,-0.270,-0.960
+4,3:24,3,10,GNB 20,23,20,Brett Favre pass incomplete short right intended for Greg Jennings,-0.960,-2.030
+4,3:19,4,10,GNB 20,23,20,"Jon Ryan punts 53 yards, returned by Dane Looker for 9 yards (tackle by Brady Poppinga)",-2.030,-1.330
+4,3:10,1,10,STL 36,23,20,Steven Jackson right tackle for 3 yards (tackle by Nick Barnett and Brady Poppinga),1.330,1.200
+4,3:02,,,,23,20,Timeout #2 by Green Bay Packers,0.000,1.200
+4,3:02,2,7,STL 39,23,20,Marc Bulger pass incomplete short left intended for Shaun McDonald (defended by Nick Collins),1.200,0.500
+4,2:59,3,7,STL 39,23,20,Marc Bulger pass incomplete short middle intended for Isaac Bruce (defended by Charles Woodson),0.500,-0.780
+4,2:55,4,7,STL 39,23,20,"Matt Turk punts 40 yards, out of bounds",-0.780,-0.340
+4,2:46,1,10,GNB 21,23,20,"Brett Favre pass incomplete deep middle intended for David Martin (defended by Will Witherspoon). Penalty on Will Witherspoon: Defensive Pass Interfere, 25 yards (no play)",0.340,1.990
+4,2:41,1,10,GNB 46,23,20,Brett Favre pass incomplete deep right intended for Koren Robinson,1.990,1.450
+4,2:35,2,10,GNB 46,23,20,Noah Herron left end for 6 yards (tackle by Jerametrius Butler and Will Witherspoon),1.450,1.550
+4,2:01,3,4,STL 48,23,20,Brett Favre pass complete short right to David Martin for 4 yards (tackle by Corey Chavous),1.550,2.650
+4,1:56,1,10,STL 44,23,20,Brett Favre pass incomplete short left intended for Greg Jennings,2.650,2.110
+4,1:52,2,10,STL 44,23,20,Brett Favre pass complete short left to Donald Driver for 8 yards (tackle by Corey Chavous),2.110,2.480
+4,1:11,3,2,STL 36,23,20,Brett Favre pass complete short right to Koren Robinson for 8 yards (tackle by Tye Hill),2.480,3.710
+4,1:06,1,10,STL 28,23,20,Noah Herron right tackle for 8 yards (tackle by Jerome Carter),3.710,4.250
+4,1:00,,,,23,20,Timeout #3 by Green Bay Packers,0.000,4.250
+4,1:00,2,2,STL 20,23,20,Brett Favre pass complete short left to Greg Jennings for 9 yards (tackle by O.J. Atogwe),4.250,4.840
+4,0:45,1,10,STL 11,23,20,Brett Favre spiked the ball,4.840,4.140
+4,0:44,2,10,STL 11,23,20,"Brett Favre sacked by Leonard Little for -7 yards. Brett Favre fumbles (forced by Leonard Little), recovered by Jerametrius Butler at STL-13 (tackle by Scott Wells)",4.140,0.320
+4,0:36,1,10,STL 13,23,20,Marc Bulger kneels for -1 yards,-0.320,-0.850
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

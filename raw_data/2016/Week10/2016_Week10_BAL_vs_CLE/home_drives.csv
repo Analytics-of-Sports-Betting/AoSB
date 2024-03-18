@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,BAL 17,5,2:47,14,Punt
+2,1,9:42,BAL 32,4,2:42,22,Punt
+3,1,4:05,BAL 18,7,3:55,48,Interception
+4,2,14:22,CLE 48,8,3:53,41,Field Goal
+5,2,6:30,BAL 29,4,3:04,7,Punt
+6,2,1:39,BAL 21,12,1:39,57,Field Goal
+7,3,13:34,BAL 36,9,3:58,64,Touchdown
+8,3,8:45,CLE 40,4,2:06,25,Interception
+9,3,5:02,CLE 43,6,2:57,43,Touchdown
+10,4,13:48,BAL 10,12,7:27,90,Touchdown
+11,4,5:08,CLE 30,3,1:01,-10,Punt
+12,4,3:07,CLE 41,5,3:07,10,End of Game

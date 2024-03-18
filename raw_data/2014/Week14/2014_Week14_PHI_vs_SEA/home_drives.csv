@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,8:25,PHI 8,3,0:25,6,Punt
+2,1,6:25,SEA 14,6,2:48,14,Touchdown
+3,2,14:17,PHI 21,5,2:07,25,Punt
+4,2,10:34,PHI 47,3,1:07,1,Punt
+5,2,3:09,PHI 7,6,1:35,21,Punt
+6,2,0:02,,0,0:02,0,End of Half
+7,3,15:00,PHI 20,1,0:10,-1,Fumble
+8,3,14:03,PHI 46,4,1:54,54,Touchdown
+9,3,9:01,PHI 18,4,1:49,19,Punt
+10,3,4:23,PHI 33,3,1:02,-11,Punt
+11,4,15:00,PHI 20,3,1:27,-4,Punt
+12,4,9:07,PHI 30,1,0:07,0,Interception
+13,4,7:38,PHI 14,6,3:31,12,Punt

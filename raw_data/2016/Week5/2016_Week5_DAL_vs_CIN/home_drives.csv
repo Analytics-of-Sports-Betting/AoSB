@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,DAL 36,7,3:51,64,Touchdown
+2,1,6:16,DAL 11,11,6:33,89,Touchdown
+3,2,7:47,DAL 20,8,3:38,80,Touchdown
+4,2,2:01,DAL 22,5,0:37,27,Punt
+5,2,0:03,DAL 13,1,0:03,-1,End of Half
+6,3,11:47,DAL 40,1,0:09,60,Touchdown
+7,3,8:08,DAL 20,12,7:45,57,Fumble
+8,4,10:10,DAL 20,3,2:28,6,Punt
+9,4,2:39,CIN 46,6,2:39,10,End of Game

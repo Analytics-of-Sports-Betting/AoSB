@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,TAM 25,6,2:38,75,Touchdown
+2,1,11:13,TAM 36,8,3:33,39,Fumble
+3,1,3:51,TAM 20,3,0:58,2,Punt
+4,1,1:01,ATL 46,5,1:54,46,Touchdown
+5,2,11:48,TAM 24,6,1:43,24,Punt
+6,2,4:14,TAM 15,8,3:31,85,Touchdown
+7,3,14:19,ATL 18,4,1:36,18,Touchdown
+8,3,6:35,TAM 23,3,1:54,-15,Punt
+9,3,1:45,TAM 32,7,3:41,7,Punt
+10,4,10:53,ATL 43,3,1:35,43,Touchdown
+11,4,5:39,ATL 43,4,1:31,9,Downs
+12,4,1:55,ATL 48,3,1:55,-3,End of Game

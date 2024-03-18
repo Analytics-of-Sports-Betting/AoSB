@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:23,OAK 40,9,3:00,40,Touchdown
+2,1,8:58,OAK 35,3,1:01,35,Touchdown
+3,1,6:51,NWE 17,9,3:08,83,Touchdown
+4,1,1:34,NWE 23,7,3:22,77,Touchdown
+5,2,12:59,,0,0:13,0,Touchdown
+6,2,10:05,NWE 20,8,3:40,37,Interception
+7,2,2:54,NWE 17,8,2:54,64,End of Half
+8,3,15:00,NWE 32,7,3:24,68,Touchdown
+9,3,9:20,NWE 20,5,2:11,5,Punt
+10,3,5:01,NWE 47,3,1:38,0,Punt
+11,3,0:06,NWE 22,6,2:49,33,Punt
+12,4,7:37,NWE 43,3,1:28,57,Touchdown
+13,4,1:53,OAK 45,3,1:53,-2,End of Game

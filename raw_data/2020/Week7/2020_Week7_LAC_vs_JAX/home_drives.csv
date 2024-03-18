@@ -1,0 +1,15 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,14:03,LAC 6,9,3:48,77,Field Goal
+2,1,8:16,LAC 26,3,0:55,6,Punt
+3,1,5:44,LAC 29,11,5:39,71,Touchdown
+4,2,13:33,LAC 38,6,2:59,62,Touchdown
+5,2,7:46,LAC 13,3,1:06,4,Punt
+6,2,4:55,LAC 31,3,1:03,5,Punt
+7,2,0:11,LAC 40,2,0:11,-1,End of Half
+8,3,15:00,LAC 25,3,1:39,9,Blocked Punt
+9,3,13:21,LAC 25,8,3:03,45,Missed FG
+10,3,8:21,JAX 47,6,2:56,47,Touchdown
+11,3,2:54,LAC 20,2,0:58,80,Touchdown
+12,3,1:47,JAX 19,4,1:42,19,Touchdown
+13,4,11:02,LAC 10,11,4:36,73,Field Goal
+14,4,3:56,JAX 39,9,3:56,22,End of Game

@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,11:05,CIN 20,3,2:07,80,Touchdown
+2,1,7:31,CIN 25,4,3:03,19,Punt
+3,1,1:09,CIN 24,5,2:39,13,Punt
+4,2,9:43,CIN 48,3,1:58,6,Punt
+5,2,5:13,NYG 7,4,0:54,0,Field Goal
+6,2,1:17,CIN 20,5,1:17,30,End of Half
+7,3,15:00,NYG 13,2,1:02,13,Touchdown
+8,3,12:25,CIN 39,7,3:33,41,Field Goal
+9,3,7:47,CIN 33,4,2:08,-1,Punt
+10,3,3:33,CIN 5,3,1:37,1,Punt
+11,4,14:05,CIN 18,7,2:34,21,Interception
+12,4,11:22,CIN 12,3,2:29,9,Punt
+13,4,6:17,CIN 9,6,3:16,7,Punt

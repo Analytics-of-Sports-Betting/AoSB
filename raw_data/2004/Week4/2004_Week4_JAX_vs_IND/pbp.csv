@@ -1,0 +1,180 @@
+Quarter,Time,Down,ToGo,Location,IND,JAX,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Colts won the coin toss, Colts to receive the opening kickoff.",,
+1,15:00,,,JAX 30,0,0,"Josh Scobee kicks off 70 yards, touchback",0.000,0.280
+1,15:00,1,10,IND 20,0,0,Peyton Manning pass incomplete intended for Edgerrin James,0.280,-0.270
+1,14:56,2,10,IND 20,0,0,Edgerrin James left tackle for 7 yards (tackle by Marcus Stroud),-0.270,-0.030
+1,14:25,3,3,IND 27,0,0,Peyton Manning pass incomplete intended for Marvin Harrison,-0.030,-1.570
+1,14:21,4,3,IND 27,0,0,"Hunter Smith punts 61 yards, returned by Jermaine Lewis for 16 yards (tackle by Cory Bird)",-1.570,-0.810
+1,14:09,1,10,JAX 28,0,0,Byron Leftwich pass incomplete intended for Reggie Williams,0.810,0.260
+1,14:05,2,10,JAX 28,0,0,Fred Taylor up the middle for 2 yards (tackle by Josh Williams and David Thornton),0.260,-0.160
+1,13:24,3,8,JAX 30,0,0,Byron Leftwich pass complete to Fred Taylor for 9 yards (tackle by Jim Nelson),-0.160,1.530
+1,12:42,1,10,JAX 39,0,0,Byron Leftwich pass incomplete intended for Jimmy Smith,1.530,0.990
+1,12:34,2,10,JAX 39,0,0,Byron Leftwich pass complete to Ernest Wilford for 9 yards (tackle by Anthony Floyd),0.990,1.490
+1,12:06,3,1,JAX 48,0,0,Greg Jones up the middle for 4 yards (tackle by Josh Thomas),1.490,2.390
+1,11:28,1,10,IND 48,0,0,Fred Taylor up the middle for 2 yards (tackle by Robert Mathis and Brad Scioli),2.390,2.120
+1,10:51,2,8,IND 46,0,0,Byron Leftwich pass complete to Reggie Williams for 13 yards (tackle by Anthony Floyd),2.120,3.380
+1,10:19,,,,0,0,Timeout #1 by Indianapolis Colts,0.000,3.380
+1,10:19,1,10,IND 33,0,0,Byron Leftwich pass incomplete intended for Jimmy Smith,3.380,2.840
+1,10:14,2,10,IND 33,0,0,Fred Taylor up the middle for 8 yards (tackle by Anthony Floyd),2.840,3.200
+1,9:37,3,2,IND 25,0,0,LaBrandon Toefield up the middle for 1 yard (tackle by Jim Nelson),3.200,2.020
+1,8:57,4,1,IND 24,0,0,LaBrandon Toefield up the middle for no gain (tackle by Rob Morris and Raheem Brock),2.020,-0.610
+1,8:46,1,10,IND 25,0,0,Peyton Manning pass complete to Brandon Stokley for 17 yards (tackle by Donovin Darius),0.610,1.730
+1,8:14,1,10,IND 42,0,0,Edgerrin James right tackle for 4 yards (tackle by Akin Ayodele),1.730,1.730
+1,7:46,2,6,IND 46,0,0,Peyton Manning pass complete to Marvin Harrison for 3 yards (tackle by Juran Bolden),1.730,1.420
+1,7:18,3,3,IND 49,0,0,Peyton Manning pass complete to Brandon Stokley for 16 yards (tackle by Deon Grant),1.420,3.250
+1,7:04,1,10,JAX 35,0,0,Edgerrin James up the middle for 4 yards (tackle by John Henderson),3.250,3.240
+1,6:34,2,6,JAX 31,0,0,Peyton Manning pass complete to Brandon Stokley for 16 yards (tackle by Deon Grant),3.240,4.580
+1,6:00,1,10,JAX 15,6,0,"Peyton Manning pass complete to Marvin Harrison for 15 yards, touchdown",4.580,7.000
+1,,,,JAX 2,7,0,Mike Vanderjagt kicks extra point good,0.000,0.000
+1,,,,IND 30,7,0,Mike Vanderjagt kicks off 52 yards,0.000,1.600
+1,5:55,1,10,JAX 40,7,0,Byron Leftwich pass incomplete intended for Brian Jones,1.600,1.050
+1,5:50,2,10,JAX 40,7,0,Byron Leftwich pass complete to Brian Jones for 17 yards (tackle by Cory Bird),1.050,2.720
+1,5:21,1,10,IND 43,7,0,Byron Leftwich pass incomplete intended for Ernest Wilford,2.720,2.180
+1,5:14,2,10,IND 43,7,0,"Fred Taylor right tackle for 1 yard (tackle by David Thornton). Fred Taylor fumbles (forced by David Thornton), recovered by Cato June at IND-40",2.180,-1.600
+1,5:08,1,10,IND 40,7,0,Peyton Manning pass incomplete intended for Marvin Harrison,1.600,1.050
+1,5:02,2,10,IND 40,7,0,Edgerrin James left tackle for 5 yards (tackle by Akin Ayodele),1.050,1.030
+1,4:32,3,5,IND 45,7,0,Peyton Manning pass incomplete intended for Marvin Harrison (defended by Rashean Mathis),1.030,-0.390
+1,4:25,4,5,IND 45,7,0,"Hunter Smith punts 44 yards, returned by Jermaine Lewis for 9 yards (tackle by Cory Bird)",-0.390,-0.280
+1,4:14,1,10,JAX 20,7,0,Fred Taylor right tackle for 3 yards (tackle by Montae Reagor),0.280,0.140
+1,3:30,2,7,JAX 23,7,0,Byron Leftwich pass complete to Jimmy Smith for 10 yards (tackle by Donald Strickland),0.140,1.140
+1,2:59,1,10,JAX 33,7,0,Byron Leftwich pass complete to Fred Taylor for 7 yards (tackle by Gerome Sapp),1.140,1.540
+1,2:20,2,3,JAX 40,7,0,Fred Taylor up the middle for 2 yards (tackle by Robert Mathis),1.540,1.090
+1,1:34,3,1,JAX 42,7,0,Greg Jones left tackle for 4 yards (tackle by Gerome Sapp and Anthony Floyd),1.090,1.990
+1,0:52,1,10,JAX 46,7,0,Fred Taylor left tackle for no gain (tackle by Rob Morris),1.990,1.450
+1,0:10,2,10,JAX 46,7,0,Greg Jones up the middle for 4 yards (tackle by Jim Nelson),1.450,1.290
+Quarter,Time,Down,ToGo,Location,IND,JAX,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,6,JAX 50,7,0,Byron Leftwich pass complete to Troy Edwards for 14 yards (tackle by Anthony Floyd),1.290,3.180
+2,14:19,1,10,IND 36,7,0,"Byron Leftwich pass incomplete intended for Reggie Williams. Penalty on Nick Harper: Defensive Pass Interference, 16 yards (no play)",3.180,4.240
+2,14:15,1,10,IND 20,7,0,Fred Taylor left tackle for no gain (tackle by Larry Tripplett),4.240,3.690
+2,13:35,2,10,IND 20,7,0,Fred Taylor up the middle for 3 yards (tackle by Raheem Brock),3.690,3.360
+2,12:51,3,7,IND 17,7,0,Byron Leftwich pass incomplete intended for Jimmy Smith,3.360,2.310
+2,12:44,4,7,IND 17,7,0,Josh Scobee 35 yard field goal no good,2.310,-0.610
+2,12:39,1,10,IND 25,7,0,Edgerrin James up the middle for -1 yards (tackle by Bobby McCray),0.610,-0.070
+2,12:11,2,11,IND 24,7,0,Edgerrin James right tackle for 6 yards (tackle by Rashean Mathis),-0.070,0.040
+2,11:33,3,5,IND 30,7,0,Peyton Manning pass complete to Reggie Wayne for 10 yards (tackle by Dewayne Washington),0.040,1.600
+2,10:49,1,10,IND 40,7,0,Edgerrin James left tackle for 6 yards (tackle by Lionel Barnes),1.600,1.860
+2,10:19,2,4,IND 46,7,0,Edgerrin James up the middle for 3 yards (tackle by Bobby McCray),1.860,1.550
+2,9:36,3,1,IND 49,7,0,Peyton Manning pass incomplete intended for Dallas Clark,1.550,-0.130
+2,9:30,4,1,IND 49,7,0,"Hunter Smith punts 39 yards, fair catch by Jermaine Lewis",-0.130,0.350
+2,9:24,1,10,JAX 12,7,0,Fred Taylor right end for 4 yards (tackle by Larry Tripplett),-0.350,-0.370
+2,8:48,2,6,JAX 16,7,0,Fred Taylor left end for 15 yards (tackle by Donald Strickland),-0.370,1.000
+2,8:05,1,10,JAX 31,7,0,LaBrandon Toefield up the middle for 3 yards (tackle by Cory Bird and Josh Thomas),1.000,0.870
+2,7:24,2,7,JAX 34,7,0,Byron Leftwich pass complete to George Wrighster for 5 yards (tackle by David Thornton),0.870,0.830
+2,6:39,3,2,JAX 39,7,0,Byron Leftwich pass complete to LaBrandon Toefield for 7 yards (tackle by Donald Strickland),0.830,1.990
+2,6:07,1,10,JAX 46,7,0,Fred Taylor up the middle for no gain (tackle by Raheem Brock),1.990,1.450
+2,5:28,2,10,JAX 46,7,0,Fred Taylor up the middle for 5 yards (tackle by Cato June),1.450,1.420
+2,4:46,3,5,IND 49,7,0,Byron Leftwich pass complete to LaBrandon Toefield for 6 yards (tackle by Jim Nelson),1.420,2.720
+2,4:02,1,10,IND 43,7,0,LaBrandon Toefield up the middle for 7 yards (tackle by Gerome Sapp),2.720,3.120
+2,3:21,2,3,IND 36,7,0,LaBrandon Toefield up the middle for -1 yards (tackle by Rob Morris and Cato June),3.120,2.280
+2,2:39,3,4,IND 37,7,0,"Byron Leftwich sacked by Robert Mathis for -7 yards. Byron Leftwich fumbles (forced by Robert Mathis), recovered by Maurice Williams at IND-45 and returned for 1 yards",2.280,0.330
+2,2:24,,,,7,0,Timeout #2 by Indianapolis Colts,0.000,0.330
+2,2:24,4,11,IND 44,7,0,"Chris Hanson punts 33 yards, fair catch by Brad Pyatt",0.330,0.370
+2,2:18,1,10,IND 11,7,0,Peyton Manning pass incomplete intended for Marcus Pollard,-0.370,-0.780
+2,2:13,2,10,IND 11,7,0,Peyton Manning pass complete to Brandon Stokley for 12 yards (tackle by Dewayne Washington),-0.780,0.480
+2,2:00,1,10,IND 23,7,0,Peyton Manning pass complete to Marcus Pollard for 8 yards (tackle by Mike Peterson),0.480,1.010
+2,1:40,2,2,IND 31,7,0,Peyton Manning pass complete to Brandon Stokley for 14 yards (tackle by Deon Grant),1.010,1.930
+2,1:36,1,10,IND 45,7,0,Peyton Manning pass complete to Marvin Harrison for 21 yards (tackle by Deke Cooper),1.930,3.310
+2,1:15,1,10,JAX 34,7,0,Peyton Manning pass incomplete intended for Brandon Stokley (defended by Dewayne Washington),3.310,2.770
+2,1:10,2,10,JAX 34,7,0,Peyton Manning pass incomplete intended for Marvin Harrison,2.770,2.080
+2,1:06,3,10,JAX 34,7,0,Peyton Manning pass complete to Brandon Stokley for 6 yards (tackle by Rashean Mathis),2.080,1.650
+2,0:43,,,,7,0,Timeout #1 by Jacksonville Jaguars,0.000,1.650
+2,0:43,4,4,JAX 28,10,0,Mike Vanderjagt 46 yard field goal good,1.650,3.000
+2,,,,IND 30,10,0,"Mike Vanderjagt kicks off 58 yards, returned by Jermaine Lewis for no gain",0.000,0.610
+2,0:35,1,10,JAX 25,10,0,Byron Leftwich pass complete to Reggie Williams for 18 yards (tackle by Nick Harper),0.610,1.800
+2,0:27,,,,10,0,Timeout #2 by Jacksonville Jaguars,0.000,1.800
+2,0:27,1,10,JAX 43,10,0,Byron Leftwich pass complete to Ernest Wilford for 6 yards (tackle by Nick Harper),1.800,2.060
+2,0:23,2,4,JAX 49,10,0,Byron Leftwich pass complete to Ernest Wilford for 7 yards (tackle by Jason David),2.060,2.650
+2,0:18,1,10,IND 44,10,0,Byron Leftwich pass complete to LaBrandon Toefield for 12 yards (tackle by Jim Nelson),2.650,3.450
+2,0:10,,,,10,0,Timeout #3 by Jacksonville Jaguars,0.000,3.450
+2,0:10,1,10,IND 32,10,0,Byron Leftwich pass complete to Ernest Wilford for 3 yards (tackle by Jason David),3.450,3.310
+2,0:05,2,7,IND 29,10,3,Josh Scobee 48 yard field goal good,3.310,3.000
+Quarter,Time,Down,ToGo,Location,IND,JAX,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,IND 30,10,3,"Hunter Smith kicks off 56 yards, returned by Troy Edwards for 12 yards (tackle by Gerome Sapp)",0.000,0.670
+3,14:55,1,10,JAX 26,10,3,Byron Leftwich pass incomplete intended for Jimmy Smith (defended by Anthony Floyd),0.670,0.130
+3,14:48,2,10,JAX 26,10,3,Fred Taylor up the middle for 17 yards (tackle by Cory Bird),0.130,1.800
+3,14:10,1,10,JAX 43,10,3,Fred Taylor right tackle for 1 yard (tackle by Rob Morris and Nick Harper),1.800,1.390
+3,13:35,2,9,JAX 44,10,3,"Penalty on Mike Pearson: False Start, 5 yards (no play)",1.390,0.710
+3,13:11,2,14,JAX 39,10,3,Byron Leftwich pass complete to Jimmy Smith for 9 yards (tackle by Nick Harper),0.710,1.220
+3,12:33,3,5,JAX 48,10,3,Byron Leftwich pass complete to George Wrighster for 10 yards (tackle by Cato June),1.220,2.790
+3,11:53,1,10,IND 42,10,3,Fred Taylor up the middle for 6 yards (tackle by Nick Harper and Anthony Floyd),2.790,3.050
+3,11:18,2,4,IND 36,10,3,Fred Taylor up the middle for 6 yards (tackle by David Thornton),3.050,3.580
+3,11:18,1,10,IND 30,10,3,Byron Leftwich pass complete to LaBrandon Toefield for 2 yards (tackle by Nick Harper),3.580,3.300
+3,10:13,2,8,IND 28,10,3,LaBrandon Toefield up the middle for 4 yards (tackle by David Thornton),3.300,3.140
+3,9:33,3,4,IND 24,10,3,Byron Leftwich pass complete to LaBrandon Toefield for no gain,3.140,1.940
+3,8:51,4,4,IND 24,10,6,Josh Scobee 42 yard field goal good,1.940,3.000
+3,,,,JAX 30,10,6,"Josh Scobee kicks off 72 yards, returned by Brad Pyatt for 19 yards (tackle by Ernest Wilford)",0.000,-0.060
+3,8:46,1,10,IND 17,10,6,"Penalty on Marcus Pollard: False Start, 5 yards (no play)",-0.060,-0.510
+3,8:41,1,15,IND 12,10,6,Peyton Manning pass complete to Edgerrin James for 13 yards (tackle by Akin Ayodele),-0.510,0.620
+3,8:11,2,2,IND 25,10,6,Edgerrin James right end for 7 yards (tackle by Akin Ayodele),0.620,1.070
+3,7:31,1,10,IND 32,10,6,Edgerrin James left end for 2 yards (tackle by John Henderson),1.070,0.800
+3,6:58,2,8,IND 34,10,6,Peyton Manning pass complete to Marcus Pollard for 9 yards (tackle by Deon Grant),0.800,1.800
+3,6:15,1,10,IND 43,10,6,Peyton Manning pass complete to Edgerrin James for 11 yards (tackle by Dewayne Washington),1.800,2.520
+3,5:38,1,10,JAX 46,10,6,Edgerrin James left end for 7 yards (tackle by Deon Grant),2.520,2.920
+3,4:53,2,3,JAX 39,10,6,Dominic Rhodes right end for 7 yards (tackle by Donovin Darius),2.920,3.450
+3,4:20,1,10,JAX 32,10,6,Dominic Rhodes left tackle for 8 yards (tackle by Dewayne Washington),3.450,3.980
+3,3:43,2,2,JAX 24,10,6,Dominic Rhodes left end for 8 yards (tackle by Dewayne Washington),3.980,4.510
+3,2:59,1,10,JAX 16,16,6,"Peyton Manning pass complete to Marcus Pollard for 16 yards, touchdown",4.510,7.000
+3,,,,JAX 2,17,6,Mike Vanderjagt kicks extra point good,0.000,0.000
+3,,,,IND 30,17,6,Hunter Smith kicks off 69 yards,0.000,1.600
+3,2:54,1,10,JAX 40,17,6,Fred Taylor right tackle for -5 yards (tackle by Brad Scioli),1.600,0.380
+3,2:24,2,15,JAX 35,17,6,"Byron Leftwich pass complete to Troy Edwards for 14 yards (tackle by Anthony Floyd). Penalty on Nick Harper: Defensive Holding, 5 yards (no play)",0.380,1.600
+3,1:59,1,10,JAX 40,17,6,Byron Leftwich pass complete to Fred Taylor for 15 yards (tackle by Gerome Sapp),1.600,2.590
+3,1:29,1,10,IND 45,17,6,"Penalty on Mike Compton: False Start, 5 yards (no play)",2.590,2.260
+3,1:06,1,15,JAX 50,17,6,Byron Leftwich pass complete to Troy Edwards for 10 yards (tackle by Gerome Sapp),2.260,2.720
+3,0:26,2,5,IND 40,17,6,Byron Leftwich pass complete to LaBrandon Toefield for 7 yards (tackle by Jim Nelson),2.720,3.380
+Quarter,Time,Down,ToGo,Location,IND,JAX,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,IND 33,17,6,Byron Leftwich pass incomplete intended for LaBrandon Toefield,3.380,2.840
+4,14:57,2,10,IND 33,17,6,Byron Leftwich pass complete to Troy Edwards for 4 yards (tackle by David Thornton),2.840,2.680
+4,14:17,3,6,IND 29,17,6,Byron Leftwich pass complete to Ernest Wilford for 24 yards (tackle by Gary Brackett),2.680,6.060
+4,13:37,1,5,IND 5,17,6,Greg Jones up the middle for 3 yards (tackle by Robert Mathis),6.060,5.720
+4,12:57,2,2,IND 2,17,6,Fred Taylor left tackle for -2 yards (tackle by Rob Morris),5.720,4.490
+4,12:11,,,,17,6,Timeout #1 by Jacksonville Jaguars,0.000,4.490
+4,12:11,3,4,IND 4,17,6,Byron Leftwich pass incomplete intended for Troy Edwards,4.490,3.030
+4,12:07,4,4,IND 4,17,9,Josh Scobee 22 yard field goal good,3.030,3.000
+4,,,,JAX 30,17,9,"Josh Scobee kicks off 67 yards, returned by Brad Pyatt for 30 yards (tackle by Rashean Mathis)",0.000,1.140
+4,11:57,1,10,IND 33,17,9,Peyton Manning pass incomplete intended for Dallas Clark is intercepted by Daryl Smith at IND-49,1.140,-2.320
+,,,,,,,"JAX challenged the ruling, and the original play was overturned.",,
+4,11:53,1,10,IND 49,17,9,Byron Leftwich pass complete to Reggie Williams for 9 yards (tackle by Nick Harper),2.320,3.000
+4,11:35,2,1,IND 40,17,9,Byron Leftwich pass incomplete intended for Todd Yoder,3.000,2.280
+4,11:29,3,1,IND 40,17,9,Fred Taylor up the middle for no gain (tackle by Cato June),2.280,0.590
+4,10:45,,,,17,9,Timeout #2 by Jacksonville Jaguars,0.000,0.590
+4,10:45,4,1,IND 40,17,15,"Byron Leftwich pass complete to Jimmy Smith for 40 yards, touchdown",0.590,7.000
+4,,,,,17,17,"Two Point Attempt: Byron Leftwich pass complete to Brian Jones, conversion succeeds",1.000,1.000
+4,,,,JAX 30,17,17,"Josh Scobee kicks off 64 yards, returned by Brad Pyatt for 20 yards (tackle by Kiwaukee Thomas)",0.000,0.670
+4,10:32,1,10,IND 26,17,17,Edgerrin James left end for 4 yards (tackle by Rob Meier),0.670,0.670
+4,9:54,2,6,IND 30,17,17,Peyton Manning pass complete to Edgerrin James for 1 yard (tackle by Marcus Stroud),0.670,0.100
+4,9:08,3,5,IND 31,17,17,"Peyton Manning pass incomplete intended for Marvin Harrison. Penalty on Dewayne Washington: Defensive Holding, 5 yards (no play)",0.100,1.330
+4,9:03,1,10,IND 36,17,17,Dominic Rhodes up the middle for 11 yards (tackle by Akin Ayodele),1.330,2.060
+4,8:27,1,10,IND 47,17,17,Peyton Manning pass complete to Brandon Stokley for 8 yards (tackle by Rashean Mathis),2.060,2.600
+4,7:53,2,2,JAX 45,17,17,Edgerrin James up the middle for 4 yards (tackle by Mike Peterson),2.600,2.850
+4,7:16,1,10,JAX 41,17,17,Edgerrin James up the middle for 4 yards (tackle by Mike Peterson),2.850,2.850
+4,6:45,2,6,JAX 37,17,17,Peyton Manning pass complete to Marvin Harrison for 6 yards (tackle by Deke Cooper),2.850,3.510
+4,6:14,1,10,JAX 31,17,17,Dominic Rhodes up the middle for 3 yards (tackle by Mike Peterson),3.510,3.370
+4,5:43,2,7,JAX 28,17,17,Peyton Manning pass complete to Reggie Wayne for 10 yards (tackle by Dewayne Washington),3.370,4.370
+4,5:04,1,10,JAX 18,17,17,Edgerrin James left tackle for 3 yards (tackle by John Henderson),4.370,4.250
+4,4:28,2,7,JAX 15,17,17,Edgerrin James up the middle for 1 yard (tackle by Mike Peterson),4.250,3.630
+4,3:47,3,6,JAX 14,17,17,"Peyton Manning pass complete to Brandon Stokley for 8 yards (tackle by Rashean Mathis). Penalty on Rashean Mathis: Face Mask (15 Yards), 3 yards",3.630,6.510
+4,3:42,1,3,JAX 3,23,17,"Edgerrin James up the middle for 3 yards, touchdown",6.510,7.000
+4,,,,JAX 2,24,17,Mike Vanderjagt kicks extra point good,0.000,0.000
+4,,,,IND 30,24,17,"Hunter Smith kicks off 70 yards, touchback",0.000,0.280
+4,3:33,1,10,JAX 20,24,17,Byron Leftwich pass incomplete intended for Greg Jones,0.280,-0.270
+4,3:29,2,10,JAX 20,24,17,Byron Leftwich pass complete to Troy Edwards for 26 yards (tackle by Nick Harper),-0.270,1.990
+4,2:53,1,10,JAX 46,24,17,"Byron Leftwich pass incomplete intended for Reggie Williams. Penalty on Reggie Williams: Offensive Pass Interference, 10 yards (no play)",1.990,1.330
+,,,,,,,"IND challenged the ruling, and the play was upheld.",,
+4,2:45,1,20,JAX 36,24,17,Byron Leftwich pass complete to Ernest Wilford for 7 yards (tackle by Nick Harper),1.330,1.050
+4,2:18,2,13,JAX 43,24,17,"Byron Leftwich pass incomplete intended for Brian Jones. Penalty on Mike Compton: Offensive Holding (Offsetting), Penalty on Robert Mathis: Roughing the Passer (Offsetting) (no play)",1.050,1.050
+4,2:13,2,13,JAX 43,24,17,Byron Leftwich pass incomplete intended for Brian Jones,1.050,0.370
+4,2:10,3,13,JAX 43,24,17,Byron Leftwich pass complete to George Wrighster for 12 yards (tackle by Cato June),0.370,0.270
+4,2:00,4,1,IND 45,24,17,Fred Taylor up the middle for no gain (tackle by Rob Morris),0.270,-1.930
+,,,,,,,"Replay Assistant challenged the ruling, and the play was upheld.",,
+4,1:52,1,10,IND 45,24,17,Edgerrin James right end for 1 yard (tackle by Tommy Hendricks),1.930,1.520
+4,1:47,,,,24,17,Timeout #3 by Jacksonville Jaguars,0.000,1.520
+4,1:47,2,9,IND 46,24,17,Edgerrin James for 13 yards (tackle by Tommy Hendricks),1.520,2.850
+4,1:41,1,10,JAX 41,24,17,Peyton Manning for -1 yards,2.850,2.170
+4,0:59,2,11,JAX 42,24,17,Peyton Manning for -1 yards,2.170,1.350
+4,0:37,3,12,JAX 43,24,17,Peyton Manning for -1 yards,1.350,0.330
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

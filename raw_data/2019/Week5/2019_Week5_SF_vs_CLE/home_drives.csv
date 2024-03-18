@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:28,SFO 17,1,0:11,83,Touchdown
+2,1,13:02,CLE 41,3,1:01,1,Punt
+3,1,10:23,SFO 26,8,3:57,74,Touchdown
+4,1,3:34,CLE 29,4,2:25,0,Missed FG
+5,2,11:22,SFO 25,5,2:50,15,Punt
+6,2,4:45,CLE 49,6,2:51,49,Touchdown
+7,2,0:44,CLE 38,4,0:34,4,Missed FG
+8,3,15:00,SFO 10,9,4:23,90,Touchdown
+9,3,9:08,SFO 4,15,7:37,82,Blocked FG
+10,3,1:02,SFO 10,6,2:57,12,Punt
+11,4,10:27,SFO 16,4,3:25,0,Punt
+12,4,7:02,CLE 29,4,1:54,3,Field Goal
+13,4,3:38,SFO 20,6,3:38,10,End of Game

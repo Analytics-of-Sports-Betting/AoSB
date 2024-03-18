@@ -1,0 +1,180 @@
+Quarter,Time,Down,ToGo,Location,GNB,PHI,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Packers won the coin toss and deferred, Eagles to receive the opening kickoff.",,
+1,15:00,,,GNB 35,0,0,"Mason Crosby kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,PHI 25,0,0,Jalen Hurts pass incomplete short right intended for DeVonta Smith (defended by Kingsley Enagbare),0.610,0.060
+1,14:56,2,10,PHI 25,0,0,Jalen Hurts pass incomplete deep right intended for DeVonta Smith,0.060,-0.620
+1,14:50,3,10,PHI 25,0,0,Jalen Hurts scrambles right end for 24 yards (tackle by Rudy Ford),-0.620,2.190
+1,14:18,1,10,PHI 49,0,0,Miles Sanders left tackle for 5 yards (tackle by Preston Smith and Adrian Amos),2.190,2.320
+1,13:43,2,5,GNB 46,0,0,Miles Sanders up the middle for 8 yards (tackle by Krys Barnes),2.320,3.050
+1,13:18,1,10,GNB 38,0,0,Jalen Hurts pass complete short left to DeVonta Smith for 6 yards (tackle by Jaire Alexander),3.050,3.320
+1,12:46,2,4,GNB 32,0,0,Miles Sanders right end for -2 yards (tackle by Justin Hollins and Rasul Douglas),3.320,2.340
+1,12:09,3,6,GNB 34,0,0,Jalen Hurts up the middle for 28 yards (tackle by Adrian Amos),2.340,5.830
+1,11:44,1,6,GNB 6,0,0,Kenneth Gainwell up the middle for 2 yards (tackle by Kingsley Enagbare and Adrian Amos),5.830,5.340
+1,11:25,2,4,GNB 4,0,6,"Kenneth Gainwell for 4 yards, touchdown",5.340,7.000
+1,11:19,,,GNB 15,0,7,Jake Elliott kicks extra point good,0.000,0.000
+1,11:19,,,PHI 35,0,7,"Jake Elliott kicks off 66 yards, returned by Keisean Nixon for 10 yards (tackle by Zach Pascal)",0.000,-0.380
+1,11:16,1,10,GNB 9,0,7,Aaron Rodgers pass incomplete deep right intended for Christian Watson,-0.380,-0.780
+1,11:11,2,10,GNB 9,0,7,Aaron Jones up the middle for 6 yards (tackle by Javon Hargrave and Josh Sweat),-0.780,-0.720
+1,10:32,3,4,GNB 15,0,7,Aaron Rodgers pass short right (defended by Darius Slay) intended for Allen Lazard is intercepted by Josiah Scott at GB-29 and returned for no gain (tackle by Randall Cobb),-0.720,-3.640
+1,10:23,1,10,GNB 29,0,7,Miles Sanders left guard for 6 yards (tackle by Quay Walker),3.640,3.910
+1,9:43,2,4,GNB 23,0,7,Jalen Hurts left end for 8 yards (tackle by Adrian Amos),3.910,4.580
+1,9:08,1,10,GNB 15,0,13,"Miles Sanders left guard for 15 yards, touchdown",4.580,7.000
+1,9:03,,,GNB 15,0,13,Jake Elliott kicks extra point no good,0.000,-1.000
+1,9:02,,,PHI 35,0,13,"Jake Elliott kicks off 62 yards, returned by Keisean Nixon for 38 yards (tackle by Nakobe Dean)",0.000,1.660
+1,8:51,1,10,GNB 41,0,13,Aaron Jones right end for 10 yards (tackle by Marcus Epps),1.660,2.320
+1,8:13,1,10,PHI 49,0,13,Aaron Jones left guard for -1 yards (tackle by Fletcher Cox),2.320,1.650
+1,7:33,2,11,PHI 50,0,13,Aaron Rodgers pass complete short left to Aaron Jones for 30 yards (tackle by T.J. Edwards),1.650,4.240
+1,6:51,1,10,PHI 20,6,13,"AJ Dillon left guard for 20 yards, touchdown",4.240,7.000
+1,6:45,,,PHI 15,7,13,Mason Crosby kicks extra point good,0.000,0.000
+1,6:40,,,GNB 35,7,13,"Mason Crosby kicks off 57 yards, returned by Boston Scott for 20 yards (tackle by Dallin Leavitt)",0.000,0.810
+1,6:34,1,10,PHI 28,7,13,Miles Sanders left guard for 7 yards (tackle by Kingsley Enagbare),0.810,1.210
+1,6:08,2,3,PHI 35,7,13,Miles Sanders up the middle for 2 yards (tackle by Kingsley Enagbare),1.210,0.760
+1,5:30,3,1,PHI 37,7,13,Jalen Hurts up the middle for no gain (tackle by Kingsley Enagbare),0.760,-0.910
+1,5:06,4,1,PHI 37,7,13,"Jalen Hurts aborted snap, recovered by Miles Sanders at PHI-37 (tackle by Rasul Douglas)",-0.910,-3.120
+1,5:00,1,10,PHI 37,7,13,Aaron Jones right end for 2 yards (tackle by Javon Hargrave and Kyzir White),3.120,2.840
+1,4:25,2,8,PHI 35,7,13,Aaron Rodgers pass incomplete short left intended for Randall Cobb,2.840,2.150
+1,4:22,3,8,PHI 35,7,13,Aaron Rodgers pass complete short left to Aaron Jones for 3 yards (tackle by Josiah Scott and T.J. Edwards),2.150,1.260
+1,3:37,4,5,PHI 32,7,13,"Aaron Rodgers pass complete deep middle to Christian Watson for 21 yards (tackle by C.J. Gardner-Johnson). Penalty on Kyzir White: Defensive Holding, 5 yards (declined)",1.260,4.840
+1,3:16,1,10,PHI 11,13,13,"Aaron Rodgers pass complete short middle to Randall Cobb for 11 yards, touchdown",4.840,7.000
+1,3:12,,,PHI 15,14,13,Mason Crosby kicks extra point good,0.000,0.000
+1,3:09,,,GNB 35,14,13,"Mason Crosby kicks off 65 yards, touchback.",0.000,0.610
+1,3:09,1,10,PHI 25,14,13,Miles Sanders right end for -1 yards (tackle by Preston Smith),0.610,-0.070
+1,2:32,2,11,PHI 24,14,13,Jalen Hurts pass complete short right to A.J. Brown for 23 yards (tackle by Rasul Douglas),-0.070,2.060
+1,2:02,1,10,PHI 47,14,13,Jalen Hurts pass complete short right to Miles Sanders for 4 yards (tackle by Quay Walker),2.060,2.060
+1,1:35,2,6,GNB 49,14,13,Miles Sanders left guard for 4 yards (tackle by Krys Barnes and Jarran Reed),2.060,1.880
+1,0:53,3,2,GNB 45,14,13,Jalen Hurts scrambles right end for 42 yards (tackle by Rasul Douglas),1.880,6.510
+1,0:13,,,,,,Timeout #1 by Philadelphia Eagles,,
+1,0:13,1,3,GNB 3,14,13,Jalen Hurts right end for 1 yard (tackle by Rudy Ford and Kingsley Enagbare),6.510,5.720
+Quarter,Time,Down,ToGo,Location,GNB,PHI,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,2,GNB 2,14,19,"Miles Sanders right guard for 2 yards, touchdown",5.720,7.000
+2,14:54,,,GNB 15,14,20,Jake Elliott kicks extra point good,0.000,0.000
+2,14:54,,,PHI 35,14,20,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+2,14:54,1,10,GNB 25,14,20,AJ Dillon left end for 4 yards (tackle by Milton Williams and Linval Joseph),0.610,0.600
+2,14:10,2,6,GNB 29,14,20,AJ Dillon right end for 12 yards (tackle by T.J. Edwards),0.600,1.660
+2,13:26,1,10,GNB 41,14,20,Aaron Rodgers pass complete short middle to Robert Tonyan for 17 yards (tackle by Reed Blankenship),1.660,2.790
+2,12:42,1,10,PHI 42,14,20,AJ Dillon right end for 6 yards (tackle by Haason Reddick and T.J. Edwards),2.790,3.050
+2,12:04,2,4,PHI 36,14,20,Aaron Rodgers pass complete short left to AJ Dillon for 8 yards (tackle by Reed Blankenship and James Bradberry),3.050,3.710
+2,11:20,1,10,PHI 28,14,20,Aaron Rodgers pass short middle intended for Tyler Davis is intercepted by Reed Blankenship at PHI-18 and returned for 4 yards (tackle by Robert Tonyan),3.710,-0.410
+2,11:12,1,10,PHI 22,14,20,Jalen Hurts pass complete deep left to DeVonta Smith for 17 yards (tackle by Jaire Alexander),0.410,1.530
+2,10:42,1,10,PHI 39,14,20,Miles Sanders left tackle for 5 yards (tackle by Tedarrell Slaton and Dean Lowry),1.530,1.660
+2,10:06,2,5,PHI 44,14,20,"Jalen Hurts for 17 yards (tackle by Rudy Ford). Penalty on Adrian Amos: Low Block, 15 yards (accepted)",1.660,3.970
+2,9:43,1,10,GNB 24,14,20,Jalen Hurts scrambles right end for 2 yards (tackle by Kingsley Enagbare and Quay Walker),3.970,3.700
+2,9:02,2,8,GNB 22,14,20,"Jalen Hurts pass incomplete deep right. Penalty on Isaac Seumalo: Ineligible Downfield Pass, 5 yards (declined)",3.700,3.010
+2,8:56,3,8,GNB 22,14,20,"Jalen Hurts pass complete short left to A.J. Brown for -2 yards. A.J. Brown fumbles (forced by Rudy Ford), recovered by Quay Walker at GB-24 and returned for 63 yards (tackle by Jalen Hurts)",3.010,-4.710
+2,8:38,1,10,PHI 13,14,20,"Aaron Jones left end for 3 yards, touchdown. Penalty on Elgton Jenkins: Offensive Holding, 10 yards (accepted)",4.710,4.240
+2,8:32,1,17,PHI 20,14,20,Aaron Rodgers pass complete short left to Robert Tonyan for -3 yards (tackle by James Bradberry),4.240,2.810
+2,7:50,2,20,PHI 23,20,20,"Aaron Rodgers pass complete deep middle to Aaron Jones for 23 yards, touchdown",2.810,7.000
+2,7:41,,,PHI 15,20,20,Mason Crosby kicks extra point no good,0.000,-1.000
+2,7:41,,,GNB 35,20,20,"Mason Crosby kicks off 61 yards, returned by Boston Scott for 24 yards (tackle by Tariq Carpenter)",0.000,0.810
+2,7:37,1,10,PHI 28,20,20,Jalen Hurts pass complete short left to Miles Sanders for 7 yards (tackle by Krys Barnes and Quay Walker),0.810,1.210
+2,6:50,2,3,PHI 35,20,20,Jalen Hurts sacked by Justin Hollins for -5 yards,1.210,-0.160
+2,6:02,3,8,PHI 30,20,20,Jalen Hurts pass incomplete short right,-0.160,-1.370
+2,5:55,4,8,PHI 30,20,20,Arryn Siposs punts 52 yards out of bounds,-1.370,-0.040
+2,5:48,1,10,GNB 18,20,20,AJ Dillon right guard for 9 yards (tackle by Darius Slay),0.040,0.820
+2,5:08,2,1,GNB 27,20,20,Aaron Jones right guard for 6 yards (tackle by Josh Sweat and Milton Williams),0.820,1.140
+2,4:32,1,10,GNB 33,20,20,Aaron Rodgers sacked by Josh Sweat for -3 yards,1.140,0.190
+2,3:46,2,13,GNB 30,20,20,Aaron Rodgers pass complete short right to Randall Cobb for 8 yards (tackle by Darius Slay),0.190,0.560
+2,3:01,3,5,GNB 38,20,20,Aaron Rodgers sacked by Fletcher Cox for -9 yards,0.560,-1.440
+2,2:25,4,14,GNB 29,20,20,"Pat O'Donnell punts 42 yards, fair catch by Britain Covey at PHI-29",-1.440,-0.870
+2,2:16,1,10,PHI 29,20,20,Jalen Hurts pass complete short left to Quez Watkins for 4 yards (tackle by Rasul Douglas),0.870,0.870
+2,2:00,2,6,PHI 33,20,20,Jalen Hurts pass incomplete short left intended for A.J. Brown,0.870,0.170
+2,1:56,3,6,PHI 33,20,20,Jalen Hurts pass complete short middle to A.J. Brown for 19 yards (tackle by Rudy Ford),0.170,2.390
+2,1:21,1,10,GNB 48,20,20,Jalen Hurts pass complete short left to Kenneth Gainwell for 7 yards (tackle by Krys Barnes),2.390,2.790
+2,1:16,2,3,GNB 41,20,20,Jalen Hurts sacked by and Preston Smith for -11 yards and Jarran Reed for -11 yards,2.790,0.630
+2,1:10,,,,,,Timeout #1 by Green Bay Packers,,
+2,1:10,3,14,PHI 48,20,20,Jalen Hurts pass complete short left to DeVonta Smith for 13 yards (tackle by Quay Walker and Jaire Alexander),0.630,0.660
+2,0:54,,,,,,Timeout #2 by Green Bay Packers,,
+2,0:54,4,1,GNB 39,20,20,Jalen Hurts right guard for 4 yards (tackle by Rasul Douglas),0.660,3.250
+2,0:30,1,10,GNB 35,20,20,"Rudy Ford for no gain. Penalty on Rasul Douglas: Defensive Holding, 5 yards (accepted) (no play)",3.250,3.580
+2,0:24,1,10,GNB 30,20,20,Jalen Hurts pass incomplete deep left intended for A.J. Brown,3.580,3.030
+2,0:19,2,10,GNB 30,20,26,"Jalen Hurts pass complete deep right to Quez Watkins for 30 yards, touchdown",3.030,7.000
+2,0:13,,,GNB 15,20,27,Jake Elliott kicks extra point good,0.000,0.000
+2,0:13,,,PHI 35,20,27,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+2,0:13,1,10,GNB 25,20,27,Aaron Rodgers kneels for -1 yards,0.610,-0.070
+Quarter,Time,Down,ToGo,Location,GNB,PHI,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PHI 35,20,27,"Jake Elliott kicks off 70 yards, returned by Keisean Nixon for 52 yards (tackle by Boston Scott and K'Von Wallace)",0.000,2.060
+3,14:51,1,10,GNB 47,20,27,Aaron Jones right end for 2 yards (tackle by Javon Hargrave),2.060,1.790
+3,14:09,2,8,GNB 49,20,27,Aaron Jones left end for 1 yard (tackle by Reed Blankenship),1.790,1.220
+3,13:26,3,7,PHI 50,20,27,Aaron Rodgers sacked by and Haason Reddick for -5 yards and Brandon Graham for -5 yards,1.220,-0.390
+3,12:50,4,12,GNB 45,20,27,Pat O'Donnell punts 41 yards downed by Corey Ballentine,-0.390,0.280
+3,12:42,1,10,PHI 14,20,27,Jalen Hurts pass incomplete short right intended for DeVonta Smith,-0.280,-0.750
+3,12:38,2,10,PHI 14,20,27,Miles Sanders right end for 21 yards (tackle by Rudy Ford),-0.750,1.270
+3,11:59,1,10,PHI 35,20,27,Miles Sanders left guard for 8 yards (tackle by Quay Walker),1.270,1.800
+3,11:23,2,2,PHI 43,20,27,Miles Sanders up the middle for 28 yards (tackle by Rudy Ford),1.800,3.640
+3,10:54,1,10,GNB 29,20,27,Miles Sanders left tackle for 8 yards (tackle by Adrian Amos and Jaire Alexander),3.640,4.180
+3,10:19,2,2,GNB 21,20,27,Jalen Hurts left end for 4 yards (tackle by Adrian Amos),4.180,4.440
+3,9:46,1,10,GNB 17,20,27,Jalen Hurts pass complete short right to Grant Calcaterra for -2 yards (tackle by Keisean Nixon),4.440,3.600
+3,9:03,2,12,GNB 19,20,27,Jalen Hurts pass incomplete intended for DeVonta Smith (defended by Jaire Alexander),3.600,2.910
+3,8:58,3,12,GNB 19,20,27,Jalen Hurts pass complete short left to DeVonta Smith for 14 yards (tackle by Jaire Alexander),2.910,6.060
+3,8:26,1,5,GNB 5,20,27,Kenneth Gainwell right end for 4 yards (tackle by Quay Walker),6.060,5.910
+3,7:43,2,1,GNB 1,20,27,"Penalty on Landon Dickerson: False Start, 5 yards (accepted) (no play)",5.910,4.950
+3,7:23,2,6,GNB 6,20,33,"Jalen Hurts pass complete short right to A.J. Brown for 6 yards, touchdown",4.950,7.000
+3,7:14,,,GNB 15,20,34,Jake Elliott kicks extra point good,0.000,0.000
+3,7:19,,,PHI 35,20,34,"Jake Elliott kicks off 59 yards, returned by Keisean Nixon for 19 yards (tackle by Shaun Bradley)",0.000,0.610
+3,7:15,1,10,GNB 25,20,34,"Aaron Rodgers pass complete short right to Christian Watson for 11 yards (tackle by Darius Slay). Penalty on Reed Blankenship: Unnecessary Roughness / Defense, 15 yards (accepted)",0.610,2.320
+3,6:51,1,10,PHI 49,20,34,AJ Dillon left tackle for 1 yard (tackle by T.J. Edwards),2.320,1.920
+3,6:12,2,9,PHI 48,20,34,AJ Dillon up the middle for 10 yards (tackle by Marcus Epps),1.920,3.050
+3,5:36,1,10,PHI 38,20,34,"AJ Dillon right end for 2 yards (tackle by Kyzir White). Penalty on Linval Joseph: Defensive Holding, 5 yards (accepted)",3.050,3.510
+3,5:10,1,10,PHI 31,20,34,Aaron Jones right guard for 7 yards (tackle by Reed Blankenship),3.510,3.910
+3,4:24,2,3,PHI 24,20,34,Aaron Rodgers pass complete short left to AJ Dillon for 11 yards (tackle by T.J. Edwards and Reed Blankenship),3.910,4.710
+3,3:44,1,10,PHI 13,20,34,Aaron Rodgers pass incomplete short right intended for AJ Dillon,4.710,4.050
+3,3:41,2,10,PHI 13,20,34,Aaron Jones right end for 6 yards (tackle by Haason Reddick),4.050,4.330
+3,2:58,3,4,PHI 7,20,34,Aaron Jones right guard for 1 yard (tackle by Haason Reddick),4.330,3.010
+3,2:17,4,3,PHI 6,20,34,"Penalty on Yosuah Nijman: False Start, 5 yards (accepted) (no play)",3.010,2.700
+3,2:06,4,8,PHI 11,23,34,Mason Crosby 29 yard field goal good,2.700,3.000
+3,2:03,,,GNB 35,23,34,"Mason Crosby kicks off 67 yards, returned by Boston Scott for 28 yards (tackle by Corey Ballentine)",0.000,0.670
+3,1:58,1,10,PHI 26,23,34,Jalen Hurts right tackle for 6 yards (tackle by Isaiah McDuffie),0.670,0.940
+3,1:31,2,4,PHI 32,23,34,Jalen Hurts scrambles left end for 9 yards (tackle by Isaiah McDuffie),0.940,1.660
+3,0:44,1,10,PHI 41,23,34,Jalen Hurts pass complete short left to Miles Sanders for 6 yards (tackle by Adrian Amos),1.660,1.930
+3,0:08,2,4,PHI 47,23,34,Jalen Hurts pass incomplete short left,1.930,1.220
+Quarter,Time,Down,ToGo,Location,GNB,PHI,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,4,PHI 47,23,34,Kenneth Gainwell right guard for 10 yards (tackle by Quay Walker and Isaiah McDuffie),1.220,2.720
+4,14:25,1,10,GNB 43,23,34,Jalen Hurts pass incomplete short left intended for Quez Watkins,2.720,2.180
+4,14:22,2,10,GNB 43,23,34,Miles Sanders right guard for 3 yards (tackle by Preston Smith),2.180,1.880
+4,13:44,3,7,GNB 40,23,34,Kenneth Gainwell left tackle for 5 yards (tackle by Rasul Douglas and Quay Walker),1.880,0.990
+4,13:26,4,2,GNB 35,23,34,Jalen Hurts left guard for 2 yards (tackle by Adrian Amos and Preston Smith),0.990,3.380
+4,12:43,,,,,,Timeout #1 by Philadelphia Eagles,,
+4,12:43,1,10,GNB 33,23,34,Boston Scott left guard for 19 yards (tackle by Jaire Alexander),3.380,4.650
+4,12:12,1,10,GNB 14,23,34,Jalen Hurts pass incomplete short right intended for DeVonta Smith (defended by Rasul Douglas),4.650,4.000
+4,12:08,2,10,GNB 14,23,34,Boston Scott right tackle for 1 yard (tackle by Tedarrell Slaton),4.000,3.260
+4,11:24,3,9,GNB 13,23,34,Jalen Hurts pass incomplete short left intended for Quez Watkins,3.260,2.570
+4,11:14,4,9,GNB 13,23,37,Jake Elliott 31 yard field goal good,2.570,3.000
+4,11:11,,,PHI 35,23,37,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+4,11:11,1,10,GNB 25,23,37,Aaron Jones for no gain (tackle by Linval Joseph),0.610,0.060
+4,10:30,2,10,GNB 25,23,37,Jordan Love pass complete short left to AJ Dillon for 5 yards (tackle by T.J. Edwards and Reed Blankenship),0.060,0.040
+4,9:44,3,5,GNB 30,23,37,Jordan Love pass complete short right to Allen Lazard for 7 yards (tackle by Darius Slay),0.040,1.400
+4,9:10,1,10,GNB 37,29,37,"Jordan Love pass complete short middle to Christian Watson for 63 yards, touchdown",1.400,7.000
+4,9:00,,,PHI 15,30,37,Mason Crosby kicks extra point good,0.000,0.000
+4,9:00,,,GNB 35,30,37,"Mason Crosby kicks off 63 yards, returned by Boston Scott for 19 yards (tackle by Eric Wilson)",0.000,0.340
+4,8:55,1,10,PHI 21,30,37,Miles Sanders right tackle for 11 yards (tackle by Kenny Clark),0.340,1.070
+4,8:10,1,10,PHI 32,30,37,Jalen Hurts right end for 1 yard (tackle by Rudy Ford),1.070,0.660
+4,7:26,2,9,PHI 33,30,37,Jalen Hurts scrambles up the middle for 10 yards (tackle by Devonte Wyatt),0.660,1.800
+4,6:41,1,10,PHI 43,30,37,Boston Scott left end for 4 yards (tackle by Keisean Nixon),1.800,1.790
+4,5:55,2,6,PHI 47,30,37,Miles Sanders right end for 2 yards (tackle by Rasul Douglas and Rudy Ford),1.790,1.350
+4,5:15,3,4,PHI 49,30,37,Kenneth Gainwell left guard for 8 yards (tackle by Kingsley Enagbare and Quay Walker),1.350,2.720
+4,4:34,1,10,GNB 43,30,37,Kenneth Gainwell left tackle for 2 yards (tackle by Quay Walker and Tedarrell Slaton),2.720,2.450
+4,3:52,2,8,GNB 41,30,37,Jalen Hurts pass complete short right to Quez Watkins for 1 yard (tackle by Keisean Nixon),2.450,1.880
+4,3:09,3,7,GNB 40,30,37,Kenneth Gainwell right guard for 4 yards (tackle by Preston Smith),1.880,0.890
+4,2:21,,,,,,Timeout #2 by Philadelphia Eagles,,
+4,2:21,4,3,GNB 36,30,40,Jake Elliott 54 yard field goal good,0.890,3.000
+4,2:16,,,PHI 35,30,40,"Jake Elliott kicks off 71 yards, returned by Keisean Nixon for 53 yards (tackle by K'Von Wallace)",0.000,2.060
+4,2:09,1,10,GNB 47,30,40,Jordan Love pass complete short middle to Christian Watson for 15 yards (tackle by Marcus Epps),2.060,3.050
+4,2:00,1,10,PHI 38,30,40,Jordan Love pass incomplete deep right intended for Aaron Jones,3.050,2.510
+4,1:56,2,10,PHI 38,30,40,Jordan Love pass complete short middle to Allen Lazard for 17 yards (tackle by Kyzir White and Josiah Scott),2.510,4.170
+4,1:46,,,,,,Timeout #3 by Philadelphia Eagles,,
+4,1:46,1,10,PHI 21,30,40,Jordan Love pass incomplete deep right intended for Christian Watson,4.170,3.630
+4,1:39,2,10,PHI 21,30,40,Jordan Love pass complete short left to Robert Tonyan for 6 yards (tackle by Josiah Scott),3.630,3.810
+4,1:18,3,4,PHI 15,30,40,Jordan Love pass incomplete short middle intended for Randall Cobb (defended by K'Von Wallace),3.810,2.520
+4,1:11,4,4,PHI 15,33,40,Mason Crosby 33 yard field goal good,2.520,3.000
+4,1:08,,,GNB 35,33,40,"Mason Crosby kicks onside 9 yards, recovered by Jack Stoll",0.000,2.650
+4,1:07,1,10,GNB 44,33,40,Miles Sanders left tackle for 2 yards (tackle by Krys Barnes),2.650,2.380
+4,1:01,,,,,,Timeout #1 by Green Bay Packers,,
+4,1:01,2,8,GNB 42,33,40,Miles Sanders right tackle for 5 yards (tackle by Dean Lowry),2.380,2.350
+4,0:57,,,,,,Timeout #2 by Green Bay Packers,,
+4,0:57,3,3,GNB 37,33,40,Miles Sanders right tackle for 4 yards (tackle by Adrian Amos),2.350,3.380
+4,0:24,1,10,GNB 33,33,40,Jalen Hurts kneels for -1 yards,3.380,2.700
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

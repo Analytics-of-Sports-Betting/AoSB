@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,CAR 36,10,5:11,64,Touchdown
+2,1,8:03,CAR 30,8,3:49,65,Field Goal
+3,1,2:34,CAR 16,3,1:36,3,Punt
+4,2,13:30,CAR 36,3,0:55,20,Interception
+5,2,10:01,CAR 27,3,2:11,-5,Punt
+6,2,2:36,CAR 26,6,1:31,11,Punt
+7,3,12:30,CAR 18,11,6:16,60,Field Goal
+8,3,4:14,CAR 21,3,2:01,9,Punt
+9,4,10:04,CAR 20,6,2:52,75,Field Goal
+10,4,5:19,CAR 33,3,2:16,-2,Punt
+11,4,0:18,CAR 8,1,0:18,-1,End of Game

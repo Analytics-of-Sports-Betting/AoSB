@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:37,JAX 36,7,3:15,10,Field Goal
+2,1,7:25,HOU 20,9,4:46,51,Field Goal
+3,1,1:06,HOU 18,6,2:55,29,Punt
+4,2,10:26,HOU 40,9,4:55,60,Touchdown
+5,2,1:11,HOU 20,3,1:11,12,End of Half
+6,3,15:00,HOU 25,6,2:10,19,Punt
+7,3,11:27,JAX 12,2,0:37,12,Touchdown
+8,3,7:55,HOU 7,3,1:00,0,Punt
+9,3,2:18,HOU 25,6,3:12,27,Punt
+10,4,12:33,HOU 39,3,1:14,4,Punt
+11,4,5:30,HOU 26,8,3:15,30,Punt
+12,4,1:05,JAX 36,2,1:05,-2,End of Game

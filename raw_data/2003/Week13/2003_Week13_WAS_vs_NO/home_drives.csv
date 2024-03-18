@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,11:12,WAS 42,8,3:11,31,Interception
+2,1,4:41,WAS 8,4,1:32,39,Punt
+3,2,14:56,WAS 23,7,3:53,32,Punt
+4,2,9:05,WAS 24,11,5:17,76,Touchdown
+5,2,2:24,,0,0:14,0,Touchdown
+6,2,1:06,WAS 20,7,1:06,53,End of Half
+7,3,15:00,WAS 32,3,1:22,8,Punt
+8,3,12:36,WAS 38,3,1:12,25,Fumble
+9,3,10:29,WAS 38,9,4:34,35,Field Goal
+10,3,0:38,WAS 40,7,2:45,29,Field Goal
+11,4,9:38,WAS 17,5,2:47,19,Punt
+12,4,2:12,WAS 20,5,0:33,21,Downs
+13,4,0:04,WAS 4,1,0:04,14,Fumble

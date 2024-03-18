@@ -1,0 +1,196 @@
+Quarter,Time,Down,ToGo,Location,GNB,DET,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Lions won the coin toss, Lions to receive the opening kickoff.",,
+1,15:00,,,GNB 30,0,0,"Mason Crosby kicks off 69 yards, returned by Aveion Cason for 18 yards (tackle by Vernand Morency)",0.000,0.150
+1,14:56,1,10,DET 19,0,0,Kevin Jones left end for 2 yards (tackle by Brady Poppinga),0.150,-0.060
+1,14:18,2,8,DET 21,0,0,Kevin Jones left end for 13 yards (tackle by Aaron Rouse),-0.060,1.200
+1,13:50,1,10,DET 34,0,0,Jon Kitna pass complete short right to Kevin Jones for 13 yards (tackle by Charles Woodson),1.200,2.060
+1,13:04,1,10,DET 47,0,0,"Kevin Jones up the middle for 4 yards (tackle by Charles Woodson and Al Harris). Penalty on Cullen Jenkins: Defensive Offside, 5 yards (no play)",2.060,2.790
+1,12:42,1,5,GNB 48,0,0,T.J. Duckett right tackle for 4 yards (tackle by Aaron Rouse),2.790,2.730
+1,12:04,2,1,GNB 44,0,0,T.J. Duckett up the middle for 10 yards (tackle by A.J. Hawk and Aaron Rouse),2.730,3.310
+1,11:21,1,10,GNB 34,0,0,T.J. Duckett right tackle for 5 yards (tackle by Atari Bigby and A.J. Hawk),3.310,3.450
+1,10:39,2,5,GNB 29,0,0,Aveion Cason right tackle for 3 yards (tackle by Ryan Pickett and Aaron Kampman),3.450,3.140
+1,9:59,3,2,GNB 26,0,0,Jon Kitna pass complete short middle to Calvin Johnson for 13 yards (tackle by Atari Bigby),3.140,4.710
+1,9:24,1,10,GNB 13,0,0,Kevin Jones right end for 2 yards (tackle by Nick Barnett),4.710,4.390
+1,8:46,2,8,GNB 11,0,0,T.J. Duckett left tackle for 3 yards (tackle by Nick Barnett),4.390,4.100
+1,8:07,3,5,GNB 8,0,0,"Jon Kitna pass complete short middle to Shaun McDonald for 7 yards (tackle by Frank Walker). Penalty on Dominic Raiola: Chop Block, 15 yards (no play)",4.100,2.150
+1,7:30,3,20,GNB 23,0,0,Jon Kitna sacked by Aaron Kampman for -6 yards,2.150,1.500
+1,7:17,4,26,GNB 29,0,3,Jason Hanson 47 yard field goal good,1.500,3.000
+1,,,,DET 30,0,3,"Jason Hanson kicks off 70 yards, returned by Tramon Williams for 33 yards (tackle by Alex Lewis)",0.000,1.140
+1,6:58,1,10,GNB 33,0,3,"Brett Favre for no gain. Brett Favre fumbles, recovered by Jared DeVries at GNB-25 (tackle by Mark Tauscher)",1.140,-3.910
+1,6:53,1,10,GNB 25,0,3,Kevin Jones up the middle for 2 yards (tackle by Ryan Pickett),3.910,3.630
+1,6:19,2,8,GNB 23,0,3,Jon Kitna pass incomplete deep right intended for Calvin Johnson (defended by Jarrett Bush),3.630,2.940
+1,6:13,3,8,GNB 23,0,3,Jon Kitna pass incomplete short right intended for Calvin Johnson,2.940,1.930
+1,6:08,4,8,GNB 23,0,6,Jason Hanson 41 yard field goal good,1.930,3.000
+1,,,,DET 30,0,6,"Jason Hanson kicks off 69 yards, returned by Koren Robinson for 26 yards (tackle by Anthony Cannon)",0.000,0.740
+1,5:56,1,10,GNB 27,0,6,Brett Favre pass incomplete short right intended for Greg Jennings (defended by Fernando Bryant),0.740,0.200
+1,5:53,2,10,GNB 27,0,6,Ryan Grant left end for no gain (tackle by Boss Bailey),0.200,-0.490
+1,5:07,3,10,GNB 27,0,6,Brett Favre pass complete short right to James Jones for 9 yards (tackle by Paris Lenon),-0.490,-0.980
+1,4:28,4,1,GNB 36,0,6,Jon Ryan punts 38 yards,-0.980,-0.670
+1,4:19,1,10,DET 26,0,6,Jon Kitna pass incomplete deep middle intended for Calvin Johnson,0.670,0.130
+1,4:14,2,10,DET 26,0,6,Kevin Jones left end for 4 yards (tackle by Cullen Jenkins),0.130,-0.030
+1,3:36,3,6,DET 30,0,6,Jon Kitna pass complete short middle to Shaun McDonald for 8 yards (tackle by Frank Walker),-0.030,1.470
+1,3:03,1,10,DET 38,0,6,Kevin Jones left end for 23 yards (tackle by Nick Barnett and Mike Montgomery),1.470,2.980
+1,2:16,1,10,GNB 39,0,6,T.J. Duckett right end for 7 yards (tackle by Kabeer Gbaja-Biamila),2.980,3.390
+1,1:33,2,3,GNB 32,0,6,Jon Kitna pass incomplete short middle intended for Sean McHugh (defended by Colin Cole),3.390,2.680
+1,1:27,3,3,GNB 32,0,6,Jon Kitna sacked by Aaron Kampman for -6 yards,2.680,0.720
+1,1:12,4,9,GNB 38,0,6,"Nick Harris punts 26 yards, returned by Charles Woodson for 34 yards (tackle by Alex Lewis)",0.720,-1.990
+1,0:57,1,10,GNB 46,0,6,Brett Favre pass complete short middle to Donald Driver for 8 yards (tackle by Paris Lenon),1.990,2.530
+1,0:22,2,2,DET 46,0,6,Brett Favre pass incomplete short middle intended for Donald Driver,2.530,1.820
+1,0:18,3,2,DET 46,0,6,Brett Favre pass incomplete short right intended for Koren Robinson (defended by Gerald Alexander),1.820,0.200
+1,0:13,4,2,DET 46,0,6,"Jon Ryan punts 46 yards, touchback",0.200,-0.280
+1,0:04,1,10,DET 20,0,6,Kevin Jones left end for 3 yards (tackle by Colin Cole),0.280,0.140
+Quarter,Time,Down,ToGo,Location,GNB,DET,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,7,DET 23,0,6,Jon Kitna pass incomplete deep middle intended for Calvin Johnson is intercepted by Aaron Rouse at DET-45 and returned for 34 yards (tackle by Blaine Saipaia),0.140,-4.840
+2,14:47,1,10,DET 11,6,6,"Brett Favre pass complete short left to Greg Jennings for 11 yards, touchdown",4.840,7.000
+2,,,,DET 2,7,6,Mason Crosby kicks extra point good,0.000,0.000
+2,,,,GNB 30,7,6,"Mason Crosby kicks off 72 yards, returned by Aveion Cason for 25 yards (tackle by Tramon Williams)",0.000,0.480
+2,14:34,1,10,DET 23,7,6,Kevin Jones left tackle for 3 yards (tackle by Colin Cole),0.480,0.340
+2,14:06,2,7,DET 26,7,6,Kevin Jones left end for 8 yards (tackle by Colin Cole and Brady Poppinga),0.340,1.200
+2,13:28,1,10,DET 34,7,6,Kevin Jones up the middle for 2 yards (tackle by Atari Bigby),1.200,0.930
+2,12:51,2,8,DET 36,7,6,Jon Kitna pass incomplete short left intended for Roy E. Williams,0.930,0.230
+2,12:46,3,8,DET 36,7,6,Jon Kitna pass complete short middle to Aveion Cason for 20 yards (tackle by Aaron Rouse),0.230,2.650
+2,12:10,1,10,GNB 44,7,6,T.J. Duckett up the middle for 1 yard (tackle by A.J. Hawk and Colin Cole),2.650,2.250
+2,11:24,2,9,GNB 43,7,6,Kevin Jones right tackle for 4 yards (tackle by Nick Barnett),2.250,2.080
+2,10:44,3,5,GNB 39,7,6,Jon Kitna pass incomplete short left intended for Calvin Johnson (defended by Tramon Williams),2.080,0.660
+2,10:38,4,5,GNB 39,7,6,"Nick Harris punts 39 yards, touchback",0.660,-0.280
+2,10:32,1,10,GNB 20,7,6,Brett Favre pass complete short right to Ryan Grant for no gain,0.280,-0.270
+2,9:50,2,10,GNB 20,7,6,Brett Favre pass complete deep middle to Donald Driver for 38 yards (tackle by Gerald Alexander),-0.270,2.790
+2,8:56,1,10,DET 42,7,6,Brett Favre pass incomplete short middle intended for Donald Driver,2.790,2.240
+2,8:52,2,10,DET 42,7,6,Brett Favre pass complete deep right to James Jones for 18 yards (tackle by Travis Fisher),2.240,3.970
+2,8:20,1,10,DET 24,7,6,Brett Favre pass complete deep left to Donald Driver for 19 yards (tackle by Keith Smith),3.970,6.060
+2,7:42,1,5,DET 5,13,6,"Ryan Grant right tackle for 5 yards, touchdown",6.060,7.000
+2,,,,DET 2,14,6,Mason Crosby kicks extra point good,0.000,0.000
+2,,,,GNB 30,14,6,"Mason Crosby kicks off 68 yards, returned by Aveion Cason for 74 yards (tackle by Tramon Williams)",0.000,3.970
+2,7:29,1,10,GNB 24,14,6,Jon Kitna pass incomplete deep right intended for Calvin Johnson (defended by Jarrett Bush),3.970,3.430
+2,7:22,2,10,GNB 24,14,6,Kevin Jones up the middle for 3 yards (tackle by Colin Cole and Nick Barnett),3.430,3.140
+2,6:43,3,7,GNB 21,14,6,Jon Kitna sacked by Kabeer Gbaja-Biamila for -6 yards,3.140,1.670
+2,6:30,4,13,GNB 27,14,9,Jason Hanson 45 yard field goal good,1.670,3.000
+2,,,,DET 30,14,9,"Jason Hanson kicks off 72 yards, returned by Koren Robinson for 29 yards (tackle by Casey Fitzsimmons)",0.000,0.740
+2,6:07,1,10,GNB 27,14,9,Brett Favre pass complete short right to Korey Hall for 5 yards (tackle by Gerald Alexander),0.740,0.870
+2,5:23,2,5,GNB 32,14,9,Brett Favre pass incomplete short middle intended for Ryan Grant (defended by Ernie Sims),0.870,0.170
+2,5:17,3,5,GNB 32,14,9,Brett Favre pass incomplete deep right intended for James Jones. Penalty on Scott Wells: Offensive Holding (Declined),0.170,-1.240
+2,5:12,4,5,GNB 32,14,9,Jon Ryan punts 50 yards,-1.240,-0.040
+2,5:04,1,10,DET 18,14,9,Kevin Jones for 4 yards (tackle by Aaron Rouse),0.040,0.140
+2,4:36,2,6,DET 22,14,9,Kevin Jones left end for 7 yards (tackle by A.J. Hawk and Nick Barnett),0.140,0.870
+2,3:54,1,10,DET 29,14,9,Jon Kitna pass incomplete short left intended for Sean McHugh,0.870,0.330
+2,3:48,2,10,DET 29,14,9,Jon Kitna pass complete short middle to Aveion Cason for 17 yards (tackle by Frank Walker),0.330,1.990
+2,3:10,1,10,DET 46,14,9,Jon Kitna pass incomplete short right intended for T.J. Duckett,1.990,1.450
+2,3:03,2,10,DET 46,14,9,Jon Kitna pass complete short left to Roy E. Williams for 8 yards (tackle by Al Harris),1.450,1.820
+2,2:28,3,2,GNB 46,14,9,Jon Kitna pass incomplete deep right intended for Calvin Johnson (defended by Tramon Williams),1.820,0.200
+2,2:21,4,2,GNB 46,14,9,"Nick Harris punts 46 yards, touchback",0.200,-0.280
+2,2:12,1,10,GNB 20,14,9,Ryan Grant left end for 2 yards (tackle by Shaun Rogers),0.280,0.000
+2,2:00,2,8,GNB 22,14,9,Brett Favre pass complete short right to Greg Jennings for 10 yards (tackle by Fernando Bryant),0.000,1.070
+2,1:31,1,10,GNB 32,14,9,Brett Favre pass complete short right to Ryan Grant for 13 yards (tackle by Ernie Sims),1.070,1.930
+2,1:05,1,10,GNB 45,14,9,"Brett Favre pass complete deep right to James Jones for 20 yards (tackle by Kenoy Kennedy). James Jones fumbles (forced by Kenoy Kennedy), ball out of bounds at DET-35",1.930,3.250
+,,,,,,,"Replay Assistant challenged the ruling, and the play was upheld.",,
+2,0:58,1,10,DET 35,14,9,Brett Favre pass complete short right to Ryan Grant for 9 yards (tackle by Paris Lenon),3.250,3.920
+2,0:34,2,1,DET 26,14,9,Brett Favre pass complete short left to Donald Driver for 7 yards (tackle by Keith Smith),3.920,4.310
+2,0:29,,,,14,9,Timeout #1 by Green Bay Packers,0.000,4.310
+2,0:29,1,10,DET 19,14,9,Brett Favre pass complete short middle to Donald Driver for 7 yards (tackle by Travis Fisher),4.310,4.920
+2,0:19,,,,14,9,Timeout #2 by Green Bay Packers,0.000,4.920
+2,0:19,2,3,DET 12,14,9,Brett Favre pass complete short middle to Donald Lee for 10 yards (tackle by Gerald Alexander),4.920,6.740
+2,0:04,,,,14,9,Timeout #3 by Green Bay Packers,0.000,6.740
+2,0:04,1,2,DET 2,17,9,Mason Crosby 20 yard field goal good,6.740,3.000
+Quarter,Time,Down,ToGo,Location,GNB,DET,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DET 30,17,9,"Jason Hanson kicks off 70 yards, touchback",0.000,0.280
+3,15:00,1,10,GNB 20,17,9,Brett Favre pass complete short left to Donald Driver for 5 yards (tackle by Ernie Sims),0.280,0.410
+3,14:22,2,5,GNB 25,17,9,Brett Favre pass complete short left to Koren Robinson for 7 yards (tackle by Keith Smith),0.410,1.070
+3,13:49,1,10,GNB 32,17,9,Brett Favre pass complete short middle to Donald Driver for 9 yards (tackle by Paris Lenon),1.070,1.740
+3,13:03,2,1,GNB 41,17,9,Brett Favre pass complete short left to Donald Driver for 4 yards (tackle by Kenoy Kennedy),1.740,1.930
+3,12:24,1,10,GNB 45,17,9,Brett Favre pass complete short right to James Jones for 8 yards (tackle by Stanley Wilson),1.930,2.460
+3,11:37,2,2,DET 47,17,9,Brett Favre pass complete deep right to Koren Robinson for 43 yards (tackle by Travis Fisher),2.460,6.280
+3,11:17,,,,17,9,Timeout #1 by Detroit Lions,0.000,6.280
+3,11:17,1,4,DET 4,23,9,"Brett Favre pass complete short right to Greg Jennings for 4 yards, touchdown",6.280,7.000
+3,,,,DET 2,24,9,Mason Crosby kicks extra point good,0.000,0.000
+3,,,,GNB 30,24,9,"Mason Crosby kicks off 60 yards, returned by Casey Fitzsimmons for 15 yards (tackle by Tracy White)",0.000,0.610
+3,11:06,1,10,DET 25,24,9,Kevin Jones left tackle for 5 yards (tackle by Aaron Kampman),0.610,0.740
+3,10:32,2,5,DET 30,24,9,Kevin Jones left tackle for 8 yards (tackle by Ryan Pickett),0.740,1.470
+3,9:57,1,10,DET 38,24,9,Kevin Jones left end for 2 yards (tackle by Nick Barnett and Cullen Jenkins),1.470,1.190
+3,9:23,2,8,DET 40,24,9,Jon Kitna pass complete short right to Calvin Johnson for 13 yards (tackle by Frank Walker),1.190,2.460
+3,8:45,1,10,GNB 47,24,9,Kevin Jones left tackle for 1 yard (tackle by Corey Williams),2.460,2.050
+3,8:09,2,9,GNB 46,24,9,Jon Kitna pass incomplete short left intended for Kevin Jones,2.050,1.350
+3,8:05,3,9,GNB 46,24,9,Jon Kitna pass complete short right to Shaun McDonald for 10 yards (tackle by Jarrett Bush),1.350,3.180
+3,7:23,1,10,GNB 36,24,9,T.J. Duckett right end for -1 yards (tackle by Mike Montgomery),3.180,2.500
+3,6:49,2,11,GNB 37,24,9,"Jon Kitna pass complete short left to T.J. Duckett for 15 yards (tackle by Nick Barnett). Penalty on Stephen Peterman: Ineligible Downfield Pass, 5 yards (no play)",2.500,1.830
+3,6:13,2,16,GNB 42,24,9,Jon Kitna pass incomplete short middle intended for Mike Furrey,1.830,1.160
+3,6:08,3,16,GNB 42,24,9,"Penalty on Jon Kitna: False Start, 5 yards (no play)",1.160,0.500
+3,6:08,3,21,GNB 47,24,9,Jon Kitna pass complete short left to Kevin Jones for 14 yards (tackle by Aaron Rouse),0.500,1.150
+3,5:21,4,7,GNB 33,24,12,Jason Hanson 52 yard field goal good,1.150,3.000
+3,,,,DET 30,24,12,"Jason Hanson kicks off 78 yards, touchback",0.000,0.280
+3,5:15,1,10,GNB 20,24,12,Brett Favre pass complete deep right to Greg Jennings for 24 yards (tackle by Kenoy Kennedy),0.280,1.860
+3,4:43,1,10,GNB 44,24,12,Brett Favre pass complete short middle to Ryan Grant for no gain,1.860,1.320
+3,4:01,2,10,GNB 44,24,12,"Brett Favre pass incomplete short right intended for Donald Driver (defended by Travis Fisher). Penalty on Travis Fisher: Defensive Pass Interference, 8 yards (no play)",1.320,2.390
+3,3:56,1,10,DET 48,24,12,Brett Favre pass complete short left to Ryan Grant for 7 yards (tackle by Travis Fisher),2.390,2.790
+3,3:11,2,3,DET 41,24,12,"Penalty on Cory Redding: Encroachment, 5 yards (no play)",2.790,3.180
+3,2:47,1,10,DET 36,24,12,Ryan Grant left end for 31 yards (tackle by Kenoy Kennedy),3.180,6.060
+3,2:31,,,,24,12,Timeout #2 by Detroit Lions,0.000,6.060
+3,2:31,1,5,DET 5,24,12,Ryan Grant left end for 2 yards (tackle by Shaun Rogers and Kalimba Edwards),6.060,5.530
+3,1:53,2,3,DET 3,30,12,"Brett Favre pass complete short left to Ruvell Martin for 3 yards, touchdown",5.530,7.000
+3,,,,DET 2,31,12,Mason Crosby kicks extra point good,0.000,0.000
+3,,,,GNB 30,31,12,"Mason Crosby kicks off 74 yards, returned by Aveion Cason for 25 yards (tackle by Jason Hunter)",0.000,0.340
+3,1:42,1,10,DET 21,31,12,Jon Kitna pass incomplete deep left intended for Roy E. Williams,0.340,-0.200
+3,1:35,2,10,DET 21,31,12,Jon Kitna pass complete short right to Troy Walters for 6 yards (tackle by Tramon Williams),-0.200,-0.100
+3,0:53,3,4,DET 27,31,12,Jon Kitna pass incomplete short left intended for Calvin Johnson,-0.100,-1.570
+3,0:45,4,4,DET 27,31,12,Nick Harris punts 39 yards,-1.570,-1.200
+3,0:39,1,10,GNB 34,31,12,"Brett Favre pass complete short right to Ryan Grant for 2 yards (tackle by Ernie Sims). Penalty on Langston Moore: Unnecessary Roughness, 15 yards",1.200,2.320
+3,0:13,1,10,DET 49,31,12,Ryan Grant right end for 2 yards (tackle by Jared DeVries),2.320,2.050
+Quarter,Time,Down,ToGo,Location,GNB,DET,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,8,DET 47,31,12,Ryan Grant right end for 2 yards (tackle by Dewayne White),2.050,1.620
+4,14:34,3,6,DET 45,31,12,Brett Favre pass complete short left to Donald Driver for 41 yards (tackle by Keith Smith),1.620,6.280
+4,14:02,1,4,DET 4,31,12,Brett Favre pass incomplete short left intended for Koren Robinson (defended by Tony Beckham),6.280,5.340
+4,13:56,2,4,DET 4,31,12,Ryan Grant left tackle for 2 yards (tackle by Boss Bailey),5.340,4.950
+4,13:17,3,2,DET 2,31,12,Brett Favre pass incomplete short left intended for Greg Jennings (defended by Keith Smith),4.950,3.250
+4,13:12,4,2,DET 2,34,12,Mason Crosby 20 yard field goal good,3.250,3.000
+4,,,,GNB 30,34,12,"Mason Crosby kicks off 73 yards, returned by Aveion Cason for 28 yards (tackle by Frank Walker)",0.000,0.610
+4,13:01,1,10,DET 25,34,12,Jon Kitna pass complete short middle to Calvin Johnson for 12 yards (tackle by Atari Bigby),0.610,1.400
+4,12:36,1,10,DET 37,34,12,Jon Kitna left tackle for 6 yards (tackle by Jason Hunter),1.400,1.670
+4,12:10,2,4,DET 43,34,12,"Jon Kitna pass complete short right to Aveion Cason for 9 yards (tackle by Frank Walker). Penalty on Frank Walker: Personal Foul, 15 yards",1.670,3.380
+4,11:48,1,10,GNB 33,34,12,Jon Kitna pass incomplete short middle intended for Shaun McDonald,3.380,2.840
+4,11:42,2,10,GNB 33,34,12,Jon Kitna pass incomplete short left intended for Mike Furrey (defended by Atari Bigby),2.840,2.150
+4,11:38,3,10,GNB 33,34,12,Jon Kitna up the middle for 3 yards (tackle by Aaron Kampman and Corey Williams),2.150,1.410
+4,11:09,4,7,GNB 30,34,12,Jon Kitna pass complete short left to Calvin Johnson for 7 yards (tackle by Tramon Williams),1.410,4.040
+4,10:41,1,10,GNB 23,34,12,"Jon Kitna pass complete short left to Roy E. Williams for 19 yards (tackle by Al Harris). Penalty on Al Harris: Face Mask (15 Yards), 2 yards",4.040,6.740
+4,10:31,,,,34,12,Timeout #1 by Green Bay Packers,0.000,6.740
+4,10:31,1,2,GNB 2,34,12,Kevin Jones right tackle for -4 yards (tackle by Mike Montgomery),6.740,4.950
+4,10:03,2,6,GNB 6,34,18,"Jon Kitna pass complete short middle to Calvin Johnson for 6 yards, touchdown",4.950,7.000
+4,,,,GNB 2,34,19,"Jason Hanson kicks extra point good. Penalty on Jarrett Bush: Defensive Offside, 5 yards",0.000,0.000
+4,,,,DET 35,34,19,"Jason Hanson kicks off 64 yards, returned by Koren Robinson for 18 yards (tackle by Casey Fitzsimmons)",0.000,0.150
+4,9:52,1,10,GNB 19,34,19,Ryan Grant right end for 1 yard (tackle by Shaun Rogers),0.150,-0.200
+4,9:10,2,9,GNB 20,34,19,Ryan Grant right tackle for 7 yards (tackle by Kenoy Kennedy),-0.200,-0.030
+4,8:24,3,2,GNB 27,34,19,Brett Favre pass incomplete deep right intended for James Jones (defended by Fernando Bryant),-0.030,-1.570
+4,8:15,4,2,GNB 27,34,19,"Jon Ryan punts 40 yards, fair catch by Troy Walters",-1.570,-1.140
+4,8:11,1,10,DET 33,34,19,Jon Kitna pass complete short left to Roy E. Williams for 5 yards (tackle by Nick Barnett),1.140,1.270
+4,7:47,2,5,DET 38,34,19,Jon Kitna pass incomplete deep right intended for Mike Furrey,1.270,0.560
+4,7:37,3,5,DET 38,34,19,Jon Kitna pass complete deep right to Calvin Johnson for 16 yards (tackle by Charlie Peprah),0.560,2.520
+4,7:08,1,10,GNB 46,34,19,Jon Kitna pass complete deep middle to Calvin Johnson for 16 yards (tackle by Charlie Peprah),2.520,3.580
+4,6:46,1,10,GNB 30,34,19,"Jon Kitna pass incomplete deep middle intended for Shaun McDonald. Penalty on Atari Bigby: Defensive Pass Interference, 29 yards (no play)",3.580,6.970
+4,6:39,1,1,GNB 1,34,25,"Kevin Jones left end for 1 yard, touchdown",6.970,7.000
+4,,,,GNB 2,34,26,"Jason Hanson kicks extra point good. Penalty on Jason Hunter: Defensive Offside, 5 yards",0.000,0.000
+4,,,,DET 35,34,26,"Jason Hanson kicks off 74 yards, touchback",0.000,0.280
+4,6:34,1,10,GNB 20,34,26,Brett Favre pass incomplete short left intended for Korey Hall,0.280,-0.270
+4,6:30,2,10,GNB 20,34,26,Brett Favre pass complete short left to Greg Jennings for 11 yards (tackle by Keith Smith),-0.270,1.000
+4,5:50,1,10,GNB 31,34,26,"Brett Favre pass complete short left to Koren Robinson for 15 yards (tackle by Keith Smith). Penalty on Tony Moll: Offensive Holding, 10 yards (no play)",1.000,0.340
+4,5:25,1,20,GNB 21,34,26,Ryan Grant right end for 12 yards (tackle by Kenoy Kennedy and Paris Lenon),0.340,0.730
+4,4:40,2,8,GNB 33,34,26,Brett Favre pass complete short left to Donald Driver for 9 yards (tackle by Paris Lenon),0.730,1.730
+4,3:57,1,10,GNB 42,34,26,Brett Favre pass complete short right to James Jones for 20 yards (tackle by Travis Fisher),1.730,3.050
+4,3:20,1,10,DET 38,34,26,"Penalty on Brett Favre: Delay of Game, 5 yards (no play)",3.050,2.720
+4,3:08,1,15,DET 43,34,26,Ryan Grant left end for 27 yards (tackle by Travis Fisher),2.720,4.510
+4,2:58,1,10,DET 16,34,26,Ryan Grant left tackle for 7 yards (tackle by Cory Redding),4.510,5.160
+4,2:16,2,3,DET 9,34,26,Ryan Grant left end for 2 yards (tackle by Cory Redding),5.160,4.850
+4,2:00,3,1,DET 7,34,26,Ryan Grant left end for -1 yards (tackle by Cory Redding),4.850,2.990
+4,1:48,,,,34,26,Timeout #3 by Detroit Lions,0.000,2.990
+4,1:48,4,2,DET 8,37,26,Mason Crosby 26 yard field goal good,2.990,3.000
+4,,,,GNB 30,37,26,"Mason Crosby kicks off 62 yards, returned by Aveion Cason for 18 yards (tackle by Charlie Peprah)",0.000,0.670
+4,1:39,1,10,DET 26,37,26,Jon Kitna pass incomplete short left intended for Roy E. Williams (defended by Al Harris),0.670,0.130
+4,1:34,2,10,DET 26,37,26,"Jon Kitna pass complete short left to Shaun McDonald for 8 yards (tackle by Jarrett Bush). Penalty on Al Harris: Defensive Holding, 5 yards (no play)",0.130,1.000
+4,1:28,1,10,DET 31,37,26,Jon Kitna pass incomplete short left intended for Aveion Cason,1.000,0.460
+4,1:21,2,10,DET 31,37,26,"Jon Kitna pass complete short right to Aveion Cason for 20 yards (tackle by Charlie Peprah). Penalty on Dominic Raiola: Offensive Holding, 6 yards (no play)",0.460,-0.350
+4,1:07,2,16,DET 25,37,26,Jon Kitna sacked by Corey Williams for -9 yards,-0.350,-2.690
+4,0:42,3,25,DET 16,37,26,Jon Kitna pass complete short right to Aveion Cason for 12 yards (tackle by Aaron Kampman),-2.690,-1.500
+4,0:11,4,13,DET 28,37,26,Jon Kitna pass incomplete deep middle intended for Roy E. Williams (defended by Al Harris),-1.500,-3.710
+4,0:05,1,10,DET 28,37,26,Brett Favre kneels for -1 yards,3.710,3.030
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

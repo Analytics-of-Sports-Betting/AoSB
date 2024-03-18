@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,11:17,BUF 40,6,2:10,15,Field Goal
+2,1,7:29,CHI 20,10,3:46,55,Field Goal
+3,1,2:11,BUF 49,7,4:10,49,Touchdown
+4,2,11:13,BUF 32,5,2:43,32,Touchdown
+5,2,6:14,CHI 30,4,1:52,70,Touchdown
+6,2,1:55,BUF 49,3,1:40,9,Punt
+7,3,15:00,CHI 29,3,0:57,5,Punt
+8,3,11:23,CHI 43,9,4:18,43,Field Goal
+9,3,5:26,CHI 4,9,4:41,39,Punt
+10,4,14:44,CHI 32,14,8:39,45,Field Goal
+11,4,5:55,BUF 15,3,1:19,15,Touchdown
+12,4,2:54,CHI 40,1,0:10,0,Fumble
+13,4,1:06,CHI 13,2,1:06,-2,End of Game

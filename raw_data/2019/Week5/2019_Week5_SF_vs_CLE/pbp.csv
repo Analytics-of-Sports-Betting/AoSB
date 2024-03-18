@@ -1,0 +1,169 @@
+Quarter,Time,Down,ToGo,Location,CLE,SFO,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Browns won the coin toss, Browns to receive the opening kickoff.",,
+1,15:00,,,SFO 35,0,0,"Mitch Wishnowsky kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,CLE 25,0,0,Odell Beckham pass complete short right to Jarvis Landry for 20 yards (tackle by Fred Warner),0.610,1.930
+1,14:29,1,10,CLE 45,0,0,Baker Mayfield pass incomplete short right intended for Odell Beckham,1.930,1.380
+1,14:27,2,10,CLE 45,0,0,"Penalty on Pharaoh Brown: False Start, 5 yards (no play)",1.380,0.710
+1,14:27,2,15,CLE 40,0,0,Nick Chubb up the middle for 2 yards (tackle by Nick Bosa),0.710,0.300
+1,13:49,3,13,CLE 42,0,0,Baker Mayfield pass incomplete deep right intended for Ricky Seals-Jones (defended by Richard Sherman),0.300,-0.590
+1,13:41,4,13,CLE 42,0,0,Jamie Gillan punts 41 yards downed by KhaDarel Hodge,-0.590,0.060
+1,13:28,1,10,SFO 17,0,6,"Matt Breida left guard for 83 yards, touchdown",-0.060,7.000
+1,13:17,,,CLE 15,0,7,Robbie Gould kicks extra point good,0.000,0.000
+1,13:17,,,SFO 35,0,7,"Mitch Wishnowsky kicks off 65 yards, touchback.",0.000,0.610
+1,13:17,1,10,CLE 25,0,7,Baker Mayfield pass deep middle intended for Antonio Callaway is intercepted by Richard Sherman at SF-46 and returned for 13 yards,0.610,-2.850
+1,13:02,1,10,CLE 41,0,7,Jimmy Garoppolo pass incomplete short right intended for Kyle Juszczyk,2.850,2.310
+1,12:57,,,,,,Timeout #1 by San Francisco 49ers,,
+1,12:57,2,10,CLE 41,0,7,Tevin Coleman right tackle for 1 yard (tackle by Sheldon Richardson),2.310,1.750
+1,12:18,3,9,CLE 40,0,7,Jimmy Garoppolo pass incomplete short middle intended for Deebo Samuel (defended by Terrance Mitchell),1.750,0.590
+1,12:09,4,9,CLE 40,0,7,"Mitch Wishnowsky punts 28 yards, fair catch by Jarvis Landry at CLE-12",0.590,0.350
+1,12:01,1,10,CLE 12,0,7,Nick Chubb up the middle for 3 yards (tackle by Fred Warner and DeForest Buckner),-0.350,-0.500
+1,11:21,2,7,CLE 15,0,7,Baker Mayfield pass incomplete deep right intended for Odell Beckham,-0.500,-1.070
+1,11:16,3,7,CLE 15,0,7,Baker Mayfield sacked by and K'Waun Williams for -9 yards,-1.070,-2.490
+1,10:35,4,16,CLE 6,0,7,Jamie Gillan punts 68 yards downed by Tavierre Thomas,-2.490,-0.670
+1,10:23,1,10,SFO 26,0,7,Raheem Mostert left guard for 6 yards (tackle by Jermaine Whitehead),0.670,0.940
+1,9:50,2,4,SFO 32,0,7,George Kittle right end for 18 yards (tackle by Joe Schobert),0.940,2.260
+1,9:32,1,10,SFO 50,0,7,Jimmy Garoppolo pass complete short right to Kyle Juszczyk for 8 yards (tackle by Joe Schobert),2.260,2.790
+1,8:52,2,2,CLE 42,0,7,"Kyle Juszczyk right guard for no gain (tackle by Devaroe Lawrence). Penalty on Devaroe Lawrence: Face Mask (15 Yards), 15 yards (no play)",2.790,3.780
+1,8:33,1,10,CLE 27,0,7,Jimmy Garoppolo pass complete short left to Matt Breida for 3 yards (tackle by Joe Schobert),3.780,3.640
+1,7:57,2,7,CLE 24,0,7,Marquise Goodwin left end for 15 yards (tackle by T.J. Carrie and Damarious Randall),3.640,5.140
+1,7:09,1,9,CLE 9,0,7,Jimmy Garoppolo pass incomplete short middle intended for George Kittle (defended by Damarious Randall),5.140,4.380
+1,7:06,2,9,CLE 9,0,7,Tevin Coleman up the middle for 4 yards (tackle by Joe Schobert),4.380,4.260
+1,6:30,3,5,CLE 5,0,13,"Jimmy Garoppolo pass complete short middle to Matt Breida for 5 yards, touchdown",4.260,7.000
+1,6:26,,,CLE 15,0,14,Robbie Gould kicks extra point good,0.000,0.000
+1,6:26,,,SFO 35,0,14,"Mitch Wishnowsky kicks off 60 yards, returned by Dontrell Hilliard for 17 yards (tackle by D.J. Reed)",0.000,0.410
+1,6:19,1,10,CLE 22,0,14,Nick Chubb right guard for 4 yards (tackle by Sheldon Day and K'Waun Williams),0.410,0.410
+1,5:41,2,6,CLE 26,0,14,Nick Chubb left guard for 8 yards (tackle by Kwon Alexander and Arik Armstead),0.410,1.200
+1,4:58,1,10,CLE 34,0,14,Odell Beckham left end for 4 yards (tackle by Fred Warner),1.200,1.200
+1,4:24,2,6,CLE 38,0,14,Nick Chubb right guard for 3 yards (tackle by Jaquiski Tartt),1.200,0.890
+1,3:42,3,3,CLE 41,0,14,"Baker Mayfield sacked by DeForest Buckner for -12 yards. Baker Mayfield fumbles (forced by DeForest Buckner), recovered by Nick Bosa at CLE-29 (tackle by Eric Kush)",0.890,-3.640
+1,3:34,1,10,CLE 29,0,14,Jimmy Garoppolo pass complete short middle to Deebo Samuel for 3 yards (tackle by Joe Schobert),3.640,3.510
+1,2:57,2,7,CLE 26,0,14,"Matt Breida right tackle for 9 yards (tackle by Terrance Mitchell). Penalty on Laken Tomlinson: Offensive Holding, 10 yards (no play)",3.510,2.160
+1,2:33,2,17,CLE 36,0,14,Jimmy Garoppolo pass complete short right to Ross Dwelley for -3 yards (tackle by Mack Wilson),2.160,1.090
+1,1:49,3,20,CLE 39,0,14,Jimmy Garoppolo pass complete short middle to George Kittle for 10 yards (tackle by Damarious Randall),1.090,1.500
+1,1:14,4,10,CLE 29,0,14,Robbie Gould 47 yard field goal no good,1.500,-1.400
+1,1:09,1,10,CLE 37,0,14,Nick Chubb up the middle for 4 yards (tackle by Jaquiski Tartt),1.400,1.400
+1,0:27,2,6,CLE 41,0,14,Baker Mayfield pass complete deep right to Jarvis Landry for 25 yards (tackle by Richard Sherman),1.400,3.310
+Quarter,Time,Down,ToGo,Location,CLE,SFO,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,SFO 34,0,14,Baker Mayfield pass complete short right to Demetrius Harris for no gain (tackle by Jaquiski Tartt),3.310,2.770
+2,14:21,2,10,SFO 34,0,14,Nick Chubb right guard for 4 yards (tackle by DeForest Buckner),2.770,2.610
+2,13:36,3,6,SFO 30,0,14,Baker Mayfield pass complete short right to Jarvis Landry for 12 yards (tackle by Richard Sherman),2.610,4.370
+2,12:56,1,10,SFO 18,0,14,Odell Beckham right end for 11 yards (tackle by Jimmie Ward),4.370,5.600
+2,12:10,1,7,SFO 7,0,14,Nick Chubb left tackle for -5 yards (tackle by Nick Bosa and Jaquiski Tartt),5.600,3.860
+2,11:37,,,,,,Timeout #1 by Cleveland Browns,,
+2,11:37,2,12,SFO 12,0,14,Baker Mayfield pass incomplete short left intended for Demetrius Harris (defended by Emmanuel Moseley),3.860,3.100
+2,11:32,3,12,SFO 12,0,14,Baker Mayfield pass incomplete short middle intended for Antonio Callaway,3.100,2.630
+2,11:26,4,12,SFO 12,3,14,Austin Seibert 30 yard field goal good,2.630,3.000
+2,11:22,,,CLE 35,3,14,"Austin Seibert kicks off 65 yards, touchback.",0.000,0.610
+2,11:22,1,10,SFO 25,3,14,Jimmy Garoppolo pass incomplete short middle intended for George Kittle,0.610,0.060
+2,11:18,2,10,SFO 25,3,14,Tevin Coleman right end for 15 yards (tackle by Damarious Randall and Terrance Mitchell),0.060,1.600
+2,10:34,1,10,SFO 40,3,14,Tevin Coleman right end for 3 yards (tackle by Juston Burris),1.600,1.460
+2,9:56,2,7,SFO 43,3,14,Tevin Coleman up the middle for 4 yards (tackle by Joe Schobert),1.460,1.290
+2,9:16,3,3,SFO 47,3,14,Jimmy Garoppolo sacked by Myles Garrett for -7 yards,1.290,-0.720
+2,8:39,4,10,SFO 40,3,14,"Mitch Wishnowsky punts 38 yards, fair catch by Jarvis Landry at CLE-22",-0.720,-0.410
+2,8:32,1,10,CLE 22,3,14,Baker Mayfield pass complete deep right to Jarvis Landry for 18 yards (tackle by Richard Sherman). Penalty on Arik Armstead: Defensive Offside (Declined),0.410,1.600
+2,8:13,1,10,CLE 40,3,14,Nick Chubb left end for 2 yards (tackle by Fred Warner),1.600,1.320
+2,7:28,,,,,,Timeout #2 by Cleveland Browns,,
+2,7:28,2,8,CLE 42,3,14,Nick Chubb up the middle for 37 yards (tackle by Jimmie Ward),1.320,4.170
+2,6:58,1,10,SFO 21,3,14,Baker Mayfield pass complete short middle to Nick Chubb for 12 yards (tackle by Fred Warner and Jaquiski Tartt),4.170,5.140
+2,6:20,1,9,SFO 9,3,14,"Penalty on Antonio Callaway: False Start, 5 yards (no play)",5.140,4.440
+2,5:57,1,14,SFO 14,3,14,Baker Mayfield pass complete short left to Odell Beckham for 7 yards (tackle by Fred Warner),4.440,4.760
+2,5:42,2,7,SFO 7,3,14,Nick Chubb left guard for 1 yard (tackle by Jimmie Ward),4.760,4.040
+2,4:58,3,6,SFO 6,3,14,Baker Mayfield pass short middle intended for Antonio Callaway is intercepted by K'Waun Williams at SF-2 and returned for 49 yards,4.040,-2.320
+2,4:45,1,10,CLE 49,3,14,Jimmy Garoppolo pass complete short left to George Kittle for 13 yards (tackle by Mack Wilson),2.320,3.180
+2,4:16,1,10,CLE 36,3,14,Matt Breida up the middle for 1 yard (tackle by Olivier Vernon),3.180,2.770
+2,3:32,2,9,CLE 35,3,14,Matt Breida left tackle for 4 yards (tackle by Jermaine Whitehead and Eric Murray),2.770,2.610
+2,2:48,3,5,CLE 31,3,14,Raheem Mostert left tackle for 4 yards (tackle by Sheldon Richardson and Mack Wilson),2.610,1.820
+2,2:05,,,,,,Timeout #2 by San Francisco 49ers,,
+2,2:05,4,1,CLE 27,3,14,Tevin Coleman up the middle for 8 yards (tackle by Olivier Vernon),1.820,4.310
+2,2:00,1,10,CLE 19,3,20,"Tevin Coleman left end for 19 yards, touchdown",4.310,7.000
+2,1:54,,,CLE 15,3,21,Robbie Gould kicks extra point good,0.000,0.000
+2,1:54,,,SFO 35,3,21,"Mitch Wishnowsky kicks off 59 yards, returned by Dontrell Hilliard for 21 yards (tackle by D.J. Reed). Penalty on Sione Takitaki: Offensive Holding, 10 yards",0.000,-0.060
+2,1:48,1,10,CLE 17,3,21,Baker Mayfield pass incomplete short right intended for Jarvis Landry (defended by DeForest Buckner),-0.060,-0.580
+2,1:44,2,10,CLE 17,3,21,Baker Mayfield sacked by Nick Bosa for -11 yards,-0.580,-2.710
+2,1:37,,,,,,Timeout #3 by San Francisco 49ers,,
+2,1:37,3,21,CLE 6,3,21,Baker Mayfield pass complete short left to D'Ernest Johnson for 6 yards (tackle by Arik Armstead),-2.710,-2.490
+2,0:58,4,15,CLE 12,3,21,"Jamie Gillan punts 58 yards, returned by Richie James for 32 yards (tackle by Tavierre Thomas)",-2.490,-3.050
+2,0:44,1,10,CLE 38,3,21,Jimmy Garoppolo sacked by Chad Thomas for -3 yards,3.050,2.100
+2,0:25,2,13,CLE 41,3,21,Jimmy Garoppolo pass complete short left to Matt Breida for 7 yards (tackle by Eric Murray),2.100,2.340
+2,0:22,3,6,CLE 34,3,21,Jimmy Garoppolo pass incomplete short middle intended for Dante Pettis (defended by Mack Wilson),2.340,1.070
+2,0:15,4,6,CLE 34,3,21,Robbie Gould 52 yard field goal no good,1.070,-1.730
+2,0:10,1,10,CLE 42,3,21,"Baker Mayfield pass incomplete short right. Penalty on Baker Mayfield: Intentional Grounding, 10 yards",1.730,1.190
+Quarter,Time,Down,ToGo,Location,CLE,SFO,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,CLE 35,3,21,"Austin Seibert kicks off 59 yards, returned by Richie James for 4 yards",0.000,-0.380
+3,14:59,1,10,SFO 10,3,21,Jimmy Garoppolo pass complete short right to Marquise Goodwin for 8 yards (tackle by Terrance Mitchell),-0.380,0.070
+3,14:32,2,2,SFO 18,3,21,Matt Breida right end for -4 yards (tackle by Jermaine Whitehead),0.070,-0.950
+3,13:57,3,6,SFO 14,3,21,Jimmy Garoppolo pass complete deep left to Marquise Goodwin for 16 yards,-0.950,0.940
+3,13:49,1,10,SFO 30,3,21,Matt Breida up the middle for 4 yards (tackle by Sheldon Richardson and Morgan Burnett),0.940,0.930
+3,13:21,2,6,SFO 34,3,21,Jimmy Garoppolo pass complete short left to Marquise Goodwin for 17 yards (tackle by T.J. Carrie),0.930,2.320
+3,12:40,1,10,CLE 49,3,21,Tevin Coleman right end for 12 yards (tackle by Damarious Randall and Jermaine Whitehead),2.320,3.120
+3,11:59,1,10,CLE 37,3,21,Jimmy Garoppolo pass complete short middle to Kendrick Bourne for 14 yards (tackle by Jermaine Whitehead and Chad Thomas),3.120,4.040
+3,11:21,1,10,CLE 23,3,21,Tevin Coleman up the middle for 1 yard (tackle by Daniel Ekuale),4.040,3.630
+3,10:42,2,9,CLE 22,3,27,"Jimmy Garoppolo pass complete deep middle to George Kittle for 22 yards, touchdown",3.630,7.000
+3,10:37,,,CLE 15,3,27,"Penalty on CLE: Defensive Too Many Men on Field, 5 yards (no play)",1.000,0.000
+3,10:37,,,CLE 10,3,28,Robbie Gould kicks extra point good,0.000,0.000
+3,10:37,,,SFO 35,3,28,"Mitch Wishnowsky kicks off 68 yards, returned by Dontrell Hilliard for 26 yards (tackle by Dre Greenlaw and Azeez Al-Shaair)",0.000,0.480
+3,10:32,1,10,CLE 23,3,28,Baker Mayfield pass complete deep right to Odell Beckham for 20 yards,0.480,1.800
+3,10:05,1,10,CLE 43,3,28,Nick Chubb left guard for 2 yards (tackle by Arik Armstead),1.800,1.520
+3,9:28,2,8,CLE 45,3,28,Baker Mayfield pass incomplete deep left intended for Odell Beckham,1.520,0.830
+3,9:21,3,8,CLE 45,3,28,Baker Mayfield pass incomplete short right intended for Odell Beckham (defended by Fred Warner),0.830,-0.390
+3,9:17,4,8,CLE 45,3,28,Jamie Gillan punts 51 yards downed by KhaDarel Hodge,-0.390,0.380
+3,9:08,1,10,SFO 4,3,28,Matt Breida right guard for 2 yards (tackle by Chad Thomas),-0.380,-0.630
+3,8:32,2,8,SFO 6,3,28,Jimmy Garoppolo pass incomplete short left intended for Marquise Goodwin,-0.630,-1.190
+3,8:30,3,8,SFO 6,3,28,Jimmy Garoppolo pass complete short right to George Kittle for 11 yards (tackle by Jermaine Whitehead),-1.190,-0.060
+3,7:47,1,10,SFO 17,3,28,Tevin Coleman left end for 15 yards (tackle by Damarious Randall),-0.060,1.070
+3,7:17,1,10,SFO 32,3,28,Tevin Coleman up the middle for 6 yards (tackle by Sheldon Richardson),1.070,1.340
+3,6:39,2,4,SFO 38,3,28,Tevin Coleman up the middle for -2 yards (tackle by Joe Schobert),1.340,0.370
+3,5:59,3,6,SFO 36,3,28,Jimmy Garoppolo pass complete short left to George Kittle for 10 yards (tackle by Joe Schobert),0.370,1.990
+3,5:12,1,10,SFO 46,3,28,Matt Breida right guard for no gain (tackle by Mack Wilson),1.990,1.450
+3,4:31,2,10,SFO 46,3,28,Jimmy Garoppolo pass complete short right to Kyle Juszczyk for 12 yards (tackle by Jermaine Whitehead),1.450,2.790
+3,3:45,1,10,CLE 42,3,28,Matt Breida left tackle for 3 yards (tackle by Mack Wilson),2.790,2.650
+3,3:10,2,7,CLE 39,3,28,Matt Breida right end for 19 yards (tackle by Damarious Randall),2.650,4.240
+3,2:54,1,10,CLE 20,3,28,Matt Breida left end for 2 yards (tackle by Eric Murray),4.240,3.960
+3,2:29,2,8,CLE 18,3,28,Jimmy Garoppolo pass complete short right to George Kittle for 4 yards (tackle by Eric Murray),3.960,3.890
+3,1:49,3,4,CLE 14,3,28,Jimmy Garoppolo pass incomplete short middle intended for Deebo Samuel (defended by Damarious Randall),3.890,2.580
+3,1:44,4,4,CLE 14,3,28,"Robbie Gould 32 yard field goal no good blocked by Tavierre Thomas, recovered by Terrance Mitchell (tackle by DeForest Buckner)",2.580,-1.930
+3,1:31,1,10,CLE 45,3,28,Baker Mayfield pass incomplete short middle intended for Jarvis Landry,1.930,1.380
+3,1:26,2,10,CLE 45,3,28,Baker Mayfield pass incomplete deep right intended for Damion Ratley,1.380,0.700
+3,1:19,3,10,CLE 45,3,28,Baker Mayfield pass incomplete short left,0.700,-0.390
+3,1:09,4,10,CLE 45,3,28,Jamie Gillan punts 45 yards out of bounds,-0.390,0.380
+3,1:02,1,10,SFO 10,3,28,Tevin Coleman up the middle for 5 yards (tackle by Mack Wilson),-0.380,-0.350
+3,0:17,2,5,SFO 15,3,28,Tevin Coleman left tackle for -4 yards (tackle by Devaroe Lawrence),-0.350,-1.300
+Quarter,Time,Down,ToGo,Location,CLE,SFO,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,9,SFO 11,3,28,Jimmy Garoppolo pass complete short right to Dante Pettis for 11 yards,-1.300,0.410
+4,14:46,1,10,SFO 22,3,28,Matt Breida up the middle for no gain (tackle by Larry Ogunjobi),0.410,-0.130
+4,14:07,2,10,SFO 22,3,28,Jimmy Garoppolo pass complete short right to Ross Dwelley for no gain (tackle by Terrance Mitchell),-0.130,-0.820
+4,13:22,3,10,SFO 22,3,28,Jimmy Garoppolo pass incomplete short middle,-0.820,-1.900
+4,13:19,4,10,SFO 22,3,28,Mitch Wishnowsky punts 60 yards downed by Tarvarius Moore,-1.900,-0.040
+4,13:05,1,10,CLE 18,3,28,Nick Chubb left tackle for 3 yards (tackle by DeForest Buckner and Arik Armstead),0.040,0.010
+4,12:30,2,7,CLE 21,3,28,"Penalty on Eric Kush: False Start, 5 yards (no play)",0.010,-0.800
+4,12:10,2,12,CLE 16,3,28,"Baker Mayfield sacked by Nick Bosa for -10 yards. Baker Mayfield fumbles (forced by Nick Bosa), recovered by Greg Robinson at CLE-6 (tackle by Arik Armstead)",-0.800,-2.820
+4,11:20,3,22,CLE 6,3,28,Nick Chubb right guard for 15 yards (tackle by Richard Sherman),-2.820,-1.960
+4,10:39,4,7,CLE 21,3,28,Jamie Gillan punts 63 yards downed by Tavierre Thomas,-1.960,0.140
+4,10:27,1,10,SFO 16,3,28,Jimmy Garoppolo pass complete short middle to Kendrick Bourne for 10 yards (tackle by Damarious Randall),-0.140,0.670
+4,9:46,1,10,SFO 26,3,28,"Jimmy Garoppolo aborted snap, recovered by Tevin Coleman at SF-22 (tackle by Larry Ogunjobi)",0.670,-0.410
+4,9:04,2,14,SFO 22,3,28,Tevin Coleman left tackle for -4 yards (tackle by Larry Ogunjobi),-0.410,-1.800
+4,8:19,3,18,SFO 18,3,28,"Jimmy Garoppolo pass complete short left to Deebo Samuel for 15 yards (tackle by Jermaine Whitehead and Mack Wilson). Penalty on Dante Pettis: Offensive Holding, 9 yards (no play)",-1.800,-3.410
+4,8:04,3,27,SFO 9,3,28,Raheem Mostert up the middle for 7 yards (tackle by Myles Garrett),-3.410,-2.390
+4,7:17,4,20,SFO 16,3,28,"Mitch Wishnowsky punts 50 yards, returned by Odell Beckham for -6 yards (tackle by Marcell Harris). Odell Beckham fumbles (forced by Marcell Harris), recovered by Raheem Mostert at CLE-29 (tackle by Tavierre Thomas)",-2.390,3.640
+4,7:02,1,10,CLE 29,3,28,"Penalty on Levine Toilolo: False Start, 5 yards (no play)",3.640,3.310
+4,7:02,1,15,CLE 34,3,28,Tevin Coleman right end for 14 yards (tackle by Joe Schobert),3.310,4.320
+4,6:17,2,1,CLE 20,3,28,"Tevin Coleman left guard for 2 yards (tackle by Devaroe Lawrence). Penalty on Kendrick Bourne: Offensive Holding, 10 yards (no play)",4.320,2.970
+4,5:52,2,11,CLE 30,3,28,Raheem Mostert right end for 4 yards (tackle by Joe Schobert),2.970,2.810
+4,5:16,3,7,CLE 26,3,28,Jimmy Garoppolo pass incomplete short right intended for Dante Pettis,2.810,1.740
+4,5:13,4,7,CLE 26,3,31,Robbie Gould 44 yard field goal good,1.740,3.000
+4,5:08,,,SFO 35,3,31,"Mitch Wishnowsky kicks off 65 yards, touchback.",0.000,0.610
+4,5:08,1,10,CLE 25,3,31,Nick Chubb up the middle for 3 yards (tackle by Ronald Blair),0.610,0.470
+4,4:31,2,7,CLE 28,3,31,Nick Chubb up the middle for 1 yard (tackle by Solomon Thomas),0.470,-0.100
+4,3:50,3,6,CLE 29,3,31,Garrett Gilbert pass incomplete short left intended for Damion Ratley (defended by Kwon Alexander),-0.100,-1.440
+4,3:47,4,6,CLE 29,3,31,"Jamie Gillan punts 71 yards, touchback.",-1.440,-0.280
+4,3:38,1,10,SFO 20,3,31,Raheem Mostert up the middle for 3 yards (tackle by Jermaine Whitehead),0.280,0.140
+4,2:54,2,7,SFO 23,3,31,Raheem Mostert left end for 2 yards (tackle by Joe Schobert),0.140,-0.300
+4,2:07,3,5,SFO 25,3,31,Raheem Mostert left guard for 8 yards (tackle by Sheldon Richardson and Damarious Randall),-0.300,1.140
+4,2:00,1,10,SFO 33,3,31,Jimmy Garoppolo kneels for -1 yards,1.140,0.460
+4,1:19,2,11,SFO 32,3,31,Jimmy Garoppolo kneels for -1 yards,0.460,-0.360
+4,0:35,3,12,SFO 31,3,31,Jimmy Garoppolo kneels for -1 yards,-0.360,-1.370
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

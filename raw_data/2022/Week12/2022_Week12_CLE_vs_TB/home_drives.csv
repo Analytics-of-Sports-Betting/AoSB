@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,CLE 22,7,4:15,78,Touchdown
+2,1,5:11,CLE 25,7,2:49,42,Field Goal
+3,1,1:08,CLE 32,7,4:07,16,Punt
+4,2,9:53,CLE 30,10,6:00,49,Missed FG
+5,2,0:39,CLE 43,4,0:39,4,Interception
+6,3,12:51,CLE 42,3,1:22,0,Punt
+7,3,7:41,CLE 25,5,2:38,23,Punt
+8,3,2:54,CLE 38,3,2:41,-7,Punt
+9,4,12:33,CLE 20,7,4:13,36,Downs
+10,4,6:52,CLE 5,9,4:17,18,Punt
+11,4,2:10,TAM 46,6,1:38,46,Touchdown
+12,5,7:26,CLE 21,3,1:59,-8,Punt
+13,5,2:45,CLE 29,6,2:26,71,Touchdown

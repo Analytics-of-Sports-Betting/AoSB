@@ -1,0 +1,210 @@
+Quarter,Time,Down,ToGo,Location,SFO,DET,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"49ers won the coin toss and deferred, Lions to receive the opening kickoff.",,
+1,15:00,,,SFO 35,0,0,"David Akers kicks off 65 yards, touchback",0.000,0.280
+1,15:00,1,10,DET 20,0,0,Matthew Stafford pass complete short right to Jahvid Best for -2 yards (tackle by Ahmad Brooks),0.280,-0.630
+1,14:34,2,12,DET 18,0,0,Jahvid Best right end for 1 yard (tackle by Ahmad Brooks and Navorro Bowman),-0.630,-1.140
+1,13:58,3,11,DET 19,0,0,Matthew Stafford pass incomplete deep left intended for Nate Burleson,-1.140,-2.140
+1,13:49,4,11,DET 19,0,0,"Ryan Donahue punts 42 yards, fair catch by Ted Ginn Jr.",-2.140,-1.530
+1,13:41,1,10,SFO 39,0,0,"Alex Smith sacked by Kyle Vanden Bosch for -7 yards. Alex Smith fumbles (forced by Kyle Vanden Bosch), recovered by Kyle Vanden Bosch at SFO-32 (tackle by Joe Staley)",1.530,-3.450
+1,13:36,1,10,SFO 32,0,0,"Matthew Stafford pass incomplete short right intended for Titus Young. Penalty on Aldon Smith: Roughing the Passer, 15 yards (no play)",3.450,4.440
+1,13:30,1,10,SFO 17,0,0,"Penalty on Aldon Smith: Neutral Zone Infraction, 5 yards (no play)",4.440,5.520
+1,13:30,1,5,SFO 12,0,0,Matthew Stafford up the middle for 9 yards (tackle by Dashon Goldson),5.520,6.510
+1,12:50,1,3,SFO 3,0,0,Jahvid Best right tackle for 1 yard (tackle by Navorro Bowman and Justin Smith),6.510,5.720
+1,12:10,2,2,SFO 2,0,0,"Penalty on Titus Young: False Start, 5 yards (no play)",5.720,4.760
+1,11:49,2,7,SFO 7,0,0,Matthew Stafford pass incomplete short middle intended for Brandon Pettigrew (defended by Patrick Willis),4.760,3.810
+1,11:44,3,7,SFO 7,0,0,Matthew Stafford pass incomplete short left intended for Jahvid Best,3.810,2.970
+1,11:39,4,7,SFO 7,0,3,Jason Hanson 25 yard field goal good,2.970,3.000
+1,,,,DET 35,0,3,"Jason Hanson kicks off 73 yards, touchback",0.000,0.280
+1,11:35,1,10,SFO 20,0,3,"Penalty on Delanie Walker: False Start, 5 yards (no play)",0.280,-0.310
+1,11:35,1,15,SFO 15,0,3,"Penalty on Anthony Davis: False Start, 5 yards (no play)",-0.310,-0.760
+1,11:35,1,20,SFO 10,0,3,Frank Gore up the middle for 1 yard (tackle by DeAndre Levy and Stephen Tulloch),-0.760,-1.440
+1,10:56,2,19,SFO 11,0,3,Alex Smith pass incomplete short right intended for Ted Ginn Jr.,-1.440,-2.470
+1,10:51,3,19,SFO 11,0,3,Alex Smith pass complete short left to Frank Gore for 8 yards (tackle by Cliff Avril),-2.470,-2.140
+1,10:12,4,11,SFO 19,0,3,"Andy Lee punts 48 yards, fair catch by Stefan Logan",-2.140,-1.140
+1,10:04,1,10,DET 33,0,3,Jahvid Best left tackle for 1 yard (tackle by Justin Smith),1.140,0.730
+1,9:39,2,9,DET 34,0,3,Matthew Stafford pass incomplete short right intended for Nate Burleson,0.730,0.040
+1,9:35,3,9,DET 34,0,3,Matthew Stafford pass complete short middle to Brandon Pettigrew for 5 yards (tackle by Patrick Willis),0.040,-0.780
+1,9:02,4,4,DET 39,0,3,Ryan Donahue punts 47 yards (tackle by John Wendling),-0.780,-0.610
+1,8:50,1,10,SFO 25,0,3,Kendall Hunter left end for -2 yards (tackle by Louis Delmas),0.610,-0.210
+1,8:22,2,12,SFO 23,0,3,Alex Smith pass complete short left to Michael Crabtree for 7 yards,-0.210,0.040
+1,8:02,3,5,SFO 30,0,3,Alex Smith pass incomplete short right intended for Ted Ginn Jr.. Penalty on Anthony Davis: Illegal Formation (Declined),0.040,-1.370
+1,7:56,4,5,SFO 30,0,3,"Andy Lee punts 52 yards, returned by Stefan Logan for 13 yards (tackle by Dashon Goldson)",-1.370,-1.000
+1,7:46,1,10,DET 31,0,3,Matthew Stafford pass complete short middle to Brandon Pettigrew for 6 yards (tackle by Navorro Bowman),1.000,1.270
+1,7:15,2,4,DET 37,0,3,Jahvid Best left end for 13 yards (tackle by Dashon Goldson and Donte Whitner),1.270,2.260
+1,6:43,1,10,,0,3,Matthew Stafford pass complete short right to Calvin Johnson for 11 yards (tackle by Tarell Brown and Donte Whitner),2.260,2.980
+1,6:08,1,10,SFO 39,0,3,Matthew Stafford pass complete short right to Brandon Pettigrew for 4 yards (tackle by Donte Whitner),2.980,2.980
+1,5:30,2,6,SFO 35,0,3,"Matthew Stafford pass incomplete deep left intended for Nate Burleson. Penalty on Carlos Rogers: Defensive Pass Interference, 19 yards (no play)",2.980,4.510
+1,5:23,1,10,SFO 16,0,3,Matthew Stafford pass incomplete deep left intended for Brandon Pettigrew,4.510,3.900
+1,5:17,2,10,SFO 16,0,3,"Penalty on Titus Young: False Start, 5 yards (no play)",3.900,3.280
+1,5:17,2,15,SFO 21,0,3,Matthew Stafford pass complete short right to Brandon Pettigrew for 5 yards (tackle by Navorro Bowman),3.280,3.080
+1,4:50,3,10,SFO 16,0,9,"Matthew Stafford pass complete deep middle to Brandon Pettigrew for 16 yards, touchdown. Penalty on SFO: Unsportsmanlike Conduct, 15 yards",3.080,7.000
+1,,,,SFO 2,0,10,Jason Hanson kicks extra point good,0.000,0.000
+1,,,,,0,10,"Jason Hanson kicks off 50 yards, touchback",0.000,0.280
+1,4:44,1,10,SFO 20,0,10,Alex Smith pass complete short left to Michael Crabtree for 5 yards (tackle by Eric Wright and Louis Delmas),0.280,0.410
+1,4:19,2,5,SFO 25,0,10,Frank Gore right tackle for 14 yards (tackle by Eric Wright and Kyle Vanden Bosch),0.410,1.530
+1,3:29,1,10,SFO 39,0,10,Kendall Hunter right end for 8 yards (tackle by DeAndre Levy),1.530,2.070
+1,2:46,2,2,SFO 47,0,10,"Penalty on Bruce Miller: False Start, 5 yards (no play)",2.070,1.390
+1,2:24,2,7,SFO 42,0,10,Alex Smith pass complete short right to Michael Crabtree for 4 yards (tackle by DeAndre Levy and Stephen Tulloch),1.390,1.220
+1,1:35,3,3,SFO 46,0,10,Alex Smith pass complete short left to Vernon Davis for 6 yards (tackle by Amari Spievey),1.220,2.390
+1,1:00,1,10,DET 48,0,10,Frank Gore up the middle for 47 yards (tackle by Chris Houston),2.390,6.970
+1,0:12,1,1,DET 1,0,10,Anthony Dixon right tackle for no gain (tackle by Stephen Tulloch),6.970,5.910
+Quarter,Time,Down,ToGo,Location,SFO,DET,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,1,DET 1,6,10,"Frank Gore right tackle for 1 yard, touchdown",5.910,7.000
+2,,,,DET 2,7,10,David Akers kicks extra point good,0.000,0.000
+2,,,,SFO 35,7,10,"David Akers kicks off 65 yards, touchback",0.000,0.280
+2,14:57,1,10,DET 20,7,10,Jahvid Best up the middle for 1 yard (tackle by Justin Smith),0.280,-0.130
+2,14:34,2,9,DET 21,7,10,Matthew Stafford pass complete short middle to Nate Burleson for 4 yards (tackle by Patrick Willis),-0.130,-0.300
+2,14:06,3,5,DET 25,7,10,Matthew Stafford pass incomplete short right intended for Nate Burleson (defended by Ray McDonald),-0.300,-1.700
+2,14:03,4,5,DET 25,7,10,Ryan Donahue punts 44 yards,-1.700,-1.000
+2,13:55,1,10,SFO 31,7,10,Kendall Hunter right tackle for 3 yards (tackle by Bobby Carpenter and Ndamukong Suh),1.000,0.870
+2,13:18,2,7,SFO 34,7,10,Alex Smith pass incomplete short left intended for Frank Gore,0.870,0.170
+2,13:14,3,7,SFO 34,7,10,Alex Smith pass complete short right to Michael Crabtree for 6 yards (tackle by Chris Houston),0.170,-0.720
+2,12:29,4,1,SFO 40,7,10,"Andy Lee punts 60 yards, touchback",-0.720,-0.280
+2,12:20,1,10,DET 20,7,10,Matthew Stafford pass complete short right to Calvin Johnson for 7 yards (tackle by Tarell Brown),0.280,0.680
+2,11:47,2,3,DET 27,7,10,Maurice Morris up the middle for 1 yard (tackle by Donte Whitner),0.680,0.100
+2,11:07,3,2,DET 28,7,10,Matthew Stafford sacked by Ahmad Brooks for -7 yards,0.100,-1.960
+2,10:34,4,9,DET 21,7,10,"Ryan Donahue punts 40 yards, fair catch by Ted Ginn Jr.",-1.960,-1.530
+2,10:27,1,10,SFO 39,7,10,Alex Smith pass complete short middle to Michael Crabtree for 10 yards (tackle by Chris Houston),1.530,2.190
+2,9:45,1,10,SFO 49,7,10,Alex Smith pass incomplete deep right intended for Michael Crabtree (defended by Chris Houston),2.190,1.650
+2,9:39,2,10,SFO 49,7,10,Frank Gore up the middle for 3 yards (tackle by Sammie Lee Hill),1.650,1.360
+2,8:58,3,7,DET 48,7,10,"Penalty on Joe Staley: False Start, 5 yards (no play)",1.360,0.700
+2,8:29,,,,7,10,Timeout #1 by San Francisco 49ers,0.000,0.700
+2,8:29,3,12,SFO 47,7,10,Alex Smith right end for 2 yards (tackle by Eric Wright),0.700,-0.130
+2,8:06,4,10,SFO 49,7,10,"Andy Lee punts 40 yards, fair catch by Stefan Logan",-0.130,0.370
+2,7:55,1,10,DET 11,7,10,Matthew Stafford pass incomplete short left intended for Calvin Johnson,-0.370,-0.780
+2,7:50,2,10,DET 11,9,10,"Matthew Stafford sacked by Aldon Smith for -11 yards, safety",-0.780,-2.000
+2,,,,DET 20,9,10,"Ryan Donahue kicks off 59 yards, returned by Ted Ginn Jr. for 31 yards (tackle by Ryan Donahue)",0.000,2.390
+2,7:36,1,10,DET 48,9,10,Kendall Hunter right end for 5 yards (tackle by DeAndre Levy),2.390,2.520
+2,6:51,2,5,DET 43,9,10,"Frank Gore left tackle for -1 yards (tackle by Ashlee Palmer). Penalty on Isaac Sopoaga: Unnecessary Roughness, 15 yards (no play)",2.520,0.500
+2,6:37,2,20,SFO 42,9,10,Alex Smith pass complete short left to Delanie Walker for 5 yards (tackle by DeAndre Levy),0.500,0.500
+2,5:56,3,15,SFO 47,9,10,Alex Smith up the middle for 3 yards (tackle by Bobby Carpenter),0.500,-0.060
+2,5:10,4,12,,9,10,Andy Lee punts 41 yards,-0.060,0.380
+2,5:00,1,10,DET 9,9,10,Jahvid Best up the middle for 1 yard (tackle by Patrick Willis and Navorro Bowman),-0.380,-0.710
+2,4:29,2,9,DET 10,9,10,Matthew Stafford pass complete short right to Titus Young for 14 yards (tackle by Chris Culliver),-0.710,0.540
+2,4:03,1,10,DET 24,9,10,"Matthew Stafford pass complete short middle to Brandon Pettigrew for 7 yards (tackle by Patrick Willis and Navorro Bowman). Penalty on Navorro Bowman: Defensive Holding, 5 yards (no play)",0.540,0.870
+2,3:39,1,10,DET 29,9,10,Jahvid Best up the middle for 7 yards (tackle by Justin Smith),0.870,1.270
+2,3:13,2,3,DET 36,9,10,Matthew Stafford pass complete short left to Will Heller for 9 yards (tackle by Carlos Rogers),1.270,1.930
+2,2:35,1,10,DET 45,9,10,Jahvid Best left end for 6 yards (tackle by Navorro Bowman),1.930,2.190
+2,2:20,2,4,SFO 49,9,10,Matthew Stafford pass complete short right to Calvin Johnson for 11 yards (tackle by Chris Culliver),2.190,3.050
+2,2:00,1,10,SFO 38,9,10,Matthew Stafford pass complete short left to Jahvid Best for 15 yards (tackle by Dashon Goldson),3.050,4.040
+2,1:34,1,10,SFO 23,9,10,Matthew Stafford pass incomplete short middle intended for Nate Burleson (defended by Aldon Smith),4.040,3.500
+2,1:30,2,10,SFO 23,9,10,"Matthew Stafford pass complete short left to Nate Burleson for 15 yards (tackle by Carlos Rogers). Penalty on Brandon Pettigrew: Chop Block, 15 yards (no play)",3.500,1.470
+2,1:22,2,25,SFO 38,9,10,Matthew Stafford pass complete short left to Jahvid Best for 8 yards (tackle by Navorro Bowman),1.470,1.880
+2,1:14,3,17,SFO 30,9,10,Matthew Stafford pass complete short left to Brandon Pettigrew for -3 yards (tackle by Donte Whitner),1.880,1.150
+2,1:00,,,,9,10,Timeout #2 by San Francisco 49ers,0.000,1.150
+2,1:00,4,20,SFO 33,9,10,Jason Hanson 52 yard field goal no good,1.150,-1.730
+2,0:55,1,10,SFO 42,9,10,Alex Smith pass complete short right to Vernon Davis for 2 yards (tackle by DeAndre Levy),1.730,1.460
+2,0:26,2,8,SFO 44,9,10,Alex Smith pass complete short middle to Ted Ginn Jr. for 18 yards (tackle by Amari Spievey),1.460,3.050
+2,0:08,1,10,DET 38,9,10,"Alex Smith spiked the ball. Penalty on Anthony Davis: Illegal Formation, 5 yards (no play)",3.050,2.720
+2,0:08,1,15,DET 43,9,10,Alex Smith pass complete short right to Ted Ginn Jr. for 6 yards,2.720,2.640
+2,0:05,2,9,DET 37,12,10,David Akers 55 yard field goal good,2.640,3.000
+Quarter,Time,Down,ToGo,Location,SFO,DET,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DET 35,12,10,"Jason Hanson kicks off 74 yards, returned by Ted Ginn Jr. for 27 yards (tackle by Doug Hogue)",0.000,0.040
+3,14:56,1,10,SFO 18,12,10,Alex Smith pass incomplete short right intended for Frank Gore,0.040,-0.490
+3,14:52,2,10,SFO 18,12,10,Bruce Miller up the middle for 3 yards (tackle by Cliff Avril),-0.490,-0.790
+3,14:11,3,7,SFO 21,12,10,Alex Smith pass incomplete short right intended for Frank Gore. Penalty on Adam Snyder: Offensive Holding (Declined),-0.790,-1.960
+3,14:03,4,7,SFO 21,12,10,"Andy Lee punts 51 yards, returned by Stefan Logan for 12 yards (tackle by Brian Jennings)",-1.960,-1.600
+3,13:53,1,10,DET 40,12,10,Jahvid Best left end for 1 yard (tackle by Patrick Willis and Navorro Bowman),1.600,1.190
+3,13:24,2,9,DET 41,12,10,Matthew Stafford pass complete short left to Jahvid Best for 21 yards (tackle by Tarell Brown),1.190,3.050
+3,12:45,1,10,SFO 38,12,10,Matthew Stafford pass complete short left to Jahvid Best for 32 yards (tackle by Donte Whitner and Dashon Goldson),3.050,5.830
+3,12:00,1,6,SFO 6,12,10,Matthew Stafford pass incomplete short right intended for Nate Burleson,5.830,4.950
+3,11:54,2,6,SFO 6,12,10,Matthew Stafford pass incomplete short middle intended for Brandon Pettigrew,4.950,4.040
+3,11:49,3,6,SFO 6,12,10,Matthew Stafford pass incomplete short left intended for Titus Young,4.040,2.990
+3,11:45,4,6,SFO 6,12,13,Jason Hanson 24 yard field goal good,2.990,3.000
+3,,,,DET 35,12,13,"Jason Hanson kicks off 67 yards, returned by Ted Ginn Jr. for 22 yards (tackle by Alphonso Smith)",0.000,0.280
+3,11:36,1,10,SFO 20,12,13,Alex Smith pass complete short left to Frank Gore for -3 yards (tackle by Eric Wright),0.280,-0.790
+3,10:51,,,,12,13,Timeout #1 by San Francisco 49ers,0.000,-0.790
+3,10:51,2,13,SFO 17,12,13,"Frank Gore right tackle for 55 yards (tackle by Chris Houston). Penalty on Chris Houston: Horse Collar Tackle, 14 yards",-0.790,4.650
+3,10:22,1,10,DET 14,12,13,Kendall Hunter left end for 1 yard (tackle by Amari Spievey),4.650,4.160
+3,9:38,2,9,DET 13,12,13,Alex Smith pass incomplete short left intended for Michael Crabtree (defended by Aaron Berry),4.160,3.260
+,,,,,,,"SFO challenged the incomplete pass ruling, and the play was upheld.",,
+3,9:32,3,9,DET 13,12,13,Alex Smith pass incomplete short right intended for Delanie Walker,3.260,2.570
+3,9:27,4,9,DET 13,15,13,David Akers 31 yard field goal good,2.570,3.000
+3,,,,SFO 35,15,13,"David Akers kicks off 72 yards, touchback",0.000,0.280
+3,9:23,1,10,DET 20,15,13,Matthew Stafford pass complete deep left to Calvin Johnson for 23 yards (tackle by Dashon Goldson),0.280,1.800
+3,8:50,1,10,DET 43,15,13,Matthew Stafford pass complete short right to Brandon Pettigrew for 4 yards (tackle by Navorro Bowman),1.800,1.790
+3,8:20,2,6,DET 47,15,13,Jahvid Best left end for 5 yards (tackle by Aldon Smith),1.790,1.750
+3,7:42,3,1,SFO 48,15,13,"Penalty on Ray McDonald: Encroachment, 6 yards (no play)",1.750,2.790
+3,7:13,1,10,SFO 42,15,13,Matthew Stafford pass complete short right to Jahvid Best for -1 yards (tackle by Carlos Rogers),2.790,2.110
+3,6:42,2,11,SFO 43,15,13,Matthew Stafford pass incomplete deep right intended for Calvin Johnson,2.110,1.420
+3,6:35,3,11,SFO 43,15,13,"Matthew Stafford pass incomplete. Penalty on Matthew Stafford: Intentional Grounding, 10 yards",1.420,-0.260
+3,6:30,4,21,DET 47,15,13,"Ryan Donahue punts 43 yards, returned by Ted Ginn Jr. for 21 yards (tackle by John Wendling)",-0.260,-1.000
+3,6:18,1,10,SFO 31,15,13,Frank Gore left end for -3 yards (tackle by DeAndre Levy),1.000,0.060
+3,5:34,2,13,SFO 28,15,13,Alex Smith pass incomplete short right intended for Michael Crabtree (defended by Willie Young),0.060,-0.630
+3,5:30,3,13,SFO 28,15,13,Alex Smith pass complete deep middle to Michael Crabtree for 27 yards (tackle by DeAndre Levy),-0.630,2.590
+3,4:52,1,10,DET 45,15,13,Alex Smith pass incomplete deep left intended for Ted Ginn Jr.,2.590,2.040
+3,4:45,2,10,DET 45,15,13,Alex Smith pass incomplete short right intended for Michael Crabtree,2.040,1.360
+3,4:40,3,10,DET 45,15,13,Alex Smith sacked by Stephen Tulloch for -7 yards,1.360,-0.190
+3,4:07,4,17,SFO 48,15,13,"Andy Lee punts 43 yards, fair catch by Stefan Logan",-0.190,0.380
+3,3:58,1,10,DET 9,15,13,Matthew Stafford sacked by Justin Smith for -5 yards,-0.380,-1.150
+3,3:21,2,15,DET 4,15,13,Jahvid Best left tackle for 1 yard (tackle by Navorro Bowman),-1.150,-1.890
+3,2:44,3,14,DET 5,15,13,Matthew Stafford pass incomplete short left intended for Jahvid Best,-1.890,-2.490
+3,2:39,4,14,DET 5,15,13,"Ryan Donahue punts 38 yards, fair catch by Ted Ginn Jr.",-2.490,-2.720
+3,2:32,1,10,DET 43,15,13,"Penalty on Justin Peelle: False Start, 5 yards (no play)",2.720,2.390
+3,2:32,1,15,DET 48,15,13,Frank Gore left tackle for 4 yards (tackle by Corey Williams),2.390,2.040
+3,1:54,2,11,DET 44,15,13,Alex Smith pass incomplete deep middle intended for Michael Crabtree is intercepted by Amari Spievey at DET-21 and returned for 30 yards (tackle by Delanie Walker),2.040,-2.320
+3,1:43,1,10,SFO 49,15,13,Maurice Morris left tackle for 11 yards (tackle by Patrick Willis),2.320,3.050
+3,1:08,1,10,SFO 38,15,13,Maurice Morris left tackle for 2 yards (tackle by Patrick Willis),3.050,2.780
+3,0:34,2,8,SFO 36,15,13,Matthew Stafford pass complete short middle to Nate Burleson for 14 yards (tackle by Carlos Rogers),2.780,4.110
+Quarter,Time,Down,ToGo,Location,SFO,DET,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,SFO 22,15,13,Matthew Stafford pass incomplete short right intended for Titus Young (defended by Chris Culliver),4.110,3.560
+4,14:56,2,10,SFO 22,15,13,"Matthew Stafford pass incomplete short left intended for Brandon Pettigrew (defended by Patrick Willis). Penalty on Dashon Goldson: Delay of Game, 5 yards",3.560,3.560
+4,14:51,3,5,SFO 17,15,13,Matthew Stafford pass complete short middle to Calvin Johnson for 9 yards (tackle by Chris Culliver),3.560,5.370
+4,14:21,1,8,SFO 8,15,13,Maurice Morris left tackle for 3 yards (tackle by Justin Smith),5.370,5.150
+4,13:53,2,5,SFO 5,15,19,"Matthew Stafford pass complete short middle to Nate Burleson for 5 yards, touchdown",5.150,7.000
+,,,,,,,"DET challenged the incomplete pass ruling, and the original play was overturned.",,
+4,,,,,15,19,"Two Point Attempt: Matthew Stafford pass incomplete intended for Calvin Johnson, conversion fails",1.000,-1.000
+4,,,,DET 35,15,19,"Jason Hanson kicks off 73 yards, returned by Ted Ginn Jr. for 25 yards (tackle by Brandon McDonald)",0.000,-0.060
+4,13:42,1,10,SFO 17,15,19,Alex Smith pass complete short right to Michael Crabtree for 11 yards (tackle by Louis Delmas),-0.060,0.810
+4,13:12,1,10,SFO 28,15,19,Ted Ginn Jr. left end for 12 yards (tackle by Louis Delmas),0.810,1.600
+4,12:24,1,10,SFO 40,15,19,Alex Smith pass incomplete short right intended for Justin Peelle,1.600,1.050
+4,12:20,2,10,SFO 40,15,19,Frank Gore left tackle for 6 yards (tackle by Aaron Berry),1.050,1.160
+4,11:40,3,4,SFO 46,15,19,Alex Smith pass complete short left to Michael Crabtree for 3 yards (tackle by DeAndre Levy and Brandon McDonald),1.160,-0.130
+4,11:25,4,1,SFO 49,15,19,"Andy Lee punts 43 yards, fair catch by Stefan Logan",-0.130,0.380
+4,11:16,1,10,DET 8,15,19,Matthew Stafford pass complete short right to Calvin Johnson for 41 yards (tackle by Navorro Bowman),-0.380,2.190
+4,10:31,1,10,DET 49,15,19,"Penalty on Brandon Pettigrew: False Start, 5 yards (no play)",2.190,1.860
+4,10:20,1,15,DET 44,15,19,Jahvid Best left tackle for -1 yards (tackle by Navorro Bowman),1.860,0.840
+4,9:41,2,16,DET 43,15,19,Matthew Stafford pass incomplete short right intended for Brandon Pettigrew (defended by Ray McDonald),0.840,0.170
+4,9:37,3,16,DET 43,15,19,Matthew Stafford pass incomplete,0.170,-0.520
+4,9:28,4,16,DET 43,15,19,"Ryan Donahue punts 57 yards, touchback",-0.520,-0.280
+4,9:19,1,10,SFO 20,15,19,Alex Smith pass incomplete deep right intended for Michael Crabtree,0.280,-0.270
+4,9:14,2,10,SFO 20,15,19,Ted Ginn Jr. for 9 yards (tackle by Amari Spievey),-0.270,0.230
+4,8:43,3,1,SFO 29,15,19,Kendall Hunter left end for no gain (tackle by Lawrence Jackson),0.230,-1.440
+4,8:03,4,1,SFO 29,15,19,"Andy Lee punts 52 yards, returned by Stefan Logan for 16 yards (tackle by Reggie Smith). Penalty on Chris Culliver: Player Out of Bounds on Punt, 5 yards",-1.440,-1.600
+4,7:51,1,10,DET 40,15,19,"Matthew Stafford sacked by Aldon Smith for -12 yards. Matthew Stafford fumbles (forced by Aldon Smith), recovered by Jeff Backus at DET-22",1.600,-1.380
+4,7:04,2,28,DET 22,15,19,Maurice Morris up the middle for 3 yards (tackle by Aldon Smith),-1.380,-1.620
+4,6:25,3,25,DET 25,15,19,Matthew Stafford pass complete short middle to Nate Burleson for 11 yards (tackle by Ahmad Brooks),-1.620,-0.980
+4,5:43,4,14,DET 36,15,19,"Ryan Donahue punts 39 yards, returned by Ted Ginn Jr. for 40 yards (tackle by Ryan Donahue)",-0.980,-3.250
+4,5:29,1,10,DET 35,15,19,Kendall Hunter right end for 9 yards (tackle by DeAndre Levy and Stephen Tulloch),3.250,3.920
+4,4:51,2,1,DET 26,15,19,Frank Gore right tackle for 1 yard (tackle by Ndamukong Suh and Stephen Tulloch),3.920,3.910
+4,4:09,1,10,DET 25,15,19,Kendall Hunter left tackle for 9 yards (tackle by Louis Delmas),3.910,4.750
+4,3:35,2,1,DET 16,15,19,Frank Gore right tackle for 9 yards (tackle by Corey Williams),4.750,5.600
+4,2:58,1,7,DET 7,15,19,Frank Gore right tackle for -3 yards (tackle by Corey Williams and Sammie Lee Hill),5.600,4.190
+4,2:15,2,10,DET 10,15,19,Alex Smith pass complete short left to Michael Crabtree for 4 yards (tackle by Eric Wright),4.190,4.040
+4,2:00,3,6,DET 6,15,19,Alex Smith pass incomplete short left intended for Kyle Williams,4.040,2.990
+4,1:56,4,6,DET 6,21,19,"Alex Smith pass complete short right to Delanie Walker for 6 yards, touchdown",2.990,7.000
+,,,,,,,"Replay Assistant challenged the runner broke the plane ruling, and the play was upheld.",,
+4,,,,DET 2,22,19,David Akers kicks extra point good,0.000,0.000
+4,,,,SFO 35,22,19,"David Akers kicks off 65 yards, touchback",0.000,0.280
+4,1:51,1,10,DET 20,22,19,Matthew Stafford pass complete short right to Brandon Pettigrew for 5 yards (tackle by Patrick Willis),0.280,0.410
+4,1:29,2,5,DET 25,22,19,Matthew Stafford pass incomplete short left intended for Titus Young,0.410,-0.300
+4,1:24,3,5,DET 25,22,19,Matthew Stafford pass incomplete short right intended for Brandon Pettigrew (defended by Navorro Bowman),-0.300,-1.700
+4,1:19,4,5,DET 25,22,19,Matthew Stafford pass incomplete short left intended for Nate Burleson (defended by Carlos Rogers),-1.700,-3.910
+4,1:16,1,10,DET 25,22,19,Frank Gore left tackle for 1 yard (tackle by Sammie Lee Hill),3.910,3.500
+4,1:12,,,,22,19,Timeout #1 by Detroit Lions,0.000,3.500
+4,1:12,2,9,DET 24,22,19,Frank Gore up the middle for 1 yard (tackle by DeAndre Levy),3.500,2.940
+4,1:09,,,,22,19,Timeout #2 by Detroit Lions,0.000,2.940
+4,1:09,3,8,DET 23,22,19,Frank Gore right tackle for 4 yards (tackle by Sammie Lee Hill and DeAndre Levy),2.940,2.260
+4,1:06,,,,22,19,Timeout #3 by Detroit Lions,0.000,2.260
+4,1:06,4,4,DET 19,25,19,David Akers 37 yard field goal good,2.260,3.000
+4,,,,SFO 35,25,19,"David Akers kicks off 65 yards, touchback",0.000,0.280
+4,1:02,1,10,DET 20,25,19,Matthew Stafford sacked by Justin Smith and Ray McDonald for -8 yards,0.280,-1.360
+4,0:37,2,18,DET 12,25,19,Matthew Stafford pass complete short middle to Maurice Morris for 8 yards (tackle by Dashon Goldson and Navorro Bowman),-1.360,-0.960
+4,0:15,3,10,DET 20,25,19,Matthew Stafford pass incomplete deep right intended for Titus Young (defended by Patrick Willis),-0.960,-2.030
+4,0:06,,,,25,19,Timeout #3 by San Francisco 49ers,0.000,-2.030
+4,0:05,4,10,DET 20,25,19,"Matthew Stafford pass complete short right to Calvin Johnson for 11 yards, lateral to Titus Young for no gain. Titus Young fumbles, recovered by Titus Young at DET-31",-2.030,1.000
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

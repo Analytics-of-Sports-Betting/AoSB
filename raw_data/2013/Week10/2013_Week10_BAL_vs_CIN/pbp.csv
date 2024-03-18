@@ -1,0 +1,222 @@
+Quarter,Time,Down,ToGo,Location,CIN,BAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Bengals won the coin toss and deferred, Ravens to receive the opening kickoff.",,
+1,15:00,,,CIN 35,0,0,"Mike Nugent kicks off 68 yards, returned by Jacoby Jones for 26 yards (tackle by Cedric Peerman)",0.000,-0.480
+1,14:54,1,10,BAL 23,0,0,Joe Flacco pass complete short left to Ed Dickson for 6 yards (tackle by Chris Crocker),0.480,0.740
+1,14:29,2,4,BAL 29,0,0,Ray Rice right guard for no gain (tackle by Brandon Thompson),0.740,0.040
+1,14:00,3,4,BAL 29,0,0,Joe Flacco pass incomplete short middle intended for Dallas Clark,0.040,-1.440
+1,13:53,4,4,BAL 29,0,0,"Sam Koch punts 46 yards, returned by Brandon Tate for 6 yards (tackle by Chykie Brown)",-1.440,-1.000
+1,13:43,1,10,CIN 31,0,0,BenJarvus Green-Ellis right guard for 6 yards (tackle by Jameel McClain),1.000,1.270
+1,13:17,2,4,CIN 37,0,0,Andy Dalton pass complete short right to A.J. Green for 7 yards (tackle by Lardarius Webb),1.270,1.860
+1,12:44,1,10,CIN 44,0,0,BenJarvus Green-Ellis right guard for 3 yards (tackle by Arthur Jones and Corey Graham),1.860,1.720
+1,12:00,2,7,CIN 47,0,0,Andy Dalton pass incomplete short left intended for Mohamed Sanu (defended by Daryl Smith),1.720,1.030
+1,11:56,3,7,CIN 47,0,0,Andy Dalton pass complete short right to Giovani Bernard for 6 yards (tackle by Daryl Smith and Chykie Brown),1.030,0.130
+1,11:18,4,1,BAL 47,0,0,Andy Dalton up the middle for no gain (tackle by Terrell Suggs and Corey Graham),0.130,-2.060
+1,11:08,1,10,BAL 47,0,0,"Joe Flacco pass incomplete deep middle intended for Jacoby Jones (defended by Reggie Nelson). Penalty on Reggie Nelson: Defensive Pass Interference, 48 yards (no play)",2.060,6.060
+1,11:00,1,5,CIN 5,0,0,Ray Rice right guard for 3 yards (tackle by Chris Crocker),6.060,5.720
+1,10:24,2,2,CIN 2,0,0,Vonta Leach left guard for 1 yard (tackle by Michael Johnson and Domata Peko),5.720,5.170
+1,9:51,3,1,CIN 1,0,6,"Joe Flacco pass complete short right to Dallas Clark for 1 yard, touchdown. Penalty on Chris Crocker: Defensive Holding (Declined)",5.170,7.000
+1,9:51,,,CIN 2,0,7,Justin Tucker kicks extra point good,0.000,0.000
+1,9:51,,,BAL 35,0,7,"Justin Tucker kicks off 71 yards, returned by Brandon Tate for 26 yards (tackle by Josh Bynes)",0.000,-0.280
+1,9:36,1,10,CIN 20,0,7,Andy Dalton pass incomplete short right intended for A.J. Green (defended by Lardarius Webb),0.280,-0.270
+1,9:32,2,10,CIN 20,0,7,BenJarvus Green-Ellis right tackle for 2 yards (tackle by Josh Bynes),-0.270,-0.690
+1,8:51,3,8,CIN 22,0,7,"Andy Dalton pass incomplete short middle intended for BenJarvus Green-Ellis. Penalty on Haloti Ngata: Roughing the Passer, 15 yards (no play)",-0.690,1.400
+1,8:45,1,10,CIN 37,0,7,BenJarvus Green-Ellis left guard for 4 yards (tackle by Terrell Suggs and Haloti Ngata),1.400,1.400
+1,8:13,2,6,CIN 41,0,7,Marvin Jones right end for 7 yards (tackle by Chris Canty and Lardarius Webb),1.400,2.130
+1,7:32,1,10,CIN 48,0,7,Giovani Bernard right guard for 4 yards (tackle by Daryl Smith and Haloti Ngata),2.130,2.120
+1,6:56,2,6,BAL 48,0,7,Andy Dalton pass incomplete deep left intended for Mohamed Sanu,2.120,1.420
+1,6:50,3,6,BAL 48,0,7,"Penalty on Andy Dalton: Delay of Game, 5 yards (no play)",1.420,0.760
+1,6:50,3,11,CIN 47,0,7,Andy Dalton pass incomplete deep right intended for Marvin Jones,0.760,-0.260
+1,6:45,4,11,CIN 47,0,7,Kevin Huber punts 28 yards,-0.260,-0.610
+1,6:34,1,10,BAL 25,0,7,Joe Flacco pass complete short right to Torrey Smith for 18 yards (tackle by Terence Newman),0.610,1.800
+1,6:03,1,10,BAL 43,0,7,"Bernard Pierce left end for 4 yards (tackle by Vontaze Burfict and George Iloka). Penalty on Chris Crocker: Personal Foul, 15 yards",1.800,3.050
+1,5:40,1,10,CIN 38,0,7,Joe Flacco pass complete short right to Bernard Pierce for 12 yards (tackle by Vontaze Burfict),3.050,3.840
+1,5:17,1,10,CIN 26,0,7,Bernard Pierce right guard for 9 yards (tackle by Chris Crocker),3.840,4.640
+1,4:49,2,1,CIN 17,0,7,Joe Flacco pass incomplete deep right intended for Torrey Smith (defended by Terence Newman),4.640,3.950
+1,4:45,3,1,CIN 17,0,7,Joe Flacco pass incomplete short left intended for Torrey Smith,3.950,2.460
+1,4:43,4,1,CIN 17,0,10,Justin Tucker 36 yard field goal good,2.460,3.000
+1,4:43,,,BAL 35,0,10,"Justin Tucker kicks off 71 yards, touchback",0.000,-0.280
+1,4:39,1,10,CIN 20,0,10,Giovani Bernard right guard for 2 yards (tackle by Terrence Cody),0.280,0.000
+1,3:58,2,8,CIN 22,0,10,Andy Dalton pass incomplete short middle intended for Marvin Jones,0.000,-0.690
+1,3:54,3,8,CIN 22,0,10,Andy Dalton pass complete short left to Mohamed Sanu for 14 yards (tackle by Corey Graham),-0.690,1.330
+1,3:18,1,10,CIN 36,0,10,Giovani Bernard left guard for 1 yard (tackle by Haloti Ngata),1.330,0.930
+1,2:39,2,9,CIN 37,0,10,Andy Dalton pass complete short right to Marvin Jones for 2 yards (tackle by Jameel McClain),0.930,0.500
+1,1:57,3,7,CIN 39,0,10,Andy Dalton pass complete short right to Giovani Bernard for 7 yards (tackle by Daryl Smith),0.500,1.990
+,,,,,,,"CIN challenged the first down ruling, and the original play was overturned.",,
+1,1:28,1,10,CIN 46,0,10,Giovani Bernard right guard for 18 yards (tackle by Matt Elam and James Ihedigbo),1.990,3.180
+1,0:57,1,10,BAL 36,0,10,BenJarvus Green-Ellis right guard for 7 yards (tackle by Chris Canty),3.180,3.580
+1,0:18,2,3,BAL 29,0,10,BenJarvus Green-Ellis right guard for 3 yards (tackle by Courtney Upshaw),3.580,3.840
+Quarter,Time,Down,ToGo,Location,CIN,BAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,BAL 26,0,10,Andy Dalton pass incomplete deep left intended for Mohamed Sanu,3.840,3.300
+2,14:55,2,10,BAL 26,0,10,Giovani Bernard left guard for 2 yards (tackle by Josh Bynes and Daryl Smith),3.300,2.870
+2,14:10,3,8,BAL 24,0,10,Andy Dalton pass incomplete short right intended for Mohamed Sanu,2.870,1.870
+2,14:02,4,8,BAL 24,0,10,Mike Nugent 42 yard field goal no good,1.870,-1.070
+2,13:58,1,10,BAL 32,0,10,Ray Rice right guard for -2 yards (tackle by Michael Johnson),1.070,0.260
+2,13:28,2,12,BAL 30,0,10,Ray Rice right guard for 5 yards (tackle by Vincent Rey),0.260,0.230
+2,12:57,3,7,BAL 35,0,10,"Joe Flacco pass incomplete short right intended for Torrey Smith. Penalty on Terence Newman: Defensive Pass Interference, 14 yards (no play)",0.230,2.190
+2,12:52,1,10,BAL 49,0,10,Tyrod Taylor right end for 18 yards (tackle by Terence Newman),2.190,3.380
+2,12:29,1,10,CIN 33,0,10,Joe Flacco pass complete short right to Ray Rice for no gain,3.380,2.840
+2,11:59,2,10,CIN 33,0,10,Ray Rice left guard for no gain (tackle by Domata Peko),2.840,2.150
+2,11:27,3,10,CIN 33,0,10,Joe Flacco pass incomplete short middle intended for Tandon Doss is intercepted by Vincent Rey at CIN-31 and returned for 4 yards (tackle by Gino Gradkowski),2.150,-1.270
+2,11:19,1,10,CIN 35,0,10,"Andrew Hawkins left end for -3 yards. Andrew Hawkins fumbles, recovered by Andrew Hawkins at CIN-32",1.270,0.320
+2,10:37,2,13,CIN 32,0,10,Andy Dalton pass incomplete deep middle intended for Tyler Eifert,0.320,-0.360
+2,10:32,3,13,CIN 32,0,10,Andy Dalton pass incomplete deep middle intended for Marvin Jones (defended by Jimmy Smith),-0.360,-1.240
+2,10:25,4,13,CIN 32,0,10,"Kevin Huber punts 44 yards, returned by Tandon Doss for 4 yards (tackle by Vincent Rey)",-1.240,-0.810
+2,10:14,1,10,BAL 28,0,10,Bernard Pierce right guard for 1 yard (tackle by Vontaze Burfict and Chris Crocker),0.810,0.400
+2,9:47,2,9,BAL 29,0,10,Joe Flacco pass incomplete deep middle intended for Torrey Smith,0.400,-0.300
+2,9:39,3,9,BAL 29,0,10,Joe Flacco sacked by Vincent Rey for -1 yards,-0.300,-1.500
+2,9:08,4,10,BAL 28,0,10,"Sam Koch punts 46 yards, returned by Brandon Tate for 9 yards (tackle by Ed Dickson)",-1.500,-1.270
+2,8:56,1,10,CIN 35,0,10,Giovani Bernard left guard for -1 yards (tackle by James Ihedigbo),1.270,0.590
+2,8:14,2,11,CIN 34,0,10,Giovani Bernard left guard for 1 yard (tackle by Arthur Jones and Haloti Ngata),0.590,0.040
+2,7:33,3,10,CIN 35,0,10,"Andy Dalton pass incomplete deep middle intended for Tyler Eifert is intercepted by James Ihedigbo at BAL-41 and returned for 37 yards (tackle by Andrew Whitworth). Penalty on Mohamed Sanu: Personal Foul, 11 yards",0.040,-4.840
+2,7:19,1,10,CIN 11,0,10,Ray Rice up the middle for 4 yards (tackle by Vincent Rey and Reggie Nelson),4.840,4.890
+2,6:35,2,6,CIN 7,0,16,"Joe Flacco pass complete short middle to Torrey Smith for 7 yards, touchdown",4.890,7.000
+2,6:35,,,CIN 2,0,17,Justin Tucker kicks extra point good,0.000,0.000
+2,6:35,,,BAL 35,0,17,"Justin Tucker kicks off 74 yards, touchback",0.000,-0.280
+2,6:30,1,10,CIN 20,0,17,Andy Dalton pass incomplete short left intended for A.J. Green,0.280,-0.270
+2,6:26,2,10,CIN 20,0,17,Andy Dalton pass complete short right to Giovani Bernard for 5 yards (tackle by Courtney Upshaw),-0.270,-0.300
+2,5:45,3,5,CIN 25,0,17,Andy Dalton pass complete short left to Giovani Bernard for -1 yards (tackle by Jimmy Smith),-0.300,-1.770
+2,5:09,4,6,CIN 24,0,17,"Kevin Huber punts 42 yards, out of bounds",-1.770,-1.200
+2,5:01,1,10,BAL 34,0,17,Joe Flacco pass complete short middle to Torrey Smith for 11 yards (tackle by Reggie Nelson),1.200,1.930
+2,4:34,1,10,BAL 45,0,17,Joe Flacco pass incomplete deep right intended for Torrey Smith,1.930,1.380
+2,4:28,2,10,BAL 45,0,17,"Joe Flacco sacked by Carlos Dunlap for -9 yards. Penalty on Carlos Dunlap: Horse Collar Tackle, 15 yards",1.380,2.320
+2,3:58,1,10,CIN 49,0,17,"Bernard Pierce left guard for 3 yards (tackle by George Iloka). Penalty on Marlon Brown: Offensive Holding, 10 yards",2.320,1.860
+2,3:47,1,17,BAL 44,0,17,Joe Flacco pass incomplete short left intended for Bernard Pierce (defended by Vincent Rey),1.860,0.840
+2,3:42,2,17,BAL 44,0,17,Joe Flacco pass incomplete deep middle intended for Marlon Brown (defended by Chris Crocker),0.840,0.170
+2,3:32,3,17,BAL 44,0,17,Joe Flacco pass complete short right to Torrey Smith for 3 yards (tackle by Vontaze Burfict),0.170,-0.260
+2,2:50,4,14,BAL 47,0,17,"Sam Koch punts 40 yards, fair catch by Brandon Tate. Penalty on Dre Kirkpatrick: Offensive Holding, 6 yards",-0.260,0.380
+2,2:41,1,10,CIN 7,0,17,Andy Dalton pass incomplete short left intended for A.J. Green (defended by Haloti Ngata),-0.380,-0.780
+2,2:36,2,10,CIN 7,0,17,Andy Dalton pass incomplete short middle intended for Marvin Jones (defended by Elvis Dumervil),-0.780,-1.420
+2,2:32,3,10,CIN 7,0,17,Andy Dalton pass complete short right to Mohamed Sanu for 7 yards (tackle by Arthur Brown and Daryl Smith),-1.420,-2.470
+2,2:00,4,3,CIN 14,0,17,"Kevin Huber punts 44 yards, returned by Tandon Doss for 10 yards (tackle by Clark Harris)",-2.470,-2.390
+2,1:48,1,10,CIN 48,0,17,Joe Flacco pass incomplete short left intended for Torrey Smith,2.390,1.850
+2,1:45,2,10,CIN 48,0,17,Joe Flacco sacked by Vincent Rey for -11 yards,1.850,-0.300
+2,1:16,3,21,BAL 41,0,17,Joe Flacco pass complete short middle to Ray Rice for 11 yards (tackle by Chris Crocker),-0.300,-0.300
+2,0:27,3,21,BAL 41,0,17,Timeout #1 by Baltimore Ravens,-0.300,0.070
+2,0:27,4,10,CIN 48,0,17,"Sam Koch punts 35 yards, out of bounds",0.070,0.320
+2,0:19,1,10,CIN 13,0,17,Andy Dalton kneels for -1 yards,-0.320,-0.850
+Quarter,Time,Down,ToGo,Location,CIN,BAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,BAL 35,0,17,"Justin Tucker kicks off no gain, returned by Brandon Tate for 24 yards (tackle by Albert McClellan)",0.000,0.610
+3,14:54,1,10,CIN 25,0,17,Andy Dalton pass complete short right to Tyler Eifert for 40 yards (tackle by James Ihedigbo),0.610,3.250
+3,14:28,1,10,BAL 35,0,17,Andy Dalton pass incomplete short right intended for Tyler Eifert,3.250,2.700
+3,14:25,2,10,BAL 35,0,17,BenJarvus Green-Ellis left end for 5 yards (tackle by Courtney Upshaw),2.700,2.680
+3,13:48,3,5,BAL 30,0,17,Andy Dalton pass complete short middle to A.J. Green for 4 yards (tackle by James Ihedigbo),2.680,1.890
+,,,,,,,"BAL challenged the first down ruling, and the original play was overturned.",,
+3,13:24,4,1,BAL 26,0,17,Andy Dalton up the middle for 2 yards,1.890,3.970
+3,12:47,1,10,BAL 24,0,17,Andy Dalton pass incomplete short right intended for Alex Smith,3.970,3.430
+3,12:41,2,10,BAL 24,0,17,Andy Dalton pass complete short right to Giovani Bernard for 11 yards (tackle by Daryl Smith and Pernell McPhee),3.430,4.710
+3,11:59,1,10,BAL 13,0,17,Giovani Bernard right guard for 4 yards (tackle by Terrell Suggs),4.710,4.770
+3,11:19,2,6,BAL 9,0,17,Andy Dalton sacked by Arthur Jones for -5 yards,4.770,3.080
+3,10:46,3,11,BAL 14,0,17,Andy Dalton pass incomplete short middle intended for Tyler Eifert (defended by Daryl Smith),3.080,2.510
+3,10:40,4,11,BAL 14,3,17,Mike Nugent 32 yard field goal good,2.510,3.000
+3,10:40,,,CIN 35,3,17,"Mike Nugent kicks off 65 yards, touchback",0.000,-0.280
+3,10:37,1,10,BAL 20,3,17,Joe Flacco pass complete short middle to Jacoby Jones for 9 yards (tackle by Terence Newman),0.280,0.950
+3,10:03,2,1,BAL 29,3,17,Joe Flacco pass complete short left to Ray Rice for -4 yards (tackle by Reggie Nelson),0.950,-0.300
+3,9:29,3,5,BAL 25,3,17,Joe Flacco pass complete short left to Torrey Smith for 7 yards,-0.300,1.070
+3,8:55,1,10,BAL 32,3,17,Ray Rice right guard for no gain (tackle by Brandon Thompson),1.070,0.530
+3,8:17,2,10,BAL 32,3,17,Joe Flacco pass incomplete short left intended for Marlon Brown (defended by Vincent Rey),0.530,-0.160
+3,8:11,3,10,BAL 32,3,17,Joe Flacco sacked by Vincent Rey for -7 yards,-0.160,-1.700
+3,7:43,4,17,BAL 25,3,17,"Sam Koch punts 45 yards, returned by Brandon Tate for 12 yards (tackle by Morgan Cox)",-1.700,-1.730
+3,7:32,1,10,CIN 42,3,17,Andy Dalton pass incomplete short middle intended for Marvin Jones is intercepted by Lardarius Webb at BAL-49,1.730,-2.190
+3,7:25,1,10,BAL 49,3,17,Bernard Pierce right end for 4 yards (tackle by Carlos Dunlap),2.190,2.190
+3,7:05,2,6,CIN 47,3,17,Joe Flacco pass complete short left to Bernard Pierce for no gain,2.190,1.490
+3,6:30,3,6,CIN 47,3,17,"Penalty on Torrey Smith: False Start, 5 yards (no play)",1.490,0.830
+3,6:11,3,11,BAL 48,3,17,Joe Flacco pass complete short right to Ray Rice for 2 yards (tackle by Wallace Gilberry),0.830,-0.060
+3,5:34,4,9,BAL 50,3,17,"Sam Koch punts 43 yards, returned by Brandon Tate for 9 yards (tackle by Brynden Trawick)",-0.060,0.140
+3,5:23,1,10,CIN 16,3,17,BenJarvus Green-Ellis left guard for 1 yard (tackle by Haloti Ngata and Jameel McClain),-0.140,-0.510
+3,4:52,2,9,CIN 17,3,17,Andy Dalton pass complete deep middle to A.J. Green for 43 yards (tackle by James Ihedigbo),-0.510,2.920
+3,4:05,1,10,BAL 40,3,17,Andy Dalton pass incomplete short right intended for Tyler Eifert,2.920,2.370
+3,4:02,2,10,BAL 40,3,17,Andy Dalton pass complete short right to A.J. Green for -1 yards (tackle by Matt Elam),2.370,1.550
+,,,,,,,"BAL challenged the runner was down by contact ruling, and the play was upheld.",,
+3,3:15,3,11,BAL 41,3,17,Andy Dalton pass incomplete short left intended for A.J. Green (defended by Jimmy Smith),1.550,0.530
+3,3:09,4,11,BAL 41,3,17,"Kevin Huber punts 16 yards, out of bounds",0.530,-0.610
+3,2:59,1,10,BAL 25,3,17,Ray Rice right end for 2 yards (tackle by Domata Peko),0.610,0.330
+3,2:28,2,8,BAL 27,3,17,Joe Flacco pass complete short middle to Marlon Brown for 10 yards (tackle by George Iloka and Vincent Rey),0.330,1.400
+3,1:57,1,10,BAL 37,3,17,Ray Rice left end for 2 yards (tackle by Michael Johnson and Vontaze Burfict),1.400,1.130
+3,1:24,2,8,BAL 39,3,17,Joe Flacco pass incomplete short middle intended for Torrey Smith,1.130,0.430
+3,1:19,3,8,BAL 39,3,17,Joe Flacco pass incomplete short left intended for Torrey Smith,0.430,-0.780
+3,1:14,4,8,BAL 39,3,17,"Sam Koch punts 52 yards, returned by Brandon Tate for 8 yards (tackle by Jeromy Miles). Penalty on Chykie Brown: Player Out of Bounds on Punt, 5 yards (no play)",-0.780,-1.110
+3,1:14,4,13,BAL 34,3,17,"Sam Koch punts 55 yards, returned by Brandon Tate for 11 yards (tackle by Anthony Levine)",-1.110,-0.410
+3,0:54,1,10,CIN 22,3,17,Giovani Bernard right guard for 2 yards (tackle by DeAngelo Tyson),0.410,0.140
+3,0:54,2,8,CIN 24,3,17,Andy Dalton sacked by Elvis Dumervil for -5 yards,0.140,-1.290
+Quarter,Time,Down,ToGo,Location,CIN,BAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,13,CIN 19,3,17,Andy Dalton sacked by Elvis Dumervil and Pernell McPhee for -9 yards,-1.290,-2.490
+4,14:31,4,22,CIN 10,3,17,"Kevin Huber punts 49 yards, returned by Tandon Doss for 3 yards (tackle by Vincent Rey)",-2.490,-1.860
+4,14:18,1,10,BAL 44,3,17,Bernard Pierce right tackle for 2 yards (tackle by James Harrison and Vontaze Burfict),1.860,1.590
+4,13:42,2,8,BAL 46,3,17,"Joe Flacco pass incomplete short right intended for Torrey Smith. Penalty on Terence Newman: Defensive Holding, 5 yards (no play)",1.590,2.320
+4,13:37,1,10,CIN 49,3,17,Bernard Pierce left guard for 5 yards (tackle by Vincent Rey),2.320,2.460
+4,13:02,2,5,CIN 44,3,17,"Penalty on A.Q. Shipley: False Start, 5 yards (no play)",2.460,1.780
+4,12:48,2,10,CIN 49,3,17,Joe Flacco pass incomplete short left intended for Deonte Thompson (defended by Vontaze Burfict),1.780,1.090
+4,12:44,3,10,CIN 49,3,17,Joe Flacco pass incomplete deep right intended for Ed Dickson is intercepted by Terence Newman at CIN-30 and returned for -1 yards (tackle by Torrey Smith),1.090,-0.870
+4,12:30,1,10,CIN 29,3,17,Andy Dalton pass incomplete short right intended for A.J. Green (defended by Lardarius Webb),0.870,0.330
+4,12:26,2,10,CIN 29,3,17,Andy Dalton pass complete deep middle to A.J. Green for 20 yards (tackle by James Ihedigbo),0.330,2.190
+4,11:48,1,10,CIN 49,3,17,Andy Dalton pass complete deep middle to A.J. Green for 18 yards (tackle by Matt Elam),2.190,3.380
+4,11:10,1,10,BAL 33,3,17,Andy Dalton pass complete short left to Giovani Bernard for 2 yards (tackle by Jimmy Smith),3.380,3.110
+4,11:10,2,8,BAL 31,3,17,"Penalty on Elvis Dumervil: Neutral Zone Infraction, 5 yards (no play)",3.110,3.780
+4,10:18,2,3,BAL 26,3,17,Andy Dalton sacked by DeAngelo Tyson for -4 yards,3.780,2.540
+4,9:41,3,7,BAL 30,3,17,"Andy Dalton pass complete short right to A.J. Green for 5 yards (tackle by Corey Graham). Penalty on Lardarius Webb: Defensive Offside, 5 yards (no play)",2.540,3.200
+4,9:09,3,2,BAL 25,3,17,Andy Dalton pass incomplete deep right intended for Mohamed Sanu (defended by Lardarius Webb),3.200,3.200
+4,9:03,3,2,BAL 25,3,17,Timeout #2 by Baltimore Ravens,3.200,1.930
+4,9:03,4,2,BAL 25,3,17,Andy Dalton left tackle for 7 yards (tackle by Arthur Brown),1.930,4.370
+4,8:30,1,10,BAL 18,9,17,"Andy Dalton pass complete short left to Giovani Bernard for 18 yards, touchdown",4.370,7.000
+4,8:30,,,BAL 2,10,17,Mike Nugent kicks extra point good,0.000,0.000
+4,8:30,,,CIN 35,10,17,"Mike Nugent kicks off 56 yards, returned by Jacoby Jones for 15 yards (tackle by J.K. Schaffer)",0.000,-0.540
+4,8:16,1,10,BAL 24,10,17,Joe Flacco pass incomplete short middle intended for Torrey Smith,0.540,0.000
+4,8:13,2,10,BAL 24,10,17,Joe Flacco pass complete short middle to Ray Rice for 4 yards (tackle by Vontaze Burfict and Vincent Rey),0.000,-0.160
+4,7:42,3,6,BAL 28,10,17,"Joe Flacco pass complete short left to Jacoby Jones for 8 yards (tackle by Vontaze Burfict and James Harrison). Penalty on Torrey Smith: Personal Foul, 15 yards",-0.160,0.340
+4,7:15,1,10,BAL 21,10,17,Ray Rice right guard for 3 yards (tackle by Michael Johnson and Brandon Thompson),0.340,0.210
+4,6:34,2,7,BAL 24,10,17,Joe Flacco pass complete short left to Ed Dickson for 14 yards (tackle by Vincent Rey),0.210,1.470
+4,5:59,1,10,BAL 38,10,17,Ray Rice left guard for 1 yard (tackle by Vincent Rey and Vontaze Burfict),1.470,1.060
+4,5:22,2,9,BAL 39,10,17,"Joe Flacco left end for 4 yards (tackle by Vontaze Burfict). Penalty on Vontaze Burfict: Personal Foul, 15 yards",1.060,2.790
+4,4:59,1,10,CIN 42,10,17,Joe Flacco pass incomplete deep middle intended for Torrey Smith,2.790,2.240
+4,4:52,2,10,CIN 42,10,17,Ray Rice left guard for no gain (tackle by Michael Johnson),2.240,1.550
+4,4:12,3,10,CIN 42,10,17,"Joe Flacco sacked by Carlos Dunlap for -8 yards. Joe Flacco fumbles (forced by Carlos Dunlap), recovered by James Harrison at CIN-50 (tackle by Joe Flacco)",1.550,-2.260
+4,4:01,1,10,CIN 50,10,17,Giovani Bernard right guard for no gain (tackle by Courtney Upshaw),2.260,1.710
+4,3:26,2,10,CIN 50,10,17,Andy Dalton pass incomplete short left intended for Tyler Eifert,1.710,1.030
+4,3:20,3,10,CIN 50,10,17,Andy Dalton up the middle for 12 yards (tackle by James Ihedigbo),1.030,3.050
+4,2:47,1,10,BAL 38,10,17,Giovani Bernard right end for 1 yard (tackle by Lardarius Webb),3.050,2.640
+4,2:01,2,9,BAL 37,10,17,Andy Dalton pass incomplete deep left intended for A.J. Green is intercepted by James Ihedigbo at BAL-12 and returned for 9 yards (tackle by Mohamed Sanu),2.640,-0.340
+4,1:55,1,10,BAL 21,10,17,Bernard Pierce left tackle for 3 yards (tackle by George Iloka),0.340,0.340
+4,1:49,1,10,BAL 21,10,17,Timeout #1 by Cincinnati Bengals,0.340,0.210
+4,1:49,2,7,BAL 24,10,17,Ray Rice right guard for 3 yards (tackle by James Harrison and J.K. Schaffer),0.210,0.210
+4,1:45,2,7,BAL 24,10,17,Timeout #2 by Cincinnati Bengals,0.210,-0.100
+4,1:45,3,4,BAL 27,10,17,Ray Rice right tackle for 3 yards (tackle by Vincent Rey),-0.100,-0.100
+4,1:38,3,4,BAL 27,10,17,Timeout #3 by Cincinnati Bengals,-0.100,-1.370
+4,1:38,4,1,BAL 30,10,17,Sam Koch punts 45 yards (tackle by Brynden Trawick),-1.370,-1.600
+4,1:28,1,10,CIN 40,10,17,Andy Dalton pass complete short left to Tyler Eifert for 9 yards (tackle by Arthur Brown),1.600,2.270
+4,1:07,2,1,CIN 49,10,17,Andy Dalton pass incomplete short right intended for Marvin Jones (defended by Lardarius Webb),2.270,1.550
+4,1:03,3,1,CIN 49,10,17,Andy Dalton pass complete short left to Mohamed Sanu for 5 yards (tackle by Lardarius Webb and Jimmy Smith),1.550,2.520
+4,0:36,1,10,BAL 46,10,17,Andy Dalton up the middle for 2 yards (tackle by Terrell Suggs),2.520,2.250
+4,0:21,2,8,BAL 44,10,17,Andy Dalton sacked by Elvis Dumervil for -7 yards,2.250,0.630
+4,0:02,3,15,CIN 49,10,17,Andy Dalton spiked the ball,0.630,-0.130
+4,0:02,4,15,CIN 49,16,17,"Andy Dalton pass complete deep right to A.J. Green for 51 yards, touchdown",-0.130,7.000
+4,0:02,,,BAL 2,17,17,Mike Nugent kicks extra point good,0.000,0.000
+Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime
+Quarter,Time,Down,ToGo,Location,CIN,BAL,Detail,EPB,EPA
+,,,,,,,"Bengals won the coin toss, Bengals to receive the overtime kickoff.",,
+OT,15:00,,,BAL 35,17,17,"Justin Tucker kicks off no gain, touchback",0.000,0.280
+OT,15:00,1,10,CIN 20,17,17,Andy Dalton pass complete short right to Alex Smith for 3 yards (tackle by Daryl Smith),0.280,0.140
+OT,14:20,2,7,CIN 23,17,17,Andy Dalton pass complete short right to A.J. Green for 9 yards (tackle by Corey Graham and Arthur Brown),0.140,1.070
+OT,13:41,1,10,CIN 32,17,17,Giovani Bernard right guard for 16 yards (tackle by Lardarius Webb and James Ihedigbo),1.070,2.130
+OT,13:07,1,10,CIN 48,17,17,BenJarvus Green-Ellis left guard for 5 yards (tackle by Arthur Jones and Jameel McClain),2.130,2.260
+OT,12:29,2,5,BAL 47,17,17,Andy Dalton pass incomplete short right intended for A.J. Green (defended by Lardarius Webb),2.260,1.550
+OT,12:24,3,5,BAL 47,17,17,Andy Dalton pass complete short left to Tyler Eifert for 6 yards (tackle by Jimmy Smith),1.550,2.850
+OT,11:49,1,10,BAL 41,17,17,Andy Dalton pass incomplete deep middle intended for Tyler Eifert,2.850,2.310
+OT,11:43,2,10,BAL 41,17,17,Giovani Bernard right guard for 8 yards (tackle by Jimmy Smith),2.310,2.680
+OT,11:02,3,2,BAL 33,17,17,Giovani Bernard right guard for no gain (tackle by Daryl Smith and James Ihedigbo),2.680,1.200
+OT,10:15,4,2,BAL 33,17,17,Andy Dalton pass complete short right to Giovani Bernard for -11 yards (tackle by Corey Graham),1.200,-1.860
+OT,10:01,1,10,BAL 44,17,17,Ray Rice left guard for 2 yards (tackle by Domata Peko and Carlos Dunlap),1.860,1.590
+OT,9:17,2,8,BAL 46,17,17,Joe Flacco pass complete short right to Ray Rice for 13 yards (tackle by Terence Newman),1.590,2.850
+OT,8:39,1,10,CIN 41,17,17,Ray Rice right guard for 3 yards (tackle by Vincent Rey and Michael Johnson),2.850,2.710
+OT,8:05,2,7,CIN 38,17,17,Joe Flacco pass complete short right to Ed Dickson for 8 yards (tackle by Reggie Nelson),2.710,2.710
+,,,,,,,"Replay Assistant challenged the runner was in bounds ruling, and the play was upheld.",,
+OT,7:33,2,7,CIN 38,17,17,Timeout #1 by Cincinnati Bengals,2.710,3.580
+OT,7:26,1,10,CIN 30,17,17,Ray Rice left guard for 1 yard (tackle by James Harrison and Terence Newman),3.580,3.170
+OT,6:52,2,9,CIN 29,17,17,Ray Rice right guard for no gain (tackle by Michael Johnson and Carlos Dunlap),3.170,2.480
+OT,6:16,3,9,CIN 29,17,17,Vonta Leach right guard for 1 yard (tackle by Vontaze Burfict),2.480,2.480
+OT,5:34,3,9,CIN 29,17,17,Timeout #2 by Cincinnati Bengals,2.480,1.590
+OT,5:34,4,8,CIN 28,17,20,Justin Tucker 46 yard field goal good,1.590,3.000
+End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime

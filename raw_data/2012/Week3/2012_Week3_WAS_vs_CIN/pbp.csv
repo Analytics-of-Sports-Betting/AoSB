@@ -1,0 +1,192 @@
+Quarter,Time,Down,ToGo,Location,CIN,WAS,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Redskins won the coin toss and deferred, Bengals to receive the opening kickoff.",,
+1,15:00,,,WAS 35,0,0,"Billy Cundiff kicks off 69 yards, returned by Brandon Tate for 31 yards (tackle by Dejon Gomes)",0.000,0.740
+1,14:53,1,10,CIN 27,6,0,"Mohamed Sanu pass complete deep middle to A.J. Green for 73 yards, touchdown",0.740,7.000
+1,14:53,,,WAS 2,7,0,Mike Nugent kicks extra point good,0.000,0.000
+1,14:43,,,CIN 35,7,0,"Mike Nugent kicks off 67 yards, returned by Brandon Banks for 19 yards (tackle by Dan Skuta)",0.000,-0.060
+1,14:37,1,10,WAS 17,7,0,Alfred Morris right end for 10 yards (tackle by Domata Peko and Vontaze Burfict),-0.060,0.740
+1,14:15,1,10,WAS 27,7,0,Alfred Morris left end for 12 yards (tackle by Rey Maualuga and Vontaze Burfict),0.740,1.530
+1,13:46,1,10,WAS 39,7,0,"Robert Griffin III sacked by Michael Johnson for -9 yards. Robert Griffin III fumbles, recovered by Robert Griffin III at WAS-29",1.530,-0.360
+1,13:08,2,20,WAS 29,7,0,Robert Griffin III pass complete short middle to Fred Davis for 8 yards (tackle by Rey Maualuga and Vontaze Burfict),-0.360,0.040
+1,12:27,3,12,WAS 37,7,0,Robert Griffin III pass complete short left to Fred Davis for 4 yards (tackle by Jason Allen and Taylor Mays),0.040,-0.650
+1,11:58,4,8,WAS 41,7,0,Saverio Rocca punts 58 yards,-0.650,0.380
+1,11:45,1,10,CIN 1,7,0,BenJarvus Green-Ellis right guard for 1 yard (tackle by Perry Riley and London Fletcher),-0.380,-0.710
+1,11:05,2,9,CIN 2,7,6,"Andy Dalton pass incomplete short left intended for BenJarvus Green-Ellis is intercepted by Rob Jackson at CIN-0, touchdown",-0.710,-7.000
+1,,,,CIN 2,7,7,Billy Cundiff kicks extra point good,0.000,0.000
+1,11:00,,,WAS 35,7,7,"Billy Cundiff kicks off 61 yards, returned by Brandon Tate for 14 yards (tackle by Lorenzo Alexander)",0.000,0.040
+1,11:00,1,10,CIN 18,7,7,"Penalty on Jermaine Gresham: False Start, 5 yards (no play)",0.040,-0.450
+1,10:53,1,15,CIN 13,7,7,BenJarvus Green-Ellis left guard for 3 yards (tackle by Dejon Gomes and Perry Riley),-0.450,-0.800
+1,10:14,2,12,CIN 16,7,7,Andy Dalton pass complete short middle to Jermaine Gresham for 22 yards (tackle by DeAngelo Hall and London Fletcher),-0.800,1.470
+1,9:42,1,10,CIN 38,7,7,BenJarvus Green-Ellis left tackle for 2 yards (tackle by Ryan Kerrigan and London Fletcher),1.470,1.190
+1,9:06,2,8,CIN 40,7,7,"Andy Dalton pass incomplete short left intended for Armon Binns. Penalty on Josh Wilson: Defensive Pass Interference, 8 yards (no play)",1.190,2.130
+1,9:01,1,10,CIN 48,7,7,Andy Dalton pass complete short right to A.J. Green for 14 yards (tackle by DeAngelo Hall),2.130,3.050
+1,8:22,1,10,WAS 38,7,7,BenJarvus Green-Ellis left end for -2 yards (tackle by Rob Jackson and London Fletcher),3.050,2.240
+1,7:40,2,12,WAS 40,7,7,Andy Dalton pass incomplete deep right intended for Jermaine Gresham,2.240,1.550
+1,7:34,3,12,WAS 40,7,7,Andy Dalton sacked by Chris Wilson and Ryan Kerrigan for -7 yards. Penalty on Andrew Whitworth: Offensive Holding (Declined),1.550,0.130
+1,7:16,4,19,WAS 47,7,7,"Kevin Huber punts 37 yards, fair catch by Brandon Banks",0.130,0.380
+1,7:12,1,10,WAS 10,7,7,Alfred Morris right end for no gain (tackle by Geno Atkins),-0.380,-0.780
+1,6:36,2,10,WAS 10,7,7,Alfred Morris left end for 3 yards (tackle by Michael Johnson),-0.780,-1.070
+1,5:56,3,7,WAS 13,7,7,Robert Griffin III pass incomplete short right intended for Leonard Hankerson (defended by Terence Newman),-1.070,-2.490
+1,5:49,4,7,WAS 13,7,7,"Saverio Rocca punts 45 yards, returned by Pacman Jones for no gain",-2.490,-1.730
+1,5:40,1,10,CIN 42,7,7,Bernard Scott left end for -8 yards (tackle by Rob Jackson),1.730,0.110
+1,5:00,2,18,CIN 34,7,7,Andy Dalton left guard for 17 yards (tackle by London Fletcher),0.110,1.690
+1,4:12,3,1,WAS 49,7,7,Andrew Hawkins left end for 11 yards (tackle by Dejon Gomes and London Fletcher),1.690,3.050
+1,3:46,1,10,WAS 38,7,7,"Andy Dalton pass incomplete short middle intended for Armon Binns (defended by London Fletcher). Penalty on Jeff Faine: Offensive Holding, 10 yards (no play)",3.050,2.390
+1,3:41,1,20,WAS 48,7,7,Andy Dalton pass incomplete short left intended for Andrew Hawkins (defended by DeAngelo Hall),2.390,1.160
+1,3:37,2,20,WAS 48,13,7,"Andy Dalton pass complete short left to Armon Binns for 48 yards, touchdown",1.160,7.000
+1,3:37,,,WAS 2,14,7,Mike Nugent kicks extra point good,0.000,0.000
+1,3:28,,,CIN 35,14,7,"Mike Nugent kicks off 71 yards, touchback",0.000,0.280
+1,3:28,1,10,WAS 20,14,7,Robert Griffin III pass complete short left to Josh Morgan for 11 yards (tackle by Nate Clements),0.280,1.000
+1,2:52,1,10,WAS 31,14,7,Robert Griffin III sacked by Michael Johnson for -4 yards,1.000,-0.080
+1,2:15,2,14,WAS 27,14,7,Robert Griffin III sacked by Michael Johnson for -5 yards,-0.080,-1.420
+1,1:44,3,19,WAS 22,14,7,Robert Griffin III pass complete short left to Evan Royster for 14 yards (tackle by Rey Maualuga and Michael Johnson),-1.420,-0.980
+1,1:14,4,5,WAS 36,14,7,"Saverio Rocca punts 40 yards, returned by Brandon Tate for 2 yards (tackle by Reed Doughty)",-0.980,-0.670
+1,1:04,1,10,CIN 26,14,7,BenJarvus Green-Ellis up the middle for 3 yards (tackle by Chris Baker),0.670,0.540
+1,0:28,2,7,CIN 29,14,7,Andy Dalton pass complete short right to A.J. Green for 5 yards (tackle by DeAngelo Hall and Ryan Kerrigan),0.540,0.500
+Quarter,Time,Down,ToGo,Location,CIN,WAS,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,2,CIN 34,14,7,Andrew Hawkins left end for 5 yards (tackle by Chris Wilson),0.500,1.530
+2,14:38,1,10,CIN 39,14,7,BenJarvus Green-Ellis up the middle for 2 yards (tackle by Jarvis Jenkins and Chris Baker),1.530,1.260
+2,14:02,2,8,CIN 41,14,7,Andy Dalton pass complete short right to A.J. Green for 12 yards (tackle by Richard Crawford),1.260,2.460
+2,13:37,1,10,WAS 47,14,7,Bernard Scott up the middle for 2 yards (tackle by Kedric Golston and Perry Riley),2.460,2.180
+2,12:56,2,8,WAS 45,14,7,Andy Dalton pass incomplete deep right intended for A.J. Green,2.180,1.490
+2,12:50,3,8,WAS 45,14,7,Andy Dalton pass complete short middle to Jermaine Gresham for 15 yards (tackle by Perry Riley),1.490,3.580
+2,12:26,1,10,WAS 30,14,7,Brian Leonard right end for 11 yards (tackle by Madieu Williams),3.580,4.310
+2,12:01,1,10,WAS 19,14,7,Andy Dalton pass complete short left to Armon Binns for 6 yards (tackle by Josh Wilson),4.310,4.720
+2,11:37,2,4,WAS 13,14,7,Brian Leonard right tackle for 7 yards (tackle by London Fletcher and Richard Crawford),4.720,5.830
+2,11:07,1,6,WAS 6,14,7,Bernard Scott right guard for 1 yard (tackle by London Fletcher and Madieu Williams),5.830,5.150
+2,10:33,2,5,WAS 5,14,7,Andy Dalton sacked by Perry Riley for -9 yards,5.150,3.000
+2,9:56,3,14,WAS 14,14,7,Andy Dalton pass complete short right to Jermaine Gresham for 9 yards (tackle by Richard Crawford),3.000,3.010
+2,9:34,4,5,WAS 5,14,7,Kevin Huber right end for -1 yards (tackle by Madieu Williams and DeAngelo Hall),3.010,0.380
+2,9:29,1,10,WAS 6,14,7,"Robert Griffin III pass incomplete short middle intended for Logan Paulsen. Penalty on Nate Clements: Defensive Pass Interference, 15 yards (no play)",-0.380,0.340
+2,9:25,1,10,WAS 21,14,7,Robert Griffin III right guard for 4 yards (tackle by Robert Geathers),0.340,0.340
+2,8:47,2,6,WAS 25,14,7,Alfred Morris left end for -1 yards (tackle by Geno Atkins),0.340,-0.490
+2,8:08,3,7,WAS 24,14,7,Robert Griffin III pass incomplete short right intended for Evan Royster,-0.490,-1.770
+2,8:02,4,7,WAS 24,14,7,"Saverio Rocca punts 33 yards, returned by Pacman Jones for 8 yards (tackle by Reed Doughty)",-1.770,-2.320
+2,7:51,1,10,WAS 49,14,7,Andy Dalton pass complete short right to Armon Binns for 9 yards (tackle by DeAngelo Hall),2.320,3.000
+2,7:12,2,1,WAS 40,14,7,BenJarvus Green-Ellis right end for 4 yards (tackle by London Fletcher and DeAngelo Hall),3.000,3.180
+2,6:35,1,10,WAS 36,14,7,"Andy Dalton pass complete short left to Armon Binns for 3 yards (tackle by DeAngelo Hall). Penalty on Andrew Whitworth: Offensive Holding, 10 yards (no play)",3.180,2.520
+2,6:15,1,20,WAS 46,14,7,BenJarvus Green-Ellis right tackle for 5 yards (tackle by Chris Wilson and Perry Riley),2.520,1.960
+2,5:30,2,15,WAS 41,14,7,Andy Dalton pass incomplete short middle intended for Andrew Hawkins (defended by Perry Riley),1.960,1.290
+2,5:26,3,15,WAS 41,14,7,Andy Dalton pass complete short middle to Jermaine Gresham for 12 yards (tackle by Dejon Gomes),1.290,1.580
+2,4:42,4,3,WAS 29,17,7,Mike Nugent 47 yard field goal good,1.580,3.000
+2,4:36,,,CIN 35,17,7,"Mike Nugent kicks off 72 yards, touchback",0.000,0.280
+2,4:36,1,10,WAS 20,17,7,Alfred Morris up the middle for 3 yards (tackle by Domata Peko and Vontaze Burfict),0.280,0.140
+2,4:01,2,7,WAS 23,17,7,"Robert Griffin III sacked by Carlos Dunlap for -4 yards. Robert Griffin III fumbles (forced by Carlos Dunlap), recovered by Carlos Dunlap at WAS-12 (tackle by Alfred Morris)",0.140,-4.780
+2,3:49,1,10,WAS 12,17,7,A.J. Green left end for 11 yards (tackle by Josh Wilson),4.780,6.970
+2,3:14,1,1,WAS 1,23,7,"BenJarvus Green-Ellis right guard for 1 yard, touchdown",6.970,7.000
+2,3:14,,,WAS 2,24,7,Mike Nugent kicks extra point good,0.000,0.000
+2,3:13,,,CIN 35,24,7,"Mike Nugent kicks off 65 yards, touchback. Penalty on Jeromy Miles: Offside on Free Kick, 5 yards (no play)",0.000,0.000
+2,3:13,,,CIN 30,24,7,"Mike Nugent kicks off 73 yards, returned by Brandon Banks for 55 yards (tackle by Mike Nugent)",0.000,2.390
+2,3:03,1,10,CIN 48,24,7,Robert Griffin III pass incomplete short middle intended for Logan Paulsen,2.390,1.850
+2,2:58,2,10,CIN 48,24,7,Robert Griffin III pass incomplete short right intended for Alfred Morris (defended by Vincent Rey),1.850,1.160
+2,2:50,3,10,CIN 48,24,7,Robert Griffin III right end for 11 yards (tackle by Vincent Rey),1.160,0.000
+2,2:26,,,,24,7,Timeout #1 by Cincinnati Bengals,0.000,3.120
+2,2:26,1,10,CIN 37,24,7,Evan Royster left end for 12 yards (tackle by Pacman Jones),3.120,3.910
+2,2:00,1,10,CIN 25,24,7,Robert Griffin III pass complete short right to Evan Royster for -1 yards (tackle by Terence Newman and Nate Clements),3.910,3.230
+2,1:27,2,11,CIN 26,24,7,Robert Griffin III pass incomplete short left intended for Santana Moss (defended by Pacman Jones),3.230,2.540
+2,1:24,3,11,CIN 26,24,7,Robert Griffin III right tackle for 8 yards (tackle by Vincent Rey),2.540,0.000
+2,0:36,,,,24,7,Timeout #1 by Washington Redskins,0.000,2.350
+2,0:36,4,3,CIN 18,24,10,Billy Cundiff 36 yard field goal good,2.350,3.000
+2,0:31,,,WAS 35,24,10,"Billy Cundiff kicks off 73 yards, muffed catch by Pacman Jones, recovered by Pacman Jones in CIN end zone, and returned for 18 yards",0.000,-0.380
+2,0:27,1,10,CIN 10,24,10,Andy Dalton kneels for -1 yards,-0.380,-0.850
+Quarter,Time,Down,ToGo,Location,CIN,WAS,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,CIN 35,24,10,"Mike Nugent kicks off 65 yards, touchback",0.000,0.280
+3,15:00,1,10,WAS 20,24,10,Alfred Morris right tackle for 5 yards (tackle by Rey Maualuga),0.280,0.410
+3,14:28,2,5,WAS 25,24,10,Alfred Morris right end for no gain (tackle by Geno Atkins and Robert Geathers),0.410,-0.300
+3,13:53,3,5,WAS 25,24,10,Robert Griffin III pass complete short middle to Fred Davis for 14 yards (tackle by Reggie Nelson),-0.300,1.530
+3,13:18,1,10,WAS 39,24,10,Robert Griffin III pass complete short middle to Fred Davis for 12 yards (tackle by Rey Maualuga and Vontaze Burfict),1.530,2.320
+3,12:36,1,10,CIN 49,24,10,Evan Royster up the middle for 9 yards (tackle by Reggie Nelson and Devon Still),2.320,3.000
+3,11:58,2,1,CIN 40,24,10,"Alfred Morris up the middle for 5 yards (tackle by Pacman Jones). Penalty on Pacman Jones: Horse Collar Tackle, 15 yards",3.000,4.240
+3,11:36,1,10,CIN 20,24,10,Alfred Morris left end for 6 yards (tackle by Manny Lawson and Rey Maualuga),4.240,4.640
+3,10:58,2,4,CIN 14,24,10,Robert Griffin III left end for 7 yards (tackle by Reggie Nelson),4.640,5.600
+3,10:29,1,7,CIN 7,24,16,"Alfred Morris right tackle for 7 yards, touchdown",5.600,7.000
+3,10:29,,,CIN 2,24,17,Billy Cundiff kicks extra point good,0.000,0.000
+3,10:23,,,WAS 35,24,17,"Billy Cundiff kicks off 65 yards, touchback",0.000,0.280
+3,10:23,1,10,CIN 20,24,17,Andy Dalton pass complete short right to A.J. Green for 8 yards (tackle by DeAngelo Hall),0.280,0.810
+3,9:50,2,2,CIN 28,24,17,Andy Dalton pass incomplete short right intended for Jermaine Gresham,0.810,0.100
+3,9:45,3,2,CIN 28,24,17,BenJarvus Green-Ellis left tackle for 1 yard (tackle by DeAngelo Hall and Perry Riley),0.100,-1.440
+3,9:08,4,1,CIN 29,24,17,"Kevin Huber punts 56 yards, returned by Brandon Banks for -1 yards (tackle by Brian Leonard)",-1.440,0.280
+3,8:57,1,10,WAS 14,24,17,Robert Griffin III pass complete deep middle to Leonard Hankerson for 23 yards (tackle by Terence Newman and Nate Clements),-0.280,1.400
+3,8:14,1,10,WAS 37,24,17,Alfred Morris right tackle for 13 yards (tackle by BenJarvus Green-Ellis and Reggie Nelson),1.400,2.260
+3,7:37,1,10,,24,17,Brandon Banks left end for 21 yards (tackle by Reggie Nelson),2.260,3.640
+3,7:10,1,10,CIN 29,24,17,Alfred Morris right end for -1 yards (tackle by Carlos Dunlap),3.640,2.970
+3,6:31,2,11,CIN 30,24,17,Alfred Morris left guard for 4 yards (tackle by Rey Maualuga),2.970,2.810
+3,5:54,3,7,CIN 26,24,17,Robert Griffin III up the middle for 9 yards (tackle by Reggie Nelson),2.810,4.440
+3,5:17,1,10,CIN 17,24,17,"Robert Griffin III for no gain. Robert Griffin III fumbles, recovered by Brandon Banks at CIN-18",4.440,4.690
+3,4:39,2,5,CIN 12,24,17,Alfred Morris up the middle for 6 yards (tackle by Manny Lawson and Vontaze Burfict),4.690,0.000
+3,4:00,,,,24,17,Timeout #1 by Washington Redskins,0.000,5.830
+3,4:00,1,6,CIN 6,24,17,Robert Griffin III left end for 3 yards (tackle by Vincent Rey),5.830,0.000
+3,3:34,,,,24,17,Timeout #2 by Washington Redskins,0.000,5.530
+3,3:34,2,3,CIN 3,24,23,"Robert Griffin III pass complete short right to Santana Moss for 3 yards, touchdown",5.530,7.000
+3,3:34,,,CIN 2,24,24,Billy Cundiff kicks extra point good,0.000,0.000
+3,3:29,,,WAS 35,24,24,"Billy Cundiff kicks off 65 yards, touchback",0.000,0.280
+3,3:29,1,10,CIN 20,24,24,Andy Dalton pass complete deep right to A.J. Green for 27 yards (tackle by DeAngelo Hall),0.280,2.060
+3,3:02,1,10,CIN 47,24,24,"BenJarvus Green-Ellis left end for no gain (tackle by Josh Wilson). BenJarvus Green-Ellis fumbles (forced by Josh Wilson), recovered by Josh Wilson at CIN-47 (tackle by BenJarvus Green-Ellis)",2.060,-2.460
+3,2:53,1,10,CIN 47,24,24,Brandon Banks right end for no gain (tackle by Vontaze Burfict),2.460,1.910
+3,2:28,2,10,CIN 47,24,24,Robert Griffin III sacked by Michael Johnson for -8 yards,1.910,0.170
+3,1:56,3,18,WAS 45,24,24,Robert Griffin III pass incomplete deep left intended for Leonard Hankerson,0.170,-0.390
+3,1:49,4,18,WAS 45,24,24,"Saverio Rocca punts 41 yards, fair catch by Brandon Tate",-0.390,0.280
+3,1:41,1,10,CIN 14,24,24,BenJarvus Green-Ellis left end for -1 yards (tackle by Rob Jackson and London Fletcher),-0.280,-0.850
+3,1:02,2,11,CIN 13,24,24,Andy Dalton pass incomplete short right intended for A.J. Green (defended by Ryan Kerrigan),-0.850,-1.530
+3,0:58,3,11,CIN 13,24,24,Andy Dalton pass complete short right to Andrew Hawkins for 7 yards (tackle by Josh Wilson),-1.530,-2.030
+3,0:21,4,4,CIN 20,24,24,"Kevin Huber punts 33 yards, out of bounds",-2.030,-2.060
+3,0:04,1,10,WAS 47,24,24,Robert Griffin III pass incomplete short middle intended for Aldrick Robinson,2.060,1.520
+Quarter,Time,Down,ToGo,Location,CIN,WAS,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,10,WAS 47,24,24,Alfred Morris up the middle for 2 yards (tackle by Manny Lawson and Domata Peko),1.520,1.090
+4,14:24,3,8,WAS 49,24,24,Robert Griffin III left end for 7 yards (tackle by Rey Maualuga and Nate Clements),1.090,0.000
+4,13:41,,,,24,24,Timeout #1 by Cincinnati Bengals,0.000,0.330
+4,13:41,4,1,CIN 44,24,24,"Saverio Rocca punts 44 yards, touchback",0.330,-0.280
+,,,,,,,"WAS challenged the touchback ruling, and the play was upheld.",,
+4,13:27,1,10,CIN 20,24,24,Andy Dalton pass complete short right to A.J. Green for 11 yards (tackle by DeAngelo Hall),0.280,1.000
+4,12:42,1,10,CIN 31,24,24,Andy Dalton pass complete deep right to Orson Charles for 25 yards (tackle by London Fletcher),1.000,2.650
+4,12:04,1,10,WAS 44,24,24,"Andy Dalton pass complete deep right to A.J. Green for 31 yards (tackle by DeAngelo Hall and Madieu Williams). Penalty on DeAngelo Hall: Face Mask (15 Yards), 7 yards",2.650,5.830
+4,11:35,1,6,WAS 6,24,24,Andy Dalton pass incomplete short middle intended for Brian Leonard,5.830,4.950
+4,11:31,2,6,WAS 6,30,24,"Andy Dalton pass complete short right to Jermaine Gresham for 6 yards, touchdown",4.950,7.000
+4,11:31,,,WAS 2,31,24,Mike Nugent kicks extra point good,0.000,0.000
+4,11:24,,,CIN 35,31,24,"Mike Nugent kicks off 71 yards, returned by Brandon Banks for 26 yards (tackle by Vincent Rey)",0.000,0.280
+4,11:19,1,10,WAS 20,31,24,Robert Griffin III pass complete short right to Brandon Banks for 5 yards (tackle by Nate Clements),0.280,0.410
+4,10:51,2,5,WAS 25,31,24,Brandon Banks right end for 8 yards (tackle by Nate Clements),0.410,1.140
+4,10:19,1,10,WAS 33,31,24,Alfred Morris right end for 4 yards (tackle by Nate Clements),1.140,1.130
+4,9:36,2,6,WAS 37,31,24,Robert Griffin III pass incomplete deep middle intended for Leonard Hankerson,1.130,0.430
+4,9:28,3,6,WAS 37,31,24,Robert Griffin III pass incomplete short middle intended for Aldrick Robinson,0.430,-0.910
+4,9:22,4,6,WAS 37,31,24,"Saverio Rocca punts 49 yards, returned by Brandon Tate for 14 yards (tackle by Darrel Young)",-0.910,-0.810
+4,9:09,1,10,CIN 28,31,24,Andy Dalton pass complete short middle to A.J. Green for 2 yards (tackle by London Fletcher),0.810,0.530
+4,8:34,2,8,CIN 30,31,24,BenJarvus Green-Ellis left end for 9 yards (tackle by Perry Riley and Madieu Williams),0.530,1.530
+4,7:58,1,10,CIN 39,31,24,BenJarvus Green-Ellis right end for 2 yards (tackle by Ryan Kerrigan),1.530,1.260
+4,7:17,2,8,CIN 41,37,24,"Andy Dalton pass complete deep middle to Andrew Hawkins for 59 yards, touchdown. Penalty on Josh Wilson: Defensive Holding (Declined)",1.260,7.000
+4,7:17,,,WAS 2,38,24,Mike Nugent kicks extra point good,0.000,0.000
+4,7:08,,,CIN 35,38,24,"Mike Nugent kicks off 74 yards, touchback. Penalty on Chris Wilson: Personal Foul, 10 yards",0.000,-0.380
+4,7:08,1,10,WAS 10,38,24,Robert Griffin III pass incomplete short left intended for Evan Royster,-0.380,-0.780
+4,7:02,2,10,WAS 10,38,24,Robert Griffin III pass complete short right to Fred Davis for 16 yards (tackle by Reggie Nelson),-0.780,0.670
+4,6:45,1,10,WAS 26,38,24,Robert Griffin III pass complete short left to Roy Helu for 6 yards (tackle by Vincent Rey),0.670,0.940
+4,6:23,2,4,WAS 32,38,24,"Robert Griffin III pass complete short left to Fred Davis for 11 yards (tackle by Pacman Jones). Penalty on Jordan Black: Offensive Holding, 10 yards (no play)",0.940,-0.410
+4,6:04,2,14,WAS 22,38,24,Robert Griffin III pass complete deep middle to Fred Davis for 29 yards (tackle by Pacman Jones),-0.410,2.320
+4,5:46,1,10,CIN 49,38,24,Robert Griffin III left end for 5 yards (tackle by Reggie Nelson and Wallace Gilberry),2.320,2.460
+4,5:21,2,5,CIN 44,38,24,Robert Griffin III pass complete short left to Leonard Hankerson for 10 yards (tackle by Jason Allen),2.460,3.310
+4,5:00,1,10,CIN 34,38,24,Robert Griffin III pass complete short right to Roy Helu for 5 yards (tackle by Nate Clements and Rey Maualuga),3.310,3.450
+4,4:34,2,5,CIN 29,38,24,Robert Griffin III pass complete short middle to Fred Davis for 7 yards (tackle by Nate Clements and Rey Maualuga),3.450,4.110
+4,4:11,1,10,CIN 22,38,24,Robert Griffin III pass incomplete short middle intended for Santana Moss,4.110,3.560
+4,4:08,2,10,CIN 22,38,24,Robert Griffin III pass complete short middle to Leonard Hankerson for 11 yards,3.560,4.840
+4,4:00,1,10,CIN 11,38,24,Robert Griffin III pass complete short middle to Roy Helu for 9 yards (tackle by Reggie Nelson and Carlos Dunlap),4.840,5.850
+4,3:38,2,1,CIN 2,38,30,"Robert Griffin III up the middle for 2 yards, touchdown",5.850,7.000
+4,3:38,,,CIN 2,38,31,Billy Cundiff kicks extra point good,0.000,0.000
+4,3:35,,,WAS 35,38,31,Billy Cundiff kicks onside 9 yards,0.000,2.650
+4,3:30,1,10,WAS 44,38,31,BenJarvus Green-Ellis up the middle for 4 yards (tackle by Madieu Williams and Perry Riley),2.650,2.650
+4,2:50,2,6,WAS 40,38,31,BenJarvus Green-Ellis up the middle for 2 yards (tackle by London Fletcher and Perry Riley),2.650,2.210
+4,2:07,3,4,WAS 38,38,31,BenJarvus Green-Ellis right end for 2 yards (tackle by Barry Cofield and Perry Riley),2.210,0.890
+4,1:57,4,2,WAS 36,38,31,"Penalty on Andy Dalton: Delay of Game, 5 yards (no play)",0.890,0.530
+4,1:57,4,7,WAS 41,38,31,Kevin Huber punts 39 yards,0.530,0.380
+4,1:47,1,10,WAS 2,38,31,Robert Griffin III pass complete short middle to Josh Morgan for 11 yards (tackle by Rey Maualuga),-0.380,-0.320
+4,1:23,1,10,WAS 13,38,31,Robert Griffin III pass complete short middle to Leonard Hankerson for 12 yards (tackle by Rey Maualuga),-0.320,0.610
+4,1:02,1,10,WAS 25,38,31,"Robert Griffin III for 10 yards (tackle by Terence Newman). Penalty on Terence Newman: Personal Foul, 15 yards",0.610,2.260
+4,0:51,1,10,,38,31,Robert Griffin III pass complete short right to Aldrick Robinson for 12 yards (tackle by Terence Newman),2.260,3.050
+4,0:36,1,10,CIN 38,38,31,Robert Griffin III left end for 19 yards (tackle by Rey Maualuga),3.050,4.310
+4,0:29,1,10,CIN 19,38,31,Robert Griffin III sacked by Geno Atkins for -15 yards,4.310,1.740
+4,0:07,2,25,CIN 34,38,31,Robert Griffin III pass incomplete,1.740,1.090
+4,0:07,3,25,CIN 34,38,31,"Penalty on Fred Davis: False Start, 5 yards, Penalty on WAS: Unsportsmanlike Conduct, 20 yards (no play)",1.090,-2.210
+4,0:06,3,50,WAS 41,38,31,Robert Griffin III pass incomplete deep right intended for Josh Morgan,-2.210,-0.650
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,16 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,JAX 48,3,2:04,3,Punt
+2,1,8:49,CLE 45,1,0:13,0,Interception
+3,1,6:54,CLE 25,4,1:48,-3,Punt
+4,1,3:30,CLE 27,3,0:43,4,Punt
+5,2,14:14,CLE 34,5,2:46,66,Touchdown
+6,2,10:20,CLE 40,3,0:59,0,Punt
+7,2,5:43,CLE 16,3,0:59,-1,Punt
+8,2,0:30,CLE 31,1,0:30,-1,End of Half
+9,3,13:29,CLE 26,6,1:57,17,Punt
+10,3,9:27,CLE 29,6,3:34,29,Punt
+11,4,14:25,CLE 14,3,2:26,9,Punt
+12,4,10:34,CLE 33,4,2:11,11,Interception
+13,4,3:31,CLE 22,7,1:47,34,Fumble
+14,4,1:24,CLE 20,1,0:10,-20,Fumble
+15,4,1:14,CLE 42,6,0:58,36,Downs

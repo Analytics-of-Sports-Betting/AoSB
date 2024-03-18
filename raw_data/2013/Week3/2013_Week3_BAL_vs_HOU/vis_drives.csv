@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,HOU 22,16,7:54,69,Field Goal
+2,1,5:47,HOU 40,3,1:50,1,Punt
+3,1,2:31,BAL 29,5,2:35,18,Field Goal
+4,2,10:54,HOU 28,3,1:51,-4,Punt
+5,2,4:11,HOU 20,3,1:32,15,Interception
+6,2,2:39,HOU 22,4,1:54,2,Punt
+7,2,0:45,HOU 20,5,0:45,51,Field Goal
+8,3,11:05,HOU 20,6,3:17,29,Punt
+9,3,4:04,HOU 20,8,3:40,39,Punt
+10,4,9:09,HOU 20,9,4:10,30,Downs
+11,4,1:08,HOU 20,2,1:08,4,End of Game

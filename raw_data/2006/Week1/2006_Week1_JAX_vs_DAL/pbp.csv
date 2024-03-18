@@ -1,0 +1,181 @@
+Quarter,Time,Down,ToGo,Location,DAL,JAX,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Jaguars won the coin toss, Jaguars to receive the opening kickoff.",,
+1,15:00,,,DAL 30,0,0,"Shaun Suisham kicks off 60 yards, returned by Kyle Brady for 9 yards (tackle by Kevin Burnett)",0.000,0.150
+1,14:55,1,10,JAX 19,0,0,Byron Leftwich pass complete short right to Reggie Williams for 4 yards (tackle by Terence Newman),0.150,0.210
+1,14:15,2,6,JAX 23,0,0,Byron Leftwich pass complete short left to George Wrighster for 13 yards (tackle by Pat Watkins),0.210,1.330
+1,13:38,1,10,JAX 36,0,0,Fred Taylor left tackle for 6 yards (tackle by Anthony Henry),1.330,1.600
+1,12:59,2,4,JAX 42,0,0,Byron Leftwich pass complete short left to George Wrighster for -1 yards (tackle by DeMarcus Ware),1.600,0.760
+1,12:17,3,5,JAX 41,0,0,Byron Leftwich pass incomplete short left intended for Maurice Jones-Drew (defended by Kevin Burnett),0.760,-0.650
+1,12:12,4,5,JAX 41,0,0,"Chris Hanson punts 36 yards, returned by Jamaica Rector for 7 yards (tackle by Joe Zelenka)",-0.650,-0.940
+1,12:03,1,10,DAL 30,0,0,Drew Bledsoe pass complete short right to Terrell Owens for 13 yards (tackle by Deon Grant),0.940,1.800
+1,11:22,1,10,DAL 43,0,0,Julius Jones right tackle for no gain (tackle by Mike Peterson),1.800,1.250
+1,10:43,2,10,DAL 43,0,0,Drew Bledsoe pass complete short right to Terrell Owens for 8 yards (tackle by Donovin Darius),1.250,1.620
+1,10:04,3,2,JAX 49,0,0,Drew Bledsoe pass complete short right to Terry Glenn for 10 yards (tackle by Rashean Mathis),1.620,2.980
+1,9:36,1,10,JAX 39,0,0,Julius Jones left end for 1 yard (tackle by John Henderson),2.980,2.580
+1,8:58,2,9,JAX 38,0,0,Drew Bledsoe pass incomplete short right intended for Terry Glenn (defended by Rashean Mathis),2.580,1.880
+1,8:53,3,9,JAX 38,0,0,Drew Bledsoe pass complete short right to Jason Witten for 15 yards (tackle by Mike Peterson),1.880,4.040
+1,8:13,1,10,JAX 23,6,0,"Julius Jones middle for 23 yards, touchdown",4.040,7.000
+1,8:13,,,JAX 2,7,0,Shaun Suisham kicks extra point good,0.000,0.000
+1,8:06,,,DAL 30,7,0,"Shaun Suisham kicks off 70 yards, touchback",0.000,0.280
+1,8:06,1,10,JAX 20,7,0,Byron Leftwich pass incomplete short right intended for George Wrighster (defended by Roy Williams),0.280,-0.270
+1,8:00,2,10,JAX 20,7,0,"Byron Leftwich for no gain. Byron Leftwich fumbles, ball out of bounds at JAX-15",-0.270,-1.860
+1,7:56,3,15,JAX 15,7,0,Byron Leftwich pass incomplete short left intended for Matt Jones (defended by Anthony Henry),-1.860,-2.440
+1,7:51,4,15,JAX 15,7,0,"Chris Hanson punts 46 yards, returned by Jamaica Rector for 4 yards (tackle by Scott Starks)",-2.440,-1.800
+1,7:38,1,10,DAL 43,7,0,Julius Jones left end for 1 yard (tackle by Daryl Smith),1.800,1.390
+1,7:00,2,9,DAL 44,7,0,Drew Bledsoe pass complete deep left to Julius Jones for 39 yards (tackle by Brian Williams),1.390,4.440
+1,6:30,1,10,JAX 17,7,0,Marion Barber middle for 3 yards (tackle by John Henderson),4.440,4.320
+1,5:50,2,7,JAX 14,7,0,Drew Bledsoe pass incomplete short right intended for Jason Witten,4.320,3.500
+1,5:45,3,7,JAX 14,7,0,Drew Bledsoe pass incomplete short left intended for Terrell Owens (defended by Deon Grant),3.500,2.510
+1,5:40,4,7,JAX 14,10,0,Shaun Suisham 32 yard field goal good,2.510,3.000
+1,5:35,,,DAL 30,10,0,"Shaun Suisham kicks off 70 yards, touchback",0.000,0.280
+1,5:35,1,10,JAX 20,10,0,Fred Taylor middle for no gain (tackle by DeMarcus Ware),0.280,-0.270
+1,5:00,2,10,JAX 20,10,0,"Fred Taylor middle for 1 yard (tackle by Chris Canty). Penalty on Bradie James: Face Mask (15 Yards), 15 yards",-0.270,1.330
+1,4:37,1,10,JAX 36,10,0,Matt Jones left end for -6 yards (tackle by Akin Ayodele),1.330,-0.020
+1,4:09,2,16,JAX 30,10,0,Fred Taylor right tackle for 3 yards (tackle by Jason Ferguson),-0.020,-0.300
+1,3:26,3,13,JAX 33,10,0,Byron Leftwich sacked by Jay Ratliff for -8 yards,-0.300,-1.700
+1,2:53,4,21,JAX 25,10,0,"Chris Hanson punts 53 yards, returned by Jamaica Rector for 3 yards (tackle by Jorge Cordova)",-1.700,-0.610
+1,2:42,1,10,DAL 25,10,0,"Penalty on Terry Glenn: False Start, 5 yards (no play)",0.610,0.280
+1,2:42,1,15,DAL 20,10,0,Drew Bledsoe pass incomplete short left intended for Jason Witten,0.280,-0.610
+1,2:37,2,15,DAL 20,10,0,Julius Jones middle for no gain (tackle by John Henderson),-0.610,-1.290
+1,1:57,3,15,DAL 20,10,0,Drew Bledsoe pass complete short right to Marion Barber for 12 yards (tackle by Deon Grant),-1.290,-1.240
+1,1:20,4,3,DAL 32,10,0,"Mat McBriar punts 61 yards, returned by Chad Owens for 13 yards (tackle by Kevin Burnett)",-1.240,-0.280
+1,1:10,1,10,JAX 20,10,0,Byron Leftwich left end for 3 yards (tackle by Roy Williams),0.280,0.140
+1,0:27,2,7,JAX 23,10,0,Fred Taylor middle for 1 yard (tackle by Chris Canty),0.140,-0.430
+Quarter,Time,Down,ToGo,Location,DAL,JAX,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,6,JAX 24,10,0,Byron Leftwich pass incomplete short left intended for Ernest Wilford (defended by Anthony Henry),-0.430,-1.770
+2,14:55,4,6,JAX 24,10,0,"Chris Hanson punts 53 yards, returned by Jamaica Rector for 8 yards (tackle by Nick Greisen)",-1.770,-1.000
+2,14:43,1,10,DAL 31,10,0,"Drew Bledsoe pass incomplete deep right intended for Terrell Owens (defended by Rashean Mathis). Penalty on Rashean Mathis: Defensive Pass Interfere, 31 yards (no play)",1.000,3.050
+2,14:36,1,10,JAX 38,10,0,Julius Jones middle for 2 yards (tackle by Rob Meier),3.050,2.780
+2,14:00,2,8,JAX 36,10,0,Drew Bledsoe pass incomplete deep middle intended for Terrell Owens,2.780,2.080
+2,13:53,3,8,JAX 36,10,0,Drew Bledsoe pass incomplete short right intended for Jason Witten (defended by Deon Grant),2.080,0.880
+2,13:48,4,8,JAX 36,10,0,"Mat McBriar punts 36 yards, touchback",0.880,-0.280
+2,13:38,1,10,JAX 20,10,0,Byron Leftwich pass complete deep left to Ernest Wilford for 30 yards (tackle by Terence Newman),0.280,2.260
+2,12:59,1,10,JAX 50,10,0,Fred Taylor middle for 5 yards (tackle by DeMarcus Ware),2.260,2.390
+2,12:15,2,5,DAL 45,10,0,Byron Leftwich pass complete short left to Fred Taylor for 2 yards (tackle by Bradie James),2.390,1.950
+2,11:32,,,,10,0,Timeout #1 by Jacksonville Jaguars,0.000,1.950
+2,11:32,3,3,DAL 43,10,0,Byron Leftwich pass complete short right to Reggie Williams for 3 yards (tackle by Anthony Henry),1.950,2.920
+2,10:51,1,10,DAL 40,10,0,Byron Leftwich pass incomplete short right intended for Maurice Jones-Drew,2.920,2.370
+2,10:47,2,10,DAL 40,10,0,"Byron Leftwich pass complete to George Wrighster for 8 yards (tackle by Akin Ayodele). Penalty on Roy Williams: Roughing the Passer, 15 yards",2.370,4.440
+2,10:17,1,10,DAL 17,10,0,"Fred Taylor left tackle for 2 yards (tackle by DeMarcus Ware). Penalty on Khalif Barnes: Offensive Holding, 10 yards (no play)",4.440,3.780
+2,9:50,1,20,DAL 27,10,0,Byron Leftwich pass complete short right to Fred Taylor for 10 yards (tackle by Terence Newman),3.780,3.850
+2,9:03,,,,10,0,Timeout #2 by Jacksonville Jaguars,0.000,3.850
+2,9:03,2,10,DAL 17,10,0,Byron Leftwich pass incomplete intended for Matt Jones (defended by Kenyon Coleman),3.850,3.070
+2,8:59,3,10,DAL 17,10,0,Byron Leftwich pass incomplete deep left intended for Matt Jones (defended by Terence Newman),3.070,2.310
+2,8:59,4,10,DAL 17,10,3,Josh Scobee 35 yard field goal good,2.310,3.000
+2,8:48,,,JAX 30,10,3,"Josh Scobee kicks off 70 yards, touchback",0.000,0.280
+2,8:48,1,10,DAL 20,10,3,Julius Jones middle for 4 yards (tackle by Tony McDaniel),0.280,0.270
+2,8:07,2,6,DAL 24,10,3,Julius Jones middle for 3 yards (tackle by Marcus Stroud),0.270,-0.030
+2,7:26,3,3,DAL 27,10,3,Drew Bledsoe right end for 4 yards (tackle by Mike Peterson),-0.030,1.000
+2,6:42,1,10,DAL 31,10,3,Drew Bledsoe pass incomplete short right intended for Julius Jones,1.000,0.460
+2,6:36,2,10,DAL 31,10,3,Julius Jones right end for 2 yards (tackle by Mike Peterson),0.460,0.040
+2,5:54,3,8,DAL 33,10,3,Drew Bledsoe pass incomplete short middle intended for Marion Barber,0.040,-1.180
+2,5:48,4,8,DAL 33,10,3,"Mat McBriar punts 51 yards, returned by Chad Owens for 10 yards (tackle by Akin Ayodele)",-1.180,-0.670
+2,5:37,1,10,JAX 26,10,3,Byron Leftwich pass complete short left to Ernest Wilford for 15 yards (tackle by Anthony Henry),0.670,1.660
+2,4:57,1,10,JAX 41,10,3,Fred Taylor right end for 3 yards (tackle by Greg Ellis),1.660,1.530
+2,4:15,2,7,JAX 44,10,3,Byron Leftwich pass complete short right to Fred Taylor for 8 yards (tackle by Bradie James),1.530,2.390
+2,3:28,1,10,DAL 48,10,3,Byron Leftwich pass incomplete short left intended for Matt Jones,2.390,1.850
+,,,,,,,"DAL challenged the ruling, and the original play was overturned.",,
+2,3:24,2,10,DAL 48,10,3,Byron Leftwich pass incomplete deep right intended for George Wrighster is intercepted by Roy Williams at DAL-28,1.850,-0.810
+2,3:17,1,10,DAL 28,10,3,Drew Bledsoe sacked by Rob Meier for -6 yards,0.810,-0.550
+2,2:42,2,16,DAL 22,10,3,Drew Bledsoe pass complete short right to Terrell Owens for 12 yards (tackle by Deon Grant),-0.550,0.370
+2,2:00,3,4,DAL 34,10,3,Drew Bledsoe pass complete short right to Terrell Owens for 12 yards (tackle by Brian Williams),0.370,1.990
+2,1:52,1,10,DAL 46,10,3,"Drew Bledsoe pass complete short right to Terry Glenn for 14 yards. Penalty on Flozell Adams: Offensive Holding, 10 yards (no play)",1.990,1.330
+2,1:47,1,20,DAL 36,10,3,Drew Bledsoe pass incomplete short middle intended for Marion Barber,1.330,0.100
+2,1:43,,,,10,3,Timeout #1 by Dallas Cowboys,0.000,0.100
+2,1:43,2,20,DAL 36,10,3,Drew Bledsoe pass incomplete intended for Jason Witten is intercepted by Rashean Mathis at DAL-48 and returned for 16 yards,0.100,-3.450
+2,1:33,1,10,DAL 32,10,3,Byron Leftwich pass complete short right to Matt Jones for 14 yards (tackle by Pat Watkins),3.450,4.370
+2,0:54,1,10,DAL 18,10,3,Fred Taylor middle for 7 yards (tackle by Akin Ayodele),4.370,5.010
+2,0:21,2,3,DAL 11,10,3,Byron Leftwich pass complete short right to Fred Taylor for 5 yards (tackle by Greg Ellis),5.010,5.830
+2,0:12,,,,10,3,Timeout #3 by Jacksonville Jaguars,0.000,5.830
+2,0:12,1,6,DAL 6,10,9,"Byron Leftwich pass complete short left to Reggie Williams for 6 yards, touchdown",5.830,7.000
+2,0:12,,,DAL 2,10,10,Josh Scobee kicks extra point good,0.000,0.000
+2,0:07,,,JAX 30,10,10,Josh Scobee kicks off 40 yards,0.000,0.940
+2,0:06,1,10,DAL 30,10,10,Drew Bledsoe kneels for -1 yards,0.940,0.260
+Quarter,Time,Down,ToGo,Location,DAL,JAX,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,JAX 30,10,10,"Josh Scobee kicks off 65 yards, returned by Tyson Thompson for 26 yards (tackle by Tony Gilbert)",0.000,1.000
+3,14:55,1,10,DAL 31,10,10,Julius Jones right end for 8 yards (tackle by Daryl Smith),1.000,1.540
+3,14:23,2,2,DAL 39,10,10,Julius Jones middle for no gain (tackle by Paul Spicer),1.540,0.830
+3,13:47,3,2,DAL 39,10,10,"Drew Bledsoe pass complete short left to Terrell Owens for 25 yards. Penalty on Anthony Fasano: Offensive Pass Interfere, 10 yards (no play)",0.830,-0.490
+3,13:24,3,12,DAL 29,10,10,Drew Bledsoe pass incomplete short right intended for Patrick Crayton (defended by Jorge Cordova),-0.490,-1.440
+3,13:18,4,12,DAL 29,10,10,"Mat McBriar punts 56 yards, returned by Chad Owens for 11 yards (tackle by L.P. Ladouceur)",-1.440,-0.670
+3,13:03,1,10,JAX 26,10,10,Fred Taylor left end for 4 yards (tackle by Akin Ayodele),0.670,0.670
+3,12:26,2,6,JAX 30,10,10,Fred Taylor left end for 7 yards (tackle by Anthony Henry),0.670,1.400
+3,11:43,1,10,JAX 37,10,10,Byron Leftwich pass complete short left to Reggie Williams for 14 yards (tackle by Pat Watkins),1.400,2.320
+3,11:00,1,10,DAL 49,10,10,Byron Leftwich pass complete short right to Fred Taylor for 7 yards (tackle by Roy Williams and Bradie James),2.320,2.730
+3,10:21,2,3,DAL 42,10,10,Fred Taylor middle for 2 yards (tackle by Akin Ayodele),2.730,2.280
+3,9:44,3,1,DAL 40,10,10,Byron Leftwich middle for 2 yards (tackle by Bradie James),2.280,3.050
+3,9:06,1,10,DAL 38,10,10,Maurice Jones-Drew left end for 4 yards (tackle by Anthony Henry),3.050,3.050
+3,8:31,2,6,DAL 34,10,10,Maurice Jones-Drew right end for 4 yards (tackle by Chris Canty),3.050,2.870
+3,7:48,3,2,DAL 30,10,10,LaBrandon Toefield middle for -1 yards (tackle by Greg Ellis and Chris Canty),2.870,1.380
+3,7:10,4,3,DAL 31,10,10,Josh Scobee 49 yard field goal no good,1.380,-1.530
+3,7:05,1,10,DAL 39,10,10,Drew Bledsoe pass complete short right to Jason Witten for 11 yards (tackle by Rashean Mathis),1.530,2.260
+3,6:32,1,10,JAX 50,10,10,Julius Jones left end for 17 yards (tackle by Donovin Darius),2.260,3.380
+3,6:04,1,10,JAX 33,10,10,Julius Jones middle for 8 yards (tackle by Brian Williams),3.380,3.920
+3,5:32,2,2,JAX 25,10,10,Julius Jones middle for -1 yards (tackle by Daryl Smith),3.920,3.070
+3,4:51,3,3,JAX 26,10,10,"Drew Bledsoe pass complete short left to Terrell Owens for 6 yards. Penalty on Terry Glenn: False Start, 5 yards (no play)",3.070,2.410
+3,4:27,3,8,JAX 31,10,10,Drew Bledsoe pass complete short middle to Jason Witten for 7 yards (tackle by Brian Williams),2.410,2.020
+3,3:41,4,1,JAX 24,10,10,Marion Barber right end for 8 yards (tackle by Deon Grant),2.020,4.510
+3,3:11,1,10,JAX 16,10,10,Julius Jones middle for 5 yards (tackle by Mike Peterson),4.510,4.760
+3,2:37,2,5,JAX 11,10,10,Julius Jones middle for 1 yard (tackle by Mike Peterson),4.760,4.170
+3,2:02,3,4,JAX 10,10,10,"Drew Bledsoe pass complete short right to Jason Witten for 10 yards. Penalty on Jason Witten: Offensive Pass Interfere, 10 yards (no play)",4.170,2.740
+3,1:57,3,14,JAX 20,10,10,Marion Barber right end for 2 yards (tackle by Rashean Mathis),2.740,2.250
+3,1:32,4,12,JAX 18,10,10,Shaun Suisham 36 yard field goal no good,2.250,-0.670
+3,1:25,1,10,JAX 26,10,10,Fred Taylor middle for 3 yards (tackle by Marcus Spears),0.670,0.540
+3,0:49,2,7,JAX 29,10,10,Byron Leftwich pass complete short right to Matt Jones for 1 yard (tackle by Pat Watkins),0.540,-0.030
+3,0:05,3,6,JAX 30,10,10,Byron Leftwich pass complete short right to Matt Jones for 9 yards (tackle by Anthony Henry),-0.030,1.530
+Quarter,Time,Down,ToGo,Location,DAL,JAX,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,JAX 39,10,10,Byron Leftwich pass complete deep right to Matt Jones for 25 yards (tackle by Terence Newman),1.530,3.180
+4,14:17,1,10,DAL 36,10,10,Byron Leftwich pass complete deep right to Matt Jones for 22 yards (tackle by Aaron Glenn),3.180,4.650
+4,13:46,1,10,DAL 14,10,10,Fred Taylor left tackle for no gain (tackle by Greg Ellis),4.650,4.000
+4,13:06,2,10,DAL 14,10,10,Byron Leftwich pass complete short left to Fred Taylor for 9 yards (tackle by Anthony Henry),4.000,4.960
+4,12:22,3,1,DAL 5,10,10,Fred Taylor left tackle for 2 yards (tackle by Bradie James),4.960,6.510
+4,11:40,1,3,DAL 3,10,10,Byron Leftwich pass incomplete short right intended for Ernest Wilford (defended by Terence Newman),6.510,5.530
+4,11:36,2,3,DAL 3,10,10,Byron Leftwich pass incomplete short left intended for Reggie Williams (defended by Jason Ferguson),5.530,4.720
+4,11:32,3,3,DAL 3,10,16,"Byron Leftwich middle for 3 yards, touchdown",4.720,7.000
+4,11:32,,,DAL 2,10,17,Josh Scobee kicks extra point good,0.000,0.000
+4,11:27,,,JAX 30,10,17,"Josh Scobee kicks off 62 yards, returned by Abram Elam for 19 yards (tackle by Brent Hawkins)",0.000,0.740
+4,11:20,1,10,DAL 27,10,17,Drew Bledsoe pass incomplete short right intended for Terry Glenn,0.740,0.200
+4,11:16,2,10,DAL 27,10,17,Drew Bledsoe pass incomplete short left intended for Terrell Owens,0.200,-0.490
+4,11:12,3,10,DAL 27,10,17,"Drew Bledsoe pass incomplete. Penalty on Drew Bledsoe: Intentional Grounding, 18 yards",-0.490,-2.490
+4,11:04,4,28,DAL 9,10,17,Mat McBriar punts 62 yards,-2.490,-0.610
+4,10:55,1,10,JAX 25,10,17,Fred Taylor middle for 10 yards (tackle by Terence Newman),0.610,1.270
+4,10:14,1,10,JAX 35,10,17,Fred Taylor middle for -1 yards (tackle by DeMarcus Ware),1.270,0.590
+4,9:29,2,11,JAX 34,10,17,Fred Taylor middle for 4 yards (tackle by Bradie James),0.590,0.430
+4,8:45,,,,10,17,Timeout #1 by Jacksonville Jaguars,0.000,0.430
+4,8:45,3,7,JAX 38,10,17,Byron Leftwich pass complete short middle to Reggie Williams for 5 yards (tackle by Aaron Glenn),0.430,-0.520
+4,8:05,4,2,JAX 43,10,17,"Chris Hanson punts 44 yards, fair catch by Jamaica Rector",-0.520,0.320
+4,7:58,1,10,DAL 13,10,17,Drew Bledsoe pass complete short right to Terry Glenn for 9 yards (tackle by Rashean Mathis),-0.320,0.490
+4,7:23,2,1,DAL 22,10,17,Julius Jones right end for -2 yards (tackle by Rashean Mathis),0.490,-0.590
+4,6:45,3,3,DAL 20,10,17,Drew Bledsoe pass complete short left to Terrell Owens for 14 yards (tackle by Rashean Mathis),-0.590,1.200
+4,6:04,1,10,DAL 34,10,17,Drew Bledsoe pass incomplete short middle intended for Terry Glenn is intercepted by Nick Greisen at DAL-46 and returned for 6 yards,1.200,-2.920
+4,5:54,1,10,DAL 40,10,17,Fred Taylor middle for 2 yards (tackle by Roy Williams),2.920,2.640
+4,5:09,2,8,DAL 38,10,17,Byron Leftwich pass complete short right to Reggie Williams for 15 yards,2.640,4.040
+4,4:33,1,10,DAL 23,10,17,Byron Leftwich pass complete short left to Ernest Wilford for 13 yards (tackle by Anthony Henry),4.040,4.910
+4,4:05,,,,10,17,Timeout #1 by Dallas Cowboys,0.000,4.910
+4,4:05,1,10,DAL 10,10,17,Fred Taylor left tackle for 5 yards (tackle by Pat Watkins),4.910,5.150
+4,3:18,2,5,DAL 5,10,23,"Fred Taylor left end for 5 yards, touchdown",5.150,7.000
+4,3:18,,,DAL 2,10,24,Josh Scobee kicks extra point good,0.000,0.000
+4,3:13,,,JAX 30,10,24,"Josh Scobee kicks off 69 yards, returned by Tyson Thompson for 20 yards (tackle by Gerald Sensabaugh)",0.000,0.340
+4,3:07,1,10,DAL 21,10,24,Drew Bledsoe pass complete deep middle to Terry Glenn for 51 yards (tackle by Terry Cousin),0.340,3.710
+4,2:35,1,10,JAX 28,10,24,Drew Bledsoe pass complete short right to Marion Barber for 1 yard (tackle by Daryl Smith),3.710,3.300
+4,2:11,2,9,JAX 27,10,24,"Penalty on Flozell Adams: False Start, 5 yards (no play)",3.300,2.630
+4,2:11,2,14,JAX 32,10,24,Drew Bledsoe pass complete short left to Terry Glenn for 11 yards (tackle by Brian Williams),2.630,3.400
+4,2:00,3,3,JAX 21,16,24,"Drew Bledsoe pass complete deep left to Terrell Owens for 21 yards, touchdown",3.400,7.000
+4,2:00,,,JAX 2,17,24,Shaun Suisham kicks extra point good,0.000,0.000
+4,1:54,,,DAL 30,17,24,Shaun Suisham kicks onside 7 yards and returned for 4 yards,0.000,3.380
+4,1:52,1,10,DAL 33,17,24,Fred Taylor right end for 5 yards (tackle by Jason Ferguson),3.380,3.510
+4,1:08,2,5,DAL 28,17,24,LaBrandon Toefield right end for -4 yards (tackle by Marcus Spears),3.510,2.280
+4,1:03,,,,17,24,Timeout #2 by Dallas Cowboys,0.000,2.280
+4,1:03,3,9,DAL 32,17,24,LaBrandon Toefield middle for no gain (tackle by Akin Ayodele),2.280,1.240
+4,0:58,,,,17,24,Timeout #3 by Dallas Cowboys,0.000,1.240
+4,0:58,4,9,DAL 32,17,24,"Chris Hanson punts 32 yards, touchback",1.240,-0.280
+4,0:51,1,10,DAL 20,17,24,Drew Bledsoe pass incomplete intended for Terrell Owens (defended by Brian Williams),0.280,-0.270
+,,,,,,,"Replay Assistant challenged the ruling, and the original play was overturned.",,
+4,0:45,2,10,DAL 20,17,24,Drew Bledsoe sacked by Paul Spicer for -5 yards,-0.270,-1.860
+4,0:25,3,15,DAL 15,17,24,Drew Bledsoe pass incomplete deep right intended for Jason Witten is intercepted by Mike Peterson at DAL-31 and returned for 15 yards,-1.860,-4.510
+4,0:14,1,10,DAL 16,17,24,Byron Leftwich kneels for -1 yards,4.510,3.770
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

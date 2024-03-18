@@ -1,0 +1,230 @@
+Quarter,Time,Down,ToGo,Location,SEA,ARI,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Cardinals won the coin toss and deferred, Seahawks to receive the opening kickoff.",,
+1,15:00,,,ARI 35,0,0,"Zane Gonzalez kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,SEA 25,0,0,Russell Wilson pass complete deep left to Tyler Lockett for 34 yards (tackle by Patrick Peterson),0.610,2.850
+1,14:20,1,10,ARI 41,0,0,Russell Wilson pass complete short right to Jacob Hollister for 17 yards (tackle by Deionte Thompson),2.850,3.970
+1,13:41,1,10,ARI 24,0,0,Russell Wilson pass complete short right to Tyler Lockett for 4 yards,3.970,3.970
+1,13:08,2,6,ARI 20,0,0,Russell Wilson pass complete short middle to Chris Carson for 7 yards (tackle by Haason Reddick and De'Vondre Campbell),3.970,4.710
+1,12:44,1,10,ARI 13,0,0,Chris Carson up the middle for 10 yards (tackle by Jordan Hicks and Haason Reddick),4.710,6.510
+1,12:03,1,3,ARI 3,6,0,"Russell Wilson pass complete short left to Tyler Lockett for 3 yards, touchdown",6.510,7.000
+1,11:59,,,ARI 15,7,0,Jason Myers kicks extra point good,0.000,0.000
+1,11:59,,,SEA 35,7,0,"Jason Myers kicks off 65 yards, touchback.",0.000,0.610
+1,11:59,1,10,ARI 25,7,0,Kyler Murray pass incomplete short right intended for Darrell Daniels,0.610,0.060
+1,11:53,2,10,ARI 25,7,0,"Penalty on ARI: False Start, 5 yards (no play)",0.060,-0.610
+1,11:53,2,15,ARI 20,7,0,Kyler Murray pass complete short right to Christian Kirk for no gain (tackle by Shaquill Griffin),-0.610,-1.290
+1,11:25,3,15,ARI 20,7,0,Kyler Murray pass complete short left to DeAndre Hopkins for -2 yards (tackle by Quinton Dunbar),-1.290,-2.240
+1,10:34,4,17,ARI 18,7,0,"Andy Lee punts 48 yards, fair catch by David Moore at SEA-34",-2.240,-1.200
+1,10:26,1,10,SEA 34,7,0,Chris Carson right tackle for 5 yards (tackle by Jordan Hicks and Haason Reddick),1.200,1.330
+1,9:45,2,5,SEA 39,7,0,"Penalty on Brandon Shell: False Start, 5 yards (no play)",1.330,0.660
+1,9:22,2,10,SEA 34,7,0,Russell Wilson pass incomplete deep right intended for Tyler Lockett,0.660,-0.030
+1,9:15,3,10,SEA 34,7,0,Russell Wilson pass complete short middle to D.K. Metcalf for 17 yards (tackle by De'Vondre Campbell),-0.030,2.320
+1,8:32,1,10,ARI 49,7,0,Chris Carson up the middle for 8 yards (tackle by Jordan Hicks and Devon Kennard),2.320,2.860
+1,7:48,2,2,ARI 41,7,0,Russell Wilson pass complete short right to David Moore for 18 yards (tackle by Patrick Peterson),2.860,4.040
+1,7:01,1,10,ARI 23,7,0,Russell Wilson pass incomplete deep right intended for Greg Olsen,4.040,3.500
+1,6:53,2,10,ARI 23,7,0,Russell Wilson pass incomplete short right intended for Carlos Hyde,3.500,2.810
+1,6:47,3,10,ARI 23,7,0,Russell Wilson pass incomplete short right,2.810,1.930
+1,6:39,4,10,ARI 23,10,0,Jason Myers 41 yard field goal good,1.930,3.000
+1,6:35,,,SEA 35,10,0,"Jason Myers kicks off 65 yards, touchback.",0.000,0.610
+1,6:35,1,10,ARI 25,10,0,Kyler Murray up the middle for 2 yards (tackle by Ryan Neal and Jordyn Brooks),0.610,0.330
+1,6:16,2,8,ARI 27,10,0,Kyler Murray pass incomplete deep right intended for Dan Arnold,0.330,-0.360
+1,6:10,3,8,ARI 27,10,0,Kyler Murray right end for 9 yards (tackle by Benson Mayowa),-0.360,1.330
+1,5:36,1,10,ARI 36,10,0,Kenyan Drake left end for -1 yards (tackle by L.J. Collier),1.330,0.660
+1,5:08,2,11,ARI 35,10,0,"Kyler Murray pass incomplete short left intended for DeAndre Hopkins (defended by Quinton Dunbar). Penalty on Quinton Dunbar: Defensive Pass Interference, 8 yards (no play)",0.660,1.800
+1,5:02,1,10,ARI 43,10,0,"Kyler Murray aborted snap, recovered by Kyler Murray at ARI-41 and returned for -2 yards",1.800,0.980
+1,4:30,2,12,ARI 41,10,0,Kyler Murray pass complete short middle to Dan Arnold for 16 yards (tackle by Bobby Wagner),0.980,2.720
+1,3:52,1,10,SEA 43,10,0,Kenyan Drake up the middle for no gain (tackle by Jordyn Brooks and Bryan Mone),2.720,2.180
+1,3:14,2,10,SEA 43,10,0,Kyler Murray up the middle for 8 yards (tackle by Jordyn Brooks),2.180,2.540
+1,2:45,3,2,SEA 35,10,6,"Kyler Murray pass complete deep left to DeAndre Hopkins for 35 yards, touchdown",2.540,7.000
+1,2:39,,,SEA 15,10,7,Zane Gonzalez kicks extra point good,0.000,0.000
+1,2:39,,,ARI 35,10,7,"Zane Gonzalez kicks off 65 yards, touchback.",0.000,0.610
+1,2:39,1,10,SEA 25,10,7,"Russell Wilson pass complete short left to Chris Carson for 2 yards (tackle by De'Vondre Campbell). Penalty on Zach Allen: Defensive Offside, 5 yards (no play)",0.610,1.340
+1,2:09,1,5,SEA 30,10,7,Chris Carson right tackle for 4 yards (tackle by De'Vondre Campbell),1.340,1.280
+1,1:32,2,1,SEA 34,10,7,Chris Carson up the middle for 7 yards (tackle by Jordan Hicks),1.280,1.660
+1,0:49,1,10,SEA 41,10,7,Russell Wilson pass complete short right to Tyler Lockett for 16 yards (tackle by Dre Kirkpatrick),1.660,2.720
+1,0:21,1,10,ARI 43,10,7,Russell Wilson pass complete short right to Jacob Hollister for -1 yards (tackle by Haason Reddick),2.720,2.040
+Quarter,Time,Down,ToGo,Location,SEA,ARI,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,11,ARI 44,10,7,Russell Wilson pass complete short right to Greg Olsen for 13 yards (tackle by Dre Kirkpatrick),2.040,3.510
+2,14:18,1,10,ARI 31,10,7,Carlos Hyde up the middle for 3 yards (tackle by De'Vondre Campbell and Budda Baker),3.510,3.370
+2,13:36,2,7,ARI 28,10,7,Carlos Hyde up the middle for 2 yards (tackle by Jordan Phillips),3.370,2.940
+2,12:59,3,5,ARI 26,10,7,Russell Wilson pass incomplete short right intended for DeeJay Dallas,2.940,1.790
+2,12:55,4,5,ARI 26,13,7,Jason Myers 44 yard field goal good,1.790,3.000
+2,12:50,,,SEA 35,13,7,"Jason Myers kicks off 69 yards, returned by Chase Edmonds for 21 yards (tackle by Cody Barton)",0.000,-0.060
+2,12:43,1,10,ARI 17,13,7,Kenyan Drake right tackle for 4 yards (tackle by Shaquill Griffin),-0.060,0.080
+2,12:12,2,6,ARI 21,13,7,Kyler Murray pass complete short left to DeAndre Hopkins for 19 yards (tackle by Bobby Wagner),0.080,1.600
+2,11:47,1,10,ARI 40,13,7,"Kenyan Drake left end for 1 yard (tackle by Shaquem Griffin). Penalty on Darrell Daniels: Offensive Holding, 10 yards",1.600,1.000
+2,11:26,1,19,ARI 31,13,7,"Kyler Murray pass complete short left to DeAndre Hopkins for 1 yard (tackle by Poona Ford). DeAndre Hopkins fumbles (forced by Poona Ford), recovered by K.J. Wright at ARI-31",1.000,-3.510
+2,11:17,1,10,ARI 31,13,7,Russell Wilson pass complete short middle to Tyler Lockett for 9 yards (tackle by Jordan Hicks),3.510,4.180
+2,10:39,2,1,ARI 22,13,7,Carlos Hyde right end for 1 yard (tackle by Deionte Thompson),4.180,4.170
+2,9:55,1,10,ARI 21,13,7,Russell Wilson pass incomplete short left intended for Tyler Lockett,4.170,3.630
+2,9:48,2,10,ARI 21,13,7,Russell Wilson pass complete short middle to David Moore for 18 yards (tackle by Dre Kirkpatrick),3.630,6.510
+2,9:08,1,3,ARI 3,13,7,Russell Wilson pass short right intended for Chris Carson is intercepted by Budda Baker at ARI-2 and returned for 90 yards,6.510,-5.370
+2,8:54,1,8,SEA 8,13,7,Kenyan Drake up the middle for 5 yards (tackle by Shaquill Griffin and Jarran Reed),5.370,5.530
+2,8:15,2,3,SEA 3,13,7,Kenyan Drake left tackle for 1 yard (tackle by K.J. Wright),5.530,4.950
+2,7:34,3,2,SEA 2,13,7,Kyler Murray left end for -1 yards (tackle by Jordyn Brooks),4.950,3.040
+2,6:53,4,3,SEA 3,13,7,Kyler Murray pass incomplete short left intended for Christian Kirk,3.040,0.380
+2,6:43,1,10,SEA 3,13,7,Carlos Hyde up the middle for 7 yards (tackle by De'Vondre Campbell and Haason Reddick),-0.380,-0.270
+2,6:12,2,3,SEA 10,13,7,Russell Wilson pass complete short right to Tyler Lockett for 4 yards (tackle by Dre Kirkpatrick),-0.270,-0.280
+2,5:31,1,10,SEA 14,13,7,Russell Wilson left end for 34 yards (tackle by Dre Kirkpatrick),-0.280,2.130
+2,5:04,1,10,SEA 48,13,7,Russell Wilson pass complete short left to Will Dissly for 28 yards (tackle by De'Vondre Campbell),2.130,3.970
+2,4:16,1,10,ARI 24,13,7,Russell Wilson pass incomplete short left intended for Tyler Lockett,3.970,3.430
+2,4:10,2,10,ARI 24,19,7,"Carlos Hyde left end for 24 yards, touchdown",3.430,7.000
+2,4:04,,,ARI 15,20,7,Jason Myers kicks extra point good,0.000,0.000
+2,4:04,,,SEA 35,20,7,"Jason Myers kicks off 65 yards, touchback.",0.000,0.610
+2,4:04,1,10,ARI 25,20,7,Kyler Murray pass complete short middle to DeAndre Hopkins for 12 yards (tackle by Ryan Neal),0.610,1.400
+2,3:37,1,10,ARI 37,20,7,Kenyan Drake up the middle for no gain (tackle by Jarran Reed),1.400,0.860
+2,3:00,2,10,ARI 37,20,7,Kyler Murray pass complete short left to DeAndre Hopkins for 2 yards (tackle by Quinton Dunbar),0.860,0.430
+2,2:23,3,8,ARI 39,20,7,Kyler Murray pass complete short left to DeAndre Hopkins for 13 yards (tackle by Ryan Neal),0.430,2.390
+2,2:00,1,10,SEA 48,20,7,Kyler Murray pass complete deep right to Dan Arnold for 41 yards (tackle by Bobby Wagner),2.390,5.600
+2,1:20,1,7,SEA 7,20,13,"Kyler Murray pass complete short right to Christian Kirk for 7 yards, touchdown",5.600,7.000
+2,1:14,,,SEA 15,20,14,Zane Gonzalez kicks extra point good,0.000,0.000
+2,1:14,,,ARI 35,20,14,"Zane Gonzalez kicks off 65 yards, touchback.",0.000,0.610
+2,1:14,1,10,SEA 25,20,14,Russell Wilson up the middle for 22 yards (tackle by Budda Baker),0.610,2.060
+2,1:06,,,,,,Timeout #1 by Seattle Seahawks,,
+2,1:06,1,10,SEA 47,20,14,Russell Wilson pass complete short middle to Tyler Lockett for 16 yards (tackle by Budda Baker),2.060,3.120
+2,0:59,1,10,ARI 37,20,14,"Russell Wilson up the middle for 10 yards (tackle by Dre Kirkpatrick). Penalty on Damien Lewis: Tripping, 10 yards (no play)",3.120,2.460
+2,0:51,1,20,ARI 47,26,14,"Russell Wilson pass complete deep right to Tyler Lockett for 47 yards, touchdown",2.460,7.000
+2,0:43,,,ARI 15,27,14,Jason Myers kicks extra point good,0.000,0.000
+2,0:43,,,SEA 35,27,14,"Jason Myers kicks off 65 yards, touchback.",0.000,0.610
+2,0:43,1,10,ARI 25,27,14,Kyler Murray pass complete short middle to Larry Fitzgerald for 9 yards (tackle by Ugo Amadi),0.610,1.280
+2,0:36,,,,,,Timeout #1 by Arizona Cardinals,,
+2,0:36,2,1,ARI 34,27,14,Kyler Murray pass complete short middle to Larry Fitzgerald for 12 yards (tackle by Ugo Amadi),1.280,1.990
+2,0:31,,,,,,Timeout #2 by Arizona Cardinals,,
+2,0:31,1,10,ARI 46,27,14,Kyler Murray pass complete short left to Chase Edmonds for 15 yards (tackle by K.J. Wright),1.990,2.980
+2,0:24,1,10,SEA 39,27,14,Kyler Murray pass complete short left to Chase Edmonds for 6 yards (tackle by Quinton Dunbar),2.980,3.250
+2,0:17,2,4,SEA 33,27,14,Kyler Murray up the middle for 2 yards (tackle by Quinton Dunbar),3.250,2.810
+2,0:11,,,,,,Timeout #3 by Arizona Cardinals,,
+2,0:11,3,2,SEA 31,27,14,Kyler Murray pass incomplete deep left intended for DeAndre Hopkins,2.810,1.400
+2,0:04,4,2,SEA 31,27,17,Zane Gonzalez 49 yard field goal good. Penalty on Shaquill Griffin: Running Into the Kicker (Declined),1.400,3.000
+Quarter,Time,Down,ToGo,Location,SEA,ARI,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,SEA 35,27,17,"Jason Myers kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,ARI 25,27,17,Kyler Murray pass complete short middle to Larry Fitzgerald for 5 yards (tackle by Jordyn Brooks),0.610,0.740
+3,14:42,2,5,ARI 30,27,17,Kyler Murray pass complete short middle to Chase Edmonds for 21 yards (tackle by Shaquill Griffin),0.740,2.320
+3,14:03,1,10,SEA 49,27,17,Kenyan Drake up the middle for 3 yards (tackle by Poona Ford and Jordyn Brooks),2.320,2.190
+3,13:35,2,7,SEA 46,27,17,Kyler Murray pass complete short right to DeAndre Hopkins for -4 yards (tackle by K.J. Wright),2.190,0.960
+3,12:57,3,11,ARI 50,27,17,"Kyler Murray up the middle for 3 yards (tackle by Ugo Amadi). Kyler Murray fumbles, ball out of bounds at SEA-47 (forced by Ugo Amadi)",0.960,0.130
+3,12:00,4,8,SEA 47,27,17,"Andy Lee punts 47 yards, touchback.",0.130,-0.280
+3,11:50,1,10,SEA 20,27,17,Carlos Hyde left end for 13 yards (tackle by Angelo Blackson),0.280,1.140
+3,11:06,1,10,SEA 33,27,17,Russell Wilson pass complete short right to Jacob Hollister for 6 yards (tackle by De'Vondre Campbell),1.140,1.400
+3,10:23,2,4,SEA 39,27,17,Russell Wilson pass complete short right to Will Dissly for 10 yards (tackle by Jordan Hicks),1.400,2.190
+3,9:37,1,10,SEA 49,27,17,Carlos Hyde up the middle for 5 yards (tackle by Haason Reddick),2.190,2.320
+3,8:52,2,5,ARI 46,27,17,Russell Wilson pass incomplete short left intended for Tyler Lockett (defended by Dre Kirkpatrick),2.320,1.620
+3,8:46,3,5,ARI 46,27,17,Russell Wilson pass incomplete short right,1.620,0.200
+3,8:39,4,5,ARI 46,27,17,Michael Dickson punts 39 yards downed by Nick Bellore,0.200,0.380
+3,8:30,1,10,ARI 7,27,17,Kyler Murray pass incomplete deep left intended for DeAndre Hopkins,-0.380,-0.780
+3,8:24,2,10,ARI 7,27,17,Kyler Murray right end for 5 yards (tackle by Alton Robinson),-0.780,-0.840
+3,7:45,3,5,ARI 12,27,17,"Kyler Murray pass incomplete short middle intended for Dan Arnold. Penalty on Bobby Wagner: Unnecessary Roughness, 15 yards (no play)",-0.840,0.740
+3,7:40,1,10,ARI 27,27,17,Kyler Murray pass complete short left to Kenyan Drake for 7 yards (tackle by Bobby Wagner),0.740,1.140
+3,7:10,2,3,ARI 34,27,17,Kenyan Drake up the middle for 7 yards (tackle by Quinton Dunbar),1.140,1.660
+3,6:42,1,10,ARI 41,27,17,Kyler Murray pass incomplete short left intended for Kenyan Drake,1.660,1.120
+3,6:38,2,10,ARI 41,27,17,Kyler Murray pass complete deep left to DeAndre Hopkins for 18 yards,1.120,2.850
+3,6:01,1,10,SEA 41,27,17,"Kyler Murray up the middle for 3 yards (tackle by Alton Robinson). Penalty on Justin Pugh: Offensive Holding, 10 yards (no play)",2.850,2.190
+3,5:41,1,20,ARI 49,27,17,Kyler Murray pass complete short right to Andy Isabella for 7 yards (tackle by Bobby Wagner),2.190,1.900
+3,5:17,2,13,SEA 44,27,17,Kyler Murray pass complete short middle to Larry Fitzgerald for 8 yards (tackle by Quandre Diggs and Bobby Wagner),1.900,2.280
+3,4:53,3,5,SEA 36,27,17,Kyler Murray pass complete short left to Chase Edmonds for 18 yards (tackle by Ryan Neal),2.280,4.370
+3,4:09,1,10,SEA 18,27,17,Kenyan Drake right end for no gain (tackle by K.J. Wright),4.370,3.800
+3,3:33,2,10,SEA 18,27,17,Kyler Murray pass complete short middle to Chase Edmonds for 13 yards (tackle by Tre Flowers and Bobby Wagner),3.800,6.060
+3,3:06,1,5,SEA 5,27,23,"Kyler Murray left end for 5 yards, touchdown",6.060,7.000
+3,2:59,,,SEA 15,27,24,Zane Gonzalez kicks extra point good,0.000,0.000
+3,2:59,,,ARI 35,27,24,"Zane Gonzalez kicks off 65 yards, returned by Travis Homer for 20 yards (tackle by Charles Washington). Penalty on Ray-Ray Armstrong: Offensive Holding, 10 yards",0.000,-0.380
+3,2:53,1,10,SEA 10,27,24,Russell Wilson right end for 6 yards (tackle by De'Vondre Campbell),-0.380,-0.230
+3,2:11,2,4,SEA 16,27,24,Russell Wilson pass complete short right to Greg Olsen for 5 yards (tackle by Deionte Thompson),-0.230,0.340
+3,1:35,1,10,SEA 21,27,24,Russell Wilson right tackle for 12 yards (tackle by Patrick Peterson),0.340,1.140
+3,0:52,1,10,SEA 33,27,24,Russell Wilson pass complete short middle to Tyler Lockett for 10 yards (tackle by Budda Baker),1.140,1.800
+3,0:15,1,10,SEA 43,27,24,Travis Homer right end for 5 yards (tackle by Haason Reddick),1.800,1.930
+Quarter,Time,Down,ToGo,Location,SEA,ARI,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,5,SEA 48,27,24,Russell Wilson up the middle for 1 yard (tackle by Dre Kirkpatrick),1.930,1.350
+4,14:08,,,,,,Timeout #1 by Seattle Seahawks,,
+4,14:08,3,4,SEA 49,27,24,Russell Wilson pass complete short right to Tyler Lockett for 16 yards (tackle by Budda Baker),1.350,3.250
+4,13:44,1,10,ARI 35,27,24,Travis Homer up the middle for 6 yards (tackle by Budda Baker),3.250,3.510
+4,13:10,2,4,ARI 29,27,24,Travis Homer up the middle for -1 yards (tackle by Budda Baker and Leki Fotu),3.510,2.680
+4,12:26,3,5,ARI 30,27,24,Russell Wilson pass deep right intended for D.K. Metcalf is intercepted by Patrick Peterson at ARI-0 and returned for no gain,2.680,-0.280
+4,12:18,1,10,ARI 20,27,24,Kyler Murray pass deep middle intended for Andy Isabella is intercepted by Quandre Diggs at ARI-45 and returned for no gain,0.280,-2.590
+4,12:10,1,10,ARI 45,27,24,Russell Wilson pass incomplete deep left intended for D.K. Metcalf (defended by Patrick Peterson),2.590,2.040
+4,12:04,,,,,,Timeout #2 by Seattle Seahawks,,
+4,12:04,2,10,ARI 45,27,24,Russell Wilson pass complete short middle to DeeJay Dallas for 8 yards (tackle by Budda Baker),2.040,2.410
+4,11:21,3,2,ARI 37,27,24,Carlos Hyde left end for 2 yards (tackle by Trevon Coley and Patrick Peterson),2.410,3.250
+4,10:55,1,10,ARI 35,27,24,Carlos Hyde left tackle for 3 yards (tackle by Budda Baker and Leki Fotu),3.250,3.110
+4,10:09,2,7,ARI 32,27,24,Russell Wilson pass complete short middle to Tyler Lockett for 5 yards (tackle by Dre Kirkpatrick),3.110,3.070
+4,9:28,3,2,ARI 27,27,24,David Moore right end for 4 yards (tackle by Dre Kirkpatrick),3.070,4.040
+4,8:49,1,10,ARI 23,27,24,Russell Wilson pass complete short right to Carlos Hyde for 4 yards (tackle by Jordan Hicks and Haason Reddick),4.040,4.050
+4,8:10,2,6,ARI 19,27,24,"Carlos Hyde left tackle for 3 yards (tackle by Corey Peters). Penalty on Corey Peters: Defensive Holding, 5 yards",4.050,4.840
+4,7:44,1,10,ARI 11,27,24,Russell Wilson pass incomplete short left intended for Will Dissly,4.840,4.140
+4,7:38,2,10,ARI 11,27,24,Russell Wilson pass complete short right to Tyler Lockett for 8 yards (tackle by Dre Kirkpatrick),4.140,4.890
+4,6:55,3,2,ARI 3,27,24,Russell Wilson pass incomplete short right intended for Will Dissly,4.890,3.050
+4,6:50,4,2,ARI 3,33,24,"Russell Wilson pass complete short left to Tyler Lockett for 3 yards, touchdown",3.050,7.000
+4,6:44,,,ARI 15,34,24,Jason Myers kicks extra point good,0.000,0.000
+4,6:44,,,SEA 35,34,24,"Jason Myers kicks off 65 yards, touchback.",0.000,0.610
+4,6:44,1,10,ARI 25,34,24,Kenyan Drake up the middle for 3 yards (tackle by Jonathan Bullard),0.610,0.470
+4,6:22,2,7,ARI 28,34,24,Kyler Murray left end for 18 yards (tackle by Tre Flowers),0.470,1.990
+4,5:59,1,10,ARI 46,34,24,Kenyan Drake right end for 9 yards (tackle by Bobby Wagner),1.990,2.670
+4,5:24,2,1,SEA 45,34,24,Kenyan Drake up the middle for no gain (tackle by Benson Mayowa),2.670,1.950
+4,4:50,3,1,SEA 45,34,24,Kyler Murray up the middle for no gain (tackle by Bobby Wagner and Jordyn Brooks),1.950,0.270
+4,4:12,4,1,SEA 45,34,24,Kenyan Drake up the middle for 2 yards (tackle by Ryan Neal),0.270,2.720
+4,3:52,1,10,SEA 43,34,24,Kyler Murray pass complete short right to Chase Edmonds for 3 yards (tackle by K.J. Wright),2.720,2.580
+4,3:46,2,7,SEA 40,34,24,Kyler Murray pass complete short right to Christian Kirk for 6 yards (tackle by Quinton Dunbar),2.580,2.680
+4,3:42,3,1,SEA 34,34,24,Chase Edmonds up the middle for 2 yards (tackle by Bobby Wagner),2.680,3.450
+4,3:22,1,10,SEA 32,34,24,"Penalty on D.J. Humphries: False Start, 5 yards (no play)",3.450,3.120
+4,3:22,1,15,SEA 37,34,24,Kyler Murray pass complete short left to Larry Fitzgerald for 3 yards,3.120,2.630
+4,3:15,2,12,SEA 34,34,24,Kyler Murray pass incomplete short middle intended for Andy Isabella,2.630,1.950
+4,3:07,3,12,SEA 34,34,24,Kyler Murray pass incomplete short right intended for Christian Kirk,1.950,1.060
+4,3:02,4,12,SEA 34,34,24,"Zane Gonzalez yard field goal good. Penalty on Benson Mayowa: Defensive Offside (Declined) . Penalty on Benson Mayowa: Leverage, 15 yards (no play)",1.060,4.310
+4,2:57,1,10,SEA 19,34,24,Kyler Murray pass complete short middle to Chase Edmonds for 11 yards (tackle by Ryan Neal),4.310,5.370
+4,2:33,1,8,SEA 8,34,30,"Kyler Murray pass complete short right to Christian Kirk for 8 yards, touchdown",5.370,7.000
+4,2:28,,,SEA 15,34,31,Zane Gonzalez kicks extra point good,0.000,0.000
+4,2:28,,,ARI 35,34,31,"Zane Gonzalez kicks off 60 yards, returned by Tyler Lockett for 9 yards (tackle by Isaiah Simmons)",0.000,-0.280
+4,2:25,1,10,SEA 14,34,31,Russell Wilson right end for 9 yards (tackle by Budda Baker),-0.280,0.550
+4,2:00,2,1,SEA 23,34,31,Carlos Hyde up the middle for 3 yards (tackle by Tanner Vallejo and Haason Reddick),0.550,0.670
+4,1:54,,,,,,Timeout #1 by Arizona Cardinals,,
+4,1:54,1,10,SEA 26,34,31,Carlos Hyde up the middle for 1 yard (tackle by Tanner Vallejo and Leki Fotu),0.670,0.270
+4,1:48,,,,,,Timeout #2 by Arizona Cardinals,,
+4,1:48,2,9,SEA 27,34,31,Carlos Hyde right end for 7 yards (tackle by Budda Baker),0.270,0.500
+4,1:42,,,,,,Timeout #3 by Arizona Cardinals,,
+4,1:42,3,2,SEA 34,34,31,Carlos Hyde right tackle for no gain (tackle by Tanner Vallejo),0.500,-1.110
+4,0:59,4,2,SEA 34,34,31,"Michael Dickson punts 66 yards, touchback.",-1.110,-0.280
+4,0:52,1,10,ARI 20,34,31,Kyler Murray pass complete short middle to Larry Fitzgerald for 11 yards (tackle by Ryan Neal),0.280,1.000
+4,0:39,1,10,ARI 31,34,31,Kyler Murray spiked the ball,1.000,0.460
+4,0:38,2,10,ARI 31,34,31,Kyler Murray up the middle for 15 yards (tackle by Ryan Neal),0.460,1.990
+4,0:25,1,10,ARI 46,34,31,Kyler Murray spiked the ball,1.990,1.450
+4,0:24,2,10,ARI 46,34,31,Kyler Murray pass complete short left to Christian Kirk for 16 yards (tackle by Tre Flowers),1.450,3.050
+4,0:17,1,10,SEA 38,34,31,Chase Edmonds left tackle for 12 yards (tackle by Tre Flowers),3.050,3.840
+4,0:03,1,10,SEA 26,34,31,Kyler Murray spiked the ball,3.840,3.300
+4,0:02,2,10,SEA 26,34,34,Zane Gonzalez 44 yard field goal good,3.300,3.000
+Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime
+Quarter,Time,Down,ToGo,Location,SEA,ARI,Detail,EPB,EPA
+,,,,,,,"Seahawks won the coin toss, Seahawks to receive the overtime kickoff.",,
+OT,10:00,,,ARI 35,34,34,"Zane Gonzalez kicks off 65 yards, touchback.",0.000,0.610
+OT,10:00,1,10,SEA 25,34,34,Russell Wilson pass complete short left to Carlos Hyde for 8 yards (tackle by Budda Baker),0.610,1.140
+OT,9:18,2,2,SEA 33,34,34,Russell Wilson sacked by Haason Reddick for -6 yards,1.140,-0.360
+OT,8:32,3,8,SEA 27,34,34,Russell Wilson pass complete deep middle to David Moore for 18 yards (tackle by Dre Kirkpatrick),-0.360,1.930
+OT,7:49,1,10,SEA 45,34,34,Carlos Hyde right end for -6 yards (tackle by Budda Baker),1.930,0.570
+OT,7:05,2,16,SEA 39,34,34,Russell Wilson pass complete short middle to DeeJay Dallas for 10 yards (tackle by De'Vondre Campbell),0.570,1.220
+OT,6:23,3,6,SEA 49,34,34,"Penalty on Brandon Shell: False Start, 5 yards (no play)",1.220,0.560
+OT,6:23,3,11,SEA 44,34,34,Russell Wilson sacked by Byron Murphy for -10 yards,0.560,-1.110
+OT,5:46,4,21,SEA 34,34,34,"Michael Dickson punts 48 yards, returned by Christian Kirk for 10 yards (tackle by Ben Burr-Kirven)",-1.110,-0.810
+OT,5:30,1,10,ARI 28,34,34,Kyler Murray pass complete short left to Larry Fitzgerald for 7 yards (tackle by K.J. Wright),0.810,1.210
+OT,4:58,2,3,ARI 35,34,34,Chase Edmonds up the middle for 32 yards (tackle by Quandre Diggs),1.210,3.380
+OT,4:49,1,10,SEA 33,34,34,Chase Edmonds up the middle for 9 yards (tackle by Benson Mayowa),3.380,4.050
+OT,4:16,2,1,SEA 24,34,34,Kyler Murray right end for 6 yards (tackle by K.J. Wright),4.050,4.370
+OT,3:36,1,10,SEA 18,34,34,Kyler Murray left tackle for -5 yards (tackle by Ryan Neal),4.370,3.150
+OT,2:47,,,,,,Timeout #1 by Arizona Cardinals,,
+OT,2:47,2,15,SEA 23,34,34,Zane Gonzalez 41 yard field goal no good,3.150,-1.000
+OT,2:42,1,10,SEA 31,34,34,Russell Wilson pass complete short right to Tyler Lockett for 11 yards (tackle by Byron Murphy),1.000,1.730
+OT,2:11,1,10,SEA 42,34,34,Russell Wilson pass complete short right to Carlos Hyde for -4 yards (tackle by Haason Reddick),1.730,0.650
+OT,2:00,2,14,SEA 38,34,34,Russell Wilson pass complete short middle to Tyler Lockett for 14 yards (tackle by Budda Baker),0.650,2.390
+OT,1:21,1,10,ARI 48,34,34,Russell Wilson pass incomplete deep left intended for D.K. Metcalf,2.390,1.850
+OT,1:15,,,,,,Timeout #1 by Seattle Seahawks,,
+OT,1:15,2,10,ARI 48,34,34,Russell Wilson pass incomplete short right intended for Freddie Swain,1.850,1.160
+OT,1:13,3,10,ARI 48,34,34,"Russell Wilson pass complete short left to D.K. Metcalf for 6 yards. Penalty on David Moore: Offensive Holding, 10 yards",1.160,0.630
+OT,1:04,3,14,SEA 48,34,34,Russell Wilson pass short middle intended for Tyler Lockett is intercepted by Isaiah Simmons at ARI-39 and returned for 12 yards,0.630,-2.320
+OT,0:57,1,10,SEA 49,34,34,Kyler Murray pass complete short left to DeAndre Hopkins for 9 yards (tackle by Tre Flowers),2.320,3.000
+OT,0:54,2,1,SEA 40,34,34,Chase Edmonds up the middle for 3 yards (tackle by Poona Ford and Jarran Reed),3.000,3.120
+OT,0:34,1,10,SEA 37,34,34,Kyler Murray spiked the ball,3.120,2.570
+OT,0:33,2,10,SEA 37,34,34,Kyler Murray pass complete short right to Larry Fitzgerald for 7 yards (tackle by Bobby Wagner and Quandre Diggs),2.570,2.810
+OT,0:25,,,,,,Timeout #2 by Arizona Cardinals,,
+OT,0:25,3,3,SEA 30,34,34,Kyler Murray pass incomplete deep right intended for Christian Kirk,2.810,1.480
+OT,0:20,4,3,SEA 30,34,37,Zane Gonzalez 48 yard field goal good,1.480,3.000
+End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime

@@ -1,0 +1,9 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,DET 25,8,4:16,75,Touchdown
+2,1,5:15,DET 28,5,3:23,8,Punt
+3,2,11:01,DET 25,14,7:54,75,Touchdown
+4,3,12:07,DET 40,5,2:17,60,Touchdown
+5,3,6:33,DET 25,3,1:37,1,Punt
+6,4,14:09,DET 16,13,8:07,84,Touchdown
+7,4,5:06,DET 39,9,3:37,44,Field Goal
+8,4,1:01,DET 45,2,1:01,-2,End of Game

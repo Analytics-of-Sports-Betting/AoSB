@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,NYG 25,5,2:39,75,Touchdown
+2,1,7:37,NYG 25,2,0:51,75,Touchdown
+3,2,14:56,NYG 25,10,5:40,75,Touchdown
+4,2,5:42,NYG 10,4,1:49,31,Punt
+5,2,2:19,NYG 27,9,1:41,73,Touchdown
+6,3,11:44,NYG 17,3,1:25,1,Punt
+7,3,6:38,NYG 27,5,2:58,73,Touchdown
+8,3,2:06,NYG 23,4,2:28,5,"Blocked Punt, Downs"
+9,4,14:30,NYG 25,6,3:10,40,Missed FG
+10,4,9:30,NYG 13,6,3:02,33,Punt
+11,4,0:29,NYG 25,5,0:29,30,End of Half
+12,5,10:00,NYG 34,11,5:45,66,Touchdown

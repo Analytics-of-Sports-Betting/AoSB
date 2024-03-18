@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,LAR 25,5,3:06,1,Punt
+2,1,9:57,,6,3:35,50,Touchdown
+3,1,4:48,LAR 28,3,2:39,7,Punt
+4,1,0:28,LAR 25,6,2:37,75,Touchdown
+5,2,5:47,LAR 25,8,3:47,32,Interception
+6,2,0:30,LAR 41,3,0:26,9,Punt
+7,3,14:48,LAR 17,1,0:10,0,Interception
+8,3,10:15,LAR 25,10,4:17,52,Field Goal
+9,3,4:28,LAR 47,3,1:41,-3,Punt
+10,3,0:36,LAR 48,3,1:31,3,Punt
+11,4,11:29,LAR 35,3,1:31,6,Punt
+12,4,6:13,LAR 21,15,4:48,79,Touchdown
+13,4,0:39,LAR 49,1,0:39,-1,End of Game

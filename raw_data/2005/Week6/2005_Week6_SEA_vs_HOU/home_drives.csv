@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,11:13,SEA 31,8,3:01,69,Touchdown
+2,1,5:02,SEA 4,9,3:54,96,Touchdown
+3,2,7:50,SEA 29,5,2:56,22,Punt
+4,2,3:53,HOU 46,6,2:08,46,Touchdown
+5,2,0:45,SEA 47,1,0:06,0,Interception
+6,2,0:01,SEA 46,1,0:01,-1,End of Half
+7,3,15:00,SEA 30,12,6:37,70,Touchdown
+8,3,3:35,SEA 24,10,5:18,76,Touchdown
+9,4,9:13,SEA 12,7,3:59,88,Touchdown
+10,4,3:33,HOU 47,6,3:33,8,End of Game

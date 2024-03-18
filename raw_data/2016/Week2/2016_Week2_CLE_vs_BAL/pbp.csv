@@ -1,0 +1,187 @@
+Quarter,Time,Down,ToGo,Location,BAL,CLE,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Ravens won the coin toss and deferred, Browns to receive the opening kickoff.",,
+1,15:00,,,BAL 35,0,0,"Justin Tucker kicks off 65 yards, touchback",0.000,-0.610
+1,15:00,1,10,CLE 25,0,0,Isaiah Crowell right guard for -1 yards (tackle by C.J. Mosley),0.610,-0.070
+1,14:24,2,11,CLE 24,0,0,Isaiah Crowell right tackle for 4 yards (tackle by Terrell Suggs and C.J. Mosley),-0.070,-0.230
+1,13:42,3,7,CLE 28,0,0,Josh McCown pass complete short right to Andrew Hawkins for 8 yards (tackle by Zach Orr),-0.230,1.330
+1,13:11,1,10,CLE 36,0,0,Isaiah Crowell right guard for 5 yards (tackle by Terrell Suggs),1.330,1.470
+1,12:30,2,5,CLE 41,0,0,Josh McCown pass incomplete deep left intended for Corey Coleman,1.470,0.760
+1,12:25,3,5,CLE 41,0,0,Josh McCown pass complete short right to Duke Johnson for 28 yards (tackle by C.J. Mosley),0.760,3.510
+1,11:42,1,10,BAL 31,0,0,"Josh McCown pass complete short left to Isaiah Crowell for 8 yards (tackle by Albert McClellan). Penalty on Terrelle Pryor: Offensive Pass Interference, 10 yards (no play)",3.510,2.850
+1,11:20,1,20,BAL 41,0,0,Duke Johnson left guard for 2 yards (tackle by Eric Weddle),2.850,1.890
+1,10:36,2,18,BAL 39,0,0,Isaiah Crowell left tackle for 8 yards (tackle by C.J. Mosley),1.890,2.280
+1,9:51,3,10,BAL 31,0,6,"Josh McCown pass complete deep left to Corey Coleman for 31 yards, touchdown",2.280,7.000
+1,9:51,,,BAL 31,0,7,Patrick Murray kicks extra point good,0.000,0.000
+1,9:51,,,CLE 35,0,7,"Patrick Murray kicks off 66 yards, returned by Devin Hester for 48 yards (tackle by Patrick Murray)",0.000,-2.060
+1,9:37,1,10,BAL 47,0,7,Justin Forsett right guard for 1 yard (tackle by Danny Shelton and Jamie Meder),2.060,1.650
+1,9:04,2,9,BAL 48,0,7,Joe Flacco pass complete short left to Dennis Pitta for 6 yards (tackle by Jamar Taylor),1.650,1.750
+1,8:30,3,3,CLE 46,0,7,Joe Flacco pass complete short right to Mike Wallace for 5 yards (tackle by Joe Haden),1.750,2.850
+1,7:54,1,10,CLE 41,0,7,Joe Flacco pass incomplete short middle intended for Crockett Gillmore,2.850,2.310
+1,7:50,2,10,CLE 41,0,7,Justin Forsett right tackle for -1 yards (tackle by Christian Kirksey),2.310,1.490
+1,7:08,3,11,CLE 42,0,7,Joe Flacco pass incomplete short right intended for Kyle Juszczyk,1.490,0.460
+1,6:58,4,11,CLE 42,0,7,"Sam Koch punts 27 yards, out of bounds",0.460,0.220
+1,6:58,1,10,CLE 15,0,13,"Isaiah Crowell left guard for 85 yards, touchdown",-0.220,7.000
+1,6:58,,,BAL 15,0,14,Patrick Murray kicks extra point good,0.000,0.000
+1,6:58,,,CLE 35,0,14,"Patrick Murray kicks off 65 yards, touchback",0.000,-0.610
+1,6:46,1,10,BAL 25,0,14,Terrance West right tackle for 4 yards (tackle by Danny Shelton and Jamie Meder),0.610,0.600
+1,6:10,2,6,BAL 29,0,14,Joe Flacco pass incomplete short right intended for Steve Smith is intercepted by Joe Haden at BAL-36 and returned for 9 yards,0.600,-3.780
+1,5:59,1,10,BAL 27,0,14,Josh McCown pass incomplete deep right intended for Terrelle Pryor,3.780,3.230
+1,5:52,2,10,BAL 27,0,14,Isaiah Crowell left guard for 2 yards (tackle by Timmy Jernigan and Eric Weddle),3.230,2.810
+1,5:11,3,8,BAL 25,0,14,Josh McCown pass complete short middle to Gary Barnidge for 14 yards (tackle by Zach Orr),2.810,4.840
+1,4:40,1,10,BAL 11,0,20,"Josh McCown pass complete short left to Corey Coleman for 11 yards, touchdown",4.840,7.000
+1,4:40,,,BAL 11,2,20,"Patrick Murray kicks extra point no good, blocked by Lawrence Guy, returned by Tavon Young for defensive conversion",0.000,1.000
+1,4:40,,,CLE 35,2,20,"Patrick Murray kicks off 65 yards, touchback",0.000,-0.610
+1,4:33,1,10,BAL 25,2,20,Joe Flacco pass incomplete short left intended for Terrance West,0.610,0.060
+1,4:31,2,10,BAL 25,2,20,Terrance West right tackle for 5 yards (tackle by Demario Davis),0.060,0.040
+1,3:49,3,5,BAL 30,2,20,Joe Flacco pass complete short middle to Chris Moore for 9 yards (tackle by Tramon Williams),0.040,1.530
+1,3:12,1,10,BAL 39,2,20,Joe Flacco pass incomplete deep left intended for Kamar Aiken,1.530,0.990
+1,3:01,2,10,BAL 39,2,20,Justin Forsett right guard for 2 yards (tackle by Tramon Williams),0.990,0.560
+1,2:12,3,8,BAL 41,2,20,Joe Flacco pass complete short middle to Mike Wallace for 12 yards (tackle by Tramon Williams),0.560,2.460
+1,1:37,1,10,CLE 47,2,20,Joe Flacco pass incomplete short middle intended for Terrance West,2.460,1.910
+1,1:33,2,10,CLE 47,2,20,Justin Forsett left tackle for 11 yards (tackle by Ibraheim Campbell),1.910,3.180
+1,1:01,1,10,CLE 36,2,20,Joe Flacco pass incomplete deep left intended for Chris Moore,3.180,2.640
+1,0:56,2,10,CLE 36,2,20,Joe Flacco pass complete short left to Justin Forsett for 8 yards (tackle by Christian Kirksey),2.640,3.010
+1,0:20,3,2,CLE 28,2,20,Terrance West left guard for no gain (tackle by Christian Kirksey),3.010,1.700
+Quarter,Time,Down,ToGo,Location,BAL,CLE,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,4,2,CLE 28,2,20,Justin Forsett left end for 1 yard (tackle by Demario Davis and Tramon Williams),1.700,-0.740
+2,14:50,1,10,CLE 27,2,20,"Josh McCown for no gain. Josh McCown fumbles, recovered by Josh McCown at CLE-23",0.740,0.740
+2,14:07,1,10,CLE 27,2,20,Timeout #1 by Cleveland Browns,0.740,-0.340
+2,14:07,2,14,CLE 23,2,20,Duke Johnson right guard for 2 yards (tackle by Brandon Williams and Zach Orr),-0.340,-0.760
+2,13:24,3,12,CLE 25,2,20,Josh McCown pass complete short right to Terrelle Pryor for 16 yards (tackle by Jimmy Smith),-0.760,1.660
+2,12:41,1,10,CLE 41,2,20,Josh McCown pass complete short right to Isaiah Crowell for 15 yards (tackle by Lardarius Webb),1.660,2.650
+2,12:01,1,10,BAL 44,2,20,Isaiah Crowell for 3 yards,2.650,2.520
+2,11:18,2,7,BAL 41,2,20,Josh McCown pass incomplete short right intended for Corey Coleman,2.520,1.820
+2,11:18,3,7,BAL 41,2,20,"Penalty on C.J. Mosley: Neutral Zone Infraction, 5 yards (no play)",1.820,2.480
+2,11:14,3,2,BAL 36,2,20,Josh McCown right tackle for no gain (tackle by C.J. Mosley and Zach Orr),2.480,2.480
+2,10:40,3,2,BAL 36,2,20,Timeout #2 by Cleveland Browns,2.480,0.890
+2,10:40,4,2,BAL 36,2,20,"Penalty on Cameron Erving: False Start, 5 yards (no play)",0.890,0.530
+2,10:40,4,7,BAL 41,2,20,Britton Colquitt punts 38 yards,0.530,0.380
+2,10:31,1,10,BAL 3,2,20,Joe Flacco pass complete short right to Justin Forsett for 6 yards (tackle by Christian Kirksey),-0.380,-0.340
+2,9:58,2,4,BAL 9,2,20,Joe Flacco pass incomplete deep right intended for Mike Wallace,-0.340,-0.720
+2,9:54,3,4,BAL 9,2,20,Joe Flacco pass complete short middle to Dennis Pitta for 13 yards (tackle by Derrick Kindred),-0.720,0.410
+2,9:20,1,10,BAL 22,2,20,Joe Flacco pass complete short left to Dennis Pitta for 4 yards (tackle by Corey Lemonier),0.410,0.410
+2,8:42,2,6,BAL 26,2,20,Justin Forsett right tackle for 7 yards (tackle by Derrick Kindred),0.410,1.140
+2,8:06,1,10,BAL 33,2,20,Joe Flacco pass incomplete short left intended for Dennis Pitta,1.140,0.590
+2,8:02,2,10,BAL 33,2,20,Joe Flacco pass complete short left to Dennis Pitta for 3 yards (tackle by Tramon Williams),0.590,0.300
+2,7:28,3,7,BAL 36,2,20,Joe Flacco pass incomplete short middle intended for Dennis Pitta (defended by Derrick Kindred),0.300,-0.980
+2,7:23,4,7,BAL 36,2,20,"Sam Koch punts 52 yards, muffed catch by Tramon Williams, recovered by Tramon Williams and returned for no gain",-0.980,0.380
+2,7:14,1,10,CLE 10,2,20,Isaiah Crowell right guard for 4 yards (tackle by Zach Orr),-0.380,-0.460
+2,6:33,2,6,CLE 14,2,20,Josh McCown pass complete short left to Corey Coleman for 4 yards (tackle by Za'Darius Smith),-0.460,-0.480
+2,5:50,3,2,CLE 18,2,20,Josh McCown pass complete short right to Andrew Hawkins for 4 yards (tackle by Jimmy Smith),-0.480,0.410
+2,5:18,1,10,CLE 22,2,20,Isaiah Crowell left tackle for 5 yards (tackle by Matt Judon),0.410,0.540
+2,4:49,2,5,CLE 27,2,20,Josh McCown sacked by Brent Urban for -7 yards,0.540,-1.090
+2,4:01,3,12,CLE 20,2,20,Duke Johnson left guard for 8 yards (tackle by Eric Weddle),-1.090,-1.500
+2,3:22,4,4,CLE 28,2,20,"Britton Colquitt punts 47 yards, fair catch by Devin Hester",-1.500,-0.610
+2,3:14,1,10,BAL 25,2,20,Justin Forsett right guard for 5 yards (tackle by Jamar Taylor),0.610,0.740
+2,2:51,2,5,BAL 30,2,20,Joe Flacco pass incomplete deep right intended for Breshad Perriman (defended by Joe Haden),0.740,0.040
+2,2:44,3,5,BAL 30,2,20,Joe Flacco pass complete short left to Dennis Pitta for 30 yards (tackle by Derrick Kindred),0.040,2.920
+2,2:05,1,10,CLE 40,2,20,"Joe Flacco pass complete short middle to Crockett Gillmore for 22 yards (tackle by Jordan Poyer). Penalty on Stephen Paea: Roughing the Passer, 9 yards",2.920,5.140
+2,2:00,1,9,CLE 9,2,20,Justin Forsett left tackle for 2 yards (tackle by Joe Schobert),5.140,4.760
+2,1:19,2,7,CLE 7,8,20,"Joe Flacco pass complete short right to Mike Wallace for 7 yards, touchdown",4.760,7.000
+2,1:19,,,CLE 7,9,20,Justin Tucker kicks extra point good,0.000,0.000
+2,1:19,,,BAL 35,9,20,"Justin Tucker kicks off 64 yards, returned by Duke Johnson for 19 yards (tackle by Kendrick Lewis)",0.000,-0.280
+2,1:10,1,10,CLE 20,9,20,Josh McCown pass complete short right to Gary Barnidge for 10 yards (tackle by Zach Orr),0.280,0.940
+2,0:49,1,10,CLE 30,9,20,Josh McCown pass incomplete deep left intended for Rashard Higgins is intercepted by Eric Weddle at BAL-39,0.940,-1.530
+2,0:42,1,10,BAL 39,9,20,Joe Flacco pass incomplete short right intended for Steve Smith (defended by Joe Haden),1.530,0.990
+2,0:37,2,10,BAL 39,9,20,Joe Flacco pass complete short left to Dennis Pitta for 5 yards (tackle by Tramon Williams and Demario Davis),0.990,0.990
+2,0:29,2,10,BAL 39,9,20,Timeout #1 by Baltimore Ravens,0.990,0.960
+2,0:29,3,5,BAL 44,9,20,Joe Flacco pass complete short right to Kyle Juszczyk for 8 yards (tackle by Demario Davis),0.960,0.960
+2,0:23,3,5,BAL 44,9,20,Timeout #2 by Baltimore Ravens,0.960,2.390
+2,0:23,1,10,CLE 48,9,20,Joe Flacco pass incomplete deep left intended for Mike Wallace,2.390,1.850
+2,0:16,2,10,CLE 48,9,20,Joe Flacco pass complete short right to Steve Smith for 14 yards (tackle by Joe Haden and Jordan Poyer),1.850,1.850
+2,0:10,2,10,CLE 48,9,20,Timeout #3 by Baltimore Ravens,1.850,3.310
+2,0:10,1,10,CLE 34,9,20,Joe Flacco pass incomplete short right intended for Steve Smith,3.310,2.770
+2,0:05,2,10,CLE 34,12,20,Justin Tucker 52 yard field goal good,2.770,3.000
+Quarter,Time,Down,ToGo,Location,BAL,CLE,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,CLE 35,12,20,"Patrick Murray kicks off 72 yards, returned by Devin Hester for 32 yards (tackle by Tyrone Holmes)",0.000,0.610
+3,14:56,1,10,BAL 25,12,20,Terrance West left tackle for 5 yards (tackle by Demario Davis),0.610,0.740
+3,14:18,2,5,BAL 30,12,20,Joe Flacco pass incomplete short right intended for Dennis Pitta,0.740,0.040
+3,14:14,3,5,BAL 30,12,20,Joe Flacco pass complete deep right to Steve Smith for 19 yards (tackle by Tramon Williams),0.040,2.190
+3,13:36,1,10,BAL 49,12,20,Joe Flacco pass complete deep right to Steve Smith for 31 yards (tackle by Joe Haden),2.190,4.240
+3,13:00,1,10,CLE 20,12,20,Terrance West right tackle for 3 yards (tackle by Danny Shelton and Demario Davis),4.240,4.120
+3,12:22,2,7,CLE 17,18,20,"Joe Flacco pass complete deep left to Mike Wallace for 17 yards, touchdown",4.120,7.000
+3,12:22,,,CLE 17,19,20,Justin Tucker kicks extra point good,0.000,0.000
+3,12:22,,,BAL 35,19,20,"Justin Tucker kicks off 60 yards, returned by George Atkinson for 13 yards (tackle by Kendrick Lewis). George Atkinson fumbles, recovered by Ricardo Louis at CLE-20 and returned for 3 yards (tackle by Anthony Levine). Penalty on Don Jones: Offensive Holding, 10 yards",0.000,0.370
+3,12:10,1,10,CLE 11,19,20,Josh McCown pass incomplete deep right intended for Terrelle Pryor,-0.370,-0.780
+3,12:04,2,10,CLE 11,19,20,Isaiah Crowell right end for -1 yards (tackle by C.J. Mosley),-0.780,-1.540
+3,11:23,3,11,CLE 10,19,20,Josh McCown pass complete short right to Duke Johnson for 12 yards (tackle by Timmy Jernigan),-1.540,0.410
+3,10:50,1,10,CLE 22,19,20,Josh McCown pass incomplete deep right intended for Terrelle Pryor,0.410,-0.130
+3,10:44,2,10,CLE 22,19,20,Isaiah Crowell left guard for 1 yard (tackle by Timmy Jernigan and Zach Orr),-0.130,-0.690
+3,9:59,3,9,CLE 23,19,20,Josh McCown sacked by Timmy Jernigan for -5 yards,-0.690,-2.240
+3,9:20,4,14,CLE 18,19,20,"Britton Colquitt punts 52 yards, returned by Devin Hester for 15 yards",-2.240,-1.930
+3,9:10,1,10,BAL 45,19,20,Justin Forsett left guard for 1 yard (tackle by Danny Shelton and Emmanuel Ogbah),1.930,1.520
+3,8:28,2,9,BAL 46,19,20,Joe Flacco pass incomplete short middle intended for Justin Forsett,1.520,1.520
+3,8:22,2,9,BAL 46,19,20,Timeout #1 by Baltimore Ravens,1.520,0.830
+3,8:22,3,9,BAL 46,19,20,Joe Flacco pass complete deep middle to Breshad Perriman for 20 yards (tackle by Derrick Kindred),0.830,3.310
+,,,,,,,"CLE challenged the pass completion ruling, and the play was upheld.",,
+3,7:47,1,10,CLE 34,19,20,"Joe Flacco pass incomplete deep right intended for Steve Smith. Penalty on Joe Haden: Illegal Contact, 5 yards (no play)",3.310,3.640
+3,7:42,1,10,CLE 29,19,20,Joe Flacco pass incomplete deep right intended for Breshad Perriman is intercepted by Joe Haden at CLE--2,3.640,-0.280
+3,7:35,1,10,CLE 20,19,20,Josh McCown pass incomplete short right intended for Terrelle Pryor,0.280,-0.270
+3,7:29,2,10,CLE 20,19,20,Isaiah Crowell left end for 15 yards (tackle by Lardarius Webb),-0.270,-0.270
+3,6:50,2,10,CLE 20,19,20,Timeout #2 by Cleveland Browns,-0.270,1.270
+3,6:50,1,10,CLE 35,19,20,Josh McCown pass incomplete deep right intended for Corey Coleman. Penalty on Corey Coleman: Illegal Touch Pass,1.270,0.720
+,,,,,,,"BAL challenged the runner was in bounds ruling, and the original play was overturned.",,
+3,6:18,2,10,CLE 35,19,20,Josh McCown pass incomplete deep left intended for Gary Barnidge,0.720,0.040
+3,6:12,3,10,CLE 35,19,20,Josh McCown pass incomplete deep left intended for Terrelle Pryor,0.040,-1.040
+3,6:07,4,10,CLE 35,19,20,"Britton Colquitt punts 48 yards, fair catch by Devin Hester",-1.040,0.060
+3,6:00,1,10,BAL 17,19,20,Terrance West left guard for 4 yards (tackle by Danny Shelton),-0.060,0.080
+3,5:20,2,6,BAL 21,19,20,Terrance West right tackle for 3 yards (tackle by Danny Shelton),0.080,-0.370
+3,4:35,3,3,BAL 24,19,20,Joe Flacco pass complete short left to Dennis Pitta for 9 yards (tackle by Tank Carder),-0.370,1.140
+3,4:05,1,10,BAL 33,19,20,"Terrance West left guard for 2 yards (tackle by Nate Orchard). Penalty on BAL: Illegal Shift, 5 yards (no play)",1.140,0.810
+3,3:43,1,15,BAL 28,19,20,"Joe Flacco pass complete short right to Mike Wallace for 4 yards (tackle by Tank Carder). Penalty on Ricky Wagner: Chop Block, 14 yards (no play)",0.810,-0.710
+3,3:18,1,29,BAL 14,19,20,Joe Flacco pass complete short left to Justin Forsett for -5 yards (tackle by Demario Davis),-0.710,-2.530
+3,2:31,2,34,BAL 9,19,20,Joe Flacco pass complete short left to Breshad Perriman for 12 yards (tackle by Jamar Taylor),-2.530,-1.680
+3,1:48,3,22,BAL 21,19,20,Joe Flacco pass incomplete deep left intended for Breshad Perriman (defended by Jordan Poyer),-1.680,-1.960
+3,1:42,4,22,BAL 21,19,20,"Sam Koch punts 60 yards, returned by Joe Haden for 13 yards (tackle by Zach Orr)",-1.960,-1.070
+3,1:32,1,10,CLE 32,19,20,Isaiah Crowell right guard for 3 yards (tackle by Zach Orr),1.070,0.930
+3,0:52,2,7,CLE 35,19,20,Isaiah Crowell right guard for 2 yards (tackle by Eric Weddle),0.930,0.500
+3,0:10,3,5,CLE 37,19,20,Josh McCown pass complete deep middle to Corey Coleman for 47 yards (tackle by Shareece Wright),0.500,4.510
+Quarter,Time,Down,ToGo,Location,BAL,CLE,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,BAL 16,19,20,Isaiah Crowell right guard for -5 yards (tackle by Lawrence Guy),4.510,3.280
+4,14:32,2,15,BAL 21,19,20,"Isaiah Crowell right tackle for 2 yards (tackle by Timmy Jernigan). Penalty on Corey Coleman: Unsportsmanlike Conduct, 15 yards",3.280,0.890
+4,14:04,3,28,BAL 34,19,20,Josh McCown pass incomplete deep right intended for Terrelle Pryor,0.890,1.060
+4,13:58,4,28,BAL 34,19,20,Patrick Murray 52 yard field goal no good,1.060,-1.730
+4,13:54,1,10,BAL 42,19,20,Joe Flacco pass complete short middle to Dennis Pitta for 28 yards (tackle by Jordan Poyer and Christian Kirksey),1.730,3.580
+4,13:19,1,10,CLE 30,19,20,Justin Forsett right guard for 2 yards (tackle by Emmanuel Ogbah),3.580,3.300
+4,12:39,2,8,CLE 28,19,20,Justin Forsett right tackle for 2 yards (tackle by Demario Davis and Nate Orchard),3.300,2.870
+4,11:56,3,6,CLE 26,19,20,"Joe Flacco pass complete deep left to Chris Moore for 25 yards (tackle by Tramon Williams). Penalty on Dennis Pitta: Illegal Shift, 5 yards (no play)",2.870,2.210
+4,11:28,3,11,CLE 31,19,20,Joe Flacco pass incomplete short middle intended for Crockett Gillmore (defended by Derrick Kindred),2.210,1.320
+4,11:23,4,11,CLE 31,22,20,Justin Tucker 49 yard field goal good,1.320,3.000
+4,11:23,,,BAL 35,22,20,"Justin Tucker kicks off 65 yards, touchback",0.000,-0.610
+4,11:19,1,10,CLE 25,22,20,Isaiah Crowell left tackle for 4 yards (tackle by Eric Weddle),0.610,0.600
+4,10:42,2,6,CLE 29,22,20,Josh McCown pass complete short middle to Terrelle Pryor for 15 yards (tackle by Lardarius Webb),0.600,1.860
+4,10:09,1,10,CLE 44,22,20,Isaiah Crowell right guard for -3 yards (tackle by Terrell Suggs and Lawrence Guy),1.860,0.910
+4,9:33,2,13,CLE 41,22,20,Josh McCown sacked by Michael Pierce for -6 yards,0.910,-0.560
+4,8:50,3,19,CLE 35,22,20,"Josh McCown pass complete deep right to Rashard Higgins for 25 yards (tackle by Lardarius Webb). Penalty on Cameron Erving: Ineligible Downfield Pass, 5 yards (no play)",-0.560,-1.220
+4,8:15,3,24,CLE 30,22,20,Josh McCown pass incomplete short right intended for Duke Johnson,-1.220,-1.370
+4,8:11,4,24,CLE 30,22,20,"Britton Colquitt punts 41 yards, returned by Devin Hester for 7 yards (tackle by Jordan Poyer)",-1.370,-1.330
+4,8:01,1,10,BAL 36,22,20,Terrance West right tackle for no gain (tackle by Christian Kirksey and Danny Shelton),1.330,0.790
+4,7:28,2,10,BAL 36,22,20,Joe Flacco pass complete short left to Terrance West for 15 yards (tackle by Jordan Poyer),0.790,2.320
+4,6:59,1,10,CLE 49,22,20,Terrance West right tackle for 6 yards (tackle by Joe Haden),2.320,2.590
+4,6:22,2,4,CLE 43,22,20,Justin Forsett left tackle for 1 yard (tackle by Nate Orchard),2.590,2.590
+4,5:41,2,4,CLE 43,22,20,Timeout #2 by Baltimore Ravens,2.590,2.020
+4,5:41,3,3,CLE 42,22,20,Joe Flacco pass complete short right to Dennis Pitta for 4 yards (tackle by Derrick Kindred),2.020,3.050
+4,5:01,1,10,CLE 38,22,20,Terrance West right tackle for 3 yards (tackle by Danny Shelton and Jordan Poyer),3.050,2.910
+4,4:27,2,7,CLE 35,22,20,Terrance West left tackle for 9 yards (tackle by Stephen Paea),2.910,3.840
+4,3:48,1,10,CLE 26,22,20,Justin Forsett right tackle for -1 yards (tackle by Nate Orchard and Demario Davis),3.840,3.160
+4,3:06,2,11,CLE 27,22,20,Justin Forsett left end for 4 yards (tackle by Christian Kirksey),3.160,3.160
+4,3:00,2,11,CLE 27,22,20,Timeout #3 by Baltimore Ravens,3.160,3.010
+4,3:00,3,7,CLE 23,22,20,Joe Flacco pass incomplete short right intended for Justin Forsett,3.010,1.930
+4,2:57,4,7,CLE 23,25,20,Justin Tucker 41 yard field goal good,1.930,3.000
+4,2:57,,,BAL 35,25,20,"Justin Tucker kicks off 65 yards, touchback",0.000,-0.610
+4,2:53,1,10,CLE 25,25,20,Josh McCown pass complete short right to Duke Johnson for 5 yards (tackle by Lardarius Webb),0.610,0.740
+4,2:27,2,5,CLE 30,25,20,Josh McCown pass complete short middle to Gary Barnidge for 6 yards (tackle by Zach Orr),0.740,1.330
+4,2:00,1,10,CLE 36,25,20,Josh McCown pass complete short left to Andrew Hawkins for 16 yards (tackle by Eric Weddle),1.330,2.390
+4,1:31,1,10,BAL 48,25,20,Josh McCown pass complete short right to Terrelle Pryor for 1 yard (tackle by Tavon Young),2.390,1.980
+4,1:04,2,9,BAL 47,25,20,Josh McCown pass complete short right to Duke Johnson for -1 yards (tackle by Timmy Jernigan),1.980,1.980
+4,0:55,2,9,BAL 47,25,20,Timeout #3 by Cleveland Browns,1.980,1.160
+4,0:55,3,10,BAL 48,25,20,Josh McCown pass complete short left to Gary Barnidge for 7 yards (tackle by Tavon Young),1.160,0.530
+4,0:34,4,3,BAL 41,25,20,Josh McCown pass complete short right to Corey Coleman for 11 yards (tackle by Lardarius Webb),0.530,3.580
+4,0:27,1,10,BAL 30,25,20,"Josh McCown pass complete deep right to Terrelle Pryor for 20 yards (tackle by Lardarius Webb). Penalty on Lardarius Webb: Defensive Holding (Offsetting), Penalty on Terrelle Pryor: Taunting (Offsetting) (no play)",3.580,3.580
+4,0:20,1,10,BAL 30,25,20,Josh McCown pass incomplete deep middle intended for Terrelle Pryor is intercepted by C.J. Mosley at BAL-1,3.580,0.380
+4,0:13,1,10,BAL 1,25,20,Joe Flacco right guard for 1 yard (tackle by Jamie Meder),-0.380,-0.710
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

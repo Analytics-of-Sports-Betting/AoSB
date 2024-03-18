@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,MIN 23,5,3:36,17,Punt
+2,1,9:19,MIN 16,6,3:29,25,Punt
+3,2,14:11,MIN 22,4,2:45,9,Punt
+4,2,8:02,MIN 10,4,2:13,21,Punt
+5,2,0:06,MIN 18,1,0:06,-1,End of Half
+6,3,11:06,MIN 17,6,3:22,22,Punt
+7,3,6:12,MIN 28,7,4:11,32,Downs
+8,4,13:22,MIN 25,8,4:16,74,Downs
+9,4,8:08,SEA 41,7,2:30,12,Missed FG
+10,4,2:53,MIN 25,2,0:18,0,Fumble
+11,4,2:35,MIN 30,6,1:25,70,Touchdown

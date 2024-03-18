@@ -1,0 +1,182 @@
+Quarter,Time,Down,ToGo,Location,HOU,DEN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Broncos won the coin toss and deferred, Texans to receive the opening kickoff.",,
+1,15:00,,,DEN 35,0,0,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,HOU 25,0,0,Lamar Miller left guard for 9 yards (tackle by Todd Davis),0.610,1.280
+1,14:32,2,1,HOU 34,0,0,Alfred Blue left tackle for no gain (tackle by Derek Wolfe),1.280,0.560
+1,13:52,3,1,HOU 34,0,0,Alfred Blue left end for 2 yards (tackle by Todd Davis),0.560,1.330
+1,13:17,1,10,HOU 36,0,0,Deshaun Watson pass complete short right to Demaryius Thomas for 31 yards (tackle by Justin Simmons),1.330,3.380
+1,12:50,1,10,DEN 33,0,0,Deshaun Watson pass complete deep middle to Demaryius Thomas for 18 yards (tackle by Tramaine Brock),3.380,4.580
+1,12:16,1,10,DEN 15,0,0,Lamar Miller left tackle for 2 yards (tackle by Zach Kerr and DeMarcus Walker),4.580,4.280
+1,11:42,2,8,DEN 13,0,0,Deshaun Watson up the middle for 6 yards (tackle by Todd Davis),4.280,4.680
+1,10:59,3,2,DEN 7,6,0,"Deshaun Watson pass complete short left to Jordan Thomas for 7 yards, touchdown",4.680,7.000
+1,10:53,,,DEN 15,7,0,Ka'imi Fairbairn kicks extra point good,0.000,0.000
+1,10:53,,,HOU 35,7,0,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.000,0.610
+1,10:53,1,10,DEN 25,7,0,Phillip Lindsay left tackle for -1 yards (tackle by Brandon Dunn),0.610,-0.070
+1,10:20,2,11,DEN 24,7,0,Phillip Lindsay up the middle for 2 yards (tackle by Brian Peters),-0.070,-0.490
+1,9:43,3,9,DEN 26,7,0,Case Keenum pass incomplete short right intended for Tim Patrick (defended by Duke Ejiofor),-0.490,-1.630
+1,9:39,4,9,DEN 26,7,0,"Colby Wadman punts 59 yards, returned by Tyler Ervin for 16 yards (tackle by Isaac Yiadom)",-1.630,-1.000
+1,9:27,1,10,HOU 31,7,0,Lamar Miller up the middle for no gain (tackle by Adam Gotsis),1.000,0.460
+1,8:47,2,10,HOU 31,7,0,Deshaun Watson pass incomplete short right intended for Jordan Akins,0.460,-0.230
+1,8:37,3,10,HOU 31,7,0,Deshaun Watson sacked by Derek Wolfe for -9 yards,-0.230,-1.900
+1,8:02,4,19,HOU 22,7,0,"Trevor Daniel punts 43 yards, returned by Adam Jones for no gain (tackle by Brennan Scarlett). Penalty on A.J. Moore: Face Mask (15 Yards), 15 yards",-1.900,-2.190
+1,7:54,1,10,DEN 49,7,0,Case Keenum pass incomplete short right,2.190,1.650
+1,7:48,2,10,DEN 49,7,0,Phillip Lindsay left guard for 2 yards (tackle by Kareem Jackson),1.650,1.220
+1,7:08,3,8,HOU 49,7,0,Case Keenum pass complete short middle to Courtland Sutton for 21 yards (tackle by Natrell Jamerson),1.220,3.710
+1,6:35,1,10,HOU 28,7,0,"Phillip Lindsay left tackle for 1 yard (tackle by D.J. Reader). Penalty on Courtland Sutton: Illegal Block Above the Waist, 10 yards",3.710,3.120
+1,6:05,1,19,HOU 37,7,0,Case Keenum pass incomplete deep right intended for Courtland Sutton (defended by Shareece Wright),3.120,1.950
+1,5:59,2,19,HOU 37,7,0,Phillip Lindsay left end for 2 yards (tackle by Kareem Jackson),1.950,1.550
+1,5:21,3,17,HOU 35,7,0,Case Keenum pass complete short left to Andy Janovich for 9 yards (tackle by Benardrick McKinney),1.550,1.740
+1,4:47,4,8,HOU 26,7,3,Brandon McManus 44 yard field goal good,1.740,3.000
+1,4:42,,,DEN 35,7,3,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+1,4:42,1,10,HOU 25,7,3,Deshaun Watson pass complete short right to Demaryius Thomas for 12 yards,0.610,1.400
+1,4:14,1,10,HOU 37,7,3,Alfred Blue up the middle for 2 yards (tackle by Adam Gotsis),1.400,1.130
+1,3:36,2,8,HOU 39,7,3,Deshaun Watson pass complete short right to DeAndre Hopkins for 15 yards (tackle by Will Parks),1.130,2.520
+1,3:06,1,10,DEN 46,7,3,Deshaun Watson pass incomplete short right intended for Jordan Akins,2.520,1.980
+1,3:02,2,10,DEN 46,7,3,"Alfred Blue left tackle for 3 yards (tackle by Shelby Harris). Penalty on Domata Peko: Defensive Holding, 5 yards",1.980,3.050
+1,2:32,1,10,DEN 38,7,3,Deshaun Watson left end for 7 yards (tackle by Will Parks),3.050,3.450
+1,1:48,2,3,DEN 31,7,3,Alfred Blue left tackle for 3 yards (tackle by Bradley Chubb),3.450,3.710
+1,1:05,1,10,DEN 28,7,3,"Alfred Blue right tackle for 4 yards (tackle by DeMarcus Walker). Penalty on Zach Fulton: Offensive Holding, 10 yards",3.710,3.310
+1,0:40,1,16,DEN 34,7,3,Deshaun Watson pass complete short left to DeAndre Hopkins for 5 yards (tackle by Adam Gotsis),3.310,3.030
+Quarter,Time,Down,ToGo,Location,HOU,DEN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,11,DEN 29,7,3,Alfred Blue up the middle for 2 yards (tackle by Todd Davis),3.030,2.610
+2,14:19,3,9,DEN 27,7,3,Deshaun Watson left end for 8 yards (tackle by Todd Davis),2.610,2.340
+2,13:41,4,1,DEN 19,7,3,Alfred Blue up the middle for -1 yards (tackle by Bradley Chubb),2.340,-0.280
+2,13:37,1,10,DEN 20,7,3,"Penalty on Jared Veldheer: False Start, 5 yards (no play)",0.280,-0.310
+2,13:37,1,15,DEN 15,7,3,Case Keenum pass complete short left to Emmanuel Sanders for 2 yards (tackle by Kareem Jackson),-0.310,-0.790
+2,12:55,2,13,DEN 17,7,3,"Penalty on Whitney Mercilus: Neutral Zone Infraction, 5 yards (no play)",-0.790,0.000
+2,12:33,2,8,DEN 22,7,3,"Case Keenum pass complete short left to Devontae Booker for 1 yard (tackle by Brandon Dunn). Devontae Booker fumbles (forced by Brandon Dunn), recovered by Justin Reid at DEN-23 and returned for 1 yard (tackle by Jeff Heuerman)",0.000,-4.110
+2,12:24,1,10,DEN 22,7,3,Lamar Miller up the middle for -3 yards (tackle by Will Parks and Su'a Cravens),4.110,3.160
+2,11:46,2,13,DEN 25,7,3,Deshaun Watson pass complete short right to DeAndre Hopkins for 9 yards,3.160,3.740
+2,11:10,3,4,DEN 16,13,3,"Deshaun Watson pass complete deep right to DeAndre Hopkins for 16 yards, touchdown",3.740,7.000
+2,11:05,,,DEN 15,13,3,Ka'imi Fairbairn kicks extra point no good wide right,0.000,-1.000
+2,11:05,,,HOU 35,13,3,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.000,0.610
+2,11:05,1,10,DEN 25,13,3,Phillip Lindsay up the middle for 6 yards (tackle by Benardrick McKinney),0.610,0.870
+2,10:24,2,4,DEN 31,13,3,Phillip Lindsay up the middle for 2 yards (tackle by Tyrann Mathieu),0.870,0.430
+2,9:47,3,2,DEN 33,13,3,Case Keenum pass incomplete short right intended for Jeff Heuerman,0.430,-1.180
+2,9:43,4,2,DEN 33,13,3,Colby Wadman punts 37 yards out of bounds,-1.180,-0.940
+2,9:35,1,10,HOU 30,13,3,Lamar Miller right tackle for -2 yards (tackle by Bradley Chubb),0.940,0.120
+2,9:00,2,12,HOU 28,13,3,Deshaun Watson pass incomplete short right intended for DeAndre Hopkins,0.120,-0.560
+2,8:56,3,12,HOU 28,13,3,Deshaun Watson pass complete short right to Lamar Miller for 11 yards (tackle by Su'a Cravens),-0.560,-0.780
+2,8:14,4,1,HOU 39,13,3,"Trevor Daniel punts 53 yards, returned by River Cracraft for 5 yards (tackle by A.J. Moore)",-0.780,0.320
+2,8:03,1,10,DEN 13,13,3,Case Keenum pass complete short right to Matt LaCosse for 44 yards (tackle by Tyrann Mathieu),-0.320,2.720
+2,7:28,1,10,HOU 43,13,3,Case Keenum pass complete short left to Jeff Heuerman for 14 yards (tackle by Justin Reid),2.720,3.640
+2,6:39,1,10,HOU 29,13,3,"Case Keenum pass complete short right to Emmanuel Sanders for 9 yards (tackle by Shareece Wright). Penalty on Jadeveon Clowney: Defensive Offside, 5 yards (no play)",3.640,4.370
+2,6:18,1,5,HOU 24,13,3,Case Keenum pass complete short right to Jeff Heuerman for 10 yards (tackle by Benardrick McKinney),4.370,4.650
+2,5:39,1,10,HOU 14,13,9,"Devontae Booker right end for 14 yards, touchdown",4.650,7.000
+2,5:33,,,HOU 15,13,10,Brandon McManus kicks extra point good,0.000,0.000
+2,5:33,,,DEN 35,13,10,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+2,5:33,1,10,HOU 25,13,10,Deshaun Watson right end for 4 yards (tackle by Bradley Chubb),0.610,0.600
+2,5:02,2,6,HOU 29,13,10,Lamar Miller up the middle for 5 yards (tackle by Bradley Chubb and Todd Davis),0.600,0.560
+2,4:22,3,1,HOU 34,13,10,Deshaun Watson pass complete short left to DeAndre Hopkins for 4 yards (tackle by Chris Harris),0.560,1.470
+2,3:50,1,10,HOU 38,13,10,Alfred Blue up the middle for 7 yards (tackle by Todd Davis),1.470,1.870
+2,3:16,2,3,HOU 45,13,10,Alfred Blue left end for -1 yards (tackle by Josey Jewell),1.870,1.020
+2,2:34,3,4,HOU 44,13,10,Deshaun Watson sacked by DeMarcus Walker for -6 yards,1.020,-0.850
+2,2:00,4,10,HOU 38,13,10,"Trevor Daniel punts 52 yards, returned by Adam Jones for no gain (tackle by Josh Keyes). Penalty on Shamarko Thomas: Illegal Blindside Block, 5 yards",-0.850,0.380
+2,1:42,1,10,DEN 5,13,10,Case Keenum pass complete short right to Jeff Heuerman for 14 yards (tackle by Benardrick McKinney),-0.380,0.150
+2,1:34,1,10,DEN 19,13,10,Case Keenum pass complete short left to Emmanuel Sanders for 9 yards (tackle by Justin Reid),0.150,0.880
+2,1:14,2,1,DEN 28,13,10,Devontae Booker up the middle for no gain (tackle by J.J. Watt),0.880,0.100
+2,1:10,,,,,,Timeout #1 by Houston Texans,,
+2,1:10,3,1,DEN 28,13,10,Phillip Lindsay right guard for 4 yards (tackle by Michael Tyson),0.100,1.070
+2,0:51,1,10,DEN 32,13,10,"Case Keenum pass complete short middle to Emmanuel Sanders for 8 yards (tackle by Tyrann Mathieu). Penalty on Tyrann Mathieu: Unnecessary Roughness, 15 yards",1.070,2.590
+2,0:47,1,10,HOU 45,13,10,Case Keenum pass incomplete short middle intended for Devontae Booker,2.590,2.040
+2,0:43,,,,,,Timeout #2 by Denver Broncos,,
+2,0:43,2,10,HOU 45,13,10,Case Keenum pass complete short left to Emmanuel Sanders for 1 yard (tackle by Kareem Jackson),2.040,1.490
+2,0:27,3,9,HOU 44,13,10,Case Keenum pass incomplete short middle intended for Devontae Booker,1.490,0.330
+2,0:22,4,9,HOU 44,13,10,Brandon McManus 62 yard field goal no good,0.330,-2.390
+2,0:18,1,10,DEN 48,13,10,Deshaun Watson pass complete short left to Ryan Griffin for 13 yards (tackle by Chris Harris),2.390,3.250
+2,0:11,,,,,,Timeout #2 by Houston Texans,,
+2,0:11,1,10,DEN 35,13,10,Deshaun Watson pass complete short middle to DeAndre Hopkins for 7 yards (tackle by Josey Jewell),3.250,3.650
+2,0:03,,,,,,Timeout #3 by Houston Texans,,
+2,0:03,,,,,,Timeout #3 by Denver Broncos,,
+2,0:03,2,3,DEN 28,16,10,Ka'imi Fairbairn 46 yard field goal good,3.650,3.000
+Quarter,Time,Down,ToGo,Location,HOU,DEN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,HOU 35,16,10,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,DEN 25,16,10,Phillip Lindsay up the middle for no gain (tackle by Angelo Blackson),0.610,0.060
+3,14:22,2,10,DEN 25,16,10,Case Keenum pass complete short right to Jeff Heuerman for 8 yards (tackle by Shareece Wright),0.060,0.430
+3,13:37,3,2,DEN 33,16,10,Case Keenum pass incomplete short left intended for Courtland Sutton (defended by Kareem Jackson),0.430,-1.180
+3,13:33,4,2,DEN 33,16,10,"Colby Wadman punts 44 yards, returned by Tyler Ervin for no gain (tackle by Brian Parker)",-1.180,-0.480
+3,13:22,1,10,HOU 23,16,10,Lamar Miller up the middle for -1 yards (tackle by Von Miller and Will Parks),0.480,-0.200
+3,12:51,2,11,HOU 22,16,10,Deshaun Watson pass incomplete deep right intended for Ryan Griffin,-0.200,-0.890
+3,12:44,3,11,HOU 22,16,10,Deshaun Watson up the middle for 8 yards (tackle by Derek Wolfe),-0.890,-1.370
+3,12:06,4,3,HOU 30,16,10,"Trevor Daniel punts 48 yards, returned by Adam Jones for -3 yards (tackle by A.J. Moore)",-1.370,-0.150
+3,11:57,1,10,DEN 19,16,10,Case Keenum pass complete short right to Jeff Heuerman for 4 yards (tackle by Tyrann Mathieu),0.150,0.210
+3,11:19,2,6,DEN 23,16,10,Case Keenum pass complete short right to Courtland Sutton for 22 yards (tackle by Michael Tyson),0.210,1.930
+3,10:52,1,10,DEN 45,16,10,Case Keenum pass incomplete short left intended for Phillip Lindsay (defended by Kareem Jackson),1.930,1.380
+3,10:46,2,10,DEN 45,16,10,Case Keenum pass incomplete deep right intended for Emmanuel Sanders,1.380,0.700
+3,10:40,3,10,DEN 45,16,10,Case Keenum pass complete short right to Courtland Sutton for 14 yards (tackle by Whitney Mercilus),0.700,2.850
+3,9:55,1,10,HOU 41,16,10,Phillip Lindsay up the middle for 11 yards (tackle by Benardrick McKinney and Justin Reid),2.850,3.580
+3,9:17,1,10,HOU 30,16,10,"Penalty on Garett Bolles: False Start, 5 yards (no play)",3.580,3.250
+3,8:53,1,15,HOU 35,16,10,Case Keenum pass complete short left to Phillip Lindsay for 12 yards (tackle by Justin Reid),3.250,3.980
+3,8:19,2,3,HOU 23,16,10,Phillip Lindsay up the middle for 3 yards (tackle by Brandon Dunn),3.980,4.240
+3,7:34,1,10,HOU 20,16,10,Case Keenum pass complete short middle to Phillip Lindsay for 12 yards (tackle by Benardrick McKinney and Brandon Dunn),4.240,5.370
+3,6:52,1,8,HOU 8,16,10,Case Keenum pass incomplete short right,5.370,4.570
+3,6:46,2,8,HOU 8,16,10,Phillip Lindsay right end for -4 yards (tackle by Whitney Mercilus),4.570,3.100
+3,6:03,3,12,HOU 12,16,16,"Case Keenum pass complete short middle to Jeff Heuerman for 12 yards, touchdown",3.100,7.000
+3,5:57,,,HOU 15,16,17,Brandon McManus kicks extra point good,0.000,0.000
+3,5:57,,,DEN 35,16,17,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+3,5:57,1,10,HOU 25,16,17,Alfred Blue right guard for 5 yards (tackle by Josey Jewell),0.610,0.740
+3,5:24,2,5,HOU 30,16,17,Deshaun Watson pass complete short right to DeAndre Hopkins for 15 yards (tackle by Tramaine Brock),0.740,1.930
+3,4:53,1,10,HOU 45,16,17,Deshaun Watson pass complete short right to DeAndre Hopkins for 9 yards (tackle by Chris Harris),1.930,2.600
+3,4:21,2,1,DEN 46,16,17,Alfred Blue up the middle for 5 yards (tackle by Zach Kerr),2.600,2.850
+3,3:59,1,10,DEN 41,16,17,Lamar Miller right guard for 2 yards (tackle by Todd Davis),2.850,2.580
+3,3:23,2,8,DEN 39,16,17,Deshaun Watson sacked by Von Miller for -3 yards,2.580,1.490
+3,2:36,,,,,,Timeout #1 by Houston Texans,,
+3,2:36,3,11,DEN 42,16,17,"Deshaun Watson left end for 5 yards (tackle by Shaquil Barrett). Penalty on Su'a Cravens: Defensive Holding, 5 yards",1.490,3.450
+3,2:02,1,10,DEN 32,16,17,Alfred Blue up the middle for -1 yards (tackle by Todd Davis),3.450,2.770
+3,1:27,2,11,DEN 33,16,17,Deshaun Watson pass complete short left to DeAndre Hopkins for 16 yards (tackle by Shane Ray),2.770,4.440
+3,0:45,1,10,DEN 17,16,17,Lamar Miller left tackle for 1 yard (tackle by Adam Gotsis),4.440,4.000
+Quarter,Time,Down,ToGo,Location,HOU,DEN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,9,DEN 16,16,17,Deshaun Watson pass incomplete short middle intended for Jordan Akins (defended by Todd Davis),4.000,3.190
+4,14:56,3,9,DEN 16,16,17,Deshaun Watson sacked by Bradley Chubb for -3 yards,3.190,2.180
+4,14:11,4,12,DEN 19,19,17,Ka'imi Fairbairn 37 yard field goal good,2.180,3.000
+4,14:06,,,HOU 35,19,17,"Ka'imi Fairbairn kicks off 65 yards, touchback.",0.000,0.610
+4,14:06,1,10,DEN 25,19,17,Phillip Lindsay right guard for 2 yards (tackle by Brennan Scarlett),0.610,0.330
+4,13:21,2,8,DEN 27,19,17,Phillip Lindsay left guard for 3 yards (tackle by Justin Reid),0.330,0.040
+4,12:41,3,5,DEN 30,19,17,Case Keenum sacked by Jadeveon Clowney for -10 yards,0.040,-2.030
+4,12:07,4,15,DEN 20,19,17,Colby Wadman punts 59 yards out of bounds,-2.030,-0.340
+4,11:58,1,10,HOU 21,19,17,Lamar Miller left tackle for -2 yards (tackle by Shelby Harris),0.340,-0.530
+4,11:20,2,12,HOU 19,19,17,Deshaun Watson pass complete short middle to DeAndre Hopkins for 9 yards (tackle by Su'a Cravens),-0.530,0.040
+4,10:34,,,,,,Timeout #2 by Houston Texans,,
+4,10:34,3,3,HOU 28,19,17,Deshaun Watson pass incomplete short left. Penalty on Julie'n Davenport: Offensive Holding (Declined),0.040,-1.500
+4,10:26,4,3,HOU 28,19,17,"Trevor Daniel punts 50 yards, returned by Adam Jones for 5 yards (tackle by Gregory Howell)",-1.500,-0.740
+4,10:15,1,10,DEN 27,19,17,Case Keenum pass complete short middle to Jeff Heuerman for 2 yards (tackle by Brandon Dunn and Benardrick McKinney),0.740,0.470
+4,9:29,2,8,DEN 29,19,17,Case Keenum pass complete short right to Emmanuel Sanders for 9 yards (tackle by Shareece Wright),0.470,1.470
+4,8:53,1,10,DEN 38,19,17,Phillip Lindsay left end for 22 yards (tackle by Justin Reid),1.470,2.920
+4,8:13,1,10,HOU 40,19,17,Case Keenum pass incomplete short right,2.920,2.370
+4,8:07,2,10,HOU 40,19,17,Case Keenum sacked by J.J. Watt for -7 yards,2.370,0.760
+4,7:22,3,17,HOU 47,19,17,Case Keenum pass incomplete deep right intended for Tim Patrick (defended by Michael Tyson),0.760,0.130
+4,7:17,4,17,HOU 47,19,17,Colby Wadman punts 37 yards out of bounds,0.130,0.380
+4,7:10,1,10,HOU 10,19,17,"Lamar Miller right tackle for no gain (tackle by Todd Davis and Bradley Chubb). Penalty on Julie'n Davenport: Offensive Holding, 5 yards (no play)",-0.380,-0.570
+4,6:44,1,15,HOU 5,19,17,Deshaun Watson pass complete short left to Lamar Miller for 16 yards (tackle by Tramaine Brock),-0.570,0.340
+4,6:02,1,10,HOU 21,19,17,Alfred Blue left guard for 6 yards (tackle by Zach Kerr),0.340,0.610
+4,5:22,2,4,HOU 27,19,17,Lamar Miller up the middle for 8 yards (tackle by Todd Davis),0.610,1.270
+4,4:34,1,10,HOU 35,19,17,Lamar Miller up the middle for 2 yards (tackle by Will Parks and Zach Kerr),1.270,0.990
+4,3:52,2,8,HOU 37,19,17,Alfred Blue left tackle for 3 yards (tackle by Derek Wolfe),0.990,0.700
+4,3:45,,,,,,Timeout #1 by Denver Broncos,,
+4,3:45,3,5,HOU 40,19,17,"Penalty on Demaryius Thomas: False Start, 5 yards (no play)",0.700,0.040
+4,3:45,3,10,HOU 35,19,17,Deshaun Watson pass incomplete short right intended for DeAndre Hopkins (defended by Adam Jones),0.040,-1.040
+4,3:40,4,10,HOU 35,19,17,"Trevor Daniel punts 61 yards, returned by Adam Jones for 10 yards (tackle by Justin Reid)",-1.040,0.280
+4,3:29,1,10,DEN 14,19,17,Phillip Lindsay right guard for 6 yards (tackle by Tyrann Mathieu),-0.280,0.150
+4,2:57,2,4,DEN 20,19,17,Case Keenum pass incomplete short right,0.150,-0.680
+4,2:51,3,4,DEN 20,19,17,Case Keenum pass complete short left to Jeff Heuerman for 11 yards (tackle by Natrell Jamerson),-0.680,1.000
+4,2:25,1,10,DEN 31,19,17,Case Keenum pass incomplete short middle intended for Tim Patrick (defended by Brennan Scarlett),1.000,0.460
+4,2:19,2,10,DEN 31,19,17,Case Keenum pass complete short left to Devontae Booker for 8 yards (tackle by Justin Reid),0.460,0.830
+4,2:01,3,2,DEN 39,19,17,Devontae Booker up the middle for 1 yard (tackle by Brandon Dunn),0.830,-0.720
+4,1:55,4,1,DEN 40,19,17,Case Keenum pass complete short left to Jeff Heuerman for 3 yards (tackle by Justin Reid),-0.720,1.800
+4,1:35,1,10,DEN 43,19,17,"Penalty on Jared Veldheer: False Start, 5 yards (no play)",1.800,1.470
+4,1:22,1,15,DEN 38,19,17,"Case Keenum pass complete short right to Matt LaCosse for 5 yards (tackle by Kareem Jackson). Penalty on Max Garcia: Offensive Holding, 10 yards (no play)",1.470,0.810
+4,1:15,1,25,DEN 28,19,17,Case Keenum pass complete short right to Tim Patrick for 17 yards (tackle by Shareece Wright),0.810,1.520
+4,0:57,2,8,DEN 45,19,17,Case Keenum pass incomplete short left intended for Emmanuel Sanders,1.520,0.830
+4,0:54,3,8,DEN 45,19,17,Case Keenum pass incomplete short left intended for Emmanuel Sanders,0.830,-0.390
+4,0:50,4,8,DEN 45,19,17,Case Keenum pass complete deep middle to Emmanuel Sanders for 18 yards (tackle by Justin Reid),-0.390,3.120
+4,0:43,,,,,,Timeout #2 by Denver Broncos,,
+4,0:43,1,10,HOU 37,19,17,Case Keenum pass complete short right to Jeff Heuerman for 5 yards (tackle by Tyrann Mathieu),3.120,3.250
+4,0:13,2,5,HOU 32,19,17,Phillip Lindsay up the middle for -1 yards (tackle by Christian Covington),3.250,2.410
+4,0:03,,,,,,Timeout #3 by Denver Broncos,,
+4,0:03,,,,,,Timeout #3 by Houston Texans,,
+4,0:03,3,6,HOU 33,19,17,Brandon McManus 51 yard field goal no good,2.410,1.600
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

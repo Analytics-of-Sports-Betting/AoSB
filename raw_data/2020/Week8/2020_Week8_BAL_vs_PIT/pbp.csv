@@ -1,0 +1,182 @@
+Quarter,Time,Down,ToGo,Location,PIT,BAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Steelers won the coin toss and deferred, Ravens to receive the opening kickoff.",,
+1,15:00,,,PIT 35,0,0,"Chris Boswell kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,BAL 25,0,0,Gus Edwards right guard for 4 yards (tackle by Robert Spillane),0.610,0.600
+1,14:17,2,6,BAL 29,0,0,Lamar Jackson pass incomplete short left intended for Devin Duvernay,0.600,-0.100
+1,14:14,3,6,BAL 29,6,0,"Lamar Jackson pass short middle intended for James Proche is intercepted by Robert Spillane at BAL-33 and returned for 33 yards, touchdown",-0.100,-7.000
+1,14:06,,,BAL 15,7,0,Chris Boswell kicks extra point good,0.000,0.000
+1,14:06,,,PIT 35,7,0,"Chris Boswell kicks off 65 yards, touchback.",0.000,0.610
+1,14:06,1,10,BAL 25,7,0,Lamar Jackson pass complete short middle to Miles Boykin for 14 yards (tackle by Joe Haden),0.610,1.530
+1,13:33,1,10,BAL 39,7,0,Gus Edwards right guard for 4 yards (tackle by Vince Williams and Joe Haden),1.530,1.530
+1,12:59,2,6,BAL 43,7,0,Gus Edwards left tackle for -1 yards (tackle by Stephon Tuitt),1.530,0.700
+1,12:19,3,7,BAL 42,7,0,"Lamar Jackson right end for 1 yard (tackle by Minkah Fitzpatrick). Penalty on Cameron Heyward: Unnecessary Roughness, 15 yards",0.700,2.790
+1,11:46,1,10,PIT 42,7,0,J.K. Dobbins right tackle for 4 yards (tackle by Isaiah Buggs and T.J. Watt),2.790,2.780
+1,11:04,2,6,PIT 38,7,0,"Lamar Jackson pass incomplete short right intended for Patrick Ricard. Penalty on Ronnie Stanley: Illegal Formation, 5 yards (no play)",2.780,2.110
+1,11:00,2,11,PIT 43,7,0,Lamar Jackson pass complete short middle to Willie Snead for 34 yards (tackle by Robert Spillane),2.110,5.140
+1,10:12,1,9,PIT 9,7,0,Lamar Jackson right guard for 3 yards (tackle by Cameron Sutton),5.140,4.950
+1,9:32,2,6,PIT 6,7,0,Lamar Jackson sacked by T.J. Watt for no gain,4.950,4.040
+1,8:48,3,6,PIT 6,7,6,"Lamar Jackson pass complete short left to Miles Boykin for 6 yards, touchdown",4.040,7.000
+1,8:44,,,PIT 15,7,7,Justin Tucker kicks extra point good,0.000,0.000
+1,8:44,,,BAL 35,7,7,"Justin Tucker kicks off 65 yards, returned by Ray-Ray McCloud for 26 yards (tackle by Terrell Bonds). Penalty on Trey Edmunds: Illegal Block Above the Waist, 10 yards",0.000,-0.140
+1,8:37,1,10,PIT 16,7,7,James Conner left end for -1 yards (tackle by Chuck Clark),-0.140,-0.780
+1,8:06,2,11,PIT 15,7,7,Ben Roethlisberger pass incomplete short left intended for Eric Ebron,-0.780,-1.470
+1,8:03,3,11,PIT 15,7,7,"Ben Roethlisberger pass incomplete deep right intended for James Washington. Penalty on Marcus Peters: Defensive Pass Interference, 15 yards (no play)",-1.470,0.940
+1,7:58,1,10,PIT 30,7,7,"Ben Roethlisberger pass complete short middle to Chase Claypool for 10 yards (tackle by Marcus Peters). Chase Claypool fumbles (forced by Marcus Peters), recovered by Marcus Peters at PIT-44",0.940,-2.650
+1,7:50,1,10,PIT 44,7,7,Gus Edwards right guard for 4 yards (tackle by Isaiah Buggs and Stephon Tuitt),2.650,2.650
+1,7:17,2,6,PIT 40,7,7,Gus Edwards right guard for 3 yards (tackle by Joe Haden),2.650,2.350
+1,6:47,3,3,PIT 37,7,7,J.K. Dobbins right end for 28 yards (tackle by Joe Haden),2.350,5.140
+1,6:08,1,9,PIT 9,7,7,Lamar Jackson left guard for 1 yard (tackle by Vince Williams and Cameron Heyward),5.140,4.570
+1,5:31,2,8,PIT 8,7,7,"Lamar Jackson sacked by Bud Dupree for -1 yards. Lamar Jackson fumbles (forced by Bud Dupree), recovered by Vince Williams at PIT-4",4.570,0.380
+1,5:23,1,10,PIT 4,7,7,James Conner left guard for 1 yard (tackle by Brandon Williams and Malik Harrison),-0.380,-0.710
+1,4:41,2,9,PIT 5,7,7,James Conner left guard for 9 yards (tackle by Jimmy Smith),-0.710,-0.280
+1,3:54,1,10,PIT 14,7,7,Ben Roethlisberger pass incomplete deep right intended for Chase Claypool,-0.280,-0.750
+1,3:48,2,10,PIT 14,7,7,Ben Roethlisberger pass complete short left to James Conner for no gain (tackle by Jimmy Smith),-0.750,-1.400
+1,3:01,3,10,PIT 14,7,7,James Conner left tackle for 4 yards (tackle by Pernell McPhee),-1.400,-2.240
+1,2:22,4,6,PIT 18,7,7,Jordan Berry punts 34 yards out of bounds,-2.240,-2.130
+1,2:15,1,10,BAL 48,7,7,Gus Edwards left tackle for 6 yards (tackle by Robert Spillane),2.130,2.390
+1,1:38,2,4,PIT 46,7,7,Lamar Jackson right end for 5 yards (tackle by Robert Spillane),2.390,2.850
+1,0:57,1,10,PIT 41,7,7,Lamar Jackson sacked by Stephon Tuitt for -8 yards,2.850,1.230
+1,0:25,2,18,PIT 49,7,7,Lamar Jackson pass incomplete short middle intended for Nick Boyle,1.230,0.560
+1,0:21,3,18,PIT 49,7,7,Lamar Jackson pass complete short right to Mark Andrews for 3 yards (tackle by Steven Nelson),0.560,0.200
+Quarter,Time,Down,ToGo,Location,PIT,BAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,4,15,PIT 46,7,7,"Sam Koch punts 36 yards, returned by Ray-Ray McCloud for 5 yards (tackle by Chris Moore)",0.200,0.220
+2,14:51,1,10,PIT 15,7,7,James Conner left guard for 4 yards (tackle by DeShon Elliott and Malik Harrison),-0.220,-0.110
+2,14:08,2,6,PIT 19,7,7,Ben Roethlisberger pass complete short right to Eric Ebron for 7 yards (tackle by Tyus Bowser and Marcus Peters),-0.110,0.670
+2,13:33,1,10,PIT 26,7,7,"Maurkice Pouncey for no gain. Maurkice Pouncey fumbles, recovered by Ben Roethlisberger at PIT-20 Ben Roethlisberger pass complete short middle to Chase Claypool for 7 yards (tackle by Malik Harrison)",0.670,1.070
+2,12:57,2,3,PIT 33,7,7,Ben Roethlisberger pass incomplete short middle intended for Jaylen Samuels,1.070,0.370
+2,12:53,3,3,PIT 33,7,7,Ben Roethlisberger pass incomplete short left intended for James Washington,0.370,-1.180
+2,12:49,4,3,PIT 33,7,7,"Jordan Berry punts 47 yards, fair catch by James Proche at BAL-20",-1.180,-0.280
+2,12:42,1,10,BAL 20,7,7,Gus Edwards right tackle for 25 yards (tackle by Joe Haden),0.280,1.930
+2,12:01,1,10,BAL 45,7,7,Gus Edwards left guard for 6 yards (tackle by Robert Spillane),1.930,2.190
+2,11:23,2,4,PIT 49,7,7,J.K. Dobbins left tackle for 12 yards (tackle by Robert Spillane),2.190,3.120
+2,10:45,1,10,PIT 37,7,7,J.K. Dobbins right guard for 3 yards (tackle by Vince Williams),3.120,2.980
+2,10:08,2,7,PIT 34,7,7,Lamar Jackson left end for 14 yards (tackle by Steven Nelson),2.980,4.240
+2,9:32,1,10,PIT 20,7,7,J.K. Dobbins right tackle for 3 yards (tackle by Stephon Tuitt),4.240,4.120
+2,8:51,2,7,PIT 17,7,7,Lamar Jackson pass complete short middle to Mark Andrews for 11 yards (tackle by Joe Haden),4.120,5.830
+2,8:09,1,6,PIT 6,7,7,Lamar Jackson up the middle for 5 yards (tackle by Alex Highsmith and Minkah Fitzpatrick),5.830,5.910
+2,7:28,2,1,PIT 1,7,13,"Gus Edwards left tackle for 1 yard, touchdown",5.910,7.000
+2,7:24,,,PIT 15,7,14,Justin Tucker kicks extra point good,0.000,0.000
+2,7:24,,,BAL 35,7,14,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+2,7:24,1,10,PIT 25,7,14,Ben Roethlisberger pass incomplete deep right intended for Diontae Johnson,0.610,0.060
+2,7:20,2,10,PIT 25,7,14,James Conner right end for 18 yards (tackle by Yannick Ngakoue),0.060,1.800
+2,6:38,1,10,PIT 43,7,14,James Conner right guard for 6 yards (tackle by L.J. Fort),1.800,2.060
+2,5:59,2,4,PIT 49,7,14,"James Conner right end for -2 yards (tackle by Brandon Williams). Penalty on Marcus Peters: Unnecessary Roughness (Offsetting) . Penalty on Matt Judon: Unnecessary Roughness (Offsetting) . Penalty on Matt Judon: Disqualification, 15 yards",2.060,3.050
+2,5:27,1,10,BAL 38,7,14,James Conner left guard for 3 yards (tackle by Brandon Williams and Marcus Peters),3.050,2.910
+2,4:45,2,7,BAL 35,7,14,Ben Roethlisberger pass incomplete short middle intended for Chase Claypool (defended by Calais Campbell),2.910,2.210
+2,4:42,3,7,BAL 35,7,14,"Penalty on David DeCastro: False Start, 5 yards (no play)",2.210,1.550
+2,4:42,3,12,BAL 40,7,14,"Ben Roethlisberger sacked by and DeShon Elliott for -2 yards and Chris Board for -2 yards. Ben Roethlisberger fumbles (forced by Chris Board), recovered by Ben Roethlisberger at BAL-42",1.550,0.460
+2,3:51,4,14,BAL 42,7,14,"Jordan Berry punts 34 yards, fair catch by James Proche at BAL-8",0.460,0.380
+2,3:44,1,10,BAL 8,7,14,Gus Edwards left guard for 4 yards (tackle by Stephon Tuitt),-0.380,-0.490
+2,3:08,2,6,BAL 12,7,14,J.K. Dobbins left guard for 2 yards (tackle by Stephon Tuitt),-0.490,-0.720
+2,2:30,3,4,BAL 14,7,14,"Lamar Jackson right end for 9 yards. Lamar Jackson fumbles, recovered by Lamar Jackson at BAL-23",-0.720,0.480
+2,2:00,1,10,BAL 23,7,14,Lamar Jackson left end for 4 yards (tackle by Terrell Edmunds),0.480,0.470
+2,1:20,2,6,BAL 27,7,14,Lamar Jackson pass incomplete short middle intended for Miles Boykin,0.470,-0.230
+2,1:17,,,,,,Timeout #1 by Pittsburgh Steelers,,
+2,1:17,3,6,BAL 27,7,14,Lamar Jackson right tackle for 8 yards (tackle by Bud Dupree),-0.230,1.270
+2,1:09,,,,,,Timeout #1 by Baltimore Ravens,,
+2,1:09,1,10,BAL 35,7,14,"Lamar Jackson pass complete short left to Willie Snead for 7 yards (tackle by Vince Williams). Penalty on Willie Snead: Illegal Shift, 5 yards (no play)",1.270,0.940
+2,1:06,1,15,BAL 30,7,14,J.K. Dobbins right guard for 9 yards (tackle by Cameron Heyward),0.940,1.260
+2,0:46,2,6,BAL 39,7,14,Lamar Jackson pass complete short middle to Willie Snead for 6 yards (tackle by Steven Nelson),1.260,1.930
+2,0:41,,,,,,Timeout #2 by Baltimore Ravens,,
+2,0:41,1,10,BAL 45,7,14,Lamar Jackson pass incomplete short right,1.930,1.380
+2,0:34,2,10,BAL 45,7,14,Lamar Jackson pass incomplete short left intended for Mark Andrews,1.380,0.700
+2,0:30,3,10,BAL 45,7,14,Lamar Jackson pass complete short left to Willie Snead for 10 yards (tackle by Justin Layne),0.700,2.590
+2,0:25,1,10,PIT 45,7,14,Lamar Jackson up the middle for 4 yards (tackle by Stephon Tuitt),2.590,2.580
+2,0:21,,,,,,Timeout #3 by Baltimore Ravens,,
+2,0:21,2,6,PIT 41,7,14,J.K. Dobbins left end for 8 yards (tackle by Steven Nelson),2.580,3.380
+2,0:04,1,10,PIT 33,7,14,Lamar Jackson spiked the ball,3.380,2.840
+2,0:03,2,10,PIT 33,7,17,Justin Tucker 51 yard field goal good,2.840,3.000
+Quarter,Time,Down,ToGo,Location,PIT,BAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,BAL 35,7,17,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,PIT 25,7,17,Ben Roethlisberger pass complete short middle to JuJu Smith-Schuster for 24 yards (tackle by Patrick Queen),0.610,2.190
+3,14:26,1,10,PIT 49,7,17,Ben Roethlisberger pass incomplete short middle intended for Chase Claypool,2.190,1.650
+3,14:23,2,10,PIT 49,7,17,Ben Roethlisberger pass incomplete short middle intended for Jaylen Samuels (defended by Tyus Bowser),1.650,0.960
+3,14:20,3,10,PIT 49,7,17,Ben Roethlisberger pass incomplete deep left intended for Diontae Johnson,0.960,-0.130
+3,14:16,4,10,PIT 49,7,17,Jordan Berry punts 34 yards out of bounds,-0.130,0.060
+3,14:09,1,10,BAL 17,7,17,Lamar Jackson pass short left intended for Mark Andrews is intercepted by Alex Highsmith at BAL-23 and returned for 2 yards,-0.060,-4.170
+3,14:04,1,10,BAL 21,7,17,James Conner left guard for 3 yards (tackle by Chuck Clark),4.170,4.040
+3,13:27,2,7,BAL 18,13,17,"Ben Roethlisberger pass complete short middle to Eric Ebron for 18 yards, touchdown",4.040,7.000
+3,13:21,,,BAL 15,13,17,"Penalty on BAL: Defensive Too Many Men on Field, 5 yards",1.000,0.000
+3,13:21,,,BAL 15,14,17,Chris Boswell kicks extra point good,0.000,0.000
+3,13:21,,,PIT 40,14,17,"Chris Boswell kicks off 53 yards, returned by Devin Duvernay for 20 yards (tackle by Marcus Allen)",0.000,0.740
+3,13:17,1,10,BAL 27,14,17,Gus Edwards right end for 2 yards (tackle by Stephon Tuitt),0.740,0.470
+3,12:37,2,8,BAL 29,14,17,Gus Edwards right tackle for 4 yards (tackle by Isaiah Buggs),0.470,0.300
+3,11:59,3,4,BAL 33,14,17,Lamar Jackson pass incomplete short middle intended for J.K. Dobbins (defended by Robert Spillane),0.300,-1.180
+3,11:55,4,4,BAL 33,14,17,"Sam Koch punts 44 yards, fair catch by Ray-Ray McCloud at PIT-23",-1.180,-0.480
+3,11:48,1,10,PIT 23,14,17,James Conner right end for 1 yard (tackle by Patrick Queen),0.480,0.070
+3,11:04,2,9,PIT 24,14,17,Ben Roethlisberger pass complete short right to Eric Ebron for 14 yards (tackle by Marcus Peters),0.070,1.470
+3,10:22,1,10,PIT 38,14,17,"Ben Roethlisberger pass incomplete deep left intended for Ray-Ray McCloud. Penalty on Terrell Bonds: Defensive Pass Interference, 20 yards (no play)",1.470,2.790
+3,10:18,1,10,BAL 42,14,17,Ben Roethlisberger pass complete short left to Chase Claypool for 9 yards (tackle by Terrell Bonds),2.790,3.460
+3,9:50,2,1,BAL 33,14,17,Ben Roethlisberger pass complete short left to Chase Claypool for 8 yards (tackle by Jimmy Smith),3.460,3.910
+3,9:08,1,10,BAL 25,14,17,Ben Roethlisberger sacked by Jaylon Ferguson for -7 yards,3.910,2.420
+3,8:22,2,17,BAL 32,14,17,Ben Roethlisberger pass complete short left to James Conner for 13 yards (tackle by DeShon Elliott),2.420,3.490
+3,7:47,3,4,BAL 19,14,17,Ben Roethlisberger pass complete short middle to JuJu Smith-Schuster for 7 yards (tackle by Chris Board),3.490,4.780
+3,7:05,1,10,BAL 12,14,17,James Conner right end for -3 yards (tackle by Jaylon Ferguson),4.780,3.660
+3,6:27,2,13,BAL 15,14,17,Ben Roethlisberger pass complete short middle to JuJu Smith-Schuster for 14 yards (tackle by DeShon Elliott),3.660,6.970
+3,5:41,,,,,,Timeout #1 by Pittsburgh Steelers,,
+3,5:41,1,1,BAL 1,20,17,"James Conner left guard for 1 yard, touchdown",6.970,7.000
+3,5:38,,,BAL 15,21,17,Chris Boswell kicks extra point good,0.000,0.000
+3,5:38,,,PIT 35,21,17,"Chris Boswell kicks off 65 yards, touchback.",0.000,0.610
+3,5:38,1,10,BAL 25,21,17,Lamar Jackson up the middle for 1 yard (tackle by Robert Spillane),0.610,0.200
+3,4:56,2,9,BAL 26,21,17,J.K. Dobbins right end for 4 yards (tackle by T.J. Watt and Robert Spillane),0.200,0.040
+3,4:15,3,5,BAL 30,21,17,"Lamar Jackson pass complete short middle to Mark Andrews for 18 yards (tackle by Cameron Sutton). Mark Andrews fumbles, ball out of bounds at BAL-48 (forced by Cameron Sutton)",0.040,2.130
+3,3:53,1,10,BAL 48,21,17,J.K. Dobbins left end for 2 yards (tackle by Cameron Heyward),2.130,1.850
+3,3:09,2,8,BAL 50,21,17,Lamar Jackson pass incomplete short left intended for Gus Edwards,1.850,1.160
+3,3:04,3,8,BAL 50,21,17,Lamar Jackson up the middle for no gain (tackle by T.J. Watt),1.160,-0.060
+3,2:32,4,8,BAL 50,21,17,"Sam Koch punts 39 yards, fair catch by Ray-Ray McCloud at PIT-11",-0.060,0.370
+3,2:25,1,10,PIT 11,21,17,Anthony McFarland left end for 1 yard (tackle by DeShon Elliott),-0.370,-0.710
+3,1:44,2,9,PIT 12,21,17,Ben Roethlisberger pass incomplete short middle intended for JuJu Smith-Schuster,-0.710,-1.300
+3,1:40,3,9,PIT 12,21,17,Ben Roethlisberger pass complete short left to James Conner for no gain (tackle by Patrick Queen),-1.300,-2.490
+3,1:05,4,9,PIT 12,21,17,"Jordan Berry punts 56 yards, returned by James Proche for 15 yards (tackle by Olasunkanmi Adeniyi)",-2.490,-2.060
+3,0:54,1,10,BAL 47,21,17,Gus Edwards right tackle for 3 yards (tackle by Joe Haden),2.060,1.920
+3,0:10,2,7,BAL 50,21,17,Lamar Jackson sacked by Stephon Tuitt for -7 yards,1.920,0.300
+Quarter,Time,Down,ToGo,Location,PIT,BAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,14,BAL 43,21,17,Lamar Jackson pass complete deep middle to Devin Duvernay for 39 yards (tackle by Justin Layne),0.300,4.370
+4,14:16,1,10,PIT 18,21,17,Gus Edwards right end for -2 yards (tackle by Robert Spillane and Vince Williams),4.370,3.560
+4,13:35,2,12,PIT 20,21,17,"Lamar Jackson up the middle for 20 yards. Penalty on Matt Skura: Offensive Holding, 10 yards (no play)",3.560,2.210
+4,13:26,2,22,PIT 30,21,17,Lamar Jackson pass complete short middle to Willie Snead for 24 yards (tackle by Minkah Fitzpatrick),2.210,5.830
+4,12:45,1,6,PIT 6,21,17,Lamar Jackson left tackle for 3 yards (tackle by Bud Dupree),5.830,5.530
+4,12:06,2,3,PIT 3,21,17,Lamar Jackson pass incomplete short left intended for Marquise Brown,5.530,4.720
+4,12:00,3,3,PIT 3,21,23,"Lamar Jackson pass complete short middle to Marquise Brown for 3 yards, touchdown",4.720,7.000
+4,11:56,,,PIT 15,21,24,Justin Tucker kicks extra point good,0.000,0.000
+4,11:56,,,BAL 35,21,24,"Justin Tucker kicks off 67 yards, returned by Ray-Ray McCloud for 22 yards (tackle by Jordan Richards)",0.000,0.280
+4,11:53,1,10,PIT 20,21,24,Ben Roethlisberger pass incomplete deep right intended for Chase Claypool (defended by Marcus Peters),0.280,-0.270
+4,11:48,2,10,PIT 20,21,24,Ben Roethlisberger pass complete short middle to Eric Ebron for 9 yards (tackle by DeShon Elliott and Marlon Humphrey),-0.270,0.230
+4,11:00,3,1,PIT 29,21,24,"Ben Roethlisberger pass complete short middle to Ray-Ray McCloud for 6 yards (tackle by Terrell Bonds). Penalty on Chuck Clark: Face Mask (15 Yards), 15 yards",0.230,2.260
+4,10:37,1,10,PIT 50,21,24,Ben Roethlisberger pass complete short middle to JuJu Smith-Schuster for 4 yards (tackle by Marlon Humphrey and Patrick Queen),2.260,2.250
+4,9:52,2,6,BAL 46,21,24,Ben Roethlisberger pass complete short left to JuJu Smith-Schuster for 5 yards (tackle by Marlon Humphrey),2.250,2.210
+4,9:06,3,1,BAL 41,21,24,Ben Roethlisberger pass complete short middle to JuJu Smith-Schuster for 2 yards (tackle by Marlon Humphrey),2.210,2.980
+4,8:24,1,10,BAL 39,21,24,"Ben Roethlisberger pass incomplete deep right intended for Chase Claypool. Penalty on Marlon Humphrey: Defensive Pass Interference, 20 yards (no play)",2.980,4.310
+4,8:18,1,10,BAL 19,21,24,Ben Roethlisberger pass complete short middle to JuJu Smith-Schuster for 11 yards (tackle by DeShon Elliott),4.310,5.370
+4,7:32,1,8,BAL 8,27,24,"Ben Roethlisberger pass complete short right to Chase Claypool for 8 yards, touchdown",5.370,7.000
+4,7:29,,,BAL 15,28,24,Chris Boswell kicks extra point good,0.000,0.000
+4,7:29,,,PIT 35,28,24,"Chris Boswell kicks off 65 yards, touchback.",0.000,0.610
+4,7:29,1,10,BAL 25,28,24,J.K. Dobbins left end for 7 yards (tackle by Cameron Heyward),0.610,1.010
+4,6:47,2,3,BAL 32,28,24,Gus Edwards right end for 4 yards (tackle by Vince Williams),1.010,1.330
+4,6:10,1,10,BAL 36,28,24,J.K. Dobbins left end for 9 yards (tackle by Robert Spillane),1.330,2.010
+4,5:38,2,1,BAL 45,28,24,J.K. Dobbins right guard for 5 yards (tackle by Robert Spillane),2.010,2.260
+4,5:00,1,10,BAL 50,28,24,Gus Edwards left end for 20 yards (tackle by Minkah Fitzpatrick),2.260,3.580
+4,4:18,1,10,PIT 30,28,24,J.K. Dobbins right end for 15 yards (tackle by Minkah Fitzpatrick),3.580,4.580
+4,3:48,1,10,PIT 15,28,24,Lamar Jackson up the middle for 3 yards (tackle by Bud Dupree),4.580,4.450
+4,3:10,2,7,PIT 12,28,24,J.K. Dobbins right guard for 2 yards (tackle by Alex Highsmith and Minkah Fitzpatrick),4.450,4.000
+4,2:27,3,5,PIT 10,28,24,Lamar Jackson up the middle for 2 yards (tackle by Isaiah Buggs),4.000,2.980
+4,2:00,4,3,PIT 8,28,24,"Lamar Jackson up the middle for 2 yards (tackle by Isaiah Buggs and Minkah Fitzpatrick). Lamar Jackson fumbles (forced by Minkah Fitzpatrick), recovered by Robert Spillane at PIT-6",2.980,0.380
+4,1:57,1,10,PIT 6,28,24,James Conner left end for 3 yards (tackle by Calais Campbell),-0.380,-0.560
+4,1:52,,,,,,Timeout #2 by Baltimore Ravens,,
+4,1:52,2,7,PIT 9,28,24,Ben Roethlisberger pass complete short middle to Diontae Johnson for 6 yards (tackle by Marcus Peters),-0.560,-0.370
+4,1:46,,,,,,Timeout #3 by Baltimore Ravens,,
+4,1:46,3,1,PIT 15,28,24,James Conner up the middle for no gain (tackle by Calais Campbell),-0.370,-2.440
+4,0:59,,,,,,Timeout #2 by Pittsburgh Steelers,,
+4,0:59,4,1,PIT 15,28,24,"Jordan Berry punts 48 yards, fair catch by James Proche at BAL-37",-2.440,-1.400
+4,0:52,1,10,BAL 37,28,24,Lamar Jackson pass incomplete short middle intended for Willie Snead,1.400,0.860
+4,0:48,2,10,BAL 37,28,24,Lamar Jackson pass complete short middle to J.K. Dobbins for 8 yards (tackle by Cameron Heyward),0.860,1.220
+4,0:29,3,2,BAL 45,28,24,Lamar Jackson pass incomplete short middle intended for Mark Andrews,1.220,-0.390
+4,0:26,4,2,BAL 45,28,24,Lamar Jackson pass complete deep middle to Willie Snead for 32 yards (tackle by Terrell Edmunds),-0.390,4.040
+4,0:08,,,,,,Timeout #3 by Pittsburgh Steelers,,
+4,0:08,1,10,PIT 23,28,24,Lamar Jackson pass incomplete short right intended for Devin Duvernay,4.040,3.500
+4,0:05,2,10,PIT 23,28,24,Lamar Jackson pass incomplete deep middle intended for Willie Snead (defended by Minkah Fitzpatrick),3.500,2.810
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

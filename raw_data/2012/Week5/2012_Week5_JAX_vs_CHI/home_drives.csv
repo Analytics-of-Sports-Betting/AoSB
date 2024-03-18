@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,JAX 20,3,2:14,6,Punt
+2,1,11:29,CHI 45,3,0:55,2,Punt
+3,1,4:23,JAX 26,14,5:21,61,Field Goal
+4,2,10:20,JAX 3,3,1:10,6,Punt
+5,2,7:42,JAX 22,10,5:47,55,Fumble
+6,2,0:12,JAX 20,1,0:12,-1,End of Half
+7,3,5:42,JAX 25,1,0:38,-10,Interception
+8,3,5:04,JAX 6,3,1:33,-4,Punt
+9,4,14:55,JAX 20,5,2:15,29,Punt
+10,4,8:37,JAX 20,3,0:43,11,Interception
+11,4,7:54,JAX 20,3,1:23,3,Punt
+12,4,1:49,JAX 20,5,1:49,18,End of Game

@@ -1,0 +1,268 @@
+Week,Day,Date,Time,Winner/tie,Unnamed: 5,Loser/tie,Unnamed: 7,PtsW,PtsL,YdsW,TOW,YdsL,TOL,url,Home,Away,File
+Week1,Thu,2014-09-04,8:42PM,Seattle Seahawks,,Green Bay Packers,boxscore,36,16,398,1,255,1,https://www.pro-football-reference.com/boxscores/201409040sea.htm,SEA,GB,2014_Week1_SEA_vs_GB
+Week1,Sun,2014-09-07,1:00PM,Buffalo Bills,@,Chicago Bears,boxscore,23,20,360,1,427,3,https://www.pro-football-reference.com/boxscores/201409070chi.htm,CHI,BUF,2014_Week1_CHI_vs_BUF
+Week1,Sun,2014-09-07,1:00PM,Minnesota Vikings,@,St. Louis Rams,boxscore,34,6,355,0,318,2,https://www.pro-football-reference.com/boxscores/201409070ram.htm,LAR,MIN,2014_Week1_LAR_vs_MIN
+Week1,Sun,2014-09-07,1:02PM,Cincinnati Bengals,@,Baltimore Ravens,boxscore,23,16,380,0,423,2,https://www.pro-football-reference.com/boxscores/201409070rav.htm,BAL,CIN,2014_Week1_BAL_vs_CIN
+Week1,Sun,2014-09-07,1:02PM,Pittsburgh Steelers,,Cleveland Browns,boxscore,30,27,503,1,389,0,https://www.pro-football-reference.com/boxscores/201409070pit.htm,PIT,CLE,2014_Week1_PIT_vs_CLE
+Week1,Sun,2014-09-07,1:02PM,Philadelphia Eagles,,Jacksonville Jaguars,boxscore,34,17,420,3,306,1,https://www.pro-football-reference.com/boxscores/201409070phi.htm,PHI,JAX,2014_Week1_PHI_vs_JAX
+Week1,Sun,2014-09-07,1:02PM,Tennessee Titans,@,Kansas City Chiefs,boxscore,26,10,405,0,245,3,https://www.pro-football-reference.com/boxscores/201409070kan.htm,KC,TEN,2014_Week1_KC_vs_TEN
+Week1,Sun,2014-09-07,1:02PM,New York Jets,,Oakland Raiders,boxscore,19,14,402,2,158,0,https://www.pro-football-reference.com/boxscores/201409070nyj.htm,NYJ,LVR,2014_Week1_NYJ_vs_LVR
+Week1,Sun,2014-09-07,1:03PM,Atlanta Falcons,,New Orleans Saints,boxscore,37,34,568,1,472,2,https://www.pro-football-reference.com/boxscores/201409070atl.htm,ATL,NO,2014_Week1_ATL_vs_NO
+Week1,Sun,2014-09-07,1:03PM,Houston Texans,,Washington Redskins,boxscore,17,6,321,1,372,2,https://www.pro-football-reference.com/boxscores/201409070htx.htm,HOU,WAS,2014_Week1_HOU_vs_WAS
+Week1,Sun,2014-09-07,1:03PM,Miami Dolphins,,New England Patriots,boxscore,33,20,360,3,315,2,https://www.pro-football-reference.com/boxscores/201409070mia.htm,MIA,NE,2014_Week1_MIA_vs_NE
+Week1,Sun,2014-09-07,4:25PM,Carolina Panthers,@,Tampa Bay Buccaneers,boxscore,20,14,334,0,264,3,https://www.pro-football-reference.com/boxscores/201409070tam.htm,TB,CAR,2014_Week1_TB_vs_CAR
+Week1,Sun,2014-09-07,4:25PM,San Francisco 49ers,@,Dallas Cowboys,boxscore,28,17,319,0,382,4,https://www.pro-football-reference.com/boxscores/201409070dal.htm,DAL,SF,2014_Week1_DAL_vs_SF
+Week1,Sun,2014-09-07,8:30PM,Denver Broncos,,Indianapolis Colts,boxscore,31,24,361,0,408,2,https://www.pro-football-reference.com/boxscores/201409070den.htm,DEN,IND,2014_Week1_DEN_vs_IND
+Week1,Mon,2014-09-08,7:11PM,Detroit Lions,,New York Giants,boxscore,35,14,417,0,197,2,https://www.pro-football-reference.com/boxscores/201409080det.htm,DET,NYG,2014_Week1_DET_vs_NYG
+Week1,Mon,2014-09-08,9:20PM,Arizona Cardinals,,San Diego Chargers,boxscore,18,17,403,2,290,1,https://www.pro-football-reference.com/boxscores/201409080crd.htm,ARI,LAC,2014_Week1_ARI_vs_LAC
+Week2,Thu,2014-09-11,8:28PM,Baltimore Ravens,,Pittsburgh Steelers,boxscore,26,6,323,0,301,3,https://www.pro-football-reference.com/boxscores/201409110rav.htm,BAL,PIT,2014_Week2_BAL_vs_PIT
+Week2,Sun,2014-09-14,1:02PM,Buffalo Bills,,Miami Dolphins,boxscore,29,10,315,0,290,2,https://www.pro-football-reference.com/boxscores/201409140buf.htm,BUF,MIA,2014_Week2_BUF_vs_MIA
+Week2,Sun,2014-09-14,1:03PM,Cleveland Browns,,New Orleans Saints,boxscore,26,24,324,0,397,2,https://www.pro-football-reference.com/boxscores/201409140cle.htm,CLE,NO,2014_Week2_CLE_vs_NO
+Week2,Sun,2014-09-14,1:03PM,Dallas Cowboys,@,Tennessee Titans,boxscore,26,10,368,1,314,2,https://www.pro-football-reference.com/boxscores/201409140oti.htm,TEN,DAL,2014_Week2_TEN_vs_DAL
+Week2,Sun,2014-09-14,1:04PM,Carolina Panthers,,Detroit Lions,boxscore,24,7,313,0,323,3,https://www.pro-football-reference.com/boxscores/201409140car.htm,CAR,DET,2014_Week2_CAR_vs_DET
+Week2,Sun,2014-09-14,1:04PM,Arizona Cardinals,@,New York Giants,boxscore,25,14,266,0,341,4,https://www.pro-football-reference.com/boxscores/201409140nyg.htm,NYG,ARI,2014_Week2_NYG_vs_ARI
+Week2,Sun,2014-09-14,1:05PM,Cincinnati Bengals,,Atlanta Falcons,boxscore,24,10,472,0,309,3,https://www.pro-football-reference.com/boxscores/201409140cin.htm,CIN,ATL,2014_Week2_CIN_vs_ATL
+Week2,Sun,2014-09-14,1:05PM,Washington Redskins,,Jacksonville Jaguars,boxscore,41,10,449,0,148,1,https://www.pro-football-reference.com/boxscores/201409140was.htm,WAS,JAX,2014_Week2_WAS_vs_JAX
+Week2,Sun,2014-09-14,1:05PM,New England Patriots,@,Minnesota Vikings,boxscore,30,7,292,0,217,4,https://www.pro-football-reference.com/boxscores/201409140min.htm,MIN,NE,2014_Week2_MIN_vs_NE
+Week2,Sun,2014-09-14,4:05PM,St. Louis Rams,@,Tampa Bay Buccaneers,boxscore,19,17,339,1,332,1,https://www.pro-football-reference.com/boxscores/201409140tam.htm,TB,LAR,2014_Week2_TB_vs_LAR
+Week2,Sun,2014-09-14,4:05PM,San Diego Chargers,,Seattle Seahawks,boxscore,30,21,377,0,288,1,https://www.pro-football-reference.com/boxscores/201409140sdg.htm,LAC,SEA,2014_Week2_LAC_vs_SEA
+Week2,Sun,2014-09-14,4:25PM,Denver Broncos,,Kansas City Chiefs,boxscore,24,17,325,0,380,0,https://www.pro-football-reference.com/boxscores/201409140den.htm,DEN,KC,2014_Week2_DEN_vs_KC
+Week2,Sun,2014-09-14,4:25PM,Green Bay Packers,,New York Jets,boxscore,31,24,390,1,313,1,https://www.pro-football-reference.com/boxscores/201409140gnb.htm,GB,NYJ,2014_Week2_GB_vs_NYJ
+Week2,Sun,2014-09-14,4:25PM,Houston Texans,@,Oakland Raiders,boxscore,30,14,327,0,364,4,https://www.pro-football-reference.com/boxscores/201409140rai.htm,LVR,HOU,2014_Week2_LVR_vs_HOU
+Week2,Sun,2014-09-14,8:31PM,Chicago Bears,@,San Francisco 49ers,boxscore,28,20,216,0,359,4,https://www.pro-football-reference.com/boxscores/201409140sfo.htm,SF,CHI,2014_Week2_SF_vs_CHI
+Week2,Mon,2014-09-15,8:31PM,Philadelphia Eagles,@,Indianapolis Colts,boxscore,30,27,458,1,341,2,https://www.pro-football-reference.com/boxscores/201409150clt.htm,IND,PHI,2014_Week2_IND_vs_PHI
+Week3,Thu,2014-09-18,8:26PM,Atlanta Falcons,,Tampa Bay Buccaneers,boxscore,56,14,488,4,217,5,https://www.pro-football-reference.com/boxscores/201409180atl.htm,ATL,TB,2014_Week3_ATL_vs_TB
+Week3,Sun,2014-09-21,1:00PM,Dallas Cowboys,@,St. Louis Rams,boxscore,34,31,340,2,448,3,https://www.pro-football-reference.com/boxscores/201409210ram.htm,LAR,DAL,2014_Week3_LAR_vs_DAL
+Week3,Sun,2014-09-21,1:02PM,San Diego Chargers,@,Buffalo Bills,boxscore,22,10,333,0,292,0,https://www.pro-football-reference.com/boxscores/201409210buf.htm,BUF,LAC,2014_Week3_BUF_vs_LAC
+Week3,Sun,2014-09-21,1:02PM,Cincinnati Bengals,,Tennessee Titans,boxscore,33,7,300,1,326,2,https://www.pro-football-reference.com/boxscores/201409210cin.htm,CIN,TEN,2014_Week3_CIN_vs_TEN
+Week3,Sun,2014-09-21,1:02PM,Baltimore Ravens,@,Cleveland Browns,boxscore,23,21,377,1,375,0,https://www.pro-football-reference.com/boxscores/201409210cle.htm,CLE,BAL,2014_Week3_CLE_vs_BAL
+Week3,Sun,2014-09-21,1:02PM,Indianapolis Colts,@,Jacksonville Jaguars,boxscore,44,17,529,0,344,3,https://www.pro-football-reference.com/boxscores/201409210jax.htm,JAX,IND,2014_Week3_JAX_vs_IND
+Week3,Sun,2014-09-21,1:02PM,Detroit Lions,,Green Bay Packers,boxscore,19,7,353,3,223,1,https://www.pro-football-reference.com/boxscores/201409210det.htm,DET,GB,2014_Week3_DET_vs_GB
+Week3,Sun,2014-09-21,1:02PM,New York Giants,,Houston Texans,boxscore,30,17,419,1,411,3,https://www.pro-football-reference.com/boxscores/201409210nyg.htm,NYG,HOU,2014_Week3_NYG_vs_HOU
+Week3,Sun,2014-09-21,1:02PM,New England Patriots,,Oakland Raiders,boxscore,16,9,297,0,241,1,https://www.pro-football-reference.com/boxscores/201409210nwe.htm,NE,LVR,2014_Week3_NE_vs_LVR
+Week3,Sun,2014-09-21,1:02PM,Philadelphia Eagles,,Washington Redskins,boxscore,37,34,379,1,511,1,https://www.pro-football-reference.com/boxscores/201409210phi.htm,PHI,WAS,2014_Week3_PHI_vs_WAS
+Week3,Sun,2014-09-21,1:03PM,New Orleans Saints,,Minnesota Vikings,boxscore,20,9,396,0,247,0,https://www.pro-football-reference.com/boxscores/201409210nor.htm,NO,MIN,2014_Week3_NO_vs_MIN
+Week3,Sun,2014-09-21,4:05PM,Arizona Cardinals,,San Francisco 49ers,boxscore,23,14,338,1,318,0,https://www.pro-football-reference.com/boxscores/201409210crd.htm,ARI,SF,2014_Week3_ARI_vs_SF
+Week3,Sun,2014-09-21,4:25PM,Seattle Seahawks,,Denver Broncos,boxscore,26,20,384,1,332,2,https://www.pro-football-reference.com/boxscores/201409210sea.htm,SEA,DEN,2014_Week3_SEA_vs_DEN
+Week3,Sun,2014-09-21,4:25PM,Kansas City Chiefs,@,Miami Dolphins,boxscore,34,15,342,2,332,0,https://www.pro-football-reference.com/boxscores/201409210mia.htm,MIA,KC,2014_Week3_MIA_vs_KC
+Week3,Sun,2014-09-21,8:31PM,Pittsburgh Steelers,@,Carolina Panthers,boxscore,37,19,454,0,349,2,https://www.pro-football-reference.com/boxscores/201409210car.htm,CAR,PIT,2014_Week3_CAR_vs_PIT
+Week3,Mon,2014-09-22,8:30PM,Chicago Bears,@,New York Jets,boxscore,27,19,257,1,414,3,https://www.pro-football-reference.com/boxscores/201409220nyj.htm,NYJ,CHI,2014_Week3_NYJ_vs_CHI
+Week4,Thu,2014-09-25,8:26PM,New York Giants,@,Washington Redskins,boxscore,45,14,449,1,329,6,https://www.pro-football-reference.com/boxscores/201409250was.htm,WAS,NYG,2014_Week4_WAS_vs_NYG
+Week4,Sun,2014-09-28,1:02PM,Houston Texans,,Buffalo Bills,boxscore,23,17,301,3,316,2,https://www.pro-football-reference.com/boxscores/201409280htx.htm,HOU,BUF,2014_Week4_HOU_vs_BUF
+Week4,Sun,2014-09-28,1:02PM,Baltimore Ravens,,Carolina Panthers,boxscore,38,10,454,0,315,1,https://www.pro-football-reference.com/boxscores/201409280rav.htm,BAL,CAR,2014_Week4_BAL_vs_CAR
+Week4,Sun,2014-09-28,1:02PM,Green Bay Packers,@,Chicago Bears,boxscore,38,17,358,0,496,2,https://www.pro-football-reference.com/boxscores/201409280chi.htm,CHI,GB,2014_Week4_CHI_vs_GB
+Week4,Sun,2014-09-28,1:02PM,Detroit Lions,@,New York Jets,boxscore,24,17,360,0,336,2,https://www.pro-football-reference.com/boxscores/201409280nyj.htm,NYJ,DET,2014_Week4_NYJ_vs_DET
+Week4,Sun,2014-09-28,1:03PM,Indianapolis Colts,,Tennessee Titans,boxscore,41,17,498,1,261,3,https://www.pro-football-reference.com/boxscores/201409280clt.htm,IND,TEN,2014_Week4_IND_vs_TEN
+Week4,Sun,2014-09-28,1:03PM,Tampa Bay Buccaneers,@,Pittsburgh Steelers,boxscore,27,24,350,1,390,1,https://www.pro-football-reference.com/boxscores/201409280pit.htm,PIT,TB,2014_Week4_PIT_vs_TB
+Week4,Sun,2014-09-28,1:06PM,Miami Dolphins,@,Oakland Raiders,boxscore,38,14,435,3,317,4,https://www.pro-football-reference.com/boxscores/201409280rai.htm,LVR,MIA,2014_Week4_LVR_vs_MIA
+Week4,Sun,2014-09-28,4:05PM,San Diego Chargers,,Jacksonville Jaguars,boxscore,33,14,407,0,320,3,https://www.pro-football-reference.com/boxscores/201409280sdg.htm,LAC,JAX,2014_Week4_LAC_vs_JAX
+Week4,Sun,2014-09-28,4:25PM,Minnesota Vikings,,Atlanta Falcons,boxscore,41,28,558,0,411,2,https://www.pro-football-reference.com/boxscores/201409280min.htm,MIN,ATL,2014_Week4_MIN_vs_ATL
+Week4,Sun,2014-09-28,4:25PM,San Francisco 49ers,,Philadelphia Eagles,boxscore,26,21,407,1,213,4,https://www.pro-football-reference.com/boxscores/201409280sfo.htm,SF,PHI,2014_Week4_SF_vs_PHI
+Week4,Sun,2014-09-28,8:31PM,Dallas Cowboys,,New Orleans Saints,boxscore,38,17,445,0,438,3,https://www.pro-football-reference.com/boxscores/201409280dal.htm,DAL,NO,2014_Week4_DAL_vs_NO
+Week4,Mon,2014-09-29,8:31PM,Kansas City Chiefs,,New England Patriots,boxscore,41,14,443,0,290,3,https://www.pro-football-reference.com/boxscores/201409290kan.htm,KC,NE,2014_Week4_KC_vs_NE
+Week5,Thu,2014-10-02,8:26PM,Green Bay Packers,,Minnesota Vikings,boxscore,42,10,320,1,299,3,https://www.pro-football-reference.com/boxscores/201410020gnb.htm,GB,MIN,2014_Week5_GB_vs_MIN
+Week5,Sun,2014-10-05,1:02PM,Cleveland Browns,@,Tennessee Titans,boxscore,29,28,460,1,410,0,https://www.pro-football-reference.com/boxscores/201410050oti.htm,TEN,CLE,2014_Week5_TEN_vs_CLE
+Week5,Sun,2014-10-05,1:02PM,Pittsburgh Steelers,@,Jacksonville Jaguars,boxscore,17,9,372,1,243,2,https://www.pro-football-reference.com/boxscores/201410050jax.htm,JAX,PIT,2014_Week5_JAX_vs_PIT
+Week5,Sun,2014-10-05,1:02PM,Philadelphia Eagles,,St. Louis Rams,boxscore,34,28,352,3,466,3,https://www.pro-football-reference.com/boxscores/201410050phi.htm,PHI,LAR,2014_Week5_PHI_vs_LAR
+Week5,Sun,2014-10-05,1:03PM,New York Giants,,Atlanta Falcons,boxscore,30,20,317,2,397,1,https://www.pro-football-reference.com/boxscores/201410050nyg.htm,NYG,ATL,2014_Week5_NYG_vs_ATL
+Week5,Sun,2014-10-05,1:03PM,Buffalo Bills,@,Detroit Lions,boxscore,17,14,343,1,273,2,https://www.pro-football-reference.com/boxscores/201410050det.htm,DET,BUF,2014_Week5_DET_vs_BUF
+Week5,Sun,2014-10-05,1:03PM,Carolina Panthers,,Chicago Bears,boxscore,31,24,322,3,347,4,https://www.pro-football-reference.com/boxscores/201410050car.htm,CAR,CHI,2014_Week5_CAR_vs_CHI
+Week5,Sun,2014-10-05,1:03PM,Indianapolis Colts,,Baltimore Ravens,boxscore,20,13,432,4,287,3,https://www.pro-football-reference.com/boxscores/201410050clt.htm,IND,BAL,2014_Week5_IND_vs_BAL
+Week5,Sun,2014-10-05,1:03PM,Dallas Cowboys,,Houston Texans,boxscore,20,17,456,3,330,1,https://www.pro-football-reference.com/boxscores/201410050dal.htm,DAL,HOU,2014_Week5_DAL_vs_HOU
+Week5,Sun,2014-10-05,1:03PM,New Orleans Saints,,Tampa Bay Buccaneers,boxscore,37,31,511,3,314,1,https://www.pro-football-reference.com/boxscores/201410050nor.htm,NO,TB,2014_Week5_NO_vs_TB
+Week5,Sun,2014-10-05,4:05PM,Denver Broncos,,Arizona Cardinals,boxscore,41,20,568,2,215,0,https://www.pro-football-reference.com/boxscores/201410050den.htm,DEN,ARI,2014_Week5_DEN_vs_ARI
+Week5,Sun,2014-10-05,4:25PM,San Francisco 49ers,,Kansas City Chiefs,boxscore,22,17,357,0,265,1,https://www.pro-football-reference.com/boxscores/201410050sfo.htm,SF,KC,2014_Week5_SF_vs_KC
+Week5,Sun,2014-10-05,4:25PM,San Diego Chargers,,New York Jets,boxscore,31,0,439,1,151,2,https://www.pro-football-reference.com/boxscores/201410050sdg.htm,LAC,NYJ,2014_Week5_LAC_vs_NYJ
+Week5,Sun,2014-10-05,8:43PM,New England Patriots,,Cincinnati Bengals,boxscore,43,17,505,0,320,3,https://www.pro-football-reference.com/boxscores/201410050nwe.htm,NE,CIN,2014_Week5_NE_vs_CIN
+Week5,Mon,2014-10-06,8:30PM,Seattle Seahawks,@,Washington Redskins,boxscore,27,17,403,0,307,0,https://www.pro-football-reference.com/boxscores/201410060was.htm,WAS,SEA,2014_Week5_WAS_vs_SEA
+Week6,Thu,2014-10-09,8:26PM,Indianapolis Colts,@,Houston Texans,boxscore,33,28,456,2,332,2,https://www.pro-football-reference.com/boxscores/201410090htx.htm,HOU,IND,2014_Week6_HOU_vs_IND
+Week6,Sun,2014-10-12,1:02PM,Cleveland Browns,,Pittsburgh Steelers,boxscore,31,10,368,1,359,1,https://www.pro-football-reference.com/boxscores/201410120cle.htm,CLE,PIT,2014_Week6_CLE_vs_PIT
+Week6,Sun,2014-10-12,1:02PM,Denver Broncos,@,New York Jets,boxscore,31,17,359,0,204,2,https://www.pro-football-reference.com/boxscores/201410120nyj.htm,NYJ,DEN,2014_Week6_NYJ_vs_DEN
+Week6,Sun,2014-10-12,1:02PM,New England Patriots,@,Buffalo Bills,boxscore,37,22,396,0,336,3,https://www.pro-football-reference.com/boxscores/201410120buf.htm,BUF,NE,2014_Week6_BUF_vs_NE
+Week6,Sun,2014-10-12,1:02PM,Detroit Lions,@,Minnesota Vikings,boxscore,17,3,255,0,212,3,https://www.pro-football-reference.com/boxscores/201410120min.htm,MIN,DET,2014_Week6_MIN_vs_DET
+Week6,Sun,2014-10-12,1:02PM,Green Bay Packers,@,Miami Dolphins,boxscore,27,24,369,0,349,3,https://www.pro-football-reference.com/boxscores/201410120mia.htm,MIA,GB,2014_Week6_MIA_vs_GB
+Week6,Sun,2014-10-12,1:02PM,Tennessee Titans,,Jacksonville Jaguars,boxscore,16,14,290,0,379,2,https://www.pro-football-reference.com/boxscores/201410120oti.htm,TEN,JAX,2014_Week6_TEN_vs_JAX
+Week6,Sun,2014-10-12,1:02PM,Baltimore Ravens,@,Tampa Bay Buccaneers,boxscore,48,17,475,1,364,1,https://www.pro-football-reference.com/boxscores/201410120tam.htm,TB,BAL,2014_Week6_TB_vs_BAL
+Week6,Sun,2014-10-12,1:03PM,Cincinnati Bengals,,Carolina Panthers,boxscore,37,37,513,2,431,1,https://www.pro-football-reference.com/boxscores/201410120cin.htm,CIN,CAR,2014_Week6_CIN_vs_CAR
+Week6,Sun,2014-10-12,4:05PM,San Diego Chargers,@,Oakland Raiders,boxscore,31,28,423,0,396,1,https://www.pro-football-reference.com/boxscores/201410120rai.htm,LVR,LAC,2014_Week6_LVR_vs_LAC
+Week6,Sun,2014-10-12,4:25PM,Arizona Cardinals,,Washington Redskins,boxscore,30,20,317,0,407,4,https://www.pro-football-reference.com/boxscores/201410120crd.htm,ARI,WAS,2014_Week6_ARI_vs_WAS
+Week6,Sun,2014-10-12,4:25PM,Chicago Bears,@,Atlanta Falcons,boxscore,27,13,478,0,287,1,https://www.pro-football-reference.com/boxscores/201410120atl.htm,ATL,CHI,2014_Week6_ATL_vs_CHI
+Week6,Sun,2014-10-12,4:26PM,Dallas Cowboys,@,Seattle Seahawks,boxscore,30,23,401,2,206,1,https://www.pro-football-reference.com/boxscores/201410120sea.htm,SEA,DAL,2014_Week6_SEA_vs_DAL
+Week6,Sun,2014-10-12,8:41PM,Philadelphia Eagles,,New York Giants,boxscore,27,0,448,2,254,1,https://www.pro-football-reference.com/boxscores/201410120phi.htm,PHI,NYG,2014_Week6_PHI_vs_NYG
+Week6,Mon,2014-10-13,8:30PM,San Francisco 49ers,@,St. Louis Rams,boxscore,31,17,432,1,309,1,https://www.pro-football-reference.com/boxscores/201410130ram.htm,LAR,SF,2014_Week6_LAR_vs_SF
+Week7,Thu,2014-10-16,8:25PM,New England Patriots,,New York Jets,boxscore,27,25,323,0,423,0,https://www.pro-football-reference.com/boxscores/201410160nwe.htm,NE,NYJ,2014_Week7_NE_vs_NYJ
+Week7,Sun,2014-10-19,1:00PM,St. Louis Rams,,Seattle Seahawks,boxscore,28,26,275,0,463,0,https://www.pro-football-reference.com/boxscores/201410190ram.htm,LAR,SEA,2014_Week7_LAR_vs_SEA
+Week7,Sun,2014-10-19,1:00PM,Miami Dolphins,@,Chicago Bears,boxscore,27,14,393,0,224,3,https://www.pro-football-reference.com/boxscores/201410190chi.htm,CHI,MIA,2014_Week7_CHI_vs_MIA
+Week7,Sun,2014-10-19,1:02PM,Indianapolis Colts,,Cincinnati Bengals,boxscore,27,0,506,2,135,0,https://www.pro-football-reference.com/boxscores/201410190clt.htm,IND,CIN,2014_Week7_IND_vs_CIN
+Week7,Sun,2014-10-19,1:02PM,Jacksonville Jaguars,,Cleveland Browns,boxscore,24,6,336,3,266,3,https://www.pro-football-reference.com/boxscores/201410190jax.htm,JAX,CLE,2014_Week7_JAX_vs_CLE
+Week7,Sun,2014-10-19,1:02PM,Baltimore Ravens,,Atlanta Falcons,boxscore,29,7,371,3,254,1,https://www.pro-football-reference.com/boxscores/201410190rav.htm,BAL,ATL,2014_Week7_BAL_vs_ATL
+Week7,Sun,2014-10-19,1:02PM,Buffalo Bills,,Minnesota Vikings,boxscore,17,16,373,4,276,2,https://www.pro-football-reference.com/boxscores/201410190buf.htm,BUF,MIN,2014_Week7_BUF_vs_MIN
+Week7,Sun,2014-10-19,1:02PM,Green Bay Packers,,Carolina Panthers,boxscore,38,17,363,0,331,1,https://www.pro-football-reference.com/boxscores/201410190gnb.htm,GB,CAR,2014_Week7_GB_vs_CAR
+Week7,Sun,2014-10-19,1:02PM,Detroit Lions,,New Orleans Saints,boxscore,24,23,344,2,408,2,https://www.pro-football-reference.com/boxscores/201410190det.htm,DET,NO,2014_Week7_DET_vs_NO
+Week7,Sun,2014-10-19,1:02PM,Washington Redskins,,Tennessee Titans,boxscore,19,17,351,2,236,2,https://www.pro-football-reference.com/boxscores/201410190was.htm,WAS,TEN,2014_Week7_WAS_vs_TEN
+Week7,Sun,2014-10-19,4:05PM,Kansas City Chiefs,@,San Diego Chargers,boxscore,23,20,365,0,251,1,https://www.pro-football-reference.com/boxscores/201410190sdg.htm,LAC,KC,2014_Week7_LAC_vs_KC
+Week7,Sun,2014-10-19,4:25PM,Arizona Cardinals,@,Oakland Raiders,boxscore,24,13,365,1,220,0,https://www.pro-football-reference.com/boxscores/201410190rai.htm,LVR,ARI,2014_Week7_LVR_vs_ARI
+Week7,Sun,2014-10-19,4:25PM,Dallas Cowboys,,New York Giants,boxscore,31,21,423,1,352,2,https://www.pro-football-reference.com/boxscores/201410190dal.htm,DAL,NYG,2014_Week7_DAL_vs_NYG
+Week7,Sun,2014-10-19,8:30PM,Denver Broncos,,San Francisco 49ers,boxscore,42,17,419,0,310,1,https://www.pro-football-reference.com/boxscores/201410190den.htm,DEN,SF,2014_Week7_DEN_vs_SF
+Week7,Mon,2014-10-20,8:30PM,Pittsburgh Steelers,,Houston Texans,boxscore,30,23,328,1,393,3,https://www.pro-football-reference.com/boxscores/201410200pit.htm,PIT,HOU,2014_Week7_PIT_vs_HOU
+Week8,Thu,2014-10-23,8:26PM,Denver Broncos,,San Diego Chargers,boxscore,35,21,425,0,306,2,https://www.pro-football-reference.com/boxscores/201410230den.htm,DEN,LAC,2014_Week8_DEN_vs_LAC
+Week8,Sun,2014-10-26,9:37AM,Detroit Lions,@,Atlanta Falcons,boxscore,22,21,385,1,291,1,https://www.pro-football-reference.com/boxscores/201410260atl.htm,ATL,DET,2014_Week8_ATL_vs_DET
+Week8,Sun,2014-10-26,1:02PM,Cincinnati Bengals,,Baltimore Ravens,boxscore,27,24,350,2,294,2,https://www.pro-football-reference.com/boxscores/201410260cin.htm,CIN,BAL,2014_Week8_CIN_vs_BAL
+Week8,Sun,2014-10-26,1:02PM,Buffalo Bills,@,New York Jets,boxscore,43,23,280,0,312,6,https://www.pro-football-reference.com/boxscores/201410260nyj.htm,NYJ,BUF,2014_Week8_NYJ_vs_BUF
+Week8,Sun,2014-10-26,1:02PM,New England Patriots,,Chicago Bears,boxscore,51,23,487,0,384,2,https://www.pro-football-reference.com/boxscores/201410260nwe.htm,NE,CHI,2014_Week8_NE_vs_CHI
+Week8,Sun,2014-10-26,1:02PM,Miami Dolphins,@,Jacksonville Jaguars,boxscore,27,13,326,1,377,3,https://www.pro-football-reference.com/boxscores/201410260jax.htm,JAX,MIA,2014_Week8_JAX_vs_MIA
+Week8,Sun,2014-10-26,1:03PM,Houston Texans,@,Tennessee Titans,boxscore,30,16,405,0,326,2,https://www.pro-football-reference.com/boxscores/201410260oti.htm,TEN,HOU,2014_Week8_TEN_vs_HOU
+Week8,Sun,2014-10-26,1:03PM,Minnesota Vikings,@,Tampa Bay Buccaneers,boxscore,19,13,332,0,225,2,https://www.pro-football-reference.com/boxscores/201410260tam.htm,TB,MIN,2014_Week8_TB_vs_MIN
+Week8,Sun,2014-10-26,1:04PM,Kansas City Chiefs,,St. Louis Rams,boxscore,34,7,355,1,200,1,https://www.pro-football-reference.com/boxscores/201410260kan.htm,KC,LAR,2014_Week8_KC_vs_LAR
+Week8,Sun,2014-10-26,1:04PM,Seattle Seahawks,@,Carolina Panthers,boxscore,13,9,310,2,266,2,https://www.pro-football-reference.com/boxscores/201410260car.htm,CAR,SEA,2014_Week8_CAR_vs_SEA
+Week8,Sun,2014-10-26,4:05PM,Arizona Cardinals,,Philadelphia Eagles,boxscore,24,20,400,1,521,3,https://www.pro-football-reference.com/boxscores/201410260crd.htm,ARI,PHI,2014_Week8_ARI_vs_PHI
+Week8,Sun,2014-10-26,4:25PM,Cleveland Browns,,Oakland Raiders,boxscore,23,13,306,0,387,3,https://www.pro-football-reference.com/boxscores/201410260cle.htm,CLE,LVR,2014_Week8_CLE_vs_LVR
+Week8,Sun,2014-10-26,4:25PM,Pittsburgh Steelers,,Indianapolis Colts,boxscore,51,34,639,2,448,2,https://www.pro-football-reference.com/boxscores/201410260pit.htm,PIT,IND,2014_Week8_PIT_vs_IND
+Week8,Sun,2014-10-26,8:30PM,New Orleans Saints,,Green Bay Packers,boxscore,44,23,495,1,491,3,https://www.pro-football-reference.com/boxscores/201410260nor.htm,NO,GB,2014_Week8_NO_vs_GB
+Week8,Mon,2014-10-27,8:30PM,Washington Redskins,@,Dallas Cowboys,boxscore,20,17,409,1,395,2,https://www.pro-football-reference.com/boxscores/201410270dal.htm,DAL,WAS,2014_Week8_DAL_vs_WAS
+Week9,Thu,2014-10-30,8:30PM,New Orleans Saints,@,Carolina Panthers,boxscore,28,10,375,2,231,2,https://www.pro-football-reference.com/boxscores/201410300car.htm,CAR,NO,2014_Week9_CAR_vs_NO
+Week9,Sun,2014-11-02,1:02PM,Cincinnati Bengals,,Jacksonville Jaguars,boxscore,33,23,423,2,365,1,https://www.pro-football-reference.com/boxscores/201411020cin.htm,CIN,JAX,2014_Week9_CIN_vs_JAX
+Week9,Sun,2014-11-02,1:02PM,Cleveland Browns,,Tampa Bay Buccaneers,boxscore,22,17,330,2,365,2,https://www.pro-football-reference.com/boxscores/201411020cle.htm,CLE,TB,2014_Week9_CLE_vs_TB
+Week9,Sun,2014-11-02,1:02PM,Miami Dolphins,,San Diego Chargers,boxscore,37,0,441,0,178,4,https://www.pro-football-reference.com/boxscores/201411020mia.htm,MIA,LAC,2014_Week9_MIA_vs_LAC
+Week9,Sun,2014-11-02,1:03PM,Kansas City Chiefs,,New York Jets,boxscore,24,10,309,0,364,0,https://www.pro-football-reference.com/boxscores/201411020kan.htm,KC,NYJ,2014_Week9_KC_vs_NYJ
+Week9,Sun,2014-11-02,1:03PM,Philadelphia Eagles,@,Houston Texans,boxscore,31,21,483,4,300,1,https://www.pro-football-reference.com/boxscores/201411020htx.htm,HOU,PHI,2014_Week9_HOU_vs_PHI
+Week9,Sun,2014-11-02,1:03PM,Minnesota Vikings,,Washington Redskins,boxscore,29,26,352,0,347,1,https://www.pro-football-reference.com/boxscores/201411020min.htm,MIN,WAS,2014_Week9_MIN_vs_WAS
+Week9,Sun,2014-11-02,1:04PM,Arizona Cardinals,@,Dallas Cowboys,boxscore,28,17,339,1,266,2,https://www.pro-football-reference.com/boxscores/201411020dal.htm,DAL,ARI,2014_Week9_DAL_vs_ARI
+Week9,Sun,2014-11-02,4:05PM,St. Louis Rams,@,San Francisco 49ers,boxscore,13,10,193,2,263,2,https://www.pro-football-reference.com/boxscores/201411020sfo.htm,SF,LAR,2014_Week9_SF_vs_LAR
+Week9,Sun,2014-11-02,4:25PM,New England Patriots,,Denver Broncos,boxscore,43,21,398,1,472,2,https://www.pro-football-reference.com/boxscores/201411020nwe.htm,NE,DEN,2014_Week9_NE_vs_DEN
+Week9,Sun,2014-11-02,4:26PM,Seattle Seahawks,,Oakland Raiders,boxscore,30,24,326,0,226,3,https://www.pro-football-reference.com/boxscores/201411020sea.htm,SEA,LVR,2014_Week9_SEA_vs_LVR
+Week9,Sun,2014-11-02,8:30PM,Pittsburgh Steelers,,Baltimore Ravens,boxscore,43,23,376,1,332,2,https://www.pro-football-reference.com/boxscores/201411020pit.htm,PIT,BAL,2014_Week9_PIT_vs_BAL
+Week9,Mon,2014-11-03,8:31PM,Indianapolis Colts,@,New York Giants,boxscore,40,24,443,0,438,1,https://www.pro-football-reference.com/boxscores/201411030nyg.htm,NYG,IND,2014_Week9_NYG_vs_IND
+Week10,Thu,2014-11-06,8:29PM,Cleveland Browns,@,Cincinnati Bengals,boxscore,24,3,368,1,165,4,https://www.pro-football-reference.com/boxscores/201411060cin.htm,CIN,CLE,2014_Week10_CIN_vs_CLE
+Week10,Sun,2014-11-09,1:02PM,Kansas City Chiefs,@,Buffalo Bills,boxscore,17,13,278,1,364,3,https://www.pro-football-reference.com/boxscores/201411090buf.htm,BUF,KC,2014_Week10_BUF_vs_KC
+Week10,Sun,2014-11-09,1:02PM,Detroit Lions,,Miami Dolphins,boxscore,20,16,351,1,228,2,https://www.pro-football-reference.com/boxscores/201411090det.htm,DET,MIA,2014_Week10_DET_vs_MIA
+Week10,Sun,2014-11-09,1:02PM,New York Jets,,Pittsburgh Steelers,boxscore,20,13,275,0,362,4,https://www.pro-football-reference.com/boxscores/201411090nyj.htm,NYJ,PIT,2014_Week10_NYJ_vs_PIT
+Week10,Sun,2014-11-09,1:03PM,San Francisco 49ers,@,New Orleans Saints,boxscore,27,24,330,1,423,3,https://www.pro-football-reference.com/boxscores/201411090nor.htm,NO,SF,2014_Week10_NO_vs_SF
+Week10,Sun,2014-11-09,1:03PM,Baltimore Ravens,,Tennessee Titans,boxscore,21,7,312,0,210,2,https://www.pro-football-reference.com/boxscores/201411090rav.htm,BAL,TEN,2014_Week10_BAL_vs_TEN
+Week10,Sun,2014-11-09,1:04PM,Atlanta Falcons,@,Tampa Bay Buccaneers,boxscore,27,17,322,0,373,3,https://www.pro-football-reference.com/boxscores/201411090tam.htm,TB,ATL,2014_Week10_TB_vs_ATL
+Week10,Sun,2014-11-09,1:06PM,Dallas Cowboys,@,Jacksonville Jaguars,boxscore,31,17,399,1,333,3,https://www.pro-football-reference.com/boxscores/201411090jax.htm,JAX,DAL,2014_Week10_JAX_vs_DAL
+Week10,Sun,2014-11-09,4:05PM,Denver Broncos,@,Oakland Raiders,boxscore,41,17,471,2,222,3,https://www.pro-football-reference.com/boxscores/201411090rai.htm,LVR,DEN,2014_Week10_LVR_vs_DEN
+Week10,Sun,2014-11-09,4:25PM,Arizona Cardinals,,St. Louis Rams,boxscore,31,14,335,1,244,3,https://www.pro-football-reference.com/boxscores/201411090crd.htm,ARI,LAR,2014_Week10_ARI_vs_LAR
+Week10,Sun,2014-11-09,4:26PM,Seattle Seahawks,,New York Giants,boxscore,38,17,510,3,324,2,https://www.pro-football-reference.com/boxscores/201411090sea.htm,SEA,NYG,2014_Week10_SEA_vs_NYG
+Week10,Sun,2014-11-09,8:30PM,Green Bay Packers,,Chicago Bears,boxscore,55,14,451,1,311,3,https://www.pro-football-reference.com/boxscores/201411090gnb.htm,GB,CHI,2014_Week10_GB_vs_CHI
+Week10,Mon,2014-11-10,8:32PM,Philadelphia Eagles,,Carolina Panthers,boxscore,45,21,365,0,317,5,https://www.pro-football-reference.com/boxscores/201411100phi.htm,PHI,CAR,2014_Week10_PHI_vs_CAR
+Week11,Thu,2014-11-13,8:26PM,Miami Dolphins,,Buffalo Bills,boxscore,22,9,330,2,237,0,https://www.pro-football-reference.com/boxscores/201411130mia.htm,MIA,BUF,2014_Week11_MIA_vs_BUF
+Week11,Sun,2014-11-16,1:00PM,St. Louis Rams,,Denver Broncos,boxscore,22,7,337,0,397,2,https://www.pro-football-reference.com/boxscores/201411160ram.htm,LAR,DEN,2014_Week11_LAR_vs_DEN
+Week11,Sun,2014-11-16,1:02PM,Chicago Bears,,Minnesota Vikings,boxscore,21,13,468,2,243,1,https://www.pro-football-reference.com/boxscores/201411160chi.htm,CHI,MIN,2014_Week11_CHI_vs_MIN
+Week11,Sun,2014-11-16,1:02PM,Cincinnati Bengals,@,New Orleans Saints,boxscore,27,10,405,0,330,1,https://www.pro-football-reference.com/boxscores/201411160nor.htm,NO,CIN,2014_Week11_NO_vs_CIN
+Week11,Sun,2014-11-16,1:03PM,Atlanta Falcons,@,Carolina Panthers,boxscore,19,17,346,1,391,2,https://www.pro-football-reference.com/boxscores/201411160car.htm,CAR,ATL,2014_Week11_CAR_vs_ATL
+Week11,Sun,2014-11-16,1:03PM,Houston Texans,@,Cleveland Browns,boxscore,23,7,424,1,375,2,https://www.pro-football-reference.com/boxscores/201411160cle.htm,CLE,HOU,2014_Week11_CLE_vs_HOU
+Week11,Sun,2014-11-16,1:03PM,San Francisco 49ers,@,New York Giants,boxscore,16,10,333,1,330,5,https://www.pro-football-reference.com/boxscores/201411160nyg.htm,NYG,SF,2014_Week11_NYG_vs_SF
+Week11,Sun,2014-11-16,1:03PM,Tampa Bay Buccaneers,@,Washington Redskins,boxscore,27,7,329,1,322,3,https://www.pro-football-reference.com/boxscores/201411160was.htm,WAS,TB,2014_Week11_WAS_vs_TB
+Week11,Sun,2014-11-16,1:04PM,Kansas City Chiefs,,Seattle Seahawks,boxscore,24,20,298,2,372,0,https://www.pro-football-reference.com/boxscores/201411160kan.htm,KC,SEA,2014_Week11_KC_vs_SEA
+Week11,Sun,2014-11-16,4:05PM,San Diego Chargers,,Oakland Raiders,boxscore,13,6,300,0,233,1,https://www.pro-football-reference.com/boxscores/201411160sdg.htm,LAC,LVR,2014_Week11_LAC_vs_LVR
+Week11,Sun,2014-11-16,4:25PM,Arizona Cardinals,,Detroit Lions,boxscore,14,6,352,2,262,1,https://www.pro-football-reference.com/boxscores/201411160crd.htm,ARI,DET,2014_Week11_ARI_vs_DET
+Week11,Sun,2014-11-16,4:25PM,Green Bay Packers,,Philadelphia Eagles,boxscore,53,20,475,0,429,4,https://www.pro-football-reference.com/boxscores/201411160gnb.htm,GB,PHI,2014_Week11_GB_vs_PHI
+Week11,Sun,2014-11-16,8:31PM,New England Patriots,@,Indianapolis Colts,boxscore,42,20,503,2,322,1,https://www.pro-football-reference.com/boxscores/201411160clt.htm,IND,NE,2014_Week11_IND_vs_NE
+Week11,Mon,2014-11-17,8:30PM,Pittsburgh Steelers,@,Tennessee Titans,boxscore,27,24,386,1,312,1,https://www.pro-football-reference.com/boxscores/201411170oti.htm,TEN,PIT,2014_Week11_TEN_vs_PIT
+Week12,Thu,2014-11-20,8:26PM,Oakland Raiders,,Kansas City Chiefs,boxscore,24,20,351,1,313,0,https://www.pro-football-reference.com/boxscores/201411200rai.htm,LVR,KC,2014_Week12_LVR_vs_KC
+Week12,Sun,2014-11-23,1:02PM,Cleveland Browns,@,Atlanta Falcons,boxscore,26,24,475,3,315,2,https://www.pro-football-reference.com/boxscores/201411230atl.htm,ATL,CLE,2014_Week12_ATL_vs_CLE
+Week12,Sun,2014-11-23,1:02PM,Chicago Bears,,Tampa Bay Buccaneers,boxscore,21,13,204,1,367,4,https://www.pro-football-reference.com/boxscores/201411230chi.htm,CHI,TB,2014_Week12_CHI_vs_TB
+Week12,Sun,2014-11-23,1:02PM,Cincinnati Bengals,@,Houston Texans,boxscore,22,13,372,1,248,1,https://www.pro-football-reference.com/boxscores/201411230htx.htm,HOU,CIN,2014_Week12_HOU_vs_CIN
+Week12,Sun,2014-11-23,1:02PM,Indianapolis Colts,,Jacksonville Jaguars,boxscore,23,3,389,3,194,2,https://www.pro-football-reference.com/boxscores/201411230clt.htm,IND,JAX,2014_Week12_IND_vs_JAX
+Week12,Sun,2014-11-23,1:02PM,New England Patriots,,Detroit Lions,boxscore,34,9,439,1,335,1,https://www.pro-football-reference.com/boxscores/201411230nwe.htm,NE,DET,2014_Week12_NE_vs_DET
+Week12,Sun,2014-11-23,1:02PM,Philadelphia Eagles,,Tennessee Titans,boxscore,43,24,462,2,351,3,https://www.pro-football-reference.com/boxscores/201411230phi.htm,PHI,TEN,2014_Week12_PHI_vs_TEN
+Week12,Sun,2014-11-23,1:03PM,Green Bay Packers,@,Minnesota Vikings,boxscore,24,21,362,0,308,1,https://www.pro-football-reference.com/boxscores/201411230min.htm,MIN,GB,2014_Week12_MIN_vs_GB
+Week12,Sun,2014-11-23,4:05PM,San Diego Chargers,,St. Louis Rams,boxscore,27,24,410,3,317,3,https://www.pro-football-reference.com/boxscores/201411230sdg.htm,LAC,LAR,2014_Week12_LAC_vs_LAR
+Week12,Sun,2014-11-23,4:06PM,Seattle Seahawks,,Arizona Cardinals,boxscore,19,3,293,0,204,1,https://www.pro-football-reference.com/boxscores/201411230sea.htm,SEA,ARI,2014_Week12_SEA_vs_ARI
+Week12,Sun,2014-11-23,4:25PM,Denver Broncos,,Miami Dolphins,boxscore,39,36,450,1,313,1,https://www.pro-football-reference.com/boxscores/201411230den.htm,DEN,MIA,2014_Week12_DEN_vs_MIA
+Week12,Sun,2014-11-23,4:25PM,San Francisco 49ers,,Washington Redskins,boxscore,17,13,312,3,213,1,https://www.pro-football-reference.com/boxscores/201411230sfo.htm,SF,WAS,2014_Week12_SF_vs_WAS
+Week12,Sun,2014-11-23,8:30PM,Dallas Cowboys,@,New York Giants,boxscore,31,28,385,1,417,1,https://www.pro-football-reference.com/boxscores/201411230nyg.htm,NYG,DAL,2014_Week12_NYG_vs_DAL
+Week12,Mon,2014-11-24,7:05PM,Buffalo Bills,,New York Jets,boxscore,38,3,336,0,218,1,https://www.pro-football-reference.com/boxscores/201411240buf.htm,BUF,NYJ,2014_Week12_BUF_vs_NYJ
+Week12,Mon,2014-11-24,8:30PM,Baltimore Ravens,@,New Orleans Saints,boxscore,34,27,449,1,525,1,https://www.pro-football-reference.com/boxscores/201411240nor.htm,NO,BAL,2014_Week12_NO_vs_BAL
+Week13,Thu,2014-11-27,12:39PM,Detroit Lions,,Chicago Bears,boxscore,34,17,474,1,269,2,https://www.pro-football-reference.com/boxscores/201411270det.htm,DET,CHI,2014_Week13_DET_vs_CHI
+Week13,Thu,2014-11-27,4:36PM,Philadelphia Eagles,@,Dallas Cowboys,boxscore,33,10,464,1,267,3,https://www.pro-football-reference.com/boxscores/201411270dal.htm,DAL,PHI,2014_Week13_DAL_vs_PHI
+Week13,Thu,2014-11-27,8:31PM,Seattle Seahawks,@,San Francisco 49ers,boxscore,19,3,379,0,164,3,https://www.pro-football-reference.com/boxscores/201411270sfo.htm,SF,SEA,2014_Week13_SF_vs_SEA
+Week13,Sun,2014-11-30,1:00PM,St. Louis Rams,,Oakland Raiders,boxscore,52,0,348,0,244,5,https://www.pro-football-reference.com/boxscores/201411300ram.htm,LAR,LVR,2014_Week13_LAR_vs_LVR
+Week13,Sun,2014-11-30,1:02PM,Buffalo Bills,,Cleveland Browns,boxscore,26,10,287,2,315,3,https://www.pro-football-reference.com/boxscores/201411300buf.htm,BUF,CLE,2014_Week13_BUF_vs_CLE
+Week13,Sun,2014-11-30,1:02PM,Minnesota Vikings,,Carolina Panthers,boxscore,31,13,210,0,348,1,https://www.pro-football-reference.com/boxscores/201411300min.htm,MIN,CAR,2014_Week13_MIN_vs_CAR
+Week13,Sun,2014-11-30,1:02PM,Cincinnati Bengals,@,Tampa Bay Buccaneers,boxscore,14,13,288,3,263,1,https://www.pro-football-reference.com/boxscores/201411300tam.htm,TB,CIN,2014_Week13_TB_vs_CIN
+Week13,Sun,2014-11-30,1:02PM,Indianapolis Colts,,Washington Redskins,boxscore,49,27,487,3,425,1,https://www.pro-football-reference.com/boxscores/201411300clt.htm,IND,WAS,2014_Week13_IND_vs_WAS
+Week13,Sun,2014-11-30,1:02PM,Houston Texans,,Tennessee Titans,boxscore,45,21,457,1,320,4,https://www.pro-football-reference.com/boxscores/201411300htx.htm,HOU,TEN,2014_Week13_HOU_vs_TEN
+Week13,Sun,2014-11-30,1:02PM,New Orleans Saints,@,Pittsburgh Steelers,boxscore,35,32,393,0,538,2,https://www.pro-football-reference.com/boxscores/201411300pit.htm,PIT,NO,2014_Week13_PIT_vs_NO
+Week13,Sun,2014-11-30,1:02PM,San Diego Chargers,@,Baltimore Ravens,boxscore,34,33,440,2,350,0,https://www.pro-football-reference.com/boxscores/201411300rav.htm,BAL,LAC,2014_Week13_BAL_vs_LAC
+Week13,Sun,2014-11-30,1:03PM,Jacksonville Jaguars,,New York Giants,boxscore,25,24,258,0,329,3,https://www.pro-football-reference.com/boxscores/201411300jax.htm,JAX,NYG,2014_Week13_JAX_vs_NYG
+Week13,Sun,2014-11-30,4:05PM,Atlanta Falcons,,Arizona Cardinals,boxscore,29,18,500,1,329,3,https://www.pro-football-reference.com/boxscores/201411300atl.htm,ATL,ARI,2014_Week13_ATL_vs_ARI
+Week13,Sun,2014-11-30,4:25PM,Green Bay Packers,,New England Patriots,boxscore,26,21,478,0,320,0,https://www.pro-football-reference.com/boxscores/201411300gnb.htm,GB,NE,2014_Week13_GB_vs_NE
+Week13,Sun,2014-11-30,8:32PM,Denver Broncos,@,Kansas City Chiefs,boxscore,29,16,388,1,151,3,https://www.pro-football-reference.com/boxscores/201411300kan.htm,KC,DEN,2014_Week13_KC_vs_DEN
+Week13,Mon,2014-12-01,8:30PM,Miami Dolphins,@,New York Jets,boxscore,16,13,291,1,326,1,https://www.pro-football-reference.com/boxscores/201412010nyj.htm,NYJ,MIA,2014_Week13_NYJ_vs_MIA
+Week14,Thu,2014-12-04,8:26PM,Dallas Cowboys,@,Chicago Bears,boxscore,41,28,397,0,376,2,https://www.pro-football-reference.com/boxscores/201412040chi.htm,CHI,DAL,2014_Week14_CHI_vs_DAL
+Week14,Sun,2014-12-07,1:02PM,Pittsburgh Steelers,@,Cincinnati Bengals,boxscore,42,21,543,0,408,2,https://www.pro-football-reference.com/boxscores/201412070cin.htm,CIN,PIT,2014_Week14_CIN_vs_PIT
+Week14,Sun,2014-12-07,1:02PM,Detroit Lions,,Tampa Bay Buccaneers,boxscore,34,17,407,1,233,3,https://www.pro-football-reference.com/boxscores/201412070det.htm,DET,TB,2014_Week14_DET_vs_TB
+Week14,Sun,2014-12-07,1:02PM,Baltimore Ravens,@,Miami Dolphins,boxscore,28,13,447,1,249,0,https://www.pro-football-reference.com/boxscores/201412070mia.htm,MIA,BAL,2014_Week14_MIA_vs_BAL
+Week14,Sun,2014-12-07,1:02PM,Minnesota Vikings,,New York Jets,boxscore,30,24,411,2,410,2,https://www.pro-football-reference.com/boxscores/201412070min.htm,MIN,NYJ,2014_Week14_MIN_vs_NYJ
+Week14,Sun,2014-12-07,1:03PM,Carolina Panthers,@,New Orleans Saints,boxscore,41,10,497,0,310,2,https://www.pro-football-reference.com/boxscores/201412070nor.htm,NO,CAR,2014_Week14_NO_vs_CAR
+Week14,Sun,2014-12-07,1:03PM,Indianapolis Colts,@,Cleveland Browns,boxscore,25,24,362,4,248,2,https://www.pro-football-reference.com/boxscores/201412070cle.htm,CLE,IND,2014_Week14_CLE_vs_IND
+Week14,Sun,2014-12-07,1:03PM,Houston Texans,@,Jacksonville Jaguars,boxscore,27,13,304,0,262,1,https://www.pro-football-reference.com/boxscores/201412070jax.htm,JAX,HOU,2014_Week14_JAX_vs_HOU
+Week14,Sun,2014-12-07,1:03PM,New York Giants,@,Tennessee Titans,boxscore,36,7,402,1,207,3,https://www.pro-football-reference.com/boxscores/201412070oti.htm,TEN,NYG,2014_Week14_TEN_vs_NYG
+Week14,Sun,2014-12-07,1:03PM,St. Louis Rams,@,Washington Redskins,boxscore,24,0,329,0,206,2,https://www.pro-football-reference.com/boxscores/201412070was.htm,WAS,LAR,2014_Week14_WAS_vs_LAR
+Week14,Sun,2014-12-07,4:05PM,Denver Broncos,,Buffalo Bills,boxscore,24,17,306,3,415,3,https://www.pro-football-reference.com/boxscores/201412070den.htm,DEN,BUF,2014_Week14_DEN_vs_BUF
+Week14,Sun,2014-12-07,4:05PM,Arizona Cardinals,,Kansas City Chiefs,boxscore,17,14,366,0,390,2,https://www.pro-football-reference.com/boxscores/201412070crd.htm,ARI,KC,2014_Week14_ARI_vs_KC
+Week14,Sun,2014-12-07,4:25PM,Seattle Seahawks,@,Philadelphia Eagles,boxscore,24,14,440,2,139,2,https://www.pro-football-reference.com/boxscores/201412070phi.htm,PHI,SEA,2014_Week14_PHI_vs_SEA
+Week14,Sun,2014-12-07,4:25PM,Oakland Raiders,,San Francisco 49ers,boxscore,24,13,330,0,248,2,https://www.pro-football-reference.com/boxscores/201412070rai.htm,LVR,SF,2014_Week14_LVR_vs_SF
+Week14,Sun,2014-12-07,8:30PM,New England Patriots,@,San Diego Chargers,boxscore,23,14,397,2,216,1,https://www.pro-football-reference.com/boxscores/201412070sdg.htm,LAC,NE,2014_Week14_LAC_vs_NE
+Week14,Mon,2014-12-08,8:30PM,Green Bay Packers,,Atlanta Falcons,boxscore,43,37,502,0,465,1,https://www.pro-football-reference.com/boxscores/201412080gnb.htm,GB,ATL,2014_Week14_GB_vs_ATL
+Week15,Thu,2014-12-11,8:25PM,Arizona Cardinals,@,St. Louis Rams,boxscore,12,6,274,0,280,2,https://www.pro-football-reference.com/boxscores/201412110ram.htm,LAR,ARI,2014_Week15_LAR_vs_ARI
+Week15,Sun,2014-12-14,1:02PM,Pittsburgh Steelers,@,Atlanta Falcons,boxscore,27,20,398,0,407,1,https://www.pro-football-reference.com/boxscores/201412140atl.htm,ATL,PIT,2014_Week15_ATL_vs_PIT
+Week15,Sun,2014-12-14,1:02PM,Buffalo Bills,,Green Bay Packers,boxscore,21,13,253,1,333,2,https://www.pro-football-reference.com/boxscores/201412140buf.htm,BUF,GB,2014_Week15_BUF_vs_GB
+Week15,Sun,2014-12-14,1:02PM,Cincinnati Bengals,@,Cleveland Browns,boxscore,30,0,347,1,107,2,https://www.pro-football-reference.com/boxscores/201412140cle.htm,CLE,CIN,2014_Week15_CLE_vs_CIN
+Week15,Sun,2014-12-14,1:02PM,Indianapolis Colts,,Houston Texans,boxscore,17,10,278,2,289,2,https://www.pro-football-reference.com/boxscores/201412140clt.htm,IND,HOU,2014_Week15_IND_vs_HOU
+Week15,Sun,2014-12-14,1:02PM,Baltimore Ravens,,Jacksonville Jaguars,boxscore,20,12,314,1,248,1,https://www.pro-football-reference.com/boxscores/201412140rav.htm,BAL,JAX,2014_Week15_BAL_vs_JAX
+Week15,Sun,2014-12-14,1:02PM,New England Patriots,,Miami Dolphins,boxscore,41,13,395,1,384,2,https://www.pro-football-reference.com/boxscores/201412140nwe.htm,NE,MIA,2014_Week15_NE_vs_MIA
+Week15,Sun,2014-12-14,1:02PM,New York Giants,,Washington Redskins,boxscore,24,13,287,1,372,1,https://www.pro-football-reference.com/boxscores/201412140nyg.htm,NYG,WAS,2014_Week15_NYG_vs_WAS
+Week15,Sun,2014-12-14,1:03PM,Carolina Panthers,,Tampa Bay Buccaneers,boxscore,19,17,392,1,287,3,https://www.pro-football-reference.com/boxscores/201412140car.htm,CAR,TB,2014_Week15_CAR_vs_TB
+Week15,Sun,2014-12-14,1:03PM,Kansas City Chiefs,,Oakland Raiders,boxscore,31,13,388,1,280,1,https://www.pro-football-reference.com/boxscores/201412140kan.htm,KC,LVR,2014_Week15_KC_vs_LVR
+Week15,Sun,2014-12-14,4:05PM,Denver Broncos,@,San Diego Chargers,boxscore,22,10,337,0,288,2,https://www.pro-football-reference.com/boxscores/201412140sdg.htm,LAC,DEN,2014_Week15_LAC_vs_DEN
+Week15,Sun,2014-12-14,4:05PM,New York Jets,@,Tennessee Titans,boxscore,16,11,277,0,342,1,https://www.pro-football-reference.com/boxscores/201412140oti.htm,TEN,NYJ,2014_Week15_TEN_vs_NYJ
+Week15,Sun,2014-12-14,4:25PM,Detroit Lions,,Minnesota Vikings,boxscore,16,14,233,0,360,2,https://www.pro-football-reference.com/boxscores/201412140det.htm,DET,MIN,2014_Week15_DET_vs_MIN
+Week15,Sun,2014-12-14,4:26PM,Seattle Seahawks,,San Francisco 49ers,boxscore,17,7,290,1,245,0,https://www.pro-football-reference.com/boxscores/201412140sea.htm,SEA,SF,2014_Week15_SEA_vs_SF
+Week15,Sun,2014-12-14,8:35PM,Dallas Cowboys,@,Philadelphia Eagles,boxscore,38,27,364,1,294,3,https://www.pro-football-reference.com/boxscores/201412140phi.htm,PHI,DAL,2014_Week15_PHI_vs_DAL
+Week15,Mon,2014-12-15,8:30PM,New Orleans Saints,@,Chicago Bears,boxscore,31,15,443,1,278,3,https://www.pro-football-reference.com/boxscores/201412150chi.htm,CHI,NO,2014_Week15_CHI_vs_NO
+Week16,Thu,2014-12-18,8:26PM,Jacksonville Jaguars,,Tennessee Titans,boxscore,21,13,288,0,357,0,https://www.pro-football-reference.com/boxscores/201412180jax.htm,JAX,TEN,2014_Week16_JAX_vs_TEN
+Week16,Sat,2014-12-20,4:30PM,Washington Redskins,,Philadelphia Eagles,boxscore,27,24,305,2,495,2,https://www.pro-football-reference.com/boxscores/201412200was.htm,WAS,PHI,2014_Week16_WAS_vs_PHI
+Week16,Sat,2014-12-20,8:26PM,San Diego Chargers,@,San Francisco 49ers,boxscore,38,35,446,3,447,3,https://www.pro-football-reference.com/boxscores/201412200sfo.htm,SF,LAC,2014_Week16_SF_vs_LAC
+Week16,Sun,2014-12-21,1:02PM,Houston Texans,,Baltimore Ravens,boxscore,25,13,313,1,211,3,https://www.pro-football-reference.com/boxscores/201412210htx.htm,HOU,BAL,2014_Week16_HOU_vs_BAL
+Week16,Sun,2014-12-21,1:02PM,Pittsburgh Steelers,,Kansas City Chiefs,boxscore,20,12,282,0,327,1,https://www.pro-football-reference.com/boxscores/201412210pit.htm,PIT,KC,2014_Week16_PIT_vs_KC
+Week16,Sun,2014-12-21,1:02PM,New England Patriots,@,New York Jets,boxscore,17,16,231,1,307,1,https://www.pro-football-reference.com/boxscores/201412210nyj.htm,NYJ,NE,2014_Week16_NYJ_vs_NE
+Week16,Sun,2014-12-21,1:03PM,Atlanta Falcons,@,New Orleans Saints,boxscore,30,14,403,0,328,4,https://www.pro-football-reference.com/boxscores/201412210nor.htm,NO,ATL,2014_Week16_NO_vs_ATL
+Week16,Sun,2014-12-21,1:03PM,Detroit Lions,@,Chicago Bears,boxscore,20,14,367,3,234,1,https://www.pro-football-reference.com/boxscores/201412210chi.htm,CHI,DET,2014_Week16_CHI_vs_DET
+Week16,Sun,2014-12-21,1:03PM,Green Bay Packers,@,Tampa Bay Buccaneers,boxscore,20,3,431,1,109,1,https://www.pro-football-reference.com/boxscores/201412210tam.htm,TB,GB,2014_Week16_TB_vs_GB
+Week16,Sun,2014-12-21,1:03PM,Miami Dolphins,,Minnesota Vikings,boxscore,37,35,493,2,357,1,https://www.pro-football-reference.com/boxscores/201412210mia.htm,MIA,MIN,2014_Week16_MIA_vs_MIN
+Week16,Sun,2014-12-21,1:04PM,Carolina Panthers,,Cleveland Browns,boxscore,17,13,404,2,228,1,https://www.pro-football-reference.com/boxscores/201412210car.htm,CAR,CLE,2014_Week16_CAR_vs_CLE
+Week16,Sun,2014-12-21,4:05PM,New York Giants,@,St. Louis Rams,boxscore,37,27,514,0,387,3,https://www.pro-football-reference.com/boxscores/201412210ram.htm,LAR,NYG,2014_Week16_LAR_vs_NYG
+Week16,Sun,2014-12-21,4:25PM,Oakland Raiders,,Buffalo Bills,boxscore,26,24,347,0,321,2,https://www.pro-football-reference.com/boxscores/201412210rai.htm,LVR,BUF,2014_Week16_LVR_vs_BUF
+Week16,Sun,2014-12-21,4:26PM,Dallas Cowboys,,Indianapolis Colts,boxscore,42,7,377,1,229,3,https://www.pro-football-reference.com/boxscores/201412210dal.htm,DAL,IND,2014_Week16_DAL_vs_IND
+Week16,Sun,2014-12-21,8:30PM,Seattle Seahawks,@,Arizona Cardinals,boxscore,35,6,596,0,216,1,https://www.pro-football-reference.com/boxscores/201412210crd.htm,ARI,SEA,2014_Week16_ARI_vs_SEA
+Week16,Mon,2014-12-22,8:30PM,Cincinnati Bengals,,Denver Broncos,boxscore,37,28,353,2,385,4,https://www.pro-football-reference.com/boxscores/201412220cin.htm,CIN,DEN,2014_Week16_CIN_vs_DEN
+Week17,Sun,2014-12-28,1:02PM,Buffalo Bills,@,New England Patriots,boxscore,17,9,268,1,260,0,https://www.pro-football-reference.com/boxscores/201412280nwe.htm,NE,BUF,2014_Week17_NE_vs_BUF
+Week17,Sun,2014-12-28,1:02PM,Minnesota Vikings,,Chicago Bears,boxscore,13,9,311,1,264,0,https://www.pro-football-reference.com/boxscores/201412280min.htm,MIN,CHI,2014_Week17_MIN_vs_CHI
+Week17,Sun,2014-12-28,1:02PM,Baltimore Ravens,,Cleveland Browns,boxscore,20,10,419,0,259,2,https://www.pro-football-reference.com/boxscores/201412280rav.htm,BAL,CLE,2014_Week17_BAL_vs_CLE
+Week17,Sun,2014-12-28,1:02PM,Indianapolis Colts,@,Tennessee Titans,boxscore,27,10,378,0,192,1,https://www.pro-football-reference.com/boxscores/201412280oti.htm,TEN,IND,2014_Week17_TEN_vs_IND
+Week17,Sun,2014-12-28,1:02PM,New York Jets,@,Miami Dolphins,boxscore,37,24,494,1,387,1,https://www.pro-football-reference.com/boxscores/201412280mia.htm,MIA,NYJ,2014_Week17_MIA_vs_NYJ
+Week17,Sun,2014-12-28,1:02PM,Philadelphia Eagles,@,New York Giants,boxscore,34,26,426,1,505,1,https://www.pro-football-reference.com/boxscores/201412280nyg.htm,NYG,PHI,2014_Week17_NYG_vs_PHI
+Week17,Sun,2014-12-28,1:03PM,Houston Texans,,Jacksonville Jaguars,boxscore,23,17,358,2,233,0,https://www.pro-football-reference.com/boxscores/201412280htx.htm,HOU,JAX,2014_Week17_HOU_vs_JAX
+Week17,Sun,2014-12-28,1:03PM,Kansas City Chiefs,,San Diego Chargers,boxscore,19,7,251,0,361,3,https://www.pro-football-reference.com/boxscores/201412280kan.htm,KC,LAC,2014_Week17_KC_vs_LAC
+Week17,Sun,2014-12-28,1:03PM,New Orleans Saints,@,Tampa Bay Buccaneers,boxscore,23,20,338,3,280,1,https://www.pro-football-reference.com/boxscores/201412280tam.htm,TB,NO,2014_Week17_TB_vs_NO
+Week17,Sun,2014-12-28,1:05PM,Dallas Cowboys,@,Washington Redskins,boxscore,44,17,473,1,413,4,https://www.pro-football-reference.com/boxscores/201412280was.htm,WAS,DAL,2014_Week17_WAS_vs_DAL
+Week17,Sun,2014-12-28,4:25PM,Carolina Panthers,@,Atlanta Falcons,boxscore,34,3,306,0,288,3,https://www.pro-football-reference.com/boxscores/201412280atl.htm,ATL,CAR,2014_Week17_ATL_vs_CAR
+Week17,Sun,2014-12-28,4:25PM,San Francisco 49ers,,Arizona Cardinals,boxscore,20,17,395,0,397,3,https://www.pro-football-reference.com/boxscores/201412280sfo.htm,SF,ARI,2014_Week17_SF_vs_ARI
+Week17,Sun,2014-12-28,4:25PM,Denver Broncos,,Oakland Raiders,boxscore,47,14,451,1,199,2,https://www.pro-football-reference.com/boxscores/201412280den.htm,DEN,LVR,2014_Week17_DEN_vs_LVR
+Week17,Sun,2014-12-28,4:25PM,Green Bay Packers,,Detroit Lions,boxscore,30,20,377,2,313,1,https://www.pro-football-reference.com/boxscores/201412280gnb.htm,GB,DET,2014_Week17_GB_vs_DET
+Week17,Sun,2014-12-28,4:27PM,Seattle Seahawks,,St. Louis Rams,boxscore,20,6,354,2,245,3,https://www.pro-football-reference.com/boxscores/201412280sea.htm,SEA,LAR,2014_Week17_SEA_vs_LAR
+Week17,Sun,2014-12-28,8:30PM,Pittsburgh Steelers,,Cincinnati Bengals,boxscore,27,17,346,3,337,3,https://www.pro-football-reference.com/boxscores/201412280pit.htm,PIT,CIN,2014_Week17_PIT_vs_CIN
+WildCard,Sat,2015-01-03,4:20PM,Carolina Panthers,,Arizona Cardinals,boxscore,27,16,386,3,78,3,https://www.pro-football-reference.com/boxscores/201501030car.htm,CAR,ARI,2014_WildCard_CAR_vs_ARI
+WildCard,Sat,2015-01-03,8:15PM,Baltimore Ravens,@,Pittsburgh Steelers,boxscore,30,17,299,1,387,3,https://www.pro-football-reference.com/boxscores/201501030pit.htm,PIT,BAL,2014_WildCard_PIT_vs_BAL
+WildCard,Sun,2015-01-04,1:05PM,Indianapolis Colts,,Cincinnati Bengals,boxscore,26,10,482,1,254,1,https://www.pro-football-reference.com/boxscores/201501040clt.htm,IND,CIN,2014_WildCard_IND_vs_CIN
+WildCard,Sun,2015-01-04,4:41PM,Dallas Cowboys,,Detroit Lions,boxscore,24,20,315,1,397,3,https://www.pro-football-reference.com/boxscores/201501040dal.htm,DAL,DET,2014_WildCard_DAL_vs_DET
+Division,Sat,2015-01-10,4:35PM,New England Patriots,,Baltimore Ravens,boxscore,35,31,422,1,428,2,https://www.pro-football-reference.com/boxscores/201501100nwe.htm,NE,BAL,2014_Division_NE_vs_BAL
+Division,Sat,2015-01-10,8:21PM,Seattle Seahawks,,Carolina Panthers,boxscore,31,17,348,0,362,3,https://www.pro-football-reference.com/boxscores/201501100sea.htm,SEA,CAR,2014_Division_SEA_vs_CAR
+Division,Sun,2015-01-11,1:05PM,Green Bay Packers,,Dallas Cowboys,boxscore,26,21,416,1,315,1,https://www.pro-football-reference.com/boxscores/201501110gnb.htm,GB,DAL,2014_Division_GB_vs_DAL
+Division,Sun,2015-01-11,4:40PM,Indianapolis Colts,@,Denver Broncos,boxscore,24,13,364,2,288,1,https://www.pro-football-reference.com/boxscores/201501110den.htm,DEN,IND,2014_Division_DEN_vs_IND
+ConfChamp,Sun,2015-01-18,3:06PM,Seattle Seahawks,,Green Bay Packers,boxscore,28,22,397,5,306,2,https://www.pro-football-reference.com/boxscores/201501180sea.htm,SEA,GB,2014_ConfChamp_SEA_vs_GB
+ConfChamp,Sun,2015-01-18,6:50PM,New England Patriots,,Indianapolis Colts,boxscore,45,7,397,1,209,3,https://www.pro-football-reference.com/boxscores/201501180nwe.htm,NE,IND,2014_ConfChamp_NE_vs_IND
+SuperBowl,Sun,2015-02-01,6:30PM,New England Patriots,N,Seattle Seahawks,boxscore,28,24,377,2,396,1,https://www.pro-football-reference.com/boxscores/201502010sea.htm,SEA,NE,2014_SuperBowl_SEA_vs_NE

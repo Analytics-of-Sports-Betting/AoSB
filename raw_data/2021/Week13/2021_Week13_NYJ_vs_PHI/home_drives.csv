@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,PHI 21,5,2:18,21,Touchdown
+2,1,9:25,NYJ 32,11,6:07,68,Touchdown
+3,2,14:12,NYJ 25,9,4:50,75,Touchdown
+4,2,4:30,NYJ 25,3,2:20,-3,Punt
+5,2,0:19,NYJ 25,1,0:19,-1,End of Half
+6,3,6:38,NYJ 30,3,1:10,3,Punt
+7,4,14:15,NYJ 25,6,1:13,32,Interception
+8,4,9:42,NYJ 25,11,4:19,38,Downs
+9,4,1:48,NYJ 19,8,1:48,43,End of Game

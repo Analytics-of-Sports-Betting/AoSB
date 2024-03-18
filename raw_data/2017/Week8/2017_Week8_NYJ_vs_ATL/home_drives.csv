@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,NYJ 25,8,4:27,75,Touchdown
+2,1,9:42,ATL 34,4,1:26,6,Missed FG
+3,1,5:03,NYJ 28,6,3:26,20,Punt
+4,1,0:13,ATL 20,4,1:10,-5,Field Goal
+5,2,8:06,NYJ 25,4,2:06,9,Punt
+6,2,5:03,ATL 43,5,2:37,43,Touchdown
+7,3,12:46,NYJ 34,3,2:08,9,Punt
+8,3,9:12,ATL 47,3,1:56,-4,Punt
+9,3,5:12,NYJ 25,10,5:55,45,Missed FG
+10,4,12:22,NYJ 20,7,3:40,52,Field Goal
+11,4,5:19,NYJ 26,3,1:43,3,Punt
+12,4,1:07,NYJ 4,6,1:07,29,End of Game

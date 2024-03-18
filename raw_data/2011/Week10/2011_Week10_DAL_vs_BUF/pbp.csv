@@ -1,0 +1,158 @@
+Quarter,Time,Down,ToGo,Location,BUF,DAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Cowboys won the coin toss, Cowboys to receive the opening kickoff.",,
+1,15:00,,,BUF 35,0,0,"Dave Rayner kicks off 65 yards, touchback",0.000,0.280
+1,15:00,1,10,DAL 20,0,0,Tony Romo pass complete short left to DeMarco Murray for 15 yards (tackle by George Wilson and Spencer Johnson),0.280,1.270
+1,14:25,1,10,DAL 35,0,0,DeMarco Murray right tackle for 4 yards (tackle by Kelvin Sheppard),1.270,1.260
+1,13:52,2,6,DAL 39,0,0,Tony Romo pass complete short left to Jason Witten for 2 yards (tackle by Terrence McGee),1.260,0.830
+1,13:07,3,4,DAL 41,0,0,Tony Romo pass complete deep right to Jesse Holley for 25 yards (tackle by Terrence McGee),0.830,3.310
+1,12:20,1,10,BUF 34,0,6,"Tony Romo pass complete short right to Dez Bryant for 34 yards, touchdown",3.310,7.000
+1,,,,BUF 2,0,7,Dan Bailey kicks extra point good,0.000,0.000
+1,,,,DAL 35,0,7,"Dan Bailey kicks off 73 yards, touchback",0.000,0.280
+1,12:12,1,10,BUF 20,0,7,Ryan Fitzpatrick sacked by DeMarcus Ware for -10 yards,0.280,-1.510
+1,11:37,2,20,BUF 10,0,7,Ryan Fitzpatrick pass complete short middle to Donald Jones for 6 yards (tackle by Abram Elam),-1.510,-1.690
+1,10:57,3,14,BUF 16,0,7,Ryan Fitzpatrick pass incomplete,-1.690,-2.390
+1,10:52,4,14,BUF 16,0,7,"Brian Moorman punts 52 yards, returned by Akwasi Owusu-Ansah for no gain. Penalty on Orlando Scandrick: Illegal Block Above the Waist, 10 yards",-2.390,-0.410
+1,10:40,1,10,DAL 22,0,7,DeMarco Murray left tackle for 4 yards (tackle by George Wilson),0.410,0.410
+1,10:02,2,6,DAL 26,0,7,Tony Romo pass complete short middle to Martellus Bennett for 8 yards (tackle by Kelvin Sheppard),0.410,1.200
+1,9:21,1,10,DAL 34,0,7,DeMarco Murray left tackle for 7 yards (tackle by Jairus Byrd),1.200,1.600
+1,8:45,2,3,DAL 41,0,7,DeMarco Murray up the middle for 13 yards (tackle by George Wilson and Jairus Byrd),1.600,2.520
+1,8:04,1,10,BUF 46,0,7,Tony Romo pass complete short left to DeMarco Murray for 11 yards (tackle by Terrence McGee),2.520,3.250
+1,7:27,1,10,BUF 35,0,7,Phillip Tanner right tackle for 3 yards (tackle by George Wilson),3.250,3.110
+1,7:27,2,7,BUF 32,0,7,"Penalty on Kellen Heard: Encroachment, 5 yards (no play)",3.110,3.780
+1,6:35,2,2,BUF 27,0,7,Phillip Tanner up the middle for -1 yards (tackle by Alex Carrington),3.780,2.940
+1,5:58,3,3,BUF 28,0,7,Tony Romo pass complete short left to Jason Witten for 5 yards (tackle by Drayton Florence),2.940,4.040
+1,5:17,1,10,BUF 23,0,7,Tony Romo pass complete short right to Dez Bryant for 13 yards (tackle by Terrence McGee),4.040,4.910
+1,4:40,1,10,BUF 10,0,7,Tony Romo pass complete short right to Jason Witten for 3 yards (tackle by Jairus Byrd),4.910,4.760
+1,3:58,2,7,BUF 7,0,7,DeMarco Murray up the middle for 2 yards (tackle by Marcell Dareus),4.760,4.260
+1,3:12,3,5,BUF 5,0,13,"Tony Romo pass complete short left to Laurent Robinson for 5 yards, touchdown",4.260,7.000
+1,,,,BUF 2,0,14,Dan Bailey kicks extra point good,0.000,0.000
+1,,,,DAL 35,0,14,"Dan Bailey kicks off 72 yards, touchback",0.000,0.280
+1,3:05,1,10,BUF 20,0,14,Fred Jackson right tackle for 2 yards (tackle by Jay Ratliff),0.280,0.000
+1,2:26,2,8,BUF 22,0,14,Ryan Fitzpatrick pass complete short right to David Nelson for 11 yards (tackle by Alan Ball),0.000,1.140
+1,2:10,1,10,BUF 33,0,14,"Ryan Fitzpatrick pass complete short right to C.J. Spiller for 6 yards (tackle by Frank Walker). Penalty on C.J. Spiller: Illegal Motion, 5 yards (no play)",1.140,0.810
+1,1:40,1,15,BUF 28,0,14,Ryan Fitzpatrick pass complete short right to Fred Jackson for 5 yards (tackle by Sean Lee),0.810,0.590
+1,0:54,2,10,BUF 33,0,14,Ryan Fitzpatrick pass complete short left to Donald Jones for 9 yards (tackle by Frank Walker and Orlando Scandrick),0.590,1.090
+1,0:12,3,1,BUF 42,0,14,"Brad Smith up the middle for no gain (tackle by Jay Ratliff). Penalty on DAL: Defensive 12 On-field, 5 yards (no play)",1.090,2.060
+Quarter,Time,Down,ToGo,Location,BUF,DAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,BUF 47,0,14,"Ryan Fitzpatrick up the middle for 12 yards (tackle by Keith Brooking). Penalty on DAL: Illegal Use of Hands, 5 yards",2.060,3.180
+2,14:38,1,10,DAL 36,0,14,Fred Jackson right end for 3 yards (tackle by Kenyon Coleman),3.180,3.040
+2,13:57,2,7,DAL 33,0,14,Ryan Fitzpatrick pass complete short left to Fred Jackson for -2 yards (tackle by DeMarcus Ware),3.040,2.080
+2,13:11,3,9,DAL 35,0,14,Ryan Fitzpatrick pass complete short left to Fred Jackson for 1 yard (tackle by Terence Newman and Gerald Sensabaugh),2.080,1.060
+2,13:11,4,8,DAL 34,0,14,Dave Rayner 52 yard field goal no good,1.060,-1.730
+2,12:26,1,10,DAL 42,0,20,"Tony Romo pass complete deep middle to Laurent Robinson for 58 yards, touchdown",1.730,7.000
+2,,,,BUF 2,0,21,Dan Bailey kicks extra point good,0.000,0.000
+2,,,,DAL 35,0,21,"Dan Bailey kicks off 65 yards, touchback",0.000,0.280
+2,12:17,1,10,BUF 20,0,21,Ryan Fitzpatrick pass complete short right to David Nelson for 9 yards (tackle by Abram Elam),0.280,0.950
+2,11:42,2,1,BUF 29,0,21,Fred Jackson right tackle for 4 yards (tackle by Sean Lissemore),0.950,1.140
+2,11:03,1,10,BUF 33,0,21,"Ryan Fitzpatrick pass incomplete short right intended for Steve Johnson. Penalty on Terence Newman: Defensive Pass Interference, 21 yards (no play)",1.140,2.520
+2,10:57,1,10,DAL 46,0,21,C.J. Spiller right tackle for 1 yard (tackle by Anthony Spencer),2.520,2.110
+2,10:12,2,9,DAL 45,0,21,"Ryan Fitzpatrick up the middle for 2 yards (tackle by Orlando Scandrick). Penalty on DeMarcus Ware: Defensive Offside, 5 yards (no play)",2.110,2.790
+2,9:47,2,4,DAL 40,0,21,Ryan Fitzpatrick pass complete short middle to Scott Chandler for 18 yards (tackle by Keith Brooking),2.790,4.110
+2,9:06,1,10,DAL 22,0,21,Fred Jackson left end for 19 yards (tackle by Alan Ball and Keith Brooking),4.110,6.510
+2,8:28,1,3,DAL 3,0,21,Ryan Fitzpatrick pass incomplete short right intended for David Nelson (defended by Alan Ball),6.510,5.530
+2,8:22,2,3,DAL 3,6,21,"Ryan Fitzpatrick pass complete short right to David Nelson for 3 yards, touchdown",5.530,7.000
+2,,,,DAL 2,7,21,Dave Rayner kicks extra point good,0.000,0.000
+2,,,,BUF 35,7,21,"Dave Rayner kicks off 69 yards, touchback",0.000,0.280
+2,8:16,1,10,DAL 20,7,21,DeMarco Murray up the middle for 3 yards (tackle by Nick Barnett),0.280,0.140
+2,7:39,2,7,DAL 23,7,21,Tony Romo pass complete short right to DeMarco Murray for -1 yards (tackle by Danny Batten),0.140,-0.690
+2,6:52,3,8,DAL 22,7,21,Tony Romo pass complete short left to DeMarco Murray for 17 yards (tackle by George Wilson),-0.690,1.530
+2,6:27,1,10,DAL 39,7,21,DeMarco Murray left end for 4 yards (tackle by George Wilson),1.530,1.530
+2,5:53,2,6,DAL 43,7,21,Tony Romo pass incomplete short middle intended for Jason Witten,1.530,0.830
+2,5:48,3,6,DAL 43,7,21,Tony Romo pass complete short middle to Jason Witten for 17 yards (tackle by George Wilson),0.830,2.920
+2,5:03,1,10,BUF 40,7,21,Tony Romo pass complete short left to Dez Bryant for 4 yards (tackle by Drayton Florence),2.920,2.910
+2,4:25,2,6,BUF 36,7,21,DeMarco Murray right end for 4 yards (tackle by Terrence McGee),2.910,2.740
+2,3:41,3,2,BUF 32,7,21,Tony Romo pass complete short middle to Jason Witten for 10 yards (tackle by Bryan Scott),2.740,4.110
+2,2:55,1,10,BUF 22,7,21,Tony Romo pass complete short left to Dez Bryant for no gain,4.110,3.560
+2,2:06,2,10,BUF 22,7,21,Phillip Tanner right tackle for 4 yards (tackle by Kelvin Sheppard and Torell Troup),3.560,3.400
+2,2:00,3,6,BUF 18,7,21,Tony Romo pass complete short left to Dez Bryant for 11 yards (tackle by Leodis McKelvin),3.400,5.600
+2,1:15,1,7,BUF 7,7,21,"DeMarco Murray up the middle for 4 yards (tackle by George Wilson and Arthur Moats). Penalty on Torell Troup: Defensive Holding, 2 yards",5.600,6.970
+2,1:09,1,1,BUF 1,7,27,"DeMarco Murray left guard for 1 yard, touchdown",6.970,7.000
+2,,,,BUF 2,7,28,Dan Bailey kicks extra point good,0.000,0.000
+2,,,,DAL 35,7,28,"Dan Bailey kicks off 72 yards, touchback",0.000,0.280
+2,1:05,1,10,BUF 20,7,28,Ryan Fitzpatrick pass complete short right to Donald Jones for 7 yards (tackle by Terence Newman),0.280,0.680
+2,0:45,2,3,BUF 27,7,28,Ryan Fitzpatrick pass incomplete (defended by DeMarcus Ware),0.680,-0.030
+2,0:40,3,3,BUF 27,7,28,Ryan Fitzpatrick pass incomplete short middle intended for Steve Johnson,-0.030,-1.570
+2,0:33,4,3,BUF 27,7,28,"Brian Moorman punts 59 yards, fair catch by Akwasi Owusu-Ansah",-1.570,0.280
+2,0:26,1,10,DAL 14,7,28,DeMarco Murray left end for 25 yards (tackle by Dwan Edwards),-0.280,1.530
+2,0:13,,,,7,28,Timeout #1 by Dallas Cowboys,0.000,1.530
+2,0:13,1,10,DAL 39,7,28,Phillip Tanner left tackle for 4 yards (tackle by Spencer Johnson),1.530,1.530
+2,0:07,,,,7,28,Timeout #2 by Dallas Cowboys,0.000,1.530
+2,0:07,2,6,DAL 43,7,28,Tony Romo kneels for -1 yards,1.530,0.700
+Quarter,Time,Down,ToGo,Location,BUF,DAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DAL 35,,,"Dan Bailey kicks off 48 yards, returned by Brad Smith for no gain",,
+,,,,,,,"BUF challenged the runner was in bounds ruling, and the play was upheld.",,
+3,14:59,1,10,BUF 17,7,28,"Ryan Fitzpatrick pass incomplete deep right intended for C.J. Spiller. Penalty on DeMarcus Ware: Roughing the Passer, 15 yards (no play)",-0.060,1.070
+3,14:52,1,10,BUF 32,7,28,Fred Jackson left guard for 13 yards (tackle by Sean Lee),1.070,1.930
+3,14:11,1,10,BUF 45,7,28,Fred Jackson left end for 2 yards (tackle by Sean Lee and Keith Brooking),1.930,1.650
+3,13:21,2,8,BUF 47,7,28,Ryan Fitzpatrick pass incomplete,1.650,0.960
+3,13:12,3,8,BUF 47,7,28,Ryan Fitzpatrick pass complete short left to Donald Jones for 9 yards (tackle by Alan Ball),0.960,2.650
+3,12:36,1,10,DAL 44,7,28,Fred Jackson left tackle for 19 yards (tackle by Anthony Spencer),2.650,3.910
+3,11:57,1,10,DAL 25,7,28,Ryan Fitzpatrick up the middle for 5 yards (tackle by Keith Brooking),3.910,4.040
+3,11:19,2,5,DAL 20,7,28,Ryan Fitzpatrick pass complete short left to Fred Jackson for -3 yards (tackle by Danny McCray),4.040,2.940
+3,10:34,3,8,DAL 23,7,28,Ryan Fitzpatrick pass complete short middle to Steve Johnson for 6 yards (tackle by Gerald Sensabaugh),2.940,2.440
+3,9:51,4,2,DAL 17,7,28,Ryan Fitzpatrick pass incomplete deep right intended for Donald Jones,2.440,0.060
+3,9:45,1,10,DAL 17,7,28,"DeMarco Murray right guard for 8 yards (tackle by Jairus Byrd). DeMarco Murray fumbles (forced by Jairus Byrd), recovered by DeMarco Murray at DAL-25",-0.060,0.620
+3,9:13,2,2,DAL 25,7,28,Phillip Tanner up the middle for 5 yards (tackle by Kelvin Sheppard and Da'Norris Searcy),0.620,0.940
+3,8:34,1,10,DAL 30,7,28,Phillip Tanner left end for 2 yards (tackle by Jairus Byrd),0.940,0.660
+3,7:51,2,8,DAL 32,7,28,Tony Romo pass incomplete short left intended for Jason Witten (defended by Drayton Florence),0.660,-0.030
+3,7:44,3,8,DAL 32,7,28,Tony Romo pass incomplete short middle intended for DeMarco Murray,-0.030,-1.240
+3,7:34,4,8,DAL 32,7,28,Mat McBriar punts 52 yards,-1.240,0.140
+3,7:29,1,10,BUF 16,7,28,"Penalty on DAL: Neutral Zone Infraction, 5 yards (no play)",-0.140,0.740
+3,7:29,1,5,BUF 21,7,28,Ryan Fitzpatrick pass incomplete deep middle intended for Donald Jones,0.740,0.150
+3,7:23,2,5,BUF 21,7,28,Ryan Fitzpatrick pass complete short middle to Steve Johnson for 2 yards (tackle by Gerald Sensabaugh),0.150,-0.450
+3,6:43,3,3,BUF 23,7,28,Ryan Fitzpatrick pass complete short right to Donald Jones for 2 yards (tackle by Orlando Scandrick),-0.450,-1.700
+3,6:01,4,1,BUF 25,7,28,"Brian Moorman punts 45 yards, returned by Akwasi Owusu-Ansah for 4 yards (tackle by Brad Smith)",-1.700,-1.200
+3,5:49,1,10,DAL 34,7,28,DeMarco Murray right end for 2 yards (tackle by Da'Norris Searcy),1.200,0.930
+3,5:29,2,8,DAL 36,7,28,Tony Romo pass complete deep middle to Dez Bryant for 12 yards (tackle by Danny Batten),0.930,2.130
+3,4:44,1,10,DAL 48,7,28,Tony Romo pass complete short middle to Kevin Ogletree for 17 yards (tackle by Jairus Byrd),2.130,3.250
+3,4:05,1,10,BUF 35,7,28,Tony Romo right tackle for 1 yard (tackle by Kellen Heard),3.250,2.840
+3,3:20,2,9,BUF 34,7,28,DeMarco Murray up the middle for -3 yards (tackle by Kellen Heard),2.840,1.750
+3,2:40,3,12,BUF 37,7,28,Tony Romo pass complete short right to Laurent Robinson for 10 yards (tackle by Leodis McKelvin),1.750,1.800
+3,2:40,4,2,BUF 27,7,31,Dan Bailey 45 yard field goal good,1.800,3.000
+3,,,,DAL 35,7,31,"Dan Bailey kicks off 73 yards, touchback",0.000,0.280
+3,2:25,1,10,BUF 20,7,31,Ryan Fitzpatrick pass incomplete deep right intended for Donald Jones is intercepted by Terence Newman at BUF-41 and returned for 19 yards,0.280,-4.110
+3,2:14,1,10,BUF 22,7,31,Tony Romo pass complete short right to DeMarco Murray for -5 yards (tackle by Nick Barnett),4.110,2.890
+3,1:30,2,15,BUF 27,7,31,Tony Romo pass complete short middle to DeMarco Murray for -1 yards (tackle by Torell Troup),2.890,2.080
+3,0:45,3,16,BUF 28,7,31,DeMarco Murray left end for 10 yards (tackle by Nick Barnett),2.080,2.270
+3,0:19,4,6,BUF 18,7,34,Dan Bailey 36 yard field goal good,2.270,3.000
+3,,,,DAL 35,7,34,"Dan Bailey kicks off 72 yards, returned by C.J. Spiller for 26 yards (tackle by Brandon Carter)",0.000,0.150
+3,0:10,1,10,BUF 19,7,34,Fred Jackson up the middle for 11 yards (tackle by Sean Lee),0.150,0.940
+Quarter,Time,Down,ToGo,Location,BUF,DAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,BUF 30,7,34,Ryan Fitzpatrick pass incomplete short middle intended for Steve Johnson,0.940,0.390
+4,14:55,2,10,BUF 30,7,34,Ryan Fitzpatrick pass complete deep right to Donald Jones for 18 yards (tackle by Abram Elam and Barry Church),0.390,2.130
+4,14:17,1,10,BUF 48,7,34,Ryan Fitzpatrick pass complete short right to Scott Chandler for 15 yards (tackle by Gerald Sensabaugh and Terence Newman),2.130,3.120
+4,13:32,1,10,DAL 37,7,34,"Fred Jackson left tackle for 9 yards (tackle by Gerald Sensabaugh). Fred Jackson fumbles (forced by Gerald Sensabaugh), recovered by Jay Ratliff at DAL-28",3.120,-0.810
+,,,,,,,"DAL challenged the fumble ruling, and the original play was overturned.",,
+4,12:55,1,10,DAL 28,7,34,DeMarco Murray left tackle for 6 yards (tackle by Spencer Johnson),0.810,1.070
+4,12:09,2,4,DAL 34,7,34,DeMarco Murray up the middle for 12 yards (tackle by Drayton Florence),1.070,1.990
+4,11:22,1,10,DAL 46,7,34,DeMarco Murray left tackle for 6 yards (tackle by Marcell Dareus),1.990,2.260
+4,10:37,2,4,BUF 48,7,34,Phillip Tanner right end for 3 yards (tackle by Torell Troup),2.260,1.950
+4,9:51,3,1,BUF 45,7,34,Phillip Tanner right end for 1 yard (tackle by Da'Norris Searcy),1.950,2.650
+4,8:59,1,10,BUF 44,7,34,DeMarco Murray left end for 12 yards (tackle by Drayton Florence),2.650,3.450
+4,8:23,1,10,BUF 32,7,34,DeMarco Murray left end for 11 yards (tackle by Da'Norris Searcy and Jairus Byrd),3.450,4.170
+4,7:35,1,10,BUF 21,7,34,Phillip Tanner up the middle for 8 yards (tackle by Da'Norris Searcy),4.170,4.950
+4,6:49,2,2,BUF 13,7,34,Phillip Tanner right end for no gain (tackle by Antonio Coleman and Nick Barnett),4.950,4.240
+4,6:02,3,2,BUF 13,7,34,Phillip Tanner right end for no gain (tackle by Antonio Coleman),4.240,2.690
+4,5:15,,,,7,34,Timeout #1 by Dallas Cowboys,0.000,2.690
+4,5:15,4,2,BUF 13,7,37,Dan Bailey 31 yard field goal good,2.690,3.000
+4,,,,DAL 35,7,37,"Dan Bailey kicks off 67 yards, returned by C.J. Spiller for 35 yards (tackle by Abram Elam)",0.000,1.140
+4,5:03,1,10,BUF 33,7,43,"Ryan Fitzpatrick pass incomplete short right intended for Steve Johnson is intercepted by Terence Newman at BUF-43 and returned for 43 yards, touchdown",1.140,-7.000
+4,,,,BUF 2,7,44,Dan Bailey kicks extra point good,0.000,0.000
+4,,,,DAL 35,7,44,"Dan Bailey kicks off 65 yards, touchback",0.000,0.280
+4,4:54,1,10,BUF 20,7,44,Fred Jackson left tackle for 8 yards (tackle by Alex Albright),0.280,0.810
+4,4:17,2,2,BUF 28,7,44,"Ryan Fitzpatrick pass incomplete short middle intended for Steve Johnson. Penalty on Terence Newman: Defensive Pass Interference, 8 yards (no play)",0.810,1.330
+4,4:11,1,10,BUF 36,7,44,Fred Jackson up the middle for 5 yards (tackle by Barry Church and Jay Ratliff),1.330,1.470
+4,3:35,2,5,BUF 41,7,44,Fred Jackson left end for 15 yards (tackle by Frank Walker),1.470,2.650
+4,3:28,1,10,DAL 44,7,44,Ryan Fitzpatrick pass complete short left to Scott Chandler for 1 yard (tackle by Barry Church),2.650,2.250
+4,2:43,2,9,DAL 43,7,44,Ryan Fitzpatrick pass complete short left to David Nelson for 8 yards (tackle by Barry Church),2.250,2.610
+4,2:02,3,1,DAL 35,7,44,Ryan Fitzpatrick up the middle for 3 yards (tackle by Sean Lissemore),2.610,3.450
+4,1:58,1,10,DAL 32,7,44,Ryan Fitzpatrick pass complete deep right to Naaman Roosevelt for 21 yards (tackle by Alan Ball),3.450,4.840
+4,1:52,1,10,DAL 11,7,44,Fred Jackson up the middle for 4 yards (tackle by Brandon Carter),4.840,4.890
+4,1:08,2,6,DAL 7,7,44,Ryan Fitzpatrick pass incomplete short left intended for Donald Jones is intercepted by Frank Walker at DAL-1 and returned for 5 yards (tackle by Donald Jones),4.890,0.380
+4,1:01,1,10,DAL 6,7,44,Jon Kitna kneels for no gain,-0.380,-0.780
+4,0:22,2,10,DAL 6,7,44,Jon Kitna kneels for -1 yards,-0.780,-1.540
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

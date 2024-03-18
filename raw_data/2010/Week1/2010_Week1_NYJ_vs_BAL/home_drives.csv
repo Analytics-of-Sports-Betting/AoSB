@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,NYJ 21,5,2:23,15,Punt
+2,1,12:30,BAL 11,4,1:36,6,Field Goal
+3,1,1:38,NYJ 22,5,3:06,35,Punt
+4,2,11:39,BAL 37,5,3:23,27,Field Goal
+5,2,4:58,BAL 31,2,0:49,7,Fumble
+6,2,0:06,NYJ 20,1,0:06,-6,End of Half
+7,3,12:29,NYJ 31,3,0:52,7,Punt
+8,3,7:07,NYJ 32,3,2:20,7,Punt
+9,3,1:55,NYJ 40,4,2:36,20,Punt
+10,4,11:59,BAL 35,4,1:30,5,Field Goal
+11,4,6:13,NYJ 8,4,1:46,16,Punt
+12,4,1:37,NYJ 18,7,1:01,22,Downs

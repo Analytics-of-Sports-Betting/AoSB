@@ -1,0 +1,160 @@
+Quarter,Time,Down,ToGo,Location,PHI,DAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Cowboys won the coin toss, Cowboys to receive the opening kickoff.",,
+1,15:00,,,PHI 30,0,0,"David Akers kicks off 72 yards, touchback",0.000,0.280
+1,15:00,1,10,DAL 20,0,0,Tony Romo pass complete short left to Julius Jones for 10 yards (tackle by Mike Patterson),0.280,0.940
+1,14:24,1,10,DAL 30,0,0,Julius Jones right tackle for 6 yards (tackle by Jeremiah Trotter),0.940,1.200
+1,13:39,2,4,DAL 36,0,0,Tony Romo pass incomplete deep left intended for Terry Glenn,1.200,0.500
+1,13:33,3,4,DAL 36,0,0,Tony Romo pass complete short right to Terry Glenn for 17 yards (tackle by Lito Sheppard),0.500,2.460
+1,12:44,1,10,PHI 47,0,0,Julius Jones left tackle for 7 yards (tackle by Omar Gaither),2.460,2.860
+1,12:08,2,3,PHI 40,0,0,Julius Jones right tackle for no gain (tackle by Mike Patterson),2.860,2.150
+1,11:23,3,3,PHI 40,0,0,Tony Romo pass incomplete short middle intended for Patrick Crayton (defended by Sheldon Brown),2.150,0.590
+1,11:20,4,3,PHI 40,0,0,"Mat McBriar punts 29 yards, fair catch by Reno Mahe",0.590,0.370
+1,11:12,1,10,PHI 11,0,0,Jeff Garcia sacked by Alshermond Singleton for 0 yards,-0.370,-0.780
+1,10:47,2,10,PHI 11,0,0,Brian Westbrook right tackle for -1 yards (tackle by Akin Ayodele),-0.780,-1.540
+1,10:07,3,11,PHI 10,0,0,Jeff Garcia pass complete short middle to Greg Lewis for 13 yards (tackle by Roy Williams),-1.540,0.480
+1,9:22,1,10,PHI 23,0,0,Brian Westbrook left end for 2 yards (tackle by Anthony Henry),0.480,0.200
+1,8:42,2,8,PHI 25,0,0,Brian Westbrook right guard for 7 yards (tackle by Bradie James),0.200,0.430
+1,7:59,3,1,PHI 32,0,0,Brian Westbrook right end for 16 yards (tackle by Anthony Henry),0.430,2.130
+1,7:27,1,10,PHI 48,0,0,Jeff Garcia pass incomplete short middle intended for Donte' Stallworth,2.130,1.580
+1,7:24,2,10,PHI 48,0,0,Correll Buckhalter middle for 3 yards (tackle by Chris Canty and Jason Ferguson),1.580,1.290
+1,6:42,3,7,DAL 49,0,0,Jeff Garcia pass complete short middle to L.J. Smith for 12 yards (tackle by Bradie James),1.290,3.120
+1,6:01,1,10,DAL 37,0,0,Brian Westbrook right end for 3 yards (tackle by Alshermond Singleton),3.120,2.980
+1,5:28,2,7,DAL 34,0,0,Jeff Garcia pass complete short middle to Donte' Stallworth for 6 yards (tackle by Anthony Henry),2.980,3.070
+1,4:45,3,1,DAL 28,0,0,Correll Buckhalter left guard for 3 yards (tackle by Marcus Spears),3.070,3.910
+1,4:06,1,10,DAL 25,6,0,"Jeff Garcia pass complete deep middle to Matt Schobel for 25 yards, touchdown",3.910,7.000
+1,,,,DAL 2,7,0,David Akers kicks extra point good,0.000,0.000
+1,,,,PHI 30,7,0,"David Akers kicks off 66 yards, returned by Miles Austin for 26 yards (tackle by Quintin Mikell). Miles Austin fumbles (forced by Quintin Mikell), recovered by Roderick Hood at DAL-40",0.000,-2.920
+1,3:50,1,10,DAL 40,7,0,Brian Westbrook right guard for 5 yards (tackle by Bradie James and Chris Canty),2.920,3.050
+1,3:12,2,5,DAL 35,7,0,Thomas Tapeh middle for 1 yard (tackle by Chris Canty),3.050,2.480
+1,2:33,3,4,DAL 34,7,0,Jeff Garcia pass incomplete short right intended for Donte' Stallworth is intercepted by Anthony Henry at DAL-31 and returned for 37 yards,2.480,-3.450
+1,2:13,1,10,PHI 32,7,0,Julius Jones middle for 2 yards (tackle by Juqua Parker and Omar Gaither),3.450,3.170
+1,1:47,2,8,PHI 30,7,0,Tony Romo pass complete short left to Anthony Fasano for 7 yards (tackle by Sheldon Brown),3.170,3.400
+1,1:20,3,1,PHI 23,7,0,Marion Barber right end for -1 yards (tackle by Mike Patterson and Brian Dawkins),3.400,1.990
+1,0:33,4,2,PHI 24,7,0,Tony Romo pass complete short middle to Patrick Crayton for 17 yards (tackle by Sean Considine),1.990,5.600
+Quarter,Time,Down,ToGo,Location,PHI,DAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,7,PHI 7,7,0,Tony Romo pass complete short middle to Anthony Fasano for 6 yards (tackle by Omar Gaither),5.600,5.910
+2,14:20,2,1,PHI 1,7,0,Marion Barber right tackle for no gain (tackle by Quintin Mikell),5.910,5.170
+2,13:48,3,1,PHI 1,7,0,Marion Barber middle for no gain (tackle by Darwin Walker),5.170,3.550
+2,12:57,4,1,PHI 1,7,0,Marion Barber right end for -3 yards (tackle by Quintin Mikell),3.550,0.380
+2,12:52,1,10,PHI 4,7,0,Jeff Garcia pass complete deep middle to Donte' Stallworth for 35 yards (tackle by Anthony Henry),-0.380,1.530
+2,12:08,1,10,PHI 39,7,0,Correll Buckhalter right guard for 4 yards (tackle by Kenyon Coleman and Jason Hatcher),1.530,1.530
+2,11:29,2,6,PHI 43,7,0,Correll Buckhalter middle for 5 yards (tackle by Kenyon Coleman),1.530,1.490
+2,10:58,3,1,PHI 48,7,0,Jeff Garcia pass complete short middle to Reggie Brown for 11 yards (tackle by Pat Watkins). Penalty on DeMarcus Ware: Defensive Offside (Declined),1.490,2.850
+2,10:35,1,10,DAL 41,7,0,Brian Westbrook right tackle for 4 yards (tackle by Bobby Carpenter),2.850,2.850
+2,9:56,,,,7,0,Timeout #1 by Philadelphia Eagles,0.000,2.850
+2,9:56,2,6,DAL 37,7,0,Jeff Garcia pass complete short left to Correll Buckhalter for 13 yards (tackle by Bradie James),2.850,3.970
+2,9:16,1,10,DAL 24,7,0,Brian Westbrook right end for 3 yards (tackle by Bobby Carpenter),3.970,3.840
+2,8:34,2,7,DAL 21,7,0,Jeff Garcia pass complete short middle to Matt Schobel for 10 yards (tackle by Bobby Carpenter),3.840,4.840
+2,7:50,1,10,DAL 11,7,0,Brian Westbrook left tackle for 2 yards (tackle by DeMarcus Ware),4.840,4.510
+2,7:09,2,8,DAL 9,7,0,Brian Westbrook left tackle for 6 yards (tackle by Kenyon Coleman),4.510,4.890
+2,6:25,3,2,DAL 3,7,0,Brian Westbrook right guard for 1 yard (tackle by Bobby Carpenter and Jason Ferguson),4.890,3.250
+2,5:36,4,1,DAL 2,7,0,"Penalty on Dirk Johnson: Delay of Game, 5 yards (no play)",3.250,2.980
+2,5:19,4,6,DAL 7,10,0,David Akers 25 yard field goal good,2.980,3.000
+2,,,,PHI 30,10,0,"David Akers kicks off 68 yards, returned by Miles Austin for 17 yards (tackle by Quintin Mikell)",0.000,0.150
+2,5:10,1,10,DAL 19,10,0,Tony Romo pass incomplete short left intended for Lousaka Polite,0.150,-0.390
+2,5:04,2,10,DAL 19,10,0,Tony Romo pass complete short middle to Patrick Crayton for 12 yards (tackle by Brian Dawkins),-0.390,1.000
+2,4:38,1,10,DAL 31,10,0,Tony Romo pass complete short right to Terrell Owens for 9 yards (tackle by Jeremiah Trotter),1.000,1.680
+2,3:55,2,1,DAL 40,10,0,Julius Jones left end for -1 yards (tackle by Trent Cole),1.680,0.830
+2,3:14,3,2,DAL 39,10,0,Marion Barber right tackle for 3 yards (tackle by Darwin Walker and Jeremiah Trotter),0.830,1.730
+2,2:36,1,10,DAL 42,10,0,Tony Romo pass incomplete short middle intended for Patrick Crayton,1.730,1.190
+2,2:29,2,10,DAL 42,10,0,"Tony Romo pass incomplete deep left intended for Terrell Owens. Penalty on Roderick Hood: Illegal Contact, 5 yards (no play)",1.190,2.060
+2,2:23,1,10,DAL 47,10,0,Tony Romo middle for 16 yards (tackle by Sean Considine),2.060,3.120
+2,2:00,1,10,PHI 37,10,0,Tony Romo pass complete short middle to Jason Witten for 11 yards (tackle by Lito Sheppard),3.120,3.840
+2,1:20,1,10,PHI 26,10,0,"Tony Romo pass complete short middle to Patrick Crayton for 7 yards (tackle by Sheldon Brown). Penalty on Sheldon Brown: Defensive Holding, 5 yards (no play)",3.840,4.170
+2,1:13,1,10,PHI 21,10,0,Julius Jones middle for 7 yards (tackle by Sean Considine),4.170,4.740
+2,0:44,2,3,PHI 14,10,6,"Tony Romo pass complete short middle to Terrell Owens for 14 yards, touchdown",4.740,7.000
+2,,,,PHI 2,10,7,Martin Gramatica kicks extra point good,0.000,0.000
+2,,,,DAL 30,10,7,"Martin Gramatica kicks off 60 yards, returned by Reno Mahe for 25 yards (tackle by Bobby Carpenter)",0.000,1.270
+2,0:29,1,10,PHI 35,10,7,Brian Westbrook middle for 9 yards (tackle by Kevin Burnett),1.270,1.940
+2,0:25,,,,10,7,Timeout #2 by Philadelphia Eagles,0.000,1.940
+2,0:25,2,1,PHI 44,10,7,Jeff Garcia middle for 9 yards (tackle by Bradie James and DeMarcus Ware),1.940,2.460
+2,0:19,,,,10,7,Timeout #3 by Philadelphia Eagles,0.000,2.460
+2,0:19,1,10,DAL 47,10,7,Jeff Garcia pass complete short left to Brian Westbrook for 4 yards,2.460,2.450
+2,0:16,2,6,DAL 43,10,7,Jeff Garcia pass incomplete short right intended for Donte' Stallworth,2.450,1.750
+2,0:08,3,6,DAL 43,10,7,Jeff Garcia pass complete short left to Greg Lewis for 16 yards,1.750,3.780
+2,0:01,1,10,DAL 27,13,7,David Akers 45 yard field goal good,3.780,3.000
+Quarter,Time,Down,ToGo,Location,PHI,DAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DAL 30,13,7,"Martin Gramatica kicks off 79 yards, touchback",0.000,0.280
+3,15:00,1,10,PHI 20,13,7,Brian Westbrook right tackle for 3 yards (tackle by Marcus Spears),0.280,0.140
+3,14:25,2,7,PHI 23,13,7,Jeff Garcia pass incomplete short middle intended for Hank Baskett (defended by Terence Newman),0.140,-0.560
+3,14:19,3,7,PHI 23,13,7,Jeff Garcia pass complete short middle to L.J. Smith for 65 yards (tackle by Terence Newman),-0.560,4.780
+3,13:26,1,10,DAL 12,13,7,Jeff Garcia pass complete short right to Brian Westbrook for 2 yards,4.780,4.450
+3,12:54,2,8,DAL 10,13,7,Jeff Garcia pass incomplete short right intended for L.J. Smith. Penalty on L.J. Smith: Offensive Pass Interfere (Declined),4.450,3.480
+3,12:48,3,8,DAL 10,13,7,Jeff Garcia middle for 7 yards (tackle by Bradie James),3.480,3.060
+3,12:18,4,1,DAL 3,16,7,David Akers 21 yard field goal good,3.060,3.000
+3,,,,PHI 30,16,7,"David Akers kicks off 68 yards, returned by Miles Austin for 20 yards (tackle by Quintin Mikell)",0.000,0.410
+3,12:09,1,10,DAL 22,16,7,Julius Jones middle for 1 yard (tackle by Trent Cole),0.410,0.000
+3,11:33,2,9,DAL 23,16,7,"Tony Romo pass incomplete deep right intended for Terry Glenn. Penalty on Sheldon Brown: Illegal Contact, 5 yards (no play)",0.000,0.810
+3,11:22,1,10,DAL 28,16,7,Tony Romo pass complete short right to Jason Witten for 6 yards (tackle by Jeremiah Trotter),0.810,1.070
+3,10:50,2,4,DAL 34,16,7,Julius Jones right tackle for 4 yards (tackle by Omar Gaither),1.070,1.470
+3,10:18,1,10,DAL 38,16,7,Tony Romo sacked by Darwin Walker for -9 yards,1.470,-0.290
+3,9:44,2,19,DAL 29,16,7,Tony Romo pass incomplete deep left intended for Terrell Owens,-0.290,-0.960
+3,9:38,3,19,DAL 29,16,7,Tony Romo pass incomplete deep left intended for Terrell Owens,-0.960,-1.440
+3,9:26,4,19,DAL 29,16,7,"Mat McBriar punts 52 yards, returned by Brian Westbrook for 13 yards (tackle by Sam Hurd)",-1.440,-1.070
+3,9:17,1,10,PHI 32,16,7,Brian Westbrook right end for 8 yards (tackle by Pat Watkins),1.070,1.610
+3,8:35,2,2,PHI 40,16,7,Correll Buckhalter right end for 1 yard (tackle by DeMarcus Ware and Alshermond Singleton),1.610,1.030
+3,7:51,3,1,PHI 41,16,7,Jeff Garcia middle for 2 yards (tackle by Alshermond Singleton and Jason Ferguson),1.030,1.800
+3,7:09,1,10,PHI 43,16,7,Jeff Garcia pass incomplete deep left intended for Brian Westbrook,1.800,1.250
+3,7:04,2,10,PHI 43,16,7,"Jeff Garcia sacked by DeMarcus Ware for -9 yards. Jeff Garcia fumbles (forced by DeMarcus Ware), recovered by Correll Buckhalter at PHI-27",1.250,-1.550
+3,6:24,3,26,PHI 27,16,7,Brian Westbrook middle for 14 yards (tackle by Nate Jones),-1.550,-0.650
+3,5:48,4,12,PHI 41,16,7,"Dirk Johnson punts 48 yards, returned by Terence Newman for 8 yards (tackle by Sean Considine)",-0.650,-0.150
+3,5:32,1,10,DAL 19,16,7,"Tony Romo pass complete short right to Jason Witten for 6 yards (tackle by Lito Sheppard). Tony Romo fumbles, recovered by Tony Romo at DAL-DAL",0.150,0.480
+3,4:53,2,4,DAL 25,16,7,"Penalty on Marc Colombo: False Start, 5 yards (no play)",0.480,-0.200
+3,4:31,2,9,DAL 20,16,7,"Penalty on Flozell Adams: False Start, 5 yards (no play)",-0.200,-1.000
+3,4:02,2,14,DAL 15,16,7,Marion Barber middle for 4 yards (tackle by Jeremiah Trotter),-1.000,-1.070
+3,3:19,3,10,DAL 19,16,7,Tony Romo sacked by Darren Howard for -6 yards,-1.070,-2.490
+3,2:49,4,16,DAL 13,16,7,"Mat McBriar punts 50 yards, returned by Brian Westbrook for 1 yard (tackle by Sam Hurd)",-2.490,-1.470
+3,2:39,1,10,PHI 38,16,7,"Jeff Garcia pass complete short right to Brian Westbrook for 7 yards. Penalty on L.J. Smith: Offensive Pass Interfere, 10 yards (no play)",1.470,0.810
+3,2:17,1,20,PHI 28,16,7,Brian Westbrook right tackle for 4 yards (tackle by Jason Ferguson),0.810,0.110
+3,1:38,2,16,PHI 32,16,7,Jeff Garcia pass complete short middle to Reggie Brown for 13 yards (tackle by Terence Newman),0.110,1.160
+3,0:53,3,3,PHI 45,16,7,Jeff Garcia pass incomplete intended for Brian Westbrook,1.160,-0.390
+3,0:48,4,3,PHI 45,16,7,"Dirk Johnson punts 34 yards, fair catch by Terence Newman",-0.390,-0.340
+3,0:42,1,10,DAL 21,16,7,Tony Romo pass incomplete short left intended for Julius Jones,0.340,-0.200
+3,0:38,2,10,DAL 21,16,7,"Tony Romo pass incomplete intended for Jason Witten. Penalty on Trent Cole: Roughing the Passer, 15 yards (no play)",-0.200,1.330
+3,0:34,1,10,DAL 36,16,7,Julius Jones left tackle for 5 yards (tackle by Dhani Jones),1.330,1.470
+3,0:02,2,5,DAL 41,16,7,Tony Romo pass incomplete short left intended for Terry Glenn,1.470,0.760
+Quarter,Time,Down,ToGo,Location,PHI,DAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,5,DAL 41,16,7,Tony Romo pass complete short middle to Jason Witten for 13 yards (tackle by Darren Howard and Shawn Barber),0.760,2.520
+4,14:26,1,10,PHI 46,16,7,Julius Jones left tackle for 7 yards (tackle by Brian Dawkins),2.520,2.920
+4,14:03,2,3,PHI 39,16,7,Tony Romo pass incomplete deep left intended for Terrell Owens is intercepted by Brian Dawkins,2.920,-0.280
+4,13:54,1,10,PHI 20,16,7,Brian Westbrook middle for no gain (tackle by Jason Ferguson),0.280,-0.270
+4,13:17,2,10,PHI 20,16,7,Jeff Garcia pass complete short left to Donte' Stallworth for 10 yards (tackle by Anthony Henry). Penalty on DeMarcus Ware: Defensive Offside (Declined),-0.270,0.940
+4,12:48,1,10,PHI 30,16,7,Brian Westbrook right guard for 5 yards (tackle by Jason Ferguson),0.940,1.070
+4,12:14,2,5,PHI 35,16,7,Jeff Garcia left end for 11 yards (tackle by Pat Watkins),1.070,1.990
+4,11:30,1,10,PHI 46,16,7,Correll Buckhalter right tackle for 15 yards (tackle by Pat Watkins),1.990,2.980
+4,10:43,1,10,DAL 39,16,7,Correll Buckhalter left tackle for 6 yards (tackle by DeMarcus Ware),2.980,3.250
+4,10:02,2,4,DAL 33,16,7,Brian Westbrook right end for 3 yards (tackle by Pat Watkins),3.250,2.940
+4,9:13,,,,16,7,Timeout #1 by Philadelphia Eagles,0.000,2.940
+4,9:13,3,1,DAL 30,16,7,Jeff Garcia right end for 12 yards (tackle by DeMarcus Ware),2.940,4.370
+4,8:44,1,10,DAL 18,16,7,Brian Westbrook right tackle for 6 yards (tackle by Marcus Spears),4.370,4.810
+4,8:03,2,4,DAL 12,16,7,Brian Westbrook right tackle for 8 yards (tackle by Marcus Spears),4.810,6.280
+4,7:19,1,4,DAL 4,16,7,Jeff Garcia pass complete short right to Reggie Brown for 3 yards (tackle by Anthony Henry),6.280,5.910
+4,6:57,2,1,DAL 1,22,7,"Correll Buckhalter left guard for 1 yard, touchdown",5.910,7.000
+4,,,,DAL 2,23,7,David Akers kicks extra point good,0.000,0.000
+4,,,,PHI 30,23,7,"David Akers kicks off 72 yards, returned by Miles Austin for 28 yards (tackle by Hank Baskett)",0.000,0.670
+4,6:47,1,10,DAL 26,23,7,Tony Romo pass incomplete deep right intended for Terry Glenn is intercepted by Lito Sheppard at PHI-46 and returned for 1 yard,0.670,-2.060
+4,6:39,1,10,PHI 47,23,7,Brian Westbrook right tackle for 3 yards (tackle by Jason Hatcher),2.060,1.920
+4,5:56,2,7,DAL 50,23,7,Jeff Garcia right end for 3 yards (tackle by Jason Hatcher),1.920,1.620
+4,5:09,3,4,DAL 47,23,7,Jeff Garcia pass incomplete short right intended for Thomas Tapeh,1.620,0.130
+4,5:05,4,4,DAL 47,23,7,Dirk Johnson punts 42 yards,0.130,0.380
+4,4:52,1,10,DAL 5,23,7,Tony Romo pass incomplete,-0.380,-0.780
+4,4:45,2,10,DAL 5,23,7,Tony Romo pass complete short left to Jason Witten for 7 yards,-0.780,-0.600
+4,4:39,3,3,DAL 12,23,7,Tony Romo middle for 12 yards,-0.600,0.540
+4,4:12,1,10,DAL 24,23,7,Tony Romo pass incomplete intended for Terry Glenn,0.540,0.000
+4,4:06,2,10,DAL 24,23,7,Tony Romo pass complete short middle to Jason Witten for 7 yards (tackle by Quintin Mikell),0.000,0.230
+4,3:43,3,3,DAL 31,23,7,Tony Romo for 14 yards (tackle by Quintin Mikell),0.230,1.930
+4,3:08,1,10,DAL 45,23,7,Tony Romo pass incomplete intended for Terrell Owens,1.930,1.380
+4,3:07,2,10,DAL 45,23,7,Tony Romo pass incomplete intended for Terrell Owens,1.380,0.700
+4,3:02,3,10,DAL 45,23,7,Tony Romo pass incomplete intended for Jason Witten,0.700,-0.390
+4,2:55,4,10,DAL 45,23,7,Tony Romo sacked by Roderick Hood for -9 yards,-0.390,-3.180
+4,2:50,1,10,DAL 36,23,7,Brian Westbrook left tackle for 1 yard (tackle by Jason Ferguson),3.180,2.770
+4,2:06,2,9,DAL 35,23,7,Brian Westbrook right tackle for 3 yards (tackle by Bradie James and Akin Ayodele),2.770,2.480
+4,2:00,3,6,DAL 32,23,7,Brian Westbrook right tackle for 3 yards (tackle by Terence Newman),2.480,1.580
+4,1:13,,,,23,7,Timeout #2 by Philadelphia Eagles,0.000,1.580
+4,1:13,4,3,DAL 29,23,7,Brian Westbrook right end for 4 yards (tackle by Alshermond Singleton),1.580,3.910
+4,0:42,1,10,DAL 25,23,7,Jeff Garcia kneels for -1 yards,3.910,3.230
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,TEN 20,10,6:09,59,Missed FG
+2,1,4:48,TEN 20,4,2:13,23,Punt
+3,2,15:00,TEN 29,9,3:49,45,Missed FG
+4,2,8:32,TEN 2,3,2:07,-2,Safety
+5,2,4:38,TEN 6,3,1:00,1,Interception
+6,2,3:29,TEN 25,5,2:39,30,Punt
+7,2,0:44,CIN 22,3,0:28,-1,Interception
+8,3,13:55,TEN 25,8,4:39,33,Punt
+9,3,1:58,TEN 20,8,3:25,32,Punt
+10,4,9:26,TEN 20,6,3:17,80,Touchdown
+11,4,3:20,TEN 27,6,1:14,21,Downs
+12,4,0:16,TEN 4,1,0:16,-1,End of Game

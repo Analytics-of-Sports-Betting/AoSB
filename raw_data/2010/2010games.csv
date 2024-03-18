@@ -1,0 +1,268 @@
+Week,Day,Date,Time,Winner/tie,Unnamed: 5,Loser/tie,Unnamed: 7,PtsW,PtsL,YdsW,TOW,YdsL,TOL,url,Home,Away,File
+Week1,Thu,2010-09-09,8:41PM,New Orleans Saints,,Minnesota Vikings,boxscore,14,9,308,0,253,1,https://www.pro-football-reference.com/boxscores/201009090nor.htm,NO,MIN,2010_Week1_NO_vs_MIN
+Week1,Sun,2010-09-12,1:02PM,Pittsburgh Steelers,,Atlanta Falcons,boxscore,15,9,354,1,295,1,https://www.pro-football-reference.com/boxscores/201009120pit.htm,PIT,ATL,2010_Week1_PIT_vs_ATL
+Week1,Sun,2010-09-12,1:02PM,Miami Dolphins,@,Buffalo Bills,boxscore,15,10,296,0,166,0,https://www.pro-football-reference.com/boxscores/201009120buf.htm,BUF,MIA,2010_Week1_BUF_vs_MIA
+Week1,Sun,2010-09-12,1:02PM,Chicago Bears,,Detroit Lions,boxscore,19,14,463,4,168,3,https://www.pro-football-reference.com/boxscores/201009120chi.htm,CHI,DET,2010_Week1_CHI_vs_DET
+Week1,Sun,2010-09-12,1:02PM,New England Patriots,,Cincinnati Bengals,boxscore,38,24,376,0,428,2,https://www.pro-football-reference.com/boxscores/201009120nwe.htm,NE,CIN,2010_Week1_NE_vs_CIN
+Week1,Sun,2010-09-12,1:02PM,Tampa Bay Buccaneers,,Cleveland Browns,boxscore,17,14,288,2,340,3,https://www.pro-football-reference.com/boxscores/201009120tam.htm,TB,CLE,2010_Week1_TB_vs_CLE
+Week1,Sun,2010-09-12,1:02PM,Houston Texans,,Indianapolis Colts,boxscore,34,24,355,1,463,1,https://www.pro-football-reference.com/boxscores/201009120htx.htm,HOU,IND,2010_Week1_HOU_vs_IND
+Week1,Sun,2010-09-12,1:02PM,Tennessee Titans,,Oakland Raiders,boxscore,38,13,345,1,286,2,https://www.pro-football-reference.com/boxscores/201009120oti.htm,TEN,LVR,2010_Week1_TEN_vs_LVR
+Week1,Sun,2010-09-12,1:03PM,Jacksonville Jaguars,,Denver Broncos,boxscore,24,17,299,0,363,2,https://www.pro-football-reference.com/boxscores/201009120jax.htm,JAX,DEN,2010_Week1_JAX_vs_DEN
+Week1,Sun,2010-09-12,1:04PM,New York Giants,,Carolina Panthers,boxscore,31,18,376,4,237,5,https://www.pro-football-reference.com/boxscores/201009120nyg.htm,NYG,CAR,2010_Week1_NYG_vs_CAR
+Week1,Sun,2010-09-12,4:15PM,Arizona Cardinals,@,St. Louis Rams,boxscore,17,13,378,4,325,4,https://www.pro-football-reference.com/boxscores/201009120ram.htm,LAR,ARI,2010_Week1_LAR_vs_ARI
+Week1,Sun,2010-09-12,4:16PM,Green Bay Packers,@,Philadelphia Eagles,boxscore,27,20,299,2,320,1,https://www.pro-football-reference.com/boxscores/201009120phi.htm,PHI,GB,2010_Week1_PHI_vs_GB
+Week1,Sun,2010-09-12,4:16PM,Seattle Seahawks,,San Francisco 49ers,boxscore,31,6,242,1,263,2,https://www.pro-football-reference.com/boxscores/201009120sea.htm,SEA,SF,2010_Week1_SEA_vs_SF
+Week1,Sun,2010-09-12,8:31PM,Washington Redskins,,Dallas Cowboys,boxscore,13,7,250,0,380,1,https://www.pro-football-reference.com/boxscores/201009120was.htm,WAS,DAL,2010_Week1_WAS_vs_DAL
+Week1,Mon,2010-09-13,7:26PM,Baltimore Ravens,@,New York Jets,boxscore,10,9,282,3,176,1,https://www.pro-football-reference.com/boxscores/201009130nyj.htm,NYJ,BAL,2010_Week1_NYJ_vs_BAL
+Week1,Mon,2010-09-13,10:20PM,Kansas City Chiefs,,San Diego Chargers,boxscore,21,14,197,0,389,1,https://www.pro-football-reference.com/boxscores/201009130kan.htm,KC,LAC,2010_Week1_KC_vs_LAC
+Week2,Sun,2010-09-19,1:02PM,Green Bay Packers,,Buffalo Bills,boxscore,34,7,346,0,186,2,https://www.pro-football-reference.com/boxscores/201009190gnb.htm,GB,BUF,2010_Week2_GB_vs_BUF
+Week2,Sun,2010-09-19,1:02PM,Cincinnati Bengals,,Baltimore Ravens,boxscore,15,10,253,0,259,4,https://www.pro-football-reference.com/boxscores/201009190cin.htm,CIN,BAL,2010_Week2_CIN_vs_BAL
+Week2,Sun,2010-09-19,1:02PM,Kansas City Chiefs,@,Cleveland Browns,boxscore,16,14,312,2,299,2,https://www.pro-football-reference.com/boxscores/201009190cle.htm,CLE,KC,2010_Week2_CLE_vs_KC
+Week2,Sun,2010-09-19,1:02PM,Philadelphia Eagles,@,Detroit Lions,boxscore,35,32,410,0,444,2,https://www.pro-football-reference.com/boxscores/201009190det.htm,DET,PHI,2010_Week2_DET_vs_PHI
+Week2,Sun,2010-09-19,1:02PM,Pittsburgh Steelers,@,Tennessee Titans,boxscore,19,11,127,1,238,7,https://www.pro-football-reference.com/boxscores/201009190oti.htm,TEN,PIT,2010_Week2_TEN_vs_PIT
+Week2,Sun,2010-09-19,1:03PM,Atlanta Falcons,,Arizona Cardinals,boxscore,41,7,444,1,267,3,https://www.pro-football-reference.com/boxscores/201009190atl.htm,ATL,ARI,2010_Week2_ATL_vs_ARI
+Week2,Sun,2010-09-19,1:03PM,Tampa Bay Buccaneers,@,Carolina Panthers,boxscore,20,7,273,0,278,3,https://www.pro-football-reference.com/boxscores/201009190car.htm,CAR,TB,2010_Week2_CAR_vs_TB
+Week2,Sun,2010-09-19,1:05PM,Chicago Bears,@,Dallas Cowboys,boxscore,27,20,308,0,410,3,https://www.pro-football-reference.com/boxscores/201009190dal.htm,DAL,CHI,2010_Week2_DAL_vs_CHI
+Week2,Sun,2010-09-19,1:05PM,Miami Dolphins,@,Minnesota Vikings,boxscore,14,10,226,2,364,4,https://www.pro-football-reference.com/boxscores/201009190min.htm,MIN,MIA,2010_Week2_MIN_vs_MIA
+Week2,Sun,2010-09-19,4:05PM,Oakland Raiders,,St. Louis Rams,boxscore,16,14,404,2,210,1,https://www.pro-football-reference.com/boxscores/201009190rai.htm,LVR,LAR,2010_Week2_LVR_vs_LAR
+Week2,Sun,2010-09-19,4:06PM,Denver Broncos,,Seattle Seahawks,boxscore,31,14,369,0,339,4,https://www.pro-football-reference.com/boxscores/201009190den.htm,DEN,SEA,2010_Week2_DEN_vs_SEA
+Week2,Sun,2010-09-19,4:15PM,Houston Texans,@,Washington Redskins,boxscore,30,27,526,1,421,0,https://www.pro-football-reference.com/boxscores/201009190was.htm,WAS,HOU,2010_Week2_WAS_vs_HOU
+Week2,Sun,2010-09-19,4:15PM,San Diego Chargers,,Jacksonville Jaguars,boxscore,38,13,477,3,350,6,https://www.pro-football-reference.com/boxscores/201009190sdg.htm,LAC,JAX,2010_Week2_LAC_vs_JAX
+Week2,Sun,2010-09-19,4:16PM,New York Jets,,New England Patriots,boxscore,28,14,336,0,291,3,https://www.pro-football-reference.com/boxscores/201009190nyj.htm,NYJ,NE,2010_Week2_NYJ_vs_NE
+Week2,Sun,2010-09-19,8:31PM,Indianapolis Colts,,New York Giants,boxscore,38,14,410,1,257,3,https://www.pro-football-reference.com/boxscores/201009190clt.htm,IND,NYG,2010_Week2_IND_vs_NYG
+Week2,Mon,2010-09-20,8:36PM,New Orleans Saints,@,San Francisco 49ers,boxscore,25,22,287,0,417,4,https://www.pro-football-reference.com/boxscores/201009200sfo.htm,SF,NO,2010_Week2_SF_vs_NO
+Week3,Sun,2010-09-26,1:02PM,New England Patriots,,Buffalo Bills,boxscore,38,30,445,1,374,2,https://www.pro-football-reference.com/boxscores/201009260nwe.htm,NE,BUF,2010_Week3_NE_vs_BUF
+Week3,Sun,2010-09-26,1:02PM,Cincinnati Bengals,@,Carolina Panthers,boxscore,20,7,305,2,267,4,https://www.pro-football-reference.com/boxscores/201009260car.htm,CAR,CIN,2010_Week3_CAR_vs_CIN
+Week3,Sun,2010-09-26,1:02PM,Baltimore Ravens,,Cleveland Browns,boxscore,24,17,365,0,304,0,https://www.pro-football-reference.com/boxscores/201009260rav.htm,BAL,CLE,2010_Week3_BAL_vs_CLE
+Week3,Sun,2010-09-26,1:02PM,Dallas Cowboys,@,Houston Texans,boxscore,27,13,385,0,340,3,https://www.pro-football-reference.com/boxscores/201009260htx.htm,HOU,DAL,2010_Week3_HOU_vs_DAL
+Week3,Sun,2010-09-26,1:02PM,Tennessee Titans,@,New York Giants,boxscore,29,10,271,0,471,3,https://www.pro-football-reference.com/boxscores/201009260nyg.htm,NYG,TEN,2010_Week3_NYG_vs_TEN
+Week3,Sun,2010-09-26,1:03PM,Atlanta Falcons,@,New Orleans Saints,boxscore,27,24,417,1,398,3,https://www.pro-football-reference.com/boxscores/201009260nor.htm,NO,ATL,2010_Week3_NO_vs_ATL
+Week3,Sun,2010-09-26,1:03PM,Pittsburgh Steelers,@,Tampa Bay Buccaneers,boxscore,38,13,387,2,303,2,https://www.pro-football-reference.com/boxscores/201009260tam.htm,TB,PIT,2010_Week3_TB_vs_PIT
+Week3,Sun,2010-09-26,1:04PM,Kansas City Chiefs,,San Francisco 49ers,boxscore,31,10,457,1,251,1,https://www.pro-football-reference.com/boxscores/201009260kan.htm,KC,SF,2010_Week3_KC_vs_SF
+Week3,Sun,2010-09-26,1:05PM,Minnesota Vikings,,Detroit Lions,boxscore,24,10,368,3,295,3,https://www.pro-football-reference.com/boxscores/201009260min.htm,MIN,DET,2010_Week3_MIN_vs_DET
+Week3,Sun,2010-09-26,4:05PM,Philadelphia Eagles,@,Jacksonville Jaguars,boxscore,28,3,373,0,191,1,https://www.pro-football-reference.com/boxscores/201009260jax.htm,JAX,PHI,2010_Week3_JAX_vs_PHI
+Week3,Sun,2010-09-26,4:05PM,St. Louis Rams,,Washington Redskins,boxscore,30,16,365,2,349,2,https://www.pro-football-reference.com/boxscores/201009260ram.htm,LAR,WAS,2010_Week3_LAR_vs_WAS
+Week3,Sun,2010-09-26,4:15PM,Arizona Cardinals,,Oakland Raiders,boxscore,24,23,227,3,364,1,https://www.pro-football-reference.com/boxscores/201009260crd.htm,ARI,LVR,2010_Week3_ARI_vs_LVR
+Week3,Sun,2010-09-26,4:16PM,Indianapolis Colts,@,Denver Broncos,boxscore,27,13,365,0,519,2,https://www.pro-football-reference.com/boxscores/201009260den.htm,DEN,IND,2010_Week3_DEN_vs_IND
+Week3,Sun,2010-09-26,4:16PM,Seattle Seahawks,,San Diego Chargers,boxscore,27,20,271,2,518,5,https://www.pro-football-reference.com/boxscores/201009260sea.htm,SEA,LAC,2010_Week3_SEA_vs_LAC
+Week3,Sun,2010-09-26,8:30PM,New York Jets,@,Miami Dolphins,boxscore,31,23,402,0,436,1,https://www.pro-football-reference.com/boxscores/201009260mia.htm,MIA,NYJ,2010_Week3_MIA_vs_NYJ
+Week3,Mon,2010-09-27,8:40PM,Chicago Bears,,Green Bay Packers,boxscore,20,17,276,1,379,2,https://www.pro-football-reference.com/boxscores/201009270chi.htm,CHI,GB,2010_Week3_CHI_vs_GB
+Week4,Sun,2010-10-03,1:00PM,St. Louis Rams,,Seattle Seahawks,boxscore,20,3,349,1,257,2,https://www.pro-football-reference.com/boxscores/201010030ram.htm,LAR,SEA,2010_Week4_LAR_vs_SEA
+Week4,Sun,2010-10-03,1:02PM,New York Jets,@,Buffalo Bills,boxscore,38,14,444,0,223,2,https://www.pro-football-reference.com/boxscores/201010030buf.htm,BUF,NYJ,2010_Week4_BUF_vs_NYJ
+Week4,Sun,2010-10-03,1:02PM,Cleveland Browns,,Cincinnati Bengals,boxscore,23,20,295,1,413,2,https://www.pro-football-reference.com/boxscores/201010030cle.htm,CLE,CIN,2010_Week4_CLE_vs_CIN
+Week4,Sun,2010-10-03,1:02PM,Denver Broncos,@,Tennessee Titans,boxscore,26,20,327,1,288,2,https://www.pro-football-reference.com/boxscores/201010030oti.htm,TEN,DEN,2010_Week4_TEN_vs_DEN
+Week4,Sun,2010-10-03,1:02PM,Green Bay Packers,,Detroit Lions,boxscore,28,26,261,4,431,3,https://www.pro-football-reference.com/boxscores/201010030gnb.htm,GB,DET,2010_Week4_GB_vs_DET
+Week4,Sun,2010-10-03,1:02PM,Baltimore Ravens,@,Pittsburgh Steelers,boxscore,17,14,320,2,210,1,https://www.pro-football-reference.com/boxscores/201010030pit.htm,PIT,BAL,2010_Week4_PIT_vs_BAL
+Week4,Sun,2010-10-03,1:03PM,Atlanta Falcons,,San Francisco 49ers,boxscore,16,14,357,2,262,3,https://www.pro-football-reference.com/boxscores/201010030atl.htm,ATL,SF,2010_Week4_ATL_vs_SF
+Week4,Sun,2010-10-03,1:03PM,New Orleans Saints,,Carolina Panthers,boxscore,16,14,383,2,251,1,https://www.pro-football-reference.com/boxscores/201010030nor.htm,NO,CAR,2010_Week4_NO_vs_CAR
+Week4,Sun,2010-10-03,4:05PM,Jacksonville Jaguars,,Indianapolis Colts,boxscore,31,28,337,0,406,2,https://www.pro-football-reference.com/boxscores/201010030jax.htm,JAX,IND,2010_Week4_JAX_vs_IND
+Week4,Sun,2010-10-03,4:05PM,Houston Texans,@,Oakland Raiders,boxscore,31,24,441,0,363,3,https://www.pro-football-reference.com/boxscores/201010030rai.htm,LVR,HOU,2010_Week4_LVR_vs_HOU
+Week4,Sun,2010-10-03,4:15PM,San Diego Chargers,,Arizona Cardinals,boxscore,41,10,419,1,134,3,https://www.pro-football-reference.com/boxscores/201010030sdg.htm,LAC,ARI,2010_Week4_LAC_vs_ARI
+Week4,Sun,2010-10-03,4:15PM,Washington Redskins,@,Philadelphia Eagles,boxscore,17,12,293,1,353,2,https://www.pro-football-reference.com/boxscores/201010030phi.htm,PHI,WAS,2010_Week4_PHI_vs_WAS
+Week4,Sun,2010-10-03,8:31PM,New York Giants,,Chicago Bears,boxscore,17,3,372,3,110,3,https://www.pro-football-reference.com/boxscores/201010030nyg.htm,NYG,CHI,2010_Week4_NYG_vs_CHI
+Week4,Mon,2010-10-04,8:41PM,New England Patriots,@,Miami Dolphins,boxscore,41,14,265,0,400,4,https://www.pro-football-reference.com/boxscores/201010040mia.htm,MIA,NE,2010_Week4_MIA_vs_NE
+Week5,Sun,2010-10-10,12:56PM,Detroit Lions,,St. Louis Rams,boxscore,44,6,322,0,341,3,https://www.pro-football-reference.com/boxscores/201010100det.htm,DET,LAR,2010_Week5_DET_vs_LAR
+Week5,Sun,2010-10-10,1:02PM,Jacksonville Jaguars,@,Buffalo Bills,boxscore,36,26,381,3,306,0,https://www.pro-football-reference.com/boxscores/201010100buf.htm,BUF,JAX,2010_Week5_BUF_vs_JAX
+Week5,Sun,2010-10-10,1:02PM,Baltimore Ravens,,Denver Broncos,boxscore,31,17,415,0,346,1,https://www.pro-football-reference.com/boxscores/201010100rav.htm,BAL,DEN,2010_Week5_BAL_vs_DEN
+Week5,Sun,2010-10-10,1:02PM,Washington Redskins,,Green Bay Packers,boxscore,16,13,373,1,427,2,https://www.pro-football-reference.com/boxscores/201010100was.htm,WAS,GB,2010_Week5_WAS_vs_GB
+Week5,Sun,2010-10-10,1:03PM,Atlanta Falcons,@,Cleveland Browns,boxscore,20,10,338,1,269,3,https://www.pro-football-reference.com/boxscores/201010100cle.htm,CLE,ATL,2010_Week5_CLE_vs_ATL
+Week5,Sun,2010-10-10,1:03PM,Chicago Bears,@,Carolina Panthers,boxscore,23,6,247,4,147,3,https://www.pro-football-reference.com/boxscores/201010100car.htm,CAR,CHI,2010_Week5_CAR_vs_CHI
+Week5,Sun,2010-10-10,1:03PM,Tampa Bay Buccaneers,@,Cincinnati Bengals,boxscore,24,21,391,3,358,4,https://www.pro-football-reference.com/boxscores/201010100cin.htm,CIN,TB,2010_Week5_CIN_vs_TB
+Week5,Sun,2010-10-10,1:03PM,Indianapolis Colts,,Kansas City Chiefs,boxscore,19,9,341,1,261,1,https://www.pro-football-reference.com/boxscores/201010100clt.htm,IND,KC,2010_Week5_IND_vs_KC
+Week5,Sun,2010-10-10,1:03PM,New York Giants,@,Houston Texans,boxscore,34,10,414,2,195,2,https://www.pro-football-reference.com/boxscores/201010100htx.htm,HOU,NYG,2010_Week5_HOU_vs_NYG
+Week5,Sun,2010-10-10,4:05PM,Arizona Cardinals,,New Orleans Saints,boxscore,30,20,194,1,358,4,https://www.pro-football-reference.com/boxscores/201010100crd.htm,ARI,NO,2010_Week5_ARI_vs_NO
+Week5,Sun,2010-10-10,4:15PM,Oakland Raiders,,San Diego Chargers,boxscore,35,27,279,0,506,3,https://www.pro-football-reference.com/boxscores/201010100rai.htm,LVR,LAC,2010_Week5_LVR_vs_LAC
+Week5,Sun,2010-10-10,4:16PM,Tennessee Titans,@,Dallas Cowboys,boxscore,34,27,321,0,511,3,https://www.pro-football-reference.com/boxscores/201010100dal.htm,DAL,TEN,2010_Week5_DAL_vs_TEN
+Week5,Sun,2010-10-10,8:30PM,Philadelphia Eagles,@,San Francisco 49ers,boxscore,27,24,352,1,364,5,https://www.pro-football-reference.com/boxscores/201010100sfo.htm,SF,PHI,2010_Week5_SF_vs_PHI
+Week5,Mon,2010-10-11,9:15PM,New York Jets,,Minnesota Vikings,boxscore,29,20,328,0,336,3,https://www.pro-football-reference.com/boxscores/201010110nyj.htm,NYJ,MIN,2010_Week5_NYJ_vs_MIN
+Week6,Sun,2010-10-17,1:00PM,St. Louis Rams,,San Diego Chargers,boxscore,20,17,300,0,287,1,https://www.pro-football-reference.com/boxscores/201010170ram.htm,LAR,LAC,2010_Week6_LAR_vs_LAC
+Week6,Sun,2010-10-17,1:02PM,New England Patriots,,Baltimore Ravens,boxscore,23,20,394,2,377,0,https://www.pro-football-reference.com/boxscores/201010170nwe.htm,NE,BAL,2010_Week6_NE_vs_BAL
+Week6,Sun,2010-10-17,1:02PM,Philadelphia Eagles,,Atlanta Falcons,boxscore,31,17,474,1,293,2,https://www.pro-football-reference.com/boxscores/201010170phi.htm,PHI,ATL,2010_Week6_PHI_vs_ATL
+Week6,Sun,2010-10-17,1:02PM,Seattle Seahawks,@,Chicago Bears,boxscore,23,20,353,0,307,0,https://www.pro-football-reference.com/boxscores/201010170chi.htm,CHI,SEA,2010_Week6_CHI_vs_SEA
+Week6,Sun,2010-10-17,1:02PM,Pittsburgh Steelers,,Cleveland Browns,boxscore,28,10,378,1,327,3,https://www.pro-football-reference.com/boxscores/201010170pit.htm,PIT,CLE,2010_Week6_PIT_vs_CLE
+Week6,Sun,2010-10-17,1:02PM,Miami Dolphins,@,Green Bay Packers,boxscore,23,20,381,1,359,1,https://www.pro-football-reference.com/boxscores/201010170gnb.htm,GB,MIA,2010_Week6_GB_vs_MIA
+Week6,Sun,2010-10-17,1:02PM,New Orleans Saints,@,Tampa Bay Buccaneers,boxscore,31,6,475,1,277,1,https://www.pro-football-reference.com/boxscores/201010170tam.htm,TB,NO,2010_Week6_TB_vs_NO
+Week6,Sun,2010-10-17,1:03PM,New York Giants,,Detroit Lions,boxscore,28,20,334,1,366,3,https://www.pro-football-reference.com/boxscores/201010170nyg.htm,NYG,DET,2010_Week6_NYG_vs_DET
+Week6,Sun,2010-10-17,1:03PM,Houston Texans,,Kansas City Chiefs,boxscore,35,31,421,0,417,0,https://www.pro-football-reference.com/boxscores/201010170htx.htm,HOU,KC,2010_Week6_HOU_vs_KC
+Week6,Sun,2010-10-17,4:05PM,New York Jets,@,Denver Broncos,boxscore,24,20,319,3,346,2,https://www.pro-football-reference.com/boxscores/201010170den.htm,DEN,NYJ,2010_Week6_DEN_vs_NYJ
+Week6,Sun,2010-10-17,4:05PM,San Francisco 49ers,,Oakland Raiders,boxscore,17,9,349,0,179,2,https://www.pro-football-reference.com/boxscores/201010170sfo.htm,SF,LVR,2010_Week6_SF_vs_LVR
+Week6,Sun,2010-10-17,4:15PM,Minnesota Vikings,,Dallas Cowboys,boxscore,24,21,188,1,314,2,https://www.pro-football-reference.com/boxscores/201010170min.htm,MIN,DAL,2010_Week6_MIN_vs_DAL
+Week6,Sun,2010-10-17,8:31PM,Indianapolis Colts,@,Washington Redskins,boxscore,27,24,469,3,335,2,https://www.pro-football-reference.com/boxscores/201010170was.htm,WAS,IND,2010_Week6_WAS_vs_IND
+Week6,Mon,2010-10-18,8:40PM,Tennessee Titans,@,Jacksonville Jaguars,boxscore,30,3,324,0,249,4,https://www.pro-football-reference.com/boxscores/201010180jax.htm,JAX,TEN,2010_Week6_JAX_vs_TEN
+Week7,Sun,2010-10-24,1:02PM,Baltimore Ravens,,Buffalo Bills,boxscore,37,34,364,2,514,4,https://www.pro-football-reference.com/boxscores/201010240rav.htm,BAL,BUF,2010_Week7_BAL_vs_BUF
+Week7,Sun,2010-10-24,1:02PM,Pittsburgh Steelers,@,Miami Dolphins,boxscore,23,22,348,2,313,2,https://www.pro-football-reference.com/boxscores/201010240mia.htm,MIA,PIT,2010_Week7_MIA_vs_PIT
+Week7,Sun,2010-10-24,1:02PM,Cleveland Browns,@,New Orleans Saints,boxscore,30,17,210,0,394,4,https://www.pro-football-reference.com/boxscores/201010240nor.htm,NO,CLE,2010_Week7_NO_vs_CLE
+Week7,Sun,2010-10-24,1:02PM,Tennessee Titans,,Philadelphia Eagles,boxscore,37,19,328,3,326,4,https://www.pro-football-reference.com/boxscores/201010240oti.htm,TEN,PHI,2010_Week7_TEN_vs_PHI
+Week7,Sun,2010-10-24,1:02PM,Tampa Bay Buccaneers,,St. Louis Rams,boxscore,18,17,313,0,285,1,https://www.pro-football-reference.com/boxscores/201010240tam.htm,TB,LAR,2010_Week7_TB_vs_LAR
+Week7,Sun,2010-10-24,1:03PM,Carolina Panthers,,San Francisco 49ers,boxscore,23,20,379,3,282,1,https://www.pro-football-reference.com/boxscores/201010240car.htm,CAR,SF,2010_Week7_CAR_vs_SF
+Week7,Sun,2010-10-24,1:03PM,Kansas City Chiefs,,Jacksonville Jaguars,boxscore,42,20,426,0,300,3,https://www.pro-football-reference.com/boxscores/201010240kan.htm,KC,JAX,2010_Week7_KC_vs_JAX
+Week7,Sun,2010-10-24,1:04PM,Washington Redskins,@,Chicago Bears,boxscore,17,14,308,3,322,6,https://www.pro-football-reference.com/boxscores/201010240chi.htm,CHI,WAS,2010_Week7_CHI_vs_WAS
+Week7,Sun,2010-10-24,1:05PM,Atlanta Falcons,,Cincinnati Bengals,boxscore,39,32,452,2,469,1,https://www.pro-football-reference.com/boxscores/201010240atl.htm,ATL,CIN,2010_Week7_ATL_vs_CIN
+Week7,Sun,2010-10-24,4:06PM,Seattle Seahawks,,Arizona Cardinals,boxscore,22,10,302,1,227,5,https://www.pro-football-reference.com/boxscores/201010240sea.htm,SEA,ARI,2010_Week7_SEA_vs_ARI
+Week7,Sun,2010-10-24,4:15PM,New England Patriots,@,San Diego Chargers,boxscore,23,20,179,0,363,4,https://www.pro-football-reference.com/boxscores/201010240sdg.htm,LAC,NE,2010_Week7_LAC_vs_NE
+Week7,Sun,2010-10-24,4:15PM,Oakland Raiders,@,Denver Broncos,boxscore,59,14,508,0,240,3,https://www.pro-football-reference.com/boxscores/201010240den.htm,DEN,LVR,2010_Week7_DEN_vs_LVR
+Week7,Sun,2010-10-24,8:30PM,Green Bay Packers,,Minnesota Vikings,boxscore,28,24,379,2,402,3,https://www.pro-football-reference.com/boxscores/201010240gnb.htm,GB,MIN,2010_Week7_GB_vs_MIN
+Week7,Mon,2010-10-25,8:41PM,New York Giants,@,Dallas Cowboys,boxscore,41,35,497,5,254,2,https://www.pro-football-reference.com/boxscores/201010250dal.htm,DAL,NYG,2010_Week7_DAL_vs_NYG
+Week8,Sun,2010-10-31,1:00PM,St. Louis Rams,,Carolina Panthers,boxscore,20,10,246,0,201,4,https://www.pro-football-reference.com/boxscores/201010310ram.htm,LAR,CAR,2010_Week8_LAR_vs_CAR
+Week8,Sun,2010-10-31,1:02PM,Detroit Lions,,Washington Redskins,boxscore,37,25,304,2,275,2,https://www.pro-football-reference.com/boxscores/201010310det.htm,DET,WAS,2010_Week8_DET_vs_WAS
+Week8,Sun,2010-10-31,1:03PM,Green Bay Packers,@,New York Jets,boxscore,9,0,237,0,360,3,https://www.pro-football-reference.com/boxscores/201010310nyj.htm,NYJ,GB,2010_Week8_NYJ_vs_GB
+Week8,Sun,2010-10-31,1:05PM,Jacksonville Jaguars,@,Dallas Cowboys,boxscore,35,17,387,1,415,4,https://www.pro-football-reference.com/boxscores/201010310dal.htm,DAL,JAX,2010_Week8_DAL_vs_JAX
+Week8,Sun,2010-10-31,1:06PM,Miami Dolphins,@,Cincinnati Bengals,boxscore,22,14,354,2,262,1,https://www.pro-football-reference.com/boxscores/201010310cin.htm,CIN,MIA,2010_Week8_CIN_vs_MIA
+Week8,Sun,2010-10-31,1:07PM,San Francisco 49ers,,Denver Broncos,boxscore,24,16,339,0,398,2,https://www.pro-football-reference.com/boxscores/201010310sfo.htm,SF,DEN,2010_Week8_SF_vs_DEN
+Week8,Sun,2010-10-31,1:08PM,Kansas City Chiefs,,Buffalo Bills,boxscore,13,10,414,0,328,1,https://www.pro-football-reference.com/boxscores/201010310kan.htm,KC,BUF,2010_Week8_KC_vs_BUF
+Week8,Sun,2010-10-31,4:05PM,San Diego Chargers,,Tennessee Titans,boxscore,33,25,456,1,370,0,https://www.pro-football-reference.com/boxscores/201010310sdg.htm,LAC,TEN,2010_Week8_LAC_vs_TEN
+Week8,Sun,2010-10-31,4:15PM,Tampa Bay Buccaneers,@,Arizona Cardinals,boxscore,38,35,407,2,396,4,https://www.pro-football-reference.com/boxscores/201010310crd.htm,ARI,TB,2010_Week8_ARI_vs_TB
+Week8,Sun,2010-10-31,4:15PM,New England Patriots,,Minnesota Vikings,boxscore,28,18,362,0,410,1,https://www.pro-football-reference.com/boxscores/201010310nwe.htm,NE,MIN,2010_Week8_NE_vs_MIN
+Week8,Sun,2010-10-31,4:15PM,Oakland Raiders,,Seattle Seahawks,boxscore,33,3,545,0,164,1,https://www.pro-football-reference.com/boxscores/201010310rai.htm,LVR,SEA,2010_Week8_LVR_vs_SEA
+Week8,Sun,2010-10-31,8:30PM,New Orleans Saints,,Pittsburgh Steelers,boxscore,20,10,318,2,279,2,https://www.pro-football-reference.com/boxscores/201010310nor.htm,NO,PIT,2010_Week8_NO_vs_PIT
+Week8,Mon,2010-11-01,8:41PM,Indianapolis Colts,,Houston Texans,boxscore,30,17,366,0,291,2,https://www.pro-football-reference.com/boxscores/201011010clt.htm,IND,HOU,2010_Week8_IND_vs_HOU
+Week9,Sun,2010-11-07,1:02PM,Atlanta Falcons,,Tampa Bay Buccaneers,boxscore,27,21,365,0,278,2,https://www.pro-football-reference.com/boxscores/201011070atl.htm,ATL,TB,2010_Week9_ATL_vs_TB
+Week9,Sun,2010-11-07,1:02PM,Chicago Bears,@,Buffalo Bills,boxscore,22,19,283,1,340,3,https://www.pro-football-reference.com/boxscores/201011070buf.htm,BUF,CHI,2010_Week9_BUF_vs_CHI
+Week9,Sun,2010-11-07,1:02PM,Cleveland Browns,,New England Patriots,boxscore,34,14,404,1,283,3,https://www.pro-football-reference.com/boxscores/201011070cle.htm,CLE,NE,2010_Week9_CLE_vs_NE
+Week9,Sun,2010-11-07,1:02PM,San Diego Chargers,@,Houston Texans,boxscore,29,23,367,2,392,1,https://www.pro-football-reference.com/boxscores/201011070htx.htm,HOU,LAC,2010_Week9_HOU_vs_LAC
+Week9,Sun,2010-11-07,1:02PM,Baltimore Ravens,,Miami Dolphins,boxscore,26,10,402,0,289,3,https://www.pro-football-reference.com/boxscores/201011070rav.htm,BAL,MIA,2010_Week9_BAL_vs_MIA
+Week9,Sun,2010-11-07,1:03PM,New York Jets,@,Detroit Lions,boxscore,23,20,437,2,306,0,https://www.pro-football-reference.com/boxscores/201011070det.htm,DET,NYJ,2010_Week9_DET_vs_NYJ
+Week9,Sun,2010-11-07,1:04PM,New Orleans Saints,@,Carolina Panthers,boxscore,34,3,408,1,195,2,https://www.pro-football-reference.com/boxscores/201011070car.htm,CAR,NO,2010_Week9_CAR_vs_NO
+Week9,Sun,2010-11-07,1:05PM,Minnesota Vikings,,Arizona Cardinals,boxscore,27,24,507,3,225,1,https://www.pro-football-reference.com/boxscores/201011070min.htm,MIN,ARI,2010_Week9_MIN_vs_ARI
+Week9,Sun,2010-11-07,4:05PM,New York Giants,@,Seattle Seahawks,boxscore,41,7,487,1,162,3,https://www.pro-football-reference.com/boxscores/201011070sea.htm,SEA,NYG,2010_Week9_SEA_vs_NYG
+Week9,Sun,2010-11-07,4:15PM,Oakland Raiders,,Kansas City Chiefs,boxscore,23,20,321,3,304,2,https://www.pro-football-reference.com/boxscores/201011070rai.htm,LVR,KC,2010_Week9_LVR_vs_KC
+Week9,Sun,2010-11-07,4:16PM,Philadelphia Eagles,,Indianapolis Colts,boxscore,26,24,402,0,338,2,https://www.pro-football-reference.com/boxscores/201011070phi.htm,PHI,IND,2010_Week9_PHI_vs_IND
+Week9,Sun,2010-11-07,8:30PM,Green Bay Packers,,Dallas Cowboys,boxscore,45,7,415,0,205,4,https://www.pro-football-reference.com/boxscores/201011070gnb.htm,GB,DAL,2010_Week9_GB_vs_DAL
+Week9,Mon,2010-11-08,8:40PM,Pittsburgh Steelers,@,Cincinnati Bengals,boxscore,27,21,314,2,272,2,https://www.pro-football-reference.com/boxscores/201011080cin.htm,CIN,PIT,2010_Week9_CIN_vs_PIT
+Week10,Thu,2010-11-11,8:31PM,Atlanta Falcons,,Baltimore Ravens,boxscore,26,21,362,0,320,2,https://www.pro-football-reference.com/boxscores/201011110atl.htm,ATL,BAL,2010_Week10_ATL_vs_BAL
+Week10,Sun,2010-11-14,1:02PM,Buffalo Bills,,Detroit Lions,boxscore,14,12,288,1,390,1,https://www.pro-football-reference.com/boxscores/201011140buf.htm,BUF,DET,2010_Week10_BUF_vs_DET
+Week10,Sun,2010-11-14,1:02PM,Tampa Bay Buccaneers,,Carolina Panthers,boxscore,31,16,421,2,300,1,https://www.pro-football-reference.com/boxscores/201011140tam.htm,TB,CAR,2010_Week10_TB_vs_CAR
+Week10,Sun,2010-11-14,1:02PM,Chicago Bears,,Minnesota Vikings,boxscore,27,13,360,2,240,4,https://www.pro-football-reference.com/boxscores/201011140chi.htm,CHI,MIN,2010_Week10_CHI_vs_MIN
+Week10,Sun,2010-11-14,1:02PM,Indianapolis Colts,,Cincinnati Bengals,boxscore,23,17,256,0,341,5,https://www.pro-football-reference.com/boxscores/201011140clt.htm,IND,CIN,2010_Week10_IND_vs_CIN
+Week10,Sun,2010-11-14,1:02PM,New York Jets,@,Cleveland Browns,boxscore,26,20,456,1,303,2,https://www.pro-football-reference.com/boxscores/201011140cle.htm,CLE,NYJ,2010_Week10_CLE_vs_NYJ
+Week10,Sun,2010-11-14,1:02PM,Miami Dolphins,,Tennessee Titans,boxscore,29,17,404,1,259,3,https://www.pro-football-reference.com/boxscores/201011140mia.htm,MIA,TEN,2010_Week10_MIA_vs_TEN
+Week10,Sun,2010-11-14,1:04PM,Jacksonville Jaguars,,Houston Texans,boxscore,31,24,491,0,395,1,https://www.pro-football-reference.com/boxscores/201011140jax.htm,JAX,HOU,2010_Week10_JAX_vs_HOU
+Week10,Sun,2010-11-14,4:05PM,Denver Broncos,,Kansas City Chiefs,boxscore,49,29,452,0,484,1,https://www.pro-football-reference.com/boxscores/201011140den.htm,DEN,KC,2010_Week10_DEN_vs_KC
+Week10,Sun,2010-11-14,4:15PM,Seattle Seahawks,@,Arizona Cardinals,boxscore,36,18,490,1,327,2,https://www.pro-football-reference.com/boxscores/201011140crd.htm,ARI,SEA,2010_Week10_ARI_vs_SEA
+Week10,Sun,2010-11-14,4:15PM,Dallas Cowboys,@,New York Giants,boxscore,33,20,427,1,480,3,https://www.pro-football-reference.com/boxscores/201011140nyg.htm,NYG,DAL,2010_Week10_NYG_vs_DAL
+Week10,Sun,2010-11-14,4:15PM,San Francisco 49ers,,St. Louis Rams,boxscore,23,20,421,0,332,0,https://www.pro-football-reference.com/boxscores/201011140sfo.htm,SF,LAR,2010_Week10_SF_vs_LAR
+Week10,Sun,2010-11-14,8:30PM,New England Patriots,@,Pittsburgh Steelers,boxscore,39,26,453,0,425,1,https://www.pro-football-reference.com/boxscores/201011140pit.htm,PIT,NE,2010_Week10_PIT_vs_NE
+Week10,Mon,2010-11-15,8:40PM,Philadelphia Eagles,@,Washington Redskins,boxscore,59,28,592,0,375,3,https://www.pro-football-reference.com/boxscores/201011150was.htm,WAS,PHI,2010_Week10_WAS_vs_PHI
+Week11,Thu,2010-11-18,8:29PM,Chicago Bears,@,Miami Dolphins,boxscore,16,0,268,1,187,1,https://www.pro-football-reference.com/boxscores/201011180mia.htm,MIA,CHI,2010_Week11_MIA_vs_CHI
+Week11,Sun,2010-11-21,1:02PM,Buffalo Bills,@,Cincinnati Bengals,boxscore,49,31,449,2,361,3,https://www.pro-football-reference.com/boxscores/201011210cin.htm,CIN,BUF,2010_Week11_CIN_vs_BUF
+Week11,Sun,2010-11-21,1:02PM,Dallas Cowboys,,Detroit Lions,boxscore,35,19,265,1,338,2,https://www.pro-football-reference.com/boxscores/201011210dal.htm,DAL,DET,2010_Week11_DAL_vs_DET
+Week11,Sun,2010-11-21,1:02PM,Pittsburgh Steelers,,Oakland Raiders,boxscore,35,3,431,1,182,3,https://www.pro-football-reference.com/boxscores/201011210pit.htm,PIT,LVR,2010_Week11_PIT_vs_LVR
+Week11,Sun,2010-11-21,1:03PM,Jacksonville Jaguars,,Cleveland Browns,boxscore,24,20,371,6,283,1,https://www.pro-football-reference.com/boxscores/201011210jax.htm,JAX,CLE,2010_Week11_JAX_vs_CLE
+Week11,Sun,2010-11-21,1:03PM,Kansas City Chiefs,,Arizona Cardinals,boxscore,31,13,352,0,382,0,https://www.pro-football-reference.com/boxscores/201011210kan.htm,KC,ARI,2010_Week11_KC_vs_ARI
+Week11,Sun,2010-11-21,1:03PM,New York Jets,,Houston Texans,boxscore,30,27,401,2,343,1,https://www.pro-football-reference.com/boxscores/201011210nyj.htm,NYJ,HOU,2010_Week11_NYJ_vs_HOU
+Week11,Sun,2010-11-21,1:03PM,Washington Redskins,@,Tennessee Titans,boxscore,19,16,465,1,373,2,https://www.pro-football-reference.com/boxscores/201011210oti.htm,TEN,WAS,2010_Week11_TEN_vs_WAS
+Week11,Sun,2010-11-21,1:04PM,Baltimore Ravens,@,Carolina Panthers,boxscore,37,13,378,2,270,2,https://www.pro-football-reference.com/boxscores/201011210car.htm,CAR,BAL,2010_Week11_CAR_vs_BAL
+Week11,Sun,2010-11-21,1:05PM,Green Bay Packers,@,Minnesota Vikings,boxscore,31,3,374,0,300,2,https://www.pro-football-reference.com/boxscores/201011210min.htm,MIN,GB,2010_Week11_MIN_vs_GB
+Week11,Sun,2010-11-21,4:05PM,Atlanta Falcons,@,St. Louis Rams,boxscore,34,17,391,0,304,1,https://www.pro-football-reference.com/boxscores/201011210ram.htm,LAR,ATL,2010_Week11_LAR_vs_ATL
+Week11,Sun,2010-11-21,4:05PM,New Orleans Saints,,Seattle Seahawks,boxscore,34,19,494,2,424,2,https://www.pro-football-reference.com/boxscores/201011210nor.htm,NO,SEA,2010_Week11_NO_vs_SEA
+Week11,Sun,2010-11-21,4:05PM,Tampa Bay Buccaneers,@,San Francisco 49ers,boxscore,21,0,299,0,189,2,https://www.pro-football-reference.com/boxscores/201011210sfo.htm,SF,TB,2010_Week11_SF_vs_TB
+Week11,Sun,2010-11-21,4:15PM,New England Patriots,,Indianapolis Colts,boxscore,31,28,346,0,467,3,https://www.pro-football-reference.com/boxscores/201011210nwe.htm,NE,IND,2010_Week11_NE_vs_IND
+Week11,Sun,2010-11-21,8:30PM,Philadelphia Eagles,,New York Giants,boxscore,27,17,392,2,208,5,https://www.pro-football-reference.com/boxscores/201011210phi.htm,PHI,NYG,2010_Week11_PHI_vs_NYG
+Week11,Mon,2010-11-22,8:40PM,San Diego Chargers,,Denver Broncos,boxscore,35,14,400,1,235,1,https://www.pro-football-reference.com/boxscores/201011220sdg.htm,LAC,DEN,2010_Week11_LAC_vs_DEN
+Week12,Thu,2010-11-25,12:38PM,New England Patriots,@,Detroit Lions,boxscore,45,24,447,0,406,2,https://www.pro-football-reference.com/boxscores/201011250det.htm,DET,NE,2010_Week12_DET_vs_NE
+Week12,Thu,2010-11-25,4:36PM,New Orleans Saints,@,Dallas Cowboys,boxscore,30,27,414,2,457,3,https://www.pro-football-reference.com/boxscores/201011250dal.htm,DAL,NO,2010_Week12_DAL_vs_NO
+Week12,Thu,2010-11-25,8:30PM,New York Jets,,Cincinnati Bengals,boxscore,26,10,319,1,163,3,https://www.pro-football-reference.com/boxscores/201011250nyj.htm,NYJ,CIN,2010_Week12_NYJ_vs_CIN
+Week12,Sun,2010-11-28,1:02PM,Atlanta Falcons,,Green Bay Packers,boxscore,20,17,294,0,418,1,https://www.pro-football-reference.com/boxscores/201011280atl.htm,ATL,GB,2010_Week12_ATL_vs_GB
+Week12,Sun,2010-11-28,1:02PM,Pittsburgh Steelers,@,Buffalo Bills,boxscore,19,16,426,1,329,2,https://www.pro-football-reference.com/boxscores/201011280buf.htm,BUF,PIT,2010_Week12_BUF_vs_PIT
+Week12,Sun,2010-11-28,1:02PM,Houston Texans,,Tennessee Titans,boxscore,20,0,346,0,162,3,https://www.pro-football-reference.com/boxscores/201011280htx.htm,HOU,TEN,2010_Week12_HOU_vs_TEN
+Week12,Sun,2010-11-28,1:02PM,New York Giants,,Jacksonville Jaguars,boxscore,24,20,361,0,328,2,https://www.pro-football-reference.com/boxscores/201011280nyg.htm,NYG,JAX,2010_Week12_NYG_vs_JAX
+Week12,Sun,2010-11-28,1:02PM,Minnesota Vikings,@,Washington Redskins,boxscore,17,13,299,0,216,1,https://www.pro-football-reference.com/boxscores/201011280was.htm,WAS,MIN,2010_Week12_WAS_vs_MIN
+Week12,Sun,2010-11-28,1:03PM,Cleveland Browns,,Carolina Panthers,boxscore,24,23,379,3,326,1,https://www.pro-football-reference.com/boxscores/201011280cle.htm,CLE,CAR,2010_Week12_CLE_vs_CAR
+Week12,Sun,2010-11-28,4:05PM,Miami Dolphins,@,Oakland Raiders,boxscore,33,17,471,1,263,3,https://www.pro-football-reference.com/boxscores/201011280rai.htm,LVR,MIA,2010_Week12_LVR_vs_MIA
+Week12,Sun,2010-11-28,4:06PM,Kansas City Chiefs,@,Seattle Seahawks,boxscore,42,24,503,1,288,3,https://www.pro-football-reference.com/boxscores/201011280sea.htm,SEA,KC,2010_Week12_SEA_vs_KC
+Week12,Sun,2010-11-28,4:15PM,Chicago Bears,,Philadelphia Eagles,boxscore,31,26,349,0,398,1,https://www.pro-football-reference.com/boxscores/201011280chi.htm,CHI,PHI,2010_Week12_CHI_vs_PHI
+Week12,Sun,2010-11-28,4:15PM,Baltimore Ravens,,Tampa Bay Buccaneers,boxscore,17,10,349,1,263,0,https://www.pro-football-reference.com/boxscores/201011280rav.htm,BAL,TB,2010_Week12_BAL_vs_TB
+Week12,Sun,2010-11-28,4:16PM,St. Louis Rams,@,Denver Broncos,boxscore,36,33,431,0,449,2,https://www.pro-football-reference.com/boxscores/201011280den.htm,DEN,LAR,2010_Week12_DEN_vs_LAR
+Week12,Sun,2010-11-28,8:30PM,San Diego Chargers,@,Indianapolis Colts,boxscore,36,14,301,0,303,5,https://www.pro-football-reference.com/boxscores/201011280clt.htm,IND,LAC,2010_Week12_IND_vs_LAC
+Week12,Mon,2010-11-29,8:40PM,San Francisco 49ers,@,Arizona Cardinals,boxscore,27,6,386,1,203,2,https://www.pro-football-reference.com/boxscores/201011290crd.htm,ARI,SF,2010_Week12_ARI_vs_SF
+Week13,Thu,2010-12-02,8:30PM,Philadelphia Eagles,,Houston Texans,boxscore,34,24,416,1,431,2,https://www.pro-football-reference.com/boxscores/201012020phi.htm,PHI,HOU,2010_Week13_PHI_vs_HOU
+Week13,Sun,2010-12-05,1:02PM,Cleveland Browns,@,Miami Dolphins,boxscore,13,10,252,0,281,3,https://www.pro-football-reference.com/boxscores/201012050mia.htm,MIA,CLE,2010_Week13_MIA_vs_CLE
+Week13,Sun,2010-12-05,1:02PM,Green Bay Packers,,San Francisco 49ers,boxscore,34,16,410,0,269,1,https://www.pro-football-reference.com/boxscores/201012050gnb.htm,GB,SF,2010_Week13_GB_vs_SF
+Week13,Sun,2010-12-05,1:02PM,New York Giants,,Washington Redskins,boxscore,31,7,358,1,338,6,https://www.pro-football-reference.com/boxscores/201012050nyg.htm,NYG,WAS,2010_Week13_NYG_vs_WAS
+Week13,Sun,2010-12-05,1:03PM,Chicago Bears,@,Detroit Lions,boxscore,24,20,311,1,302,0,https://www.pro-football-reference.com/boxscores/201012050det.htm,DET,CHI,2010_Week13_DET_vs_CHI
+Week13,Sun,2010-12-05,1:03PM,New Orleans Saints,@,Cincinnati Bengals,boxscore,34,30,436,1,311,0,https://www.pro-football-reference.com/boxscores/201012050cin.htm,CIN,NO,2010_Week13_CIN_vs_NO
+Week13,Sun,2010-12-05,1:03PM,Kansas City Chiefs,,Denver Broncos,boxscore,10,6,359,1,247,1,https://www.pro-football-reference.com/boxscores/201012050kan.htm,KC,DEN,2010_Week13_KC_vs_DEN
+Week13,Sun,2010-12-05,1:03PM,Jacksonville Jaguars,@,Tennessee Titans,boxscore,17,6,377,0,220,2,https://www.pro-football-reference.com/boxscores/201012050oti.htm,TEN,JAX,2010_Week13_TEN_vs_JAX
+Week13,Sun,2010-12-05,1:05PM,Minnesota Vikings,,Buffalo Bills,boxscore,38,14,387,4,239,5,https://www.pro-football-reference.com/boxscores/201012050min.htm,MIN,BUF,2010_Week13_MIN_vs_BUF
+Week13,Sun,2010-12-05,4:05PM,Oakland Raiders,@,San Diego Chargers,boxscore,28,13,368,1,286,2,https://www.pro-football-reference.com/boxscores/201012050sdg.htm,LAC,LVR,2010_Week13_LAC_vs_LVR
+Week13,Sun,2010-12-05,4:15PM,Dallas Cowboys,@,Indianapolis Colts,boxscore,38,35,368,0,405,4,https://www.pro-football-reference.com/boxscores/201012050clt.htm,IND,DAL,2010_Week13_IND_vs_DAL
+Week13,Sun,2010-12-05,4:15PM,St. Louis Rams,@,Arizona Cardinals,boxscore,19,6,288,1,224,2,https://www.pro-football-reference.com/boxscores/201012050crd.htm,ARI,LAR,2010_Week13_ARI_vs_LAR
+Week13,Sun,2010-12-05,4:16PM,Atlanta Falcons,@,Tampa Bay Buccaneers,boxscore,28,24,290,2,325,1,https://www.pro-football-reference.com/boxscores/201012050tam.htm,TB,ATL,2010_Week13_TB_vs_ATL
+Week13,Sun,2010-12-05,4:16PM,Seattle Seahawks,,Carolina Panthers,boxscore,31,14,371,2,283,1,https://www.pro-football-reference.com/boxscores/201012050sea.htm,SEA,CAR,2010_Week13_SEA_vs_CAR
+Week13,Sun,2010-12-05,8:30PM,Pittsburgh Steelers,@,Baltimore Ravens,boxscore,13,10,288,1,269,1,https://www.pro-football-reference.com/boxscores/201012050rav.htm,BAL,PIT,2010_Week13_BAL_vs_PIT
+Week13,Mon,2010-12-06,8:40PM,New England Patriots,,New York Jets,boxscore,45,3,405,0,301,3,https://www.pro-football-reference.com/boxscores/201012060nwe.htm,NE,NYJ,2010_Week13_NE_vs_NYJ
+Week14,Thu,2010-12-09,8:29PM,Indianapolis Colts,@,Tennessee Titans,boxscore,30,28,399,0,365,2,https://www.pro-football-reference.com/boxscores/201012090oti.htm,TEN,IND,2010_Week14_TEN_vs_IND
+Week14,Sun,2010-12-12,1:02PM,Buffalo Bills,,Cleveland Browns,boxscore,13,6,323,1,187,3,https://www.pro-football-reference.com/boxscores/201012120buf.htm,BUF,CLE,2010_Week14_BUF_vs_CLE
+Week14,Sun,2010-12-12,1:02PM,Pittsburgh Steelers,,Cincinnati Bengals,boxscore,23,7,354,0,190,3,https://www.pro-football-reference.com/boxscores/201012120pit.htm,PIT,CIN,2010_Week14_PIT_vs_CIN
+Week14,Sun,2010-12-12,1:02PM,Jacksonville Jaguars,,Oakland Raiders,boxscore,38,31,385,1,476,2,https://www.pro-football-reference.com/boxscores/201012120jax.htm,JAX,LVR,2010_Week14_JAX_vs_LVR
+Week14,Sun,2010-12-12,1:03PM,Atlanta Falcons,@,Carolina Panthers,boxscore,31,10,327,1,288,2,https://www.pro-football-reference.com/boxscores/201012120car.htm,CAR,ATL,2010_Week14_CAR_vs_ATL
+Week14,Sun,2010-12-12,1:03PM,Detroit Lions,,Green Bay Packers,boxscore,7,3,286,2,258,3,https://www.pro-football-reference.com/boxscores/201012120det.htm,DET,GB,2010_Week14_DET_vs_GB
+Week14,Sun,2010-12-12,1:03PM,Tampa Bay Buccaneers,@,Washington Redskins,boxscore,17,16,365,2,399,1,https://www.pro-football-reference.com/boxscores/201012120was.htm,WAS,TB,2010_Week14_WAS_vs_TB
+Week14,Sun,2010-12-12,4:05PM,New Orleans Saints,,St. Louis Rams,boxscore,31,13,345,3,327,3,https://www.pro-football-reference.com/boxscores/201012120nor.htm,NO,LAR,2010_Week14_NO_vs_LAR
+Week14,Sun,2010-12-12,4:05PM,San Francisco 49ers,,Seattle Seahawks,boxscore,40,21,336,0,361,5,https://www.pro-football-reference.com/boxscores/201012120sfo.htm,SF,SEA,2010_Week14_SF_vs_SEA
+Week14,Sun,2010-12-12,4:15PM,Arizona Cardinals,,Denver Broncos,boxscore,43,13,357,1,288,6,https://www.pro-football-reference.com/boxscores/201012120crd.htm,ARI,DEN,2010_Week14_ARI_vs_DEN
+Week14,Sun,2010-12-12,4:15PM,San Diego Chargers,,Kansas City Chiefs,boxscore,31,0,426,2,67,0,https://www.pro-football-reference.com/boxscores/201012120sdg.htm,LAC,KC,2010_Week14_LAC_vs_KC
+Week14,Sun,2010-12-12,4:15PM,Miami Dolphins,@,New York Jets,boxscore,10,6,131,3,280,2,https://www.pro-football-reference.com/boxscores/201012120nyj.htm,NYJ,MIA,2010_Week14_NYJ_vs_MIA
+Week14,Sun,2010-12-12,4:16PM,New England Patriots,@,Chicago Bears,boxscore,36,7,475,0,185,4,https://www.pro-football-reference.com/boxscores/201012120chi.htm,CHI,NE,2010_Week14_CHI_vs_NE
+Week14,Sun,2010-12-12,8:30PM,Philadelphia Eagles,@,Dallas Cowboys,boxscore,30,27,429,2,349,2,https://www.pro-football-reference.com/boxscores/201012120dal.htm,DAL,PHI,2010_Week14_DAL_vs_PHI
+Week14,Mon,2010-12-13,7:20PM,New York Giants,@,Minnesota Vikings,boxscore,21,3,395,2,164,1,https://www.pro-football-reference.com/boxscores/201012130min.htm,MIN,NYG,2010_Week14_MIN_vs_NYG
+Week14,Mon,2010-12-13,8:40PM,Baltimore Ravens,@,Houston Texans,boxscore,34,28,253,0,489,2,https://www.pro-football-reference.com/boxscores/201012130htx.htm,HOU,BAL,2010_Week14_HOU_vs_BAL
+Week15,Thu,2010-12-16,8:20PM,San Diego Chargers,,San Francisco 49ers,boxscore,34,7,374,0,192,1,https://www.pro-football-reference.com/boxscores/201012160sdg.htm,LAC,SF,2010_Week15_LAC_vs_SF
+Week15,Sun,2010-12-19,1:00PM,Kansas City Chiefs,@,St. Louis Rams,boxscore,27,13,383,1,224,2,https://www.pro-football-reference.com/boxscores/201012190ram.htm,LAR,KC,2010_Week15_LAR_vs_KC
+Week15,Sun,2010-12-19,1:02PM,Buffalo Bills,@,Miami Dolphins,boxscore,17,14,282,1,326,2,https://www.pro-football-reference.com/boxscores/201012190mia.htm,MIA,BUF,2010_Week15_MIA_vs_BUF
+Week15,Sun,2010-12-19,1:02PM,Cincinnati Bengals,,Cleveland Browns,boxscore,19,17,397,0,278,0,https://www.pro-football-reference.com/boxscores/201012190cin.htm,CIN,CLE,2010_Week15_CIN_vs_CLE
+Week15,Sun,2010-12-19,1:02PM,Indianapolis Colts,,Jacksonville Jaguars,boxscore,34,24,376,0,356,2,https://www.pro-football-reference.com/boxscores/201012190clt.htm,IND,JAX,2010_Week15_IND_vs_JAX
+Week15,Sun,2010-12-19,1:02PM,Tennessee Titans,,Houston Texans,boxscore,31,17,359,1,323,1,https://www.pro-football-reference.com/boxscores/201012190oti.htm,TEN,HOU,2010_Week15_TEN_vs_HOU
+Week15,Sun,2010-12-19,1:03PM,Dallas Cowboys,,Washington Redskins,boxscore,33,30,434,0,341,3,https://www.pro-football-reference.com/boxscores/201012190dal.htm,DAL,WAS,2010_Week15_DAL_vs_WAS
+Week15,Sun,2010-12-19,1:03PM,Detroit Lions,@,Tampa Bay Buccaneers,boxscore,23,20,433,0,403,0,https://www.pro-football-reference.com/boxscores/201012190tam.htm,TB,DET,2010_Week15_TB_vs_DET
+Week15,Sun,2010-12-19,1:03PM,Baltimore Ravens,,New Orleans Saints,boxscore,30,24,356,0,269,1,https://www.pro-football-reference.com/boxscores/201012190rav.htm,BAL,NO,2010_Week15_BAL_vs_NO
+Week15,Sun,2010-12-19,1:03PM,Philadelphia Eagles,@,New York Giants,boxscore,38,31,418,3,364,2,https://www.pro-football-reference.com/boxscores/201012190nyg.htm,NYG,PHI,2010_Week15_NYG_vs_PHI
+Week15,Sun,2010-12-19,1:04PM,Carolina Panthers,,Arizona Cardinals,boxscore,19,12,303,1,218,2,https://www.pro-football-reference.com/boxscores/201012190car.htm,CAR,ARI,2010_Week15_CAR_vs_ARI
+Week15,Sun,2010-12-19,4:06PM,Atlanta Falcons,@,Seattle Seahawks,boxscore,34,18,266,1,234,3,https://www.pro-football-reference.com/boxscores/201012190sea.htm,SEA,ATL,2010_Week15_SEA_vs_ATL
+Week15,Sun,2010-12-19,4:15PM,Oakland Raiders,,Denver Broncos,boxscore,39,23,502,3,235,1,https://www.pro-football-reference.com/boxscores/201012190rai.htm,LVR,DEN,2010_Week15_LVR_vs_DEN
+Week15,Sun,2010-12-19,4:15PM,New York Jets,@,Pittsburgh Steelers,boxscore,22,17,276,0,378,0,https://www.pro-football-reference.com/boxscores/201012190pit.htm,PIT,NYJ,2010_Week15_PIT_vs_NYJ
+Week15,Sun,2010-12-19,8:30PM,New England Patriots,,Green Bay Packers,boxscore,31,27,249,0,369,2,https://www.pro-football-reference.com/boxscores/201012190nwe.htm,NE,GB,2010_Week15_NE_vs_GB
+Week15,Mon,2010-12-20,8:40PM,Chicago Bears,@,Minnesota Vikings,boxscore,40,14,293,1,273,5,https://www.pro-football-reference.com/boxscores/201012200min.htm,MIN,CHI,2010_Week15_MIN_vs_CHI
+Week16,Thu,2010-12-23,8:29PM,Pittsburgh Steelers,,Carolina Panthers,boxscore,27,3,408,2,119,2,https://www.pro-football-reference.com/boxscores/201012230pit.htm,PIT,CAR,2010_Week16_PIT_vs_CAR
+Week16,Sat,2010-12-25,7:30PM,Arizona Cardinals,,Dallas Cowboys,boxscore,27,26,271,0,382,3,https://www.pro-football-reference.com/boxscores/201012250crd.htm,ARI,DAL,2010_Week16_ARI_vs_DAL
+Week16,Sun,2010-12-26,1:00PM,St. Louis Rams,,San Francisco 49ers,boxscore,25,17,335,1,331,2,https://www.pro-football-reference.com/boxscores/201012260ram.htm,LAR,SF,2010_Week16_LAR_vs_SF
+Week16,Sun,2010-12-26,1:02PM,New England Patriots,@,Buffalo Bills,boxscore,34,3,348,0,369,7,https://www.pro-football-reference.com/boxscores/201012260buf.htm,BUF,NE,2010_Week16_BUF_vs_NE
+Week16,Sun,2010-12-26,1:02PM,Chicago Bears,,New York Jets,boxscore,38,34,322,1,393,2,https://www.pro-football-reference.com/boxscores/201012260chi.htm,CHI,NYJ,2010_Week16_CHI_vs_NYJ
+Week16,Sun,2010-12-26,1:02PM,Baltimore Ravens,@,Cleveland Browns,boxscore,20,10,258,1,280,4,https://www.pro-football-reference.com/boxscores/201012260cle.htm,CLE,BAL,2010_Week16_CLE_vs_BAL
+Week16,Sun,2010-12-26,1:03PM,Detroit Lions,@,Miami Dolphins,boxscore,34,27,275,0,425,3,https://www.pro-football-reference.com/boxscores/201012260mia.htm,MIA,DET,2010_Week16_MIA_vs_DET
+Week16,Sun,2010-12-26,1:03PM,Washington Redskins,@,Jacksonville Jaguars,boxscore,20,17,251,1,336,2,https://www.pro-football-reference.com/boxscores/201012260jax.htm,JAX,WAS,2010_Week16_JAX_vs_WAS
+Week16,Sun,2010-12-26,1:03PM,Kansas City Chiefs,,Tennessee Titans,boxscore,34,14,458,2,270,2,https://www.pro-football-reference.com/boxscores/201012260kan.htm,KC,TEN,2010_Week16_KC_vs_TEN
+Week16,Sun,2010-12-26,4:05PM,Cincinnati Bengals,,San Diego Chargers,boxscore,34,20,371,1,313,2,https://www.pro-football-reference.com/boxscores/201012260cin.htm,CIN,LAC,2010_Week16_CIN_vs_LAC
+Week16,Sun,2010-12-26,4:05PM,Indianapolis Colts,@,Oakland Raiders,boxscore,31,26,370,2,290,0,https://www.pro-football-reference.com/boxscores/201012260rai.htm,LVR,IND,2010_Week16_LVR_vs_IND
+Week16,Sun,2010-12-26,4:06PM,Denver Broncos,,Houston Texans,boxscore,24,23,431,1,401,1,https://www.pro-football-reference.com/boxscores/201012260den.htm,DEN,HOU,2010_Week16_DEN_vs_HOU
+Week16,Sun,2010-12-26,4:15PM,Green Bay Packers,,New York Giants,boxscore,45,17,515,1,386,6,https://www.pro-football-reference.com/boxscores/201012260gnb.htm,GB,NYG,2010_Week16_GB_vs_NYG
+Week16,Sun,2010-12-26,4:16PM,Tampa Bay Buccaneers,,Seattle Seahawks,boxscore,38,15,439,0,174,0,https://www.pro-football-reference.com/boxscores/201012260tam.htm,TB,SEA,2010_Week16_TB_vs_SEA
+Week16,Mon,2010-12-27,8:40PM,New Orleans Saints,@,Atlanta Falcons,boxscore,17,14,368,2,215,2,https://www.pro-football-reference.com/boxscores/201012270atl.htm,ATL,NO,2010_Week16_ATL_vs_NO
+Week16,Tue,2010-12-28,8:06PM,Minnesota Vikings,@,Philadelphia Eagles,boxscore,24,14,337,1,331,3,https://www.pro-football-reference.com/boxscores/201012280phi.htm,PHI,MIN,2010_Week16_PHI_vs_MIN
+Week17,Sun,2011-01-02,1:00PM,Tampa Bay Buccaneers,@,New Orleans Saints,boxscore,23,13,317,2,305,3,https://www.pro-football-reference.com/boxscores/201101020nor.htm,NO,TB,2010_Week17_NO_vs_TB
+Week17,Sun,2011-01-02,1:02PM,Baltimore Ravens,,Cincinnati Bengals,boxscore,13,7,199,2,395,5,https://www.pro-football-reference.com/boxscores/201101020rav.htm,BAL,CIN,2010_Week17_BAL_vs_CIN
+Week17,Sun,2011-01-02,1:02PM,Pittsburgh Steelers,@,Cleveland Browns,boxscore,41,9,418,0,225,3,https://www.pro-football-reference.com/boxscores/201101020cle.htm,CLE,PIT,2010_Week17_CLE_vs_PIT
+Week17,Sun,2011-01-02,1:02PM,Oakland Raiders,@,Kansas City Chiefs,boxscore,31,10,344,1,201,2,https://www.pro-football-reference.com/boxscores/201101020kan.htm,KC,LVR,2010_Week17_KC_vs_LVR
+Week17,Sun,2011-01-02,1:02PM,New England Patriots,,Miami Dolphins,boxscore,38,7,502,1,250,2,https://www.pro-football-reference.com/boxscores/201101020nwe.htm,NE,MIA,2010_Week17_NE_vs_MIA
+Week17,Sun,2011-01-02,1:03PM,Atlanta Falcons,,Carolina Panthers,boxscore,31,10,352,1,291,2,https://www.pro-football-reference.com/boxscores/201101020atl.htm,ATL,CAR,2010_Week17_ATL_vs_CAR
+Week17,Sun,2011-01-02,1:03PM,New York Jets,,Buffalo Bills,boxscore,38,7,388,1,162,6,https://www.pro-football-reference.com/boxscores/201101020nyj.htm,NYJ,BUF,2010_Week17_NYJ_vs_BUF
+Week17,Sun,2011-01-02,1:03PM,Detroit Lions,,Minnesota Vikings,boxscore,20,13,357,2,211,1,https://www.pro-football-reference.com/boxscores/201101020det.htm,DET,MIN,2010_Week17_DET_vs_MIN
+Week17,Sun,2011-01-02,4:15PM,Green Bay Packers,,Chicago Bears,boxscore,10,3,284,2,227,2,https://www.pro-football-reference.com/boxscores/201101020gnb.htm,GB,CHI,2010_Week17_GB_vs_CHI
+Week17,Sun,2011-01-02,4:15PM,San Francisco 49ers,,Arizona Cardinals,boxscore,38,7,362,0,279,2,https://www.pro-football-reference.com/boxscores/201101020sfo.htm,SF,ARI,2010_Week17_SF_vs_ARI
+Week17,Sun,2011-01-02,4:15PM,Dallas Cowboys,@,Philadelphia Eagles,boxscore,14,13,272,1,244,4,https://www.pro-football-reference.com/boxscores/201101020phi.htm,PHI,DAL,2010_Week17_PHI_vs_DAL
+Week17,Sun,2011-01-02,4:15PM,San Diego Chargers,@,Denver Broncos,boxscore,33,28,447,1,337,2,https://www.pro-football-reference.com/boxscores/201101020den.htm,DEN,LAC,2010_Week17_DEN_vs_LAC
+Week17,Sun,2011-01-02,4:15PM,Houston Texans,,Jacksonville Jaguars,boxscore,34,17,497,0,322,2,https://www.pro-football-reference.com/boxscores/201101020htx.htm,HOU,JAX,2010_Week17_HOU_vs_JAX
+Week17,Sun,2011-01-02,4:16PM,Indianapolis Colts,,Tennessee Titans,boxscore,23,20,358,1,341,1,https://www.pro-football-reference.com/boxscores/201101020clt.htm,IND,TEN,2010_Week17_IND_vs_TEN
+Week17,Sun,2011-01-02,4:16PM,New York Giants,@,Washington Redskins,boxscore,17,14,325,1,385,4,https://www.pro-football-reference.com/boxscores/201101020was.htm,WAS,NYG,2010_Week17_WAS_vs_NYG
+Week17,Sun,2011-01-02,8:31PM,Seattle Seahawks,,St. Louis Rams,boxscore,16,6,333,1,184,1,https://www.pro-football-reference.com/boxscores/201101020sea.htm,SEA,LAR,2010_Week17_SEA_vs_LAR
+WildCard,Sat,2011-01-08,4:35PM,Seattle Seahawks,,New Orleans Saints,boxscore,41,36,415,1,474,1,https://www.pro-football-reference.com/boxscores/201101080sea.htm,SEA,NO,2010_WildCard_SEA_vs_NO
+WildCard,Sat,2011-01-08,8:15PM,New York Jets,@,Indianapolis Colts,boxscore,17,16,353,1,312,0,https://www.pro-football-reference.com/boxscores/201101080clt.htm,IND,NYJ,2010_WildCard_IND_vs_NYJ
+WildCard,Sun,2011-01-09,1:06PM,Baltimore Ravens,@,Kansas City Chiefs,boxscore,30,7,390,2,161,5,https://www.pro-football-reference.com/boxscores/201101090kan.htm,KC,BAL,2010_WildCard_KC_vs_BAL
+WildCard,Sun,2011-01-09,4:40PM,Green Bay Packers,@,Philadelphia Eagles,boxscore,21,16,309,2,352,1,https://www.pro-football-reference.com/boxscores/201101090phi.htm,PHI,GB,2010_WildCard_PHI_vs_GB
+Division,Sat,2011-01-15,4:35PM,Pittsburgh Steelers,,Baltimore Ravens,boxscore,31,24,263,2,126,3,https://www.pro-football-reference.com/boxscores/201101150pit.htm,PIT,BAL,2010_Division_PIT_vs_BAL
+Division,Sat,2011-01-15,8:15PM,Green Bay Packers,@,Atlanta Falcons,boxscore,48,21,442,1,194,4,https://www.pro-football-reference.com/boxscores/201101150atl.htm,ATL,GB,2010_Division_ATL_vs_GB
+Division,Sun,2011-01-16,1:05PM,Chicago Bears,,Seattle Seahawks,boxscore,35,24,437,1,276,0,https://www.pro-football-reference.com/boxscores/201101160chi.htm,CHI,SEA,2010_Division_CHI_vs_SEA
+Division,Sun,2011-01-16,4:40PM,New York Jets,@,New England Patriots,boxscore,28,21,314,0,372,1,https://www.pro-football-reference.com/boxscores/201101160nwe.htm,NE,NYJ,2010_Division_NE_vs_NYJ
+ConfChamp,Sun,2011-01-23,3:05PM,Green Bay Packers,@,Chicago Bears,boxscore,21,14,356,2,301,3,https://www.pro-football-reference.com/boxscores/201101230chi.htm,CHI,GB,2010_ConfChamp_CHI_vs_GB
+ConfChamp,Sun,2011-01-23,6:41PM,Pittsburgh Steelers,,New York Jets,boxscore,24,19,287,2,289,1,https://www.pro-football-reference.com/boxscores/201101230pit.htm,PIT,NYJ,2010_ConfChamp_PIT_vs_NYJ
+SuperBowl,Sun,2011-02-06,6:34PM,Green Bay Packers,N,Pittsburgh Steelers,boxscore,31,25,338,0,387,3,https://www.pro-football-reference.com/boxscores/201102060pit.htm,PIT,GB,2010_SuperBowl_PIT_vs_GB

@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:29,BAL 16,9,5:40,84,Touchdown
+2,1,5:09,BAL 39,5,2:19,61,Touchdown
+3,2,13:27,BAL 25,6,3:44,75,Touchdown
+4,2,1:54,BAL 7,3,0:51,6,Punt
+5,2,0:18,BAL 17,1,0:18,0,End of Half
+6,3,15:00,BAL 25,3,1:40,7,Punt
+7,3,11:46,BAL 20,5,3:25,21,Punt
+8,3,5:20,NYJ 24,2,0:11,24,Touchdown
+9,3,3:56,BAL 20,7,2:58,80,Touchdown
+10,4,14:06,BAL 3,4,1:59,25,Blocked Punt
+11,4,12:07,NYJ 44,5,2:09,44,Touchdown
+12,4,7:35,BAL 38,3,2:22,-3,Punt
+13,4,4:02,BAL 41,6,4:02,39,End of Game

@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:24,TAM 20,7,5:02,21,Punt
+2,1,6:37,TAM 22,8,3:48,17,Punt
+3,1,1:12,TAM 45,3,1:22,6,Punt
+4,2,13:02,TAM 46,6,2:38,16,Punt
+5,2,9:29,TAM 33,11,6:53,67,Touchdown
+6,2,1:01,TAM 10,2,1:01,8,End of Half
+7,3,15:00,TAM 12,4,3:15,7,Punt
+8,3,10:12,TAM 20,9,5:03,80,Touchdown
+9,4,14:45,TAM 24,8,5:23,54,Field Goal
+10,4,7:36,TAM 17,5,3:45,18,Punt
+11,4,0:40,TAM 9,1,0:40,-1,End of Game

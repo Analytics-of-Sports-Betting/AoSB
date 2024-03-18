@@ -1,0 +1,186 @@
+Quarter,Time,Down,ToGo,Location,SEA,DEN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Seahawks won the coin toss and deferred, Broncos to receive the opening kickoff.",,
+1,15:00,,,SEA 35,0,0,"Sebastian Janikowski kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,DEN 25,0,0,Case Keenum pass incomplete short left intended for Demaryius Thomas,0.610,0.060
+1,14:57,2,10,DEN 25,0,0,"Royce Freeman left end for 6 yards (tackle by Tre Flowers). Penalty on Demaryius Thomas: Offensive Holding, 10 yards",0.060,-0.480
+1,14:25,2,14,DEN 21,0,0,Case Keenum pass incomplete short middle intended for Demaryius Thomas (defended by Earl Thomas),-0.480,-1.150
+1,14:17,3,14,DEN 21,0,0,Case Keenum pass complete short right to Emmanuel Sanders for 14 yards,-1.150,1.270
+1,13:51,1,10,DEN 35,0,0,Royce Freeman up the middle for no gain (tackle by Shaquill Griffin),1.270,0.720
+1,13:10,2,10,DEN 35,0,0,Phillip Lindsay left guard for 4 yards (tackle by Justin Coleman),0.720,0.560
+1,12:28,3,6,DEN 39,0,0,Case Keenum pass incomplete deep left intended for Matt LaCosse,0.560,-0.780
+1,12:23,4,6,DEN 39,0,0,Marquette King punts 45 yards downed by Tim Patrick,-0.780,0.140
+1,12:11,1,10,SEA 16,0,0,Russell Wilson sacked by Darian Stewart and Bradley Chubb for -6 yards,-0.140,-1.220
+1,11:27,2,16,SEA 10,0,0,Russell Wilson pass incomplete deep right intended for Will Dissly,-1.220,-2.120
+1,11:18,3,16,SEA 10,0,0,Chris Carson up the middle for 10 yards (tackle by Chris Harris and Darian Stewart),-2.120,-2.030
+1,10:43,4,6,SEA 20,0,0,"Michael Dickson punts 60 yards, returned by Adam Jones for no gain (tackle by Austin Calitro). Penalty on Keishawn Bierria: Offensive Holding, 10 yards",-2.030,0.380
+1,10:29,1,10,DEN 10,0,0,Case Keenum pass complete short right to Emmanuel Sanders for 9 yards (tackle by Shaquill Griffin),-0.380,0.240
+1,9:57,2,1,DEN 19,0,0,Royce Freeman up the middle for 5 yards (tackle by Shaquem Griffin),0.240,0.540
+1,9:21,1,10,DEN 24,0,0,Case Keenum pass deep right intended for Demaryius Thomas is intercepted by Earl Thomas at DEN-40 and returned for 25 yards,0.540,-4.580
+1,9:10,1,10,DEN 15,6,0,"Russell Wilson pass complete short left to Will Dissly for 15 yards, touchdown",4.580,7.000
+1,9:04,,,DEN 15,7,0,Sebastian Janikowski kicks extra point good,0.000,0.000
+1,9:04,,,SEA 35,7,0,"Sebastian Janikowski kicks off 65 yards, touchback.",0.000,0.610
+1,9:04,1,10,DEN 25,7,0,Case Keenum pass complete deep middle to Courtland Sutton for 20 yards (tackle by Tedric Thompson),0.610,1.930
+1,8:39,1,10,DEN 45,7,0,Royce Freeman up the middle for 3 yards (tackle by Shaquem Griffin),1.930,1.790
+1,8:10,2,7,DEN 48,7,0,Case Keenum pass complete short right to Demaryius Thomas for 8 yards (tackle by Shaquill Griffin),1.790,2.650
+1,7:50,1,10,SEA 44,7,0,Case Keenum pass incomplete short middle intended for Demaryius Thomas,2.650,2.110
+1,7:43,2,10,SEA 44,7,0,Case Keenum pass complete short left to Demaryius Thomas for 10 yards (tackle by Tedric Thompson and Barkevious Mingo),2.110,3.310
+1,6:58,1,10,SEA 34,7,0,Case Keenum pass complete short left to Emmanuel Sanders for 5 yards (tackle by Tedric Thompson),3.310,3.450
+1,6:18,2,5,SEA 29,7,6,"Case Keenum pass complete short left to Phillip Lindsay for 29 yards, touchdown",3.450,7.000
+1,6:10,,,SEA 15,7,7,Brandon McManus kicks extra point good,0.000,0.000
+1,6:10,,,DEN 35,7,7,"Brandon McManus kicks off 63 yards, returned by Tyler Lockett for no gain (tackle by Andy Janovich)",0.000,1.070
+1,6:03,1,10,SEA 32,7,7,Rashaad Penny right guard for 2 yards (tackle by Todd Davis),1.070,0.800
+1,5:29,2,8,SEA 34,7,7,Rashaad Penny left end for 5 yards (tackle by Bradley Chubb),0.800,0.760
+1,4:46,3,3,SEA 39,7,7,Russell Wilson pass incomplete short left intended for Tyler Lockett (defended by Adam Gotsis),0.760,-0.780
+1,4:42,4,3,SEA 39,7,7,Michael Dickson punts 59 yards downed by Neiko Thorpe,-0.780,0.380
+1,4:30,1,10,DEN 2,7,7,Case Keenum pass complete short left to Demaryius Thomas for 23 yards (tackle by Bobby Wagner and Earl Thomas),-0.380,0.610
+1,3:44,1,10,DEN 25,7,7,Case Keenum pass complete short right to Emmanuel Sanders for 8 yards (tackle by Shaquill Griffin),0.610,1.140
+1,3:07,2,2,DEN 33,7,7,Case Keenum pass incomplete deep left intended for Tim Patrick (defended by Bobby Wagner),1.140,0.430
+1,2:58,3,2,DEN 33,7,7,Phillip Lindsay left end for 3 yards (tackle by Barkevious Mingo),0.430,1.330
+1,2:20,1,10,DEN 36,7,7,Royce Freeman right end for 7 yards (tackle by Bobby Wagner),1.330,1.740
+1,1:40,2,3,DEN 43,7,7,Royce Freeman left guard for no gain (tackle by Bradley McDougald),1.740,1.030
+1,1:00,3,3,DEN 43,7,7,Case Keenum pass incomplete short right intended for Phillip Lindsay,1.030,-0.520
+1,0:56,4,3,DEN 43,7,7,Marquette King punts 52 yards out of bounds,-0.520,0.380
+1,0:45,1,10,SEA 5,7,7,Chris Carson right tackle for 24 yards (tackle by Justin Simmons),-0.380,0.870
+1,0:13,1,10,SEA 29,7,7,Russell Wilson pass complete short middle to Will Dissly for 66 yards (tackle by Brandon Marshall),0.870,6.060
+Quarter,Time,Down,ToGo,Location,SEA,DEN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,5,DEN 5,7,7,Rashaad Penny left end for -2 yards (tackle by Adam Jones),6.060,4.760
+2,14:20,2,7,DEN 7,7,7,Russell Wilson pass incomplete short right intended for Doug Baldwin (defended by Chris Harris),4.760,3.810
+2,14:13,,,,,,Timeout #1 by Seattle Seahawks,,
+2,14:13,3,7,DEN 7,7,7,"Russell Wilson pass complete short middle to Brandon Marshall for 7 yards. Penalty on Brandon Marshall: Offensive Pass Interference, 10 yards (no play)",3.810,2.740
+2,14:08,3,17,DEN 17,7,7,Russell Wilson pass incomplete short middle intended for Brandon Marshall,2.740,2.310
+2,14:03,4,17,DEN 17,10,7,Sebastian Janikowski 35 yard field goal good,2.310,3.000
+2,13:59,,,SEA 35,10,7,"Sebastian Janikowski kicks off 65 yards, touchback.",0.000,0.610
+2,13:59,1,10,DEN 25,10,7,Royce Freeman left guard for 5 yards (tackle by Shaquill Griffin),0.610,0.740
+2,13:20,2,5,DEN 30,10,7,Case Keenum pass complete short right to Jake Butt for 7 yards (tackle by Barkevious Mingo),0.740,1.400
+2,12:38,1,10,DEN 37,10,7,Phillip Lindsay up the middle for 9 yards (tackle by Tre Flowers),1.400,2.070
+2,12:00,2,1,DEN 46,10,7,Phillip Lindsay right tackle for 6 yards (tackle by Shaquill Griffin),2.070,2.390
+2,11:20,1,10,SEA 48,10,7,Case Keenum pass complete short right to Emmanuel Sanders for 5 yards (tackle by Bobby Wagner),2.390,2.520
+2,10:40,2,5,SEA 43,10,13,"Case Keenum pass complete deep middle to Emmanuel Sanders for 43 yards, touchdown",2.520,7.000
+2,10:29,,,SEA 15,10,14,Brandon McManus kicks extra point good,0.000,0.000
+2,10:29,,,DEN 35,10,14,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+2,10:29,1,10,SEA 25,10,14,"Russell Wilson pass complete short left to Chris Carson for 44 yards (tackle by Justin Simmons). Penalty on J.R. Sweezy: Offensive Holding, 10 yards (no play)",0.610,-0.410
+2,9:55,1,20,SEA 15,10,14,"Penalty on Germain Ifedi: False Start, 5 yards (no play)",-0.410,-0.950
+2,9:37,1,25,SEA 10,10,14,Russell Wilson pass complete short left to Rashaad Penny for 6 yards (tackle by Todd Davis),-0.950,-1.290
+2,8:58,2,19,SEA 16,10,14,Russell Wilson pass complete short middle to Rashaad Penny for 10 yards (tackle by Justin Simmons),-1.290,-0.490
+2,8:14,3,9,SEA 26,10,14,Russell Wilson pass incomplete short left intended for David Moore,-0.490,-1.630
+2,8:08,4,9,SEA 26,10,14,"Michael Dickson punts 46 yards, returned by Adam Jones for 9 yards (tackle by Akeem King)",-1.630,-1.400
+2,7:58,1,10,DEN 37,10,14,Case Keenum pass complete short left to Jeff Heuerman for 15 yards,1.400,2.390
+2,7:31,1,10,SEA 48,10,14,Phillip Lindsay up the middle for 11 yards (tackle by Quinton Jefferson),2.390,3.120
+2,6:50,1,10,SEA 37,10,14,Phillip Lindsay up the middle for 5 yards (tackle by Bobby Wagner),3.120,3.250
+2,6:16,2,5,SEA 32,10,14,Phillip Lindsay up the middle for -1 yards (tackle by Bobby Wagner),3.250,2.410
+2,5:34,3,6,SEA 33,10,14,Case Keenum pass incomplete deep left intended for Courtland Sutton,2.410,1.160
+2,5:29,4,6,SEA 33,10,17,Brandon McManus 51 yard field goal good,1.160,3.000
+2,5:25,,,DEN 35,10,17,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+2,5:25,1,10,SEA 25,10,17,"Russell Wilson pass complete short right to Tyler Lockett for 2 yards (tackle by Bradley Roby). Penalty on Domata Peko: Unnecessary Roughness, 15 yards",0.610,1.730
+2,4:58,1,10,SEA 42,10,17,Chris Carson up the middle for 2 yards (tackle by Todd Davis and Domata Peko),1.730,1.460
+2,4:19,2,8,SEA 44,10,17,Russell Wilson pass complete short middle to Will Dissly for 24 yards (tackle by Justin Simmons and Darian Stewart),1.460,3.450
+2,3:39,1,10,DEN 32,10,17,Russell Wilson sacked by Von Miller for -6 yards,3.450,2.090
+2,2:56,2,16,DEN 38,10,17,Russell Wilson pass complete short right to Rashaad Penny for 4 yards (tackle by Todd Davis),2.090,1.950
+2,2:21,3,12,DEN 34,10,17,"Russell Wilson sacked by Von Miller for no gain. Russell Wilson fumbles (forced by Von Miller), recovered by Ethan Pocic at DEN-33 (tackle by Shaquil Barrett)",1.950,1.150
+2,2:00,4,11,DEN 33,10,17,"Sebastian Janikowski yard field goal no good. Penalty on Tramaine Brock: Defensive Offside, 5 yards (no play)",1.150,1.610
+2,1:56,4,6,DEN 28,10,17,Sebastian Janikowski 46 yard field goal no good,1.610,-1.330
+2,1:51,1,10,DEN 36,10,17,Case Keenum pass complete deep left to Emmanuel Sanders for 31 yards (tackle by Tre Flowers),1.330,3.380
+2,1:35,,,,,,Timeout #2 by Seattle Seahawks,,
+2,1:35,1,10,SEA 33,10,17,Case Keenum pass complete short left to Devontae Booker for 7 yards (tackle by Tom Johnson),3.380,3.780
+2,1:14,2,3,SEA 26,10,17,Case Keenum pass short left intended for Jake Butt is intercepted by Bradley McDougald at SEA-18 and returned for no gain,3.780,-0.040
+2,1:09,1,10,SEA 18,10,17,Russell Wilson pass complete short middle to Chris Carson for 14 yards (tackle by Adam Jones),0.040,1.070
+2,0:44,1,10,SEA 32,10,17,Russell Wilson pass complete short middle to Chris Carson for 9 yards (tackle by Will Parks and Brandon Marshall),1.070,1.740
+2,0:37,,,,,,Timeout #3 by Seattle Seahawks,,
+2,0:37,2,1,SEA 41,10,17,Russell Wilson sacked by Shaquil Barrett for -22 yards,1.740,-2.010
+Quarter,Time,Down,ToGo,Location,SEA,DEN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DEN 35,10,17,"Brandon McManus kicks off 58 yards, returned by Tyler Lockett for no gain (tackle by Joseph Jones)",0.000,-0.140
+3,14:55,1,10,SEA 16,10,17,Rashaad Penny left tackle for 3 yards (tackle by Todd Davis and Brandon Marshall),-0.140,-0.180
+3,14:22,2,7,SEA 19,10,17,Russell Wilson pass complete short right to Tyler Lockett for 6 yards (tackle by Von Miller),-0.180,-0.200
+3,13:44,3,1,SEA 25,10,17,Russell Wilson pass incomplete deep right intended for Nick Vannett,-0.200,-1.700
+3,13:38,4,1,SEA 25,10,17,Michael Dickson punts 69 yards out of bounds,-1.700,0.380
+3,13:30,1,10,DEN 6,10,17,Case Keenum pass complete short left to Emmanuel Sanders for 5 yards (tackle by Bradley McDougald),-0.380,-0.420
+3,12:48,2,5,DEN 11,10,17,Royce Freeman right end for 2 yards (tackle by Jarran Reed),-0.420,-0.600
+3,12:05,3,3,DEN 13,10,17,Case Keenum pass complete short left to Demaryius Thomas for 8 yards (tackle by Tre Flowers),-0.600,0.340
+3,11:42,1,10,DEN 21,10,17,Case Keenum pass complete short left to Demaryius Thomas for 10 yards (tackle by Earl Thomas),0.340,1.000
+3,11:19,1,10,DEN 31,10,17,Devontae Booker left guard for 2 yards (tackle by Quinton Jefferson),1.000,0.730
+3,10:48,2,8,DEN 33,10,17,Devontae Booker right tackle for 2 yards (tackle by Jarran Reed),0.730,0.300
+3,10:09,3,6,DEN 35,10,17,"Penalty on Emmanuel Sanders: False Start, 5 yards (no play)",0.300,-0.360
+3,9:47,3,11,DEN 30,10,17,Case Keenum sacked by Frank Clark for -5 yards,-0.360,-1.700
+3,9:14,4,16,DEN 25,10,17,"Penalty on Barkevious Mingo: Encroachment, 5 yards (no play)",-1.700,-1.370
+3,9:06,4,11,DEN 30,10,17,"Marquette King punts 53 yards, returned by Tyler Lockett for 9 yards (tackle by Joseph Jones)",-1.370,-0.670
+3,8:55,1,10,SEA 26,10,17,Russell Wilson pass complete short right to Tre Madden for 7 yards (tackle by Justin Simmons),0.670,1.070
+3,8:22,2,3,SEA 33,10,17,"Chris Carson right guard for 7 yards (tackle by Von Miller). Chris Carson fumbles (forced by Von Miller), recovered by Von Miller at SEA-40 and Tre Madden and Tyler Lockett)",1.070,-2.920
+3,8:15,1,10,SEA 40,10,17,Case Keenum pass deep right intended for Emmanuel Sanders is intercepted by Bradley McDougald at SEA-20 and returned for 39 yards,2.920,-2.850
+3,7:58,1,10,DEN 41,10,17,Rashaad Penny left end for 3 yards (tackle by Shane Ray),2.850,2.710
+3,7:31,2,7,DEN 38,10,17,Russell Wilson pass complete short right to Rashaad Penny for 15 yards (tackle by Brandon Marshall),2.710,4.040
+3,6:56,1,10,DEN 23,10,17,Russell Wilson pass incomplete deep right intended for Will Dissly,4.040,3.500
+3,6:52,2,10,DEN 23,10,17,Chris Carson up the middle for 3 yards (tackle by Brandon Marshall),3.500,3.200
+3,6:09,3,7,DEN 20,16,17,"Russell Wilson pass complete deep right to Brandon Marshall for 20 yards, touchdown",3.200,7.000
+3,6:02,,,DEN 15,17,17,Sebastian Janikowski kicks extra point good,0.000,0.000
+3,6:02,,,SEA 35,17,17,"Sebastian Janikowski kicks off 65 yards, touchback.",0.000,0.610
+3,6:02,1,10,DEN 25,17,17,Royce Freeman left guard for 1 yard (tackle by Austin Calitro),0.610,0.200
+3,5:26,2,9,DEN 26,17,17,Phillip Lindsay left guard for 1 yard (tackle by Jarran Reed),0.200,-0.360
+3,4:45,3,8,DEN 27,17,17,"Case Keenum pass incomplete short left intended for Emmanuel Sanders. Penalty on Tre Flowers: Defensive Holding, 5 yards (no play)",-0.360,1.070
+3,4:40,1,10,DEN 32,17,17,Royce Freeman left end for 5 yards (tackle by Tre Flowers),1.070,1.200
+3,4:04,2,5,DEN 37,17,17,Case Keenum pass incomplete deep left intended for Jake Butt,1.200,0.500
+3,3:58,3,5,DEN 37,17,17,Case Keenum pass incomplete deep middle intended for Tim Patrick,0.500,-0.910
+3,3:51,4,5,DEN 37,17,17,"Marquette King punts 41 yards, returned by Tyler Lockett for -2 yards (tackle by Phillip Lindsay)",-0.910,-0.280
+3,3:41,1,10,SEA 20,17,17,Chris Carson left tackle for 3 yards (tackle by Brandon Marshall and Von Miller),0.280,0.140
+3,3:05,2,7,SEA 23,17,17,Russell Wilson pass incomplete short left intended for Chris Carson,0.140,-0.560
+3,3:01,3,7,SEA 23,17,17,Russell Wilson pass short left intended for Brandon Marshall is intercepted by Justin Simmons at SEA-35 and returned for no gain,-0.560,-3.250
+3,2:55,1,10,SEA 35,17,17,Royce Freeman up the middle for no gain (tackle by Jarran Reed),3.250,2.700
+3,2:14,2,10,SEA 35,17,17,Case Keenum pass incomplete short left intended for Courtland Sutton (defended by Dion Jordan),2.700,2.010
+3,2:11,3,10,SEA 35,17,17,Case Keenum pass incomplete short right intended for Courtland Sutton,2.010,0.970
+3,2:06,4,10,SEA 35,17,20,Brandon McManus 53 yard field goal good,0.970,3.000
+3,2:01,,,DEN 35,17,20,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+3,2:01,1,10,SEA 25,17,20,Russell Wilson pass incomplete deep left intended for Brandon Marshall (defended by Chris Harris),0.610,0.060
+3,1:52,2,10,SEA 25,17,20,"Russell Wilson left end for 5 yards (tackle by Todd Davis). Penalty on Darian Stewart: Illegal Contact, 5 yards",0.060,1.270
+3,1:22,1,10,SEA 35,17,20,Rashaad Penny up the middle for -1 yards (tackle by Shelby Harris),1.270,0.590
+3,0:41,2,11,SEA 34,17,20,Russell Wilson pass incomplete short middle intended for Rashaad Penny,0.590,-0.100
+3,0:36,3,11,SEA 34,17,20,Russell Wilson pass complete short left to Brandon Marshall for 15 yards (tackle by Todd Davis),-0.100,2.190
+Quarter,Time,Down,ToGo,Location,SEA,DEN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,SEA 49,17,20,Russell Wilson pass incomplete short left intended for Chris Carson (defended by Adam Gotsis),2.190,1.650
+4,14:55,2,10,SEA 49,23,20,"Russell Wilson pass complete deep middle to Tyler Lockett for 51 yards, touchdown",1.650,7.000
+4,14:46,,,DEN 15,24,20,Sebastian Janikowski kicks extra point good,0.000,0.000
+4,14:46,,,SEA 35,24,20,"Sebastian Janikowski kicks off 65 yards, touchback.",0.000,0.610
+4,14:46,1,10,DEN 25,24,20,Phillip Lindsay left end for 14 yards (tackle by Tedric Thompson),0.610,1.530
+4,14:13,1,10,DEN 39,24,20,Phillip Lindsay left end for 5 yards (tackle by Bradley McDougald),1.530,1.660
+4,13:35,2,5,DEN 44,24,20,Case Keenum pass complete short middle to Courtland Sutton for 25 yards (tackle by Bradley McDougald),1.660,3.510
+4,13:04,1,10,SEA 31,24,20,"Case Keenum pass incomplete short left. Penalty on Ronald Leary: Offensive Holding, 10 yards (no play)",3.510,2.850
+4,12:58,1,20,SEA 41,24,20,Case Keenum pass complete short middle to Emmanuel Sanders for 8 yards (tackle by Austin Calitro),2.850,2.700
+4,12:20,2,12,SEA 33,24,20,Case Keenum pass complete short left to Phillip Lindsay for 2 yards (tackle by Earl Thomas),2.700,2.280
+4,11:42,3,10,SEA 31,24,20,"Case Keenum pass complete short left to Jake Butt for 22 yards (tackle by Shaquem Griffin). Penalty on Dion Jordan: Roughing the Passer, 5 yards",2.280,6.280
+4,11:18,1,4,SEA 4,24,26,"Case Keenum pass complete short right to Demaryius Thomas for 4 yards, touchdown",6.280,7.000
+4,11:11,,,SEA 15,24,27,Brandon McManus kicks extra point good,0.000,0.000
+4,11:11,,,DEN 35,24,27,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+4,11:11,1,10,SEA 25,24,27,Russell Wilson pass complete short right to Brandon Marshall for 11 yards (tackle by Bradley Roby),0.610,1.330
+4,10:43,1,10,SEA 36,24,27,Chris Carson left end for 2 yards (tackle by Domata Peko and Bradley Chubb),1.330,1.060
+4,10:01,2,8,SEA 38,24,27,Russell Wilson pass complete short left to Chris Carson for 5 yards (tackle by Todd Davis),1.060,1.030
+4,9:16,3,3,SEA 43,24,27,Russell Wilson sacked by Von Miller for -13 yards,1.030,-1.370
+4,8:38,4,16,SEA 30,24,27,Michael Dickson punts 57 yards out of bounds,-1.370,0.320
+4,8:31,1,10,DEN 13,24,27,Case Keenum pass complete short left to Emmanuel Sanders for 7 yards (tackle by Tre Flowers),-0.320,0.220
+4,7:57,2,3,DEN 20,24,27,Phillip Lindsay up the middle for 5 yards (tackle by Rasheem Green),0.220,0.610
+4,7:17,1,10,DEN 25,24,27,Phillip Lindsay left tackle for no gain (tackle by Delano Hill),0.610,0.060
+4,6:39,2,10,DEN 25,24,27,Phillip Lindsay up the middle for 4 yards (tackle by Jarran Reed),0.060,-0.100
+4,5:59,3,6,DEN 29,24,27,Case Keenum pass complete short left to Devontae Booker for 4 yards (tackle by Dion Jordan and Quinton Jefferson),-0.100,-1.180
+4,5:14,4,2,DEN 33,24,27,"Marquette King punts 49 yards, returned by Tyler Lockett for 4 yards (tackle by Tim Patrick)",-1.180,-0.410
+4,5:04,1,10,SEA 22,24,27,Rashaad Penny right end for -2 yards (tackle by Derek Wolfe),0.410,-0.400
+4,4:22,2,12,SEA 20,24,27,Russell Wilson pass complete short left to Jaron Brown for 7 yards,-0.400,-0.160
+4,4:17,3,5,SEA 27,24,27,Russell Wilson sacked by Chris Harris for -9 yards,-0.160,-2.240
+4,3:40,4,14,SEA 18,24,27,Michael Dickson punts 63 yards downed by Justin Coleman,-2.240,-0.150
+4,3:28,1,10,DEN 19,24,27,Royce Freeman up the middle for 17 yards (tackle by Earl Thomas),0.150,1.330
+4,3:16,,,,,,Timeout #1 by Seattle Seahawks,,
+4,3:16,1,10,DEN 36,24,27,Royce Freeman left end for 5 yards (tackle by Tre Flowers),1.330,1.470
+4,3:10,,,,,,Timeout #2 by Seattle Seahawks,,
+4,3:10,2,5,DEN 41,24,27,Royce Freeman right tackle for 15 yards (tackle by Tre Flowers and Earl Thomas),1.470,2.650
+4,2:24,1,10,SEA 44,24,27,Royce Freeman left guard for no gain (tackle by Shamar Stephen),2.650,2.110
+4,2:00,2,10,SEA 44,24,27,Phillip Lindsay right guard for 3 yards (tackle by Austin Calitro),2.110,1.820
+4,1:55,,,,,,Timeout #3 by Seattle Seahawks,,
+4,1:55,3,7,SEA 41,24,27,Phillip Lindsay right guard for 2 yards (tackle by Austin Calitro),1.820,0.660
+4,1:08,4,5,SEA 39,24,27,Penalty on DEN: Delay of Game (Declined),0.660,0.660
+4,1:08,4,5,SEA 39,24,27,Marquette King punts 27 yards out of bounds,0.660,0.350
+4,1:01,1,10,SEA 12,24,27,Russell Wilson pass complete short right to Nick Vannett for 11 yards (tackle by Will Parks),-0.350,0.480
+4,0:40,1,10,SEA 23,24,27,"Russell Wilson aborted snap, recovered by Russell Wilson at SEA-19 and returned for -4 yards",0.480,-0.670
+4,0:21,2,14,SEA 19,24,27,"Penalty on Jaron Brown: False Start, 5 yards (no play)",-0.670,-1.400
+4,0:09,2,19,SEA 14,24,27,Russell Wilson pass incomplete deep left intended for Jaron Brown,-1.400,-2.340
+4,0:02,3,19,SEA 14,24,27,Russell Wilson pass deep left intended for Jaron Brown is intercepted by Adam Jones at SEA-40 and returned for no gain,-2.340,2.920
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

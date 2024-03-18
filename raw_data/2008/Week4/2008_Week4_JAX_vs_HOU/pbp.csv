@@ -1,0 +1,173 @@
+Quarter,Time,Down,ToGo,Location,HOU,JAX,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Texans won the coin toss, Texans to receive the opening kickoff.",,
+1,15:00,,,JAX 30,0,0,"Josh Scobee kicks off 56 yards, returned by Vonta Leach for 15 yards (tackle by Gerald Sensabaugh)",0.000,0.870
+1,14:54,1,10,HOU 29,0,0,Matt Schaub pass complete short right to Steve Slaton for 2 yards (tackle by Gerald Sensabaugh). Penalty on HOU: Illegal Formation (Declined),0.870,0.600
+1,14:27,2,8,HOU 31,0,0,Matt Schaub pass complete short right to Andre Johnson for 4 yards (tackle by Rashean Mathis),0.600,0.430
+1,13:50,3,4,HOU 35,0,0,Matt Schaub pass complete short middle to Owen Daniels for 7 yards (tackle by Gerald Sensabaugh),0.430,1.730
+1,13:17,1,10,HOU 42,0,0,Steve Slaton right end for -3 yards (tackle by Rob Meier),1.730,0.780
+1,12:42,2,13,HOU 39,0,0,Chris Taylor up the middle for no gain (tackle by Paul Spicer),0.780,0.100
+1,12:01,3,13,HOU 39,0,0,Matt Schaub pass complete short left to Kevin Walter for 7 yards (tackle by Derrick Harvey),0.100,-0.320
+1,11:16,4,6,HOU 46,0,0,"Matt Turk punts 41 yards, returned by Brian Witherspoon for 28 yards (tackle by Nick Ferguson)",-0.320,-1.660
+1,11:05,1,10,JAX 41,0,0,Fred Taylor up the middle for 2 yards (tackle by Amobi Okoye),1.660,1.390
+1,10:25,2,8,JAX 43,0,0,David Garrard pass complete short left to Matt Jones for 10 yards (tackle by Will Demps),1.390,2.460
+1,9:50,1,10,HOU 47,0,0,Fred Taylor up the middle for 1 yard (tackle by Jeff Zgonina),2.460,2.050
+1,9:08,2,9,HOU 46,0,0,David Garrard pass incomplete short left intended for Matt Jones,2.050,1.350
+1,9:02,3,9,HOU 46,0,0,David Garrard pass complete short middle to Maurice Jones-Drew for 5 yards (tackle by Zach Diles). Penalty on Milford Brown: Offensive Holding (Declined),1.350,0.530
+1,8:47,4,4,HOU 41,0,6,"Montell Owens up the middle for 41 yards, touchdown",0.530,7.000
+1,,,,HOU 2,0,7,Josh Scobee kicks extra point good,0.000,0.000
+1,,,,JAX 30,0,7,"Josh Scobee kicks off 66 yards, returned by Andre' Davis for 13 yards (tackle by Pierson Prioleau)",0.000,-0.060
+1,8:32,1,10,HOU 17,0,7,Matt Schaub pass incomplete deep right intended for Andre' Davis,-0.060,-0.580
+1,8:25,2,10,HOU 17,0,7,Steve Slaton up the middle for 4 yards (tackle by Derek Landri),-0.580,-0.750
+1,7:47,3,6,HOU 21,0,7,Matt Schaub pass complete short right to Kevin Walter for 5 yards (tackle by Will James),-0.750,-1.630
+1,7:25,4,1,HOU 26,0,7,Matt Turk punts 46 yards,-1.630,-1.800
+1,7:11,1,10,JAX 43,0,7,"David Garrard pass incomplete deep right intended for Reggie Williams. Penalty on Reggie Williams: Offensive Pass Interference, 10 yards (no play)",1.800,1.140
+1,7:05,1,20,JAX 33,0,7,Maurice Jones-Drew right end for 1 yard (tackle by DeMeco Ryans),1.140,0.040
+1,6:25,2,19,JAX 34,0,7,David Garrard pass complete short left to Jerry Porter for 6 yards (tackle by Demarcus Faggins),0.040,0.170
+1,5:54,3,13,JAX 40,0,7,David Garrard pass incomplete short right intended for Mike Sims-Walker,0.170,-0.720
+1,5:49,4,13,JAX 40,0,7,"Adam Podlesh punts 37 yards, returned by Jacoby Jones for 17 yards (tackle by Adam Podlesh)",-0.720,-1.600
+1,5:37,1,10,HOU 40,0,7,Matt Schaub pass incomplete deep left intended for Andre' Davis,1.600,1.050
+1,5:29,2,10,HOU 40,0,7,Matt Schaub pass incomplete short right intended for Kevin Walter (defended by Rashean Mathis),1.050,0.370
+1,5:23,3,10,HOU 40,0,7,Matt Schaub pass complete short left to Steve Slaton for 12 yards (tackle by Brian Williams),0.370,2.390
+1,4:47,1,10,JAX 48,0,7,Steve Slaton right end for 4 yards (tackle by Mike Peterson),2.390,2.390
+1,4:03,2,6,JAX 44,0,7,"Chris Taylor up the middle for 17 yards (tackle by Rashean Mathis). Chris Taylor fumbles (forced by Rashean Mathis), recovered by Chris Taylor at JAX-27",2.390,3.780
+1,3:20,1,10,JAX 27,0,7,Chris Taylor up the middle for 1 yard (tackle by Rashean Mathis),3.780,3.370
+1,2:47,2,9,JAX 26,0,7,Matt Schaub pass incomplete short left intended for Andre Johnson,3.370,2.680
+1,2:44,3,9,JAX 26,0,7,Matt Schaub pass complete short middle to Owen Daniels for 16 yards (tackle by Brian Williams),2.680,4.910
+1,2:44,1,10,JAX 10,0,7,"Penalty on Owen Daniels: False Start, 5 yards (no play)",4.910,4.370
+1,1:38,1,15,JAX 15,0,7,Matt Schaub pass incomplete short left intended for Owen Daniels (defended by Daryl Smith),4.370,3.460
+1,1:33,2,15,JAX 15,0,7,Chris Taylor left end for -3 yards (tackle by Brian Williams),3.460,2.630
+1,0:54,3,18,JAX 18,0,7,Matt Schaub pass complete short left to Steve Slaton for 9 yards (tackle by Will James),2.630,2.830
+1,0:11,4,9,JAX 9,3,7,Kris Brown 27 yard field goal good,2.830,3.000
+1,,,,HOU 30,3,7,"Kris Brown kicks off 69 yards, returned by Brian Witherspoon for 25 yards (tackle by Nick Ferguson)",0.000,0.670
+Quarter,Time,Down,ToGo,Location,HOU,JAX,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,JAX 26,3,7,David Garrard pass complete short left to Reggie Williams for 12 yards (tackle by Jacques Reeves),0.670,1.470
+2,14:22,1,10,JAX 38,3,7,Fred Taylor up the middle for -3 yards (tackle by Mario Williams),1.470,0.520
+2,13:39,2,13,JAX 35,3,7,Fred Taylor left end for 6 yards (tackle by Amobi Okoye),0.520,0.630
+2,12:54,3,7,JAX 41,3,7,David Garrard sacked by Chaun Thompson for 0 yards,0.630,-0.650
+2,12:13,4,7,JAX 41,3,7,"Adam Podlesh punts 56 yards, returned by Jacoby Jones for 6 yards (tackle by Brian Iwuh)",-0.650,0.380
+2,11:57,1,10,HOU 9,3,7,Matt Schaub pass complete short right to Owen Daniels for 3 yards (tackle by Clint Ingram),-0.380,-0.560
+2,11:18,2,7,HOU 12,3,7,Matt Schaub up the middle for 3 yards (tackle by Will James),-0.560,-0.720
+2,10:36,3,4,HOU 15,3,7,Matt Schaub pass complete short middle to Owen Daniels for 13 yards (tackle by Gerald Sensabaugh),-0.720,0.810
+2,9:57,1,10,HOU 28,3,7,Steve Slaton up the middle for -1 yards (tackle by Paul Spicer),0.810,0.130
+2,9:18,2,11,HOU 27,3,7,Matt Schaub for 4 yards (tackle by Drayton Florence),0.130,-0.030
+2,8:45,3,7,HOU 31,3,7,Matt Schaub pass complete short middle to Kevin Walter for 9 yards (tackle by Mike Peterson),-0.030,1.600
+2,8:08,1,10,HOU 40,3,7,Matt Schaub pass complete short right to Vonta Leach for 4 yards (tackle by Will James),1.600,1.590
+2,7:24,2,6,HOU 44,3,7,Matt Schaub pass complete short right to Andre Johnson for 13 yards (tackle by Gerald Sensabaugh),1.590,2.720
+2,6:58,1,10,JAX 43,3,7,Chris Taylor up the middle for 3 yards (tackle by Daryl Smith),2.720,2.580
+2,6:20,2,7,JAX 40,3,7,Steve Slaton left end for 9 yards (tackle by Mike Peterson),2.580,3.510
+2,5:37,1,10,JAX 31,3,7,Steve Slaton up the middle for 1 yard (tackle by John Henderson and Mike Peterson),3.510,3.100
+2,4:53,2,9,JAX 30,9,7,"Matt Schaub pass complete deep right to Steve Slaton for 30 yards, touchdown",3.100,7.000
+2,,,,JAX 2,10,7,Kris Brown kicks extra point good,0.000,0.000
+2,,,,HOU 30,10,7,"Kris Brown kicks off 67 yards, returned by Brian Witherspoon for 22 yards (tackle by Chris Taylor)",0.000,0.610
+2,4:41,1,10,JAX 25,10,7,David Garrard pass complete short middle to Fred Taylor for 12 yards (tackle by Zach Diles),0.610,1.400
+2,4:13,1,10,JAX 37,10,7,Maurice Jones-Drew up the middle for 4 yards (tackle by Kevin Bentley),1.400,1.400
+2,3:29,2,6,JAX 41,10,7,Maurice Jones-Drew up the middle for 1 yard (tackle by Kevin Bentley),1.400,0.830
+2,2:49,3,5,JAX 42,10,7,David Garrard pass complete short left to Reggie Williams for 8 yards (tackle by Jacques Reeves),0.830,2.260
+2,2:09,1,10,,10,7,David Garrard pass complete deep right to Reggie Williams for 19 yards (tackle by C.C. Brown),2.260,3.510
+2,2:00,1,10,HOU 31,10,7,Maurice Jones-Drew right end for 1 yard (tackle by Anthony Weaver),3.510,3.100
+2,1:20,2,9,HOU 30,10,7,David Garrard pass complete short right to Mike Sims-Walker for 2 yards (tackle by C.C. Brown),3.100,2.680
+,,,,,,,"Replay Assistant challenged the pass completion ruling, and the play was upheld.",,
+2,0:29,3,7,HOU 28,10,7,David Garrard pass incomplete short left intended for Marcedes Lewis,2.680,1.590
+2,0:23,4,7,HOU 28,10,10,Josh Scobee 46 yard field goal good,1.590,3.000
+2,,,,JAX 30,10,10,"Josh Scobee kicks off 58 yards, returned by Chris Taylor for 17 yards (tackle by Gerald Sensabaugh)",0.000,0.870
+2,0:14,1,10,HOU 29,10,10,Steve Slaton up the middle for 2 yards (tackle by Rob Meier),0.870,0.600
+Quarter,Time,Down,ToGo,Location,HOU,JAX,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,HOU 30,10,10,"Kris Brown kicks off 68 yards, returned by Brian Witherspoon for 22 yards (tackle by Vonta Leach)",0.000,0.540
+3,14:55,1,10,JAX 24,10,10,David Garrard pass complete short right to Mike Sims-Walker for 9 yards (tackle by Fred Bennett),0.540,1.210
+3,14:27,2,1,JAX 33,10,10,David Garrard pass complete short left to Matt Jones for 12 yards (tackle by Jacques Reeves),1.210,1.930
+3,13:43,1,10,JAX 45,10,10,David Garrard pass complete short left to Greg Jones for 6 yards (tackle by Jacques Reeves),1.930,2.190
+3,13:04,2,4,HOU 49,10,10,Fred Taylor up the middle for 3 yards (tackle by Will Demps),2.190,1.880
+3,12:25,3,1,HOU 46,10,10,David Garrard pass complete short left to Mike Sims-Walker for 11 yards (tackle by Jacques Reeves),1.880,3.250
+3,11:42,1,10,HOU 35,10,10,Maurice Jones-Drew right end for 19 yards (tackle by C.C. Brown),3.250,4.510
+3,10:58,1,10,HOU 16,10,16,"David Garrard pass complete short right to Matt Jones for 16 yards, touchdown",4.510,7.000
+3,,,,HOU 2,10,17,Josh Scobee kicks extra point good,0.000,0.000
+3,,,,JAX 30,10,17,"Josh Scobee kicks off 78 yards, touchback",0.000,0.280
+3,10:52,1,10,HOU 20,10,17,Matt Schaub pass complete short middle to Steve Slaton for 11 yards (tackle by Daryl Smith),0.280,1.000
+3,10:08,1,10,HOU 31,10,17,Chris Taylor right end for no gain (tackle by Derrick Harvey),1.000,0.460
+3,9:30,2,10,HOU 31,10,17,Matt Schaub pass incomplete short right intended for Andre Johnson,0.460,-0.230
+3,9:25,3,10,HOU 31,10,17,Matt Schaub pass complete short middle to Kevin Walter for 17 yards (tackle by Pierson Prioleau),-0.230,2.130
+3,8:37,1,10,HOU 48,10,17,Matt Schaub for 10 yards,2.130,2.790
+3,8:04,1,10,JAX 42,10,17,Chris Taylor right end for 3 yards (tackle by John Henderson),2.790,2.650
+3,7:24,2,7,JAX 39,10,17,"Matt Schaub pass incomplete deep right intended for Andre Johnson. Penalty on Will James: Defensive Pass Interference, 17 yards (no play)",2.650,4.110
+3,7:18,1,10,JAX 22,10,17,Matt Schaub pass incomplete,4.110,3.560
+3,7:12,,,,10,17,Timeout #1 by Houston Texans,0.000,3.560
+3,7:12,2,10,JAX 22,10,17,Matt Schaub left end for 2 yards (tackle by Pierson Prioleau),3.560,3.140
+3,6:29,3,8,JAX 20,10,17,Matt Schaub pass complete short left to Andre' Davis for 14 yards (tackle by Drayton Florence),3.140,5.830
+3,6:01,1,6,JAX 6,10,17,Steve Slaton right end for 1 yard (tackle by Clint Ingram),5.830,5.150
+3,5:20,2,5,JAX 5,16,17,"Matt Schaub pass complete short middle to Kevin Walter for 5 yards, touchdown",5.150,7.000
+3,,,,JAX 2,17,17,Kris Brown kicks extra point good,0.000,0.000
+3,,,,HOU 30,17,17,"Kris Brown kicks off 70 yards, touchback",0.000,0.280
+3,5:15,1,10,JAX 20,17,17,David Garrard pass complete short right to Matt Jones for 9 yards (tackle by Fred Bennett),0.280,0.950
+3,4:39,2,1,JAX 29,17,17,Fred Taylor left end for 9 yards (tackle by C.C. Brown),0.950,1.470
+3,3:56,1,10,JAX 38,17,17,David Garrard pass incomplete short left intended for Marcedes Lewis,1.470,0.920
+3,3:51,2,10,JAX 38,17,17,Fred Taylor right end for 4 yards (tackle by Zach Diles),0.920,0.760
+3,3:12,3,6,JAX 42,17,17,David Garrard pass complete short right to Maurice Jones-Drew for 12 yards (tackle by Zach Diles),0.760,2.520
+3,2:30,1,10,HOU 46,17,17,David Garrard pass complete short left to Mike Sims-Walker for 11 yards (tackle by Morlon Greenwood),2.520,3.250
+3,1:54,1,10,HOU 35,17,17,David Garrard up the middle for 5 yards,3.250,3.380
+3,1:13,2,5,HOU 30,17,17,Maurice Jones-Drew up the middle for 2 yards (tackle by Will Demps),3.380,2.940
+3,0:31,3,3,HOU 28,17,17,Maurice Jones-Drew right end for 4 yards (tackle by Amobi Okoye),2.940,3.970
+Quarter,Time,Down,ToGo,Location,HOU,JAX,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,HOU 24,17,17,David Garrard pass complete short right to Richard Angulo for 1 yard (tackle by C.C. Brown),3.970,3.570
+4,14:31,2,9,HOU 23,17,17,Fred Taylor up the middle for 1 yard (tackle by Morlon Greenwood),3.570,3.010
+4,13:49,3,8,HOU 22,17,17,David Garrard pass incomplete short right intended for Marcedes Lewis,3.010,1.990
+4,13:44,4,8,HOU 22,17,20,Josh Scobee 40 yard field goal good,1.990,3.000
+4,,,,JAX 30,17,20,"Josh Scobee kicks off 66 yards, returned by Andre' Davis for 11 yards (tackle by Montell Owens)",0.000,-0.220
+4,13:35,1,10,HOU 15,17,20,Matt Schaub pass complete short middle to Steve Slaton for 2 yards (tackle by Daryl Smith),-0.220,-0.440
+4,12:56,2,8,HOU 17,17,20,"Matt Schaub up the middle for 5 yards (tackle by Daryl Smith). Matt Schaub fumbles (forced by Daryl Smith), recovered by Matt Schaub at HOU-22",-0.440,-0.510
+4,11:53,3,3,HOU 22,17,20,Matt Schaub pass complete short right to Kevin Walter for 4 yards (tackle by Will James),-0.510,0.670
+4,11:09,1,10,HOU 26,17,20,Chris Taylor left end for 1 yard (tackle by Daryl Smith),0.670,0.270
+4,10:45,2,9,HOU 27,17,20,Matt Schaub pass complete short left to Owen Daniels for 34 yards (tackle by Brian Williams),0.270,2.980
+4,10:11,1,10,JAX 39,17,20,"Matt Schaub pass incomplete deep left intended for Andre Johnson (defended by Drayton Florence). Penalty on Mike Brisiel: Offensive Holding, 10 yards (no play)",2.980,2.320
+4,10:04,1,20,JAX 49,17,20,Matt Schaub pass complete short left to Jacoby Jones for 5 yards (tackle by Daryl Smith),2.320,1.770
+4,9:21,2,15,JAX 44,17,20,Matt Schaub pass complete deep middle to Kevin Walter for 21 yards (tackle by Will James),1.770,4.040
+4,8:39,1,10,JAX 23,17,20,Steve Slaton up the middle for 13 yards (tackle by Brian Williams and Gerald Sensabaugh),4.040,4.910
+4,7:58,1,10,JAX 10,17,20,Matt Schaub pass incomplete short middle intended for Owen Daniels (defended by Gerald Sensabaugh),4.910,4.190
+4,7:53,2,10,JAX 10,17,20,Matt Schaub pass complete short right to Owen Daniels for 2 yards (tackle by Gerald Sensabaugh),4.190,3.580
+4,7:11,3,8,JAX 8,23,20,"Matt Schaub pass complete short left to Kevin Walter for 8 yards, touchdown",3.580,7.000
+4,,,,JAX 2,24,20,Kris Brown kicks extra point good,0.000,0.000
+4,,,,HOU 30,24,20,"Kris Brown kicks off 64 yards, returned by Brian Witherspoon for 32 yards (tackle by Antwaun Molden)",0.000,1.470
+4,6:58,1,10,JAX 38,24,20,David Garrard pass complete short middle to Fred Taylor for 7 yards (tackle by Zach Diles),1.470,1.870
+4,6:14,2,3,JAX 45,24,20,"David Garrard pass complete deep middle to Reggie Williams for 24 yards (tackle by C.C. Brown). Penalty on Uche Nwaneri: Offensive Holding (Offsetting), Penalty on DelJuan Robinson: Roughing the Passer (Offsetting) (no play)",1.870,1.870
+4,5:44,2,3,JAX 45,24,20,David Garrard pass complete short right to Reggie Williams for 7 yards (tackle by Demarcus Faggins),1.870,2.390
+4,5:04,1,10,HOU 48,24,20,David Garrard pass incomplete short left intended for Marcedes Lewis (defended by DeMeco Ryans),2.390,1.850
+4,5:00,2,10,HOU 48,24,20,David Garrard pass incomplete short left intended for Matt Jones,1.850,1.160
+4,4:54,3,10,HOU 48,24,20,David Garrard left end for 13 yards (tackle by Chaun Thompson),1.160,3.250
+4,4:09,1,10,HOU 35,24,20,David Garrard left end for 2 yards (tackle by Morlon Greenwood),3.250,2.970
+4,3:26,2,8,HOU 33,24,20,David Garrard pass complete short right to Mike Sims-Walker for 13 yards,2.970,4.240
+4,3:19,1,10,HOU 20,24,20,David Garrard pass complete short middle to Fred Taylor for 2 yards (tackle by DeMeco Ryans),4.240,3.960
+4,2:36,2,8,HOU 18,24,20,David Garrard pass incomplete short left intended for Richard Angulo,3.960,3.220
+4,2:32,3,8,HOU 18,24,20,David Garrard pass incomplete short right intended for Reggie Williams,3.220,2.250
+4,2:27,4,8,HOU 18,24,20,David Garrard up the middle for 9 yards (tackle by Dominique Barber),2.250,5.140
+4,2:00,1,9,HOU 9,24,20,David Garrard up the middle for 4 yards (tackle by Zach Diles and Anthony Weaver),5.140,5.150
+4,1:53,,,,24,20,Timeout #2 by Houston Texans,0.000,5.150
+4,1:53,2,5,HOU 5,24,26,"David Garrard up the middle for 5 yards, touchdown",5.150,7.000
+4,,,,HOU 2,24,27,Josh Scobee kicks extra point good,0.000,0.000
+4,,,,JAX 30,24,27,"Josh Scobee kicks off 69 yards, returned by Andre' Davis for 17 yards (tackle by Chauncey Washington)",0.000,0.040
+4,1:43,1,10,HOU 18,24,27,Matt Schaub pass complete short left to Steve Slaton for 12 yards (tackle by Gerald Sensabaugh),0.040,0.940
+4,1:20,1,10,HOU 30,24,27,Matt Schaub pass complete short middle to Steve Slaton for 5 yards (tackle by Daryl Smith),0.940,1.070
+4,0:53,2,5,HOU 35,24,27,Matt Schaub pass complete short middle to Owen Daniels for 12 yards (tackle by Mike Peterson),1.070,2.060
+4,0:36,1,10,HOU 47,24,27,Matt Schaub spiked the ball,2.060,1.520
+4,0:36,2,10,HOU 47,24,27,Matt Schaub pass complete deep middle to Andre Johnson for 21 yards (tackle by Gerald Sensabaugh),1.520,3.450
+4,0:18,1,10,JAX 32,24,27,Matt Schaub spiked the ball,3.450,2.900
+4,0:18,2,10,JAX 32,24,27,Matt Schaub pass incomplete short right intended for Owen Daniels (defended by Reggie Hayward),2.900,2.210
+4,0:14,3,10,JAX 32,24,27,Steve Slaton up the middle for 3 yards (tackle by Mike Peterson),2.210,1.500
+4,0:06,,,,24,27,Timeout #3 by Houston Texans,0.000,1.500
+4,0:06,4,7,JAX 29,27,27,Kris Brown 47 yard field goal good,1.500,3.000
+4,,,,HOU 30,27,27,"Kris Brown kicks onside 14 yards, recovered by Thomas Williams",0.000,0.000
+Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime
+Quarter,Time,Down,ToGo,Location,HOU,JAX,Detail,EPB,EPA
+,,,,,,,"Jaguars won the coin toss, Jaguars to receive the overtime kickoff.",,
+OT,,,,HOU 30,27,27,"Kris Brown kicks off 69 yards, returned by Brian Witherspoon for 29 yards (tackle by Kevin Bentley)",0.000,0.940
+OT,14:54,1,10,JAX 30,27,27,David Garrard up the middle for 3 yards (tackle by Jeff Zgonina),0.940,0.800
+OT,14:21,2,7,JAX 33,27,27,Fred Taylor up the middle for 2 yards (tackle by DeMeco Ryans),0.800,0.370
+OT,13:39,3,5,JAX 35,27,27,David Garrard pass complete deep left to Matt Jones for 24 yards (tackle by Jacques Reeves),0.370,2.850
+OT,12:53,1,10,HOU 41,27,27,David Garrard pass complete short right to Greg Jones for 22 yards (tackle by Nick Ferguson),2.850,4.310
+OT,12:17,1,10,HOU 19,27,27,Fred Taylor up the middle for no gain (tackle by DelJuan Robinson),4.310,3.750
+OT,11:30,,,,27,27,Timeout #1 by Houston Texans,0.000,0.000
+OT,11:30,,,,27,27,Timeout #2 by Houston Texans,0.000,3.750
+OT,11:30,2,10,HOU 19,27,30,Josh Scobee 37 yard field goal good,3.750,3.000
+End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime

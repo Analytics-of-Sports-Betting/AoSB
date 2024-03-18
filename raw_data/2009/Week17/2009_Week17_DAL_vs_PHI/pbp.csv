@@ -1,0 +1,167 @@
+Quarter,Time,Down,ToGo,Location,PHI,DAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Cowboys won the coin toss, Cowboys to receive the opening kickoff.",,
+1,15:00,,,PHI 30,0,0,"David Akers kicks off 72 yards, touchback",0.000,0.280
+1,14:59,1,10,DAL 20,0,0,Tony Romo pass complete short left to Jason Witten for 5 yards (tackle by Moise Fokou),0.280,0.410
+1,14:28,2,5,DAL 25,0,0,Marion Barber right tackle for 32 yards (tackle by Victor Harris),0.410,2.720
+1,13:44,1,10,PHI 43,0,0,"Penalty on Leonard Davis: False Start, 5 yards (no play)",2.720,2.390
+1,13:21,1,15,PHI 48,0,0,Marion Barber right tackle for 8 yards (tackle by Akeem Jordan),2.390,2.580
+1,12:44,2,7,PHI 40,0,0,Tony Romo pass incomplete (defended by Brodrick Bunkley),2.580,1.880
+1,12:39,3,7,PHI 40,0,0,"Tony Romo pass incomplete short middle intended for Miles Austin. Penalty on Sheldon Brown: Defensive Pass Interfere, 5 yards (no play)",1.880,3.250
+1,12:35,1,10,PHI 35,0,0,Tony Romo pass incomplete deep right intended for Miles Austin (defended by Moise Fokou),3.250,2.700
+1,12:28,2,10,PHI 35,0,0,Marion Barber right end for 18 yards (tackle by Akeem Jordan),2.700,4.440
+1,12:07,1,10,PHI 17,0,0,Tony Romo pass complete short right to Miles Austin for 6 yards (tackle by Quintin Mikell),4.440,4.890
+1,11:28,2,4,PHI 11,0,0,Felix Jones right tackle for 1 yard (tackle by Will Witherspoon and Moise Fokou),4.890,4.340
+1,10:42,3,3,PHI 10,0,6,"Tony Romo pass complete short middle to Jason Witten for 10 yards, touchdown",4.340,7.000
+1,,,,PHI 2,0,7,Shaun Suisham kicks extra point good,0.000,0.000
+1,,,,DAL 30,0,7,"David Buehler kicks off 79 yards, touchback",0.000,0.280
+1,10:35,1,10,PHI 20,0,7,DeSean Jackson right end for 6 yards (tackle by Gerald Sensabaugh),0.280,0.540
+1,10:20,2,4,PHI 26,0,7,Brian Westbrook left guard for no gain (tackle by Anthony Spencer and Marcus Spears),0.540,-0.160
+1,9:37,3,4,PHI 26,0,7,Donovan McNabb sacked by Bradie James for -8 yards,-0.160,-2.240
+1,9:11,4,12,PHI 18,0,7,"Saverio Rocca punts 51 yards, fair catch by Patrick Crayton",-2.240,-1.000
+1,9:04,1,10,DAL 31,0,7,Tony Romo pass complete short right to John Phillips for 7 yards (tackle by Will Witherspoon),1.000,1.410
+1,8:20,2,3,DAL 38,0,7,Felix Jones right tackle for 11 yards (tackle by Victor Harris and Quintin Mikell),1.410,2.190
+1,7:39,1,10,DAL 49,0,7,Felix Jones right guard for 8 yards (tackle by Sean Jones),2.190,2.730
+1,7:01,2,2,PHI 43,0,7,Tony Romo pass complete short right to Felix Jones for 3 yards (tackle by Will Witherspoon),2.730,2.920
+1,6:21,1,10,PHI 40,0,7,"Penalty on Martellus Bennett: False Start, 5 yards (no play)",2.920,2.590
+1,6:12,1,15,PHI 45,0,7,Felix Jones left guard for 6 yards (tackle by Quintin Mikell),2.590,2.510
+1,5:36,2,9,PHI 39,0,7,Felix Jones right tackle for 4 yards (tackle by Trent Cole),2.510,2.340
+1,4:52,3,5,PHI 35,0,7,Tony Romo pass complete short middle to Miles Austin for 12 yards (tackle by Tracy White),2.340,4.040
+1,4:08,1,10,PHI 23,0,7,Marion Barber left tackle for 3 yards (tackle by Trent Cole),4.040,3.900
+1,3:28,2,7,PHI 20,0,7,Tony Romo pass complete short middle to Miles Austin for 11 yards (tackle by Joselio Hanson and Akeem Jordan),3.900,5.140
+1,2:48,1,9,PHI 9,0,7,Marion Barber left tackle for 2 yards (tackle by Brodrick Bunkley),5.140,4.760
+1,2:08,2,7,PHI 7,0,7,Tony Romo pass incomplete short left intended for Marion Barber (defended by Will Witherspoon),4.760,3.810
+1,2:03,3,7,PHI 7,0,7,Tony Romo pass incomplete short right intended for Patrick Crayton is intercepted by Joselio Hanson at PHI-8 and returned for 6 yards,3.810,0.280
+1,1:55,1,10,PHI 14,0,7,Donovan McNabb pass complete short left to LeSean McCoy for -4 yards (tackle by Bradie James),-0.280,-1.070
+1,1:20,2,14,PHI 10,0,7,Donovan McNabb pass complete short left to Jeremy Maclin for 7 yards (tackle by Mike Jenkins),-1.070,-1.040
+1,0:46,3,7,PHI 17,0,7,Donovan McNabb pass complete short right to Brent Celek for 18 yards (tackle by Orlando Scandrick),-1.040,1.270
+Quarter,Time,Down,ToGo,Location,PHI,DAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,PHI 35,0,7,Donovan McNabb pass complete short right to Brent Celek for 2 yards (tackle by Bradie James),1.270,0.990
+2,14:20,2,8,PHI 37,0,7,Donovan McNabb pass incomplete deep middle intended for DeSean Jackson,0.990,0.300
+2,14:13,3,8,PHI 37,0,7,Donovan McNabb pass complete short middle to Brent Celek for 22 yards (tackle by Gerald Sensabaugh),0.300,2.850
+2,14:13,1,10,DAL 41,0,7,Leonard Weaver middle for 2 yards (tackle by Anthony Spencer),2.850,2.580
+2,12:56,2,8,DAL 39,0,7,Donovan McNabb pass incomplete short left intended for Jeremy Maclin (defended by Mike Jenkins),2.580,1.880
+2,12:52,3,8,DAL 39,0,7,"Penalty on DeMarcus Ware: Neutral Zone Infraction, 5 yards (no play)",1.880,2.540
+2,12:50,3,3,DAL 34,0,7,"Penalty on Jason Peters: False Start, 5 yards (no play)",2.540,1.880
+2,12:50,3,8,DAL 39,0,7,Donovan McNabb pass incomplete short right intended for Jeremy Maclin,1.880,0.660
+2,12:44,,,,0,7,Timeout #1 by Philadelphia Eagles,0.000,0.660
+2,12:44,4,8,DAL 39,0,7,"Saverio Rocca punts 39 yards, touchback. Penalty on Orlando Scandrick: Offensive Holding, 10 yards",0.660,0.380
+2,12:36,1,10,DAL 10,0,7,Felix Jones middle for 3 yards (tackle by Juqua Parker),-0.380,-0.560
+2,11:53,2,7,DAL 13,0,7,Tony Romo pass complete short middle to Jason Witten for 9 yards (tackle by Will Witherspoon),-0.560,0.410
+2,11:07,1,10,DAL 22,0,7,"Penalty on Andre Gurode: False Start, 5 yards (no play)",0.410,-0.120
+2,10:39,1,15,DAL 17,0,7,Tony Romo pass complete short middle to Patrick Crayton for 30 yards (tackle by Victor Harris),-0.120,2.060
+2,9:56,1,10,DAL 47,0,7,"Felix Jones left end for 24 yards (tackle by Sheldon Brown). Penalty on Deon Anderson: Offensive Holding, 10 yards (no play)",2.060,1.400
+2,9:22,1,20,DAL 37,0,7,Marion Barber left tackle for 3 yards (tackle by Trent Cole),1.400,0.570
+2,8:39,2,17,DAL 40,0,7,Tony Romo pass complete short right to Miles Austin for 40 yards (tackle by Akeem Jordan),0.570,4.240
+2,8:03,1,10,PHI 20,0,7,Tony Romo pass complete short right to Miles Austin for 5 yards (tackle by Antonio Dixon),4.240,4.450
+2,7:12,2,5,PHI 15,0,7,Marion Barber right tackle for 1 yard (tackle by Quintin Mikell and Moise Fokou),4.450,3.890
+2,6:25,,,,0,7,Timeout #1 by Dallas Cowboys,0.000,3.890
+2,6:25,3,4,PHI 14,0,13,"Tony Romo pass complete short left to Patrick Crayton for 14 yards, touchdown",3.890,7.000
+2,,,,PHI 2,0,14,Shaun Suisham kicks extra point good,0.000,0.000
+2,,,,DAL 30,0,14,"David Buehler kicks off 68 yards, returned by Jeremy Maclin for 17 yards (tackle by Gerald Sensabaugh)",0.000,0.150
+2,6:12,1,10,PHI 19,0,14,Donovan McNabb pass complete deep middle to Jeremy Maclin for 31 yards (tackle by Ken Hamlin),0.150,2.260
+2,5:41,1,10,DAL 50,0,14,Brian Westbrook left guard for 4 yards (tackle by Anthony Spencer),2.260,2.250
+2,5:10,2,6,DAL 46,0,14,Donovan McNabb pass complete short middle to DeSean Jackson for 32 yards (tackle by Ken Hamlin),2.250,4.650
+2,4:43,1,10,DAL 14,0,14,"Donovan McNabb for no gain. Donovan McNabb fumbles, recovered by Jay Ratliff at DAL-20 (tackle by Donovan McNabb)",4.650,-0.280
+2,4:39,1,10,DAL 20,0,14,Tony Romo pass complete short left to John Phillips for 7 yards (tackle by Will Witherspoon),0.280,0.680
+2,3:58,2,3,DAL 27,0,14,Marion Barber left guard for 1 yard (tackle by Quintin Mikell),0.680,0.100
+2,3:14,3,2,DAL 28,0,14,Tony Romo pass complete short middle to Patrick Crayton for 23 yards (tackle by Victor Harris),0.100,2.320
+2,2:33,1,10,PHI 49,0,14,"Tony Romo pass incomplete deep middle intended for Kevin Ogletree. Penalty on Moise Fokou: Roughing the Passer, 15 yards (no play)",2.320,3.310
+2,2:25,1,10,PHI 34,0,14,Felix Jones right tackle for 3 yards (tackle by Jeremiah Trotter),3.310,3.180
+2,2:00,2,7,PHI 31,0,14,Tony Romo pass complete short right to Miles Austin for 5 yards (tackle by Will Witherspoon),3.180,3.140
+2,1:15,3,2,PHI 26,0,14,Tony Romo pass incomplete deep left intended for Roy Williams,3.140,1.860
+2,1:09,4,2,PHI 26,0,17,Shaun Suisham 44 yard field goal good,1.860,3.000
+2,,,,DAL 30,0,17,"David Buehler kicks off 79 yards, touchback",0.000,0.280
+2,1:04,1,10,PHI 20,0,17,Donovan McNabb pass incomplete short right intended for DeSean Jackson (defended by Gerald Sensabaugh),0.280,-0.270
+2,0:55,2,10,PHI 20,0,17,"Donovan McNabb pass complete short left to Brent Celek for 17 yards (tackle by Bradie James). Penalty on Jason Peters: Unnecessary Roughness, 18 yards",-0.270,0.150
+2,0:47,1,10,PHI 19,0,17,Donovan McNabb pass complete short middle to Jason Avant for 8 yards (tackle by Gerald Sensabaugh),0.150,0.750
+2,0:28,,,,0,17,Timeout #2 by Philadelphia Eagles,0.000,0.750
+2,0:28,2,2,PHI 27,0,17,Donovan McNabb pass incomplete short left intended for DeSean Jackson,0.750,-0.030
+2,0:25,3,2,PHI 27,0,17,Donovan McNabb pass complete short middle to Brent Celek for 10 yards (tackle by Alan Ball),-0.030,1.400
+2,0:21,1,10,PHI 37,0,17,Donovan McNabb pass complete short left to Brian Westbrook for 6 yards (tackle by Bobby Carpenter),1.400,1.670
+2,0:15,2,4,PHI 43,0,17,Donovan McNabb pass complete short right to Brian Westbrook for 3 yards (tackle by Bobby Carpenter),1.670,1.360
+Quarter,Time,Down,ToGo,Location,PHI,DAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DAL 30,0,17,"David Buehler kicks off 75 yards, touchback",0.000,0.280
+3,15:00,1,10,PHI 20,0,17,Donovan McNabb pass complete short middle to Jeremy Maclin for 9 yards (tackle by Terence Newman),0.280,0.950
+3,14:16,2,1,PHI 29,0,17,Brian Westbrook middle for 3 yards (tackle by Igor Olshansky),0.950,1.070
+3,13:35,1,10,PHI 32,0,17,Donovan McNabb pass complete deep middle to Brent Celek for 25 yards (tackle by Ken Hamlin),1.070,2.720
+3,12:53,1,10,DAL 43,0,17,Donovan McNabb pass incomplete deep middle intended for DeSean Jackson (defended by Ken Hamlin),2.720,2.180
+3,12:45,2,10,DAL 43,0,17,Brian Westbrook right guard for 8 yards (tackle by Alan Ball),2.180,2.540
+3,12:04,3,2,DAL 35,0,17,Donovan McNabb pass incomplete short middle intended for Brent Celek,2.540,0.990
+3,11:59,4,2,DAL 35,0,17,David Akers 53 yard field goal no good,0.990,-1.800
+3,11:54,1,10,DAL 43,0,17,Felix Jones right tackle for -3 yards (tackle by Mike Patterson),1.800,0.850
+3,11:13,2,13,DAL 40,0,17,"Tony Romo pass complete short left to Felix Jones for 4 yards (tackle by Quintin Mikell). Penalty on Andre Gurode: Offensive Holding, 10 yards",0.850,0.040
+3,11:13,2,19,DAL 34,0,17,Tony Romo pass incomplete deep right intended for Patrick Crayton,0.040,-0.620
+3,10:38,3,19,DAL 34,0,17,Tony Romo pass incomplete short left intended for Marion Barber,-0.620,-1.110
+3,10:33,4,19,DAL 34,0,17,"Mat McBriar punts 54 yards, returned by DeSean Jackson for no gain",-1.110,0.350
+3,10:22,1,10,PHI 12,0,17,Brian Westbrook middle for 2 yards (tackle by Marcus Spears),-0.350,-0.610
+3,10:22,2,8,PHI 14,0,17,"Penalty on Max Jean-Gilles: False Start, 5 yards (no play)",-0.610,-1.000
+3,9:25,2,13,PHI 9,0,17,Donovan McNabb pass incomplete deep left intended for Jeremy Maclin,-1.000,-1.770
+3,9:19,3,13,PHI 9,0,17,Donovan McNabb pass incomplete,-1.770,-2.490
+3,9:13,4,13,PHI 9,0,17,"Saverio Rocca punts 47 yards, returned by Patrick Crayton for 4 yards (tackle by Chris Gocong)",-2.490,-2.130
+3,9:01,1,10,DAL 48,0,17,Marion Barber left tackle for 4 yards (tackle by Jeremiah Trotter),2.130,2.120
+3,8:17,2,6,PHI 48,0,17,Tony Romo pass incomplete short left intended for Martellus Bennett,2.120,1.420
+3,8:17,3,6,PHI 48,0,17,"Penalty on Tony Romo: Delay of Game, 5 yards (no play)",1.420,0.760
+3,8:13,3,11,DAL 47,0,17,Tony Romo pass incomplete short right intended for Jason Witten,0.760,-0.260
+3,8:06,4,11,DAL 47,0,17,"Mat McBriar punts 53 yards, touchback",-0.260,-0.280
+3,7:58,1,10,PHI 20,0,17,LeSean McCoy right tackle for 4 yards (tackle by Bradie James and Gerald Sensabaugh),0.280,0.270
+3,7:21,2,6,PHI 24,0,17,Donovan McNabb pass incomplete short right intended for Leonard Weaver,0.270,-0.430
+3,7:17,3,6,PHI 24,0,17,"Donovan McNabb sacked by Anthony Spencer for -9 yards. Donovan McNabb fumbles (forced by Anthony Spencer), recovered by Donovan McNabb at PHI-18",-0.430,-2.240
+3,6:46,4,12,PHI 18,0,17,"Saverio Rocca punts 61 yards, returned by Patrick Crayton for 16 yards (tackle by Sean Jones)",-2.240,-1.400
+3,6:40,1,10,DAL 37,0,17,Tony Romo pass complete short middle to Marion Barber for 14 yards (tackle by Jeremiah Trotter),1.400,2.320
+3,5:56,1,10,PHI 49,0,23,"Felix Jones left end for 49 yards, touchdown",2.320,7.000
+3,,,,PHI 2,0,24,Shaun Suisham kicks extra point good,0.000,0.000
+3,,,,DAL 30,0,24,"David Buehler kicks off 74 yards, touchback",0.000,0.280
+3,5:46,1,10,PHI 20,0,24,"Penalty on Stephen Bowen: Neutral Zone Infraction, 5 yards (no play)",0.280,1.010
+3,5:46,1,5,PHI 25,0,24,Donovan McNabb pass complete short right to Brian Westbrook for 11 yards (tackle by Bobby Carpenter),1.010,1.330
+3,5:24,1,10,PHI 36,0,24,Donovan McNabb sacked by Anthony Spencer for -10 yards,1.330,-0.560
+3,4:49,2,20,PHI 26,0,24,Donovan McNabb middle for 8 yards (tackle by Gerald Sensabaugh),-0.560,-0.160
+3,4:08,3,12,PHI 34,0,24,Donovan McNabb pass complete short left to Brent Celek for 2 yards (tackle by Orlando Scandrick),-0.160,-0.980
+3,3:32,4,10,PHI 36,0,24,"Saverio Rocca punts 51 yards, returned by Patrick Crayton for 4 yards (tackle by Joe Mays)",-0.980,0.060
+3,3:22,1,10,DAL 17,0,24,Marion Barber middle for 1 yard (tackle by Moise Fokou),-0.060,-0.420
+3,2:37,2,9,DAL 18,0,24,Tony Romo pass complete short left to Kevin Ogletree for 15 yards,-0.420,1.140
+3,2:07,1,10,DAL 33,0,24,Marion Barber left tackle for 3 yards (tackle by Will Witherspoon),1.140,1.000
+3,1:26,2,7,DAL 36,0,24,Tony Romo pass complete deep left to Jason Witten for 25 yards (tackle by Jeremiah Trotter),1.000,2.980
+3,0:53,1,10,PHI 39,0,24,Felix Jones right tackle for 3 yards (tackle by Mike Patterson),2.980,2.850
+3,0:07,2,7,PHI 36,0,24,Tony Romo pass complete short middle to Jason Witten for 16 yards (tackle by Quintin Mikell),2.850,4.240
+Quarter,Time,Down,ToGo,Location,PHI,DAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,PHI 20,0,24,Felix Jones right end for no gain (tackle by Jeremiah Trotter),4.240,3.690
+4,14:13,2,10,PHI 20,0,24,Tony Romo pass complete short left to Felix Jones for -4 yards (tackle by Will Witherspoon),3.690,2.480
+4,13:25,3,14,PHI 24,0,24,Marion Barber left tackle for 12 yards (tackle by Victor Harris),2.480,2.760
+4,12:37,4,2,PHI 12,0,24,Shaun Suisham 30 yard field goal no good,2.760,-0.280
+4,12:33,1,10,PHI 20,0,24,Donovan McNabb pass complete short middle to DeSean Jackson for 4 yards (tackle by Orlando Scandrick),0.280,0.270
+4,12:02,2,6,PHI 24,0,24,Donovan McNabb sacked by Jason Hatcher for -8 yards. Penalty on Max Jean-Gilles: Illegal Use of Hands (Declined),0.270,-1.690
+4,11:38,3,14,PHI 16,0,24,Donovan McNabb pass incomplete deep left intended for Jeremy Maclin (defended by Mike Jenkins),-1.690,-2.390
+4,11:36,4,14,PHI 16,0,24,"Saverio Rocca punts 53 yards, returned by Patrick Crayton for -3 yards (tackle by Joe Mays). Penalty on John Phillips: Illegal Block Above the , 10 yards",-2.390,-0.040
+4,11:21,1,10,DAL 18,0,24,Felix Jones left tackle for no gain (tackle by Jeremiah Trotter),0.040,-0.490
+4,10:41,2,10,DAL 18,0,24,Tony Romo sacked by Mike Patterson for -4 yards,-0.490,-1.820
+4,10:03,3,14,DAL 14,0,24,Tony Romo pass incomplete short left intended for Marion Barber,-1.820,-2.470
+4,9:59,4,14,DAL 14,0,24,"Mat McBriar punts 45 yards, returned by DeSean Jackson for 9 yards (tackle by Orlando Scandrick)",-2.470,-2.260
+4,9:47,1,10,DAL 50,0,24,Donovan McNabb pass incomplete,2.260,1.710
+4,9:41,2,10,DAL 50,0,24,Donovan McNabb pass complete short left to Brian Westbrook for no gain,1.710,1.030
+4,8:59,3,10,DAL 50,0,24,Donovan McNabb pass incomplete deep middle intended for Jason Avant,1.030,-0.060
+4,8:54,4,10,DAL 50,0,24,Saverio Rocca punts 38 yards,-0.060,0.350
+4,8:47,1,10,DAL 12,0,24,Marion Barber middle for 3 yards (tackle by Sean Jones),-0.350,-0.500
+4,8:01,2,7,DAL 15,0,24,Tony Romo pass complete short left to Miles Austin for 11 yards (tackle by Victor Harris),-0.500,0.670
+4,7:14,1,10,DAL 26,0,24,Felix Jones left end for -2 yards (tackle by Quintin Mikell),0.670,-0.140
+4,6:31,2,12,DAL 24,0,24,"Marion Barber middle for 2 yards (tackle by Darren Howard). Penalty on Andre Gurode: Offensive Holding, 10 yards (no play)",-0.140,-1.610
+4,5:59,2,22,DAL 14,0,24,Tony Romo pass complete short middle to Jason Witten for 11 yards (tackle by Jeremiah Trotter),-1.610,-0.690
+4,5:11,3,11,DAL 25,0,24,Tony Romo pass complete short right to Patrick Crayton for 32 yards (tackle by Tracy White),-0.690,2.720
+4,4:19,1,10,PHI 43,0,24,Felix Jones middle for 2 yards (tackle by Mike Patterson),2.720,2.450
+4,3:37,2,8,PHI 41,0,24,Felix Jones right guard for 6 yards (tackle by Sean Jones),2.450,2.540
+4,2:51,3,2,PHI 35,0,24,Marion Barber right guard for no gain (tackle by Moise Fokou),2.540,0.990
+4,2:26,,,,0,24,Timeout #1 by Philadelphia Eagles,0.000,0.990
+4,2:26,4,2,PHI 35,0,24,Tony Romo sacked by Juqua Parker for -12 yards,0.990,-2.060
+4,2:20,1,10,PHI 47,0,24,Donovan McNabb pass complete short middle to DeSean Jackson for 11 yards,2.060,2.790
+4,2:13,1,10,DAL 42,0,24,"Donovan McNabb pass incomplete deep left intended for Jason Avant. Penalty on LeSean McCoy: Offensive Holding, 10 yards (no play)",2.790,2.130
+4,2:05,1,20,PHI 48,0,24,Donovan McNabb pass complete short left to LeSean McCoy for 9 yards (tackle by Steve Octavien),2.130,2.110
+4,1:58,2,11,DAL 43,0,24,Donovan McNabb pass incomplete,2.110,1.420
+4,1:50,3,11,DAL 43,0,24,Donovan McNabb pass incomplete short middle intended for Brent Celek,1.420,0.400
+4,1:43,4,11,DAL 43,0,24,Donovan McNabb pass incomplete deep left intended for DeSean Jackson (defended by Mike Jenkins),0.400,-1.860
+4,1:37,1,10,DAL 44,0,24,Tony Romo kneels for -1 yards,1.860,1.180
+4,0:55,2,11,DAL 43,0,24,Tony Romo kneels for -1 yards,1.180,0.370
+4,0:15,3,12,DAL 42,0,24,Tony Romo kneels for -1 yards,0.370,-0.650
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

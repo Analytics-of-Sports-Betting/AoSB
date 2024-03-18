@@ -1,0 +1,188 @@
+Quarter,Time,Down,ToGo,Location,DAL,DET,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Lions won the coin toss and deferred, Cowboys to receive the opening kickoff.",,
+1,15:00,,,DET 35,0,0,"Matt Prater kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,DAL 25,0,0,Dak Prescott pass incomplete short right intended for Amari Cooper (defended by Darius Slay),0.610,0.060
+1,14:56,2,10,DAL 25,0,0,"Ezekiel Elliott up the middle for 2 yards (tackle by Jarrad Davis). Ezekiel Elliott fumbles (forced by Jarrad Davis), recovered by Jarrad Davis at DAL-28 (tackle by Blake Jarwin)",0.060,-3.710
+1,14:49,1,10,DAL 28,0,0,Bo Scarbrough left tackle for 2 yards (tackle by DeMarcus Lawrence),3.710,3.440
+1,14:15,2,8,DAL 26,0,0,Jeff Driskel pass complete short right to Marvin Jones for 5 yards (tackle by Sean Lee and Chidobe Awuzie),3.440,3.400
+1,13:40,3,3,DAL 21,0,0,Jeff Driskel pass complete short left to Danny Amendola for 11 yards (tackle by Jourdan Lewis),3.400,4.910
+1,13:09,1,10,DAL 10,0,0,Bo Scarbrough right tackle for 5 yards (tackle by Darian Thompson),4.910,5.150
+1,12:38,2,5,DAL 5,0,6,"Bo Scarbrough up the middle for 5 yards, touchdown. Penalty on Maliek Collins: Defensive Offside (Declined)",5.150,7.000
+1,12:33,,,DAL 15,0,7,Matt Prater kicks extra point good,0.000,0.000
+1,12:33,,,DET 35,0,7,"Matt Prater kicks off 69 yards, returned by Tony Pollard for 18 yards (tackle by Jalen Reeves-Maybin)",0.000,-0.280
+1,12:29,1,10,DAL 14,0,7,Ezekiel Elliott left end for 1 yard (tackle by Damon Harrison and John Atkins),-0.280,-0.640
+1,11:51,2,9,DAL 15,0,7,Dak Prescott pass incomplete short left,-0.640,-1.280
+1,11:43,3,9,DAL 15,0,7,Dak Prescott pass incomplete short left intended for Amari Cooper (defended by Darius Slay),-1.280,-2.440
+1,11:37,4,9,DAL 15,0,7,"Chris Jones punts 48 yards, returned by Jamal Agnew for 3 yards (tackle by Darian Thompson). Penalty on C.J. Moore: Illegal Block Above the Waist, 10 yards",-2.440,-0.940
+1,11:27,1,10,DET 30,0,7,Jeff Driskel pass complete short middle to T.J. Hockenson for 6 yards (tackle by Jaylon Smith),0.940,1.200
+1,10:54,2,4,DET 36,0,7,"Penalty on Taylor Decker: False Start, 5 yards (no play)",1.200,0.530
+1,10:37,2,9,DET 31,0,7,Bo Scarbrough right tackle for 5 yards (tackle by Darian Thompson and Antwaun Woods),0.530,0.500
+1,10:07,3,4,DET 36,0,7,Jeff Driskel pass incomplete short right,0.500,-0.980
+1,10:01,4,4,DET 36,0,7,"Sam Martin punts 52 yards, returned by Tavon Austin for 2 yards (tackle by Dee Virgin)",-0.980,0.280
+1,9:49,1,10,DAL 14,0,7,Dak Prescott pass complete short right to Michael Gallup for 13 yards (tackle by Darius Slay),-0.280,0.740
+1,9:27,1,10,DAL 27,0,7,Ezekiel Elliott left tackle for 7 yards (tackle by Tracy Walker),0.740,1.140
+1,8:55,2,3,DAL 34,0,7,Dak Prescott pass complete short middle to Tony Pollard for 13 yards (tackle by Tracy Walker),1.140,2.060
+1,8:19,1,10,DAL 47,0,7,Dak Prescott pass complete short middle to Jason Witten for 7 yards (tackle by Jarrad Davis and Jahlani Tavai),2.060,2.460
+1,7:36,2,3,DET 46,0,7,Ezekiel Elliott up the middle for 3 yards (tackle by John Atkins),2.460,2.720
+1,6:55,1,10,DET 43,0,7,Ezekiel Elliott up the middle for 6 yards (tackle by Jarrad Davis and Tracy Walker),2.720,2.990
+1,6:21,2,4,DET 37,0,7,Dak Prescott pass incomplete short right intended for Jason Witten,2.990,2.280
+1,6:16,3,4,DET 37,0,7,Dak Prescott pass complete short left to Amari Cooper for 7 yards (tackle by Tracy Walker),2.280,3.580
+1,5:45,1,10,DET 30,0,7,"Penalty on DAL: Offensive Too Many Men on Field, 5 yards (no play)",3.580,3.250
+1,5:17,,,,,,Timeout #1 by Dallas Cowboys,,
+1,5:17,1,15,DET 35,0,7,Dak Prescott pass complete short left to Michael Gallup for 12 yards (tackle by Rashaan Melvin),3.250,3.980
+1,4:55,2,3,DET 23,0,7,Dak Prescott pass complete short left to Michael Gallup for 14 yards (tackle by Rashaan Melvin),3.980,5.140
+1,4:16,1,9,DET 9,0,7,Ezekiel Elliott left tackle for 2 yards (tackle by Tracy Walker and Rashaan Melvin),5.140,4.760
+1,3:39,2,7,DET 7,0,7,Dak Prescott right end for 5 yards (tackle by Justin Coleman),4.760,4.950
+1,3:04,3,2,DET 2,0,7,Dak Prescott sacked by Devon Kennard for -10 yards,4.950,2.630
+1,2:22,4,12,DET 12,3,7,Brett Maher 30 yard field goal good,2.630,3.000
+1,2:18,,,DAL 35,3,7,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+1,2:18,1,10,DET 25,3,7,Bo Scarbrough up the middle for 4 yards (tackle by Darian Thompson and Jaylon Smith),0.610,0.600
+1,1:44,2,6,DET 29,3,7,Jeff Driskel pass incomplete deep left intended for Kenny Golladay (defended by Anthony Brown),0.600,-0.100
+1,1:38,3,6,DET 29,3,7,Jeff Driskel pass incomplete deep right intended for Marvin Jones (defended by Darian Thompson),-0.100,-1.440
+1,1:28,4,6,DET 29,3,7,"Sam Martin punts 41 yards, fair catch by Tavon Austin at DAL-30",-1.440,-0.940
+1,1:21,1,10,DAL 30,3,7,Dak Prescott pass complete deep left to Michael Gallup for 23 yards,0.940,2.460
+1,0:51,1,10,DET 47,3,7,Tony Pollard left tackle for 7 yards (tackle by Tracy Walker),2.460,2.860
+1,0:16,2,3,DET 40,3,7,Dak Prescott pass incomplete short left intended for Randall Cobb,2.860,2.150
+1,0:11,3,3,DET 40,3,7,Dak Prescott pass complete short middle to Randall Cobb for 14 yards (tackle by Justin Coleman). Penalty on Rashaan Melvin: Defensive Holding (Declined),2.150,3.840
+Quarter,Time,Down,ToGo,Location,DAL,DET,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,DET 26,3,7,Dak Prescott pass incomplete deep right intended for Amari Cooper,3.840,3.300
+2,14:54,2,10,DET 26,3,7,Tony Pollard up the middle for 5 yards (tackle by A'Shawn Robinson),3.300,3.270
+2,14:19,3,5,DET 21,9,7,"Dak Prescott pass complete short middle to Tony Pollard for 21 yards, touchdown",3.270,7.000
+2,14:10,,,DET 15,10,7,Brett Maher kicks extra point good,0.000,0.000
+2,14:10,,,DAL 35,10,7,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+2,14:10,1,10,DET 25,10,7,Jeff Driskel sacked by Robert Quinn for -7 yards,0.610,-0.980
+2,13:27,2,17,DET 18,10,7,J.D. McKissic up the middle for 2 yards (tackle by Jaylon Smith),-0.980,-1.290
+2,12:49,3,15,DET 20,10,7,Jeff Driskel pass incomplete short right intended for T.J. Hockenson (defended by Leighton Vander Esch),-1.290,-2.030
+2,12:43,4,15,DET 20,10,7,"Sam Martin punts 57 yards, returned by Tavon Austin for no gain (tackle by Miles Killebrew). Penalty on Josh Jones: Offensive Holding, 10 yards",-2.030,0.220
+2,12:29,1,10,DAL 15,10,7,Dak Prescott pass complete short right to Ezekiel Elliott for 11 yards (tackle by Tavon Wilson),-0.220,0.670
+2,12:01,1,10,DAL 26,10,7,Ezekiel Elliott up the middle for 1 yard (tackle by Jarrad Davis),0.670,0.270
+2,11:27,2,9,DAL 27,10,7,Dak Prescott pass incomplete short right intended for Michael Gallup,0.270,-0.430
+2,11:23,3,9,DAL 27,10,7,Dak Prescott pass incomplete deep right intended for Michael Gallup,-0.430,-1.570
+2,11:17,4,9,DAL 27,10,7,"Chris Jones punts 50 yards, returned by Jamal Agnew for 32 yards (tackle by Blake Jarwin)",-1.570,-2.590
+2,11:03,1,10,DAL 45,10,7,Jeff Driskel right end for 10 yards (tackle by Darian Thompson and Xavier Woods),2.590,3.250
+2,10:30,1,10,DAL 35,10,7,"Bo Scarbrough right tackle for 7 yards (tackle by Leighton Vander Esch). Penalty on Michael Bennett: Defensive Offside, 5 yards (no play)",3.250,3.980
+2,10:04,1,5,DAL 30,10,7,Bo Scarbrough right tackle for no gain (tackle by Darian Thompson and Michael Bennett),3.980,3.380
+2,9:26,2,5,DAL 30,10,7,Jeff Driskel sacked by Michael Bennett for no gain,3.380,2.680
+2,8:56,3,5,DAL 30,10,7,J.D. McKissic up the middle for 5 yards (tackle by Darian Thompson),2.680,3.910
+2,8:29,,,,,,Timeout #2 by Dallas Cowboys,,
+2,8:29,1,10,DAL 25,10,7,Bo Scarbrough left tackle for 23 yards (tackle by Xavier Woods),3.910,6.740
+2,7:49,1,2,DAL 2,10,13,"Jeff Driskel up the middle for 2 yards, touchdown",6.740,7.000
+2,7:46,,,DAL 15,10,14,Matt Prater kicks extra point good,0.000,0.000
+2,7:46,,,DET 35,10,14,"Matt Prater kicks off 65 yards, touchback.",0.000,0.610
+2,7:46,1,10,DAL 25,10,14,Dak Prescott left end for 9 yards (tackle by Tavon Wilson),0.610,1.280
+2,7:14,2,1,DAL 34,10,14,Dak Prescott pass complete short middle to Blake Jarwin for 15 yards (tackle by Tavon Wilson),1.280,2.190
+2,6:33,1,10,DAL 49,10,14,Dak Prescott pass incomplete short left intended for Jason Witten,2.190,1.650
+2,6:26,2,10,DAL 49,10,14,Ezekiel Elliott up the middle for 1 yard (tackle by Jarrad Davis),1.650,1.090
+2,5:46,3,9,DAL 50,10,14,Dak Prescott pass complete deep right to Michael Gallup for 41 yards (tackle by Mike Ford). Penalty on Mike Ford: Defensive Pass Interference (Declined),1.090,5.140
+2,5:22,1,9,DET 9,10,14,Ezekiel Elliott up the middle for 8 yards (tackle by Will Harris and Jarrad Davis),5.140,5.910
+2,4:42,2,1,DET 1,16,14,"Ezekiel Elliott up the middle for 1 yard, touchdown",5.910,7.000
+2,4:37,,,DET 15,17,14,Brett Maher kicks extra point good,0.000,0.000
+2,4:37,,,DAL 35,17,14,"Brett Maher kicks off 69 yards, returned by Jamal Agnew for 29 yards (tackle by Byron Jones). Penalty on C.J. Moore: Offensive Holding, 10 yards",0.000,-0.220
+2,4:30,1,10,DET 15,17,14,"Bo Scarbrough up the middle for 4 yards (tackle by Jaylon Smith). Penalty on Joe Dahl: Offensive Holding, 7 yards (no play)",-0.220,-0.650
+2,4:08,1,17,DET 8,17,14,Jeff Driskel pass complete short right to J.D. McKissic for 22 yards (tackle by Jaylon Smith),-0.650,0.940
+2,3:23,1,10,DET 30,17,14,Bo Scarbrough right tackle for -6 yards (tackle by DeMarcus Lawrence),0.940,-0.420
+2,2:44,2,16,DET 24,17,14,Jeff Driskel pass complete short middle to Danny Amendola for 7 yards (tackle by Jaylon Smith),-0.420,-0.160
+2,2:00,3,9,DET 31,17,14,Jeff Driskel pass incomplete short middle intended for Kenny Golladay,-0.160,-1.310
+2,1:56,4,9,DET 31,17,14,"Sam Martin punts 52 yards, fair catch by Tavon Austin at DAL-17",-1.310,0.060
+2,1:48,1,10,DAL 17,17,14,Dak Prescott pass complete short left to Michael Gallup for 10 yards (tackle by Rashaan Melvin),-0.060,0.740
+2,1:42,1,10,DAL 27,17,14,Dak Prescott pass complete deep left to Randall Cobb for 49 yards (tackle by Amani Oruwariye),0.740,3.970
+2,0:57,1,10,DET 24,17,14,Dak Prescott pass complete short middle to Jason Witten for 5 yards (tackle by Tavon Wilson and Rashaan Melvin),3.970,4.120
+2,0:33,2,5,DET 19,23,14,"Dak Prescott pass complete deep middle to Randall Cobb for 19 yards, touchdown. Penalty on Will Harris: Lowering the Head to Initiate Contact, 15 yards",4.120,7.000
+2,0:27,,,DET 15,24,14,"Brett Maher kicks extra point good. Penalty on A'Shawn Robinson: Unsportsmanlike Conduct, 15 yards",0.000,0.000
+2,0:27,,,,,,Timeout #1 by Detroit Lions,,
+2,0:27,,,DET 35,24,14,"Brett Maher kicks onside 20 yards, returned by Kenny Golladay for no gain",0.000,-0.220
+2,0:26,1,10,DET 15,24,14,"Jeff Driskel pass complete deep left to Marvin Jones for 28 yards (tackle by Darian Thompson). Penalty on Tyrell Crosby: Offensive Holding, 7 yards. Penalty on Joe Dahl: Ineligible Downfield Pass, 7 yards (no play)",-0.220,-0.650
+2,0:19,1,17,DET 8,24,14,Jeff Driskel kneels for -1 yards,-0.650,-1.360
+Quarter,Time,Down,ToGo,Location,DAL,DET,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DAL 35,24,14,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,DET 25,24,14,Jeff Driskel pass complete short right to Marvin Jones for 2 yards (tackle by Sean Lee),0.610,0.330
+3,14:26,2,8,DET 27,24,14,"Penalty on DeMarcus Lawrence: Neutral Zone Infraction, 5 yards (no play)",0.330,1.010
+3,14:09,2,3,DET 32,24,14,J.D. McKissic up the middle for 6 yards (tackle by Jaylon Smith),1.010,1.470
+3,13:34,1,10,DET 38,24,14,Bo Scarbrough left tackle for 1 yard (tackle by Maliek Collins),1.470,1.060
+3,12:57,2,9,DET 39,24,14,Bo Scarbrough up the middle for 6 yards (tackle by Jaylon Smith),1.060,1.160
+3,12:18,3,3,DET 45,24,14,Jeff Driskel pass complete short left to J.D. McKissic for 11 yards (tackle by Leighton Vander Esch),1.160,2.650
+3,11:50,1,10,DAL 44,24,14,Marvin Jones right end for -4 yards (tackle by Jaylon Smith),2.650,1.570
+3,11:16,2,14,DAL 48,24,14,Bo Scarbrough up the middle for no gain (tackle by Dorance Armstrong),1.570,0.890
+3,10:35,3,14,DAL 48,24,14,Jeff Driskel pass complete deep left to Marvin Hall for 39 yards,0.890,5.140
+3,10:02,1,9,DAL 9,24,14,Jeff Driskel left end for -2 yards (tackle by Robert Quinn),5.140,4.020
+3,9:22,2,11,DAL 11,24,20,"Jeff Driskel pass complete short right to Marvin Jones for 11 yards, touchdown",4.020,7.000
+3,9:15,,,DAL 15,24,21,Matt Prater kicks extra point good,0.000,0.000
+3,9:15,,,DET 35,24,21,"Matt Prater kicks off 65 yards, touchback.",0.000,0.610
+3,9:15,1,10,DAL 25,24,21,Dak Prescott pass complete deep right to Randall Cobb for 33 yards (tackle by Justin Coleman),0.610,2.790
+3,8:36,1,10,DET 42,24,21,Ezekiel Elliott left tackle for 5 yards (tackle by Damon Harrison),2.790,2.920
+3,7:52,2,5,DET 37,24,21,Dak Prescott pass complete short right to Michael Gallup for 7 yards (tackle by Darius Slay),2.920,3.580
+3,7:27,1,10,DET 30,24,21,Ezekiel Elliott up the middle for 2 yards (tackle by Damon Harrison and A'Shawn Robinson),3.580,3.300
+3,6:41,2,8,DET 28,24,21,Dak Prescott pass complete short middle to Jason Witten for 5 yards (tackle by Jarrad Davis),3.300,3.270
+3,5:57,3,3,DET 23,24,21,Dak Prescott left end for 7 yards (tackle by Will Harris),3.270,4.510
+3,5:21,1,10,DET 16,24,21,Dak Prescott pass incomplete deep left intended for Amari Cooper,4.510,3.900
+3,5:14,2,10,DET 16,24,21,Dak Prescott pass incomplete short left intended for Michael Gallup (defended by Rashaan Melvin),3.900,3.080
+3,5:11,3,10,DET 16,24,21,Dak Prescott pass incomplete deep right intended for Randall Cobb,3.080,2.380
+3,5:05,4,10,DET 16,27,21,Brett Maher 34 yard field goal good,2.380,3.000
+3,5:00,,,DAL 35,27,21,"Brett Maher kicks off 67 yards, returned by Jamal Agnew for 20 yards (tackle by Justin March-Lillard)",0.000,0.040
+3,4:54,1,10,DET 18,27,21,Bo Scarbrough up the middle for 4 yards (tackle by Leighton Vander Esch),0.040,0.140
+3,4:18,2,6,DET 22,27,21,Jeff Driskel pass incomplete short left,0.140,-0.660
+3,4:08,3,6,DET 22,27,21,Jeff Driskel pass complete short right to Danny Amendola for 8 yards (tackle by Chidobe Awuzie),-0.660,0.940
+3,3:30,1,10,DET 30,27,21,"Penalty on T.J. Hockenson: False Start, 5 yards (no play)",0.940,0.610
+3,3:08,1,15,DET 25,27,21,Jeff Driskel up the middle for 7 yards (tackle by Leighton Vander Esch),0.610,0.660
+3,2:28,2,8,DET 32,27,21,Jeff Driskel pass complete short left to J.D. McKissic for 7 yards (tackle by DeMarcus Lawrence),0.660,0.890
+3,1:46,3,1,DET 39,27,21,Bo Scarbrough up the middle for 5 yards (tackle by Leighton Vander Esch),0.890,1.860
+3,1:10,1,10,DET 44,27,21,Bo Scarbrough right tackle for 1 yard (tackle by Robert Quinn),1.860,1.450
+3,0:32,2,9,DET 45,27,21,Jeff Driskel right end for 6 yards (tackle by Jaylon Smith),1.450,1.550
+Quarter,Time,Down,ToGo,Location,DAL,DET,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,3,DAL 49,27,21,Ty Johnson up the middle for 1 yard (tackle by Maliek Collins),1.550,0.070
+4,14:14,4,2,DAL 48,27,21,"Penalty on Michael Bennett: Neutral Zone Infraction, 5 yards (no play)",0.070,2.720
+4,14:04,1,10,DAL 43,27,21,Jeff Driskel pass incomplete short right intended for Kenny Golladay (defended by Chidobe Awuzie),2.720,2.180
+4,14:00,2,10,DAL 43,27,21,Jeff Driskel pass incomplete deep right intended for Logan Thomas,2.180,1.490
+4,13:51,3,10,DAL 43,27,21,Jeff Driskel pass incomplete short left intended for Danny Amendola,1.490,0.400
+4,13:45,4,10,DAL 43,27,21,"Sam Martin punts 27 yards, fair catch by Randall Cobb at DAL-16",0.400,0.140
+4,13:37,1,10,DAL 16,27,21,Dak Prescott pass complete short right to Amari Cooper for 15 yards (tackle by Darius Slay),-0.140,1.000
+4,13:08,1,10,DAL 31,27,21,Ezekiel Elliott right tackle for 2 yards (tackle by Jarrad Davis and Christian Jones),1.000,0.730
+4,12:32,,,,,,Timeout #1 by Detroit Lions,,
+4,12:32,2,8,DAL 33,27,21,Dak Prescott pass complete short left to Jason Witten for 5 yards (tackle by Rashaan Melvin),0.730,0.700
+4,11:51,3,3,DAL 38,27,21,Dak Prescott pass complete short middle to Jason Witten for 11 yards (tackle by Rashaan Melvin),0.700,2.190
+4,11:11,1,10,DAL 49,27,21,Dak Prescott pass incomplete deep left intended for Tavon Austin (defended by Darius Slay),2.190,1.650
+4,11:04,,,,,,Timeout #1 by Dallas Cowboys,,
+4,11:04,2,10,DAL 49,27,21,Dak Prescott pass complete short right to Amari Cooper for 16 yards (tackle by Justin Coleman),1.650,3.250
+4,10:27,1,10,DET 35,27,21,Dak Prescott pass complete short middle to Tony Pollard for 8 yards (tackle by Tavon Wilson),3.250,3.780
+4,9:51,2,2,DET 27,27,21,Ezekiel Elliott up the middle for 3 yards (tackle by Damon Harrison),3.780,3.970
+4,9:11,1,10,DET 24,27,21,"Dak Prescott pass complete short right to Dalton Schultz for 6 yards (tackle by Devon Kennard). Penalty on Justin Coleman: Illegal Contact, 5 yards (no play)",3.970,4.310
+4,8:44,1,10,DET 19,27,21,Dak Prescott pass complete short right to Tony Pollard for 2 yards (tackle by Will Harris),4.310,4.030
+4,8:09,2,8,DET 17,27,21,Dak Prescott pass incomplete short right intended for Ezekiel Elliott,4.030,3.260
+4,8:03,3,8,DET 17,33,21,"Dak Prescott pass complete short right to Ezekiel Elliott for 17 yards, touchdown",3.260,7.000
+4,7:56,,,,,,Timeout #2 by Dallas Cowboys,,
+4,7:56,,,DET 2,35,21,"Two Point Attempt: Tony Pollard rushes, conversion succeeds.",1.000,1.000
+4,7:56,,,DAL 35,35,21,"Brett Maher kicks off 69 yards, returned by Jamal Agnew for 29 yards (tackle by Jamize Olawale)",0.000,0.610
+4,7:49,1,10,DET 25,35,21,Jeff Driskel up the middle for 6 yards (tackle by DeMarcus Lawrence),0.610,0.870
+4,7:27,2,4,DET 31,35,21,Jeff Driskel up the middle for 23 yards (tackle by Xavier Woods),0.870,2.520
+4,6:58,1,10,DAL 46,35,21,Jeff Driskel pass complete short left to Ty Johnson for no gain (tackle by DeMarcus Lawrence),2.520,1.980
+4,6:32,2,10,DAL 46,35,21,Jeff Driskel pass complete deep right to Danny Amendola for 21 yards (tackle by Christian Covington),1.980,3.910
+4,5:58,1,10,DAL 25,35,27,"Jeff Driskel pass complete deep middle to Marvin Jones for 25 yards, touchdown",3.910,7.000
+4,5:49,,,DAL 2,35,27,"Two Point Attempt: Jeff Driskel pass incomplete intended for J.D. McKissic, conversion fails",1.000,-1.000
+4,5:49,,,DET 35,35,27,"Matt Prater kicks off 58 yards, returned by Tony Pollard for 24 yards (tackle by Ty Johnson)",0.000,1.000
+4,5:42,1,10,DAL 31,35,27,Dak Prescott pass incomplete deep left intended for Amari Cooper,1.000,0.460
+4,5:36,2,10,DAL 31,35,27,Dak Prescott pass complete short right to Michael Gallup for 6 yards (tackle by Rashaan Melvin),0.460,0.560
+4,4:57,3,4,DAL 37,35,27,Dak Prescott pass complete short right to Michael Gallup for 22 yards (tackle by Rashaan Melvin),0.560,2.850
+4,4:46,1,10,DET 41,35,27,Ezekiel Elliott right end for 1 yard (tackle by Devon Kennard),2.850,2.440
+4,4:04,2,9,DET 40,35,27,Dak Prescott pass incomplete short right intended for Randall Cobb,2.440,1.750
+4,3:57,3,9,DET 40,35,27,Dak Prescott pass incomplete short right intended for Michael Gallup,1.750,0.590
+4,3:52,4,9,DET 40,35,27,"Chris Jones punts 26 yards, fair catch by Marvin Hall at DET-14",0.590,0.280
+4,3:44,1,10,DET 14,35,27,Ty Johnson up the middle for 5 yards (tackle by Leighton Vander Esch),-0.280,-0.040
+4,3:13,2,5,DET 19,35,27,"Jeff Driskel pass complete deep middle to Kenny Golladay for 34 yards (tackle by Darian Thompson). Penalty on Darian Thompson: Face Mask (15 Yards), 15 yards",-0.040,3.450
+4,3:01,1,10,DAL 32,35,27,"Jeff Driskel pass incomplete deep left intended for Kenny Golladay (defended by Byron Jones). Penalty on Kenny Wiggins: Ineligible Downfield Pass, 5 yards (no play)",3.450,3.120
+4,2:56,1,15,DAL 37,35,27,Jeff Driskel pass incomplete short right intended for Kenny Golladay (defended by Chidobe Awuzie),3.120,2.230
+4,2:52,2,15,DAL 37,35,27,Jeff Driskel sacked by Michael Bennett for -11 yards,2.230,0.100
+4,2:13,3,26,DAL 48,35,27,Jeff Driskel pass incomplete short right intended for J.D. McKissic,0.100,0.070
+4,2:07,4,26,DAL 48,35,27,"Penalty on DET: Delay of Game, 5 yards (no play)",0.070,-0.260
+4,2:07,4,31,DET 47,35,27,Sam Martin punts 40 yards downed by Dee Virgin,-0.260,0.320
+4,1:58,1,10,DAL 13,35,27,Ezekiel Elliott right end for no gain (tackle by Jahlani Tavai and Mike Daniels),-0.320,-0.770
+4,1:54,,,,,,Timeout #2 by Detroit Lions,,
+4,1:54,2,10,DAL 13,35,27,Dak Prescott pass complete short right to Blake Jarwin for 23 yards (tackle by Will Harris),-0.770,1.330
+4,1:47,,,,,,Timeout #3 by Detroit Lions,,
+4,1:47,1,10,DAL 36,35,27,Dak Prescott kneels for -1 yards,1.330,0.660
+4,1:09,2,11,DAL 35,35,27,Dak Prescott kneels for -1 yards,0.660,-0.160
+4,0:38,3,12,DAL 34,35,27,Dak Prescott kneels for -1 yards,-0.160,-1.180
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

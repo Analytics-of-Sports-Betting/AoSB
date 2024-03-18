@@ -1,0 +1,194 @@
+Quarter,Time,Down,ToGo,Location,PHI,IND,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Eagles won the coin toss and deferred, Colts to receive the opening kickoff.",,
+1,15:00,,,PHI 35,0,0,"Cody Parkey kicks off 65 yards, touchback",0.000,-0.280
+1,15:00,1,10,IND 20,0,0,Andrew Luck pass incomplete short right intended for T.Y. Hilton,0.280,-0.270
+1,14:58,2,10,IND 20,0,0,Trent Richardson right end for -4 yards (tackle by Mychal Kendricks),-0.270,-1.690
+1,14:18,3,14,IND 16,0,0,Andrew Luck pass complete short right to T.Y. Hilton for 5 yards (tackle by Malcolm Jenkins),-1.690,-1.960
+1,13:46,4,9,IND 21,0,0,"Pat McAfee punts 60 yards, returned by Darren Sproles for 13 yards (tackle by Matt Overton). Penalty on Bryan Braman: Illegal Block Above the Waist, 10 yards",-1.960,0.060
+1,13:33,1,10,PHI 17,0,0,Nick Foles pass complete short right to LeSean McCoy for 12 yards (tackle by LaRon Landry),-0.060,0.870
+1,13:18,1,10,PHI 29,0,0,Nick Foles pass complete short right to LeSean McCoy for no gain,0.870,0.330
+1,12:46,2,10,PHI 29,0,0,Nick Foles pass complete short left to Jeremy Maclin for 15 yards (tackle by LaRon Landry),0.330,1.860
+1,12:35,1,10,PHI 44,0,0,Nick Foles pass complete deep right to Zach Ertz for 27 yards (tackle by Mike Adams),1.860,3.640
+1,12:14,1,10,IND 29,0,0,Nick Foles pass incomplete short left intended for Jordan Matthews,3.640,3.100
+1,12:09,2,10,IND 29,0,0,Nick Foles right tackle for 5 yards (tackle by Mike Adams),3.100,3.070
+1,11:36,3,5,IND 24,0,0,Nick Foles pass complete short middle to Zach Ertz for 14 yards (tackle by LaRon Landry). Penalty on Greg Toler: Defensive Holding (Declined),3.070,4.910
+1,11:15,1,10,IND 10,0,0,LeSean McCoy left tackle for -2 yards (tackle by Ricky Jean-Francois),4.910,3.860
+1,10:39,2,12,IND 12,0,0,LeSean McCoy up the middle for -2 yards (tackle by D'Qwell Jackson),3.860,3.000
+1,9:58,3,14,IND 14,0,0,Nick Foles pass incomplete short left intended for Jeremy Maclin,3.000,2.510
+1,9:52,4,14,IND 14,3,0,Cody Parkey 31 yard field goal good,2.510,3.000
+1,9:52,,,PHI 35,3,0,"Cody Parkey kicks off 62 yards, returned by Dan Herron for 25 yards (tackle by James Casey)",0.000,-0.810
+1,9:41,1,10,IND 28,3,0,Trent Richardson left end for 7 yards (tackle by Mychal Kendricks and Cedric Thornton),0.810,1.210
+1,9:01,2,3,IND 35,3,0,Trent Richardson right end for 2 yards (tackle by Mychal Kendricks and Connor Barwin),1.210,0.760
+1,8:16,3,1,IND 37,3,0,Ahmad Bradshaw left end for 29 yards (tackle by Cary Williams),0.760,3.310
+1,7:59,1,10,PHI 34,3,0,Andrew Luck pass complete short left to Coby Fleener for 13 yards (tackle by Nate Allen),3.310,4.170
+1,7:27,1,10,PHI 21,3,0,Trent Richardson left end for 15 yards (tackle by Mychal Kendricks),4.170,5.830
+1,6:48,1,6,PHI 6,3,0,"Trent Richardson up the middle for no gain (tackle by Trent Cole). Trent Richardson fumbles (forced by Trent Cole), recovered by Reggie Wayne at PHI-6",5.830,4.950
+1,6:06,2,6,PHI 6,3,0,Andrew Luck pass incomplete short left intended for Hakeem Nicks,4.950,4.040
+1,6:01,3,6,PHI 6,3,0,Andrew Luck pass complete short left to Ahmad Bradshaw for 5 yards (tackle by Mychal Kendricks),4.040,3.550
+1,5:22,4,1,PHI 1,3,6,"Andrew Luck pass complete short right to Ahmad Bradshaw for 1 yard, touchdown",3.550,7.000
+1,5:22,,,PHI 2,3,7,Adam Vinatieri kicks extra point good,0.000,0.000
+1,5:22,,,IND 35,3,7,"Pat McAfee kicks off 65 yards, touchback",0.000,-0.280
+1,5:18,1,10,PHI 20,3,7,Nick Foles pass complete short middle to Darren Sproles for 57 yards (tackle by Darius Butler),0.280,4.040
+1,5:00,1,10,IND 23,3,7,Darren Sproles up the middle for 3 yards (tackle by D'Qwell Jackson),4.040,3.900
+1,4:33,2,7,IND 20,3,7,Nick Foles pass incomplete deep left intended for Riley Cooper,3.900,3.200
+1,4:27,3,7,IND 20,3,7,Nick Foles pass incomplete short right intended for Jordan Matthews (defended by Darius Butler),3.200,2.120
+1,4:21,4,7,IND 20,3,7,Cody Parkey 38 yard field goal no good,2.120,-0.810
+1,4:16,1,10,IND 28,3,7,Ahmad Bradshaw left tackle for 5 yards (tackle by Bennie Logan),0.810,0.940
+1,3:34,2,5,IND 33,3,7,"Penalty on Connor Barwin: Neutral Zone Infraction, 5 yards (no play)",0.940,1.470
+1,3:14,1,10,IND 38,3,7,Ahmad Bradshaw right end for 8 yards (tackle by DeMeco Ryans),1.470,2.000
+1,2:42,2,2,IND 46,3,7,Ahmad Bradshaw left guard for 1 yard (tackle by Bennie Logan and Brandon Graham),2.000,1.420
+1,2:00,3,1,IND 47,3,7,Andrew Luck pass complete short right to T.Y. Hilton for 8 yards (tackle by Bradley Fletcher),1.420,2.590
+1,1:22,1,10,PHI 45,3,7,Trent Richardson up the middle for 5 yards (tackle by DeMeco Ryans),2.590,2.720
+1,0:43,2,5,PHI 40,3,7,Trent Richardson up the middle for 1 yard (tackle by DeMeco Ryans),2.720,2.150
+Quarter,Time,Down,ToGo,Location,PHI,IND,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,4,PHI 39,3,7,"Penalty on Brandon Graham: Neutral Zone Infraction, 5 yards (no play)",2.150,3.310
+2,15:00,1,10,PHI 34,3,7,Trent Richardson up the middle for 10 yards (tackle by Nate Allen and Malcolm Jenkins),3.310,3.970
+2,14:15,1,10,PHI 24,3,7,Andrew Luck pass incomplete short middle intended for Reggie Wayne (defended by Mychal Kendricks),3.970,3.430
+2,14:09,2,10,PHI 24,3,7,Andrew Luck pass complete short left to Hakeem Nicks for -4 yards (tackle by Cary Williams),3.430,2.210
+2,13:28,3,14,PHI 28,3,7,Andrew Luck pass incomplete short middle intended for Reggie Wayne,2.210,1.590
+2,13:23,4,14,PHI 28,3,10,Adam Vinatieri 46 yard field goal good,1.590,3.000
+2,13:23,,,IND 35,3,10,"Pat McAfee kicks off 69 yards, returned by Nolan Carroll for 21 yards (tackle by Dan Herron)",0.000,0.060
+2,13:13,1,10,PHI 17,3,10,LeSean McCoy left end for 6 yards (tackle by Arthur Jones),-0.060,0.350
+2,12:52,2,4,PHI 23,3,10,LeSean McCoy left end for 2 yards (tackle by Bjoern Werner and D'Qwell Jackson),0.350,-0.240
+2,12:32,3,2,PHI 25,3,10,LeSean McCoy up the middle for 2 yards (tackle by D'Qwell Jackson and Josh McNary),-0.240,0.740
+2,12:01,1,10,PHI 27,3,10,Nick Foles pass complete short left to Darren Sproles for 9 yards (tackle by Josh McNary),0.740,1.410
+2,11:42,2,1,PHI 36,3,10,Nick Foles pass incomplete short right intended for Jeremy Maclin,1.410,0.700
+2,11:38,3,1,PHI 36,3,10,Darren Sproles up the middle for no gain (tackle by Mike Adams),0.700,-0.980
+2,11:00,4,1,PHI 36,3,10,"Penalty on Bryan Braman: False Start, 5 yards (no play)",-0.980,-1.310
+2,10:57,4,6,PHI 31,3,10,"Donnie Jones punts 59 yards, returned by Griff Whalen for 18 yards (tackle by Brandon Boykin). Penalty on Jonathan Newsome: Illegal Blindside Block, 10 yards",-1.310,0.370
+2,10:44,1,10,IND 11,3,10,Andrew Luck pass incomplete short right intended for T.Y. Hilton (defended by Bradley Fletcher),-0.370,-0.780
+2,10:37,2,10,IND 11,3,10,Andrew Luck pass incomplete short left intended for Dwayne Allen (defended by DeMeco Ryans),-0.780,-1.420
+2,10:32,3,10,IND 11,3,10,Andrew Luck pass incomplete short right intended for Hakeem Nicks,-1.420,-2.490
+2,10:29,4,10,IND 11,3,10,"Pat McAfee punts 57 yards, returned by Darren Sproles for 5 yards (tackle by Colt Anderson)",-2.490,-1.400
+2,10:17,1,10,PHI 37,3,10,Nick Foles right end for 6 yards (tackle by Mike Adams),1.400,1.670
+2,9:59,2,4,PHI 43,3,10,Nick Foles pass complete short middle to Jeremy Maclin for 15 yards (tackle by Greg Toler). Penalty on Greg Toler: Illegal Contact (Declined),1.670,2.790
+2,9:49,1,10,IND 42,3,10,LeSean McCoy left end for 12 yards (tackle by Mike Adams),2.790,3.580
+2,9:25,1,10,IND 30,3,10,Nick Foles pass incomplete deep right intended for Jeremy Maclin,3.580,3.030
+2,9:20,2,10,IND 30,3,10,Nick Foles pass complete short right to LeSean McCoy for 8 yards (tackle by Josh McNary),3.030,3.400
+2,8:58,3,2,IND 22,3,10,Darren Sproles up the middle for 4 yards (tackle by D'Qwell Jackson and Arthur Jones),3.400,4.370
+2,8:20,1,10,IND 18,3,10,Nick Foles pass incomplete short left intended for Jeremy Maclin,4.370,3.800
+2,8:15,2,10,IND 18,3,10,LeSean McCoy left tackle for 12 yards (tackle by Darius Butler),3.800,5.830
+2,7:44,1,6,IND 6,3,10,LeSean McCoy left guard for 2 yards (tackle by Ricky Jean-Francois),5.830,5.340
+2,7:23,2,4,IND 4,3,10,LeSean McCoy left end for -4 yards (tackle by Erik Walden),5.340,3.580
+2,6:45,3,8,IND 8,3,10,Nick Foles pass complete short left to LeSean McCoy for 3 yards (tackle by Darius Butler),3.580,3.010
+2,6:39,4,5,IND 5,6,10,Cody Parkey 23 yard field goal good,3.010,3.000
+2,6:39,,,PHI 35,6,10,"Cody Parkey kicks off 67 yards, returned by Griff Whalen for 29 yards (tackle by Cary Williams). Penalty on Chris Maragos: Unnecessary Roughness, 15 yards",0.000,-1.730
+2,6:30,1,10,IND 42,6,10,Trent Richardson right end for -3 yards (tackle by Fletcher Cox),1.730,0.780
+2,5:55,2,13,IND 39,6,10,Andrew Luck pass complete short right to Reggie Wayne for no gain,0.780,0.100
+2,5:14,3,13,IND 39,6,10,Andrew Luck pass complete short left to Reggie Wayne for 19 yards (tackle by Mychal Kendricks),0.100,2.790
+2,4:39,1,10,PHI 42,6,10,Trent Richardson left guard for 15 yards (tackle by Nate Allen),2.790,3.780
+2,4:11,1,10,PHI 27,6,10,Trent Richardson left guard for 6 yards (tackle by Cary Williams),3.780,4.040
+2,3:32,2,4,PHI 21,6,10,Ahmad Bradshaw up the middle for 2 yards (tackle by Bradley Fletcher and Malcolm Jenkins),4.040,3.640
+2,2:55,3,2,PHI 19,6,10,"Penalty on Trent Cole: Encroachment, 5 yards (no play)",3.640,4.650
+2,2:39,1,10,PHI 14,6,10,Andrew Luck pass complete short right to Ahmad Bradshaw for 9 yards (tackle by Cedric Thornton),4.650,5.670
+2,2:00,2,1,PHI 5,6,10,Trent Richardson up the middle for 1 yard (tackle by Bennie Logan),5.670,6.280
+2,1:32,1,4,PHI 4,6,10,Trent Richardson left tackle for 2 yards (tackle by Malcolm Jenkins and DeMeco Ryans),6.280,6.280
+2,1:20,1,4,PHI 4,6,10,Timeout #1 by Philadelphia Eagles,6.280,5.720
+2,1:20,2,2,PHI 2,6,16,"Andrew Luck pass complete short right to Jack Doyle for 2 yards, touchdown. Penalty on Connor Barwin: Defensive Holding (Declined)",5.720,7.000
+2,1:20,,,PHI 2,6,17,Adam Vinatieri kicks extra point good,0.000,0.000
+2,1:20,,,IND 35,6,17,"Pat McAfee kicks off 65 yards, touchback",0.000,-0.280
+2,1:13,1,10,PHI 20,6,17,Nick Foles pass complete short left to Darren Sproles for 8 yards (tackle by Vontae Davis),0.280,0.810
+2,1:07,2,2,PHI 28,6,17,Nick Foles pass complete short left to Darren Sproles for 2 yards (tackle by Vontae Davis),0.810,0.940
+2,0:47,1,10,PHI 30,6,17,Nick Foles pass complete short left to Jordan Matthews for 17 yards (tackle by Vontae Davis),0.940,0.940
+2,0:40,1,10,PHI 30,6,17,Timeout #1 by Indianapolis Colts,0.940,2.060
+2,0:40,1,10,PHI 47,6,17,Nick Foles pass incomplete deep right intended for Jeremy Maclin is intercepted by Greg Toler at IND-5,2.060,0.380
+2,0:32,1,10,IND 5,6,17,Andrew Luck kneels for -1 yards,-0.380,-0.850
+Quarter,Time,Down,ToGo,Location,PHI,IND,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,IND 35,6,17,"Pat McAfee kicks off 65 yards, touchback",0.000,-0.280
+3,15:00,1,10,PHI 20,6,17,Nick Foles pass incomplete short right intended for Jordan Matthews (defended by Darius Butler),0.280,-0.270
+3,14:55,2,10,PHI 20,6,17,LeSean McCoy left guard for no gain (tackle by LaRon Landry and Cory Redding),-0.270,-0.960
+3,14:19,3,10,PHI 20,6,17,Nick Foles pass incomplete short right intended for Zach Ertz (defended by Mike Adams),-0.960,-2.030
+3,14:10,4,10,PHI 20,6,17,"Donnie Jones punts 56 yards, returned by Griff Whalen for 11 yards (tackle by Chris Maragos). Penalty on Sergio Brown: Illegal Block Above the Waist, 10 yards",-2.030,-0.410
+3,13:59,1,10,IND 22,6,17,Trent Richardson left guard for 5 yards (tackle by Connor Barwin and Nate Allen),0.410,0.540
+3,13:24,2,5,IND 27,6,17,Trent Richardson left end for 3 yards (tackle by Mychal Kendricks and Cary Williams),0.540,0.230
+3,12:42,3,2,IND 30,6,17,Andrew Luck pass incomplete short right intended for T.Y. Hilton (defended by Malcolm Jenkins),0.230,-1.370
+3,12:37,4,2,IND 30,6,17,"Pat McAfee punts 61 yards, returned by Darren Sproles for 4 yards (tackle by Dan Herron)",-1.370,0.320
+3,12:25,1,10,PHI 13,6,17,LeSean McCoy left end for 13 yards (tackle by Erik Walden),-0.320,0.670
+3,12:03,1,10,PHI 26,6,17,"LeSean McCoy right end for 5 yards (tackle by Josh McNary). Penalty on Jordan Matthews: Offensive Holding, 10 yards (no play)",0.670,-0.300
+3,11:38,1,20,PHI 16,6,17,Nick Foles pass incomplete deep right intended for Jeremy Maclin,-0.300,-1.370
+3,11:32,2,20,PHI 16,6,17,Nick Foles pass complete short left to Darren Sproles for 8 yards (tackle by Josh McNary),-1.370,-0.820
+3,11:11,3,12,PHI 24,6,17,Nick Foles pass complete short middle to Jeremy Maclin for 9 yards (tackle by D'Qwell Jackson and LaRon Landry),-0.820,-1.180
+3,10:40,4,3,PHI 33,6,17,"Donnie Jones punts 41 yards, returned by Griff Whalen for 3 yards (tackle by Emmanuel Acho)",-1.180,-0.870
+3,10:28,1,10,IND 29,6,17,Ahmad Bradshaw left end for 1 yard (tackle by Bennie Logan),0.870,0.460
+3,9:52,2,9,IND 30,6,17,"Andrew Luck pass complete short left to Reggie Wayne for 9 yards (tackle by Cary Williams). Penalty on Cary Williams: Face Mask (15 Yards), 15 yards",0.460,2.520
+3,9:36,1,10,PHI 46,6,17,Andrew Luck pass incomplete,2.520,1.980
+3,9:30,2,10,PHI 46,6,17,Andrew Luck for 15 yards (tackle by Nate Allen),1.980,1.980
+3,8:54,2,10,PHI 46,6,17,Timeout #1 by Indianapolis Colts,1.980,3.510
+3,8:54,1,10,PHI 31,6,17,Ahmad Bradshaw left end for 5 yards (tackle by Connor Barwin),3.510,3.640
+3,8:26,2,5,PHI 26,6,17,Ahmad Bradshaw left tackle for 9 yards (tackle by Cary Williams and Malcolm Jenkins),3.640,4.440
+3,8:04,1,10,PHI 17,6,17,Ahmad Bradshaw right guard for 5 yards (tackle by Bennie Logan),4.440,4.690
+3,7:24,2,5,PHI 12,6,17,Andrew Luck pass incomplete short right intended for Reggie Wayne (defended by Bradley Fletcher),4.690,3.880
+3,7:18,3,5,PHI 12,6,17,Andrew Luck for 3 yards (tackle by Fletcher Cox),3.880,2.950
+3,6:47,4,2,PHI 9,6,20,Adam Vinatieri 27 yard field goal good,2.950,3.000
+3,6:47,,,IND 35,6,20,"Pat McAfee kicks off 65 yards, touchback",0.000,-0.280
+3,6:43,1,10,PHI 20,6,20,Nick Foles pass complete short left to Riley Cooper for 8 yards (tackle by Vontae Davis),0.280,0.810
+3,6:20,2,2,PHI 28,6,20,LeSean McCoy left end for 16 yards (tackle by LaRon Landry),0.810,1.860
+3,6:02,1,10,PHI 44,6,20,Nick Foles pass incomplete short left intended for Riley Cooper (defended by Vontae Davis),1.860,1.320
+3,5:55,2,10,PHI 44,6,20,LeSean McCoy right end for -1 yards (tackle by Josh Chapman),1.320,0.500
+3,5:15,3,11,PHI 43,6,20,Nick Foles pass complete deep middle to Zach Ertz for 21 yards (tackle by Mike Adams),0.500,3.180
+3,4:54,1,10,IND 36,6,20,"Nick Foles pass incomplete deep left intended for Riley Cooper. Penalty on Vontae Davis: Defensive Pass Interference, 35 yards (no play)",3.180,6.970
+3,4:47,1,1,IND 1,6,20,Nick Foles pass incomplete short middle intended for Brent Celek,6.970,5.910
+3,4:42,2,1,IND 1,12,20,"LeSean McCoy up the middle for 1 yard, touchdown",5.910,7.000
+3,4:42,,,IND 2,13,20,Cody Parkey kicks extra point good,0.000,0.000
+3,4:42,,,PHI 35,13,20,"Cody Parkey kicks off 65 yards, touchback. Penalty on Earl Wolff: Offside on Free Kick, 5 yards",0.000,-0.610
+3,4:32,1,10,IND 25,13,20,"Trent Richardson left tackle for 1 yard (tackle by Fletcher Cox). Trent Richardson fumbles (forced by Fletcher Cox), recovered by DeMeco Ryans at IND-26 (tackle by Jack Mewhort)",0.610,-3.840
+3,4:26,1,10,IND 26,13,20,"Penalty on Riley Cooper: False Start, 5 yards (no play)",3.840,3.510
+3,4:26,1,15,IND 31,13,20,Nick Foles pass incomplete deep left intended for Zach Ertz,3.510,2.620
+3,4:20,2,15,IND 31,13,20,Nick Foles pass incomplete short left intended for LeSean McCoy,2.620,1.950
+3,4:10,3,15,IND 31,13,20,LeSean McCoy up the middle for 21 yards (tackle by Darius Butler),1.950,4.910
+3,3:30,1,10,IND 10,13,20,LeSean McCoy up the middle for 1 yard (tackle by Josh Chapman),4.910,4.380
+3,2:56,2,9,IND 9,13,20,"Nick Foles pass incomplete short left intended for Riley Cooper. Penalty on Jason Kelce: Illegal Use of Hands, 10 yards (no play)",4.380,3.070
+3,2:52,2,19,IND 19,19,20,"Darren Sproles up the middle for 19 yards, touchdown",3.070,7.000
+3,2:52,,,IND 2,20,20,Cody Parkey kicks extra point good,0.000,0.000
+3,2:52,,,PHI 35,20,20,"Cody Parkey kicks off 65 yards, touchback",0.000,-0.280
+3,2:44,1,10,IND 20,20,20,Andrew Luck pass incomplete,0.280,-0.270
+3,2:40,2,10,IND 20,20,20,Andrew Luck pass complete short right to T.Y. Hilton for 12 yards (tackle by Bradley Fletcher),-0.270,1.070
+3,2:05,1,10,IND 32,20,20,Ahmad Bradshaw up the middle for 2 yards (tackle by Bennie Logan),1.070,0.800
+3,1:24,2,8,IND 34,20,20,Andrew Luck pass complete short middle to T.Y. Hilton for 11 yards (tackle by Brandon Boykin),0.800,1.930
+3,0:47,1,10,IND 45,20,20,Andrew Luck pass incomplete deep right intended for T.Y. Hilton,1.930,1.380
+3,0:39,2,10,IND 45,20,20,Andrew Luck pass complete short middle to Jack Doyle for 10 yards (tackle by DeMeco Ryans),1.380,2.590
+Quarter,Time,Down,ToGo,Location,PHI,IND,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,PHI 45,20,20,Ahmad Bradshaw right end for 2 yards (tackle by Cedric Thornton),2.590,2.310
+4,14:21,2,8,PHI 43,20,20,Andrew Luck pass complete short right to T.Y. Hilton for 13 yards (tackle by Malcolm Jenkins and Brandon Boykin),2.310,3.580
+4,13:51,1,10,PHI 30,20,20,Andrew Luck right tackle for 3 yards (tackle by DeMeco Ryans),3.580,3.440
+4,13:08,2,7,PHI 27,20,20,Andrew Luck pass complete short left to Donte Moncrief for 16 yards (tackle by Bradley Fletcher),3.440,4.840
+4,12:33,1,10,PHI 11,20,20,Andrew Luck pass complete short left to Ahmad Bradshaw for 4 yards (tackle by Cary Williams),4.840,4.890
+4,11:54,2,6,PHI 7,20,26,"Andrew Luck pass complete short right to Ahmad Bradshaw for 7 yards, touchdown",4.890,7.000
+4,11:54,,,PHI 2,20,27,Adam Vinatieri kicks extra point good,0.000,0.000
+4,11:54,,,IND 35,20,27,"Pat McAfee kicks off 65 yards, touchback",0.000,-0.280
+4,11:49,1,10,PHI 20,20,27,LeSean McCoy left end for 2 yards (tackle by Bjoern Werner),0.280,0.000
+4,11:24,2,8,PHI 22,20,27,Nick Foles right tackle for 7 yards (tackle by D'Qwell Jackson),0.000,0.230
+4,11:01,3,1,PHI 29,20,27,LeSean McCoy up the middle for -3 yards (tackle by Erik Walden),0.230,-1.630
+4,10:33,4,4,PHI 26,20,27,"Donnie Jones punts 59 yards, returned by Griff Whalen for 22 yards (tackle by Chris Polk)",-1.630,-1.400
+4,10:17,1,10,IND 37,20,27,Trent Richardson left tackle for 3 yards (tackle by Trent Cole),1.400,1.260
+4,9:34,2,7,IND 40,20,27,Andrew Luck pass complete short right to Trent Richardson for 16 yards (tackle by DeMeco Ryans),1.260,2.650
+4,8:48,1,10,PHI 44,20,27,Trent Richardson right tackle for 3 yards (tackle by DeMeco Ryans and Casey Matthews),2.650,2.520
+4,8:08,2,7,PHI 41,20,27,Trent Richardson left end for 2 yards (tackle by Casey Matthews and DeMeco Ryans),2.520,2.080
+4,7:23,3,5,PHI 39,20,27,Andrew Luck pass complete short right to T.Y. Hilton for 16 yards (tackle by Nolan Carroll),2.080,4.040
+4,6:38,1,10,PHI 23,20,27,Ahmad Bradshaw up the middle for 2 yards (tackle by Fletcher Cox),4.040,3.770
+4,5:56,2,8,PHI 21,20,27,Ahmad Bradshaw left tackle for -1 yards (tackle by DeMeco Ryans),3.770,2.940
+4,5:15,3,9,PHI 22,20,27,Andrew Luck pass incomplete short right intended for T.Y. Hilton is intercepted by Malcolm Jenkins at PHI-16 and returned for 8 yards,2.940,-0.540
+4,5:08,1,10,PHI 24,20,27,Nick Foles left end for 4 yards (tackle by Montori Hughes),0.540,0.540
+4,4:40,2,6,PHI 28,20,27,"LeSean McCoy right end for no gain (tackle by LaRon Landry). Penalty on LaRon Landry: Horse Collar Tackle, 15 yards (no play)",0.540,1.800
+4,4:33,1,10,PHI 43,20,27,Nick Foles pass incomplete deep right intended for Jeremy Maclin,1.800,1.250
+4,4:25,2,10,PHI 43,20,27,Nick Foles pass complete short right to Darren Sproles for 51 yards (tackle by Mike Adams),1.250,1.250
+4,3:30,2,10,PHI 43,20,27,Timeout #1 by Philadelphia Eagles,1.250,5.830
+4,3:30,1,6,IND 6,26,27,"Nick Foles pass complete short right to Jeremy Maclin for 6 yards, touchdown",5.830,7.000
+4,3:30,,,IND 2,27,27,Cody Parkey kicks extra point good,0.000,0.000
+4,3:30,,,PHI 35,27,27,"Cody Parkey kicks off 65 yards, touchback",0.000,-0.280
+4,3:25,1,10,IND 20,27,27,Trent Richardson right tackle for 6 yards (tackle by Cedric Thornton),0.280,0.540
+4,2:49,2,4,IND 26,27,27,Trent Richardson left tackle for -1 yards (tackle by Bennie Logan),0.540,-0.300
+4,2:12,3,5,IND 25,27,27,Andrew Luck pass incomplete short middle intended for Reggie Wayne,-0.300,-1.700
+4,2:07,4,5,IND 25,27,27,"Pat McAfee punts 43 yards, returned by Darren Sproles for 8 yards (tackle by Colt Anderson)",-1.700,-1.600
+4,1:56,1,10,PHI 40,27,27,Nick Foles pass complete deep left to Zach Ertz for 24 yards (tackle by Mike Adams),1.600,1.600
+4,1:21,1,10,PHI 40,27,27,Timeout #2 by Indianapolis Colts,1.600,3.180
+4,1:21,1,10,IND 36,27,27,Nick Foles pass complete short right to Darren Sproles for 17 yards (tackle by Darius Butler),3.180,4.310
+4,0:38,1,10,IND 19,27,27,LeSean McCoy up the middle for 1 yard (tackle by Ricky Jean-Francois),4.310,4.310
+4,0:03,1,10,IND 19,27,27,Timeout #2 by Philadelphia Eagles,4.310,4.310
+4,0:03,1,10,IND 19,27,27,Timeout #3 by Indianapolis Colts,4.310,3.880
+4,0:03,2,9,IND 18,30,27,Cody Parkey 36 yard field goal good,3.880,3.000
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

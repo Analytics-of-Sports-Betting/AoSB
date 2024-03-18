@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,CLE 22,5,2:57,18,Punt
+2,1,8:08,CLE 8,16,9:57,92,Touchdown
+3,2,11:01,CLE 19,7,3:00,48,Missed FG
+4,2,7:24,CLE 20,3,2:01,-5,Punt
+5,2,0:30,CLE 19,1,0:30,-1,End of Half
+6,3,13:20,CLE 36,4,1:54,17,Punt
+7,3,7:25,JAX 48,3,1:54,-4,Punt
+8,3,3:22,JAX 19,4,1:32,-1,Field Goal
+9,4,14:50,CLE 43,3,1:17,-1,Punt
+10,4,11:18,JAX 35,4,1:31,2,Missed FG
+11,4,3:34,CLE 20,8,0:48,57,Field Goal
+12,4,1:16,CLE 20,6,1:11,51,Interception

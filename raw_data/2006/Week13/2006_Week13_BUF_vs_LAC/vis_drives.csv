@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:04,SDG 42,8,3:52,34,Field Goal
+2,1,5:18,SDG 16,5,2:37,31,Punt
+3,1,1:40,SDG 41,2,0:34,59,Touchdown
+4,1,0:04,SDG 32,3,1:38,6,Punt
+5,2,11:23,SDG 46,7,2:52,36,Missed FG
+6,2,5:46,BUF 44,6,3:12,6,Punt
+7,2,0:54,BUF 43,5,0:30,43,Touchdown
+8,3,15:00,SDG 20,3,1:27,-1,Fumble
+9,3,11:33,SDG 24,3,1:29,-8,Punt
+10,3,8:09,SDG 21,6,4:15,2,Punt
+11,3,2:25,SDG 20,7,3:21,30,Punt
+12,4,11:32,SDG 20,13,8:06,80,Touchdown
+13,4,0:30,BUF 38,1,0:30,-1,End of Game

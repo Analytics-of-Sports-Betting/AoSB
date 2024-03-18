@@ -1,0 +1,171 @@
+Quarter,Time,Down,ToGo,Location,CAR,SFO,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Panthers won the coin toss and deferred, 49ers to receive the opening kickoff.",,
+1,15:00,,,CAR 35,0,0,"Graham Gano kicks off 73 yards, touchback",0.000,-0.280
+1,15:00,1,10,SFO 20,0,0,Frank Gore middle for 1 yard (tackle by Star Lotulelei),0.280,-0.130
+1,14:18,2,9,SFO 21,0,0,Colin Kaepernick pass complete short left to Bruce Miller for 10 yards (tackle by Luke Kuechly),-0.130,1.000
+1,13:43,1,10,SFO 31,0,0,Frank Gore left guard for 11 yards (tackle by Luke Kuechly),1.000,1.730
+1,13:06,1,10,SFO 42,0,0,Colin Kaepernick pass incomplete deep right intended for Anquan Boldin (defended by Captain Munnerlyn),1.730,1.730
+1,13:01,1,10,SFO 42,0,0,Timeout #1 by San Francisco 49ers,1.730,1.190
+1,13:01,2,10,SFO 42,0,0,Frank Gore middle for 17 yards (tackle by Quintin Mikell),1.190,2.850
+1,12:22,1,10,CAR 41,0,0,Frank Gore right tackle for 3 yards (tackle by Luke Kuechly),2.850,2.710
+1,11:50,2,7,CAR 38,0,0,Colin Kaepernick pass complete short left to Anquan Boldin for 5 yards (tackle by Melvin White),2.710,2.680
+1,11:28,3,2,CAR 33,0,0,Frank Gore right tackle for -1 yards (tackle by Charles Johnson),2.680,1.090
+1,10:51,4,3,CAR 34,0,3,Phil Dawson 53 yard field goal good,1.090,3.000
+1,10:51,,,SFO 35,0,3,"Phil Dawson kicks off 66 yards, returned by Ted Ginn for 23 yards (tackle by Michael Wilhoite)",0.000,-0.410
+1,10:39,1,10,CAR 22,0,3,Cam Newton pass incomplete short left intended for DeAngelo Williams (defended by Dan Skuta),0.410,-0.130
+1,10:34,2,10,CAR 22,0,3,DeAngelo Williams middle for 1 yard (tackle by Patrick Willis),-0.130,-0.690
+1,9:52,3,9,CAR 23,0,3,Cam Newton sacked by Ahmad Brooks for -12 yards,-0.690,-2.490
+1,9:18,4,21,CAR 11,0,3,"Brad Nortman punts 65 yards, returned by LaMichael James for 2 yards (tackle by Josh Thomas)",-2.490,-0.670
+1,9:07,1,10,SFO 26,0,3,LaMichael James left tackle for -1 yards (tackle by Luke Kuechly),0.670,-0.010
+1,8:26,2,11,SFO 25,0,3,Colin Kaepernick pass complete short right to Mario Manningham for 10 yards (tackle by Captain Munnerlyn),-0.010,0.630
+1,7:40,3,1,SFO 35,0,3,Frank Gore left guard for -1 yards (tackle by A.J. Klein),0.630,-1.110
+1,6:59,4,2,SFO 34,0,3,"Andy Lee punts 60 yards, returned by Ted Ginn for 21 yards (tackle by C.J. Spillman)",-1.110,-0.740
+1,6:45,1,10,CAR 27,0,3,Mike Tolbert middle for 4 yards (tackle by Glenn Dorsey and Ahmad Brooks),0.740,0.740
+1,6:05,2,6,CAR 31,0,3,Cam Newton pass complete short left to Brandon LaFell for 5 yards (tackle by Tarell Brown),0.740,0.700
+1,5:37,3,1,CAR 36,0,3,Mike Tolbert middle for 3 yards (tackle by NaVorro Bowman),0.700,1.530
+1,4:55,1,10,CAR 39,0,3,Jonathan Stewart right guard for 6 yards (tackle by NaVorro Bowman),1.530,1.800
+1,4:16,2,4,CAR 45,0,3,Jonathan Stewart right end for no gain (tackle by Patrick Willis and Justin Smith),1.800,1.090
+1,3:33,3,4,CAR 45,0,3,Cam Newton right tackle for 5 yards (tackle by Ray McDonald),1.090,2.260
+1,2:50,1,10,,0,3,Cam Newton pass incomplete short right intended for DeAngelo Williams,2.260,1.710
+1,2:45,2,10,,0,3,Cam Newton pass incomplete short left intended for Greg Olsen,1.710,1.030
+1,2:40,3,10,,0,3,Cam Newton pass incomplete deep left intended for Steve Smith,1.030,-0.060
+1,2:31,4,10,,0,3,Brad Nortman punts 26 yards,-0.060,-0.540
+1,2:23,1,10,SFO 24,0,3,Colin Kaepernick sacked by Dwan Edwards for -4 yards,0.540,-0.540
+1,1:51,2,14,SFO 20,0,3,Frank Gore right tackle for 5 yards (tackle by Dwan Edwards),-0.540,-0.560
+1,1:06,3,9,SFO 25,0,3,Colin Kaepernick middle for 5 yards (tackle by Luke Kuechly),-0.560,-1.370
+1,0:28,4,4,SFO 30,0,3,"Andy Lee punts 22 yards, muffed catch by Drayton Florence, recovered by Eric Reid and returned for no gain",-1.370,2.850
+1,0:17,1,10,CAR 41,0,3,Colin Kaepernick pass complete short middle to Frank Gore for 11 yards (tackle by A.J. Klein and Thomas Davis),2.850,3.580
+Quarter,Time,Down,ToGo,Location,CAR,SFO,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,CAR 30,0,3,Frank Gore left guard for 3 yards (tackle by Luke Kuechly),3.580,3.440
+2,14:21,2,7,CAR 27,0,3,Colin Kaepernick pass incomplete short left intended for Mario Manningham,3.440,2.740
+2,14:14,3,7,CAR 27,0,3,Colin Kaepernick pass complete short left to Vernon Davis for 2 yards (tackle by Melvin White),2.740,1.850
+2,13:38,4,5,CAR 25,0,6,Phil Dawson 43 yard field goal good,1.850,3.000
+2,13:38,,,SFO 35,0,6,"Phil Dawson kicks off 65 yards, touchback",0.000,-0.280
+2,13:34,1,10,CAR 20,0,6,Cam Newton pass incomplete short left intended for Steve Smith,0.280,-0.270
+2,13:28,2,10,CAR 20,0,6,Jonathan Stewart middle for 7 yards (tackle by Justin Smith),-0.270,-0.030
+2,12:48,3,3,CAR 27,0,6,Cam Newton pass incomplete short left intended for Brandon LaFell (defended by Tarell Brown),-0.030,-1.570
+2,12:43,4,3,CAR 27,0,6,"Brad Nortman punts 59 yards, returned by LaMichael James for 18 yards (tackle by Chase Blackburn)",-1.570,-1.070
+2,12:33,1,10,SFO 32,0,6,Colin Kaepernick sacked by A.J. Klein for -14 yards. Penalty on Colin Kaepernick: Face Mask (15 Yards) (Declined),1.070,-1.470
+2,11:58,2,24,SFO 18,0,6,Frank Gore right guard for 1 yard (tackle by A.J. Klein),-1.470,-2.010
+2,11:21,3,23,SFO 19,0,6,Colin Kaepernick pass complete short left to Kyle Williams for 5 yards (tackle by Thomas Davis),-2.010,-1.770
+2,10:41,4,18,SFO 24,0,6,"Andy Lee punts 52 yards, returned by Ted Ginn for 19 yards (tackle by Raymond Ventrone)",-1.770,-1.800
+2,10:31,1,10,CAR 43,0,6,DeAngelo Williams left guard for 3 yards (tackle by Ray McDonald),1.800,1.660
+2,9:54,2,7,CAR 46,0,6,Cam Newton pass complete short right to Ted Ginn for 8 yards (tackle by Carlos Rogers),1.660,2.520
+2,9:19,1,10,SFO 46,0,6,Cam Newton pass incomplete deep left intended for Brandon LaFell (defended by Tarell Brown),2.520,1.980
+2,9:16,2,10,SFO 46,0,6,"Penalty on Cam Newton: Delay of Game, 5 yards (no play)",1.980,1.300
+2,9:15,2,15,CAR 49,0,6,Cam Newton pass incomplete short left intended for Ted Ginn,1.300,1.300
+2,9:10,2,15,CAR 49,0,6,Timeout #1 by Carolina Panthers,1.300,0.630
+2,9:10,3,15,CAR 49,0,6,Cam Newton pass incomplete deep right intended for Steve Smith is intercepted by Tramaine Brock at SFO-35 and returned for 41 yards,0.630,-3.970
+2,8:58,1,10,CAR 24,0,6,Frank Gore left tackle for 13 yards (tackle by Thomas Davis),3.970,3.970
+2,8:10,1,10,CAR 24,0,6,Timeout #2 by San Francisco 49ers,3.970,4.840
+2,8:10,1,10,CAR 11,0,6,Frank Gore left end for 5 yards (tackle by Greg Hardy),4.840,5.080
+2,7:26,2,5,CAR 6,0,6,Colin Kaepernick pass incomplete short right intended for Vernon Davis (defended by Michael Mitchell),5.080,4.210
+,,,,,,,"CAR challenged the incomplete pass ruling, and the play was upheld.",,
+2,7:19,3,5,CAR 6,0,6,Frank Gore right guard for 4 yards (tackle by Charles Johnson),4.210,4.210
+2,6:21,3,5,CAR 6,0,6,Timeout #3 by Carolina Panthers,4.210,3.250
+2,6:21,4,1,CAR 2,0,6,--,3.250,2.980
+2,6:20,4,6,CAR 7,0,9,Phil Dawson 25 yard field goal good,2.980,3.000
+2,6:20,,,SFO 35,0,9,"Phil Dawson kicks off 64 yards, returned by Ted Ginn for 19 yards (tackle by Darryl Morris)",0.000,-0.280
+2,6:10,1,10,CAR 20,0,9,Jonathan Stewart left tackle for no gain (tackle by Dan Skuta and Patrick Willis),0.280,-0.270
+2,5:31,2,10,CAR 20,0,9,Cam Newton right guard for 3 yards (tackle by Justin Smith),-0.270,-0.560
+2,4:45,3,7,CAR 23,0,9,Cam Newton pass complete short middle to Brandon LaFell for 17 yards (tackle by Patrick Willis),-0.560,1.600
+2,4:04,1,10,CAR 40,0,9,Cam Newton right end for 2 yards (tackle by Ahmad Brooks),1.600,1.320
+2,3:29,2,8,CAR 42,0,9,Cam Newton pass complete short left to Brandon LaFell for 10 yards (tackle by Carlos Rogers),1.320,2.390
+2,2:46,1,10,SFO 48,0,9,DeAngelo Williams right guard for 7 yards (tackle by Tony Jerod-Eddie and Donte Whitner),2.390,2.790
+2,2:12,2,3,SFO 41,0,9,Cam Newton pass complete short middle to Greg Olsen for 14 yards (tackle by Donte Whitner),2.790,3.780
+2,1:59,1,10,SFO 27,6,9,"DeAngelo Williams middle for 27 yards, touchdown",3.780,7.000
+2,1:59,,,SFO 2,7,9,Graham Gano kicks extra point good,0.000,0.000
+2,1:59,,,CAR 35,7,9,"Graham Gano kicks off 65 yards, touchback",0.000,-0.280
+2,1:52,1,10,SFO 20,7,9,Colin Kaepernick pass complete short right to Anquan Boldin for 9 yards (tackle by Luke Kuechly),0.280,0.950
+2,1:17,2,1,SFO 29,7,9,Colin Kaepernick pass incomplete short right intended for Kendall Hunter (defended by Drayton Florence),0.950,0.230
+2,1:10,3,1,SFO 29,7,9,Kendall Hunter right end for 3 yards (tackle by Luke Kuechly),0.230,1.070
+2,1:04,1,10,SFO 32,7,9,Colin Kaepernick sacked by Michael Mitchell and Charles Johnson for -8 yards,1.070,-0.550
+2,0:36,2,18,SFO 24,7,9,Colin Kaepernick left end for 1 yard (tackle by Captain Munnerlyn),-0.550,-1.090
+2,0:30,3,17,SFO 25,7,9,Kendall Hunter left guard for 11 yards (tackle by Charles Johnson and Michael Mitchell),-1.090,-0.980
+Quarter,Time,Down,ToGo,Location,CAR,SFO,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,SFO 35,7,9,"Phil Dawson kicks off 65 yards, touchback",0.000,-0.280
+3,15:00,1,10,CAR 20,7,9,DeAngelo Williams left guard for 2 yards (tackle by NaVorro Bowman),0.280,0.000
+3,14:18,2,8,CAR 22,7,9,Cam Newton pass complete short left to Steve Smith for 9 yards (tackle by Tarell Brown),0.000,1.000
+3,13:36,1,10,CAR 31,7,9,Cam Newton pass complete short middle to Brandon LaFell for 16 yards (tackle by Tarell Brown),1.000,2.060
+3,12:59,1,10,CAR 47,7,9,Cam Newton pass incomplete short left intended for Ted Ginn (defended by Ahmad Brooks),2.060,1.520
+3,12:53,2,10,CAR 47,7,9,Cam Newton middle for -2 yards (tackle by Ahmad Brooks),1.520,0.560
+3,12:13,3,12,CAR 45,7,9,Cam Newton pass incomplete deep middle intended for Steve Smith,0.560,-0.390
+3,12:07,4,12,CAR 45,7,9,"Brad Nortman punts 41 yards, returned by LaMichael James for 15 yards (tackle by Jason Williams)",-0.390,-0.870
+3,11:57,1,10,SFO 29,7,9,Colin Kaepernick pass complete short left to Anquan Boldin for 9 yards (tackle by Quintin Mikell),0.870,1.540
+3,11:17,2,1,SFO 38,7,9,Colin Kaepernick left end for -6 yards (tackle by Greg Hardy),1.540,0.040
+3,10:44,3,7,SFO 32,7,9,"Penalty on Anthony Davis: False Start, 5 yards (no play)",0.040,-0.630
+3,10:16,3,12,SFO 27,7,9,Colin Kaepernick pass complete short middle to Frank Gore for 10 yards (tackle by Luke Kuechly),-0.630,-0.910
+3,9:33,4,2,SFO 37,7,9,"Andy Lee punts 52 yards, returned by Brandon LaFell for no gain",-0.910,0.370
+3,9:25,1,10,CAR 11,7,9,Jonathan Stewart middle for 5 yards (tackle by Justin Smith),-0.370,-0.300
+3,8:47,2,5,CAR 16,7,9,Cam Newton pass incomplete short right intended for Brandon LaFell,-0.300,-0.840
+3,8:40,3,5,CAR 16,7,9,Cam Newton pass complete short middle to Mike Tolbert for 17 yards (tackle by Eric Reid),-0.840,1.140
+3,8:06,1,10,CAR 33,7,9,Cam Newton pass complete short middle to Domenik Hixon for 9 yards (tackle by Donte Whitner),1.140,1.810
+3,7:24,2,1,CAR 42,7,9,Jonathan Stewart right guard for 2 yards (tackle by NaVorro Bowman),1.810,1.860
+3,6:41,1,10,CAR 44,7,9,Cam Newton pass incomplete short right intended for Steve Smith,1.860,1.320
+3,6:38,2,10,CAR 44,7,9,Cam Newton pass complete deep middle to Steve Smith for 19 yards (tackle by Donte Whitner),1.320,3.120
+3,5:54,1,10,SFO 37,7,9,Jonathan Stewart left guard for 3 yards (tackle by Patrick Willis),3.120,2.980
+3,5:10,2,7,SFO 34,7,9,Cam Newton sacked by Patrick Willis for -8 yards,2.980,1.220
+3,4:29,3,15,SFO 42,7,9,Cam Newton pass complete short left to Steve Smith for 12 yards (tackle by NaVorro Bowman and Donte Whitner),1.220,1.480
+3,3:46,4,3,SFO 30,7,9,Graham Gano 48 yard field goal no good,1.480,-1.470
+3,3:41,1,10,SFO 38,7,9,Frank Gore left guard for 14 yards (tackle by Michael Mitchell),1.470,2.390
+3,2:57,1,10,CAR 48,7,9,"Penalty on Greg Hardy: Neutral Zone Infraction, 5 yards (no play)",2.390,3.120
+3,2:31,1,5,CAR 43,7,9,Frank Gore left tackle for 4 yards (tackle by Luke Kuechly),3.120,3.060
+3,1:55,2,1,CAR 39,7,9,"Kendall Hunter right guard for -6 yards (tackle by Thomas Davis). Kendall Hunter fumbles (forced by Thomas Davis), recovered by Quintin Mikell at CAR-45 (tackle by Colin Kaepernick). Penalty on Alex Boone: Offensive Holding (Declined)",3.060,-1.930
+3,1:47,1,10,CAR 45,7,9,DeAngelo Williams middle for 3 yards (tackle by Demarcus Dobbs),1.930,1.790
+3,1:04,2,7,CAR 48,7,9,DeAngelo Williams middle for 4 yards (tackle by NaVorro Bowman),1.790,1.620
+3,0:24,3,3,SFO 48,7,9,Cam Newton pass incomplete short right intended for Mike Tolbert (defended by Demarcus Dobbs),1.620,0.070
+3,0:20,4,3,SFO 48,7,9,"Brad Nortman punts 35 yards, out of bounds",0.070,0.320
+3,0:13,1,10,SFO 13,7,9,"Colin Kaepernick middle for 16 yards (tackle by Thomas Davis). Penalty on Quintin Mikell: Unnecessary Roughness, 15 yards",-0.320,1.860
+Quarter,Time,Down,ToGo,Location,CAR,SFO,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,SFO 44,7,9,"Penalty on Anquan Boldin: False Start, 5 yards (no play)",1.860,1.530
+4,15:00,1,15,SFO 39,7,9,Colin Kaepernick pass incomplete short left intended for Mario Manningham,1.530,0.640
+4,14:58,2,15,SFO 39,7,9,Colin Kaepernick pass incomplete deep middle intended for Vance McDonald (defended by Luke Kuechly),0.640,-0.030
+4,14:52,3,15,SFO 39,7,9,"Colin Kaepernick pass complete short middle to Mario Manningham for 14 yards (tackle by Thomas Davis and Drayton Florence). Penalty on Anquan Boldin: Offensive Pass Interference, 10 yards (no play)",-0.030,-1.350
+4,14:23,3,25,SFO 29,7,9,Colin Kaepernick sacked by Charles Johnson for -4 yards,-1.350,-1.700
+4,13:47,4,29,SFO 25,7,9,"Andy Lee punts 44 yards, returned by Ted Ginn for 25 yards (tackle by Michael Wilhoite)",-1.700,-2.650
+4,13:35,1,10,SFO 44,7,9,Cam Newton pass incomplete deep left intended for Greg Olsen (defended by Dan Skuta),2.650,2.110
+4,13:29,2,10,SFO 44,7,9,Jonathan Stewart right tackle for 4 yards (tackle by Glenn Dorsey and Tony Jerod-Eddie),2.110,1.950
+4,12:42,3,6,SFO 40,7,9,Cam Newton pass complete short right to Steve Smith for 8 yards (tackle by Tramaine Brock),1.950,3.450
+4,12:13,1,10,SFO 32,7,9,DeAngelo Williams left end for -1 yards (tackle by Glenn Dorsey and Dan Skuta),3.450,3.450
+4,11:30,1,10,SFO 32,7,9,Timeout #1 by Carolina Panthers,3.450,2.770
+4,11:30,2,11,SFO 33,7,9,Cam Newton sacked by Ahmad Brooks for -8 yards,2.770,1.030
+4,10:48,3,19,SFO 41,7,9,Cam Newton pass complete short left to Steve Smith for 6 yards (tackle by Tarell Brown),1.030,0.970
+4,10:10,4,13,SFO 35,10,9,Graham Gano 53 yard field goal good,0.970,3.000
+4,10:10,,,CAR 35,10,9,"Graham Gano kicks off 71 yards, returned by Anthony Dixon for 18 yards (tackle by Jordan Senn)",0.000,0.350
+4,9:59,1,10,SFO 12,10,9,Frank Gore left guard for 3 yards (tackle by A.J. Klein),-0.350,-0.500
+4,9:15,2,7,SFO 15,10,9,Colin Kaepernick pass incomplete short left intended for Vance McDonald,-0.500,-1.070
+4,9:08,3,7,SFO 15,10,9,Colin Kaepernick pass incomplete deep right intended for Anquan Boldin,-1.070,-2.440
+4,9:03,4,7,SFO 15,10,9,Andy Lee punts 48 yards,-2.440,-1.400
+4,8:51,1,10,CAR 37,10,9,Jonathan Stewart right tackle for 3 yards (tackle by Tony Jerod-Eddie),1.400,1.260
+4,8:15,2,7,CAR 40,10,9,Cam Newton pass incomplete short right intended for Brandon LaFell,1.260,0.560
+4,8:10,3,7,CAR 40,10,9,Cam Newton pass complete short left to Ted Ginn for 11 yards,0.560,2.320
+4,7:43,1,10,SFO 49,10,9,Cam Newton pass complete short left to Mike Tolbert for -1 yards (tackle by Patrick Willis),2.320,1.650
+4,6:59,2,11,,10,9,Jonathan Stewart right tackle for 3 yards (tackle by Tony Jerod-Eddie),1.650,1.360
+4,6:17,3,8,SFO 47,10,9,Cam Newton left tackle for 6 yards (tackle by Craig Dahl),1.360,0.530
+4,5:34,4,2,SFO 41,10,9,Brad Nortman punts 40 yards,0.530,0.380
+4,5:25,1,10,SFO 1,10,9,Colin Kaepernick pass incomplete short right intended for Bruce Miller,-0.380,-0.780
+4,5:19,2,10,SFO 1,10,9,Frank Gore left guard for no gain (tackle by Greg Hardy),-0.780,-1.420
+4,4:39,3,10,SFO 1,10,9,Colin Kaepernick pass complete short left to Mario Manningham for 14 yards (tackle by Michael Mitchell),-1.420,-0.220
+4,4:02,1,10,SFO 15,10,9,Colin Kaepernick sacked by Luke Kuechly for -9 yards,-0.220,-1.440
+4,3:29,2,19,SFO 6,10,9,Colin Kaepernick pass complete short left to Mario Manningham for 6 yards (tackle by Captain Munnerlyn),-1.440,-1.770
+4,2:45,3,13,SFO 12,10,9,Colin Kaepernick pass incomplete deep left intended for Kyle Williams,-1.770,-2.490
+4,2:35,4,13,SFO 12,10,9,"Andy Lee punts 56 yards, fair catch by Ted Ginn",-2.490,-1.070
+4,2:27,1,10,CAR 32,10,9,Jonathan Stewart right guard for 3 yards (tackle by NaVorro Bowman),1.070,1.070
+4,2:21,1,10,CAR 32,10,9,Timeout #1 by San Francisco 49ers,1.070,0.930
+4,2:21,2,7,CAR 35,10,9,Jonathan Stewart middle for -1 yards (tackle by Justin Smith and Dan Skuta),0.930,0.930
+4,2:18,2,7,CAR 35,10,9,Timeout #2 by San Francisco 49ers,0.930,0.100
+4,2:18,3,8,CAR 34,10,9,Cam Newton pass complete short left to Steve Smith for 9 yards,0.100,1.800
+4,2:12,1,10,CAR 43,10,9,"Jonathan Stewart left tackle for 6 yards (tackle by Donte Whitner). Jonathan Stewart fumbles (forced by Donte Whitner), recovered by Mike Tolbert at CAR-49",1.800,2.060
+4,2:00,2,4,CAR 49,10,9,Cam Newton right tackle for 2 yards (tackle by Glenn Dorsey),2.060,2.060
+4,1:54,2,4,CAR 49,10,9,Timeout #3 by San Francisco 49ers,2.060,1.620
+4,1:54,3,2,SFO 49,10,9,"Cam Newton for no gain. Cam Newton fumbles, recovered by Cam Newton at CAR-46",1.620,1.620
+4,1:10,3,2,SFO 49,10,9,Timeout #2 by Carolina Panthers,1.620,-0.320
+4,1:10,4,7,CAR 46,10,9,"Brad Nortman punts 54 yards, touchback",-0.320,-0.280
+4,1:02,1,10,SFO 20,10,9,Colin Kaepernick sacked by Dwan Edwards for -6 yards,0.280,-1.180
+4,0:37,2,16,SFO 14,10,9,Colin Kaepernick pass incomplete deep right intended for Mario Manningham is intercepted by Drayton Florence at SFO-42 and returned for 2 yards,-1.180,-2.920
+4,0:23,1,10,SFO 40,10,9,Cam Newton kneels for -1 yards,2.920,2.240
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

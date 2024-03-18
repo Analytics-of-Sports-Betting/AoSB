@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,12:50,CIN 39,6,3:28,17,Punt
+2,1,3:33,CIN 25,5,3:03,14,Punt
+3,2,12:12,CIN 20,12,6:16,80,Touchdown
+4,2,4:38,BAL 31,6,2:48,31,Touchdown
+5,2,0:11,CIN 26,1,0:11,-1,End of Half
+6,3,15:00,CIN 20,6,3:15,38,Fumble
+7,3,10:18,CIN 9,11,5:49,61,Missed FG
+8,4,12:46,CIN 9,12,6:41,91,Touchdown
+9,4,1:55,CIN 13,5,1:55,9,End of Game

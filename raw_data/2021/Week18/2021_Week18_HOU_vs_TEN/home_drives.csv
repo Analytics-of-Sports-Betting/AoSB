@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,HOU 18,9,4:16,25,Punt
+2,1,9:03,TEN 44,3,0:55,3,Punt
+3,1,1:22,HOU 32,4,2:11,18,Punt
+4,2,7:40,HOU 25,6,3:20,18,Punt
+5,2,1:34,HOU 22,3,0:50,5,Punt
+6,2,0:11,HOU 18,1,0:11,-2,End of Half
+7,3,13:28,HOU 28,8,3:42,72,Touchdown
+8,3,6:18,HOU 35,8,4:04,52,Field Goal
+9,3,0:41,HOU 18,8,4:01,82,Touchdown
+10,4,7:00,HOU 25,7,2:56,75,Touchdown

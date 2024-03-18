@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,DET 34,4,2:06,23,Punt
+2,1,11:55,PHI 45,6,3:19,16,Missed FG
+3,1,3:11,DET 30,3,2:08,-12,Punt
+4,2,12:50,DET 25,9,5:09,10,Punt
+5,2,2:51,DET 25,12,2:43,49,Downs
+6,3,9:02,DET 25,5,3:02,33,Downs
+7,3,1:20,DET 25,1,0:11,8,Fumble
+8,3,1:09,DET 25,4,1:54,6,Downs
+9,4,9:53,DET 33,11,2:39,67,Touchdown
+10,4,1:49,DET 21,4,1:49,13,End of Game

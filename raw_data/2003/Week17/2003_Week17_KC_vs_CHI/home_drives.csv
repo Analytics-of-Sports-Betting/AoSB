@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,KAN 44,3,2:08,9,Punt
+2,1,10:28,KAN 23,6,3:34,19,Punt
+3,1,4:07,KAN 49,11,5:27,51,Touchdown
+4,2,11:26,KAN 42,8,4:19,58,Touchdown
+5,2,5:56,KAN 47,3,1:41,-1,Punt
+6,2,2:32,KAN 43,4,1:13,36,Interception
+7,3,9:24,KAN 38,3,1:59,-5,Punt
+8,3,6:43,CHI 35,3,2:11,-5,Punt
+9,3,3:13,CHI 28,5,2:15,28,Touchdown
+10,4,13:20,KAN 7,8,3:17,73,Field Goal
+11,4,8:34,KAN 33,9,4:54,67,Touchdown
+12,4,1:25,KAN 18,3,1:25,-2,End of Game

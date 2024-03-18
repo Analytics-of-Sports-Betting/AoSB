@@ -1,0 +1,181 @@
+Quarter,Time,Down,ToGo,Location,PHI,DET,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Lions won the coin toss, Lions to receive the opening kickoff.",,
+1,15:00,,,PHI 30,0,0,"David Akers kicks off 67 yards, returned by Eddie Drummond for 19 yards (tackle by Jeremiah Trotter)",0.000,0.410
+1,14:53,1,10,DET 22,0,0,Kevin Jones right end for -1 yards (tackle by Mark Simoneau and Jevon Kearse),0.410,-0.270
+1,14:14,2,11,DET 21,0,0,Kevin Jones right end for 2 yards (tackle by Lito Sheppard and Dhani Jones),-0.270,-0.690
+1,13:35,3,9,DET 23,0,0,Joey Harrington pass incomplete intended for Stephen Alexander,-0.690,-1.830
+1,13:28,4,9,DET 23,0,0,"Nick Harris punts 51 yards, returned by Reno Mahe for 5 yards (tackle by Teddy Lehman)",-1.830,-1.000
+1,13:15,1,10,PHI 31,0,0,Donovan McNabb pass complete to Terrell Owens for 6 yards (tackle by Teddy Lehman),1.000,1.270
+1,12:35,2,4,PHI 37,0,0,Donovan McNabb pass complete to Freddie Mitchell for 9 yards (tackle by Keith Smith),1.270,1.990
+1,11:58,1,10,PHI 46,0,0,Brian Westbrook left end for 1 yard (tackle by Earl Holmes),1.990,1.590
+1,11:17,2,9,PHI 47,0,0,Brian Westbrook right tackle for 2 yards (tackle by Earl Holmes and James Davis),1.590,1.160
+1,10:31,3,7,PHI 49,0,0,Donovan McNabb pass incomplete intended for Todd Pinkston,1.160,-0.130
+1,10:26,4,7,PHI 49,0,0,"Dirk Johnson punts 51 yards, touchback",-0.130,-0.280
+1,10:17,1,10,DET 20,0,0,Joey Harrington pass complete to Tai Streets for 8 yards (tackle by Dhani Jones),0.280,0.810
+1,9:43,2,2,DET 28,0,0,Kevin Jones left tackle for 5 yards (tackle by Corey Simon),0.810,1.140
+1,9:04,1,10,DET 33,0,0,Kevin Jones right end for 2 yards (tackle by Nate Wayne),1.140,0.860
+1,8:18,2,8,DET 35,0,0,Artose Pinner right end for 6 yards (tackle by Brian Dawkins and Mark Simoneau),0.860,0.960
+1,7:34,3,2,DET 41,0,0,Joey Harrington pass complete to Stephen Alexander for 1 yard (tackle by Michael Lewis),0.960,-0.590
+1,6:50,4,1,DET 42,0,0,"Nick Harris punts 46 yards, fair catch by Reno Mahe",-0.590,0.350
+1,6:42,1,10,PHI 12,0,0,Donovan McNabb pass complete to L.J. Smith for 6 yards (tackle by Earl Holmes),-0.350,-0.070
+1,6:07,2,4,PHI 18,0,0,"Penalty on Artis Hicks: False Start, 5 yards (no play)",-0.070,-0.700
+1,5:50,2,9,PHI 13,0,0,Brian Westbrook right end for no gain (tackle by Teddy Lehman),-0.700,-1.300
+1,5:09,3,9,PHI 13,0,0,Donovan McNabb pass complete to L.J. Smith for 25 yards (tackle by Chris Cash),-1.300,1.470
+1,4:20,1,10,PHI 38,0,0,Donovan McNabb pass complete to Chad Lewis for 5 yards (tackle by Teddy Lehman),1.470,1.600
+1,3:43,2,5,PHI 43,0,0,Donovan McNabb pass complete to Freddie Mitchell for 48 yards (tackle by Brock Marion),1.600,5.140
+1,2:55,1,9,DET 9,0,0,Donovan McNabb pass complete to Terrell Owens for 4 yards (tackle by Chris Cash),5.140,5.150
+1,2:29,2,5,DET 5,0,0,"Donovan McNabb pass incomplete intended for Todd Pinkston. Penalty on Chris Cash: Defensive Pass Interference, 4 yards (no play)",5.150,6.970
+1,2:23,1,1,DET 1,0,0,Donovan McNabb pass incomplete intended for Brian Westbrook. Penalty on James Davis: Defensive Pass Interference (no play),6.970,6.970
+1,2:17,1,1,DET 1,6,0,"Donovan McNabb up the middle for 1 yard, touchdown",6.970,7.000
+1,,,,DET 2,7,0,David Akers kicks extra point good,0.000,0.000
+1,,,,PHI 30,7,0,"David Akers kicks off 67 yards, returned by Eddie Drummond for 20 yards (tackle by Quintin Mikell)",0.000,0.480
+1,2:02,1,10,DET 23,7,0,Joey Harrington pass incomplete intended for Tai Streets (defended by Brian Dawkins),0.480,-0.070
+1,1:56,2,10,DET 23,7,0,"Penalty on Roderick Hood: Defensive Offside (Offsetting), Penalty on Stockar McDougle: Offensive Holding (Offsetting) (no play)",-0.070,-0.070
+1,1:46,2,10,DET 23,7,0,Joey Harrington pass incomplete intended for Roy E. Williams (defended by Corey Simon),-0.070,-0.760
+1,1:43,3,10,DET 23,7,0,"Joey Harrington sacked for -2 yards. Joey Harrington fumbles, recovered by Roderick Hood at DET-29 (tackle by Shawn Bryson)",-0.760,-3.640
+1,1:34,1,10,DET 29,13,0,"Donovan McNabb pass complete to Terrell Owens for 29 yards, touchdown",3.640,7.000
+1,,,,DET 2,14,0,David Akers kicks extra point good,0.000,0.000
+1,,,,PHI 30,14,0,"David Akers kicks off 74 yards, returned by Eddie Drummond for 23 yards (tackle by Quintin Mikell)",0.000,0.150
+1,1:21,1,10,DET 19,14,0,Artose Pinner right end for 7 yards (tackle by Michael Lewis),0.150,0.610
+1,0:42,2,3,DET 26,14,0,Artose Pinner up the middle for 5 yards (tackle by Sheldon Brown and Hollis Thomas),0.610,1.000
+Quarter,Time,Down,ToGo,Location,PHI,DET,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,DET 31,14,0,Artose Pinner left tackle for no gain (tackle by Jevon Kearse),1.000,0.460
+2,14:28,2,10,DET 31,14,0,Joey Harrington pass incomplete intended for Roy E. Williams,0.460,-0.230
+2,14:19,3,10,DET 31,14,0,Joey Harrington pass complete to Roy E. Williams for 8 yards (tackle by Michael Lewis),-0.230,-0.780
+2,13:48,4,2,DET 39,14,0,"Nick Harris punts 48 yards, returned by Reno Mahe for no gain",-0.780,0.320
+2,13:34,1,10,PHI 13,14,0,Brian Westbrook up the middle for -3 yards (tackle by James Davis and Teddy Lehman),-0.320,-1.000
+2,12:52,2,13,PHI 10,14,0,Donovan McNabb pass complete to Chad Lewis for 6 yards (tackle by Alex Lewis),-1.000,-1.060
+2,12:05,3,7,PHI 16,14,0,"Penalty on Jermane Mayberry: False Start, 5 yards (no play)",-1.060,-1.650
+2,11:47,3,12,PHI 11,14,0,Donovan McNabb pass complete to Brian Westbrook for 14 yards (tackle by Shaun Rogers),-1.650,0.610
+2,11:05,1,10,PHI 25,14,0,Donovan McNabb pass complete to Greg Lewis for 13 yards (tackle by Brock Marion),0.610,1.470
+2,10:27,1,10,PHI 38,14,0,Donovan McNabb pass complete to Todd Pinkston for 6 yards (tackle by James Davis),1.470,1.730
+2,9:44,2,4,PHI 44,14,0,Brian Westbrook left end for no gain (tackle by Earl Holmes and Brock Marion),1.730,1.020
+2,9:05,3,4,PHI 44,14,0,Donovan McNabb pass complete to L.J. Smith for 16 yards,1.020,2.920
+2,8:24,1,10,DET 40,14,0,Donovan McNabb pass incomplete intended for Terrell Owens (defended by Fernando Bryant),2.920,2.370
+2,8:17,2,10,DET 40,14,0,Donovan McNabb pass complete to Brian Westbrook for 2 yards (tackle by Chris Cash),2.370,1.950
+2,7:33,3,8,DET 38,14,0,Donovan McNabb pass complete to Freddie Mitchell for 14 yards,1.950,3.970
+2,6:53,1,10,DET 24,14,0,Brian Westbrook right tackle for 23 yards (tackle by Fernando Bryant and Brock Marion),3.970,6.970
+2,6:05,1,1,DET 1,20,0,"Donovan McNabb pass complete to Mike Bartrum for 1 yard, touchdown. Penalty on Mike Bartrum: Taunting, 15 yards",6.970,7.000
+2,,,,DET 2,21,0,David Akers kicks extra point good,0.000,0.000
+2,,,,PHI 15,21,0,"David Akers kicks off 80 yards, returned by Eddie Drummond for 18 yards (tackle by Quintin Mikell)",0.000,0.480
+2,5:53,1,10,DET 23,21,0,Joey Harrington pass complete to Artose Pinner for 3 yards (tackle by Lito Sheppard),0.480,0.340
+2,5:16,2,7,DET 26,21,0,Shawn Bryson up the middle for 9 yards (tackle by Michael Lewis),0.340,1.270
+2,4:37,1,10,DET 35,21,0,Joey Harrington pass complete to Artose Pinner for 5 yards (tackle by Mark Simoneau),1.270,1.400
+2,3:55,2,5,DET 40,21,0,Joey Harrington pass complete to Roy E. Williams for 7 yards (tackle by Corey Simon),1.400,2.060
+2,3:27,1,10,DET 47,21,0,Shawn Bryson right tackle for 3 yards (tackle by Keith Adams),2.060,1.920
+2,2:54,2,7,DET 50,21,0,Joey Harrington pass incomplete intended for Roy E. Williams,1.920,1.220
+2,2:48,3,7,DET 50,21,0,Joey Harrington sacked by Jevon Kearse for -10 yards,1.220,-0.720
+2,2:20,4,17,DET 40,21,0,"Nick Harris punts 51 yards, returned by Reno Mahe for 3 yards (tackle by Terrence Holt)",-0.720,0.350
+2,2:10,1,10,PHI 12,21,0,Donovan McNabb pass complete to Todd Pinkston for 7 yards (tackle by Chris Cash),-0.350,0.100
+2,2:04,,,,21,0,Timeout #1 by Detroit Lions,0.000,0.100
+2,2:04,2,3,PHI 19,21,0,Donovan McNabb pass incomplete intended for Chad Lewis,0.100,-0.600
+2,2:00,3,3,PHI 19,21,0,"Brian Westbrook left end for 5 yards (tackle by Keith Smith). Penalty on Chad Lewis: Offensive Holding, 9 yards (no play)",-0.600,-1.650
+2,1:54,3,12,PHI 10,21,0,"Donovan McNabb pass incomplete intended for Terrell Owens (defended by Fernando Bryant). Penalty on James Hall: Defensive Offside, 5 yards (no play)",-1.650,-1.070
+2,1:48,3,7,PHI 15,21,0,Donovan McNabb pass incomplete intended for Freddie Mitchell (defended by Brock Marion),-1.070,-2.440
+2,1:39,4,7,PHI 15,21,0,"Dirk Johnson punts 54 yards, returned by Eddie Drummond for 5 yards (tackle by Roderick Hood)",-2.440,-1.330
+2,1:27,1,10,DET 36,21,0,Joey Harrington sacked by Brian Dawkins for -6 yards,1.330,-0.020
+2,1:04,2,16,DET 30,21,0,Shawn Bryson up the middle for 7 yards (tackle by Ike Reese),-0.020,0.230
+2,0:58,,,,21,0,Timeout #2 by Detroit Lions,0.000,0.230
+2,0:58,3,9,DET 37,21,0,Joey Harrington pass complete to Roy E. Williams for 18 yards (tackle by Roderick Hood),0.230,2.590
+2,0:52,1,10,PHI 45,21,0,Joey Harrington pass complete to Roy E. Williams for 22 yards (tackle by Roderick Hood),2.590,4.040
+2,0:33,1,10,PHI 23,21,0,Joey Harrington spiked the ball,4.040,3.500
+2,0:32,2,10,PHI 23,21,0,Joey Harrington pass complete to Roy E. Williams for 11 yards (tackle by Lito Sheppard),3.500,4.780
+2,0:24,,,,21,0,Timeout #1 by Philadelphia Eagles,0.000,4.780
+2,0:24,1,10,PHI 12,21,6,"Joey Harrington pass complete to Roy E. Williams for 12 yards, touchdown",4.780,7.000
+2,,,,PHI 2,21,7,Jason Hanson kicks extra point good,0.000,0.000
+2,,,,DET 30,21,7,"Jason Hanson kicks off 41 yards, returned by Reno Mahe for 22 yards (tackle by Casey Fitzsimmons)",0.000,2.320
+2,0:12,1,10,DET 49,21,7,Donovan McNabb pass incomplete intended for Freddie Mitchell,2.320,1.780
+2,0:06,2,10,DET 49,21,7,"Penalty on Chris Cash: Illegal Contact, 5 yards (no play)",1.780,2.650
+2,0:00,1,10,DET 44,21,7,Donovan McNabb pass incomplete intended for Todd Pinkston (defended by Roy E. Williams),2.650,2.110
+Quarter,Time,Down,ToGo,Location,PHI,DET,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DET 30,21,7,"Jason Hanson kicks off 67 yards, returned by J.R. Reed for 24 yards (tackle by Donte Curry)",0.000,0.740
+3,14:52,1,10,PHI 27,21,7,Donovan McNabb sacked by James Davis for -8 yards,0.740,-0.940
+3,14:15,2,18,PHI 19,21,7,Donovan McNabb pass complete to L.J. Smith for 27 yards (tackle by Brock Marion),-0.940,1.990
+3,13:38,1,10,PHI 46,21,7,Donovan McNabb pass complete to Todd Pinkston for 9 yards (tackle by Chris Cash),1.990,2.670
+3,13:06,2,1,DET 45,21,7,Brian Westbrook for 6 yards (tackle by Earl Holmes and Kelvin Pritchett),2.670,2.980
+3,12:34,1,10,DET 39,21,7,Donovan McNabb pass complete to Chad Lewis for 8 yards (tackle by Earl Holmes),2.980,3.520
+3,11:54,2,2,DET 31,21,7,Reno Mahe right end for 17 yards (tackle by Brock Marion),3.520,4.650
+3,11:11,1,10,DET 14,21,7,Donovan McNabb pass complete to Brian Westbrook for 6 yards (tackle by Donte Curry),4.650,5.090
+3,10:32,2,4,DET 8,21,7,Brian Westbrook up the middle for no gain (tackle by Donte Curry),5.090,4.280
+3,9:51,3,4,DET 8,21,7,Donovan McNabb pass incomplete intended for Chad Lewis,4.280,2.980
+3,9:45,4,4,DET 8,24,7,David Akers 26 yard field goal good,2.980,3.000
+3,,,,PHI 30,24,7,"David Akers kicks off 73 yards, returned by Eddie Drummond for 19 yards (tackle by Quintin Mikell)",0.000,-0.140
+3,9:34,1,10,DET 16,24,7,Joey Harrington pass incomplete intended for Stephen Alexander (defended by Dhani Jones),-0.140,-0.660
+3,9:29,2,10,DET 16,24,7,Joey Harrington pass complete to Artose Pinner for -3 yards (tackle by Sheldon Brown),-0.660,-1.750
+3,8:44,3,13,DET 13,24,7,Joey Harrington left tackle for 5 yards (tackle by Sheldon Brown),-1.750,-2.240
+3,8:12,4,8,DET 18,24,7,"Nick Harris punts 51 yards, returned by Reno Mahe for 18 yards. Penalty on Casey Fitzsimmons: Unnecessary Roughness, 15 yards",-2.240,-3.180
+3,7:55,1,10,DET 36,24,7,Donovan McNabb pass incomplete intended for Chad Lewis,3.180,2.640
+3,7:48,2,10,DET 36,24,7,Donovan McNabb pass complete to Brian Westbrook for 7 yards,2.640,2.870
+3,7:01,3,3,DET 29,24,7,Brian Westbrook right end for no gain (tackle by Brock Marion). Penalty on Freddie Mitchell: Offensive Holding (Declined),2.870,1.580
+3,6:47,4,3,DET 29,27,7,David Akers 47 yard field goal good,1.580,3.000
+3,,,,PHI 30,27,7,"David Akers kicks off 66 yards, returned by Eddie Drummond for 20 yards (tackle by J.R. Reed)",0.000,0.540
+3,6:36,1,10,DET 24,27,7,Joey Harrington pass incomplete intended for Stephen Alexander (defended by Michael Lewis),0.540,0.000
+3,6:31,2,10,DET 24,27,7,Joey Harrington pass complete to Az-Zahir Hakim for 13 yards (tackle by Brian Dawkins),0.000,1.400
+3,5:51,1,10,DET 37,27,7,Joey Harrington pass complete to Roy E. Williams for 13 yards (tackle by Michael Lewis),1.400,2.260
+3,5:09,1,10,DET 50,27,7,Joey Harrington pass complete to Artose Pinner for 9 yards (tackle by Mark Simoneau),2.260,2.930
+3,4:36,2,1,PHI 41,27,7,Joey Harrington pass incomplete intended for Roy E. Williams,2.930,2.210
+3,4:28,3,1,PHI 41,27,7,Artose Pinner up the middle for 2 yards (tackle by Jerome McDougle),2.210,2.980
+3,3:44,1,10,PHI 39,27,7,"Joey Harrington pass incomplete intended for Shawn Bryson. Penalty on Shawn Bryson: Offensive Pass Interference, 10 yards (no play)",2.980,2.320
+3,3:37,1,20,PHI 49,27,7,Shawn Bryson right tackle for -1 yards (tackle by Corey Simon),2.320,0.960
+3,2:59,2,21,DET 50,27,7,Joey Harrington pass complete to Roy E. Williams for 15 yards (tackle by Ike Reese),0.960,2.280
+3,2:15,3,6,PHI 35,27,7,Joey Harrington pass incomplete intended for Roy E. Williams (defended by Dexter Wynn),2.280,0.970
+3,2:10,4,6,PHI 35,27,7,Joey Harrington pass incomplete intended for Az-Zahir Hakim,0.970,-1.270
+3,2:05,1,10,PHI 35,27,7,Donovan McNabb pass incomplete intended for Chad Lewis (defended by James Davis),1.270,0.720
+3,2:00,2,10,PHI 35,27,7,Donovan McNabb pass complete to Terrell Owens for 7 yards (tackle by Fernando Bryant),0.720,0.960
+3,1:23,3,3,PHI 42,27,7,Donovan McNabb pass complete to Terrell Owens for 6 yards (tackle by Chris Cash),0.960,2.130
+3,1:23,1,10,PHI 48,27,7,"Penalty on Chad Lewis: False Start, 5 yards (no play)",2.130,1.800
+3,0:32,1,15,PHI 43,27,7,Brian Westbrook up the middle for 6 yards (tackle by Fernando Bryant),1.800,1.720
+Quarter,Time,Down,ToGo,Location,PHI,DET,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,9,PHI 49,27,7,"Donovan McNabb sacked by Dan Wilkinson for -7 yards. Donovan McNabb fumbles (forced by Dan Wilkinson), recovered by Cory Redding at PHI-44 (tackle by Jon Runyan)",1.720,-2.650
+,,,,,,,"PHI challenged the ruling, and the play was upheld.",,
+4,14:54,1,10,PHI 44,27,7,Joey Harrington pass incomplete intended for Shawn Bryson,2.650,2.110
+4,14:49,2,10,PHI 44,27,7,Roy E. Williams pass incomplete intended for Tai Streets,2.110,1.420
+4,14:41,3,10,PHI 44,27,7,Joey Harrington pass incomplete intended for Roy E. Williams,1.420,0.330
+4,14:36,4,10,PHI 44,27,7,"Nick Harris punts 44 yards, touchback",0.330,-0.280
+4,14:28,1,10,PHI 20,27,7,Donovan McNabb pass incomplete intended for Terrell Owens,0.280,-0.270
+4,14:23,2,10,PHI 20,27,7,Brian Westbrook right end for no gain (tackle by Cory Redding),-0.270,-0.960
+4,13:40,3,10,PHI 20,27,7,Donovan McNabb pass complete to Terrell Owens for 55 yards (tackle by Terrence Holt),-0.960,3.910
+4,12:52,1,10,DET 25,27,7,Donovan McNabb pass incomplete intended for Brian Westbrook,3.910,3.360
+4,12:47,2,10,DET 25,27,7,"Donovan McNabb for no gain. Donovan McNabb fumbles, recovered by Donovan McNabb at DET-31",3.360,1.880
+4,12:09,3,16,DET 31,27,7,"Donovan McNabb pass complete to Brian Westbrook for 7 yards (tackle by Terrence Holt). Penalty on Hank Fraley: Offensive Holding, 10 yards",1.880,1.490
+4,11:36,3,19,DET 34,27,7,"Donovan McNabb up the middle for 9 yards (tackle by Terrence Holt). Penalty on Tra Thomas: Illegal Formation, 5 yards (no play)",1.490,0.830
+4,11:05,3,24,DET 39,27,7,Donovan McNabb pass complete to Mike Bartrum for 17 yards (tackle by Teddy Lehman),0.830,1.990
+4,11:05,4,7,DET 22,30,7,David Akers 39 yard field goal good,1.990,3.000
+4,,,,PHI 30,30,7,"David Akers kicks off 72 yards, returned by Eddie Drummond for 73 yards (tackle by Dexter Wynn)",0.000,3.640
+4,10:09,1,10,PHI 29,30,7,Joey Harrington up the middle for 4 yards (tackle by Nate Wayne),3.640,3.640
+4,9:28,2,6,PHI 25,30,7,Artose Pinner right end for -4 yards (tackle by Jeremiah Trotter and Sheldon Brown),3.640,2.410
+4,8:42,3,10,PHI 29,30,13,"Joey Harrington pass complete to Roy E. Williams for 29 yards, touchdown",2.410,7.000
+4,,,,,30,13,"Two Point Attempt: Joey Harrington pass incomplete intended for Tai Streets, conversion fails",1.000,-1.000
+4,,,,DET 30,30,13,"Jason Hanson kicks off 67 yards, returned by J.R. Reed for 18 yards (tackle by James Davis)",0.000,0.340
+4,8:28,1,10,PHI 21,30,13,Donovan McNabb pass complete to Brian Westbrook for -3 yards,0.340,-0.700
+4,7:41,2,13,PHI 18,30,13,Donovan McNabb pass incomplete intended for Terrell Owens,-0.700,-1.410
+4,7:37,3,13,PHI 18,30,13,Donovan McNabb pass complete to Brian Westbrook for -1 yards (tackle by Shaun Rogers),-1.410,-2.320
+4,6:54,4,14,PHI 17,30,13,"Dirk Johnson punts 54 yards, returned by Eddie Drummond for 4 yards (tackle by Roderick Hood)",-2.320,-1.140
+4,6:42,1,10,DET 33,30,13,Joey Harrington pass incomplete intended for Roy E. Williams (defended by Ike Reese),1.140,0.590
+4,6:38,2,10,DET 33,30,13,Joey Harrington pass complete to Tai Streets for 11 yards (tackle by Ike Reese),0.590,1.860
+4,6:12,1,10,DET 44,30,13,Shawn Bryson left tackle for 25 yards (tackle by Sheldon Brown),1.860,3.510
+4,5:35,1,10,PHI 31,30,13,Joey Harrington pass incomplete intended for Tai Streets,3.510,2.970
+4,5:30,2,10,PHI 31,30,13,Joey Harrington up the middle for 1 yard (tackle by Ike Reese),2.970,2.410
+4,4:57,3,9,PHI 30,30,13,Joey Harrington pass complete to Stephen Alexander for 10 yards (tackle by Keith Adams),2.410,4.240
+4,4:20,1,10,PHI 20,30,13,"Joey Harrington sacked by Jevon Kearse for -7 yards. Joey Harrington fumbles (forced by Jevon Kearse), recovered by Dominic Raiola at PHI-23",4.240,3.290
+4,3:41,2,13,PHI 23,30,13,Joey Harrington pass complete to Tai Streets for 4 yards (tackle by Hollis Thomas),3.290,3.100
+4,3:08,3,9,PHI 19,30,13,Joey Harrington pass complete to Stephen Alexander for 4 yards (tackle by Dhani Jones),3.100,2.490
+4,2:57,,,,30,13,Timeout #1 by Detroit Lions,0.000,2.490
+4,2:57,4,5,PHI 15,30,13,Joey Harrington pass incomplete intended for Tai Streets,2.490,0.140
+4,2:52,1,10,PHI 16,30,13,Brian Westbrook right end for 8 yards (tackle by James Davis),-0.140,0.550
+4,2:09,2,2,PHI 24,30,13,Brian Westbrook left end for 1 yard (tackle by Shaun Rogers and Jared DeVries),0.550,-0.200
+4,2:04,3,1,PHI 25,30,13,Donovan McNabb pass incomplete intended for Chad Lewis,-0.200,-1.700
+4,1:56,4,1,PHI 25,30,13,"Dirk Johnson punts 47 yards, fair catch by Eddie Drummond",-1.700,-0.810
+4,1:50,1,10,DET 28,30,13,Joey Harrington pass incomplete intended for Tai Streets,0.810,0.260
+4,1:46,2,10,DET 28,30,13,Joey Harrington pass complete to Shawn Bryson for -1 yards (tackle by Roderick Hood),0.260,-0.560
+4,1:17,3,11,DET 27,30,13,Joey Harrington sacked by Jevon Kearse for -1 yards,-0.560,-1.630
+4,1:07,4,12,DET 26,30,13,"Nick Harris punts 50 yards, fair catch by Reno Mahe",-1.630,-0.540
+4,0:59,1,10,PHI 24,30,13,Donovan McNabb kneels for -1 yards,0.540,-0.140
+4,0:57,,,,30,13,Timeout #2 by Detroit Lions,0.000,-0.140
+4,0:57,2,11,PHI 23,30,13,Donovan McNabb kneels for -1 yards,-0.140,-0.960
+4,0:29,3,12,PHI 22,30,13,Donovan McNabb kneels for -1 yards,-0.960,-1.960
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

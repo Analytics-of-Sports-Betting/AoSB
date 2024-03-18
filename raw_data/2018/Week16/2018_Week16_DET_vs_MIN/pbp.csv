@@ -1,0 +1,188 @@
+Quarter,Time,Down,ToGo,Location,MIN,DET,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Vikings won the coin toss and deferred, Lions to receive the opening kickoff.",,
+1,15:00,,,MIN 35,0,0,"Dan Bailey kicks off 65 yards, touchback.",0.000,0.610
+1,14:58,1,10,DET 25,0,0,LeGarrette Blount right tackle for 4 yards (tackle by Linval Joseph),0.610,0.600
+1,14:24,2,6,DET 29,0,0,Zach Zenner right tackle for 5 yards (tackle by Anthony Barr and Everson Griffen),0.600,0.560
+1,13:49,3,1,DET 34,0,0,Zach Zenner up the middle for 29 yards (tackle by Harrison Smith),0.560,3.120
+1,13:12,1,10,MIN 37,0,0,Matthew Stafford pass incomplete deep right intended for Kenny Golladay,3.120,2.570
+1,13:05,2,10,MIN 37,0,0,LeGarrette Blount right tackle for -3 yards (tackle by Anthony Barr),2.570,1.490
+1,12:21,3,13,MIN 40,0,0,Matthew Stafford pass complete short right to Theo Riddick for -4 yards (tackle by Eric Wilson),1.490,0.330
+1,11:42,4,17,MIN 44,0,0,Sam Martin punts 42 yards downed by Tracy Walker,0.330,0.380
+1,11:36,1,10,MIN 2,0,0,"Penalty on Tom Compton: False Start, 1 yard (no play)",-0.380,-0.420
+1,11:36,1,11,MIN 1,0,0,Kirk Cousins up the middle for 1 yard (tackle by A'Shawn Robinson),-0.420,-0.780
+1,11:05,2,10,MIN 2,0,0,C.J. Ham up the middle for 1 yard (tackle by Christian Jones),-0.780,-1.300
+1,10:26,3,9,MIN 3,0,0,Kirk Cousins pass incomplete short left intended for Stefon Diggs,-1.300,-2.490
+1,10:21,4,9,MIN 3,0,0,"Matt Wile punts 54 yards, muffed catch by Jamal Agnew, recovered by Jamal Agnew at DET-43, returned by Jamal Agnew for no gain (tackle by Jayron Kearse)",-2.490,-1.800
+1,10:10,1,10,DET 43,0,0,Matthew Stafford pass complete short middle to Kenny Golladay for 21 yards (tackle by Anthony Harris),1.800,3.180
+1,9:37,1,10,MIN 36,0,0,LeGarrette Blount right tackle for 5 yards (tackle by Anthony Harris),3.180,3.310
+1,8:52,2,5,MIN 31,0,0,Zach Zenner right end for 2 yards (tackle by Sheldon Richardson),3.310,2.870
+1,8:12,3,3,MIN 29,0,0,Theo Riddick right tackle for no gain (tackle by Danielle Hunter),2.870,1.580
+1,7:35,4,3,MIN 29,0,3,Matt Prater 47 yard field goal good,1.580,3.000
+1,7:30,,,DET 35,0,3,"Sam Martin kicks off 65 yards, touchback.",0.000,0.610
+1,7:30,1,10,MIN 25,0,3,Dalvin Cook left end for 4 yards (tackle by Jarrad Davis and Christian Jones),0.610,0.600
+1,6:54,2,6,MIN 29,0,3,Kirk Cousins pass incomplete short left intended for Stefon Diggs,0.600,-0.100
+1,6:50,3,6,MIN 29,0,3,Dalvin Cook up the middle for 2 yards (tackle by Ricky Jean-Francois),-0.100,-1.310
+1,6:12,4,4,MIN 31,0,3,"Matt Wile punts 46 yards, returned by Jamal Agnew for 9 yards (tackle by Eric Wilson)",-1.310,-1.070
+1,6:00,1,10,DET 32,0,3,LeGarrette Blount right tackle for 4 yards (tackle by Harrison Smith),1.070,1.070
+1,5:23,2,6,DET 36,0,3,Matthew Stafford pass complete short left to Theo Riddick for 7 yards (tackle by Anthony Harris),1.070,1.800
+1,4:47,1,10,DET 43,0,3,Matthew Stafford pass incomplete short left intended for LeGarrette Blount (defended by Ben Gedeon),1.800,1.250
+1,4:41,2,10,DET 43,0,3,Zach Zenner up the middle for 2 yards (tackle by Linval Joseph),1.250,0.830
+1,4:04,3,8,DET 45,0,3,Matthew Stafford pass complete short right to Kenny Golladay for 9 yards (tackle by Xavier Rhodes),0.830,2.520
+1,3:51,1,10,MIN 46,0,3,Matthew Stafford pass complete short right to Levine Toilolo for 16 yards (tackle by Harrison Smith),2.520,3.580
+1,3:12,1,10,MIN 30,0,3,LeGarrette Blount up the middle for -3 yards (tackle by Harrison Smith),3.580,2.630
+1,2:34,2,13,MIN 33,0,3,Matthew Stafford pass incomplete short middle intended for LeGarrette Blount,2.630,1.950
+1,2:29,3,13,MIN 33,0,3,Theo Riddick left end for -4 yards (tackle by Mackensie Alexander),1.950,0.790
+1,1:52,4,17,MIN 37,0,3,Sam Martin punts 24 yards downed by Zach Zenner,0.790,0.320
+1,1:43,1,10,MIN 13,0,3,Kirk Cousins pass complete short right to Latavius Murray for 2 yards (tackle by Jarrad Davis and Glover Quin),-0.320,-0.570
+1,1:03,2,8,MIN 15,0,3,Dalvin Cook up the middle for no gain (tackle by Damon Harrison and Ricky Jean-Francois),-0.570,-1.180
+1,0:22,3,8,MIN 15,0,3,Kirk Cousins sacked by Nevin Lawson for -6 yards,-1.180,-2.490
+Quarter,Time,Down,ToGo,Location,MIN,DET,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,4,14,MIN 9,0,3,Matt Wile punts 29 yards downed by Kentrell Brothers,-2.490,-3.050
+2,14:50,1,10,MIN 38,0,3,LeGarrette Blount up the middle for 4 yards (tackle by Trae Waynes),3.050,3.050
+2,14:12,2,6,MIN 34,0,3,Matthew Stafford pass incomplete short right intended for Kenny Golladay,3.050,2.340
+2,14:08,3,6,MIN 34,0,3,"Matthew Stafford pass incomplete deep right intended for Andy Jones. Penalty on Trae Waynes: Illegal Contact, 5 yards (no play)",2.340,3.640
+2,14:02,1,10,MIN 29,0,3,LeGarrette Blount right tackle for 5 yards (tackle by Ben Gedeon),3.640,3.780
+2,13:28,2,5,MIN 24,0,3,Zach Zenner right end for -1 yards (tackle by Jaleel Johnson),3.780,2.940
+2,12:45,3,6,MIN 25,0,3,Matthew Stafford pass complete short left to Kenny Golladay for 6 yards (tackle by Xavier Rhodes),2.940,4.310
+2,12:02,1,10,MIN 19,0,3,Matthew Stafford pass complete short left to Kenny Golladay for 5 yards (tackle by Ben Gedeon),4.310,4.530
+2,11:21,2,5,MIN 14,0,3,Theo Riddick right end for 2 yards (tackle by Trae Waynes),4.530,4.190
+2,10:49,3,3,MIN 12,0,3,Matthew Stafford pass incomplete short left intended for Kenny Golladay (defended by Mackensie Alexander),4.190,2.730
+2,10:49,4,3,MIN 12,0,3,"Penalty on DET: False Start, 5 yards (no play)",2.730,2.310
+2,10:43,4,8,MIN 17,0,6,Matt Prater 35 yard field goal good,2.310,3.000
+2,10:39,,,DET 35,0,6,"Sam Martin kicks off 65 yards, returned by Ameer Abdullah for no gain (tackle by Zach Zenner)",0.000,0.410
+2,10:32,1,10,MIN 22,0,6,Dalvin Cook left end for -1 yards (tackle by Nevin Lawson),0.410,-0.270
+2,9:50,2,11,MIN 21,0,6,Kirk Cousins sacked by Romeo Okwara for -7 yards,-0.270,-2.240
+2,9:11,3,18,MIN 14,0,6,Dalvin Cook right tackle for 9 yards (tackle by Quandre Diggs),-2.240,-1.830
+2,8:33,4,9,MIN 23,0,6,"Matt Wile punts 47 yards, returned by Jamal Agnew for 4 yards (tackle by Kentrell Brothers)",-1.830,-1.200
+2,8:22,1,10,DET 34,0,6,Matthew Stafford pass complete short right to T.J. Jones for 12 yards (tackle by Anthony Harris),1.200,1.990
+2,7:42,1,10,DET 46,0,6,Matthew Stafford pass complete short left to Kenny Golladay for 16 yards (tackle by Xavier Rhodes),1.990,3.050
+2,6:58,1,10,MIN 38,0,6,LeGarrette Blount left tackle for -1 yards (tackle by Eric Wilson),3.050,2.370
+2,6:16,2,11,MIN 39,0,6,Matthew Stafford pass complete short right to Theo Riddick for -3 yards (tackle by Danielle Hunter),2.370,1.290
+2,5:35,3,14,MIN 42,0,6,"Matthew Stafford pass incomplete short left intended for Kenny Golladay. Penalty on Mackensie Alexander: Defensive Pass Interference, 7 yards (no play)",1.290,3.250
+2,5:30,1,10,MIN 35,0,6,Matthew Stafford pass complete short right to T.J. Jones for 7 yards (tackle by Xavier Rhodes),3.250,3.650
+2,4:55,2,3,MIN 28,0,6,Zach Zenner left end for -2 yards (tackle by Harrison Smith),3.650,2.680
+2,4:14,3,5,MIN 30,0,6,Matthew Stafford pass incomplete deep left intended for Kenny Golladay,2.680,1.450
+2,4:10,4,5,MIN 30,0,9,Matt Prater 48 yard field goal good,1.450,3.000
+2,4:05,,,DET 35,0,9,"Sam Martin kicks off 64 yards, returned by Ameer Abdullah for no gain (tackle by Nick Bellore and DeShawn Shead)",0.000,1.000
+2,3:59,1,10,MIN 31,0,9,"Kirk Cousins pass complete short left to Dalvin Cook for 20 yards (tackle by Jarrad Davis). Penalty on Stefon Diggs: Offensive Holding, 10 yards",1.000,1.660
+2,3:36,1,10,MIN 41,0,9,Latavius Murray right end for 2 yards (tackle by Christian Jones),1.660,1.390
+2,3:04,2,8,MIN 43,0,9,Kirk Cousins pass complete short left to Kyle Rudolph for 15 yards (tackle by Darius Slay and Tracy Walker),1.390,2.790
+2,2:31,1,10,DET 42,0,9,"Dalvin Cook left tackle for no gain (tackle by Mike Ford). Penalty on Kyle Rudolph: Offensive Holding, 10 yards (no play)",2.790,2.130
+2,2:08,1,20,MIN 48,0,9,Adam Thielen right end for 3 yards (tackle by Damon Harrison),2.130,1.300
+2,2:00,2,17,DET 49,0,9,Kirk Cousins pass incomplete deep middle intended for Stefon Diggs,1.300,0.630
+2,1:54,3,17,DET 49,0,9,Kirk Cousins pass complete deep right to Adam Thielen for 40 yards (tackle by Darius Slay),0.630,5.140
+2,1:41,,,,,,Timeout #1 by Detroit Lions,,
+2,1:41,1,9,DET 9,0,9,Dalvin Cook left end for 1 yard (tackle by Mike Ford),5.140,4.570
+2,1:35,,,,,,Timeout #2 by Detroit Lions,,
+2,1:35,2,8,DET 8,6,9,"Kirk Cousins pass complete short left to Stefon Diggs for 8 yards, touchdown",4.570,7.000
+2,1:32,,,DET 15,7,9,Dan Bailey kicks extra point good,0.000,0.000
+2,1:32,,,MIN 35,7,9,"Dan Bailey kicks off 64 yards, returned by Jamal Agnew for no gain (tackle by Ben Gedeon)",0.000,0.610
+2,1:25,1,10,DET 25,7,9,Matthew Stafford pass incomplete short left intended for Andy Jones,0.610,0.060
+2,1:20,2,10,DET 25,7,9,"Matthew Stafford pass incomplete deep left intended for Levine Toilolo. Penalty on Xavier Rhodes: Illegal Contact, 5 yards (no play)",0.060,0.940
+2,1:13,1,10,DET 30,7,9,Matthew Stafford pass complete short middle to T.J. Jones for 6 yards (tackle by Eric Wilson),0.940,1.200
+2,0:54,2,4,DET 36,7,9,Matthew Stafford pass incomplete short right intended for Kenny Golladay (defended by Harrison Smith),1.200,0.500
+2,0:50,3,4,DET 36,7,9,Matthew Stafford pass complete short left to T.J. Jones for 3 yards (tackle by Mackensie Alexander),0.500,-0.780
+2,0:45,,,,,,Timeout #1 by Minnesota Vikings,,
+2,0:45,4,1,DET 39,7,9,"Sam Martin punts 46 yards. Penalty on Tracy Walker: Kick Catch Interference, 15 yards",-0.780,-0.940
+2,0:36,1,10,MIN 30,7,9,Kirk Cousins pass complete short right to Stefon Diggs for 2 yards (tackle by Quandre Diggs),0.940,0.660
+2,0:31,,,,,,Timeout #2 by Minnesota Vikings,,
+2,0:31,2,8,MIN 32,7,9,Kirk Cousins pass complete short left to Adam Thielen for 16 yards (tackle by Tracy Walker and Nevin Lawson),0.660,2.130
+2,0:25,1,10,MIN 48,7,9,"Kirk Cousins pass incomplete deep right intended for Adam Thielen (defended by Glover Quin). Penalty on Mike Remmers: Offensive Holding, 10 yards (no play)",2.130,1.470
+2,0:18,1,20,MIN 38,7,9,Kirk Cousins pass complete short left to Dalvin Cook for 1 yard (tackle by Jarrad Davis),1.470,0.370
+2,0:12,2,19,MIN 39,7,9,Kirk Cousins pass complete short middle to Kyle Rudolph for 17 yards (tackle by Quandre Diggs),0.370,1.950
+2,0:02,,,,,,Timeout #3 by Minnesota Vikings,,
+2,0:02,3,2,DET 44,13,9,"Kirk Cousins pass complete deep right to Kyle Rudolph for 44 yards, touchdown",1.950,7.000
+2,0:00,,,DET 15,14,9,Dan Bailey kicks extra point good,0.000,0.000
+Quarter,Time,Down,ToGo,Location,MIN,DET,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DET 35,14,9,"Sam Martin kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,MIN 25,14,9,Kirk Cousins pass incomplete deep left intended for Adam Thielen,0.610,0.060
+3,14:55,2,10,MIN 25,14,9,Kirk Cousins pass complete short left to Adam Thielen for 13 yards (tackle by Darius Slay),0.060,1.470
+3,14:14,1,10,MIN 38,14,9,Dalvin Cook left tackle for 15 yards (tackle by Glover Quin),1.470,2.460
+3,13:38,1,10,DET 47,14,9,Dalvin Cook left tackle for 7 yards (tackle by Damon Harrison),2.460,2.860
+3,12:55,2,3,DET 40,14,9,Kirk Cousins pass complete short right to Latavius Murray for 4 yards (tackle by Tavon Wilson),2.860,3.180
+3,12:15,1,10,DET 36,14,9,Latavius Murray left end for 5 yards (tackle by Tavon Wilson),3.180,3.310
+3,11:39,2,5,DET 31,14,9,Dalvin Cook right tackle for 18 yards (tackle by Christian Jones),3.310,4.710
+3,10:56,1,10,DET 13,14,9,Latavius Murray left tackle for no gain (tackle by Devon Kennard and Damon Harrison),4.710,4.050
+3,10:17,2,10,DET 13,14,9,Kirk Cousins pass complete short left to Kyle Rudolph for 1 yard (tackle by Tavon Wilson),4.050,3.280
+3,9:37,3,9,DET 12,14,9,Kirk Cousins pass complete short right to Adam Thielen for 6 yards (tackle by Nevin Lawson),3.280,3.010
+3,8:57,4,3,DET 6,17,9,Dan Bailey 24 yard field goal good,3.010,3.000
+3,8:54,,,MIN 35,17,9,"Dan Bailey kicks off 65 yards, touchback.",0.000,0.610
+3,8:54,1,10,DET 25,17,9,Matthew Stafford pass complete short right to Kenny Golladay for 1 yard (tackle by Trae Waynes),0.610,0.200
+3,8:15,2,9,DET 26,17,9,LeGarrette Blount left tackle for 2 yards (tackle by Ben Gedeon and Anthony Barr),0.200,-0.230
+3,7:35,3,7,DET 28,17,9,Matthew Stafford pass incomplete short left intended for Kenny Golladay,-0.230,-1.500
+3,7:30,4,7,DET 28,17,9,"Sam Martin punts 47 yards, fair catch by Brandon Zylstra at MIN-25",-1.500,-0.610
+3,7:21,1,10,MIN 25,17,9,Dalvin Cook left tackle for 4 yards (tackle by John Atkins and Ricky Jean-Francois),0.610,0.600
+3,6:46,2,6,MIN 29,17,9,Kirk Cousins pass incomplete deep middle intended for Aldrick Robinson,0.600,-0.100
+3,6:39,3,6,MIN 29,17,9,Kirk Cousins pass complete short right to Adam Thielen for 5 yards,-0.100,-1.110
+3,6:09,4,1,MIN 34,17,9,"Matt Wile punts 58 yards, returned by Jamal Agnew for 5 yards (tackle by Eric Wilson)",-1.110,0.320
+3,5:56,1,10,DET 13,17,9,"Zach Zenner left tackle for no gain (tackle by Anthony Harris). Penalty on Kenny Golladay: Offensive Holding, 6 yards (no play)",-0.320,-0.610
+3,5:34,1,16,DET 7,17,9,Zach Zenner left end for 5 yards (tackle by Ben Gedeon),-0.610,-0.850
+3,4:54,2,11,DET 12,17,9,Matthew Stafford pass incomplete short middle intended for Theo Riddick,-0.850,-1.540
+3,4:48,3,11,DET 12,17,9,Matthew Stafford sacked by Everson Griffen for -3 yards,-1.540,-2.490
+3,4:14,4,14,DET 9,17,9,"Sam Martin punts 52 yards, returned by Brandon Zylstra for 8 yards (tackle by Nick Bellore)",-2.490,-2.060
+3,4:03,1,10,MIN 47,17,9,Kirk Cousins pass complete short left to Kyle Rudolph for 11 yards (tackle by Quandre Diggs),2.060,2.790
+3,3:23,1,10,DET 42,17,9,"Penalty on Kyle Rudolph: False Start, 5 yards (no play)",2.790,2.460
+3,3:08,1,15,DET 47,17,9,Dalvin Cook left tackle for 2 yards (tackle by Quandre Diggs),2.460,1.840
+3,2:28,2,13,DET 45,17,9,Kirk Cousins pass complete short right to Kyle Rudolph for 12 yards (tackle by Christian Jones),1.840,2.740
+3,1:46,3,1,DET 33,17,9,Dalvin Cook left tackle for 4 yards (tackle by Nevin Lawson and Glover Quin),2.740,3.640
+3,1:06,1,10,DET 29,17,9,Dalvin Cook left tackle for 1 yard (tackle by Damon Harrison),3.640,3.240
+3,0:27,2,9,DET 28,17,9,"Latavius Murray left tackle for no gain (tackle by Devon Kennard). Penalty on Mike Remmers: Offensive Holding, 10 yards (no play)",3.240,1.890
+Quarter,Time,Down,ToGo,Location,MIN,DET,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,19,DET 38,17,9,Kirk Cousins pass complete deep left to Kyle Rudolph for 17 yards,1.890,3.470
+4,14:26,3,2,DET 21,17,9,"Kirk Cousins pass complete short right to Dalvin Cook for 14 yards. Penalty on Aldrick Robinson: Illegal Block Above the Waist, 10 yards",3.470,4.440
+4,14:04,1,10,DET 17,17,9,"Dalvin Cook left end for 9 yards (tackle by Glover Quin). Penalty on Nevin Lawson: Unsportsmanlike Conduct, 4 yards",4.440,6.280
+4,13:31,1,4,DET 4,23,9,"Kirk Cousins pass complete short right to Kyle Rudolph for 4 yards, touchdown",6.280,7.000
+4,13:25,,,DET 15,24,9,Dan Bailey kicks extra point good,0.000,0.000
+4,13:25,,,MIN 35,24,9,"Dan Bailey kicks off 65 yards, touchback.",0.000,0.610
+4,13:25,1,10,DET 25,24,9,Matthew Stafford pass complete short left to LeGarrette Blount for -5 yards (tackle by Anthony Barr),0.610,-0.610
+4,12:49,2,15,DET 20,24,9,Zach Zenner left tackle for 5 yards (tackle by Tom Johnson),-0.610,-0.620
+4,12:08,3,10,DET 25,24,9,Matthew Stafford pass complete short right to Andy Jones for 12 yards (tackle by Xavier Rhodes and Ben Gedeon),-0.620,1.400
+4,11:30,1,10,DET 37,24,9,Matthew Stafford pass incomplete deep left intended for Kenny Golladay,1.400,0.860
+4,11:25,2,10,DET 37,24,9,LeGarrette Blount right tackle for 10 yards (tackle by Harrison Smith and Xavier Rhodes),0.860,2.060
+4,10:42,1,10,DET 47,24,9,LeGarrette Blount left tackle for 2 yards (tackle by Harrison Smith),2.060,1.790
+4,10:03,2,8,DET 49,24,9,Matthew Stafford pass complete short left to LeGarrette Blount for no gain (tackle by Anthony Harris),1.790,1.090
+4,9:17,3,8,DET 49,24,9,Matthew Stafford pass incomplete short left intended for Andy Jones,1.090,-0.130
+4,9:11,4,8,DET 49,24,9,"Sam Martin punts 38 yards, fair catch by Chad Beebe at MIN-13",-0.130,0.320
+4,9:05,1,10,MIN 13,24,9,Latavius Murray right tackle for 11 yards (tackle by Tracy Walker),-0.320,0.540
+4,8:17,1,10,MIN 24,24,9,Kirk Cousins pass incomplete short left intended for Aldrick Robinson,0.540,0.000
+4,8:14,2,10,MIN 24,24,9,Latavius Murray right end for 1 yard (tackle by Quandre Diggs and Devon Kennard),0.000,-0.560
+4,7:30,3,9,MIN 25,24,9,Kirk Cousins pass incomplete short middle intended for Stefon Diggs. Penalty on Riley Reiff: Offensive Holding (Declined),-0.560,-1.700
+4,7:25,4,9,MIN 25,24,9,"Matt Wile punts 54 yards, returned by Jamal Agnew for no gain (tackle by Ameer Abdullah). Penalty on Marcus Cooper: Offensive Holding, 10 yards",-1.700,0.370
+4,7:13,1,10,DET 11,24,9,Matthew Stafford pass incomplete deep left intended for Kenny Golladay,-0.370,-0.780
+4,7:07,2,10,DET 11,24,9,Matthew Stafford pass incomplete deep right intended for Andy Jones,-0.780,-1.420
+4,7:02,3,10,DET 11,24,9,Matthew Stafford pass complete short middle to Theo Riddick for 7 yards (tackle by Mackensie Alexander),-1.420,-2.240
+4,6:35,4,3,DET 18,24,9,Matthew Stafford sacked by Eric Wilson for -8 yards,-2.240,-4.910
+4,6:30,1,10,DET 10,24,9,Dalvin Cook left end for -1 yards (tackle by John Atkins),4.910,4.020
+4,5:46,2,11,DET 11,24,9,Kirk Cousins pass complete short right to Kyle Rudolph for 1 yard (tackle by Quandre Diggs),4.020,3.130
+4,5:01,3,10,DET 10,24,9,Dalvin Cook right end for -1 yards (tackle by Darius Slay),3.130,2.700
+4,4:19,4,11,DET 11,27,9,Dan Bailey 29 yard field goal good,2.700,3.000
+4,4:15,,,MIN 35,27,9,"Dan Bailey kicks off 70 yards, returned by Jamal Agnew for no gain (tackle by Jayron Kearse)",0.000,0.280
+4,4:10,1,10,DET 20,27,9,"Penalty on Graham Glasgow: False Start, 5 yards (no play)",0.280,-0.310
+4,4:10,1,15,DET 15,27,9,Matt Cassel pass complete short middle to T.J. Jones for 10 yards (tackle by Anthony Barr),-0.310,0.410
+4,3:43,2,5,DET 25,27,9,"Matt Cassel pass incomplete short left intended for Kenny Golladay. Penalty on Kenny Golladay: Offensive Pass Interference, 10 yards (no play)",0.410,-1.070
+4,3:38,2,15,DET 15,27,9,Matt Cassel pass complete short left to Brandon Powell for 9 yards (tackle by Mackensie Alexander),-1.070,-0.430
+4,3:13,3,6,DET 24,27,9,Matt Cassel pass incomplete short right,-0.430,-1.770
+4,3:09,4,6,DET 24,27,9,Matt Cassel pass incomplete short right intended for Kenny Golladay (defended by Mackensie Alexander),-1.770,-3.970
+4,3:04,1,10,DET 24,27,9,Latavius Murray left tackle for 1 yard (tackle by Eric Lee),3.970,3.570
+4,2:59,,,,,,Timeout #1 by Detroit Lions,,
+4,2:59,2,9,DET 23,27,9,Latavius Murray left end for 8 yards (tackle by Tracy Walker),3.570,4.170
+4,2:53,,,,,,Timeout #2 by Detroit Lions,,
+4,2:53,3,1,DET 15,27,9,Latavius Murray right tackle for no gain (tackle by Ricky Jean-Francois),4.170,2.590
+4,2:08,,,,,,Timeout #1 by Minnesota Vikings,,
+4,2:08,4,1,DET 15,27,9,Latavius Murray left end for -6 yards (tackle by Tavon Wilson),2.590,-0.340
+4,2:03,1,10,DET 21,27,9,Matt Cassel pass complete short right to T.J. Jones for 4 yards (tackle by Eric Wilson),0.340,0.340
+4,1:58,2,6,DET 25,27,9,Matt Cassel pass incomplete short left intended for Zach Zenner,0.340,-0.360
+4,1:52,3,6,DET 25,27,9,"Matt Cassel pass complete short left to Jerome Cunningham for 5 yards (tackle by Holton Hill and Ben Gedeon). Penalty on Holton Hill: Illegal Contact, 5 yards (no play)",-0.360,0.940
+4,1:45,1,10,DET 30,27,9,Matt Cassel pass complete short middle to Zach Zenner for 11 yards (tackle by Eric Wilson and Ben Gedeon),0.940,1.660
+4,1:20,1,10,DET 41,27,9,Matt Cassel pass complete short middle to Zach Zenner for 11 yards (tackle by Eric Wilson),1.660,2.390
+4,0:56,1,10,MIN 48,27,9,Matt Cassel pass incomplete deep left intended for Andy Jones,2.390,1.850
+4,0:49,2,10,MIN 48,27,9,Matt Cassel pass incomplete short left intended for Jerome Cunningham,1.850,1.160
+4,0:46,3,10,MIN 48,27,9,Matt Cassel pass incomplete short middle intended for Brandon Powell,1.160,0.070
+4,0:40,4,10,MIN 48,27,9,Matt Cassel left tackle for 14 yards (tackle by Ben Gedeon),0.070,3.310
+4,0:30,,,,,,Timeout #3 by Detroit Lions,,
+4,0:30,1,10,MIN 34,27,9,Matt Cassel sacked by Kentrell Brothers for -13 yards,3.310,1.020
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

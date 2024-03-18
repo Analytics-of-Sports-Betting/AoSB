@@ -1,0 +1,186 @@
+Quarter,Time,Down,ToGo,Location,TAM,JAX,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Buccaneers won the coin toss, Buccaneers to receive the opening kickoff.",,
+1,15:00,,,JAX 35,0,0,"Josh Scobee kicks off 74 yards, touchback",0.000,0.280
+1,15:00,1,10,TAM 20,0,0,Josh Freeman pass incomplete short left intended for Luke Stocker,0.280,-0.270
+1,14:56,2,10,TAM 20,0,0,"Josh Freeman pass incomplete short right intended for Arrelious Benn. Penalty on Leger Douzable: Face Mask (15 Yards), 15 yards (no play)",-0.270,1.270
+1,14:47,1,10,TAM 35,0,0,LeGarrette Blount up the middle for 4 yards (tackle by Daryl Smith and Russell Allen),1.270,1.260
+1,14:13,2,6,TAM 39,0,0,LeGarrette Blount up the middle for 2 yards (tackle by Paul Posluszny),1.260,0.830
+1,13:33,3,4,TAM 41,0,0,Josh Freeman pass complete short right to Preston Parker for 14 yards (tackle by Drew Coleman and Ashton Youboty),0.830,2.590
+1,12:50,1,10,JAX 45,0,0,Josh Freeman pass incomplete short middle intended for Mike Williams (defended by Russell Allen),2.590,2.040
+1,12:45,2,10,JAX 45,0,0,Kregg Lumpkin up the middle for 4 yards (tackle by Daryl Smith and Jeremy Mincey),2.040,1.880
+1,12:01,3,6,JAX 41,0,0,"Josh Freeman pass incomplete short right intended for Arrelious Benn. Penalty on Donald Penn: False Start, 5 yards (no play)",1.880,1.220
+1,11:43,3,11,JAX 46,0,0,Josh Freeman pass complete short middle to Kregg Lumpkin for 10 yards (tackle by Dawan Landry and Drew Coleman),1.220,0.890
+1,10:59,4,1,JAX 36,0,0,Josh Freeman pass complete deep right to Kellen Winslow for 28 yards (tackle by Chris Prosinski),0.890,5.370
+1,10:11,1,8,JAX 8,0,0,Josh Freeman pass complete short left to Arrelious Benn for 7 yards (tackle by Chris Prosinski),5.370,5.910
+1,9:28,2,1,JAX 1,6,0,"LeGarrette Blount up the middle for 1 yard, touchdown",5.910,7.000
+1,9:28,,,JAX 2,7,0,Connor Barth kicks extra point good,0.000,0.000
+1,9:28,,,TAM 35,7,0,"Michael Koenen kicks off 73 yards, returned by Cecil Shorts for 19 yards (tackle by Kregg Lumpkin)",0.000,-0.370
+1,9:18,1,10,JAX 11,7,0,Maurice Jones-Drew left end for 9 yards (tackle by Quincy Black),-0.370,0.360
+1,8:41,2,1,JAX 20,7,0,Maurice Jones-Drew up the middle for 2 yards (tackle by Geno Hayes),0.360,0.410
+1,8:01,1,10,JAX 22,7,0,Maurice Jones-Drew right end for 7 yards (tackle by Tanard Jackson),0.410,0.810
+1,7:20,2,3,JAX 29,7,0,"Maurice Jones-Drew up the middle for no gain (tackle by Ronde Barber). Penalty on Marcedes Lewis: Illegal Formation, 5 yards (no play)",0.810,0.140
+1,7:05,2,8,JAX 24,7,0,Blaine Gabbert pass incomplete short right intended for Marcedes Lewis,0.140,-0.560
+1,7:00,3,8,JAX 24,7,0,Blaine Gabbert pass incomplete short right intended for Marcedes Lewis,-0.560,-1.770
+1,6:55,4,8,JAX 24,7,0,"Nick Harris punts 46 yards, returned by Preston Parker for 8 yards (tackle by Montell Owens). Preston Parker fumbles (forced by Montell Owens), recovered by Morgan Trent at TAM-38",-1.770,3.050
+1,6:43,1,10,TAM 38,7,0,Maurice Jones-Drew up the middle for 5 yards (tackle by Ronde Barber),3.050,3.180
+1,6:07,2,5,TAM 33,7,0,Maurice Jones-Drew up the middle for 1 yard (tackle by Albert Haynesworth and Roy Miller),3.180,2.610
+1,5:29,3,4,TAM 32,7,0,"Blaine Gabbert sacked by Adrian Clayborn for -6 yards. Blaine Gabbert fumbles (forced by Adrian Clayborn), recovered by Eugene Monroe at TAM-40",2.610,0.590
+1,4:48,4,12,TAM 40,7,0,"Nick Harris punts 32 yards, fair catch by Preston Parker",0.590,0.380
+1,4:41,1,10,TAM 8,7,0,LeGarrette Blount up the middle for 3 yards (tackle by C.J. Mosley and Leger Douzable),-0.380,-0.560
+1,4:00,2,7,TAM 11,7,0,Josh Freeman pass incomplete short right intended for Dezmon Briscoe,-0.560,-1.070
+1,3:54,3,7,TAM 11,7,0,Josh Freeman pass incomplete deep right intended for Dezmon Briscoe,-1.070,-2.490
+1,3:49,4,7,TAM 11,7,0,"Michael Koenen punts 35 yards, out of bounds",-2.490,-2.520
+1,3:40,1,10,TAM 46,7,0,Blaine Gabbert pass complete short left to Mike Thomas for 2 yards (tackle by Tanard Jackson),2.520,2.250
+1,3:05,2,8,TAM 44,7,0,Maurice Jones-Drew right end for 1 yard (tackle by Mason Foster),2.250,1.680
+1,2:24,3,7,TAM 43,7,0,Blaine Gabbert pass incomplete short middle intended for Marcedes Lewis is intercepted by Ronde Barber at TAM-36 and returned for 12 yards,1.680,-2.130
+1,2:11,1,10,TAM 48,7,0,Mossis Madu left end for 6 yards (tackle by C.J. Mosley and Terrance Knighton),2.130,2.390
+1,1:39,2,4,JAX 46,7,0,LeGarrette Blount right end for 8 yards (tackle by Dawan Landry),2.390,3.050
+1,1:01,1,10,JAX 38,7,0,Josh Freeman pass complete short left to Erik Lorig for 22 yards (tackle by Daryl Smith),3.050,4.510
+1,0:16,1,10,JAX 16,7,0,LeGarrette Blount up the middle for -4 yards (tackle by Leger Douzable),4.510,3.420
+Quarter,Time,Down,ToGo,Location,TAM,JAX,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,14,JAX 20,7,0,Josh Freeman pass complete short left to Preston Parker for 7 yards (tackle by Dawan Landry),3.420,3.540
+2,14:17,3,7,JAX 13,13,0,"Josh Freeman up the middle for 13 yards, touchdown",3.540,7.000
+2,14:17,,,JAX 2,14,0,Connor Barth kicks extra point good,0.000,0.000
+2,14:17,,,TAM 35,14,0,"Michael Koenen kicks off 65 yards, touchback",0.000,0.280
+2,14:09,1,10,JAX 20,14,0,Blaine Gabbert pass incomplete short right intended for Cecil Shorts,0.280,-0.270
+2,14:02,2,10,JAX 20,14,0,Maurice Jones-Drew up the middle for 7 yards (tackle by Tanard Jackson),-0.270,-0.030
+2,13:21,3,3,JAX 27,14,0,Maurice Jones-Drew right end for -3 yards (tackle by Michael Bennett),-0.030,-1.770
+2,13:21,4,6,JAX 24,14,0,"Penalty on Erik Lorig: Neutral Zone Infraction, 5 yards (no play)",-1.770,-1.440
+2,12:42,4,1,JAX 29,14,0,"Nick Harris punts 39 yards, returned by Preston Parker for 1 yard (tackle by Brock Bolen)",-1.440,-1.140
+2,12:30,1,10,TAM 33,14,0,LeGarrette Blount up the middle for 4 yards (tackle by Paul Posluszny),1.140,1.130
+2,11:54,2,6,TAM 37,14,0,LeGarrette Blount up the middle for 8 yards (tackle by Russell Allen),1.130,1.930
+2,11:11,1,10,TAM 45,14,0,Josh Freeman sacked by Tyson Alualu for -2 yards,1.930,1.110
+2,10:31,2,12,TAM 43,14,0,"Josh Freeman pass complete short left to LeGarrette Blount for 6 yards (tackle by Tyson Alualu). LeGarrette Blount fumbles (forced by Tyson Alualu), recovered by Jeremy Zuttah at TAM-49",1.110,1.220
+2,9:51,3,6,TAM 49,14,0,Josh Freeman pass incomplete short right intended for Kellen Winslow,1.220,-0.130
+2,9:46,4,6,TAM 49,14,0,"Michael Koenen punts 51 yards, touchback",-0.130,-0.280
+2,9:37,1,10,JAX 20,14,0,Maurice Jones-Drew right guard for 13 yards (tackle by Sean Jones),0.280,1.140
+2,8:59,1,10,JAX 33,14,0,Maurice Jones-Drew left guard for no gain (tackle by Geno Hayes and Brian Price),1.140,0.590
+2,8:26,2,10,JAX 33,14,0,Blaine Gabbert pass complete short right to Jarett Dillard for 7 yards (tackle by Ronde Barber),0.590,0.830
+2,7:53,3,3,JAX 40,14,0,Blaine Gabbert pass incomplete short middle intended for Kassim Osgood (defended by Da'Quan Bowers),0.830,-0.720
+2,7:48,4,3,JAX 40,14,6,"Nick Harris punts 40 yards, returned by Preston Parker for no gain. Preston Parker fumbles (forced by Montell Owens), recovered by Colin Cloherty at TAM-8 and returned for 8 yards, touchdown",-0.720,7.000
+2,7:36,,,TAM 2,14,7,Josh Scobee kicks extra point good,0.000,0.000
+2,7:36,,,JAX 35,14,7,"Josh Scobee kicks off 65 yards, touchback",0.000,0.280
+2,7:36,1,10,TAM 20,14,7,LeGarrette Blount up the middle for 9 yards (tackle by Leger Douzable and Tyson Alualu),0.280,0.950
+2,6:57,2,1,TAM 29,14,7,LeGarrette Blount up the middle for 2 yards (tackle by Daryl Smith),0.950,1.000
+2,6:16,1,10,TAM 31,14,7,Josh Freeman pass complete deep middle to Mike Williams for 19 yards (tackle by Ashton Youboty),1.000,2.260
+2,5:34,1,10,,14,7,LeGarrette Blount up the middle for 7 yards (tackle by Russell Allen),2.260,2.660
+2,4:54,2,3,JAX 43,14,7,Josh Freeman pass incomplete deep left intended for Mike Williams,2.660,1.950
+2,4:46,3,3,JAX 43,14,7,"Josh Freeman pass incomplete. Penalty on Josh Freeman: Intentional Grounding, 11 yards",1.950,-0.320
+2,4:32,4,14,TAM 46,14,7,"Michael Koenen punts 31 yards, fair catch by Jarett Dillard",-0.320,-0.480
+2,4:32,1,10,JAX 23,14,7,Blaine Gabbert pass complete short right to Kassim Osgood for 2 yards (tackle by Brian Price and Mason Foster),0.480,0.200
+2,3:54,2,8,JAX 25,14,7,Blaine Gabbert pass complete short middle to Jarett Dillard for 11 yards (tackle by E.J. Biggers),0.200,1.330
+2,3:16,1,10,JAX 36,14,7,Blaine Gabbert pass complete deep middle to Marcedes Lewis for 62 yards (tackle by E.J. Biggers),1.330,6.740
+2,2:25,1,2,TAM 2,14,7,"Maurice Jones-Drew up the middle for 1 yard (tackle by Adam Hayward). Penalty on TAM: Defensive 12 On-field, 1 yards (no play)",6.740,6.970
+2,2:09,1,1,TAM 1,14,13,"Maurice Jones-Drew up the middle for 1 yard, touchdown",6.970,7.000
+2,2:09,,,TAM 2,14,14,Josh Scobee kicks extra point good,0.000,0.000
+2,2:09,,,JAX 35,14,14,"Josh Scobee kicks off 70 yards, touchback",0.000,0.280
+2,2:05,1,10,TAM 20,14,14,"Josh Freeman pass complete short left to Mike Williams for 1 yard (tackle by Dawan Landry and Jeremy Mincey). Penalty on Preston Parker: Offensive Holding, 10 yards",0.280,-0.680
+2,2:00,1,19,TAM 11,14,20,"Josh Freeman sacked by Daryl Smith for -10 yards. Josh Freeman fumbles (forced by Daryl Smith), recovered by Nate Collins at TAM--1, touchdown",-0.680,-7.000
+2,1:53,,,TAM 2,14,21,Josh Scobee kicks extra point good,0.000,0.000
+2,1:53,,,JAX 35,14,21,"Josh Scobee kicks off 72 yards, touchback",0.000,0.280
+2,1:53,1,10,TAM 20,14,21,Josh Freeman pass complete short middle to Kellen Winslow for 10 yards (tackle by Chris Prosinski),0.280,0.940
+2,1:19,1,10,TAM 30,14,21,Josh Freeman pass complete short right to Dezmon Briscoe for 6 yards (tackle by Paul Posluszny),0.940,1.200
+2,1:13,1,10,TAM 30,14,21,Timeout #1 by Tampa Bay Buccaneers,0.940,1.200
+2,1:13,2,4,TAM 36,14,21,Josh Freeman pass incomplete deep right intended for Kellen Winslow,1.200,0.500
+2,1:07,3,4,TAM 36,14,21,Josh Freeman pass incomplete short right intended for Mike Williams is intercepted by Ashton Youboty at TAM-49,0.500,-2.320
+2,1:02,1,10,TAM 49,14,21,Blaine Gabbert pass complete short right to Jarett Dillard for 7 yards,2.320,2.730
+2,0:55,2,3,TAM 42,14,21,Blaine Gabbert pass incomplete short left intended for Chastin West,2.730,2.020
+2,0:51,3,3,TAM 42,14,21,Blaine Gabbert pass complete short right to Maurice Jones-Drew for 8 yards (tackle by Mason Foster),2.020,3.310
+2,0:46,1,10,TAM 34,14,21,"Maurice Jones-Drew right end for 13 yards (tackle by Mason Foster). Penalty on Brad Meester: Offensive Holding, 10 yards (no play)",3.310,2.650
+2,0:40,1,20,TAM 44,14,21,Blaine Gabbert pass complete short right to Kassim Osgood for 12 yards (tackle by E.J. Biggers),2.650,3.040
+2,0:35,2,8,TAM 32,14,21,Brock Bolen up the middle for 10 yards (tackle by Da'Quan Bowers),3.040,4.110
+2,0:29,2,8,TAM 32,14,21,Timeout #1 by Jacksonville Jaguars,3.040,4.110
+2,0:29,1,10,TAM 22,14,21,Blaine Gabbert pass complete short right to Chastin West for 11 yards (tackle by E.J. Biggers),4.110,4.840
+2,0:24,1,10,TAM 11,14,21,Blaine Gabbert pass incomplete short right intended for Kassim Osgood,4.840,4.140
+2,0:19,2,10,TAM 11,14,21,Blaine Gabbert pass complete short right to Maurice Jones-Drew for 6 yards (tackle by Mason Foster and E.J. Biggers),4.140,4.440
+2,0:11,2,10,TAM 11,14,21,Timeout #2 by Jacksonville Jaguars,4.140,4.440
+2,0:11,3,4,TAM 5,14,27,"Blaine Gabbert pass complete short right to Maurice Jones-Drew for 5 yards, touchdown",4.440,7.000
+2,0:11,,,TAM 2,14,28,Josh Scobee kicks extra point good,0.000,0.000
+2,0:11,,,JAX 35,14,28,"Josh Scobee kicks off 72 yards, touchback",0.000,0.280
+2,0:04,1,10,TAM 20,14,28,Josh Freeman kneels for -1 yards,0.280,-0.460
+Quarter,Time,Down,ToGo,Location,TAM,JAX,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,TAM 35,14,28,"Michael Koenen kicks off 65 yards, touchback",0.000,0.280
+3,15:00,1,10,JAX 20,14,28,Maurice Jones-Drew right end for 6 yards (tackle by E.J. Biggers),0.280,0.540
+3,14:27,2,4,JAX 26,14,28,Blaine Gabbert pass complete short left to Kassim Osgood for 9 yards (tackle by Ronde Barber),0.540,1.270
+3,13:50,1,10,JAX 35,14,28,Maurice Jones-Drew up the middle for 7 yards (tackle by Roy Miller and Sean Jones),1.270,1.670
+3,13:17,2,3,JAX 42,14,28,"Maurice Jones-Drew up the middle for 3 yards (tackle by Mason Foster). Penalty on Will Rackley: Offensive Holding, 10 yards (no play)",1.670,0.320
+3,12:58,2,13,JAX 32,14,28,Blaine Gabbert pass complete short right to Jarett Dillard for -2 yards (tackle by Tanard Jackson),0.320,-0.630
+3,12:19,3,15,JAX 30,14,28,Blaine Gabbert pass complete short left to Chastin West for 8 yards (tackle by Ronde Barber),-0.630,-0.850
+3,11:44,4,7,JAX 38,14,28,"Nick Harris punts 43 yards, returned by Micheal Spurlock for 1 yard (tackle by Greg Jones)",-0.850,-0.280
+3,11:30,1,10,TAM 20,14,28,LeGarrette Blount right end for 5 yards (tackle by Paul Posluszny),0.280,0.410
+3,10:52,2,5,TAM 25,14,28,LeGarrette Blount up the middle for 4 yards (tackle by Chris Prosinski),0.410,0.230
+3,10:12,3,1,TAM 29,14,28,LeGarrette Blount left guard for 4 yards (tackle by Jeremy Mincey and Paul Posluszny),0.230,1.140
+3,9:37,1,10,TAM 33,14,28,Josh Freeman pass incomplete short right intended for LeGarrette Blount is intercepted by Paul Posluszny at TAM-34 and returned for 2 yards,1.140,-3.450
+3,9:30,1,10,TAM 32,14,28,"Penalty on Michael Bennett: Encroachment, 5 yards (no play)",3.450,4.180
+3,9:30,1,5,TAM 27,14,28,Blaine Gabbert pass complete deep middle to Jarett Dillard for 22 yards (tackle by Sean Jones),4.180,6.060
+3,8:55,1,5,TAM 5,14,28,Maurice Jones-Drew up the middle for no gain (tackle by Adrian Clayborn),6.060,5.150
+3,8:20,2,5,TAM 5,14,28,Blaine Gabbert pass incomplete short middle intended for Marcedes Lewis is intercepted by Mason Foster at TAM--7,5.150,-0.280
+3,8:13,1,10,TAM 20,14,28,"LeGarrette Blount up the middle for 11 yards (tackle by Russell Allen). LeGarrette Blount fumbles (forced by Russell Allen), recovered by Jeremy Mincey at TAM-31 (tackle by Jeremy Zuttah). Penalty on Leger Douzable: Personal Foul, 15 yards",0.280,-2.520
+,,,,,,,"TAM challenged the fumble ruling, and the play was upheld.",,
+3,7:59,1,10,TAM 46,14,28,Maurice Jones-Drew up the middle for 3 yards (tackle by Tanard Jackson),2.520,2.380
+3,7:25,2,7,TAM 43,14,28,Maurice Jones-Drew right end for -3 yards (tackle by Quincy Black),2.380,1.290
+3,6:44,3,10,TAM 46,14,28,Blaine Gabbert pass incomplete deep right intended for Kassim Osgood,1.290,0.200
+3,6:38,4,10,TAM 46,14,28,"Nick Harris punts 46 yards, touchback",0.200,-0.280
+3,6:30,1,10,TAM 20,14,28,Josh Freeman left end for 6 yards (tackle by Russell Allen),0.280,0.540
+3,5:48,2,4,TAM 26,14,28,LeGarrette Blount up the middle for 7 yards (tackle by Leger Douzable and Paul Posluszny),0.540,1.140
+3,5:09,1,10,TAM 33,14,28,LeGarrette Blount up the middle for 5 yards (tackle by Russell Allen),1.140,1.270
+3,4:27,2,5,TAM 38,14,28,"Josh Freeman pass incomplete deep left intended for Kellen Winslow. Penalty on LeGarrette Blount: Offensive Holding, 10 yards (no play)",1.270,-0.080
+3,4:27,2,15,TAM 28,14,28,"Penalty on Jeremy Trueblood: False Start, 5 yards (no play)",-0.080,-0.760
+3,4:22,2,20,TAM 23,14,28,Josh Freeman pass incomplete short right intended for Kregg Lumpkin,-0.760,-1.420
+3,4:17,3,20,TAM 23,14,28,Josh Freeman pass complete short middle to Mike Williams for 15 yards (tackle by Dawan Landry),-1.420,-0.850
+3,3:38,4,5,TAM 38,14,28,"Michael Koenen punts 43 yards, returned by Jarett Dillard for 14 yards (tackle by Jacob Cutrera). Penalty on Akwasi Owusu-Ansah: Illegal Block Above the Waist, 10 yards",-0.850,0.280
+3,3:28,1,10,JAX 14,14,28,Maurice Jones-Drew up the middle for -1 yards (tackle by Adrian Clayborn),-0.280,-0.850
+3,2:53,2,11,JAX 13,14,28,Blaine Gabbert pass incomplete short right intended for Greg Jones. Penalty on Uche Nwaneri: Offensive Holding (Declined),-0.850,-1.530
+3,2:45,3,11,JAX 13,14,28,Blaine Gabbert pass incomplete short left intended for Chastin West. Penalty on Uche Nwaneri: Offensive Holding (Declined),-1.530,-2.490
+3,2:38,4,11,JAX 13,14,28,"Nick Harris punts 44 yards, fair catch by Micheal Spurlock",-2.490,-1.800
+3,2:30,1,10,TAM 43,14,28,LeGarrette Blount right end for -6 yards (tackle by Daryl Smith and Leger Douzable),1.800,0.440
+3,1:48,2,16,TAM 37,14,28,Josh Freeman pass incomplete short left intended for Kellen Winslow (defended by Paul Posluszny),0.440,-0.230
+3,1:40,3,16,TAM 37,14,28,Josh Freeman pass complete short middle to Kregg Lumpkin for 8 yards (tackle by Paul Posluszny),-0.230,-0.390
+3,1:03,4,8,TAM 45,14,28,Michael Koenen punts 29 yards,-0.390,-0.670
+3,0:53,1,10,JAX 26,14,28,"Blaine Gabbert pass incomplete deep middle intended for Kassim Osgood. Penalty on Adrian Clayborn: Roughing the Passer, 15 yards (no play)",0.670,1.660
+3,0:47,1,10,JAX 41,14,28,"Blaine Gabbert for no gain. Blaine Gabbert fumbles, recovered by Blaine Gabbert at JAX-39",1.660,0.850
+3,0:16,2,12,JAX 39,14,28,"Blaine Gabbert pass complete short right to Chastin West for 10 yards (tackle by E.J. Biggers). Penalty on E.J. Biggers: Defensive Holding, 5 yards (no play)",0.850,1.860
+Quarter,Time,Down,ToGo,Location,TAM,JAX,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,JAX 44,14,28,Maurice Jones-Drew left guard for 14 yards (tackle by Tanard Jackson),1.860,2.790
+4,14:23,1,10,TAM 42,14,28,Maurice Jones-Drew up the middle for no gain (tackle by Quincy Black),2.790,2.240
+4,13:47,2,10,TAM 42,14,28,Blaine Gabbert pass incomplete short middle intended for Jarett Dillard,2.240,1.550
+4,13:44,2,10,TAM 42,14,28,Timeout #2 by Tampa Bay Buccaneers,2.240,1.550
+4,13:44,3,10,TAM 42,14,28,Blaine Gabbert pass complete short right to Maurice Jones-Drew for 17 yards (tackle by Dekoda Watson),1.550,3.910
+4,13:01,1,10,TAM 25,14,28,"DuJuan Harris up the middle for 4 yards (tackle by Quincy Black and Mason Foster). Penalty on Uche Nwaneri: Offensive Holding, 10 yards (no play)",3.910,3.250
+4,12:39,1,20,TAM 35,14,28,Blaine Gabbert pass incomplete short left intended for Brock Bolen,3.250,2.010
+4,12:33,2,20,TAM 35,14,28,DuJuan Harris left end for 24 yards (tackle by Sean Jones),2.010,4.840
+4,12:33,1,10,TAM 11,14,28,"Penalty on Blaine Gabbert: Delay of Game, 5 yards (no play)",4.840,4.340
+4,11:47,1,15,TAM 16,14,28,Blaine Gabbert pass complete short middle to Maurice Jones-Drew for 10 yards (tackle by Quincy Black),4.340,5.080
+4,11:08,2,5,TAM 6,14,28,Maurice Jones-Drew left end for 1 yard (tackle by Michael Bennett),5.080,4.440
+4,10:28,3,4,TAM 5,14,34,"Blaine Gabbert pass complete short left to Maurice Jones-Drew for 5 yards, touchdown",4.440,7.000
+4,10:28,,,TAM 2,14,35,Josh Scobee kicks extra point good,0.000,0.000
+4,10:28,,,JAX 35,14,35,"Josh Scobee kicks off 74 yards, touchback",0.000,0.280
+4,10:22,1,10,TAM 20,14,35,Josh Freeman pass complete short right to Dezmon Briscoe for 9 yards (tackle by Ashton Youboty),0.280,0.950
+4,9:45,2,1,TAM 29,14,35,Josh Freeman pass complete short right to Dezmon Briscoe for 5 yards (tackle by Ashton Youboty),0.950,1.200
+4,9:15,1,10,TAM 34,14,35,Josh Freeman pass complete short left to Preston Parker for 14 yards (tackle by Drew Coleman),1.200,2.130
+4,8:45,1,10,TAM 48,14,35,Josh Freeman pass incomplete short middle intended for Mike Williams,2.130,1.580
+4,8:39,2,10,TAM 48,14,35,"Josh Freeman sacked by Drew Coleman for -1 yards. Josh Freeman fumbles (forced by Drew Coleman), recovered by Mossis Madu at TAM-47",1.580,0.760
+4,8:03,3,11,TAM 47,14,35,Josh Freeman right end for 8 yards (tackle by Drew Coleman),0.760,0.270
+4,7:32,4,3,JAX 45,14,35,Josh Freeman pass incomplete short middle intended for Dezmon Briscoe (defended by Ashton Youboty),0.270,-1.930
+4,7:26,1,10,JAX 45,14,35,Maurice Jones-Drew left end for 2 yards (tackle by Ronde Barber),1.930,1.650
+4,6:47,2,8,JAX 47,14,35,Blaine Gabbert pass complete short right to Marcedes Lewis for 15 yards (tackle by Michael Bennett),1.650,3.050
+4,6:00,1,10,TAM 38,14,35,"Maurice Jones-Drew up the middle for 3 yards (tackle by Mason Foster). Penalty on Mason Foster: Face Mask (15 Yards), 15 yards",3.050,4.240
+4,5:35,1,10,TAM 20,14,35,Maurice Jones-Drew up the middle for 2 yards (tackle by Quincy Black and Adrian Clayborn),4.240,3.960
+4,4:54,2,8,TAM 18,14,35,Maurice Jones-Drew up the middle for -2 yards (tackle by Da'Quan Bowers),3.960,3.010
+4,4:11,3,10,TAM 20,14,35,Maurice Jones-Drew left end for 1 yard (tackle by Mason Foster),3.010,2.180
+4,4:11,4,9,TAM 19,14,35,"Blaine Gabbert pass incomplete deep right intended for Kassim Osgood. Penalty on E.J. Biggers: Personal Foul, 10 yards (no play)",2.180,5.140
+4,3:19,1,9,TAM 9,14,35,Maurice Jones-Drew up the middle for 8 yards (tackle by Tanard Jackson),5.140,5.910
+4,2:39,2,1,TAM 1,14,35,Blaine Gabbert pass incomplete short middle intended for Marcedes Lewis,5.910,5.170
+4,2:35,3,1,TAM 1,14,41,"Maurice Jones-Drew up the middle for 1 yard, touchdown",5.170,7.000
+4,2:35,,,,14,41,"Two Point Attempt: DuJuan Harris right end, conversion fails",1.000,-1.000
+4,2:35,,,JAX 35,14,41,"Russell Allen kicks off 20 yards, returned by Mossis Madu for no gain",0.000,1.930
+4,2:30,1,10,TAM 45,14,41,Josh Johnson pass complete short middle to Mossis Madu for 3 yards (tackle by Russell Allen),1.930,1.790
+4,1:57,2,7,TAM 48,14,41,Josh Johnson pass incomplete short left intended for Dezmon Briscoe is intercepted by Kevin Rutland at JAX-48 and returned for 12 yards,1.790,-2.920
+4,1:52,1,10,TAM 40,14,41,Blaine Gabbert kneels for -1 yards,2.920,2.240
+4,1:11,2,11,TAM 41,14,41,Blaine Gabbert kneels for -1 yards,2.240,1.420
+4,0:35,3,12,TAM 42,14,41,Blaine Gabbert kneels for -1 yards,1.420,0.400
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,166 @@
+Quarter,Time,Down,ToGo,Location,CIN,MIN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Bengals won the coin toss and deferred, Vikings to receive the opening kickoff.",,
+1,15:00,,,CIN 35,0,0,"Randy Bullock kicks off 65 yards, touchback",0.000,-0.610
+1,15:00,1,10,MIN 25,0,0,Case Keenum sacked by Geno Atkins for -9 yards,0.610,-1.290
+1,14:28,2,19,MIN 16,0,0,Case Keenum pass complete short left to Latavius Murray for 28 yards (tackle by William Jackson),-1.290,1.860
+1,13:52,1,10,MIN 44,0,0,Latavius Murray left guard for 3 yards (tackle by Hardy Nickerson),1.860,1.720
+1,13:32,2,7,MIN 47,0,0,Case Keenum left end for 20 yards (tackle by Hardy Nickerson),1.720,3.380
+1,12:58,1,10,CIN 33,0,0,Jerick McKinnon right end for 6 yards (tackle by Clayton Fejedelem and Jordan Evans),3.380,3.650
+1,12:29,2,4,CIN 27,0,0,Latavius Murray middle for 1 yard (tackle by Vincent Rey and Michael Johnson),3.650,3.070
+1,11:47,3,3,CIN 26,0,0,Case Keenum pass complete short right to Adam Thielen for 21 yards (tackle by Vincent Rey),3.070,6.060
+1,11:17,1,5,CIN 5,0,0,Jerick McKinnon left end for 4 yards (tackle by Jordan Evans),6.060,5.910
+1,10:35,2,1,CIN 1,0,6,"Latavius Murray middle for 1 yard, touchdown",5.910,7.000
+1,10:31,,,CIN 15,0,7,Kai Forbath kicks extra point good,0.000,0.000
+1,10:31,,,MIN 35,0,7,"Kai Forbath kicks off 65 yards, touchback",0.000,-0.610
+1,10:31,1,10,CIN 25,0,7,Andy Dalton pass complete short right to C.J. Uzomah for 9 yards (tackle by Eric Kendricks and Xavier Rhodes),0.610,1.280
+1,9:57,2,1,CIN 34,0,7,Giovani Bernard left end for -2 yards (tackle by Eric Kendricks),1.280,0.300
+1,9:10,3,3,CIN 32,0,7,Andy Dalton pass incomplete short right intended for Brandon LaFell (defended by Terence Newman),0.300,-1.240
+1,9:07,4,3,CIN 32,0,7,"Kevin Huber punts 52 yards, returned by Marcus Sherels for 16 yards (tackle by Brandon Wilson)",-1.240,-1.070
+1,8:55,1,10,MIN 32,0,7,"Latavius Murray left guard for 2 yards (tackle by William Jackson). Penalty on David Morgan: Offensive Holding, 10 yards",1.070,0.540
+1,8:34,1,18,MIN 24,0,7,Case Keenum pass incomplete deep left intended for Stefon Diggs (defended by George Iloka),0.540,-0.550
+1,8:27,2,18,MIN 24,0,7,Case Keenum pass complete short left to C.J. Ham for 6 yards (tackle by Jordan Evans),-0.550,-0.430
+1,7:44,3,12,MIN 30,0,7,Case Keenum pass complete short left to Jerick McKinnon for 6 yards (tackle by Vincent Rey),-0.430,-0.980
+1,7:07,4,6,MIN 36,0,7,"Ryan Quigley punts 46 yards, returned by Alex Erickson for 1 yard (tackle by Eric Wilson)",-0.980,-0.150
+1,6:53,1,10,CIN 19,0,7,"Penalty on Andre Smith: False Start, 5 yards (no play)",0.150,-0.390
+1,6:53,1,15,CIN 14,0,7,"Penalty on Tom Johnson: Encroachment, 5 yards (no play)",-0.390,0.150
+1,6:53,1,10,CIN 19,0,7,Josh Malone right end for 4 yards (tackle by Danielle Hunter and Andrew Sendejo),0.150,0.210
+1,6:10,2,6,CIN 23,0,7,Andy Dalton pass incomplete short right intended for Brandon LaFell,0.210,-0.550
+1,6:05,3,6,CIN 23,0,13,"Andy Dalton pass incomplete short middle intended for Alex Erickson is intercepted by Eric Kendricks at CIN-31 and returned for 31 yards, touchdown",-0.550,-7.000
+1,,,,CIN 15,0,14,Kai Forbath kicks extra point good,,
+1,5:54,,,MIN 35,0,14,"Kai Forbath kicks off 66 yards, returned by Alex Erickson for 30 yards (tackle by Andrew Sendejo)",0.000,-0.870
+1,5:49,1,10,CIN 29,0,14,Giovani Bernard middle for 2 yards (tackle by Everson Griffen),0.870,0.600
+1,5:13,2,8,CIN 31,0,14,Giovani Bernard left end for 4 yards (tackle by Linval Joseph),0.600,0.430
+1,4:32,3,4,CIN 35,0,14,Giovani Bernard left end for 3 yards (tackle by Tom Johnson and Anthony Barr),0.430,-0.850
+1,3:46,4,1,CIN 38,0,14,Giovani Bernard right guard for no gain (tackle by Ben Gedeon and Eric Kendricks),-0.850,-3.050
+1,3:40,1,10,CIN 38,0,14,"Penalty on Nick Easton: False Start, 5 yards (no play)",3.050,2.720
+1,3:40,1,15,CIN 43,0,14,Jerick McKinnon right tackle for -3 yards (tackle by Pat Sims),2.720,1.430
+1,3:01,2,18,CIN 46,0,14,Case Keenum sacked by Geno Atkins for -5 yards,1.430,0.100
+1,2:17,3,23,MIN 49,0,14,Case Keenum pass complete short middle to Kyle Rudolph for 16 yards (tackle by Vincent Rey and Jordan Evans),0.100,0.970
+1,1:35,4,7,CIN 35,0,17,Kai Forbath 53 yard field goal good,0.970,3.000
+1,1:30,,,MIN 35,0,17,"Kai Forbath kicks off 67 yards, returned by Alex Erickson for 14 yards (tackle by Jayron Kearse)",0.000,0.350
+1,1:25,1,10,CIN 12,0,17,Andy Dalton sacked by Brian Robison for -2 yards,-0.350,-0.930
+1,0:46,2,12,CIN 10,0,17,Andy Dalton pass complete short left to Brandon LaFell for 8 yards (tackle by Xavier Rhodes),-0.930,-0.720
+1,0:05,3,4,CIN 18,0,17,Andy Dalton pass incomplete short right intended for A.J. Green,-0.720,-2.240
+1,0:01,4,4,CIN 18,0,17,"Kevin Huber punts 52 yards, returned by Marcus Sherels for 10 yards (tackle by Clark Harris)",-2.240,-1.600
+Quarter,Time,Down,ToGo,Location,CIN,MIN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,MIN 40,0,17,Case Keenum pass incomplete deep right intended for Adam Thielen,1.600,1.050
+2,14:55,2,10,MIN 40,0,17,Case Keenum pass complete short right to Jerick McKinnon for 1 yard (tackle by Shawn Williams),1.050,0.000
+2,14:06,,,,,,Timeout #1 by Minnesota Vikings,0.000,-0.500
+2,14:06,3,9,MIN 41,0,17,"Case Keenum pass complete short left to Stefon Diggs for 16 yards (tackle by Clayton Fejedelem). Penalty on Nick Easton: Illegal Use of Hands, 10 yards (no play)",0.500,-0.820
+2,13:52,3,19,MIN 31,0,17,Case Keenum pass complete short left to Jarius Wright for 11 yards (tackle by Clayton Fejedelem),-0.820,-0.590
+2,13:12,4,8,MIN 42,0,17,"Ryan Quigley punts 45 yards, returned by Alex Erickson for 2 yards (tackle by Eric Wilson). Alex Erickson fumbles (forced by Eric Wilson), recovered by Alex Erickson at CIN-15",-0.590,-0.540
+2,12:58,1,10,CIN 24,0,17,Andy Dalton pass complete short left to A.J. Green for 14 yards (tackle by Trae Waynes),0.540,1.470
+2,12:39,1,10,CIN 38,0,17,Giovani Bernard right guard for 1 yard (tackle by Tom Johnson and Danielle Hunter),1.470,1.060
+2,11:59,2,9,CIN 39,0,17,Andy Dalton pass incomplete deep left intended for Tyler Kroft,1.060,0.370
+2,11:52,3,9,CIN 39,0,17,Andy Dalton sacked by Brian Robison for -6 yards,0.370,-1.180
+2,11:13,4,15,CIN 33,0,17,"Kevin Huber punts 44 yards, out of bounds",-1.180,-0.480
+2,11:05,1,10,MIN 23,0,17,Case Keenum pass complete short right to Stefon Diggs for 4 yards (tackle by Vincent Rey),0.480,0.470
+2,10:25,2,6,MIN 27,0,17,Latavius Murray left guard for 4 yards (tackle by Carlos Dunlap),0.470,0.300
+2,9:47,3,2,MIN 31,0,17,Case Keenum pass complete short right to Jerick McKinnon for 41 yards (tackle by William Jackson),0.300,3.710
+2,9:03,1,10,CIN 28,0,17,Case Keenum pass complete short right to Stefon Diggs for 2 yards (tackle by Darqueze Dennard),3.710,3.440
+2,8:20,2,8,CIN 26,0,17,Latavius Murray left guard for 6 yards (tackle by Clayton Fejedelem),3.440,3.530
+2,7:39,3,2,CIN 20,0,17,"Case Keenum pass incomplete short left intended for Jerick McKinnon. Penalty on Vincent Rey: Defensive Pass Interference, 6 yards (no play)",3.530,4.650
+2,7:35,1,10,CIN 14,0,17,Case Keenum pass complete short left to Stefon Diggs for 3 yards (tackle by Vincent Rey),4.650,4.520
+2,7:05,2,7,CIN 11,0,17,"Latavius Murray right end for 1 yard (tackle by Darqueze Dennard). Penalty on Jarius Wright: Offensive Holding, 10 yards",4.520,3.280
+2,6:47,2,16,CIN 20,0,23,"Case Keenum pass complete deep right to Stefon Diggs for 20 yards, touchdown",3.280,7.000
+2,6:41,,,CIN 15,0,24,Kai Forbath kicks extra point good,0.000,0.000
+2,6:41,,,MIN 35,0,24,"Kai Forbath kicks off 65 yards, touchback",0.000,-0.610
+2,6:41,1,10,CIN 25,0,24,Giovani Bernard left tackle for 2 yards (tackle by Andrew Sendejo),0.610,0.330
+2,6:04,2,8,CIN 27,0,24,Andy Dalton pass complete short left to C.J. Uzomah for 7 yards (tackle by Xavier Rhodes),0.330,0.560
+2,5:21,3,1,CIN 34,0,24,Andy Dalton sacked by Danielle Hunter for -9 yards,0.560,-1.700
+2,4:42,4,10,CIN 25,0,24,"Kevin Huber punts 50 yards, returned by Marcus Sherels for 6 yards (tackle by Ryan Hewitt)",-1.700,-1.000
+2,4:31,1,10,MIN 31,0,24,Latavius Murray right tackle for 4 yards (tackle by Vincent Rey),1.000,1.000
+2,4:02,2,6,MIN 35,0,24,Stefon Diggs right end for 7 yards (tackle by Clayton Fejedelem),1.000,1.730
+2,3:21,1,10,MIN 42,0,24,Jerick McKinnon left end for no gain (tackle by Vincent Rey),1.730,1.190
+2,2:43,2,10,MIN 42,0,24,Jerick McKinnon right guard for 7 yards (tackle by Josh Shaw and Ryan Glasgow),1.190,1.420
+2,2:01,3,3,MIN 49,0,24,"Penalty on Mike Remmers: False Start, 5 yards (no play)",1.420,0.760
+2,2:00,3,8,MIN 44,0,24,Case Keenum pass complete short middle to Stefon Diggs for 1 yard (tackle by Chris Smith),0.760,-0.390
+2,1:16,4,7,MIN 45,0,24,Ryan Quigley punts 53 yards,-0.390,0.380
+2,1:07,1,10,CIN 2,0,24,Giovani Bernard middle for 3 yards (tackle by Linval Joseph),-0.380,0.000
+2,1:02,,,,,,Timeout #2 by Minnesota Vikings,0.000,0.560
+2,1:02,2,7,CIN 5,0,24,Andy Dalton pass incomplete short left intended for Josh Malone,-0.560,-1.070
+2,0:59,3,7,CIN 5,0,24,Giovani Bernard left tackle for 4 yards (tackle by Everson Griffen and Anthony Barr),-1.070,0.000
+2,0:51,,,,,,Timeout #3 by Minnesota Vikings,0.000,2.490
+2,0:51,4,3,CIN 9,0,24,"Kevin Huber punts 49 yards, returned by Marcus Sherels for no gain. Penalty on Ben Gedeon: Illegal Block Above the Waist, 10 yards",-2.490,-0.870
+2,0:38,1,10,MIN 29,0,24,Jerick McKinnon left guard for no gain (tackle by Geno Atkins),0.870,0.330
+Quarter,Time,Down,ToGo,Location,CIN,MIN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,MIN 35,0,24,"Kai Forbath kicks off 65 yards, touchback",0.000,-0.610
+3,15:00,1,10,CIN 25,0,24,Giovani Bernard left tackle for 1 yard (tackle by Harrison Smith and Linval Joseph),0.610,0.200
+3,14:21,2,9,CIN 26,0,24,Andy Dalton pass complete short middle to A.J. Green for 16 yards (tackle by Xavier Rhodes),0.200,1.730
+3,13:45,1,10,CIN 42,0,24,Andy Dalton pass complete short left to Tyler Kroft for -5 yards (tackle by Harrison Smith),1.730,0.510
+3,13:03,2,15,CIN 37,0,24,Andy Dalton pass incomplete short left intended for Tyler Kroft,0.510,0.000
+3,12:56,,,,,,Timeout #1 by Cincinnati Bengals,0.000,0.160
+3,12:56,3,15,CIN 37,0,24,Andy Dalton pass complete short right to Giovani Bernard for 12 yards (tackle by Andrew Sendejo),-0.160,-0.130
+3,12:08,4,3,CIN 49,0,24,"Kevin Huber punts 39 yards, fair catch by Marcus Sherels",-0.130,0.350
+3,12:03,1,10,MIN 12,0,24,Latavius Murray right end for -1 yards (tackle by Josh Shaw),-0.350,-0.850
+3,11:37,2,11,MIN 11,0,24,Latavius Murray left guard for 12 yards (tackle by Michael Johnson and Clayton Fejedelem),-0.850,0.480
+3,10:50,1,10,MIN 23,0,24,Latavius Murray left guard for 14 yards (tackle by Clayton Fejedelem and William Jackson),0.480,1.400
+3,10:11,1,10,MIN 37,0,24,Latavius Murray middle for no gain (tackle by Hardy Nickerson),1.400,0.860
+3,9:28,2,10,MIN 37,0,24,Case Keenum pass complete short right to Adam Thielen for 10 yards (tackle by Darqueze Dennard and Shawn Williams),0.860,2.060
+3,8:43,1,10,MIN 47,0,24,Case Keenum pass complete short left to Jerick McKinnon for 29 yards (tackle by Darqueze Dennard),2.060,3.970
+3,8:02,1,10,CIN 24,0,24,Jerick McKinnon right end for no gain (tackle by Tony McRae),3.970,3.430
+3,7:26,2,10,CIN 24,0,24,Case Keenum pass incomplete short right intended for Adam Thielen,3.430,2.740
+3,7:20,3,10,CIN 24,0,24,Case Keenum pass complete short left to Jerick McKinnon for 7 yards (tackle by Darqueze Dennard and Chris Smith),2.740,2.410
+3,6:37,4,3,CIN 17,0,27,Kai Forbath 35 yard field goal good,2.410,3.000
+3,6:34,,,MIN 35,0,27,"Kai Forbath kicks off 65 yards, touchback",0.000,-0.610
+3,6:34,1,10,CIN 25,0,27,Andy Dalton pass incomplete short middle intended for Brandon LaFell is intercepted by Terence Newman at CIN-28 and returned for 3 yards,0.610,-3.910
+3,6:27,1,10,CIN 25,0,27,Latavius Murray right end for no gain (tackle by Michael Johnson),3.910,3.360
+3,5:47,2,10,CIN 25,0,27,"Jerick McKinnon left end for 2 yards (tackle by Ryan Glasgow and Pat Sims). Penalty on Rashod Hill: Offensive Holding, 10 yards (no play)",3.360,2.010
+3,5:21,2,20,CIN 35,0,27,Case Keenum pass complete short left to Jerick McKinnon for -1 yards (tackle by Jordan Evans and Michael Johnson),2.010,1.220
+3,4:38,3,21,CIN 36,0,27,Case Keenum pass complete short right to Adam Thielen for -1 yards (tackle by Carlos Dunlap),1.220,0.790
+3,3:56,4,22,CIN 37,0,27,"Ryan Quigley punts 28 yards, fair catch by Alex Erickson",0.790,0.380
+3,3:49,1,10,CIN 9,0,27,Andy Dalton pass complete short right to Tyler Kroft for 6 yards (tackle by Anthony Barr),-0.380,-0.280
+3,3:11,2,4,CIN 15,0,27,Andy Dalton pass incomplete short right intended for Giovani Bernard,-0.280,-0.720
+3,3:07,3,4,CIN 15,0,27,"Penalty on Andy Dalton: Delay of Game, 5 yards (no play)",-0.720,-1.300
+3,3:07,3,9,CIN 10,0,27,Andy Dalton pass complete deep right to Brandon LaFell for 45 yards (tackle by Terence Newman),-1.300,2.590
+3,2:34,1,10,MIN 45,0,27,Andy Dalton pass incomplete deep right intended for A.J. Green,2.590,2.040
+3,2:29,2,10,MIN 45,0,27,Giovani Bernard right tackle for 2 yards (tackle by Shamar Stephen and Linval Joseph),2.040,1.620
+3,1:45,3,8,MIN 43,0,27,Andy Dalton pass incomplete short right intended for Giovani Bernard,1.620,0.400
+3,1:39,4,8,MIN 43,0,27,"Kevin Huber punts 26 yards, fair catch by Marcus Sherels",0.400,0.060
+3,1:31,1,10,MIN 17,0,27,Latavius Murray left guard for 3 yards (tackle by Vincent Rey),-0.060,-0.060
+3,0:53,2,7,MIN 20,0,27,Latavius Murray right guard for 5 yards (tackle by Vincent Rey and Geno Atkins),-0.060,-0.240
+3,0:19,3,2,MIN 25,0,27,"Case Keenum pass complete short right to Jerick McKinnon for 31 yards (tackle by Clayton Fejedelem and Shawn Williams). Penalty on Shawn Williams: Face Mask (15 Yards), 15 yards",-0.240,3.640
+Quarter,Time,Down,ToGo,Location,CIN,MIN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,CIN 29,0,27,Latavius Murray left guard for 9 yards (tackle by Clayton Fejedelem and Vincent Rey),3.640,4.320
+4,14:30,2,1,CIN 20,0,27,Latavius Murray middle for no gain (tackle by Shawn Williams),4.320,3.600
+4,13:47,3,1,CIN 20,0,27,Latavius Murray left guard for 6 yards (tackle by William Jackson),3.600,4.650
+4,13:05,1,10,CIN 14,0,27,"Case Keenum pass incomplete short right intended for Adam Thielen. Penalty on Darqueze Dennard: Defensive Pass Interference, 13 yards (no play)",4.650,6.970
+4,12:59,1,1,CIN 1,0,33,"Case Keenum pass complete short left to Kyle Rudolph for 1 yard, touchdown",6.970,7.000
+4,12:53,,,CIN 15,0,34,Kai Forbath kicks extra point good,0.000,0.000
+4,12:53,,,MIN 35,0,34,"Kai Forbath kicks off 65 yards, touchback",0.000,-0.610
+4,12:53,1,10,CIN 25,0,34,Giovani Bernard left guard for 4 yards (tackle by Eric Kendricks),0.610,0.600
+4,12:16,2,6,CIN 29,0,34,Andy Dalton pass complete short right to Giovani Bernard for no gain,0.600,-0.100
+4,11:32,3,6,CIN 29,0,34,Andy Dalton pass complete short right to Giovani Bernard for 1 yard (tackle by Brian Robison),-0.100,-1.370
+4,10:51,4,5,CIN 30,0,34,"Kevin Huber punts 53 yards, returned by Marcus Sherels for 9 yards (tackle by Brandon Wilson). Penalty on Tramaine Brock: Offensive Holding, 10 yards",-1.370,0.140
+4,10:38,1,10,MIN 16,0,34,Jerick McKinnon middle for 9 yards (tackle by Clayton Fejedelem),-0.140,0.690
+4,10:06,2,1,MIN 25,0,34,Jerick McKinnon left guard for 1 yard (tackle by Jordan Willis),0.690,0.670
+4,9:31,1,10,MIN 26,0,34,Teddy Bridgewater pass incomplete short middle intended for Jerick McKinnon is intercepted by Shawn Williams at MIN-30 and returned for 7 yards,0.670,-4.040
+4,9:18,1,10,MIN 23,0,34,Brian Hill middle for 2 yards (tackle by Kentrell Brothers),4.040,3.770
+4,8:41,2,8,MIN 21,0,34,Brian Hill left guard for 1 yard (tackle by Shamar Stephen and Emmanuel Lamur),3.770,3.200
+4,7:58,3,7,MIN 20,0,34,A.J. McCarron pass incomplete short left intended for Brandon LaFell (defended by Emmanuel Lamur),3.200,2.120
+4,7:54,4,7,MIN 20,0,34,A.J. McCarron pass complete short middle to Alex Erickson for 11 yards (tackle by Ben Gedeon),2.120,5.140
+4,7:17,1,9,MIN 9,0,34,Giovani Bernard left tackle for 4 yards (tackle by Emmanuel Lamur and Kentrell Brothers),5.140,5.150
+4,6:32,2,5,MIN 5,0,34,"A.J. McCarron pass incomplete short left intended for A.J. Green. Penalty on Tramaine Brock: Illegal Use of Hands, 3 yards (no play)",5.150,0.000
+4,6:26,,,,,,Timeout #1 by Minnesota Vikings,0.000,-6.740
+4,6:26,1,2,MIN 2,6,34,"Giovani Bernard right tackle for 2 yards, touchdown",6.740,7.000
+4,6:22,,,MIN 15,7,34,Randy Bullock kicks extra point good,0.000,0.000
+4,6:22,,,CIN 35,7,34,"Randy Bullock kicks off 65 yards, touchback",0.000,-0.610
+4,6:22,1,10,MIN 25,7,34,Latavius Murray middle for 4 yards (tackle by Jordan Evans),0.610,0.600
+4,5:40,2,6,MIN 29,7,34,Latavius Murray right guard for 2 yards (tackle by Hardy Nickerson),0.600,0.170
+4,4:55,3,4,MIN 31,7,34,Teddy Bridgewater pass incomplete short middle intended for Michael Floyd,0.170,-1.310
+4,4:51,4,4,MIN 31,7,34,"Ryan Quigley punts 45 yards, fair catch by Alex Erickson",-1.310,-0.540
+4,4:44,1,10,CIN 24,7,34,Brian Hill middle for 8 yards (tackle by Emmanuel Lamur and Jayron Kearse),0.540,1.080
+4,4:07,2,2,CIN 32,7,34,Brian Hill middle for 3 yards (tackle by Emmanuel Lamur and Tom Johnson),1.080,1.270
+4,3:33,1,10,CIN 35,7,34,"A.J. McCarron pass complete short right to C.J. Uzomah for 1 yard (tackle by Jayron Kearse). Penalty on Jayron Kearse: Taunting, 15 yards",1.270,2.320
+4,3:23,1,10,MIN 49,7,34,Brian Hill middle for -2 yards (tackle by Jayron Kearse),2.320,1.510
+4,3:01,2,12,CIN 49,7,34,A.J. McCarron pass incomplete short right intended for Josh Malone,1.510,0.830
+4,2:54,3,12,CIN 49,7,34,A.J. McCarron pass complete short left to C.J. Uzomah for 7 yards (tackle by Emmanuel Lamur),0.830,0.330
+4,2:06,4,5,MIN 44,7,34,A.J. McCarron pass incomplete deep left intended for Josh Malone,0.330,-1.860
+4,2:00,1,10,MIN 44,7,34,Teddy Bridgewater kneels for -1 yards,1.860,1.180
+4,1:18,2,11,MIN 43,7,34,Teddy Bridgewater kneels for -1 yards,1.180,0.370
+4,0:38,3,12,MIN 42,7,34,Teddy Bridgewater kneels for -1 yards,0.370,-0.650
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

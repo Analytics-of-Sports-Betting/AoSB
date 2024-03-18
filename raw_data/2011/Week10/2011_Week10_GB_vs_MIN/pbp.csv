@@ -1,0 +1,179 @@
+Quarter,Time,Down,ToGo,Location,MIN,GNB,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Packers won the coin toss and deferred, Vikings to receive the opening kickoff.",,
+1,15:00,,,GNB 35,0,0,"Mason Crosby kicks off 65 yards, touchback",0.000,0.280
+1,15:00,1,10,MIN 20,0,0,Adrian Peterson up the middle for 2 yards (tackle by Morgan Burnett and Desmond Bishop),0.280,0.000
+1,14:24,2,8,MIN 22,0,0,Christian Ponder pass complete short right to Percy Harvin for 6 yards (tackle by Charlie Peprah),0.000,0.100
+1,14:04,3,2,MIN 28,0,0,Christian Ponder pass incomplete short left intended for Visanthe Shiancoe,0.100,-1.500
+1,13:42,4,2,MIN 28,0,6,"Chris Kluwe punts 52 yards, returned by Randall Cobb for 80 yards, touchdown",-1.500,-7.000
+1,,,,MIN 2,0,7,Mason Crosby kicks extra point good,0.000,0.000
+1,,,,GNB 35,0,7,"Mason Crosby kicks off 65 yards, touchback",0.000,0.280
+1,13:42,1,10,MIN 20,0,7,Adrian Peterson left tackle for 1 yard (tackle by Clay Matthews),0.280,-0.130
+1,13:05,2,9,MIN 21,0,7,Adrian Peterson up the middle for 5 yards (tackle by A.J. Hawk and Morgan Burnett),-0.130,-0.160
+1,12:27,3,4,MIN 26,0,7,Christian Ponder pass complete short right to Percy Harvin for 8 yards (tackle by Jarrett Bush and Charlie Peprah),-0.160,1.200
+1,11:45,1,10,MIN 34,0,7,"Christian Ponder sacked by Clay Matthews for -7 yards. Christian Ponder fumbles (forced by Clay Matthews), recovered by Adrian Peterson at MIN-25",1.200,-0.560
+1,11:03,2,19,MIN 25,0,7,Adrian Peterson left end for 3 yards (tackle by Charles Woodson),-0.560,-0.820
+1,10:37,3,16,MIN 28,0,7,Christian Ponder pass complete short middle to Percy Harvin for 6 yards (tackle by Charles Woodson),-0.820,-1.110
+1,10:03,4,10,MIN 34,0,7,"Chris Kluwe punts 36 yards, fair catch by Randall Cobb",-1.110,-0.940
+1,9:55,1,10,GNB 30,0,7,"Aaron Rodgers sacked for -7 yards. Aaron Rodgers fumbles, recovered by Aaron Rodgers at GNB-23",0.940,-0.550
+1,9:34,2,17,GNB 23,0,7,Aaron Rodgers for 9 yards (tackle by Asher Allen),-0.550,-0.030
+1,9:02,3,8,GNB 32,0,7,Aaron Rodgers pass complete deep left to Donald Driver for 22 yards (tackle by Asher Allen),-0.030,2.520
+1,8:28,1,10,MIN 46,0,7,Aaron Rodgers pass complete short right to Greg Jennings for 2 yards (tackle by Antoine Winfield),2.520,2.250
+1,8:04,2,8,MIN 44,0,7,Ryan Grant right end for 1 yard (tackle by Chad Greenway and Christian Ballard),2.250,1.680
+1,7:28,3,7,MIN 43,0,7,Aaron Rodgers pass complete short right to James Starks for 7 yards (tackle by Chad Greenway),1.680,3.180
+1,6:49,1,10,MIN 36,0,7,Ryan Grant right guard for 2 yards (tackle by Christian Ballard and Jared Allen),3.180,2.910
+1,6:20,2,8,MIN 34,0,7,Aaron Rodgers pass complete short right to Jordy Nelson for 7 yards (tackle by Cedric Griffin),2.910,3.140
+1,5:41,3,1,MIN 27,0,7,Aaron Rodgers up the middle for 3 yards (tackle by Kevin Williams),3.140,3.970
+1,5:11,1,10,MIN 24,0,7,Aaron Rodgers pass incomplete short left intended for Jermichael Finley (defended by Kevin Williams),3.970,3.430
+1,5:07,2,10,MIN 24,0,13,"Aaron Rodgers pass complete deep middle to Greg Jennings for 24 yards, touchdown",3.430,7.000
+1,,,,MIN 2,0,14,Mason Crosby kicks extra point good,0.000,0.000
+1,,,,GNB 35,0,14,"Mason Crosby kicks off 65 yards, touchback",0.000,0.280
+1,5:02,1,10,MIN 20,0,14,Joe Webb left end for 6 yards (tackle by Ryan Pickett),0.280,0.540
+1,4:27,2,4,MIN 26,0,14,Christian Ponder pass incomplete intended for Devin Aromashodu (defended by Morgan Burnett),0.540,-0.160
+1,4:21,3,4,MIN 26,0,14,Christian Ponder pass complete deep middle to Visanthe Shiancoe for 33 yards (tackle by Charlie Peprah),-0.160,2.850
+1,3:43,1,10,GNB 41,0,14,Percy Harvin up the middle for 8 yards (tackle by Desmond Bishop),2.850,3.390
+1,3:10,2,2,GNB 33,0,14,"Christian Ponder pass complete deep right to Percy Harvin for 31 yards (tackle by Tramon Williams). Penalty on Percy Harvin: Offensive Pass Interference, 10 yards (no play)",3.390,2.040
+1,2:47,2,12,GNB 43,0,14,Adrian Peterson up the middle for 13 yards (tackle by A.J. Hawk and Charlie Peprah),2.040,3.580
+1,2:05,1,10,GNB 30,0,14,Adrian Peterson up the middle for 1 yard (tackle by C.J. Wilson),3.580,3.170
+1,1:31,2,9,GNB 29,0,14,Christian Ponder pass incomplete short middle intended for Adrian Peterson (defended by Desmond Bishop),3.170,2.480
+1,1:25,3,9,GNB 29,0,14,Christian Ponder pass incomplete short left intended for Visanthe Shiancoe (defended by Charles Woodson),2.480,1.500
+,,,,,,,"MIN challenged the incomplete pass ruling, and the original play was overturned.",,
+1,1:18,4,9,GNB 29,0,14,"Penalty on Fred Evans: False Start, 5 yards (no play)",1.500,1.060
+1,1:18,4,14,GNB 34,0,14,Ryan Longwell 52 yard field goal no good,1.060,-1.730
+1,1:14,1,10,GNB 42,0,14,Aaron Rodgers pass complete deep right to Randall Cobb for 19 yards (tackle by Husain Abdullah),1.730,2.980
+1,0:49,1,10,MIN 39,0,14,James Starks up the middle for -4 yards (tackle by Christian Ballard),2.980,1.900
+1,0:11,2,14,MIN 43,0,14,Aaron Rodgers pass complete short right to Randall Cobb for 10 yards (tackle by Cedric Griffin),1.900,2.540
+Quarter,Time,Down,ToGo,Location,MIN,GNB,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,4,MIN 33,0,14,"Penalty on Jermichael Finley: False Start, 5 yards (no play)",2.540,1.880
+2,15:00,,,,0,14,Timeout #1 by Green Bay Packers,0.000,1.880
+2,15:00,3,9,MIN 38,0,14,Aaron Rodgers up the middle for 4 yards (tackle by Jared Allen),1.880,1.070
+2,14:16,4,5,MIN 34,0,14,Aaron Rodgers pass complete deep left to Jermichael Finley for 25 yards (tackle by Husain Abdullah),1.070,5.140
+2,13:29,1,9,MIN 9,0,14,Aaron Rodgers sacked by Jared Allen for -9 yards,5.140,3.150
+2,12:48,2,18,MIN 18,0,14,Aaron Rodgers pass incomplete short middle intended for Greg Jennings,3.150,2.630
+2,12:44,3,18,MIN 18,0,14,Aaron Rodgers pass complete short middle to Jermichael Finley for 11 yards (tackle by Chad Greenway),2.630,2.970
+2,12:08,4,7,MIN 7,0,17,Mason Crosby 25 yard field goal good,2.970,3.000
+2,,,,GNB 35,0,17,"Mason Crosby kicks off 50 yards, returned by Ryan D'Imperio for 6 yards (tackle by Patrick Lee)",0.000,0.340
+2,11:59,1,10,MIN 21,0,17,Christian Ponder pass complete short right to Ryan D'Imperio for 1 yard (tackle by Charles Woodson),0.340,-0.070
+2,11:20,2,9,MIN 22,0,17,Christian Ponder pass complete short left to Kyle Rudolph for 8 yards (tackle by Morgan Burnett),-0.070,0.300
+2,10:34,,,,0,17,Timeout #1 by Minnesota Vikings,0.000,0.300
+2,10:34,3,1,MIN 30,0,17,Christian Ponder for 13 yards (tackle by Clay Matthews),0.300,1.800
+2,9:55,1,10,MIN 43,0,17,Adrian Peterson left end for 6 yards (tackle by Erik Walden),1.800,2.060
+2,9:19,2,4,MIN 49,0,17,Christian Ponder pass incomplete deep middle intended for Devin Aromashodu is intercepted by Tramon Williams at GNB-2 and returned for 21 yards (tackle by Jim Kleinsasser),2.060,-0.480
+2,9:04,1,10,GNB 23,0,17,Ryan Grant left end for -1 yards (tackle by Jared Allen and Chad Greenway),0.480,-0.200
+2,8:22,2,11,GNB 22,0,17,Aaron Rodgers left end for 3 yards (tackle by Letroy Guion),-0.200,-0.490
+2,7:39,3,8,GNB 25,0,17,Aaron Rodgers pass complete short middle to Greg Jennings for 6 yards (tackle by Antoine Winfield),-0.490,-1.310
+2,7:04,4,2,GNB 31,0,17,"Tim Masthay punts 52 yards, returned by Marcus Sherels for 8 yards (tackle by Patrick Lee)",-1.310,-0.610
+2,6:53,1,10,MIN 25,0,17,Adrian Peterson right tackle for no gain (tackle by Charles Woodson),0.610,0.060
+2,6:17,2,10,MIN 25,0,17,Adrian Peterson up the middle for 9 yards (tackle by C.J. Wilson and Morgan Burnett),0.060,0.560
+2,5:40,3,1,MIN 34,0,17,Adrian Peterson left end for 6 yards (tackle by Erik Walden and Charles Woodson),0.560,1.600
+2,5:13,1,10,MIN 40,0,17,Christian Ponder pass complete short left to Michael Jenkins for 19 yards (tackle by Desmond Bishop),1.600,2.850
+2,4:34,1,10,GNB 41,0,17,"Toby Gerhart left end for 4 yards (tackle by Morgan Burnett). Penalty on Percy Harvin: Offensive Holding, 10 yards (no play)",2.850,2.190
+2,4:12,1,20,MIN 49,0,17,Percy Harvin up the middle for -1 yards (tackle by C.J. Wilson),2.190,0.820
+2,3:39,2,21,MIN 48,0,17,Christian Ponder pass incomplete short right intended for Devin Aromashodu,0.820,0.170
+2,3:34,3,21,MIN 48,0,17,Christian Ponder pass complete short right to Percy Harvin for 12 yards (tackle by A.J. Hawk and Morgan Burnett),0.170,0.590
+2,2:54,4,9,GNB 40,0,17,Chris Kluwe punts 37 yards,0.590,0.380
+2,2:47,1,10,GNB 3,0,17,James Starks up the middle for 1 yard (tackle by E.J. Henderson),-0.380,-0.710
+2,2:10,2,9,GNB 4,0,17,Aaron Rodgers pass incomplete,-0.710,-1.300
+2,2:05,3,9,GNB 4,0,17,James Starks right tackle for 10 yards (tackle by Husain Abdullah),-1.300,-0.280
+2,1:59,1,10,GNB 14,0,17,Aaron Rodgers pass complete short right to Donald Driver for 8 yards (tackle by Cedric Griffin),-0.280,0.420
+2,1:59,2,2,GNB 22,0,17,"Penalty on Everson Griffen: Neutral Zone Infraction, 5 yards (no play)",0.420,0.740
+2,1:55,1,10,GNB 27,0,17,Aaron Rodgers pass complete short right to James Starks for 2 yards (tackle by Cedric Griffin),0.740,0.470
+2,1:49,2,8,GNB 29,0,17,Aaron Rodgers sacked by Antoine Winfield for -6 yards,0.470,-1.020
+2,1:03,3,14,GNB 23,0,17,Aaron Rodgers pass complete short left to James Starks for 2 yards (tackle by Cedric Griffin),-1.020,-1.700
+2,0:57,4,12,GNB 25,0,17,"Tim Masthay punts 47 yards, returned by Marcus Sherels for 5 yards (tackle by D.J. Smith)",-1.700,-1.140
+2,0:44,1,10,MIN 33,0,17,Christian Ponder pass complete short middle to Percy Harvin for 9 yards (tackle by A.J. Hawk and Charlie Peprah),1.140,1.810
+2,0:37,,,,0,17,Timeout #2 by Minnesota Vikings,0.000,1.810
+2,0:37,2,1,MIN 42,0,17,Christian Ponder pass incomplete short left intended for Devin Aromashodu,1.810,1.090
+2,0:33,3,1,MIN 42,0,17,Christian Ponder pass incomplete short left intended for Percy Harvin,1.090,-0.590
+2,0:29,4,1,MIN 42,0,17,"Chris Kluwe punts 38 yards, returned by Randall Cobb for -2 yards (tackle by Ryan D'Imperio)",-0.590,-0.040
+2,0:19,1,10,GNB 18,0,17,Aaron Rodgers kneels for -1 yards,0.040,-0.650
+Quarter,Time,Down,ToGo,Location,MIN,GNB,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,MIN 35,0,17,"Ryan Longwell kicks off 68 yards, returned by Randall Cobb for 21 yards (tackle by Kenny Onatolu). Penalty on Eric Frampton: Offside on Free Kick, 5 yards (no play)",0.000,0.000
+3,,,,MIN 30,0,17,"Ryan Longwell kicks off 60 yards, returned by Randall Cobb for 21 yards (tackle by Larry Dean)",0.000,1.000
+3,14:49,1,10,GNB 31,0,17,Ryan Grant left end for 3 yards (tackle by Chad Greenway and Brian Robison),1.000,0.870
+3,14:10,2,7,GNB 34,0,17,Aaron Rodgers pass complete deep right to Jordy Nelson for 23 yards (tackle by Jamarca Sanford),0.870,2.720
+3,13:36,1,10,MIN 43,0,17,Ryan Grant left end for no gain (tackle by Fred Evans),2.720,2.180
+3,12:57,2,10,MIN 43,0,17,Aaron Rodgers pass incomplete short middle intended for Greg Jennings,2.180,1.490
+3,12:53,3,10,MIN 43,0,17,"Aaron Rodgers pass incomplete deep right intended for Jordy Nelson. Penalty on Jared Allen: Neutral Zone Infraction, 5 yards (no play)",1.490,2.150
+3,12:53,3,5,MIN 38,0,17,Aaron Rodgers up the middle for 3 yards (tackle by Jared Allen),2.150,0.990
+3,12:09,4,2,MIN 35,0,17,Aaron Rodgers pass complete short right to Jordy Nelson for 12 yards (tackle by Asher Allen and Jamarca Sanford),0.990,4.040
+3,11:31,1,10,MIN 23,0,17,Aaron Rodgers pass complete short middle to Donald Driver for 6 yards (tackle by Antoine Winfield),4.040,4.380
+3,10:52,2,4,MIN 17,0,23,"Aaron Rodgers pass complete short right to Jordy Nelson for 17 yards, touchdown",4.380,7.000
+3,,,,MIN 2,0,24,Mason Crosby kicks extra point good,0.000,0.000
+3,,,,GNB 35,0,24,"Mason Crosby kicks off 45 yards, returned by Lorenzo Booker for 5 yards (tackle by Brandon Saine)",0.000,0.610
+3,10:41,1,10,MIN 25,0,24,Percy Harvin for 11 yards (tackle by Charles Woodson),0.610,1.330
+3,10:17,1,10,MIN 36,0,24,Adrian Peterson right end for -6 yards (tackle by Charles Woodson),1.330,-0.020
+3,9:38,2,16,MIN 30,0,24,Christian Ponder pass incomplete short left intended for Greg Camarillo,-0.020,-0.690
+3,9:34,3,16,MIN 30,0,24,Christian Ponder pass incomplete deep left intended for Devin Aromashodu,-0.690,-1.370
+3,9:22,4,16,MIN 30,0,24,"Chris Kluwe punts 50 yards, muffed catch by Randall Cobb, recovered by Ryan D'Imperio and returned for no gain",-1.370,4.650
+3,9:10,1,10,GNB 14,0,24,Christian Ponder pass complete short right to Percy Harvin for 11 yards (tackle by Charles Woodson),4.650,6.510
+3,8:44,1,3,GNB 3,6,24,"Adrian Peterson right tackle for 3 yards, touchdown",6.510,7.000
+3,,,,GNB 2,7,24,Ryan Longwell kicks extra point good,0.000,0.000
+3,,,,MIN 35,,,"Ryan Longwell kicks off 70 yards, returned by Randall Cobb for 55 yards (tackle by Asher Allen)",,
+3,8:31,1,10,,7,24,James Starks left end for 9 yards (tackle by Chad Greenway and Tyrell Johnson),2.260,2.930
+3,7:52,2,1,MIN 41,7,24,James Starks right end for 15 yards (tackle by Tyrell Johnson),2.930,3.840
+3,7:22,1,10,MIN 26,7,24,Aaron Rodgers pass incomplete short middle intended for James Starks,3.840,3.300
+3,7:16,2,10,MIN 26,7,24,Aaron Rodgers pass complete short right to Ryan Grant for 17 yards (tackle by Tyrell Johnson),3.300,5.140
+3,6:25,1,9,MIN 9,7,30,"Aaron Rodgers pass complete short middle to John Kuhn for 9 yards, touchdown",5.140,7.000
+3,,,,MIN 2,7,31,Mason Crosby kicks extra point good,0.000,0.000
+3,,,,GNB 35,7,31,"Mason Crosby kicks off 65 yards, returned by Lorenzo Booker for 27 yards (tackle by Vic So'oto)",0.000,0.740
+3,6:14,1,10,MIN 27,7,31,Christian Ponder for 4 yards (tackle by Desmond Bishop),0.740,0.740
+3,5:48,2,6,MIN 31,7,31,Adrian Peterson left guard for 8 yards (tackle by Charlie Peprah and Desmond Bishop),0.740,1.530
+3,5:13,1,10,MIN 39,7,31,Christian Ponder sacked by Clay Matthews for -11 yards,1.530,-0.500
+3,4:33,2,21,MIN 28,7,31,Christian Ponder pass complete short left to Michael Jenkins for 8 yards (tackle by Sam Shields),-0.500,-0.100
+3,4:01,3,13,MIN 36,7,31,Christian Ponder pass complete deep left to Michael Jenkins for 22 yards (tackle by Morgan Burnett),-0.100,2.790
+3,3:23,1,10,GNB 42,7,31,Adrian Peterson right tackle for no gain (tackle by Clay Matthews and A.J. Hawk),2.790,2.240
+3,2:49,2,10,GNB 42,7,31,Christian Ponder sacked by Desmond Bishop for -8 yards,2.240,0.500
+3,2:13,3,18,,7,31,Christian Ponder pass complete short right to Joe Webb for 9 yards (tackle by Charles Woodson),0.500,0.530
+3,1:33,4,9,GNB 41,7,31,Christian Ponder pass incomplete short right intended for Visanthe Shiancoe,0.530,-1.660
+3,1:29,1,10,GNB 41,7,31,Ryan Grant left end for no gain (tackle by Jared Allen),1.660,1.120
+3,0:50,2,10,GNB 41,7,31,Ryan Grant right end for 3 yards (tackle by E.J. Henderson),1.120,0.830
+3,0:16,,,,7,31,Timeout #1 by Minnesota Vikings,0.000,0.830
+3,0:16,3,7,GNB 44,7,31,"Aaron Rodgers pass incomplete deep right intended for Greg Jennings. Penalty on Asher Allen: Defensive Pass Interference, 20 yards, Penalty on Everson Griffen: Defensive Offside (Declined) (no play)",0.830,3.180
+3,0:12,1,10,MIN 36,7,31,Ryan Grant left end for -2 yards (tackle by E.J. Henderson),3.180,2.370
+Quarter,Time,Down,ToGo,Location,MIN,GNB,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,12,MIN 38,7,31,Aaron Rodgers pass incomplete short middle intended for Donald Driver,2.370,1.690
+4,14:56,3,12,MIN 38,7,31,"Aaron Rodgers sacked by E.J. Henderson for -4 yards. Penalty on Tyrell Johnson: Illegal Use of Hands, 5 yards (no play)",1.690,3.380
+4,14:29,1,10,MIN 33,7,31,James Starks right tackle for 8 yards (tackle by Fred Evans),3.380,3.920
+4,13:47,2,2,MIN 25,7,31,Aaron Rodgers pass incomplete,3.920,3.200
+4,13:42,3,2,MIN 25,7,31,"Aaron Rodgers pass complete short left to James Jones for 9 yards (tackle by Cedric Griffin). James Jones fumbles (forced by Cedric Griffin), ball out of bounds at MIN-16",3.200,4.510
+4,13:13,1,10,MIN 16,7,31,James Starks left end for 4 yards (tackle by Brian Robison and Jamarca Sanford),4.510,4.570
+4,12:37,2,6,MIN 12,7,31,Aaron Rodgers pass complete short right to Andrew Quarless for 8 yards (tackle by Chad Greenway),4.570,6.280
+4,11:50,,,,7,31,Timeout #1 by Green Bay Packers,0.000,6.280
+4,11:50,1,4,MIN 4,7,31,Aaron Rodgers pass complete short middle to John Kuhn for no gain,6.280,5.340
+4,11:07,2,4,MIN 4,7,37,"Aaron Rodgers pass complete short left to Jordy Nelson for 4 yards, touchdown",5.340,7.000
+4,,,,MIN 2,7,38,Mason Crosby kicks extra point good,0.000,0.000
+4,,,,GNB 35,7,38,"Mason Crosby kicks off 62 yards, returned by Lorenzo Booker for 18 yards (tackle by Ryan Taylor)",0.000,0.340
+4,10:54,1,10,MIN 21,7,38,Christian Ponder pass incomplete short left intended for Percy Harvin (defended by Charles Woodson),0.340,-0.200
+4,10:49,2,10,MIN 21,7,38,Christian Ponder pass incomplete short middle intended for Lorenzo Booker (defended by Charles Woodson),-0.200,-0.890
+4,10:45,3,10,MIN 21,7,38,Christian Ponder pass incomplete deep right intended for Devin Aromashodu (defended by Tramon Williams),-0.890,-1.960
+4,10:40,4,10,MIN 21,7,38,"Chris Kluwe punts 47 yards, returned by Randall Cobb for 2 yards (tackle by Kenny Onatolu)",-1.960,-1.200
+4,10:30,1,10,GNB 34,7,38,James Starks left tackle for 2 yards (tackle by E.J. Henderson),1.200,0.930
+4,9:50,2,8,GNB 36,7,38,James Starks left end for 4 yards (tackle by Remi Ayodele and Everson Griffen),0.930,0.760
+4,9:04,3,4,GNB 40,7,38,Matt Flynn pass complete short middle to Randall Cobb for 7 yards (tackle by Antoine Winfield),0.760,2.060
+4,8:21,1,10,GNB 47,7,38,James Starks right end for 1 yard (tackle by E.J. Henderson),2.060,1.650
+4,7:39,2,9,GNB 48,7,38,James Starks left guard for 5 yards (tackle by Fred Evans),1.650,1.620
+4,7:39,3,4,MIN 47,7,38,"Penalty on Chad Greenway: Neutral Zone Infraction, 5 yards (no play)",1.620,2.790
+4,6:33,1,10,MIN 42,7,38,Matt Flynn pass complete deep middle to Jermichael Finley for 31 yards (tackle by Kenny Onatolu),2.790,4.840
+4,5:56,1,10,MIN 11,7,38,James Starks up the middle for 2 yards (tackle by Chad Greenway),4.840,4.510
+4,5:18,2,8,MIN 9,7,38,James Starks left end for 6 yards (tackle by Tyrell Johnson and Jamarca Sanford),4.510,4.890
+4,4:33,3,2,MIN 3,7,44,"Matt Flynn right end for 3 yards, touchdown",4.890,7.000
+4,,,,MIN 2,7,45,Mason Crosby kicks extra point good,0.000,0.000
+4,,,,GNB 35,7,45,"Mason Crosby kicks off 73 yards, touchback",0.000,0.280
+4,4:27,1,10,MIN 20,7,45,Lorenzo Booker right tackle for 7 yards (tackle by Vic So'oto),0.280,0.680
+4,3:53,2,3,MIN 27,7,45,Christian Ponder pass complete short right to Lorenzo Booker for 9 yards (tackle by Desmond Bishop),0.680,1.330
+4,3:48,1,10,MIN 36,7,45,Lorenzo Booker up the middle for 5 yards (tackle by C.J. Wilson and Brad Jones),1.330,1.470
+4,3:15,2,5,MIN 41,7,45,Christian Ponder pass complete short middle to Kyle Rudolph for 8 yards (tackle by A.J. Hawk),1.470,2.190
+4,2:36,1,10,MIN 49,7,45,Christian Ponder pass complete deep middle to Kyle Rudolph for 21 yards (tackle by Desmond Bishop),2.190,3.580
+4,2:01,1,10,GNB 30,7,45,Christian Ponder pass incomplete short left intended for Greg Camarillo,3.580,3.030
+4,1:57,2,10,GNB 30,7,45,"Christian Ponder sacked by Jarius Wynn for 0 yards. Penalty on Jim Kleinsasser: Offensive Holding, 10 yards (no play)",3.030,1.680
+4,1:48,2,20,GNB 40,7,45,Christian Ponder pass incomplete short middle intended for Lorenzo Booker,1.680,1.020
+4,1:45,3,20,GNB 40,7,45,Christian Ponder pass incomplete short middle intended for Greg Camarillo (defended by Charlie Peprah),1.020,0.590
+4,1:39,4,20,GNB 40,7,45,Christian Ponder pass incomplete deep left intended for Michael Jenkins,0.590,-1.600
+4,1:34,1,10,GNB 40,7,45,Matt Flynn kneels for -1 yards,1.600,0.920
+4,0:53,2,11,GNB 39,7,45,Matt Flynn kneels for -1 yards,0.920,0.100
+4,0:28,3,12,GNB 38,7,45,Matt Flynn kneels for -1 yards,0.100,-0.910
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,16 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,NOR 27,3,1:18,11,Fumble
+2,1,11:06,NOR 20,3,1:30,-7,Fumble
+3,1,8:38,NOR 19,8,3:55,57,Interception
+4,1,0:50,NOR 20,3,1:03,3,Punt
+5,2,13:43,NOR 38,6,2:10,12,Punt
+6,2,11:09,NOR 42,9,3:25,58,Touchdown
+7,2,4:27,NOR 27,10,3:31,73,Touchdown
+8,2,0:07,NOR 31,1,0:07,-1,End of Half
+9,3,7:47,NOR 20,5,2:06,53,Field Goal
+10,3,4:24,NOR 42,5,1:22,30,Field Goal
+11,4,14:18,NOR 18,3,1:57,4,Punt
+12,4,10:47,NOR 35,6,2:27,65,Touchdown
+13,4,8:01,GNB 23,1,0:07,23,Touchdown
+14,4,4:18,NOR 20,3,1:09,4,Punt
+15,4,1:57,NOR 45,3,1:57,-3,End of Game

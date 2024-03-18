@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,12:11,GNB 48,1,0:14,52,Touchdown
+2,1,7:55,GNB 20,10,3:45,80,Touchdown
+3,1,2:27,GNB 26,8,4:20,58,Field Goal
+4,2,11:27,GNB 16,5,2:13,84,Touchdown
+5,2,8:31,OAK 25,4,1:25,25,Touchdown
+6,2,5:49,OAK 28,6,1:41,24,Interception
+7,2,0:40,GNB 20,1,0:40,2,End of Half
+8,3,15:00,OAK 47,5,2:19,27,Field Goal
+9,3,8:15,GNB 20,9,4:44,49,Field Goal
+10,3,1:49,OAK 41,6,2:28,26,Field Goal
+11,4,12:27,GNB 1,3,1:26,-1,Safety
+12,4,4:43,GNB 20,3,1:44,6,Punt
+13,4,1:41,GNB 36,3,1:41,-2,End of Game

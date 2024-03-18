@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,BAL 20,3,1:30,9,Punt
+2,1,9:28,BAL 20,3,2:20,-1,Punt
+3,1,1:41,BAL 20,3,1:41,9,Punt
+4,2,12:46,BAL 14,10,4:53,74,Interception
+5,2,3:08,BAL 3,12,3:06,97,Touchdown
+6,3,11:32,BAL 25,11,5:18,75,Touchdown
+7,3,3:07,BAL 6,3,1:43,-5,Punt
+8,4,12:41,BAL 20,9,4:32,80,Touchdown
+9,4,6:28,BAL 19,7,2:54,81,Touchdown
+10,4,2:21,MIA 49,4,2:21,23,End of Game

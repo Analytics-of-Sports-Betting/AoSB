@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,SDG 17,3,1:04,6,Punt
+2,1,11:51,KAN 34,4,1:17,6,Downs
+3,1,8:33,SDG 19,9,4:03,81,Touchdown
+4,1,3:16,SDG 18,9,3:20,82,Touchdown
+5,2,12:40,SDG 10,3,2:05,9,Punt
+6,2,8:30,SDG 26,6,3:06,43,Fumble
+7,2,1:56,SDG 26,5,1:29,74,Touchdown
+8,3,11:26,SDG 20,4,2:20,19,Punt
+9,3,6:45,SDG 27,6,3:04,35,Interception
+10,3,1:39,SDG 22,5,1:39,13,Punt
+11,4,12:00,SDG 47,5,2:50,53,Touchdown
+12,4,4:23,SDG 9,4,0:34,-1,Punt
+13,4,2:12,KAN 39,3,1:50,6,Punt

@@ -1,0 +1,16 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:34,TEN 41,2,1:45,8,Punt
+2,1,8:07,TEN 16,3,2:15,-12,Punt
+3,1,2:50,TEN 18,7,3:46,82,Touchdown
+4,2,10:14,TEN 25,4,2:45,21,Punt
+5,2,3:30,TEN 20,4,1:41,9,Punt
+6,2,1:49,JAX 12,4,0:28,5,Field Goal
+7,2,1:07,JAX 29,4,1:07,8,Field Goal
+8,3,15:00,TEN 31,4,1:29,-3,Punt
+9,3,12:00,JAX 43,8,4:18,23,Field Goal
+10,3,4:14,TEN 21,5,2:24,5,Punt
+11,4,14:12,JAX 41,6,3:24,8,Fumble
+12,4,10:48,TEN 25,3,1:29,7,Punt
+13,4,7:48,TEN 20,4,2:47,23,Punt
+14,4,3:57,TEN 28,8,3:39,32,Punt
+15,4,0:10,JAX 47,1,0:10,-1,End of Game

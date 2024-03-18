@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,12:37,DEN 26,13,5:09,74,Touchdown
+2,1,7:01,DEN 21,5,2:30,34,Punt
+3,1,2:49,DEN 42,9,2:24,51,Field Goal
+4,2,13:49,DEN 43,6,3:13,17,Punt
+5,2,6:58,DEN 19,10,5:08,81,Touchdown
+6,2,0:52,DEN 15,8,0:52,39,Field Goal
+7,3,15:00,DEN 20,6,3:08,80,Touchdown
+8,3,10:30,TEN 43,8,2:56,43,Touchdown
+9,3,4:50,DEN 20,13,6:35,79,Field Goal
+10,4,9:47,TEN 32,3,0:35,32,Touchdown
+11,4,8:13,TEN 49,10,5:06,49,Touchdown
+12,4,1:44,TEN 21,3,1:44,-1,End of Game

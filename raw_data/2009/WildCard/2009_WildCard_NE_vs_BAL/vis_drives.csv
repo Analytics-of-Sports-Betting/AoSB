@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,BAL 17,1,0:17,83,Touchdown
+2,1,13:13,NWE 17,5,2:44,17,Touchdown
+3,1,8:58,NWE 42,3,0:48,-1,Punt
+4,1,6:49,NWE 25,6,2:54,25,Touchdown
+5,1,2:56,NWE 9,4,1:37,0,Field Goal
+6,2,11:23,BAL 39,4,2:09,10,Interception
+7,2,7:38,BAL 25,3,2:05,1,Punt
+8,2,2:07,BAL 4,7,2:07,21,End of Half
+9,3,13:11,BAL 32,3,1:33,8,Punt
+10,3,9:49,NWE 22,6,3:31,18,Field Goal
+11,3,1:47,BAL 48,12,6:15,52,Touchdown
+12,4,7:19,BAL 34,8,5:12,31,Punt
+13,4,1:09,NWE 33,2,1:09,-2,End of Game

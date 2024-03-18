@@ -1,0 +1,186 @@
+Quarter,Time,Down,ToGo,Location,PIT,IND,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Steelers won the coin toss, Steelers to receive the opening kickoff.",,
+1,15:00,,,IND 35,0,0,"Pat McAfee kicks off 65 yards, touchback",0.000,0.280
+1,15:00,1,10,PIT 20,0,0,Ben Roethlisberger pass complete deep right to Mike Wallace for 19 yards (tackle by David Caldwell),0.280,1.530
+1,14:22,1,10,PIT 39,0,0,Ben Roethlisberger pass incomplete short right intended for Heath Miller,1.530,0.990
+1,14:17,2,10,PIT 39,0,0,Ben Roethlisberger pass complete short left to Mike Wallace for 29 yards (tackle by Pat Angerer),0.990,3.450
+1,13:45,1,10,IND 32,0,0,Ben Roethlisberger pass incomplete short right intended for Rashard Mendenhall,3.450,2.900
+1,13:37,2,10,IND 32,0,0,Rashard Mendenhall right tackle for 2 yards (tackle by Philip Wheeler and Pat Angerer),2.900,2.480
+1,12:53,3,8,IND 30,0,0,Ben Roethlisberger pass incomplete deep middle intended for Emmanuel Sanders (defended by Antoine Bethea),2.480,1.410
+1,12:48,4,8,IND 30,3,0,Shaun Suisham 48 yard field goal good,1.410,3.000
+1,,,,PIT 35,3,0,"Shaun Suisham kicks off 70 yards, returned by Joe Lefeged for 20 yards (tackle by Emmanuel Sanders)",0.000,-0.220
+1,12:38,1,10,IND 15,3,0,Kerry Collins pass complete short left to Dallas Clark for 6 yards (tackle by James Farrior),-0.220,0.210
+1,12:13,2,4,IND 21,3,0,Joseph Addai left tackle for 2 yards (tackle by James Harrison),0.210,-0.390
+1,11:32,3,2,IND 23,3,0,Kerry Collins pass complete short left to Reggie Wayne for 4 yards (tackle by James Farrior),-0.390,0.740
+1,10:56,1,10,IND 27,3,0,Kerry Collins pass incomplete deep left intended for Reggie Wayne,0.740,0.200
+1,10:50,,,,3,0,Timeout #1 by Pittsburgh Steelers,0.000,0.200
+1,10:50,2,10,IND 27,3,0,Joseph Addai left end for 3 yards (tackle by LaMarr Woodley and James Harrison),0.200,-0.100
+1,10:10,3,7,IND 30,3,0,Kerry Collins pass incomplete deep left intended for Reggie Wayne,-0.100,-1.370
+1,10:04,4,7,IND 30,3,0,Pat McAfee punts 34 yards,-1.370,-1.330
+1,9:56,1,10,PIT 36,3,0,Rashard Mendenhall up the middle for 2 yards (tackle by Eric Foster and Pat Angerer),1.330,1.060
+1,9:22,2,8,PIT 38,3,0,Rashard Mendenhall up the middle for -2 yards (tackle by Dwight Freeney),1.060,0.100
+1,8:44,3,10,PIT 36,3,0,Ben Roethlisberger pass complete deep middle to Antonio Brown for 21 yards (tackle by Pat Angerer and Antoine Bethea),0.100,2.720
+1,8:03,1,10,IND 43,3,0,Rashard Mendenhall left end for -3 yards (tackle by Kavell Conner),2.720,1.770
+1,7:25,2,13,IND 46,3,0,Ben Roethlisberger pass complete short middle to Hines Ward for 6 yards (tackle by Pat Angerer and Kavell Conner),1.770,1.880
+1,6:45,3,7,IND 40,3,0,Ben Roethlisberger pass incomplete short right intended for Mike Wallace,1.880,0.590
+1,6:41,4,7,IND 40,3,0,"Daniel Sepulveda punts 30 yards, fair catch by Blair White",0.590,0.380
+1,6:34,1,10,IND 10,3,0,Kerry Collins pass complete short left to Pierre Garcon for 2 yards (tackle by LaMarr Woodley),-0.380,-0.630
+1,5:57,2,8,IND 12,3,0,Kerry Collins pass incomplete short left intended for Reggie Wayne,-0.630,-1.190
+1,5:53,3,8,IND 12,3,0,Kerry Collins pass complete deep left to Pierre Garcon for 29 yards (tackle by Keenan Lewis),-1.190,1.660
+1,5:26,1,10,IND 41,3,0,Kerry Collins pass incomplete deep left intended for Austin Collie,1.660,1.120
+1,5:19,2,10,IND 41,3,0,Joseph Addai left end for 8 yards (tackle by Ryan Clark),1.120,1.490
+1,4:35,3,2,IND 49,3,0,Kerry Collins pass incomplete short right intended for Dallas Clark (defended by Troy Polamalu),1.490,-0.130
+1,4:31,4,2,IND 49,3,0,Pat McAfee punts 40 yards,-0.130,0.280
+1,4:22,1,10,PIT 14,3,0,Rashard Mendenhall right end for 5 yards (tackle by Philip Wheeler and Pat Angerer),-0.280,-0.040
+1,3:40,2,5,PIT 19,9,0,"Ben Roethlisberger pass complete deep right to Mike Wallace for 81 yards, touchdown",-0.040,7.000
+1,,,,IND 2,10,0,Shaun Suisham kicks extra point good,0.000,0.000
+1,,,,PIT 35,10,0,"Shaun Suisham kicks off 67 yards, returned by Joe Lefeged for 27 yards (tackle by Emmanuel Sanders)",0.000,0.610
+1,3:22,1,10,IND 25,10,0,Kerry Collins pass incomplete short left intended for Reggie Wayne,0.610,0.060
+1,3:17,2,10,IND 25,10,0,Delone Carter left tackle for -1 yards (tackle by James Harrison),0.060,-0.760
+1,2:38,3,11,IND 24,10,0,Kerry Collins pass complete short right to Joseph Addai for 2 yards (tackle by William Gay),-0.760,-1.630
+1,2:03,4,9,IND 26,10,0,"Pat McAfee punts 55 yards, returned by Antonio Brown for no gain",-1.630,-0.150
+1,1:49,1,10,PIT 19,10,0,Ben Roethlisberger pass complete short middle to David Johnson for 3 yards (tackle by Pat Angerer and Philip Wheeler),0.150,0.070
+1,1:09,2,7,PIT 22,10,0,Rashard Mendenhall up the middle for no gain (tackle by Pat Angerer),0.070,-0.680
+1,0:30,3,7,PIT 22,10,0,Ben Roethlisberger pass complete short middle to Heath Miller for 12 yards (tackle by Jerraud Powers),-0.680,1.200
+Quarter,Time,Down,ToGo,Location,PIT,IND,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,PIT 34,10,0,Rashard Mendenhall right end for 3 yards (tackle by Antoine Bethea),1.200,1.060
+2,14:20,2,7,PIT 37,10,0,Ben Roethlisberger pass complete short right to Hines Ward for no gain,1.060,0.370
+2,13:40,3,7,PIT 37,10,0,Ben Roethlisberger pass complete deep middle to Antonio Brown for 17 yards (tackle by Pat Angerer),0.370,2.520
+2,12:57,1,10,IND 46,10,0,Ben Roethlisberger pass complete short left to Rashard Mendenhall for -1 yards (tackle by Philip Wheeler and David Caldwell),2.520,1.840
+2,12:09,,,,10,0,Timeout #2 by Pittsburgh Steelers,0.000,1.840
+2,12:09,2,11,IND 47,10,0,Ben Roethlisberger pass incomplete short right intended for Antonio Brown,1.840,1.160
+2,12:05,3,11,IND 47,10,0,"Ben Roethlisberger sacked by Robert Mathis for -5 yards. Ben Roethlisberger fumbles (forced by Robert Mathis), recovered by Robert Mathis at 50 (tackle by Marcus Gilbert)",1.160,-2.260
+2,11:58,1,10,,10,0,Joseph Addai right end for 1 yard (tackle by LaMarr Woodley and Evander Hood),2.260,1.850
+2,11:18,2,9,PIT 49,10,0,Kerry Collins pass incomplete deep middle intended for Pierre Garcon,1.850,1.160
+2,11:12,,,,10,0,Timeout #1 by Indianapolis Colts,0.000,1.160
+2,11:12,3,9,PIT 49,10,0,Kerry Collins pass complete short left to Austin Collie for 11 yards (tackle by William Gay),1.160,3.050
+2,10:38,1,10,PIT 38,10,0,Kerry Collins pass incomplete short left intended for Reggie Wayne,3.050,2.510
+2,10:32,2,10,PIT 38,10,0,Kerry Collins pass complete short left to Reggie Wayne for 11 yards (tackle by Troy Polamalu),2.510,3.780
+2,9:54,1,10,PIT 27,10,0,Joseph Addai left end for 11 yards (tackle by LaMarr Woodley),3.780,4.510
+2,9:15,1,10,PIT 16,10,0,Joseph Addai right end for 4 yards (tackle by Ryan Clark),4.510,4.570
+2,8:34,2,6,PIT 12,10,0,Kerry Collins pass complete short left to Reggie Wayne for 9 yards (tackle by Ryan Clark),4.570,6.510
+2,8:07,1,3,PIT 3,10,0,"Joseph Addai right guard for 1 yard (tackle by Cameron Heyward). Penalty on Joe Reitz: Offensive Holding, 9 yards (no play)",6.510,4.640
+2,7:41,,,,10,0,Timeout #2 by Indianapolis Colts,0.000,4.640
+2,7:41,1,12,PIT 12,10,0,Joseph Addai left end for 3 yards (tackle by LaMarr Woodley and Troy Polamalu),4.640,4.380
+2,7:08,2,9,PIT 9,10,0,Kerry Collins pass complete short right to Dallas Clark for 6 yards (tackle by Larry Foote and Ryan Clark),4.380,4.720
+2,6:22,3,3,PIT 3,10,0,Kerry Collins pass incomplete short right intended for Dallas Clark (defended by Troy Polamalu),4.720,3.040
+2,6:18,4,3,PIT 3,10,3,Adam Vinatieri 21 yard field goal good,3.040,3.000
+2,,,,IND 35,10,3,"Pat McAfee kicks off 65 yards, touchback",0.000,0.280
+2,6:14,1,10,PIT 20,10,3,Rashard Mendenhall up the middle for 4 yards (tackle by Kavell Conner and Pat Angerer),0.280,0.270
+2,5:38,2,6,PIT 24,10,3,Ben Roethlisberger pass complete deep right to Antonio Brown for 18 yards,0.270,1.730
+2,5:07,1,10,PIT 42,10,3,"Rashard Mendenhall right tackle for -1 yards (tackle by Pat Angerer). Penalty on Jonathan Scott: Offensive Holding, 10 yards (no play)",1.730,1.070
+2,4:40,1,20,PIT 32,10,3,Ben Roethlisberger pass complete short right to Heath Miller for 2 yards (tackle by Antoine Bethea),1.070,0.110
+2,3:59,2,18,PIT 34,10,3,Ben Roethlisberger pass complete short right to Rashard Mendenhall for 5 yards (tackle by Jacob Lacey),0.110,0.100
+2,3:18,3,13,PIT 39,10,3,Ben Roethlisberger pass complete deep right to Antonio Brown for 19 yards,0.100,2.790
+2,2:43,1,10,IND 42,10,3,Rashard Mendenhall up the middle for no gain (tackle by Antonio Johnson),2.790,2.240
+2,2:01,2,10,IND 42,10,9,"Ben Roethlisberger sacked by Dwight Freeney for -6 yards. Ben Roethlisberger fumbles (forced by Dwight Freeney), recovered by Jamaal Anderson at PIT-47 and returned for 47 yards, touchdown",2.240,-7.000
+2,,,,PIT 2,10,10,Adam Vinatieri kicks extra point good,0.000,0.000
+2,,,,IND 35,10,10,"Pat McAfee kicks off 65 yards, touchback",0.000,0.280
+2,1:46,1,10,PIT 20,10,10,"Ben Roethlisberger pass incomplete deep left intended for Emmanuel Sanders is intercepted by Joe Lefeged at 50 and returned for 25 yards (tackle by Jonathan Scott). Penalty on Antonio Brown: Low Block, 13 yards",0.280,-4.780
+2,1:34,1,10,PIT 12,10,10,Kerry Collins pass complete short right to Pierre Garcon for -2 yards (tackle by Lawrence Timmons),4.780,3.790
+2,1:02,2,12,PIT 14,10,10,Joseph Addai up the middle for 7 yards (tackle by Larry Foote and Ryan Clark),3.790,4.160
+2,0:23,3,5,PIT 7,10,10,Kerry Collins pass incomplete short right intended for Reggie Wayne,4.160,2.980
+2,0:18,4,5,PIT 7,10,13,Adam Vinatieri 25 yard field goal good,2.980,3.000
+2,,,,IND 35,10,13,"Pat McAfee kicks off 65 yards, touchback",0.000,0.280
+2,0:15,1,10,PIT 20,10,13,Ben Roethlisberger kneels for -1 yards,0.280,-0.460
+Quarter,Time,Down,ToGo,Location,PIT,IND,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PIT 35,10,13,"Shaun Suisham kicks off 65 yards, returned by Joe Lefeged for 28 yards (tackle by Shaun Suisham)",0.000,0.810
+3,14:54,1,10,IND 28,10,13,Delone Carter right tackle for 6 yards (tackle by Troy Polamalu and Evander Hood),0.810,1.070
+3,14:14,2,4,IND 34,10,13,Kerry Collins pass incomplete short right intended for Pierre Garcon,1.070,0.370
+3,14:08,3,4,IND 34,10,13,Kerry Collins pass complete short left to Austin Collie for 6 yards (tackle by William Gay),0.370,1.600
+3,13:24,1,10,IND 40,10,13,Kerry Collins pass incomplete deep left intended for Reggie Wayne,1.600,1.050
+3,13:19,2,10,IND 40,10,13,Kerry Collins pass incomplete short left intended for Reggie Wayne (defended by Lawrence Timmons),1.050,0.370
+3,13:16,3,10,IND 40,10,13,Kerry Collins pass complete short right to Austin Collie for 10 yards (tackle by William Gay),0.370,2.260
+3,12:31,1,10,,10,13,Kerry Collins pass incomplete short right intended for Dallas Clark,2.260,1.710
+3,12:27,2,10,,10,13,Kerry Collins pass complete short left to Austin Collie for -1 yards (tackle by James Harrison),1.710,0.890
+3,11:45,3,11,IND 49,10,13,Kerry Collins pass incomplete deep left intended for Reggie Wayne,0.890,-0.130
+3,11:40,4,11,IND 49,10,13,"Pat McAfee punts 37 yards, fair catch by Antonio Brown",-0.130,0.280
+3,11:33,1,10,PIT 14,10,13,Rashard Mendenhall right guard for 2 yards (tackle by Jerraud Powers),-0.280,-0.510
+3,10:58,2,8,PIT 16,10,13,Ben Roethlisberger pass complete short right to Mike Wallace for 9 yards (tackle by Justin Tryon),-0.510,0.610
+3,10:35,1,10,PIT 25,10,13,Rashard Mendenhall up the middle for 15 yards (tackle by Jerraud Powers and Antoine Bethea),0.610,1.600
+3,10:01,1,10,PIT 40,10,13,Rashard Mendenhall right guard for 2 yards (tackle by Drake Nevis),1.600,1.320
+3,9:28,2,8,PIT 42,10,13,Rashard Mendenhall up the middle for 7 yards (tackle by Eric Foster),1.320,1.550
+3,8:54,3,1,PIT 49,10,13,Ben Roethlisberger up the middle for 3 yards (tackle by Pat Angerer),1.550,2.390
+3,8:16,1,10,IND 48,10,13,Isaac Redman left tackle for no gain (tackle by Philip Wheeler),2.390,1.850
+3,7:36,2,10,IND 48,10,13,Ben Roethlisberger pass incomplete deep right intended for Mike Wallace,1.850,1.160
+3,7:28,3,10,IND 48,10,13,Ben Roethlisberger pass complete short right to Heath Miller for 24 yards (tackle by Pat Angerer),1.160,3.970
+3,6:42,1,10,IND 24,10,13,Rashard Mendenhall right end for -1 yards (tackle by Jacob Lacey and Kavell Conner),3.970,3.300
+3,5:56,2,11,IND 25,10,13,Ben Roethlisberger pass complete short left to Rashard Mendenhall for 5 yards (tackle by Pat Angerer),3.300,3.270
+3,5:08,3,6,IND 20,10,13,Ben Roethlisberger pass complete short middle to Weslye Saunders for 2 yards (tackle by Terrence Johnson),3.270,2.320
+3,4:23,4,4,IND 18,10,13,Shaun Suisham 36 yard field goal no good,2.320,-0.670
+3,4:18,1,10,IND 26,10,13,Joseph Addai left end for 3 yards (tackle by Casey Hampton),0.670,0.540
+3,3:46,2,7,IND 29,10,13,Joseph Addai up the middle for 1 yard (tackle by Casey Hampton),0.540,-0.030
+3,3:01,3,6,IND 30,10,13,Kerry Collins pass incomplete short right intended for Joseph Addai (defended by Ryan Clark),-0.030,-1.370
+3,2:57,4,6,IND 30,10,13,Pat McAfee punts 47 yards,-1.370,-0.480
+3,2:50,1,10,PIT 23,10,13,Ben Roethlisberger pass complete deep right to Heath Miller for 30 yards (tackle by Terrence Johnson),0.480,2.460
+3,2:10,1,10,IND 47,10,13,Isaac Redman up the middle for 3 yards (tackle by Kavell Conner and Antoine Bethea),2.460,2.320
+3,1:32,2,7,IND 44,10,13,Ben Roethlisberger right end for 4 yards (tackle by Terrence Johnson),2.320,2.150
+3,0:45,3,3,IND 40,10,13,"Ben Roethlisberger pass incomplete short middle intended for Antonio Brown. Penalty on Pat Angerer: Defensive Pass Interference, 2 yards (no play)",2.150,3.050
+3,0:40,1,10,IND 38,10,13,Rashard Mendenhall up the middle for -1 yards (tackle by Antonio Johnson and Kavell Conner),3.050,2.370
+Quarter,Time,Down,ToGo,Location,PIT,IND,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,11,IND 39,10,13,"Ben Roethlisberger pass complete short left to Rashard Mendenhall for 9 yards (tackle by Jerraud Powers and Kavell Conner). Penalty on Jonathan Scott: Offensive Holding, 10 yards (no play)",2.370,1.020
+4,14:36,2,21,IND 49,10,13,Ben Roethlisberger pass complete short right to Heath Miller for 3 yards (tackle by Pat Angerer and Drake Nevis),1.020,0.760
+4,13:54,3,18,IND 46,10,13,Ben Roethlisberger pass complete deep left to Emmanuel Sanders for 18 yards (tackle by Kavell Conner and Pat Angerer),0.760,3.710
+4,13:08,1,10,IND 28,10,13,Rashard Mendenhall right guard for 1 yard (tackle by Pat Angerer),3.710,3.300
+4,12:24,2,9,IND 27,10,13,Ben Roethlisberger pass incomplete short right intended for Antonio Brown,3.300,2.610
+4,12:19,3,9,IND 27,10,13,Ben Roethlisberger pass incomplete short left intended for Emmanuel Sanders (defended by Jerraud Powers),2.610,1.670
+4,12:15,4,9,IND 27,13,13,Shaun Suisham 44 yard field goal good,1.670,3.000
+4,,,,PIT 35,13,13,"Shaun Suisham kicks off 73 yards, touchback",0.000,0.280
+4,12:10,1,10,IND 20,13,13,Delone Carter up the middle for 4 yards (tackle by James Harrison),0.280,0.270
+4,11:35,2,6,IND 24,13,13,Delone Carter left tackle for 2 yards (tackle by Aaron Smith and Lawrence Timmons),0.270,-0.160
+4,11:01,3,4,IND 26,13,13,Curtis Painter pass incomplete deep right intended for Pierre Garcon,-0.160,-1.630
+4,10:56,4,4,IND 26,13,13,"Pat McAfee punts 44 yards, returned by Antonio Brown for 37 yards (tackle by Pat McAfee)",-1.630,-3.380
+4,10:44,1,10,IND 33,13,13,Ben Roethlisberger pass incomplete short right intended for Hines Ward (defended by Antonio Johnson),3.380,2.840
+4,10:41,2,10,IND 33,13,13,Rashard Mendenhall left end for 2 yards (tackle by Pat Angerer),2.840,2.410
+4,10:03,3,8,IND 31,13,13,"Ben Roethlisberger pass complete short left to Weslye Saunders for 4 yards (tackle by Joe Lefeged). Penalty on Jonathan Scott: Illegal Formation, 5 yards (no play)",2.410,1.750
+4,9:46,3,13,IND 36,13,13,Ben Roethlisberger sacked by Dwight Freeney for -9 yards,1.750,0.270
+4,9:39,4,22,IND 45,13,13,"Daniel Sepulveda punts 45 yards, touchback",0.270,-0.280
+4,9:30,1,10,IND 20,13,13,Joseph Addai right tackle for 8 yards (tackle by Lawrence Timmons and Aaron Smith),0.280,0.810
+4,9:01,2,2,IND 28,13,13,Joseph Addai left end for 8 yards (tackle by Larry Foote),0.810,1.330
+4,8:26,1,10,IND 36,13,13,Joseph Addai left end for no gain (tackle by James Harrison),1.330,0.790
+4,7:53,2,10,IND 36,13,13,Curtis Painter pass incomplete short right intended for Dallas Clark,0.790,0.100
+4,7:49,3,10,IND 36,13,13,Curtis Painter pass incomplete short right intended for Pierre Garcon,0.100,-0.980
+4,7:46,4,10,IND 36,13,13,"Pat McAfee punts 54 yards, returned by Antonio Brown for 25 yards (tackle by Justin Snow)",-0.980,-1.270
+4,7:29,1,10,PIT 35,13,13,Ben Roethlisberger pass complete short right to Emmanuel Sanders for 3 yards (tackle by Jacob Lacey),1.270,1.130
+4,6:58,2,7,PIT 38,13,13,Rashard Mendenhall right tackle for -1 yards (tackle by Kavell Conner and Dwight Freeney),1.130,0.300
+4,6:14,3,8,PIT 37,13,13,Ben Roethlisberger pass incomplete short left intended for Antonio Brown,0.300,-0.910
+4,6:11,4,8,PIT 37,13,13,"Daniel Sepulveda punts 37 yards, returned by Blair White for 2 yards (tackle by Curtis Brown). Penalty on Jacob Lacey: Offensive Holding, 10 yards",-0.910,-0.040
+4,6:03,1,10,IND 18,13,13,Joseph Addai up the middle for 7 yards (tackle by Ryan Clark and James Farrior),0.040,0.550
+4,5:21,2,3,IND 25,19,13,"Curtis Painter sacked by James Harrison for -7 yards. Curtis Painter fumbles (forced by James Harrison), recovered by Troy Polamalu at IND-16 and returned for 16 yards, touchdown",0.550,-7.000
+4,,,,IND 2,20,13,Shaun Suisham kicks extra point good,0.000,0.000
+4,,,,PIT 35,20,13,"Shaun Suisham kicks off 74 yards, touchback",0.000,0.280
+4,5:13,1,10,IND 20,20,13,Joseph Addai right tackle for 3 yards (tackle by James Farrior and Aaron Smith),0.280,0.140
+4,4:40,2,7,IND 23,20,13,Curtis Painter pass complete short right to Brody Eldridge for 4 yards (tackle by Keenan Lewis),0.140,-0.030
+4,4:00,3,3,IND 27,20,13,Curtis Painter pass complete short right to Austin Collie for 3 yards (tackle by Keenan Lewis),-0.030,0.940
+4,3:21,1,10,IND 30,20,13,Curtis Painter pass complete deep left to Pierre Garcon for 27 yards,0.940,2.720
+4,3:16,1,10,PIT 43,20,13,Curtis Painter pass incomplete short left intended for Delone Carter,2.720,2.180
+4,3:12,2,10,PIT 43,20,13,Curtis Painter pass complete short right to Pierre Garcon for 18 yards (tackle by Keenan Lewis),2.180,3.910
+4,3:07,1,10,PIT 25,20,13,Joseph Addai right tackle for 11 yards (tackle by William Gay),3.910,4.650
+4,2:23,1,10,PIT 14,20,13,Curtis Painter pass incomplete short left intended for Reggie Wayne,4.650,4.000
+4,2:19,2,10,PIT 14,20,13,Curtis Painter pass complete short right to Pierre Garcon for 8 yards (tackle by Keenan Lewis),4.000,4.730
+4,2:15,3,2,PIT 6,20,19,"Joseph Addai left tackle for 6 yards, touchdown",4.730,7.000
+,,,,,,,"Replay Assistant challenged the runner broke the plane ruling, and the play was upheld.",,
+4,,,,PIT 2,20,20,Adam Vinatieri kicks extra point good,0.000,0.000
+4,,,,IND 35,20,20,"Pat McAfee kicks off 65 yards, touchback",0.000,0.280
+4,2:09,1,10,PIT 20,20,20,Ben Roethlisberger pass complete short left to Mike Wallace for 6 yards (tackle by Terrence Johnson),0.280,0.540
+4,2:00,2,4,PIT 26,20,20,Ben Roethlisberger pass complete short right to Hines Ward for 11 yards (tackle by Kavell Conner and Jerraud Powers),0.540,1.400
+4,1:39,1,10,PIT 37,20,20,Ben Roethlisberger pass incomplete short left intended for Antonio Brown,1.400,0.860
+4,1:31,2,10,PIT 37,20,20,Ben Roethlisberger pass complete short right to Mewelde Moore for 22 yards (tackle by Joe Lefeged),0.860,2.850
+4,1:23,1,10,IND 41,20,20,Ben Roethlisberger right end for 11 yards (tackle by Pat Angerer),2.850,3.580
+4,1:13,,,,20,20,Timeout #1 by Pittsburgh Steelers,0.000,3.580
+4,1:13,1,10,IND 30,20,20,Mewelde Moore right end for 5 yards (tackle by Joe Lefeged and Drake Nevis),3.580,3.710
+4,1:00,,,,20,20,Timeout #1 by Indianapolis Colts,0.000,3.710
+4,1:00,2,5,IND 25,20,20,Mewelde Moore up the middle for 4 yards (tackle by Pat Angerer),3.710,3.530
+4,0:55,,,,20,20,Timeout #2 by Indianapolis Colts,0.000,3.530
+4,0:55,3,1,IND 21,20,20,Isaac Redman up the middle for 3 yards (tackle by Pat Angerer),3.530,4.370
+4,0:12,,,,20,20,Timeout #2 by Pittsburgh Steelers,0.000,4.370
+4,0:12,1,10,IND 18,20,20,Ben Roethlisberger left end for -2 yards (tackle by Kavell Conner),4.370,3.560
+4,0:08,,,,20,20,Timeout #3 by Pittsburgh Steelers,0.000,3.560
+4,0:08,2,12,IND 20,23,20,Shaun Suisham 38 yard field goal good. Penalty on Jacob Lacey: Running Into the Kicker (Declined),3.560,3.000
+4,,,,PIT 35,23,20,"Shaun Suisham kicks off 65 yards, touchback",0.000,0.280
+4,0:04,1,10,IND 20,23,20,Curtis Painter pass incomplete deep left intended for Austin Collie,0.280,-0.270
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,TAM 23,6,3:49,15,Punt
+2,1,8:56,TAM 38,3,1:05,1,Punt
+3,1,6:18,TAM 38,4,2:07,9,Downs
+4,1,1:33,TAM 20,14,7:31,80,Touchdown
+5,2,7:39,TAM 21,5,2:52,17,Punt
+6,2,1:23,TAM 10,3,1:23,14,End of Half
+7,3,11:48,TAM 6,13,6:37,71,Missed FG
+8,3,3:36,TAM 34,5,2:55,66,Touchdown
+9,4,13:15,SFO 44,3,1:52,-4,Punt
+10,4,10:35,SFO 7,4,2:17,7,Touchdown
+11,4,6:19,TAM 39,6,3:18,27,Punt
+12,4,0:38,SFO 47,1,0:38,-1,End of Game

@@ -1,0 +1,15 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,PHI 25,3,1:01,5,Punt
+2,1,9:07,PHI 42,11,6:16,58,Touchdown
+3,1,1:34,PHI 20,5,2:34,14,Punt
+4,2,12:36,PHI 25,4,2:03,16,Punt
+5,2,3:08,PHI 24,11,2:57,61,Missed FG
+6,3,10:50,PHI 25,3,1:59,2,Punt
+7,3,7:13,PHI 22,3,1:38,-9,Punt
+8,3,4:16,OAK 44,2,0:21,14,Fumble
+9,3,3:46,OAK 30,5,1:33,13,Field Goal
+10,4,13:57,PHI 27,3,1:39,-18,Punt
+11,4,7:58,PHI 38,1,0:06,0,Interception
+12,4,6:35,PHI 16,3,1:48,6,Punt
+13,4,2:19,PHI 12,3,1:12,-2,Punt
+14,4,0:54,PHI 48,6,0:32,21,Field Goal

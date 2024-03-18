@@ -1,0 +1,175 @@
+Quarter,Time,Down,ToGo,Location,PIT,DET,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Steelers won the coin toss, Steelers to receive the opening kickoff.",,
+1,15:00,,,DET 30,0,0,"Jason Hanson kicks off 64 yards, returned by Stefan Logan for 17 yards (tackle by Jordon Dizon)",0.000,0.480
+1,14:55,1,10,PIT 23,0,0,Ben Roethlisberger pass complete short right to Hines Ward for 5 yards (tackle by DeAndre Levy),0.480,0.610
+1,14:15,2,5,PIT 28,0,0,Ben Roethlisberger pass incomplete short left intended for Heath Miller (defended by DeAndre Levy),0.610,-0.100
+1,14:10,3,5,PIT 28,0,0,Ben Roethlisberger pass incomplete short right intended for Limas Sweed (defended by Anthony Henry),-0.100,-1.500
+1,14:05,4,5,PIT 28,0,0,"Daniel Sepulveda punts 51 yards, returned by Dennis Northcutt for 1 yard (tackle by Keyaron Fox)",-1.500,-0.410
+1,13:53,1,10,DET 22,0,0,"Daunte Culpepper sacked by James Harrison for -6 yards. Daunte Culpepper fumbles (forced by James Harrison), recovered by Daunte Culpepper at DET-18",0.410,-0.770
+1,13:27,2,14,DET 18,0,0,Kevin Smith left tackle for 3 yards (tackle by Aaron Smith and Lawrence Timmons),-0.770,-0.960
+1,12:48,3,11,DET 21,0,0,Daunte Culpepper right end for 32 yards (tackle by Ryan Clark),-0.960,2.460
+1,12:07,1,10,PIT 47,0,0,"Daunte Culpepper for no gain. Daunte Culpepper fumbles, recovered by Daunte Culpepper at PIT-49",2.460,1.640
+1,11:40,2,12,PIT 49,0,0,Kevin Smith right end for 1 yard (tackle by James Harrison),1.640,1.090
+1,11:04,3,11,PIT 48,0,0,Daunte Culpepper pass complete short left to Maurice Morris for 16 yards (tackle by Ryan Clark),1.090,3.450
+1,10:33,1,10,PIT 32,0,0,Kevin Smith middle for 1 yard (tackle by Lawrence Timmons),3.450,3.040
+1,9:55,2,9,PIT 31,0,0,Kevin Smith right tackle for 4 yards (tackle by James Farrior and Travis Kirschke),3.040,2.870
+1,9:13,3,5,PIT 27,0,0,Daunte Culpepper pass incomplete short right intended for Brandon Pettigrew,2.870,1.720
+1,9:10,4,5,PIT 27,0,3,Jason Hanson 46 yard field goal good. Penalty on William Gay: Defensive Offside (Declined),1.720,3.000
+1,,,,DET 30,0,3,"Jason Hanson kicks off 70 yards, returned by Stefan Logan for 22 yards (tackle by Louis Delmas)",0.000,0.410
+1,8:59,1,10,PIT 22,0,3,Ben Roethlisberger pass complete short left to Santonio Holmes for 14 yards (tackle by Louis Delmas),0.410,1.330
+1,8:34,1,10,PIT 36,0,3,Ben Roethlisberger pass complete short middle to Rashard Mendenhall for 9 yards (tackle by Marquand Manuel and Turk McBride),1.330,2.010
+1,8:08,2,1,PIT 45,0,3,Rashard Mendenhall left tackle for 27 yards (tackle by Marquand Manuel),2.010,3.710
+1,7:38,1,10,DET 28,0,3,Ben Roethlisberger pass incomplete short left intended for Santonio Holmes,3.710,3.170
+1,7:34,2,10,DET 28,0,3,Ben Roethlisberger pass complete deep left to Hines Ward for 21 yards (tackle by Will Peterson and Julian Peterson),3.170,5.600
+1,6:50,1,7,DET 7,6,3,"Rashard Mendenhall right end for 7 yards, touchdown",5.600,7.000
+1,,,,DET 2,7,3,Jeff Reed kicks extra point good,0.000,0.000
+1,,,,PIT 30,7,3,"Jeff Reed kicks off 68 yards, returned by Derrick Williams for 34 yards (tackle by Andre Frazier)",0.000,1.330
+1,6:37,1,10,DET 36,7,3,Kevin Smith left end for 7 yards (tackle by Lawrence Timmons),1.330,1.740
+1,6:00,2,3,DET 43,7,3,Daunte Culpepper pass complete short left to Calvin Johnson for 2 yards (tackle by Ike Taylor and James Harrison),1.740,1.290
+1,5:22,3,1,DET 45,7,3,Kevin Smith right tackle for 4 yards (tackle by William Gay),1.290,2.190
+1,4:47,1,10,DET 49,7,3,Daunte Culpepper pass complete deep left to Bryant Johnson for 17 yards (tackle by Ike Taylor),2.190,3.310
+1,4:09,1,10,PIT 34,7,3,Daunte Culpepper pass complete short middle to Jerome Felton for 27 yards (tackle by Ryan Clark),3.310,5.600
+1,3:24,1,7,PIT 7,7,3,"Daunte Culpepper pass incomplete short left intended for Jerome Felton. Penalty on Daunte Culpepper: Intentional Grounding, 16 yards",5.600,2.600
+1,3:16,2,23,PIT 23,7,3,Kevin Smith left tackle for -4 yards (tackle by Travis Kirschke),2.600,1.420
+1,2:34,3,27,PIT 27,7,3,Daunte Culpepper pass incomplete deep middle intended for Dennis Northcutt,1.420,1.670
+1,2:28,4,27,PIT 27,7,6,Jason Hanson 46 yard field goal good. Penalty on Ike Taylor: Defensive Offside (Declined),1.670,3.000
+1,,,,DET 30,7,6,"Jason Hanson kicks off 72 yards, returned by Stefan Logan for 27 yards (tackle by Copeland Bryan)",0.000,0.610
+1,2:15,1,10,PIT 25,7,6,Rashard Mendenhall left end for no gain (tackle by DeAndre Levy),0.610,0.060
+1,1:36,2,10,PIT 25,7,6,Rashard Mendenhall right tackle for 6 yards (tackle by Marquand Manuel),0.060,0.170
+1,0:53,3,4,PIT 31,7,6,Ben Roethlisberger pass complete short right to Santonio Holmes for 5 yards (tackle by Anthony Henry),0.170,1.330
+1,0:14,1,10,PIT 36,7,6,Rashard Mendenhall left tackle for 6 yards (tackle by Larry Foote),1.330,1.600
+Quarter,Time,Down,ToGo,Location,PIT,DET,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,4,PIT 42,7,6,Ben Roethlisberger pass complete short left to Rashard Mendenhall for 7 yards (tackle by Larry Foote and Jason Hunter),1.600,2.190
+2,14:23,1,10,PIT 49,7,6,"Ben Roethlisberger for no gain. Ben Roethlisberger fumbles, recovered by Rashard Mendenhall at PIT-48",2.190,1.510
+2,13:40,2,11,PIT 48,7,6,Ben Roethlisberger pass complete short left to Mewelde Moore for 7 yards (tackle by Will Peterson),1.510,1.750
+2,12:59,3,4,DET 45,7,6,"Ben Roethlisberger pass incomplete intended for Hines Ward is intercepted by Eric King at DET-41. Penalty on Landon Cohen: Roughing the Passer, 15 yards (no play)",1.750,3.580
+2,12:52,1,10,DET 30,7,6,Rashard Mendenhall right end for 5 yards (tackle by Marquand Manuel),3.580,3.710
+2,12:15,2,5,DET 25,7,6,Ben Roethlisberger pass incomplete deep left intended for Santonio Holmes,3.710,3.010
+2,12:08,3,5,DET 25,7,6,Ben Roethlisberger pass complete short right to Santonio Holmes for 11 yards (tackle by Louis Delmas),3.010,4.650
+2,11:27,1,10,DET 14,7,6,Rashard Mendenhall right tackle for 9 yards (tackle by Anthony Henry and Marquand Manuel),4.650,5.670
+2,10:51,2,1,DET 5,7,6,"Rashard Mendenhall right end for 5 yards. Penalty on Matt Spaeth: Offensive Holding, 10 yards (no play)",5.670,3.850
+2,10:45,2,11,DET 15,13,6,"Ben Roethlisberger pass complete short left to Heath Miller for 15 yards, touchdown",3.850,7.000
+2,,,,DET 2,14,6,Jeff Reed kicks extra point good,0.000,0.000
+2,,,,PIT 30,14,6,"Jeff Reed kicks off 62 yards, returned by Derrick Williams for 27 yards (tackle by Patrick Bailey)",0.000,1.270
+2,10:29,1,10,DET 35,14,6,Kevin Smith left tackle for 3 yards (tackle by Aaron Smith),1.270,1.130
+2,10:02,2,7,DET 38,14,6,Kevin Smith middle for -2 yards (tackle by Aaron Smith),1.130,0.170
+2,9:22,3,9,DET 36,14,6,Daunte Culpepper pass incomplete short right intended for Maurice Morris,0.170,-0.980
+2,9:17,4,9,DET 36,14,6,"Nick Harris punts 49 yards, returned by Stefan Logan for 11 yards (tackle by Eric King). Penalty on Andre Frazier: Offensive Holding, 7 yards",-0.980,0.380
+2,9:04,1,10,PIT 8,14,6,Mewelde Moore right tackle for 1 yard (tackle by Landon Cohen),-0.380,-0.710
+2,8:23,2,9,PIT 9,14,6,Ben Roethlisberger pass complete short right to Santonio Holmes for 20 yards (tackle by Marquand Manuel and Copeland Bryan),-0.710,0.870
+2,7:45,1,10,PIT 29,14,6,"Ben Roethlisberger pass incomplete deep right intended for Mike Wallace. Penalty on Mike Wallace: Delay of Game, 5 yards",0.870,-0.350
+2,7:37,2,15,PIT 24,14,6,Mewelde Moore left end for 7 yards (tackle by Larry Foote),-0.350,-0.100
+2,7:01,3,8,PIT 31,14,12,"Ben Roethlisberger pass incomplete short right intended for Mike Wallace is intercepted by Will Peterson at PIT-38 and returned for 38 yards, touchdown",-0.100,-7.000
+2,,,,PIT 2,14,13,Jason Hanson kicks extra point good,0.000,0.000
+2,,,,DET 30,14,13,"Jason Hanson kicks off 69 yards, returned by Stefan Logan for 47 yards (tackle by Phillip Buchanon)",0.000,2.130
+2,6:43,1,10,PIT 48,14,13,Rashard Mendenhall middle for 4 yards (tackle by Julian Peterson and Landon Cohen),2.130,2.120
+2,6:07,2,6,DET 48,14,13,Ben Roethlisberger pass complete short middle to Heath Miller for 10 yards (tackle by Kalvin Pearson),2.120,3.050
+2,5:33,1,10,DET 38,14,13,Rashard Mendenhall left tackle for 1 yard (tackle by Cliff Avril),3.050,2.640
+2,4:58,2,9,DET 37,14,13,Ben Roethlisberger pass complete short right to Heath Miller for 11 yards (tackle by Marquand Manuel),2.640,3.840
+2,4:26,1,10,DET 26,14,13,Ben Roethlisberger pass complete short left to Heath Miller for 9 yards (tackle by Louis Delmas),3.840,4.640
+2,3:57,2,1,DET 17,20,13,"Ben Roethlisberger pass complete short middle to Hines Ward for 17 yards, touchdown",4.640,7.000
+2,,,,DET 2,21,13,Jeff Reed kicks extra point good,0.000,0.000
+2,,,,PIT 30,21,13,"Jeff Reed kicks off 67 yards, returned by Derrick Williams for 18 yards (tackle by Arnold Harrison)",0.000,0.340
+2,3:44,1,10,DET 21,21,13,Daunte Culpepper pass complete short middle to Kevin Smith for 23 yards (tackle by William Gay),0.340,1.860
+2,3:14,1,10,DET 44,21,13,Kevin Smith middle for 2 yards (tackle by Brett Keisel),1.860,1.590
+2,2:40,2,8,DET 46,21,13,Daunte Culpepper pass complete short middle to Dennis Northcutt for 10 yards (tackle by Keiwan Ratliff),1.590,2.650
+2,2:00,1,10,PIT 44,21,13,Daunte Culpepper pass incomplete short right intended for Brandon Pettigrew (defended by Deshea Townsend),2.650,2.110
+2,1:56,2,10,PIT 44,21,13,Daunte Culpepper pass complete short right to Brandon Pettigrew for 2 yards (tackle by LaMarr Woodley),2.110,1.690
+2,1:17,3,8,PIT 42,21,13,Daunte Culpepper sacked by James Harrison for -14 yards,1.690,-0.460
+2,1:10,,,,21,13,Timeout #1 by Pittsburgh Steelers,0.000,-0.460
+2,1:10,4,22,DET 44,21,13,"Nick Harris punts 46 yards, fair catch by Mewelde Moore",-0.460,0.380
+2,1:02,1,10,PIT 10,21,13,Ben Roethlisberger pass complete short left to Mewelde Moore for 7 yards (tackle by Copeland Bryan),-0.380,-0.090
+2,0:38,2,3,PIT 17,21,13,"Penalty on Trai Essex: False Start, 5 yards (no play)",-0.090,-0.630
+2,0:37,,,,21,13,Timeout #2 by Pittsburgh Steelers,0.000,-0.630
+2,0:37,2,8,PIT 12,21,13,Ben Roethlisberger pass complete deep middle to Hines Ward for 18 yards (tackle by Louis Delmas),-0.630,0.940
+2,0:15,1,10,PIT 30,21,13,Ben Roethlisberger pass complete short middle to Heath Miller for 9 yards (tackle by Cliff Avril),0.940,1.610
+2,0:05,,,,21,13,Timeout #3 by Pittsburgh Steelers,0.000,1.610
+2,0:05,2,1,PIT 39,21,13,Ben Roethlisberger kneels for -1 yards,1.610,0.760
+Quarter,Time,Down,ToGo,Location,PIT,DET,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PIT 30,21,13,"Jeff Reed kicks off 61 yards, returned by Derrick Williams for 18 yards (tackle by Andre Frazier)",0.000,0.740
+3,14:54,1,10,DET 27,21,13,Kevin Smith right tackle for 8 yards (tackle by Tyrone Carter),0.740,1.280
+3,14:21,2,2,DET 35,21,13,Daunte Culpepper pass complete short right to Bryant Johnson for no gain,1.280,0.560
+3,13:38,3,2,DET 35,21,13,Daunte Culpepper pass complete short right to Kevin Smith for 6 yards (tackle by James Farrior),0.560,1.660
+3,13:20,1,10,DET 41,21,13,Kevin Smith right end for 1 yard (tackle by Brett Keisel),1.660,1.260
+3,12:44,2,9,DET 42,21,13,Daunte Culpepper sacked by James Harrison for -6 yards,1.260,-0.230
+3,12:11,3,15,DET 36,21,13,Daunte Culpepper pass complete deep right to Brandon Pettigrew for 19 yards (tackle by Ryan Clark),-0.230,2.590
+3,11:34,1,10,PIT 45,21,13,Kevin Smith right tackle for 1 yard (tackle by James Farrior),2.590,2.180
+3,10:58,2,9,PIT 44,21,13,"Kevin Smith right end for 1 yard (tackle by Tyrone Carter). Kevin Smith fumbles (forced by Tyrone Carter), recovered by Manuel Ramirez at PIT-43",2.180,1.620
+3,10:21,3,8,PIT 43,21,13,Daunte Culpepper right end for 12 yards (tackle by Deshea Townsend),1.620,3.510
+3,9:52,1,10,PIT 31,21,13,"Daunte Culpepper pass complete short left to Kevin Smith for 2 yards (tackle by Tyrone Carter). Penalty on Manuel Ramirez: Offensive Holding, 10 yards (no play)",3.510,2.850
+3,9:24,1,20,PIT 41,21,13,Daunte Culpepper pass incomplete short right intended for Kevin Smith,2.850,1.620
+3,9:16,2,20,PIT 41,21,13,Kevin Smith right end for 1 yard (tackle by William Gay),1.620,1.090
+3,8:37,3,19,PIT 40,21,13,Daunte Culpepper pass complete short right to Bryant Johnson for 9 yards (tackle by William Gay),1.090,1.320
+3,8:19,4,10,PIT 31,21,13,Jason Hanson 49 yard field goal no good,1.320,-1.530
+3,8:14,1,10,PIT 39,21,13,Rashard Mendenhall left end for 1 yard (tackle by Cliff Avril),1.530,1.120
+3,7:35,2,9,PIT 40,21,13,Ben Roethlisberger pass complete short middle to Hines Ward for 7 yards (tackle by Larry Foote),1.120,1.360
+3,6:54,3,2,PIT 47,21,13,Ben Roethlisberger pass complete short left to Mewelde Moore for 6 yards (tackle by Larry Foote),1.360,2.460
+3,6:13,1,10,DET 47,27,13,"Ben Roethlisberger pass complete deep middle to Mike Wallace for 47 yards, touchdown",2.460,7.000
+3,,,,DET 2,28,13,Jeff Reed kicks extra point good,0.000,0.000
+3,,,,PIT 30,28,13,"Jeff Reed kicks off 63 yards, returned by Derrick Williams for 12 yards (tackle by Patrick Bailey)",0.000,0.150
+3,6:00,1,10,DET 19,28,13,Maurice Morris right tackle for 5 yards (tackle by James Harrison),0.150,0.340
+3,5:32,2,5,DET 24,28,13,"Penalty on Brandon Pettigrew: False Start, 5 yards (no play)",0.340,-0.390
+3,5:20,2,10,DET 19,28,13,Daunte Culpepper pass incomplete short right intended for Brandon Pettigrew,-0.390,-1.070
+3,5:15,3,10,DET 19,28,13,Daunte Culpepper pass complete short left to Will Heller for 16 yards (tackle by James Harrison),-1.070,1.270
+3,4:30,1,10,DET 35,28,13,Kevin Smith left end for 4 yards (tackle by Ryan Clark and Evander Hood),1.270,1.260
+3,4:00,2,6,DET 39,28,13,Kevin Smith right end for 4 yards (tackle by Casey Hampton),1.260,1.090
+3,3:19,3,2,DET 43,28,13,Daunte Culpepper pass complete short left to Dennis Northcutt for 8 yards (tackle by Ike Taylor),1.090,2.320
+3,2:50,1,10,PIT 49,28,13,Daunte Culpepper pass incomplete deep right intended for Bryant Johnson,2.320,1.780
+3,2:42,2,10,PIT 49,28,13,Kevin Smith right tackle for 10 yards (tackle by Deshea Townsend),1.780,2.980
+3,2:14,1,10,PIT 39,28,13,Kevin Smith right end for 3 yards (tackle by Casey Hampton),2.980,2.850
+3,1:33,,,,28,13,Timeout #1 by Detroit Lions,0.000,2.850
+3,1:33,2,7,PIT 36,28,13,Daunte Culpepper pass incomplete deep left intended for Bryant Johnson,2.850,2.150
+3,1:25,3,7,PIT 36,28,13,Jerome Felton left tackle for 8 yards (tackle by Keiwan Ratliff),2.150,3.710
+3,0:47,1,10,PIT 28,28,13,"Daunte Culpepper pass incomplete intended for Bryant Johnson is intercepted by Ryan Clark at PIT-35. Daunte Culpepper fumbles, recovered by Daunte Culpepper at PIT-35",3.710,-0.410
+3,0:38,1,10,PIT 22,28,13,Rashard Mendenhall right tackle for -1 yards (tackle by DeAndre Levy),0.410,-0.270
+Quarter,Time,Down,ToGo,Location,PIT,DET,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,11,PIT 21,28,13,Ben Roethlisberger pass complete short middle to Hines Ward for 12 yards (tackle by Larry Foote). Penalty on Landon Cohen: Defensive Offside (Declined),-0.270,1.140
+4,14:31,1,10,PIT 33,28,13,Rashard Mendenhall left end for 11 yards (tackle by DeAndre Levy),1.140,1.860
+4,13:44,1,10,PIT 44,28,13,"Penalty on David Johnson: False Start, 5 yards (no play)",1.860,1.530
+4,13:30,1,15,PIT 39,28,13,Rashard Mendenhall right tackle for -5 yards (tackle by Cliff Avril),1.530,-0.030
+4,12:47,2,20,PIT 34,28,13,Ben Roethlisberger pass complete short right to Mike Wallace for 5 yards (tackle by Marquand Manuel),-0.030,-0.030
+4,12:17,3,15,PIT 39,28,13,Ben Roethlisberger sacked by Copeland Bryan for -6 yards,-0.030,-1.180
+4,12:04,4,21,PIT 33,28,13,"Daniel Sepulveda punts 49 yards, returned by Dennis Northcutt for 9 yards (tackle by Andre Frazier)",-1.180,-0.740
+4,11:52,1,10,DET 27,28,13,"Kevin Smith left tackle for 4 yards (tackle by James Harrison). Penalty on Dominic Raiola: Offensive Holding, 10 yards (no play)",0.740,-0.170
+4,11:28,1,20,DET 17,28,13,Kevin Smith left tackle for 1 yard (tackle by Brett Keisel),-0.170,-1.120
+4,10:51,2,19,DET 18,28,13,Daunte Culpepper pass complete short left to Jerome Felton for 3 yards (tackle by Lawrence Timmons),-1.120,-1.290
+4,10:14,3,16,DET 21,28,13,Daunte Culpepper pass incomplete short left intended for Derrick Williams,-1.290,-1.960
+4,10:08,4,16,DET 21,28,13,"Nick Harris punts 44 yards, returned by Stefan Logan for 14 yards (tackle by Kalvin Pearson)",-1.960,-2.190
+4,9:57,1,10,PIT 49,28,13,Ben Roethlisberger sacked by Andre Fluellen and Cliff Avril for -9 yards,2.190,0.430
+4,9:20,2,19,PIT 40,28,13,Ben Roethlisberger pass complete short right to Hines Ward for 5 yards (tackle by Kalvin Pearson),0.430,0.430
+4,8:35,3,14,PIT 45,28,13,Ben Roethlisberger sacked by Julian Peterson for 0 yards,0.430,-0.390
+4,8:06,4,14,PIT 45,28,13,"Daniel Sepulveda punts 44 yards, returned by Dennis Northcutt for 7 yards (tackle by Keyaron Fox)",-0.390,-0.040
+4,7:55,1,10,DET 18,28,13,Daunte Culpepper pass incomplete short middle intended for Bryant Johnson,0.040,-0.490
+4,7:50,2,10,DET 18,28,13,"Daunte Culpepper pass incomplete deep left intended for Derrick Williams. Penalty on Ike Taylor: Defensive Pass Interfere, 27 yards (no play)",-0.490,1.930
+4,7:44,1,10,DET 45,28,13,Daunte Culpepper pass complete short middle to Kevin Smith for 6 yards (tackle by Deshea Townsend),1.930,2.190
+4,7:13,2,4,PIT 49,28,13,"Daunte Culpepper pass incomplete short right intended for Brandon Pettigrew. Penalty on Maurice Morris: Offensive Holding, 10 yards (no play)",2.190,0.840
+4,7:07,2,14,DET 41,28,13,Daunte Culpepper pass complete short left to Dennis Northcutt for 9 yards (tackle by Ike Taylor),0.840,1.360
+4,6:35,3,5,,28,13,Daunte Culpepper pass complete short right to Dennis Northcutt for 5 yards (tackle by James Farrior),1.360,2.590
+4,6:01,1,10,PIT 45,28,13,Daunte Culpepper pass complete short middle to Jerome Felton for 7 yards (tackle by Lawrence Timmons),2.590,2.990
+4,5:32,2,3,PIT 38,28,13,Daunte Culpepper pass complete short right to Kevin Smith for 13 yards (tackle by Ryan Clark),2.990,3.910
+4,5:03,,,,28,13,Timeout #1 by Pittsburgh Steelers,0.000,3.910
+4,5:03,1,10,PIT 25,28,19,"Daunte Culpepper pass complete deep middle to Dennis Northcutt for 25 yards, touchdown",3.910,7.000
+4,,,,PIT 2,28,20,Jason Hanson kicks extra point good,0.000,0.000
+4,,,,DET 30,28,20,"Jason Hanson kicks off 66 yards, returned by Stefan Logan for 15 yards (tackle by DeAndre Levy)",0.000,0.150
+4,4:51,1,10,PIT 19,28,20,Rashard Mendenhall left tackle for 8 yards (tackle by Louis Delmas),0.150,0.750
+4,4:08,2,2,PIT 27,28,20,Rashard Mendenhall left tackle for -2 yards (tackle by Larry Foote),0.750,-0.290
+4,3:23,3,4,PIT 25,28,20,Ben Roethlisberger pass incomplete short left intended for Mike Wallace,-0.290,-1.700
+4,3:17,4,4,PIT 25,28,20,"Daniel Sepulveda punts 50 yards, returned by Dennis Northcutt for 4 yards (tackle by Patrick Bailey)",-1.700,-0.870
+4,3:07,1,10,DET 29,28,20,Daunte Culpepper pass complete deep left to Derrick Williams for 18 yards (tackle by Ryan Clark),0.870,2.060
+4,2:41,1,10,DET 47,28,20,Daunte Culpepper pass complete deep left to Derrick Williams for 19 yards,2.060,3.310
+4,2:36,1,10,PIT 34,28,20,Daunte Culpepper sacked by LaMarr Woodley for -9 yards,3.310,1.550
+4,2:07,2,19,PIT 43,28,20,Daunte Culpepper pass incomplete deep middle intended for Dennis Northcutt,1.550,0.890
+4,2:01,3,19,PIT 43,28,20,Daunte Culpepper pass complete deep right to Dennis Northcutt for 22 yards (tackle by Tyrone Carter),0.890,4.170
+4,1:54,1,10,PIT 21,28,20,Daunte Culpepper sacked by LaMarr Woodley for -6 yards,4.170,2.820
+4,1:28,2,16,PIT 27,28,20,Daunte Culpepper sacked by William Gay for -5 yards,2.820,1.490
+4,1:23,,,,28,20,Timeout #2 by Detroit Lions,0.000,1.490
+4,1:23,3,21,PIT 32,28,20,Daunte Culpepper sacked by Lawrence Timmons for -13 yards,1.490,0.270
+4,1:18,,,,28,20,Timeout #3 by Detroit Lions,0.000,0.270
+4,1:18,4,34,PIT 45,28,20,Daunte Culpepper pass incomplete deep middle intended for Dennis Northcutt (defended by Ike Taylor),0.270,-1.930
+4,1:09,1,10,PIT 45,28,20,Ben Roethlisberger kneels for -1 yards,1.930,1.250
+4,0:30,2,11,PIT 44,28,20,Ben Roethlisberger kneels for -1 yards,1.250,0.430
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

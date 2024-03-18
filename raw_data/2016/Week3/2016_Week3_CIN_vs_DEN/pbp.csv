@@ -1,0 +1,182 @@
+Quarter,Time,Down,ToGo,Location,DEN,CIN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Bengals won the coin toss and deferred, Broncos to receive the opening kickoff.",,
+1,15:00,,,CIN 35,0,0,"Mike Nugent kicks off 70 yards, returned by Cody Latimer for 19 yards (tackle by Margus Hunt)",0.000,0.280
+1,14:56,1,10,DEN 14,0,0,Trevor Siemian pass incomplete short left intended for Emmanuel Sanders,-0.280,-0.750
+1,14:52,2,10,DEN 14,0,0,Trevor Siemian pass complete short left to Emmanuel Sanders for 9 yards (tackle by George Iloka),-0.750,-0.320
+1,14:09,3,1,DEN 23,0,0,Trevor Siemian pass incomplete short right intended for Jordan Norwood (defended by Carlos Dunlap),-0.320,-1.830
+1,14:05,4,1,DEN 23,0,0,"Riley Dixon punts 51 yards, out of bounds",-1.830,-0.670
+1,13:57,1,10,CIN 26,0,0,Jeremy Hill right guard for 4 yards (tackle by Brandon Marshall),0.670,0.670
+1,13:22,2,6,CIN 30,0,0,Andy Dalton pass complete short right to A.J. Green for 9 yards (tackle by Aqib Talib),0.670,1.530
+1,12:44,1,10,CIN 39,0,0,Jeremy Hill left guard for 8 yards (tackle by Chris Harris and Brandon Marshall),1.530,2.070
+1,12:05,2,2,CIN 47,0,0,Jeremy Hill left tackle for 50 yards (tackle by Darian Stewart),2.070,2.070
+1,11:10,2,2,CIN 47,0,0,Timeout #1 by Cincinnati Bengals,2.070,6.510
+1,11:10,1,3,DEN 3,0,6,"Jeremy Hill right guard for 3 yards, touchdown",6.510,7.000
+1,11:10,,,DEN 3,0,7,Mike Nugent kicks extra point good,0.000,0.000
+1,11:10,,,CIN 35,0,7,"Mike Nugent kicks off 65 yards, touchback",0.000,-0.610
+1,11:07,1,10,DEN 25,0,7,C.J. Anderson left tackle for no gain (tackle by Geno Atkins and Domata Peko),0.610,0.060
+1,10:36,2,10,DEN 25,0,7,C.J. Anderson right tackle for 7 yards (tackle by Shawn Williams and Carlos Dunlap),0.060,0.300
+1,10:00,3,3,DEN 32,0,7,Trevor Siemian middle for 5 yards (tackle by Vincent Rey),0.300,1.400
+1,9:17,1,10,DEN 37,0,7,"Trevor Siemian pass incomplete short left intended for Emmanuel Sanders. Penalty on Adam Jones: Defensive Holding, 5 yards (no play)",1.400,1.730
+1,9:10,1,10,DEN 42,0,7,Jordan Norwood left tackle for no gain (tackle by Vincent Rey),1.730,1.190
+1,8:29,2,10,DEN 42,0,7,Trevor Siemian pass complete deep middle to Emmanuel Sanders for 19 yards (tackle by Adam Jones),1.190,2.980
+1,7:54,1,10,CIN 39,0,7,Trevor Siemian pass incomplete short middle intended for Emmanuel Sanders (defended by Rey Maualuga),2.980,2.440
+1,7:48,2,10,CIN 39,0,7,C.J. Anderson right tackle for -1 yards (tackle by Domata Peko),2.440,1.620
+1,7:09,3,11,CIN 40,0,7,"Penalty on Karlos Dansby: Unnecessary Roughness, 15 yards (no play)",1.620,3.910
+1,7:07,1,10,CIN 25,0,7,Trevor Siemian pass complete short left to Emmanuel Sanders for 10 yards (tackle by Derron Smith and Josh Shaw),3.910,4.580
+1,6:32,1,10,CIN 15,0,7,"Trevor Siemian pass incomplete. Penalty on Jeff Heuerman: Illegal Shift, 5 yards (no play)",4.580,4.240
+1,6:23,1,15,CIN 20,0,7,Trevor Siemian pass complete short left to Demaryius Thomas for 6 yards (tackle by Adam Jones),4.240,4.110
+1,5:42,2,9,CIN 14,0,7,Trevor Siemian pass complete short left to Demaryius Thomas for 5 yards (tackle by Karlos Dansby),4.110,4.220
+1,5:03,3,4,CIN 9,0,7,"Trevor Siemian pass incomplete short middle intended for Demaryius Thomas. Penalty on Dre Kirkpatrick: Illegal Contact, 4 yards (no play)",4.220,6.060
+1,4:58,1,5,CIN 5,0,7,Trevor Siemian pass incomplete short right intended for Emmanuel Sanders,6.060,5.150
+1,4:54,2,5,CIN 5,0,7,C.J. Anderson right tackle for 3 yards (tackle by Shawn Williams),5.150,4.950
+1,4:14,3,2,CIN 2,0,7,Trevor Siemian pass incomplete short left intended for Jordan Norwood,4.950,3.250
+1,4:08,4,2,CIN 2,3,7,Brandon McManus 20 yard field goal good,3.250,3.000
+1,4:08,,,DEN 35,3,7,"Brandon McManus kicks off 59 yards, returned by Rex Burkhead for 21 yards (tackle by Kapri Bibbs). Penalty on Kapri Bibbs: Unnecessary Roughness, 15 yards",0.000,-1.730
+1,4:00,1,10,CIN 42,3,7,Jeremy Hill left tackle for 3 yards (tackle by Derek Wolfe),1.730,1.590
+1,3:26,2,7,CIN 45,3,7,Jeremy Hill right tackle for 6 yards (tackle by Derek Wolfe),1.590,1.690
+1,2:51,3,1,DEN 49,3,7,Andy Dalton middle for 1 yard (tackle by Todd Davis),1.690,2.390
+1,2:07,1,10,DEN 48,3,7,Jeremy Hill right tackle for no gain (tackle by Billy Winn),2.390,1.850
+1,1:38,2,10,DEN 48,3,7,Andy Dalton pass incomplete short right intended for A.J. Green (defended by Aqib Talib),1.850,1.160
+1,1:33,3,10,DEN 48,3,7,Andy Dalton pass complete short left to Tyler Boyd for 7 yards (tackle by Shiloh Keo),1.160,0.530
+1,0:56,4,3,DEN 41,3,7,"Kevin Huber punts 32 yards, fair catch by Shiloh Keo",0.530,0.380
+1,0:49,1,10,DEN 9,3,7,Trevor Siemian pass incomplete short middle intended for C.J. Anderson,-0.380,-0.780
+1,0:44,2,10,DEN 9,3,7,C.J. Anderson right tackle for no gain (tackle by Rey Maualuga and Will Clarke). Penalty on Russell Okung: Unnecessary Roughness (Declined),-0.780,-1.420
+1,0:18,3,10,DEN 9,3,7,Trevor Siemian pass incomplete intended for John Phillips,-1.420,-2.490
+1,0:12,4,10,DEN 9,3,7,"Riley Dixon punts 45 yards, returned by Adam Jones for 3 yards (tackle by Zaire Anderson). Adam Jones fumbles (forced by Zaire Anderson), recovered by Shiloh Keo at CIN-46",-2.490,2.520
+Quarter,Time,Down,ToGo,Location,DEN,CIN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,CIN 46,3,7,C.J. Anderson left tackle for 1 yard (tackle by Vincent Rey and Pat Sims),2.520,2.110
+2,14:29,2,9,CIN 45,3,7,Trevor Siemian pass complete short left to C.J. Anderson for 4 yards (tackle by Vincent Rey),2.110,1.950
+2,14:04,3,5,CIN 41,9,7,"Trevor Siemian pass complete deep left to Emmanuel Sanders for 41 yards, touchdown",1.950,7.000
+2,14:04,,,CIN 41,10,7,Brandon McManus kicks extra point good,0.000,0.000
+2,14:04,,,DEN 35,10,7,"Brandon McManus kicks off 63 yards, returned by Rex Burkhead for 19 yards (tackle by Kapri Bibbs)",0.000,-0.340
+2,13:51,1,10,CIN 21,10,7,Brandon LaFell left end for -2 yards (tackle by Jared Crick),0.340,-0.530
+2,13:07,2,12,CIN 19,10,7,Andy Dalton for 11 yards (tackle by Chris Harris),-0.530,0.300
+2,12:22,3,1,CIN 30,10,7,Jeremy Hill right guard for 2 yards (tackle by Derek Wolfe),0.300,1.070
+2,11:44,1,10,CIN 32,10,7,Giovani Bernard left end for 4 yards (tackle by Brandon Marshall),1.070,1.070
+2,11:03,2,6,CIN 36,10,7,Giovani Bernard right guard for 4 yards (tackle by Todd Davis),1.070,0.890
+2,10:20,3,2,CIN 40,10,7,Giovani Bernard right guard for 1 yard (tackle by Jared Crick and Brandon Marshall),0.890,-0.650
+2,9:40,4,1,CIN 41,10,7,Kevin Huber punts 45 yards,-0.650,0.280
+2,9:29,1,10,DEN 14,10,7,C.J. Anderson left tackle for 2 yards (tackle by Domata Peko),-0.280,-0.510
+2,8:51,2,8,DEN 16,10,7,Trevor Siemian pass incomplete short middle intended for C.J. Anderson (defended by Karlos Dansby),-0.510,-1.160
+2,8:48,3,8,DEN 16,10,7,Trevor Siemian pass incomplete short middle intended for C.J. Anderson,-1.160,-2.390
+2,8:43,4,8,DEN 16,10,7,Riley Dixon punts 46 yards,-2.390,-1.470
+2,8:33,1,10,CIN 38,10,7,Andy Dalton pass incomplete,1.470,0.920
+2,8:26,2,10,CIN 38,10,7,Jeremy Hill left guard for 4 yards (tackle by Von Miller and Brandon Marshall),0.920,0.760
+2,7:42,3,6,CIN 42,10,7,"Andy Dalton pass incomplete short left intended for Brandon LaFell. Penalty on Bradley Roby: Defensive Pass Interference, 6 yards (no play)",0.760,2.130
+2,7:37,1,10,CIN 48,10,7,Andy Dalton pass complete short right to A.J. Green for 14 yards (tackle by T.J. Ward),2.130,3.050
+2,6:59,1,10,DEN 38,10,7,Andy Dalton pass incomplete short right intended for C.J. Uzomah,3.050,2.510
+2,6:55,2,10,DEN 38,10,7,Jeremy Hill left tackle for 1 yard (tackle by Shane Ray and Adam Gotsis),2.510,1.950
+2,6:19,3,9,DEN 37,10,7,Andy Dalton pass complete deep middle to C.J. Uzomah for 22 yards (tackle by Darian Stewart),1.950,4.580
+2,5:36,1,10,DEN 15,10,7,Andy Dalton pass complete short right to A.J. Green for 11 yards (tackle by Shaquil Barrett),4.580,6.280
+2,5:02,1,4,DEN 4,10,13,"Jeremy Hill left guard for 4 yards, touchdown",6.280,7.000
+2,5:02,,,DEN 4,10,14,Mike Nugent kicks extra point good,0.000,0.000
+2,5:02,,,CIN 35,10,14,"Mike Nugent kicks off 66 yards, returned by Cody Latimer for 46 yards (tackle by James Wright)",0.000,-1.930
+2,4:49,1,10,DEN 45,10,14,"Trevor Siemian pass incomplete deep right intended for Demaryius Thomas. Penalty on Ty Sambrailo: Offensive Holding, 10 yards (no play)",1.930,1.270
+2,4:43,1,20,DEN 35,10,14,Trevor Siemian pass complete short right to Devontae Booker for 17 yards (tackle by George Iloka),1.270,2.330
+2,4:03,2,3,CIN 48,10,14,Devontae Booker right tackle for 1 yard (tackle by Rey Maualuga),2.330,1.750
+2,3:19,3,2,CIN 47,10,14,"Trevor Siemian sacked by Pat Sims for -6 yards. Penalty on George Iloka: Defensive Holding, 5 yards (no play)",1.750,2.790
+2,3:00,1,10,CIN 42,10,14,Trevor Siemian pass complete short left to Andy Janovich for 13 yards (tackle by Adam Jones),2.790,3.640
+2,2:30,1,10,CIN 29,10,14,Trevor Siemian pass incomplete short left intended for John Phillips (defended by Shawn Williams). Penalty on John Phillips: Ineligible Downfield Pass (Declined),3.640,3.640
+2,2:24,1,10,CIN 29,10,14,Timeout #1 by Denver Broncos,3.640,3.100
+2,2:24,2,10,CIN 29,10,14,Trevor Siemian pass complete short right to Emmanuel Sanders for 1 yard (tackle by Vincent Rey). Penalty on Max Garcia: Ineligible Downfield Pass (Declined),3.100,2.540
+2,2:00,3,9,CIN 28,10,14,Trevor Siemian pass complete short middle to Cody Latimer for 10 yards (tackle by Vincent Rey),2.540,4.370
+2,1:27,1,10,CIN 18,10,14,Trevor Siemian pass incomplete short right intended for Emmanuel Sanders,4.370,3.800
+2,1:24,2,10,CIN 18,10,14,C.J. Anderson left guard for 9 yards (tackle by Josh Shaw and Derron Smith),3.800,4.740
+2,0:41,3,1,CIN 9,10,14,Trevor Siemian pass complete short right to Emmanuel Sanders for 2 yards (tackle by Dre Kirkpatrick),4.740,4.740
+2,0:32,3,1,CIN 9,10,14,Timeout #2 by Denver Broncos,4.740,5.600
+2,0:32,1,7,CIN 7,16,14,"Trevor Siemian pass complete short right to Emmanuel Sanders for 7 yards, touchdown",5.600,7.000
+2,0:32,,,CIN 7,16,14,"Brandon McManus kicks extra point no good, blocked by Margus Hunt",0.000,-1.000
+2,0:32,,,DEN 35,16,14,"Brandon McManus kicks off 65 yards, touchback",0.000,-0.610
+2,0:28,1,10,CIN 25,16,14,Andy Dalton kneels for -1 yards,0.610,-0.070
+Quarter,Time,Down,ToGo,Location,DEN,CIN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DEN 35,16,14,"Brandon McManus kicks off 65 yards, touchback",0.000,0.610
+3,15:00,1,10,CIN 25,16,14,Jeremy Hill left guard for 4 yards (tackle by Shane Ray and Darian Stewart),0.610,0.600
+3,14:26,2,6,CIN 29,16,14,Andy Dalton pass complete short right to A.J. Green for 7 yards (tackle by Aqib Talib),0.600,1.330
+3,13:52,1,10,CIN 36,16,14,Jeremy Hill left end for no gain (tackle by Todd Davis),1.330,0.790
+3,13:13,2,10,CIN 36,16,14,Andy Dalton pass incomplete deep right intended for A.J. Green,0.790,0.100
+3,13:07,3,10,CIN 36,16,14,Andy Dalton pass incomplete. Penalty on Cedric Ogbuehi: Offensive Holding (Declined),0.100,-0.980
+3,13:00,4,10,CIN 36,16,14,"Kevin Huber punts 50 yards, returned by Jordan Norwood for 11 yards (tackle by Josh Shaw)",-0.980,-0.610
+3,12:48,1,10,DEN 25,16,14,"Trevor Siemian pass complete short left to Demaryius Thomas for 9 yards (tackle by Adam Jones). Demaryius Thomas fumbles (forced by Adam Jones), recovered by Karlos Dansby at DEN-37 (tackle by Demaryius Thomas). Penalty on Demaryius Thomas: Offensive Pass Interference (Declined)",0.610,0.610
+3,12:48,1,10,DEN 25,16,14,--,0.610,-3.120
+3,12:43,1,10,DEN 37,16,14,Andy Dalton sacked by Shane Ray for -8 yards,3.120,1.490
+3,12:03,2,18,DEN 45,16,14,Andy Dalton sacked by Shane Ray for -4 yards,1.490,0.300
+3,11:23,3,22,DEN 49,16,14,"Andy Dalton pass complete short middle to A.J. Green for 4 yards (tackle by Bradley Roby). Penalty on Brandon LaFell: Illegal Block Above the Waist, 10 yards",0.300,-0.490
+3,10:59,3,28,CIN 45,16,14,Andy Dalton pass complete short left to Tyler Boyd for 2 yards (tackle by Derek Wolfe),-0.490,-0.260
+3,10:20,4,26,CIN 47,16,14,"Kevin Huber punts 53 yards, touchback",-0.260,-0.280
+3,10:12,1,10,DEN 20,16,14,C.J. Anderson right guard for no gain (tackle by Rey Maualuga),0.280,-0.270
+3,9:36,2,10,DEN 20,16,14,Trevor Siemian sacked by Carlos Dunlap for -6 yards,-0.270,-2.030
+3,8:55,3,16,DEN 14,16,14,C.J. Anderson left tackle for 13 yards (tackle by Vincent Rey and Adam Jones),-2.030,-1.570
+3,8:22,4,3,DEN 27,16,14,"Riley Dixon punts 53 yards, returned by Alex Erickson for 4 yards (tackle by Shaquil Barrett)",-1.570,-0.540
+3,8:10,1,10,CIN 24,16,14,Jeremy Hill right tackle for 1 yard (tackle by Todd Davis),0.540,0.130
+3,7:25,2,9,CIN 25,16,14,Andy Dalton middle for 10 yards (tackle by Aqib Talib),0.130,1.270
+3,6:55,1,10,CIN 35,16,14,Andy Dalton pass complete short left to A.J. Green for 3 yards (tackle by Chris Harris),1.270,1.130
+3,6:20,2,7,CIN 38,16,14,"Giovani Bernard left tackle for 9 yards (tackle by Darian Stewart). Penalty on Kevin Zeitler: Offensive Holding, 10 yards (no play)",1.130,-0.220
+3,5:49,2,17,CIN 28,16,14,Andy Dalton middle for 15 yards (tackle by T.J. Ward),-0.220,1.090
+3,5:03,3,2,CIN 43,16,14,Andy Dalton pass complete short right to Giovani Bernard for 6 yards (tackle by Corey Nelson). Penalty on Corey Nelson: Defensive Holding (Declined),1.090,2.190
+3,4:40,1,10,CIN 49,16,14,Andy Dalton pass complete short left to James Wright for 10 yards,2.190,2.850
+3,4:01,1,10,DEN 41,16,14,Jeremy Hill left guard for 4 yards (tackle by Dekoda Watson),2.850,2.850
+3,3:26,2,6,DEN 37,16,14,Jeremy Hill left guard for 2 yards (tackle by Todd Davis),2.850,2.410
+3,2:44,3,4,DEN 35,16,14,Andy Dalton pass complete short left to Giovani Bernard for 10 yards (tackle by Darian Stewart),2.410,3.910
+3,2:11,1,10,DEN 25,16,14,Andy Dalton pass complete short right to A.J. Green for 9 yards (tackle by Aqib Talib),3.910,4.750
+3,1:35,2,1,DEN 16,16,14,Jeremy Hill left tackle for 1 yard (tackle by Brandon Marshall and Adam Gotsis),4.750,4.580
+3,0:53,1,10,DEN 15,16,14,Giovani Bernard right tackle for 2 yards (tackle by Darius Kilgo),4.580,4.280
+3,0:16,2,8,DEN 13,16,14,Giovani Bernard right guard for -3 yards (tackle by Brandon Marshall and Shane Ray),4.280,3.040
+Quarter,Time,Down,ToGo,Location,DEN,CIN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,11,DEN 16,16,14,Andy Dalton pass incomplete short right intended for Brandon LaFell (defended by Chris Harris),3.040,2.380
+4,14:56,4,11,DEN 16,16,17,Mike Nugent 34 yard field goal good,2.380,3.000
+4,14:56,,,CIN 35,16,17,"Mike Nugent kicks off 65 yards, returned by Cody Latimer for 18 yards (tackle by Clayton Fejedelem)",0.000,-0.040
+4,14:48,1,10,DEN 18,16,17,Trevor Siemian middle for 1 yard (tackle by Domata Peko),0.040,-0.320
+4,14:17,2,9,DEN 19,16,17,"Trevor Siemian pass complete short middle to Jordan Norwood for 5 yards (tackle by Michael Johnson). Penalty on Michael Johnson: Defensive Holding, 5 yards (no play)",-0.320,0.540
+4,13:55,1,10,DEN 24,16,17,Trevor Siemian pass complete short right to Demaryius Thomas for 9 yards (tackle by Dre Kirkpatrick),0.540,1.210
+4,13:24,2,1,DEN 33,16,17,Devontae Booker left guard for 2 yards (tackle by Rey Maualuga and Margus Hunt),1.210,1.270
+4,12:44,1,10,DEN 35,16,17,Trevor Siemian pass complete short left to John Phillips for 8 yards (tackle by Adam Jones),1.270,1.800
+4,12:12,2,2,DEN 43,16,17,Devontae Booker right end for 3 yards (tackle by Carlos Dunlap and Shawn Williams),1.800,1.990
+4,11:34,1,10,DEN 46,16,17,Trevor Siemian sacked by Will Clarke for -3 yards,1.990,1.050
+4,10:48,2,13,DEN 43,16,17,Trevor Siemian pass complete short left to Emmanuel Sanders for 11 yards (tackle by Darqueze Dennard),1.050,1.820
+4,10:13,3,2,CIN 46,16,17,"Penalty on Demaryius Thomas: False Start, 5 yards (no play)",1.820,1.160
+4,9:55,3,7,DEN 49,16,17,Trevor Siemian pass complete short left to Demaryius Thomas for 16 yards (tackle by Shawn Williams),1.160,3.250
+4,9:18,1,10,CIN 35,16,17,Trevor Siemian pass complete short left to Bennie Fowler for 13 yards (tackle by Adam Jones and Shawn Williams),3.250,4.110
+4,8:47,1,10,CIN 22,16,17,Devontae Booker left guard for 2 yards (tackle by Pat Sims),4.110,3.830
+4,8:10,2,8,CIN 20,16,17,Trevor Siemian pass complete short right to Emmanuel Sanders for 17 yards (tackle by Josh Shaw),3.830,6.510
+4,7:42,1,3,CIN 3,16,17,Andy Janovich right guard for 2 yards (tackle by George Iloka),6.510,5.910
+4,7:01,2,1,CIN 1,22,17,"Trevor Siemian pass complete short middle to John Phillips for 1 yard, touchdown",5.910,7.000
+4,7:01,2,1,CIN 1,22,17,Trevor Siemian right end for no gain. Trevor Siemian fumbles,5.910,0.000
+4,7:01,,,DEN 35,22,17,"Brandon McManus kicks off 65 yards, touchback",0.000,-0.610
+4,6:56,1,10,CIN 25,22,17,Andy Dalton pass complete short right to Brandon LaFell for 7 yards (tackle by Aqib Talib),0.610,1.010
+4,6:20,2,3,CIN 32,22,17,Andy Dalton pass incomplete,1.010,0.300
+4,6:13,3,3,CIN 32,22,17,Andy Dalton pass incomplete short left intended for A.J. Green,0.300,-1.240
+4,6:09,4,3,CIN 32,22,17,"Kevin Huber punts 51 yards, fair catch by Jordan Norwood",-1.240,0.060
+4,6:02,1,10,DEN 17,22,17,Trevor Siemian pass complete deep left to Jeff Heuerman for 29 yards (tackle by George Iloka),-0.060,1.990
+4,5:16,1,10,DEN 46,22,17,C.J. Anderson right end for -1 yards (tackle by Geno Atkins),1.990,1.320
+4,4:36,2,11,DEN 45,22,17,Trevor Siemian pass incomplete short left intended for Demaryius Thomas (defended by Adam Jones),1.320,0.630
+4,4:32,3,11,DEN 45,28,17,"Trevor Siemian pass complete deep left to Demaryius Thomas for 55 yards, touchdown",0.630,7.000
+4,4:32,,,CIN 45,29,17,Brandon McManus kicks extra point good,0.000,0.000
+4,4:32,,,DEN 35,29,17,"Brandon McManus kicks off 65 yards, touchback",0.000,-0.610
+4,4:23,1,10,CIN 25,29,17,Andy Dalton pass incomplete deep middle intended for C.J. Uzomah is intercepted by Will Parks at CIN-41 and returned for 1 yard,0.610,-2.920
+4,4:17,1,10,CIN 40,29,17,C.J. Anderson left guard for 2 yards (tackle by Domata Peko),2.920,2.920
+4,4:12,1,10,CIN 40,29,17,Timeout #1 by Cincinnati Bengals,2.920,2.640
+4,4:12,2,8,CIN 38,29,17,C.J. Anderson right end for 1 yard (tackle by Margus Hunt),2.640,2.640
+4,4:07,2,8,CIN 38,29,17,Timeout #2 by Cincinnati Bengals,2.640,2.080
+4,4:07,3,7,CIN 37,29,17,C.J. Anderson right tackle for 1 yard (tackle by Margus Hunt),2.080,2.080
+4,4:03,3,7,CIN 37,29,17,Timeout #3 by Cincinnati Bengals,2.080,0.880
+4,4:03,4,6,CIN 36,29,17,"Riley Dixon punts 36 yards, touchback",0.880,-0.280
+4,3:55,1,10,CIN 20,29,17,Andy Dalton pass complete short middle to Giovani Bernard for 5 yards (tackle by Darian Stewart),0.280,0.410
+4,3:33,2,5,CIN 25,29,17,"Andy Dalton pass complete short left to Giovani Bernard for -1 yards (tackle by Brandon Marshall). Penalty on Russell Bodine: Offensive Holding, 10 yards (no play)",0.410,-1.070
+4,3:25,2,15,CIN 15,29,17,Andy Dalton pass complete deep right to A.J. Green for 20 yards (tackle by Will Parks),-1.070,1.270
+4,3:02,1,10,CIN 35,29,17,Andy Dalton pass complete short left to C.J. Uzomah for 9 yards (tackle by Darian Stewart and Chris Harris),1.270,1.940
+4,2:42,2,1,CIN 44,29,17,Andy Dalton pass complete short middle to Tyler Boyd for 9 yards (tackle by Will Parks),1.940,2.460
+4,2:19,1,10,DEN 47,29,17,"Penalty on A.J. Green: False Start, 5 yards (no play)",2.460,2.130
+4,2:19,1,15,CIN 48,29,17,Andy Dalton pass complete deep middle to Brandon LaFell for 27 yards (tackle by Bradley Roby),2.130,3.910
+4,2:00,1,10,DEN 25,29,17,Andy Dalton right tackle for 4 yards (tackle by Brandon Marshall),3.910,3.900
+4,1:41,2,6,DEN 21,29,17,Andy Dalton pass complete short middle to Giovani Bernard for 10 yards (tackle by Brandon Marshall),3.900,4.840
+4,1:34,1,10,DEN 11,29,17,Andy Dalton sacked by Shane Ray for 0 yards,4.840,4.140
+4,1:14,2,10,DEN 11,29,17,Andy Dalton sacked by Von Miller for -5 yards,4.140,2.890
+4,0:47,3,15,DEN 16,29,17,Andy Dalton pass complete short middle to Giovani Bernard for 5 yards (tackle by Chris Harris),2.890,2.890
+4,0:47,3,15,DEN 16,29,17,Timeout #1 by Denver Broncos,2.890,2.700
+4,0:33,4,10,DEN 11,29,17,Andy Dalton pass incomplete short left intended for Tyler Boyd,2.700,0.350
+4,0:28,1,10,DEN 12,29,17,Trevor Siemian kneels for -1 yards,-0.350,-0.850
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

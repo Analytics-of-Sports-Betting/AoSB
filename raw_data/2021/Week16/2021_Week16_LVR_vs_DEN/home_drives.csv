@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,11:38,LVR 4,8,4:16,47,Punt
+2,1,3:25,LVR 24,14,7:24,76,Touchdown
+3,2,7:24,LVR 25,4,2:58,20,Punt
+4,2,2:44,LVR 33,2,0:44,7,Fumble
+5,2,0:32,LVR 26,1,0:14,0,Interception
+6,2,0:15,LVR 25,1,0:15,-1,End of Half
+7,3,15:00,LVR 25,9,4:38,75,Touchdown
+8,3,7:55,LVR 13,8,4:36,45,Fumble
+9,3,0:13,LVR 45,13,7:38,32,Field Goal
+10,4,3:54,LVR 11,8,3:54,50,End of Game

@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,JAX 27,12,6:57,73,Touchdown
+2,1,2:33,JAX 26,7,2:58,41,Missed FG
+3,2,8:33,JAX 28,8,4:31,19,Punt
+4,2,1:18,JAX 20,3,0:45,2,Punt
+5,3,11:36,JAX 25,6,2:19,26,Punt
+6,3,4:59,JAX 6,3,1:53,9,Punt
+7,4,14:54,JAX 44,9,4:15,56,Touchdown
+8,4,5:35,JAX 20,6,3:39,80,Touchdown
+9,4,0:40,JAX 27,1,0:40,-1,End of Game

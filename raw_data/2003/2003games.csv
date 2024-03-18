@@ -1,0 +1,268 @@
+Week,Day,Date,Time,Winner/tie,Unnamed: 5,Loser/tie,Unnamed: 7,PtsW,PtsL,YdsW,TOW,YdsL,TOL,url,Home,Away,File
+Week1,Thu,2003-09-04,9:09PM,Washington Redskins,,New York Jets,boxscore,16,13,327,2,158,0,https://www.pro-football-reference.com/boxscores/200309040was.htm,WAS,NYJ,2003_Week1_WAS_vs_NYJ
+Week1,Sun,2003-09-07,1:00PM,Kansas City Chiefs,,San Diego Chargers,boxscore,27,14,390,2,232,2,https://www.pro-football-reference.com/boxscores/200309070kan.htm,KC,LAC,2003_Week1_KC_vs_LAC
+Week1,Sun,2003-09-07,1:04PM,Buffalo Bills,,New England Patriots,boxscore,31,0,322,2,239,4,https://www.pro-football-reference.com/boxscores/200309070buf.htm,BUF,NE,2003_Week1_BUF_vs_NE
+Week1,Sun,2003-09-07,1:04PM,Carolina Panthers,,Jacksonville Jaguars,boxscore,24,23,242,2,331,1,https://www.pro-football-reference.com/boxscores/200309070car.htm,CAR,JAX,2003_Week1_CAR_vs_JAX
+Week1,Sun,2003-09-07,1:04PM,Minnesota Vikings,@,Green Bay Packers,boxscore,30,25,337,2,304,5,https://www.pro-football-reference.com/boxscores/200309070gnb.htm,GB,MIN,2003_Week1_GB_vs_MIN
+Week1,Sun,2003-09-07,1:04PM,Pittsburgh Steelers,,Baltimore Ravens,boxscore,34,15,339,1,231,2,https://www.pro-football-reference.com/boxscores/200309070pit.htm,PIT,BAL,2003_Week1_PIT_vs_BAL
+Week1,Sun,2003-09-07,1:05PM,New York Giants,,St. Louis Rams,boxscore,23,13,336,3,355,4,https://www.pro-football-reference.com/boxscores/200309070nyg.htm,NYG,LAR,2003_Week1_NYG_vs_LAR
+Week1,Sun,2003-09-07,1:06PM,Denver Broncos,@,Cincinnati Bengals,boxscore,30,10,293,3,294,4,https://www.pro-football-reference.com/boxscores/200309070cin.htm,CIN,DEN,2003_Week1_CIN_vs_DEN
+Week1,Sun,2003-09-07,1:06PM,Indianapolis Colts,@,Cleveland Browns,boxscore,9,6,271,2,280,2,https://www.pro-football-reference.com/boxscores/200309070cle.htm,CLE,IND,2003_Week1_CLE_vs_IND
+Week1,Sun,2003-09-07,1:06PM,Detroit Lions,,Arizona Cardinals,boxscore,42,24,261,0,434,3,https://www.pro-football-reference.com/boxscores/200309070det.htm,DET,ARI,2003_Week1_DET_vs_ARI
+Week1,Sun,2003-09-07,1:06PM,Houston Texans,@,Miami Dolphins,boxscore,21,20,393,0,301,3,https://www.pro-football-reference.com/boxscores/200309070mia.htm,MIA,HOU,2003_Week1_MIA_vs_HOU
+Week1,Sun,2003-09-07,4:18PM,Seattle Seahawks,,New Orleans Saints,boxscore,27,10,270,0,359,4,https://www.pro-football-reference.com/boxscores/200309070sea.htm,SEA,NO,2003_Week1_SEA_vs_NO
+Week1,Sun,2003-09-07,4:19PM,Atlanta Falcons,@,Dallas Cowboys,boxscore,27,13,318,1,403,2,https://www.pro-football-reference.com/boxscores/200309070dal.htm,DAL,ATL,2003_Week1_DAL_vs_ATL
+Week1,Sun,2003-09-07,4:19PM,San Francisco 49ers,,Chicago Bears,boxscore,49,7,391,2,127,5,https://www.pro-football-reference.com/boxscores/200309070sfo.htm,SF,CHI,2003_Week1_SF_vs_CHI
+Week1,Sun,2003-09-07,8:51PM,Tennessee Titans,,Oakland Raiders,boxscore,25,20,334,2,280,1,https://www.pro-football-reference.com/boxscores/200309070oti.htm,TEN,LVR,2003_Week1_TEN_vs_LVR
+Week1,Mon,2003-09-08,9:09PM,Tampa Bay Buccaneers,@,Philadelphia Eagles,boxscore,17,0,328,1,245,2,https://www.pro-football-reference.com/boxscores/200309080phi.htm,PHI,TB,2003_Week1_PHI_vs_TB
+Week2,Sun,2003-09-14,1:00PM,Indianapolis Colts,,Tennessee Titans,boxscore,33,7,291,0,236,2,https://www.pro-football-reference.com/boxscores/200309140clt.htm,IND,TEN,2003_Week2_IND_vs_TEN
+Week2,Sun,2003-09-14,1:00PM,Kansas City Chiefs,,Pittsburgh Steelers,boxscore,41,20,282,2,380,4,https://www.pro-football-reference.com/boxscores/200309140kan.htm,KC,PIT,2003_Week2_KC_vs_PIT
+Week2,Sun,2003-09-14,1:02PM,Baltimore Ravens,,Cleveland Browns,boxscore,33,13,393,3,175,3,https://www.pro-football-reference.com/boxscores/200309140rav.htm,BAL,CLE,2003_Week2_BAL_vs_CLE
+Week2,Sun,2003-09-14,1:02PM,Green Bay Packers,,Detroit Lions,boxscore,31,6,332,2,293,3,https://www.pro-football-reference.com/boxscores/200309140gnb.htm,GB,DET,2003_Week2_GB_vs_DET
+Week2,Sun,2003-09-14,1:02PM,New Orleans Saints,,Houston Texans,boxscore,31,10,292,0,258,2,https://www.pro-football-reference.com/boxscores/200309140nor.htm,NO,HOU,2003_Week2_NO_vs_HOU
+Week2,Sun,2003-09-14,1:02PM,Miami Dolphins,@,New York Jets,boxscore,21,10,376,1,387,1,https://www.pro-football-reference.com/boxscores/200309140nyj.htm,NYJ,MIA,2003_Week2_NYJ_vs_MIA
+Week2,Sun,2003-09-14,1:02PM,St. Louis Rams,,San Francisco 49ers,boxscore,27,24,278,4,390,1,https://www.pro-football-reference.com/boxscores/200309140ram.htm,LAR,SF,2003_Week2_LAR_vs_SF
+Week2,Sun,2003-09-14,1:03PM,Washington Redskins,@,Atlanta Falcons,boxscore,33,31,435,2,283,2,https://www.pro-football-reference.com/boxscores/200309140atl.htm,ATL,WAS,2003_Week2_ATL_vs_WAS
+Week2,Sun,2003-09-14,1:03PM,Buffalo Bills,@,Jacksonville Jaguars,boxscore,38,17,371,0,287,0,https://www.pro-football-reference.com/boxscores/200309140jax.htm,JAX,BUF,2003_Week2_JAX_vs_BUF
+Week2,Sun,2003-09-14,4:05PM,Carolina Panthers,@,Tampa Bay Buccaneers,boxscore,12,9,258,2,397,1,https://www.pro-football-reference.com/boxscores/200309140tam.htm,TB,CAR,2003_Week2_TB_vs_CAR
+Week2,Sun,2003-09-14,4:06PM,Seattle Seahawks,@,Arizona Cardinals,boxscore,38,0,323,0,286,6,https://www.pro-football-reference.com/boxscores/200309140crd.htm,ARI,SEA,2003_Week2_ARI_vs_SEA
+Week2,Sun,2003-09-14,4:15PM,Oakland Raiders,,Cincinnati Bengals,boxscore,23,20,237,0,416,2,https://www.pro-football-reference.com/boxscores/200309140rai.htm,LVR,CIN,2003_Week2_LVR_vs_CIN
+Week2,Sun,2003-09-14,4:15PM,Denver Broncos,@,San Diego Chargers,boxscore,37,13,382,0,303,1,https://www.pro-football-reference.com/boxscores/200309140sdg.htm,LAC,DEN,2003_Week2_LAC_vs_DEN
+Week2,Sun,2003-09-14,4:15PM,New England Patriots,@,Philadelphia Eagles,boxscore,31,10,309,0,268,6,https://www.pro-football-reference.com/boxscores/200309140phi.htm,PHI,NE,2003_Week2_PHI_vs_NE
+Week2,Sun,2003-09-14,8:30PM,Minnesota Vikings,,Chicago Bears,boxscore,24,13,400,1,208,1,https://www.pro-football-reference.com/boxscores/200309140min.htm,MIN,CHI,2003_Week2_MIN_vs_CHI
+Week2,Mon,2003-09-15,9:08PM,Dallas Cowboys,@,New York Giants,boxscore,35,32,403,1,309,3,https://www.pro-football-reference.com/boxscores/200309150nyg.htm,NYG,DAL,2003_Week2_NYG_vs_DAL
+Week3,Sun,2003-09-21,1:00PM,Indianapolis Colts,,Jacksonville Jaguars,boxscore,23,13,289,1,266,1,https://www.pro-football-reference.com/boxscores/200309210clt.htm,IND,JAX,2003_Week3_IND_vs_JAX
+Week3,Sun,2003-09-21,1:02PM,Pittsburgh Steelers,@,Cincinnati Bengals,boxscore,17,10,376,1,182,1,https://www.pro-football-reference.com/boxscores/200309210cin.htm,CIN,PIT,2003_Week3_CIN_vs_PIT
+Week3,Sun,2003-09-21,1:02PM,Kansas City Chiefs,@,Houston Texans,boxscore,42,14,426,2,316,4,https://www.pro-football-reference.com/boxscores/200309210htx.htm,HOU,KC,2003_Week3_HOU_vs_KC
+Week3,Sun,2003-09-21,1:02PM,New England Patriots,,New York Jets,boxscore,23,16,294,1,329,1,https://www.pro-football-reference.com/boxscores/200309210nwe.htm,NE,NYJ,2003_Week3_NE_vs_NYJ
+Week3,Sun,2003-09-21,1:03PM,Tampa Bay Buccaneers,@,Atlanta Falcons,boxscore,31,10,316,1,136,5,https://www.pro-football-reference.com/boxscores/200309210atl.htm,ATL,TB,2003_Week3_ATL_vs_TB
+Week3,Sun,2003-09-21,1:03PM,Minnesota Vikings,@,Detroit Lions,boxscore,23,13,414,1,302,3,https://www.pro-football-reference.com/boxscores/200309210det.htm,DET,MIN,2003_Week3_DET_vs_MIN
+Week3,Sun,2003-09-21,1:03PM,Tennessee Titans,,New Orleans Saints,boxscore,27,12,385,1,188,2,https://www.pro-football-reference.com/boxscores/200309210oti.htm,TEN,NO,2003_Week3_TEN_vs_NO
+Week3,Sun,2003-09-21,4:05PM,New York Giants,@,Washington Redskins,boxscore,24,21,399,0,456,1,https://www.pro-football-reference.com/boxscores/200309210was.htm,WAS,NYG,2003_Week3_WAS_vs_NYG
+Week3,Sun,2003-09-21,4:06PM,Arizona Cardinals,,Green Bay Packers,boxscore,20,13,354,1,311,2,https://www.pro-football-reference.com/boxscores/200309210crd.htm,ARI,GB,2003_Week3_ARI_vs_GB
+Week3,Sun,2003-09-21,4:06PM,Seattle Seahawks,,St. Louis Rams,boxscore,24,23,316,1,308,3,https://www.pro-football-reference.com/boxscores/200309210sea.htm,SEA,LAR,2003_Week3_SEA_vs_LAR
+Week3,Sun,2003-09-21,4:15PM,Cleveland Browns,@,San Francisco 49ers,boxscore,13,12,251,2,265,1,https://www.pro-football-reference.com/boxscores/200309210sfo.htm,SF,CLE,2003_Week3_SF_vs_CLE
+Week3,Sun,2003-09-21,4:15PM,Baltimore Ravens,@,San Diego Chargers,boxscore,24,10,249,1,389,3,https://www.pro-football-reference.com/boxscores/200309210sdg.htm,LAC,BAL,2003_Week3_LAC_vs_BAL
+Week3,Sun,2003-09-21,8:36PM,Miami Dolphins,,Buffalo Bills,boxscore,17,7,313,3,118,3,https://www.pro-football-reference.com/boxscores/200309210mia.htm,MIA,BUF,2003_Week3_MIA_vs_BUF
+Week3,Mon,2003-09-22,9:09PM,Denver Broncos,,Oakland Raiders,boxscore,31,10,383,1,195,1,https://www.pro-football-reference.com/boxscores/200309220den.htm,DEN,LVR,2003_Week3_DEN_vs_LVR
+Week4,Sun,2003-09-28,1:01PM,Tennessee Titans,@,Pittsburgh Steelers,boxscore,30,13,198,0,376,2,https://www.pro-football-reference.com/boxscores/200309280pit.htm,PIT,TEN,2003_Week4_PIT_vs_TEN
+Week4,Sun,2003-09-28,1:02PM,Philadelphia Eagles,@,Buffalo Bills,boxscore,23,13,335,0,308,1,https://www.pro-football-reference.com/boxscores/200309280buf.htm,BUF,PHI,2003_Week4_BUF_vs_PHI
+Week4,Sun,2003-09-28,1:02PM,St. Louis Rams,,Arizona Cardinals,boxscore,37,13,401,1,161,3,https://www.pro-football-reference.com/boxscores/200309280ram.htm,LAR,ARI,2003_Week4_LAR_vs_ARI
+Week4,Sun,2003-09-28,1:03PM,Cincinnati Bengals,@,Cleveland Browns,boxscore,21,14,295,0,339,1,https://www.pro-football-reference.com/boxscores/200309280cle.htm,CLE,CIN,2003_Week4_CLE_vs_CIN
+Week4,Sun,2003-09-28,1:03PM,Minnesota Vikings,,San Francisco 49ers,boxscore,35,7,354,0,372,3,https://www.pro-football-reference.com/boxscores/200309280min.htm,MIN,SF,2003_Week4_MIN_vs_SF
+Week4,Sun,2003-09-28,1:03PM,Washington Redskins,,New England Patriots,boxscore,20,17,253,0,387,4,https://www.pro-football-reference.com/boxscores/200309280was.htm,WAS,NE,2003_Week4_WAS_vs_NE
+Week4,Sun,2003-09-28,1:05PM,Houston Texans,,Jacksonville Jaguars,boxscore,24,20,339,4,342,5,https://www.pro-football-reference.com/boxscores/200309280htx.htm,HOU,JAX,2003_Week4_HOU_vs_JAX
+Week4,Sun,2003-09-28,4:05PM,Kansas City Chiefs,@,Baltimore Ravens,boxscore,17,10,265,0,326,4,https://www.pro-football-reference.com/boxscores/200309280rav.htm,BAL,KC,2003_Week4_BAL_vs_KC
+Week4,Sun,2003-09-28,4:05PM,Oakland Raiders,,San Diego Chargers,boxscore,34,31,448,2,430,1,https://www.pro-football-reference.com/boxscores/200309280rai.htm,LVR,LAC,2003_Week4_LVR_vs_LAC
+Week4,Sun,2003-09-28,4:15PM,Dallas Cowboys,@,New York Jets,boxscore,17,6,360,1,285,2,https://www.pro-football-reference.com/boxscores/200309280nyj.htm,NYJ,DAL,2003_Week4_NYJ_vs_DAL
+Week4,Sun,2003-09-28,4:15PM,Carolina Panthers,,Atlanta Falcons,boxscore,23,3,361,1,267,1,https://www.pro-football-reference.com/boxscores/200309280car.htm,CAR,ATL,2003_Week4_CAR_vs_ATL
+Week4,Sun,2003-09-28,4:15PM,Denver Broncos,,Detroit Lions,boxscore,20,16,332,1,285,0,https://www.pro-football-reference.com/boxscores/200309280den.htm,DEN,DET,2003_Week4_DEN_vs_DET
+Week4,Sun,2003-09-28,8:37PM,Indianapolis Colts,@,New Orleans Saints,boxscore,55,21,418,0,363,4,https://www.pro-football-reference.com/boxscores/200309280nor.htm,NO,IND,2003_Week4_NO_vs_IND
+Week4,Mon,2003-09-29,9:09PM,Green Bay Packers,@,Chicago Bears,boxscore,38,23,380,1,361,2,https://www.pro-football-reference.com/boxscores/200309290chi.htm,CHI,GB,2003_Week4_CHI_vs_GB
+Week5,Sun,2003-10-05,1:00PM,Kansas City Chiefs,,Denver Broncos,boxscore,24,23,262,2,468,1,https://www.pro-football-reference.com/boxscores/200310050kan.htm,KC,DEN,2003_Week5_KC_vs_DEN
+Week5,Sun,2003-10-05,1:02PM,Carolina Panthers,,New Orleans Saints,boxscore,19,13,309,1,344,1,https://www.pro-football-reference.com/boxscores/200310050car.htm,CAR,NO,2003_Week5_CAR_vs_NO
+Week5,Sun,2003-10-05,1:02PM,Chicago Bears,,Oakland Raiders,boxscore,24,21,344,3,301,2,https://www.pro-football-reference.com/boxscores/200310050chi.htm,CHI,LVR,2003_Week5_CHI_vs_LVR
+Week5,Sun,2003-10-05,1:02PM,Buffalo Bills,,Cincinnati Bengals,boxscore,22,16,257,0,279,2,https://www.pro-football-reference.com/boxscores/200310050buf.htm,BUF,CIN,2003_Week5_BUF_vs_CIN
+Week5,Sun,2003-10-05,1:02PM,Dallas Cowboys,,Arizona Cardinals,boxscore,24,7,365,1,151,2,https://www.pro-football-reference.com/boxscores/200310050dal.htm,DAL,ARI,2003_Week5_DAL_vs_ARI
+Week5,Sun,2003-10-05,1:02PM,Green Bay Packers,,Seattle Seahawks,boxscore,35,13,336,0,343,2,https://www.pro-football-reference.com/boxscores/200310050gnb.htm,GB,SEA,2003_Week5_GB_vs_SEA
+Week5,Sun,2003-10-05,1:02PM,New England Patriots,,Tennessee Titans,boxscore,38,30,354,0,411,1,https://www.pro-football-reference.com/boxscores/200310050nwe.htm,NE,TEN,2003_Week5_NE_vs_TEN
+Week5,Sun,2003-10-05,1:03PM,Miami Dolphins,@,New York Giants,boxscore,23,10,285,1,350,4,https://www.pro-football-reference.com/boxscores/200310050nyg.htm,NYG,MIA,2003_Week5_NYG_vs_MIA
+Week5,Sun,2003-10-05,1:05PM,Minnesota Vikings,@,Atlanta Falcons,boxscore,39,26,399,1,440,3,https://www.pro-football-reference.com/boxscores/200310050atl.htm,ATL,MIN,2003_Week5_ATL_vs_MIN
+Week5,Sun,2003-10-05,4:05PM,Jacksonville Jaguars,,San Diego Chargers,boxscore,27,21,436,1,346,2,https://www.pro-football-reference.com/boxscores/200310050jax.htm,JAX,LAC,2003_Week5_JAX_vs_LAC
+Week5,Sun,2003-10-05,4:15PM,Philadelphia Eagles,,Washington Redskins,boxscore,27,25,267,2,307,2,https://www.pro-football-reference.com/boxscores/200310050phi.htm,PHI,WAS,2003_Week5_PHI_vs_WAS
+Week5,Sun,2003-10-05,4:15PM,San Francisco 49ers,,Detroit Lions,boxscore,24,17,325,1,305,2,https://www.pro-football-reference.com/boxscores/200310050sfo.htm,SF,DET,2003_Week5_SF_vs_DET
+Week5,Sun,2003-10-05,8:35PM,Cleveland Browns,@,Pittsburgh Steelers,boxscore,33,13,324,2,209,3,https://www.pro-football-reference.com/boxscores/200310050pit.htm,PIT,CLE,2003_Week5_PIT_vs_CLE
+Week5,Mon,2003-10-06,9:15PM,Indianapolis Colts,@,Tampa Bay Buccaneers,boxscore,38,35,455,2,457,1,https://www.pro-football-reference.com/boxscores/200310060tam.htm,TB,IND,2003_Week5_TB_vs_IND
+Week6,Sun,2003-10-12,1:00PM,Carolina Panthers,@,Indianapolis Colts,boxscore,23,20,341,2,369,3,https://www.pro-football-reference.com/boxscores/200310120clt.htm,IND,CAR,2003_Week6_IND_vs_CAR
+Week6,Sun,2003-10-12,1:01PM,Miami Dolphins,@,Jacksonville Jaguars,boxscore,24,10,234,2,332,5,https://www.pro-football-reference.com/boxscores/200310120jax.htm,JAX,MIA,2003_Week6_JAX_vs_MIA
+Week6,Sun,2003-10-12,1:02PM,Kansas City Chiefs,@,Green Bay Packers,boxscore,40,34,482,0,440,2,https://www.pro-football-reference.com/boxscores/200310120gnb.htm,GB,KC,2003_Week6_GB_vs_KC
+Week6,Sun,2003-10-12,1:02PM,New England Patriots,,New York Giants,boxscore,17,6,220,0,382,5,https://www.pro-football-reference.com/boxscores/200310120nwe.htm,NE,NYG,2003_Week6_NE_vs_NYG
+Week6,Sun,2003-10-12,1:03PM,New Orleans Saints,,Chicago Bears,boxscore,20,13,283,0,271,2,https://www.pro-football-reference.com/boxscores/200310120nor.htm,NO,CHI,2003_Week6_NO_vs_CHI
+Week6,Sun,2003-10-12,1:03PM,Dallas Cowboys,,Philadelphia Eagles,boxscore,23,21,292,1,232,1,https://www.pro-football-reference.com/boxscores/200310120dal.htm,DAL,PHI,2003_Week6_DAL_vs_PHI
+Week6,Sun,2003-10-12,1:03PM,Tennessee Titans,,Houston Texans,boxscore,38,17,535,1,458,3,https://www.pro-football-reference.com/boxscores/200310120oti.htm,TEN,HOU,2003_Week6_TEN_vs_HOU
+Week6,Sun,2003-10-12,1:03PM,Tampa Bay Buccaneers,@,Washington Redskins,boxscore,35,13,379,0,275,3,https://www.pro-football-reference.com/boxscores/200310120was.htm,WAS,TB,2003_Week6_WAS_vs_TB
+Week6,Sun,2003-10-12,1:03PM,Cleveland Browns,,Oakland Raiders,boxscore,13,7,284,1,254,0,https://www.pro-football-reference.com/boxscores/200310120cle.htm,CLE,LVR,2003_Week6_CLE_vs_LVR
+Week6,Sun,2003-10-12,4:15PM,New York Jets,,Buffalo Bills,boxscore,30,3,233,0,193,4,https://www.pro-football-reference.com/boxscores/200310120nyj.htm,NYJ,BUF,2003_Week6_NYJ_vs_BUF
+Week6,Sun,2003-10-12,4:15PM,Denver Broncos,,Pittsburgh Steelers,boxscore,17,14,242,3,215,1,https://www.pro-football-reference.com/boxscores/200310120den.htm,DEN,PIT,2003_Week6_DEN_vs_PIT
+Week6,Sun,2003-10-12,4:16PM,Baltimore Ravens,@,Arizona Cardinals,boxscore,26,18,285,0,320,3,https://www.pro-football-reference.com/boxscores/200310120crd.htm,ARI,BAL,2003_Week6_ARI_vs_BAL
+Week6,Sun,2003-10-12,8:37PM,Seattle Seahawks,,San Francisco 49ers,boxscore,20,19,333,1,261,1,https://www.pro-football-reference.com/boxscores/200310120sea.htm,SEA,SF,2003_Week6_SEA_vs_SF
+Week6,Mon,2003-10-13,9:00PM,St. Louis Rams,,Atlanta Falcons,boxscore,36,0,496,3,209,4,https://www.pro-football-reference.com/boxscores/200310130ram.htm,LAR,ATL,2003_Week6_LAR_vs_ATL
+Week7,Sun,2003-10-19,1:00PM,Minnesota Vikings,,Denver Broncos,boxscore,28,20,340,0,321,3,https://www.pro-football-reference.com/boxscores/200310190min.htm,MIN,DEN,2003_Week7_MIN_vs_DEN
+Week7,Sun,2003-10-19,1:02PM,Tennessee Titans,@,Carolina Panthers,boxscore,37,17,348,0,383,4,https://www.pro-football-reference.com/boxscores/200310190car.htm,CAR,TEN,2003_Week7_CAR_vs_TEN
+Week7,Sun,2003-10-19,1:02PM,Cincinnati Bengals,,Baltimore Ravens,boxscore,34,26,303,0,401,3,https://www.pro-football-reference.com/boxscores/200310190cin.htm,CIN,BAL,2003_Week7_CIN_vs_BAL
+Week7,Sun,2003-10-19,1:02PM,San Diego Chargers,@,Cleveland Browns,boxscore,26,20,289,2,277,2,https://www.pro-football-reference.com/boxscores/200310190cle.htm,CLE,LAC,2003_Week7_CLE_vs_LAC
+Week7,Sun,2003-10-19,1:02PM,St. Louis Rams,,Green Bay Packers,boxscore,34,24,370,2,372,4,https://www.pro-football-reference.com/boxscores/200310190ram.htm,LAR,GB,2003_Week7_LAR_vs_GB
+Week7,Sun,2003-10-19,1:03PM,Dallas Cowboys,@,Detroit Lions,boxscore,38,7,331,1,157,4,https://www.pro-football-reference.com/boxscores/200310190det.htm,DET,DAL,2003_Week7_DET_vs_DAL
+Week7,Sun,2003-10-19,1:03PM,New England Patriots,@,Miami Dolphins,boxscore,19,13,332,2,326,3,https://www.pro-football-reference.com/boxscores/200310190mia.htm,MIA,NE,2003_Week7_MIA_vs_NE
+Week7,Sun,2003-10-19,1:03PM,Philadelphia Eagles,@,New York Giants,boxscore,14,10,134,2,339,2,https://www.pro-football-reference.com/boxscores/200310190nyg.htm,NYG,PHI,2003_Week7_NYG_vs_PHI
+Week7,Sun,2003-10-19,1:03PM,New Orleans Saints,@,Atlanta Falcons,boxscore,45,17,506,1,238,1,https://www.pro-football-reference.com/boxscores/200310190atl.htm,ATL,NO,2003_Week7_ATL_vs_NO
+Week7,Sun,2003-10-19,4:05PM,New York Jets,@,Houston Texans,boxscore,19,14,300,0,325,0,https://www.pro-football-reference.com/boxscores/200310190htx.htm,HOU,NYJ,2003_Week7_HOU_vs_NYJ
+Week7,Sun,2003-10-19,4:15PM,Seattle Seahawks,,Chicago Bears,boxscore,24,17,335,2,211,2,https://www.pro-football-reference.com/boxscores/200310190sea.htm,SEA,CHI,2003_Week7_SEA_vs_CHI
+Week7,Sun,2003-10-19,4:15PM,Buffalo Bills,,Washington Redskins,boxscore,24,7,432,2,169,1,https://www.pro-football-reference.com/boxscores/200310190buf.htm,BUF,WAS,2003_Week7_BUF_vs_WAS
+Week7,Sun,2003-10-19,4:15PM,San Francisco 49ers,,Tampa Bay Buccaneers,boxscore,24,7,458,2,326,4,https://www.pro-football-reference.com/boxscores/200310190sfo.htm,SF,TB,2003_Week7_SF_vs_TB
+Week7,Mon,2003-10-20,9:05PM,Kansas City Chiefs,@,Oakland Raiders,boxscore,17,10,319,1,357,3,https://www.pro-football-reference.com/boxscores/200310200rai.htm,LVR,KC,2003_Week7_LVR_vs_KC
+Week8,Sun,2003-10-26,1:00PM,New York Giants,@,Minnesota Vikings,boxscore,29,17,450,1,359,2,https://www.pro-football-reference.com/boxscores/200310260min.htm,MIN,NYG,2003_Week8_MIN_vs_NYG
+Week8,Sun,2003-10-26,1:01PM,Tampa Bay Buccaneers,,Dallas Cowboys,boxscore,16,0,261,0,178,3,https://www.pro-football-reference.com/boxscores/200310260tam.htm,TB,DAL,2003_Week8_TB_vs_DAL
+Week8,Sun,2003-10-26,1:01PM,Tennessee Titans,@,Jacksonville Jaguars,boxscore,30,17,320,1,293,3,https://www.pro-football-reference.com/boxscores/200310260jax.htm,JAX,TEN,2003_Week8_JAX_vs_TEN
+Week8,Sun,2003-10-26,1:02PM,Cincinnati Bengals,,Seattle Seahawks,boxscore,27,24,412,0,459,5,https://www.pro-football-reference.com/boxscores/200310260cin.htm,CIN,SEA,2003_Week8_CIN_vs_SEA
+Week8,Sun,2003-10-26,1:02PM,St. Louis Rams,@,Pittsburgh Steelers,boxscore,33,21,448,0,245,4,https://www.pro-football-reference.com/boxscores/200310260pit.htm,PIT,LAR,2003_Week8_PIT_vs_LAR
+Week8,Sun,2003-10-26,1:02PM,New England Patriots,,Cleveland Browns,boxscore,9,3,347,0,203,1,https://www.pro-football-reference.com/boxscores/200310260nwe.htm,NE,CLE,2003_Week8_NE_vs_CLE
+Week8,Sun,2003-10-26,1:02PM,Baltimore Ravens,,Denver Broncos,boxscore,26,6,277,0,194,2,https://www.pro-football-reference.com/boxscores/200310260rav.htm,BAL,DEN,2003_Week8_BAL_vs_DEN
+Week8,Sun,2003-10-26,1:03PM,Carolina Panthers,@,New Orleans Saints,boxscore,23,20,368,0,294,3,https://www.pro-football-reference.com/boxscores/200310260nor.htm,NO,CAR,2003_Week8_NO_vs_CAR
+Week8,Sun,2003-10-26,1:03PM,Chicago Bears,,Detroit Lions,boxscore,24,16,261,0,260,2,https://www.pro-football-reference.com/boxscores/200310260chi.htm,CHI,DET,2003_Week8_CHI_vs_DET
+Week8,Sun,2003-10-26,4:06PM,Arizona Cardinals,,San Francisco 49ers,boxscore,16,13,314,1,255,1,https://www.pro-football-reference.com/boxscores/200310260crd.htm,ARI,SF,2003_Week8_ARI_vs_SF
+Week8,Sun,2003-10-26,4:13PM,Philadelphia Eagles,,New York Jets,boxscore,24,17,306,2,377,2,https://www.pro-football-reference.com/boxscores/200310260phi.htm,PHI,NYJ,2003_Week8_PHI_vs_NYJ
+Week8,Sun,2003-10-26,4:15PM,Indianapolis Colts,,Houston Texans,boxscore,30,21,391,1,270,2,https://www.pro-football-reference.com/boxscores/200310260clt.htm,IND,HOU,2003_Week8_IND_vs_HOU
+Week8,Sun,2003-10-26,8:30PM,Kansas City Chiefs,,Buffalo Bills,boxscore,38,5,375,0,266,7,https://www.pro-football-reference.com/boxscores/200310260kan.htm,KC,BUF,2003_Week8_KC_vs_BUF
+Week8,Mon,2003-10-27,9:09PM,Miami Dolphins,@,San Diego Chargers,boxscore,26,10,264,1,250,3,https://www.pro-football-reference.com/boxscores/200310270sdg.htm,LAC,MIA,2003_Week8_LAC_vs_MIA
+Week9,Sun,2003-11-02,1:02PM,Houston Texans,,Carolina Panthers,boxscore,14,10,267,0,367,1,https://www.pro-football-reference.com/boxscores/200311020htx.htm,HOU,CAR,2003_Week9_HOU_vs_CAR
+Week9,Sun,2003-11-02,1:02PM,Baltimore Ravens,,Jacksonville Jaguars,boxscore,24,17,259,2,320,3,https://www.pro-football-reference.com/boxscores/200311020rav.htm,BAL,JAX,2003_Week9_BAL_vs_JAX
+Week9,Sun,2003-11-02,1:03PM,Detroit Lions,,Oakland Raiders,boxscore,23,13,229,2,265,4,https://www.pro-football-reference.com/boxscores/200311020det.htm,DET,LVR,2003_Week9_DET_vs_LVR
+Week9,Sun,2003-11-02,1:03PM,New York Giants,@,New York Jets,boxscore,31,28,413,0,392,4,https://www.pro-football-reference.com/boxscores/200311020nyj.htm,NYJ,NYG,2003_Week9_NYJ_vs_NYG
+Week9,Sun,2003-11-02,1:04PM,Indianapolis Colts,@,Miami Dolphins,boxscore,23,17,356,2,239,2,https://www.pro-football-reference.com/boxscores/200311020mia.htm,MIA,IND,2003_Week9_MIA_vs_IND
+Week9,Sun,2003-11-02,1:05PM,Chicago Bears,,San Diego Chargers,boxscore,20,7,341,1,199,1,https://www.pro-football-reference.com/boxscores/200311020chi.htm,CHI,LAC,2003_Week9_CHI_vs_LAC
+Week9,Sun,2003-11-02,1:05PM,New Orleans Saints,@,Tampa Bay Buccaneers,boxscore,17,14,257,1,352,6,https://www.pro-football-reference.com/boxscores/200311020tam.htm,TB,NO,2003_Week9_TB_vs_NO
+Week9,Sun,2003-11-02,4:05PM,Arizona Cardinals,,Cincinnati Bengals,boxscore,17,14,304,1,263,2,https://www.pro-football-reference.com/boxscores/200311020crd.htm,ARI,CIN,2003_Week9_ARI_vs_CIN
+Week9,Sun,2003-11-02,4:06PM,Seattle Seahawks,,Pittsburgh Steelers,boxscore,23,16,289,0,320,0,https://www.pro-football-reference.com/boxscores/200311020sea.htm,SEA,PIT,2003_Week9_SEA_vs_PIT
+Week9,Sun,2003-11-02,4:15PM,Philadelphia Eagles,@,Atlanta Falcons,boxscore,23,16,430,0,278,2,https://www.pro-football-reference.com/boxscores/200311020atl.htm,ATL,PHI,2003_Week9_ATL_vs_PHI
+Week9,Sun,2003-11-02,4:15PM,Dallas Cowboys,,Washington Redskins,boxscore,21,14,400,4,213,0,https://www.pro-football-reference.com/boxscores/200311020dal.htm,DAL,WAS,2003_Week9_DAL_vs_WAS
+Week9,Sun,2003-11-02,4:17PM,San Francisco 49ers,,St. Louis Rams,boxscore,30,10,389,2,340,3,https://www.pro-football-reference.com/boxscores/200311020sfo.htm,SF,LAR,2003_Week9_SF_vs_LAR
+Week9,Sun,2003-11-02,8:35PM,Green Bay Packers,@,Minnesota Vikings,boxscore,30,27,451,1,323,0,https://www.pro-football-reference.com/boxscores/200311020min.htm,MIN,GB,2003_Week9_MIN_vs_GB
+Week9,Mon,2003-11-03,9:09PM,New England Patriots,@,Denver Broncos,boxscore,30,26,419,2,277,1,https://www.pro-football-reference.com/boxscores/200311030den.htm,DEN,NE,2003_Week9_DEN_vs_NE
+Week10,Sun,2003-11-09,1:00PM,Kansas City Chiefs,,Cleveland Browns,boxscore,41,20,443,2,199,2,https://www.pro-football-reference.com/boxscores/200311090kan.htm,KC,CLE,2003_Week10_KC_vs_CLE
+Week10,Sun,2003-11-09,1:02PM,Carolina Panthers,,Tampa Bay Buccaneers,boxscore,27,24,341,2,347,1,https://www.pro-football-reference.com/boxscores/200311090car.htm,CAR,TB,2003_Week10_CAR_vs_TB
+Week10,Sun,2003-11-09,1:02PM,Jacksonville Jaguars,,Indianapolis Colts,boxscore,28,23,353,2,394,2,https://www.pro-football-reference.com/boxscores/200311090jax.htm,JAX,IND,2003_Week10_JAX_vs_IND
+Week10,Sun,2003-11-09,1:02PM,Pittsburgh Steelers,,Arizona Cardinals,boxscore,28,15,246,1,379,1,https://www.pro-football-reference.com/boxscores/200311090pit.htm,PIT,ARI,2003_Week10_PIT_vs_ARI
+Week10,Sun,2003-11-09,1:02PM,Tennessee Titans,,Miami Dolphins,boxscore,31,7,324,0,224,5,https://www.pro-football-reference.com/boxscores/200311090oti.htm,TEN,MIA,2003_Week10_TEN_vs_MIA
+Week10,Sun,2003-11-09,1:02PM,Washington Redskins,,Seattle Seahawks,boxscore,27,20,379,2,346,3,https://www.pro-football-reference.com/boxscores/200311090was.htm,WAS,SEA,2003_Week10_WAS_vs_SEA
+Week10,Sun,2003-11-09,1:03PM,Detroit Lions,,Chicago Bears,boxscore,12,10,248,0,199,1,https://www.pro-football-reference.com/boxscores/200311090det.htm,DET,CHI,2003_Week10_DET_vs_CHI
+Week10,Sun,2003-11-09,1:03PM,Cincinnati Bengals,,Houston Texans,boxscore,34,27,422,1,269,1,https://www.pro-football-reference.com/boxscores/200311090cin.htm,CIN,HOU,2003_Week10_CIN_vs_HOU
+Week10,Sun,2003-11-09,1:04PM,Atlanta Falcons,@,New York Giants,boxscore,27,7,274,0,320,4,https://www.pro-football-reference.com/boxscores/200311090nyg.htm,NYG,ATL,2003_Week10_NYG_vs_ATL
+Week10,Sun,2003-11-09,4:05PM,San Diego Chargers,,Minnesota Vikings,boxscore,42,28,458,0,460,2,https://www.pro-football-reference.com/boxscores/200311090sdg.htm,LAC,MIN,2003_Week10_LAC_vs_MIN
+Week10,Sun,2003-11-09,4:15PM,Dallas Cowboys,,Buffalo Bills,boxscore,10,6,236,0,185,2,https://www.pro-football-reference.com/boxscores/200311090dal.htm,DAL,BUF,2003_Week10_DAL_vs_BUF
+Week10,Sun,2003-11-09,4:15PM,New York Jets,@,Oakland Raiders,boxscore,27,24,424,0,355,1,https://www.pro-football-reference.com/boxscores/200311090rai.htm,LVR,NYJ,2003_Week10_LVR_vs_NYJ
+Week10,Sun,2003-11-09,8:38PM,St. Louis Rams,,Baltimore Ravens,boxscore,33,22,121,4,267,7,https://www.pro-football-reference.com/boxscores/200311090ram.htm,LAR,BAL,2003_Week10_LAR_vs_BAL
+Week10,Mon,2003-11-10,9:08PM,Philadelphia Eagles,@,Green Bay Packers,boxscore,17,14,282,0,309,3,https://www.pro-football-reference.com/boxscores/200311100gnb.htm,GB,PHI,2003_Week10_GB_vs_PHI
+Week11,Sun,2003-11-16,1:01PM,Houston Texans,@,Buffalo Bills,boxscore,12,10,245,1,335,1,https://www.pro-football-reference.com/boxscores/200311160buf.htm,BUF,HOU,2003_Week11_BUF_vs_HOU
+Week11,Sun,2003-11-16,1:01PM,Philadelphia Eagles,,New York Giants,boxscore,28,10,376,1,361,1,https://www.pro-football-reference.com/boxscores/200311160phi.htm,PHI,NYG,2003_Week11_PHI_vs_NYG
+Week11,Sun,2003-11-16,1:02PM,Tennessee Titans,,Jacksonville Jaguars,boxscore,10,3,246,3,271,2,https://www.pro-football-reference.com/boxscores/200311160oti.htm,TEN,JAX,2003_Week11_TEN_vs_JAX
+Week11,Sun,2003-11-16,1:03PM,Carolina Panthers,,Washington Redskins,boxscore,20,17,427,4,181,2,https://www.pro-football-reference.com/boxscores/200311160car.htm,CAR,WAS,2003_Week11_CAR_vs_WAS
+Week11,Sun,2003-11-16,1:03PM,St. Louis Rams,@,Chicago Bears,boxscore,23,21,320,3,241,2,https://www.pro-football-reference.com/boxscores/200311160chi.htm,CHI,LAR,2003_Week11_CHI_vs_LAR
+Week11,Sun,2003-11-16,1:03PM,Cincinnati Bengals,,Kansas City Chiefs,boxscore,24,19,422,0,371,0,https://www.pro-football-reference.com/boxscores/200311160cin.htm,CIN,KC,2003_Week11_CIN_vs_KC
+Week11,Sun,2003-11-16,1:03PM,Cleveland Browns,,Arizona Cardinals,boxscore,44,6,481,0,187,4,https://www.pro-football-reference.com/boxscores/200311160cle.htm,CLE,ARI,2003_Week11_CLE_vs_ARI
+Week11,Sun,2003-11-16,1:03PM,Miami Dolphins,,Baltimore Ravens,boxscore,9,6,267,1,223,3,https://www.pro-football-reference.com/boxscores/200311160mia.htm,MIA,BAL,2003_Week11_MIA_vs_BAL
+Week11,Sun,2003-11-16,1:04PM,New Orleans Saints,,Atlanta Falcons,boxscore,23,20,403,4,244,3,https://www.pro-football-reference.com/boxscores/200311160nor.htm,NO,ATL,2003_Week11_NO_vs_ATL
+Week11,Sun,2003-11-16,4:05PM,Indianapolis Colts,,New York Jets,boxscore,38,31,538,0,324,0,https://www.pro-football-reference.com/boxscores/200311160clt.htm,IND,NYJ,2003_Week11_IND_vs_NYJ
+Week11,Sun,2003-11-16,4:05PM,Denver Broncos,,San Diego Chargers,boxscore,37,8,448,3,96,4,https://www.pro-football-reference.com/boxscores/200311160den.htm,DEN,LAC,2003_Week11_DEN_vs_LAC
+Week11,Sun,2003-11-16,4:15PM,Green Bay Packers,@,Tampa Bay Buccaneers,boxscore,20,13,282,1,285,3,https://www.pro-football-reference.com/boxscores/200311160tam.htm,TB,GB,2003_Week11_TB_vs_GB
+Week11,Sun,2003-11-16,4:15PM,Oakland Raiders,,Minnesota Vikings,boxscore,28,18,375,2,467,6,https://www.pro-football-reference.com/boxscores/200311160rai.htm,LVR,MIN,2003_Week11_LVR_vs_MIN
+Week11,Sun,2003-11-16,4:16PM,Seattle Seahawks,,Detroit Lions,boxscore,35,14,366,0,357,2,https://www.pro-football-reference.com/boxscores/200311160sea.htm,SEA,DET,2003_Week11_SEA_vs_DET
+Week11,Sun,2003-11-16,8:37PM,New England Patriots,,Dallas Cowboys,boxscore,12,0,268,1,291,3,https://www.pro-football-reference.com/boxscores/200311160nwe.htm,NE,DAL,2003_Week11_NE_vs_DAL
+Week11,Mon,2003-11-17,9:09PM,San Francisco 49ers,,Pittsburgh Steelers,boxscore,30,14,423,0,349,2,https://www.pro-football-reference.com/boxscores/200311170sfo.htm,SF,PIT,2003_Week11_SF_vs_PIT
+Week12,Sun,2003-11-23,1:00PM,Minnesota Vikings,,Detroit Lions,boxscore,24,14,307,2,241,4,https://www.pro-football-reference.com/boxscores/200311230min.htm,MIN,DET,2003_Week12_MIN_vs_DET
+Week12,Sun,2003-11-23,1:02PM,Indianapolis Colts,@,Buffalo Bills,boxscore,17,14,326,1,228,1,https://www.pro-football-reference.com/boxscores/200311230buf.htm,BUF,IND,2003_Week12_BUF_vs_IND
+Week12,Sun,2003-11-23,1:02PM,Dallas Cowboys,,Carolina Panthers,boxscore,24,20,319,1,244,2,https://www.pro-football-reference.com/boxscores/200311230dal.htm,DAL,CAR,2003_Week12_DAL_vs_CAR
+Week12,Sun,2003-11-23,1:02PM,Pittsburgh Steelers,@,Cleveland Browns,boxscore,13,6,168,0,303,5,https://www.pro-football-reference.com/boxscores/200311230cle.htm,CLE,PIT,2003_Week12_CLE_vs_PIT
+Week12,Sun,2003-11-23,1:02PM,Green Bay Packers,,San Francisco 49ers,boxscore,20,10,379,3,192,1,https://www.pro-football-reference.com/boxscores/200311230gnb.htm,GB,SF,2003_Week12_GB_vs_SF
+Week12,Sun,2003-11-23,1:02PM,New England Patriots,@,Houston Texans,boxscore,23,20,472,3,169,2,https://www.pro-football-reference.com/boxscores/200311230htx.htm,HOU,NE,2003_Week12_HOU_vs_NE
+Week12,Sun,2003-11-23,1:02PM,Philadelphia Eagles,,New Orleans Saints,boxscore,33,20,448,0,466,3,https://www.pro-football-reference.com/boxscores/200311230phi.htm,PHI,NO,2003_Week12_PHI_vs_NO
+Week12,Sun,2003-11-23,1:02PM,Baltimore Ravens,,Seattle Seahawks,boxscore,44,41,426,2,426,3,https://www.pro-football-reference.com/boxscores/200311230rav.htm,BAL,SEA,2003_Week12_BAL_vs_SEA
+Week12,Sun,2003-11-23,1:03PM,New York Jets,,Jacksonville Jaguars,boxscore,13,10,282,1,330,2,https://www.pro-football-reference.com/boxscores/200311230nyj.htm,NYJ,JAX,2003_Week12_NYJ_vs_JAX
+Week12,Sun,2003-11-23,4:05PM,Chicago Bears,@,Denver Broncos,boxscore,19,10,217,0,365,0,https://www.pro-football-reference.com/boxscores/200311230den.htm,DEN,CHI,2003_Week12_DEN_vs_CHI
+Week12,Sun,2003-11-23,4:06PM,St. Louis Rams,@,Arizona Cardinals,boxscore,30,27,415,5,358,2,https://www.pro-football-reference.com/boxscores/200311230crd.htm,ARI,LAR,2003_Week12_ARI_vs_LAR
+Week12,Sun,2003-11-23,4:15PM,Tennessee Titans,@,Atlanta Falcons,boxscore,38,31,347,1,282,2,https://www.pro-football-reference.com/boxscores/200311230atl.htm,ATL,TEN,2003_Week12_ATL_vs_TEN
+Week12,Sun,2003-11-23,4:15PM,Cincinnati Bengals,@,San Diego Chargers,boxscore,34,27,444,1,325,0,https://www.pro-football-reference.com/boxscores/200311230sdg.htm,LAC,CIN,2003_Week12_LAC_vs_CIN
+Week12,Sun,2003-11-23,4:15PM,Kansas City Chiefs,,Oakland Raiders,boxscore,27,24,384,0,379,0,https://www.pro-football-reference.com/boxscores/200311230kan.htm,KC,LVR,2003_Week12_KC_vs_LVR
+Week12,Sun,2003-11-23,8:37PM,Miami Dolphins,,Washington Redskins,boxscore,24,23,317,3,277,2,https://www.pro-football-reference.com/boxscores/200311230mia.htm,MIA,WAS,2003_Week12_MIA_vs_WAS
+Week12,Mon,2003-11-24,9:10PM,Tampa Bay Buccaneers,,New York Giants,boxscore,19,13,358,3,212,4,https://www.pro-football-reference.com/boxscores/200311240tam.htm,TB,NYG,2003_Week12_TB_vs_NYG
+Week13,Thu,2003-11-27,12:37PM,Detroit Lions,,Green Bay Packers,boxscore,22,14,266,1,320,5,https://www.pro-football-reference.com/boxscores/200311270det.htm,DET,GB,2003_Week13_DET_vs_GB
+Week13,Thu,2003-11-27,4:16PM,Miami Dolphins,@,Dallas Cowboys,boxscore,40,21,365,1,354,5,https://www.pro-football-reference.com/boxscores/200311270dal.htm,DAL,MIA,2003_Week13_DAL_vs_MIA
+Week13,Sun,2003-11-30,1:00PM,New England Patriots,@,Indianapolis Colts,boxscore,38,34,282,3,370,2,https://www.pro-football-reference.com/boxscores/200311300clt.htm,IND,NE,2003_Week13_IND_vs_NE
+Week13,Sun,2003-11-30,1:01PM,Cincinnati Bengals,@,Pittsburgh Steelers,boxscore,24,20,379,0,384,2,https://www.pro-football-reference.com/boxscores/200311300pit.htm,PIT,CIN,2003_Week13_PIT_vs_CIN
+Week13,Sun,2003-11-30,1:02PM,Buffalo Bills,@,New York Giants,boxscore,24,7,403,0,222,1,https://www.pro-football-reference.com/boxscores/200311300nyg.htm,NYG,BUF,2003_Week13_NYG_vs_BUF
+Week13,Sun,2003-11-30,1:02PM,Philadelphia Eagles,@,Carolina Panthers,boxscore,25,16,283,2,336,1,https://www.pro-football-reference.com/boxscores/200311300car.htm,CAR,PHI,2003_Week13_CAR_vs_PHI
+Week13,Sun,2003-11-30,1:02PM,St. Louis Rams,,Minnesota Vikings,boxscore,48,17,396,1,465,3,https://www.pro-football-reference.com/boxscores/200311300ram.htm,LAR,MIN,2003_Week13_LAR_vs_MIN
+Week13,Sun,2003-11-30,1:02PM,Baltimore Ravens,,San Francisco 49ers,boxscore,44,6,282,2,264,4,https://www.pro-football-reference.com/boxscores/200311300rav.htm,BAL,SF,2003_Week13_BAL_vs_SF
+Week13,Sun,2003-11-30,1:03PM,Houston Texans,,Atlanta Falcons,boxscore,17,13,236,1,243,1,https://www.pro-football-reference.com/boxscores/200311300htx.htm,HOU,ATL,2003_Week13_HOU_vs_ATL
+Week13,Sun,2003-11-30,1:03PM,Chicago Bears,,Arizona Cardinals,boxscore,28,3,422,1,197,3,https://www.pro-football-reference.com/boxscores/200311300chi.htm,CHI,ARI,2003_Week13_CHI_vs_ARI
+Week13,Sun,2003-11-30,4:05PM,New Orleans Saints,@,Washington Redskins,boxscore,24,20,310,0,392,3,https://www.pro-football-reference.com/boxscores/200311300was.htm,WAS,NO,2003_Week13_WAS_vs_NO
+Week13,Sun,2003-11-30,4:15PM,Seattle Seahawks,,Cleveland Browns,boxscore,34,7,463,1,214,3,https://www.pro-football-reference.com/boxscores/200311300sea.htm,SEA,CLE,2003_Week13_SEA_vs_CLE
+Week13,Sun,2003-11-30,4:15PM,Denver Broncos,@,Oakland Raiders,boxscore,22,8,287,1,262,3,https://www.pro-football-reference.com/boxscores/200311300rai.htm,LVR,DEN,2003_Week13_LVR_vs_DEN
+Week13,Sun,2003-11-30,4:15PM,Kansas City Chiefs,@,San Diego Chargers,boxscore,28,24,335,2,370,3,https://www.pro-football-reference.com/boxscores/200311300sdg.htm,LAC,KC,2003_Week13_LAC_vs_KC
+Week13,Sun,2003-11-30,8:36PM,Jacksonville Jaguars,,Tampa Bay Buccaneers,boxscore,17,10,359,1,221,1,https://www.pro-football-reference.com/boxscores/200311300jax.htm,JAX,TB,2003_Week13_JAX_vs_TB
+Week13,Mon,2003-12-01,9:09PM,New York Jets,,Tennessee Titans,boxscore,24,17,320,2,347,2,https://www.pro-football-reference.com/boxscores/200312010nyj.htm,NYJ,TEN,2003_Week13_NYJ_vs_TEN
+Week14,Sun,2003-12-07,1:00PM,Minnesota Vikings,,Seattle Seahawks,boxscore,34,7,465,0,258,3,https://www.pro-football-reference.com/boxscores/200312070min.htm,MIN,SEA,2003_Week14_MIN_vs_SEA
+Week14,Sun,2003-12-07,1:01PM,Pittsburgh Steelers,,Oakland Raiders,boxscore,27,7,399,2,161,3,https://www.pro-football-reference.com/boxscores/200312070pit.htm,PIT,LVR,2003_Week14_PIT_vs_LVR
+Week14,Sun,2003-12-07,1:02PM,Green Bay Packers,,Chicago Bears,boxscore,34,21,307,1,275,5,https://www.pro-football-reference.com/boxscores/200312070gnb.htm,GB,CHI,2003_Week14_GB_vs_CHI
+Week14,Sun,2003-12-07,1:02PM,Baltimore Ravens,,Cincinnati Bengals,boxscore,31,13,353,3,268,5,https://www.pro-football-reference.com/boxscores/200312070rav.htm,BAL,CIN,2003_Week14_BAL_vs_CIN
+Week14,Sun,2003-12-07,1:02PM,Jacksonville Jaguars,,Houston Texans,boxscore,27,0,390,0,124,3,https://www.pro-football-reference.com/boxscores/200312070jax.htm,JAX,HOU,2003_Week14_JAX_vs_HOU
+Week14,Sun,2003-12-07,1:02PM,Washington Redskins,@,New York Giants,boxscore,20,7,288,0,220,3,https://www.pro-football-reference.com/boxscores/200312070nyg.htm,NYG,WAS,2003_Week14_NYG_vs_WAS
+Week14,Sun,2003-12-07,1:03PM,Indianapolis Colts,@,Tennessee Titans,boxscore,29,27,340,0,327,4,https://www.pro-football-reference.com/boxscores/200312070oti.htm,TEN,IND,2003_Week14_TEN_vs_IND
+Week14,Sun,2003-12-07,1:03PM,Philadelphia Eagles,,Dallas Cowboys,boxscore,36,10,403,0,225,2,https://www.pro-football-reference.com/boxscores/200312070phi.htm,PHI,DAL,2003_Week14_PHI_vs_DAL
+Week14,Sun,2003-12-07,1:03PM,San Diego Chargers,@,Detroit Lions,boxscore,14,7,375,2,276,0,https://www.pro-football-reference.com/boxscores/200312070det.htm,DET,LAC,2003_Week14_DET_vs_LAC
+Week14,Sun,2003-12-07,1:03PM,Tampa Bay Buccaneers,@,New Orleans Saints,boxscore,14,7,314,1,292,3,https://www.pro-football-reference.com/boxscores/200312070nor.htm,NO,TB,2003_Week14_NO_vs_TB
+Week14,Sun,2003-12-07,4:05PM,San Francisco 49ers,,Arizona Cardinals,boxscore,50,14,496,1,210,2,https://www.pro-football-reference.com/boxscores/200312070sfo.htm,SF,ARI,2003_Week14_SF_vs_ARI
+Week14,Sun,2003-12-07,4:15PM,Buffalo Bills,,New York Jets,boxscore,17,6,256,2,215,1,https://www.pro-football-reference.com/boxscores/200312070buf.htm,BUF,NYJ,2003_Week14_BUF_vs_NYJ
+Week14,Sun,2003-12-07,4:15PM,Denver Broncos,,Kansas City Chiefs,boxscore,45,27,508,0,444,0,https://www.pro-football-reference.com/boxscores/200312070den.htm,DEN,KC,2003_Week14_DEN_vs_KC
+Week14,Sun,2003-12-07,4:15PM,New England Patriots,,Miami Dolphins,boxscore,12,0,228,1,134,3,https://www.pro-football-reference.com/boxscores/200312070nwe.htm,NE,MIA,2003_Week14_NE_vs_MIA
+Week14,Sun,2003-12-07,8:37PM,Atlanta Falcons,,Carolina Panthers,boxscore,20,14,380,2,231,3,https://www.pro-football-reference.com/boxscores/200312070atl.htm,ATL,CAR,2003_Week14_ATL_vs_CAR
+Week14,Mon,2003-12-08,9:09PM,St. Louis Rams,@,Cleveland Browns,boxscore,26,20,328,1,309,4,https://www.pro-football-reference.com/boxscores/200312080cle.htm,CLE,LAR,2003_Week14_CLE_vs_LAR
+Week15,Sun,2003-12-14,1:00PM,Indianapolis Colts,,Atlanta Falcons,boxscore,38,7,465,2,154,2,https://www.pro-football-reference.com/boxscores/200312140clt.htm,IND,ATL,2003_Week15_IND_vs_ATL
+Week15,Sun,2003-12-14,1:00PM,Kansas City Chiefs,,Detroit Lions,boxscore,45,17,521,0,334,2,https://www.pro-football-reference.com/boxscores/200312140kan.htm,KC,DET,2003_Week15_KC_vs_DET
+Week15,Sun,2003-12-14,1:01PM,Tampa Bay Buccaneers,,Houston Texans,boxscore,16,3,398,0,107,0,https://www.pro-football-reference.com/boxscores/200312140tam.htm,TB,HOU,2003_Week15_TB_vs_HOU
+Week15,Sun,2003-12-14,1:02PM,New England Patriots,,Jacksonville Jaguars,boxscore,27,13,296,1,354,2,https://www.pro-football-reference.com/boxscores/200312140nwe.htm,NE,JAX,2003_Week15_NE_vs_JAX
+Week15,Sun,2003-12-14,1:02PM,St. Louis Rams,,Seattle Seahawks,boxscore,27,22,316,1,366,1,https://www.pro-football-reference.com/boxscores/200312140ram.htm,LAR,SEA,2003_Week15_LAR_vs_SEA
+Week15,Sun,2003-12-14,1:03PM,Tennessee Titans,,Buffalo Bills,boxscore,28,26,349,1,241,1,https://www.pro-football-reference.com/boxscores/200312140oti.htm,TEN,BUF,2003_Week15_TEN_vs_BUF
+Week15,Sun,2003-12-14,1:03PM,Chicago Bears,,Minnesota Vikings,boxscore,13,10,232,0,393,1,https://www.pro-football-reference.com/boxscores/200312140chi.htm,CHI,MIN,2003_Week15_CHI_vs_MIN
+Week15,Sun,2003-12-14,1:03PM,Cincinnati Bengals,,San Francisco 49ers,boxscore,41,38,393,0,502,3,https://www.pro-football-reference.com/boxscores/200312140cin.htm,CIN,SF,2003_Week15_CIN_vs_SF
+Week15,Sun,2003-12-14,1:03PM,New York Jets,,Pittsburgh Steelers,boxscore,6,0,319,1,231,0,https://www.pro-football-reference.com/boxscores/200312140nyj.htm,NYJ,PIT,2003_Week15_NYJ_vs_PIT
+Week15,Sun,2003-12-14,4:05PM,Denver Broncos,,Cleveland Browns,boxscore,23,20,417,1,275,1,https://www.pro-football-reference.com/boxscores/200312140den.htm,DEN,CLE,2003_Week15_DEN_vs_CLE
+Week15,Sun,2003-12-14,4:05PM,Oakland Raiders,,Baltimore Ravens,boxscore,20,12,265,0,319,3,https://www.pro-football-reference.com/boxscores/200312140rai.htm,LVR,BAL,2003_Week15_LVR_vs_BAL
+Week15,Sun,2003-12-14,4:15PM,Green Bay Packers,@,San Diego Chargers,boxscore,38,21,361,1,424,4,https://www.pro-football-reference.com/boxscores/200312140sdg.htm,LAC,GB,2003_Week15_LAC_vs_GB
+Week15,Sun,2003-12-14,4:16PM,Carolina Panthers,@,Arizona Cardinals,boxscore,20,17,298,2,317,2,https://www.pro-football-reference.com/boxscores/200312140crd.htm,ARI,CAR,2003_Week15_ARI_vs_CAR
+Week15,Sun,2003-12-14,4:17PM,Dallas Cowboys,@,Washington Redskins,boxscore,27,0,326,1,161,6,https://www.pro-football-reference.com/boxscores/200312140was.htm,WAS,DAL,2003_Week15_WAS_vs_DAL
+Week15,Sun,2003-12-14,8:36PM,New Orleans Saints,,New York Giants,boxscore,45,7,440,1,241,2,https://www.pro-football-reference.com/boxscores/200312140nor.htm,NO,NYG,2003_Week15_NO_vs_NYG
+Week15,Mon,2003-12-15,9:09PM,Philadelphia Eagles,@,Miami Dolphins,boxscore,34,27,401,1,398,2,https://www.pro-football-reference.com/boxscores/200312150mia.htm,MIA,PHI,2003_Week15_MIA_vs_PHI
+Week16,Sat,2003-12-20,1:32PM,Atlanta Falcons,@,Tampa Bay Buccaneers,boxscore,30,28,267,1,440,4,https://www.pro-football-reference.com/boxscores/200312200tam.htm,TB,ATL,2003_Week16_TB_vs_ATL
+Week16,Sat,2003-12-20,5:15PM,Minnesota Vikings,,Kansas City Chiefs,boxscore,45,20,469,1,329,4,https://www.pro-football-reference.com/boxscores/200312200min.htm,MIN,KC,2003_Week16_MIN_vs_KC
+Week16,Sat,2003-12-20,8:37PM,New England Patriots,@,New York Jets,boxscore,21,16,271,1,321,5,https://www.pro-football-reference.com/boxscores/200312200nyj.htm,NYJ,NE,2003_Week16_NYJ_vs_NE
+Week16,Sun,2003-12-21,1:02PM,Miami Dolphins,@,Buffalo Bills,boxscore,20,3,169,2,177,4,https://www.pro-football-reference.com/boxscores/200312210buf.htm,BUF,MIA,2003_Week16_BUF_vs_MIA
+Week16,Sun,2003-12-21,1:02PM,St. Louis Rams,,Cincinnati Bengals,boxscore,27,10,371,1,286,3,https://www.pro-football-reference.com/boxscores/200312210ram.htm,LAR,CIN,2003_Week16_LAR_vs_CIN
+Week16,Sun,2003-12-21,1:02PM,Dallas Cowboys,,New York Giants,boxscore,19,3,326,0,213,0,https://www.pro-football-reference.com/boxscores/200312210dal.htm,DAL,NYG,2003_Week16_DAL_vs_NYG
+Week16,Sun,2003-12-21,1:02PM,Jacksonville Jaguars,,New Orleans Saints,boxscore,20,19,374,2,350,1,https://www.pro-football-reference.com/boxscores/200312210jax.htm,JAX,NO,2003_Week16_JAX_vs_NO
+Week16,Sun,2003-12-21,1:03PM,Carolina Panthers,,Detroit Lions,boxscore,20,14,384,2,106,1,https://www.pro-football-reference.com/boxscores/200312210car.htm,CAR,DET,2003_Week16_CAR_vs_DET
+Week16,Sun,2003-12-21,1:03PM,Chicago Bears,,Washington Redskins,boxscore,27,24,429,2,286,0,https://www.pro-football-reference.com/boxscores/200312210chi.htm,CHI,WAS,2003_Week16_CHI_vs_WAS
+Week16,Sun,2003-12-21,1:03PM,Baltimore Ravens,@,Cleveland Browns,boxscore,35,0,359,1,211,4,https://www.pro-football-reference.com/boxscores/200312210cle.htm,CLE,BAL,2003_Week16_CLE_vs_BAL
+Week16,Sun,2003-12-21,1:03PM,Tennessee Titans,@,Houston Texans,boxscore,27,24,450,1,326,3,https://www.pro-football-reference.com/boxscores/200312210htx.htm,HOU,TEN,2003_Week16_HOU_vs_TEN
+Week16,Sun,2003-12-21,4:05PM,Pittsburgh Steelers,,San Diego Chargers,boxscore,40,24,341,0,344,3,https://www.pro-football-reference.com/boxscores/200312210pit.htm,PIT,LAC,2003_Week16_PIT_vs_LAC
+Week16,Sun,2003-12-21,4:15PM,Seattle Seahawks,,Arizona Cardinals,boxscore,28,10,340,4,299,1,https://www.pro-football-reference.com/boxscores/200312210sea.htm,SEA,ARI,2003_Week16_SEA_vs_ARI
+Week16,Sun,2003-12-21,4:15PM,San Francisco 49ers,@,Philadelphia Eagles,boxscore,31,28,414,1,293,3,https://www.pro-football-reference.com/boxscores/200312210phi.htm,PHI,SF,2003_Week16_PHI_vs_SF
+Week16,Sun,2003-12-21,8:35PM,Denver Broncos,@,Indianapolis Colts,boxscore,31,17,465,1,183,0,https://www.pro-football-reference.com/boxscores/200312210clt.htm,IND,DEN,2003_Week16_IND_vs_DEN
+Week16,Mon,2003-12-22,9:05PM,Green Bay Packers,@,Oakland Raiders,boxscore,41,7,548,0,298,3,https://www.pro-football-reference.com/boxscores/200312220rai.htm,LVR,GB,2003_Week16_LVR_vs_GB
+Week17,Sat,2003-12-27,1:35PM,New England Patriots,,Buffalo Bills,boxscore,31,0,321,1,256,4,https://www.pro-football-reference.com/boxscores/200312270nwe.htm,NE,BUF,2003_Week17_NE_vs_BUF
+Week17,Sat,2003-12-27,5:15PM,Seattle Seahawks,@,San Francisco 49ers,boxscore,24,17,394,3,290,1,https://www.pro-football-reference.com/boxscores/200312270sfo.htm,SF,SEA,2003_Week17_SF_vs_SEA
+Week17,Sat,2003-12-27,8:36PM,Philadelphia Eagles,@,Washington Redskins,boxscore,31,7,332,0,260,2,https://www.pro-football-reference.com/boxscores/200312270was.htm,WAS,PHI,2003_Week17_WAS_vs_PHI
+Week17,Sun,2003-12-28,1:00PM,Kansas City Chiefs,,Chicago Bears,boxscore,31,3,282,1,241,2,https://www.pro-football-reference.com/boxscores/200312280kan.htm,KC,CHI,2003_Week17_KC_vs_CHI
+Week17,Sun,2003-12-28,1:02PM,Cleveland Browns,@,Cincinnati Bengals,boxscore,22,14,379,0,271,1,https://www.pro-football-reference.com/boxscores/200312280cin.htm,CIN,CLE,2003_Week17_CIN_vs_CLE
+Week17,Sun,2003-12-28,1:03PM,Atlanta Falcons,,Jacksonville Jaguars,boxscore,21,14,344,1,320,1,https://www.pro-football-reference.com/boxscores/200312280atl.htm,ATL,JAX,2003_Week17_ATL_vs_JAX
+Week17,Sun,2003-12-28,1:03PM,Indianapolis Colts,@,Houston Texans,boxscore,20,17,418,2,204,1,https://www.pro-football-reference.com/boxscores/200312280htx.htm,HOU,IND,2003_Week17_HOU_vs_IND
+Week17,Sun,2003-12-28,1:03PM,New Orleans Saints,,Dallas Cowboys,boxscore,13,7,291,0,352,3,https://www.pro-football-reference.com/boxscores/200312280nor.htm,NO,DAL,2003_Week17_NO_vs_DAL
+Week17,Sun,2003-12-28,1:03PM,Detroit Lions,,St. Louis Rams,boxscore,30,20,342,2,194,3,https://www.pro-football-reference.com/boxscores/200312280det.htm,DET,LAR,2003_Week17_DET_vs_LAR
+Week17,Sun,2003-12-28,1:03PM,Miami Dolphins,,New York Jets,boxscore,23,21,397,1,285,0,https://www.pro-football-reference.com/boxscores/200312280mia.htm,MIA,NYJ,2003_Week17_MIA_vs_NYJ
+Week17,Sun,2003-12-28,1:03PM,Tennessee Titans,,Tampa Bay Buccaneers,boxscore,33,13,344,1,274,4,https://www.pro-football-reference.com/boxscores/200312280oti.htm,TEN,TB,2003_Week17_TEN_vs_TB
+Week17,Sun,2003-12-28,4:05PM,Carolina Panthers,@,New York Giants,boxscore,37,24,251,2,175,5,https://www.pro-football-reference.com/boxscores/200312280nyg.htm,NYG,CAR,2003_Week17_NYG_vs_CAR
+Week17,Sun,2003-12-28,4:05PM,Arizona Cardinals,,Minnesota Vikings,boxscore,18,17,219,1,342,2,https://www.pro-football-reference.com/boxscores/200312280crd.htm,ARI,MIN,2003_Week17_ARI_vs_MIN
+Week17,Sun,2003-12-28,4:15PM,Green Bay Packers,,Denver Broncos,boxscore,31,3,366,1,216,3,https://www.pro-football-reference.com/boxscores/200312280gnb.htm,GB,DEN,2003_Week17_GB_vs_DEN
+Week17,Sun,2003-12-28,4:15PM,San Diego Chargers,,Oakland Raiders,boxscore,21,14,337,0,141,1,https://www.pro-football-reference.com/boxscores/200312280sdg.htm,LAC,LVR,2003_Week17_LAC_vs_LVR
+Week17,Sun,2003-12-28,8:36PM,Baltimore Ravens,,Pittsburgh Steelers,boxscore,13,10,279,2,214,5,https://www.pro-football-reference.com/boxscores/200312280rav.htm,BAL,PIT,2003_Week17_BAL_vs_PIT
+WildCard,Sat,2004-01-03,4:37PM,Tennessee Titans,@,Baltimore Ravens,boxscore,20,17,324,3,255,2,https://www.pro-football-reference.com/boxscores/200401030rav.htm,BAL,TEN,2003_WildCard_BAL_vs_TEN
+WildCard,Sat,2004-01-03,8:09PM,Carolina Panthers,,Dallas Cowboys,boxscore,29,10,380,0,204,2,https://www.pro-football-reference.com/boxscores/200401030car.htm,CAR,DAL,2003_WildCard_CAR_vs_DAL
+WildCard,Sun,2004-01-04,1:04PM,Green Bay Packers,,Seattle Seahawks,boxscore,33,27,397,0,340,1,https://www.pro-football-reference.com/boxscores/200401040gnb.htm,GB,SEA,2003_WildCard_GB_vs_SEA
+WildCard,Sun,2004-01-04,4:42PM,Indianapolis Colts,,Denver Broncos,boxscore,41,10,479,1,322,3,https://www.pro-football-reference.com/boxscores/200401040clt.htm,IND,DEN,2003_WildCard_IND_vs_DEN
+Division,Sat,2004-01-10,4:30PM,Carolina Panthers,@,St. Louis Rams,boxscore,29,23,485,1,380,3,https://www.pro-football-reference.com/boxscores/200401100ram.htm,LAR,CAR,2003_Division_LAR_vs_CAR
+Division,Sat,2004-01-10,8:15PM,New England Patriots,,Tennessee Titans,boxscore,17,14,297,1,284,1,https://www.pro-football-reference.com/boxscores/200401100nwe.htm,NE,TEN,2003_Division_NE_vs_TEN
+Division,Sun,2004-01-11,1:00PM,Indianapolis Colts,@,Kansas City Chiefs,boxscore,38,31,434,0,408,1,https://www.pro-football-reference.com/boxscores/200401110kan.htm,KC,IND,2003_Division_KC_vs_IND
+Division,Sun,2004-01-11,4:46PM,Philadelphia Eagles,,Green Bay Packers,boxscore,20,17,363,1,381,1,https://www.pro-football-reference.com/boxscores/200401110phi.htm,PHI,GB,2003_Division_PHI_vs_GB
+ConfChamp,Sun,2004-01-18,3:06PM,New England Patriots,,Indianapolis Colts,boxscore,24,14,349,2,306,5,https://www.pro-football-reference.com/boxscores/200401180nwe.htm,NE,IND,2003_ConfChamp_NE_vs_IND
+ConfChamp,Sun,2004-01-18,6:50PM,Carolina Panthers,@,Philadelphia Eagles,boxscore,14,3,256,0,289,4,https://www.pro-football-reference.com/boxscores/200401180phi.htm,PHI,CAR,2003_ConfChamp_PHI_vs_CAR
+SuperBowl,Sun,2004-02-01,6:25PM,New England Patriots,N,Carolina Panthers,boxscore,32,29,481,1,387,1,https://www.pro-football-reference.com/boxscores/200402010car.htm,NE,CAR,2003_SuperBowl_NE_vs_CAR

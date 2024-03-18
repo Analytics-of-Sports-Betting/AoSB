@@ -1,0 +1,182 @@
+Quarter,Time,Down,ToGo,Location,NYJ,BUF,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Bills won the coin toss and deferred, Jets to receive the opening kickoff.",,
+1,15:00,,,BUF 35,0,0,"Jordan Gay kicks off 65 yards, touchback",0.000,-0.280
+1,15:00,1,10,NYJ 20,0,0,Stevan Ridley left guard for no gain (tackle by Jerry Hughes and Corbin Bryant),0.280,-0.270
+1,14:22,2,10,NYJ 20,0,0,Ryan Fitzpatrick pass incomplete short right intended for Eric Decker (defended by Jerry Hughes),-0.270,-0.960
+1,14:19,3,10,NYJ 20,0,0,"Ryan Fitzpatrick pass complete short left to Eric Decker for 11 yards (tackle by Corey Graham). Penalty on Eric Decker: Illegal Touch Pass, 5 yards (no play)",-0.960,-1.860
+1,13:47,3,15,NYJ 15,0,0,Ryan Fitzpatrick pass complete short left to Brandon Marshall for 6 yards (tackle by Leodis McKelvin),-1.860,-1.960
+1,13:36,4,9,NYJ 21,0,0,"Ryan Quigley punts 50 yards, returned by Walt Powell for 16 yards (tackle by Jamari Lattimore)",-1.960,-1.930
+1,13:24,1,10,BUF 45,0,0,Tyrod Taylor pass incomplete short right intended for Sammy Watkins,1.930,1.380
+1,13:19,2,10,BUF 45,0,0,"Tyrod Taylor for -3 yards (tackle by Calvin Pace). Tyrod Taylor fumbles (forced by Calvin Pace), recovered by Greg Salas at BUF-40 and returned for 5 yards. Greg Salas fumbles (forced by Calvin Pace), recovered by Greg Salas at BUF-40 for 5 yards",1.380,0.700
+1,12:38,3,10,BUF 45,0,0,Tyrod Taylor pass incomplete deep right intended for Chris Hogan,0.700,-0.390
+1,12:31,4,10,BUF 45,0,0,"Colton Schmidt punts 45 yards, fair catch by Jeremy Kerley",-0.390,0.380
+1,12:22,1,10,NYJ 10,0,0,Stevan Ridley right tackle for -2 yards (tackle by Jerry Hughes),-0.380,-0.930
+1,11:42,2,12,NYJ 8,0,0,Stevan Ridley right tackle for 13 yards (tackle by Corey Graham),-0.930,0.340
+1,11:10,1,10,NYJ 21,0,0,Stevan Ridley left guard for 1 yard (tackle by Marcell Dareus and Corbin Bryant),0.340,-0.070
+1,10:27,2,9,NYJ 22,0,0,Stevan Ridley left guard for 3 yards (tackle by Corey Graham and A.J. Tarpley),-0.070,-0.360
+1,9:47,3,6,NYJ 25,0,0,Ryan Fitzpatrick pass incomplete deep left intended for Kenbrell Thompkins,-0.360,-1.700
+1,9:41,4,6,NYJ 25,0,0,Ryan Quigley punts 41 yards,-1.700,-1.200
+1,9:30,1,10,BUF 34,0,0,Tyrod Taylor pass incomplete short right intended for Nick O'Leary (defended by David Harris),1.200,0.660
+1,9:21,2,10,BUF 34,0,0,Tyrod Taylor pass complete short left to Karlos Williams for no gain,0.660,-0.030
+1,8:46,3,10,BUF 34,0,0,Tyrod Taylor pass complete short middle to Karlos Williams for no gain,-0.030,-1.110
+1,8:05,4,10,BUF 34,0,0,"Colton Schmidt punts 50 yards, returned by Jeremy Kerley for 9 yards (tackle by Kevin Reddick). Penalty on Dexter McDougle: Offensive Holding, 10 yards",-1.110,0.350
+1,7:54,1,10,NYJ 12,0,0,Ryan Fitzpatrick pass incomplete short left intended for Quincy Enunwa (defended by Corey Graham),-0.350,-0.780
+1,7:47,2,10,NYJ 12,0,0,Ryan Fitzpatrick pass incomplete short middle intended for Kellen Davis,-0.780,-1.420
+1,7:44,3,10,NYJ 12,0,0,"Penalty on Chris Ivory: Offensive 12 On-field, 5 yards (no play)",-1.420,-2.010
+1,7:44,3,15,NYJ 7,0,0,Ryan Fitzpatrick sacked by Mario Williams for -3 yards,-2.010,-2.490
+1,7:07,4,18,NYJ 4,0,0,"Ryan Quigley punts 21 yards, out of bounds",-2.490,-3.910
+1,7:02,1,10,NYJ 25,0,0,Karlos Williams right end for 4 yards (tackle by David Harris),3.910,3.900
+1,6:29,2,6,NYJ 21,0,0,Karlos Williams left tackle for 3 yards (tackle by Damon Harrison and Demario Davis),3.900,3.900
+1,5:55,2,6,NYJ 21,0,0,Timeout #1 by New York Jets,3.900,3.660
+1,5:55,3,3,NYJ 18,0,6,"Tyrod Taylor left tackle for 18 yards, touchdown",3.660,7.000
+1,5:55,,,NYJ 18,0,7,Dan Carpenter kicks extra point good,0.000,0.000
+1,5:55,,,BUF 35,0,7,"Jordan Gay kicks off 65 yards, touchback",0.000,-0.280
+1,5:43,1,10,NYJ 20,0,7,Stevan Ridley right tackle for 2 yards (tackle by Duke Williams),0.280,0.000
+1,5:09,2,8,NYJ 22,0,7,Ryan Fitzpatrick pass incomplete short left intended for Brandon Marshall,0.000,-0.690
+1,5:04,3,8,NYJ 22,0,7,Ryan Fitzpatrick pass complete short left to Eric Decker for -1 yards (tackle by Corey Graham and Mario Butler),-0.690,-1.960
+1,4:31,4,9,NYJ 21,0,7,Ryan Quigley punts 49 yards,-1.960,-0.940
+1,4:19,1,10,BUF 30,0,7,Tyrod Taylor pass complete short right to Sammy Watkins for 6 yards,0.940,1.200
+1,3:48,2,4,BUF 36,0,7,Mike Gillislee middle for 2 yards (tackle by Damon Harrison and Muhammad Wilkerson),1.200,0.760
+1,3:10,3,2,BUF 38,0,7,Karlos Williams right guard for 3 yards (tackle by Erin Henderson and Muhammad Wilkerson),0.760,1.660
+1,2:35,1,10,BUF 41,0,7,Tyrod Taylor pass complete short left to Sammy Watkins for 7 yards (tackle by Marcus Gilchrist),1.660,2.070
+1,1:59,2,3,BUF 48,0,7,Mike Gillislee left end for 2 yards (tackle by Erin Henderson),2.070,1.620
+1,1:21,3,1,,0,7,Karlos Williams for 6 yards,1.620,2.650
+1,0:49,1,10,NYJ 44,0,7,Tyrod Taylor pass complete short right to Sammy Watkins for 13 yards,2.650,3.510
+1,0:11,1,10,NYJ 31,0,7,Mike Gillislee middle for 9 yards (tackle by Sheldon Richardson),3.510,4.180
+Quarter,Time,Down,ToGo,Location,NYJ,BUF,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,1,NYJ 22,0,7,"Mike Gillislee middle for no gain (tackle by Stephen Bowen and Sheldon Richardson). Penalty on Leonard Williams: Unnecessary Roughness, 11 yards",4.180,4.840
+2,14:21,1,10,NYJ 11,0,7,Karlos Williams left end for 6 yards (tackle by Marcus Gilchrist),4.840,5.280
+2,13:48,2,4,NYJ 5,0,7,Tyrod Taylor pass incomplete short right intended for Sammy Watkins (defended by Muhammad Wilkerson),5.280,4.440
+2,13:44,3,4,NYJ 5,0,7,Tyrod Taylor pass complete short left to Karlos Williams for 3 yards (tackle by David Harris and Erin Henderson),4.440,4.440
+2,13:02,3,4,NYJ 5,0,7,Timeout #2 by New York Jets,4.440,3.250
+2,13:02,4,1,NYJ 2,0,13,"Karlos Williams middle for 2 yards, touchdown",3.250,7.000
+2,13:02,,,NYJ 2,0,13,Dan Carpenter kicks extra point no good,0.000,-1.000
+2,13:02,,,BUF 35,0,13,"Jordan Gay kicks off 65 yards, touchback",0.000,-0.280
+2,12:58,1,10,NYJ 20,0,13,Chris Ivory right guard for 58 yards (tackle by Corey Graham),0.280,4.110
+2,12:21,1,10,BUF 22,0,13,Ryan Fitzpatrick pass incomplete short right intended for Brandon Marshall (defended by Manny Lawson),4.110,3.560
+2,12:17,2,10,BUF 22,0,13,Ryan Fitzpatrick pass incomplete deep middle intended for Brandon Marshall,3.560,2.870
+2,12:11,3,10,BUF 22,0,13,Ryan Fitzpatrick pass incomplete deep middle intended for Eric Decker,2.870,1.990
+2,12:09,4,10,BUF 22,0,13,Randy Bullock 40 yard field goal no good,1.990,-0.940
+2,12:05,1,10,BUF 30,0,13,Tyrod Taylor pass incomplete short right intended for Chris Hogan,0.940,0.390
+2,12:00,2,10,BUF 30,0,13,Mike Gillislee right end for -1 yards (tackle by David Harris),0.390,-0.430
+2,11:20,3,11,BUF 29,0,13,Tyrod Taylor pass incomplete deep left intended for Sammy Watkins (defended by Darrelle Revis),-0.430,-1.440
+2,11:14,4,11,BUF 29,0,13,"Colton Schmidt punts 51 yards, out of bounds, returned by Jeremy Kerley for 5 yards (tackle by Corey Graham). Penalty on Chris Hogan: Unsportsmanlike Conduct, 15 yards",-1.440,-1.600
+2,11:05,1,10,NYJ 40,0,13,Ryan Fitzpatrick pass complete deep left to Brandon Marshall for 41 yards (tackle by Leodis McKelvin),1.600,4.310
+2,10:24,1,10,BUF 19,0,13,Ryan Fitzpatrick pass complete short middle to Stevan Ridley for 2 yards (tackle by Manny Lawson),4.310,4.030
+2,9:42,2,8,BUF 17,6,13,"Ryan Fitzpatrick pass complete deep middle to Brandon Marshall for 17 yards, touchdown",4.030,7.000
+2,9:42,,,BUF 17,7,13,Randy Bullock kicks extra point good,0.000,0.000
+2,9:42,,,NYJ 35,7,13,"Randy Bullock kicks off 69 yards, returned by Walt Powell for 32 yards (tackle by Lorenzo Mauldin)",0.000,-0.810
+2,9:32,1,10,BUF 28,7,13,Mike Gillislee right tackle for 7 yards (tackle by Sheldon Richardson),0.810,1.210
+2,8:58,2,3,BUF 35,7,13,Mike Gillislee middle for no gain (tackle by Erin Henderson and Leonard Williams),1.210,0.500
+2,8:16,3,3,BUF 35,7,13,Tyrod Taylor pass complete short left to Sammy Watkins for 15 yards (tackle by Calvin Pryor and Marcus Williams),0.500,2.260
+2,7:38,1,10,,7,13,Mike Gillislee right guard for 1 yard (tackle by Damon Harrison),2.260,1.850
+2,6:55,2,9,NYJ 49,7,13,Tyrod Taylor pass complete short left to Sammy Watkins for 16 yards (tackle by Darrelle Revis),1.850,3.380
+2,6:16,1,10,NYJ 33,7,13,Mike Gillislee right guard for 1 yard (tackle by Erin Henderson),3.380,2.970
+2,5:35,2,9,NYJ 32,7,13,Tyrod Taylor pass incomplete deep left intended for Greg Salas,2.970,2.280
+2,5:31,3,9,NYJ 32,7,13,Tyrod Taylor pass complete short left to Greg Salas for 12 yards (tackle by Buster Skrine),2.280,4.240
+2,4:49,1,10,NYJ 20,7,13,Mike Gillislee middle for 2 yards (tackle by Erin Henderson),4.240,3.960
+2,4:13,2,8,NYJ 18,7,13,Chris Hogan left end for 4 yards (tackle by David Harris),3.960,3.890
+2,3:36,3,4,NYJ 14,7,13,Tyrod Taylor middle for 1 yard (tackle by Lorenzo Mauldin),3.890,2.670
+2,2:49,4,3,NYJ 13,7,13,--,2.670,5.370
+2,2:35,1,8,NYJ 8,7,13,"Penalty on Cyrus Kouandjio: False Start, 5 yards (no play)",5.370,4.530
+2,2:12,1,13,NYJ 13,7,13,Mike Gillislee left tackle for -4 yards (tackle by Sheldon Richardson),4.530,3.240
+2,2:00,2,17,NYJ 17,7,13,Tyrod Taylor pass complete short middle to Sammy Watkins for 4 yards (tackle by David Harris),3.240,3.240
+2,1:14,2,17,NYJ 17,7,13,Timeout #1 by Buffalo Bills,3.240,3.060
+2,1:14,3,13,NYJ 13,7,13,Tyrod Taylor left tackle for 11 yards (tackle by Leonard Williams and Marcus Williams),3.060,3.060
+2,0:27,3,13,NYJ 13,7,13,Timeout #2 by Buffalo Bills,3.060,3.250
+2,0:27,4,2,NYJ 2,7,16,Dan Carpenter 20 yard field goal good,3.250,3.000
+2,0:27,,,BUF 35,7,16,"Jordan Gay kicks off 50 yards, returned by Jeff Cumberland for 6 yards",0.000,-0.340
+2,0:20,1,10,NYJ 21,7,16,Chris Ivory right guard for 7 yards (tackle by Corbin Bryant),0.340,0.750
+Quarter,Time,Down,ToGo,Location,NYJ,BUF,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,NYJ 35,7,16,"Randy Bullock kicks off 65 yards, touchback",0.000,-0.280
+3,15:00,1,10,BUF 20,7,16,"Tyrod Taylor pass incomplete short right intended for Sammy Watkins. Penalty on Darrelle Revis: Illegal Use of Hands, 5 yards (no play)",0.280,0.610
+3,14:54,1,10,BUF 25,7,16,Mike Gillislee right guard for 1 yard (tackle by Leonard Williams and Damon Harrison),0.610,0.200
+3,14:17,2,9,BUF 26,7,16,"Mike Gillislee for -3 yards (tackle by Damon Harrison). Mike Gillislee fumbles (forced by Damon Harrison), recovered by Darrelle Revis at BUF-23 (tackle by Richie Incognito)",0.200,-4.040
+3,14:10,1,10,BUF 23,7,16,Stevan Ridley middle for 2 yards (tackle by Marcell Dareus and Jerry Hughes),4.040,3.770
+3,13:33,2,8,BUF 21,7,16,Ryan Fitzpatrick pass incomplete short middle intended for Quincy Enunwa,3.770,3.070
+3,13:29,3,8,BUF 21,7,16,Ryan Fitzpatrick pass incomplete short middle intended for Quincy Enunwa,3.070,2.060
+3,13:24,4,8,BUF 21,10,16,Randy Bullock 39 yard field goal good,2.060,3.000
+3,13:24,,,NYJ 35,10,16,"Randy Bullock kicks off 70 yards, returned by Walt Powell for 20 yards (tackle by Rontez Miles)",0.000,0.220
+3,13:16,1,10,BUF 15,10,16,Mike Gillislee right tackle for 4 yards (tackle by Muhammad Wilkerson and David Harris),-0.220,-0.110
+3,12:38,2,6,BUF 19,10,16,Tyrod Taylor pass complete short left to Sammy Watkins for 9 yards (tackle by Darrelle Revis),-0.110,0.810
+3,11:59,1,10,BUF 28,10,16,Mike Gillislee right end for -1 yards (tackle by Erin Henderson),0.810,0.130
+3,11:19,2,11,BUF 27,10,16,Tyrod Taylor left end for 4 yards (tackle by Darrelle Revis),0.130,-0.030
+3,10:46,3,7,BUF 31,10,16,Tyrod Taylor pass complete short left to Greg Salas for 9 yards (tackle by Marcus Williams),-0.030,-0.030
+3,10:04,3,7,BUF 31,10,16,Timeout #1 by Buffalo Bills,-0.030,1.600
+3,10:04,1,10,BUF 40,10,16,"Mike Gillislee right guard for 4 yards (tackle by Damon Harrison). Penalty on Cordy Glenn: Offensive Holding, 10 yards (no play)",1.600,0.940
+3,9:39,1,20,BUF 30,10,16,Tyrod Taylor pass complete short right to Sammy Watkins for 38 yards (tackle by Darrelle Revis),0.940,3.450
+3,8:48,1,10,NYJ 32,10,16,Mike Gillislee right guard for no gain (tackle by Damon Harrison and David Harris),3.450,2.900
+3,8:07,2,10,NYJ 32,10,16,Tyrod Taylor middle for 4 yards (tackle by Stephen Bowen),2.900,2.740
+3,7:26,3,6,NYJ 28,10,16,Tyrod Taylor pass incomplete short left intended for Greg Salas (defended by Buster Skrine),2.740,1.610
+3,7:21,4,6,NYJ 28,10,16,Tyrod Taylor pass complete short left to Sammy Watkins for 8 yards (tackle by Darrelle Revis and Marcus Gilchrist),1.610,4.240
+3,6:43,1,10,NYJ 20,10,16,Anthony Dixon right guard for 3 yards (tackle by Muhammad Wilkerson and Erin Henderson),4.240,4.120
+3,6:16,2,7,NYJ 17,10,16,Mike Gillislee left tackle for -2 yards (tackle by Stephen Bowen),4.120,3.100
+3,5:37,3,9,NYJ 19,10,16,Tyrod Taylor sacked by David Harris for 0 yards,3.100,2.180
+3,5:05,4,9,NYJ 19,10,19,Dan Carpenter 37 yard field goal good,2.180,3.000
+3,5:05,,,BUF 35,10,19,"Jordan Gay kicks off 66 yards, returned by Antonio Cromartie for 24 yards (tackle by Jonathan Meeks)",0.000,-0.480
+3,4:57,1,10,NYJ 23,10,19,Ryan Fitzpatrick pass complete short left to Brandon Marshall for 10 yards (tackle by Leodis McKelvin),0.480,1.140
+3,4:24,1,10,NYJ 33,10,19,Chris Ivory middle for 5 yards (tackle by Marcell Dareus),1.140,1.270
+3,3:47,2,5,NYJ 38,10,19,Ryan Fitzpatrick pass complete short left to Brandon Marshall for 16 yards (tackle by Leodis McKelvin),1.270,2.520
+3,3:05,1,10,BUF 46,10,19,Ryan Fitzpatrick pass complete short middle to Quincy Enunwa for 5 yards (tackle by IK Enemkpali and Corbin Bryant),2.520,2.650
+3,2:32,2,5,BUF 41,10,19,Ryan Fitzpatrick pass incomplete short left intended for Brandon Marshall,2.650,1.950
+3,2:29,3,5,BUF 41,10,19,Ryan Fitzpatrick pass complete short right to Eric Decker for 5 yards (tackle by Mario Butler and Nickell Robey-Coleman),1.950,3.180
+3,2:02,1,10,BUF 36,10,19,Ryan Fitzpatrick pass incomplete deep right intended for Kenbrell Thompkins,3.180,3.180
+3,1:56,1,10,BUF 36,10,19,Timeout #1 by New York Jets,3.180,2.640
+3,1:56,2,10,BUF 36,10,19,Ryan Fitzpatrick pass complete short left to Eric Decker for 15 yards,2.640,4.170
+3,1:25,1,10,BUF 21,10,19,Ryan Fitzpatrick pass incomplete,4.170,3.630
+3,1:19,2,10,BUF 21,10,19,Ryan Fitzpatrick pass incomplete short left intended for Brandon Marshall (defended by Leodis McKelvin),3.630,2.940
+3,1:15,3,10,BUF 21,16,19,"Ryan Fitzpatrick pass complete deep middle to Eric Decker for 21 yards, touchdown",2.940,7.000
+3,1:15,,,BUF 21,17,19,Randy Bullock kicks extra point good,0.000,0.000
+3,1:15,,,NYJ 35,17,19,"Randy Bullock kicks off 65 yards, touchback",0.000,-0.280
+3,1:10,1,10,BUF 20,17,19,Mike Gillislee left end for 2 yards (tackle by Calvin Pace and David Harris),0.280,0.000
+3,0:32,2,8,BUF 22,17,19,Tyrod Taylor pass complete short right to Sammy Watkins for 6 yards,0.000,0.100
+3,0:14,3,2,BUF 28,17,19,(tackle by David Harris),0.100,-1.500
+Quarter,Time,Down,ToGo,Location,NYJ,BUF,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,4,2,BUF 28,17,19,"Colton Schmidt punts 48 yards, returned by Jeremy Kerley for 4 yards (tackle by Chris Hogan)",-1.500,-0.810
+4,14:52,1,10,NYJ 28,17,19,Chris Ivory right guard for 5 yards (tackle by Bacarri Rambo),0.810,0.940
+4,14:13,2,5,NYJ 33,17,19,Ryan Fitzpatrick pass complete short right to Brandon Marshall for 15 yards (tackle by Nickell Robey-Coleman),0.940,2.130
+4,13:27,1,10,NYJ 48,17,19,Ryan Fitzpatrick pass incomplete deep left intended for Kenbrell Thompkins,2.130,1.580
+4,13:23,2,10,NYJ 48,17,19,Stevan Ridley right guard for 9 yards (tackle by Preston Brown),1.580,2.080
+4,12:58,3,1,BUF 43,17,19,Ryan Fitzpatrick right guard for 3 yards (tackle by Mario Williams),2.080,2.920
+4,12:21,1,10,BUF 40,17,19,"Ryan Fitzpatrick pass incomplete short right intended for Brandon Marshall (defended by Mario Butler). Penalty on Manny Lawson: Roughing the Passer, 15 yards (no play)",2.920,3.910
+4,12:14,1,10,BUF 25,17,19,Stevan Ridley middle for 1 yard (tackle by Corbin Bryant and Bacarri Rambo),3.910,3.500
+4,11:34,2,9,BUF 24,17,19,Ryan Fitzpatrick pass complete short right to Eric Decker for 10 yards (tackle by Preston Brown),3.500,4.650
+4,10:53,1,10,BUF 14,17,19,Ryan Fitzpatrick pass incomplete short right intended for Brandon Marshall,4.650,4.000
+4,10:48,2,10,BUF 14,17,19,Ryan Fitzpatrick pass incomplete deep left intended for Eric Decker is intercepted by Leodis McKelvin at BUF--8,4.000,-0.280
+4,10:43,1,10,BUF 20,17,19,Mike Gillislee right end for 3 yards (tackle by David Harris),0.280,0.140
+4,10:13,2,7,BUF 23,17,19,Tyrod Taylor pass incomplete short left intended for Sammy Watkins (defended by Darrelle Revis),0.140,-0.560
+4,10:09,3,7,BUF 23,17,19,Tyrod Taylor pass complete short left to Greg Salas for 20 yards (tackle by David Harris),-0.560,1.800
+4,9:24,1,10,BUF 43,17,19,Mike Gillislee left guard for no gain (tackle by Leonard Williams and David Harris),1.800,1.250
+4,8:41,2,10,BUF 43,17,19,Tyrod Taylor pass complete short left to Chris Hogan for 2 yards,1.250,0.830
+4,8:06,3,8,BUF 45,17,19,Tyrod Taylor pass complete short left to Sammy Watkins for 14 yards (tackle by Darrelle Revis),0.830,2.850
+4,7:22,1,10,NYJ 41,17,19,Tyrod Taylor left end for 3 yards (tackle by Erin Henderson),2.850,2.710
+4,6:46,2,7,NYJ 38,17,19,Anthony Dixon middle for 3 yards (tackle by Sheldon Richardson),2.710,2.410
+4,6:09,3,4,NYJ 35,17,19,Tyrod Taylor left tackle for 7 yards (tackle by David Harris),2.410,3.710
+4,5:24,1,10,NYJ 28,17,19,Mike Gillislee right guard for 2 yards (tackle by Damon Harrison and Erin Henderson),3.710,3.440
+4,4:40,2,8,NYJ 26,17,19,Mike Gillislee right guard for 2 yards (tackle by Damon Harrison and Leonard Williams),3.440,3.010
+4,3:58,3,6,NYJ 24,17,19,Tyrod Taylor pass incomplete deep left intended for Mike Gillislee,3.010,1.890
+4,3:53,4,6,NYJ 24,17,22,Dan Carpenter 42 yard field goal good,1.890,3.000
+4,3:53,,,BUF 35,17,22,"Jordan Gay kicks off 65 yards, touchback",0.000,-0.280
+4,3:49,1,10,NYJ 20,17,22,Ryan Fitzpatrick pass complete short left to Brandon Marshall for 9 yards (tackle by Leodis McKelvin),0.280,0.950
+4,3:20,2,1,NYJ 29,17,22,Chris Ivory middle for 3 yards (tackle by Preston Brown and Stefan Charles),0.950,1.070
+4,2:44,1,10,NYJ 32,17,22,Ryan Fitzpatrick pass incomplete short right intended for Brandon Marshall (defended by Mario Butler),1.070,0.530
+4,2:40,2,10,NYJ 32,17,22,Ryan Fitzpatrick pass complete short right to Brandon Marshall for 12 yards (tackle by Bacarri Rambo),0.530,1.860
+4,2:32,1,10,NYJ 44,17,22,Ryan Fitzpatrick pass complete short right to Stevan Ridley for -2 yards (tackle by Manny Lawson),1.860,1.050
+4,2:25,2,12,NYJ 42,17,22,Chris Ivory left guard for 3 yards (tackle by Nickell Robey-Coleman and Preston Brown),1.050,0.760
+4,2:00,3,9,NYJ 45,17,22,Ryan Fitzpatrick pass incomplete deep middle intended for Brandon Marshall is intercepted by Manny Lawson at BUF-34,0.760,-1.200
+4,1:51,1,10,BUF 34,17,22,Mike Gillislee middle for -1 yards (tackle by Sheldon Richardson and Demario Davis),1.200,1.200
+4,1:45,1,10,BUF 34,17,22,Timeout #2 by New York Jets,1.200,0.520
+4,1:45,2,11,BUF 33,17,22,Mike Gillislee middle for 2 yards (tackle by Demario Davis),0.520,0.520
+4,1:39,2,11,BUF 33,17,22,Timeout #3 by New York Jets,0.520,0.100
+4,1:39,3,9,BUF 35,17,22,Tyrod Taylor left guard for 4 yards (tackle by Marcus Gilchrist),0.100,0.100
+4,0:55,3,9,BUF 35,17,22,Timeout #2 by Buffalo Bills,0.100,-0.780
+4,0:55,4,5,BUF 39,17,22,"Colton Schmidt punts 49 yards, returned by Jeremy Kerley for 6 yards (tackle by A.J. Tarpley)",-0.780,-0.040
+4,0:44,1,10,NYJ 18,17,22,Ryan Fitzpatrick left guard for 9 yards (tackle by Corey Graham),0.040,0.820
+4,0:24,2,1,NYJ 27,17,22,Ryan Fitzpatrick pass incomplete deep right intended for Kenbrell Thompkins (defended by Mario Butler),0.820,-0.020
+4,0:17,3,1,NYJ 27,17,22,Ryan Fitzpatrick pass incomplete deep middle intended for Eric Decker is intercepted by A.J. Tarpley at NYJ-43 and returned for 3 yards,-0.020,-2.920
+4,0:11,1,10,NYJ 40,17,22,Tyrod Taylor kneels for -1 yards,2.920,2.240
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

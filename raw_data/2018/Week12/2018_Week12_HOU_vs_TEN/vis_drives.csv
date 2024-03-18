@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,TEN 25,6,3:13,62,Field Goal
+2,1,10:08,TEN 31,2,0:47,69,Touchdown
+3,1,5:21,TEN 25,4,3:30,16,Punt
+4,2,14:53,TEN 25,9,5:17,72,Downs
+5,2,9:22,TEN 24,5,4:06,4,Punt
+6,2,1:48,TEN 20,4,1:03,-11,Punt
+7,3,8:53,TEN 22,8,5:16,30,Punt
+8,3,2:00,TEN 49,3,1:47,51,Touchdown
+9,4,13:44,TEN 18,3,2:05,-6,Punt
+10,4,8:15,TEN 25,3,1:32,2,Punt
+11,4,1:45,TEN 9,6,1:26,64,Fumble

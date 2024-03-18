@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,9:49,ARI 25,1,0:10,75,Touchdown
+2,1,8:21,SFO 43,3,1:00,3,Punt
+3,1,5:31,ARI 39,5,2:31,16,Punt
+4,2,13:18,SFO 18,4,2:18,18,Touchdown
+5,2,9:31,ARI 28,3,1:53,1,Punt
+6,2,5:23,ARI 6,3,1:37,7,Punt
+7,2,0:43,ARI 20,5,0:43,39,End of Half
+8,3,15:00,ARI 25,3,1:57,7,Punt
+9,3,8:46,ARI 46,7,2:27,15,Punt
+10,4,14:52,ARI 35,5,2:15,23,Punt
+11,4,6:51,ARI 25,3,1:01,3,Punt
+12,4,3:48,SFO 26,5,0:27,26,Touchdown
+13,4,1:29,SFO 46,3,1:29,-3,End of Game

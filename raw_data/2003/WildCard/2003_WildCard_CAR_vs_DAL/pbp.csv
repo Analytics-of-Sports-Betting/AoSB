@@ -1,0 +1,174 @@
+Quarter,Time,Down,ToGo,Location,DAL,CAR,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Cowboys won the coin toss, Cowboys to receive the opening kickoff.",,
+1,15:00,,,CAR 30,0,0,"John Kasay kicks off 60 yards, returned by Michael Bates for 20 yards (tackle by Ricky Manning)",0.000,0.940
+1,14:56,1,10,DAL 30,0,0,Quincy Carter pass complete to Jason Witten for 6 yards (tackle by Greg Favors),0.940,1.200
+1,14:23,2,4,DAL 36,0,0,Quincy Carter pass complete to Terry Glenn for 3 yards (tackle by Reggie Howard),1.200,0.890
+1,13:42,3,1,DAL 39,0,0,Quincy Carter pass complete to Jason Witten for 3 yards (tackle by Colin Branch),0.890,1.730
+1,13:12,1,10,DAL 42,0,0,Quincy Carter pass incomplete intended for Jason Witten,1.730,1.190
+1,13:07,2,10,DAL 42,0,0,Quincy Carter pass incomplete intended for Richie Anderson,1.190,0.500
+1,13:01,3,10,DAL 42,0,0,Quincy Carter pass complete to Antonio Bryant for 4 yards (tackle by Dan Morgan),0.500,-0.320
+1,12:38,4,6,DAL 46,0,0,Toby Gowin punts 32 yards,-0.320,-0.410
+1,12:27,1,10,CAR 22,0,0,Stephen Davis right tackle for 4 yards (tackle by Dat Nguyen),0.410,0.410
+1,11:55,2,6,CAR 26,0,0,Stephen Davis left guard for 3 yards (tackle by La'Roi Glover),0.410,0.100
+1,11:14,3,3,CAR 29,0,0,Jake Delhomme pass complete to Steve Smith for 70 yards (tackle by Pete Hunter),0.100,6.970
+1,10:15,1,1,DAL 1,0,0,Stephen Davis right guard for no gain (tackle by Alshermond Singleton and La'Roi Glover),6.970,5.910
+1,9:34,2,1,DAL 1,0,0,Jake Delhomme pass incomplete intended for Muhsin Muhammad,5.910,5.170
+1,9:31,3,1,DAL 1,0,0,Stephen Davis right tackle for no gain (tackle by Randal Williams),5.170,3.550
+1,8:45,4,1,DAL 1,0,3,John Kasay 18 yard field goal good,3.550,3.000
+1,,,,CAR 30,0,3,"John Kasay kicks off 54 yards, returned by Michael Bates for 6 yards (tackle by Vinny Ciurciu)",0.000,0.410
+1,8:36,1,10,DAL 22,0,3,Troy Hambrick left guard for 3 yards (tackle by Dan Morgan and Mike Rucker),0.410,0.270
+1,8:00,2,7,DAL 25,0,3,Quincy Carter pass incomplete intended for Terry Glenn,0.270,-0.430
+1,7:57,3,7,DAL 25,0,3,Quincy Carter pass incomplete intended for Jason Witten (defended by Kris Jenkins),-0.430,-1.700
+1,7:53,4,7,DAL 25,0,3,"Toby Gowin punts 41 yards, returned by Steve Smith for 4 yards (tackle by Jeff Robinson)",-1.700,-1.470
+1,7:42,1,10,CAR 38,0,3,Jake Delhomme pass complete to Ricky Proehl for 7 yards (tackle by Terence Newman),1.470,1.870
+1,7:06,2,3,CAR 45,0,3,Stephen Davis left guard for 6 yards (tackle by Dexter Coakley),1.870,2.320
+1,6:26,1,10,DAL 49,0,3,Jake Delhomme pass complete to Jermaine Wiggins for 6 yards (tackle by Alshermond Singleton),2.320,2.590
+1,5:44,2,4,DAL 43,0,3,Brad Hoover left guard for 1 yard (tackle by Dat Nguyen),2.590,2.020
+1,5:02,3,3,DAL 42,0,3,Stephen Davis right end for -2 yards (tackle by Darren Woodson),2.020,0.330
+1,4:24,4,5,DAL 44,0,3,"Todd Sauerbrun punts 44 yards, touchback",0.330,-0.280
+1,4:14,1,10,DAL 20,0,3,Troy Hambrick right tackle for -2 yards (tackle by Shane Burton),0.280,-0.630
+1,3:36,2,12,DAL 18,0,3,Quincy Carter pass incomplete intended for Terry Glenn (defended by Greg Favors),-0.630,-1.330
+1,3:31,3,12,DAL 18,0,3,Quincy Carter sacked by Reggie Howard for -9 yards,-1.330,-2.490
+1,3:11,4,21,DAL 9,0,3,Toby Gowin punts 32 yards. Penalty on Bradie James: Ineligible Downfield Kick (Declined),-2.490,-2.850
+1,2:59,1,10,DAL 41,0,3,Jake Delhomme pass incomplete intended for Brad Hoover,2.850,2.310
+1,2:55,2,10,DAL 41,0,3,Jake Delhomme pass incomplete intended for Ricky Proehl,2.310,1.620
+1,2:49,3,10,DAL 41,0,3,Jake Delhomme pass complete to Muhsin Muhammad for 14 yards (tackle by Mario Edwards). Penalty on Eric Ogbogu: Defensive Offside (Declined),1.620,3.780
+1,2:30,1,10,DAL 27,0,3,Stephen Davis up the middle for 1 yard (tackle by Randal Williams),3.780,3.370
+1,1:53,2,9,DAL 26,0,3,Jake Delhomme pass complete to Brad Hoover for 6 yards (tackle by Dat Nguyen),3.370,3.470
+1,1:12,3,3,DAL 20,0,3,Jake Delhomme pass incomplete intended for Muhsin Muhammad,3.470,2.220
+1,1:07,4,3,DAL 20,0,6,John Kasay 38 yard field goal good,2.220,3.000
+1,,,,CAR 30,0,6,"John Kasay kicks off 60 yards, returned by Michael Bates for 23 yards (tackle by Ricky Manning)",0.000,1.140
+1,0:57,1,10,DAL 33,0,6,Quincy Carter pass complete to Joey Galloway for 28 yards,1.140,2.980
+1,0:25,1,10,CAR 39,0,6,Quincy Carter pass complete to Troy Hambrick for 3 yards (tackle by Dan Morgan),2.980,2.850
+Quarter,Time,Down,ToGo,Location,DAL,CAR,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,7,CAR 36,0,6,Troy Hambrick left tackle for 16 yards (tackle by Reggie Howard),2.850,4.240
+2,14:17,1,10,CAR 20,0,6,Quincy Carter pass incomplete intended for Joey Galloway (defended by Brentson Buckner),4.240,3.690
+2,14:12,2,10,CAR 20,0,6,"Richie Anderson up the middle for 5 yards (tackle by Will Witherspoon). Richie Anderson fumbles (forced by Will Witherspoon), recovered by Mike Minter at CAR-11 (tackle by Antonio Bryant)",3.690,0.370
+,,,,,,,"DAL challenged the ruling, and the play was upheld.",,
+2,14:04,1,10,CAR 11,0,6,Stephen Davis right end for 23 yards (tackle by Darren Woodson),-0.370,1.200
+2,13:36,1,10,CAR 34,0,6,Stephen Davis left guard for 4 yards (tackle by Dat Nguyen),1.200,1.200
+2,13:02,2,6,CAR 38,0,6,Stephen Davis up the middle for 3 yards (tackle by Eric Ogbogu),1.200,0.890
+2,12:19,3,3,CAR 41,0,6,Jake Delhomme pass incomplete intended for Ricky Proehl (defended by Ebenezer Ekuban),0.890,-0.650
+2,12:14,4,3,CAR 41,0,6,"Todd Sauerbrun punts 38 yards, returned by Joey Galloway for 4 yards (tackle by Karl Hankton)",-0.650,-0.610
+2,12:03,1,10,DAL 25,0,6,Quincy Carter pass complete to Terry Glenn for 6 yards,0.610,0.870
+2,11:26,2,4,DAL 31,0,6,Troy Hambrick up the middle for 2 yards (tackle by Mike Rucker),0.870,0.430
+2,10:49,3,2,DAL 33,0,6,Richie Anderson left end for 1 yard (tackle by Will Witherspoon),0.430,-1.110
+2,10:07,4,1,DAL 34,0,6,Toby Gowin punts 17 yards,-1.110,-2.190
+2,9:59,1,10,CAR 49,0,6,Jake Delhomme pass complete to Kris Mangum for no gain,2.190,1.650
+2,9:21,2,10,CAR 49,0,6,Stephen Davis left guard for 2 yards (tackle by Dat Nguyen and La'Roi Glover),1.650,1.220
+2,8:38,3,8,DAL 49,0,6,"Jake Delhomme pass incomplete intended for Steve Smith. Penalty on Steve Smith: Offensive Pass Interference (Offsetting), Penalty on Mario Edwards: Defensive Pass Interference (Offsetting) (no play)",1.220,1.220
+2,8:31,3,8,DAL 49,0,6,Jake Delhomme pass complete to Steve Smith for 15 yards (tackle by Terence Newman),1.220,3.310
+2,7:51,1,10,DAL 34,0,6,Jake Delhomme pass incomplete intended for Stephen Davis,3.310,2.770
+2,7:47,2,10,DAL 34,0,6,Jake Delhomme pass complete to Steve Smith for 11 yards (tackle by Terence Newman),2.770,4.040
+2,7:04,1,10,DAL 23,0,6,Stephen Davis left end for no gain (tackle by Mario Edwards),4.040,3.500
+2,6:22,2,10,DAL 23,0,6,Jake Delhomme pass incomplete intended for Stephen Davis,3.500,2.810
+2,6:17,,,,0,6,Timeout #1 by Carolina Panthers,0.000,2.810
+2,6:17,3,10,DAL 23,0,12,"Stephen Davis left guard for 23 yards, touchdown",2.810,7.000
+2,,,,DAL 2,0,13,John Kasay kicks extra point good,0.000,0.000
+2,,,,CAR 30,0,13,"John Kasay kicks off 68 yards, returned by Michael Bates for 20 yards (tackle by Vinny Ciurciu)",0.000,0.410
+2,6:03,1,10,DAL 22,0,13,Troy Hambrick left guard for 1 yard (tackle by Kris Jenkins),0.410,0.000
+2,5:24,2,9,DAL 23,0,13,Troy Hambrick right guard for 5 yards (tackle by Reggie Howard),0.000,-0.030
+2,4:44,3,4,DAL 28,0,13,Quincy Carter pass complete to Joey Galloway for 18 yards (tackle by Deon Grant),-0.030,1.990
+2,4:00,1,10,DAL 46,0,13,Quincy Carter pass complete to Terry Glenn for 21 yards,1.990,3.380
+2,3:30,1,10,CAR 33,0,13,Quincy Carter pass incomplete intended for Jason Witten,3.380,2.840
+2,3:27,2,10,CAR 33,0,13,Quincy Carter pass complete to Richie Anderson for 12 yards (tackle by Julius Peppers),2.840,4.170
+2,2:47,1,10,CAR 21,0,13,Troy Hambrick left end for 2 yards (tackle by Dan Morgan and Shane Burton),4.170,3.900
+2,2:10,2,8,CAR 19,0,13,Quincy Carter sacked by Kris Jenkins for -4 yards,3.900,2.680
+2,2:00,3,12,CAR 23,0,13,Quincy Carter left tackle for 4 yards (tackle by Will Witherspoon),2.680,2.180
+2,1:17,4,8,CAR 19,3,13,Billy Cundiff 37 yard field goal good,2.180,3.000
+2,,,,DAL 30,3,13,"Toby Gowin kicks off 64 yards, returned by Rod Smart for 22 yards (tackle by Erik Bickerstaff)",0.000,0.810
+2,1:03,1,10,CAR 28,3,13,(tackle by Dat Nguyen),0.810,1.070
+2,0:37,2,4,CAR 34,3,13,Stephen Davis up the middle for 7 yards (tackle by Dexter Coakley),1.070,1.660
+2,0:29,,,,3,13,Timeout #2 by Carolina Panthers,0.000,1.660
+2,0:29,1,10,CAR 41,3,13,"Jake Delhomme pass complete to Muhsin Muhammad for 57 yards (tackle by Randal Williams). Muhsin Muhammad fumbles (forced by Randal Williams), recovered by Muhsin Muhammad at DAL-2",1.660,6.740
+2,0:14,,,,3,13,Timeout #3 by Carolina Panthers,0.000,6.740
+2,0:14,1,2,DAL 2,3,13,Jake Delhomme pass incomplete intended for Steve Smith,6.740,5.720
+2,0:11,2,2,DAL 2,3,13,"Jake Delhomme pass incomplete intended for Muhsin Muhammad. Penalty on Terence Newman: Defensive Pass Interference, 1 yards (no play)",5.720,6.970
+2,0:07,1,1,DAL 1,3,13,Jake Delhomme pass incomplete intended for Muhsin Muhammad (defended by Greg Ellis),6.970,5.910
+2,0:04,2,1,DAL 1,3,16,John Kasay 19 yard field goal good,5.910,3.000
+2,,,,CAR 30,3,16,"John Kasay kicks off 32 yards, returned by Tyson Walter for 7 yards (tackle by Jarrod Cooper)",0.000,0.940
+Quarter,Time,Down,ToGo,Location,DAL,CAR,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DAL 30,3,16,"Toby Gowin kicks off 65 yards, returned by Rod Smart for 26 yards (tackle by Tony Dixon)",0.000,1.000
+3,14:52,1,10,CAR 31,3,16,Stephen Davis left tackle for no gain (tackle by La'Roi Glover),1.000,0.460
+3,14:19,2,10,CAR 31,3,16,Stephen Davis right tackle for -1 yards (tackle by Ebenezer Ekuban),0.460,-0.360
+3,13:35,3,11,CAR 30,3,16,Jake Delhomme pass complete to Stephen Davis for 2 yards (tackle by Terence Newman),-0.360,-1.240
+3,13:02,4,9,CAR 32,3,16,"Todd Sauerbrun punts 46 yards, returned by Joey Galloway for 2 yards (tackle by Jason Kyle)",-1.240,-0.540
+3,12:48,1,10,DAL 24,3,16,Quincy Carter pass complete to Richie Anderson for -8 yards (tackle by Mike Rucker),0.540,-1.220
+3,12:07,2,18,DAL 16,3,16,Richie Anderson left guard for 3 yards (tackle by Dan Morgan),-1.220,-1.430
+3,11:32,3,15,DAL 19,3,16,Quincy Carter pass incomplete intended for Joey Galloway (defended by Ricky Manning),-1.430,-2.140
+3,11:25,4,15,DAL 19,3,16,"Toby Gowin punts 51 yards, returned by Steve Smith for 7 yards (tackle by Lynn Scott)",-2.140,-1.400
+3,11:12,1,10,CAR 37,3,16,Jake Delhomme pass complete to Muhsin Muhammad for 24 yards (tackle by Randal Williams),1.400,2.980
+3,10:30,1,10,DAL 39,3,16,Jake Delhomme pass incomplete intended for Steve Smith (defended by Darren Woodson),2.980,2.440
+3,10:25,2,10,DAL 39,3,16,Jake Delhomme pass complete to Steve Smith for 7 yards (tackle by Mario Edwards),2.440,2.680
+3,9:51,3,3,DAL 32,3,22,"Jake Delhomme pass complete to Steve Smith for 32 yards, touchdown",2.680,7.000
+3,,,,DAL 2,3,23,John Kasay kicks extra point good,0.000,0.000
+3,,,,CAR 30,3,23,"John Kasay kicks off 61 yards, returned by Michael Bates for 37 yards (tackle by Karl Hankton)",0.000,1.990
+3,9:36,1,10,DAL 46,3,23,Quincy Carter pass incomplete intended for Troy Hambrick,1.990,1.450
+3,9:31,2,10,DAL 46,3,23,Richie Anderson left tackle for 4 yards (tackle by Mike Rucker and Dan Morgan),1.450,1.290
+3,8:54,3,6,CAR 50,3,23,Quincy Carter pass incomplete intended for Terry Glenn,1.290,-0.060
+3,8:46,4,6,CAR 50,3,23,"Toby Gowin punts 35 yards, fair catch by Steve Smith",-0.060,0.220
+3,8:38,1,10,CAR 15,3,23,Stephen Davis right tackle for no gain (tackle by Dexter Coakley),-0.220,-0.710
+3,7:58,2,10,CAR 15,3,23,Stephen Davis left guard for 7 yards (tackle by Dexter Coakley),-0.710,-0.510
+3,7:15,3,3,CAR 22,3,23,Stephen Davis left end for 3 yards (tackle by Alshermond Singleton),-0.510,0.610
+3,6:47,1,10,CAR 25,3,23,DeShaun Foster right end for no gain (tackle by Greg Ellis),0.610,0.060
+3,6:05,2,10,CAR 25,3,23,DeShaun Foster right tackle for -1 yards (tackle by Greg Ellis),0.060,-0.760
+3,5:20,3,11,CAR 24,3,23,DeShaun Foster left guard for -4 yards (tackle by Eric Ogbogu),-0.760,-2.030
+3,4:49,4,15,CAR 20,3,23,"Todd Sauerbrun punts 59 yards, returned by Joey Galloway for 6 yards (tackle by Karl Hankton)",-2.030,-0.740
+3,4:35,1,10,DAL 27,3,23,"Quincy Carter pass incomplete intended for Jason Witten (defended by Greg Favors). Penalty on Antonio Bryant: Offensive Pass Interference, 10 yards (no play)",0.740,-0.170
+3,4:30,1,20,DAL 17,3,23,Richie Anderson left tackle for 1 yard (tackle by Kris Jenkins),-0.170,-1.120
+3,3:52,2,19,DAL 18,3,23,Quincy Carter pass incomplete intended for Richie Anderson,-1.120,-1.880
+3,3:47,3,19,DAL 18,3,23,Quincy Carter pass incomplete intended for Joey Galloway (defended by Ricky Manning),-1.880,-2.240
+3,3:41,4,19,DAL 18,3,23,"Toby Gowin punts 44 yards, returned by Steve Smith for 2 yards (tackle by Keith O'Neil)",-2.240,-1.600
+3,3:28,1,10,CAR 40,3,23,Jake Delhomme pass complete to Brad Hoover for 7 yards (tackle by Randal Williams),1.600,2.000
+3,2:45,2,3,CAR 47,3,23,Stephen Davis left end for 11 yards (tackle by Dat Nguyen),2.000,2.790
+3,2:00,1,10,DAL 42,3,23,Stephen Davis right end for 5 yards (tackle by Terence Newman),2.790,2.920
+3,1:17,2,5,DAL 37,3,23,Jake Delhomme pass complete to Muhsin Muhammad for 8 yards (tackle by Mario Edwards),2.920,3.640
+3,0:33,1,10,DAL 29,3,23,DeShaun Foster up the middle for 3 yards (tackle by La'Roi Glover),3.640,3.510
+Quarter,Time,Down,ToGo,Location,DAL,CAR,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,7,DAL 26,3,23,Jake Delhomme pass complete to DeShaun Foster for 12 yards (tackle by Dexter Coakley),3.510,4.650
+4,14:20,1,10,DAL 14,3,23,Stephen Davis right guard for no gain (tackle by Jermaine Brooks),4.650,4.000
+4,13:40,2,10,DAL 14,3,23,Jake Delhomme pass complete to DeShaun Foster for no gain,4.000,3.110
+4,12:54,3,10,DAL 14,3,23,Jake Delhomme pass incomplete intended for Nick Goings,3.110,2.510
+4,12:50,4,10,DAL 14,3,26,John Kasay 32 yard field goal good,2.510,3.000
+4,,,,CAR 30,3,26,"John Kasay kicks off 58 yards, returned by Michael Bates for 41 yards (tackle by John Kasay)",0.000,2.460
+4,12:37,1,10,CAR 47,3,26,Quincy Carter pass complete to Joey Galloway for 4 yards (tackle by Ricky Manning),2.460,2.450
+4,11:55,2,6,CAR 43,3,26,Quincy Carter pass complete to Richie Anderson for 4 yards (tackle by Greg Favors),2.450,2.280
+4,11:17,3,2,CAR 39,3,26,Richie Anderson left guard for 4 yards (tackle by Greg Favors and Reggie Howard),2.280,3.250
+4,10:43,1,10,CAR 35,3,26,Quincy Carter pass complete to Jason Witten for 9 yards (tackle by Will Witherspoon),3.250,3.920
+4,10:06,2,1,CAR 26,3,26,Quincy Carter pass complete to Terry Glenn for 8 yards,3.920,4.370
+4,9:42,1,10,CAR 18,3,26,Quincy Carter pass complete to Richie Anderson for 4 yards (tackle by Will Witherspoon),4.370,4.430
+4,9:02,2,6,CAR 14,3,26,Quincy Carter pass complete to Richie Anderson for 3 yards (tackle by Terry Cousin),4.430,4.260
+4,8:24,3,3,CAR 11,3,26,Troy Hambrick right guard for 2 yards (tackle by Mike Minter and Al Wallace),4.260,2.980
+4,7:42,,,,3,26,Timeout #1 by Dallas Cowboys,0.000,2.980
+4,7:42,4,1,CAR 9,9,26,"Quincy Carter right end for 9 yards, touchdown",2.980,7.000
+4,,,,CAR 2,10,26,Billy Cundiff kicks extra point good,0.000,0.000
+4,,,,DAL 30,10,26,"Toby Gowin kicks off 65 yards, returned by Steve Smith for 11 yards (tackle by Tony Dixon)",0.000,-0.140
+4,7:32,1,10,CAR 16,10,26,Stephen Davis right end for no gain (tackle by Willie Blade),-0.140,-0.660
+4,6:48,2,10,CAR 16,10,26,Stephen Davis up the middle for 4 yards (tackle by Eric Ogbogu),-0.660,-0.820
+4,6:02,3,6,CAR 20,10,26,Stephen Davis right guard for 1 yard (tackle by Greg Ellis),-0.820,-1.960
+4,5:55,,,,10,26,Timeout #2 by Dallas Cowboys,0.000,-1.960
+4,5:55,4,5,CAR 21,10,26,"Todd Sauerbrun punts 55 yards, returned by Joey Galloway for 10 yards (tackle by Kris Mangum)",-1.960,-1.200
+4,5:43,1,10,DAL 34,10,26,Quincy Carter pass complete to Joey Galloway for 9 yards (tackle by Ricky Manning),1.200,1.870
+4,5:10,2,1,DAL 43,10,26,Quincy Carter pass incomplete intended for Richie Anderson is intercepted by Julius Peppers at DAL-45 and returned for 34 yards (tackle by Quincy Carter),1.870,-4.840
+4,4:59,1,10,DAL 11,10,26,Stephen Davis right guard for no gain (tackle by Darren Woodson),4.840,4.140
+4,4:15,2,10,DAL 11,10,26,Jake Delhomme sacked by Greg Ellis for 0 yards,4.140,3.130
+4,3:26,,,,10,26,Timeout #1 by Carolina Panthers,0.000,3.130
+4,3:26,3,10,DAL 11,10,26,Jake Delhomme pass complete to Jermaine Wiggins for -5 yards (tackle by Dexter Coakley),3.130,2.380
+4,3:17,,,,10,26,Timeout #3 by Dallas Cowboys,0.000,2.380
+4,3:17,4,15,DAL 16,10,29,John Kasay 34 yard field goal good,2.380,3.000
+4,,,,CAR 30,10,29,"John Kasay kicks off 69 yards, returned by Michael Bates for 25 yards (tackle by Kemp Rasmussen)",0.000,0.670
+4,3:04,1,10,DAL 26,10,29,Quincy Carter pass incomplete intended for Joey Galloway (defended by Mike Minter),0.670,0.130
+4,2:58,2,10,DAL 26,10,29,Quincy Carter pass complete to Richie Anderson for 5 yards (tackle by Terry Cousin),0.130,0.100
+4,2:35,3,5,DAL 31,10,29,Quincy Carter right guard for 3 yards (tackle by Brentson Buckner),0.100,-1.110
+4,2:11,4,2,DAL 34,10,29,Quincy Carter pass complete to Jason Witten for 12 yards (tackle by Will Witherspoon),-1.110,1.990
+4,2:04,1,10,DAL 46,10,29,Quincy Carter pass complete to Richie Anderson for no gain,1.990,1.450
+4,1:57,2,10,DAL 46,10,29,Quincy Carter right guard for 9 yards (tackle by Will Witherspoon),1.450,1.950
+4,1:35,3,1,CAR 45,10,29,Quincy Carter sacked by Al Wallace for -9 yards,1.950,-0.320
+4,1:09,4,10,DAL 46,10,29,Quincy Carter pass incomplete intended for Jason Witten,-0.320,-2.520
+4,1:04,1,10,DAL 46,10,29,Jake Delhomme kneels for -1 yards,2.520,1.840
+4,0:29,2,11,DAL 47,10,29,Jake Delhomme kneels for -1 yards,1.840,1.030
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

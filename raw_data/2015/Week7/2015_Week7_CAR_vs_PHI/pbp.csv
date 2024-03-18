@@ -1,0 +1,200 @@
+Quarter,Time,Down,ToGo,Location,PHI,CAR,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Panthers won the coin toss and deferred, Eagles to receive the opening kickoff.",,
+1,15:00,,,CAR 35,0,0,"Graham Gano kicks off 65 yards, touchback",0.000,-0.280
+1,15:00,1,10,PHI 20,0,0,Sam Bradford pass complete short left to DeMarco Murray for 2 yards (tackle by Jared Allen),0.280,0.000
+1,14:30,2,8,PHI 22,0,0,DeMarco Murray middle for 7 yards (tackle by Luke Kuechly and Jared Allen),0.000,0.230
+1,13:59,3,1,PHI 29,0,0,DeMarco Murray middle for 11 yards (tackle by Kurt Coleman),0.230,1.600
+1,13:29,1,10,PHI 40,0,0,Sam Bradford pass incomplete short left intended for DeMarco Murray,1.600,1.050
+1,13:25,2,10,PHI 40,0,0,Darren Sproles right end for 4 yards (tackle by Kony Ealy),1.050,0.890
+1,12:48,3,6,PHI 44,0,0,"Penalty on Lane Johnson: False Start, 5 yards (no play)",0.890,0.230
+1,12:38,3,11,PHI 39,0,0,Sam Bradford sacked by Mario Addison for -5 yards,0.230,-1.110
+1,12:08,4,16,PHI 34,0,0,"Donnie Jones punts 53 yards, fair catch by Ted Ginn. Penalty on Najee Goode: Unnecessary Roughness, 15 yards",-1.110,-0.810
+1,12:00,1,10,CAR 28,0,0,Jonathan Stewart right guard for 9 yards (tackle by Cedric Thornton and Bennie Logan),0.810,1.480
+1,10:47,2,1,CAR 37,0,0,Jonathan Stewart left guard for 36 yards (tackle by Nolan Carroll and Walter Thurmond),1.480,3.780
+1,10:12,1,10,PHI 27,0,0,Cam Newton pass complete deep left to Corey Brown for 25 yards (tackle by Nolan Carroll),3.780,6.740
+1,9:28,1,2,PHI 2,0,6,"Mike Tolbert middle for 2 yards, touchdown",6.740,7.000
+1,9:28,,,PHI 2,0,7,Graham Gano kicks extra point good,0.000,0.000
+1,9:28,,,CAR 35,0,7,"Graham Gano kicks off 65 yards, touchback",0.000,-0.280
+1,9:24,1,10,PHI 20,0,7,Sam Bradford pass incomplete short middle intended for Jordan Matthews is intercepted by Colin Jones at PHI-21,0.280,-4.170
+1,9:15,1,10,PHI 21,0,7,Cam Newton pass incomplete deep left intended for Ted Ginn is intercepted by Nolan Carroll at PHI-5 and returned for 1 yard,4.170,0.380
+1,8:59,1,10,PHI 6,0,7,DeMarco Murray middle for 4 yards (tackle by Roman Harper),-0.380,-0.490
+1,8:19,2,6,PHI 10,0,7,Sam Bradford pass complete short left to Jordan Matthews for 4 yards (tackle by Thomas Davis),-0.490,-0.480
+1,7:47,3,2,PHI 14,0,7,Sam Bradford pass complete short middle to Miles Austin for 22 yards (tackle by Kurt Coleman),-0.480,1.330
+1,7:13,1,10,PHI 36,0,7,DeMarco Murray right end for 1 yard (tackle by Thomas Davis),1.330,0.930
+1,6:37,2,9,PHI 37,0,7,Sam Bradford pass complete short left to Ryan Mathews for 20 yards (tackle by Bene Benwikere),0.930,2.720
+1,6:15,1,10,CAR 43,0,7,Ryan Mathews left end for 1 yard (tackle by Luke Kuechly and Roman Harper),2.720,2.310
+1,5:37,2,9,CAR 42,0,7,Sam Bradford sacked by Kawann Short for -7 yards,2.310,0.700
+1,5:09,3,16,CAR 49,0,7,Sam Bradford pass incomplete short middle intended for DeMarco Murray,0.700,0.000
+1,5:04,4,16,CAR 49,0,7,"Donnie Jones punts 38 yards, fair catch by Ted Ginn",0.000,0.370
+1,4:56,1,10,CAR 11,0,7,Jonathan Stewart right end for 1 yard (tackle by Malcolm Jenkins and Cedric Thornton),-0.370,-0.710
+1,4:16,2,9,CAR 12,0,7,Cam Newton pass complete short left to Ted Ginn for 7 yards (tackle by Nolan Carroll),-0.710,-0.480
+1,3:36,3,2,CAR 19,0,7,Cam Newton left end for 3 yards (tackle by Mychal Kendricks),-0.480,0.410
+1,2:57,1,10,CAR 22,0,7,Cam Newton pass complete short right to Greg Olsen for 28 yards (tackle by Byron Maxwell),0.410,2.260
+1,2:16,1,10,,0,7,Jonathan Stewart left tackle for 3 yards (tackle by Nolan Carroll and Taylor Hart),2.260,2.120
+1,1:37,2,7,PHI 47,0,7,Cam Newton sacked by Mychal Kendricks for -7 yards,2.120,0.500
+1,0:55,3,14,CAR 46,0,7,Cam Newton pass incomplete short right intended for Ted Ginn,0.500,-0.320
+1,0:48,4,14,CAR 46,0,7,"Brad Nortman punts 45 yards, returned by Darren Sproles for 2 yards (tackle by Colin Jones)",-0.320,0.370
+1,0:37,1,10,PHI 11,0,7,DeMarco Murray left guard for 6 yards (tackle by Josh Norman),-0.370,-0.160
+1,0:14,2,4,PHI 17,0,7,Sam Bradford pass complete short left to Zach Ertz for 7 yards (tackle by Thomas Davis and Charles Tillman),-0.160,0.540
+Quarter,Time,Down,ToGo,Location,PHI,CAR,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,PHI 24,0,7,Darren Sproles middle for 6 yards (tackle by Luke Kuechly),0.540,0.810
+2,14:34,2,4,PHI 30,0,7,Sam Bradford pass incomplete short right intended for Darren Sproles,0.810,0.810
+2,14:22,2,4,PHI 30,0,7,Timeout #1 by Philadelphia Eagles,0.810,0.100
+2,14:22,3,4,PHI 30,0,7,Sam Bradford pass complete short left to Darren Sproles for 7 yards (tackle by Thomas Davis),0.100,1.400
+2,13:51,1,10,PHI 37,0,7,Darren Sproles middle for -1 yards (tackle by Kawann Short),1.400,0.720
+2,13:18,2,11,PHI 36,0,7,Sam Bradford pass complete short left to Miles Austin for 8 yards (tackle by Bene Benwikere),0.720,1.090
+2,12:51,3,3,PHI 44,0,7,Sam Bradford middle for 2 yards (tackle by Thomas Davis),1.090,1.090
+2,12:28,3,3,PHI 44,0,7,Timeout #1 by Carolina Panthers,1.090,-0.320
+2,12:28,4,1,PHI 46,0,7,Sam Bradford right end for 2 yards (tackle by Roman Harper and Mario Addison),-0.320,2.130
+2,11:53,1,10,PHI 48,0,7,Sam Bradford pass complete short right to DeMarco Murray for 3 yards (tackle by Josh Norman),2.130,1.990
+2,11:15,2,7,CAR 49,0,7,"DeMarco Murray left tackle for 2 yards (tackle by Charles Tillman and Roman Harper). Penalty on Jason Kelce: Offensive Holding, 10 yards",1.990,0.910
+2,10:55,2,15,PHI 43,0,7,Ryan Mathews middle for 6 yards (tackle by Jared Allen and Charles Tillman),0.910,1.020
+2,10:26,3,9,PHI 49,0,7,Sam Bradford pass incomplete short right intended for Jordan Matthews,1.020,-0.130
+2,10:20,4,9,PHI 49,0,7,"Donnie Jones punts 41 yards, fair catch by Ted Ginn",-0.130,0.380
+2,10:13,1,10,CAR 10,0,7,Jonathan Stewart middle for 7 yards (tackle by Cedric Thornton and Taylor Hart),-0.380,-0.090
+2,9:47,2,3,CAR 17,0,7,Jonathan Stewart left end for 10 yards (tackle by Brandon Graham),-0.090,0.740
+2,9:17,1,10,CAR 27,0,7,Jonathan Stewart right tackle for 3 yards (tackle by Jordan Hicks),0.740,0.600
+2,8:38,2,7,CAR 30,0,7,Cam Newton pass incomplete short right intended for Greg Olsen (defended by Byron Maxwell),0.600,-0.100
+2,8:32,3,7,CAR 30,0,7,Cam Newton pass complete short right to Ted Ginn for 5 yards,-0.100,-1.040
+2,8:16,4,2,CAR 35,0,7,"Brad Nortman punts 36 yards, out of bounds",-1.040,-0.870
+2,8:08,1,10,PHI 29,0,7,Sam Bradford pass incomplete short right intended for Brent Celek (defended by Josh Norman),0.870,0.330
+2,8:04,2,10,PHI 29,0,7,Ryan Mathews middle for 4 yards (tackle by Kony Ealy and Star Lotulelei),0.330,0.170
+2,7:38,3,6,PHI 33,0,7,Sam Bradford pass complete short middle to Zach Ertz for 10 yards (tackle by Kurt Coleman),0.170,1.800
+2,7:07,1,10,PHI 43,0,7,"Penalty on Lane Johnson: False Start, 5 yards (no play)",1.800,1.470
+2,6:55,1,15,PHI 38,0,7,Ryan Mathews left end for 22 yards (tackle by Luke Kuechly),1.470,2.920
+2,6:28,1,10,CAR 40,0,7,Sam Bradford pass incomplete short right intended for Josh Huff,2.920,2.370
+2,6:20,2,10,CAR 40,0,7,Sam Bradford pass complete short right to Josh Huff for 6 yards (tackle by Tre Boston),2.370,2.480
+2,5:53,3,4,CAR 34,0,7,Sam Bradford pass incomplete short middle intended for Josh Huff,2.480,2.480
+2,5:47,3,4,CAR 34,0,7,Timeout #2 by Carolina Panthers,2.480,1.080
+2,5:47,4,4,CAR 34,3,7,Caleb Sturgis 52 yard field goal good,1.080,3.000
+2,5:47,,,PHI 35,3,7,"Caleb Sturgis kicks off 62 yards, out of bounds",0.000,-1.600
+2,5:42,1,10,CAR 40,3,7,Cam Newton pass complete short middle to Greg Olsen for 9 yards (tackle by Jordan Hicks),1.600,2.270
+2,5:03,2,1,CAR 49,3,7,Ted Ginn left end for 43 yards (tackle by Walter Thurmond),2.270,2.270
+2,4:31,2,1,CAR 49,3,7,Timeout #3 by Carolina Panthers,2.270,5.370
+2,4:26,1,8,PHI 8,3,7,Jonathan Stewart right end for no gain (tackle by Byron Maxwell and Taylor Hart),5.370,4.570
+2,3:59,2,8,PHI 8,3,7,"Penalty on Bennie Logan: Encroachment, 4 yards (no play)",4.570,5.340
+2,3:46,2,4,PHI 4,3,7,"Penalty on Bennie Logan: Encroachment, 2 yards (no play)",5.340,5.720
+2,3:39,2,2,PHI 2,3,13,"Cam Newton left end for 2 yards, touchdown",5.720,7.000
+2,3:39,,,PHI 2,3,14,Graham Gano kicks extra point good,0.000,0.000
+2,3:39,,,CAR 35,3,14,"Graham Gano kicks off 65 yards, touchback",0.000,-0.280
+2,3:33,1,10,PHI 20,3,14,DeMarco Murray middle for 2 yards (tackle by Kawann Short and Kony Ealy),0.280,0.000
+2,3:04,2,8,PHI 22,3,14,DeMarco Murray middle for 2 yards (tackle by Kawann Short),0.000,-0.430
+2,2:29,3,6,PHI 24,3,14,Sam Bradford pass complete short right to Darren Sproles for -1 yards (tackle by Thomas Davis),-0.430,-1.830
+2,1:59,4,7,PHI 23,3,14,"Donnie Jones punts 47 yards, out of bounds",-1.830,-0.940
+2,1:50,1,10,CAR 30,3,14,Cam Newton pass complete short left to Ted Ginn for 12 yards (tackle by Nolan Carroll),0.940,1.730
+2,1:29,1,10,CAR 42,3,14,"Cam Newton pass complete short right to Corey Brown for 14 yards (tackle by Byron Maxwell). Penalty on Corey Brown: Illegal Touch Pass, 5 yards (no play)",1.730,1.400
+2,1:19,1,15,CAR 37,3,14,Cam Newton pass incomplete deep right intended for Greg Olsen,1.400,0.510
+2,1:13,2,15,CAR 37,3,14,Cam Newton pass incomplete short right intended for Fozzy Whittaker is intercepted by Malcolm Jenkins at CAR-39,0.510,-2.980
+2,1:05,1,10,CAR 39,3,14,Sam Bradford pass complete short right to Jordan Matthews for 3 yards (tackle by Thomas Davis),2.980,2.850
+2,0:45,2,7,CAR 36,3,14,"Sam Bradford pass incomplete deep right intended for Jordan Matthews. Penalty on Bene Benwikere: Defensive Pass Interference, 13 yards (no play)",2.850,4.040
+2,0:42,1,10,CAR 23,3,14,Sam Bradford pass incomplete short right intended for Jordan Matthews (defended by Kawann Short),4.040,3.500
+2,0:36,2,10,CAR 23,3,14,Sam Bradford pass complete short right to Zach Ertz for 12 yards (tackle by Roman Harper),3.500,3.500
+2,0:28,2,10,CAR 23,3,14,Timeout #2 by Philadelphia Eagles,3.500,4.840
+2,0:28,1,10,CAR 11,3,14,Sam Bradford pass incomplete short right intended for Darren Sproles,4.840,4.140
+2,0:22,2,10,CAR 11,3,14,Sam Bradford pass incomplete short left intended for Jordan Matthews,4.140,3.130
+2,0:14,3,10,CAR 11,3,14,Sam Bradford pass incomplete short right intended for Zach Ertz (defended by Josh Norman),3.130,2.700
+2,0:08,4,10,CAR 11,6,14,Caleb Sturgis 29 yard field goal good,2.700,3.000
+2,0:08,,,PHI 35,6,14,Caleb Sturgis kicks off 36 yards,0.000,-0.870
+2,0:00,1,10,CAR 29,6,14,Cam Newton kneels for -1 yards,0.870,0.190
+Quarter,Time,Down,ToGo,Location,PHI,CAR,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PHI 35,6,14,"Caleb Sturgis kicks off 65 yards, touchback",0.000,0.280
+3,15:00,1,10,CAR 20,6,14,Cam Newton pass complete short left to Ted Ginn for 15 yards (tackle by Jordan Hicks),0.280,1.270
+3,14:32,1,10,CAR 35,6,14,Jonathan Stewart right end for -1 yards (tackle by Cedric Thornton),1.270,0.590
+3,14:04,2,11,CAR 34,6,14,Cam Newton pass complete short right to Jerricho Cotchery for 13 yards (tackle by Jordan Hicks),0.590,2.060
+3,13:25,1,10,CAR 47,6,14,Cam Newton pass complete short left to Ted Ginn for 20 yards (tackle by Nolan Carroll),2.060,3.380
+3,12:55,1,10,PHI 33,6,14,Cam Newton pass complete short left to Greg Olsen for 28 yards (tackle by Nolan Carroll),3.380,6.060
+3,12:39,1,5,PHI 5,6,14,Mike Tolbert middle for 3 yards (tackle by Mychal Kendricks),6.060,5.720
+3,11:58,2,2,PHI 2,6,20,"Cam Newton pass complete short right to Mike Tolbert for 2 yards, touchdown",5.720,7.000
+3,11:58,,,PHI 2,6,21,Graham Gano kicks extra point good,0.000,0.000
+3,11:58,,,CAR 35,6,21,"Graham Gano kicks off 65 yards, touchback",0.000,-0.280
+3,11:50,1,10,PHI 20,6,21,Sam Bradford left tackle for 2 yards (tackle by Star Lotulelei),0.280,0.000
+3,11:24,2,8,PHI 22,6,21,DeMarco Murray middle for 2 yards (tackle by Jared Allen and Kony Ealy),0.000,-0.430
+3,10:55,3,6,PHI 24,6,21,Sam Bradford pass complete short left to Zach Ertz for 10 yards (tackle by Luke Kuechly),-0.430,1.200
+3,10:19,1,10,PHI 34,6,21,DeMarco Murray left guard for 3 yards (tackle by Thomas Davis and Charles Tillman),1.200,1.060
+3,9:43,2,7,PHI 37,12,21,"Ryan Mathews middle for 63 yards, touchdown",1.060,7.000
+3,9:43,,,CAR 37,13,21,Caleb Sturgis kicks extra point good,0.000,0.000
+3,9:43,,,PHI 35,13,21,"Caleb Sturgis kicks off 65 yards, touchback",0.000,-0.280
+3,9:32,1,10,CAR 20,13,21,Cam Newton pass incomplete short right intended for Jonathan Stewart,0.280,-0.270
+3,9:27,2,10,CAR 20,13,21,Jonathan Stewart middle for 5 yards (tackle by Fletcher Cox),-0.270,-0.300
+3,8:52,3,5,CAR 25,13,21,Cam Newton pass incomplete short middle intended for Devin Funchess is intercepted by Byron Maxwell at CAR-40 and returned for 22 yards,-0.300,-4.370
+3,8:40,1,10,CAR 18,13,21,DeMarco Murray middle for no gain (tackle by Thomas Davis),4.370,3.800
+3,8:17,2,10,CAR 18,13,21,Sam Bradford pass complete short left to Brent Celek for 6 yards (tackle by Thomas Davis),3.800,4.030
+3,7:44,3,4,CAR 12,13,21,Sam Bradford pass complete short left to Brent Celek for 5 yards (tackle by Bene Benwikere),4.030,5.600
+3,7:20,1,7,CAR 7,13,21,DeMarco Murray middle for no gain (tackle by Star Lotulelei and Kawann Short),5.600,4.760
+3,6:41,2,7,CAR 7,13,21,DeMarco Murray left end for 1 yard (tackle by Luke Kuechly),4.760,4.040
+3,5:57,3,6,CAR 6,13,21,Sam Bradford pass incomplete short middle intended for Josh Huff,4.040,2.990
+3,5:51,4,6,CAR 6,16,21,Caleb Sturgis 24 yard field goal good,2.990,3.000
+3,5:51,,,PHI 35,16,21,"Caleb Sturgis kicks off 67 yards, returned by Fozzy Whittaker for 27 yards (tackle by Jerome Couplin)",0.000,-0.610
+3,5:42,1,10,CAR 25,16,21,Jonathan Stewart middle for 9 yards (tackle by Brandon Graham),0.610,1.280
+3,5:09,2,1,CAR 34,16,21,Jonathan Stewart middle for 2 yards (tackle by Mychal Kendricks and Brandon Graham),1.280,1.330
+3,5:09,1,10,CAR 36,16,21,"Penalty on Mike Remmers: False Start, 5 yards (no play)",1.330,1.000
+3,4:14,1,15,CAR 31,16,21,Mike Tolbert left end for 11 yards (tackle by Fletcher Cox),1.000,1.600
+3,3:37,2,4,CAR 42,16,21,Jonathan Stewart middle for 6 yards (tackle by Brandon Graham and Taylor Hart),1.600,2.130
+3,3:02,1,10,CAR 48,16,21,Jonathan Stewart right guard for 3 yards (tackle by Mychal Kendricks and Cedric Thornton),2.130,1.990
+3,2:25,2,7,PHI 49,16,21,Jonathan Stewart right guard for 3 yards (tackle by Jordan Hicks),1.990,1.680
+3,1:48,3,4,PHI 46,16,21,Cam Newton pass incomplete short right intended for Ted Ginn. Penalty on Ed Dickson: Offensive Holding (Declined),1.680,0.200
+3,1:39,4,4,PHI 46,16,21,"Brad Nortman punts 36 yards, fair catch by Darren Sproles",0.200,0.380
+3,1:30,1,10,PHI 10,16,21,Sam Bradford pass complete short left to Miles Austin for 11 yards (tackle by Kurt Coleman),-0.380,0.340
+3,1:05,1,10,PHI 21,16,21,Sam Bradford pass complete short left to Ryan Mathews for no gain,0.340,-0.200
+3,0:35,2,10,PHI 21,16,21,Sam Bradford pass complete deep left to Zach Ertz for 24 yards (tackle by Roman Harper),-0.200,1.930
+3,0:01,1,10,PHI 45,16,21,Sam Bradford pass incomplete short right intended for Darren Sproles,1.930,1.380
+Quarter,Time,Down,ToGo,Location,PHI,CAR,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,10,PHI 45,16,21,Ryan Mathews left end for 1 yard (tackle by Thomas Davis),1.380,0.830
+4,14:26,3,9,PHI 46,16,21,Sam Bradford pass complete short middle to Miles Austin for 11 yards (tackle by Kurt Coleman),0.830,2.720
+4,13:48,1,10,CAR 43,16,21,DeMarco Murray left guard for 3 yards (tackle by Bene Benwikere and Star Lotulelei),2.720,2.580
+4,13:11,2,7,CAR 40,16,21,DeMarco Murray middle for 8 yards (tackle by Roman Harper),2.580,3.450
+4,12:46,1,10,CAR 32,16,21,DeMarco Murray right end for 1 yard (tackle by Luke Kuechly and Josh Norman),3.450,3.040
+4,12:11,2,9,CAR 31,16,21,Sam Bradford pass incomplete short right intended for Darren Sproles,3.040,3.040
+4,12:07,2,9,CAR 31,16,21,Timeout #1 by Philadelphia Eagles,3.040,2.340
+4,12:07,3,9,CAR 31,16,21,Sam Bradford pass complete short right to Josh Huff for -1 yards (tackle by Luke Kuechly),2.340,1.240
+4,12:02,4,10,CAR 32,16,21,Caleb Sturgis 50 yard field goal no good,1.240,-1.600
+4,11:58,1,10,CAR 40,16,21,"Cam Newton pass incomplete short right intended for Corey Brown. Penalty on Michael Oher: Offensive Holding, 10 yards (no play)",1.600,0.940
+4,11:53,1,20,CAR 30,16,21,Cam Newton pass complete short left to Devin Funchess for 20 yards (tackle by Nolan Carroll),0.940,2.260
+4,11:46,1,10,,16,21,Jonathan Stewart right end for 7 yards (tackle by Cedric Thornton and Bennie Logan),2.260,2.660
+4,11:11,2,3,PHI 43,16,21,Cam Newton pass complete short right to Corey Brown for 9 yards (tackle by Byron Maxwell),2.660,3.310
+4,10:37,1,10,PHI 34,16,21,Cam Newton middle for 16 yards (tackle by Walter Thurmond and Chris Maragos),3.310,4.370
+4,9:56,1,10,PHI 18,16,21,Cam Newton pass incomplete deep right intended for Corey Brown,4.370,3.800
+4,9:50,2,10,PHI 18,16,21,Jonathan Stewart left tackle for 1 yard (tackle by Jordan Hicks),3.800,3.170
+4,9:10,3,9,PHI 17,16,21,Cam Newton pass incomplete deep right intended for Corey Brown,3.170,2.310
+4,9:04,4,9,PHI 17,16,24,Graham Gano 35 yard field goal good,2.310,3.000
+4,9:04,,,CAR 35,16,24,"Graham Gano kicks off 65 yards, touchback",0.000,-0.280
+4,8:59,1,10,PHI 20,16,24,DeMarco Murray right end for 4 yards (tackle by Luke Kuechly),0.280,0.270
+4,8:42,2,6,PHI 24,16,24,DeMarco Murray right end for 8 yards (tackle by A.J. Klein),0.270,1.070
+4,8:24,1,10,PHI 32,16,24,Sam Bradford sacked by Kawann Short for -9 yards,1.070,-0.690
+4,7:44,2,19,PHI 23,16,24,Sam Bradford pass complete short right to Ryan Mathews for 4 yards (tackle by Luke Kuechly),-0.690,-0.820
+4,7:12,3,15,PHI 27,16,24,Sam Bradford pass incomplete short left intended for Miles Austin,-0.820,-1.570
+4,7:06,4,15,PHI 27,16,24,"Donnie Jones punts 54 yards, returned by Ted Ginn for 5 yards (tackle by Trey Burton)",-1.570,-0.540
+4,6:56,1,10,CAR 24,16,24,Jonathan Stewart left tackle for 4 yards (tackle by Walter Thurmond),0.540,0.540
+4,6:17,2,6,CAR 28,16,24,Jonathan Stewart left guard for 3 yards (tackle by Brandon Graham and Mychal Kendricks),0.540,0.230
+4,5:30,3,3,CAR 31,16,24,Cam Newton pass complete short left to Corey Brown for 4 yards (tackle by Byron Maxwell),0.230,1.270
+4,4:56,1,10,CAR 35,16,24,"Cam Newton pass incomplete deep right intended for Corey Brown (defended by Malcolm Jenkins). Penalty on Nolan Carroll: Illegal Contact, 5 yards (no play)",1.270,1.600
+4,4:49,1,10,CAR 40,16,24,Jonathan Stewart left guard for 5 yards (tackle by Mychal Kendricks and Taylor Hart),1.600,1.730
+4,4:06,2,5,CAR 45,16,24,Jonathan Stewart middle for 4 yards (tackle by Taylor Hart and Connor Barwin),1.730,1.550
+4,3:23,3,1,CAR 49,16,24,Cameron Artis-Payne right guard for no gain (tackle by Mychal Kendricks and Nolan Carroll),1.550,1.550
+4,3:18,3,1,CAR 49,16,24,Timeout #2 by Philadelphia Eagles,1.550,-0.130
+4,3:18,4,1,CAR 49,16,24,"Brad Nortman punts 40 yards, fair catch by Darren Sproles",-0.130,0.370
+4,3:12,1,10,PHI 11,16,24,"Sam Bradford sacked by Kawann Short for -6 yards. Sam Bradford fumbles (forced by Kawann Short), recovered by Jason Kelce at PHI-5. Penalty on Matt Tobin: Offensive Holding (Declined)",-0.370,-1.220
+4,3:04,2,16,PHI 5,16,24,Sam Bradford pass incomplete short left intended for Darren Sproles (defended by Jared Allen),-1.220,-2.120
+4,3:01,3,16,PHI 5,16,24,"Sam Bradford pass incomplete short middle intended for Jordan Matthews. Penalty on Luke Kuechly: Defensive Pass Interference, 10 yards (no play)",-2.120,-0.220
+,,,,,,,"PHI challenged the tipped pass ruling, and the original play was overturned.",,
+4,2:57,1,10,PHI 15,16,24,Sam Bradford sacked by Jared Allen for -6 yards,-0.220,-1.220
+4,2:27,2,16,PHI 9,16,24,Sam Bradford pass complete short right to Jordan Matthews for 7 yards (tackle by Luke Kuechly),-1.220,-1.250
+4,2:05,3,9,PHI 16,16,24,Sam Bradford pass incomplete short right intended for Zach Ertz,-1.250,-2.390
+4,2:00,4,9,PHI 16,16,24,Sam Bradford pass incomplete short left intended for Miles Austin,-2.390,-4.510
+4,1:55,1,10,PHI 16,16,24,Jonathan Stewart left guard for -2 yards (tackle by Cedric Thornton and Bennie Logan),4.510,4.510
+4,1:51,1,10,PHI 16,16,24,Timeout #3 by Philadelphia Eagles,4.510,3.640
+4,1:51,2,12,PHI 18,16,24,Jonathan Stewart right tackle for 1 yard (tackle by Byron Maxwell),3.640,3.640
+4,1:05,2,12,PHI 18,16,24,Timeout #1 by Carolina Panthers,3.640,3.020
+4,1:05,3,11,PHI 17,16,24,Jonathan Stewart left tackle for 6 yards (tackle by Malcolm Jenkins),3.020,3.020
+4,0:23,3,11,PHI 17,16,24,Timeout #2 by Carolina Panthers,3.020,2.750
+4,0:23,4,5,PHI 11,16,27,Graham Gano 29 yard field goal good,2.750,3.000
+4,0:23,,,CAR 35,16,27,"Graham Gano kicks off 65 yards, touchback",0.000,-0.280
+4,0:18,1,10,PHI 20,16,27,Sam Bradford pass complete short left to Darren Sproles for 8 yards,0.280,0.810
+4,0:12,2,2,PHI 28,16,27,Sam Bradford pass complete short left to Darren Sproles for 9 yards (tackle by Charles Tillman),0.810,1.400
+4,0:07,1,10,PHI 37,16,27,Sam Bradford pass complete short left to Darren Sproles for 8 yards (tackle by Thomas Davis),1.400,1.940
+4,0:02,2,2,PHI 45,16,27,Sam Bradford pass incomplete deep left intended for Zach Ertz (defended by Luke Kuechly),1.940,1.220
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

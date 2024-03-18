@@ -1,0 +1,187 @@
+Quarter,Time,Down,ToGo,Location,CIN,BAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Ravens won the coin toss and deferred, Bengals to receive the opening kickoff.",,
+1,15:00,,,BAL 35,6,0,"Justin Tucker kicks off 57 yards, returned by Brandon Wilson for 92 yards, touchdown",0.000,7.000
+1,14:48,,,BAL 15,7,0,Randy Bullock kicks extra point good,0.000,0.000
+1,14:48,,,CIN 35,7,0,"Randy Bullock kicks off 65 yards, touchback.",0.000,0.610
+1,14:48,1,10,BAL 25,7,0,Mark Ingram left guard for no gain (tackle by Germaine Pratt),0.610,0.060
+1,14:15,2,10,BAL 25,7,0,Lamar Jackson left tackle for 36 yards (tackle by Dre Kirkpatrick),0.060,2.980
+1,13:31,1,10,CIN 39,7,0,Justice Hill left end for 9 yards (tackle by Preston Brown and Jessie Bates),2.980,3.660
+1,12:49,2,1,CIN 30,7,0,Mark Ingram right guard for 5 yards (tackle by Sam Hubbard),3.660,3.910
+1,12:15,1,10,CIN 25,7,0,Lamar Jackson pass complete short right to Hayden Hurst for 4 yards (tackle by Nick Vigil),3.910,3.900
+1,11:39,2,6,CIN 21,7,6,"Lamar Jackson left end for 21 yards, touchdown",3.900,7.000
+1,11:28,,,CIN 15,7,7,Justin Tucker kicks extra point good,0.000,0.000
+1,11:28,,,BAL 35,7,7,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+1,11:28,1,10,CIN 25,7,7,Joe Mixon right guard for 2 yards (tackle by Chris Wormley and Josh Bynes),0.610,0.330
+1,10:53,2,8,CIN 27,7,7,Giovani Bernard right end for 2 yards (tackle by Brandon Carr),0.330,-0.100
+1,10:21,3,6,CIN 29,7,7,Andy Dalton pass incomplete short middle intended for Auden Tate (defended by Patrick Ricard),-0.100,-1.440
+1,10:16,4,6,CIN 29,7,7,"Kevin Huber punts 37 yards, fair catch by Cyrus Jones at BAL-34",-1.440,-1.200
+1,10:08,1,10,BAL 34,7,7,Lamar Jackson right tackle for 14 yards (tackle by Jessie Bates),1.200,2.130
+1,9:42,1,10,BAL 48,7,7,Lamar Jackson pass incomplete short middle intended for Mark Andrews,2.130,1.580
+1,9:38,2,10,BAL 48,7,7,Lamar Jackson pass complete short left to Mark Ingram for 11 yards (tackle by Andrew Brown),1.580,2.850
+1,8:52,1,10,CIN 41,7,7,"Justice Hill right tackle for 6 yards (tackle by William Jackson). Penalty on Bradley Bozeman: Illegal Block Above the Waist, 9 yards (no play)",2.850,2.260
+1,8:21,1,19,BAL 50,7,7,Lamar Jackson pass complete short middle to Chris Moore for 5 yards (tackle by Nick Vigil),2.260,1.770
+1,7:39,2,14,CIN 45,7,7,Lamar Jackson pass complete short left to Mark Andrews for 20 yards (tackle by Germaine Pratt),1.770,3.910
+1,7:02,1,10,CIN 25,7,7,"Penalty on Bradley Bozeman: False Start, 5 yards (no play)",3.910,3.580
+1,6:43,1,15,CIN 30,7,7,Lamar Jackson pass complete short middle to Miles Boykin for 18 yards (tackle by William Jackson and Dre Kirkpatrick),3.580,4.780
+1,6:03,1,10,CIN 12,7,7,Lamar Jackson left end for -1 yards (tackle by Josh Tupou),4.780,3.940
+1,5:22,2,11,CIN 13,7,7,Lamar Jackson right tackle for 9 yards (tackle by Clayton Fejedelem and Nick Vigil),3.940,4.840
+1,4:41,3,2,CIN 4,7,7,Gus Edwards right guard for 3 yards (tackle by Clayton Fejedelem),4.840,6.970
+1,4:06,1,1,CIN 1,7,13,"Mark Ingram right guard for 1 yard, touchdown",6.970,7.000
+1,4:01,,,CIN 15,7,14,Justin Tucker kicks extra point good,0.000,0.000
+1,4:01,,,BAL 35,7,14,"Justin Tucker kicks off 64 yards, returned by Brandon Wilson for 25 yards (tackle by Justin Bethel)",0.000,0.670
+1,3:55,1,10,CIN 26,7,14,"Penalty on BAL: Defensive Too Many Men on Field, 5 yards (no play)",0.670,1.400
+1,3:55,1,5,CIN 31,7,14,Joe Mixon up the middle for 2 yards (tackle by Chris Wormley),1.400,1.070
+1,3:17,2,3,CIN 33,7,14,"Andy Dalton pass incomplete deep middle intended for Damion Willis. Penalty on Damion Willis: Offensive Pass Interference, 10 yards (no play)",1.070,-0.280
+1,3:11,2,13,CIN 23,7,14,Andy Dalton pass incomplete short left intended for Auden Tate,-0.280,-0.960
+1,3:08,3,13,CIN 23,7,14,Andy Dalton pass incomplete short middle intended for Auden Tate (defended by Maurice Canady),-0.960,-1.830
+1,3:03,4,13,CIN 23,7,14,"Kevin Huber punts 54 yards, returned by Cyrus Jones for 8 yards (tackle by Germaine Pratt). Penalty on Marlon Humphrey: Offensive Holding, 10 yards",-1.830,-0.340
+1,2:50,1,10,BAL 21,7,14,Lamar Jackson pass complete short right to Nick Boyle for 9 yards (tackle by Shawn Williams),0.340,1.020
+1,2:11,2,1,BAL 30,7,14,Mark Ingram right guard for 3 yards (tackle by Nick Vigil and B.W. Webb),1.020,1.140
+1,1:37,1,10,BAL 33,7,14,Lamar Jackson left end for 4 yards (tackle by Nick Vigil),1.140,1.130
+1,1:05,2,6,BAL 37,7,14,Lamar Jackson pass complete deep middle to Mark Andrews for 39 yards (tackle by Jessie Bates),1.130,3.970
+1,0:32,1,10,CIN 24,7,14,Lamar Jackson pass incomplete deep right intended for Chris Moore,3.970,3.430
+1,0:26,2,10,CIN 24,7,14,Lamar Jackson right tackle for 2 yards (tackle by Sam Hubbard),3.430,3.010
+Quarter,Time,Down,ToGo,Location,CIN,BAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,8,CIN 22,7,14,Lamar Jackson pass incomplete deep left,3.010,1.990
+2,14:52,4,8,CIN 22,7,17,Justin Tucker 40 yard field goal good,1.990,3.000
+2,14:48,,,BAL 35,7,17,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+2,14:48,1,10,CIN 25,7,17,Andy Dalton pass complete short middle to C.J. Uzomah for 22 yards (tackle by Zach Sieler),0.610,2.060
+2,14:06,1,10,CIN 47,7,17,Joe Mixon right guard for 1 yard (tackle by Michael Pierce),2.060,1.650
+2,13:27,2,9,CIN 48,7,17,"Andy Dalton pass complete short middle to Alex Erickson for 5 yards (tackle by Maurice Canady and L.J. Fort). Penalty on Bobby Hart: Illegal Formation, 5 yards (no play)",1.650,0.980
+2,13:03,2,14,CIN 43,7,17,Joe Mixon right guard for 2 yards (tackle by Josh Bynes),0.980,0.560
+2,12:23,3,12,CIN 45,7,17,Andy Dalton pass complete deep middle to Auden Tate for 17 yards (tackle by Maurice Canady). Penalty on Maurice Canady: Defensive Pass Interference (Declined),0.560,3.050
+2,12:00,1,10,BAL 38,7,17,Joe Mixon up the middle for -1 yards (tackle by Josh Bynes),3.050,2.370
+2,11:22,2,11,BAL 39,7,17,Andy Dalton pass complete short right to Drew Sample for -1 yards (tackle by Pernell McPhee),2.370,1.550
+2,10:47,3,12,BAL 40,7,17,Andy Dalton pass incomplete deep middle intended for Alex Erickson,1.550,0.590
+2,10:42,4,12,BAL 40,7,17,"Kevin Huber punts 32 yards, fair catch by Cyrus Jones at BAL-8",0.590,0.380
+2,10:35,1,10,BAL 8,7,17,Lamar Jackson pass complete short right to Miles Boykin for 10 yards (tackle by Jessie Bates),-0.380,0.040
+2,9:57,1,10,BAL 18,7,17,Mark Ingram up the middle for 7 yards (tackle by Renell Wren),0.040,0.550
+2,9:20,2,3,BAL 25,7,17,Mark Ingram up the middle for no gain (tackle by Germaine Pratt and Shawn Williams),0.550,-0.270
+2,8:35,3,3,BAL 25,7,17,Gus Edwards left tackle for 25 yards (tackle by Jessie Bates),-0.270,2.260
+2,7:51,1,10,BAL 50,7,17,Lamar Jackson pass complete short middle to Mark Andrews for 7 yards (tackle by William Jackson),2.260,2.660
+2,7:17,2,3,CIN 43,7,17,Lamar Jackson left tackle for -3 yards (tackle by Shawn Williams),2.660,1.550
+2,6:34,3,6,CIN 46,7,17,Lamar Jackson pass incomplete short middle intended for Willie Snead (defended by Jessie Bates),1.550,0.200
+2,6:27,4,6,CIN 46,7,17,"Sam Koch punts 46 yards, touchback.",0.200,-0.280
+2,6:19,1,10,CIN 20,7,17,Andy Dalton pass incomplete short left intended for C.J. Uzomah (defended by L.J. Fort),0.280,-0.270
+2,6:16,2,10,CIN 20,7,17,Andy Dalton pass complete short left to Alex Erickson for 10 yards (tackle by Maurice Canady),-0.270,0.940
+2,5:36,1,10,CIN 30,7,17,Andy Dalton pass complete short left to Joe Mixon for 23 yards (tackle by Earl Thomas),0.940,2.460
+2,4:58,1,10,BAL 47,7,17,Andy Dalton pass incomplete short middle intended for Joe Mixon (defended by Jaylon Ferguson),2.460,1.910
+2,4:53,2,10,BAL 47,7,17,Joe Mixon up the middle for 3 yards (tackle by Brandon Williams),1.910,1.620
+2,4:14,3,7,BAL 44,7,17,Andy Dalton pass complete short left to Tyler Eifert for 7 yards (tackle by Anthony Levine),1.620,3.120
+2,3:47,1,10,BAL 37,7,17,Giovani Bernard right tackle for no gain (tackle by Jihad Ward and L.J. Fort),3.120,2.570
+2,3:08,2,10,BAL 37,7,17,Andy Dalton pass complete short left to Auden Tate for 16 yards (tackle by Brandon Carr),2.570,4.170
+2,2:28,1,10,BAL 21,7,17,Andy Dalton pass short middle (defended by Josh Bynes) intended for Tyler Boyd is intercepted by Marlon Humphrey at BAL-8 and returned for 14 yards,4.170,-0.410
+2,2:18,1,10,BAL 22,7,17,Lamar Jackson pass complete short left to Patrick Ricard for 6 yards (tackle by Germaine Pratt),0.410,0.680
+2,2:00,2,4,BAL 28,7,17,Lamar Jackson pass complete short right to Mark Andrews for 8 yards (tackle by Shawn Williams),0.680,1.330
+2,1:41,1,10,BAL 36,7,17,Lamar Jackson sacked by Carl Lawson for -8 yards. Penalty on Bradley Bozeman: Offensive Holding (Declined),1.330,-0.290
+2,1:36,2,18,BAL 28,7,17,"Lamar Jackson pass complete short middle to Mark Andrews for 16 yards (tackle by Brandon Wilson). Mark Andrews fumbles (forced by Brandon Wilson), recovered by Nick Vigil at BAL-46 and returned for 7 yards (tackle by Justice Hill)",-0.290,-2.980
+2,1:25,1,10,BAL 39,7,17,Andy Dalton pass complete deep left to Auden Tate for 17 yards (tackle by Maurice Canady),2.980,4.110
+2,1:02,1,10,BAL 22,7,17,Andy Dalton pass complete short left to Tyler Boyd for 4 yards (tackle by Maurice Canady),4.110,4.130
+2,0:58,2,6,BAL 18,7,17,Andy Dalton pass complete short left to Auden Tate for 12 yards (tackle by Maurice Canady),4.130,5.830
+2,0:54,1,6,BAL 6,7,17,Giovani Bernard right guard for 2 yards (tackle by Chuck Clark),5.830,5.340
+2,0:48,,,,,,Timeout #2 by Baltimore Ravens,,
+2,0:48,2,4,BAL 4,7,17,Joe Mixon left guard for no gain (tackle by Pernell McPhee),5.340,4.490
+2,0:42,,,,,,Timeout #3 by Baltimore Ravens,,
+2,0:42,3,4,BAL 4,7,17,Andy Dalton pass incomplete short middle intended for Alex Erickson,4.490,3.030
+2,0:39,,,,,,Timeout #2 by Cincinnati Bengals,,
+2,0:39,4,4,BAL 4,10,17,Randy Bullock 22 yard field goal good,3.030,3.000
+2,0:36,,,CIN 35,10,17,"Randy Bullock kicks off 65 yards, touchback.",0.000,0.610
+2,0:36,1,10,BAL 25,10,17,Lamar Jackson pass complete short left to Willie Snead for 5 yards (tackle by William Jackson),0.610,0.740
+2,0:31,2,5,BAL 30,10,17,Lamar Jackson pass complete short left to Willie Snead for 10 yards (tackle by Carl Lawson),0.740,1.600
+2,0:15,1,10,BAL 40,10,17,Lamar Jackson spiked the ball,1.600,1.050
+2,0:15,,,,,,Timeout #3 by Cincinnati Bengals,,
+2,0:15,2,10,BAL 40,10,17,Lamar Jackson pass incomplete deep left intended for Miles Boykin,1.050,0.370
+2,0:09,3,10,BAL 40,10,17,Lamar Jackson left guard for 29 yards (tackle by Brandon Wilson),0.370,3.510
+Quarter,Time,Down,ToGo,Location,CIN,BAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,CIN 35,10,17,"Randy Bullock kicks off 25 yards, out of bounds. Penalty on LaRoy Reynolds: Offside on Free Kick (Declined)",0.000,1.600
+3,15:00,1,10,BAL 40,10,17,Lamar Jackson pass incomplete short middle intended for Nick Boyle (defended by Nick Vigil),1.600,1.050
+3,14:56,2,10,BAL 40,10,17,Lamar Jackson pass complete short middle to Willie Snead for 3 yards (tackle by Preston Brown),1.050,0.760
+3,14:08,3,7,BAL 43,10,17,Lamar Jackson pass complete short middle to Mark Andrews for 9 yards (tackle by Torry McTyer),0.760,2.390
+3,13:25,1,10,CIN 48,10,17,Justice Hill right guard for 2 yards (tackle by B.W. Webb),2.390,2.120
+3,12:46,2,8,CIN 46,10,17,Lamar Jackson right tackle for 4 yards (tackle by Nick Vigil),2.120,1.950
+3,12:14,3,4,CIN 42,10,17,"Penalty on Bradley Bozeman: False Start, 5 yards (no play)",1.950,1.290
+3,11:56,3,9,CIN 47,10,17,Lamar Jackson pass incomplete short middle intended for Mark Andrews (defended by LaRoy Reynolds),1.290,0.130
+3,11:50,4,9,CIN 47,10,17,"Sam Koch punts 38 yards, fair catch by Alex Erickson at CIN-9",0.130,0.380
+3,11:44,1,10,CIN 9,10,17,Andy Dalton pass complete short right to Tyler Boyd for 5 yards (tackle by Brandon Carr),-0.380,-0.390
+3,11:16,2,5,CIN 14,10,17,Joe Mixon right guard for 1 yard (tackle by Chuck Clark),-0.390,-0.720
+3,10:35,3,4,CIN 15,10,17,Andy Dalton pass complete short left to Tyler Eifert for 6 yards (tackle by Maurice Canady),-0.720,0.340
+3,10:01,1,10,CIN 21,10,17,Andy Dalton pass complete short right to Tyler Boyd for 1 yard (tackle by Marlon Humphrey),0.340,-0.070
+3,9:56,2,9,CIN 22,10,17,Andy Dalton pass complete short left to Giovani Bernard for 6 yards (tackle by Pernell McPhee),-0.070,0.040
+3,9:22,3,3,CIN 28,10,17,Andy Dalton pass complete short right to Alex Erickson for 3 yards (tackle by Maurice Canady),0.040,1.000
+3,9:02,1,10,CIN 31,10,17,Giovani Bernard right guard for no gain (tackle by Earl Thomas),1.000,0.460
+3,8:23,2,10,CIN 31,10,17,Andy Dalton pass complete short right to Alex Erickson for 13 yards (tackle by Maurice Canady),0.460,1.860
+3,7:55,1,10,CIN 44,10,17,Andy Dalton pass complete short right to Joe Mixon for 6 yards (tackle by Maurice Canady),1.860,2.130
+3,7:18,2,4,CIN 50,10,17,Andy Dalton pass incomplete short right intended for Auden Tate,2.130,1.420
+3,7:14,3,4,CIN 50,10,17,Andy Dalton pass incomplete deep right intended for Tyler Boyd (defended by DeShon Elliott),1.420,-0.060
+3,7:07,4,4,CIN 50,10,17,"Kevin Huber punts 41 yards, fair catch by Cyrus Jones at BAL-9",-0.060,0.380
+3,7:00,1,10,BAL 9,10,17,Mark Ingram up the middle for 6 yards (tackle by Shawn Williams),-0.380,-0.280
+3,6:24,2,4,BAL 15,10,17,Justice Hill left tackle for 1 yard (tackle by Josh Tupou),-0.280,-0.600
+3,5:37,3,3,BAL 16,10,17,Lamar Jackson pass complete short middle to Mark Ingram for 11 yards (tackle by Tony McRae),-0.600,0.740
+3,4:52,1,10,BAL 27,10,17,Lamar Jackson right tackle for 9 yards (tackle by Jessie Bates),0.740,1.410
+3,4:14,2,1,BAL 36,10,17,Mark Ingram up the middle for -2 yards (tackle by Torry McTyer),1.410,0.430
+3,3:38,3,3,BAL 34,10,17,Lamar Jackson pass complete short left to Seth Roberts for 7 yards (tackle by Tony McRae),0.430,1.660
+3,2:53,1,10,BAL 41,10,17,Lamar Jackson right end for 8 yards (tackle by Nick Vigil),1.660,2.200
+3,2:21,2,2,BAL 49,10,17,Gus Edwards right guard for no gain (tackle by Preston Brown and Josh Tupou),2.200,1.490
+3,1:43,3,2,BAL 49,10,17,Lamar Jackson pass complete short right to Seth Roberts for 16 yards (tackle by Sam Hubbard),1.490,3.250
+3,0:58,1,10,CIN 35,10,17,Mark Ingram right guard for 4 yards (tackle by Preston Brown and Shawn Williams),3.250,3.240
+3,0:22,2,6,CIN 31,10,17,Lamar Jackson pass incomplete short left,3.240,2.540
+3,0:15,3,6,CIN 31,10,17,Lamar Jackson pass incomplete deep right,2.540,1.340
+3,0:07,4,6,CIN 31,10,20,Justin Tucker 49 yard field goal good,1.340,3.000
+3,0:02,,,BAL 35,10,20,"Justin Tucker kicks off 63 yards, returned by Brandon Wilson for 25 yards (tackle by L.J. Fort)",0.000,0.740
+Quarter,Time,Down,ToGo,Location,CIN,BAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,CIN 27,10,20,Alex Erickson left end for 17 yards (tackle by Maurice Canady),0.740,1.860
+4,14:29,1,10,CIN 44,10,20,Andy Dalton pass incomplete short middle intended for Tyler Boyd,1.860,1.320
+4,14:25,2,10,CIN 44,10,20,Andy Dalton pass complete short right to C.J. Uzomah for 4 yards (tackle by L.J. Fort and Jihad Ward),1.320,1.160
+4,13:43,,,,,,Timeout #1 by Cincinnati Bengals,,
+4,13:43,3,6,CIN 48,10,20,Andy Dalton pass incomplete short left intended for Giovani Bernard,1.160,-0.190
+4,13:39,4,6,CIN 48,10,20,"Kevin Huber punts 37 yards, fair catch by Cyrus Jones at BAL-15",-0.190,0.220
+4,13:32,1,10,BAL 15,10,20,Mark Ingram right guard for 12 yards (tackle by Germaine Pratt),-0.220,0.740
+4,12:58,1,10,BAL 27,10,20,"Lamar Jackson left tackle for 7 yards (tackle by Jessie Bates). Penalty on Orlando Brown: Illegal Formation, 5 yards (no play)",0.740,0.410
+4,12:36,1,15,BAL 22,10,20,Lamar Jackson pass complete short middle to Chris Moore for 13 yards (tackle by Jessie Bates),0.410,1.280
+4,11:51,2,2,BAL 35,10,20,Mark Ingram right tackle for 8 yards (tackle by Brandon Wilson),1.280,1.800
+4,11:08,1,10,BAL 43,10,20,Lamar Jackson left guard for 1 yard (tackle by Carl Lawson),1.800,1.390
+4,10:29,2,9,BAL 44,10,20,Justice Hill left tackle for 12 yards (tackle by Nick Vigil and Jessie Bates),1.390,2.650
+4,9:45,1,10,CIN 44,10,20,Gus Edwards left guard for 3 yards (tackle by Preston Brown),2.650,2.520
+4,9:06,2,7,CIN 41,10,20,"Lamar Jackson right end for 3 yards (tackle by Nick Vigil). Penalty on Nick Boyle: Offensive Holding, 10 yards",2.520,1.570
+4,8:40,2,14,CIN 48,10,20,Lamar Jackson pass incomplete deep left intended for Willie Snead,1.570,0.890
+4,8:36,3,14,CIN 48,10,20,Lamar Jackson up the middle for 16 yards (tackle by Clayton Fejedelem),0.890,3.450
+4,7:45,1,10,CIN 32,10,20,Mark Ingram left tackle for 1 yard (tackle by Josh Tupou and Nick Vigil),3.450,3.040
+4,7:00,2,9,CIN 31,10,20,Justice Hill right tackle for 7 yards (tackle by Nick Vigil),3.040,3.270
+4,6:13,3,2,CIN 24,10,20,Lamar Jackson left tackle for 3 yards (tackle by Andrew Billings),3.270,4.170
+4,5:30,,,,,,Timeout #1 by Baltimore Ravens,,
+4,5:30,1,10,CIN 21,10,20,Lamar Jackson pass complete short left to Nick Boyle for 9 yards (tackle by Nick Vigil),4.170,5.160
+4,4:41,2,1,CIN 12,10,20,Mark Ingram up the middle for 7 yards (tackle by Brandon Wilson),5.160,6.060
+4,4:03,1,5,CIN 5,10,20,Gus Edwards right guard for 3 yards (tackle by Sam Hubbard),6.060,5.720
+4,3:58,,,,,,Timeout #2 by Cincinnati Bengals,,
+4,3:58,2,2,CIN 2,10,20,Gus Edwards right guard for no gain (tackle by Nick Vigil and Sam Hubbard),5.720,4.950
+4,3:52,,,,,,Timeout #3 by Cincinnati Bengals,,
+4,3:52,3,2,CIN 2,10,20,Lamar Jackson pass incomplete short left intended for Nick Boyle,4.950,3.250
+4,3:49,4,2,CIN 2,10,23,Justin Tucker 21 yard field goal good,3.250,3.000
+4,3:46,,,BAL 35,10,23,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+4,3:46,1,10,CIN 25,10,23,Andy Dalton pass incomplete short right intended for Auden Tate (defended by Marlon Humphrey),0.610,0.060
+4,3:42,2,10,CIN 25,10,23,Andy Dalton pass complete deep middle to Alex Erickson for 21 yards (tackle by DeShon Elliott),0.060,1.990
+4,3:21,1,10,CIN 46,10,23,Andy Dalton sacked by Tyus Bowser for -9 yards,1.990,0.240
+4,2:50,2,19,CIN 37,10,23,Andy Dalton pass incomplete short middle intended for Damion Willis,0.240,-0.430
+4,2:46,3,19,CIN 37,10,23,"Penalty on Andy Dalton: False Start, 5 yards (no play)",-0.430,-1.090
+4,2:46,3,24,CIN 32,10,23,"Andy Dalton pass incomplete deep right intended for Alex Erickson. Penalty on Pernell McPhee: Roughing the Passer, 15 yards (no play)",-1.090,2.060
+4,2:39,1,10,CIN 47,10,23,Andy Dalton pass incomplete short right,2.060,1.520
+4,2:34,2,10,CIN 47,10,23,Andy Dalton sacked by Matt Judon for -9 yards,1.520,-0.360
+4,2:05,3,19,CIN 38,10,23,Andy Dalton pass complete deep right to Auden Tate for 29 yards (tackle by Justin Bethel),-0.360,3.380
+4,1:58,1,10,BAL 33,10,23,Andy Dalton pass incomplete short right intended for Tyler Boyd,3.380,2.840
+4,1:54,2,10,BAL 33,10,23,Andy Dalton pass incomplete short right,2.840,2.150
+4,1:48,3,10,BAL 33,10,23,"Andy Dalton pass incomplete short middle intended for Auden Tate (defended by Brandon Carr). Penalty on Brandon Carr: Defensive Pass Interference, 15 yards (no play)",2.150,4.370
+4,1:42,1,10,BAL 18,10,23,Andy Dalton pass complete short middle to Giovani Bernard for 14 yards (tackle by Chuck Clark),4.370,6.280
+4,1:37,1,4,BAL 4,10,23,Andy Dalton pass incomplete short right intended for Auden Tate,6.280,5.340
+4,1:34,2,4,BAL 4,10,23,"Penalty on Pernell McPhee: Neutral Zone Infraction, 2 yards (no play)",5.340,5.720
+4,1:34,2,2,BAL 2,16,23,"Andy Dalton left tackle for 2 yards, touchdown",5.720,7.000
+4,1:28,,,BAL 15,17,23,Randy Bullock kicks extra point good,0.000,0.000
+4,1:28,,,,,,Timeout #2 by Baltimore Ravens,,
+4,1:28,,,CIN 35,17,23,"Randy Bullock kicks onside 9 yards,. Penalty on Brandon Wilson: Illegal Touch Kick",0.000,2.650
+4,1:28,1,10,CIN 44,17,23,Lamar Jackson kneels for -1 yards,2.650,1.980
+4,0:47,2,11,CIN 45,17,23,Lamar Jackson kneels for -1 yards,1.980,1.160
+4,0:26,3,12,CIN 46,17,23,Lamar Jackson kneels for -1 yards,1.160,0.130
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

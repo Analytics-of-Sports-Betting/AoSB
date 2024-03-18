@@ -1,0 +1,193 @@
+Quarter,Time,Down,ToGo,Location,NWE,DAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Cowboys won the coin toss, Cowboys to receive the opening kickoff.",,
+1,15:00,,,NWE 30,0,0,"Stephen Gostkowski kicks off 71 yards, returned by Tyson Thompson for 18 yards (tackle by Pierre Woods)",0.000,-0.060
+1,14:55,1,10,DAL 17,0,0,Tony Romo pass complete short middle to Julius Jones for 2 yards (tackle by Tedy Bruschi),-0.060,-0.250
+1,14:18,2,8,DAL 19,0,0,Julius Jones up the middle for 2 yards (tackle by Ty Warren),-0.250,-0.750
+1,13:35,3,6,DAL 21,0,0,Tony Romo pass incomplete short left intended for Patrick Crayton,-0.750,-1.960
+1,13:28,4,6,DAL 21,0,0,"Mat McBriar punts 63 yards, returned by Wes Welker for 10 yards (tackle by Keith Davis)",-1.960,-0.670
+1,13:17,1,10,NWE 26,0,0,Tom Brady pass incomplete short middle intended for Randy Moss,0.670,0.130
+1,13:10,2,10,NWE 26,0,0,Tom Brady pass incomplete short middle intended for Kyle Brady,0.130,-0.560
+1,13:07,3,10,NWE 26,0,0,Tom Brady pass complete short right to Wes Welker for 16 yards (tackle by Pat Watkins),-0.560,1.730
+1,12:37,1,10,NWE 42,0,0,Sammy Morris up the middle for no gain (tackle by Marcus R. Spears and Akin Ayodele),1.730,1.190
+1,11:55,2,10,NWE 42,0,0,Tom Brady pass complete short right to Donte Stallworth for 7 yards (tackle by Jacques Reeves),1.190,1.420
+1,11:10,3,3,NWE 49,0,0,Tom Brady pass complete short left to Donte Stallworth for 11 yards (tackle by Nate Jones),1.420,2.920
+1,10:44,1,10,DAL 40,0,0,Tom Brady pass complete short left to Donte Stallworth for 7 yards (tackle by Terence Newman),2.920,3.320
+1,10:03,2,3,DAL 33,0,0,Tom Brady pass complete short middle to Kevin Faulk for 4 yards (tackle by Bradie James),3.320,3.640
+1,9:19,1,10,DAL 29,0,0,Sammy Morris right guard for 3 yards (tackle by Bradie James),3.640,3.510
+1,8:42,2,7,DAL 26,0,0,Tom Brady pass incomplete short left intended for Wes Welker,3.510,2.810
+1,8:37,3,7,DAL 26,0,0,"Tom Brady pass complete short middle to Wes Welker for 20 yards (tackle by Terence Newman). Wes Welker fumbles (forced by Terence Newman), recovered by Wes Welker at DAL-6",2.810,5.830
+1,7:59,1,6,DAL 6,0,0,Tom Brady pass incomplete short left intended for Jabar Gaffney,5.830,4.950
+1,7:57,2,6,DAL 6,0,0,Tom Brady pass incomplete short left intended for Wes Welker,4.950,4.040
+1,7:53,3,6,DAL 6,6,0,"Tom Brady pass complete short middle to Randy Moss for 6 yards, touchdown",4.040,7.000
+1,,,,DAL 2,7,0,Stephen Gostkowski kicks extra point good,0.000,0.000
+1,,,,NWE 30,7,0,"Stephen Gostkowski kicks off 79 yards, touchback",0.000,0.280
+1,7:48,1,10,DAL 20,7,0,Julius Jones up the middle for -1 yards (tackle by Vince Wilfork),0.280,-0.460
+1,7:09,2,11,DAL 19,7,0,Tony Romo pass incomplete short left intended for Terrell Owens,-0.460,-1.140
+1,7:03,3,11,DAL 19,7,0,Tony Romo sacked by Rodney Harrison for -11 yards,-1.140,-2.490
+1,6:34,4,22,DAL 8,7,0,"Mat McBriar punts 44 yards, returned by Wes Welker for 9 yards (tackle by Pat Watkins)",-2.490,-2.720
+1,6:23,1,10,DAL 43,7,0,"Penalty on Nick Kaczur: False Start, 5 yards (no play)",2.720,2.390
+1,6:23,1,15,DAL 48,7,0,"Tom Brady pass complete short right to Wes Welker for 6 yards (tackle by Nate Jones). Wes Welker fumbles (forced by Nate Jones), ball out of bounds at DAL-42",2.390,2.310
+1,5:55,2,9,DAL 42,7,0,Tom Brady sacked by DeMarcus Ware for -5 yards,2.310,0.960
+1,5:27,3,14,DAL 47,7,0,Tom Brady pass incomplete short left intended for Kevin Faulk,0.960,0.130
+1,5:20,4,14,DAL 47,7,0,"Chris Hanson punts 34 yards, fair catch by Patrick Crayton",0.130,0.320
+1,5:14,1,10,DAL 13,7,0,Marion Barber left tackle for 4 yards (tackle by Tedy Bruschi and Jarvis Green),-0.320,-0.300
+1,4:43,2,6,DAL 17,7,0,Tony Romo pass incomplete short right intended for Patrick Crayton,-0.300,-0.940
+1,4:38,3,6,DAL 17,7,0,Tony Romo pass incomplete short right intended for Patrick Crayton,-0.940,-2.320
+1,4:34,4,6,DAL 17,7,0,"Mat McBriar punts 52 yards, fair catch by Wes Welker",-2.320,-1.000
+1,4:25,1,10,NWE 31,7,0,Sammy Morris left tackle for 3 yards (tackle by DeMarcus Ware and Bradie James),1.000,0.870
+1,3:43,2,7,NWE 34,7,0,Tom Brady pass incomplete short left intended for Randy Moss,0.870,0.170
+1,3:39,3,7,NWE 34,7,0,Tom Brady pass complete deep middle to Ben Watson for 28 yards (tackle by Roy Williams),0.170,3.050
+1,2:59,1,10,DAL 38,7,0,Sammy Morris left guard for 3 yards (tackle by Akin Ayodele),3.050,2.910
+1,2:24,2,7,DAL 35,7,0,Tom Brady pass incomplete short left intended for Randy Moss,2.910,2.210
+1,2:20,3,7,DAL 35,13,0,"Tom Brady pass complete deep middle to Wes Welker for 35 yards, touchdown",2.210,7.000
+1,,,,DAL 2,14,0,Stephen Gostkowski kicks extra point good,0.000,0.000
+1,,,,NWE 30,14,0,"Stephen Gostkowski kicks off 73 yards, returned by Tyson Thompson for 19 yards (tackle by James Sanders)",0.000,-0.140
+1,2:08,1,10,DAL 16,14,0,Tony Romo pass complete short middle to Marion Barber for 7 yards (tackle by Mike Vrabel),-0.140,0.420
+1,1:21,2,3,DAL 23,14,0,Marion Barber up the middle for 2 yards (tackle by Tedy Bruschi),0.420,-0.200
+1,0:42,3,1,DAL 25,14,0,Marion Barber left end for 13 yards (tackle by Ellis Hobbs),-0.200,1.470
+1,0:21,1,10,DAL 38,14,0,Tony Romo pass complete short middle to Marion Barber for 5 yards (tackle by Tedy Bruschi),1.470,1.600
+Quarter,Time,Down,ToGo,Location,NWE,DAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,5,DAL 43,14,0,"Marion Barber left guard for 3 yards (tackle by Tedy Bruschi and Mike Wright). Penalty on Ty Warren: Unnecessary Roughness, 15 yards",1.600,2.980
+2,14:34,1,10,NWE 39,14,0,Tony Romo pass complete short right to Terrell Owens for 13 yards,2.980,3.840
+2,14:16,1,10,NWE 26,14,0,Marion Barber right tackle for 5 yards (tackle by Tedy Bruschi),3.840,3.970
+2,13:33,2,5,NWE 21,14,0,"Marion Barber up the middle for 3 yards (tackle by Ty Warren). Penalty on Kyle Kosier: Offensive Holding, 10 yards (no play)",3.970,2.620
+2,13:10,2,15,NWE 31,14,0,Tony Romo pass complete short right to Patrick Crayton for 11 yards (tackle by Asante Samuel),2.620,3.400
+2,12:40,3,4,NWE 20,14,0,Tony Romo pass incomplete short middle intended for Patrick Crayton,3.400,2.200
+2,12:35,4,4,NWE 20,14,3,Nick Folk 38 yard field goal good,2.200,3.000
+2,,,,DAL 30,14,3,"Nick Folk kicks off 67 yards, returned by Ellis Hobbs for 22 yards (tackle by Nate Jones)",0.000,0.610
+2,12:24,1,10,NWE 25,14,3,Tom Brady pass complete short right to Jabar Gaffney for 6 yards (tackle by Jacques Reeves),0.610,0.870
+2,11:50,2,4,NWE 31,14,3,Sammy Morris left tackle for 1 yard (tackle by Chris L. Canty),0.870,0.300
+2,11:02,3,3,NWE 32,14,3,"Tom Brady pass complete short left to Wes Welker for 2 yards (tackle by Nate Jones). Penalty on Greg Ellis: Defensive Offside, 5 yards (no play)",0.300,1.400
+2,10:42,1,10,NWE 37,14,3,Tom Brady pass incomplete short middle intended for Randy Moss,1.400,0.860
+2,10:33,2,10,NWE 37,14,9,"Tom Brady sacked by Greg Ellis for -5 yards. Tom Brady fumbles (forced by Greg Ellis), recovered by Jason Hatcher at NWE-29 and returned for 29 yards, touchdown",0.860,-7.000
+2,,,,NWE 2,14,10,Nick Folk kicks extra point good,0.000,0.000
+2,,,,DAL 30,14,10,"Nick Folk kicks off 63 yards, returned by Ellis Hobbs for 21 yards (tackle by Miles Austin)",0.000,0.810
+2,10:18,1,10,NWE 28,14,10,"Sammy Morris right tackle for 8 yards (tackle by DeMarcus Ware). Penalty on Steve Neal: Offensive Holding, 10 yards (no play)",0.810,-0.040
+2,9:48,1,20,NWE 18,14,10,Tom Brady pass incomplete short middle intended for Kyle Brady,-0.040,-1.190
+2,9:43,2,20,NWE 18,14,10,Tom Brady pass complete short left to Donte Stallworth for 17 yards (tackle by Stephen Bowen),-1.190,0.500
+2,9:07,3,3,NWE 35,14,10,"Penalty on Remi Ayodele: Neutral Zone Infraction, 5 yards (no play)",0.500,1.600
+2,8:53,1,10,NWE 40,14,10,Sammy Morris left end for 3 yards (tackle by Terence Newman),1.600,1.460
+2,8:28,2,7,NWE 43,14,10,Tom Brady pass complete short middle to Donte Stallworth for 15 yards (tackle by Terence Newman),1.460,2.790
+2,7:50,1,10,DAL 42,14,10,Sammy Morris right tackle for no gain (tackle by DeMarcus Ware),2.790,2.240
+2,7:14,2,10,DAL 42,14,10,Tom Brady pass incomplete short right intended for Randy Moss (defended by Jacques Reeves),2.240,1.550
+2,7:10,,,,14,10,Timeout #1 by New England Patriots,0.000,1.550
+2,7:10,3,10,DAL 42,14,10,Tom Brady pass complete short middle to Kevin Faulk for 18 yards (tackle by Ken Hamlin),1.550,3.970
+2,6:30,1,10,DAL 24,14,10,Sammy Morris up the middle for -1 yards (tackle by Jason Hatcher and Bradie James),3.970,3.300
+2,5:46,2,11,DAL 25,14,10,"Tom Brady pass complete short right to Ben Watson for 6 yards (tackle by Roy Williams). Penalty on DeMarcus Ware: Defensive Offside, 5 yards (no play)",3.300,3.970
+2,5:22,2,6,DAL 20,14,10,Tom Brady pass complete short left to Wes Welker for 5 yards (tackle by Nate Jones),3.970,4.170
+2,4:47,3,1,DAL 15,14,10,Sammy Morris left tackle for no gain (tackle by DeMarcus Ware and Ken Hamlin),4.170,2.590
+2,4:23,4,1,DAL 15,14,10,Tom Brady up the middle for 3 yards (tackle by Chris L. Canty),2.590,4.780
+2,3:40,1,10,DAL 12,20,10,"Tom Brady pass complete short left to Wes Welker for 12 yards, touchdown",4.780,7.000
+2,,,,DAL 2,21,10,Stephen Gostkowski kicks extra point good,0.000,0.000
+2,,,,NWE 30,21,10,"Stephen Gostkowski kicks off 74 yards, returned by Tyson Thompson for 20 yards (tackle by Heath Evans)",0.000,-0.140
+2,3:28,1,10,DAL 16,21,10,Tony Romo pass complete short right to Anthony Fasano for 26 yards (tackle by James Sanders),-0.140,1.730
+2,2:41,1,10,DAL 42,21,10,"Tony Romo pass complete short right to Julius Jones for 16 yards (tackle by James Sanders). Penalty on Anthony Fasano: Offensive Pass Interference, 10 yards (no play)",1.730,1.070
+2,2:11,1,20,DAL 32,21,10,Tony Romo pass complete short right to Terrell Owens for 9 yards,1.070,1.050
+2,2:00,2,11,DAL 41,21,10,"Penalty on Terrell Owens: False Start, 5 yards (no play)",1.050,0.380
+2,2:00,2,16,DAL 36,21,10,Tony Romo pass complete short left to Jason Witten for 11 yards (tackle by Randall Gay),0.380,1.160
+2,1:34,3,5,DAL 47,21,10,Tony Romo pass complete deep middle to Jason Witten for 25 yards (tackle by Ellis Hobbs),1.160,3.710
+2,1:25,,,,21,10,Timeout #1 by Dallas Cowboys,0.000,3.710
+2,1:25,1,10,NWE 28,21,10,Tony Romo pass complete short right to Jason Witten for 11 yards (tackle by Rodney Harrison),3.710,4.440
+2,1:01,1,10,NWE 17,21,10,"Penalty on Andre Gurode: False Start, 5 yards (no play)",4.440,4.110
+2,0:59,,,,21,10,Timeout #2 by Dallas Cowboys,0.000,4.110
+2,0:59,1,15,NWE 22,21,10,Tony Romo pass complete short left to Patrick Crayton for 10 yards (tackle by Ellis Hobbs),4.110,4.690
+2,0:55,2,5,NWE 12,21,10,Tony Romo pass incomplete short left intended for Terrell Owens,4.690,3.880
+,,,,,,,"Replay Assistant challenged the pass completion ruling, and the original play was overturned.",,
+2,0:51,3,5,NWE 12,21,16,"Tony Romo pass complete short middle to Terrell Owens for 12 yards, touchdown",3.880,7.000
+2,,,,NWE 2,21,17,Nick Folk kicks extra point good,0.000,0.000
+2,,,,DAL 30,21,17,"Nick Folk kicks off 67 yards, returned by Ellis Hobbs for 21 yards (tackle by Pat Watkins)",0.000,0.540
+2,0:41,1,10,NWE 24,21,17,Tom Brady kneels for -1 yards,0.540,-0.140
+Quarter,Time,Down,ToGo,Location,NWE,DAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DAL 30,21,17,"Nick Folk kicks off 71 yards, returned by Ellis Hobbs for 26 yards (tackle by Pat Watkins)",0.000,0.610
+3,14:54,1,10,NWE 25,21,17,Tom Brady pass incomplete short left intended for Wes Welker,0.610,0.060
+3,14:50,2,10,NWE 25,21,17,Sammy Morris left tackle for 2 yards (tackle by DeMarcus Ware),0.060,-0.360
+3,14:18,3,8,NWE 27,21,17,Tom Brady sacked by Nate Jones for -2 yards,-0.360,-1.700
+3,14:02,4,10,NWE 25,21,17,"Chris Hanson punts 49 yards, fair catch by Patrick Crayton",-1.700,-0.670
+3,13:56,1,10,DAL 26,21,17,Tony Romo pass complete short left to Patrick Crayton for 8 yards (tackle by Ellis Hobbs),0.670,1.210
+3,13:19,2,2,DAL 34,21,17,Julius Jones for 25 yards (tackle by James Sanders),1.210,2.850
+3,12:45,1,10,NWE 41,21,17,Julius Jones right tackle for 18 yards (tackle by James Sanders),2.850,4.040
+3,12:00,1,10,NWE 23,21,17,Tony Romo pass complete short left to Terrell Owens for 6 yards (tackle by Ellis Hobbs),4.040,4.380
+3,11:38,2,4,NWE 17,21,17,Julius Jones up the middle for no gain (tackle by Adalius Thomas),4.380,3.660
+3,10:54,3,4,NWE 17,21,17,Tony Romo pass complete short right to Patrick Crayton for 9 yards,3.660,5.370
+3,10:24,1,8,NWE 8,21,23,"Tony Romo pass complete short middle to Patrick Crayton for 8 yards, touchdown",5.370,7.000
+3,,,,NWE 2,21,24,Nick Folk kicks extra point good,0.000,0.000
+3,,,,DAL 30,21,24,"Nick Folk kicks off 67 yards, returned by Wes Welker for 30 yards (tackle by Nate Jones). Penalty on LeKevin Smith: Illegal Block Above the Waist, 10 yards",0.000,0.480
+3,10:11,1,10,NWE 23,21,24,Tom Brady pass complete short middle to Randy Moss for 14 yards (tackle by Roy Williams),0.480,1.400
+3,9:36,1,10,NWE 37,21,24,Kevin Faulk right tackle for 9 yards (tackle by Bradie James),1.400,2.070
+3,8:55,2,1,NWE 46,21,24,Tom Brady pass incomplete deep right intended for Randy Moss,2.070,1.360
+3,8:50,3,1,NWE 46,21,24,Tom Brady pass complete short left to Wes Welker for 10 yards (tackle by Nate Jones),1.360,2.650
+3,8:09,1,10,DAL 44,21,24,Kevin Faulk up the middle for no gain (tackle by Marcus R. Spears),2.650,2.110
+3,7:31,2,10,DAL 44,21,24,Tom Brady pass complete short left to Wes Welker for 5 yards (tackle by Nate Jones),2.110,2.080
+3,6:44,3,5,DAL 39,21,24,Tom Brady pass complete short right to Jabar Gaffney for 10 yards (tackle by Jacques Reeves),2.080,3.640
+3,6:00,1,10,DAL 29,21,24,Tom Brady pass complete short left to Donte Stallworth for 10 yards (tackle by Terence Newman),3.640,4.310
+3,5:47,1,10,DAL 19,21,24,Tom Brady pass complete short left to Randy Moss for 3 yards (tackle by Terence Newman),4.310,4.180
+3,5:07,2,7,DAL 16,21,24,"Tom Brady pass incomplete deep middle intended for Randy Moss. Penalty on Pat Watkins: Defensive Pass Interference, 15 yards (no play)",4.180,6.970
+3,5:01,1,1,DAL 1,27,24,"Tom Brady pass complete short middle to Kyle Brady for 1 yard, touchdown",6.970,7.000
+3,,,,DAL 2,28,24,Stephen Gostkowski kicks extra point good,0.000,0.000
+3,,,,NWE 30,28,24,"Stephen Gostkowski kicks off 70 yards, touchback",0.000,0.280
+3,4:56,1,10,DAL 20,28,24,"Tony Romo pass incomplete intended for Jason Witten. Penalty on Flozell Adams: Offensive Holding, 10 yards (no play)",0.280,-0.760
+3,4:51,1,20,DAL 10,28,24,Marion Barber right end for 2 yards (tackle by Eugene Wilson),-0.760,-1.360
+3,4:13,2,18,DAL 12,28,24,Tony Romo pass incomplete short middle intended for Jason Witten,-1.360,-2.360
+3,4:08,3,18,DAL 12,28,24,Tony Romo pass incomplete short left intended for Jason Witten,-2.360,-2.490
+3,3:56,4,18,DAL 12,28,24,"Mat McBriar punts 49 yards, returned by Wes Welker for 18 yards (tackle by Pat Watkins)",-2.490,-2.720
+3,3:46,1,10,DAL 43,28,24,"Tom Brady pass incomplete deep right intended for Randy Moss. Penalty on Jason Hatcher: Roughing the Passer, 15 yards (no play)",2.720,3.710
+,,,,,,,"DAL challenged the pass completion ruling, and the original play was overturned.",,
+3,3:39,1,10,DAL 28,28,24,Kevin Faulk right end for -1 yards (tackle by DeMarcus Ware),3.710,3.030
+3,2:59,2,11,DAL 29,28,24,Tom Brady pass incomplete short right intended for Wes Welker,3.030,2.340
+3,2:55,3,11,DAL 29,28,24,Tom Brady pass complete short left to Kevin Faulk for 2 yards (tackle by DeMarcus Ware),2.340,1.670
+3,2:18,4,9,DAL 27,31,24,Stephen Gostkowski 45 yard field goal good,1.670,3.000
+3,,,,NWE 30,31,24,"Stephen Gostkowski kicks off 68 yards, returned by Tyson Thompson for 19 yards (tackle by Brandon Meriweather)",0.000,0.340
+3,2:09,1,10,DAL 21,31,24,Marion Barber for 17 yards,0.340,1.470
+3,1:47,1,10,DAL 38,31,24,Marion Barber right tackle for 1 yard (tackle by Vince Wilfork),1.470,1.060
+3,1:03,2,9,DAL 39,31,24,"Tony Romo pass complete short middle to Terrell Owens for 23 yards (tackle by Rodney Harrison). Penalty on Terrell Owens: Illegal Shift, 5 yards (no play)",1.060,0.380
+3,0:28,2,14,DAL 34,31,24,Tony Romo pass incomplete short left intended for Terrell Owens,0.380,-0.290
+3,0:23,3,14,DAL 34,31,24,Tony Romo pass complete short middle to Terrell Owens for 13 yards (tackle by Eugene Wilson),-0.290,-0.260
+Quarter,Time,Down,ToGo,Location,NWE,DAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,4,1,DAL 47,31,24,"Marion Barber left tackle for 2 yards (tackle by Rodney Harrison). Marion Barber fumbles (forced by Rodney Harrison), recovered by Marion Barber at NWE-45. Penalty on Kyle Kosier: Offensive Holding, 10 yards",-0.260,-0.780
+4,14:43,4,9,DAL 39,31,24,"Mat McBriar punts 61 yards, touchback",-0.780,-0.280
+4,14:34,1,10,NWE 20,31,24,Kevin Faulk right tackle for 5 yards (tackle by Marcus R. Spears),0.280,0.410
+4,14:01,2,5,NWE 25,31,24,Kevin Faulk up the middle for 3 yards (tackle by Bradie James and Ken Hamlin),0.410,0.100
+4,13:16,3,2,NWE 28,31,24,Tom Brady up the middle for 3 yards (tackle by Kevin Burnett),0.100,1.000
+4,12:31,1,10,NWE 31,37,24,"Tom Brady pass complete deep middle to Donte Stallworth for 69 yards, touchdown",1.000,7.000
+4,,,,DAL 2,38,24,Stephen Gostkowski kicks extra point good,0.000,0.000
+4,,,,NWE 30,38,24,"Stephen Gostkowski kicks off 65 yards, returned by Tyson Thompson for 72 yards (tackle by Rodney Harrison)",0.000,4.040
+4,12:08,1,10,NWE 23,38,24,Tony Romo pass complete short right to Terrell Owens for 13 yards (tackle by Asante Samuel),4.040,4.910
+4,11:28,1,10,NWE 10,38,24,Tony Romo sacked by Ty Warren for -2 yards,4.910,3.860
+4,10:59,2,12,NWE 12,38,24,Julius Jones up the middle for 7 yards (tackle by Eugene Wilson),3.860,4.260
+4,10:11,3,5,NWE 5,38,24,Tony Romo pass incomplete short left intended for Sam Hurd,4.260,3.010
+4,10:07,4,5,NWE 5,38,27,Nick Folk 23 yard field goal good,3.010,3.000
+4,,,,DAL 30,38,27,"Nick Folk kicks off 60 yards, returned by Wes Welker for 25 yards (tackle by Evan Oglesby)",0.000,1.270
+4,9:55,1,10,NWE 35,38,27,Tom Brady pass complete short left to Randy Moss for 8 yards (tackle by Jacques Reeves),1.270,1.800
+4,9:28,2,2,NWE 43,38,27,Tom Brady pass complete short middle to Randy Moss for 14 yards (tackle by Terence Newman),1.800,2.720
+4,8:41,1,10,DAL 43,38,27,Kevin Faulk up the middle for 5 yards (tackle by Chris L. Canty and DeMarcus Ware),2.720,2.850
+4,8:01,2,5,DAL 38,38,27,Tom Brady pass complete short right to Wes Welker for 6 yards (tackle by Ken Hamlin),2.850,3.450
+4,7:19,1,10,DAL 32,38,27,Kevin Faulk left end for 8 yards (tackle by Justin Rogers),3.450,3.980
+4,6:35,2,2,DAL 24,38,27,Kevin Faulk up the middle for 5 yards (tackle by Bradie James),3.980,4.310
+4,5:51,1,10,DAL 19,38,27,"Tom Brady pass complete deep left to Randy Moss for 19 yards. Penalty on Randy Moss: Offensive Pass Interference, 10 yards (no play)",4.310,3.640
+4,5:45,1,20,DAL 29,38,27,Tom Brady pass complete short middle to Randy Moss for 14 yards (tackle by Terence Newman),3.640,4.350
+4,5:01,2,6,DAL 15,38,27,Kevin Faulk right tackle for 9 yards (tackle by DeMarcus Ware),4.350,5.830
+4,4:15,1,6,DAL 6,38,27,Kevin Faulk right guard for 2 yards (tackle by Akin Ayodele and Bradie James),5.830,5.340
+4,4:10,,,,38,27,Timeout #1 by Dallas Cowboys,0.000,5.340
+4,4:10,2,4,DAL 4,38,27,Kevin Faulk right tackle for no gain (tackle by DeMarcus Ware and Ken Hamlin),5.340,4.490
+4,4:06,,,,38,27,Timeout #2 by Dallas Cowboys,0.000,4.490
+4,4:06,3,4,DAL 4,38,27,Tom Brady pass incomplete short middle intended for Randy Moss,4.490,3.030
+4,4:02,4,4,DAL 4,41,27,Stephen Gostkowski 22 yard field goal good,3.030,3.000
+4,,,,NWE 30,41,27,"Stephen Gostkowski kicks off 70 yards, returned by Tyson Thompson for 19 yards (tackle by Larry Izzo)",0.000,0.150
+4,3:54,1,10,DAL 19,41,27,Tony Romo pass incomplete is intercepted by Junior Seau at DAL-25 and returned for 5 yards (tackle by Andre Gurode),0.150,-4.240
+4,3:45,1,10,DAL 20,41,27,Kevin Faulk right tackle for 2 yards (tackle by Anthony Spencer),4.240,3.960
+4,3:02,2,8,DAL 18,41,27,Tom Brady pass complete short left to Wes Welker for -2 yards (tackle by Jacques Reeves),3.960,3.010
+4,2:13,,,,41,27,Timeout #1 by New England Patriots,0.000,3.010
+4,2:13,3,10,DAL 20,41,27,Tom Brady pass complete short right to Wes Welker for 11 yards (tackle by Akin Ayodele),3.010,5.140
+4,1:54,1,9,DAL 9,41,27,Kyle Eckel right tackle for 3 yards (tackle by Marcus R. Spears),5.140,4.950
+4,1:48,,,,41,27,Timeout #3 by Dallas Cowboys,0.000,4.950
+4,1:43,2,6,DAL 6,41,27,Kyle Eckel up the middle for 1 yard (tackle by Chris L. Canty),4.950,4.260
+4,1:09,3,5,DAL 5,41,27,Kyle Eckel left tackle for 4 yards (tackle by Roy Williams),4.260,3.550
+4,0:23,4,1,DAL 1,47,27,"Kyle Eckel right tackle for 1 yard, touchdown",3.550,7.000
+4,,,,DAL 2,48,27,Stephen Gostkowski kicks extra point good,0.000,0.000
+4,,,,NWE 30,48,27,"Stephen Gostkowski kicks off 47 yards, returned by Deon Anderson for 10 yards (tackle by Kelley Washington)",0.000,1.140
+4,0:13,1,10,DAL 33,48,27,Tony Romo kneels for -1 yards,1.140,0.460
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

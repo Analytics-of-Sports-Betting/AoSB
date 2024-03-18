@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,NOR 20,5,2:42,11,Punt
+2,1,9:25,NOR 17,10,4:14,83,Touchdown
+3,1,3:36,SFO 12,5,1:22,12,Touchdown
+4,2,13:45,NOR 24,12,6:05,76,Touchdown
+5,2,5:56,NOR 25,1,0:11,75,Touchdown
+6,2,3:53,NOR 25,5,2:06,21,Punt
+7,2,1:05,NOR 21,6,1:05,71,Field Goal
+8,3,12:07,NOR 1,3,1:53,7,Punt
+9,3,9:07,NOR 15,12,6:12,48,Missed FG
+10,3,1:36,NOR 23,7,3:23,77,Touchdown
+11,4,12:54,NOR 24,10,4:02,53,Field Goal
+12,4,6:05,NOR 8,5,3:11,22,Punt
+13,4,2:27,SFO 21,4,2:27,10,End of Game

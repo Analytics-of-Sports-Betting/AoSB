@@ -1,0 +1,182 @@
+Quarter,Time,Down,ToGo,Location,CAR,TAM,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Panthers won the coin toss and deferred, Buccaneers to receive the opening kickoff.",,
+1,15:00,,,CAR 35,0,0,"Joey Slye kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,TAM 25,0,0,Tom Brady pass complete short left to Scott Miller for 6 yards,0.610,0.870
+1,14:40,2,4,TAM 31,0,0,Ronald Jones right tackle for no gain (tackle by Tahir Whitehead),0.870,0.170
+1,14:02,3,4,TAM 31,0,0,Tom Brady pass incomplete short right intended for Mike Evans Penalty on TAM: Illegal Formation (Declined),0.170,-1.310
+1,13:56,4,4,TAM 31,0,0,"Bradley Pinion punts 40 yards, fair catch by Pharoh Cooper at CAR-29",-1.310,-0.870
+1,13:49,1,10,CAR 29,0,0,Teddy Bridgewater pass complete short left to D.J. Moore for 6 yards (tackle by Sean Murphy-Bunting),0.870,1.140
+1,13:17,2,4,CAR 35,0,0,Christian McCaffrey up the middle for 9 yards (tackle by Antoine Winfield),1.140,1.860
+1,12:42,1,10,CAR 44,0,0,Curtis Samuel right end for 1 yard (tackle by Lavonte David and Shaquil Barrett),1.860,1.450
+1,11:59,2,9,CAR 45,0,0,Teddy Bridgewater pass complete short right to Christian McCaffrey for 10 yards (tackle by Shaquil Barrett),1.450,2.590
+1,11:23,1,10,TAM 45,0,0,Christian McCaffrey right end for 4 yards (tackle by Carlton Davis and Devin White),2.590,2.580
+1,10:44,2,6,TAM 41,0,0,Teddy Bridgewater pass complete deep middle to D.J. Moore for 19 yards (tackle by Antoine Winfield and Carlton Davis),2.580,4.110
+1,10:07,1,10,TAM 22,0,0,Teddy Bridgewater pass short left intended for Christian McCaffrey is intercepted by Jordan Whitehead at TB-22 and returned for no gain,4.110,-0.410
+1,9:59,1,10,TAM 22,0,0,Ronald Jones left guard for 4 yards (tackle by Brian Burns),0.410,0.410
+1,9:23,2,6,TAM 26,0,0,Tom Brady pass incomplete short left intended for Mike Evans,0.410,-0.290
+1,9:18,3,6,TAM 26,0,0,Tom Brady pass complete short middle to LeSean McCoy for 7 yards (tackle by Corn Elder and Jeremy Chinn),-0.290,1.140
+1,8:45,1,10,TAM 33,0,0,Tom Brady pass complete short left to LeSean McCoy for 2 yards (tackle by Tahir Whitehead),1.140,0.860
+1,8:04,2,8,TAM 35,0,0,"Tom Brady pass complete short right to LeSean McCoy for 4 yards (tackle by Derrick Brown). Penalty on Ryan Jensen: Illegal Block Above the Waist, 10 yards",0.860,0.050
+1,7:40,2,14,TAM 29,0,0,Tom Brady pass complete deep middle to Mike Evans for 50 yards (tackle by Tre Boston),0.050,4.170
+1,6:56,1,10,CAR 21,0,0,Tom Brady pass incomplete deep right intended for Scott Miller,4.170,3.630
+1,6:50,2,10,CAR 21,0,0,Ronald Jones left guard for 1 yard (tackle by Woodrow Hamilton),3.630,3.070
+1,6:15,3,9,CAR 20,0,0,"Tom Brady pass complete short right to LeSean McCoy for 6 yards (tackle by Adarius Taylor). Penalty on Derrick Brown: Unnecessary Roughness, 7 yards",3.070,5.600
+1,5:47,1,7,CAR 7,0,6,"Ronald Jones right end for 7 yards, touchdown",5.600,7.000
+1,5:42,,,CAR 15,0,7,Ryan Succop kicks extra point good,0.000,0.000
+1,5:42,,,TAM 35,0,7,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+1,5:42,1,10,CAR 25,0,7,Christian McCaffrey left guard for 3 yards (tackle by Jason Pierre-Paul and Antoine Winfield),0.610,0.470
+1,4:57,2,7,CAR 28,0,7,"Teddy Bridgewater sacked by Antoine Winfield for no gain. Teddy Bridgewater fumbles (forced by Antoine Winfield), recovered by Jason Pierre-Paul at CAR-29 and returned for 6 yards (tackle by Christian McCaffrey and Mike Davis)",0.470,-4.040
+1,4:45,1,10,CAR 23,0,13,"Tom Brady pass complete deep left to Mike Evans for 23 yards, touchdown",4.040,7.000
+1,4:38,,,CAR 15,0,14,Ryan Succop kicks extra point good,0.000,0.000
+1,4:38,,,TAM 35,0,14,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+1,4:38,1,10,CAR 25,0,14,Teddy Bridgewater pass complete short right to Robby Anderson for -1 yards (tackle by Carlton Davis),0.610,-0.070
+1,3:53,2,11,CAR 24,0,14,Teddy Bridgewater pass complete short middle to Chris Manhertz for 8 yards (tackle by Rakeem Nunez-Roches),-0.070,0.300
+1,3:08,3,3,CAR 32,0,14,Teddy Bridgewater pass complete short left to Christian McCaffrey for 9 yards (tackle by Lavonte David),0.300,1.660
+1,2:28,1,10,CAR 41,0,14,Teddy Bridgewater pass incomplete short middle intended for D.J. Moore (defended by Devin White),1.660,1.120
+1,2:24,2,10,CAR 41,0,14,Teddy Bridgewater sacked by Ndamukong Suh for -7 yards,1.120,-0.490
+1,2:01,3,17,CAR 34,0,14,Teddy Bridgewater pass complete short left to Christian McCaffrey for 7 yards (tackle by Ndamukong Suh),-0.490,-0.650
+1,1:19,4,10,CAR 41,0,14,"Joseph Charlton punts 44 yards, returned by Jaydon Mickens for no gain (tackle by Julian Stanford and Jeremy Chinn)",-0.650,0.220
+1,1:08,1,10,TAM 15,0,14,Leonard Fournette right guard for 2 yards (tackle by Shaq Thompson and Zach Kerr),-0.220,-0.440
+1,0:31,2,8,TAM 17,0,14,Tom Brady pass complete short left to Leonard Fournette for 2 yards (tackle by Jeremy Chinn and Donte Jackson),-0.440,-0.880
+Quarter,Time,Down,ToGo,Location,CAR,TAM,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,6,TAM 19,0,14,Tom Brady pass complete short middle to LeSean McCoy for 7 yards (tackle by Corn Elder and Adarius Taylor),-0.880,0.670
+2,14:28,1,10,TAM 26,0,14,Leonard Fournette left end for 5 yards (tackle by Tahir Whitehead),0.670,0.810
+2,13:53,2,5,TAM 31,0,14,Leonard Fournette right end for 4 yards (tackle by Troy Pride and Jeremy Chinn),0.810,0.630
+2,13:09,,,,,,Timeout #1 by Tampa Bay Buccaneers,,
+2,13:09,3,1,TAM 35,0,14,Tom Brady pass complete short left to Mike Evans for 4 yards (tackle by Tahir Whitehead),0.630,1.530
+2,12:35,1,10,TAM 39,0,14,Leonard Fournette right tackle for 4 yards (tackle by Tahir Whitehead and Jeremy Chinn),1.530,1.530
+2,11:53,2,6,TAM 43,0,14,Scott Miller right end for 1 yard (tackle by Jeremy Chinn),1.530,0.960
+2,11:23,3,5,TAM 44,0,14,Tom Brady pass complete short right to Mike Evans for 6 yards (tackle by Rasul Douglas),0.960,2.260
+2,10:47,1,10,TAM 50,0,14,Tom Brady pass incomplete short right intended for Mike Evans,2.260,1.710
+2,10:40,2,10,TAM 50,0,14,Tom Brady pass complete short left to Justin Watson for 12 yards,1.710,3.050
+2,10:13,1,10,CAR 38,0,14,"Tom Brady aborted snap, recovered by Woodrow Hamilton at CAR-41",3.050,-1.660
+2,10:06,1,10,CAR 41,0,14,Christian McCaffrey left guard for -1 yards (tackle by Vita Vea),1.660,0.990
+2,9:35,2,11,CAR 40,0,14,Curtis Samuel right end for 3 yards (tackle by Shaquil Barrett),0.990,0.700
+2,8:53,3,8,CAR 43,0,14,Teddy Bridgewater pass complete short left to Robby Anderson for 13 yards (tackle by Lavonte David),0.700,2.650
+2,8:22,1,10,TAM 44,0,14,"Christian McCaffrey left guard for 9 yards (tackle by Antoine Winfield and Lavonte David) Penalty on CAR: Illegal Shift, 5 yards (no play)",2.650,2.320
+2,7:55,1,15,TAM 49,0,14,"Penalty on Ndamukong Suh: Neutral Zone Infraction, 5 yards (no play)",2.320,2.650
+2,7:43,1,10,TAM 44,0,14,Teddy Bridgewater pass incomplete short middle intended for D.J. Moore (defended by Jamel Dean),2.650,2.110
+2,7:38,,,,,,Timeout #1 by Carolina Panthers,,
+2,7:38,2,10,TAM 44,0,14,Christian McCaffrey up the middle for 7 yards (tackle by Lavonte David),2.110,2.350
+2,7:01,3,3,TAM 37,0,14,Mike Davis left guard for 1 yard (tackle by Devin White),2.350,0.890
+2,6:08,4,2,TAM 36,0,14,Jeremy Chinn up the middle for 1 yard (tackle by Jordan Whitehead),0.890,-1.270
+2,6:03,1,10,TAM 35,0,14,Ronald Jones right tackle for 4 yards (tackle by Tre Boston),1.270,1.260
+2,5:33,2,6,TAM 39,0,14,Tom Brady pass complete short right to Mike Evans for 8 yards (tackle by Rasul Douglas),1.260,2.060
+2,4:59,1,10,TAM 47,0,14,Tom Brady pass complete deep middle to Justin Watson for 36 yards (tackle by Tre Boston),2.060,4.440
+2,4:19,1,10,CAR 17,0,14,Leonard Fournette left end for 4 yards (tackle by Bravvion Roy and Marquis Haynes),4.440,4.500
+2,3:36,2,6,CAR 13,0,14,Tom Brady pass incomplete short right intended for O.J. Howard,4.500,3.680
+2,3:32,3,6,CAR 13,0,14,Tom Brady pass complete short left to Leonard Fournette for 12 yards (tackle by Donte Jackson and Tre Boston),3.680,6.970
+2,3:06,1,1,CAR 1,0,20,"Leonard Fournette up the middle for 1 yard, touchdown",6.970,7.000
+2,3:01,,,CAR 15,0,21,Ryan Succop kicks extra point good,0.000,0.000
+2,3:01,,,TAM 35,0,21,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+2,3:01,1,10,CAR 25,0,21,Teddy Bridgewater pass complete short middle to Robby Anderson for 12 yards (tackle by Lavonte David),0.610,1.400
+2,2:26,1,10,CAR 37,0,21,Christian McCaffrey right end for 5 yards (tackle by William Gholston and Devin White),1.400,1.530
+2,2:05,,,,,,Timeout #2 by Tampa Bay Buccaneers,,
+2,2:05,2,5,CAR 42,0,21,Teddy Bridgewater pass complete short left to Curtis Samuel for 3 yards (tackle by Jamel Dean),1.530,1.220
+2,2:00,3,2,CAR 45,0,21,"Penalty on D.J. Moore: False Start, 5 yards (no play)",1.220,0.560
+2,2:00,3,7,CAR 40,0,21,Teddy Bridgewater pass complete short middle to Christian McCaffrey for 3 yards (tackle by Antoine Winfield),0.560,-0.520
+2,1:54,,,,,,Timeout #3 by Tampa Bay Buccaneers,,
+2,1:54,4,4,CAR 43,0,21,"Joseph Charlton punts 57 yards, touchback.",-0.520,-0.280
+2,1:45,1,10,TAM 20,0,21,Tom Brady pass complete short middle to O.J. Howard for 11 yards (tackle by Corn Elder),0.280,1.000
+2,1:23,1,10,TAM 31,0,21,LeSean McCoy left tackle for -5 yards (tackle by Brian Burns),1.000,-0.220
+2,1:06,2,15,TAM 26,0,21,Tom Brady pass incomplete short middle intended for LeSean McCoy,-0.220,-0.890
+2,1:01,3,15,TAM 26,0,21,Tom Brady pass complete short right to Ronald Jones for 2 yards (tackle by Rasul Douglas),-0.890,-1.500
+2,0:55,,,,,,Timeout #2 by Carolina Panthers,,
+2,0:55,4,13,TAM 28,0,21,"Bradley Pinion punts 47 yards, returned by Pharoh Cooper for -1 yards (tackle by Anthony Nelson)",-1.500,-0.540
+2,0:40,1,10,CAR 24,0,21,Teddy Bridgewater pass incomplete deep left intended for D.J. Moore,0.540,0.000
+2,0:34,2,10,CAR 24,0,21,Teddy Bridgewater sacked by Jason Pierre-Paul for -6 yards,0.000,-1.640
+Quarter,Time,Down,ToGo,Location,CAR,TAM,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,TAM 35,0,21,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,CAR 25,0,21,Christian McCaffrey right guard for -4 yards (tackle by Jordan Whitehead),0.610,-0.480
+3,14:19,2,14,CAR 21,0,21,"Teddy Bridgewater pass complete short right to Robby Anderson for 6 yards (tackle by Lavonte David). Robby Anderson fumbles (forced by Lavonte David), recovered by Lavonte David at CAR-27",-0.480,-3.780
+3,14:14,1,10,CAR 27,0,21,Tom Brady pass deep left intended for Rob Gronkowski is intercepted by Donte Jackson at CAR-9 and returned for 44 yards,3.780,-2.460
+3,14:01,1,10,TAM 47,0,21,Christian McCaffrey up the middle for 5 yards (tackle by Devin White and Shaquil Barrett),2.460,2.590
+3,13:25,2,5,TAM 42,0,21,"Penalty on John Miller: False Start, 5 yards (no play)",2.590,1.910
+3,13:04,2,10,TAM 47,0,21,Teddy Bridgewater pass complete short left to Mike Davis for 4 yards (tackle by Shaquil Barrett),1.910,1.750
+3,12:17,3,6,TAM 43,0,21,Teddy Bridgewater pass complete short middle to D.J. Moore for 15 yards (tackle by Jason Pierre-Paul),1.750,3.710
+3,11:39,1,10,TAM 28,0,21,Christian McCaffrey left guard for 4 yards (tackle by Jordan Whitehead),3.710,3.710
+3,10:56,2,6,TAM 24,0,21,Curtis Samuel up the middle for 8 yards (tackle by Ndamukong Suh),3.710,4.510
+3,10:15,1,10,TAM 16,0,21,Christian McCaffrey up the middle for 5 yards (tackle by Devin White),4.510,4.760
+3,9:38,2,5,TAM 11,0,21,Christian McCaffrey up the middle for 3 yards (tackle by Jordan Whitehead),4.760,4.620
+3,8:48,3,2,TAM 8,0,21,"Teddy Bridgewater pass incomplete short right intended for Robby Anderson. Penalty on Carlton Davis: Defensive Pass Interference, 7 yards (no play)",4.620,6.970
+3,8:43,1,1,TAM 1,6,21,"Christian McCaffrey right tackle for 1 yard, touchdown",6.970,7.000
+3,8:36,,,TAM 15,7,21,Joey Slye kicks extra point good,0.000,0.000
+3,8:36,,,CAR 35,7,21,"Joey Slye kicks off 65 yards, touchback.",0.000,0.610
+3,8:36,1,10,TAM 25,7,21,Ronald Jones right end for 6 yards (tackle by Rasul Douglas),0.610,0.870
+3,8:11,2,4,TAM 31,7,21,Ronald Jones right end for 1 yard (tackle by Stephen Weatherly),0.870,0.300
+3,7:29,3,3,TAM 32,7,21,"Tom Brady pass incomplete deep right intended for Scott Miller. Penalty on Donte Jackson: Defensive Pass Interference, 23 yards (no play)",0.300,2.590
+3,7:24,1,10,CAR 45,7,21,Leonard Fournette left end for -1 yards (tackle by Brian Burns),2.590,1.910
+3,6:38,2,11,CAR 46,7,21,Tom Brady pass complete short right to Leonard Fournette for no gain (tackle by Brian Burns),1.910,1.220
+3,5:52,,,,,,Timeout #1 by Tampa Bay Buccaneers,,
+3,5:52,3,11,CAR 46,7,21,"Tom Brady pass incomplete short middle intended for Mike Evans. Penalty on Derrick Brown: Illegal Use of Hands, 5 yards (no play)",1.220,2.850
+3,5:48,1,10,CAR 41,7,21,Tom Brady pass complete short right to Mike Evans for 5 yards (tackle by Rasul Douglas),2.850,2.980
+3,5:16,2,5,CAR 36,7,21,"Leonard Fournette left end for 3 yards (tackle by Shaq Thompson). Penalty on Donovan Smith: Offensive Holding, 10 yards (no play)",2.980,1.630
+3,5:03,2,15,CAR 46,7,21,Tom Brady pass incomplete deep left intended for Cyril Grayson,1.630,0.960
+3,4:56,3,15,CAR 46,7,21,Tom Brady pass incomplete short middle intended for Leonard Fournette,0.960,0.200
+3,4:52,4,15,CAR 46,7,21,"Bradley Pinion punts 32 yards, fair catch by Pharoh Cooper at CAR-14. Penalty on Trenton Cannon: Illegal Block Above the Waist, 7 yards",0.200,0.380
+3,4:44,1,10,CAR 7,7,21,Christian McCaffrey right guard for -1 yards (tackle by Devin White and Jordan Whitehead),-0.380,-0.850
+3,4:02,2,11,CAR 6,7,21,Teddy Bridgewater pass complete short left to Robby Anderson for 5 yards (tackle by Sean Murphy-Bunting),-0.850,-0.950
+3,3:15,3,6,CAR 11,7,21,Teddy Bridgewater pass complete short middle to Curtis Samuel for 10 yards (tackle by Antoine Winfield),-0.950,0.340
+3,2:32,1,10,CAR 21,7,21,Teddy Bridgewater pass incomplete short right intended for D.J. Moore (defended by Carlton Davis),0.340,-0.200
+3,2:29,2,10,CAR 21,7,21,Teddy Bridgewater pass complete short left to Robby Anderson for 11 yards (tackle by Jamel Dean),-0.200,1.070
+3,2:04,1,10,CAR 32,7,21,Christian McCaffrey left guard for 4 yards (tackle by Devin White),1.070,1.070
+3,1:21,2,6,CAR 36,7,21,Teddy Bridgewater pass complete deep left to D.J. Moore for 30 yards (tackle by Sean Murphy-Bunting),1.070,3.310
+3,0:44,1,10,TAM 34,7,21,Christian McCaffrey right end for 5 yards (tackle by Lavonte David),3.310,3.450
+3,0:04,2,5,TAM 29,7,21,Curtis Samuel right end for 14 yards (tackle by Antoine Winfield),3.450,4.580
+Quarter,Time,Down,ToGo,Location,CAR,TAM,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,TAM 15,7,21,Christian McCaffrey right guard for 1 yard (tackle by Devin White and Ndamukong Suh),4.580,4.110
+4,14:20,2,9,TAM 14,7,21,"Penalty on Rakeem Nunez-Roches: Neutral Zone Infraction, 5 yards (no play)",4.110,5.030
+4,14:03,2,4,TAM 9,7,21,Christian McCaffrey up the middle for 2 yards (tackle by Jason Pierre-Paul and Devin White),5.030,4.680
+4,13:38,3,2,TAM 7,7,21,Teddy Bridgewater pass incomplete short right,4.680,3.000
+4,13:30,,,,,,Timeout #1 by Carolina Panthers,,
+4,13:30,4,2,TAM 7,13,21,"Christian McCaffrey left end for 7 yards, touchdown",3.000,7.000
+4,13:25,,,TAM 15,14,21,Joey Slye kicks extra point good,0.000,0.000
+4,13:25,,,CAR 35,14,21,"Joey Slye kicks off 65 yards, touchback.",0.000,0.610
+4,13:25,1,10,TAM 25,14,21,Tom Brady pass complete short right to Ronald Jones for 2 yards (tackle by Shaq Thompson),0.610,0.330
+4,12:53,2,8,TAM 27,14,21,"Tom Brady pass incomplete deep left intended for Rob Gronkowski. Penalty on Tahir Whitehead: Defensive Pass Interference, 10 yards (no play)",0.330,1.400
+4,12:49,1,10,TAM 37,14,21,Tom Brady pass incomplete short right intended for O.J. Howard,1.400,0.860
+4,12:44,2,10,TAM 37,14,21,Tom Brady pass complete short left to Scott Miller for 5 yards (tackle by Donte Jackson),0.860,0.830
+4,12:05,3,5,TAM 42,14,21,Tom Brady pass incomplete short middle intended for Justin Watson (defended by Corn Elder),0.830,-0.590
+4,12:00,4,5,TAM 42,14,21,"Bradley Pinion punts 49 yards, muffed catch by Pharoh Cooper",-0.590,0.350
+4,11:52,1,10,CAR 12,14,21,Teddy Bridgewater pass complete deep left to Robby Anderson for 39 yards (tackle by Sean Murphy-Bunting and Antoine Winfield),-0.350,2.320
+4,11:02,1,10,TAM 49,14,21,Teddy Bridgewater sacked by William Gholston for -7 yards,2.320,0.840
+4,10:21,2,17,CAR 44,14,21,Teddy Bridgewater pass incomplete short right intended for Mike Davis. Penalty on Shaquil Barrett: Defensive Offside (Offsetting) Penalty on CAR: Offensive Holding (Offsetting) (no play),0.840,0.840
+4,10:15,2,17,CAR 44,14,21,Teddy Bridgewater pass deep right intended for D.J. Moore is intercepted by Carlton Davis at TB-38 and returned for 2 yards,0.840,-1.600
+4,10:10,1,10,TAM 40,14,21,Tom Brady pass complete short left to Mike Evans for 8 yards (tackle by Juston Burris),1.600,2.130
+4,9:34,2,2,TAM 48,14,21,Leonard Fournette up the middle for 25 yards (tackle by Rasul Douglas),2.130,3.780
+4,8:54,1,10,CAR 27,14,21,Leonard Fournette up the middle for 6 yards (tackle by Tre Boston and Jeremy Chinn),3.780,4.040
+4,8:20,2,4,CAR 21,14,21,Leonard Fournette left end for 4 yards (tackle by Stephen Weatherly),4.040,4.440
+4,7:45,1,10,CAR 17,14,21,Leonard Fournette right guard for 3 yards (tackle by Efe Obada and Tahir Whitehead),4.440,4.320
+4,7:07,2,7,CAR 14,14,21,Tom Brady pass complete short right to Leonard Fournette for -1 yards (tackle by Rasul Douglas),4.320,3.340
+4,6:25,3,8,CAR 15,14,21,Tom Brady pass incomplete short right intended for LeSean McCoy,3.340,2.440
+4,6:18,4,8,CAR 15,14,24,Ryan Succop 33 yard field goal good,2.440,3.000
+4,6:13,,,TAM 35,14,24,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+4,6:13,1,10,CAR 25,14,24,Teddy Bridgewater pass complete short left to Mike Davis for 16 yards (tackle by Devin White),0.610,1.660
+4,5:40,1,10,CAR 41,14,24,Teddy Bridgewater pass complete deep left to D.J. Moore for 18 yards (tackle by Antoine Winfield),1.660,2.850
+4,4:57,1,10,TAM 41,14,24,Teddy Bridgewater pass complete short left to Mike Davis for 8 yards (tackle by Devin White),2.850,3.390
+4,4:24,2,2,TAM 33,14,24,Teddy Bridgewater pass complete short left to Mike Davis for 7 yards (tackle by Lavonte David),3.390,3.840
+4,3:56,1,10,TAM 26,14,24,Teddy Bridgewater pass complete short left to D.J. Moore for 5 yards (tackle by Devin White),3.840,3.970
+4,3:27,2,5,TAM 21,14,24,Teddy Bridgewater pass complete short right to Robby Anderson for 12 yards (tackle by Antoine Winfield),3.970,5.140
+4,2:57,1,9,TAM 9,14,24,"Teddy Bridgewater pass incomplete short left. Penalty on Teddy Bridgewater: Intentional Grounding, 10 yards",5.140,3.070
+4,2:52,2,19,TAM 19,14,24,Teddy Bridgewater pass complete short middle to Robby Anderson for 12 yards (tackle by Carlton Davis and Devin White),3.070,3.810
+4,2:22,3,7,TAM 7,14,24,Teddy Bridgewater pass complete short middle to Mike Davis for 2 yards (tackle by Devin White),3.810,3.010
+4,2:00,4,5,TAM 5,17,24,Joey Slye 23 yard field goal good,3.010,3.000
+4,1:57,,,CAR 35,17,24,"Joey Slye kicks onside 11 yards, returned by Rob Gronkowski for no gain",0.000,2.520
+4,1:56,1,10,CAR 46,17,30,"Leonard Fournette up the middle for 46 yards, touchdown",2.520,7.000
+4,1:48,,,CAR 15,17,31,Ryan Succop kicks extra point good,0.000,0.000
+4,1:48,,,TAM 35,17,31,"Bradley Pinion kicks off 65 yards, touchback.",0.000,0.610
+4,1:48,1,10,CAR 25,17,31,Teddy Bridgewater pass complete short right to Mike Davis for 22 yards (tackle by Antoine Winfield),0.610,2.060
+4,1:17,1,10,CAR 47,17,31,Teddy Bridgewater pass complete short left to D.J. Moore for 14 yards (tackle by Jamel Dean),2.060,2.980
+4,1:11,1,10,TAM 39,17,31,Teddy Bridgewater sacked by Ndamukong Suh for -7 yards,2.980,1.500
+4,1:03,,,,,,Timeout #2 by Carolina Panthers,,
+4,1:03,2,17,TAM 46,17,31,Teddy Bridgewater pass complete short left to Mike Davis for 8 yards (tackle by Lavonte David and Jamel Dean),1.500,1.880
+4,0:40,3,9,TAM 38,17,31,Teddy Bridgewater pass complete short middle to D.J. Moore for 13 yards (tackle by Jamel Dean),1.880,3.910
+4,0:22,1,10,TAM 25,17,31,Teddy Bridgewater pass complete short left to Mike Davis for 7 yards (tackle by Jamel Dean),3.910,4.370
+4,0:16,,,,,,Timeout #3 by Carolina Panthers,,
+4,0:16,2,3,TAM 18,17,31,Teddy Bridgewater pass incomplete deep left intended for Robby Anderson,4.370,3.660
+4,0:09,3,3,TAM 18,17,31,Teddy Bridgewater pass complete short left to Alex Armah for 14 yards (tackle by Devin White),3.660,3.450
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

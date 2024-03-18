@@ -1,0 +1,191 @@
+Quarter,Time,Down,ToGo,Location,PHI,BAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Ravens won the coin toss and deferred, Eagles to receive the opening kickoff.",,
+1,15:00,,,BAL 35,0,0,"Justin Tucker kicks off 65 yards, touchback",0.000,-0.610
+1,15:00,1,10,PHI 25,0,0,Ryan Mathews right guard for no gain (tackle by Lawrence Guy),0.610,0.060
+1,14:21,2,10,PHI 25,0,0,Kenjon Barner right tackle for 2 yards (tackle by Elvis Dumervil),0.060,-0.360
+1,13:38,3,8,PHI 27,0,0,Carson Wentz pass incomplete short middle intended for Trey Burton is intercepted by Zach Orr at PHI-37 and returned for 1 yard. Penalty on Jason Peters: Offensive Holding (Declined),-0.360,-3.180
+1,13:32,1,10,PHI 36,0,0,Terrance West middle for 1 yard (tackle by Bennie Logan),3.180,2.770
+1,13:01,2,9,PHI 35,0,0,Joe Flacco pass complete short right to Terrance West for 17 yards (tackle by Jordan Hicks),2.770,4.370
+1,12:20,1,10,PHI 18,0,0,Joe Flacco pass incomplete short right intended for Steve Smith,4.370,3.800
+1,12:16,2,10,PHI 18,0,0,Terrance West right guard for 13 yards (tackle by Rodney McLeod),3.800,6.060
+1,11:41,1,5,PHI 5,0,6,"Joe Flacco pass complete short right to Kamar Aiken for 5 yards, touchdown",6.060,7.000
+1,11:38,,,PHI 15,0,7,Justin Tucker kicks extra point good,0.000,0.000
+1,11:38,,,BAL 35,0,7,"Justin Tucker kicks off 55 yards, returned by Nelson Agholor for 27 yards (tackle by Matt Elam)",0.000,-1.400
+1,11:31,1,10,PHI 37,0,7,Carson Wentz pass complete short left to Trey Burton for 1 yard (tackle by Shareece Wright),1.400,0.990
+1,10:55,2,9,PHI 38,0,7,Carson Wentz pass complete short right to Jordan Matthews for 3 yards (tackle by Lardarius Webb),0.990,0.700
+1,10:13,3,6,PHI 41,0,7,Carson Wentz pass complete short left to Kenjon Barner for 15 yards (tackle by Jerraud Powers),0.700,2.650
+1,9:40,1,10,BAL 44,0,7,Carson Wentz pass incomplete short left intended for Kenjon Barner,2.650,2.110
+1,9:35,2,10,BAL 44,0,7,Carson Wentz pass incomplete short left intended for Jordan Matthews,2.110,1.420
+1,9:31,3,10,BAL 44,0,7,"Carson Wentz sacked by Elvis Dumervil for -11 yards. Carson Wentz fumbles (forced by Elvis Dumervil), ball out of bounds at PHI-45",1.420,-0.390
+1,9:07,4,21,PHI 45,0,7,"Donnie Jones punts 43 yards, fair catch by Michael Campanaro",-0.390,0.350
+1,9:03,1,10,BAL 12,0,7,Joe Flacco sacked by Brandon Graham and Beau Allen for -7 yards,-0.350,-1.290
+1,8:22,2,17,BAL 5,0,7,Kenneth Dixon right tackle for no gain (tackle by Leodis McKelvin),-1.290,-2.240
+1,7:47,3,17,BAL 5,0,7,Joe Flacco pass incomplete deep right intended for Mike Wallace,-2.240,-2.490
+1,7:42,4,17,BAL 5,0,7,"Sam Koch punts 60 yards, returned by Kenjon Barner for 22 yards (tackle by Matt Elam)",-2.490,-2.720
+1,7:29,1,10,BAL 43,0,7,Carson Wentz middle for 5 yards (tackle by C.J. Mosley),2.720,2.850
+1,6:56,2,5,BAL 38,0,7,Ryan Mathews right tackle for 7 yards (tackle by C.J. Mosley and Eric Weddle),2.850,3.510
+1,6:14,1,10,BAL 31,0,7,Ryan Mathews right guard for no gain (tackle by Eric Weddle and Matt Judon),3.510,2.970
+1,5:34,2,10,BAL 31,0,7,Carson Wentz pass complete short left to Jordan Matthews for 4 yards (tackle by Jerraud Powers and Terrell Suggs),2.970,2.810
+1,4:52,3,6,BAL 27,0,7,Carson Wentz pass incomplete short left intended for Kenjon Barner,2.810,1.700
+1,4:47,4,6,BAL 27,3,7,Caleb Sturgis 45 yard field goal good,1.700,3.000
+1,4:42,,,PHI 35,3,7,"Caleb Sturgis kicks off 70 yards, returned by Chris Moore for 17 yards (tackle by Chris Maragos)",0.000,0.350
+1,4:38,1,10,BAL 12,3,7,Terrance West left guard for 4 yards (tackle by Nigel Bradham),-0.350,-0.370
+1,4:01,2,6,BAL 16,3,7,Joe Flacco pass complete short right to Mike Wallace for 6 yards (tackle by Jalen Mills),-0.370,0.410
+1,3:17,1,10,BAL 22,3,7,Michael Campanaro for 39 yards (tackle by Malcolm Jenkins),0.410,2.980
+1,2:45,1,10,PHI 39,3,7,Joe Flacco pass incomplete deep right intended for Steve Smith,2.980,2.440
+1,2:38,2,10,PHI 39,3,7,Terrance West middle for 4 yards (tackle by Jordan Hicks and Nigel Bradham),2.440,2.280
+1,2:05,3,6,PHI 35,3,7,Joe Flacco pass incomplete short middle intended for Steve Smith,2.280,0.970
+1,2:00,4,6,PHI 35,3,10,Justin Tucker 53 yard field goal good,0.970,3.000
+1,1:55,,,BAL 35,3,10,"Justin Tucker kicks off 59 yards, returned by Kenjon Barner for 26 yards (tackle by Marqueston Huff)",0.000,-1.070
+1,1:49,1,10,PHI 32,3,10,Ryan Mathews middle for -2 yards (tackle by Terrell Suggs),1.070,0.260
+1,1:12,2,12,PHI 30,3,10,"Carson Wentz for no gain. Carson Wentz fumbles, recovered by Carson Wentz at PHI-29",0.260,-0.560
+1,0:29,3,13,PHI 29,3,10,Carson Wentz pass incomplete short right intended for Jordan Matthews. Penalty on PHI: Offensive Pass Interference (Declined),-0.560,-1.440
+1,0:17,4,13,PHI 29,3,10,"Donnie Jones punts 51 yards, out of bounds. Penalty on Shareece Wright: Offensive Holding, 10 yards",-1.440,0.380
+1,0:14,1,10,BAL 10,3,10,Kenneth Dixon left guard for 3 yards (tackle by Brandon Graham),-0.380,-0.560
+Quarter,Time,Down,ToGo,Location,PHI,BAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,7,BAL 13,3,10,Joe Flacco pass incomplete short left intended for Mike Wallace (defended by Jalen Mills),-0.560,-1.070
+2,14:55,3,7,BAL 13,3,10,"Joe Flacco sacked by Nigel Bradham for -7 yards. Joe Flacco fumbles (forced by Nigel Bradham), recovered by Fletcher Cox at BAL-8 (tackle by Marshal Yanda)",-1.070,-5.370
+2,14:44,1,8,BAL 8,3,10,"Penalty on Terrell Suggs: Neutral Zone Infraction, 4 yards (no play)",5.370,6.280
+2,14:44,1,4,BAL 4,9,10,"Ryan Mathews right guard for 4 yards, touchdown",6.280,7.000
+2,14:38,,,BAL 2,11,10,"Two Point Attempt: Ryan Mathews middle, conversion succeeds",0.000,1.000
+2,14:38,,,PHI 35,11,10,"Caleb Sturgis kicks off 58 yards, returned by Chris Moore for 18 yards (tackle by Mychal Kendricks)",0.000,-0.610
+2,14:32,1,10,BAL 25,11,10,Terrance West right guard for 8 yards (tackle by Beau Allen),0.610,1.140
+2,13:55,2,2,BAL 33,11,10,Joe Flacco pass complete short left to Kyle Juszczyk for -3 yards (tackle by Jordan Hicks),1.140,0.040
+2,13:13,3,5,BAL 30,11,10,Joe Flacco pass complete short middle to Kamar Aiken for 14 yards (tackle by Rodney McLeod),0.040,1.860
+2,12:37,1,10,BAL 44,11,10,Terrance West left guard for 4 yards (tackle by Jordan Hicks),1.860,1.860
+2,12:07,2,6,BAL 48,11,10,Terrance West right guard for 2 yards (tackle by Brandon Graham),1.860,1.420
+2,11:25,3,4,,11,10,Joe Flacco pass complete short right to Terrance West for 16 yards (tackle by Leodis McKelvin and Rodney McLeod),1.420,3.310
+2,10:48,1,10,PHI 34,11,10,Kenneth Dixon left guard for -2 yards (tackle by Nigel Bradham),3.310,2.500
+2,10:14,2,12,PHI 36,11,10,Joe Flacco pass incomplete short middle intended for Kenneth Dixon,2.500,1.820
+2,10:09,3,12,PHI 36,11,10,Joe Flacco pass complete short left to Kyle Juszczyk for 8 yards (tackle by Malcolm Jenkins and Nolan Carroll),1.820,1.650
+2,9:27,4,4,PHI 28,11,13,Justin Tucker 47 yard field goal good,1.650,3.000
+2,9:21,,,BAL 35,11,13,"Justin Tucker kicks off 65 yards, touchback",0.000,-0.610
+2,9:21,1,10,PHI 25,11,13,Ryan Mathews right tackle for 8 yards (tackle by Brandon Williams),0.610,1.140
+2,8:42,2,2,PHI 33,11,13,Kenjon Barner right guard for 2 yards (tackle by Matt Judon),1.140,1.270
+2,8:02,1,10,PHI 35,11,13,Ryan Mathews left tackle for 10 yards (tackle by Albert McClellan),1.270,1.930
+2,7:20,1,10,PHI 45,11,13,Kenjon Barner left guard for 2 yards (tackle by Brandon Williams),1.930,1.650
+2,6:57,2,8,PHI 47,11,13,Carson Wentz pass incomplete short left intended for Kenjon Barner,1.650,0.960
+2,6:53,3,8,PHI 47,11,13,Carson Wentz pass complete short left to Kenjon Barner for 10 yards (tackle by Eric Weddle),0.960,2.720
+2,6:17,1,10,BAL 43,11,13,Ryan Mathews right guard for 4 yards (tackle by Elvis Dumervil),2.720,2.720
+2,5:41,2,6,BAL 39,11,13,Ryan Mathews left guard for 5 yards (tackle by Terrell Suggs and C.J. Mosley),2.720,2.680
+2,4:58,3,1,BAL 34,11,13,Carson Wentz pass incomplete short right intended for Nelson Agholor,2.680,1.100
+2,4:54,4,1,BAL 34,11,13,Carson Wentz pass complete short right to Zach Ertz for 11 yards (tackle by Albert McClellan and Lardarius Webb),1.100,4.040
+2,4:20,1,10,BAL 23,11,13,Byron Marshall right guard for 3 yards (tackle by Lawrence Guy and C.J. Mosley),4.040,3.900
+2,3:45,2,7,BAL 20,11,13,"Byron Marshall left tackle for -3 yards (tackle by Michael Pierce). Penalty on Jason Kelce: Offensive Holding, 10 yards (no play)",3.900,2.550
+2,3:19,2,17,BAL 30,11,13,"Ryan Mathews left guard for 13 yards (tackle by C.J. Mosley). Ryan Mathews fumbles (forced by C.J. Mosley), ball out of bounds at BAL-17",2.550,3.660
+2,2:45,3,4,BAL 17,11,13,Ryan Mathews left guard for 6 yards (tackle by Lawrence Guy),3.660,0.000
+2,2:03,,,,11,13,Timeout #1 by Baltimore Ravens,0.000,-4.840
+2,2:03,1,10,BAL 11,11,13,Byron Marshall right guard for -4 yards (tackle by Albert McClellan),4.840,3.560
+2,1:57,2,14,BAL 15,11,13,Carson Wentz pass complete short right to Byron Marshall for -1 yards (tackle by Terrell Suggs),3.560,0.000
+2,1:49,,,,11,13,Timeout #2 by Baltimore Ravens,0.000,-2.890
+2,1:49,3,15,BAL 16,11,13,Carson Wentz pass incomplete short middle intended for Jordan Matthews,2.890,2.380
+2,1:43,4,15,BAL 16,14,13,Caleb Sturgis 34 yard field goal good,2.380,3.000
+2,1:39,,,PHI 35,14,13,"Caleb Sturgis kicks off 64 yards, returned by Chris Moore for 34 yards (tackle by Trey Burton). Chris Moore fumbles, recovered by Marqueston Huff at BAL-35 (tackle by Marcus Smith)",0.000,-1.270
+2,1:27,1,10,BAL 35,14,13,Joe Flacco pass incomplete short middle intended for Breshad Perriman,1.270,0.720
+2,1:23,2,10,BAL 35,14,13,Joe Flacco pass complete short right to Dennis Pitta for 6 yards (tackle by Jaylen Watkins),0.720,0.830
+2,1:05,3,4,BAL 41,14,13,"Joe Flacco pass incomplete short right intended for Breshad Perriman (defended by Jalen Mills). Penalty on Jalen Mills: Defensive Pass Interference, 5 yards (no play)",0.830,1.990
+2,1:01,1,10,BAL 46,14,13,Joe Flacco pass incomplete deep middle intended for Steve Smith,1.990,1.450
+2,0:55,2,10,BAL 46,14,13,Joe Flacco pass complete short middle to Dennis Pitta for 10 yards (tackle by Beau Allen),1.450,0.000
+2,0:55,,,,14,13,Timeout #3 by Baltimore Ravens,0.000,-2.650
+2,0:36,1,10,PHI 44,14,13,Joe Flacco pass incomplete short right intended for Mike Wallace,2.650,2.110
+2,0:31,2,10,PHI 44,14,13,Joe Flacco pass complete short left to Kyle Juszczyk for 10 yards (tackle by Nigel Bradham),2.110,3.310
+2,0:18,1,10,PHI 34,14,13,Joe Flacco spiked the ball,3.310,2.770
+2,0:16,2,10,PHI 34,14,19,"Joe Flacco pass complete deep right to Steve Smith for 34 yards, touchdown",2.770,7.000
+2,0:09,,,PHI 15,14,20,Justin Tucker kicks extra point good,0.000,0.000
+2,0:09,,,BAL 35,14,20,"Justin Tucker kicks off 65 yards, touchback",0.000,-0.610
+2,0:09,1,10,PHI 25,14,20,Carson Wentz kneels for -1 yards,0.610,-0.070
+Quarter,Time,Down,ToGo,Location,PHI,BAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PHI 35,14,20,"Caleb Sturgis kicks off 65 yards, touchback",0.000,-0.610
+3,15:00,1,10,BAL 25,14,20,Terrance West right tackle for 41 yards (tackle by Rodney McLeod),0.610,3.310
+3,14:20,1,10,PHI 34,14,20,Terrance West left guard for 3 yards (tackle by Beau Allen and Mychal Kendricks),3.310,3.180
+3,13:44,2,7,PHI 31,14,20,Kenneth Dixon left guard for -3 yards (tackle by Bennie Logan),3.180,2.080
+3,13:05,3,10,PHI 34,14,20,Joe Flacco sacked by Fletcher Cox for -5 yards,2.080,0.660
+3,12:32,4,15,PHI 39,14,20,"Sam Koch punts 39 yards, touchback",0.660,-0.280
+3,12:24,1,10,PHI 20,14,20,Ryan Mathews left guard for 4 yards (tackle by Brandon Williams),0.280,0.270
+3,11:45,2,6,PHI 24,14,20,Carson Wentz pass complete short right to Brent Celek for 5 yards (tackle by Lardarius Webb),0.270,0.230
+3,11:01,3,1,PHI 29,14,20,Carson Wentz pass complete short left to Ryan Mathews for 5 yards (tackle by Albert McClellan and Eric Weddle),0.230,1.200
+3,10:18,1,10,PHI 34,14,20,"Carson Wentz pass incomplete deep left intended for Jordan Matthews is intercepted by Eric Weddle at BAL-16. Penalty on Zach Orr: Illegal Contact, 5 yards (no play)",1.200,1.530
+3,10:08,1,10,PHI 39,14,20,"Byron Marshall right end for no gain (tackle by Lardarius Webb). Penalty on Zach Orr: Unnecessary Roughness, 15 yards",1.530,2.520
+3,10:00,1,10,BAL 46,14,20,Byron Marshall left end for -2 yards (tackle by Jerraud Powers),2.520,1.710
+3,8:52,2,12,BAL 48,14,20,Carson Wentz pass complete short right to Nelson Agholor for 9 yards (tackle by Lardarius Webb),1.710,2.210
+3,8:12,3,3,BAL 39,14,20,Carson Wentz pass incomplete short right intended for Jordan Matthews,2.210,0.660
+3,8:05,4,3,BAL 39,14,20,Carson Wentz pass incomplete short left intended for Trey Burton,0.660,-1.530
+3,8:01,1,10,BAL 39,14,20,Joe Flacco pass complete short right to Terrance West for 2 yards (tackle by Nigel Bradham and Jordan Hicks),1.530,1.260
+3,7:42,2,8,BAL 41,14,20,Terrance West right guard for -4 yards (tackle by Vinny Curry),1.260,0.040
+3,7:06,3,12,BAL 37,14,20,Joe Flacco pass incomplete short right intended for Kyle Juszczyk,0.040,-0.910
+3,7:00,4,12,BAL 37,14,20,Sam Koch punts 51 yards,-0.910,0.350
+3,6:47,1,10,PHI 12,14,20,Ryan Mathews left end for no gain (tackle by Terrell Suggs),-0.350,-0.780
+3,6:04,2,10,PHI 12,14,20,Carson Wentz pass complete short middle to Zach Ertz for 7 yards (tackle by C.J. Mosley),-0.780,-0.600
+3,5:20,3,3,PHI 19,14,20,Byron Marshall right guard for 12 yards (tackle by Eric Weddle),-0.600,1.000
+3,4:41,1,10,PHI 31,14,20,Byron Marshall middle for 10 yards (tackle by Brandon Williams),1.000,1.660
+3,3:58,1,10,PHI 41,14,20,Carson Wentz pass complete deep left to Zach Ertz for 24 yards (tackle by Eric Weddle and Shareece Wright),1.660,3.250
+3,3:17,1,10,BAL 35,14,20,Byron Marshall right tackle for 4 yards (tackle by Brandon Williams),3.250,3.240
+3,2:38,2,6,BAL 31,14,20,Ryan Mathews middle for 3 yards (tackle by Michael Pierce),3.240,2.940
+3,1:54,3,3,BAL 28,14,20,Bryce Treggs left end for 4 yards (tackle by Eric Weddle and Zach Orr),2.940,3.970
+3,1:14,1,10,BAL 24,14,20,Ryan Mathews left guard for 12 yards (tackle by C.J. Mosley),3.970,4.780
+3,0:40,1,10,BAL 12,14,20,Ryan Mathews left guard for 3 yards (tackle by Michael Pierce),4.780,4.640
+Quarter,Time,Down,ToGo,Location,PHI,BAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,7,BAL 9,14,20,Carson Wentz pass incomplete short middle intended for Byron Marshall,4.640,3.700
+4,14:56,3,7,BAL 9,14,20,Carson Wentz pass incomplete short middle intended for Trey Burton,3.700,2.830
+4,14:51,4,7,BAL 9,17,20,Caleb Sturgis 27 yard field goal good,2.830,3.000
+4,14:48,,,PHI 35,17,20,"Caleb Sturgis kicks off 63 yards, returned by Chris Moore for 29 yards (tackle by Najee Goode)",0.000,-1.000
+4,14:42,1,10,BAL 31,17,20,Joe Flacco pass incomplete short right intended for Michael Campanaro,1.000,0.460
+4,14:38,2,10,BAL 31,17,20,Kenneth Dixon right guard for 4 yards (tackle by Vinny Curry),0.460,0.300
+4,13:57,3,6,BAL 35,17,20,Joe Flacco pass complete short middle to Steve Smith for 6 yards (tackle by Malcolm Jenkins),0.300,1.660
+4,13:20,1,10,BAL 41,17,20,"Kenneth Dixon left guard for 12 yards. Penalty on Vlad Ducasse: Offensive Holding, 10 yards",1.660,1.960
+4,12:57,1,8,BAL 43,17,20,Joe Flacco pass complete short left to Terrance West for 10 yards (tackle by Jaylen Watkins),1.960,2.460
+4,12:23,1,10,PHI 47,17,20,Joe Flacco pass complete short middle to Darren Waller for 11 yards (tackle by Connor Barwin),2.460,3.180
+4,11:40,1,10,PHI 36,17,20,"Kenneth Dixon right guard for 5 yards (tackle by Brandon Graham). Penalty on Bennie Logan: Face Mask (15 Yards), 15 yards",3.180,4.510
+4,11:14,1,10,PHI 16,17,26,"Kenneth Dixon left end for 16 yards, touchdown",4.510,7.000
+4,11:06,,,PHI 15,17,27,Justin Tucker kicks extra point good,0.000,0.000
+4,11:06,,,BAL 35,17,27,"Justin Tucker kicks off 65 yards, touchback",0.000,-0.610
+4,11:06,1,10,PHI 25,17,27,Ryan Mathews right guard for 3 yards (tackle by Brandon Williams),0.610,0.470
+4,10:27,2,7,PHI 28,17,27,Carson Wentz pass complete short middle to Dorial Green-Beckham for 11 yards (tackle by Tavon Young),0.470,1.530
+4,9:54,1,10,PHI 39,17,27,Ryan Mathews left guard for 19 yards (tackle by Albert McClellan),1.530,2.790
+4,9:12,1,10,BAL 42,17,27,Carson Wentz pass complete short right to Trey Burton for 1 yard (tackle by Tavon Young),2.790,2.380
+4,8:32,2,9,BAL 41,17,27,Carson Wentz pass incomplete deep left intended for Trey Burton,2.380,1.680
+4,8:27,3,9,BAL 41,17,27,Carson Wentz pass complete short right to Byron Marshall for 7 yards (tackle by Tavon Young),1.680,1.100
+4,7:49,4,2,BAL 34,17,27,Nelson Agholor left end for 1 yard (tackle by Eric Weddle),1.100,-1.140
+4,7:43,1,10,BAL 33,17,27,Terrance West right guard for 2 yards (tackle by Jalen Mills),1.140,0.860
+4,7:02,2,8,BAL 35,17,27,Joe Flacco pass incomplete short right intended for Steve Smith,0.860,0.170
+4,6:59,3,8,BAL 35,17,27,Joe Flacco pass complete short middle to Mike Wallace for 54 yards (tackle by Rodney McLeod),0.170,0.000
+4,6:21,,,,17,27,Timeout #1 by Baltimore Ravens,0.000,-4.840
+4,6:21,1,10,PHI 11,17,27,Joe Flacco pass incomplete short left intended for Darren Waller is intercepted by Jordan Hicks at PHI-6 and returned for 34 yards,4.840,-1.600
+4,6:12,1,10,PHI 40,17,27,Ryan Mathews middle for 11 yards (tackle by C.J. Mosley),1.600,2.320
+4,5:46,1,10,BAL 49,17,27,Ryan Mathews left tackle for 18 yards (tackle by Eric Weddle and Zach Orr),2.320,3.510
+4,5:08,1,10,BAL 31,17,27,Carson Wentz pass complete short right to Jordan Matthews for 1 yard (tackle by Jerraud Powers),3.510,3.100
+4,4:47,2,9,BAL 30,17,27,Carson Wentz pass complete short middle to Jordan Matthews for 6 yards (tackle by C.J. Mosley),3.100,3.200
+4,4:21,3,3,BAL 24,17,27,Carson Wentz pass complete short middle to Zach Ertz for 5 yards (tackle by C.J. Mosley),3.200,4.310
+4,3:52,1,10,BAL 19,17,27,Byron Marshall left tackle for 3 yards (tackle by C.J. Mosley),4.310,4.180
+4,3:30,2,7,BAL 16,17,27,Carson Wentz pass complete short middle to Zach Ertz for 9 yards (tackle by C.J. Mosley and Lardarius Webb),4.180,5.600
+4,3:04,1,7,BAL 7,17,27,Carson Wentz pass incomplete short right intended for Zach Ertz,5.600,4.760
+4,3:00,2,7,BAL 7,17,27,Byron Marshall left guard for -4 yards (tackle by Terrell Suggs),4.760,3.120
+4,2:30,3,11,BAL 11,17,27,Carson Wentz pass incomplete short right intended for Dorial Green-Beckham (defended by Tavon Young),3.120,2.700
+4,2:26,4,11,BAL 11,20,27,Caleb Sturgis 29 yard field goal good,2.700,3.000
+4,2:22,,,PHI 35,20,27,"Caleb Sturgis kicks off 61 yards, returned by Lardarius Webb for 8 yards (tackle by Kamu Grugier-Hill)",0.000,0.350
+4,2:18,1,10,BAL 12,20,27,Terrance West right guard for -2 yards (tackle by Bennie Logan),-0.350,-0.930
+4,2:00,2,12,BAL 10,20,27,Terrance West right guard for 1 yard (tackle by Bennie Logan and Brandon Graham),-0.930,0.000
+4,1:54,,,,20,27,Timeout #1 by Philadelphia Eagles,0.000,1.540
+4,1:54,3,11,BAL 11,20,27,Kenneth Dixon middle for 1 yard (tackle by Fletcher Cox and Brandon Graham),-1.540,0.000
+4,1:50,,,,20,27,Timeout #2 by Baltimore Ravens,0.000,2.490
+4,1:50,4,10,BAL 12,20,27,Sam Koch punts 47 yards,-2.490,-1.660
+4,1:39,1,10,PHI 41,20,27,Carson Wentz pass complete short middle to Jordan Matthews for 8 yards (tackle by C.J. Mosley and Elvis Dumervil),1.660,2.200
+4,1:15,2,2,PHI 49,20,27,Carson Wentz pass incomplete short left intended for Nelson Agholor,2.200,1.490
+4,0:49,3,2,PHI 49,20,27,Carson Wentz pass complete short middle to Jordan Matthews for 5 yards (tackle by Jerraud Powers),1.490,2.520
+4,0:43,1,10,BAL 46,20,27,Carson Wentz pass incomplete short right intended for Dorial Green-Beckham,2.520,1.980
+4,0:42,2,10,BAL 46,20,27,"Carson Wentz pass incomplete short right intended for Dorial Green-Beckham. Penalty on C.J. Mosley: Illegal Contact, 5 yards (no play)",1.980,2.850
+4,0:33,1,10,BAL 41,20,27,Carson Wentz pass incomplete short middle intended for Nelson Agholor (defended by Shareece Wright),2.850,2.310
+4,0:33,2,10,BAL 41,20,27,Carson Wentz pass complete deep right to Zach Ertz for 24 yards,2.310,4.440
+4,0:26,1,10,BAL 17,20,27,Carson Wentz pass incomplete deep middle intended for Zach Ertz,4.440,3.850
+4,0:22,2,10,BAL 17,20,27,"Carson Wentz pass incomplete short right intended for Nelson Agholor. Penalty on Tavon Young: Defensive Pass Interference, 13 yards (no play)",3.850,6.280
+4,0:17,1,4,BAL 4,20,27,Carson Wentz pass incomplete short left intended for Jordan Matthews,6.280,5.340
+4,0:12,2,4,BAL 4,26,27,"Carson Wentz left end for 4 yards, touchdown",5.340,7.000
+4,0:04,,,,26,27,Timeout #2 by Philadelphia Eagles,0.000,0.000
+4,0:04,,,BAL 2,26,27,"Two Point Attempt: Carson Wentz pass incomplete intended for Jordan Matthews, conversion fails",0.000,-1.000
+4,0:04,,,PHI 35,26,27,"Caleb Sturgis kicks onside 12 yards, recovered by Anthony Levine",0.000,-2.460
+4,0:04,1,10,PHI 47,26,27,Joe Flacco kneels for -1 yards,2.460,1.780
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,16 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,12:42,SEA 20,6,2:39,80,Touchdown
+2,1,9:06,SEA 35,4,2:02,10,Punt
+3,1,5:15,CHI 37,3,1:37,-1,Punt
+4,1,2:32,CHI 37,7,2:41,37,Touchdown
+5,2,11:51,SEA 26,3,1:26,8,Punt
+6,2,8:49,SEA 6,10,5:20,56,Punt
+7,2,1:10,SEA 15,3,1:10,19,End of Half
+8,3,15:00,SEA 45,6,2:34,12,Punt
+9,3,11:40,SEA 37,3,1:27,-1,Punt
+10,3,7:56,SEA 7,3,1:29,8,Punt
+11,3,4:28,SEA 8,11,5:43,92,Touchdown
+12,4,11:54,SEA 29,3,1:01,9,Punt
+13,4,8:34,SEA 38,3,1:32,5,Punt
+14,4,3:42,SEA 44,3,1:48,-3,Punt
+15,4,1:54,CHI 42,3,1:54,-3,End of Game

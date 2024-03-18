@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:53,WAS 19,3,1:24,5,Punt
+2,1,12:17,WAS 41,3,2:05,-10,Punt
+3,1,9:17,DAL 6,2,0:40,6,Touchdown
+4,1,7:31,WAS 35,4,2:38,0,Punt
+5,2,14:49,WAS 20,5,2:26,19,Punt
+6,2,7:06,WAS 27,5,1:42,10,Punt
+7,2,3:29,WAS 28,4,1:43,15,Punt
+8,2,0:18,WAS 20,1,0:18,-1,End of Half
+9,3,15:00,WAS 24,5,3:12,6,Punt
+10,3,6:45,WAS 27,6,3:06,28,Punt
+11,4,11:21,WAS 32,7,3:34,19,Downs
+12,4,5:26,WAS 19,8,2:56,81,Touchdown

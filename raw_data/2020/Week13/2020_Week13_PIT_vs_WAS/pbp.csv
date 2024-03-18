@@ -1,0 +1,197 @@
+Quarter,Time,Down,ToGo,Location,WAS,PIT,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Washington won the coin toss and deferred, Steelers to receive the opening kickoff.",,
+1,15:00,,,WAS 35,0,0,"Dustin Hopkins kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,PIT 25,0,0,Ben Roethlisberger pass incomplete deep right intended for James Washington,0.610,0.060
+1,14:55,2,10,PIT 25,0,0,Ben Roethlisberger pass complete short left to Ray-Ray McCloud for 6 yards (tackle by Cole Holcomb and Jonathan Bostic),0.060,0.170
+1,14:13,3,4,PIT 31,0,0,Ben Roethlisberger pass complete short middle to Eric Ebron for 3 yards (tackle by Kamren Curl and Jonathan Bostic),0.170,-1.110
+1,13:31,4,1,PIT 34,0,0,"Jordan Berry punts 52 yards, fair catch by Steven Sims at WAS-14",-1.110,0.280
+1,13:25,1,10,WAS 14,0,0,Alex Smith pass complete short middle to Terry McLaurin for 12 yards (tackle by Joe Haden),-0.280,0.670
+1,13:03,1,10,WAS 26,0,0,Antonio Gibson left guard for 1 yard (tackle by Alex Highsmith and Cameron Heyward),0.670,0.270
+1,12:36,2,9,WAS 27,0,0,Alex Smith pass incomplete short middle intended for Isaiah Wright,0.270,-0.430
+1,12:33,3,9,WAS 27,0,0,Alex Smith pass complete short right to Steven Sims for 8 yards (tackle by Cameron Sutton),-0.430,-1.040
+1,12:01,4,1,WAS 35,0,0,"Tress Way punts 45 yards, fair catch by Ray-Ray McCloud at PIT-20",-1.040,-0.280
+1,11:51,1,10,PIT 20,0,0,Benny Snell right tackle for no gain (tackle by Daron Payne and Ryan Kerrigan),0.280,-0.270
+1,11:08,2,10,PIT 20,0,0,Ben Roethlisberger pass complete short left to JuJu Smith-Schuster for no gain (tackle by Kendall Fuller),-0.270,-0.960
+1,10:23,3,10,PIT 20,0,0,"Penalty on PIT: False Start, 5 yards (no play)",-0.960,-1.860
+1,10:04,3,15,PIT 15,0,0,Ben Roethlisberger pass incomplete short middle intended for JuJu Smith-Schuster. Penalty on J.C. Hassenauer: Ineligible Downfield Pass (Declined),-1.860,-2.440
+1,9:57,4,15,PIT 15,0,0,"Jordan Berry punts 59 yards, returned by Steven Sims for 9 yards (tackle by Sean Davis). Penalty on James Smith-Williams: Illegal Block Above the Waist, 10 yards",-2.440,-0.610
+1,9:45,1,10,WAS 25,0,0,Antonio Gibson left guard for 13 yards (tackle by Alex Highsmith),0.610,1.470
+1,9:06,1,10,WAS 38,0,0,Alex Smith sacked by Robert Spillane for -9 yards,1.470,-0.290
+1,8:24,2,19,WAS 29,0,0,Alex Smith pass complete short middle to Logan Thomas for 8 yards (tackle by Terrell Edmunds and Robert Spillane),-0.290,0.100
+1,7:41,3,11,WAS 37,0,0,Alex Smith pass complete short left to Logan Thomas for 6 yards (tackle by Cameron Sutton),0.100,-0.520
+1,7:00,4,5,WAS 43,0,0,"Tress Way punts 37 yards, fair catch by Ray-Ray McCloud at PIT-20. Penalty on Marcus Allen: Roughing the Kicker, 15 yards (no play)",-0.520,2.790
+1,6:54,1,10,PIT 42,0,0,Peyton Barber up the middle for 1 yard (tackle by Olasunkanmi Adeniyi and Vince Williams),2.790,2.380
+1,6:16,2,9,PIT 41,0,0,Alex Smith pass incomplete short left intended for Cam Sims (defended by Cameron Sutton),2.380,1.680
+1,6:13,3,9,PIT 41,0,0,Alex Smith pass complete short right to Logan Thomas for no gain (tackle by Mike Hilton),1.680,0.530
+1,5:33,4,9,PIT 41,0,0,"Tress Way punts 28 yards, fair catch by Ray-Ray McCloud at PIT-13. Penalty on Khaleke Hudson: Offensive Holding, 10 yards",0.530,-0.480
+1,5:27,1,10,PIT 23,0,0,Anthony McFarland right tackle for no gain (tackle by Cole Holcomb),0.480,-0.070
+1,4:46,2,10,PIT 23,0,0,Ben Roethlisberger pass complete deep right to James Washington for 30 yards (tackle by Ronald Darby),-0.070,2.460
+1,4:08,1,10,WAS 47,0,0,Anthony McFarland up the middle for 7 yards (tackle by Kamren Curl),2.460,2.860
+1,3:38,2,3,WAS 40,0,0,Anthony McFarland right tackle for -1 yards (tackle by Daron Payne and Cole Holcomb),2.860,2.010
+1,3:00,3,4,WAS 41,0,0,Ben Roethlisberger pass incomplete deep right intended for Diontae Johnson,2.010,0.530
+1,2:56,4,4,WAS 41,0,0,"Jordan Berry punts 32 yards, fair catch by Steven Sims at WAS-9",0.530,0.380
+1,2:49,1,10,WAS 9,0,0,Peyton Barber up the middle for 3 yards (tackle by T.J. Watt and Cameron Heyward),-0.380,-0.560
+1,2:08,2,7,WAS 12,0,0,Alex Smith pass incomplete short middle intended for Isaiah Wright (defended by Robert Spillane),-0.560,-1.070
+1,2:03,3,7,WAS 12,0,0,Alex Smith pass incomplete short middle intended for Steven Sims,-1.070,-2.490
+1,2:00,4,7,WAS 12,0,0,"Tress Way punts 47 yards, muffed catch by Ray-Ray McCloud, recovered by Ray-Ray McCloud at PIT-38. Penalty on Olasunkanmi Adeniyi: Offensive Holding, 10 yards",-2.490,-0.810
+1,1:49,1,10,PIT 28,0,0,Ben Roethlisberger pass complete short middle to Eric Ebron for 13 yards (tackle by Ronald Darby). Penalty on Ronald Darby: Defensive Holding (Declined),0.810,1.660
+1,1:22,1,10,PIT 41,0,0,Ben Roethlisberger pass complete short left to Eric Ebron for 4 yards (tackle by Cole Holcomb),1.660,1.660
+1,0:48,2,6,PIT 45,0,0,Ben Roethlisberger pass complete short left to Diontae Johnson for 5 yards (tackle by Kendall Fuller),1.660,1.620
+1,0:13,3,1,PIT 50,0,0,Benny Snell left guard for 2 yards (tackle by Montez Sweat and Jonathan Bostic),1.620,2.390
+Quarter,Time,Down,ToGo,Location,WAS,PIT,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,WAS 48,0,0,Ben Roethlisberger pass complete short left to Ray-Ray McCloud for -2 yards (tackle by Kevin Pierre-Louis),2.390,1.580
+2,14:16,2,12,PIT 50,0,0,Ben Roethlisberger pass incomplete short right intended for Diontae Johnson,1.580,0.890
+2,14:12,3,12,PIT 50,0,0,Ben Roethlisberger pass complete short left to Diontae Johnson for 17 yards (tackle by Jonathan Bostic),0.890,3.380
+2,13:37,1,10,WAS 33,0,0,Ben Roethlisberger pass complete short left to Benny Snell for 4 yards (tackle by Kevin Pierre-Louis),3.380,3.380
+2,13:02,2,6,WAS 29,0,0,Ben Roethlisberger pass incomplete short right intended for Chase Claypool (defended by Daron Payne),3.380,2.680
+2,12:59,3,6,WAS 29,0,0,Ben Roethlisberger pass complete short left to Eric Ebron for 15 yards (tackle by Kamren Curl),2.680,4.650
+2,12:16,1,10,WAS 14,0,0,Ben Roethlisberger pass complete short left to Diontae Johnson for 8 yards (tackle by Jimmy Moreland and Jonathan Bostic),4.650,5.470
+2,11:34,2,2,WAS 6,0,0,"Ben Roethlisberger pass complete short left to Diontae Johnson for 6 yards. Penalty on Alejandro Villanueva: Ineligible Downfield Pass, 5 yards (no play)",5.470,4.520
+2,11:27,2,7,WAS 11,0,0,Ben Roethlisberger pass incomplete short middle intended for Eric Ebron (defended by Deshazor Everett),4.520,3.620
+2,11:23,3,7,WAS 11,0,0,Ben Roethlisberger pass complete short right to Chase Claypool for 8 yards (tackle by Ronald Darby),3.620,6.510
+2,10:37,1,3,WAS 3,0,6,"Ben Roethlisberger pass complete short left to Diontae Johnson for 3 yards, touchdown",6.510,7.000
+2,10:33,,,WAS 15,0,7,Matthew Wright kicks extra point good,0.000,0.000
+2,10:33,,,PIT 35,0,7,"Matthew Wright kicks off 65 yards, touchback.",0.000,0.610
+2,10:33,1,10,WAS 25,0,7,"Penalty on Morgan Moses: False Start, 5 yards (no play)",0.610,0.280
+2,10:33,1,15,WAS 20,0,7,"Penalty on WAS: Delay of Game, 5 yards (no play)",0.280,-0.410
+2,10:33,1,20,WAS 15,0,7,Alex Smith pass complete short right to Logan Thomas for 5 yards (tackle by Mike Hilton and Avery Williamson),-0.410,-0.610
+2,10:12,2,15,WAS 20,0,7,Alex Smith pass complete short left to Terry McLaurin for 2 yards (tackle by Alex Highsmith),-0.610,-1.020
+2,9:33,3,13,WAS 22,0,7,Alex Smith pass complete short right to Logan Thomas for 12 yards (tackle by Minkah Fitzpatrick),-1.020,-1.110
+2,9:06,4,1,WAS 34,0,7,J.D. McKissic right guard for -3 yards (tackle by Mike Hilton),-1.110,-3.510
+2,9:02,1,10,WAS 31,0,7,Ben Roethlisberger pass complete short left to Jaylen Samuels for -4 yards (tackle by Cole Holcomb),3.510,2.430
+2,8:21,2,14,WAS 35,0,7,Ben Roethlisberger pass complete deep middle to Chase Claypool for 30 yards (tackle by Deshazor Everett),2.430,6.060
+2,7:41,1,5,WAS 5,0,7,Benny Snell up the middle for 4 yards (tackle by Deshazor Everett and Daron Payne),6.060,5.910
+2,7:01,2,1,WAS 1,0,7,Ben Roethlisberger pass incomplete short right intended for Benny Snell (defended by Montez Sweat). Penalty on Tim Settle: Unnecessary Roughness,5.910,6.970
+2,6:58,1,1,WAS 1,0,7,Benny Snell right guard for no gain (tackle by Kamren Curl and Montez Sweat),6.970,5.910
+2,6:17,2,1,WAS 1,0,7,Benny Snell right tackle for no gain (tackle by Kamren Curl and Montez Sweat),5.910,5.170
+2,5:42,,,,,,Timeout #1 by Pittsburgh Steelers,,
+2,5:42,3,1,WAS 1,0,7,Ben Roethlisberger pass incomplete short right intended for Jerald Hawkins,5.170,3.550
+2,5:38,4,1,WAS 1,0,7,Benny Snell up the middle for no gain (tackle by Chase Young),3.550,0.380
+2,5:35,1,10,WAS 1,0,7,Peyton Barber up the middle for no gain (tackle by Cameron Heyward),-0.380,-0.780
+2,5:02,2,10,WAS 1,0,7,Alex Smith pass incomplete short middle intended for Terry McLaurin,-0.780,-1.420
+2,4:59,3,10,WAS 1,0,7,Alex Smith pass complete short right to Logan Thomas for 6 yards (tackle by Mike Hilton),-1.420,-2.490
+2,4:18,4,4,WAS 7,0,7,"Tress Way punts 60 yards, returned by Ray-Ray McCloud for 17 yards (tackle by Jared Norris and Peyton Barber)",-2.490,-2.260
+2,4:03,1,10,PIT 50,0,13,"Ben Roethlisberger pass complete short left to James Washington for 50 yards, touchdown",2.260,7.000
+2,3:54,,,WAS 15,0,14,Matthew Wright kicks extra point good,0.000,0.000
+2,3:54,,,PIT 35,0,14,"Matthew Wright kicks off 61 yards, returned by Danny Johnson for 29 yards (tackle by Jayrone Elliott)",0.000,1.140
+2,3:47,1,10,WAS 33,0,14,Alex Smith pass complete short right to Steven Sims for 2 yards (tackle by Mike Hilton),1.140,0.860
+2,3:11,2,8,WAS 35,0,14,Alex Smith pass complete deep right to Logan Thomas for 16 yards (tackle by Terrell Edmunds),0.860,2.320
+2,2:46,1,10,PIT 49,0,14,Alex Smith pass incomplete deep middle intended for Steven Sims (defended by Mike Hilton),2.320,1.780
+2,2:41,2,10,PIT 49,0,14,Alex Smith pass complete short middle to J.D. McKissic for 3 yards (tackle by Avery Williamson),1.780,1.490
+2,2:00,3,7,PIT 46,0,14,Alex Smith pass incomplete deep right intended for Terry McLaurin,1.490,0.200
+2,1:55,,,,,,Timeout #2 by Pittsburgh Steelers,,
+2,1:55,4,7,PIT 46,0,14,"Tress Way punts 36 yards, fair catch by Ray-Ray McCloud at PIT-10",0.200,0.380
+2,1:49,1,10,PIT 10,0,14,Jaylen Samuels right guard for 1 yard (tackle by Daron Payne),-0.380,-0.710
+2,1:12,2,9,PIT 11,0,14,Ben Roethlisberger pass complete short right to Diontae Johnson for 6 yards (tackle by Jonathan Bostic),-0.710,-0.600
+2,1:04,,,,,,Timeout #2 by Washington Football Team,,
+2,1:04,3,3,PIT 17,0,14,Ben Roethlisberger pass complete short left to JuJu Smith-Schuster for 2 yards (tackle by Chase Young and Deshazor Everett),-0.600,-2.140
+2,0:58,4,1,PIT 19,0,14,Jordan Berry punts 40 yards out of bounds,-2.140,-1.660
+2,0:50,1,10,WAS 41,0,14,Alex Smith pass complete short middle to Cam Sims for 30 yards (tackle by Justin Layne),1.660,3.640
+2,0:40,1,10,PIT 29,0,14,Alex Smith pass complete short left to J.D. McKissic for 11 yards (tackle by Justin Layne),3.640,4.370
+2,0:35,1,10,PIT 18,0,14,Alex Smith pass complete short left to J.D. McKissic for 1 yard (tackle by Justin Layne),4.370,3.940
+2,0:30,2,9,PIT 17,0,14,Alex Smith sacked by T.J. Watt for -7 yards,3.940,2.340
+2,0:24,,,,,,Timeout #3 by Washington Football Team,,
+2,0:24,3,16,PIT 24,0,14,Alex Smith sacked by Stephon Tuitt for -7 yards,2.340,1.320
+2,0:05,4,23,PIT 31,3,14,Dustin Hopkins 49 yard field goal good. Penalty on Cameron Heyward: Illegal Formation (Declined),1.320,3.000
+2,0:01,,,WAS 35,3,14,"Dustin Hopkins kicks onside 19 yards, returned by Derek Watt for no gain",0.000,1.270
+Quarter,Time,Down,ToGo,Location,WAS,PIT,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PIT 35,3,14,"Matthew Wright kicks off 62 yards, returned by Danny Johnson for 15 yards (tackle by Justin Layne)",0.000,0.040
+3,14:56,1,10,WAS 18,3,14,"Alex Smith pass incomplete short right intended for Terry McLaurin (defended by Terrell Edmunds). Penalty on Morgan Moses: Illegal Use of Hands, 9 yards (no play)",0.040,-0.720
+3,14:51,1,19,WAS 9,3,14,"Penalty on Logan Thomas: False Start, 4 yards (no play)",-0.720,-0.870
+3,14:51,1,23,WAS 5,3,14,Alex Smith pass complete short middle to Cam Sims for 4 yards (tackle by Vince Williams),-0.870,-1.440
+3,14:12,2,19,WAS 9,3,14,Alex Smith pass complete short left to Isaiah Wright for 5 yards (tackle by Robert Spillane),-1.440,-1.820
+3,13:27,3,14,WAS 14,3,14,Alex Smith pass complete short right to Cam Sims for 31 yards (tackle by Justin Layne),-1.820,1.930
+3,12:46,1,10,WAS 45,3,14,J.D. McKissic right end for 8 yards (tackle by Chris Wormley and Tyson Alualu),1.930,2.460
+3,12:05,2,2,PIT 47,3,14,Peyton Barber up the middle for 5 yards (tackle by Olasunkanmi Adeniyi and Alex Highsmith),2.460,2.790
+3,11:29,1,10,PIT 42,3,14,Peyton Barber left guard for 4 yards (tackle by Tyson Alualu and Vince Williams),2.790,2.780
+3,10:51,2,6,PIT 38,3,14,Alex Smith pass incomplete short middle intended for Terry McLaurin (defended by Robert Spillane),2.780,2.080
+3,10:47,3,6,PIT 38,3,14,Alex Smith pass complete short right to Steven Sims for 9 yards (tackle by Joe Haden),2.080,3.640
+3,10:11,1,10,PIT 29,3,14,Alex Smith pass complete short left to Steven Sims for -2 yards (tackle by Mike Hilton),3.640,2.830
+3,9:36,2,12,PIT 31,3,14,Alex Smith pass complete deep left to Logan Thomas for 30 yards (tackle by Minkah Fitzpatrick),2.830,6.970
+3,9:07,1,1,PIT 1,3,14,J.D. McKissic up the middle for no gain (tackle by T.J. Watt and Terrell Edmunds),6.970,5.910
+3,8:32,2,1,PIT 1,3,14,Alex Smith pass incomplete short right intended for Cam Sims (defended by Joe Haden),5.910,5.170
+3,8:29,3,1,PIT 1,3,14,Alex Smith pass incomplete short right,5.170,3.550
+3,8:23,4,1,PIT 1,3,14,Alex Smith pass incomplete short right. Penalty on T.J. Watt: Defensive Holding (no play),3.550,6.970
+3,8:18,1,1,PIT 1,9,14,"Peyton Barber up the middle for 1 yard, touchdown",6.970,7.000
+3,8:16,,,PIT 15,10,14,Dustin Hopkins kicks extra point good,0.000,0.000
+3,8:16,,,WAS 35,10,14,"Dustin Hopkins kicks off 65 yards, touchback.",0.000,0.610
+3,8:16,1,10,PIT 25,10,14,Ben Roethlisberger pass complete short left to Benny Snell for 1 yard (tackle by Jonathan Bostic and Cole Holcomb),0.610,0.200
+3,7:43,2,9,PIT 26,10,14,Ben Roethlisberger pass incomplete short middle intended for Eric Ebron,0.200,-0.490
+3,7:40,3,9,PIT 26,10,14,"Ben Roethlisberger pass complete short left to JuJu Smith-Schuster for 8 yards (tackle by Jimmy Moreland). Penalty on Jimmy Moreland: Defensive Holding, 5 yards (no play)",-0.490,1.000
+3,7:18,1,10,PIT 31,10,14,Ben Roethlisberger pass complete short right to JuJu Smith-Schuster for 1 yard (tackle by Jimmy Moreland),1.000,0.600
+3,6:40,2,9,PIT 32,10,14,"J.C. Hassenauer aborted snap, recovered by Benny Snell at PIT-27 (tackle by Montez Sweat)",0.600,-0.630
+3,5:59,3,13,PIT 28,10,14,Ben Roethlisberger pass incomplete short left intended for Diontae Johnson,-0.630,-1.500
+3,5:54,4,13,PIT 28,10,14,"Jordan Berry punts 38 yards, fair catch by Steven Sims at WAS-34",-1.500,-1.200
+3,5:47,1,10,WAS 34,10,14,Peyton Barber right tackle for 1 yard (tackle by Alex Highsmith and Tyson Alualu),1.200,0.790
+3,5:15,2,9,WAS 35,10,14,Alex Smith pass complete short middle to J.D. McKissic for 6 yards (tackle by Avery Williamson),0.790,0.890
+3,4:33,3,3,WAS 41,10,14,Alex Smith pass incomplete short right,0.890,-0.650
+3,4:30,4,3,WAS 41,10,14,"Tress Way punts 52 yards, returned by Ray-Ray McCloud for 11 yards (tackle by Jeremy Sprinkle)",-0.650,-0.040
+3,4:20,1,10,PIT 18,10,14,Anthony McFarland left tackle for 9 yards (tackle by Kamren Curl),0.040,0.820
+3,3:50,2,1,PIT 27,10,14,Ben Roethlisberger pass complete short right to Diontae Johnson for 14 yards (tackle by Jeremy Reaves),0.820,1.660
+3,3:16,1,10,PIT 41,10,14,"Ben Roethlisberger pass incomplete deep right intended for Diontae Johnson. Penalty on David DeCastro: Offensive Holding, 10 yards (no play)",1.660,1.000
+3,3:10,1,20,PIT 31,10,14,Ben Roethlisberger pass complete short middle to Eric Ebron for 6 yards (tackle by Jimmy Moreland),1.000,0.580
+3,2:32,2,14,PIT 37,10,14,Ben Roethlisberger pass incomplete short middle intended for Eric Ebron,0.580,-0.100
+3,2:29,3,14,PIT 37,10,14,Ben Roethlisberger pass complete short middle to Diontae Johnson for 16 yards (tackle by Deshazor Everett),-0.100,2.460
+3,1:44,1,10,WAS 47,10,14,Ben Roethlisberger pass incomplete short middle intended for Diontae Johnson,2.460,1.910
+3,1:40,2,10,WAS 47,10,14,Ben Roethlisberger pass complete short right to Jaylen Samuels for 8 yards (tackle by Jonathan Bostic),1.910,2.280
+3,0:56,3,2,WAS 39,10,14,"Ben Roethlisberger pass incomplete short left intended for Chase Claypool. Penalty on Kendall Fuller: Defensive Pass Interference, 14 yards (no play)",2.280,3.910
+3,0:51,1,10,WAS 25,10,14,Benny Snell left guard for 1 yard (tackle by Tim Settle and Casey Toohill),3.910,3.500
+3,0:12,2,9,WAS 24,10,14,Ben Roethlisberger pass incomplete short middle intended for James Washington,3.500,2.810
+3,0:07,3,9,WAS 24,10,14,Ben Roethlisberger pass complete short left to Eric Ebron for 5 yards (tackle by James Smith-Williams and Jonathan Bostic),2.810,2.260
+Quarter,Time,Down,ToGo,Location,WAS,PIT,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,4,4,WAS 19,10,17,Matthew Wright 37 yard field goal good,2.260,3.000
+4,14:57,,,PIT 35,10,17,"Matthew Wright kicks off 63 yards, returned by Danny Johnson for 28 yards (tackle by Jayrone Elliott and Justin Layne)",0.000,0.940
+4,14:50,1,10,WAS 30,10,17,Alex Smith pass complete short right to J.D. McKissic for 6 yards (tackle by Stephon Tuitt),0.940,1.200
+4,14:16,2,4,WAS 36,10,17,"J.D. McKissic right tackle for no gain (tackle by T.J. Watt). J.D. McKissic fumbles (forced by T.J. Watt), recovered by Logan Thomas at WAS-36",1.200,0.500
+4,13:33,3,4,WAS 36,10,17,Alex Smith pass incomplete short right intended for Terry McLaurin (defended by Minkah Fitzpatrick),0.500,-0.980
+4,13:29,4,4,WAS 36,10,17,Tress Way punts 54 yards downed by Jeremy Reaves,-0.980,0.380
+4,13:16,1,10,PIT 10,10,17,Ben Roethlisberger pass incomplete short right intended for Ray-Ray McCloud (defended by Montez Sweat),-0.380,-0.780
+4,13:14,2,10,PIT 10,10,17,Ben Roethlisberger pass incomplete deep middle intended for JuJu Smith-Schuster (defended by Deshazor Everett),-0.780,-1.420
+4,13:09,3,10,PIT 10,10,17,Benny Snell left guard for -2 yards (tackle by Daron Payne),-1.420,-2.490
+4,12:30,4,12,PIT 8,10,17,"Jordan Berry punts 45 yards, fair catch by Steven Sims at WAS-47",-2.490,-2.060
+4,12:23,1,10,WAS 47,10,17,Peyton Barber up the middle for 3 yards (tackle by Stephon Tuitt and Avery Williamson),2.060,1.920
+4,11:48,2,7,WAS 50,10,17,Alex Smith pass complete short right to J.D. McKissic for 6 yards (tackle by Joe Haden and Vince Williams),1.920,2.020
+4,11:08,3,1,PIT 44,10,17,Peyton Barber right guard for 2 yards (tackle by Joe Haden),2.020,2.790
+4,10:45,1,10,PIT 42,10,17,Alex Smith pass incomplete deep right intended for Cam Sims,2.790,2.240
+4,10:39,2,10,PIT 42,10,17,Alex Smith pass complete short right to J.D. McKissic for 16 yards (tackle by Vince Williams),2.240,3.840
+4,10:30,1,10,PIT 26,10,17,J.D. McKissic up the middle for 3 yards (tackle by Avery Williamson),3.840,3.700
+4,9:48,2,7,PIT 23,10,17,Alex Smith pass complete short right to J.D. McKissic for 8 yards (tackle by Avery Williamson),3.700,4.580
+4,9:14,1,10,PIT 15,16,17,"Alex Smith pass complete short left to Logan Thomas for 15 yards, touchdown, touchdown",4.580,7.000
+4,9:09,,,PIT 15,17,17,Dustin Hopkins kicks extra point good,0.000,0.000
+4,9:09,,,WAS 35,17,17,"Dustin Hopkins kicks off 59 yards, returned by Ray-Ray McCloud for 32 yards (tackle by Dustin Hopkins)",0.000,1.470
+4,9:02,1,10,PIT 38,17,17,Ben Roethlisberger pass complete short middle to JuJu Smith-Schuster for 7 yards (tackle by Cole Holcomb),1.470,1.870
+4,8:35,2,3,PIT 45,17,17,Ben Roethlisberger pass complete short left to Jaylen Samuels for 7 yards (tackle by Kevin Pierre-Louis),1.870,2.390
+4,7:55,1,10,WAS 48,17,17,Ben Roethlisberger pass complete short middle to Diontae Johnson for 2 yards (tackle by Jimmy Moreland),2.390,2.120
+4,7:18,2,8,WAS 46,17,17,Ben Roethlisberger pass complete short left to JuJu Smith-Schuster for 5 yards (tackle by Kamren Curl),2.120,2.080
+4,6:32,3,3,WAS 41,17,17,Ben Roethlisberger pass complete short middle to JuJu Smith-Schuster for 4 yards (tackle by Kendall Fuller),2.080,3.120
+4,5:49,1,10,WAS 37,17,17,Ben Roethlisberger pass incomplete short middle intended for Jaylen Samuels,3.120,2.570
+4,5:45,2,10,WAS 37,17,17,Ben Roethlisberger pass complete short middle to JuJu Smith-Schuster for 9 yards (tackle by Jonathan Bostic and Cole Holcomb),2.570,3.070
+4,4:59,3,1,WAS 28,17,17,Ben Roethlisberger pass incomplete short right intended for JuJu Smith-Schuster,3.070,1.720
+4,4:57,4,1,WAS 28,17,17,Ben Roethlisberger pass incomplete deep right intended for Anthony McFarland,1.720,-0.810
+4,4:53,1,10,WAS 28,17,17,Peyton Barber left tackle for 3 yards (tackle by T.J. Watt and Terrell Edmunds),0.810,0.670
+4,4:32,2,7,WAS 31,17,17,Alex Smith pass complete short right to J.D. McKissic for 7 yards (tackle by Avery Williamson and Minkah Fitzpatrick),0.670,1.470
+4,3:48,1,10,WAS 38,17,17,Alex Smith pass complete short middle to J.D. McKissic for 6 yards (tackle by Avery Williamson),1.470,1.730
+4,3:14,2,4,WAS 44,17,17,Alex Smith pass incomplete short middle intended for Isaiah Wright (defended by Cameron Heyward),1.730,1.020
+4,3:10,3,4,WAS 44,17,17,Alex Smith pass complete deep right to Cam Sims for 29 yards (tackle by Cameron Sutton),1.020,3.780
+4,2:21,1,10,PIT 27,17,17,Peyton Barber up the middle for 2 yards (tackle by Vince Williams and Tyson Alualu),3.780,3.500
+4,2:17,,,,,,Timeout #1 by Pittsburgh Steelers,,
+4,2:17,2,8,PIT 25,17,17,Alex Smith pass complete short left to Cam Sims for -2 yards (tackle by Avery Williamson and Justin Layne),3.500,2.540
+4,2:11,,,,,,Timeout #2 by Pittsburgh Steelers,,
+4,2:11,3,10,PIT 27,17,17,Alex Smith pass incomplete short right intended for Cam Sims (defended by Terrell Edmunds),2.540,1.670
+4,2:07,4,10,PIT 27,20,17,Dustin Hopkins 45 yard field goal good. Penalty on Cameron Sutton: Defensive Offside (Declined),1.670,3.000
+4,2:04,,,WAS 35,20,17,"Dustin Hopkins kicks off 65 yards, touchback.",0.000,0.610
+4,2:04,1,10,PIT 25,20,17,Ben Roethlisberger pass short middle (defended by Montez Sweat) intended for Eric Ebron is intercepted by Jonathan Bostic at PIT-25 and returned for no gain,0.610,-3.910
+4,1:59,1,10,PIT 25,20,17,Peyton Barber up the middle for -2 yards (tackle by T.J. Watt),3.910,3.090
+4,1:54,,,,,,Timeout #3 by Pittsburgh Steelers,,
+4,1:54,2,12,PIT 27,20,17,Peyton Barber left guard for no gain (tackle by Vince Williams),3.090,2.410
+4,1:08,3,12,PIT 27,20,17,Peyton Barber left tackle for no gain (tackle by Terrell Edmunds),2.410,1.670
+4,0:21,,,,,,Timeout #1 by Washington Football Team,,
+4,0:21,4,12,PIT 27,23,17,Dustin Hopkins 45 yard field goal good,1.670,3.000
+4,0:17,,,WAS 35,23,17,"Dustin Hopkins kicks off 65 yards, touchback.",0.000,0.610
+4,0:17,1,10,PIT 25,23,17,Ben Roethlisberger pass incomplete deep right intended for Chase Claypool (defended by Ronald Darby),0.610,0.060
+4,0:12,2,10,PIT 25,23,17,Ben Roethlisberger pass complete deep left to Eric Ebron for 22 yards (tackle by Cole Holcomb and Kamren Curl),0.060,2.060
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

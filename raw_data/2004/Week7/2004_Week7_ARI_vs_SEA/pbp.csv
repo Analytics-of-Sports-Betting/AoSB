@@ -1,0 +1,186 @@
+Quarter,Time,Down,ToGo,Location,SEA,ARI,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Cardinals won the coin toss, Cardinals to receive the opening kickoff.",,
+1,15:00,,,SEA 30,0,0,"Josh Brown kicks off 64 yards, returned by Larry Croom for 35 yards (tackle by Marcus Trufant)",0.000,1.660
+1,14:53,1,10,ARI 41,0,0,Larry Fitzgerald sacked by Tracy White for -7 yards,1.660,0.180
+1,14:07,2,17,ARI 34,0,0,Josh McCown pass complete to Larry Fitzgerald for 39 yards (tackle by Marcus Trufant),0.180,3.780
+1,13:24,1,10,SEA 27,0,0,"Josh McCown pass complete to Emmitt Smith for 12 yards (tackle by Ken Lucas). Penalty on Karl Williams: Illegal Block Above the Waist, 10 yards",3.780,4.070
+1,12:56,1,8,SEA 25,0,0,"Josh McCown sacked by Antonio Cochran for -10 yards. Josh McCown fumbles (forced by Antonio Cochran), recovered by Antonio Cochran at SEA-35 (tackle by Josh McCown)",4.070,-1.270
+1,12:47,1,10,SEA 35,0,0,Matt Hasselbeck pass incomplete intended for Shaun Alexander,1.270,0.720
+1,12:30,2,10,SEA 35,0,0,Shaun Alexander up the middle for no gain (tackle by Russell Davis),0.720,0.040
+1,12:02,3,10,SEA 35,0,0,Matt Hasselbeck pass incomplete intended for Darrell Jackson is intercepted by Renaldo Hill at SEA-45 and returned for 2 yards (tackle by Mack Strong),0.040,-2.720
+1,11:53,1,10,SEA 43,0,0,Emmitt Smith left tackle for 2 yards (tackle by Ken Hamlin),2.720,2.450
+1,11:17,2,8,SEA 41,0,0,Josh McCown pass complete to Emmitt Smith for 5 yards (tackle by Niko Koutouvides),2.450,2.410
+1,10:30,3,3,SEA 36,0,0,Josh McCown pass complete to Bryant Johnson for 4 yards (tackle by Bobby Taylor),2.410,3.450
+1,9:55,1,10,SEA 32,0,0,Troy Hambrick right end for 4 yards (tackle by Marcus Trufant and Terreal Bierria),3.450,3.440
+1,9:11,2,6,SEA 28,0,0,Troy Hambrick up the middle for 3 yards (tackle by Cedric Woodard),3.440,3.140
+1,8:31,3,3,SEA 25,0,6,"Josh McCown pass complete to Larry Fitzgerald for 25 yards, touchdown",3.140,7.000
+1,,,,SEA 2,0,7,Neil Rackers kicks extra point good,0.000,0.000
+1,,,,ARI 30,0,7,"Neil Rackers kicks off 50 yards, returned by Jerramy Stevens for 12 yards (tackle by Quentin Harris)",0.000,1.070
+1,8:17,1,10,SEA 32,0,7,Shaun Alexander left end for 7 yards (tackle by Ifeanyi Ohalete),1.070,1.470
+1,7:41,2,3,SEA 39,0,7,Matt Hasselbeck pass incomplete intended for Jerry Rice,1.470,0.760
+1,7:37,3,3,SEA 39,0,7,"Matt Hasselbeck pass incomplete intended for Koren Robinson. Penalty on David Macklin: Defensive Holding, 5 yards (no play)",0.760,1.860
+1,7:34,1,10,SEA 44,0,7,Matt Hasselbeck pass incomplete intended for Ryan Hannam (defended by Adrian Wilson),1.860,1.320
+1,7:31,2,10,SEA 44,0,7,Matt Hasselbeck pass incomplete intended for Koren Robinson,1.320,0.630
+1,7:26,3,10,SEA 44,0,7,Matt Hasselbeck pass complete to Mack Strong for 6 yards (tackle by Renaldo Hill),0.630,-0.060
+1,6:40,4,4,ARI 50,0,7,Donnie Jones punts 25 yards,-0.060,-0.610
+1,6:30,1,10,ARI 25,0,7,Emmitt Smith right tackle for no gain (tackle by Tracy White),0.610,0.060
+1,5:47,2,10,ARI 25,0,7,Josh McCown pass complete to Freddie Jones for 11 yards (tackle by Marcus Trufant),0.060,1.330
+1,5:09,1,10,ARI 36,0,7,Josh McCown pass incomplete intended for Larry Fitzgerald,1.330,0.790
+1,5:04,2,10,ARI 36,0,7,Josh McCown pass incomplete intended for Nate Poole,0.790,0.100
+1,4:59,3,10,ARI 36,0,7,Josh McCown pass incomplete intended for Bryant Johnson,0.100,-0.980
+1,4:51,4,10,ARI 36,0,7,"Scott Player punts 43 yards, returned by Maurice Morris for 2 yards (tackle by Adrian Wilson)",-0.980,-0.480
+1,4:38,1,10,SEA 23,0,7,Mack Strong left tackle for 3 yards (tackle by Ronald McKinnon),0.480,0.340
+1,4:05,2,7,SEA 26,0,7,Matt Hasselbeck pass incomplete intended for Darrell Jackson,0.340,-0.360
+1,4:00,3,7,SEA 26,0,7,Matt Hasselbeck pass complete to Darrell Jackson for 27 yards (tackle by Ifeanyi Ohalete),-0.360,2.460
+1,3:15,1,10,ARI 47,0,7,Matt Hasselbeck pass incomplete intended for Darrell Jackson,2.460,1.910
+1,3:11,2,10,ARI 47,0,7,Shaun Alexander left end for 4 yards (tackle by Ronald McKinnon),1.910,1.750
+1,2:30,3,6,ARI 43,0,7,Matt Hasselbeck pass complete to Jerry Rice for 10 yards (tackle by Renaldo Hill),1.750,3.380
+1,1:46,1,10,ARI 33,0,7,Matt Hasselbeck pass incomplete intended for Jerry Rice (defended by Adrian Wilson),3.380,2.840
+1,1:42,2,10,ARI 33,0,7,Matt Hasselbeck pass incomplete intended for Koren Robinson,2.840,2.150
+1,1:37,3,10,ARI 33,0,7,Shaun Alexander up the middle for -6 yards (tackle by James Darling),2.150,0.660
+1,0:54,4,16,ARI 39,0,7,Donnie Jones punts 36 yards,0.660,0.380
+1,0:47,1,10,ARI 3,0,7,Troy Hambrick up the middle for 3 yards (tackle by Antonio Cochran),-0.380,-0.560
+Quarter,Time,Down,ToGo,Location,SEA,ARI,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,7,ARI 6,0,7,Troy Hambrick right tackle for 1 yard (tackle by Brandon Mitchell),-0.560,-0.950
+2,14:15,3,6,ARI 7,0,7,Josh McCown pass complete to Freddie Jones for 13 yards (tackle by Isaiah Kacyvenski),-0.950,0.280
+2,13:31,1,10,ARI 20,0,7,Troy Hambrick right tackle for 2 yards (tackle by Tracy White),0.280,0.000
+2,12:49,2,8,ARI 22,0,7,Josh McCown left end for 7 yards (tackle by Ken Hamlin),0.000,0.230
+2,12:17,3,1,ARI 29,0,7,Troy Hambrick up the middle for 2 yards (tackle by Tracy White),0.230,1.000
+2,11:40,1,10,ARI 31,0,7,Emmitt Smith left end for 8 yards (tackle by Niko Koutouvides),1.000,1.540
+2,11:09,2,2,ARI 39,0,7,Josh McCown pass complete to Bryant Johnson for 14 yards (tackle by Tracy White),1.540,2.460
+2,10:28,1,10,SEA 47,0,7,Emmitt Smith up the middle for 7 yards (tackle by Marcus Trufant),2.460,2.860
+2,9:45,2,3,SEA 40,0,7,Josh McCown pass incomplete intended for Freddie Jones,2.860,2.150
+2,9:40,3,3,SEA 40,0,7,Josh McCown pass complete to Larry Fitzgerald for 2 yards (tackle by Ken Lucas),2.150,0.720
+2,8:54,4,1,SEA 38,0,7,"Josh McCown sacked by Chike Okeafor for -10 yards. Josh McCown fumbles (forced by Chike Okeafor), recovered by Alex Stepanovich at SEA-44",0.720,-2.130
+2,8:45,1,10,SEA 48,0,7,Shaun Alexander left end for 6 yards (tackle by Ronald McKinnon),2.130,2.390
+2,8:08,2,4,ARI 46,0,7,Matt Hasselbeck pass complete to Darrell Jackson for 11 yards (tackle by Ifeanyi Ohalete),2.390,3.250
+2,7:28,1,10,ARI 35,0,7,Matt Hasselbeck right end for 9 yards (tackle by Darnell Dockett),3.250,3.920
+2,7:04,2,1,ARI 26,0,7,"Maurice Morris up the middle for no gain (tackle by Karlos Dansby). Penalty on Chris Gray: Offensive Holding, 10 yards (no play)",3.920,2.570
+2,6:43,2,11,ARI 36,0,7,Matt Hasselbeck pass incomplete intended for Maurice Morris,2.570,1.880
+2,6:39,3,11,ARI 36,0,7,Matt Hasselbeck pass incomplete intended for Mack Strong,1.880,0.880
+2,6:34,4,11,ARI 36,3,7,Josh Brown 54 yard field goal good,0.880,3.000
+2,,,,SEA 30,3,7,"Josh Brown kicks off 60 yards, returned by Larry Croom for 20 yards (tackle by Solomon Bates)",0.000,0.940
+2,6:22,1,10,ARI 30,3,7,Emmitt Smith left tackle for no gain (tackle by Rocky Bernard),0.940,0.390
+2,5:41,2,10,ARI 30,3,7,Josh McCown pass complete to Emmitt Smith for 7 yards (tackle by Tracy White),0.390,0.630
+2,4:57,3,3,ARI 37,3,7,Josh McCown pass complete to Bryant Johnson for 19 yards (tackle by Kris Richard),0.630,2.650
+2,4:28,1,10,SEA 44,3,7,Josh McCown pass complete to Bryant Johnson for 6 yards (tackle by Marcus Trufant),2.650,2.920
+2,3:53,2,4,SEA 38,3,7,Emmitt Smith up the middle for 1 yard (tackle by Orlando Huff and Marcus Tubbs),2.920,2.350
+2,3:11,3,3,SEA 37,3,7,Josh McCown pass incomplete intended for Bryant Johnson,2.350,0.790
+2,3:06,4,3,SEA 37,3,10,Neil Rackers 55 yard field goal good,0.790,3.000
+2,,,,ARI 30,3,10,Neil Rackers kicks off 69 yards,0.000,1.600
+2,3:01,1,10,SEA 40,3,10,Matt Hasselbeck pass incomplete intended for Jerramy Stevens is intercepted by Karlos Dansby at SEA-42 and returned for 2 yards (tackle by Jerramy Stevens),1.600,-2.920
+2,2:55,1,10,SEA 40,3,10,Emmitt Smith up the middle for 2 yards (tackle by Tracy White),2.920,2.640
+2,2:17,2,8,SEA 38,3,10,Josh McCown pass complete to Bryant Johnson for 9 yards (tackle by Ken Lucas),2.640,3.640
+2,2:00,1,10,SEA 29,3,10,Josh McCown pass incomplete intended for Bryant Johnson,3.640,3.100
+2,1:56,2,10,SEA 29,3,10,Emmitt Smith right tackle for 2 yards (tackle by Antonio Cochran and Rocky Bernard),3.100,2.680
+2,1:12,3,8,SEA 27,3,10,"Josh McCown pass incomplete. Penalty on Josh McCown: Intentional Grounding, 10 yards",2.680,0.790
+2,1:06,4,18,SEA 37,3,13,Neil Rackers 55 yard field goal good,0.790,3.000
+2,,,,ARI 30,3,13,"Neil Rackers kicks off 65 yards, returned by Maurice Morris for 28 yards (tackle by Neil Rackers)",0.000,1.140
+2,0:54,1,10,SEA 33,3,13,Matt Hasselbeck pass incomplete intended for Jerry Rice,1.140,0.590
+2,0:49,2,10,SEA 33,3,13,Matt Hasselbeck pass incomplete intended for Darrell Jackson,0.590,-0.100
+2,0:46,3,10,SEA 33,3,13,Matt Hasselbeck pass incomplete intended for Jerry Rice,-0.100,-1.180
+2,0:41,4,10,SEA 33,3,13,"Donnie Jones punts 51 yards, returned by Karl Williams for no gain",-1.180,0.140
+2,0:32,1,10,ARI 16,3,13,Emmitt Smith right end for 2 yards (tackle by Cedric Woodard),-0.140,-0.350
+2,0:25,,,,3,13,Timeout #1 by Seattle Seahawks,0.000,-0.350
+2,0:25,2,8,ARI 18,3,13,Josh McCown pass complete to Bryant Johnson for 3 yards (tackle by Ken Lucas),-0.350,-0.700
+2,0:20,,,,3,13,Timeout #2 by Seattle Seahawks,0.000,-0.700
+2,0:20,3,5,ARI 21,3,13,Josh McCown pass incomplete intended for Bryant Johnson (defended by Ken Lucas),-0.700,-1.960
+2,0:15,4,5,ARI 21,3,13,"Scott Player punts 37 yards, fair catch by Maurice Morris",-1.960,-1.730
+2,0:08,1,10,SEA 42,3,13,"Matt Hasselbeck pass complete to Koren Robinson for 11 yards. Penalty on Koren Robinson: Illegal Touch Pass, 5 yards (no play)",1.730,1.400
+2,0:02,1,15,SEA 37,3,13,Matt Hasselbeck pass complete to Darrell Jackson for 30 yards (tackle by Quentin Harris),1.400,3.380
+Quarter,Time,Down,ToGo,Location,SEA,ARI,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,ARI 30,3,13,"Neil Rackers kicks off 70 yards, returned by Maurice Morris for 28 yards (tackle by Obafemi Ayanbadejo)",0.000,0.810
+3,14:55,1,10,SEA 28,3,13,Matt Hasselbeck pass complete to Darrell Jackson for 5 yards (tackle by James Darling),0.810,0.940
+3,14:26,2,5,SEA 33,3,13,Matt Hasselbeck pass complete to Darrell Jackson for 15 yards (tackle by Ifeanyi Ohalete),0.940,2.130
+3,13:53,1,10,SEA 48,3,13,Shaun Alexander up the middle for no gain (tackle by Peppi Zellner),2.130,1.580
+3,13:15,2,10,SEA 48,3,13,Shaun Alexander right tackle for 8 yards (tackle by Darnell Dockett),1.580,1.950
+3,12:34,3,2,ARI 44,3,13,Matt Hasselbeck pass incomplete intended for Itula Mili (defended by Karlos Dansby),1.950,0.330
+3,12:28,4,2,ARI 44,3,13,"Donnie Jones punts 44 yards, touchback",0.330,-0.280
+3,12:17,1,10,ARI 20,3,13,Emmitt Smith up the middle for 4 yards (tackle by Rocky Bernard),0.280,0.270
+3,11:45,2,6,ARI 24,3,13,Emmitt Smith right tackle for 3 yards (tackle by Terreal Bierria and Rocky Bernard),0.270,-0.030
+3,11:10,3,3,ARI 27,3,13,Josh McCown pass incomplete intended for Larry Fitzgerald,-0.030,-1.570
+3,11:06,4,3,ARI 27,3,13,"Scott Player punts 42 yards, returned by Maurice Morris for 1 yard (tackle by Ifeanyi Ohalete)",-1.570,-1.070
+3,10:56,1,10,SEA 32,3,13,Shaun Alexander right tackle for -7 yards (tackle by Adrian Wilson),1.070,-0.420
+3,10:18,2,17,SEA 25,3,13,Matt Hasselbeck pass complete to Darrell Jackson for 15 yards (tackle by Renaldo Hill),-0.420,0.890
+3,9:51,3,2,SEA 40,3,13,Matt Hasselbeck pass incomplete intended for Darrell Jackson,0.890,-0.720
+3,9:47,4,2,SEA 40,3,13,Donnie Jones punts 39 yards,-0.720,-0.340
+3,9:38,1,10,ARI 21,3,13,Josh McCown pass complete to Bryant Johnson for -1 yards (tackle by Marcus Trufant),0.340,-0.340
+3,9:00,2,11,ARI 20,3,13,Josh McCown pass complete to Freddie Jones for 5 yards (tackle by Solomon Bates),-0.340,-0.360
+3,8:14,3,6,ARI 25,3,13,Josh McCown pass complete to Larry Fitzgerald for 7 yards (tackle by Niko Koutouvides),-0.360,1.070
+3,7:33,1,10,ARI 32,3,13,Emmitt Smith left tackle for no gain (tackle by Niko Koutouvides),1.070,0.530
+3,6:43,2,10,ARI 32,3,13,"Penalty on Josh McCown: Delay of Game, 5 yards (no play)",0.530,-0.150
+3,6:32,2,15,ARI 27,3,13,"Josh McCown pass complete to Obafemi Ayanbadejo for 6 yards (tackle by Niko Koutouvides). Penalty on Ken Lucas: Illegal Contact, 5 yards (no play)",-0.150,1.070
+3,6:08,1,10,ARI 32,3,13,Troy Hambrick up the middle for 1 yard (tackle by Niko Koutouvides and Rashad Moore),1.070,0.660
+3,5:22,2,9,ARI 33,3,13,Emmitt Smith left tackle for 26 yards (tackle by Terreal Bierria),0.660,2.850
+3,4:33,1,10,SEA 41,3,13,Larry Croom up the middle for 2 yards (tackle by Cedric Woodard),2.850,2.580
+3,3:54,2,8,SEA 39,3,13,Josh McCown pass incomplete intended for Karl Williams,2.580,1.880
+3,3:50,3,8,SEA 39,3,13,Josh McCown pass complete to Obafemi Ayanbadejo for 7 yards (tackle by Marcus Trufant),1.880,1.310
+3,2:56,4,1,SEA 32,3,16,Neil Rackers 50 yard field goal good,1.310,3.000
+3,,,,ARI 30,3,16,"Neil Rackers kicks off 66 yards, returned by Maurice Morris for 24 yards (tackle by Ifeanyi Ohalete)",0.000,0.810
+3,2:44,1,10,SEA 28,3,16,Matt Hasselbeck pass complete to Darrell Jackson for 5 yards (tackle by David Macklin),0.810,0.940
+3,2:12,2,5,SEA 33,3,16,Shaun Alexander up the middle for 34 yards (tackle by Duane Starks). Penalty on Peppi Zellner: Defensive Offside (Declined),0.940,3.380
+3,1:57,1,10,ARI 33,3,16,Matt Hasselbeck pass incomplete intended for Koren Robinson,3.380,2.840
+3,1:50,2,10,ARI 33,3,16,Matt Hasselbeck pass complete to Jerramy Stevens for 17 yards (tackle by Ronald McKinnon),2.840,4.510
+3,1:32,1,10,ARI 16,3,16,Shaun Alexander up the middle for 2 yards (tackle by Ronald McKinnon),4.510,4.210
+3,0:45,2,8,ARI 14,3,16,Matt Hasselbeck pass incomplete,4.210,3.370
+3,0:38,3,8,ARI 14,3,16,Matt Hasselbeck pass complete to Mack Strong for 13 yards (tackle by James Darling),3.370,6.970
+3,0:10,1,1,ARI 1,9,16,"Matt Hasselbeck pass complete to Darrell Jackson for 1 yard, touchdown",6.970,7.000
+3,,,,ARI 2,10,16,Josh Brown kicks extra point good,0.000,0.000
+3,,,,SEA 30,10,16,"Josh Brown kicks off 68 yards, returned by Larry Croom for 12 yards (tackle by Michael Boulware)",0.000,-0.280
+Quarter,Time,Down,ToGo,Location,SEA,ARI,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,ARI 14,10,16,Josh McCown pass complete to Emmitt Smith for 6 yards (tackle by Tracy White),-0.280,0.150
+4,14:21,2,4,ARI 20,10,16,"Emmitt Smith left tackle for 2 yards (tackle by Chike Okeafor). Penalty on Alex Stepanovich: Offensive Holding, 10 yards",0.150,-0.930
+4,14:02,2,12,ARI 12,10,16,Emmitt Smith up the middle for 3 yards (tackle by Solomon Bates),-0.930,-1.280
+4,13:16,3,9,ARI 15,16,16,"Josh McCown pass incomplete intended for Freddie Jones is intercepted by Ken Lucas at ARI-21 and returned for 21 yards, touchdown",-1.280,-7.000
+4,,,,ARI 2,17,16,Josh Brown kicks extra point good,0.000,0.000
+4,,,,SEA 30,17,16,"Josh Brown kicks off 69 yards, returned by Larry Croom for 22 yards (tackle by Michael Boulware)",0.000,0.480
+4,12:59,1,10,ARI 23,17,16,Josh McCown pass complete to Freddie Jones for 6 yards (tackle by Tracy White),0.480,0.740
+4,12:25,2,4,ARI 29,17,16,Emmitt Smith up the middle for 3 yards (tackle by Kris Richard and Solomon Bates),0.740,0.430
+4,11:44,3,1,ARI 32,17,16,"Penalty on Leonard Davis: False Start, 5 yards (no play)",0.430,-0.230
+4,11:25,3,6,ARI 27,17,16,"Josh McCown pass complete to Karl Williams for 6 yards (tackle by Solomon Bates). Penalty on Chike Okeafor: Roughing the Passer, 15 yards",-0.230,2.130
+4,11:04,1,10,ARI 48,17,16,Emmitt Smith up the middle for 2 yards (tackle by Rashad Moore),2.130,1.850
+4,10:20,2,8,ARI 50,17,16,Josh McCown pass incomplete intended for Nate Poole,1.850,1.160
+4,10:16,3,8,ARI 50,17,16,Josh McCown pass incomplete intended for Bryant Johnson (defended by Rocky Bernard),1.160,-0.060
+4,10:01,4,8,ARI 50,17,16,"Scott Player punts 39 yards, returned by Maurice Morris for 1 yard (tackle by Quentin Harris)",-0.060,0.350
+4,9:51,1,10,SEA 12,17,16,Matt Hasselbeck pass incomplete intended for Koren Robinson,-0.350,-0.780
+4,9:45,2,10,SEA 12,17,16,Shaun Alexander left tackle for 1 yard (tackle by Adrian Wilson),-0.780,-1.300
+4,9:04,3,9,SEA 13,17,16,Matt Hasselbeck pass incomplete intended for Darrell Jackson (defended by Renaldo Hill),-1.300,-2.490
+4,8:58,4,9,SEA 13,17,18,"Donnie Jones punts no gain, safety. Penalty on Donnie Jones: Illegal Bat (Declined)",-2.490,-2.000
+4,,,,SEA 20,17,18,"Donnie Jones kicks off 54 yards, returned by Karl Williams for 18 yards (tackle by Solomon Bates)",0.000,1.860
+4,8:44,1,10,ARI 44,17,18,Emmitt Smith left tackle for 2 yards (tackle by Terreal Bierria and Chike Okeafor),1.860,1.590
+4,7:54,,,,17,18,Timeout #1 by Arizona Cardinals,0.000,1.590
+4,7:54,2,8,ARI 46,17,18,Josh McCown pass incomplete intended for Bryant Johnson,1.590,0.890
+4,7:50,3,8,ARI 46,17,18,Josh McCown pass complete to Obafemi Ayanbadejo for 7 yards (tackle by Tracy White),0.890,0.130
+4,7:15,4,1,SEA 47,17,18,Scott Player punts 40 yards,0.130,0.380
+4,7:06,1,10,SEA 7,17,18,Shaun Alexander up the middle for 16 yards (tackle by Adrian Wilson),-0.380,0.480
+4,6:29,1,10,SEA 23,17,18,Matt Hasselbeck pass complete to Koren Robinson for 7 yards (tackle by Ifeanyi Ohalete),0.480,0.880
+4,5:51,2,3,SEA 30,17,18,Matt Hasselbeck pass incomplete intended for Jerry Rice,0.880,0.170
+4,5:46,3,3,SEA 30,17,18,Matt Hasselbeck sacked by Raynoch Thompson for -7 yards,0.170,-1.830
+4,5:17,4,10,SEA 23,17,18,"Donnie Jones punts 48 yards, returned by Karl Williams for -2 yards (tackle by Alex Bannister)",-1.830,-0.740
+4,5:07,1,10,ARI 27,17,18,Emmitt Smith left tackle for no gain (tackle by Ken Lucas). Penalty on Leonard Davis: Illegal Formation (Declined),0.740,0.200
+4,4:44,2,10,ARI 27,17,18,Emmitt Smith left end for 14 yards (tackle by Niko Koutouvides and Tracy White),0.200,1.660
+4,3:54,1,10,ARI 41,17,18,Emmitt Smith up the middle for no gain (tackle by Antonio Cochran),1.660,1.120
+4,3:12,2,10,ARI 41,17,18,Emmitt Smith up the middle for no gain (tackle by Rashad Moore),1.120,0.430
+4,3:07,,,,17,18,Timeout #1 by Seattle Seahawks,0.000,0.430
+4,3:07,3,10,ARI 41,17,18,Emmitt Smith up the middle for -1 yards (tackle by Terreal Bierria),0.430,-0.720
+4,3:02,,,,17,18,Timeout #2 by Seattle Seahawks,0.000,-0.720
+4,3:02,4,11,ARI 40,17,18,"Scott Player punts 46 yards, returned by Maurice Morris for 3 yards (tackle by Karlos Dansby)",-0.720,0.060
+4,2:49,1,10,SEA 17,17,18,Matt Hasselbeck pass incomplete intended for Koren Robinson,-0.060,-0.580
+4,2:44,2,10,SEA 17,17,18,Matt Hasselbeck pass incomplete intended for Darrell Jackson is intercepted by Duane Starks at SEA-29 and returned for 5 yards (tackle by Shaun Alexander),-0.580,-3.970
+4,2:37,1,10,SEA 24,17,18,Emmitt Smith up the middle for -1 yards (tackle by Ken Lucas and Rashad Moore),3.970,3.300
+4,2:29,,,,17,18,Timeout #3 by Seattle Seahawks,0.000,3.300
+4,2:29,2,11,SEA 25,17,18,Emmitt Smith up the middle for 2 yards (tackle by Antonio Cochran),3.300,2.870
+4,2:00,3,9,SEA 23,17,24,"Emmitt Smith left tackle for 23 yards, touchdown",2.870,7.000
+4,,,,SEA 2,17,25,Neil Rackers kicks extra point good,0.000,0.000
+4,,,,ARI 30,17,25,"Neil Rackers kicks off 70 yards, touchback",0.000,0.280
+4,1:53,1,10,SEA 20,17,25,Matt Hasselbeck pass incomplete intended for Jerry Rice (defended by Duane Starks),0.280,-0.270
+4,1:45,2,10,SEA 20,17,25,Matt Hasselbeck pass incomplete intended for Itula Mili (defended by Raynoch Thompson),-0.270,-0.960
+4,1:40,3,10,SEA 20,17,25,Matt Hasselbeck pass complete to Koren Robinson for 25 yards (tackle by Ifeanyi Ohalete),-0.960,1.930
+4,1:26,1,10,SEA 45,17,25,Matt Hasselbeck pass incomplete intended for Koren Robinson is intercepted by David Macklin at ARI-36 and returned for 2 yards (tackle by Koren Robinson),1.930,-1.470
+4,1:20,1,10,ARI 38,17,25,Josh McCown kneels for -2 yards,1.470,0.650
+4,0:42,2,12,ARI 36,17,25,Josh McCown kneels for -2 yards,0.650,-0.290
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

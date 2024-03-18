@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,12:37,NOR 11,8,5:16,47,Punt
+2,1,6:26,NOR 30,2,0:54,12,Fumble
+3,1,5:32,NOR 25,3,1:06,4,Punt
+4,2,14:16,NOR 25,3,2:32,1,Punt
+5,2,10:05,NOR 35,3,1:33,3,Punt
+6,2,2:56,NOR 19,10,2:29,70,"Blocked FG, Downs"
+7,3,15:00,NOR 8,14,7:44,62,Missed FG
+8,3,5:06,NOR 38,3,1:17,4,Punt
+9,3,0:59,NOR 11,10,3:28,89,Touchdown
+10,4,12:06,NOR 25,3,0:47,11,Interception
+11,4,8:19,NOR 25,3,1:29,-4,Punt
+12,4,3:28,NOR 10,3,1:06,90,Touchdown
+13,4,0:17,NOR 1,1,0:09,0,Interception

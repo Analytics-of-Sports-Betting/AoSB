@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,DEN 20,8,2:58,80,Touchdown
+2,1,8:56,DEN 18,9,4:37,82,Touchdown
+3,1,2:34,DEN 47,3,1:15,53,Touchdown
+4,2,13:17,DEN 42,8,3:10,58,Touchdown
+5,2,1:28,DEN 27,8,1:27,33,Missed FG
+6,3,14:09,DEN 40,10,4:45,60,Touchdown
+7,3,4:43,DEN 1,3,0:59,7,Punt
+8,3,2:22,DEN 34,10,5:35,66,Touchdown
+9,4,6:54,KAN 42,3,1:38,6,Punt
+10,4,3:30,KAN 38,4,1:35,8,Downs
+11,4,0:10,DEN 40,1,0:10,-1,End of Game

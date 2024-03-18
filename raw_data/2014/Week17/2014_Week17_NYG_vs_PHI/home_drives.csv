@@ -1,0 +1,15 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,NYG 20,6,2:49,80,Touchdown
+2,1,11:00,NYG 24,6,2:22,14,Punt
+3,1,6:12,NYG 20,10,4:01,60,Field Goal
+4,2,15:00,NYG 10,3,0:59,5,Punt
+5,2,13:01,NYG 11,3,1:04,1,Punt
+6,2,11:46,PHI 49,10,4:20,47,Field Goal
+7,2,5:29,NYG 11,10,3:27,71,Field Goal
+8,3,13:56,NYG 28,3,1:35,-1,Blocked Punt
+9,3,12:21,NYG 19,5,3:36,30,Punt
+10,3,7:16,NYG 19,8,2:52,46,Field Goal
+11,3,2:47,NYG 20,6,2:40,19,Punt
+12,4,13:08,NYG 20,5,1:21,80,Touchdown
+13,4,7:56,NYG 20,5,2:37,19,Punt
+14,4,3:45,NYG 31,2,0:54,4,Interception

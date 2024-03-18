@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,KAN 15,6,2:48,52,Punt
+2,1,8:05,KAN 31,5,2:37,17,Punt
+3,1,1:27,KAN 35,13,6:20,45,Downs
+4,2,8:49,KAN 27,6,3:05,20,Punt
+5,2,3:54,KAN 29,6,2:26,71,Touchdown
+6,3,6:03,KAN 27,5,2:36,29,Punt
+7,3,1:38,KAN 31,12,7:02,59,Field Goal
+8,4,2:18,KAN 20,3,1:01,9,Punt
+9,4,0:20,KAN 40,1,0:20,-8,End of Half
+10,5,13:24,KAN 20,5,2:34,31,Punt
+11,5,7:14,KAN 43,7,3:36,36,Missed FG
+12,5,1:13,KAN 31,8,1:13,53,Field Goal

@@ -1,0 +1,196 @@
+Quarter,Time,Down,ToGo,Location,DEN,HOU,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Broncos won the coin toss and deferred, Texans to receive the opening kickoff.",,
+1,15:00,,,DEN 35,0,0,"Matt Prater kicks off 65 yards, touchback",0.000,-0.280
+1,15:00,1,10,HOU 20,0,0,Dennis Johnson left guard for 3 yards (tackle by Von Miller),0.280,0.140
+1,14:28,2,7,HOU 23,0,0,Matt Schaub pass complete short right to Greg Jones for 4 yards (tackle by Chris Harris),0.140,-0.030
+1,13:52,3,3,HOU 27,0,0,Matt Schaub pass incomplete short left intended for DeAndre Hopkins,-0.030,-1.570
+1,13:47,4,3,HOU 27,0,0,"Shane Lechler punts 57 yards, returned by Trindon Holliday for -14 yards (tackle by Jon Weeks). Penalty on Tony Carter: Offensive Holding, 7 yards",-1.570,0.380
+1,13:28,1,10,DEN 8,0,0,Peyton Manning pass complete short left to Julius Thomas for 6 yards (tackle by Jeff Tarpinian),-0.380,-0.320
+1,12:57,2,4,DEN 14,0,0,Peyton Manning pass complete short right to Jacob Tamme for 4 yards (tackle by Brice McCain),-0.320,0.040
+1,12:37,1,10,DEN 18,0,0,"Peyton Manning pass complete short middle to Eric Decker for 4 yards (tackle by Eddie Pleasant). Penalty on Orlando Franklin: Illegal Formation, 5 yards (no play)",0.040,-0.450
+1,12:18,1,15,DEN 13,0,0,Peyton Manning pass incomplete short left intended for Eric Decker,-0.450,-1.140
+1,12:13,2,15,DEN 13,0,0,Peyton Manning pass complete short middle to Demaryius Thomas for 13 yards (tackle by Eddie Pleasant),-1.140,-0.140
+1,12:13,3,2,DEN 26,0,0,"Penalty on Zane Beadles: False Start, 5 yards (no play)",-0.140,-0.790
+1,11:13,3,7,DEN 21,0,0,Peyton Manning pass complete short left to Andre Caldwell for 13 yards (tackle by Shiloh Keo),-0.790,1.200
+1,10:39,1,10,DEN 34,0,0,Peyton Manning pass incomplete deep left intended for Andre Caldwell,1.200,0.660
+1,10:32,2,10,DEN 34,0,0,Knowshon Moreno up the middle for 31 yards (tackle by Eddie Pleasant),0.660,3.250
+1,10:15,1,10,HOU 35,0,0,Peyton Manning pass complete short left to Eric Decker for 14 yards (tackle by Kareem Jackson),3.250,4.170
+1,9:43,1,10,HOU 21,0,0,Peyton Manning pass incomplete deep right intended for Demaryius Thomas (defended by Johnathan Joseph),4.170,3.630
+1,9:38,2,10,HOU 21,0,0,Montee Ball left end for 7 yards (tackle by Kareem Jackson),3.630,4.020
+1,8:58,3,3,HOU 14,0,0,Peyton Manning pass incomplete short right intended for Knowshon Moreno (defended by Shiloh Keo),4.020,2.610
+1,8:53,4,3,HOU 14,3,0,Matt Prater 32 yard field goal good,2.610,3.000
+1,8:53,,,DEN 35,3,0,"Matt Prater kicks off 68 yards, touchback",0.000,-0.280
+1,8:50,1,10,HOU 20,3,0,Matt Schaub pass incomplete short right intended for Keshawn Martin,0.280,-0.270
+1,8:46,2,10,HOU 20,3,0,Dennis Johnson left guard for no gain (tackle by Terrance Knighton),-0.270,-0.960
+1,8:05,3,10,HOU 20,3,0,Matt Schaub pass complete short left to Keshawn Martin for 3 yards (tackle by Champ Bailey). Penalty on Dennis Johnson: Illegal Block Above the Waist (Declined),-0.960,-1.830
+1,7:50,4,7,HOU 23,3,0,"Shane Lechler punts 54 yards, returned by Trindon Holliday for 7 yards (tackle by Justin Tuggle)",-1.830,-0.940
+1,7:38,1,10,DEN 30,3,0,Peyton Manning pass complete deep right to Eric Decker for 35 yards (tackle by D.J. Swearinger),0.940,3.250
+1,7:10,1,10,HOU 35,3,0,Knowshon Moreno right guard for 1 yard (tackle by J.J. Watt),3.250,2.840
+1,6:43,2,9,HOU 34,3,0,Peyton Manning pass complete short right to Virgil Green for 8 yards (tackle by Darryl Sharpton),2.840,3.200
+1,6:13,3,1,HOU 26,3,0,"Knowshon Moreno right guard for 2 yards (tackle by D.J. Swearinger and Brooks Reed). Penalty on Manuel Ramirez: Offensive Holding, 10 yards (no play)",3.200,1.880
+1,5:57,3,11,HOU 36,3,0,Peyton Manning pass complete short left to Demaryius Thomas for 8 yards (tackle by Brooks Reed),1.880,1.680
+1,5:13,4,3,HOU 28,3,0,Peyton Manning pass complete short right to Julius Thomas for 2 yards (tackle by Eddie Pleasant),1.680,-0.670
+1,5:06,1,10,HOU 26,3,0,Dennis Johnson right end for 9 yards (tackle by Mike Adams),0.670,1.350
+1,4:33,2,1,HOU 35,3,0,Dennis Johnson left tackle for 1 yard (tackle by Mitch Unrein and Terrance Knighton),1.350,1.330
+1,3:57,1,10,HOU 36,3,0,Matt Schaub pass complete deep left to Andre Johnson for 33 yards (tackle by Dominique Rodgers-Cromartie),1.330,3.510
+1,3:28,1,10,DEN 31,3,0,Dennis Johnson left tackle for -1 yards (tackle by Sylvester Williams and Mike Adams),3.510,2.830
+1,2:50,2,11,DEN 32,3,0,Matt Schaub pass complete short middle to Ryan Griffin for 5 yards (tackle by Nate Irving),2.830,2.810
+1,2:12,3,6,DEN 27,3,0,Matt Schaub pass incomplete deep right intended for Andre Johnson,2.810,1.700
+1,2:06,4,6,DEN 27,3,3,Randy Bullock 45 yard field goal good,1.700,3.000
+1,2:06,,,HOU 35,3,3,"Randy Bullock kicks off 61 yards, returned by Trindon Holliday for 32 yards (tackle by Jeff Tarpinian)",0.000,-1.330
+1,1:54,1,10,DEN 36,3,3,Peyton Manning pass complete short left to Andre Caldwell for -1 yards (tackle by Kareem Jackson),1.330,0.660
+1,1:25,2,11,DEN 35,3,3,Peyton Manning pass complete short right to Knowshon Moreno for 17 yards (tackle by Shiloh Keo),0.660,2.390
+1,0:55,1,10,HOU 48,3,3,Knowshon Moreno up the middle for 3 yards (tackle by Darryl Sharpton and Brooks Reed),2.390,2.250
+1,0:23,2,7,HOU 45,3,3,Peyton Manning pass complete short left to Knowshon Moreno for 9 yards (tackle by Terrell McClain and Darryl Sharpton),2.250,3.180
+Quarter,Time,Down,ToGo,Location,DEN,HOU,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,HOU 36,9,3,"Peyton Manning pass complete deep left to Demaryius Thomas for 36 yards, touchdown",3.180,7.000
+2,15:00,,,HOU 2,10,3,Matt Prater kicks extra point good,0.000,0.000
+2,15:00,,,DEN 35,10,3,"Matt Prater kicks off 70 yards, returned by Dennis Johnson for 22 yards (tackle by Duke Ihenacho)",0.000,0.060
+2,14:47,1,10,HOU 17,10,3,Dennis Johnson left tackle for 1 yard (tackle by Malik Jackson),-0.060,-0.420
+2,14:10,2,9,HOU 18,10,3,Matt Schaub pass complete short middle to Andre Johnson for 18 yards (tackle by Paris Lenon),-0.420,1.330
+2,13:35,1,10,HOU 36,10,3,"Matt Schaub pass incomplete short left intended for Greg Jones. Penalty on Dominique Rodgers-Cromartie: Unnecessary Roughness, 15 yards",1.330,2.320
+2,13:27,1,10,DEN 49,10,3,Deji Karim right tackle for no gain (tackle by Terrance Knighton and Nate Irving),2.320,1.780
+2,12:54,2,10,DEN 49,10,3,Matt Schaub sacked by Sylvester Williams for -8 yards,1.780,0.040
+2,12:15,3,18,HOU 43,10,3,Matt Schaub pass complete short middle to Andre Johnson for 5 yards (tackle by Danny Trevathan),0.040,-0.190
+2,11:45,4,13,HOU 48,10,3,"Shane Lechler punts 41 yards, fair catch by Trindon Holliday",-0.190,0.370
+2,11:36,1,10,DEN 11,10,3,Peyton Manning pass complete short right to Demaryius Thomas for 19 yards (tackle by Kareem Jackson),-0.370,0.940
+2,10:54,1,10,DEN 30,10,3,Knowshon Moreno right tackle for 3 yards (tackle by Earl Mitchell),0.940,0.800
+2,10:21,2,7,DEN 33,10,3,Peyton Manning pass incomplete short left intended for Eric Decker (defended by Brice McCain),0.800,0.100
+2,10:21,3,7,DEN 33,10,3,Peyton Manning pass incomplete short middle intended for Eric Decker (defended by Brice McCain),0.100,-1.180
+2,10:09,4,7,DEN 33,10,3,"Britton Colquitt punts 46 yards, returned by Keshawn Martin for 51 yards (tackle by Andre Caldwell)",-1.180,-3.710
+2,9:51,1,10,DEN 28,10,3,Dennis Johnson up the middle for 9 yards (tackle by Duke Ihenacho and Mike Adams),3.710,4.420
+2,9:15,2,1,DEN 19,10,3,Dennis Johnson left guard for no gain (tackle by Danny Trevathan and Duke Ihenacho),4.420,3.720
+2,8:19,3,1,DEN 19,10,3,Dennis Johnson up the middle for 2 yards (tackle by Malik Jackson),3.720,4.440
+2,7:39,1,10,DEN 17,10,3,Dennis Johnson left guard for 1 yard (tackle by Sylvester Williams and Malik Jackson),4.440,4.000
+2,7:03,2,9,DEN 16,10,3,Matt Schaub pass complete short right to Dennis Johnson for -2 yards (tackle by Nate Irving),4.000,3.000
+2,6:15,3,11,DEN 18,10,3,Matt Schaub pass incomplete short right intended for Andre Johnson,3.000,2.250
+2,6:09,4,11,DEN 18,10,6,Randy Bullock 35 yard field goal good,2.250,3.000
+2,6:09,,,HOU 35,10,6,"Randy Bullock kicks off 69 yards, returned by Trindon Holliday for 29 yards (tackle by Mike Mohamed)",0.000,-0.610
+2,5:59,1,10,DEN 25,10,6,Peyton Manning pass complete short right to Demaryius Thomas for 9 yards (tackle by Shiloh Keo),0.610,1.280
+2,5:33,2,1,DEN 34,10,6,Montee Ball up the middle for 9 yards (tackle by Shiloh Keo),1.280,1.800
+2,4:56,1,10,DEN 43,10,6,Montee Ball right guard for 3 yards (tackle by Brooks Reed),1.800,1.660
+2,4:29,2,7,DEN 46,10,6,Peyton Manning pass complete short left to Eric Decker for 10 yards (tackle by Brice McCain),1.660,2.650
+2,3:51,1,10,HOU 44,10,6,Knowshon Moreno left guard for 2 yards (tackle by Terrell McClain),2.650,2.380
+2,3:22,2,8,HOU 42,10,6,Peyton Manning pass complete short right to Demaryius Thomas for 9 yards (tackle by Kareem Jackson),2.380,3.380
+2,2:40,1,10,HOU 33,10,6,Peyton Manning pass incomplete short right intended for Julius Thomas,3.380,3.380
+2,2:30,1,10,HOU 33,10,6,Timeout #1 by Denver Broncos,3.380,2.840
+2,2:30,2,10,HOU 33,10,6,Peyton Manning pass complete short left to Julius Thomas for 11 yards (tackle by Darryl Sharpton and D.J. Swearinger),2.840,4.110
+2,2:00,1,10,HOU 22,10,6,Peyton Manning pass complete deep right to Demaryius Thomas for 18 yards (tackle by Kareem Jackson),4.110,6.280
+2,1:24,1,4,HOU 4,10,6,"Penalty on Orlando Franklin: False Start, 5 yards (no play)",6.280,5.140
+2,1:23,1,9,HOU 9,10,6,"Peyton Manning pass incomplete short left intended for Demaryius Thomas (defended by Kareem Jackson). Penalty on Orlando Franklin: Offensive Holding, 10 yards (no play)",5.140,4.230
+2,1:15,1,19,HOU 19,10,6,Peyton Manning pass complete short left to Eric Decker for 13 yards (tackle by D.J. Swearinger),4.230,4.950
+2,1:09,2,6,HOU 6,10,6,Peyton Manning pass incomplete short middle intended for Eric Decker (defended by Shiloh Keo),4.950,4.040
+2,1:04,3,6,HOU 6,10,6,Peyton Manning pass incomplete short left intended for Eric Decker,4.040,2.990
+2,0:59,4,6,HOU 6,13,6,Matt Prater 25 yard field goal good,2.990,3.000
+2,0:59,,,DEN 35,13,6,"Matt Prater kicks off 65 yards, touchback",0.000,-0.280
+2,0:56,1,10,HOU 20,13,6,Matt Schaub pass incomplete short left intended for Andre Johnson (defended by Mike Adams),0.280,-0.270
+2,0:52,2,10,HOU 20,13,6,Matt Schaub pass incomplete,-0.270,-0.960
+,,,,,,,"Replay Assistant challenged the fumble ruling, and the play was upheld.",,
+2,0:46,3,10,HOU 20,13,6,Matt Schaub pass incomplete deep left intended for Andre Johnson (defended by Mike Adams),-0.960,-2.030
+2,0:39,4,10,HOU 20,13,6,"Shane Lechler punts 57 yards, returned by Trindon Holliday for 8 yards (tackle by Elbert Mack)",-2.030,-1.000
+2,0:26,1,10,DEN 31,13,6,Peyton Manning pass complete short right to Eric Decker for 12 yards (tackle by D.J. Swearinger),1.000,1.000
+2,0:20,1,10,DEN 31,13,6,Timeout #2 by Denver Broncos,1.000,1.800
+2,0:20,1,10,DEN 43,13,6,Peyton Manning pass complete deep middle to Julius Thomas for 23 yards (tackle by Eddie Pleasant and Kareem Jackson),1.800,1.800
+2,0:11,1,10,DEN 43,13,6,Timeout #3 by Denver Broncos,1.800,3.310
+2,0:11,1,10,HOU 34,13,6,Peyton Manning pass complete short left to Jacob Tamme for 8 yards,3.310,3.850
+2,0:05,2,2,HOU 26,16,6,Matt Prater 44 yard field goal good,3.850,3.000
+Quarter,Time,Down,ToGo,Location,DEN,HOU,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,HOU 35,16,6,"Randy Bullock kicks off no gain, returned by Trindon Holliday for 18 yards (tackle by Josh Victorian)",0.000,-0.060
+3,14:54,1,10,DEN 17,16,6,Peyton Manning pass incomplete short middle intended for Knowshon Moreno (defended by Joe Mays),-0.060,-0.580
+3,14:48,2,10,DEN 17,16,6,Knowshon Moreno up the middle for 5 yards (tackle by Terrell McClain),-0.580,-0.620
+3,14:08,3,5,DEN 22,16,6,Peyton Manning pass incomplete short right intended for Eric Decker (defended by Brandon Harris),-0.620,-1.900
+3,14:01,4,5,DEN 22,16,6,"Britton Colquitt punts 55 yards, returned by Keshawn Martin for 3 yards (tackle by Montee Ball)",-1.900,-0.670
+3,13:47,1,10,HOU 26,16,6,Matt Schaub pass incomplete short right intended for Dennis Johnson,0.670,0.130
+3,13:41,2,10,HOU 26,16,6,Matt Schaub pass complete short right to Keshawn Martin for 7 yards (tackle by Chris Harris),0.130,0.370
+3,13:14,3,3,HOU 33,16,6,Matt Schaub pass complete deep left to Ryan Griffin for 40 yards (tackle by Mike Adams),0.370,3.780
+3,12:42,1,10,DEN 27,16,6,Dennis Johnson left end for 1 yard (tackle by Paris Lenon),3.780,3.370
+3,12:01,2,9,DEN 26,16,6,Matt Schaub pass incomplete deep right intended for DeAndre Hopkins,3.370,2.680
+3,11:55,3,9,DEN 26,16,6,Matt Schaub pass complete short right to Keshawn Martin for 10 yards (tackle by Chris Harris),2.680,4.510
+3,11:27,1,10,DEN 16,16,6,Deji Karim up the middle for 1 yard (tackle by Paris Lenon),4.510,4.050
+3,10:49,2,9,DEN 15,16,6,Matt Schaub pass incomplete short right intended for Andre Johnson,4.050,3.220
+3,10:43,3,9,DEN 15,16,12,"Matt Schaub pass complete short right to Keshawn Martin for 15 yards, touchdown",3.220,7.000
+3,10:43,,,DEN 2,16,13,Randy Bullock kicks extra point good,0.000,0.000
+3,10:43,,,HOU 35,16,13,"Randy Bullock kicks off 63 yards, returned by Trindon Holliday for 20 yards (tackle by Jonathan Grimes)",0.000,-0.410
+3,10:26,1,10,DEN 22,16,13,Peyton Manning pass incomplete short left intended for Demaryius Thomas,0.410,-0.130
+3,10:23,2,10,DEN 22,16,13,Peyton Manning pass incomplete short left intended for Demaryius Thomas,-0.130,-0.820
+3,10:18,3,10,DEN 22,16,13,Peyton Manning sacked by Whitney Mercilus for -3 yards,-0.820,-2.140
+3,9:53,4,13,DEN 19,16,13,"Britton Colquitt punts 52 yards, returned by Keshawn Martin for 11 yards (tackle by Danny Trevathan). Penalty on Josh Victorian: Offensive Holding, 10 yards",-2.140,-0.150
+3,9:40,1,10,HOU 19,16,13,Deji Karim left guard for 3 yards (tackle by Shaun Phillips),0.150,0.070
+3,9:02,2,7,HOU 22,16,13,Matt Schaub up the middle for 5 yards (tackle by Danny Trevathan),0.070,-0.030
+3,8:13,3,2,HOU 27,16,13,Matt Schaub pass complete short middle to DeAndre Hopkins for 8 yards (tackle by Danny Trevathan),-0.030,1.270
+3,7:37,1,10,HOU 35,16,13,Matt Schaub pass incomplete short right intended for Dennis Johnson,1.270,0.720
+3,7:30,2,10,HOU 35,16,13,Matt Schaub pass incomplete short right intended for Lestar Jean (defended by Chris Harris),0.720,0.040
+3,7:25,3,10,HOU 35,16,13,Matt Schaub pass incomplete deep middle intended for Andre Johnson (defended by Chris Harris),0.040,-1.040
+3,7:20,4,10,HOU 35,16,13,"Shane Lechler punts 47 yards, returned by Trindon Holliday for 6 yards (tackle by Justin Tuggle)",-1.040,-0.540
+3,7:05,1,10,DEN 24,16,13,Peyton Manning pass incomplete short left intended for Montee Ball,0.540,0.000
+3,6:59,2,10,DEN 24,16,13,Peyton Manning pass incomplete short middle intended for Demaryius Thomas (defended by Kareem Jackson),0.000,0.000
+3,6:53,2,10,DEN 24,16,13,Timeout #1 by Denver Broncos,0.000,-0.690
+3,6:53,3,10,DEN 24,16,13,Peyton Manning pass complete short right to Eric Decker for 4 yards (tackle by Brice McCain),-0.690,-1.500
+3,6:16,4,6,DEN 28,16,13,"Britton Colquitt punts 44 yards, returned by Keshawn Martin for 9 yards (tackle by Virgil Green)",-1.500,-1.400
+3,6:06,1,10,HOU 37,16,13,Matt Schaub pass incomplete deep middle intended for Andre Johnson,1.400,0.860
+3,5:58,2,10,HOU 37,16,13,Matt Schaub pass complete short middle to Ryan Griffin for 17 yards (tackle by Mike Adams),0.860,2.520
+3,5:21,1,10,DEN 46,16,13,Deji Karim up the middle for 14 yards (tackle by Mike Adams and Duke Ihenacho),2.520,3.450
+3,4:41,1,10,DEN 32,16,13,Deji Karim right tackle for 4 yards (tackle by Robert Ayers and Danny Trevathan),3.450,3.440
+3,4:06,2,6,DEN 28,16,13,"Matt Schaub sacked by Robert Ayers for -8 yards. Matt Schaub fumbles (forced by Robert Ayers), recovered by Ryan Griffin at DEN-34",3.440,1.950
+3,3:18,3,12,DEN 34,16,13,Matt Schaub sacked by Danny Trevathan for -9 yards,1.950,0.400
+3,2:56,4,21,DEN 43,16,13,Shane Lechler punts 23 yards,0.400,-0.280
+3,2:45,1,10,DEN 20,16,13,Knowshon Moreno left guard for 4 yards (tackle by Darryl Sharpton),0.280,0.270
+3,2:17,2,6,DEN 24,16,13,Peyton Manning pass complete short left to Julius Thomas for 11 yards (tackle by Darryl Sharpton),0.270,1.270
+3,1:50,1,10,DEN 35,16,13,"Knowshon Moreno right tackle for no gain (tackle by Joe Mays). Penalty on Chris Clark: Illegal Use of Hands, 10 yards (no play)",1.270,0.610
+3,1:30,1,20,DEN 25,16,13,Peyton Manning pass complete short middle to Eric Decker for 6 yards (tackle by Darryl Sharpton),0.610,0.180
+3,1:07,2,14,DEN 31,16,13,Peyton Manning pass complete short right to Demaryius Thomas for 11 yards,0.180,0.960
+3,0:40,3,3,DEN 42,16,13,Peyton Manning pass incomplete deep middle intended for Julius Thomas,0.960,-0.590
+3,0:34,4,3,DEN 42,16,13,Britton Colquitt punts 49 yards,-0.590,0.380
+3,0:21,1,10,HOU 9,16,13,Deji Karim left guard for 5 yards (tackle by Nate Irving),-0.380,-0.390
+Quarter,Time,Down,ToGo,Location,DEN,HOU,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,5,HOU 14,16,13,Deji Karim left tackle for 6 yards (tackle by Sylvester Williams),-0.390,0.280
+4,14:21,1,10,HOU 20,16,13,Matt Schaub pass incomplete short right intended for DeAndre Hopkins is intercepted by Mike Adams at HOU-31 and returned for 3 yards. Penalty on HOU: Offensive Holding (Declined),0.280,-3.710
+4,14:11,1,10,HOU 28,16,13,Knowshon Moreno right guard for 18 yards (tackle by D.J. Swearinger),3.710,4.910
+4,13:29,1,10,HOU 10,22,13,"Peyton Manning pass complete short left to Eric Decker for 10 yards, touchdown",4.910,7.000
+4,13:29,,,HOU 2,23,13,Matt Prater kicks extra point good,0.000,0.000
+4,13:29,,,DEN 35,23,13,"Matt Prater kicks off 65 yards, touchback",0.000,-0.280
+4,13:26,1,10,HOU 20,23,13,Dennis Johnson right tackle for 3 yards (tackle by Jeremy Mincey),0.280,0.140
+4,12:51,2,7,HOU 23,23,13,Matt Schaub pass complete short right to Dennis Johnson for 3 yards (tackle by Nate Irving),0.140,-0.160
+4,12:17,3,4,HOU 26,23,13,Matt Schaub pass complete short middle to Andre Johnson for 7 yards (tackle by Mike Adams),-0.160,1.140
+4,11:42,1,10,HOU 33,23,13,Deji Karim up the middle for -3 yards (tackle by Malik Jackson),1.140,0.190
+4,11:02,2,13,HOU 30,23,13,Matt Schaub pass complete short right to Deji Karim for -1 yards (tackle by Danny Trevathan),0.190,-0.620
+4,10:21,3,14,HOU 29,23,13,Matt Schaub pass incomplete deep left intended for Andre Johnson,-0.620,-1.440
+4,10:13,4,14,HOU 29,23,13,"Shane Lechler punts 40 yards, muffed catch by Trindon Holliday, recovered by Trindon Holliday and returned for no gain. Penalty on Eddie Pleasant: Offensive Holding, 10 yards",-1.440,-1.930
+4,10:00,1,10,DEN 45,23,13,Knowshon Moreno left end for 4 yards (tackle by Jared Crick),1.930,1.920
+4,9:35,2,6,DEN 49,23,13,Peyton Manning pass complete short middle to Eric Decker for 7 yards (tackle by Brice McCain),1.920,2.650
+4,8:59,1,10,HOU 44,23,13,Peyton Manning pass incomplete deep left intended for Demaryius Thomas,2.650,2.110
+4,8:51,2,10,HOU 44,23,13,Peyton Manning pass complete short right to Jacob Tamme for 10 yards (tackle by Brandon Harris),2.110,3.310
+4,8:28,1,10,HOU 34,23,13,Montee Ball left tackle for 13 yards (tackle by Shiloh Keo and Brandon Harris),3.310,4.170
+4,7:52,1,10,HOU 21,23,13,"Peyton Manning pass incomplete deep right intended for Andre Caldwell. Penalty on Zane Beadles: Offensive Holding (Offsetting), Penalty on Brice McCain: Defensive Holding (Offsetting) (no play)",4.170,4.170
+4,7:44,1,10,HOU 21,23,13,Knowshon Moreno right tackle for 1 yard (tackle by Joe Mays and Darryl Sharpton),4.170,3.760
+4,7:11,2,9,HOU 20,23,13,Peyton Manning pass incomplete deep left intended for Demaryius Thomas,3.760,3.070
+4,7:04,3,9,HOU 20,29,13,"Peyton Manning pass complete deep left to Eric Decker for 20 yards, touchdown",3.070,7.000
+,,,,,,,"Replay Assistant challenged the pass completion ruling, and the play was upheld.",,
+4,7:04,,,HOU 2,30,13,Matt Prater kicks extra point good,0.000,0.000
+4,7:04,,,DEN 35,30,13,"Matt Prater kicks off 65 yards, touchback",0.000,-0.280
+4,6:57,1,10,HOU 20,30,13,Matt Schaub pass complete short right to Ryan Griffin for -1 yards (tackle by Wesley Woodyard and Shaun Phillips),0.280,-0.460
+4,6:27,2,11,HOU 19,30,13,"Penalty on Ryan Harris: Offensive Holding, 10 yards (no play)",-0.460,-1.580
+4,6:03,2,21,HOU 9,30,13,Matt Schaub pass incomplete short right intended for Keshawn Martin (defended by Danny Trevathan),-1.580,-2.710
+4,5:58,3,21,HOU 9,30,13,Jonathan Grimes up the middle for 7 yards (tackle by Malik Jackson),-2.710,-2.390
+4,5:24,4,14,HOU 16,30,13,"Shane Lechler punts 40 yards, fair catch by Eric Decker",-2.390,-1.860
+4,5:16,1,10,DEN 44,30,13,Knowshon Moreno right tackle for 4 yards (tackle by Joe Mays),1.860,1.860
+4,4:47,2,6,DEN 48,30,13,Peyton Manning pass incomplete short right intended for Eric Decker (defended by Kareem Jackson),1.860,1.160
+4,4:41,3,6,DEN 48,30,13,"Peyton Manning pass incomplete deep right intended for Julius Thomas. Penalty on Eddie Pleasant: Defensive Pass Interference, 27 yards, Penalty on Shiloh Keo: Unnecessary Roughness (Declined) (no play)",1.160,3.910
+4,4:34,1,10,HOU 25,36,13,"Peyton Manning pass complete deep right to Julius Thomas for 25 yards, touchdown",3.910,7.000
+4,4:34,,,HOU 2,37,13,Matt Prater kicks extra point good,0.000,0.000
+4,4:34,,,DEN 35,37,13,"Matt Prater kicks off 65 yards, touchback",0.000,-0.280
+4,4:28,1,10,HOU 20,37,13,Matt Schaub pass complete short right to Ryan Griffin for 5 yards (tackle by Mike Adams),0.280,0.410
+4,4:05,2,5,HOU 25,37,13,Jonathan Grimes up the middle for 5 yards (tackle by Chris Harris and Danny Trevathan),0.410,0.940
+4,3:39,1,10,HOU 30,37,13,Jonathan Grimes right guard for 9 yards (tackle by Mike Adams),0.940,1.610
+4,3:39,2,1,HOU 39,37,13,Matt Schaub pass incomplete deep left intended for Andre Johnson is intercepted by Dominique Rodgers-Cromartie at DEN-22,1.610,-0.410
+4,3:13,1,10,DEN 22,37,13,Ronnie Hillman left end for 2 yards (tackle by Brooks Reed and J.J. Watt),0.410,0.140
+4,2:29,2,8,DEN 24,37,13,Ronnie Hillman up the middle for 3 yards (tackle by Joe Mays and Whitney Mercilus),0.140,-0.160
+4,2:00,3,5,DEN 27,37,13,Ronnie Hillman right guard for 1 yard (tackle by Terrell McClain),-0.160,-1.500
+4,1:15,4,4,DEN 28,37,13,"Britton Colquitt punts 46 yards, returned by Keshawn Martin for 7 yards (tackle by Montee Ball)",-1.500,-1.140
+4,1:04,1,10,HOU 33,37,13,Jonathan Grimes right guard for 3 yards (tackle by Robert Ayers),1.140,1.000
+4,0:32,2,7,HOU 36,37,13,Jonathan Grimes right tackle for -1 yards (tackle by Mitch Unrein),1.000,0.170
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

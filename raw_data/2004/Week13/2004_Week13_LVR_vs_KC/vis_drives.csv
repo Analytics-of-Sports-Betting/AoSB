@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,11:03,KAN 35,10,6:45,65,Touchdown
+2,1,1:06,KAN 49,6,3:25,17,Punt
+3,2,11:40,KAN 45,2,1:07,18,Interception
+4,2,9:00,KAN 20,3,1:30,7,Punt
+5,2,5:58,KAN 20,17,5:44,70,Field Goal
+6,3,15:00,KAN 14,8,4:37,86,Touchdown
+7,3,7:43,KAN 20,7,3:27,80,Touchdown
+8,4,14:13,KAN 22,13,7:14,74,Field Goal
+9,4,4:01,KAN 12,5,1:57,88,Touchdown
+10,4,0:49,OAK 45,2,0:49,-1,End of Game

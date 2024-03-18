@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,NWE 25,3,1:39,4,Punt
+2,1,11:27,NWE 18,11,5:51,82,Touchdown
+3,1,2:15,NWE 11,12,4:00,87,Field Goal
+4,2,8:55,NWE 12,5,2:39,27,Punt
+5,2,3:18,NWE 9,3,1:22,6,Punt
+6,2,1:01,,5,0:47,50,Touchdown
+7,3,11:25,NYJ 45,7,2:28,45,Touchdown
+8,3,6:15,NWE 20,4,1:58,11,Interception
+9,3,0:50,NWE 42,4,1:12,7,Fumble
+10,4,9:20,NWE 30,16,8:15,58,Blocked FG
+11,4,0:05,NWE 29,1,0:05,-1,End of Game

@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:07,MIN 26,6,2:54,74,Touchdown
+2,1,8:10,MIN 25,3,1:57,9,Punt
+3,1,1:04,MIN 25,2,0:46,11,Interception
+4,2,12:53,MIN 45,12,5:41,46,Field Goal
+5,2,3:15,BUF 37,4,1:25,9,Downs
+6,2,0:28,MIN 25,3,0:28,2,Punt
+7,3,15:00,MIN 22,6,2:38,42,Interception
+8,3,10:18,MIN 23,6,4:06,9,Punt
+9,3,1:51,MIN 19,1,0:17,81,Touchdown
+10,4,10:27,MIN 34,13,5:53,66,Touchdown
+11,4,3:26,MIN 24,12,2:37,75,Downs
+12,4,0:02,MIN 25,1,0:02,-1,End of Half
+13,5,10:00,MIN 25,12,6:18,60,Field Goal

@@ -1,0 +1,179 @@
+Quarter,Time,Down,ToGo,Location,DAL,CAR,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Panthers won the coin toss and deferred, Cowboys to receive the opening kickoff.",,
+1,15:00,,,CAR 35,0,0,"Graham Gano kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,DAL 25,0,0,Ezekiel Elliott right guard for -1 yards (tackle by Mario Addison and David Mayo),0.610,-0.070
+1,14:26,2,11,DAL 24,0,0,"Dak Prescott pass complete short left to Tavon Austin for 9 yards (tackle by Mario Addison). Penalty on Tyron Smith: Illegal Block Above the Waist, 10 yards (no play)",-0.070,-1.540
+1,14:01,2,21,DAL 14,0,0,Ezekiel Elliott right end for no gain (tackle by Mike Adams and Luke Kuechly),-1.540,-2.550
+1,13:19,3,21,DAL 14,0,0,"Penalty on DAL: Delay of Game, 5 yards (no play)",-2.550,-3.290
+1,13:02,3,26,DAL 9,0,0,Ezekiel Elliott right tackle for 4 yards (tackle by Luke Kuechly),-3.290,-2.490
+1,12:26,4,22,DAL 13,0,0,"Chris Jones punts 55 yards, fair catch by Damiere Byrd at CAR-32",-2.490,-1.070
+1,12:20,1,10,CAR 32,0,0,Cam Newton pass complete short right to Christian McCaffrey for no gain (tackle by Antwaun Woods),1.070,0.530
+1,11:44,2,10,CAR 32,0,0,Cam Newton up the middle for no gain (tackle by Demarcus Lawrence),0.530,-0.160
+1,11:03,3,10,CAR 32,0,0,"Cam Newton pass incomplete short right intended for Devin Funchess. Penalty on Demarcus Lawrence: Roughing the Passer, 15 yards (no play)",-0.160,2.060
+1,10:58,1,10,CAR 47,0,0,"Cam Newton pass incomplete deep left intended for Devin Funchess. Penalty on Taylor Moton: Offensive Holding, 10 yards (no play)",2.060,1.400
+1,10:52,1,20,CAR 37,0,0,D.J. Moore left end for 3 yards (tackle by Anthony Brown),1.400,0.570
+1,10:18,2,17,CAR 40,0,0,Cam Newton up the middle for 16 yards (tackle by Kavon Frazier),0.570,2.020
+1,9:35,3,1,DAL 44,0,0,Cam Newton up the middle for 2 yards (tackle by Dorance Armstrong and Antwaun Woods),2.020,2.790
+1,8:56,1,10,DAL 42,0,0,Cam Newton left end for 29 yards (tackle by Jeff Heath),2.790,4.710
+1,8:06,1,10,DAL 13,0,0,C.J. Anderson right guard for 1 yard (tackle by Daniel Ross and Kavon Frazier),4.710,4.220
+1,7:22,2,9,DAL 12,0,0,Cam Newton pass complete short left to Ian Thomas for 7 yards (tackle by Chidobe Awuzie),4.220,4.780
+1,6:42,3,2,DAL 5,0,0,"Christian McCaffrey up the middle for no gain (tackle by Daniel Ross). Christian McCaffrey fumbles (forced by Daniel Ross), recovered by Demarcus Lawrence at DAL-5 and returned for 5 yards (tackle by D.J. Moore)",4.780,0.380
+1,6:36,1,10,DAL 10,0,0,Dak Prescott pass incomplete short right intended for Terrance Williams,-0.380,-0.780
+1,6:29,2,10,DAL 10,0,0,Dak Prescott pass complete short middle to Cole Beasley for 11 yards (tackle by Luke Kuechly),-0.780,0.340
+1,5:50,1,10,DAL 21,0,0,"Dak Prescott pass incomplete short middle intended for Michael Gallup. Penalty on Captain Munnerlyn: Defensive Holding, 5 yards (no play)",0.340,0.670
+1,5:46,1,10,DAL 26,0,0,Ezekiel Elliott left tackle for 2 yards (tackle by Donte Jackson),0.670,0.400
+1,5:14,2,8,DAL 28,0,0,Dak Prescott pass complete short left to Geoff Swaim for 11 yards (tackle by Luke Kuechly),0.400,1.530
+1,4:33,1,10,DAL 39,0,0,Ezekiel Elliott up the middle for 3 yards (tackle by Bryan Cox and Vernon Butler),1.530,1.390
+1,3:48,2,7,DAL 42,0,0,"Dak Prescott pass incomplete short left intended for Ezekiel Elliott. Penalty on Tyron Smith: Offensive Holding, 10 yards (no play)",1.390,0.040
+1,3:42,2,17,DAL 32,0,0,Rod Smith right tackle for 5 yards (tackle by Luke Kuechly),0.040,0.040
+1,3:01,3,12,DAL 37,0,0,Dak Prescott pass complete short left to Cole Beasley for 8 yards (tackle by Luke Kuechly),0.040,-0.390
+1,2:24,4,4,DAL 45,0,0,"Chris Jones punts 51 yards, returned by Damiere Byrd for 14 yards (tackle by Joe Thomas)",-0.390,-0.040
+1,2:12,1,10,CAR 18,0,0,Cam Newton pass complete short middle to Greg Olsen for 14 yards (tackle by Sean Lee),0.040,1.070
+1,1:33,1,10,CAR 32,0,0,"Cam Newton pass complete deep right to Devin Funchess for 27 yards (tackle by Chidobe Awuzie and Jaylon Smith). Penalty on Trai Turner: Offensive Holding, 10 yards (no play)",1.070,0.410
+1,0:59,1,20,CAR 22,0,0,Cam Newton pass incomplete short left intended for Devin Funchess (defended by Taco Charlton),0.410,-0.820
+1,0:55,2,20,CAR 22,0,0,Cam Newton pass complete deep right to Greg Olsen for 19 yards (tackle by Kavon Frazier),-0.820,1.030
+1,0:10,3,1,CAR 41,0,0,Cam Newton right end for 12 yards (tackle by Chidobe Awuzie),1.030,2.460
+Quarter,Time,Down,ToGo,Location,DAL,CAR,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,DAL 47,0,0,Christian McCaffrey right end for no gain (tackle by Sean Lee and Demarcus Lawrence),2.460,1.910
+2,14:19,2,10,DAL 47,0,0,Cam Newton pass incomplete short right intended for Christian McCaffrey (defended by Kavon Frazier),1.910,1.220
+2,14:13,3,10,DAL 47,0,0,Cam Newton pass incomplete short right intended for Jarius Wright (defended by Anthony Brown),1.220,0.130
+2,14:08,,,,,,Timeout #1 by Dallas Cowboys,,
+2,14:08,4,10,DAL 47,0,0,"Michael Palardy punts 33 yards, fair catch by Cole Beasley at DAL-14",0.130,0.280
+2,14:01,1,10,DAL 14,0,0,Dak Prescott sacked by Shaq Thompson for -7 yards,-0.280,-1.290
+2,13:20,2,17,DAL 7,0,0,Ezekiel Elliott left guard for 7 yards (tackle by Bryan Cox and Shaq Thompson),-1.290,-1.400
+2,12:38,3,10,DAL 14,0,0,Dak Prescott pass incomplete short right intended for Rod Smith,-1.400,-2.470
+2,12:33,4,10,DAL 14,0,0,"Chris Jones punts 51 yards, returned by Damiere Byrd for 30 yards (tackle by Rod Smith)",-2.470,-3.250
+2,12:18,1,10,DAL 35,0,0,Christian McCaffrey right guard for 5 yards (tackle by Sean Lee and Joe Thomas),3.250,3.380
+2,11:36,2,5,DAL 30,0,0,Christian McCaffrey left guard for 3 yards (tackle by Tyrone Crawford and Taco Charlton),3.380,3.070
+2,10:52,,,,,,Timeout #1 by Carolina Panthers,,
+2,10:52,3,2,DAL 27,0,0,Cam Newton pass complete short right to Jarius Wright for 5 yards (tackle by Anthony Brown),3.070,4.110
+2,10:16,1,10,DAL 22,0,0,Cam Newton pass incomplete short middle intended for Torrey Smith (defended by Sean Lee),4.110,3.560
+2,10:11,2,10,DAL 22,0,0,Christian McCaffrey up the middle for 13 yards (tackle by Demarcus Lawrence and Anthony Brown),3.560,5.140
+2,9:26,1,9,DAL 9,0,0,Christian McCaffrey up the middle for 5 yards (tackle by Demarcus Lawrence),5.140,5.340
+2,8:54,2,4,DAL 4,0,6,"Cam Newton right tackle for 4 yards, touchdown",5.340,7.000
+2,8:50,,,DAL 15,0,7,Graham Gano kicks extra point good,0.000,0.000
+2,8:50,,,CAR 35,0,7,"Graham Gano kicks off 65 yards, touchback.",0.000,0.610
+2,8:50,1,10,DAL 25,0,7,Tavon Austin right end for 1 yard (tackle by Donte Jackson and Mike Adams),0.610,0.200
+2,8:09,2,9,DAL 26,0,7,Dak Prescott sacked by Kawann Short for -2 yards,0.200,-0.760
+2,7:25,3,11,DAL 24,0,7,Dak Prescott pass incomplete deep right intended for Allen Hurns,-0.760,-1.770
+2,7:20,4,11,DAL 24,0,7,"Chris Jones punts 49 yards, returned by Damiere Byrd for 3 yards (tackle by Joe Thomas and L.P. Ladouceur)",-1.770,-0.940
+2,7:07,1,10,CAR 30,0,7,"Penalty on Chris Manhertz: False Start, 5 yards (no play)",0.940,0.610
+2,7:07,1,15,CAR 25,0,7,Cam Newton pass complete short left to Christian McCaffrey for 7 yards (tackle by Leighton Vander Esch),0.610,0.660
+2,6:27,2,8,CAR 32,0,7,Cam Newton left tackle for 1 yard (tackle by Jeff Heath),0.660,0.100
+2,5:55,3,7,CAR 33,0,7,Cam Newton pass incomplete deep left intended for Devin Funchess,0.100,-1.180
+2,5:49,4,7,CAR 33,0,7,"Michael Palardy punts 50 yards, fair catch by Tavon Austin at DAL-17",-1.180,0.060
+2,5:42,1,10,DAL 17,0,7,Dak Prescott pass complete short right to Michael Gallup for 9 yards (tackle by James Bradberry),-0.060,0.750
+2,5:03,2,1,DAL 26,0,7,Dak Prescott pass complete short right to Geoff Swaim for 7 yards (tackle by Shaq Thompson),0.750,1.140
+2,4:24,1,10,DAL 33,0,7,Ezekiel Elliott right guard for 3 yards (tackle by Mike Adams and Vernon Butler),1.140,1.000
+2,3:47,2,7,DAL 36,0,7,Dak Prescott pass complete short right to Geoff Swaim for no gain (tackle by Mike Adams),1.000,0.300
+2,3:03,3,7,DAL 36,0,7,Dak Prescott pass incomplete deep left intended for Blake Jarwin,0.300,-0.980
+2,2:55,4,7,DAL 36,0,7,"Chris Jones punts 56 yards, returned by D.J. Moore for 15 yards (tackle by Kavon Frazier and Jamize Olawale). Penalty on Anthony Brown: Unsportsmanlike Conduct, 15 yards",-0.980,-1.470
+2,2:44,1,10,CAR 38,0,7,C.J. Anderson left guard for 7 yards (tackle by Byron Jones),1.470,1.870
+2,2:18,2,3,CAR 45,0,7,C.J. Anderson left guard for 6 yards (tackle by Damien Wilson),1.870,2.320
+2,2:00,1,10,DAL 49,0,7,"Cam Newton pass complete short right to Jarius Wright for 10 yards (tackle by Chidobe Awuzie). Jarius Wright fumbles (forced by Chidobe Awuzie), recovered by Jarius Wright at DAL-39",2.320,2.980
+2,2:00,,,,,,Timeout #2 by Dallas Cowboys,,
+2,1:40,1,10,DAL 39,0,7,Cam Newton pass incomplete deep right intended for Christian McCaffrey,2.980,2.440
+2,1:35,2,10,DAL 39,0,7,Cam Newton pass complete short right to Torrey Smith for 15 yards (tackle by Kavon Frazier),2.440,3.970
+2,1:11,1,10,DAL 24,0,7,Cam Newton pass complete short middle to Jarius Wright for 8 yards (tackle by Jaylon Smith),3.970,4.650
+2,0:45,2,2,DAL 16,0,7,"Cam Newton pass incomplete short left intended for Devin Funchess (defended by Byron Jones). Penalty on Ryan Kalil: Face Mask (15 Yards), 15 yards (no play)",4.650,2.490
+2,0:42,2,17,DAL 31,0,7,Cam Newton pass complete short left to Christian McCaffrey for 14 yards (tackle by Byron Jones),2.490,3.750
+2,0:35,,,,,,Timeout #2 by Carolina Panthers,,
+2,0:35,3,3,DAL 17,0,7,Cam Newton pass complete short right to Christian McCaffrey for 3 yards (tackle by Jeff Heath),3.750,4.650
+2,0:30,,,,,,Timeout #2 by Carolina Panthers,,
+2,0:30,1,10,DAL 14,0,10,"Penalty on Demarcus Lawrence: Neutral Zone Infraction, 5 yards (no play)",4.650,5.800
+2,0:30,1,5,DAL 9,0,7,Cam Newton sacked by Jaylon Smith for no gain,5.800,4.900
+2,0:08,2,5,DAL 9,0,7,Cam Newton spiked the ball,4.900,4.050
+2,0:07,3,5,DAL 9,0,10,Graham Gano 27 yard field goal good,4.050,3.000
+2,0:03,,,CAR 35,0,10,"Graham Gano kicks off 65 yards, touchback.",0.000,0.610
+2,0:03,1,10,DAL 25,0,10,Dak Prescott kneels for -1 yards,0.610,-0.070
+Quarter,Time,Down,ToGo,Location,DAL,CAR,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DAL 35,0,10,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,CAR 25,0,10,Cam Newton pass complete short left to Christian McCaffrey for 14 yards (tackle by Jaylon Smith),0.610,1.530
+3,14:25,1,10,CAR 39,0,10,C.J. Anderson right tackle for 9 yards (tackle by Chidobe Awuzie),1.530,2.200
+3,14:25,2,1,CAR 48,0,10,"Penalty on Antwaun Woods: Encroachment, 5 yards (no play)",2.200,2.460
+3,13:29,1,10,DAL 47,0,10,Cam Newton pass incomplete short right intended for Christian McCaffrey,2.460,1.910
+3,13:24,2,10,DAL 47,0,10,Cam Newton pass complete short right,1.910,0.830
+3,12:37,3,13,CAR 50,0,10,Cam Newton sacked by Maliek Collins for -8 yards,0.830,-0.590
+3,11:54,4,21,CAR 42,0,10,"Michael Palardy punts 50 yards, fair catch by Tavon Austin at DAL-8",-0.590,0.380
+3,11:46,1,10,DAL 8,0,10,Ezekiel Elliott left end for 2 yards (tackle by Da'Norris Searcy and Shaq Thompson),-0.380,-0.630
+3,11:01,2,8,DAL 10,0,10,Dak Prescott pass complete deep right to Allen Hurns for 20 yards (tackle by Shaq Thompson). Penalty on Donte Jackson: Illegal Contact (Declined),-0.630,0.940
+3,10:32,1,10,DAL 30,0,10,Dak Prescott pass incomplete short right intended for Cole Beasley,0.940,0.390
+3,10:28,2,10,DAL 30,0,10,Ezekiel Elliott right tackle for 17 yards (tackle by Da'Norris Searcy),0.390,2.060
+3,9:49,1,10,DAL 47,0,10,Dak Prescott up the middle for 5 yards (tackle by Luke Kuechly),2.060,2.190
+3,9:10,2,5,CAR 48,0,10,Ezekiel Elliott up the middle for 2 yards (tackle by Julius Peppers and Kyle Love),2.190,1.750
+3,8:31,3,3,CAR 46,0,10,Dak Prescott pass incomplete deep right intended for Geoff Swaim,1.750,0.200
+3,8:23,4,3,CAR 46,0,10,"Chris Jones punts 31 yards, fair catch by D.J. Moore at CAR-15",0.200,0.220
+3,8:16,1,10,CAR 15,0,10,Christian McCaffrey right guard for 2 yards (tackle by Kavon Frazier and Sean Lee),-0.220,-0.440
+3,7:39,2,8,CAR 17,0,10,Christian McCaffrey up the middle for 3 yards (tackle by Kavon Frazier and Jeff Heath),-0.440,-0.760
+3,6:52,3,5,CAR 20,0,10,Cam Newton pass incomplete short middle intended for Jarius Wright,-0.760,-2.030
+3,6:48,4,5,CAR 20,0,10,"Michael Palardy punts 50 yards, returned by Tavon Austin for 15 yards (tackle by Ian Thomas)",-2.030,-1.930
+3,6:36,1,10,DAL 45,0,10,Dak Prescott pass complete short middle to Cole Beasley for 11 yards (tackle by Captain Munnerlyn),1.930,2.650
+3,6:12,1,10,CAR 44,0,10,Dak Prescott pass incomplete short right intended for Ezekiel Elliott,2.650,2.110
+3,6:08,2,10,CAR 44,0,10,Dak Prescott sacked by Wes Horton and Mario Addison for -1 yards,2.110,1.290
+3,5:31,3,11,CAR 45,0,10,Dak Prescott pass complete short left to Cole Beasley for 16 yards (tackle by Da'Norris Searcy),1.290,3.640
+3,5:05,1,10,CAR 29,0,10,"Ezekiel Elliott left guard for no gain (tackle by Julius Peppers). Penalty on La'el Collins: Offensive Holding, 10 yards (no play)",3.640,2.980
+3,4:51,1,20,CAR 39,0,10,Dak Prescott left tackle for 3 yards (tackle by Shaq Thompson),2.980,2.160
+3,4:11,2,17,CAR 36,0,10,Dak Prescott pass complete short left to Terrance Williams for 6 yards (tackle by Donte Jackson),2.160,2.280
+3,3:28,3,11,CAR 30,0,10,Dak Prescott pass complete short right to Ezekiel Elliott for 1 yard (tackle by Mike Adams),2.280,1.500
+3,2:44,4,10,CAR 29,0,10,Brett Maher 47 yard field goal no good,1.500,-1.400
+3,2:37,1,10,CAR 37,0,10,Cam Newton pass complete short left to Devin Funchess for 15 yards (tackle by Leighton Vander Esch),1.400,2.390
+3,2:01,1,10,DAL 48,0,10,Christian McCaffrey left end for 15 yards (tackle by Byron Jones),2.390,3.380
+3,1:21,1,10,DAL 33,0,10,C.J. Anderson up the middle for 4 yards (tackle by Leighton Vander Esch and Dorance Armstrong),3.380,3.380
+3,0:37,2,6,DAL 29,0,10,Cam Newton pass complete short left to Devin Funchess for 14 yards (tackle by Byron Jones),3.380,4.580
+3,0:11,1,10,DAL 15,0,10,"C.J. Anderson right guard for no gain (tackle by Demarcus Lawrence and Jaylon Smith). Penalty on Antwaun Woods: Defensive Offside, 5 yards (no play)",4.580,5.740
+Quarter,Time,Down,ToGo,Location,DAL,CAR,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,5,DAL 10,0,10,C.J. Anderson right guard for 9 yards (tackle by Jeff Heath and Justin March-Lillard),5.740,6.970
+4,14:16,1,1,DAL 1,0,16,"Alex Armah up the middle for 1 yard, touchdown",6.970,7.000
+4,14:12,,,DAL 15,0,16,"Two Point Attempt: Michael Palardy rushes, conversion fails.",0.000,-1.000
+4,14:12,,,CAR 35,0,16,"Graham Gano kicks off 65 yards, touchback.",0.000,0.610
+4,14:12,1,10,DAL 25,0,16,"Dak Prescott pass incomplete short left intended for Michael Gallup. Penalty on Donte Jackson: Defensive Pass Interference, 10 yards (no play)",0.610,1.270
+4,14:08,1,10,DAL 35,0,16,Ezekiel Elliott right tackle for 16 yards (tackle by Colin Jones and Shaq Thompson),1.270,2.320
+4,13:39,1,10,CAR 49,0,16,Ezekiel Elliott left tackle for 4 yards (tackle by Kyle Love),2.320,2.320
+4,13:06,2,6,CAR 45,0,16,Dak Prescott pass complete short middle to Cole Beasley for 6 yards (tackle by Luke Kuechly),2.320,2.980
+4,12:43,1,10,CAR 39,0,16,Dak Prescott pass complete short middle to Ezekiel Elliott for 3 yards (tackle by Luke Kuechly),2.980,2.850
+4,12:16,2,7,CAR 36,0,16,Dak Prescott pass complete short left to Deonte Thompson for 13 yards (tackle by Captain Munnerlyn),2.850,4.040
+4,11:39,,,,,,Timeout #1 by Carolina Panthers,,
+4,11:39,1,10,CAR 23,0,16,Dak Prescott pass complete short left to Cole Beasley for 4 yards (tackle by Luke Kuechly),4.040,4.050
+4,10:59,2,6,CAR 19,0,16,Ezekiel Elliott up the middle for -1 yards (tackle by Vernon Butler and Wes Horton),4.050,3.200
+4,10:18,3,7,CAR 20,0,16,Dak Prescott left end for 9 yards (tackle by Shaq Thompson),3.200,4.840
+4,9:38,1,10,CAR 11,0,16,Ezekiel Elliott up the middle for 7 yards (tackle by Colin Jones),4.840,5.470
+4,8:58,2,3,CAR 4,6,16,"Ezekiel Elliott right end for 4 yards, touchdown",5.470,7.000
+4,8:51,,,CAR 2,8,16,"Two Point Attempt: Dak Prescott rushes, conversion succeeds.",0.000,1.000
+4,8:51,,,DAL 35,8,16,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+4,8:51,1,10,CAR 25,8,16,Christian McCaffrey up the middle for 4 yards (tackle by Taco Charlton and Jaylon Smith),0.610,0.600
+4,8:31,2,6,CAR 29,8,16,Cam Newton pass complete short left to Christian McCaffrey for 7 yards (tackle by Jeff Heath),0.600,1.330
+4,7:46,1,10,CAR 36,8,16,Cam Newton up the middle for -1 yards (tackle by Demarcus Lawrence),1.330,0.660
+4,7:05,2,11,CAR 35,8,16,"Cam Newton pass complete short left to Christian McCaffrey for 7 yards (tackle by Byron Jones). Penalty on Taylor Moton: Chop Block, 15 yards (no play)",0.660,-1.370
+4,6:31,,,,,,Timeout #2 by Carolina Panthers,,
+4,6:31,2,26,CAR 20,8,16,Cam Newton pass complete short left to Devin Funchess for 12 yards (tackle by Byron Jones),-1.370,-0.430
+4,5:48,3,14,CAR 32,8,16,Cam Newton sacked by Demarcus Lawrence for -7 yards,-0.430,-1.700
+4,5:04,4,21,CAR 25,8,16,"Michael Palardy punts 52 yards, returned by Tavon Austin for -2 yards (tackle by Jared Norris)",-1.700,-0.340
+4,4:52,1,10,DAL 21,8,16,Dak Prescott pass complete short middle to Cole Beasley for 17 yards (tackle by Luke Kuechly),0.340,1.470
+4,4:26,1,10,DAL 38,8,16,Dak Prescott pass complete short left to Deonte Thompson for 8 yards (tackle by Donte Jackson),1.470,2.000
+4,3:56,2,2,DAL 46,8,16,Dak Prescott pass complete short left to Deonte Thompson for 6 yards (tackle by Donte Jackson),2.000,2.390
+4,3:30,1,10,CAR 48,8,16,Dak Prescott sacked by Wes Horton for -5 yards. Penalty on La'el Collins: Offensive Holding (Declined),2.390,1.170
+4,3:23,2,15,DAL 47,8,16,"Dak Prescott pass incomplete short right intended for Michael Gallup. Penalty on Mike Adams: Illegal Contact, 5 yards (no play)",1.170,2.390
+4,3:19,1,10,CAR 48,8,16,Dak Prescott sacked by Kawann Short for -8 yards,2.390,0.770
+4,2:51,2,18,DAL 44,8,16,Dak Prescott pass incomplete short left intended for Deonte Thompson,0.770,0.100
+4,2:46,3,18,DAL 44,8,16,"Penalty on DAL: Delay of Game, 5 yards (no play)",0.100,-0.560
+4,2:46,3,23,DAL 39,8,16,Dak Prescott pass complete short right to Ezekiel Elliott for 13 yards (tackle by Luke Kuechly and Shaq Thompson),-0.560,0.070
+4,2:18,4,10,CAR 48,8,16,Dak Prescott pass incomplete short left intended for Deonte Thompson,0.070,-2.130
+4,2:13,1,10,CAR 48,8,16,C.J. Anderson up the middle for -1 yards (tackle by Demarcus Lawrence),2.130,1.450
+4,2:10,,,,,,Timeout #1 by Dallas Cowboys,,
+4,2:10,2,11,CAR 47,8,16,Cam Newton left guard for no gain (tackle by Taco Charlton),1.450,0.760
+4,2:07,,,,,,Timeout #2 by Dallas Cowboys,,
+4,2:07,3,11,CAR 47,8,16,Cam Newton left end for 1 yard (tackle by Tyrone Crawford),0.760,-0.190
+4,2:00,4,10,CAR 48,8,16,"Michael Palardy punts 52 yards, touchback.",-0.190,-0.280
+4,1:51,1,10,DAL 20,8,16,Dak Prescott pass incomplete short right intended for Allen Hurns,0.280,-0.270
+4,1:46,2,10,DAL 20,8,16,Dak Prescott right end for 3 yards (tackle by Luke Kuechly),-0.270,-0.560
+4,1:39,3,7,DAL 23,8,16,"Dak Prescott sacked by Mario Addison for -9 yards. Dak Prescott fumbles (forced by Mario Addison), recovered by Captain Munnerlyn at DAL-14 (tackle by Geoff Swaim)",-0.560,-4.650
+4,1:27,1,10,DAL 14,8,16,Cam Newton kneels for -1 yards,4.650,3.850
+4,1:27,,,,,,Timeout #3 by Dallas Cowboys,,
+4,1:27,2,11,DAL 15,8,16,Cam Newton kneels for -2 yards,3.850,2.930
+4,1:17,3,13,DAL 17,8,16,"Penalty on CAR: Delay of Game, 5 yards (no play)",2.930,2.350
+4,0:43,3,18,DAL 22,8,16,Cam Newton kneels for -3 yards,2.350,1.800
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

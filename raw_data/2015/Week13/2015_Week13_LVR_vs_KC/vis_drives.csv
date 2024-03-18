@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,10:25,KAN 44,9,5:27,56,Touchdown
+2,1,0:40,KAN 35,2,0:48,20,Fumble
+3,2,13:12,KAN 5,3,2:13,1,Punt
+4,2,8:52,KAN 8,4,2:51,16,Punt
+5,2,4:22,KAN 4,6,2:39,27,Punt
+6,2,1:15,OAK 42,2,0:22,16,Fumble
+7,2,0:13,KAN 20,1,0:13,-1,End of Half
+8,3,15:00,KAN 20,9,5:44,80,Touchdown
+9,3,2:12,KAN 20,3,2:06,-6,Punt
+10,4,11:58,OAK 2,2,0:41,2,Touchdown
+11,4,8:08,OAK 13,2,0:11,13,Touchdown
+12,4,5:36,KAN 39,3,0:59,2,Punt
+13,4,1:18,OAK 31,2,1:18,2,End of Game

@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,GNB 20,10,5:12,80,Touchdown
+2,1,3:48,GNB 21,2,0:50,2,Interception
+3,2,13:47,GNB 38,7,3:21,21,Punt
+4,2,7:31,GNB 13,7,3:55,43,Punt
+5,2,0:13,GNB 26,1,0:13,-1,End of Half
+6,3,12:29,GNB 9,3,1:31,6,Punt
+7,3,8:59,GNB 19,11,6:17,61,Interception
+8,3,2:26,GNB 22,14,5:46,62,Field Goal
+9,4,10:00,GNB 4,13,6:20,96,Touchdown
+10,4,1:50,GNB 22,8,1:46,78,Touchdown

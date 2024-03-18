@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,LAR 25,5,2:47,15,Punt
+2,1,9:19,LAR 14,13,8:10,81,Field Goal
+3,2,13:40,LAR 25,5,3:20,34,Punt
+4,2,8:25,LAR 25,7,4:16,75,Touchdown
+5,2,0:14,LAR 25,1,0:14,-1,End of Half
+6,3,8:46,LAR 25,5,2:37,36,Fumble
+7,3,4:29,LAR 23,5,3:16,11,Punt
+8,4,12:12,LAR 25,3,1:00,7,Punt
+9,4,6:33,LAR 12,3,1:28,-9,Punt
+10,4,1:00,LAR 6,2,1:00,6,End of Game

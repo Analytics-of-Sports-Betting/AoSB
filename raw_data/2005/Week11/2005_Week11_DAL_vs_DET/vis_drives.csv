@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,6:58,DET 37,8,5:45,24,Punt
+2,2,14:55,DAL 47,3,1:33,4,Punt
+3,2,6:39,DET 22,8,3:50,78,Touchdown
+4,2,1:40,DET 5,3,1:02,0,Punt
+5,2,0:03,,0,0:03,0,End of Half
+6,3,15:00,DET 16,3,1:40,1,Punt
+7,3,9:29,DET 16,3,1:05,-5,Punt
+8,3,2:21,DET 21,11,6:21,48,Missed FG
+9,4,6:56,DET 18,7,2:39,41,Fumble

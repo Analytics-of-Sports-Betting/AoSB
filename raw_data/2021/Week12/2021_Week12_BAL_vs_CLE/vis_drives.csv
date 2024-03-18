@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,CLE 15,8,3:19,57,Missed FG
+2,1,7:56,CLE 20,8,3:54,21,Punt
+3,1,0:24,CLE 25,6,2:50,10,Punt
+4,2,3:53,CLE 25,2,0:49,40,Fumble
+5,2,2:29,CLE 47,7,1:27,25,Field Goal
+6,2,0:56,BAL 28,2,0:11,-17,Fumble
+7,2,0:21,CLE 33,3,0:20,4,Punt
+8,3,9:48,CLE 25,4,1:52,21,Punt
+9,3,3:09,CLE 13,5,2:30,87,Touchdown
+10,4,12:54,CLE 13,7,4:25,26,Punt
+11,4,7:25,CLE 30,3,0:57,5,Punt
+12,4,1:10,CLE 25,4,0:22,7,Downs

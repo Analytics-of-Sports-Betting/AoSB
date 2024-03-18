@@ -1,0 +1,16 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,12:23,PHI 29,11,4:15,59,Field Goal
+2,1,6:15,PHI 2,6,2:44,7,Punt
+3,1,0:34,PHI 9,5,1:56,20,Punt
+4,2,10:46,PHI 25,3,0:48,1,Punt
+5,2,8:16,PHI 25,8,3:19,75,Touchdown
+6,2,4:38,NYJ 36,7,2:27,36,Touchdown
+7,2,0:06,PHI 23,1,0:06,-1,End of Half
+8,3,15:00,PHI 20,4,2:05,27,Punt
+9,3,10:59,PHI 10,3,0:46,5,Punt
+10,3,7:10,PHI 20,3,1:16,2,Punt
+11,3,4:23,PHI 30,3,1:35,5,Punt
+12,4,9:37,PHI 20,4,2:14,21,Fumble
+13,4,6:28,PHI 32,3,1:40,5,Punt
+14,4,3:28,PHI 18,3,0:26,2,Punt
+15,4,2:34,NYJ 48,5,2:34,-2,End of Game

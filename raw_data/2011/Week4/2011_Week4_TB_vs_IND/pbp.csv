@@ -1,0 +1,198 @@
+Quarter,Time,Down,ToGo,Location,IND,TAM,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Colts won the coin toss, Colts to receive the opening kickoff.",,
+1,15:00,,,TAM 35,0,0,"Michael Koenen kicks off 65 yards, touchback",0.000,0.280
+1,15:00,1,10,IND 20,0,0,Curtis Painter pass incomplete short right intended for Pierre Garcon,0.280,-0.270
+1,15:00,2,10,IND 20,0,0,"Penalty on Brian Price: Neutral Zone Infraction, 5 yards (no play)",-0.270,0.410
+1,14:55,2,5,IND 25,0,0,Joseph Addai left tackle for 2 yards (tackle by Mason Foster),0.410,-0.030
+1,14:16,3,3,IND 27,0,0,Curtis Painter pass complete short middle to Dallas Clark for 6 yards (tackle by Ronde Barber),-0.030,1.140
+1,13:40,1,10,IND 33,0,0,Joseph Addai left tackle for 9 yards (tackle by Ronde Barber and Geno Hayes),1.140,1.810
+1,13:06,2,1,IND 42,0,0,Joseph Addai right end for -1 yards (tackle by Aqib Talib),1.810,0.960
+1,12:28,3,2,IND 41,0,0,Curtis Painter pass complete short left to Reggie Wayne for 9 yards (tackle by E.J. Biggers),0.960,2.260
+1,11:49,1,10,,0,0,Curtis Painter pass complete short right to Dallas Clark for 21 yards (tackle by Sean Jones),2.260,3.640
+1,11:21,1,10,TAM 29,0,0,Curtis Painter pass incomplete short right intended for Pierre Garcon (defended by Da'Quan Bowers),3.640,3.100
+1,11:17,2,10,TAM 29,0,0,Delone Carter left guard for 2 yards (tackle by Da'Quan Bowers and Gerald McCoy),3.100,2.680
+1,10:36,3,8,TAM 27,0,0,Curtis Painter pass incomplete short left intended for Reggie Wayne,2.680,1.670
+1,10:31,4,8,TAM 27,3,0,Adam Vinatieri 45 yard field goal good,1.670,3.000
+1,,,,IND 35,3,0,"Pat McAfee kicks off 71 yards, touchback",0.000,0.280
+1,10:26,1,10,TAM 20,3,0,LeGarrette Blount left guard for 3 yards (tackle by Robert Mathis),0.280,0.140
+1,9:50,2,7,TAM 23,3,0,LeGarrette Blount right end for 1 yard (tackle by Terrence Johnson and Philip Wheeler),0.140,-0.430
+1,9:12,3,6,TAM 24,3,0,Josh Freeman pass incomplete short middle intended for Earnest Graham,-0.430,-1.770
+1,9:08,4,6,TAM 24,3,0,"Michael Koenen punts 57 yards, returned by Blair White for -2 yards (tackle by Devin Holland)",-1.770,0.060
+1,8:59,1,10,IND 17,3,0,Joseph Addai up the middle for 5 yards (tackle by Adrian Clayborn),-0.060,0.210
+1,8:25,2,5,IND 22,3,0,Joseph Addai left guard for 9 yards (tackle by Quincy Black),0.210,1.000
+1,7:51,1,10,IND 31,3,0,Curtis Painter pass incomplete deep right intended for Pierre Garcon,1.000,0.460
+1,7:46,2,10,IND 31,3,0,Joseph Addai left end for 6 yards (tackle by Geno Hayes),0.460,0.560
+1,7:16,3,4,IND 37,3,0,"Curtis Painter sacked by Michael Bennett for -5 yards. Curtis Painter fumbles (forced by Michael Bennett), recovered by Michael Bennett at IND-32 (tackle by Curtis Painter)",0.560,-3.450
+1,7:11,1,10,IND 32,3,0,LeGarrette Blount right guard for no gain (tackle by Pat Angerer),3.450,2.900
+1,6:31,2,10,IND 32,3,0,Josh Freeman pass complete short right to Luke Stocker for 4 yards (tackle by Antoine Bethea),2.900,2.740
+1,5:57,3,6,IND 28,3,0,Josh Freeman pass incomplete short right intended for Mike Williams (defended by Chris Rucker),2.740,1.610
+1,5:52,4,6,IND 28,3,0,Connor Barth 46 yard field goal no good,1.610,-1.330
+1,5:47,1,10,IND 36,3,0,Delone Carter left tackle for 13 yards (tackle by Corey Lynch),1.330,2.190
+1,5:04,1,10,IND 49,3,0,Curtis Painter pass incomplete deep left intended for Austin Collie,2.190,1.650
+1,4:59,2,10,IND 49,3,0,Delone Carter left guard for 3 yards (tackle by Gerald McCoy and Da'Quan Bowers),1.650,1.360
+1,4:11,3,7,TAM 48,3,0,"Penalty on Adrian Clayborn: Neutral Zone Infraction, 5 yards (no play)",1.360,2.010
+1,3:50,3,2,TAM 43,3,0,Curtis Painter pass incomplete short right intended for Dallas Clark,2.010,0.400
+1,3:45,4,2,TAM 43,3,0,"Pat McAfee punts 33 yards, fair catch by Preston Parker",0.400,0.380
+1,3:38,1,10,TAM 10,3,0,LeGarrette Blount right guard for 13 yards (tackle by Terrence Johnson),-0.380,0.480
+1,3:06,1,10,TAM 23,3,0,Josh Freeman pass complete short right to Kellen Winslow Jr. for 7 yards (tackle by Antoine Bethea),0.480,0.880
+1,2:39,2,3,TAM 30,3,0,"LeGarrette Blount right guard for 1 yard (tackle by Pat Angerer and Philip Wheeler). Penalty on Kellen Winslow Jr.: Offensive Holding, 10 yards (no play)",0.880,-0.470
+1,2:13,2,13,TAM 20,3,0,Josh Freeman pass complete short right to Luke Stocker for 5 yards (tackle by Philip Wheeler),-0.470,-0.490
+1,1:31,3,8,TAM 25,3,0,Josh Freeman pass complete short right to Kregg Lumpkin for 10 yards (tackle by Chris Rucker),-0.490,1.270
+1,0:49,1,10,TAM 35,3,0,Mike Williams left end for 3 yards (tackle by Antoine Bethea),1.270,1.130
+1,0:11,2,7,TAM 38,3,0,"Josh Freeman pass complete deep right to Arrelious Benn for 62 yards. Penalty on Arrelious Benn: Illegal Touch Pass, 5 yards (no play)",1.130,0.450
+,,,,,,,"TAM challenged the runner was in bounds ruling, and the play was upheld.",,
+Quarter,Time,Down,ToGo,Location,IND,TAM,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,12,TAM 33,3,0,Josh Freeman pass complete short middle to Kellen Winslow Jr. for 9 yards (tackle by Kavell Conner and Pat Angerer),0.450,0.960
+2,14:24,3,3,TAM 42,3,0,Josh Freeman pass incomplete short left intended for Mike Williams,0.960,-0.590
+2,14:18,4,3,TAM 42,3,0,"Michael Koenen punts 42 yards, fair catch by Blair White",-0.590,0.140
+2,14:10,1,10,IND 16,3,0,Curtis Painter pass incomplete deep left intended for Pierre Garcon,-0.140,-0.660
+2,14:03,2,10,IND 16,3,0,Joseph Addai right guard for 2 yards (tackle by Mason Foster),-0.660,-1.070
+2,13:19,3,8,IND 18,3,0,Curtis Painter pass incomplete short left intended for Austin Collie,-1.070,-2.240
+2,13:13,4,8,IND 18,3,0,"Pat McAfee punts 59 yards, returned by Preston Parker for no gain. Penalty on Stevie Brown: Horse Collar Tackle, 15 yards",-2.240,-1.470
+2,13:02,1,10,TAM 38,3,0,LeGarrette Blount right guard for 6 yards (tackle by Chris Rucker),1.470,1.730
+2,12:25,2,4,TAM 44,3,0,Josh Freeman pass complete short right to Mike Williams for 12 yards (tackle by Terrence Johnson),1.730,2.650
+2,11:49,1,10,IND 44,3,0,Josh Freeman pass complete short left to Kellen Winslow Jr. for 7 yards (tackle by Jerraud Powers and Philip Wheeler),2.650,3.060
+2,11:10,2,3,IND 37,3,0,LeGarrette Blount right guard for -1 yards (tackle by Pat Angerer and Drake Nevis),3.060,2.210
+2,10:31,3,4,IND 38,3,0,Josh Freeman pass incomplete short right intended for Earnest Graham (defended by Antoine Bethea),2.210,0.720
+2,10:23,4,4,IND 38,3,0,Michael Koenen punts 36 yards,0.720,0.380
+2,10:14,1,10,IND 2,3,0,Joseph Addai right guard for -1 yards (tackle by Gerald McCoy),-0.380,-0.850
+2,9:33,2,11,IND 1,3,0,"Curtis Painter pass incomplete short left intended for Reggie Wayne. Penalty on Aqib Talib: Defensive Holding, 5 yards (no play)",-0.850,-0.380
+2,9:27,1,10,IND 6,3,0,Curtis Painter pass complete short right to Brody Eldridge for 7 yards (tackle by Aqib Talib),-0.380,-0.270
+2,9:01,2,3,IND 13,9,0,"Curtis Painter pass complete deep right to Pierre Garcon for 87 yards, touchdown",-0.270,7.000
+,,,,,,,"Replay Assistant challenged the runner was in bounds ruling, and the play was upheld.",,
+2,,,,TAM 2,10,0,Adam Vinatieri kicks extra point good,0.000,0.000
+2,,,,IND 35,10,0,"Pat McAfee kicks off 70 yards, returned by Preston Parker for 24 yards (tackle by Chris Gronkowski)",0.000,0.150
+2,8:41,1,10,TAM 19,10,0,"Josh Freeman pass complete short left to Kellen Winslow Jr. for 21 yards (tackle by Jerraud Powers). Penalty on Donald Penn: Offensive Holding, 9 yards (no play)",0.150,-0.720
+2,8:17,1,19,TAM 10,10,0,Josh Freeman pass complete deep right to Arrelious Benn for 43 yards (tackle by Terrence Johnson),-0.720,2.460
+2,7:32,1,10,IND 47,10,0,LeGarrette Blount right guard for 8 yards (tackle by David Caldwell and Philip Wheeler),2.460,2.990
+2,6:56,2,2,IND 39,10,0,Josh Freeman pass complete short left to LeGarrette Blount for 14 yards (tackle by Philip Wheeler),2.990,3.910
+2,6:12,1,10,IND 25,10,0,Josh Freeman pass complete short right to Mike Williams for 11 yards (tackle by Terrence Johnson),3.910,4.650
+2,5:29,1,10,IND 14,10,0,Josh Freeman pass incomplete short left intended for Luke Stocker (defended by David Caldwell),4.650,4.000
+2,5:24,2,10,IND 14,10,0,LeGarrette Blount right guard for 2 yards (tackle by Philip Wheeler and Kavell Conner),4.000,3.430
+2,4:43,3,8,IND 12,10,0,Josh Freeman pass complete short middle to Preston Parker for 11 yards (tackle by Pat Angerer and Antoine Bethea),3.430,6.970
+2,4:00,1,1,IND 1,10,6,"Josh Freeman up the middle for 1 yard, touchdown",6.970,7.000
+2,,,,IND 2,10,7,Connor Barth kicks extra point good,0.000,0.000
+2,,,,TAM 35,10,7,"Michael Koenen kicks off 39 yards, returned by Brody Eldridge for no gain",0.000,-0.060
+2,3:49,1,10,IND 17,10,7,Delone Carter right tackle for no gain (tackle by Michael Bennett),-0.060,-0.580
+2,3:06,2,10,IND 17,10,7,Delone Carter right guard for -4 yards (tackle by Gerald McCoy),-0.580,-1.860
+2,2:20,,,,10,7,Timeout #1 by Indianapolis Colts,0.000,-1.860
+2,2:20,3,14,IND 13,10,7,"Curtis Painter pass complete short right to Joseph Addai for 7 yards (tackle by E.J. Biggers). Penalty on Aqib Talib: Unnecessary Roughness (Offsetting), Penalty on Pierre Garcon: Unnecessary Roughness (Offsetting)",-1.860,-2.030
+2,2:00,4,7,IND 20,10,7,"Pat McAfee punts 41 yards, fair catch by Preston Parker. Penalty on Myron Lewis: Illegal Block Above the Waist, 10 yards",-2.030,-0.610
+2,1:52,1,10,TAM 25,10,7,Josh Freeman pass complete short middle to Earnest Graham for 7 yards (tackle by Kavell Conner and Terrence Johnson),0.610,1.010
+2,1:31,2,3,TAM 32,10,7,Josh Freeman pass incomplete short middle intended for Earnest Graham (defended by Drake Nevis),1.010,0.300
+2,1:27,3,3,TAM 32,10,7,"Earnest Graham right end for 20 yards (tackle by Joe Lefeged). Penalty on Preston Parker: Unnecessary Roughness, 15 yards",0.300,1.400
+2,1:20,1,10,TAM 37,10,7,Josh Freeman pass complete short middle to Kregg Lumpkin for 9 yards (tackle by Kavell Conner and Terrence Johnson),1.400,2.070
+2,1:00,2,1,TAM 46,10,7,Josh Freeman pass complete short right to Kellen Winslow Jr. for 5 yards (tackle by Kavell Conner),2.070,2.320
+2,0:52,,,,10,7,Timeout #2 by Indianapolis Colts,0.000,2.320
+2,0:52,1,10,IND 49,10,7,"Josh Freeman pass complete short middle to Earnest Graham for 8 yards (tackle by Pat Angerer). Penalty on Dwight Freeney: Defensive Offside, 5 yards (no play)",2.320,3.050
+2,0:46,1,5,IND 44,10,7,Josh Freeman pass complete short left to Preston Parker for 13 yards (tackle by Kavell Conner and Joe Lefeged),3.050,3.510
+2,0:39,,,,10,7,Timeout #2 by Tampa Bay Buccaneers,0.000,3.510
+2,0:39,1,10,IND 31,10,7,Josh Freeman pass complete short middle to Earnest Graham for 11 yards (tackle by Terrence Johnson and Kavell Conner),3.510,4.240
+2,0:27,1,10,IND 20,10,7,Josh Freeman spiked the ball,4.240,3.690
+2,0:27,2,10,IND 20,10,7,Josh Freeman pass complete short middle to Earnest Graham for 9 yards (tackle by Kavell Conner),3.690,4.590
+2,0:20,,,,10,7,Timeout #3 by Tampa Bay Buccaneers,0.000,4.590
+2,0:20,3,1,IND 11,10,7,Josh Freeman sacked by Robert Mathis for -8 yards,4.590,2.180
+2,0:04,4,9,IND 19,10,7,Connor Barth 37 yard field goal good. Penalty on Dezmon Briscoe: Offensive 12 On-field (no play),2.180,0.670
+,,,,,,,"Replay Assistant challenged the too many players on field ruling, and the play was upheld.",,
+Quarter,Time,Down,ToGo,Location,IND,TAM,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,IND 35,10,7,"Pat McAfee kicks off 65 yards, touchback",0.000,0.280
+3,15:00,1,10,TAM 20,10,7,Josh Freeman pass complete deep left to Mike Williams for 23 yards (tackle by Chris Rucker),0.280,1.800
+3,14:22,1,10,TAM 43,10,7,LeGarrette Blount right guard for 9 yards (tackle by Pat Angerer),1.800,2.470
+3,13:39,2,1,IND 48,10,7,LeGarrette Blount right guard for 4 yards (tackle by Antonio Johnson and Philip Wheeler),2.470,2.650
+3,12:59,1,10,IND 44,10,7,Josh Freeman pass incomplete short right intended for Erik Lorig (defended by Jamaal Anderson),2.650,2.110
+3,12:54,2,10,IND 44,10,7,LeGarrette Blount right guard for 1 yard (tackle by Drake Nevis and Pat Angerer),2.110,1.550
+3,12:15,3,9,IND 43,10,7,"Josh Freeman pass complete short right to Kellen Winslow Jr. for 6 yards (tackle by Antoine Bethea). Penalty on Jeremy Zuttah: Offensive Holding, 10 yards (no play)",1.550,0.230
+3,11:50,3,19,TAM 47,10,7,"Josh Freeman pass complete short middle to Kregg Lumpkin for 7 yards (tackle by Kavell Conner). Penalty on Dwight Freeney: Defensive Offside, 5 yards (no play)",0.230,0.890
+3,11:20,3,14,IND 48,10,7,Josh Freeman pass complete short middle to Mike Williams for 17 yards (tackle by Chris Rucker),0.890,3.510
+3,10:39,1,10,IND 31,10,7,LeGarrette Blount left guard for 3 yards (tackle by Drake Nevis and Kavell Conner),3.510,3.370
+3,10:00,2,7,IND 28,10,7,Josh Freeman pass incomplete short left intended for Luke Stocker,3.370,2.680
+3,9:53,3,7,IND 28,10,7,Josh Freeman pass incomplete deep right intended for Preston Parker,2.680,1.590
+3,9:48,4,7,IND 28,10,10,Connor Barth 46 yard field goal good,1.590,3.000
+3,,,,TAM 35,10,10,"Michael Koenen kicks off 74 yards, touchback",0.000,0.280
+3,9:43,1,10,IND 20,10,10,Curtis Painter pass complete short left to Reggie Wayne for 18 yards (tackle by Corey Lynch),0.280,1.470
+3,9:23,1,10,IND 38,10,10,Joseph Addai right end for 8 yards (tackle by Mason Foster and Sean Jones),1.470,2.000
+3,8:50,2,2,IND 46,10,10,Joseph Addai right guard for 1 yard (tackle by Gerald McCoy and Michael Bennett),2.000,1.420
+3,8:27,3,1,IND 47,10,10,Curtis Painter pass incomplete short right intended for Reggie Wayne (defended by Aqib Talib),1.420,-0.260
+3,8:27,4,1,IND 47,10,10,"Penalty on Adrian Moten: False Start, 5 yards (no play)",-0.260,-0.590
+3,8:20,4,6,IND 42,10,10,"Pat McAfee punts 41 yards, returned by Preston Parker for 4 yards (tackle by Stevie Brown)",-0.590,-0.340
+3,8:14,1,10,TAM 21,10,10,LeGarrette Blount right guard for 3 yards (tackle by Philip Wheeler),0.340,0.210
+3,7:41,2,7,TAM 24,10,10,Josh Freeman pass incomplete short left intended for LeGarrette Blount,0.210,-0.490
+3,7:35,3,7,TAM 24,10,10,Josh Freeman pass incomplete short left intended for Preston Parker,-0.490,-1.770
+3,7:30,4,7,TAM 24,10,10,"Michael Koenen punts 37 yards, returned by Blair White for 2 yards (tackle by Erik Lorig)",-1.770,-1.660
+3,7:22,1,10,IND 41,16,10,"Curtis Painter pass complete short right to Pierre Garcon for 59 yards, touchdown",1.660,7.000
+3,,,,TAM 2,17,10,Adam Vinatieri kicks extra point good,0.000,0.000
+3,,,,IND 35,17,10,"Pat McAfee kicks off 65 yards, touchback",0.000,0.280
+3,7:10,1,10,TAM 20,17,10,LeGarrette Blount left tackle for 7 yards (tackle by Pat Angerer),0.280,0.680
+3,6:27,2,3,TAM 27,17,10,Josh Freeman pass complete short right to Mike Williams for 3 yards (tackle by Kavell Conner),0.680,0.940
+3,5:45,1,10,TAM 30,17,10,LeGarrette Blount left guard for 6 yards (tackle by Antoine Bethea),0.940,1.200
+3,5:09,2,4,TAM 36,17,10,Josh Freeman pass incomplete deep left intended for Mike Williams,1.200,0.500
+3,5:01,3,4,TAM 36,17,10,Josh Freeman pass complete short middle to Preston Parker for 21 yards (tackle by Antoine Bethea),0.500,2.720
+3,4:15,1,10,IND 43,17,10,"Josh Freeman sacked by Jerry Hughes for -5 yards. Penalty on Jamaal Anderson: Unnecessary Roughness, 15 yards",2.720,3.380
+3,3:52,1,10,IND 33,17,10,Josh Freeman pass complete short middle to Kellen Winslow Jr. for 5 yards (tackle by Philip Wheeler and Kavell Conner),3.380,3.510
+3,3:16,2,5,IND 28,17,10,LeGarrette Blount left guard for no gain (tackle by Pat Angerer),3.510,2.810
+3,2:30,,,,17,10,Timeout #1 by Tampa Bay Buccaneers,0.000,2.810
+3,2:30,3,5,IND 28,17,10,Earnest Graham up the middle for 4 yards (tackle by Kavell Conner),2.810,2.020
+3,1:45,4,1,IND 24,17,10,Josh Johnson right end for 8 yards (tackle by Kavell Conner),2.020,4.510
+3,1:10,1,10,IND 16,17,10,Josh Freeman pass incomplete deep left intended for Kellen Winslow Jr.,4.510,3.900
+3,1:06,2,10,IND 16,17,10,Arrelious Benn left end for 3 yards (tackle by David Caldwell),3.900,3.540
+3,0:22,3,7,IND 13,17,16,"Josh Freeman pass complete short left to Preston Parker for 13 yards, touchdown",3.540,7.000
+3,,,,IND 2,17,17,Connor Barth kicks extra point good,0.000,0.000
+3,,,,TAM 35,17,17,"Michael Koenen kicks off 70 yards, returned by Joe Lefeged for 28 yards (tackle by Zach Diles)",0.000,0.480
+3,0:09,1,10,IND 23,17,17,Curtis Painter pass incomplete short right intended for Joseph Addai,0.480,-0.070
+3,0:04,2,10,IND 23,17,17,Curtis Painter pass incomplete short left intended for Reggie Wayne,-0.070,-0.760
+3,0:01,3,10,IND 23,17,17,Curtis Painter pass complete short middle to Austin Collie for 11 yards (tackle by Elbert Mack),-0.760,1.200
+Quarter,Time,Down,ToGo,Location,IND,TAM,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,IND 34,17,17,Delone Carter up the middle for 6 yards (tackle by Ronde Barber),1.200,1.470
+4,14:31,2,4,IND 40,17,17,Curtis Painter pass incomplete deep right intended for Pierre Garcon,1.470,0.760
+4,14:25,3,4,IND 40,17,17,"Curtis Painter pass incomplete short right intended for Dallas Clark. Penalty on Ronde Barber: Defensive Pass Interference, 6 yards (no play)",0.760,1.990
+4,14:21,1,10,IND 46,17,17,Curtis Painter sacked by Michael Bennett for -6 yards,1.990,0.640
+4,13:51,2,16,IND 40,17,17,Curtis Painter pass complete short middle to Dallas Clark for 19 yards (tackle by Corey Lynch),0.640,2.850
+4,13:11,1,10,TAM 41,17,17,Delone Carter left end for 1 yard (tackle by Tim Crowder and Roy Miller),2.850,2.440
+4,12:34,2,9,TAM 40,17,17,Curtis Painter pass incomplete short left intended for Reggie Wayne,2.440,1.750
+4,12:29,3,9,TAM 40,17,17,Curtis Painter pass complete deep left to Reggie Wayne for 21 yards,1.750,4.310
+4,12:14,,,,17,17,Timeout #2 by Tampa Bay Buccaneers,0.000,4.310
+4,12:14,1,10,TAM 19,17,17,Curtis Painter sacked by Gerald McCoy for -6 yards,4.310,2.950
+4,11:51,2,16,TAM 25,17,17,Curtis Painter pass incomplete short right intended for Pierre Garcon (defended by Aqib Talib),2.950,2.280
+4,11:47,3,16,TAM 25,17,17,Curtis Painter pass incomplete deep left intended for Austin Collie,2.280,1.800
+4,11:42,4,16,TAM 25,17,17,Adam Vinatieri 43 yard field goal no good,1.800,-1.140
+4,11:38,1,10,TAM 33,17,17,"Josh Freeman pass complete short middle to LeGarrette Blount for 6 yards (tackle by Pat Angerer and Kavell Conner). Penalty on Davin Joseph: Offensive Holding, 10 yards (no play)",1.140,0.480
+4,11:18,1,20,TAM 23,17,17,"Josh Freeman pass complete short right to LeGarrette Blount for 7 yards (tackle by Kavell Conner and Tyler Brayton). Penalty on Kellen Winslow Jr.: Face Mask (15 Yards), 11 yards (no play)",0.480,-0.990
+4,10:59,1,31,TAM 12,17,17,LeGarrette Blount right guard for -2 yards (tackle by Robert Mathis),-0.990,-2.460
+4,10:20,2,33,TAM 10,17,17,Josh Freeman pass complete short right to Kregg Lumpkin for 6 yards (tackle by Kavell Conner),-2.460,-2.880
+4,9:41,3,27,TAM 16,17,17,Josh Freeman pass complete short middle to Preston Parker for 12 yards (tackle by Kavell Conner),-2.880,-1.500
+4,9:03,4,15,TAM 28,17,17,Michael Koenen punts 48 yards,-1.500,-0.540
+4,8:53,1,10,IND 24,17,17,Joseph Addai right tackle for 1 yard (tackle by Michael Bennett and Mason Foster),0.540,0.130
+4,8:14,2,9,IND 25,17,17,"Penalty on Mike Pollak: False Start, 5 yards (no play)",0.130,-0.540
+4,7:48,2,14,IND 20,17,17,Curtis Painter sacked by Adrian Clayborn for -8 yards,-0.540,-2.820
+4,7:26,3,22,IND 12,17,17,Curtis Painter pass complete short left to Reggie Wayne for 11 yards (tackle by Ronde Barber),-2.820,-1.830
+4,6:55,4,11,IND 23,17,17,"Pat McAfee punts 37 yards, fair catch by Preston Parker",-1.830,-1.600
+4,6:47,1,10,TAM 40,17,17,LeGarrette Blount right guard for 10 yards (tackle by David Caldwell),1.600,2.260
+4,6:05,1,10,,17,17,LeGarrette Blount left guard for 3 yards (tackle by Philip Wheeler and Antonio Johnson),2.260,2.120
+4,5:29,2,7,IND 47,17,17,Josh Freeman for 6 yards,2.120,2.210
+4,4:51,3,1,IND 41,17,17,"Penalty on Josh Freeman: Delay of Game, 5 yards (no play)",2.210,1.550
+4,4:51,3,6,IND 46,17,17,Josh Freeman up the middle for 7 yards (tackle by Jamaal Anderson),1.550,2.980
+4,4:10,1,10,IND 39,17,17,LeGarrette Blount left guard for 4 yards (tackle by David Caldwell),2.980,2.980
+4,3:26,2,6,IND 35,17,23,"LeGarrette Blount up the middle for 35 yards, touchdown",2.980,7.000
+4,,,,IND 2,17,24,Connor Barth kicks extra point good,0.000,0.000
+4,,,,TAM 35,17,24,"Michael Koenen kicks off 65 yards, touchback",0.000,0.280
+4,3:15,1,10,IND 20,17,24,Curtis Painter pass incomplete short left intended for Austin Collie,0.280,-0.270
+4,3:11,2,10,IND 20,17,24,Curtis Painter pass complete short left to Austin Collie for 5 yards (tackle by Elbert Mack),-0.270,-0.300
+4,3:05,3,5,IND 25,17,24,Curtis Painter pass incomplete short left intended for Austin Collie (defended by Elbert Mack),-0.300,-1.700
+4,3:00,4,5,IND 25,17,24,"Pat McAfee punts 55 yards, returned by Preston Parker for 13 yards (tackle by Chris Gronkowski)",-1.700,-1.140
+4,2:46,1,10,TAM 33,17,24,LeGarrette Blount left guard for 3 yards (tackle by Antoine Bethea),1.140,1.000
+4,2:41,,,,17,24,Timeout #1 by Indianapolis Colts,0.000,1.000
+4,2:41,2,7,TAM 36,17,24,Josh Freeman left end for 12 yards (tackle by Robert Mathis),1.000,2.130
+4,2:26,,,,17,24,Timeout #2 by Indianapolis Colts,0.000,2.130
+4,2:26,1,10,TAM 48,17,24,LeGarrette Blount up the middle for 7 yards (tackle by Kavell Conner),2.130,2.530
+4,2:20,,,,17,24,Timeout #3 by Indianapolis Colts,0.000,2.530
+4,2:20,2,3,IND 45,17,24,LeGarrette Blount right guard for -1 yards (tackle by Kavell Conner),2.530,1.680
+4,2:00,,,,17,24,Timeout #3 by Tampa Bay Buccaneers,0.000,1.680
+4,2:00,3,4,IND 46,17,24,LeGarrette Blount left end for 3 yards (tackle by Antoine Bethea and David Caldwell),1.680,0.400
+,,,,,,,"Replay Assistant challenged the first down ruling, and the play was upheld.",,
+4,1:14,4,1,IND 43,17,24,Josh Freeman up the middle for 2 yards (tackle by Kavell Conner),0.400,2.850
+4,0:38,1,10,IND 41,17,24,Josh Freeman kneels for -1 yards,2.850,2.170
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,MIA 39,7,2:51,24,Field Goal
+2,1,10:32,DEN 26,11,6:18,40,Field Goal
+3,1,2:25,DEN 38,13,6:00,57,Field Goal
+4,2,7:11,DEN 30,4,2:00,69,Fumble
+5,2,0:53,DEN 47,5,0:53,23,End of Half
+6,3,14:04,MIA 22,4,0:20,0,Field Goal
+7,3,10:04,DEN 2,6,3:49,16,Punt
+8,3,4:35,DEN 24,3,1:58,1,Punt
+9,3,0:29,DEN 39,6,2:33,23,Interception
+10,4,9:48,DEN 26,3,1:35,7,Interception
+11,4,8:13,DEN 20,11,4:36,80,Touchdown
+12,4,1:51,DEN 20,6,1:06,43,Field Goal
+13,4,0:06,DEN 20,1,0:06,14,End of Game

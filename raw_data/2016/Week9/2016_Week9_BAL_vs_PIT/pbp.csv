@@ -1,0 +1,197 @@
+Quarter,Time,Down,ToGo,Location,PIT,BAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Ravens won the coin toss and deferred, Steelers to receive the opening kickoff.",,
+1,15:00,,,BAL 35,0,0,"Justin Tucker kicks off 65 yards, touchback",0.000,-0.610
+1,15:00,1,10,PIT 25,0,0,Ben Roethlisberger pass incomplete deep right intended for David Johnson,0.610,0.060
+1,14:52,2,10,PIT 25,0,0,Le'Veon Bell right guard for 1 yard (tackle by Lawrence Guy),0.060,-0.490
+1,14:05,3,9,PIT 26,0,0,Le'Veon Bell left tackle for 2 yards (tackle by Timmy Jernigan and Eric Weddle),-0.490,-1.500
+1,13:33,4,7,PIT 28,0,0,"Jordan Berry punts 28 yards, out of bounds",-1.500,-1.860
+1,13:26,1,10,BAL 44,0,0,Terrance West right guard for 8 yards (tackle by Jarvis Jones),1.860,2.400
+1,12:54,2,2,PIT 48,0,0,Joe Flacco pass incomplete short right intended for Steve Smith,2.400,1.690
+1,12:48,3,2,PIT 48,0,0,Terrance West right tackle for 5 yards (tackle by Lawrence Timmons and Ryan Shazier),1.690,2.720
+1,12:12,1,10,PIT 43,0,0,Kenneth Dixon left guard for 6 yards (tackle by Anthony Chickillo),2.720,2.990
+1,11:37,2,4,PIT 37,0,0,--,2.990,2.540
+1,10:58,3,2,PIT 35,0,0,"Joe Flacco pass incomplete short middle intended for Dennis Pitta. Penalty on Ronnie Stanley: Illegal Use of Hands, 10 yards (no play)",2.540,1.220
+1,10:53,3,12,PIT 45,0,0,Joe Flacco pass incomplete deep left intended for Mike Wallace,1.220,0.270
+1,10:48,4,12,PIT 45,0,0,"Sam Koch punts 33 yards, fair catch by Antonio Brown",0.270,0.350
+1,10:40,1,10,PIT 12,0,0,Le'Veon Bell right guard for 2 yards (tackle by Eric Weddle and Brandon Williams),-0.350,-0.610
+1,10:04,2,8,PIT 14,0,0,Le'Veon Bell right guard for 3 yards (tackle by Zach Orr and Michael Pierce),-0.610,-0.840
+1,9:22,3,5,PIT 17,0,0,Ben Roethlisberger pass incomplete deep right intended for Darrius Heyward-Bey (defended by Lardarius Webb),-0.840,-2.320
+1,9:16,4,5,PIT 17,0,0,"Jordan Berry punts 61 yards, returned by Devin Hester for 14 yards (tackle by Vince Williams)",-2.320,-1.330
+1,9:04,1,10,BAL 36,0,0,--,1.330,1.060
+1,8:43,2,8,BAL 38,0,0,Joe Flacco pass complete short middle to Steve Smith for 30 yards (tackle by Sean Davis),1.060,3.450
+1,8:09,1,10,PIT 32,0,0,Joe Flacco pass complete short middle to Mike Wallace for 10 yards (tackle by Artie Burns and Ryan Shazier),3.450,4.110
+1,7:32,1,10,PIT 22,0,0,Joe Flacco pass complete short middle to Terrance West for 6 yards (tackle by Ryan Shazier),4.110,4.460
+1,6:53,2,4,PIT 16,0,0,Terrance West left guard for -1 yards (tackle by Stephon Tuitt),4.460,3.560
+1,6:17,3,5,PIT 17,0,0,"Joe Flacco pass complete short left to Kamar Aiken for 8 yards (tackle by William Gay). Penalty on BAL: Illegal Shift, 5 yards (no play)",3.560,2.870
+1,5:59,3,10,PIT 22,0,0,Joe Flacco pass incomplete short middle intended for Dennis Pitta is intercepted by Artie Burns at PIT-15 and returned for 9 yards,2.870,-0.540
+1,5:41,1,10,PIT 24,0,0,Ben Roethlisberger pass incomplete short left intended for Jesse James,0.540,0.000
+1,5:38,2,10,PIT 24,0,0,Ben Roethlisberger pass complete short right to David Johnson for 15 yards (tackle by Tavon Young),0.000,1.530
+1,4:48,1,10,PIT 39,0,0,"Penalty on Ben Roethlisberger: Delay of Game, 5 yards (no play)",1.530,1.200
+1,4:23,1,15,PIT 34,0,0,Ben Roethlisberger pass complete short middle to Jesse James for 6 yards (tackle by C.J. Mosley),1.200,1.120
+1,3:41,2,9,PIT 40,0,0,"Penalty on Marcus Gilbert: False Start, 5 yards (no play)",1.120,0.450
+1,3:16,2,14,PIT 35,0,0,Ben Roethlisberger pass complete short left to Le'Veon Bell for 10 yards (tackle by Matt Judon),0.450,1.090
+1,2:32,3,4,PIT 45,0,0,Le'Veon Bell left tackle for no gain (tackle by Zach Orr),1.090,-0.390
+1,2:00,4,4,PIT 45,0,0,Jordan Berry punts 51 yards,-0.390,0.380
+1,1:50,1,10,BAL 4,0,0,Kenneth Dixon left guard for 1 yard (tackle by James Harrison),-0.380,-0.710
+1,1:21,2,9,BAL 5,0,6,"Joe Flacco pass complete short middle to Mike Wallace for 95 yards, touchdown",-0.710,7.000
+1,1:07,,,PIT 15,0,7,Justin Tucker kicks extra point good,0.000,0.000
+1,1:07,,,BAL 35,0,7,"Justin Tucker kicks off 65 yards, touchback",0.000,-0.610
+1,1:07,1,10,PIT 25,0,7,"Ben Roethlisberger pass incomplete short right intended for Antonio Brown. Penalty on Zach Orr: Defensive Pass Interference, 11 yards (no play)",0.610,1.330
+1,1:03,1,10,PIT 36,0,7,Ben Roethlisberger pass complete short right to Le'Veon Bell for 1 yard (tackle by Tavon Young),1.330,0.930
+1,0:24,2,9,PIT 37,0,7,Le'Veon Bell left guard for 4 yards (tackle by Zach Orr),0.930,0.760
+Quarter,Time,Down,ToGo,Location,PIT,BAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,5,PIT 41,0,7,Ben Roethlisberger pass incomplete short right intended for Sammie Coates,0.760,-0.650
+2,14:56,4,5,PIT 41,0,7,Jordan Berry punts 43 yards,-0.650,0.140
+2,14:47,1,10,BAL 16,0,7,"Terrance West for -11 yards (tackle by Ryan Shazier). Terrance West fumbles (forced by Ryan Shazier), recovered by Kamar Aiken at BAL-5",-0.140,-1.730
+2,14:02,2,23,BAL 3,0,7,Terrance West right guard for 9 yards (tackle by Daniel McCullers),-1.730,-1.890
+2,13:24,3,14,BAL 12,0,7,Joe Flacco pass complete short middle to Dennis Pitta for 6 yards (tackle by Lawrence Timmons),-1.890,-2.240
+2,12:46,4,8,BAL 18,0,7,"Sam Koch punts 48 yards, returned by Antonio Brown for 7 yards (tackle by Patrick Onwuasor)",-2.240,-1.660
+2,12:34,1,10,PIT 41,0,7,"Le'Veon Bell left guard for -3 yards (tackle by Albert McClellan). Penalty on Le'Veon Bell: Face Mask (15 Yards), 15 yards (no play)",1.660,0.670
+2,12:12,1,25,PIT 26,0,7,Ben Roethlisberger pass complete short middle to Jesse James for 7 yards (tackle by Albert McClellan),0.670,0.040
+2,11:28,2,18,PIT 33,0,7,Ben Roethlisberger pass incomplete deep middle intended for Eli Rogers (defended by C.J. Mosley),0.040,-0.630
+2,11:23,3,18,PIT 33,0,7,Ben Roethlisberger pass incomplete deep left intended for Darrius Heyward-Bey,-0.630,-1.180
+2,11:14,4,18,PIT 33,0,7,"Jordan Berry punts 42 yards, returned by Devin Hester for 12 yards (tackle by Sean Davis). Penalty on Marqueston Huff: Unsportsmanlike Conduct, 13 yards",-1.180,0.350
+2,11:05,1,10,BAL 12,0,7,"Kenneth Dixon right guard for 1 yard (tackle by Ryan Shazier). Penalty on Anthony Chickillo: Face Mask (15 Yards), 15 yards",-0.350,0.810
+2,10:50,1,10,BAL 28,0,7,Joe Flacco pass complete short right to Kenneth Dixon for 4 yards (tackle by Anthony Chickillo),0.810,0.800
+2,10:18,2,6,BAL 32,0,7,"Kenneth Dixon right guard for 2 yards (tackle by Jarvis Jones). Penalty on Javon Hargrave: Illegal Use of Hands, 5 yards",0.800,1.530
+2,9:53,1,10,BAL 39,0,7,Joe Flacco pass incomplete short left intended for Terrance West (defended by Artie Burns),1.530,0.990
+2,9:47,2,10,BAL 39,0,7,Terrance West left guard for 2 yards (tackle by Stephon Tuitt and Daniel McCullers),0.990,0.560
+2,9:10,3,8,BAL 41,0,7,"Joe Flacco pass complete short right to Steve Smith for 11 yards (tackle by Artie Burns). Penalty on Ronnie Stanley: Offensive Holding, 10 yards (no play)",0.560,-0.760
+2,8:42,3,18,BAL 31,0,7,Kyle Juszczyk left guard for 2 yards (tackle by Ryan Shazier),-0.760,-1.180
+2,8:06,4,16,BAL 33,0,7,"Penalty on Ryan Shazier: Neutral Zone Infraction, 5 yards (no play)",-1.180,-0.850
+2,7:52,4,11,BAL 38,0,7,"Sam Koch punts 45 yards, out of bounds. Penalty on Shamarko Thomas: Roughing the Kicker, 15 yards (no play)",-0.850,2.460
+2,7:46,1,10,PIT 47,0,7,Joe Flacco pass complete short right to Steve Smith for 3 yards (tackle by Ross Cockrell),2.460,2.320
+2,7:10,2,7,PIT 44,0,7,Kenneth Dixon left guard for 3 yards (tackle by Jarvis Jones and Arthur Moats),2.320,2.010
+2,6:41,3,4,PIT 41,0,7,Joe Flacco pass incomplete deep right intended for Breshad Perriman,2.010,0.530
+2,6:36,4,4,PIT 41,0,7,Sam Koch punts 33 yards,0.530,0.380
+2,6:27,1,10,PIT 8,0,7,--,-0.380,-0.710
+2,5:50,2,9,PIT 9,0,7,Le'Veon Bell right guard for 1 yard (tackle by Terrell Suggs),-0.710,-1.190
+2,5:06,3,8,PIT 10,0,7,Ben Roethlisberger pass complete short right to Le'Veon Bell for 6 yards (tackle by Tavon Young and Zach Orr),-1.190,-2.390
+2,4:30,4,2,PIT 16,0,7,"Jordan Berry punts 56 yards, returned by Devin Hester for 1 yard (tackle by Cobi Hamilton)",-2.390,-0.870
+2,4:19,1,10,BAL 29,0,7,Terrance West left guard for 2 yards (tackle by Javon Hargrave and Cameron Heyward),0.870,0.600
+2,3:43,2,8,BAL 31,0,7,Joe Flacco pass incomplete deep left intended for Darren Waller,0.600,0.000
+2,3:37,,,,0,7,Timeout #1 by Baltimore Ravens,0.000,0.100
+2,3:37,3,8,BAL 31,0,7,Joe Flacco pass complete short middle to Breshad Perriman for 6 yards (tackle by Arthur Moats and Vince Williams),-0.100,0.000
+2,3:30,,,,0,7,Timeout #1 by Pittsburgh Steelers,0.000,0.910
+2,3:30,4,2,BAL 37,0,7,"Sam Koch punts 46 yards, out of bounds",-0.910,0.060
+2,3:22,1,10,PIT 17,0,7,Ben Roethlisberger pass complete short left to Antonio Brown for 5 yards (tackle by Jimmy Smith),-0.060,0.210
+2,2:53,2,5,PIT 22,0,7,Le'Veon Bell middle for 3 yards (tackle by Lardarius Webb),0.210,-0.240
+2,2:10,3,2,PIT 25,0,7,"Penalty on David Johnson: False Start, 5 yards (no play)",-0.240,-0.870
+2,2:00,3,7,PIT 20,0,7,Ben Roethlisberger pass incomplete short left intended for Le'Veon Bell,-0.870,-2.030
+2,1:57,4,7,PIT 20,0,7,Jordan Berry punts 54 yards,-2.030,-0.670
+2,1:44,1,10,BAL 26,0,7,Joe Flacco pass complete short middle to Steve Smith for 9 yards (tackle by Lawrence Timmons),0.670,1.350
+2,1:23,2,1,BAL 35,0,7,Kenneth Dixon left guard for -2 yards (tackle by Cameron Heyward),1.350,0.000
+2,0:50,,,,0,7,Timeout #2 by Baltimore Ravens,0.000,-0.370
+2,0:50,3,3,BAL 33,0,7,Joe Flacco pass complete short right to Steve Smith for 5 yards (tackle by Robert Golden),0.370,0.000
+2,0:39,,,,0,7,Timeout #3 by Baltimore Ravens,0.000,-1.470
+2,0:39,1,10,BAL 38,0,7,"Joe Flacco pass incomplete short right intended for Breshad Perriman. Penalty on Artie Burns: Defensive Pass Interference, 9 yards (no play)",1.470,2.060
+2,0:39,1,10,BAL 47,0,7,Joe Flacco pass complete short right to Breshad Perriman for 16 yards (tackle by Artie Burns),2.060,3.120
+2,0:34,1,10,PIT 37,0,7,Joe Flacco pass complete short middle to Breshad Perriman for 11 yards (tackle by Artie Burns),3.120,3.840
+2,0:26,1,10,PIT 26,0,7,Joe Flacco spiked the ball,3.840,3.300
+2,0:22,2,10,PIT 26,0,7,Joe Flacco pass incomplete deep middle intended for Kamar Aiken (defended by Lawrence Timmons),3.300,2.610
+2,0:17,3,10,PIT 26,0,7,"Joe Flacco pass incomplete short right intended for Steve Smith. Penalty on Ronnie Stanley: Offensive Holding, 10 yards (no play)",2.610,1.290
+2,0:12,3,20,PIT 36,0,7,Joe Flacco pass incomplete short right intended for Steve Smith,1.290,0.880
+2,0:08,4,20,PIT 36,0,7,"Penalty on PIT: Illegal Formation, 5 yards (no play)",0.880,1.320
+2,0:08,4,15,PIT 31,0,10,Justin Tucker 49 yard field goal good. Penalty on Shamarko Thomas: Defensive Offside (Declined),1.320,3.000
+2,0:03,,,BAL 35,0,10,"Justin Tucker kicks off 65 yards, touchback",0.000,-0.610
+2,0:03,1,10,PIT 25,0,10,Ben Roethlisberger kneels for -1 yards,0.610,-0.070
+Quarter,Time,Down,ToGo,Location,PIT,BAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PIT 35,0,10,"Chris Boswell kicks off 65 yards, touchback. Penalty on Sammie Coates: Offside on Free Kick, 5 yards (no play)",0.000,0.000
+3,15:00,,,PIT 30,0,10,"Chris Boswell kicks off 70 yards, touchback",0.000,-0.610
+3,15:00,1,10,BAL 25,0,10,"Terrance West right guard for 8 yards (tackle by Sean Davis). Penalty on Ronnie Stanley: Offensive Holding, 10 yards (no play)",0.610,-0.410
+3,14:32,1,20,BAL 15,0,10,Joe Flacco pass complete short left to Kenneth Dixon for -4 yards (tackle by Ryan Shazier),-0.410,-1.800
+3,13:57,2,24,BAL 11,0,10,Joe Flacco pass complete short middle to Mike Wallace for 12 yards (tackle by Sean Davis),-1.800,-0.890
+3,13:15,3,12,BAL 23,0,10,Joe Flacco right end for 14 yards (tackle by Anthony Chickillo),-0.890,1.400
+3,12:27,1,10,BAL 37,0,10,Terrance West right guard for 5 yards (tackle by James Harrison),1.400,1.530
+3,11:55,2,5,BAL 42,0,10,Terrance West left tackle for -5 yards (tackle by James Harrison),1.530,0.170
+3,11:18,3,10,BAL 37,0,10,Ryan Mallett pass complete short middle to Darren Waller for 9 yards (tackle by Lawrence Timmons and Anthony Chickillo),0.170,-0.320
+3,10:08,4,1,BAL 46,0,10,"Penalty on Joe Flacco: Delay of Game, 5 yards (no play)",-0.320,-0.650
+3,9:46,4,6,BAL 41,0,10,"Sam Koch punts 45 yards, fair catch by Antonio Brown. Penalty on Darren Waller: Unnecessary Roughness, 15 yards",-0.650,-0.870
+3,9:37,1,10,PIT 29,0,10,DeAngelo Williams right tackle for 1 yard (tackle by C.J. Mosley),0.870,0.460
+3,9:09,2,9,PIT 30,0,10,Ben Roethlisberger pass complete short right to Antonio Brown for 4 yards (tackle by Tavon Young),0.460,0.300
+3,8:47,3,5,PIT 34,0,10,Ben Roethlisberger pass incomplete deep left intended for Sammie Coates,0.300,-1.110
+3,8:41,4,5,PIT 34,0,10,"Jordan Berry punts 42 yards, fair catch by Devin Hester",-1.110,-0.540
+3,8:33,1,10,BAL 24,0,10,Joe Flacco pass complete short middle to Dennis Pitta for 8 yards (tackle by Lawrence Timmons),0.540,1.080
+3,7:55,2,2,BAL 32,0,10,Kenneth Dixon left guard for -1 yards (tackle by Stephon Tuitt),1.080,0.230
+3,7:14,3,3,BAL 31,0,10,Joe Flacco sacked by James Harrison for -12 yards,0.230,-2.140
+3,6:34,4,15,BAL 19,0,10,"Sam Koch punts 47 yards, returned by Antonio Brown for no gain",-2.140,-1.200
+3,6:27,1,10,PIT 34,0,10,Ben Roethlisberger pass incomplete intended for Jesse James is intercepted by Timmy Jernigan at PIT-32,1.200,-3.450
+3,6:20,1,10,PIT 32,0,10,Joe Flacco pass incomplete short right intended for Mike Wallace,3.450,2.900
+3,6:17,2,10,PIT 32,0,10,Terrance West left guard for 1 yard (tackle by Lawrence Timmons),2.900,2.340
+3,5:42,3,9,PIT 31,0,10,Joe Flacco pass complete short left to Mike Wallace for 7 yards (tackle by Ross Cockrell and Mike Mitchell),2.340,1.990
+3,4:55,4,2,PIT 24,0,13,Justin Tucker 42 yard field goal good,1.990,3.000
+3,4:50,,,BAL 35,0,13,"Justin Tucker kicks off 65 yards, touchback",0.000,-0.610
+3,4:50,1,10,PIT 25,0,13,Le'Veon Bell right guard for -4 yards (tackle by Michael Pierce),0.610,-0.480
+3,4:12,2,14,PIT 21,0,13,Le'Veon Bell left guard for 2 yards (tackle by Zach Orr),-0.480,-0.890
+3,3:32,3,12,PIT 23,0,13,Ben Roethlisberger pass incomplete deep right intended for Antonio Brown,-0.890,-1.830
+3,3:26,4,12,PIT 23,0,13,"Jordan Berry punts 54 yards, fair catch by Devin Hester",-1.830,-0.480
+3,3:18,1,10,BAL 23,0,13,Terrance West right guard for 5 yards (tackle by Lawrence Timmons),0.480,0.610
+3,2:42,2,5,BAL 28,0,13,--,0.610,-0.230
+3,2:02,3,6,BAL 27,0,13,Joe Flacco pass complete short middle to Kamar Aiken for 9 yards (tackle by Ryan Shazier),-0.230,1.330
+3,1:19,1,10,BAL 36,0,13,Terrance West left tackle for 1 yard (tackle by Lawrence Timmons),1.330,0.930
+3,0:46,2,9,BAL 37,0,13,Joe Flacco pass incomplete short right intended for Steve Smith,0.930,0.230
+3,0:41,3,9,BAL 37,0,13,"Joe Flacco sacked by James Harrison for -9 yards. Joe Flacco fumbles (forced by James Harrison), recovered by Marshal Yanda at BAL-29",0.230,-1.440
+3,0:02,4,17,BAL 29,0,13,"Sam Koch punts 40 yards, out of bounds",-1.440,-1.000
+Quarter,Time,Down,ToGo,Location,PIT,BAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,PIT 31,0,13,Ben Roethlisberger pass incomplete short middle intended for Le'Veon Bell (defended by Terrell Suggs),1.000,0.460
+4,14:56,2,10,PIT 31,0,13,"Ben Roethlisberger pass complete short right to Jesse James for no gain. Penalty on Antonio Brown: Illegal Formation, 5 yards (no play)",0.460,-0.220
+4,14:27,2,15,PIT 26,0,13,Ben Roethlisberger pass complete short right to Eli Rogers for 7 yards (tackle by Lardarius Webb),-0.220,0.040
+4,13:49,3,8,PIT 33,0,13,Ben Roethlisberger pass incomplete deep middle intended for Antonio Brown,0.040,-1.180
+4,13:44,4,8,PIT 33,0,19,"Jordan Berry punts, blocked by Javorius Allen, recovered by Chris Moore and returned 14 yards, touchdown",-1.180,-7.000
+4,,,,,0,21,"Two Point Attempt: Joe Flacco pass complete to Steve Smith, conversion succeeds",,
+4,13:36,,,BAL 35,0,21,"Justin Tucker kicks off 65 yards, touchback",0.000,-0.610
+4,13:36,1,10,PIT 25,0,21,Ben Roethlisberger pass complete short right to Eli Rogers for 5 yards (tackle by C.J. Mosley),0.610,0.740
+4,13:09,2,5,PIT 30,0,21,"Ben Roethlisberger for no gain. Ben Roethlisberger fumbles, recovered by Le'Veon Bell at PIT-29 and returned for 5 yards",0.740,0.560
+4,12:38,3,1,PIT 34,0,21,Le'Veon Bell left guard for 3 yards (tackle by Zach Orr),0.560,1.400
+4,12:04,1,10,PIT 37,0,21,Le'Veon Bell right guard for 1 yard (tackle by Timmy Jernigan and Za'Darius Smith),1.400,0.990
+4,11:29,2,9,PIT 38,0,21,"Ben Roethlisberger pass complete short left to Antonio Brown for 7 yards (tackle by Jerraud Powers). Penalty on Zach Orr: Defensive Holding, 5 yards (no play)",0.990,1.800
+4,11:05,1,10,PIT 43,0,21,Ben Roethlisberger pass complete deep middle to Antonio Brown for 27 yards (tackle by Eric Weddle),1.800,3.580
+4,10:31,1,10,BAL 30,0,21,"Penalty on David DeCastro: False Start, 5 yards (no play)",3.580,3.250
+4,10:11,1,15,BAL 35,0,21,Ben Roethlisberger pass complete short right to Le'Veon Bell for 2 yards (tackle by Zach Orr),3.250,2.630
+4,9:36,2,13,BAL 33,0,21,"Ben Roethlisberger pass incomplete deep middle intended for Antonio Brown (defended by Lardarius Webb). Ben Roethlisberger fumbles, recovered by Ben Roethlisberger at BAL-42",2.630,1.950
+4,9:27,3,13,BAL 33,0,21,Ben Roethlisberger pass complete short middle to Eli Rogers for 10 yards (tackle by Jimmy Smith),1.950,2.030
+4,8:47,4,3,BAL 23,6,21,"Ben Roethlisberger pass complete deep middle to Antonio Brown for 23 yards, touchdown",2.030,7.000
+4,8:38,,,BAL 15,7,21,Chris Boswell kicks extra point good,0.000,0.000
+4,8:38,,,PIT 35,7,21,"Chris Boswell kicks off 57 yards, returned by Devin Hester for 28 yards (tackle by Shamarko Thomas)",0.000,-1.330
+4,8:32,1,10,BAL 36,7,21,Kenneth Dixon right guard for 1 yard (tackle by Lawrence Timmons),1.330,0.930
+4,7:49,2,9,BAL 37,7,21,Joe Flacco pass incomplete short middle intended for Terrance West (defended by Lawrence Timmons),0.930,0.230
+4,7:43,3,9,BAL 37,7,21,Joe Flacco pass complete short right to Darren Waller for 8 yards (tackle by Anthony Chickillo),0.230,-0.390
+4,7:00,4,1,BAL 45,7,21,"Sam Koch punts 43 yards, returned by Antonio Brown for -2 yards (tackle by Darren Waller)",-0.390,0.380
+4,6:50,1,10,PIT 10,7,21,Ben Roethlisberger pass complete short right to Xavier Grimble for 10 yards (tackle by C.J. Mosley),-0.380,0.280
+4,6:16,1,10,PIT 20,7,21,Ben Roethlisberger sacked by Jerraud Powers for -11 yards,0.280,-1.580
+4,5:32,2,21,PIT 9,7,21,Ben Roethlisberger pass incomplete short middle intended for Eli Rogers (defended by Jerraud Powers),-1.580,-2.710
+4,5:30,3,21,PIT 9,7,21,Ben Roethlisberger pass complete deep middle to Eli Rogers for 30 yards (tackle by Zach Orr),-2.710,1.530
+4,5:00,1,10,PIT 39,7,21,Ben Roethlisberger pass incomplete deep left intended for Sammie Coates,1.530,0.990
+4,4:54,2,10,PIT 39,7,21,Ben Roethlisberger pass complete short right to Antonio Brown for 12 yards (tackle by Lardarius Webb),0.990,2.320
+4,4:21,1,10,BAL 49,7,21,Ben Roethlisberger pass incomplete short right intended for Eli Rogers,2.320,1.780
+4,4:16,2,10,BAL 49,7,21,Ben Roethlisberger pass complete short right to Eli Rogers for 22 yards (tackle by Lardarius Webb),1.780,3.780
+4,4:09,1,10,BAL 27,7,21,Ben Roethlisberger pass incomplete deep middle intended for Sammie Coates,3.780,3.230
+4,4:04,2,10,BAL 27,7,21,Ben Roethlisberger pass incomplete deep middle intended for Eli Rogers (defended by Eric Weddle),3.230,2.540
+4,3:59,3,10,BAL 27,7,21,Ben Roethlisberger pass complete short middle to Antonio Brown for 10 yards (tackle by C.J. Mosley),2.540,4.440
+4,3:30,1,10,BAL 17,7,21,Ben Roethlisberger pass incomplete short middle intended for Le'Veon Bell,4.440,3.850
+4,3:26,2,10,BAL 17,7,21,Ben Roethlisberger pass complete short right to Antonio Brown for 4 yards (tackle by Tavon Young),3.850,3.680
+4,3:20,3,6,BAL 13,7,21,Ben Roethlisberger sacked by Matt Judon for -12 yards,3.680,0.000
+4,3:09,,,,7,21,Timeout #1 by Pittsburgh Steelers,0.000,-1.800
+4,3:09,4,18,BAL 25,7,21,Ben Roethlisberger pass incomplete deep middle intended for Sammie Coates,1.800,-0.610
+4,3:04,1,10,BAL 25,7,21,--,0.610,0.060
+4,2:24,2,10,BAL 25,7,21,Terrance West left guard for 1 yard (tackle by Robert Golden),0.060,0.000
+4,2:18,,,,7,21,Timeout #2 by Pittsburgh Steelers,0.000,0.490
+4,2:18,3,9,BAL 26,7,21,Joe Flacco sacked by Ryan Shazier and Anthony Chickillo for -6 yards,-0.490,0.000
+4,2:14,,,,7,21,Timeout #3 by Pittsburgh Steelers,0.000,2.030
+4,2:14,4,15,BAL 20,7,21,"Sam Koch punts 45 yards, out of bounds",-2.030,-1.270
+4,2:08,1,10,PIT 35,7,21,Ben Roethlisberger pass incomplete short middle intended for Antonio Brown,1.270,0.720
+4,2:04,2,10,PIT 35,7,21,Ben Roethlisberger pass complete deep middle to Eli Rogers for 29 yards (tackle by Lardarius Webb),0.720,3.180
+4,1:58,1,10,BAL 36,7,21,Ben Roethlisberger pass complete short right to Le'Veon Bell for 7 yards (tackle by Matt Judon),3.180,3.580
+4,1:48,2,3,BAL 29,7,21,Ben Roethlisberger pass incomplete deep left intended for Cobi Hamilton,3.580,2.870
+4,1:43,3,3,BAL 29,7,21,Le'Veon Bell right end for 13 yards (tackle by Zach Orr),2.870,4.510
+4,1:06,1,10,BAL 16,7,21,Ben Roethlisberger pass complete short middle to Le'Veon Bell for 12 yards (tackle by Eric Weddle),4.510,6.280
+4,0:56,1,4,BAL 4,13,21,"Ben Roethlisberger middle for 4 yards, touchdown",6.280,7.000
+4,0:48,,,BAL 15,14,21,Chris Boswell kicks extra point good,0.000,0.000
+4,0:48,,,PIT 35,14,21,--,0.000,-3.180
+4,0:44,1,10,PIT 36,14,21,Joe Flacco kneels for -1 yards,3.180,2.500
+4,0:25,2,11,PIT 37,14,21,Joe Flacco kneels for -1 yards,2.500,1.690
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

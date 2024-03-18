@@ -1,0 +1,181 @@
+Quarter,Time,Down,ToGo,Location,DET,CIN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Lions won the coin toss, Lions to receive the opening kickoff.",,
+1,15:00,,,CIN 30,0,0,"Shayne Graham kicks off 62 yards, returned by Aaron Brown for 20 yards (tackle by Morgan Trent)",0.000,0.810
+1,14:54,1,10,DET 28,0,0,Matthew Stafford pass complete short left to Kevin Smith for 12 yards (tackle by Nedu Ndukwe and Dhani Jones),0.810,1.600
+1,14:19,1,10,DET 40,0,0,Kevin Smith right end for -2 yards (tackle by Dhani Jones),1.600,0.780
+1,13:38,2,12,DET 38,0,0,Matthew Stafford pass incomplete short right intended for Calvin Johnson,0.780,0.100
+1,13:33,3,12,DET 38,0,0,Matthew Stafford middle for 4 yards (tackle by Robert Geathers),0.100,-0.590
+1,13:01,4,8,DET 42,0,0,"Nick Harris punts 42 yards, returned by Quan Cosby for 25 yards (tackle by Nick Harris)",-0.590,-1.660
+1,12:48,1,10,CIN 41,0,0,Carson Palmer pass complete short middle to Laveranues Coles for 11 yards (tackle by Larry Foote),1.660,2.390
+1,12:16,1,10,DET 48,0,0,Carson Palmer pass incomplete short left intended for Chad Johnson,2.390,1.850
+1,12:10,2,10,DET 48,0,0,Cedric Benson left end for -4 yards (tackle by Julian Peterson),1.850,0.630
+1,11:30,3,14,CIN 48,0,0,Carson Palmer pass incomplete deep middle intended for Chad Johnson,0.630,-0.190
+1,11:25,4,14,CIN 48,0,0,"Kevin Huber punts 52 yards, touchback",-0.190,-0.280
+1,11:14,1,10,DET 20,0,0,"Penalty on Tank Johnson: Encroachment, 5 yards (no play)",0.280,1.010
+1,11:14,1,5,DET 25,0,0,Kevin Smith right tackle for 7 yards (tackle by Nedu Ndukwe),1.010,1.070
+1,10:38,1,10,DET 32,0,0,Matthew Stafford pass complete short right to Calvin Johnson for 14 yards (tackle by Johnathan Joseph),1.070,1.990
+1,10:19,1,10,DET 46,0,0,Kevin Smith right guard for 5 yards (tackle by Dhani Jones),1.990,2.130
+1,9:43,2,5,CIN 49,0,0,Matthew Stafford pass incomplete short right intended for Calvin Johnson,2.130,1.420
+1,9:34,3,5,CIN 49,0,0,"Matthew Stafford pass incomplete deep left intended for Bryant Johnson. Penalty on Derrick Williams: Illegal Formation (Offsetting), Penalty on Leon Hall: Illegal Contact (Offsetting) (no play)",1.420,1.420
+1,9:32,3,5,CIN 49,0,0,Matthew Stafford pass complete short right to Dennis Northcutt for 4 yards (tackle by Dhani Jones),1.420,0.270
+1,8:48,4,1,CIN 45,0,0,"Penalty on Nick Harris: Delay of Game, 5 yards (no play)",0.270,-0.060
+1,8:37,4,6,,0,0,"Nick Harris punts 30 yards, returned by Quan Cosby for 14 yards (tackle by DeAndre Levy)",-0.060,-1.200
+1,8:28,1,10,CIN 34,0,0,"Carson Palmer pass complete short left to John Paul Foschi for 4 yards (tackle by Julian Peterson). Penalty on Phillip Buchanon: Illegal Contact, 5 yards (no play)",1.200,1.530
+1,7:55,1,10,CIN 39,0,0,Cedric Benson right tackle for 4 yards (tackle by Cliff Avril),1.530,1.530
+1,7:17,2,6,CIN 43,0,0,Cedric Benson right guard for 4 yards (tackle by Larry Foote and Phillip Buchanon),1.530,1.360
+1,6:38,3,2,CIN 47,0,0,Cedric Benson right guard for 3 yards (tackle by Larry Foote and Sammie Lee Hill),1.360,2.260
+1,5:58,1,10,,0,0,Carson Palmer pass incomplete short left intended for Chad Johnson (defended by Marvin White),2.260,1.710
+1,5:50,2,10,,0,0,Carson Palmer pass complete short right to Chad Johnson for 9 yards (tackle by Will Peterson),1.710,2.210
+1,5:12,3,1,DET 41,0,0,Cedric Benson left guard for 4 yards (tackle by Andre Fluellen),2.210,3.120
+1,4:24,1,10,DET 37,0,0,"Penalty on Chad Johnson: False Start, 5 yards (no play)",3.120,2.790
+1,4:05,,,,0,0,Timeout #1 by Cincinnati Bengals,0.000,2.790
+1,4:05,1,15,DET 42,0,0,"Cedric Benson right end for 3 yards (tackle by Larry Foote and Louis Delmas). Penalty on Maurice Purify: Offensive Holding, 10 yards",2.790,2.320
+1,3:42,1,22,DET 49,0,0,Carson Palmer pass incomplete short right intended for Laveranues Coles is intercepted by Will Peterson at DET-43 and returned for 3 yards,2.320,-1.990
+1,3:36,1,10,DET 46,6,0,"Matthew Stafford pass complete deep middle to Calvin Johnson for 54 yards, touchdown",1.990,7.000
+1,,,,CIN 2,7,0,Jason Hanson kicks extra point good,0.000,0.000
+1,,,,DET 30,7,0,"Jason Hanson kicks off 55 yards, returned by Andre Caldwell for 16 yards (tackle by DeAngelo Smith)",0.000,1.000
+1,3:20,1,10,CIN 31,7,0,Cedric Benson left end for -1 yards (tackle by DeAndre Levy),1.000,0.320
+1,2:41,2,11,CIN 30,7,0,"Carson Palmer pass complete short left to Cedric Benson for 4 yards (tackle by Phillip Buchanon). Penalty on Andrew Whitworth: Offensive Holding, 10 yards (no play)",0.320,-1.030
+1,2:12,2,21,CIN 20,7,0,Carson Palmer pass incomplete short left intended for John Paul Foschi,-1.030,-1.680
+1,2:08,3,21,CIN 20,7,0,Carson Palmer pass complete short middle to Brian Leonard for 14 yards (tackle by Julian Peterson and Louis Delmas),-1.680,-1.110
+1,1:34,4,7,CIN 34,7,0,"Kevin Huber punts 54 yards, returned by Dennis Northcutt for 3 yards (tackle by David Jones)",-1.110,0.220
+1,1:22,1,10,DET 15,7,0,Kevin Smith right guard for 12 yards (tackle by Nedu Ndukwe and Tom Nelson),-0.220,0.740
+1,0:41,1,10,DET 27,7,0,Matthew Stafford pass incomplete short left intended for Kevin Smith (defended by Rey Maualuga),0.740,0.200
+1,0:35,2,10,DET 27,7,0,Matthew Stafford pass complete short right to Calvin Johnson for 6 yards (tackle by Johnathan Joseph),0.200,0.300
+Quarter,Time,Down,ToGo,Location,DET,CIN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,4,DET 33,7,0,Matthew Stafford pass complete short right to Calvin Johnson for 4 yards,0.300,1.400
+2,14:35,1,10,DET 37,7,0,Kevin Smith right tackle for 8 yards (tackle by Rey Maualuga and Dhani Jones),1.400,1.940
+2,13:55,2,2,DET 45,7,0,Kevin Smith middle for 3 yards (tackle by Nedu Ndukwe and Keith Rivers),1.940,2.130
+2,13:15,1,10,DET 48,7,0,"Matthew Stafford sacked by Dhani Jones for -11 yards. Penalty on Dhani Jones: Face Mask (15 Yards), 15 yards",2.130,2.390
+2,12:45,1,10,CIN 48,7,0,Kevin Smith right end for -1 yards (tackle by Johnathan Joseph),2.390,1.710
+2,12:05,2,11,CIN 49,7,0,Matthew Stafford pass incomplete short right intended for Jerome Felton,1.710,1.030
+2,12:00,3,11,CIN 49,7,6,"Matthew Stafford pass incomplete short middle intended for Aaron Brown is intercepted by Jonathan Fanene at DET-45 and returned for 45 yards, touchdown",1.030,-7.000
+2,,,,DET 2,7,7,Shayne Graham kicks extra point good,0.000,0.000
+2,,,,CIN 30,7,7,"Shayne Graham kicks off 56 yards, returned by Aaron Brown for 18 yards (tackle by Brian Leonard)",0.000,1.070
+2,11:45,1,10,DET 32,7,7,Kevin Smith middle for 1 yard (tackle by Nedu Ndukwe),1.070,0.660
+2,11:07,2,9,DET 33,7,7,Kevin Smith right end for 5 yards (tackle by Brandon Johnson),0.660,0.630
+2,10:33,3,4,DET 38,7,7,Matthew Stafford pass incomplete short middle intended for Bryant Johnson (defended by Johnathan Joseph),0.630,-0.850
+2,10:28,4,4,DET 38,7,7,Nick Harris punts 47 yards,-0.850,0.220
+2,10:13,1,10,CIN 15,7,7,Cedric Benson left guard for 11 yards (tackle by Marvin White),-0.220,0.670
+2,9:33,1,10,CIN 26,7,7,Cedric Benson right guard for 9 yards (tackle by Marvin White and Larry Foote),0.670,1.350
+2,8:55,2,1,CIN 35,7,7,Cedric Benson left guard for 3 yards (tackle by Will Peterson and Grady Jackson),1.350,1.470
+2,8:15,1,10,CIN 38,7,7,Cedric Benson right end for no gain (tackle by Will Peterson and Grady Jackson),1.470,0.920
+2,7:36,2,10,CIN 38,7,7,Carson Palmer pass complete short right to Cedric Benson for 10 yards (tackle by Marvin White),0.920,2.130
+2,7:11,1,10,CIN 48,7,7,Cedric Benson left tackle for 3 yards (tackle by Larry Foote),2.130,1.990
+2,6:31,2,7,DET 49,7,7,"Quan Cosby left end for -2 yards (tackle by Julian Peterson). Penalty on Jason Hunter: Taunting, 15 yards",1.990,3.180
+2,6:04,1,10,DET 36,7,13,"Carson Palmer pass complete deep middle to Chad Johnson for 36 yards, touchdown",3.180,7.000
+2,,,,DET 2,7,14,Shayne Graham kicks extra point good,0.000,0.000
+2,,,,CIN 30,,,"Shayne Graham kicks off 57 yards, returned by Aaron Brown for 42 yards (tackle by Shayne Graham)",,
+2,5:45,1,10,CIN 45,7,14,Matthew Stafford pass incomplete deep middle intended for Will Heller,2.590,2.040
+2,5:40,2,10,CIN 45,7,14,Kevin Smith right guard for 8 yards (tackle by Nedu Ndukwe),2.040,2.410
+2,5:04,3,2,CIN 37,7,14,Matthew Stafford pass incomplete short middle intended for Will Heller,2.410,0.790
+2,4:59,4,2,CIN 37,7,14,Jason Hanson 55 yard field goal no good,0.790,-1.930
+2,4:54,1,10,CIN 45,7,14,Carson Palmer pass complete short middle to Chad Johnson for 8 yards (tackle by Phillip Buchanon),1.930,2.460
+2,4:18,2,2,DET 47,7,14,Cedric Benson right tackle for 5 yards (tackle by Louis Delmas),2.460,2.790
+2,3:41,1,10,DET 42,7,14,Carson Palmer pass complete short middle to Cedric Benson for 5 yards (tackle by Andre Fluellen and Kevin Hobbs),2.790,2.920
+2,3:04,2,5,DET 37,7,14,Cedric Benson middle for -2 yards (tackle by DeAndre Levy and Andre Fluellen),2.920,1.950
+2,2:24,3,7,DET 39,7,14,Carson Palmer pass incomplete short right intended for John Paul Foschi (defended by Will Peterson),1.950,0.660
+2,2:18,4,7,DET 39,7,14,"Kevin Huber punts 24 yards, fair catch by Dennis Northcutt",0.660,0.220
+2,2:11,1,10,DET 15,7,14,Kevin Smith right tackle for 1 yard (tackle by Dhani Jones and Pat Sims),-0.220,-0.580
+2,2:06,,,,7,14,Timeout #2 by Cincinnati Bengals,0.000,-0.580
+2,2:06,2,9,DET 16,7,14,Kevin Smith left tackle for 4 yards (tackle by Tom Nelson and Jonathan Fanene),-0.580,-0.760
+2,2:00,3,5,DET 20,7,14,Matthew Stafford pass complete short middle to Bryant Johnson for 5 yards (tackle by Johnathan Joseph),-0.760,0.610
+2,1:35,1,10,DET 25,7,14,Matthew Stafford pass incomplete deep middle intended for Casey Fitzsimmons (defended by Morgan Trent),0.610,0.060
+2,1:29,2,10,DET 25,7,14,Matthew Stafford pass incomplete deep right intended for Calvin Johnson (defended by Tom Nelson),0.060,-0.620
+2,1:23,3,10,DET 25,7,14,Matthew Stafford pass incomplete short left intended for Bryant Johnson,-0.620,-1.700
+2,1:19,4,10,DET 25,7,14,"Nick Harris punts 42 yards. Penalty on DeAngelo Smith: Illegal Touch Kick, 5 yards",-1.700,-1.470
+2,1:08,1,10,CIN 38,7,14,Carson Palmer sacked by Cliff Avril for -3 yards,1.470,0.520
+2,0:59,,,,7,14,Timeout #1 by Detroit Lions,0.000,0.520
+2,0:59,2,13,CIN 35,7,14,Carson Palmer pass complete short right to Laveranues Coles for 14 yards (tackle by Kevin Hobbs),0.520,2.190
+2,0:38,1,10,CIN 49,7,14,Carson Palmer pass complete deep middle to Chad Johnson for 22 yards (tackle by Louis Delmas),2.190,3.640
+2,0:30,,,,7,14,Timeout #3 by Cincinnati Bengals,0.000,3.640
+2,0:30,1,10,DET 29,7,14,Carson Palmer middle for 8 yards (tackle by Phillip Buchanon),3.640,4.180
+2,0:15,2,2,DET 21,7,14,Carson Palmer spiked the ball,4.180,3.470
+2,0:14,3,2,DET 21,7,14,"Penalty on Carson Palmer: Delay of Game, 5 yards (no play)",3.470,2.810
+2,0:14,3,7,DET 26,7,17,Shayne Graham 44 yard field goal good,2.810,3.000
+2,,,,CIN 30,7,17,"Shayne Graham kicks off 54 yards, returned by Aaron Brown for 13 yards (tackle by Brandon Johnson)",0.000,0.870
+2,0:04,1,10,DET 29,7,17,Matthew Stafford kneels for -1 yards,0.870,0.190
+Quarter,Time,Down,ToGo,Location,DET,CIN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DET 30,7,17,"Jason Hanson kicks off 69 yards, returned by Quan Cosby for 21 yards (tackle by Marvin White)",0.000,0.410
+3,14:55,1,10,CIN 22,7,17,Cedric Benson middle for 1 yard (tackle by Joe Cohen),0.410,0.000
+3,14:20,2,9,CIN 23,7,17,Cedric Benson left tackle for 8 yards (tackle by Marvin White),0.000,0.370
+3,13:44,3,1,CIN 31,7,17,Cedric Benson middle for 3 yards (tackle by DeAndre Levy and Jordon Dizon),0.370,1.200
+3,13:07,1,10,CIN 34,7,17,Cedric Benson left tackle for 9 yards (tackle by Louis Delmas),1.200,1.870
+3,12:27,2,1,CIN 43,7,17,Cedric Benson right guard for no gain (tackle by DeAndre Levy),1.870,1.160
+3,12:05,3,1,CIN 43,7,17,Carson Palmer middle for 2 yards (tackle by Joe Cohen),1.160,1.930
+3,11:26,1,10,CIN 45,7,17,Carson Palmer pass complete short middle to Chad Johnson for 16 yards (tackle by Phillip Buchanon and Julian Peterson),1.930,2.980
+3,10:43,1,10,DET 39,7,17,Carson Palmer pass complete short middle to Chad Johnson for 21 yards (tackle by Anthony Henry),2.980,4.370
+3,9:58,1,10,DET 18,7,17,Carson Palmer pass complete short left to Chad Johnson for 6 yards (tackle by Kevin Hobbs and Louis Delmas),4.370,4.810
+3,9:29,2,4,DET 12,7,17,Cedric Benson right tackle for 3 yards (tackle by Sammie Lee Hill and Grady Jackson),4.810,4.740
+3,8:52,3,1,DET 9,7,17,Cedric Benson left end for -2 yards (tackle by Larry Foote and Grady Jackson),4.740,2.800
+3,8:13,4,3,DET 11,7,17,"Shayne Graham 29 yard field goal good. Penalty on Bobbie Williams: Tripping, 10 yards (no play)",2.800,2.060
+3,8:08,4,13,DET 21,7,20,Shayne Graham 39 yard field goal good,2.060,3.000
+3,,,,CIN 30,7,20,"Shayne Graham kicks off 58 yards, returned by Aaron Brown for 23 yards (tackle by David Jones). Penalty on Zack Follett: Illegal Block Above the , 10 yards, Penalty on Casey Fitzsimmons: Offensive Holding (Declined)",0.000,-0.280
+3,7:58,1,10,DET 14,7,20,Kevin Smith right end for no gain (tackle by Keith Rivers),-0.280,-0.750
+3,7:19,2,10,DET 14,7,20,Matthew Stafford pass complete short right to Calvin Johnson for 7 yards (tackle by Johnathan Joseph),-0.750,-0.560
+3,6:51,3,3,DET 21,7,20,Matthew Stafford sacked by Robert Geathers for -7 yards,-0.560,-2.470
+3,6:23,4,10,DET 14,7,20,"Nick Harris punts 46 yards, returned by Quan Cosby for 15 yards (tackle by Louis Delmas)",-2.470,-2.590
+3,6:11,1,10,DET 45,7,20,Carson Palmer pass incomplete short middle intended for Andre Caldwell,2.590,2.040
+3,6:05,2,10,DET 45,7,20,Carson Palmer pass incomplete short middle intended for Chad Johnson,2.040,1.360
+3,6:00,3,10,DET 45,7,20,Carson Palmer pass complete short middle to Brian Leonard for 11 yards (tackle by Marvin White),1.360,3.310
+3,5:25,1,10,DET 34,7,20,Larry Johnson right tackle for 1 yard (tackle by DeAndre Levy),3.310,2.910
+3,4:50,2,9,DET 33,7,20,Larry Johnson left tackle for 3 yards (tackle by Sammie Lee Hill and Larry Foote),2.910,2.610
+3,4:13,3,6,DET 30,7,20,"Carson Palmer sacked by Phillip Buchanon for -8 yards. Carson Palmer fumbles (forced by Phillip Buchanon), recovered by Dewayne White at DET-45 (tackle by Anthony Collins)",2.610,-2.260
+3,4:05,1,10,,7,20,Matthew Stafford pass incomplete short right intended for Bryant Johnson,2.260,1.710
+3,3:59,2,10,,7,20,Matthew Stafford right guard for -5 yards (tackle by Robert Geathers),1.710,0.370
+3,3:27,3,15,DET 45,7,20,Matthew Stafford pass incomplete deep left intended for Calvin Johnson (defended by Leon Hall),0.370,-0.390
+3,3:18,4,15,DET 45,7,20,"Nick Harris punts 55 yards, touchback. Penalty on DeAngelo Smith: Illegal Touch Kick",-0.390,-0.280
+3,3:09,1,10,CIN 20,7,20,Cedric Benson middle for 1 yard (tackle by Julian Peterson and Sammie Lee Hill),0.280,-0.130
+3,2:29,2,9,CIN 21,7,20,Cedric Benson left tackle for 3 yards (tackle by DeAndre Levy),-0.130,-0.430
+3,1:43,3,6,CIN 24,7,20,"Penalty on Larry Foote: Neutral Zone Infraction, 5 yards (no play)",-0.430,0.230
+3,1:19,3,1,CIN 29,7,20,Carson Palmer pass complete short right to Chad Johnson for 5 yards (tackle by Anthony Henry),0.230,1.200
+3,0:43,1,10,CIN 34,7,20,Cedric Benson left guard for 9 yards (tackle by Marvin White),1.200,1.870
+Quarter,Time,Down,ToGo,Location,DET,CIN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,1,CIN 43,7,20,Cedric Benson middle for 7 yards (tackle by Julian Peterson),1.870,2.260
+4,14:25,1,10,,7,20,Carson Palmer pass complete short left to Chad Johnson for 14 yards (tackle by Louis Delmas),2.260,3.180
+4,13:39,1,10,DET 36,7,20,Cedric Benson left end for 5 yards (tackle by Sammie Lee Hill and Turk McBride),3.180,3.310
+4,13:00,2,5,DET 31,7,20,Cedric Benson middle for 7 yards (tackle by Turk McBride),3.310,3.970
+4,12:20,1,10,DET 24,7,20,"Cedric Benson left tackle for 1 yard (tackle by Anthony Henry). Penalty on John Paul Foschi: Offensive Holding, 10 yards",3.970,3.380
+4,11:50,1,19,DET 33,7,20,Carson Palmer pass complete short middle to John Paul Foschi for 16 yards (tackle by Louis Delmas and Marvin White),3.380,4.460
+4,11:06,2,3,DET 17,7,20,Cedric Benson left tackle for no gain (tackle by DeAndre Levy and Louis Delmas),4.460,3.750
+4,10:24,3,3,DET 17,7,20,Carson Palmer pass complete short right to Jeremi Johnson for 2 yards (tackle by Marvin White),3.750,2.590
+4,9:43,4,1,DET 15,7,20,Cedric Benson right tackle for 7 yards (tackle by Jordon Dizon and Marvin White),2.590,5.370
+4,9:00,1,8,DET 8,7,20,Cedric Benson left tackle for 2 yards (tackle by Anthony Henry),5.370,4.950
+4,8:23,2,6,DET 6,7,20,Carson Palmer pass incomplete short middle intended for Chad Johnson,4.950,4.040
+4,8:20,3,6,DET 6,7,20,Carson Palmer pass incomplete short middle intended for Daniel Coats (defended by DeAngelo Smith),4.040,2.990
+4,8:15,4,6,DET 6,7,23,Shayne Graham 23 yard field goal good,2.990,3.000
+4,,,,CIN 30,7,23,"Shayne Graham kicks off 68 yards, returned by Aaron Brown for 23 yards (tackle by Kyries Hebert)",0.000,0.610
+4,8:05,1,10,DET 25,7,23,Matthew Stafford pass complete short middle to Casey Fitzsimmons for 9 yards (tackle by Keith Rivers),0.610,1.280
+4,7:39,2,1,DET 34,7,23,Kevin Smith middle for 17 yards (tackle by Tom Nelson),1.280,2.320
+4,7:10,1,10,CIN 49,7,23,Matthew Stafford pass incomplete deep middle intended for Will Heller is intercepted by Tom Nelson at CIN-32 and returned for 2 yards,2.320,-1.200
+4,7:03,1,10,CIN 34,7,23,Cedric Benson right tackle for -1 yards (tackle by Jason Hunter),1.200,0.520
+4,6:19,2,11,CIN 33,7,23,Cedric Benson left end for -2 yards (tackle by Larry Foote). Penalty on Laveranues Coles: Illegal Formation (Declined),0.520,-0.430
+4,6:09,3,13,CIN 31,7,23,Carson Palmer pass incomplete deep right intended for Laveranues Coles is intercepted by Anthony Henry at DET-48,-0.430,-2.130
+4,6:03,1,10,DET 48,7,23,Matthew Stafford pass complete short left to Kevin Smith for 17 yards (tackle by Dhani Jones and Brandon Johnson),2.130,3.250
+4,5:23,1,10,CIN 35,7,23,Kevin Smith right guard for 5 yards (tackle by Robert Geathers and Nedu Ndukwe),3.250,3.380
+4,4:43,2,5,CIN 30,7,23,Matthew Stafford sacked by Michael Johnson for -9 yards,3.380,1.490
+4,4:23,3,14,CIN 39,7,23,Matthew Stafford pass complete short middle to Maurice Morris for 11 yards (tackle by Johnathan Joseph),1.490,1.680
+4,3:41,4,3,CIN 28,7,23,Matthew Stafford pass incomplete short left intended for Dennis Northcutt,1.680,-0.810
+4,3:36,1,10,CIN 28,7,23,Cedric Benson left end for 1 yard (tackle by Andre Fluellen),0.810,0.400
+4,3:27,,,,7,23,Timeout #1 by Detroit Lions,0.000,0.400
+4,3:27,2,9,CIN 29,7,23,Cedric Benson right guard for 3 yards (tackle by Louis Delmas),0.400,0.100
+4,3:17,,,,7,23,Timeout #2 by Detroit Lions,0.000,0.100
+4,3:17,3,6,CIN 32,7,23,"Penalty on Dennis Roland: False Start, 5 yards (no play)",0.100,-0.560
+4,3:17,3,11,CIN 27,7,23,Cedric Benson left tackle for 3 yards (tackle by Anthony Henry),-0.560,-1.370
+4,3:10,,,,7,23,Timeout #3 by Detroit Lions,0.000,-1.370
+4,3:10,4,8,CIN 30,7,23,"Kevin Huber punts 46 yards, returned by Dennis Northcutt for 18 yards (tackle by Maurice Purify)",-1.370,-1.730
+4,2:56,1,10,DET 42,7,23,Daunte Culpepper pass incomplete short middle intended for Calvin Johnson,1.730,1.190
+4,2:50,2,10,DET 42,7,23,Daunte Culpepper pass complete short right to Will Heller for 11 yards (tackle by Johnathan Joseph),1.190,2.460
+4,2:22,1,10,CIN 47,7,23,Daunte Culpepper right end for 7 yards (tackle by Nedu Ndukwe),2.460,2.860
+4,2:00,2,3,CIN 40,7,23,Daunte Culpepper pass complete deep middle to Calvin Johnson for 38 yards (tackle by Johnathan Joseph),2.860,6.740
+4,1:39,1,2,CIN 2,13,23,"Kevin Smith middle for 2 yards, touchdown",6.740,7.000
+4,,,,,13,23,"Two Point Attempt: Daunte Culpepper pass incomplete intended for Calvin Johnson, conversion fails",1.000,-1.000
+4,,,,DET 30,13,23,Jason Hanson kicks onside 11 yards and returned for 14 yards,0.000,3.780
+4,1:32,1,10,DET 27,13,23,Carson Palmer kneels for -1 yards,3.780,3.100
+4,0:51,2,11,DET 28,13,23,Carson Palmer kneels for -1 yards,3.100,2.280
+4,0:23,3,12,DET 29,13,23,Carson Palmer kneels for -1 yards,2.280,1.410
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

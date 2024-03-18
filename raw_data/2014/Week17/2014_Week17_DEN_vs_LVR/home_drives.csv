@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:20,DEN 46,8,3:40,23,Field Goal
+2,1,7:11,DEN 49,4,1:34,51,Touchdown
+3,1,4:26,DEN 15,2,0:44,3,Fumble
+4,1,3:42,DEN 20,10,5:34,80,Touchdown
+5,2,10:54,DEN 48,3,1:29,7,Punt
+6,2,6:34,DEN 15,5,2:26,21,Punt
+7,2,2:32,DEN 26,9,2:09,56,Field Goal
+8,3,15:00,OAK 30,2,0:52,30,Touchdown
+9,3,8:55,DEN 20,8,3:17,63,Field Goal
+10,3,1:17,DEN 11,15,5:59,86,Field Goal
+11,4,7:39,DEN 19,5,2:24,19,Punt
+12,4,4:20,OAK 44,6,2:24,44,Touchdown
+13,4,0:29,DEN 41,1,0:29,-1,End of Game

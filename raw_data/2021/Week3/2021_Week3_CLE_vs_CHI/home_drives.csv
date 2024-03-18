@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,CLE 25,10,3:34,28,Downs
+2,1,8:40,CLE 25,7,4:22,44,Downs
+3,1,2:03,CLE 23,8,4:32,38,Field Goal
+4,2,10:13,CLE 23,8,4:36,30,Punt
+5,2,2:54,CLE 11,12,2:35,89,Touchdown
+6,3,13:58,CHI 44,7,4:26,21,Field Goal
+7,3,7:46,CLE 24,3,2:01,1,Punt
+8,3,1:43,CLE 25,6,1:57,75,Touchdown
+9,4,13:40,CLE 29,6,3:00,37,Field Goal
+10,4,9:18,CLE 49,10,5:35,41,Field Goal
+11,4,2:56,CHI 21,5,2:56,9,End of Game

@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,11:31,KAN 48,4,1:51,9,Downs
+2,1,5:03,SEA 38,3,1:30,5,Punt
+3,2,7:18,SEA 31,6,3:28,6,Punt
+4,2,1:12,SEA 28,4,0:30,17,Interception
+5,2,0:28,KAN 43,6,0:28,18,Field Goal
+6,3,15:00,SEA 29,2,0:57,71,Touchdown
+7,3,12:17,SEA 20,7,3:19,20,Punt
+8,3,8:13,SEA 14,7,2:13,28,Punt
+9,4,14:54,SEA 29,3,1:01,-5,Fumble
+10,4,12:43,SEA 33,2,0:39,27,Interception
+11,4,10:29,SEA 13,1,0:13,87,Touchdown
+12,4,3:36,SEA 44,4,0:57,7,Downs
+13,4,1:51,SEA 15,3,1:51,-7,End of Game

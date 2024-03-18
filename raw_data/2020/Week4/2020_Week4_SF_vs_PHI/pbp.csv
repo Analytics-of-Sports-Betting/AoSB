@@ -1,0 +1,181 @@
+Quarter,Time,Down,ToGo,Location,PHI,SFO,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"49ers won the coin toss and deferred, Eagles to receive the opening kickoff.",,
+1,15:00,,,SFO 35,0,0,"Mitch Wishnowsky kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,PHI 25,0,0,Miles Sanders right tackle for 2 yards (tackle by Kwon Alexander),0.610,0.330
+1,14:28,2,8,PHI 27,0,0,Miles Sanders up the middle for no gain (tackle by Kerry Hyder),0.330,-0.360
+1,13:51,3,8,PHI 27,0,0,Carson Wentz pass incomplete short left intended for Miles Sanders,-0.360,-1.570
+1,13:47,4,8,PHI 27,0,0,"Cameron Johnston punts 61 yards, returned by Trent Taylor for no gain (tackle by Rudy Ford)",-1.570,0.350
+1,13:38,1,10,SFO 12,0,0,Nick Mullens pass incomplete short left intended for Kendrick Bourne,-0.350,-0.780
+1,13:35,2,10,SFO 12,0,0,Nick Mullens pass incomplete short left intended for Kyle Juszczyk,-0.780,-1.420
+1,13:30,3,10,SFO 12,0,0,Nick Mullens pass complete short middle to George Kittle for 9 yards (tackle by Marcus Epps),-1.420,-1.960
+1,13:00,4,1,SFO 21,0,0,"Mitch Wishnowsky punts 51 yards, fair catch by Greg Ward at PHI-28",-1.960,-0.810
+1,12:52,1,10,PHI 28,0,0,Carson Wentz pass complete short left to Zach Ertz for -4 yards (tackle by K'Waun Williams),0.810,-0.280
+1,12:13,2,14,PHI 24,0,0,Miles Sanders left guard for 6 yards (tackle by Kwon Alexander),-0.280,-0.160
+1,11:45,3,8,PHI 30,0,0,"Penalty on Fred Warner: Neutral Zone Infraction, 5 yards (no play)",-0.160,0.500
+1,11:33,3,3,PHI 35,0,0,Carson Wentz pass complete short middle to Greg Ward for 6 yards (tackle by Jimmie Ward),0.500,1.660
+1,10:55,1,10,PHI 41,0,0,Carson Wentz pass complete short right to Greg Ward for 20 yards (tackle by Azeez Al-Shaair),1.660,2.980
+1,10:23,1,10,SFO 39,0,0,Carson Wentz pass short middle (defended by Javon Kinlaw) intended for Greg Ward is intercepted by Azeez Al-Shaair at SF-35 and returned for no gain,2.980,-1.270
+1,10:12,1,10,SFO 35,0,0,"Jerick McKinnon left end for 3 yards (tackle by Duke Riley). Penalty on Trent Williams: Offensive Holding, 10 yards (no play)",1.270,0.610
+1,9:54,1,20,SFO 25,0,0,Jerick McKinnon up the middle for 5 yards (tackle by K'Von Wallace),0.610,0.050
+1,9:16,2,15,SFO 30,0,0,Nick Mullens sacked by and Derek Barnett for -6 yards and Javon Hargrave for -6 yards,0.050,-1.420
+1,8:37,3,21,SFO 24,0,0,Jerick McKinnon left end for 15 yards (tackle by Nathan Gerry and Marcus Epps),-1.420,-0.780
+1,8:04,4,6,SFO 39,0,0,"Mitch Wishnowsky punts 47 yards, returned by Greg Ward for 8 yards (tackle by Demetrius Flannigan-Fowles)",-0.780,-0.410
+1,7:54,1,10,PHI 22,0,0,Miles Sanders up the middle for no gain (tackle by Dontae Johnson and Kwon Alexander),0.410,-0.130
+1,7:11,2,10,PHI 22,0,0,Boston Scott right end for 1 yard (tackle by Jason Verrett),-0.130,-0.690
+1,6:33,3,9,PHI 23,0,0,"Carson Wentz pass incomplete short right intended for Zach Ertz (defended by Jimmie Ward). Penalty on Jimmie Ward: Defensive Pass Interference, 12 yards (no play)",-0.690,1.270
+1,6:28,1,10,PHI 35,0,0,Carson Wentz pass incomplete deep left intended for Richard Rodgers (defended by Jaquiski Tartt),1.270,0.720
+1,6:22,2,10,PHI 35,0,0,Miles Sanders right end for 8 yards (tackle by Kwon Alexander),0.720,1.090
+1,5:43,3,2,PHI 43,0,0,"Carson Wentz right end for 5 yards (tackle by Kentavius Street). Penalty on Kwon Alexander: Defensive Holding, 5 yards",1.090,2.460
+1,5:25,1,10,SFO 47,0,0,Miles Sanders up the middle for 8 yards (tackle by Jason Verrett and Fred Warner),2.460,2.990
+1,4:43,2,2,SFO 39,0,0,Carson Wentz pass complete short left to Miles Sanders for 28 yards (tackle by Jimmie Ward),2.990,4.840
+1,3:56,1,10,SFO 11,6,0,"Carson Wentz left tackle for 11 yards, touchdown",4.840,7.000
+1,3:51,,,SFO 2,8,0,"Two Point Attempt: Carson Wentz pass complete to Zach Ertz, conversion succeeds",1.000,1.000
+1,3:51,,,PHI 35,8,0,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+1,3:51,1,10,SFO 25,8,0,Nick Mullens pass complete short left to George Kittle for 17 yards (tackle by T.J. Edwards),0.610,1.730
+1,3:14,1,10,SFO 42,8,0,Nick Mullens pass complete short left to George Kittle for 7 yards (tackle by Jalen Mills),1.730,2.130
+1,2:33,2,3,SFO 49,8,0,Deebo Samuel left end for 10 yards (tackle by Rodney McLeod),2.130,2.850
+1,1:54,1,10,PHI 41,8,0,George Kittle right end for 8 yards (tackle by Duke Riley),2.850,3.390
+1,1:14,2,2,PHI 33,8,0,Jerick McKinnon left end for -5 yards (tackle by Nathan Gerry and Derek Barnett),3.390,2.020
+1,0:31,3,7,PHI 38,8,6,"Brandon Aiyuk right end for 38 yards, touchdown",2.020,7.000
+1,0:21,,,PHI 15,8,7,Robbie Gould kicks extra point good,0.000,0.000
+1,0:21,,,SFO 35,8,7,"Mitch Wishnowsky kicks off 65 yards, touchback.",0.000,0.610
+1,0:21,1,10,PHI 25,8,7,Miles Sanders up the middle for 3 yards (tackle by Javon Kinlaw),0.610,0.470
+Quarter,Time,Down,ToGo,Location,PHI,SFO,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,7,PHI 28,8,7,Miles Sanders right guard for -1 yards (tackle by Arik Armstead),0.470,-0.360
+2,14:20,3,8,PHI 27,8,7,Carson Wentz pass incomplete short left intended for Zach Ertz,-0.360,-1.570
+2,14:15,4,8,PHI 27,8,7,Cameron Johnston punts 48 yards out of bounds,-1.570,-0.610
+2,14:09,1,10,SFO 25,8,7,Jerick McKinnon right tackle for 3 yards (tackle by Rodney McLeod),0.610,0.470
+2,13:29,2,7,SFO 28,8,7,"Nick Mullens pass complete short left to George Kittle for 13 yards (tackle by Nathan Gerry). Penalty on Nathan Gerry: Face Mask (15 Yards), 15 yards",0.470,2.650
+2,13:08,1,10,PHI 44,8,7,Nick Mullens pass incomplete short right intended for Brandon Aiyuk,2.650,2.110
+2,13:03,2,10,PHI 44,8,7,Nick Mullens sacked by Genard Avery for -7 yards,2.110,0.500
+2,12:19,3,17,SFO 49,8,7,Nick Mullens pass complete short right to Jerick McKinnon for no gain (tackle by Rodney McLeod),0.500,-0.130
+2,11:42,4,17,SFO 49,8,7,Mitch Wishnowsky punts 39 yards downed by Taybor Pepper,-0.130,0.350
+2,11:27,1,10,PHI 12,8,7,Carson Wentz pass complete short right to Greg Ward for 7 yards (tackle by Fred Warner),-0.350,0.100
+2,10:52,2,3,PHI 19,8,7,Carson Wentz right end for 8 yards (tackle by Jimmie Ward),0.100,0.740
+2,10:12,1,10,PHI 27,8,7,Carson Wentz pass complete short right to Zach Ertz for 8 yards (tackle by Javon Kinlaw and Kwon Alexander),0.740,1.280
+2,9:29,2,2,PHI 35,8,7,Miles Sanders left end for 9 yards (tackle by Jason Verrett),1.280,1.860
+2,8:49,1,10,PHI 44,8,7,Carson Wentz pass complete short middle to Zach Ertz for 4 yards (tackle by Dontae Johnson),1.860,1.860
+2,8:12,2,6,PHI 48,8,7,Carson Wentz pass complete short middle to Greg Ward for 5 yards (tackle by K'Waun Williams),1.860,1.820
+2,7:28,3,1,SFO 47,8,7,"Penalty on Jordan Mailata: False Start, 5 yards (no play)",1.820,1.160
+2,7:19,3,6,PHI 48,8,7,Carson Wentz pass incomplete short right,1.160,-0.190
+2,7:12,4,6,PHI 48,8,7,"Cameron Johnston punts 52 yards, touchback.",-0.190,-0.280
+2,7:03,1,10,SFO 20,8,7,Jerick McKinnon up the middle for 4 yards (tackle by Duke Riley and Nathan Gerry),0.280,0.270
+2,6:22,2,6,SFO 24,8,7,Nick Mullens pass complete short left to Deebo Samuel for 17 yards (tackle by Rodney McLeod),0.270,1.660
+2,5:46,1,10,SFO 41,8,7,Jerick McKinnon left end for -1 yards (tackle by T.J. Edwards),1.660,0.990
+2,5:07,2,11,SFO 40,8,7,Jerick McKinnon right tackle for 5 yards (tackle by T.J. Edwards),0.990,0.960
+2,4:25,3,6,SFO 45,8,7,Nick Mullens pass complete deep right to George Kittle for 38 yards (tackle by Cre'von LeBlanc and Marcus Epps),0.960,4.440
+2,3:36,1,10,PHI 17,8,7,Jerick McKinnon right end for 3 yards (tackle by Rodney McLeod),4.440,4.320
+2,2:51,2,7,PHI 14,8,7,Nick Mullens pass short right intended for Trent Taylor is intercepted by Rodney McLeod at PHI-6 and returned for 21 yards,4.320,-0.740
+2,2:40,1,10,PHI 27,8,7,Carson Wentz pass complete short left to Travis Fulgham for 15 yards (tackle by Dontae Johnson),0.740,1.730
+2,2:01,1,10,PHI 42,8,7,Carson Wentz pass complete short middle to John Hightower for 13 yards (tackle by Kwon Alexander),1.730,2.590
+2,1:52,1,10,SFO 45,8,7,"Carson Wentz aborted snap, recovered by Carson Wentz at PHI-38 and returned for -17 yards",2.590,-0.250
+2,1:30,,,,,,Timeout #1 by San Francisco 49ers,,
+2,1:30,2,27,PHI 38,8,7,Carson Wentz sacked by D.J. Jones for -7 yards,-0.250,-1.810
+2,1:24,,,,,,Timeout #2 by San Francisco 49ers,,
+2,1:24,3,34,PHI 31,8,7,Jalen Hurts up the middle for 14 yards (tackle by Jaquiski Tartt),-1.810,-0.390
+2,1:13,,,,,,Timeout #3 by San Francisco 49ers,,
+2,1:13,4,20,PHI 45,8,7,Cameron Johnston punts 50 yards downed by Grayland Arnold,-0.390,0.380
+2,1:03,1,10,SFO 5,8,7,Jerick McKinnon up the middle for no gain (tackle by Malik Jackson),-0.380,-0.780
+2,0:58,,,,,,Timeout #1 by Philadelphia Eagles,,
+2,0:58,2,10,SFO 5,8,7,Nick Mullens pass complete short left to Kyle Juszczyk for 13 yards (tackle by Nathan Gerry),-0.780,0.040
+2,0:32,1,10,SFO 18,8,7,Nick Mullens pass incomplete short left intended for Jerick McKinnon,0.040,-0.490
+2,0:28,2,10,SFO 18,8,7,Nick Mullens pass complete short middle to George Kittle for 5 yards (tackle by Cre'von LeBlanc and Nathan Gerry),-0.490,-0.530
+Quarter,Time,Down,ToGo,Location,PHI,SFO,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PHI 35,8,7,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,SFO 25,8,7,Jerick McKinnon up the middle for 9 yards (tackle by Duke Riley),0.610,1.280
+3,14:16,2,1,SFO 34,8,7,Nick Mullens pass incomplete short left intended for Brandon Aiyuk,1.280,0.560
+3,14:11,3,1,SFO 34,8,7,Nick Mullens pass complete short right to Brandon Aiyuk for 4 yards (tackle by Darius Slay),0.560,1.470
+3,13:27,1,10,SFO 38,8,7,Jerick McKinnon left tackle for 4 yards (tackle by Derek Barnett),1.470,1.460
+3,12:49,2,6,SFO 42,8,7,Nick Mullens pass complete short left to Jerick McKinnon for 10 yards (tackle by Nathan Gerry),1.460,2.390
+3,12:18,1,10,PHI 48,8,7,Jerick McKinnon left tackle for 11 yards (tackle by Rodney McLeod),2.390,3.120
+3,11:32,1,10,PHI 37,8,7,Jeff Wilson right guard for 2 yards (tackle by Alex Singleton),3.120,2.840
+3,11:11,2,8,PHI 35,8,7,Nick Mullens pass complete short middle to George Kittle for 12 yards (tackle by Rodney McLeod),2.840,4.040
+3,10:27,1,10,PHI 23,8,7,Nick Mullens pass complete short middle to Jeff Wilson for 13 yards (tackle by Duke Riley and Rodney McLeod),4.040,4.910
+3,9:45,1,10,PHI 10,8,7,Jeff Wilson left end for 3 yards (tackle by Marcus Epps),4.910,4.760
+3,9:03,2,7,PHI 7,8,7,Nick Mullens pass complete short left to George Kittle for 2 yards,4.760,4.260
+3,8:30,3,5,PHI 5,8,13,"Nick Mullens pass complete short left to George Kittle for 5 yards, touchdown",4.260,7.000
+3,8:26,,,PHI 15,8,14,Robbie Gould kicks extra point good,0.000,0.000
+3,8:26,,,SFO 35,8,14,"Mitch Wishnowsky kicks off 59 yards, returned by Boston Scott for 15 yards (tackle by Demetrius Flannigan-Fowles and Jaquiski Tartt)",0.000,0.340
+3,8:20,1,10,PHI 21,8,14,Carson Wentz right end for 4 yards (tackle by Arik Armstead),0.340,0.340
+3,7:38,2,6,PHI 25,8,14,Carson Wentz pass complete short right to Richard Rodgers for 23 yards (tackle by Fred Warner),0.340,2.130
+3,7:11,1,10,PHI 48,8,14,Carson Wentz pass incomplete short left intended for Greg Ward,2.130,1.580
+3,7:01,2,10,PHI 48,8,14,Carson Wentz pass complete short right to Richard Rodgers for 9 yards (tackle by Jaquiski Tartt),1.580,2.080
+3,6:19,3,1,SFO 43,8,14,Carson Wentz pass complete short right to Richard Rodgers for 3 yards (tackle by Azeez Al-Shaair),2.080,2.920
+3,5:35,1,10,SFO 40,8,14,Carson Wentz pass complete short right to Zach Ertz for 1 yard (tackle by Kwon Alexander and Azeez Al-Shaair),2.920,2.510
+3,4:50,2,9,SFO 39,8,14,Carson Wentz pass incomplete short right intended for Miles Sanders,2.510,1.820
+3,4:46,3,9,SFO 39,8,14,Carson Wentz right end for 8 yards (tackle by Dion Jordan),1.820,1.410
+3,4:21,4,1,SFO 31,8,14,Carson Wentz up the middle for 1 yard (tackle by Javon Kinlaw),1.410,3.580
+3,3:42,1,10,SFO 30,8,14,Carson Wentz pass complete short right to Adrian Killins for 2 yards (tackle by Kwon Alexander),3.580,3.300
+3,3:03,2,8,SFO 28,8,14,Miles Sanders right tackle for 7 yards (tackle by Arik Armstead),3.300,3.530
+3,2:23,3,1,SFO 21,8,14,Miles Sanders left guard for 2 yards (tackle by K'Waun Williams and Fred Warner),3.530,4.310
+3,1:37,1,10,SFO 19,8,14,Corey Clement left end for 2 yards (tackle by Kerry Hyder),4.310,4.030
+3,1:11,2,8,SFO 17,8,14,Carson Wentz pass incomplete short left,4.030,3.260
+3,1:05,3,8,SFO 17,8,14,Carson Wentz pass incomplete short right intended for Travis Fulgham (defended by Dontae Johnson),3.260,2.310
+3,0:59,4,8,SFO 17,11,14,Jake Elliott 35 yard field goal good,2.310,3.000
+3,0:55,,,PHI 35,11,14,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+3,0:55,1,10,SFO 25,11,14,Jeff Wilson right guard for 1 yard (tackle by Josh Sweat),0.610,0.200
+3,0:29,2,9,SFO 26,11,14,Nick Mullens pass complete deep left to George Kittle for 20 yards (tackle by K'Von Wallace),0.200,1.990
+Quarter,Time,Down,ToGo,Location,PHI,SFO,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,SFO 46,11,14,Nick Mullens sacked by Josh Sweat for -12 yards,1.990,-0.170
+4,14:18,2,22,SFO 34,11,14,Nick Mullens pass complete short right to Jerick McKinnon for 5 yards (tackle by Cre'von LeBlanc),-0.170,-0.160
+4,13:34,3,17,SFO 39,11,14,Nick Mullens pass complete short right to Jerick McKinnon for 10 yards (tackle by Derek Barnett),-0.160,-0.130
+4,13:01,4,7,SFO 49,11,14,"Mitch Wishnowsky punts 40 yards, fair catch by Greg Ward at PHI-11",-0.130,0.370
+4,12:54,1,10,PHI 11,11,14,Miles Sanders right guard for 5 yards (tackle by Kerry Hyder),-0.370,-0.300
+4,12:16,2,5,PHI 16,11,14,Miles Sanders right end for -3 yards (tackle by Kevin Givens),-0.300,-1.190
+4,11:34,3,8,PHI 13,11,14,Carson Wentz sacked by Jamar Taylor for -7 yards,-1.190,-2.490
+4,10:56,4,15,PHI 6,11,14,"Cameron Johnston punts 55 yards, returned by Dante Pettis for 6 yards (tackle by Marcus Epps and Shaun Bradley)",-2.490,-1.930
+4,10:44,1,10,SFO 45,11,14,Jerick McKinnon up the middle for no gain (tackle by Alex Singleton),1.930,1.380
+4,10:10,2,10,SFO 45,11,14,Nick Mullens pass incomplete short left intended for Kendrick Bourne,1.380,0.700
+4,10:06,3,10,SFO 45,11,14,"Nick Mullens sacked by Cre'von LeBlanc for -3 yards. Nick Mullens fumbles (forced by Cre'von LeBlanc), recovered by Malik Jackson at SF-42 (tackle by Kendrick Bourne)",0.700,-2.790
+4,9:58,1,10,SFO 42,11,14,Jalen Hurts right end for 4 yards (tackle by Kwon Alexander),2.790,2.780
+4,9:18,2,6,SFO 38,11,14,Carson Wentz pass incomplete short right intended for Greg Ward,2.780,2.080
+4,9:15,3,6,SFO 38,11,14,Carson Wentz pass complete short left to Miles Sanders for 2 yards (tackle by Fred Warner),2.080,0.890
+4,8:36,4,4,SFO 36,11,14,Carson Wentz pass complete short right to John Hightower for 9 yards (tackle by Jason Verrett),0.890,3.780
+4,7:52,1,10,SFO 27,11,14,Adrian Killins left end for -12 yards (tackle by Jaquiski Tartt),3.780,1.610
+4,7:07,2,22,SFO 39,11,14,"Carson Wentz pass complete short right to Boston Scott for 17 yards (tackle by Jimmie Ward). Penalty on Jamar Taylor: Illegal Contact (Declined) . Penalty on Jimmie Ward: Defensive Holding, 5 yards (no play)",1.610,3.310
+4,6:39,1,10,SFO 34,11,14,"Jalen Hurts aborted snap, recovered by Jalen Hurts at SF-42 and returned for -8 yards",3.310,1.690
+4,5:57,2,18,SFO 42,17,14,"Carson Wentz pass complete deep left to Travis Fulgham for 42 yards, touchdown",1.690,7.000
+4,5:50,,,SFO 15,18,14,Jake Elliott kicks extra point good,0.000,0.000
+4,5:50,,,PHI 35,18,14,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+4,5:50,1,10,SFO 25,24,14,"Nick Mullens pass short left intended for Kendrick Bourne is intercepted by Alex Singleton at SF-30 and returned for 30 yards, touchdown",0.610,-7.000
+4,5:42,,,SFO 15,25,14,Jake Elliott kicks extra point good,0.000,0.000
+4,5:42,,,PHI 35,25,14,"Jake Elliott kicks off 65 yards, touchback.",0.000,0.610
+4,5:42,1,10,SFO 25,25,14,C.J. Beathard pass complete short left to Jerick McKinnon for 8 yards (tackle by Cre'von LeBlanc),0.610,1.140
+4,5:15,2,2,SFO 33,25,14,C.J. Beathard pass complete short right to George Kittle for 7 yards (tackle by Marcus Epps),1.140,1.600
+4,4:49,1,10,SFO 40,25,14,C.J. Beathard pass complete short middle to Jerick McKinnon for 5 yards (tackle by Cre'von LeBlanc),1.600,1.730
+4,4:28,2,5,SFO 45,25,14,C.J. Beathard pass complete short right to Kendrick Bourne for 11 yards (tackle by Darius Slay),1.730,2.650
+4,4:01,1,10,PHI 44,25,14,C.J. Beathard pass complete short middle to George Kittle for 13 yards (tackle by Marcus Epps and Duke Riley),2.650,3.510
+4,3:39,1,10,PHI 31,25,14,C.J. Beathard pass complete short right to Deebo Samuel for 4 yards (tackle by Darius Slay),3.510,3.510
+4,3:12,2,6,PHI 27,25,14,C.J. Beathard pass complete short middle to Deebo Samuel for 14 yards (tackle by Rodney McLeod),3.510,4.710
+4,2:46,1,10,PHI 13,25,14,C.J. Beathard sacked by Hassan Ridgeway for -9 yards,4.710,2.940
+4,2:39,,,,,,Timeout #1 by San Francisco 49ers,,
+4,2:39,2,19,PHI 22,25,14,"C.J. Beathard pass incomplete short right intended for Kendrick Bourne (defended by Darius Slay). Penalty on Josh Sweat: Defensive Offside, 5 yards (no play)",2.940,3.500
+4,2:35,2,14,PHI 17,25,14,C.J. Beathard pass complete short middle to Brandon Aiyuk for 14 yards (tackle by Marcus Epps),3.500,6.510
+4,2:17,1,3,PHI 3,25,14,C.J. Beathard pass incomplete short left intended for Brandon Aiyuk,6.510,5.530
+4,2:13,2,3,PHI 3,25,14,C.J. Beathard pass complete short left to Kendrick Bourne for 2 yards (tackle by Jalen Mills),5.530,5.170
+4,2:09,3,1,PHI 1,25,20,"Jerick McKinnon right tackle for 1 yard, touchdown",5.170,7.000
+4,2:02,,,PHI 2,25,20,"Two Point Attempt: C.J. Beathard pass incomplete intended for George Kittle, conversion fails",1.000,-1.000
+4,2:02,,,,,,Timeout #1 by Philadelphia Eagles,,
+4,2:02,,,SFO 35,25,20,"Robbie Gould kicks onside 14 yards, returned by Richard Rodgers for no gain",0.000,2.320
+4,2:01,1,10,SFO 49,25,20,Corey Clement left tackle for 1 yard (tackle by Jimmie Ward and Javon Kinlaw),2.320,1.920
+4,1:56,2,9,SFO 48,25,20,Boston Scott right guard for no gain (tackle by Arik Armstead),1.920,1.220
+4,1:52,,,,,,Timeout #2 by San Francisco 49ers,,
+4,1:52,3,9,SFO 48,25,20,Carson Wentz sacked by and Kerry Hyder for -5 yards and Arik Armstead for -5 yards,1.220,-0.260
+4,1:46,,,,,,Timeout #3 by San Francisco 49ers,,
+4,1:46,4,14,PHI 47,25,20,"Cameron Johnston punts 41 yards, fair catch by Trent Taylor at SF-12",-0.260,0.350
+4,1:40,1,10,SFO 12,25,20,"Penalty on Trent Williams: False Start, 5 yards (no play)",-0.350,-0.570
+4,1:40,1,15,SFO 7,25,20,C.J. Beathard pass complete short right to Kendrick Bourne for 20 yards (tackle by Darius Slay),-0.570,0.740
+4,1:16,1,10,SFO 27,25,20,C.J. Beathard pass complete short middle to George Kittle for 13 yards (tackle by Nickell Robey-Coleman),0.740,1.600
+4,0:59,1,10,SFO 40,25,20,C.J. Beathard pass complete short left to Jerick McKinnon for 5 yards (tackle by Jalen Mills),1.600,1.730
+4,0:42,2,5,SFO 45,25,20,C.J. Beathard pass complete short middle to George Kittle for 10 yards (tackle by Nathan Gerry),1.730,2.590
+4,0:31,1,10,PHI 45,25,20,C.J. Beathard pass complete short middle to George Kittle for 12 yards (tackle by Nickell Robey-Coleman),2.590,3.380
+4,0:18,1,10,PHI 33,25,20,C.J. Beathard spiked the ball,3.380,2.840
+4,0:17,2,10,PHI 33,25,20,C.J. Beathard pass incomplete short right,2.840,2.150
+4,0:12,3,10,PHI 33,25,20,C.J. Beathard pass incomplete short right,2.150,1.150
+4,0:07,,,,,,Timeout #2 by Philadelphia Eagles,,
+4,0:07,4,10,PHI 33,25,20,C.J. Beathard pass incomplete deep right (defended by Darius Slay),1.150,1.140
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

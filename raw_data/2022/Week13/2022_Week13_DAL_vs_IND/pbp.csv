@@ -1,0 +1,186 @@
+Quarter,Time,Down,ToGo,Location,IND,DAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Colts won the coin toss and deferred, Cowboys to receive the opening kickoff.",,
+1,15:00,,,IND 35,0,0,"Chase McLaughlin kicks off 65 yards, returned by KaVontae Turpin for 18 yards (tackle by Grant Stuard)",0.000,0.040
+1,14:55,1,10,DAL 18,0,0,Tony Pollard left tackle for no gain (tackle by Bobby Okereke and Grover Stewart),0.040,-0.490
+1,14:22,2,10,DAL 18,0,0,Dak Prescott pass complete short right to Noah Brown for 6 yards (tackle by Isaiah Rodgers),-0.490,-0.400
+1,13:48,3,4,DAL 24,0,0,Dak Prescott pass incomplete short middle intended for Dalton Schultz (defended by Rodney McLeod),-0.400,-1.770
+1,13:42,4,4,DAL 24,0,0,"Bryan Anger punts 44 yards, fair catch by Dallis Flowers at IND-32. Penalty on Kelvin Joseph: Fair Catch Interference, 15 yards (accepted)",-1.770,-2.060
+1,13:31,1,10,IND 47,0,0,Jonathan Taylor up the middle for 4 yards (tackle by Johnathan Hankins),2.060,2.060
+1,12:58,2,6,DAL 49,0,0,Matt Ryan pass complete short middle to Kylen Granson for 9 yards (tackle by Anthony Barr),2.060,2.920
+1,12:39,1,10,DAL 40,0,0,Jonathan Taylor left tackle for 2 yards (tackle by Donovan Wilson and Micah Parsons),2.920,2.640
+1,12:13,2,8,DAL 38,0,0,Jonathan Taylor left guard for 4 yards (tackle by Osa Odighizuwa),2.640,2.480
+1,11:38,3,4,DAL 34,0,0,Jonathan Taylor up the middle for 1 yard (tackle by DeMarcus Lawrence and Neville Gallimore),2.480,1.190
+1,10:53,4,3,DAL 33,3,0,Chase McLaughlin 52 yard field goal good,1.190,3.000
+1,10:49,,,IND 35,3,0,"Chase McLaughlin kicks off 65 yards, returned by KaVontae Turpin for 27 yards (tackle by Tony Brown and Dallis Flowers)",0.000,0.740
+1,10:43,1,10,DAL 27,3,0,Tony Pollard right tackle for 3 yards (tackle by Dayo Odeyingbo and Byron Cowart),0.740,0.600
+1,10:13,2,7,DAL 30,3,0,Dak Prescott pass complete short right to Tony Pollard for 10 yards (tackle by Stephon Gilmore),0.600,1.600
+1,9:43,1,10,DAL 40,3,0,Dak Prescott pass complete short right to Dalton Schultz for 11 yards (tackle by Rodney McLeod and Rodney Thomas),1.600,2.320
+1,9:12,1,10,IND 49,3,0,Tony Pollard right end for 3 yards (tackle by Zaire Franklin),2.320,2.190
+1,8:42,2,7,IND 46,3,0,Ezekiel Elliott up the middle for 10 yards (tackle by Stephon Gilmore),2.190,3.180
+1,8:10,1,10,IND 36,3,0,Ezekiel Elliott left tackle for 5 yards (tackle by Bobby Okereke),3.180,3.310
+1,7:34,2,5,IND 31,3,0,Ezekiel Elliott right guard for 3 yards (tackle by E.J. Speed and Kwity Paye),3.310,3.010
+1,6:56,3,2,IND 28,3,0,Ezekiel Elliott up the middle for 1 yard (tackle by Zaire Franklin),3.010,1.820
+1,6:17,4,1,IND 27,3,0,Ezekiel Elliott left guard for 6 yards (tackle by Stephon Gilmore and Zaire Franklin),1.820,4.170
+1,5:41,1,10,IND 21,3,0,Dak Prescott pass incomplete deep middle intended for Dalton Schultz,4.170,3.630
+1,5:37,2,10,IND 21,3,0,Tony Pollard left guard for 1 yard (tackle by DeForest Buckner and Zaire Franklin),3.630,3.070
+1,4:58,3,9,IND 20,3,6,"Dak Prescott pass complete short middle to CeeDee Lamb for 20 yards, touchdown",3.070,7.000
+1,4:50,,,IND 15,3,7,Brett Maher kicks extra point good,0.000,0.000
+1,4:50,,,DAL 35,3,7,"Brett Maher kicks off 72 yards, returned by Isaiah Rodgers for 28 yards (tackle by Peyton Hendershot and C.J. Goodwin). Penalty on Peyton Hendershot: Taunting / Defense, 15 yards (offset) . Penalty on Deon Jackson: Offensive Holding, 10 yards (offset)",0.000,0.340
+1,4:42,1,10,IND 21,3,7,Jonathan Taylor right end for 5 yards (tackle by Donovan Wilson and Neville Gallimore),0.340,0.480
+1,4:16,2,5,IND 26,3,7,Jonathan Taylor right tackle for 14 yards (tackle by Donovan Wilson),0.480,1.600
+1,3:46,1,10,IND 40,3,7,Matt Ryan pass complete deep right to Alec Pierce for 45 yards (tackle by Anthony Brown),1.600,4.580
+1,3:19,1,10,DAL 15,3,7,Jonathan Taylor right guard for 1 yard (tackle by Neville Gallimore),4.580,4.110
+1,2:42,2,9,DAL 14,9,7,"Matt Ryan pass complete short left to Ashton Dulin for 14 yards, touchdown",4.110,7.000
+1,2:37,,,DAL 15,10,7,Chase McLaughlin kicks extra point good,0.000,0.000
+1,2:37,,,IND 35,10,7,"Chase McLaughlin kicks off 68 yards, returned by KaVontae Turpin for 19 yards (tackle by E.J. Speed)",0.000,-0.140
+1,2:33,1,10,DAL 16,10,7,Ezekiel Elliott left tackle for 5 yards (tackle by Kwity Paye),-0.140,0.150
+1,2:08,2,5,DAL 21,10,7,Ezekiel Elliott left tackle for 4 yards (tackle by Kwity Paye),0.150,-0.200
+1,1:30,3,1,DAL 25,10,7,Dak Prescott pass complete short right to Noah Brown for 9 yards (tackle by Julian Blackmon and Zaire Franklin),-0.200,1.200
+1,0:59,1,10,DAL 34,10,7,Dak Prescott pass complete short right to Jake Ferguson for -5 yards (tackle by Rodney McLeod),1.200,-0.020
+1,0:21,2,15,DAL 29,10,7,Dak Prescott pass incomplete short left intended for Dalton Schultz,-0.020,-0.690
+1,0:14,3,15,DAL 29,10,7,Dak Prescott pass complete short right to Ezekiel Elliott for 11 yards (tackle by Bobby Okereke and Stephon Gilmore),-0.690,-0.720
+Quarter,Time,Down,ToGo,Location,IND,DAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,4,4,DAL 40,10,7,"Bryan Anger punts 60 yards, touchback.",-0.720,-0.280
+2,14:51,1,10,IND 20,10,7,Matt Ryan pass incomplete short middle intended for Michael Pittman (defended by Jayron Kearse),0.280,-0.270
+2,14:48,2,10,IND 20,10,7,Jonathan Taylor left tackle for 5 yards (tackle by Osa Odighizuwa),-0.270,-0.300
+2,14:05,3,5,IND 25,10,7,Matt Ryan sacked by Donovan Wilson for -9 yards,-0.300,-2.390
+2,13:21,4,14,IND 16,10,7,"Matt Haack punts 40 yards, fair catch by KaVontae Turpin at DAL-44",-2.390,-1.860
+2,13:14,1,10,DAL 44,10,7,Tony Pollard for 17 yards (tackle by Zaire Franklin),1.860,2.980
+2,12:41,1,10,IND 39,10,7,Tony Pollard right guard for 4 yards (tackle by Rodney McLeod),2.980,2.980
+2,12:05,2,6,IND 35,10,7,Tony Pollard up the middle for 4 yards (tackle by Brandon Facyson),2.980,2.810
+2,11:31,3,2,IND 31,10,7,Dak Prescott pass complete short left to CeeDee Lamb for 22 yards (tackle by Bobby Okereke),2.810,5.140
+2,10:55,1,9,IND 9,10,7,Dak Prescott pass complete short right to Michael Gallup for 7 yards (tackle by Stephon Gilmore),5.140,5.720
+2,10:18,2,2,IND 2,10,13,"Tony Pollard left guard for 2 yards, touchdown",5.720,7.000
+2,10:16,,,IND 15,10,14,Brett Maher kicks extra point good,0.000,0.000
+2,10:16,,,DAL 35,10,14,"Brett Maher kicks off 67 yards, returned by Dallis Flowers for 25 yards (tackle by Peyton Hendershot)",0.000,0.480
+2,10:11,1,10,IND 23,10,14,Deon Jackson right guard for 1 yard (tackle by Micah Parsons and Donovan Wilson),0.480,0.070
+2,9:31,2,9,IND 24,10,14,"Penalty on Quenton Nelson: False Start, 5 yards (accepted) (no play)",0.070,-0.670
+2,9:24,2,14,IND 19,10,14,Matt Ryan pass complete short middle to Michael Pittman for 11 yards (tackle by DaRon Bland),-0.670,0.170
+2,8:44,3,3,IND 30,10,14,Matt Ryan pass complete short right to Kylen Granson for 6 yards (tackle by Jayron Kearse),0.170,1.330
+2,8:07,1,10,IND 36,10,14,Deon Jackson left guard for 5 yards (tackle by Johnathan Hankins and Sam Williams),1.330,1.470
+2,7:31,2,5,IND 41,10,14,Jonathan Taylor right tackle for 4 yards (tackle by Johnathan Hankins and DaRon Bland),1.470,1.290
+2,6:50,3,1,IND 45,10,14,Jonathan Taylor left end for 7 yards (tackle by Malik Hooker),1.290,2.390
+2,6:13,1,10,DAL 48,10,14,Jonathan Taylor right end for 5 yards (tackle by DeMarcus Lawrence),2.390,2.520
+2,5:34,2,5,DAL 43,10,14,Matt Ryan pass incomplete short right,2.520,1.820
+2,5:28,3,5,DAL 43,10,14,Matt Ryan sacked by Anthony Barr for -9 yards,1.820,-0.190
+2,4:43,4,14,IND 48,10,14,"Matt Haack punts 40 yards, fair catch by KaVontae Turpin at DAL-12",-0.190,0.350
+2,4:37,1,10,DAL 12,10,14,Dak Prescott pass incomplete short left intended for Michael Gallup (defended by Stephon Gilmore),-0.350,-0.780
+2,4:33,2,10,DAL 12,10,14,CeeDee Lamb right end for 9 yards (tackle by Kwity Paye and Rodney Thomas),-0.780,-0.370
+2,4:07,3,1,DAL 21,10,14,CeeDee Lamb right end for 14 yards (tackle by Kwity Paye),-0.370,1.270
+2,3:35,1,10,DAL 35,10,14,Ezekiel Elliott left tackle for no gain (tackle by DeForest Buckner and E.J. Speed),1.270,0.720
+2,3:03,2,10,DAL 35,10,14,Dak Prescott pass incomplete short left intended for CeeDee Lamb,0.720,0.040
+2,2:56,3,10,DAL 35,10,14,Dak Prescott pass short left intended for Michael Gallup is intercepted by Stephon Gilmore at 50 and returned for 31 yards (tackle by Connor McGovern),0.040,-4.310
+2,2:44,1,10,DAL 19,10,14,Jonathan Taylor right tackle for 3 yards (tackle by DeMarcus Lawrence and Osa Odighizuwa),4.310,4.180
+2,2:00,2,7,DAL 16,10,14,Matt Ryan pass incomplete short right intended for Jonathan Taylor,4.180,3.410
+2,1:57,3,7,DAL 16,10,14,Matt Ryan pass incomplete deep left intended for Kylen Granson,3.410,2.380
+2,1:51,4,7,DAL 16,13,14,Chase McLaughlin 34 yard field goal good,2.380,3.000
+2,1:47,,,IND 35,13,14,"Chase McLaughlin kicks off 65 yards, touchback.",0.000,0.610
+2,1:47,1,10,DAL 25,13,14,Dak Prescott pass complete short right to Tony Pollard for 5 yards (tackle by Rodney McLeod),0.610,0.740
+2,1:42,2,5,DAL 30,13,14,Dak Prescott pass incomplete deep left intended for Michael Gallup,0.740,0.040
+2,1:36,3,5,DAL 30,13,14,Dak Prescott sacked by Kwity Paye for -5 yards,0.040,-1.700
+2,1:30,,,,,,Timeout #1 by Indianapolis Colts,,
+2,1:30,4,10,DAL 25,13,14,"Bryan Anger punts 52 yards, returned by Dallis Flowers for 4 yards (tackle by Kelvin Joseph and Damone Clark)",-1.700,-0.740
+2,1:19,1,10,IND 27,13,14,Matt Ryan pass incomplete short right,0.740,0.200
+2,1:15,2,10,IND 27,13,14,Matt Ryan pass incomplete short left intended for Alec Pierce,0.200,-0.490
+2,1:12,3,10,IND 27,13,14,Matt Ryan pass complete short right to Parris Campbell for 13 yards (tackle by Anthony Brown),-0.490,1.600
+2,1:06,1,10,IND 40,13,14,Matt Ryan pass incomplete short left intended for Alec Pierce,1.600,1.050
+2,1:03,2,10,IND 40,13,14,Matt Ryan pass intended for Alec Pierce is intercepted by Malik Hooker at DAL-48 and returned for 26 yards (tackle by Parris Campbell),1.050,-3.840
+2,0:55,1,10,IND 26,13,14,Ezekiel Elliott up the middle for 6 yards (tackle by Grover Stewart),3.840,4.110
+2,0:50,,,,,,Timeout #1 by Dallas Cowboys,,
+2,0:50,2,4,IND 20,13,14,Dak Prescott pass complete short right to CeeDee Lamb for 6 yards (tackle by Stephon Gilmore),4.110,4.650
+2,0:29,1,10,IND 14,13,14,Dak Prescott pass incomplete short middle intended for Dalton Schultz (defended by Zaire Franklin),4.650,4.000
+2,0:24,2,10,IND 14,13,14,Ezekiel Elliott up the middle for 1 yard (tackle by DeForest Buckner),4.000,3.260
+2,0:20,,,,,,Timeout #2 by Dallas Cowboys,,
+2,0:20,3,9,IND 13,13,20,"Dak Prescott pass complete short right to Michael Gallup for 13 yards, touchdown",3.260,7.000
+2,0:13,,,IND 15,13,21,Brett Maher kicks extra point good,0.000,0.000
+2,0:13,,,DAL 35,13,21,"Brett Maher kicks off 72 yards, returned by Dallis Flowers for 27 yards (tackle by Donovan Wilson). Penalty on Grant Stuard: Offensive Holding, 10 yards (accepted)",0.000,-0.380
+2,0:08,1,10,IND 10,13,21,Matt Ryan kneels for -1 yards,-0.380,-0.850
+Quarter,Time,Down,ToGo,Location,IND,DAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DAL 35,13,21,"Brett Maher kicks off 69 yards, returned by Dallis Flowers for 22 yards (tackle by Malik Davis). Penalty on Nick Cross: Offensive Holding, 9 yards (accepted)",0.000,-0.380
+3,14:53,1,10,IND 9,13,21,Jonathan Taylor right guard for -1 yards (tackle by Sam Williams),-0.380,-0.850
+3,14:20,2,11,IND 8,13,21,Matt Ryan pass incomplete short right intended for Alec Pierce (defended by Anthony Brown),-0.850,-1.540
+3,14:15,3,11,IND 8,13,21,Jonathan Taylor up the middle for 2 yards (tackle by Donovan Wilson),-1.540,-2.490
+3,13:36,4,9,IND 10,13,21,"Matt Haack punts 39 yards, fair catch by KaVontae Turpin at IND-49",-2.490,-2.320
+3,13:29,1,10,IND 49,13,21,"Ezekiel Elliott for 2 yards. Penalty on Jake Ferguson: Offensive Holding, 10 yards (accepted) (no play)",2.320,1.660
+3,13:06,1,20,DAL 41,13,21,Ezekiel Elliott left guard for 4 yards (tackle by Zaire Franklin),1.660,0.970
+3,12:33,2,16,DAL 45,13,21,Dak Prescott pass complete short middle to Ezekiel Elliott for 3 yards (tackle by Zaire Franklin),0.970,0.700
+3,11:55,3,13,DAL 48,13,21,Dak Prescott pass incomplete short left intended for Tony Pollard,0.700,-0.190
+3,11:50,4,13,DAL 48,13,21,"Bryan Anger punts 42 yards, fair catch by Dallis Flowers at IND-10",-0.190,0.380
+3,11:43,1,10,IND 10,13,21,Parris Campbell left end for 2 yards (tackle by Donovan Wilson),-0.380,-0.630
+3,11:17,2,8,IND 12,13,21,Jonathan Taylor left tackle for 19 yards (tackle by Jayron Kearse),-0.630,1.000
+3,10:44,1,10,IND 31,13,21,Jonathan Taylor up the middle for 4 yards (tackle by Damone Clark and Osa Odighizuwa),1.000,1.000
+3,10:03,2,6,IND 35,13,21,Matt Ryan pass complete short right to Jonathan Taylor for 4 yards (tackle by Leighton Vander Esch),1.000,0.830
+3,9:19,3,2,IND 39,13,21,Matt Ryan pass complete short right to Alec Pierce for 14 yards (tackle by Anthony Brown),0.830,2.460
+3,8:50,1,10,DAL 47,13,21,Jonathan Taylor left guard for 1 yard (tackle by Johnathan Hankins and DaRon Bland),2.460,2.050
+3,8:11,2,9,DAL 46,13,21,Matt Ryan pass complete short right to Parris Campbell for 10 yards (tackle by Malik Hooker),2.050,3.180
+3,7:31,1,10,DAL 36,13,21,"Penalty on Dennis Kelly: False Start, 5 yards (accepted) (no play)",3.180,2.850
+3,7:11,1,15,DAL 41,13,21,Matt Ryan pass incomplete short left intended for Deon Jackson,2.850,1.960
+3,7:05,2,15,DAL 41,13,21,Matt Ryan pass complete short right to Jonathan Taylor for 19 yards (tackle by Donovan Wilson),1.960,4.110
+3,6:32,1,10,DAL 22,13,21,Jonathan Taylor up the middle for -2 yards (tackle by Jayron Kearse),4.110,3.290
+3,6:02,2,12,DAL 24,13,21,Matt Ryan pass complete short left to Parris Campbell for 11 yards (tackle by DaRon Bland),3.290,4.390
+3,5:44,3,1,DAL 13,13,21,Jonathan Taylor right tackle for no gain (tackle by Dorance Armstrong and Carlos Watkins),4.390,2.720
+3,5:04,4,1,DAL 13,13,21,Matt Ryan up the middle for 1 yard (tackle by Carlos Watkins),2.720,4.780
+3,4:29,1,10,DAL 12,13,21,Jonathan Taylor up the middle for -3 yards (tackle by Johnathan Hankins),4.780,3.660
+3,3:49,2,13,DAL 15,19,21,"Matt Ryan pass complete short left to Alec Pierce for 15 yards, touchdown",3.660,7.000
+3,3:43,,,DAL 2,19,21,Two Point Attempt: Matt Ryan pass incomplete,1.000,-1.000
+3,3:43,,,IND 35,19,21,"Chase McLaughlin kicks off 65 yards, touchback.",0.000,0.610
+3,3:43,1,10,DAL 25,19,21,Dak Prescott pass complete short right to Jake Ferguson for 4 yards (tackle by Isaiah Rodgers),0.610,0.600
+3,3:10,2,6,DAL 29,19,21,Tony Pollard right end for 22 yards (tackle by Rodney Thomas),0.600,2.320
+3,2:31,1,10,IND 49,19,21,Tony Pollard right end for 4 yards (tackle by Kwity Paye and Bobby Okereke),2.320,2.320
+3,1:55,2,6,IND 45,19,21,Dak Prescott pass complete short right to CeeDee Lamb for 6 yards,2.320,2.980
+3,1:21,1,10,IND 39,19,21,Ezekiel Elliott left tackle for 4 yards (tackle by Zaire Franklin and Dayo Odeyingbo),2.980,2.980
+3,0:42,2,6,IND 35,19,21,"Dak Prescott pass incomplete deep right intended for CeeDee Lamb. Penalty on Zaire Franklin: Defensive Illegal Blindside Block, 15 yards (accepted)",2.980,4.240
+3,0:38,1,10,IND 20,19,21,Dak Prescott pass complete short right to Michael Gallup for no gain (tackle by Isaiah Rodgers),4.240,3.690
+Quarter,Time,Down,ToGo,Location,IND,DAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,10,IND 20,19,21,Dak Prescott pass complete short right to Ezekiel Elliott for no gain (tackle by Rodney McLeod),3.690,3.010
+4,14:29,3,10,IND 20,19,21,Dak Prescott pass complete short middle to CeeDee Lamb for 17 yards (tackle by Julian Blackmon),3.010,6.510
+4,13:55,1,3,IND 3,19,27,"Dak Prescott pass complete short right to Michael Gallup for 3 yards, touchdown",6.510,7.000
+4,13:52,,,IND 15,19,28,Brett Maher kicks extra point good,0.000,0.000
+4,13:52,,,DAL 35,19,28,"Brett Maher kicks off 64 yards, returned by Dallis Flowers for 26 yards (tackle by Donovan Wilson)",0.000,0.740
+4,13:46,1,10,IND 27,19,34,"Matt Ryan pass complete short right to Mo Alie-Cox for 6 yards. Mo Alie-Cox fumbles (forced by Damone Clark), recovered by Malik Hooker at IND-38 and returned for 38 yards, touchdown",0.740,-7.000
+4,13:34,,,IND 2,19,34,Two Point Attempt: CeeDee Lamb pass incomplete intended for Noah Brown,1.000,-1.000
+4,13:34,,,DAL 35,19,34,"Brett Maher kicks off 66 yards, returned by Dallis Flowers for 23 yards (tackle by Israel Mukuamu)",0.000,0.410
+4,13:28,1,10,IND 22,19,34,Matt Ryan pass complete short right to Kylen Granson for no gain (tackle by DaRon Bland),0.410,-0.130
+4,12:50,2,10,IND 22,19,34,Matt Ryan pass complete short middle to Parris Campbell for 9 yards (tackle by Kelvin Joseph),-0.130,0.370
+4,12:18,3,1,IND 31,19,34,Matt Ryan pass incomplete short left intended for Michael Pittman,0.370,-1.310
+4,12:12,4,1,IND 31,19,34,Matt Ryan pass complete short left to Michael Pittman for 5 yards (tackle by DaRon Bland),-1.310,1.330
+4,11:48,1,10,IND 36,19,34,Matt Ryan pass incomplete short right intended for Parris Campbell (defended by Micah Parsons),1.330,0.790
+4,11:46,2,10,IND 36,19,34,Matt Ryan pass complete short left to Kylen Granson for 4 yards (tackle by Trevon Diggs),0.790,0.630
+4,11:10,3,6,IND 40,19,34,Matt Ryan pass short right intended for Kylen Granson is intercepted by DaRon Bland at DAL-47 and returned for no gain (tackle by Kylen Granson),0.630,-2.060
+4,11:03,1,10,DAL 47,19,34,Tony Pollard right tackle for 1 yard (tackle by Grover Stewart),2.060,1.650
+4,10:31,2,9,DAL 48,19,34,Dak Prescott pass complete short right to Dalton Schultz for 22 yards (tackle by Rodney McLeod),1.650,3.580
+4,9:54,1,10,IND 30,19,40,"Tony Pollard left end for 30 yards, touchdown",3.580,7.000
+4,9:46,,,IND 15,19,40,"Brett Maher kicks extra point blocked blocked by Grover Stewart, recovered by Bobby Okereke",0.000,-1.000
+4,9:46,,,DAL 35,19,40,"Brett Maher kicks off 65 yards, touchback.",0.000,0.610
+4,9:46,1,10,IND 25,19,40,"Matt Ryan pass incomplete intended for Parris Campbell. Penalty on DaRon Bland: Defensive Pass Interference, 18 yards (accepted) (no play)",0.610,1.800
+4,9:41,1,10,IND 43,19,40,Matt Ryan pass complete deep middle to Jelani Woods for 27 yards (tackle by Jayron Kearse),1.800,3.580
+4,9:18,1,10,DAL 30,19,40,Matt Ryan pass incomplete short middle intended for Jelani Woods,3.580,3.030
+4,9:11,2,10,DAL 30,19,40,Matt Ryan pass intended for Ashton Dulin is intercepted by DaRon Bland at DAL-28 and returned for no gain (tackle by Ashton Dulin),3.030,-0.810
+4,9:04,1,10,DAL 28,19,40,Ezekiel Elliott left tackle for 2 yards (tackle by Grover Stewart and Bobby Okereke),0.810,0.530
+4,8:26,2,8,DAL 30,19,40,Ezekiel Elliott left tackle for -1 yards (tackle by Zaire Franklin and Grover Stewart),0.530,-0.300
+4,7:44,3,9,DAL 29,19,40,"Dak Prescott pass incomplete intended for Noah Brown. Penalty on Brandon Facyson: Defensive Pass Interference, 44 yards (accepted) (no play)",-0.300,3.780
+4,7:37,1,10,IND 27,19,40,Ezekiel Elliott right end for 22 yards (tackle by Julian Blackmon),3.780,6.060
+4,6:53,1,5,IND 5,19,40,Ezekiel Elliott right tackle for 1 yard (tackle by Kwity Paye),6.060,5.340
+4,6:11,2,4,IND 4,19,46,"Ezekiel Elliott left tackle for 4 yards, touchdown",5.340,7.000
+4,6:06,,,IND 15,19,47,Brett Maher kicks extra point good,0.000,0.000
+4,6:06,,,DAL 35,19,47,"Brett Maher kicks off 69 yards, returned by Dallis Flowers for 27 yards (tackle by Peyton Hendershot)",0.000,0.480
+4,6:01,1,10,IND 23,19,47,Jonathan Taylor left guard for 7 yards (tackle by Chauncey Golston and DaRon Bland),0.480,0.880
+4,5:38,2,3,IND 30,19,47,Matt Ryan pass complete short left to Jelani Woods for 1 yard (tackle by Jayron Kearse),0.880,0.300
+4,4:58,3,2,IND 31,19,47,Matt Ryan pass complete short left to Jonathan Taylor for -2 yards (tackle by Jayron Kearse),0.300,-1.440
+4,4:19,4,4,IND 29,19,47,"Matt Ryan pass complete to Alec Pierce for 13 yards. Alec Pierce fumbles (tackle by Jayron Kearse) Replay Assistant challenged the fumble ruling, and the original play was overturned. Matt Ryan pass complete short left to Alec Pierce for 12 yards (tackle by Jayron Kearse)",-1.440,1.660
+4,4:07,1,10,IND 41,19,47,Matt Ryan pass incomplete short left intended for Jelani Woods (defended by Kelvin Joseph),1.660,1.120
+4,3:59,2,10,IND 41,19,47,"Matt Ryan sacked by. Matt Ryan fumbles, recovered by Sam Williams at IND-31, touchdown Replay Assistant challenged the runner was down by contact ruling, and the original play was overturned. Matt Ryan sacked by Osa Odighizuwa for -12 yards. Matt Ryan fumbles (forced by Osa Odighizuwa), recovered by Sam Williams at IND-29 (tackle by Will Fries)",1.120,-3.640
+4,3:59,1,10,IND 29,19,47,Malik Davis left end for no gain (tackle by Bobby Okereke),3.640,3.100
+4,3:15,2,10,IND 29,19,47,Malik Davis up the middle for 6 yards (tackle by Kwity Paye),3.100,3.200
+4,2:31,3,4,IND 23,19,53,"Malik Davis up the middle for 23 yards, touchdown",3.200,7.000
+4,2:25,,,IND 15,19,54,Brett Maher kicks extra point good,0.000,0.000
+4,2:25,,,DAL 35,19,54,"Brett Maher kicks off 67 yards, returned by Isaiah Rodgers for 34 yards (tackle by Luke Gifford and Sean McKeon)",0.000,1.070
+4,2:18,1,10,IND 32,19,54,Zack Moss left tackle for 2 yards (tackle by Donovan Wilson),1.070,0.800
+4,2:00,2,8,IND 34,19,54,Zack Moss right end for 9 yards (tackle by DaRon Bland and Dorance Armstrong),0.800,1.800
+4,1:15,1,10,IND 43,19,54,Zack Moss up the middle for 7 yards (tackle by Israel Mukuamu),1.800,2.200
+4,0:40,2,3,IND 50,19,54,Matt Ryan kneels for -2 yards,2.200,1.220
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

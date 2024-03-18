@@ -1,0 +1,18 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,14:39,PHI 18,4,0:51,18,Touchdown
+2,1,11:56,SEA 21,3,2:00,-2,Punt
+3,1,8:44,PHI 8,3,1:23,8,Touchdown
+4,1,5:14,SEA 23,13,7:11,55,Missed FG
+5,2,11:26,PHI 43,1,0:10,43,Touchdown
+6,2,9:06,SEA 24,4,2:32,16,Punt
+7,2,0:03,SEA 2,1,0:03,0,End of Half
+8,3,15:00,SEA 35,2,0:55,5,Fumble
+9,3,12:42,SEA 25,4,1:06,18,Punt
+10,3,10:39,SEA 47,3,1:26,53,Touchdown
+11,3,6:40,SEA 38,5,1:56,24,Punt
+12,3,3:23,SEA 46,1,0:07,0,Interception
+13,3,1:09,SEA 45,6,2:29,22,Downs
+14,4,12:16,SEA 14,9,4:21,31,Punt
+15,4,6:28,SEA 20,3,2:08,8,Punt
+16,4,1:56,SEA 44,3,0:40,3,Punt
+17,4,0:14,SEA 22,1,0:14,-1,End of Game

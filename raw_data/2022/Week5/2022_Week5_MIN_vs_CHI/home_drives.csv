@@ -1,0 +1,10 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,MIN 14,12,6:45,86,Touchdown
+2,1,6:06,MIN 25,11,6:11,75,Touchdown
+3,2,13:37,MIN 29,9,6:17,71,Touchdown
+4,2,4:05,MIN 20,5,2:11,25,Punt
+5,2,1:08,MIN 24,8,1:08,40,Missed FG
+6,3,10:24,CHI 48,7,2:50,15,Missed FG
+7,3,1:05,MIN 34,5,3:21,24,Interception
+8,4,9:26,MIN 25,17,7:00,75,Touchdown
+9,4,1:01,CHI 45,2,1:01,-2,End of Game

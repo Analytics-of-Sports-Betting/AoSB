@@ -1,0 +1,15 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,14:05,DEN 46,6,2:38,46,Touchdown
+2,1,8:27,DEN 38,8,4:13,38,Touchdown
+3,1,2:35,OAK 17,5,2:26,23,Punt
+4,1,0:03,DEN 25,5,2:14,25,Touchdown
+5,2,9:00,OAK 35,6,3:27,14,Punt
+6,2,3:03,OAK 46,3,1:13,3,Punt
+7,2,0:02,,0,0:02,0,End of Half
+8,3,15:00,OAK 24,7,3:40,42,Punt
+9,3,5:17,,0,0:08,0,Fumble
+10,3,4:14,OAK 16,6,3:37,17,Punt
+11,4,14:57,OAK 24,8,3:32,37,Fumble
+12,4,10:29,OAK 43,6,3:31,57,Touchdown
+13,4,5:39,OAK 47,6,3:09,16,Punt
+14,4,1:06,OAK 28,2,1:06,-1,End of Game

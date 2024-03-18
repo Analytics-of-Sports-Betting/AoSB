@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,MIA 19,5,2:46,10,Punt
+2,1,10:49,MIA 10,3,1:36,4,Punt
+3,1,4:37,MIA 26,3,1:48,3,Punt
+4,1,0:12,MIA 40,3,1:38,-1,Punt
+5,2,8:47,MIA 12,3,1:40,88,Touchdown
+6,2,4:40,MIA 24,3,1:41,9,Punt
+7,2,0:33,MIA 30,3,0:28,0,Punt
+8,3,10:25,MIA 16,6,3:01,39,Downs
+9,3,4:30,MIA 31,4,1:05,28,Downs
+10,3,2:15,NYJ 43,3,1:30,-7,Punt
+11,4,10:58,NYJ 37,4,0:57,37,Touchdown
+12,4,8:01,NYJ 40,11,3:02,31,Interception
+13,4,3:09,MIA 16,7,1:25,58,Interception

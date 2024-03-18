@@ -1,0 +1,179 @@
+Quarter,Time,Down,ToGo,Location,CHI,TEN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Titans won the coin toss, Titans to receive the opening kickoff.",,
+1,15:00,,,CHI 35,0,0,"Robbie Gould kicks off 70 yards, returned by Darius Reynaud for 25 yards (tackle by Eric Weems)",0.000,0.280
+1,14:54,1,10,TEN 20,0,0,"Matt Hasselbeck pass complete deep middle to Kenny Britt for 23 yards (tackle by Charles Tillman). Kenny Britt fumbles (forced by Charles Tillman), recovered by Brian Urlacher at TEN-46 (tackle by Kenny Britt)",0.280,-2.520
+1,14:44,1,10,TEN 46,0,0,"Matt Forte right tackle for 2 yards (tackle by Coty Sensabaugh). Penalty on Kellen Davis: Offensive Holding, 10 yards (no play)",2.520,1.860
+1,14:19,1,20,CHI 44,0,0,Matt Forte right guard for 3 yards (tackle by Zach Brown),1.860,1.030
+1,13:35,2,17,CHI 47,0,0,Matt Forte left tackle for 8 yards (tackle by Colin McCarthy and Jordan Babineaux),1.030,1.420
+1,12:53,3,9,TEN 45,0,0,Jay Cutler pass complete short right to Earl Bennett for 2 yards (tackle by Jason McCourty),1.420,0.400
+1,12:17,4,7,TEN 43,0,0,"Adam Podlesh punts 43 yards, touchback",0.400,-0.280
+1,12:09,1,10,TEN 20,0,0,Matt Hasselbeck pass complete short right to Kenny Britt for 9 yards (tackle by Charles Tillman),0.280,0.950
+1,11:34,2,1,TEN 29,0,0,Chris Johnson up the middle for no gain (tackle by Brian Urlacher),0.950,0.230
+1,11:00,3,1,TEN 29,0,0,Chris Johnson up the middle for no gain (tackle by Nick Roach),0.230,-1.440
+1,10:17,4,1,TEN 29,0,0,"Brett Kern punts 53 yards, returned by Devin Hester for 9 yards (tackle by Jordan Babineaux)",-1.440,-0.740
+1,10:06,1,10,CHI 27,0,0,Matt Forte left end for 17 yards (tackle by Colin McCarthy),0.740,1.860
+1,9:39,1,10,CHI 44,0,0,Jay Cutler sacked by Akeem Ayers for 0 yards,1.860,1.320
+1,9:08,2,10,CHI 44,0,0,Jay Cutler pass incomplete short right intended for Earl Bennett,1.320,0.630
+1,9:04,3,10,CHI 44,0,0,Jay Cutler pass incomplete deep right intended for Brandon Marshall,0.630,-0.460
+1,8:58,4,10,CHI 44,0,0,Adam Podlesh punts 37 yards,-0.460,-0.150
+1,8:48,1,10,TEN 19,0,0,Matt Hasselbeck pass complete short middle to Nate Washington for 5 yards (tackle by Lance Briggs),0.150,0.340
+1,8:10,2,5,TEN 24,0,0,"Chris Johnson left guard for 7 yards (tackle by Chris Conte). Penalty on TEN: Illegal Formation, 5 yards (no play)",0.340,-0.390
+1,7:39,2,10,TEN 19,0,0,Matt Hasselbeck pass incomplete short right intended for Craig Stevens (defended by Chris Conte). Penalty on TEN: Illegal Formation (Declined),-0.390,-1.070
+1,7:33,3,10,TEN 19,0,0,Matt Hasselbeck pass complete short middle to Chris Johnson for 1 yard (tackle by D.J. Moore),-1.070,-2.030
+1,6:52,4,9,TEN 20,6,0,"Brett Kern punts, blocked by Sherrick McManis, recovered by Corey Wootton and returned 5 yards, touchdown",-2.030,-7.000
+1,,,,TEN 2,7,0,Robbie Gould kicks extra point good,0.000,0.000
+1,6:44,,,CHI 35,7,0,"Robbie Gould kicks off 68 yards, returned by Darius Reynaud for 25 yards (tackle by Sherrick McManis)",0.000,0.410
+1,6:38,1,10,TEN 22,7,0,Chris Johnson right tackle for 7 yards (tackle by Henry Melton and Nate Collins),0.410,0.810
+1,6:00,2,3,TEN 29,7,0,Chris Johnson right guard for 1 yard (tackle by Henry Melton and Brian Urlacher),0.810,0.230
+1,5:22,3,2,TEN 30,7,0,Matt Hasselbeck pass incomplete short left intended for Kendall Wright,0.230,-1.370
+1,5:18,4,2,TEN 30,7,0,"Brett Kern punts 52 yards, returned by Devin Hester for 11 yards (tackle by Jamie Harper). Penalty on Charles Tillman: Offensive Holding, 9 yards",-1.370,0.380
+1,5:07,1,10,CHI 9,7,0,Jay Cutler pass incomplete short right intended for Earl Bennett,-0.380,-0.780
+1,5:03,2,10,CHI 9,7,0,"Penalty on Devin Hester: False Start, 4 yards (no play)",-0.780,-1.070
+1,5:03,2,14,CHI 5,7,2,"Jay Cutler pass complete short middle to Matt Forte for 15 yards (tackle by Kamerion Wimbley), safety. Penalty on J'Marcus Webb: Illegal Use of Hands, 5 yards (no play)",-1.070,-2.000
+1,4:51,,,CHI 20,7,2,"Adam Podlesh kicks off 54 yards, returned by Darius Reynaud for 22 yards (tackle by Adam Podlesh). Penalty on Jamie Harper: Illegal Block Above the Waist, 10 yards",0.000,0.670
+1,4:44,1,10,TEN 26,7,2,Matt Hasselbeck pass incomplete short right intended for Kenny Britt (defended by Charles Tillman),0.670,0.130
+1,4:39,2,10,TEN 26,7,2,Matt Hasselbeck sacked by Stephen Paea and Israel Idonije for -12 yards,0.130,-2.650
+1,4:06,3,22,TEN 14,7,2,Matt Hasselbeck pass incomplete short left intended for Kendall Wright,-2.650,-2.470
+1,4:02,4,22,TEN 14,7,2,"Penalty on Al Afalava: False Start, 5 yards (no play)",-2.470,-2.490
+1,4:02,4,27,TEN 9,7,2,"Brett Kern punts 43 yards, returned by Devin Hester for 44 yards (tackle by Jamie Harper)",-2.490,-5.370
+1,3:48,1,8,TEN 8,13,2,"Matt Forte up the middle for 8 yards, touchdown",5.370,7.000
+1,3:48,,,TEN 2,14,2,Robbie Gould kicks extra point good,0.000,0.000
+1,3:40,,,CHI 35,14,2,"Robbie Gould kicks off 73 yards, returned by Darius Reynaud for 32 yards (tackle by Armando Allen)",0.000,0.540
+1,3:34,1,10,TEN 24,14,2,Matt Hasselbeck pass complete deep left to Kendall Wright for 18 yards (tackle by Tim Jennings),0.540,1.730
+1,3:11,1,10,TEN 42,20,2,"Matt Hasselbeck pass incomplete short middle intended for Damian Williams is intercepted by Brian Urlacher at TEN-46 and returned for 46 yards, touchdown",1.730,-7.000
+1,,,,TEN 2,21,2,Robbie Gould kicks extra point good,0.000,0.000
+1,2:59,,,CHI 35,21,2,"Robbie Gould kicks off 65 yards, touchback",0.000,0.280
+1,2:59,1,10,TEN 20,21,2,"Matt Hasselbeck pass complete short left to Chris Johnson for -4 yards (tackle by Charles Tillman). Chris Johnson fumbles (forced by Charles Tillman), recovered by Chris Conte at TEN-16",0.280,-4.510
+1,2:49,1,10,TEN 16,21,2,Michael Bush left tackle for no gain (tackle by Zach Brown and Akeem Ayers),4.510,3.900
+1,2:11,2,10,TEN 16,21,2,Jay Cutler pass complete short left to Brandon Marshall for 3 yards (tackle by Zach Brown),3.900,3.540
+1,1:40,3,7,TEN 13,27,2,"Jay Cutler pass complete short left to Brandon Marshall for 13 yards, touchdown",3.540,7.000
+1,1:40,,,TEN 2,28,2,Robbie Gould kicks extra point good,0.000,0.000
+1,1:33,,,CHI 35,28,2,"Robbie Gould kicks off 65 yards, touchback",0.000,0.280
+1,1:33,1,10,TEN 20,28,2,Matt Hasselbeck pass incomplete short right intended for Kendall Wright (defended by Nate Collins),0.280,-0.270
+1,1:29,2,10,TEN 20,28,2,Chris Johnson right guard for 2 yards (tackle by Kelvin Hayden and Nate Collins),-0.270,-0.690
+1,0:56,3,8,TEN 22,28,2,Matt Hasselbeck pass incomplete short right intended for Jared Cook (defended by Chris Conte),-0.690,-1.900
+1,0:50,4,8,TEN 22,28,2,"Brett Kern punts 35 yards, returned by Devin Hester for 7 yards (tackle by Taylor Thompson)",-1.900,-2.260
+1,0:41,1,10,,28,2,Michael Bush left guard for 2 yards (tackle by Colin McCarthy),2.260,1.980
+Quarter,Time,Down,ToGo,Location,CHI,TEN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,8,TEN 48,28,2,Jay Cutler pass complete short right to Brandon Marshall for 3 yards (tackle by Ryan Mouton),1.980,1.690
+2,14:16,3,5,TEN 45,28,2,Jay Cutler pass complete short right to Earl Bennett for 6 yards (tackle by Jason McCourty),1.690,2.980
+2,13:55,1,10,TEN 39,28,2,Michael Bush left guard for -1 yards (tackle by Akeem Ayers),2.980,2.300
+2,13:17,2,11,TEN 40,28,2,Jay Cutler right end for 12 yards (tackle by Derrick Morgan),2.300,3.710
+2,12:43,1,10,TEN 28,28,2,Jay Cutler pass incomplete short right intended for Eric Weems (defended by Derrick Morgan),3.710,3.170
+2,12:40,2,10,TEN 28,28,2,Jay Cutler pass complete short left to Brandon Marshall for 5 yards (tackle by Jordan Babineaux),3.170,3.140
+2,11:54,3,5,TEN 23,28,2,Jay Cutler pass incomplete short middle intended for Earl Bennett (defended by Ryan Mouton),3.140,1.980
+2,11:49,4,5,TEN 23,31,2,Robbie Gould 40 yard field goal good,1.980,3.000
+2,11:44,,,CHI 35,31,2,"Robbie Gould kicks off 66 yards, returned by Darius Reynaud for 23 yards (tackle by Sherrick McManis). Penalty on Tracy Wilson: Unnecessary Roughness, 11 yards",0.000,-0.370
+2,11:37,1,10,TEN 11,31,2,Chris Johnson right guard for 5 yards (tackle by Stephen Paea),-0.370,-0.300
+2,11:06,2,5,TEN 16,31,2,Chris Johnson right tackle for 3 yards (tackle by Brian Urlacher and Nick Roach),-0.300,-0.480
+2,10:30,3,2,TEN 19,31,2,"Matt Hasselbeck pass complete short right to Craig Stevens for 12 yards (tackle by Charles Tillman). Craig Stevens fumbles (forced by Charles Tillman), ball out of bounds at TEN-34",-0.480,1.200
+2,9:59,1,10,TEN 34,31,2,Chris Johnson left guard for 2 yards (tackle by Nick Roach and Israel Idonije),1.200,0.930
+2,9:29,2,8,TEN 36,31,2,Matt Hasselbeck pass complete short middle to Kendall Wright for 12 yards (tackle by Charles Tillman),0.930,2.130
+2,8:52,1,10,TEN 48,31,2,Matt Hasselbeck pass incomplete deep left intended for Chris Johnson,2.130,1.580
+2,8:45,2,10,TEN 48,31,2,Chris Johnson up the middle for 2 yards (tackle by Nate Collins),1.580,1.160
+2,8:04,3,8,,31,2,Matt Hasselbeck left end for 16 yards (tackle by Tim Jennings),1.160,3.310
+2,7:20,1,10,CHI 34,31,2,Matt Hasselbeck pass complete short left to Kenny Britt for 6 yards (tackle by Charles Tillman),3.310,3.580
+2,6:46,2,4,CHI 28,31,2,"Chris Johnson right tackle for 8 yards (tackle by Brian Urlacher). Chris Johnson fumbles (forced by Brian Urlacher), recovered by Kelvin Hayden at CHI-18 (tackle by Nate Washington)",3.580,-0.040
+2,6:35,1,10,CHI 18,31,2,"Devin Hester left end for 1 yard (tackle by Colin McCarthy). Penalty on J'Marcus Webb: Offensive Holding, 9 yards (no play)",0.040,-0.720
+2,6:10,1,19,CHI 9,31,2,Matt Forte left guard for no gain (tackle by Zach Brown),-0.720,-1.440
+2,5:34,2,19,CHI 9,31,2,Jay Cutler pass complete short middle to Devin Hester for 5 yards (tackle by SenDerrick Marks),-1.440,-1.820
+2,4:57,3,14,CHI 14,31,2,Matt Forte up the middle for 16 yards (tackle by Robert Johnson and Coty Sensabaugh),-1.820,0.940
+2,4:20,1,10,CHI 30,31,2,Matt Forte right tackle for -4 yards (tackle by Akeem Ayers and Derrick Morgan),0.940,-0.150
+2,3:39,2,14,CHI 26,31,2,Jay Cutler pass complete short right to Matt Forte for 47 yards (tackle by Alterraun Verner),-0.150,3.780
+2,2:47,1,10,TEN 27,31,2,Michael Bush right guard for 9 yards (tackle by Coty Sensabaugh),3.780,4.530
+2,2:00,2,1,TEN 18,31,2,Michael Bush right guard for 4 yards (tackle by Jordan Babineaux),4.530,4.650
+2,1:16,1,10,TEN 14,31,2,"Jay Cutler sacked by Jurrell Casey for -6 yards. Zach Brown fumbles (forced by Jurrell Casey), recovered by Kamerion Wimbley at TEN-48 and returned for 2 yards",4.650,-2.260
+2,1:05,1,10,,31,2,Matt Hasselbeck pass complete short left to Kenny Britt for 10 yards (tackle by Charles Tillman),2.260,0.000
+2,0:56,,,,31,2,Timeout #1 by Tennessee Titans,0.000,2.920
+2,0:56,1,10,CHI 40,31,2,Matt Hasselbeck up the middle for 2 yards (tackle by Brian Urlacher),2.920,0.000
+2,0:45,,,,31,2,Timeout #2 by Tennessee Titans,0.000,2.640
+2,0:45,2,8,CHI 38,31,2,Matt Hasselbeck pass complete short right to Jared Cook for 7 yards (tackle by D.J. Moore),2.640,2.870
+2,0:25,3,1,CHI 31,31,2,Chris Johnson left guard for 10 yards (tackle by Lance Briggs and Major Wright),2.870,0.000
+2,0:20,,,,31,2,Timeout #3 by Tennessee Titans,0.000,4.170
+2,0:20,1,10,CHI 21,31,2,Matt Hasselbeck pass incomplete deep middle intended for Jared Cook,4.170,3.630
+2,0:14,2,10,CHI 21,31,2,Matt Hasselbeck pass incomplete deep right intended for Kendall Wright (defended by Tim Jennings),3.630,2.940
+2,0:08,3,10,CHI 21,31,2,Matt Hasselbeck pass incomplete deep left intended for Kenny Britt (defended by Chris Conte),2.940,2.060
+2,0:02,4,10,CHI 21,31,5,Rob Bironas 39 yard field goal good,2.060,3.000
+Quarter,Time,Down,ToGo,Location,CHI,TEN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,TEN 35,31,5,"Rob Bironas kicks off 69 yards, returned by Devin Hester for 26 yards (tackle by Robert Johnson)",0.000,0.410
+3,14:54,1,10,CHI 22,31,5,Matt Forte right guard for 4 yards (tackle by Derrick Morgan),0.410,0.410
+3,14:13,2,6,CHI 26,31,5,Jay Cutler sacked by Kamerion Wimbley for -9 yards,0.410,-1.680
+3,13:38,3,15,CHI 17,31,5,Jay Cutler pass complete short left to Brandon Marshall for 7 yards (tackle by Coty Sensabaugh and Alterraun Verner),-1.680,-1.770
+3,13:02,4,8,CHI 24,31,5,"Adam Podlesh punts 35 yards, out of bounds",-1.770,-1.660
+3,12:53,1,10,TEN 41,31,5,Matt Hasselbeck pass complete deep right to Kenny Britt for 19 yards (tackle by Brian Urlacher),1.660,2.920
+3,12:22,1,10,CHI 40,31,5,Matt Hasselbeck pass incomplete short right intended for Kendall Wright,2.920,2.370
+3,12:17,2,10,CHI 40,31,5,Chris Johnson left tackle for 10 yards (tackle by Nick Roach),2.370,3.580
+3,11:32,1,10,CHI 30,31,11,"Matt Hasselbeck pass complete deep left to Nate Washington for 30 yards, touchdown",3.580,7.000
+3,11:32,,,CHI 2,31,12,Rob Bironas kicks extra point good,0.000,0.000
+3,11:25,,,TEN 35,31,12,"Rob Bironas kicks off 65 yards, touchback",0.000,0.280
+3,11:25,1,10,CHI 20,31,12,"Matt Forte right guard for 46 yards (tackle by Michael Griffin). Penalty on Michael Griffin: Horse Collar Tackle, 15 yards",0.280,4.310
+3,10:57,1,10,TEN 19,31,12,Michael Bush left guard for 1 yard (tackle by SenDerrick Marks and Jurrell Casey),4.310,3.880
+3,10:15,2,9,TEN 18,31,12,Jay Cutler pass complete short middle to Earl Bennett for 9 yards (tackle by Coty Sensabaugh),3.880,5.140
+3,9:37,1,9,TEN 9,31,12,Michael Bush up the middle for 3 yards (tackle by SenDerrick Marks and Zach Brown),5.140,4.950
+3,8:56,2,6,TEN 6,31,12,Michael Bush up the middle for 1 yard (tackle by Jurrell Casey and Colin McCarthy),4.950,4.260
+3,8:21,3,5,TEN 5,31,12,Jay Cutler pass complete short middle to Matt Forte for -2 yards (tackle by SenDerrick Marks),4.260,2.970
+3,7:41,4,7,TEN 7,34,12,Robbie Gould 25 yard field goal good,2.970,3.000
+3,7:37,,,CHI 35,34,12,"Robbie Gould kicks off 68 yards, returned by Darius Reynaud for 21 yards (tackle by Anthony Walters)",0.000,0.040
+3,7:32,1,10,TEN 18,34,12,Chris Johnson left guard for 2 yards (tackle by Lance Briggs),0.040,-0.130
+3,6:55,2,8,TEN 20,34,12,Matt Hasselbeck pass complete short right to Craig Stevens for 14 yards (tackle by Tim Jennings),-0.130,1.200
+3,6:24,1,10,TEN 34,34,12,Matt Hasselbeck pass complete to Taylor Thompson for 7 yards (tackle by Major Wright),1.200,1.600
+3,5:53,2,3,TEN 41,34,12,Chris Johnson up the middle for 2 yards (tackle by Brian Urlacher),1.600,1.160
+3,5:12,3,1,TEN 43,34,12,Matt Hasselbeck pass incomplete short right intended for Jared Cook,1.160,-0.520
+3,5:08,4,1,TEN 43,34,12,"Brett Kern punts 57 yards, touchback",-0.520,-0.280
+3,4:59,1,10,CHI 20,34,12,Jay Cutler pass complete short left to Brandon Marshall for 18 yards (tackle by Zach Brown),0.280,1.470
+3,4:29,1,10,CHI 38,34,12,Jay Cutler pass complete short right to Devin Hester for 14 yards (tackle by Akeem Ayers),1.470,2.390
+3,3:46,1,10,TEN 48,34,12,Matt Forte right guard for no gain (tackle by Akeem Ayers),2.390,1.850
+3,3:05,2,10,TEN 48,34,12,"Jay Cutler pass incomplete short right intended for Brandon Marshall. Penalty on Jason McCourty: Defensive Pass Interference, 10 yards (no play)",1.850,3.050
+3,3:01,1,10,TEN 38,34,12,Jay Cutler pass complete deep right to Brandon Marshall for 29 yards (tackle by Jason McCourty),3.050,5.140
+3,2:16,1,9,TEN 9,34,12,Matt Forte right end for 1 yard (tackle by Zach Brown and Jason McCourty),5.140,4.570
+3,1:36,2,8,TEN 8,34,12,Jay Cutler pass complete short middle to Lance Louis for 4 yards (tackle by SenDerrick Marks),4.570,0.000
+3,0:48,,,,34,12,Timeout #1 by Chicago Bears,0.000,4.490
+3,0:48,3,4,TEN 4,34,12,Jay Cutler pass incomplete short left intended for Earl Bennett,4.490,3.030
+3,0:43,4,4,TEN 4,37,12,Robbie Gould 22 yard field goal good,3.030,3.000
+3,0:38,,,CHI 35,37,12,"Robbie Gould kicks off 62 yards, returned by Darius Reynaud for 9 yards (tackle by Armando Allen)",0.000,-0.350
+3,0:32,1,10,TEN 12,37,12,Matt Hasselbeck pass incomplete short left intended for Chris Johnson (defended by Tim Jennings),-0.350,-0.780
+3,0:27,2,10,TEN 12,37,12,Matt Hasselbeck pass complete short left to Chris Johnson for 8 yards (tackle by Lance Briggs and Shea McClellin),-0.780,-0.480
+Quarter,Time,Down,ToGo,Location,CHI,TEN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,2,TEN 20,37,12,"Penalty on Kenny Britt: False Start, 5 yards (no play)",-0.480,-1.070
+4,15:00,3,7,TEN 15,37,12,Matt Hasselbeck pass complete short left to Damian Williams for no gain,-1.070,-2.440
+4,14:21,4,7,TEN 15,37,12,"Brett Kern punts 59 yards, returned by Devin Hester for 9 yards (tackle by Quinn Johnson)",-2.440,-1.270
+4,14:10,1,10,CHI 35,37,12,Matt Forte right tackle for 4 yards (tackle by Derrick Morgan and Alterraun Verner),1.270,1.260
+4,13:25,2,6,CHI 39,37,12,Jay Cutler pass complete short left to Earl Bennett for 5 yards (tackle by Akeem Ayers),1.260,1.220
+4,12:41,3,1,CHI 44,37,12,Jay Cutler pass complete deep right to Michael Bush for 17 yards (tackle by Colin McCarthy). Penalty on Derrick Morgan: Defensive Holding (Declined),1.220,2.980
+4,12:08,1,10,TEN 39,37,12,Michael Bush right tackle for no gain (tackle by Akeem Ayers),2.980,2.440
+4,11:27,2,10,TEN 39,43,12,"Jay Cutler pass complete deep right to Brandon Marshall for 39 yards, touchdown",2.440,7.000
+4,11:27,,,TEN 2,44,12,Robbie Gould kicks extra point good,0.000,0.000
+4,11:21,,,CHI 35,44,12,"Robbie Gould kicks off 65 yards, touchback",0.000,0.280
+4,11:21,1,10,TEN 20,44,12,"Matt Hasselbeck pass complete short middle to Jared Cook for -1 yards (tackle by Charles Tillman). Jared Cook fumbles (forced by Charles Tillman), recovered by Kelvin Hayden at TEN-19 and returned for 15 yards (tackle by Matt Hasselbeck). Penalty on Matt Hasselbeck: Horse Collar Tackle, 2 yards",0.280,-6.740
+4,11:08,1,2,TEN 2,44,12,Michael Bush left tackle for -3 yards (tackle by Zach Brown),6.740,5.150
+4,10:28,2,5,TEN 5,44,12,Jay Cutler pass incomplete short right intended for Evan Rodriguez,5.150,4.260
+4,10:24,3,5,TEN 5,50,12,"Jay Cutler pass complete short middle to Brandon Marshall for 5 yards, touchdown",4.260,7.000
+4,10:24,,,TEN 2,51,12,Robbie Gould kicks extra point good,0.000,0.000
+4,10:20,,,CHI 35,51,12,"Robbie Gould kicks off 65 yards, touchback",0.000,0.280
+4,10:20,1,10,TEN 20,51,18,"Chris Johnson right tackle for 80 yards, touchdown",0.280,7.000
+4,10:20,,,,51,20,"Two Point Attempt: Matt Hasselbeck pass complete to Kenny Britt, conversion succeeds",0.000,1.000
+4,10:09,,,TEN 35,51,20,"Rob Bironas kicks onside 12 yards, recovered by Sherrick McManis. Penalty on TEN: Offside on Free Kick, 5 yards",0.000,2.790
+4,10:08,1,10,TEN 42,51,20,Armando Allen right end for 10 yards (tackle by Jurrell Casey),2.790,3.450
+4,9:22,1,10,TEN 32,51,20,Armando Allen right end for 3 yards (tackle by Jason McCourty),3.450,3.310
+4,8:37,2,7,TEN 29,51,20,Armando Allen up the middle for 6 yards (tackle by Tim Shaw),3.310,3.400
+4,7:52,3,1,TEN 23,51,20,Armando Allen right guard for 5 yards (tackle by Zach Brown),3.400,4.370
+4,7:07,1,10,TEN 18,51,20,Armando Allen left end for 3 yards (tackle by Jordan Babineaux and Tim Shaw),4.370,4.250
+4,6:23,2,7,TEN 15,51,20,Armando Allen up the middle for 8 yards (tackle by Tim Shaw),4.250,5.600
+4,5:38,1,7,TEN 7,51,20,Armando Allen up the middle for no gain (tackle by Jason McCourty),5.600,4.760
+4,4:53,2,7,TEN 7,51,20,Armando Allen up the middle for 2 yards (tackle by Markelle Martin),4.760,4.260
+4,4:07,3,5,TEN 5,51,20,Armando Allen left end for -7 yards (tackle by Zach Brown),4.260,0.000
+4,3:56,,,,51,20,Timeout #1 by Tennessee Titans,0.000,2.630
+4,3:56,4,12,TEN 12,51,20,Armando Allen up the middle for 2 yards (tackle by Tim Shaw and Jurrell Casey),2.630,0.370
+4,3:50,1,10,TEN 11,51,20,Matt Hasselbeck pass complete deep right to Damian Williams for 19 yards (tackle by Craig Steltz),-0.370,0.940
+4,3:15,1,10,TEN 30,51,20,Chris Johnson left end for 7 yards (tackle by Kelvin Hayden),0.940,1.340
+4,2:42,2,3,TEN 37,51,20,Matt Hasselbeck pass complete short right to Chris Johnson for -1 yards (tackle by Zackary Bowman),1.340,0.500
+4,2:01,3,4,TEN 36,51,20,Matt Hasselbeck pass incomplete short right intended for Kenny Britt (defended by Zackary Bowman),0.500,-0.980
+4,1:57,4,4,TEN 36,51,20,Matt Hasselbeck sacked by Corey Wootton for -8 yards,-0.980,-3.710
+4,1:49,1,10,TEN 28,51,20,Jason Campbell kneels for -1 yards,3.710,3.030
+4,1:07,2,11,TEN 29,51,20,Jason Campbell kneels for -1 yards,3.030,2.210
+4,0:27,3,12,TEN 30,51,20,Jason Campbell kneels for -1 yards,2.210,1.320
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

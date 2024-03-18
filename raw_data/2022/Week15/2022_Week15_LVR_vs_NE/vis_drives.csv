@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,8:26,NWE 25,4,1:25,13,Punt
+2,1,4:10,NWE 12,14,7:19,82,Field Goal
+3,2,5:18,NWE 25,3,1:29,-4,Punt
+4,2,2:07,NWE 26,4,1:40,21,"Blocked Punt, Downs"
+5,2,0:04,NWE 25,1,0:04,-1,End of Half
+6,3,15:00,NWE 25,6,2:10,26,Punt
+7,3,7:54,NWE 2,12,6:33,69,Field Goal
+8,4,14:49,,7,1:57,15,Field Goal
+9,4,8:22,NWE 22,3,1:07,4,Punt
+10,4,5:10,NWE 24,3,1:27,76,Touchdown
+11,4,3:12,NWE 28,3,1:01,0,Punt
+12,4,0:32,NWE 25,6,0:32,23,Fumble

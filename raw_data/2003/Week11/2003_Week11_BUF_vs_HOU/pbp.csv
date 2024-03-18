@@ -1,0 +1,171 @@
+Quarter,Time,Down,ToGo,Location,HOU,BUF,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Bills won the coin toss, Bills to receive the opening kickoff.",,
+1,15:00,,,HOU 30,0,0,"Kris Brown kicks off 65 yards, returned by Antonio Brown for 23 yards (tackle by Darrick Vaughn)",0.000,0.810
+1,14:55,1,10,BUF 28,0,0,"Travis Henry up the middle for 3 yards (tackle by Jamie Sharper). Travis Henry fumbles (forced by Jamie Sharper), recovered by Trey Teague at BUF-31",0.810,0.670
+1,14:16,2,7,BUF 31,0,0,"Penalty on Drew Bledsoe: Delay of Game, 5 yards (no play)",0.670,-0.010
+1,13:57,2,12,BUF 26,0,0,Drew Bledsoe pass incomplete intended for Sam Aiken,-0.010,-0.690
+1,13:51,3,12,BUF 26,0,0,Drew Bledsoe pass incomplete (defended by Jay Foreman),-0.690,-1.630
+1,13:47,4,12,BUF 26,0,0,"Brian Moorman punts 37 yards, returned by Jabar Gaffney for 15 yards (tackle by Jon Dorenbos)",-1.630,-2.390
+1,13:35,1,10,BUF 48,0,0,"David Carr for no gain. David Carr fumbles, recovered by David Carr at BUF-49",2.390,1.710
+1,13:06,2,11,BUF 49,0,0,Domanick Williams left tackle for 7 yards (tackle by Lawyer Milloy),1.710,1.950
+1,12:30,3,4,BUF 42,0,0,David Carr pass incomplete intended for Billy Miller,1.950,0.460
+1,12:25,4,4,BUF 42,0,0,Chad Stanley punts 30 yards,0.460,0.350
+1,12:13,1,10,BUF 12,0,0,Travis Henry up the middle for 2 yards (tackle by Charlie Clemons and Jamie Sharper),-0.350,-0.610
+1,11:39,2,8,BUF 14,0,0,Drew Bledsoe pass complete to Bobby Shaw for 10 yards (tackle by Kenny Wright),-0.610,0.540
+1,11:01,1,10,BUF 24,0,0,Drew Bledsoe pass complete to Josh Reed for 11 yards (tackle by Aaron Glenn),0.540,1.270
+1,10:33,1,10,BUF 35,0,0,Travis Henry right end for 4 yards (tackle by Jamie Sharper),1.270,1.260
+1,9:54,2,6,BUF 39,0,0,Travis Henry up the middle for 4 yards (tackle by Kailee Wong),1.260,1.090
+1,9:19,3,2,BUF 43,0,0,Drew Bledsoe sacked by Kailee Wong for -5 yards,1.090,-0.850
+1,9:03,4,7,BUF 38,0,0,"Brian Moorman punts 46 yards, returned by Jabar Gaffney for 1 yard (tackle by Coy Wire)",-0.850,0.060
+1,8:53,1,10,HOU 17,0,0,"Penalty on Jabari Holloway: False Start, 5 yards (no play)",-0.060,-0.510
+1,8:53,1,15,HOU 12,0,0,"Penalty on Seth Wand: False Start, 5 yards (no play)",-0.510,-0.760
+1,8:53,1,20,HOU 7,0,0,David Carr pass complete to Derick Armstrong for 8 yards (tackle by London Fletcher),-0.760,-0.850
+1,8:19,2,12,HOU 15,0,0,David Carr pass incomplete intended for Andre Johnson,-0.850,-1.570
+1,8:12,3,12,HOU 15,0,0,David Carr pass complete to Domanick Williams for 4 yards (tackle by Terrence McGee),-1.570,-2.140
+1,7:54,4,8,HOU 19,0,0,"Chad Stanley punts 43 yards, returned by Antonio Brown for -2 yards, lateral to Nate Clements for -3 yards (tackle by Steve Foley)",-2.140,-1.140
+1,7:44,1,10,BUF 33,0,0,Drew Bledsoe pass complete to Bobby Shaw for 19 yards (tackle by Kailee Wong),1.140,2.390
+1,7:02,1,10,HOU 48,0,0,Drew Bledsoe pass complete to Travis Henry for 4 yards (tackle by Jay Foreman),2.390,2.390
+1,6:36,2,6,HOU 44,0,0,Travis Henry left guard for 4 yards (tackle by Jerry DeLoach and Kenny Wright),2.390,2.210
+1,5:49,3,2,HOU 40,0,0,Drew Bledsoe pass incomplete intended for Josh Reed (defended by Demarcus Faggins),2.210,0.590
+1,5:43,4,2,HOU 40,0,0,Brian Moorman punts 38 yards,0.590,0.380
+1,5:33,1,10,HOU 2,0,0,Domanick Williams up the middle for 1 yard (tackle by Sam Adams and Takeo Spikes),-0.380,-0.710
+1,4:56,2,9,HOU 3,0,2,"David Carr sacked by Jeff Posey for -3 yards. David Carr fumbles (forced by Jeff Posey), safety",-0.710,-2.000
+1,,,,HOU 20,0,2,"Chad Stanley kicks off 55 yards, returned by Antonio Brown for 8 yards (tackle by Ramon Walker)",0.000,1.140
+1,4:44,1,10,BUF 33,0,2,Travis Henry left tackle for 4 yards (tackle by Jamie Sharper and Steve Martin),1.140,1.130
+1,4:06,2,6,BUF 37,0,2,Travis Henry right tackle for 1 yard (tackle by Kenny Wright),1.130,0.560
+1,3:23,3,5,BUF 38,0,2,Drew Bledsoe pass complete to Josh Reed for 10 yards (tackle by Jason Simmons),0.560,2.130
+1,2:48,1,10,BUF 48,0,2,Drew Bledsoe pass complete to Josh Reed for 7 yards (tackle by Aaron Glenn),2.130,2.530
+1,2:14,2,3,HOU 45,0,2,"Travis Henry right end for 7 yards (tackle by Marlon McCree). Penalty on Corey Sears: Illegal Use of Hands, 5 yards",2.530,3.380
+1,1:52,1,10,HOU 33,0,2,Josh Reed right end for 16 yards (tackle by Jamie Sharper),3.380,4.440
+1,1:25,1,10,HOU 17,0,2,Travis Henry right end for 4 yards (tackle by Eric Brown and Kailee Wong),4.440,4.500
+1,0:43,2,6,HOU 13,0,2,Travis Henry right tackle for 2 yards (tackle by Jay Foreman),4.500,4.100
+Quarter,Time,Down,ToGo,Location,HOU,BUF,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,4,HOU 11,0,2,Drew Bledsoe pass incomplete intended for Sam Aiken,4.100,2.770
+2,14:56,4,4,HOU 11,0,2,Rian Lindell 29 yard field goal no good,2.770,-0.280
+2,14:53,1,10,HOU 20,0,2,Tony Banks for 3 yards (tackle by London Fletcher and Aaron Schobel),0.280,0.140
+2,14:14,2,7,HOU 23,0,2,Domanick Williams left end for 4 yards (tackle by Takeo Spikes),0.140,-0.030
+2,13:45,3,3,HOU 27,0,2,Tony Banks pass complete to Jabar Gaffney for 9 yards (tackle by Takeo Spikes),-0.030,1.330
+2,13:19,1,10,HOU 36,0,2,Domanick Williams right guard for 1 yard (tackle by London Fletcher and Ryan Denney),1.330,0.930
+2,12:38,2,9,HOU 37,0,2,Domanick Williams up the middle for -2 yards (tackle by Ryan Denney and Sam Adams),0.930,-0.030
+2,11:56,3,11,HOU 35,0,2,Tony Banks pass incomplete intended for Corey Bradford,-0.030,-1.040
+2,11:50,4,11,HOU 35,0,2,"Chad Stanley punts 43 yards, returned by Antonio Brown for 15 yards (tackle by Jason Bell)",-1.040,-1.400
+2,11:38,1,10,BUF 37,0,2,Drew Bledsoe pass complete to Bobby Shaw for 36 yards (tackle by Eric Brown),1.400,3.780
+2,10:57,1,10,HOU 27,0,2,"Travis Henry up the middle for 3 yards (tackle by Kailee Wong). Penalty on Charlie Clemons: Neutral Zone Infraction, 5 yards (no play)",3.780,4.510
+2,10:33,1,5,HOU 22,0,2,Drew Bledsoe pass incomplete intended for Ryan Neufeld,4.510,3.910
+2,10:25,2,5,HOU 22,0,2,Travis Henry left guard for -4 yards (tackle by Kenny Wright),3.910,2.680
+2,9:41,3,9,HOU 26,0,2,Drew Bledsoe pass incomplete intended for Josh Reed (defended by Aaron Glenn),2.680,1.740
+2,9:41,4,9,HOU 26,0,2,Rian Lindell 44 yard field goal no good,1.740,-1.200
+2,9:29,1,10,HOU 34,0,2,Tony Banks pass complete to Jabar Gaffney for 14 yards (tackle by Antoine Winfield),1.200,2.130
+2,8:52,1,10,HOU 48,0,2,Domanick Williams left guard for 3 yards (tackle by Takeo Spikes and Pat Williams),2.130,1.990
+2,8:07,,,,0,2,Timeout #1 by Buffalo Bills,0.000,1.990
+2,8:07,2,7,BUF 49,0,2,Domanick Williams up the middle for -2 yards (tackle by Ryan Denney and Pat Williams),1.990,1.020
+2,7:24,3,9,HOU 49,0,2,Domanick Williams left guard for 4 yards (tackle by Takeo Spikes and Justin Bannan),1.020,0.130
+2,6:45,4,5,BUF 47,0,2,Chad Stanley punts 40 yards,0.130,0.380
+2,6:30,1,10,BUF 7,0,2,Travis Henry left tackle for 8 yards (tackle by Corey Sears),-0.380,-0.140
+2,5:51,2,2,BUF 15,0,2,Drew Bledsoe pass incomplete intended for Josh Reed,-0.140,-0.480
+2,5:45,3,2,BUF 15,0,2,Travis Henry up the middle for 64 yards (tackle by Marlon McCree),-0.480,4.170
+2,4:58,1,10,HOU 21,0,2,Joe Burns up the middle for 5 yards (tackle by Jamie Sharper and Jerry DeLoach),4.170,4.370
+2,4:13,,,,0,2,Timeout #2 by Buffalo Bills,0.000,4.370
+2,4:13,2,5,HOU 16,0,2,Travis Henry left tackle for 7 yards (tackle by Corey Sears and Marlon McCree),4.370,5.140
+2,3:26,1,9,HOU 9,0,2,Travis Henry up the middle for 3 yards (tackle by Steve Martin),5.140,4.950
+2,2:58,2,6,HOU 6,0,2,Drew Bledsoe up the middle for 2 yards (tackle by Junior Ioane and Jay Foreman),4.950,4.490
+2,2:15,3,4,HOU 4,0,2,Drew Bledsoe pass incomplete intended for Sam Aiken (defended by Demarcus Faggins),4.490,3.030
+2,2:10,4,4,HOU 4,0,5,Rian Lindell 23 yard field goal good,3.030,3.000
+2,,,,BUF 30,0,5,"Rian Lindell kicks off 52 yards, returned by Tony Hollings for 9 yards (tackle by DaShon Polk)",0.000,0.740
+2,2:02,1,10,HOU 27,0,5,Domanick Williams right guard for 3 yards (tackle by Justin Bannan and Takeo Spikes),0.740,0.600
+2,1:56,2,7,HOU 30,0,5,Tony Banks pass complete to Domanick Williams for 13 yards (tackle by London Fletcher),0.600,1.800
+2,1:34,1,10,HOU 43,0,5,"Penalty on Billy Miller: False Start, 5 yards (no play)",1.800,1.470
+2,1:34,1,15,HOU 38,0,5,Tony Banks pass complete to Domanick Williams for 16 yards (tackle by Lawyer Milloy),1.470,2.520
+2,1:22,,,,0,5,Timeout #1 by Houston Texans,0.000,2.520
+2,1:22,1,10,BUF 46,6,5,"Tony Banks pass complete to Andre Johnson for 46 yards, touchdown",2.520,7.000
+2,,,,,6,5,Two Point Attempt: conversion fails,1.000,-1.000
+,,,,,,,"Replay Assistant challenged the ruling, and the play was upheld.",,
+2,,,,HOU 30,6,5,"Kris Brown kicks off 75 yards, touchback",0.000,0.280
+2,1:12,1,10,BUF 20,6,5,Drew Bledsoe pass complete to Josh Reed for 9 yards (tackle by Jason Simmons),0.280,0.950
+2,0:52,2,1,BUF 29,6,5,Drew Bledsoe sacked by Shantee Orr for -10 yards,0.950,-1.140
+2,0:23,3,11,BUF 19,6,5,Drew Bledsoe pass complete to Sammy Morris for 4 yards (tackle by Marlon McCree). Penalty on Jonas Jennings: Offensive Holding (Declined),-1.140,-1.830
+2,0:16,4,7,BUF 23,6,5,"Brian Moorman punts 43 yards, returned by Jabar Gaffney for 12 yards (tackle by Dominique Stevenson)",-1.830,-1.990
+2,0:04,1,10,HOU 46,6,5,Tony Banks sacked by Sam Adams for -1 yards,1.990,1.320
+Quarter,Time,Down,ToGo,Location,HOU,BUF,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,BUF 30,6,5,"Rian Lindell kicks off 60 yards, returned by Tony Hollings for 15 yards (tackle by Dominique Stevenson)",0.000,0.610
+3,14:55,1,10,HOU 25,6,5,Domanick Williams right guard for -2 yards (tackle by Antoine Winfield and Pat Williams),0.610,-0.210
+3,14:09,2,12,HOU 23,6,5,Tony Banks pass complete to Andre Johnson for 27 yards (tackle by Nate Clements),-0.210,2.260
+3,13:37,1,10,BUF 50,6,5,Tony Banks pass incomplete intended for Corey Bradford,2.260,1.710
+3,13:29,2,10,BUF 50,6,5,Domanick Williams right tackle for 1 yard (tackle by Terrence McGee and Takeo Spikes),1.710,1.160
+3,13:04,3,9,BUF 49,6,5,"Tony Banks pass incomplete intended for Jabar Gaffney. Penalty on BUF: Defensive Offside (Declined), Penalty on Nate Clements: Unnecessary Roughness, 15 yards (no play)",1.160,3.310
+3,13:02,1,10,BUF 34,6,5,Tony Banks pass complete to Jabari Holloway for 9 yards (tackle by Lawyer Milloy),3.310,3.990
+3,12:21,2,1,BUF 25,6,5,Domanick Williams right tackle for 3 yards (tackle by Takeo Spikes and Pat Williams),3.990,4.110
+3,11:41,1,10,BUF 22,6,5,Tony Banks pass incomplete intended for Andre Johnson,4.110,3.560
+3,11:35,2,10,BUF 22,6,5,Domanick Williams left guard for -1 yards (tackle by Justin Bannan),3.560,2.740
+3,10:50,3,11,BUF 23,6,5,Tony Banks pass incomplete intended for Domanick Williams,2.740,1.930
+3,10:44,4,11,BUF 23,9,5,Kris Brown 41 yard field goal good,1.930,3.000
+3,,,,HOU 30,9,5,"Kris Brown kicks off 62 yards, returned by Antonio Brown for 22 yards (tackle by Troy Evans). Penalty on Troy Evans: Illegal Use of Hands, 5 yards",0.000,1.270
+3,10:35,1,10,BUF 35,9,5,"Penalty on Ruben Brown: False Start, 5 yards (no play)",1.270,0.940
+3,10:34,1,15,BUF 30,9,5,Travis Henry right guard for 5 yards (tackle by Jamie Sharper),0.940,0.720
+3,10:00,2,10,BUF 35,9,5,Drew Bledsoe sacked by Charlie Clemons for -8 yards,0.720,-1.020
+3,9:01,3,18,BUF 27,9,5,Drew Bledsoe pass incomplete intended for Sammy Morris,-1.020,-1.570
+3,8:56,4,18,BUF 27,9,5,"Brian Moorman punts 48 yards, returned by Jabar Gaffney for -6 yards (tackle by Kevin Thomas)",-1.570,-0.150
+3,8:45,1,10,HOU 19,9,5,Tony Banks pass incomplete intended for Andre Johnson is intercepted by Antoine Winfield at HOU-31 and returned for 11 yards (tackle by Andre Johnson),0.150,-4.240
+3,8:38,1,10,HOU 20,9,5,Travis Henry up the middle for 4 yards (tackle by Jerry DeLoach and Jay Foreman),4.240,4.280
+3,8:00,2,6,HOU 16,9,5,Travis Henry right tackle for 2 yards (tackle by Eric Brown),4.280,3.890
+3,7:28,,,,9,5,Timeout #1 by Buffalo Bills,0.000,3.890
+3,7:28,3,4,HOU 14,9,5,Sammy Morris up the middle for 5 yards (tackle by Steve Foley and Marlon McCree),3.890,5.140
+3,6:48,1,9,HOU 9,9,5,Travis Henry up the middle for 2 yards (tackle by Corey Sears and Jamie Sharper),5.140,4.760
+3,6:07,2,7,HOU 7,9,5,Drew Bledsoe pass complete to Mark Campbell for 6 yards (tackle by Eric Brown),4.760,5.170
+3,5:21,3,1,HOU 1,9,5,Travis Henry left tackle for -1 yards (tackle by Eric Brown),5.170,3.250
+3,4:42,,,,9,5,Timeout #2 by Buffalo Bills,0.000,3.250
+3,4:42,4,2,HOU 2,9,8,Rian Lindell 20 yard field goal good,3.250,3.000
+3,,,,BUF 30,9,8,"Rian Lindell kicks off 50 yards, returned by Tony Hollings for 8 yards (tackle by DaShon Polk)",0.000,0.810
+3,4:32,1,10,HOU 28,9,8,Domanick Williams left tackle for 6 yards (tackle by London Fletcher and Izell Reese),0.810,1.070
+3,3:50,2,4,HOU 34,9,8,Domanick Williams left guard for 5 yards (tackle by Ryan Denney and Takeo Spikes),1.070,1.530
+3,3:03,1,10,HOU 39,9,8,Domanick Williams left tackle for 1 yard (tackle by Sam Adams),1.530,1.120
+3,2:23,2,9,HOU 40,9,8,Tony Banks pass complete to Andre Johnson for 7 yards (tackle by Nate Clements),1.120,1.360
+3,1:52,3,2,HOU 47,9,8,"Tony Banks pass complete to Billy Miller for 2 yards (tackle by Lawyer Milloy). Penalty on Aaron Schobel: Defensive Offside, 5 yards (no play)",1.360,2.390
+3,1:20,1,10,BUF 48,9,8,Domanick Williams left guard for no gain (tackle by Pat Williams and Takeo Spikes),2.390,1.850
+3,0:40,2,10,BUF 48,9,8,"Tony Banks pass complete to Jabari Holloway for 4 yards (tackle by Takeo Spikes). Penalty on Chester Pitts: Offensive Holding, 10 yards (no play)",1.850,0.500
+3,0:05,2,20,HOU 42,9,8,"Penalty on Tony Banks: Delay of Game, 5 yards (no play)",0.500,-0.180
+Quarter,Time,Down,ToGo,Location,HOU,BUF,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,25,HOU 37,9,8,Tony Banks pass complete to Jabar Gaffney for 17 yards (tackle by London Fletcher),-0.180,1.420
+4,14:21,3,8,BUF 46,9,8,Tony Banks sacked by Terrence McGee for 0 yards,1.420,0.200
+4,13:51,4,8,BUF 46,9,8,"Chad Stanley punts 35 yards, fair catch by Antonio Brown",0.200,0.370
+4,13:41,1,10,BUF 11,9,8,"Travis Henry left end for 9 yards (tackle by Jamie Sharper and Kenny Wright). Penalty on Jonas Jennings: Offensive Holding, 5 yards (no play)",-0.370,-0.570
+4,13:17,1,15,BUF 6,9,8,Drew Bledsoe pass complete to Bobby Shaw for 14 yards (tackle by Marlon McCree),-0.570,0.360
+4,12:36,2,1,BUF 20,9,8,Travis Henry up the middle for 11 yards (tackle by Jamie Sharper and Eric Brown),0.360,1.000
+4,12:00,1,10,BUF 31,9,8,Drew Bledsoe pass complete to Bobby Shaw for 13 yards (tackle by Kenny Wright),1.000,1.860
+4,11:19,1,10,BUF 44,9,8,"Drew Bledsoe pass incomplete intended for Sam Aiken. Penalty on Jonas Jennings: Offensive Holding, 9 yards (no play)",1.860,1.270
+4,11:19,1,19,BUF 35,9,8,Travis Henry right tackle for 8 yards (tackle by Marlon McCree),1.270,1.180
+4,10:34,2,11,BUF 43,9,8,Drew Bledsoe pass complete to Josh Reed for 13 yards (tackle by Jay Foreman),1.180,2.650
+4,9:53,,,,9,8,Timeout #1 by Houston Texans,0.000,2.650
+4,9:53,1,10,HOU 44,9,8,Drew Bledsoe pass incomplete intended for Josh Reed,2.650,2.110
+4,9:47,2,10,HOU 44,9,8,Travis Henry left tackle for 5 yards (tackle by Jay Foreman and Steve Martin),2.110,2.080
+4,8:59,3,5,HOU 39,9,8,Drew Bledsoe pass incomplete intended for Sam Aiken,2.080,0.660
+4,8:53,4,5,HOU 39,9,8,"Brian Moorman punts 22 yards, fair catch by Jabar Gaffney",0.660,0.060
+4,8:45,1,10,HOU 17,9,8,Domanick Williams right guard for 5 yards (tackle by Antoine Winfield and Pat Williams),-0.060,0.210
+4,8:13,2,5,HOU 22,9,8,Domanick Williams left guard for 2 yards (tackle by Takeo Spikes and Lawyer Milloy),0.210,-0.370
+4,7:31,3,3,HOU 24,9,8,Domanick Williams left guard for 18 yards (tackle by Nate Clements and Izell Reese),-0.370,1.730
+4,6:47,1,10,HOU 42,9,8,Tony Banks pass complete to Corey Bradford for 7 yards (tackle by London Fletcher),1.730,2.130
+4,6:02,2,3,HOU 49,9,8,Tony Banks pass complete to Andre Johnson for 42 yards (tackle by Pierson Prioleau),2.130,5.140
+4,5:33,1,9,BUF 9,9,8,Domanick Williams up the middle for no gain (tackle by Sam Adams and London Fletcher),5.140,4.380
+4,4:49,2,9,BUF 9,9,8,Domanick Williams left tackle for -3 yards (tackle by Pat Williams),4.380,3.100
+4,4:04,,,,9,8,Timeout #2 by Houston Texans,0.000,3.100
+4,4:04,3,12,BUF 12,9,8,Tony Banks sacked by Sam Adams for -4 yards,3.100,2.380
+4,3:28,4,16,BUF 16,12,8,Kris Brown 34 yard field goal good,2.380,3.000
+4,,,,HOU 30,12,8,"Kris Brown kicks off 65 yards, returned by Antonio Brown for 26 yards (tackle by Ramon Walker)",0.000,1.000
+4,3:15,1,10,BUF 31,12,8,"Drew Bledsoe sacked by Kailee Wong for -6 yards. Penalty on Jason Simmons: Defensive Holding, 5 yards (no play)",1.000,1.330
+4,3:11,1,10,BUF 36,12,8,Drew Bledsoe pass complete to Josh Reed for 9 yards (tackle by Jamie Sharper),1.330,2.010
+4,2:46,2,1,BUF 45,12,8,Sammy Morris up the middle for 5 yards (tackle by Jay Foreman),2.010,2.260
+4,2:21,1,10,BUF 50,12,8,Drew Bledsoe pass complete to Sam Aiken for 19 yards (tackle by Matt Stevens),2.260,3.510
+4,2:00,1,10,HOU 31,12,8,"Drew Bledsoe sacked by Jamie Sharper for -8 yards. Drew Bledsoe fumbles (forced by Jamie Sharper), recovered by Shantee Orr at HOU-39 (tackle by Sammy Morris)",3.510,-1.470
+,,,,,,,"Replay Assistant challenged the ruling, and the play was upheld.",,
+4,1:51,1,10,HOU 38,12,8,Domanick Williams right tackle for 2 yards (tackle by Antoine Winfield),1.470,1.190
+4,1:44,,,,12,8,Timeout #3 by Buffalo Bills,0.000,1.190
+4,1:44,2,8,HOU 40,12,8,Domanick Williams left guard for 4 yards (tackle by Takeo Spikes and Antoine Winfield),1.190,1.020
+4,0:59,3,4,HOU 44,12,8,"Domanick Williams right guard for 3 yards (tackle by Sam Adams and Lawyer Milloy). Penalty on Seth Wand: Offensive Holding, 10 yards (no play)",1.020,-0.290
+4,0:52,3,14,HOU 34,12,8,Domanick Williams right guard for 5 yards (tackle by Pierson Prioleau and Lawyer Milloy),-0.290,-0.780
+4,0:03,4,9,HOU 39,12,8,"Penalty on Chad Stanley: Delay of Game, 5 yards (no play)",-0.780,-1.110
+4,0:03,4,14,HOU 34,12,10,"Andre Johnson for -34 yards, safety",-1.110,-2.000
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

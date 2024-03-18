@@ -1,0 +1,185 @@
+Quarter,Time,Down,ToGo,Location,NWE,BAL,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Patriots won the coin toss, Patriots to receive the opening kickoff.",,
+1,15:00,,,BAL 30,0,0,"Matt Stover kicks off 70 yards, touchback",0.000,0.280
+1,15:00,1,10,NWE 20,0,0,Tom Brady pass complete short right to Wes Welker for 5 yards (tackle by Samari Rolle),0.280,0.410
+1,14:19,2,5,NWE 25,0,0,Tom Brady pass complete short right to Wes Welker for 7 yards (tackle by Ray Lewis),0.410,1.070
+1,13:43,1,10,NWE 32,0,0,Laurence Maroney right tackle for 1 yard (tackle by Kelly Gregg and Ray Lewis),1.070,0.660
+1,12:57,2,9,NWE 33,0,0,"Tom Brady pass complete deep left to Donte Stallworth for 42 yards (tackle by Samari Rolle). Penalty on Samari Rolle: Face Mask (15 Yards), 13 yards",0.660,4.780
+1,12:32,1,10,BAL 12,0,0,"Laurence Maroney right tackle for 3 yards (tackle by Corey Ivy and Dwan Edwards). Penalty on BAL: Defensive 12 On-field, 5 yards (no play)",4.780,5.930
+1,12:02,1,5,BAL 7,0,0,"Tom Brady sacked by Terrell Suggs for -10 yards. Penalty on Terrell Suggs: Defensive Offside, 4 yards (no play)",5.930,6.840
+1,11:57,1,1,BAL 3,0,0,Laurence Maroney up the middle for 2 yards (tackle by Terrell Suggs and Ray Lewis),6.840,6.970
+1,11:23,1,1,BAL 1,0,0,Tom Brady pass incomplete short right intended for Ben Watson (defended by Ray Lewis),6.970,5.910
+1,11:18,2,1,BAL 1,0,0,Heath Evans right tackle for -2 yards (tackle by Kelly Gregg and Bart Scott),5.910,4.720
+1,10:37,,,,0,0,Timeout #1 by Baltimore Ravens,0.000,4.720
+1,10:37,3,3,BAL 3,0,0,Tom Brady pass incomplete short middle intended for Ben Watson,4.720,3.040
+1,10:28,4,3,BAL 3,3,0,Stephen Gostkowski 21 yard field goal good,3.040,3.000
+1,,,,NWE 30,3,0,"Stephen Gostkowski kicks off 50 yards, returned by Yamon Figurs for 9 yards (tackle by Kelley Washington)",0.000,0.870
+1,10:20,1,10,BAL 29,3,0,Willis McGahee up the middle for 9 yards (tackle by Adalius Thomas),0.870,1.540
+1,9:47,2,1,BAL 38,3,0,Willis McGahee left guard for 7 yards (tackle by Richard Seymour and Mike Vrabel),1.540,1.930
+1,9:47,1,10,BAL 45,3,0,"Penalty on Quinn Sypniewski: False Start, 5 yards (no play)",1.930,1.600
+1,8:58,1,15,BAL 40,3,0,Willis McGahee left guard for 3 yards (tackle by Adalius Thomas and Jarvis Green),1.600,1.110
+1,8:14,2,12,BAL 43,3,0,Kyle Boller pass complete short right to Willis McGahee for 2 yards (tackle by Tedy Bruschi),1.110,0.700
+1,7:31,3,10,BAL 45,3,0,Kyle Boller pass incomplete short middle intended for Mark Clayton (defended by Ellis Hobbs),0.700,-0.390
+1,7:26,4,10,BAL 45,3,0,Sam Koch punts 43 yards,-0.390,0.350
+1,7:10,1,10,NWE 12,3,0,Tom Brady pass incomplete short left intended for Wes Welker,-0.350,-0.780
+1,7:05,2,10,NWE 12,3,0,Laurence Maroney up the middle for 2 yards (tackle by Samari Rolle),-0.780,-1.190
+1,6:18,3,8,NWE 14,3,0,Tom Brady pass incomplete short left intended for Randy Moss (defended by Samari Rolle),-1.190,-2.470
+1,6:14,4,8,NWE 14,3,0,"Chris Hanson punts 41 yards, fair catch by Yamon Figurs. Penalty on Derrick Martin: Unnecessary Roughness, 15 yards",-2.470,-0.940
+1,6:06,1,10,BAL 30,3,0,Willis McGahee left guard for -1 yards (tackle by Richard Seymour and Adalius Thomas),0.940,0.260
+1,5:29,2,11,BAL 29,3,0,Kyle Boller pass incomplete deep left intended for Quinn Sypniewski,0.260,-0.430
+1,5:26,3,11,BAL 29,3,0,Kyle Boller pass complete deep right to Devard Darling for 53 yards (tackle by James Sanders),-0.430,4.370
+1,4:47,,,,3,0,Timeout #2 by Baltimore Ravens,0.000,4.370
+1,4:47,1,10,NWE 18,3,0,Willis McGahee up the middle for 3 yards (tackle by Vince Wilfork),4.370,4.250
+1,4:14,2,7,NWE 15,3,0,Willis McGahee up the middle for 6 yards (tackle by Tedy Bruschi and Ty Warren),4.250,4.740
+1,3:34,3,1,NWE 9,3,0,Willis McGahee right tackle for 1 yard (tackle by Tedy Bruschi and Adalius Thomas),4.740,5.370
+1,2:37,1,8,NWE 8,3,0,Willis McGahee left guard for 1 yard (tackle by Tedy Bruschi and Jarvis Green),5.370,4.760
+1,2:00,2,7,NWE 7,3,0,Kyle Boller pass complete short right to Derrick Mason for 3 yards (tackle by Mike Vrabel),4.760,4.490
+1,1:23,3,4,NWE 4,3,6,"Kyle Boller pass complete short middle to Derrick Mason for 4 yards, touchdown",4.490,7.000
+1,,,,NWE 2,3,7,Matt Stover kicks extra point good,0.000,0.000
+1,,,,BAL 30,3,7,"Matt Stover kicks off 55 yards, returned by Ellis Hobbs for 12 yards",0.000,0.740
+1,1:12,1,10,NWE 27,3,7,Tom Brady sacked by Corey Ivy for -6 yards,0.740,-0.610
+1,0:35,2,16,NWE 21,3,7,Laurence Maroney left guard for 5 yards (tackle by Haloti Ngata and Dawan Landry),-0.610,-0.620
+Quarter,Time,Down,ToGo,Location,NWE,BAL,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,11,NWE 26,3,7,Tom Brady pass incomplete short right intended for Jabar Gaffney. Penalty on Logan Mankins: Offensive Holding (Declined),-0.620,-1.630
+2,14:53,4,11,NWE 26,3,7,Chris Hanson punts 40 yards,-1.630,-1.200
+2,14:42,1,10,BAL 34,3,7,Willis McGahee right guard for 3 yards (tackle by Vince Wilfork),1.200,1.060
+2,14:04,2,7,BAL 37,3,7,Kyle Boller pass complete short right to Derrick Mason for 15 yards (tackle by Asante Samuel),1.060,2.390
+2,13:26,1,10,NWE 48,3,7,Willis McGahee left guard for 2 yards (tackle by Adalius Thomas),2.390,2.120
+2,12:48,2,8,NWE 46,3,7,Willis McGahee up the middle for 15 yards (tackle by James Sanders and Adalius Thomas),2.120,3.510
+2,12:04,1,10,NWE 31,3,7,Willis McGahee right tackle for 1 yard (tackle by Ty Warren),3.510,3.100
+2,11:29,2,9,NWE 30,3,7,Kyle Boller pass incomplete deep left intended for Derrick Mason,3.100,2.410
+2,11:29,3,9,NWE 30,3,7,Musa Smith right guard for 3 yards (tackle by Mike Vrabel and Ty Warren),2.410,1.700
+2,10:40,4,6,NWE 27,3,7,Kyle Boller pass complete short left to Derrick Mason for 12 yards,1.700,4.580
+2,10:11,1,10,NWE 15,3,7,Kyle Boller pass incomplete short right intended for Daniel Wilcox,4.580,3.950
+2,10:06,2,10,NWE 15,3,7,Willis McGahee right guard for 1 yard (tackle by Tedy Bruschi and Vince Wilfork),3.950,3.240
+2,9:25,3,9,NWE 14,3,7,Kyle Boller pass complete short left to Daniel Wilcox for 3 yards (tackle by Ellis Hobbs),3.240,2.720
+2,8:49,4,6,NWE 11,3,10,Matt Stover 29 yard field goal good,2.720,3.000
+2,,,,BAL 30,3,10,"Matt Stover kicks off 43 yards, returned by Heath Evans for 13 yards (tackle by Justin Green)",0.000,1.600
+2,8:39,1,10,NWE 40,3,10,Kevin Faulk right tackle for 7 yards (tackle by Corey Ivy),1.600,2.000
+2,8:11,2,3,NWE 47,3,10,Tom Brady pass complete short left to Donte Stallworth for 18 yards (tackle by Samari Rolle),2.000,3.250
+2,7:50,1,10,BAL 35,3,10,Tom Brady pass complete short left to Donte Stallworth for 8 yards,3.250,3.780
+2,7:25,2,2,BAL 27,3,10,Kevin Faulk left guard for 6 yards (tackle by Kelly Gregg and Bart Scott),3.780,4.170
+2,6:54,1,10,BAL 21,3,10,Tom Brady pass incomplete deep right intended for Randy Moss,4.170,3.630
+2,6:47,2,10,BAL 21,3,10,Tom Brady pass complete short right to Wes Welker for 6 yards (tackle by Corey Ivy),3.630,3.810
+2,6:12,3,4,BAL 15,3,10,"Tom Brady pass incomplete short right intended for Randy Moss. Penalty on Corey Ivy: Defensive Holding, 5 yards (no play)",3.810,4.910
+2,6:08,1,10,BAL 10,3,10,Tom Brady pass complete short right to Randy Moss for 6 yards (tackle by Ed Reed),4.910,5.340
+2,5:32,2,4,BAL 4,3,10,"Tom Brady pass incomplete short middle intended for Randy Moss. Penalty on Chris McAlister: Defensive Pass Interference, 3 yards (no play)",5.340,6.970
+2,5:29,1,1,BAL 1,3,10,Tom Brady pass incomplete short middle intended for Mike Vrabel,6.970,5.910
+2,5:24,2,1,BAL 1,9,10,"Heath Evans left guard for 1 yard, touchdown",5.910,7.000
+2,,,,BAL 2,10,10,Stephen Gostkowski kicks extra point good,0.000,0.000
+2,,,,NWE 30,10,10,"Stephen Gostkowski kicks off 71 yards, returned by Yamon Figurs for 23 yards (tackle by Pierre Woods)",0.000,0.410
+2,5:16,1,10,BAL 22,10,10,Willis McGahee up the middle for 5 yards (tackle by Tedy Bruschi and James Sanders),0.410,0.540
+2,4:40,2,5,BAL 27,10,10,Willis McGahee left guard for 2 yards (tackle by Tedy Bruschi),0.540,0.100
+2,3:59,3,3,BAL 29,10,10,Kyle Boller pass incomplete short right intended for Derrick Mason (defended by Randall Gay),0.100,-1.440
+2,3:51,4,3,BAL 29,10,10,"Sam Koch punts 39 yards, returned by Wes Welker for 1 yard (tackle by Daniel Wilcox)",-1.440,-1.140
+2,3:40,1,10,NWE 33,10,10,Kevin Faulk up the middle for 5 yards (tackle by Bart Scott and Kelly Gregg),1.140,1.270
+2,3:16,2,5,NWE 38,10,10,Tom Brady pass incomplete deep middle intended for Ben Watson,1.270,0.560
+2,3:11,3,5,NWE 38,10,10,Tom Brady pass complete short right to Ben Watson for 3 yards (tackle by Jamaine Winborne),0.560,-0.650
+2,2:26,4,2,NWE 41,10,10,"Chris Hanson punts 49 yards, returned by Yamon Figurs for 2 yards (tackle by Eric Alexander)",-0.650,0.350
+2,2:14,1,10,BAL 12,10,10,Musa Smith up the middle for 8 yards (tackle by Junior Seau),-0.350,0.290
+2,2:00,2,2,BAL 20,10,10,Musa Smith right guard for no gain (tackle by Tedy Bruschi and Ty Warren),0.290,-0.480
+2,1:19,3,2,BAL 20,10,10,Musa Smith right guard for -2 yards (tackle by Junior Seau),-0.480,-2.240
+2,1:13,,,,10,10,Timeout #1 by New England Patriots,0.000,-2.240
+2,1:13,4,4,BAL 18,10,10,"Sam Koch punts 46 yards, fair catch by Wes Welker",-2.240,-1.330
+2,1:04,1,10,NWE 36,10,10,Tom Brady pass incomplete deep right intended for Randy Moss (defended by Ed Reed),1.330,0.790
+2,0:56,2,10,NWE 36,10,10,"Tom Brady pass incomplete deep middle intended for Wes Welker is intercepted by Ed Reed at BAL-40 and returned for 33 yards (tackle by Kevin Faulk). Ed Reed fumbles (forced by Kevin Faulk), recovered by Ben Watson at NWE-28 (tackle by Ed Reed)",0.790,0.810
+2,0:41,1,10,NWE 28,10,10,Laurence Maroney right tackle for 6 yards (tackle by Jamaine Winborne and Terrell Suggs),0.810,1.070
+2,0:11,2,4,NWE 34,10,10,Laurence Maroney right guard for 3 yards (tackle by Haloti Ngata),1.070,0.760
+Quarter,Time,Down,ToGo,Location,NWE,BAL,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,NWE 30,10,10,"Stephen Gostkowski kicks off 60 yards, returned by Yamon Figurs for 17 yards (tackle by Eric Alexander)",0.000,0.740
+3,14:56,1,10,BAL 27,10,10,Willis McGahee left end for 11 yards (tackle by Junior Seau and Rodney Harrison),0.740,1.470
+3,14:16,1,10,BAL 38,10,10,Willis McGahee up the middle for 8 yards (tackle by Rodney Harrison),1.470,2.000
+3,13:35,2,2,BAL 46,10,10,Willis McGahee left tackle for 3 yards (tackle by Vince Wilfork),2.000,2.190
+3,12:54,1,10,BAL 49,10,10,Kyle Boller for 4 yards (tackle by Richard Seymour),2.190,2.190
+3,12:14,2,6,NWE 47,10,10,Willis McGahee left guard for 8 yards (tackle by Junior Seau),2.190,2.980
+3,11:36,1,10,NWE 39,10,10,Willis McGahee up the middle for 1 yard (tackle by Junior Seau),2.980,2.580
+3,10:59,2,9,NWE 38,10,10,Kyle Boller pass complete short right to Derrick Mason for 21 yards (tackle by Asante Samuel),2.580,4.440
+3,10:12,1,10,NWE 17,10,16,"Willis McGahee left guard for 17 yards, touchdown",4.440,7.000
+3,,,,NWE 2,10,17,Matt Stover kicks extra point good,0.000,0.000
+3,,,,BAL 30,10,17,"Matt Stover kicks off 63 yards, returned by Ellis Hobbs for 21 yards (tackle by Antwan Barnes)",0.000,0.810
+3,10:00,1,10,NWE 28,10,17,Laurence Maroney up the middle for 2 yards (tackle by Haloti Ngata and Terrell Suggs),0.810,0.530
+3,9:22,2,8,NWE 30,10,17,Tom Brady pass complete short middle to Laurence Maroney for 36 yards (tackle by Dawan Landry),0.530,3.310
+3,8:42,1,10,BAL 34,10,17,Laurence Maroney up the middle for 4 yards (tackle by Haloti Ngata),3.310,3.310
+3,8:15,2,6,BAL 30,10,17,Laurence Maroney up the middle for 4 yards (tackle by Haloti Ngata and Ray Lewis),3.310,3.140
+3,7:41,3,2,BAL 26,10,17,Laurence Maroney up the middle for 1 yard (tackle by Ray Lewis),3.140,1.950
+3,7:08,4,1,BAL 25,10,17,Kevin Faulk right tackle for 2 yards (tackle by Kelly Gregg and Dawan Landry),1.950,4.040
+3,6:28,1,10,BAL 23,10,17,Tom Brady pass complete short right to Kyle Brady for 6 yards (tackle by Bart Scott),4.040,4.380
+3,5:54,2,4,BAL 17,10,17,Kevin Faulk left guard for 5 yards (tackle by Bart Scott),4.380,4.780
+3,5:24,1,10,BAL 12,10,17,Kevin Faulk right guard for 3 yards (tackle by Bart Scott and Ed Reed),4.780,4.640
+3,4:41,2,7,BAL 9,10,17,Tom Brady pass complete short right to Randy Moss for 6 yards (tackle by Chris McAlister),4.640,5.060
+3,4:29,,,,10,17,Timeout #1 by Baltimore Ravens,0.000,5.060
+3,4:29,3,1,BAL 3,16,17,"Tom Brady pass complete short middle to Randy Moss for 3 yards, touchdown",5.060,7.000
+3,,,,BAL 2,17,17,Stephen Gostkowski kicks extra point good,0.000,0.000
+3,,,,NWE 30,17,17,"Stephen Gostkowski kicks off 64 yards, returned by Yamon Figurs for 38 yards (tackle by Stephen Gostkowski)",0.000,1.860
+3,4:15,1,10,BAL 44,17,17,Willis McGahee left end for 18 yards (tackle by Junior Seau),1.860,3.050
+3,3:28,1,10,NWE 38,17,17,Kyle Boller pass complete short left to Willis McGahee for 11 yards (tackle by Tedy Bruschi),3.050,3.780
+3,2:44,1,10,NWE 27,17,17,Musa Smith left end for 9 yards (tackle by Ellis Hobbs),3.780,4.530
+3,2:02,2,1,NWE 18,17,17,Musa Smith up the middle for 6 yards (tackle by Richard Seymour and Tedy Bruschi),4.530,4.780
+3,1:23,1,10,NWE 12,17,17,Willis McGahee left end for 8 yards (tackle by Ellis Hobbs),4.780,5.600
+3,0:43,2,2,NWE 4,17,17,Willis McGahee up the middle for 2 yards (tackle by Rodney Harrison and Tedy Bruschi),5.600,6.740
+Quarter,Time,Down,ToGo,Location,NWE,BAL,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,2,NWE 2,17,17,Willis McGahee up the middle for 1 yard (tackle by Richard Seymour),6.740,5.910
+4,14:29,2,1,NWE 1,17,23,"Kyle Boller pass complete short middle to Daniel Wilcox for 1 yard, touchdown",5.910,7.000
+4,,,,NWE 2,17,24,Matt Stover kicks extra point good,0.000,0.000
+4,,,,BAL 30,17,24,"Matt Stover kicks off 66 yards, returned by Ellis Hobbs for 27 yards (tackle by Jamaine Winborne)",0.000,1.000
+4,14:17,1,10,NWE 31,17,24,Laurence Maroney right guard for 4 yards (tackle by Kelly Gregg),1.000,1.000
+4,13:36,2,6,NWE 35,17,24,Tom Brady sacked by Haloti Ngata for -6 yards,1.000,-0.490
+4,13:06,3,12,NWE 29,17,24,Tom Brady sacked by Antwan Barnes for -9 yards,-0.490,-2.030
+4,12:37,4,21,NWE 20,17,24,"Chris Hanson punts 44 yards, returned by Yamon Figurs for 33 yards (tackle by Kyle Eckel). Penalty on Pierre Woods: Ineligible Downfield Kick, 5 yards",-2.030,-3.840
+4,12:21,1,10,NWE 26,17,24,Willis McGahee right end for no gain (tackle by James Sanders),3.840,3.300
+4,11:42,2,10,NWE 26,17,24,Willis McGahee up the middle for 1 yard (tackle by Rodney Harrison),3.300,2.740
+4,10:59,3,9,NWE 25,17,24,"Penalty on Daniel Wilcox: False Start, 5 yards (no play)",2.740,2.080
+4,10:37,3,14,NWE 30,17,24,Kyle Boller pass incomplete deep middle intended for Devard Darling is intercepted by James Sanders at NWE-1 and returned for 42 yards (tackle by Musa Smith),2.080,-1.800
+4,10:22,1,10,NWE 43,17,24,"Tom Brady pass incomplete short middle intended for Wes Welker (defended by Kelly Gregg). Penalty on Kyle Brady: Offensive Pass Interference, 10 yards (no play)",1.800,1.140
+4,10:18,1,20,NWE 33,17,24,Tom Brady pass complete short left to Laurence Maroney for 43 yards (tackle by Dawan Landry),1.140,3.970
+4,9:39,1,10,BAL 24,17,24,Laurence Maroney up the middle for 4 yards (tackle by Ray Lewis),3.970,3.970
+4,8:56,2,6,BAL 20,17,24,Tom Brady pass incomplete deep right intended for Randy Moss,3.970,3.270
+4,8:51,3,6,BAL 20,17,24,Tom Brady pass incomplete short left intended for Kyle Brady (defended by Jamaine Winborne),3.270,2.150
+4,8:46,4,6,BAL 20,20,24,Stephen Gostkowski 38 yard field goal good,2.150,3.000
+4,,,,NWE 30,20,24,"Stephen Gostkowski kicks off 59 yards, returned by Yamon Figurs for 17 yards (tackle by Mel Mitchell)",0.000,0.810
+4,8:37,1,10,BAL 28,20,24,Willis McGahee left guard for 2 yards (tackle by Vince Wilfork and Mike Vrabel),0.810,0.530
+4,7:59,2,8,BAL 30,20,24,Willis McGahee left end for -1 yards (tackle by Rodney Harrison),0.530,-0.300
+4,7:21,3,9,BAL 29,20,24,Kyle Boller pass incomplete short middle intended for Mark Clayton,-0.300,-1.440
+4,7:15,4,9,BAL 29,20,24,"Sam Koch punts 27 yards, fair catch by Kevin Faulk",-1.440,-1.860
+4,7:09,1,10,NWE 44,20,24,Tom Brady pass complete deep right to Randy Moss for 19 yards (tackle by Ray Lewis),1.860,3.120
+4,6:37,1,10,BAL 37,20,24,Laurence Maroney up the middle for 6 yards (tackle by Kelly Gregg),3.120,3.380
+4,6:10,2,4,BAL 31,20,24,"Laurence Maroney up the middle for 5 yards (tackle by Haloti Ngata). Penalty on Dan Koppen: Offensive Holding, 10 yards (no play)",3.380,2.030
+4,5:42,2,14,BAL 41,20,24,Tom Brady pass incomplete short right intended for Ben Watson. Penalty on Nick Kaczur: Ineligible Downfield Pass (Declined),2.030,1.360
+4,5:33,3,14,BAL 41,20,24,Tom Brady pass incomplete short left intended for Wes Welker,1.360,0.530
+4,5:33,4,14,BAL 41,20,24,Chris Hanson punts 13 yards,0.530,-0.810
+4,5:21,1,10,BAL 28,20,24,Kyle Boller pass complete short left to Willis McGahee for 7 yards (tackle by Tedy Bruschi),0.810,1.210
+4,4:38,2,3,BAL 35,20,24,Willis McGahee left guard for 1 yard (tackle by Vince Wilfork),1.210,0.630
+4,3:54,3,2,BAL 36,20,24,Kyle Boller pass complete short right to Willis McGahee for 1 yard (tackle by Rodney Harrison),0.630,-0.910
+4,3:41,,,,20,24,Timeout #1 by New England Patriots,0.000,-0.910
+4,3:41,4,1,BAL 37,20,24,Sam Koch punts 36 yards,-0.910,-0.740
+4,3:30,1,10,NWE 27,20,24,Tom Brady pass incomplete deep left intended for Donte Stallworth (defended by Samari Rolle),0.740,0.200
+4,3:25,2,10,NWE 27,20,24,Tom Brady pass complete deep middle to Ben Watson for 23 yards (tackle by Jamaine Winborne),0.200,2.260
+4,2:51,1,10,NWE 50,20,24,Tom Brady pass incomplete short right intended for Kevin Faulk,2.260,1.710
+4,2:47,2,10,NWE 50,20,24,Tom Brady pass complete short left to Kevin Faulk for 9 yards (tackle by Bart Scott),1.710,2.210
+4,2:22,3,1,BAL 41,20,24,Tom Brady up the middle for 2 yards (tackle by Bart Scott),2.210,2.980
+4,2:01,1,10,BAL 39,20,24,Tom Brady pass incomplete deep middle intended for Ben Watson (defended by Jamaine Winborne),2.980,2.440
+4,1:57,2,10,BAL 39,20,24,Tom Brady pass incomplete short middle intended for Wes Welker,2.440,1.750
+4,1:53,3,10,BAL 39,20,24,Tom Brady pass complete short left to Kevin Faulk for 9 yards,1.750,1.520
+4,1:48,,,,20,24,Timeout #2 by Baltimore Ravens,0.000,1.520
+4,1:48,4,1,BAL 30,20,24,"Heath Evans up the middle for -1 yards. Penalty on Russ Hochstein: False Start, 5 yards (no play)",1.520,0.970
+4,1:48,4,6,BAL 35,20,24,"Tom Brady up the middle for 12 yards (tackle by Ray Lewis). Penalty on Samari Rolle: Illegal Contact, 5 yards",0.970,4.370
+4,1:38,1,10,BAL 18,20,24,Kevin Faulk up the middle for 5 yards (tackle by Haloti Ngata),4.370,4.610
+4,1:06,2,5,BAL 13,20,24,Tom Brady pass incomplete short middle intended for Wes Welker (defended by Ray Lewis),4.610,3.820
+4,1:00,3,5,BAL 13,20,24,Tom Brady pass incomplete short left intended for Wes Welker,3.820,2.620
+4,0:55,,,,20,24,Timeout #2 by New England Patriots,0.000,2.620
+4,0:55,4,5,BAL 13,20,24,"Tom Brady pass incomplete short middle intended for Ben Watson. Penalty on Jamaine Winborne: Defensive Holding, 5 yards (no play)",2.620,5.370
+4,0:55,1,8,BAL 8,26,24,"Tom Brady pass complete short left to Jabar Gaffney for 8 yards, touchdown. Penalty on Bart Scott: Unsportsmanlike Conduct, 15 yards, Penalty on Bart Scott: Unsportsmanlike Conduct, 15 yards",5.370,7.000
+,,,,,,,"Replay Assistant challenged the pass completion ruling, and the play was upheld.",,
+4,,,,BAL 2,27,24,"Stephen Gostkowski kicks extra point good. Penalty on Ed Reed: Defensive Offside, 5 yards",0.000,0.000
+4,,,,BAL 35,27,24,"Stephen Gostkowski kicks off 35 yards, touchback",0.000,0.280
+4,0:43,1,10,BAL 20,27,24,Kyle Boller pass complete short middle to Musa Smith for 13 yards (tackle by Asante Samuel),0.280,1.140
+4,0:18,1,10,BAL 33,27,24,Kyle Boller pass complete short middle to Derrick Mason for 12 yards (tackle by Randall Gay),1.140,1.930
+4,0:14,,,,27,24,Timeout #3 by Baltimore Ravens,0.000,0.000
+4,0:14,,,,27,24,Timeout #3 by New England Patriots,0.000,1.930
+4,0:13,1,10,BAL 45,27,24,Kyle Boller pass incomplete deep middle intended for Derrick Mason (defended by Brandon Meriweather),1.930,1.380
+4,0:08,2,10,BAL 45,27,24,Kyle Boller pass complete deep right to Mark Clayton for 52 yards (tackle by Eric Alexander),1.380,6.510
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

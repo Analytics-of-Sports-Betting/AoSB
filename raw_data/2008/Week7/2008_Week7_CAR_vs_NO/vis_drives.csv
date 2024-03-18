@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,9:11,NOR 20,8,3:15,32,Punt
+2,1,4:18,NOR 22,9,4:20,78,Touchdown
+3,2,13:14,NOR 31,4,1:09,12,Fumble
+4,2,9:58,NOR 26,6,3:36,22,Punt
+5,2,3:28,NOR 33,6,2:30,15,Punt
+6,3,15:00,NOR 31,3,1:05,8,Punt
+7,3,12:39,NOR 20,4,3:14,15,Punt
+8,3,7:42,NOR 24,2,0:49,3,Interception
+9,3,3:58,NOR 29,5,1:44,34,Downs
+10,4,14:47,NOR 20,8,3:20,78,Downs
+11,4,1:57,NOR 20,7,1:57,56,End of Game

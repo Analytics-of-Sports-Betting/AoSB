@@ -1,0 +1,167 @@
+Quarter,Time,Down,ToGo,Location,CLE,PIT,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Steelers won the coin toss, Steelers to receive the opening kickoff.",,
+1,15:00,,,CLE 30,0,0,"Phil Dawson kicks off 57 yards, returned by Sean Morey for 22 yards (tackle by Josh Cribbs)",0.000,1.270
+1,14:54,1,10,PIT 35,0,0,Willie Parker middle for 2 yards (tackle by Andra Davis and Simon Fraser),1.270,0.990
+1,14:24,2,8,PIT 37,0,0,Willie Parker right tackle for 4 yards (tackle by Andra Davis),0.990,0.830
+1,13:44,3,4,PIT 41,0,0,Ben Roethlisberger pass complete short right to Santonio Holmes for 17 yards (tackle by Sean Jones),0.830,2.790
+1,13:03,1,10,CLE 42,0,0,Ben Roethlisberger pass incomplete short left intended for Heath Miller,2.790,2.240
+1,12:59,2,10,CLE 42,0,0,"Ben Roethlisberger pass complete short right to Sean Morey for 12 yards (tackle by Brodney Pool). Penalty on Sean Morey: Offensive Pass Interfere, 10 yards (no play)",2.240,0.890
+1,12:32,2,20,PIT 48,0,0,Ben Roethlisberger pass incomplete short right intended for Sean Morey (defended by Daven Holly),0.890,0.230
+1,12:27,3,20,PIT 48,0,0,Ben Roethlisberger pass incomplete deep right intended for Nate Washington,0.230,-0.190
+1,12:22,4,20,PIT 48,0,0,"Chris Gardocki punts 31 yards, returned by Dennis Northcutt for no gain. Penalty on Darnell Dinkins: Illegal Block Above the , 10 yards",-0.190,0.370
+1,12:10,1,10,CLE 11,0,0,Derek Anderson pass complete deep middle to Joe Jurevicius for 16 yards (tackle by Larry Foote and Anthony Smith),-0.370,0.740
+1,11:35,1,10,CLE 27,0,0,Lawrence Vickers right guard for 2 yards (tackle by Bryant McFadden and Joey Porter),0.740,0.470
+1,10:48,2,8,CLE 29,0,0,Derek Anderson pass complete short left to Braylon Edwards for 4 yards (tackle by Bryant McFadden and Joey Porter),0.470,0.300
+1,10:11,3,4,CLE 33,0,0,Derek Anderson pass complete short right to Joe Jurevicius for 18 yards (tackle by Tyrone Carter and Deshea Townsend),0.300,2.320
+1,9:47,1,10,PIT 49,0,0,Derek Anderson pass complete short left to Kellen Winslow for 2 yards (tackle by Larry Foote),2.320,2.050
+1,9:12,2,8,PIT 47,0,0,Reuben Droughns right guard for 5 yards (tackle by Joey Porter and Tyrone Carter),2.050,2.020
+1,8:29,3,3,PIT 42,0,0,Terrelle Smith middle for 1 yard (tackle by Clark Haggans and James Farrior),2.020,0.530
+1,7:45,4,2,PIT 41,0,0,Dave Zastudil punts 38 yards,0.530,0.380
+1,7:32,1,10,PIT 3,0,0,Willie Parker right guard for 3 yards (tackle by Ted Washington and Simon Fraser),-0.380,-0.560
+1,6:55,2,7,PIT 6,0,0,Ben Roethlisberger pass complete short right to Dan Kreider for 6 yards (tackle by Willie McGinest and Leigh Bodden),-0.560,-0.370
+1,6:13,,,,0,0,Timeout #1 by Pittsburgh Steelers,0.000,-0.370
+1,6:13,3,1,PIT 12,0,0,Willie Parker left guard for 6 yards (tackle by Alvin McKinley and Kamerion Wimbley),-0.370,0.040
+1,5:38,1,10,PIT 18,0,0,Willie Parker right end for 11 yards (tackle by Justin Hamilton),0.040,0.870
+1,5:11,1,10,PIT 29,0,0,Willie Parker right tackle for 4 yards (tackle by Ted Washington),0.870,0.870
+1,4:37,2,6,PIT 33,0,0,Willie Parker left end for 2 yards (tackle by Alvin McKinley and D'Qwell Jackson),0.870,0.430
+1,3:51,3,4,PIT 35,0,0,Ben Roethlisberger pass complete short left to Santonio Holmes for 16 yards (tackle by Daven Holly),0.430,2.320
+1,3:26,1,10,CLE 49,0,6,"Ben Roethlisberger pass complete deep right to Nate Washington for 49 yards, touchdown",2.320,7.000
+1,,,,CLE 2,0,7,Jeff Reed kicks extra point good,0.000,0.000
+1,,,,PIT 30,0,7,"Jeff Reed kicks off 52 yards, returned by Josh Cribbs for 6 yards (tackle by Mike Logan)",0.000,0.540
+1,3:13,1,10,CLE 24,0,7,Derek Anderson pass incomplete short right intended for Braylon Edwards (defended by Anthony Smith),0.540,0.000
+1,3:07,2,10,CLE 24,0,7,Derek Anderson pass complete short right to Braylon Edwards for 6 yards (tackle by Deshea Townsend),0.000,0.100
+1,2:27,3,4,CLE 30,0,7,Derek Anderson pass incomplete short left intended for Dennis Northcutt,0.100,-1.370
+1,2:22,4,4,CLE 30,0,7,"Dave Zastudil punts 54 yards, returned by Santonio Holmes for 18 yards (tackle by Josh Cribbs). Penalty on James Harrison: Running Into the Kicker, 5 yards (no play)",-1.370,1.270
+1,2:10,1,10,CLE 35,0,7,Derek Anderson pass complete short right to Reuben Droughns for 15 yards (tackle by Anthony Smith),1.270,2.260
+1,1:29,1,10,CLE 50,0,7,"Jason Wright left guard for 3 yards (tackle by Larry Foote and Clark Haggans). Penalty on Cosey Coleman: Offensive Holding, 10 yards (no play)",2.260,1.600
+1,1:05,1,20,CLE 40,0,7,Derek Anderson pass incomplete short left intended for Kellen Winslow,1.600,0.360
+1,1:01,2,20,CLE 40,0,7,Derek Anderson pass complete short right to Steve Heiden for 13 yards (tackle by Clark Haggans),0.360,1.420
+1,0:15,3,7,PIT 47,0,7,Derek Anderson pass incomplete short left intended for Braylon Edwards (defended by Bryant McFadden),1.420,0.130
+1,0:11,4,7,PIT 47,0,7,"Dave Zastudil punts 30 yards, fair catch by Santonio Holmes",0.130,0.060
+1,0:03,1,10,PIT 17,0,7,Willie Parker left tackle for 1 yard (tackle by D'Qwell Jackson and Alvin McKinley),-0.060,-0.420
+Quarter,Time,Down,ToGo,Location,CLE,PIT,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,9,PIT 18,0,7,Ben Roethlisberger pass incomplete short left intended for Willie Parker,-0.420,-1.130
+2,14:58,3,9,PIT 18,0,7,Ben Roethlisberger pass complete short right to Walter Young for 17 yards (tackle by Andra Davis),-1.130,1.270
+2,14:22,1,10,PIT 35,0,7,Ben Roethlisberger pass incomplete short right intended for Heath Miller. Penalty on Kendall Simmons: Ineligible Downfield Pas (Declined),1.270,0.720
+2,14:16,2,10,PIT 35,0,7,Willie Parker right tackle for 1 yard (tackle by Simon Fraser and Ted Washington),0.720,0.170
+2,13:34,3,9,PIT 36,0,7,Ben Roethlisberger pass complete short left to Sean Morey for 15 yards (tackle by Leigh Bodden and Andra Davis),0.170,2.320
+2,12:52,1,10,CLE 49,0,7,Willie Parker right guard for 8 yards (tackle by Leigh Bodden),2.320,2.860
+2,12:11,2,2,CLE 41,0,7,Willie Parker middle for 2 yards (tackle by Ted Washington and Simon Fraser),2.860,2.980
+2,11:36,1,10,CLE 39,0,7,Ben Roethlisberger pass complete deep left to Nate Washington for 18 yards (tackle by Daven Holly),2.980,4.170
+2,10:55,1,10,CLE 21,0,7,Ben Roethlisberger pass incomplete deep middle intended for Nate Washington,4.170,3.630
+2,10:50,2,10,CLE 21,0,7,Willie Parker middle for 12 yards (tackle by Kamerion Wimbley and Sean Jones),3.630,5.140
+2,10:07,1,9,CLE 9,0,7,Willie Parker right guard for 4 yards (tackle by Willie McGinest),5.140,5.150
+2,9:25,2,5,CLE 5,0,7,Ben Roethlisberger pass incomplete short middle intended for Nate Washington,5.150,4.260
+2,9:21,3,5,CLE 5,0,7,Ben Roethlisberger pass incomplete short middle intended for Heath Miller,4.260,3.010
+2,9:18,4,5,CLE 5,0,10,Jeff Reed 23 yard field goal good,3.010,3.000
+2,,,,PIT 30,0,10,"Jeff Reed kicks off 55 yards, returned by Josh Cribbs for 11 yards (tackle by James Harrison)",0.000,0.670
+2,9:10,1,10,CLE 26,0,10,Reuben Droughns left end for -3 yards (tackle by Joey Porter and James Farrior),0.670,-0.280
+2,8:30,2,13,CLE 23,0,10,Reuben Droughns middle for 3 yards (tackle by James Farrior),-0.280,-0.560
+2,7:44,3,10,CLE 26,0,10,Derek Anderson pass complete short right to Kellen Winslow for 6 yards (tackle by Tyrone Carter and Aaron Smith),-0.560,-1.240
+2,7:03,4,4,CLE 32,0,10,"Dave Zastudil punts 47 yards, returned by Santonio Holmes for 18 yards (tackle by Ryan Pontbriand)",-1.240,-1.530
+2,6:48,1,10,PIT 39,0,10,Ben Roethlisberger pass incomplete deep middle intended for Santonio Holmes,1.530,0.990
+2,6:41,2,10,PIT 39,0,10,"Willie Parker right guard for 20 yards (tackle by Leigh Bodden). Willie Parker fumbles (forced by Leigh Bodden), recovered by Kamerion Wimbley at CLE-36 (tackle by Max Starks)",0.990,-1.330
+2,6:28,1,10,CLE 36,0,10,Derek Anderson pass incomplete short left intended for Jason Wright,1.330,0.790
+2,6:25,2,10,CLE 36,0,10,Derek Anderson pass complete short right to Steve Heiden for 8 yards (tackle by James Farrior),0.790,1.160
+2,5:40,3,2,CLE 44,0,10,"Derek Anderson middle for 4 yards (tackle by Aaron Smith). Derek Anderson fumbles (forced by Aaron Smith), recovered by Aaron Smith at CLE-48 (tackle by Derek Anderson)",1.160,-2.390
+,,,,,,,"PIT challenged the ruling, and the original play was overturned.",,
+2,5:37,1,10,CLE 48,0,10,Willie Parker right guard for 26 yards (tackle by Leigh Bodden),2.390,4.110
+2,4:56,1,10,CLE 22,0,10,Willie Parker middle for 4 yards (tackle by Ted Washington),4.110,4.130
+2,4:16,2,6,CLE 18,0,10,Willie Parker right guard for 1 yard (tackle by Willie McGinest and Simon Fraser),4.130,3.560
+2,3:32,3,5,CLE 17,0,10,Ben Roethlisberger pass incomplete short right intended for Santonio Holmes,3.560,2.360
+2,3:27,4,5,CLE 17,0,10,"Jeff Reed 35 yard field goal no good, blocked by Alvin McKinley",2.360,-0.610
+2,3:18,1,10,CLE 25,0,10,Jason Wright right guard for 1 yard (tackle by James Farrior),0.610,0.200
+2,2:40,2,9,CLE 26,0,10,Derek Anderson pass incomplete deep left intended for Darnell Dinkins (defended by Tyrone Carter),0.200,-0.490
+2,2:34,3,9,CLE 26,0,10,Derek Anderson pass incomplete short left intended for Dennis Northcutt,-0.490,-1.630
+2,2:29,4,9,CLE 26,0,10,"Dave Zastudil punts 44 yards, returned by Santonio Holmes for 5 yards (tackle by Josh Cribbs)",-1.630,-1.270
+2,2:17,1,10,PIT 35,0,10,"Najeh Davenport left tackle for 3 yards (tackle by Andra Davis). Najeh Davenport fumbles (forced by Andra Davis), recovered by Santonio Holmes at PIT-27",1.270,-0.360
+2,2:00,2,18,PIT 27,0,10,Willie Parker right tackle for 3 yards (tackle by Kamerion Wimbley and Nick Eason),-0.360,-0.630
+2,1:55,,,,0,10,Timeout #1 by Cleveland Browns,0.000,-0.630
+2,1:55,3,15,PIT 30,0,10,Najeh Davenport middle for 13 yards (tackle by Andra Davis and Kamerion Wimbley),-0.630,-0.520
+2,1:47,,,,0,10,Timeout #2 by Cleveland Browns,0.000,-0.520
+2,1:47,4,2,PIT 43,0,10,"Chris Gardocki punts 35 yards, returned by Dennis Northcutt for 7 yards (tackle by James Harrison). Penalty on Chaun Thompson: Illegal Block Above the , 10 yards",-0.520,-0.150
+2,1:37,1,10,CLE 19,0,10,Derek Anderson pass incomplete short left intended for Joe Jurevicius,0.150,-0.390
+2,1:33,2,10,CLE 19,0,10,Derek Anderson pass complete short left to Dennis Northcutt for 12 yards (tackle by Ike Taylor),-0.390,1.000
+2,1:05,1,10,CLE 31,0,10,Derek Anderson pass complete short right to Kellen Winslow for 6 yards (tackle by Clark Haggans),1.000,1.270
+2,0:47,2,4,CLE 37,0,10,Derek Anderson pass incomplete short right intended for Dennis Northcutt,1.270,0.560
+2,0:33,3,4,CLE 37,0,10,Derek Anderson pass complete short middle to Joe Jurevicius for 9 yards (tackle by Tyrone Carter),0.560,1.990
+2,0:33,,,,0,10,Timeout #3 by Cleveland Browns,0.000,1.990
+2,0:33,1,10,CLE 46,0,10,Derek Anderson pass complete short left to Joe Jurevicius for 27 yards (tackle by Joey Porter),1.990,3.780
+2,0:25,1,10,PIT 27,0,10,Derek Anderson pass complete short right to Kellen Winslow for 5 yards (tackle by Clark Haggans and Tyrone Carter),3.780,3.910
+2,0:25,2,5,PIT 22,0,10,Derek Anderson spiked the ball,3.910,3.200
+2,0:06,3,5,PIT 22,0,10,Phil Dawson 40 yard field goal no good,3.200,-0.940
+2,0:03,1,10,PIT 30,0,10,Ben Roethlisberger kneels for -1 yards,0.940,0.260
+Quarter,Time,Down,ToGo,Location,CLE,PIT,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,PIT 30,0,10,"Jeff Reed kicks off 47 yards, returned by Lawrence Vickers for 19 yards (tackle by Rian Wallace)",0.000,1.730
+3,14:54,1,10,CLE 42,0,10,Derek Anderson pass incomplete short left intended for Steve Heiden,1.730,1.190
+3,14:50,2,10,CLE 42,0,10,Reuben Droughns left end for no gain (tackle by Aaron Smith),1.190,0.500
+3,14:09,3,10,CLE 42,0,10,"Derek Anderson pass complete short right to Joe Jurevicius for 16 yards (tackle by Tyrone Carter). Penalty on Joey Porter: Defensive Offside (Declined), Penalty on Ike Taylor: Defensive Holding (Declined)",0.500,2.790
+3,13:52,1,10,PIT 42,0,10,Terrelle Smith middle for 3 yards (tackle by Aaron Smith),2.790,2.650
+3,13:16,2,7,PIT 39,0,10,Derek Anderson pass incomplete short left intended for Dennis Northcutt,2.650,1.950
+3,13:13,3,7,PIT 39,0,10,Derek Anderson pass incomplete short left intended for Jason Wright,1.950,0.660
+3,13:08,4,7,PIT 39,0,10,"Dave Zastudil punts 30 yards, fair catch by Santonio Holmes",0.660,0.380
+3,13:01,1,10,PIT 9,0,10,Willie Parker middle for 16 yards (tackle by Kamerion Wimbley and Brodney Pool),-0.380,0.610
+3,12:24,1,10,PIT 25,0,10,Willie Parker right tackle for 7 yards (tackle by Willie McGinest),0.610,1.010
+3,11:41,2,3,PIT 32,0,10,Willie Parker left tackle for 10 yards (tackle by Daven Holly),1.010,1.730
+3,10:57,1,10,PIT 42,0,10,Willie Parker left guard for no gain (tackle by Andra Davis and D'Qwell Jackson),1.730,1.190
+3,10:18,2,10,PIT 42,0,10,Willie Parker right guard for 3 yards (tackle by Ted Washington),1.190,0.890
+3,9:36,3,7,PIT 45,0,10,Ben Roethlisberger pass complete short middle to Santonio Holmes for 23 yards (tackle by Daven Holly),0.890,3.450
+3,9:36,1,10,CLE 32,0,10,Willie Parker right end for 4 yards (tackle by Brodney Pool),3.450,3.440
+3,8:21,2,6,CLE 28,0,10,Ben Roethlisberger for 3 yards (tackle by Simon Fraser),3.440,3.140
+3,7:50,3,3,CLE 25,0,10,Ben Roethlisberger pass complete short middle to Jerame Tuman for 18 yards (tackle by Sean Jones),3.140,5.600
+3,7:01,1,7,CLE 7,0,10,Willie Parker right guard for 3 yards (tackle by Simon Fraser and D'Qwell Jackson),5.600,5.340
+3,6:21,2,4,CLE 4,0,10,Willie Parker right guard for 2 yards (tackle by Leigh Bodden and Sean Jones),5.340,4.950
+3,5:38,3,2,CLE 2,0,16,"Ben Roethlisberger left end for 2 yards, touchdown",4.950,7.000
+3,,,,CLE 2,0,17,Jeff Reed kicks extra point good,0.000,0.000
+3,,,,PIT 30,0,17,"Jeff Reed kicks off 48 yards, returned by Josh Cribbs for 18 yards (tackle by Sean Morey)",0.000,1.600
+3,5:27,1,10,CLE 40,0,17,Derek Anderson pass incomplete short left intended for Terrelle Smith,1.600,1.050
+3,5:22,2,10,CLE 40,0,17,Reuben Droughns left end for 1 yard (tackle by Casey Hampton and James Farrior),1.050,0.500
+3,4:41,3,9,CLE 41,0,17,Jason Wright middle for 1 yard (tackle by Larry Foote),0.500,-0.590
+3,4:01,4,8,CLE 42,0,17,"Dave Zastudil punts 40 yards, returned by Santonio Holmes for 8 yards (tackle by Jereme Perry)",-0.590,-0.670
+3,3:52,1,10,PIT 26,0,17,Willie Parker middle for 39 yards (tackle by Sean Jones),0.670,3.250
+3,3:27,1,10,CLE 35,0,17,Ben Roethlisberger pass complete short middle to Najeh Davenport for 21 yards (tackle by Andra Davis),3.250,4.650
+3,2:36,1,10,CLE 14,0,17,Willie Parker right tackle for 11 yards (tackle by Brodney Pool),4.650,6.510
+3,1:52,1,3,CLE 3,0,23,"Willie Parker left guard for 3 yards, touchdown",6.510,7.000
+3,,,,CLE 2,0,24,Jeff Reed kicks extra point good,0.000,0.000
+3,,,,PIT 30,0,24,"Jeff Reed kicks off 53 yards, returned by Josh Cribbs for 14 yards (tackle by James Harrison)",0.000,1.000
+3,1:42,1,10,CLE 31,0,24,Derek Anderson pass complete deep middle to Braylon Edwards for 31 yards (tackle by Larry Foote and James Farrior),1.000,3.050
+3,0:56,1,10,PIT 38,0,24,Derek Anderson pass complete short left to Lawrence Vickers for 4 yards (tackle by Larry Foote and Brett Keisel),3.050,3.050
+3,0:15,2,6,PIT 34,0,24,Derek Anderson pass incomplete deep right intended for Braylon Edwards is intercepted by Anthony Smith at PIT-9 and returned for 20 yards,3.050,-0.870
+3,0:05,1,10,PIT 29,0,24,Willie Parker left guard for 6 yards (tackle by Sean Jones),0.870,1.140
+Quarter,Time,Down,ToGo,Location,CLE,PIT,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,4,PIT 35,0,24,Willie Parker right guard for 3 yards (tackle by Willie McGinest),1.140,0.830
+4,14:16,3,1,PIT 38,0,24,Willie Parker right tackle for 2 yards (tackle by Willie McGinest and Brodney Pool),0.830,1.600
+4,13:32,1,10,PIT 40,0,24,Najeh Davenport right end for 7 yards (tackle by Brodney Pool),1.600,2.000
+4,12:57,2,3,PIT 47,0,24,Najeh Davenport middle for 2 yards (tackle by Nick Eason and Ted Washington),2.000,1.550
+4,12:01,3,1,PIT 49,0,24,Najeh Davenport left guard for 6 yards (tackle by Brodney Pool and Sean Jones),1.550,2.590
+4,11:17,1,10,CLE 45,0,24,Najeh Davenport right tackle for 2 yards (tackle by D'Qwell Jackson and Sean Jones),2.590,2.310
+4,10:29,2,8,CLE 43,0,24,Ben Roethlisberger pass complete short middle to Santonio Holmes for 25 yards (tackle by D'Qwell Jackson),2.310,4.370
+4,9:44,1,10,CLE 18,0,24,Najeh Davenport middle for 9 yards (tackle by Brodney Pool),4.370,5.420
+4,9:00,2,1,CLE 9,0,24,Najeh Davenport left tackle for no gain (tackle by Kamerion Wimbley),5.420,4.740
+4,8:16,3,1,CLE 9,0,24,Najeh Davenport middle for -1 yards (tackle by Andra Davis and Nick Eason),4.740,2.890
+4,7:29,4,2,CLE 10,0,27,Jeff Reed 28 yard field goal good,2.890,3.000
+4,,,,PIT 30,0,27,"Jeff Reed kicks off 60 yards, returned by Josh Cribbs for 27 yards (tackle by Chidi Iwuoma)",0.000,1.400
+4,7:19,1,10,CLE 37,0,27,Derek Anderson pass complete short middle to Joe Jurevicius for 11 yards (tackle by Tyrone Carter and Larry Foote),1.400,2.130
+4,6:40,1,10,CLE 48,0,27,"Derek Anderson pass complete short right to Reuben Droughns for 8 yards (tackle by Ike Taylor). Penalty on Kellen Winslow: Personal Foul, 15 yards",2.130,0.640
+4,5:57,2,17,CLE 41,0,27,Derek Anderson pass complete short left to Joe Jurevicius for 14 yards (tackle by Anthony Madison),0.640,1.820
+4,5:28,3,3,PIT 45,0,27,Derek Anderson pass incomplete short middle intended for Kellen Winslow (defended by James Farrior),1.820,0.270
+4,5:28,,,,0,27,Timeout #1 by Cleveland Browns,0.000,0.270
+4,5:28,4,3,PIT 45,6,27,"Derek Anderson pass complete short middle to Braylon Edwards for 45 yards, touchdown",0.270,7.000
+4,,,,PIT 2,7,27,Phil Dawson kicks extra point good,0.000,0.000
+4,,,,CLE 30,7,27,"Phil Dawson kicks off 49 yards, returned by Ike Taylor for 10 yards (tackle by Chaun Thompson)",0.000,1.000
+4,5:13,1,10,PIT 31,7,27,--,1.000,0.670
+4,5:13,1,15,PIT 26,7,27,Najeh Davenport left end for 6 yards (tackle by Daven Holly and Sean Jones),0.670,0.600
+4,4:30,2,9,PIT 32,7,27,Najeh Davenport right end for -6 yards (tackle by Daven Holly and D'Qwell Jackson),0.600,-0.890
+4,3:40,,,,7,27,Timeout #1 by Pittsburgh Steelers,0.000,-0.890
+4,3:40,3,15,PIT 26,7,27,"Najeh Davenport right end for 4 yards (tackle by Willie McGinest). Penalty on Willie McGinest: Face Mask (15 Yards), 15 yards",-0.890,1.930
+4,3:31,1,10,PIT 45,7,27,Najeh Davenport middle for 3 yards (tackle by Andra Davis and Willie McGinest),1.930,1.790
+4,2:46,2,7,PIT 48,7,27,Najeh Davenport right tackle for 14 yards (tackle by Justin Hamilton and Brodney Pool),1.790,3.050
+4,2:00,1,10,CLE 38,7,27,"Penalty on Jerame Tuman: False Start, 5 yards (no play)",3.050,2.720
+4,2:00,1,15,CLE 43,7,27,John Kuhn right tackle for 16 yards (tackle by Daven Holly),2.720,3.780
+4,1:14,1,10,CLE 27,7,27,Charlie Batch kneels for -1 yards,3.780,3.100
+4,0:38,2,11,CLE 28,7,27,Charlie Batch kneels for -1 yards,3.100,2.280
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

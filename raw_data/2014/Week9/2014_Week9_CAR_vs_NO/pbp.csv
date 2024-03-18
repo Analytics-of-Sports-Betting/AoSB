@@ -1,0 +1,177 @@
+Quarter,Time,Down,ToGo,Location,NOR,CAR,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Saints won the coin toss, Saints to receive the opening kickoff.",,
+1,15:00,,,CAR 35,0,0,"Graham Gano kicks off 65 yards, touchback",0.000,-0.280
+1,15:00,1,10,NOR 20,0,0,Mark Ingram right guard for 3 yards (tackle by Kawann Short),0.280,0.140
+1,14:28,2,7,NOR 23,0,0,Mark Ingram left tackle for 19 yards (tackle by Tre Boston),0.140,1.730
+1,13:59,1,10,NOR 42,0,0,Mark Ingram up the middle for no gain (tackle by Luke Kuechly and Charles Johnson),1.730,1.190
+1,13:25,2,10,NOR 42,0,0,Drew Brees pass complete deep right to Brandin Cooks for 18 yards (tackle by Tre Boston and Luke Kuechly),1.190,2.920
+1,12:50,1,10,CAR 40,0,0,Drew Brees pass complete short right to Brandin Cooks for 5 yards (tackle by Thomas Davis and Luke Kuechly),2.920,3.050
+1,12:15,2,5,CAR 35,0,0,Drew Brees pass complete short right to Jimmy Graham for 18 yards (tackle by Josh Norman),3.050,4.440
+1,11:35,1,10,CAR 17,0,0,Mark Ingram right tackle for no gain (tackle by Thomas Davis),4.440,3.850
+1,11:00,2,10,CAR 17,0,0,Mark Ingram right tackle for 4 yards (tackle by Thomas Davis and Tre Boston),3.850,3.680
+1,10:21,3,6,CAR 13,0,0,Drew Brees pass incomplete short right intended for Kenny Stills is intercepted by Dwan Edwards at CAR-3 and returned for 24 yards,3.680,-0.740
+1,10:10,1,10,CAR 27,0,0,Cam Newton pass incomplete deep middle intended for Kelvin Benjamin,0.740,0.200
+1,10:03,2,10,CAR 27,0,0,DeAngelo Williams left tackle for 2 yards (tackle by Cameron Jordan),0.200,-0.230
+1,9:25,3,8,CAR 29,0,0,Cam Newton left end for 8 yards (tackle by Curtis Lofton and Vinnie Sunseri),-0.230,1.400
+1,8:48,1,10,CAR 37,0,0,Jonathan Stewart up the middle for 12 yards (tackle by Rafael Bush),1.400,2.190
+1,8:14,1,10,CAR 49,0,0,Cam Newton pass complete short left to Greg Olsen for 11 yards (tackle by Corey White),2.190,2.920
+1,7:45,1,10,NOR 40,0,0,Cam Newton left tackle for 1 yard (tackle by Kenny Vaccaro),2.920,2.510
+1,7:12,2,9,NOR 39,0,0,Cam Newton pass incomplete short right intended for Jason Avant,2.510,1.820
+1,7:06,3,9,NOR 39,0,0,Cam Newton pass incomplete short right intended for Jason Avant (defended by Corey White),1.820,0.660
+1,7:01,4,9,NOR 39,0,0,"Brad Nortman punts 29 yards, fair catch by Brandin Cooks",0.660,0.380
+1,6:52,1,10,NOR 10,0,0,Drew Brees pass complete short left to Jimmy Graham for 19 yards (tackle by Tre Boston),-0.380,0.870
+1,6:18,1,10,NOR 29,0,0,Mark Ingram left tackle for no gain (tackle by Josh Norman),0.870,0.330
+1,5:41,2,10,NOR 29,0,0,Drew Brees pass incomplete intended for Josh Hill (defended by Josh Norman),0.330,-0.360
+1,5:36,3,10,NOR 29,0,0,Drew Brees pass complete deep left to Marques Colston for 22 yards (tackle by James Dockery),-0.360,2.320
+1,5:14,1,10,CAR 49,0,0,"Mark Ingram left guard for 5 yards (tackle by A.J. Klein). Penalty on Mario Addison: Illegal Use of Hands, 5 yards",2.320,2.980
+1,4:56,1,10,CAR 39,0,0,"Drew Brees sacked by Charles Johnson for -7 yards. Drew Brees fumbles (forced by Charles Johnson), recovered by Mario Addison at CAR-47 (tackle by Erik Lorig)",2.980,-2.060
+1,4:48,1,10,CAR 47,0,0,DeAngelo Williams right guard for 1 yard (tackle by Junior Galette and Curtis Lofton),2.060,1.650
+1,4:08,2,9,CAR 48,0,0,Cam Newton pass incomplete deep left intended for Kelvin Benjamin,1.650,0.960
+1,4:01,3,9,CAR 48,0,0,Cam Newton pass complete short right to Kelvin Benjamin for 12 yards,0.960,2.920
+1,3:28,1,10,NOR 40,0,0,Jonathan Stewart right guard for 2 yards (tackle by Curtis Lofton),2.920,2.640
+1,2:57,2,8,NOR 38,0,0,Cam Newton pass incomplete deep middle intended for Jerricho Cotchery (defended by Keenan Lewis),2.640,2.640
+1,2:49,2,8,NOR 38,0,0,Timeout #1 by Carolina Panthers,2.640,1.950
+1,2:49,3,8,NOR 38,0,0,Cam Newton pass incomplete short left intended for Jerricho Cotchery,1.950,0.720
+1,2:44,4,8,NOR 38,0,0,"Brad Nortman punts 31 yards, fair catch by Brandin Cooks",0.720,0.380
+1,2:36,1,10,NOR 7,0,0,Mark Ingram left guard for 2 yards (tackle by Luke Kuechly and Kawann Short),-0.380,-0.630
+1,2:02,2,8,NOR 9,0,0,"Mark Ingram up the middle for 3 yards (tackle by Wes Horton). Penalty on Kony Ealy: Illegal Use of Hands, 5 yards",-0.630,-0.060
+1,1:39,1,10,NOR 17,0,0,Drew Brees sacked by Colin Jones for -6 yards,-0.060,-0.060
+1,0:52,1,10,NOR 17,0,0,Timeout #1 by New Orleans Saints,-0.060,-1.220
+1,0:52,2,16,NOR 11,0,0,Drew Brees pass incomplete deep left intended for Kenny Stills (defended by Josh Norman),-1.220,-2.120
+1,0:45,3,16,NOR 11,0,0,Drew Brees pass complete short right to Jimmy Graham for 7 yards (tackle by Thomas Davis),-2.120,-2.240
+Quarter,Time,Down,ToGo,Location,NOR,CAR,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,4,9,NOR 18,0,0,"Thomas Morstead punts 52 yards, fair catch by Brenton Bersin",-2.240,-0.940
+2,14:53,1,10,CAR 30,0,0,DeAngelo Williams left guard for 7 yards (tackle by Rafael Bush and Ramon Humber),0.940,1.340
+2,14:11,2,3,CAR 37,0,0,"DeAngelo Williams right end for 3 yards (tackle by Curtis Lofton and Junior Galette). Penalty on Nate Chandler: Offensive Holding, 10 yards (no play)",1.340,-0.010
+2,13:39,2,13,CAR 27,0,0,DeAngelo Williams up the middle for no gain (tackle by Curtis Lofton and Marcus Ball),-0.010,-0.690
+2,12:57,3,13,CAR 27,0,0,Cam Newton for 14 yards (tackle by Keenan Lewis),-0.690,1.660
+2,12:17,1,10,CAR 41,0,0,Jonathan Stewart for 10 yards (tackle by Rafael Bush),1.660,2.320
+2,11:47,1,10,NOR 49,0,0,Cam Newton pass complete short right to Jason Avant for 8 yards (tackle by Corey White),2.320,2.860
+2,11:06,2,2,NOR 41,0,0,Cam Newton pass incomplete short middle intended for Brenton Bersin is intercepted by Corey White at NOR-26 and returned for 2 yards,2.860,-0.810
+2,10:55,1,10,NOR 28,0,0,Mark Ingram right end for 3 yards (tackle by Colin Jones),0.810,0.810
+2,10:08,1,10,NOR 28,0,0,Timeout #2 by New Orleans Saints,0.810,0.670
+2,10:08,2,7,NOR 31,0,0,Travaris Cadet left tackle for -2 yards (tackle by Luke Kuechly and Colin Cole),0.670,-0.300
+2,9:33,3,9,NOR 29,0,0,Drew Brees pass complete short right to Ben Watson for 4 yards (tackle by Roman Harper),-0.300,-1.180
+2,8:56,4,5,NOR 33,0,0,"Thomas Morstead punts 49 yards, fair catch by Brenton Bersin",-1.180,-0.040
+2,8:47,1,10,CAR 18,0,0,"DeAngelo Williams left tackle for no gain (tackle by Kasim Edebali). Penalty on Parys Haralson: Illegal Use of Hands, 5 yards (no play)",0.040,0.480
+2,8:20,1,10,CAR 23,0,0,Jonathan Stewart right end for -3 yards (tackle by Kasim Edebali and Akiem Hicks),0.480,-0.470
+2,7:37,2,13,CAR 20,0,0,Cam Newton pass incomplete short right intended for Greg Olsen,-0.470,-1.150
+2,7:32,3,13,CAR 20,0,0,Cam Newton pass complete short middle to Greg Olsen for 10 yards (tackle by Kenny Vaccaro),-1.150,-1.370
+2,6:55,4,3,CAR 30,0,0,"Brad Nortman punts 34 yards, fair catch by Brandin Cooks",-1.370,-1.330
+2,6:46,1,10,NOR 36,0,0,Drew Brees pass complete deep left to Kenny Stills for 16 yards,1.330,2.390
+2,6:21,1,10,CAR 48,0,0,Mark Ingram left end for no gain (tackle by Josh Norman),2.390,1.850
+2,5:52,2,10,CAR 48,0,0,Mark Ingram right tackle for 1 yard (tackle by Tre Boston),1.850,1.290
+2,5:12,3,9,CAR 47,0,0,Drew Brees pass complete short right to Travaris Cadet for 3 yards (tackle by James Dockery),1.290,0.330
+2,4:34,4,6,CAR 44,0,0,Thomas Morstead punts 37 yards,0.330,0.380
+2,4:21,1,10,CAR 7,0,0,Cam Newton pass incomplete deep left intended for Kelvin Benjamin (defended by Keenan Lewis),-0.380,-0.380
+2,4:15,1,10,CAR 7,0,0,Timeout #2 by Carolina Panthers,-0.380,-0.780
+2,4:15,2,10,CAR 7,0,0,Jonathan Stewart right guard for 1 yard (tackle by Akiem Hicks and Cameron Jordan),-0.780,-1.300
+2,3:36,3,9,CAR 8,0,0,"Cam Newton sacked by Junior Galette for -7 yards. Cam Newton fumbles (forced by Junior Galette), recovered by Curtis Lofton at CAR-4 (tackle by Cam Newton)",-1.300,-6.280
+2,3:20,1,4,CAR 4,0,0,Mark Ingram up the middle for 1 yard (tackle by Colin Cole and Luke Kuechly),6.280,5.530
+2,2:44,2,3,CAR 3,6,0,"Mark Ingram right guard for 3 yards, touchdown",5.530,7.000
+2,2:44,,,CAR 2,7,0,Shayne Graham kicks extra point good,0.000,0.000
+2,2:44,,,NOR 35,7,0,"Thomas Morstead kicks off 65 yards, touchback",0.000,-0.280
+2,2:38,1,10,CAR 20,7,0,Cam Newton sacked by Cameron Jordan for -9 yards,0.280,0.280
+2,2:13,1,10,CAR 20,7,0,Timeout #3 by New Orleans Saints,0.280,-1.440
+2,2:13,2,19,CAR 11,7,0,Cam Newton pass incomplete short left intended for Jason Avant (defended by Patrick Robinson),-1.440,-2.470
+2,2:08,3,19,CAR 11,7,0,Cam Newton pass complete short left to Kelvin Benjamin for 6 yards (tackle by Patrick Robinson and Curtis Lofton),-2.470,-2.320
+2,2:00,4,13,CAR 17,7,0,"Brad Nortman punts 58 yards, returned by Brandin Cooks for 11 yards (tackle by Colin Jones). Penalty on Brian Dixon: Illegal Use of Hands, 10 yards",-2.320,0.220
+2,1:49,1,10,NOR 15,7,0,Drew Brees pass incomplete short right intended for Kenny Stills,-0.220,-0.710
+2,1:49,2,10,NOR 15,7,0,Drew Brees pass incomplete short middle intended for Travaris Cadet,-0.710,-1.370
+2,1:40,3,10,NOR 15,7,0,Drew Brees pass complete deep right to Kenny Stills for 17 yards (tackle by Antoine Cason),-1.370,1.070
+2,1:40,1,10,NOR 32,7,0,"Drew Brees pass complete short right to Kenny Stills for 9 yards (tackle by Antoine Cason). Kenny Stills fumbles (forced by Antoine Cason), ball out of bounds at NOR-41",1.070,1.740
+2,1:02,2,1,NOR 41,7,0,Drew Brees pass complete short right to Jimmy Graham for 5 yards,1.740,1.990
+2,0:58,1,10,NOR 46,7,0,Drew Brees pass complete short middle to Marques Colston for 8 yards (tackle by Luke Kuechly),1.990,2.530
+2,0:39,2,2,CAR 46,7,0,Drew Brees pass complete short left to Travaris Cadet for 20 yards (tackle by Roman Harper),2.530,3.840
+2,0:33,1,10,CAR 26,7,0,"Drew Brees sacked by Wes Horton for -7 yards. Drew Brees fumbles (forced by Wes Horton), recovered by Drew Brees at CAR-33",3.840,2.350
+2,0:33,2,17,CAR 33,7,0,Drew Brees spiked the ball,2.350,1.690
+2,0:14,3,17,CAR 33,7,0,"Drew Brees pass incomplete deep right intended for Robert Meachem. Penalty on Antoine Cason: Defensive Pass Interference, 32 yards (no play)",1.690,6.970
+2,0:06,1,1,CAR 1,13,0,"Drew Brees pass complete short right to Jimmy Graham for 1 yard, touchdown",6.970,7.000
+2,0:06,,,CAR 2,14,0,Shayne Graham kicks extra point good,0.000,0.000
+2,0:06,,,NOR 35,14,0,"Thomas Morstead kicks off 53 yards, returned by Brenton Bersin for 9 yards (tackle by Brian Dixon)",0.000,1.270
+Quarter,Time,Down,ToGo,Location,NOR,CAR,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,NOR 35,14,0,"Thomas Morstead kicks off 69 yards, returned by Brenton Bersin for 23 yards (tackle by Todd Davis)",0.000,-0.150
+3,14:55,1,10,CAR 19,14,0,Cam Newton pass complete short right to DeAngelo Williams for 30 yards (tackle by Rafael Bush),0.150,2.190
+3,14:10,1,10,CAR 49,14,0,Jonathan Stewart right guard for 5 yards (tackle by Junior Galette),2.190,2.320
+3,13:35,2,5,NOR 46,14,0,Jonathan Stewart up the middle for 6 yards (tackle by Cameron Jordan),2.320,2.920
+3,12:54,1,10,NOR 40,14,0,Cam Newton pass incomplete deep right intended for Ed Dickson,2.920,2.370
+3,12:47,2,10,NOR 40,14,0,Cam Newton right end for 9 yards (tackle by Rafael Bush),2.370,2.870
+3,12:03,3,1,NOR 31,14,0,Cam Newton left end for 9 yards (tackle by Keenan Lewis),2.870,4.110
+3,11:17,1,10,NOR 22,14,0,DeAngelo Williams up the middle for 1 yard (tackle by Akiem Hicks),4.110,3.700
+3,10:39,2,9,NOR 21,14,0,"Cam Newton pass incomplete short left intended for Kelvin Benjamin. Penalty on Rafael Bush: Defensive Pass Interference, 11 yards (no play)",3.700,4.910
+3,10:33,1,10,NOR 10,14,0,Cam Newton pass incomplete short left intended for Kelvin Benjamin,4.910,4.190
+3,10:29,2,10,NOR 10,14,0,Cam Newton pass incomplete short middle intended for Kelvin Benjamin,4.190,3.130
+3,10:23,3,10,NOR 10,14,6,"Cam Newton left end for 10 yards, touchdown",3.130,7.000
+,,,,,,,"Replay Assistant challenged the runner broke the plane ruling, and the play was upheld.",,
+3,10:23,,,NOR 2,14,7,Graham Gano kicks extra point good,0.000,0.000
+3,10:23,,,CAR 35,14,7,"Graham Gano kicks off 65 yards, touchback",0.000,-0.280
+3,10:14,1,10,NOR 20,14,7,Mark Ingram right tackle for -1 yards (tackle by Josh Norman and Tre Boston),0.280,-0.460
+3,9:38,2,11,NOR 19,14,7,Mark Ingram left end for 2 yards (tackle by Melvin White),-0.460,-0.820
+3,9:01,3,9,NOR 21,14,7,Drew Brees pass complete short right to Brandin Cooks for 15 yards (tackle by James Dockery),-0.820,1.330
+3,8:37,1,10,NOR 36,14,7,Drew Brees pass complete deep left to Kenny Stills for 18 yards (tackle by Melvin White),1.330,2.520
+3,8:04,1,10,CAR 46,14,7,Mark Ingram left end for 6 yards (tackle by Mario Addison and Thomas Davis),2.520,2.790
+3,7:46,2,4,CAR 40,14,7,Drew Brees pass complete short right to Mark Ingram for 10 yards (tackle by Colin Jones),2.790,3.580
+3,7:02,1,10,CAR 30,14,7,Drew Brees pass incomplete short right intended for Travaris Cadet,3.580,3.030
+3,6:56,2,10,CAR 30,14,7,Drew Brees right end for 3 yards (tackle by Kony Ealy),3.030,2.740
+3,6:17,3,7,CAR 27,14,7,Drew Brees pass complete short left to Kenny Stills for 12 yards (tackle by Roman Harper),2.740,4.580
+3,5:40,1,10,CAR 15,14,7,Mark Ingram left guard for 12 yards (tackle by Roman Harper),4.580,6.510
+3,5:16,1,3,CAR 3,14,7,Mark Ingram left guard for 2 yards (tackle by Roman Harper),6.510,5.910
+3,4:55,2,1,CAR 1,14,7,Mark Ingram up the middle for no gain (tackle by Kawann Short),5.910,5.170
+3,4:17,3,1,CAR 1,14,7,Drew Brees pass incomplete short left intended for Josh Hill,5.170,3.550
+3,4:10,4,1,CAR 1,20,7,"Drew Brees up the middle for 1 yard, touchdown",3.550,7.000
+3,4:10,,,CAR 2,21,7,Shayne Graham kicks extra point good,0.000,0.000
+3,4:10,,,NOR 35,21,7,"Thomas Morstead kicks off 73 yards, returned by Joe Webb for 26 yards (tackle by Patrick Robinson)",0.000,-0.040
+3,3:56,1,10,CAR 18,21,7,Cam Newton pass complete short right to Jerricho Cotchery for 12 yards (tackle by Keenan Lewis),0.040,0.940
+3,3:17,1,10,CAR 30,21,7,Cam Newton pass incomplete short right intended for Ed Dickson,0.940,0.390
+3,3:12,2,10,CAR 30,21,7,"Jonathan Stewart right tackle for 13 yards (tackle by Rafael Bush). Penalty on Kelvin Benjamin: Offensive Holding, 10 yards",0.390,0.800
+3,2:43,2,7,CAR 33,21,7,Cam Newton pass incomplete deep right intended for Kelvin Benjamin,0.800,0.100
+3,2:35,3,7,CAR 33,21,7,Cam Newton pass incomplete short left intended for Jerricho Cotchery (defended by Patrick Robinson),0.100,-1.180
+3,2:29,4,7,CAR 33,21,7,"Brad Nortman punts 56 yards, returned by Brandin Cooks for 2 yards (tackle by Ben Jacobs)",-1.180,0.320
+3,2:17,1,10,NOR 13,21,7,Drew Brees pass complete short right to Marques Colston for 6 yards (tackle by Josh Norman),-0.320,0.030
+3,1:46,2,4,NOR 19,21,7,Mark Ingram up the middle for no gain (tackle by A.J. Klein),0.030,-0.710
+3,1:03,3,4,NOR 19,21,7,Drew Brees pass incomplete short right intended for Mark Ingram,-0.710,-2.140
+3,0:58,4,4,NOR 19,21,7,"Thomas Morstead punts 49 yards, fair catch by Brenton Bersin",-2.140,-1.070
+3,0:50,1,10,CAR 32,21,7,Cam Newton pass complete deep left to Jerricho Cotchery for 47 yards (tackle by Rafael Bush),1.070,4.170
+3,0:19,1,10,NOR 21,21,7,DeAngelo Williams left guard for 6 yards (tackle by Rafael Bush and Curtis Lofton),4.170,4.550
+Quarter,Time,Down,ToGo,Location,NOR,CAR,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,4,NOR 15,21,7,DeAngelo Williams up the middle for 3 yards (tackle by Ramon Humber and Curtis Lofton),4.550,4.490
+4,14:17,3,1,NOR 12,21,7,Cam Newton pass complete short right to Brandon Williams for 6 yards (tackle by Corey White),4.490,5.830
+,,,,,,,"Replay Assistant challenged the runner was down by contact ruling, and the original play was overturned.",,
+4,13:57,1,6,NOR 6,21,7,Cam Newton right tackle for -8 yards (tackle by Parys Haralson),5.830,3.580
+4,13:13,2,14,NOR 14,21,7,Cam Newton pass incomplete short right intended for Kelvin Benjamin (defended by Keenan Lewis),3.580,3.000
+4,13:06,3,14,NOR 14,21,7,Cam Newton pass incomplete short right intended for Kelvin Benjamin,3.000,2.510
+4,12:58,4,14,NOR 14,21,10,Graham Gano 31 yard field goal good,2.510,3.000
+4,12:58,,,CAR 35,21,10,"Graham Gano kicks off 65 yards, touchback",0.000,-0.280
+4,12:57,1,10,NOR 20,21,10,Drew Brees sacked by Dwan Edwards for -6 yards,0.280,-1.180
+4,12:13,2,16,NOR 14,21,10,Drew Brees pass complete deep left to Jimmy Graham for 27 yards (tackle by Tre Boston),-1.180,1.660
+4,11:44,1,10,NOR 41,21,10,Mark Ingram left tackle for 5 yards (tackle by Melvin White),1.660,1.800
+4,11:44,2,5,NOR 46,21,10,Mark Ingram left end for 1 yard (tackle by Melvin White),1.800,1.220
+4,10:26,3,4,NOR 47,21,10,Drew Brees pass complete short left to Travaris Cadet for 6 yards (tackle by Melvin White),1.220,2.460
+4,9:51,1,10,CAR 47,21,10,Travaris Cadet left tackle for 3 yards (tackle by Mario Addison),2.460,2.320
+4,9:15,2,7,CAR 44,21,10,Drew Brees pass complete deep right to Robert Meachem for 25 yards (tackle by Thomas Davis),2.320,4.310
+4,8:26,1,10,CAR 19,21,10,Mark Ingram right tackle for 7 yards (tackle by Josh Norman),4.310,4.920
+4,7:45,2,3,CAR 12,21,10,Mark Ingram left tackle for no gain (tackle by Mario Addison and Robert Lester),4.920,4.190
+4,7:01,3,3,CAR 12,21,10,Drew Brees pass complete short right to Jimmy Graham for 6 yards (tackle by Colin Cole),4.190,5.830
+4,6:18,1,6,CAR 6,21,10,Mark Ingram left tackle for 3 yards (tackle by Mario Addison and Colin Jones),5.830,5.530
+4,5:39,2,3,CAR 3,21,10,Drew Brees pass incomplete short right intended for Erik Lorig,5.530,5.530
+4,5:34,2,3,CAR 3,21,10,Timeout #1 by New Orleans Saints,5.530,4.720
+4,5:34,3,3,CAR 3,27,10,"Mark Ingram left guard for 3 yards, touchdown",4.720,7.000
+4,5:34,,,CAR 2,28,10,Shayne Graham kicks extra point good,0.000,0.000
+4,5:34,,,NOR 35,28,10,"Thomas Morstead kicks off 68 yards, returned by Brenton Bersin for 31 yards (tackle by Todd Davis)",0.000,-0.810
+4,5:23,1,10,CAR 28,28,10,Cam Newton pass complete short right to Greg Olsen for 9 yards (tackle by Ramon Humber and Kenny Vaccaro),0.810,1.480
+4,4:59,2,1,CAR 37,28,10,Cam Newton sacked by Junior Galette for -7 yards,1.480,-0.160
+4,4:27,3,8,CAR 30,28,10,Cam Newton sacked by Akiem Hicks for -9 yards,-0.160,-1.960
+4,3:46,4,17,CAR 21,28,10,"Brad Nortman punts 45 yards, fair catch by Brandin Cooks. Penalty on Brian Dixon: Illegal Use of Hands, 10 yards",-1.960,-0.540
+4,3:36,1,10,NOR 24,28,10,Mark Ingram up the middle for 4 yards (tackle by Colin Cole),0.540,0.540
+4,3:30,1,10,NOR 24,28,10,Timeout #1 by Carolina Panthers,0.540,0.540
+4,3:30,2,6,NOR 28,28,10,"Penalty on Thomas Davis: Neutral Zone Infraction, 5 yards (no play)",0.540,1.210
+4,3:30,2,1,NOR 33,28,10,Mark Ingram left tackle for 4 yards (tackle by A.J. Klein),1.210,1.400
+4,2:47,1,10,NOR 37,28,10,Mark Ingram left guard for 8 yards (tackle by A.J. Klein),1.400,1.940
+4,2:00,2,2,NOR 45,28,10,Edwin Baker right tackle for 2 yards (tackle by Luke Kuechly),1.940,2.060
+4,1:19,1,10,NOR 47,28,10,Drew Brees kneels for -1 yards,2.060,1.380
+4,0:37,2,11,NOR 46,28,10,Drew Brees kneels for -1 yards,1.380,0.560
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

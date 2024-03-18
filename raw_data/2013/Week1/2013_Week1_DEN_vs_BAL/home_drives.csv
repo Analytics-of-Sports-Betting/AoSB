@@ -1,0 +1,17 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:10,DEN 23,6,2:01,18,Punt
+2,1,7:11,DEN 20,7,3:32,41,Punt
+3,2,14:45,DEN 29,5,1:48,13,Punt
+4,2,11:40,BAL 24,1,0:05,24,Touchdown
+5,2,8:03,DEN 20,6,2:29,80,Touchdown
+6,2,4:07,BAL 49,3,0:48,-11,Punt
+7,2,0:07,DEN 20,1,0:07,-1,End of Half
+8,3,15:00,DEN 20,6,2:30,80,Touchdown
+9,3,11:08,BAL 10,2,0:40,10,Touchdown
+10,3,9:06,DEN 37,9,2:29,63,Touchdown
+11,3,4:55,DEN 26,4,1:46,10,Punt
+12,3,1:40,DEN 42,3,0:45,4,Punt
+13,4,14:46,DEN 44,5,1:33,56,Touchdown
+14,4,10:28,DEN 20,3,2:21,7,Punt
+15,4,5:29,DEN 20,3,0:59,80,Touchdown
+16,4,2:19,DEN 17,4,2:19,11,End of Game

@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,PIT 22,8,4:16,78,Touchdown
+2,1,5:15,PIT 3,11,4:38,97,Touchdown
+3,2,11:21,PIT 25,3,1:02,6,Punt
+4,2,4:23,PIT 25,3,2:12,9,Punt
+5,2,1:42,ATL 40,6,1:24,33,Interception
+6,3,10:48,PIT 15,12,7:06,85,Touchdown
+7,3,2:37,ATL 18,3,0:58,18,Touchdown
+8,4,12:28,PIT 25,5,2:47,75,Touchdown
+9,4,7:59,PIT 48,6,4:03,13,Punt
+10,4,0:42,ATL 44,1,0:42,-3,End of Game

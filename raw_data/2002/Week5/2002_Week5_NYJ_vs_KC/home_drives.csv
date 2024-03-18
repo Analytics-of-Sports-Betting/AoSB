@@ -1,0 +1,11 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,NYJ 7,4,2:22,34,Punt
+2,1,10:05,NYJ 20,3,1:28,-16,Punt
+3,1,5:17,NYJ 44,5,2:36,56,Touchdown
+4,1,1:32,KAN 42,3,1:15,-7,Punt
+5,2,8:29,NYJ 40,3,2:15,22,Interception
+6,2,1:39,NYJ 39,7,1:32,61,Touchdown
+7,3,11:06,NYJ 34,8,4:09,33,Missed FG
+8,3,4:07,NYJ 11,12,5:36,89,Touchdown
+9,4,10:15,NYJ 32,14,7:21,61,Field Goal
+10,4,0:27,NYJ 23,2,0:27,16,End of Game

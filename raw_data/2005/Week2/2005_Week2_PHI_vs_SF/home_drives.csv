@@ -1,0 +1,13 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,PHI 28,3,0:57,72,Touchdown
+2,1,12:22,SFO 43,3,1:37,-3,Punt
+3,1,9:53,PHI 30,7,2:38,70,Touchdown
+4,1,4:58,PHI 15,10,3:57,60,Missed FG
+5,2,14:44,PHI 9,6,3:02,91,Touchdown
+6,2,11:26,SFO 2,1,0:04,2,Touchdown
+7,2,8:50,SFO 43,8,4:42,17,Fumble
+8,2,2:43,PHI 14,6,2:43,31,End of Half
+9,3,11:07,PHI 3,3,2:02,8,Punt
+10,3,4:08,PHI 20,7,3:10,80,Touchdown
+11,4,14:09,PHI 10,14,10:26,90,Touchdown
+12,4,2:39,PHI 31,5,2:39,35,End of Game

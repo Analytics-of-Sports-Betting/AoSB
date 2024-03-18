@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,9:27,MIA 27,9,4:47,73,Touchdown
+2,1,1:59,MIA 33,7,4:28,25,Punt
+3,2,5:44,MIA 1,4,1:26,51,Punt
+4,2,0:45,MIA 20,1,0:45,8,End of Half
+5,3,15:00,MIA 20,11,6:40,41,Punt
+6,3,2:56,MIA 2,1,0:08,0,Fumble
+7,3,2:38,MIA 29,4,2:57,21,Punt
+8,4,7:52,MIA 20,3,1:42,1,Punt
+9,4,5:58,MIA 25,1,0:12,-1,Fumble
+10,4,2:16,MIA 1,4,0:34,13,Punt
+11,4,0:33,MIA 28,1,0:33,-1,End of Game

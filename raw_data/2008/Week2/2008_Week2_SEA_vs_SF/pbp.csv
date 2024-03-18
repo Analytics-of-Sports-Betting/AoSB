@@ -1,0 +1,211 @@
+Quarter,Time,Down,ToGo,Location,SFO,SEA,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"49ers won the coin toss and deferred, Seahawks to receive the opening kickoff.",,
+1,15:00,,,SFO 30,0,0,"Joe Nedney kicks off 69 yards, touchback",0.000,0.280
+1,15:00,1,10,SEA 20,0,0,Julius Jones right tackle for 2 yards (tackle by Nate Clements),0.280,0.000
+1,14:24,2,8,SEA 22,0,0,Matt Hasselbeck pass incomplete short right intended for Julius Jones,0.000,-0.690
+1,14:20,3,8,SEA 22,0,0,"Penalty on Logan Payne: False Start, 5 yards (no play)",-0.690,-1.510
+1,14:20,3,13,SEA 17,0,0,Leonard Weaver up the middle for 1 yard (tackle by Parys Haralson),-1.510,-2.240
+1,13:47,4,12,SEA 18,0,0,Jon Ryan punts 39 yards,-2.240,-1.800
+1,13:40,1,10,SFO 43,0,0,J.T. O'Sullivan pass complete short right to Frank Gore for 3 yards (tackle by LeRoy Hill),1.800,1.660
+1,13:02,2,7,SFO 46,0,0,J.T. O'Sullivan pass incomplete deep middle intended for Vernon Davis,1.660,0.960
+1,12:56,,,,0,0,Timeout #1 by San Francisco 49ers,0.000,0.960
+1,12:56,3,7,SFO 46,0,0,"J.T. O'Sullivan pass complete deep left to Arnaz Battle for 25 yards (tackle by Brian Russell). Penalty on Joe Staley: Illegal Formation, 5 yards (no play)",0.960,0.300
+1,12:47,3,12,SFO 41,0,0,J.T. O'Sullivan pass complete short left to Frank Gore for 11 yards (tackle by Rocky Bernard),0.300,0.070
+1,12:04,4,1,SEA 48,0,0,"Andy Lee punts 48 yards, touchback",0.070,-0.280
+1,11:53,1,10,SEA 20,0,0,Matt Hasselbeck pass complete short right to Logan Payne for 14 yards (tackle by Dashon Goldson),0.280,1.200
+1,11:36,1,10,SEA 34,0,0,Julius Jones left tackle for no gain (tackle by Justin Smith),1.200,0.660
+1,11:02,2,10,SEA 34,0,0,Matt Hasselbeck pass incomplete deep right intended for Billy McMullen,0.660,-0.030
+1,10:57,3,10,SEA 34,0,0,"Penalty on Parys Haralson: Defensive Offside, 5 yards (no play)",-0.030,0.630
+1,10:57,3,5,SEA 39,0,0,Matt Hasselbeck pass incomplete short middle intended for John Carlson,0.630,-0.780
+1,10:52,4,5,SEA 39,0,0,Jon Ryan punts no gain,-0.780,2.520
+1,10:28,1,10,SFO 46,0,0,Julius Jones left end for 2 yards (tackle by Mark Roman),2.520,2.250
+1,10:00,2,8,SFO 44,0,0,Matt Hasselbeck pass incomplete short right intended for Billy McMullen,2.250,1.550
+1,9:55,,,,0,0,Timeout #1 by Seattle Seahawks,0.000,1.550
+1,9:55,3,8,SFO 44,0,0,Matt Hasselbeck pass complete short middle to John Carlson for 17 yards (tackle by Walt Harris),1.550,3.780
+1,9:21,1,10,SFO 27,0,6,"Julius Jones up the middle for 27 yards, touchdown",3.780,7.000
+1,,,,SFO 2,0,7,Olindo Mare kicks extra point good,0.000,0.000
+1,,,,SEA 30,0,7,"Olindo Mare kicks off 63 yards, returned by Allen Rossum for 21 yards (tackle by Kevin Hobbs)",0.000,0.810
+1,9:06,1,10,SFO 28,0,7,"Penalty on Jonas Jennings: False Start, 5 yards (no play)",0.810,0.480
+1,9:06,1,15,SFO 23,0,7,"Penalty on Jonas Jennings: False Start, 5 yards (no play)",0.480,-0.040
+1,9:06,1,20,SFO 18,0,7,J.T. O'Sullivan pass incomplete short right intended for Isaac Bruce,-0.040,-1.190
+1,9:01,2,20,SFO 18,0,7,Frank Gore up the middle for 3 yards (tackle by LeRoy Hill),-1.190,-1.350
+1,8:18,3,17,SFO 21,0,7,"J.T. O'Sullivan sacked by Julian Peterson for -13 yards. Penalty on Julian Peterson: Taunting, 15 yards",-1.350,0.480
+1,7:59,1,10,SFO 23,0,13,"Frank Gore up the middle for -5 yards (tackle by Howard Green). Marcus Trufant fumbles (forced by J.T. O'Sullivan), recovered by Craig Terrill at SFO-10 and returned for 10 yards (tackle by J.T. O'Sullivan), touchdown",0.480,-7.000
+1,,,,SFO 2,0,14,Olindo Mare kicks extra point good,0.000,0.000
+1,,,,SEA 30,0,14,"Olindo Mare kicks off 63 yards, returned by Allen Rossum for 44 yards (tackle by Kevin Hobbs)",0.000,2.320
+1,7:37,1,10,SEA 49,0,14,"Isaac Bruce for 3 yards. Penalty on Jason Babin: Defensive Offside, 5 yards (no play)",2.320,3.050
+1,7:12,1,5,SEA 44,0,14,J.T. O'Sullivan pass complete short left to Frank Gore for -2 yards (tackle by LeRoy Hill),3.050,2.190
+1,6:29,2,7,SEA 46,0,14,"J.T. O'Sullivan for no gain. J.T. O'Sullivan fumbles, recovered by J.T. O'Sullivan at SEA-49",2.190,1.090
+1,5:51,3,10,SEA 49,0,14,J.T. O'Sullivan pass complete short right to Arnaz Battle for 12 yards (tackle by Patrick Kerney),1.090,3.120
+1,5:21,1,10,SEA 37,0,14,Frank Gore right tackle for 3 yards (tackle by Patrick Kerney),3.120,2.980
+1,4:42,2,7,SEA 34,0,14,Frank Gore left tackle for 23 yards (tackle by Deon Grant),2.980,4.840
+1,4:03,1,10,SEA 11,0,14,Frank Gore left guard for 3 yards (tackle by Lofa Tatupu and Patrick Kerney),4.840,4.700
+1,3:23,2,7,SEA 8,0,14,Frank Gore right tackle for no gain (tackle by Julian Peterson),4.700,3.760
+1,2:45,3,7,SEA 8,0,14,J.T. O'Sullivan pass incomplete short middle intended for Isaac Bruce,3.760,2.960
+1,2:39,4,7,SEA 8,3,14,Joe Nedney 26 yard field goal good,2.960,3.000
+1,,,,SFO 30,3,14,"Joe Nedney kicks off 70 yards, returned by Josh Wilson for 20 yards (tackle by Manny Lawson)",0.000,0.280
+1,2:31,1,10,SEA 20,3,14,Julius Jones right end for -1 yards (tackle by Nate Clements),0.280,-0.460
+1,1:52,2,11,SEA 19,3,14,Julius Jones left end for 7 yards (tackle by Patrick Willis),-0.460,-0.160
+1,1:10,3,4,SEA 26,3,14,Matt Hasselbeck pass complete short right to John Carlson for 16 yards (tackle by Dashon Goldson),-0.160,1.730
+1,0:27,1,10,SEA 42,3,14,Julius Jones left guard for 3 yards (tackle by Walt Harris),1.730,1.590
+Quarter,Time,Down,ToGo,Location,SFO,SEA,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,7,SEA 45,3,14,Julius Jones up the middle for 8 yards (tackle by Patrick Willis),1.590,2.460
+2,14:33,1,10,SFO 47,3,14,Julius Jones left tackle for 4 yards (tackle by Justin Smith),2.460,2.450
+2,14:02,2,6,SFO 43,3,14,Matt Hasselbeck pass incomplete short right intended for Michael Bumpus (defended by Mark Roman),2.450,1.750
+2,13:58,,,,3,14,Timeout #2 by San Francisco 49ers,0.000,1.750
+2,13:58,3,6,SFO 43,3,14,Matt Hasselbeck pass complete short left to Billy McMullen for 3 yards (tackle by Shawntae Spencer),1.750,0.590
+2,13:23,4,3,SFO 40,3,14,"Jon Ryan punts 40 yards, touchback",0.590,-0.280
+2,13:15,1,10,SFO 20,3,14,J.T. O'Sullivan pass complete deep left to Bryant Johnson for 25 yards (tackle by Kelly Jennings). Penalty on Kelly Jennings: Illegal Contact (Declined),0.280,1.930
+2,12:46,1,10,SFO 45,3,14,J.T. O'Sullivan pass complete deep middle to Isaac Bruce for 27 yards (tackle by Julian Peterson),1.930,3.710
+2,12:00,1,10,SEA 28,3,14,J.T. O'Sullivan pass incomplete short right intended for Vernon Davis,3.710,3.170
+2,11:52,2,10,SEA 28,3,14,J.T. O'Sullivan pass complete short middle to Arnaz Battle for 14 yards (tackle by Deon Grant),3.170,4.650
+2,11:12,1,10,SEA 14,3,14,"J.T. O'Sullivan pass complete short right to Frank Gore for 7 yards (tackle by Brian Russell). Penalty on Jonas Jennings: Offensive Holding, 10 yards, Penalty on Tony Wragge: Illegal Use of Hands (Declined) (no play)",4.650,3.970
+2,10:48,1,20,SEA 24,3,14,J.T. O'Sullivan sacked by Lawrence Jackson for 0 yards,3.970,2.740
+2,10:07,2,20,SEA 24,3,14,J.T. O'Sullivan pass complete short middle to Bryant Johnson for 11 yards (tackle by Josh Wilson),2.740,3.260
+2,9:22,3,9,SEA 13,3,14,"J.T. O'Sullivan pass incomplete short right intended for Isaac Bruce (defended by Marcus Trufant). Penalty on Josh Wilson: Defensive Pass Interference, 10 yards (no play)",3.260,6.510
+2,9:16,1,3,SEA 3,3,14,Frank Gore right tackle for -1 yards (tackle by Patrick Kerney and Lofa Tatupu),6.510,5.340
+2,8:37,2,4,SEA 4,3,14,Frank Gore right guard for 1 yard (tackle by LeRoy Hill),5.340,4.720
+2,8:00,3,3,SEA 3,3,14,J.T. O'Sullivan sacked by Rocky Bernard for -7 yards,4.720,2.760
+2,7:25,4,10,SEA 10,6,14,Joe Nedney 28 yard field goal good,2.760,3.000
+2,,,,SFO 30,6,14,"Joe Nedney kicks off 66 yards, returned by Josh Wilson for 54 yards (tackle by Tarell Brown)",0.000,2.790
+2,7:12,1,10,SFO 42,6,14,"Matt Hasselbeck pass complete deep right to Billy McMullen for 31 yards (tackle by Nate Clements). Billy McMullen fumbles (forced by Nate Clements), recovered by Michael Lewis at SFO-5 and returned for 4 yards (tackle by John Carlson)",2.790,0.380
+2,7:01,1,10,SFO 9,6,14,J.T. O'Sullivan left end for 4 yards (tackle by Julian Peterson),-0.380,-0.480
+2,6:18,2,6,SFO 13,6,14,J.T. O'Sullivan sacked by Howard Green for -7 yards,-0.480,-1.770
+2,5:42,3,13,SFO 6,6,14,Frank Gore right guard for 9 yards (tackle by Patrick Kerney),-1.770,-2.440
+2,5:04,4,4,SFO 15,6,14,"Andy Lee punts 41 yards, returned by Michael Bumpus for 5 yards (tackle by Tarell Brown)",-2.440,-2.190
+2,4:52,1,10,SEA 49,6,14,Julius Jones left end for 8 yards (tackle by Nate Clements),2.190,2.730
+2,4:20,2,2,SFO 43,6,14,Julius Jones up the middle for 3 yards (tackle by Ray McDonald),2.730,2.920
+2,3:46,1,10,SFO 40,6,14,Matt Hasselbeck pass incomplete short left intended for Julius Jones,2.920,2.370
+2,3:40,2,10,SFO 40,6,14,Matt Hasselbeck pass incomplete deep right intended for Julius Jones,2.370,1.680
+2,3:33,3,10,SFO 40,6,14,Leonard Weaver up the middle for 7 yards (tackle by Patrick Willis and Ray McDonald),1.680,1.190
+2,2:54,4,3,SFO 33,6,17,Olindo Mare 51 yard field goal good,1.190,3.000
+2,,,,SEA 30,6,17,"Olindo Mare kicks off 70 yards, touchback. Penalty on Shawntae Spencer: Offside on Free Kick (Declined)",0.000,0.280
+2,2:49,1,10,SFO 20,6,17,J.T. O'Sullivan pass complete short left to Josh Morgan for 8 yards (tackle by Kelly Jennings),0.280,0.810
+2,2:25,2,2,SFO 28,6,17,J.T. O'Sullivan pass complete deep right to Isaac Bruce for 63 yards (tackle by Marcus Trufant),0.810,5.140
+2,2:00,1,9,SEA 9,6,17,"J.T. O'Sullivan pass incomplete short left intended for Vernon Davis. Penalty on SFO: Illegal Formation, 5 yards (no play)",5.140,4.440
+2,1:55,1,14,SEA 14,6,17,J.T. O'Sullivan pass incomplete short middle intended for Josh Morgan,4.440,3.580
+2,1:51,2,14,SEA 14,6,17,"J.T. O'Sullivan pass incomplete short left intended for Isaac Bruce is intercepted by Deon Grant at SEA-0. Penalty on Kelly Jennings: Defensive Pass Interference, 11 yards (no play)",3.580,6.510
+2,1:46,1,3,SEA 3,12,17,"J.T. O'Sullivan pass complete short left to Bryant Johnson for 3 yards, touchdown",6.510,7.000
+2,,,,SEA 2,13,17,Joe Nedney kicks extra point good,0.000,0.000
+2,,,,SFO 30,13,17,Joe Nedney kicks off 52 yards,0.000,1.600
+2,1:42,1,10,SEA 40,13,17,Matt Hasselbeck pass complete short right to Julius Jones for 3 yards (tackle by Michael Lewis),1.600,1.460
+2,1:12,2,7,SEA 43,13,17,Leonard Weaver right tackle for 12 yards (tackle by Patrick Willis),1.460,2.590
+2,0:49,1,10,SFO 45,13,17,Matt Hasselbeck pass complete short middle to John Carlson for 17 yards (tackle by Keith Lewis),2.590,3.710
+2,0:41,,,,13,17,Timeout #2 by Seattle Seahawks,0.000,3.710
+2,0:41,1,10,SFO 28,13,17,Matt Hasselbeck pass incomplete short right intended for Leonard Weaver,3.710,3.170
+2,0:36,2,10,SFO 28,13,17,Matt Hasselbeck pass incomplete short right intended for Billy McMullen (defended by Nate Clements),3.170,2.480
+2,0:30,3,10,SFO 28,13,17,Julius Jones left tackle for 9 yards (tackle by Justin Smith),2.480,2.340
+2,0:02,,,,13,17,Timeout #3 by Seattle Seahawks,0.000,2.340
+2,0:02,4,1,SFO 19,13,20,Olindo Mare 38 yard field goal good,2.340,3.000
+Quarter,Time,Down,ToGo,Location,SFO,SEA,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,SEA 30,13,20,"Olindo Mare kicks off 66 yards, returned by Allen Rossum for 26 yards (tackle by Owen Schmitt)",0.000,0.940
+3,14:54,1,10,SFO 30,13,20,Frank Gore up the middle for 2 yards (tackle by Lofa Tatupu),0.940,0.660
+3,14:18,2,8,SFO 32,13,20,"Penalty on Tony Wragge: False Start, 5 yards (no play)",0.660,-0.010
+3,13:55,2,13,SFO 27,13,20,"Frank Gore up the middle for 4 yards (tackle by Rocky Bernard). Penalty on Darryl Tapp: Defensive Offside, 5 yards (no play)",-0.010,0.660
+3,13:30,2,8,SFO 32,13,20,J.T. O'Sullivan pass incomplete,0.660,-0.030
+3,13:20,3,8,SFO 32,13,20,J.T. O'Sullivan pass incomplete short left intended for Arnaz Battle,-0.030,-1.240
+3,13:15,4,8,SFO 32,13,20,"Andy Lee punts 37 yards, returned by Michael Bumpus for 11 yards (tackle by Manny Lawson)",-1.240,-1.730
+3,13:05,1,10,SEA 42,13,20,Matt Hasselbeck pass complete short right to Michael Bumpus for 5 yards (tackle by Mark Roman),1.730,1.860
+3,12:37,2,5,SEA 47,13,20,Julius Jones left tackle for 2 yards (tackle by Patrick Willis),1.860,1.420
+3,12:04,3,3,SEA 49,13,20,Leonard Weaver left end for 3 yards (tackle by Justin Smith),1.420,2.390
+3,11:23,1,10,SFO 48,13,20,Matt Hasselbeck pass incomplete deep left intended for Courtney Taylor,2.390,1.850
+3,11:16,2,10,SFO 48,13,20,Matt Hasselbeck pass complete short right to John Carlson for 10 yards (tackle by Nate Clements),1.850,3.050
+3,10:41,1,10,SFO 38,13,20,Matt Hasselbeck pass complete short left to Julius Jones for 17 yards (tackle by Keith Lewis),3.050,4.170
+3,10:10,1,10,SFO 21,13,20,Julius Jones up the middle for 4 yards (tackle by Isaac Sopoaga),4.170,4.200
+3,9:38,2,6,SFO 17,13,20,"Julius Jones right tackle for 2 yards (tackle by Patrick Willis). Penalty on Floyd Womack: Offensive Holding, 10 yards",4.200,3.090
+3,9:06,2,14,SFO 25,19,20,"Matt Hasselbeck pass incomplete short left intended for Billy McMullen is intercepted by Patrick Willis at SFO-14 and returned for 86 yards, touchdown. Penalty on Patrick Willis: Unsportsmanlike Conduct, 15 yards",3.090,-7.000
+3,,,,SEA 2,20,20,Joe Nedney kicks extra point good,0.000,0.000
+3,,,,SFO 15,20,20,"Joe Nedney kicks off 63 yards, returned by Josh Wilson for 16 yards (tackle by Michael Robinson)",0.000,1.470
+3,8:41,1,10,SEA 38,20,20,Matt Hasselbeck pass incomplete short middle intended for John Carlson,1.470,0.920
+3,8:38,2,10,SEA 38,20,20,Matt Hasselbeck pass incomplete short right intended for Courtney Taylor,0.920,0.230
+3,8:34,3,10,SEA 38,20,20,Matt Hasselbeck pass incomplete short right intended for Michael Bumpus is intercepted by Walt Harris at SEA-42 and returned for 1 yard (tackle by John Carlson),0.230,-2.850
+3,8:27,1,10,SEA 41,20,20,J.T. O'Sullivan pass complete deep left to Bryant Johnson for 19 yards (tackle by Kelly Jennings),2.850,4.110
+3,7:49,1,10,SEA 22,20,20,J.T. O'Sullivan pass complete short right to Bryant Johnson for 13 yards (tackle by Brian Russell),4.110,5.140
+3,7:15,1,9,SEA 9,20,20,Frank Gore right end for 7 yards (tackle by Lofa Tatupu),5.140,5.720
+3,6:47,2,2,SEA 2,26,20,"Frank Gore right end for 2 yards, touchdown",5.720,7.000
+3,,,,SEA 2,27,20,Joe Nedney kicks extra point good,0.000,0.000
+3,,,,SFO 30,27,20,"Joe Nedney kicks off 61 yards, returned by Josh Wilson for 17 yards (tackle by Zak Keasey)",0.000,0.670
+3,6:37,1,10,SEA 26,27,20,Julius Jones left tackle for 2 yards (tackle by Takeo Spikes),0.670,0.400
+3,6:02,2,8,SEA 28,27,20,Matt Hasselbeck pass complete short right to John Carlson for 7 yards (tackle by Takeo Spikes),0.400,0.630
+3,5:32,3,1,SEA 35,27,20,T.J. Duckett up the middle for 2 yards (tackle by Ray McDonald),0.630,1.400
+3,5:02,1,10,SEA 37,27,20,Matt Hasselbeck pass complete short right to Courtney Taylor for 9 yards (tackle by Nate Clements),1.400,2.070
+3,4:32,2,1,SEA 46,27,20,Julius Jones left tackle for 2 yards (tackle by Keith Lewis),2.070,2.130
+3,3:56,1,10,SEA 48,27,20,Julius Jones left tackle for 8 yards (tackle by Patrick Willis and Michael Lewis),2.130,2.660
+3,3:23,2,2,SFO 44,27,20,Matt Hasselbeck pass complete short right to Michael Bumpus for 4 yards (tackle by Nate Clements),2.660,2.920
+3,2:43,1,10,SFO 40,27,20,Julius Jones left tackle for 9 yards (tackle by Michael Lewis and Mark Roman),2.920,3.590
+3,2:08,2,1,SFO 31,27,20,Julius Jones left tackle for 6 yards (tackle by Takeo Spikes),3.590,3.910
+3,1:30,1,10,SFO 25,27,20,Matt Hasselbeck pass incomplete deep right intended for Courtney Taylor,3.910,3.360
+3,1:24,2,10,SFO 25,27,20,Matt Hasselbeck pass complete short right to Courtney Taylor for 11 yards (tackle by Mark Roman),3.360,4.650
+3,0:45,1,10,SFO 14,27,20,Leonard Weaver left tackle for 4 yards (tackle by Jeff Ulbrich),4.650,4.710
+3,0:10,2,6,SFO 10,27,20,Matt Hasselbeck pass complete short middle to Owen Schmitt for 6 yards (tackle by Takeo Spikes),4.710,6.280
+Quarter,Time,Down,ToGo,Location,SFO,SEA,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,4,SFO 4,27,20,Julius Jones up the middle for 3 yards (tackle by Ray McDonald),6.280,5.910
+4,14:23,2,1,SFO 1,27,26,"T.J. Duckett right guard for 1 yard, touchdown",5.910,7.000
+4,,,,SFO 2,27,27,Olindo Mare kicks extra point good,0.000,0.000
+4,,,,SEA 30,27,27,"Olindo Mare kicks off 66 yards, returned by Allen Rossum for 19 yards (tackle by D.D. Lewis)",0.000,0.480
+4,14:15,1,10,SFO 23,27,27,Frank Gore right tackle for 1 yard (tackle by Rocky Bernard),0.480,0.070
+4,13:32,2,9,SFO 24,27,27,J.T. O'Sullivan sacked by Brandon Mebane for -6 yards,0.070,-1.560
+4,12:56,3,15,SFO 18,27,27,J.T. O'Sullivan right tackle for 12 yards (tackle by Julian Peterson and Lawrence Jackson),-1.560,-1.370
+4,12:13,4,3,SFO 30,27,27,"Penalty on Brian Jennings: False Start, 5 yards (no play)",-1.370,-1.700
+4,12:07,4,8,SFO 25,27,27,"Andy Lee punts 59 yards, returned by Michael Bumpus for 30 yards (tackle by Keith Lewis)",-1.700,-1.990
+4,11:53,1,10,SEA 46,27,27,Julius Jones left tackle for 5 yards (tackle by Jeff Ulbrich),1.990,2.130
+4,11:19,2,5,SFO 49,27,27,Julius Jones left guard for 3 yards (tackle by Aubrayo Franklin),2.130,1.820
+4,10:43,3,2,SFO 46,27,27,Matt Hasselbeck pass complete short right to John Carlson for 11 yards (tackle by Keith Lewis),1.820,3.250
+4,10:00,1,10,SFO 35,27,27,Julius Jones left end for 4 yards (tackle by Isaac Sopoaga and Takeo Spikes),3.250,3.240
+4,9:21,2,6,SFO 31,27,27,Matt Hasselbeck pass complete short middle to Billy McMullen for 14 yards (tackle by Walt Harris),3.240,4.440
+4,8:39,1,10,SFO 17,27,27,Julius Jones up the middle for 4 yards (tackle by Ronald Fields and Michael Lewis),4.440,4.500
+4,7:57,2,6,SFO 13,27,27,Matt Hasselbeck pass incomplete short left intended for Leonard Weaver (defended by Walt Harris),4.500,3.680
+4,7:52,3,6,SFO 13,27,27,Matt Hasselbeck pass incomplete short middle intended for Michael Bumpus,3.680,2.590
+4,7:45,4,6,SFO 13,27,30,Olindo Mare 32 yard field goal good,2.590,3.000
+4,,,,SEA 30,27,30,"Olindo Mare kicks off 64 yards, returned by Allen Rossum for 26 yards (tackle by Lance Laury)",0.000,1.070
+4,7:35,1,10,SFO 32,27,30,Frank Gore left end for 1 yard (tackle by Lawrence Jackson and Kelly Jennings),1.070,0.660
+4,6:51,2,9,SFO 33,27,30,J.T. O'Sullivan sacked by Patrick Kerney for -5 yards,0.660,-0.690
+4,6:15,3,14,SFO 28,27,30,J.T. O'Sullivan pass complete deep middle to Isaac Bruce for 30 yards (tackle by Brian Russell). Penalty on Josh Wilson: Illegal Contact (Declined),-0.690,2.790
+4,5:47,1,10,SEA 42,27,30,J.T. O'Sullivan pass complete short middle to Arnaz Battle for 13 yards (tackle by Jordan Babineaux),2.790,3.640
+4,5:05,1,10,SEA 29,27,30,Frank Gore right end for 5 yards (tackle by Marcus Trufant),3.640,3.780
+4,4:25,2,5,SEA 24,27,30,"J.T. O'Sullivan pass incomplete short middle intended for Isaac Bruce. Penalty on SEA: Defensive 12 On-field, 4 yards (no play)",3.780,4.320
+4,4:21,2,1,SEA 20,27,30,J.T. O'Sullivan sacked by Lawrence Jackson for -7 yards,4.320,2.680
+4,3:50,3,8,SEA 27,27,30,J.T. O'Sullivan up the middle for 16 yards (tackle by Deon Grant),2.680,4.840
+4,3:11,1,10,SEA 11,27,30,J.T. O'Sullivan sacked by Patrick Kerney for -4 yards,4.840,3.560
+4,3:05,,,,27,30,Timeout #1 by Seattle Seahawks,0.000,3.560
+4,3:05,2,14,SEA 15,27,30,"J.T. O'Sullivan pass incomplete short middle intended for Vernon Davis. Penalty on Deon Grant: Defensive Holding, 5 yards (no play)",3.560,4.910
+4,3:01,1,10,SEA 10,27,30,Frank Gore right end for no gain (tackle by LeRoy Hill),4.910,4.190
+4,2:56,,,,27,30,Timeout #2 by Seattle Seahawks,0.000,4.190
+4,2:56,2,10,SEA 10,27,30,J.T. O'Sullivan pass incomplete short left intended for Isaac Bruce,4.190,3.130
+4,2:51,3,10,SEA 10,27,30,J.T. O'Sullivan pass incomplete short middle intended for Arnaz Battle,3.130,2.760
+4,2:46,4,10,SEA 10,30,30,Joe Nedney 28 yard field goal good,2.760,3.000
+4,,,,SFO 30,30,30,"Joe Nedney kicks off 72 yards, returned by Josh Wilson for 13 yards (tackle by Josh Morgan)",0.000,-0.370
+4,2:37,1,10,SEA 11,30,30,Julius Jones right tackle for 1 yard (tackle by Walt Harris),-0.370,-0.710
+4,2:00,2,9,SEA 12,30,30,Matt Hasselbeck right end for 12 yards (tackle by Ray McDonald),-0.710,0.540
+4,1:35,1,10,SEA 24,30,30,Matt Hasselbeck pass incomplete short right intended for Julius Jones,0.540,0.000
+4,1:32,2,10,SEA 24,30,30,Matt Hasselbeck pass complete short left to Julius Jones for -6 yards (tackle by Patrick Willis),0.000,-1.640
+4,1:23,,,,30,30,Timeout #1 by San Francisco 49ers,0.000,-1.640
+4,1:23,3,16,SEA 18,30,30,Matt Hasselbeck sacked by Michael Lewis for -7 yards,-1.640,-2.490
+4,1:16,,,,30,30,Timeout #2 by San Francisco 49ers,0.000,-2.490
+4,1:16,4,23,SEA 11,30,30,Jon Ryan punts 38 yards,-2.490,-2.320
+4,1:09,1,10,SEA 49,30,30,J.T. O'Sullivan pass complete short left to Frank Gore for 17 yards (tackle by Deon Grant),2.320,3.450
+4,0:32,1,10,SEA 32,30,30,J.T. O'Sullivan pass complete short right to Frank Gore for 9 yards (tackle by Josh Wilson),3.450,4.120
+4,0:03,,,,30,30,Timeout #3 by San Francisco 49ers,0.000,4.120
+4,0:03,2,1,SEA 23,30,30,Joe Nedney 41 yard field goal no good,4.120,0.000
+Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime
+Quarter,Time,Down,ToGo,Location,SFO,SEA,Detail,EPB,EPA
+,,,,,,,"49ers won the coin toss, 49ers to receive the overtime kickoff.",,
+OT,,,,SEA 30,30,30,"Olindo Mare kicks off 70 yards, touchback",0.000,0.280
+OT,15:00,1,10,SFO 20,30,30,Frank Gore up the middle for 3 yards (tackle by Rocky Bernard),0.280,0.140
+OT,14:21,2,7,SFO 23,30,30,J.T. O'Sullivan pass incomplete short right intended for Isaac Bruce,0.140,-0.560
+OT,14:15,,,,30,30,Timeout #1 by San Francisco 49ers,0.000,-0.560
+OT,14:15,3,7,SFO 23,30,30,J.T. O'Sullivan pass complete deep right to Isaac Bruce for 33 yards (tackle by Josh Wilson),-0.560,2.650
+OT,13:35,1,10,SEA 44,30,30,J.T. O'Sullivan pass complete short left to Bryant Johnson for 7 yards (tackle by Lofa Tatupu),2.650,3.060
+OT,12:55,2,3,SEA 37,30,30,J.T. O'Sullivan pass incomplete short left intended for Bryant Johnson,3.060,2.350
+OT,12:48,,,,30,30,Timeout #2 by San Francisco 49ers,0.000,2.350
+OT,12:48,3,3,SEA 37,30,30,J.T. O'Sullivan pass complete short middle to Arnaz Battle for 5 yards (tackle by Brian Russell),2.350,3.450
+OT,12:13,1,10,SEA 32,30,30,"Frank Gore up the middle for -1 yards (tackle by Brandon Mebane). Penalty on Brandon Mebane: Defensive Offside, 5 yards (no play)",3.450,4.180
+OT,11:46,1,5,SEA 27,30,30,Frank Gore left tackle for 4 yards (tackle by Lawrence Jackson),4.180,4.120
+OT,11:06,2,1,SEA 23,30,30,Frank Gore right guard for no gain (tackle by Brandon Mebane),4.120,3.400
+OT,10:29,3,1,SEA 23,30,30,J.T. O'Sullivan pass incomplete short right intended for Zak Keasey,3.400,2.080
+OT,10:24,4,1,SEA 23,33,30,Joe Nedney 40 yard field goal good,2.080,3.000
+End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime,End of Overtime

@@ -1,0 +1,14 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,13:29,CLE 44,3,1:35,6,Punt
+2,1,10:57,CHI 41,3,1:27,5,Punt
+3,1,7:27,CHI 32,10,5:07,49,Field Goal
+4,1,2:02,CLE 13,4,0:49,2,Field Goal
+5,2,13:44,CLE 46,9,5:01,32,Field Goal
+6,2,6:56,CHI 29,10,5:00,71,Touchdown
+7,3,15:00,CHI 24,3,2:05,-6,Punt
+8,3,10:33,CHI 26,4,2:13,23,Punt
+9,3,6:41,CHI 30,3,2:17,6,Punt
+10,3,3:01,CLE 49,4,1:19,49,Touchdown
+11,4,13:00,CHI 28,3,0:57,4,Interception
+12,4,11:54,CHI 15,12,7:04,84,Downs
+13,4,2:31,CHI 36,6,2:31,49,End of Game

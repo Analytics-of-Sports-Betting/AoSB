@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,DEN 25,8,3:23,46,Fumble
+2,1,7:13,DEN 25,11,6:10,50,Interception
+3,2,14:52,DEN 20,5,2:36,80,Touchdown
+4,2,3:01,DEN 25,3,1:16,3,Punt
+5,2,0:03,DEN 25,1,0:03,-1,End of Half
+6,3,11:24,DEN 20,4,2:14,50,Interception
+7,3,7:30,DEN 14,3,1:51,1,Punt
+8,3,3:58,DEN 22,8,4:08,78,Touchdown
+9,4,14:07,CAR 23,10,4:41,23,Touchdown
+10,4,4:21,DEN 25,3,1:15,-7,Punt
+11,4,0:04,DEN 40,1,0:04,-1,End of Game
